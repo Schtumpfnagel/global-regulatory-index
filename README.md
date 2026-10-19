@@ -28,8 +28,8 @@ configs:
 # Global Regulatory & Statutory Open Metadata Index (2024–2026)
 
 **Primary Institutional Terminal:** [Global Data Index (https://www.globaldataindex.org)](https://www.globaldataindex.org)  
-**Last Automated Sync:** `2026-10-19 11:04 UTC`  
-**Total Indexed Public Records in Catalog:** `8,587`
+**Last Automated Sync:** `2026-10-19 11:25 UTC`  
+**Total Indexed Public Records in Catalog:** `8,707`
 
 ---
 
