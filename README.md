@@ -1,8 +1,35 @@
+---
+license: other
+language:
+  - en
+pretty_name: Global Regulatory & Statutory Open Metadata Index (2024–2026)
+size_categories:
+  - 1K<n<10K
+task_categories:
+  - text-classification
+  - question-answering
+  - feature-extraction
+tags:
+  - legal
+  - regulation
+  - legislation
+  - compliance
+  - statutory-instruments
+  - federal-register
+  - eur-lex
+  - united-nations
+configs:
+  - config_name: default
+    data_files:
+      - split: train
+        path: regulatory_index_2026.jsonl
+---
+
 # Global Regulatory & Statutory Open Metadata Index (2024–2026)
 
 **Primary Institutional Terminal:** [Global Data Index (https://www.globaldataindex.org)](https://www.globaldataindex.org)  
-**Last Automated Sync:** `2026-10-19 10:32 UTC`  
-**Total Indexed Public Records in Catalog:** `8,414`
+**Last Automated Sync:** `2026-10-19 11:04 UTC`  
+**Total Indexed Public Records in Catalog:** `8,587`
 
 ---
 
