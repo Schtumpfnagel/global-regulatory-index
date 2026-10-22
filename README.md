@@ -4,7 +4,7 @@ language:
   - en
 pretty_name: Global Regulatory & Statutory Open Metadata Index (2024–2026)
 size_categories:
-  - 1K<n<10K
+  - 10K<n<100K
 task_categories:
   - text-classification
   - question-answering
@@ -28,8 +28,10 @@ configs:
 # Global Regulatory & Statutory Open Metadata Index (2024–2026)
 
 **Primary Institutional Terminal:** [Global Data Index (https://www.globaldataindex.org)](https://www.globaldataindex.org)  
-**Last Automated Sync:** `2026-10-22 11:07 UTC`  
-**Total Indexed Public Records in Catalog:** `15,732`
+**Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
+**Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
+**Last Automated Sync:** `2026-10-22 13:28 UTC`  
+**Total Indexed Public Records in Catalog:** `15,752` across `223` issuing authorities
 
 ---
 
@@ -37,16 +39,20 @@ configs:
 
 This repository provides an automated, machine-readable metadata index (`CSV` and `JSONL`) of official government regulations, statutory instruments, legislation, and multilateral resolutions indexed by **[Global Data Index](https://www.globaldataindex.org)**.
 
-Full analytical briefings, structured compliance matrices, and unabridged source PDF dossiers are available directly via each record's `canonical_url` on [globaldataindex.org](https://www.globaldataindex.org).
+Full analytical briefings, structured HTML compliance matrices, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are available directly via each record's `canonical_url` on [globaldataindex.org](https://www.globaldataindex.org).
 
-## Covered Jurisdictions & Statutory Frameworks
+## Live Jurisdiction Breakdown & Canonical Archive Hubs
 
-1. **[United States](https://www.globaldataindex.org/?gdi_country=United+States)** — Federal Register Rules & Proposed Rules (*17 U.S.C. § 105 Public Domain*)
-2. **[United Kingdom](https://www.globaldataindex.org/?gdi_country=United+Kingdom)** — UK Statutory Instruments (`UKSI`) & Public General Acts (`UKPGA`) (*Open Government Licence v3.0*)
-3. **[Canada](https://www.globaldataindex.org/?gdi_country=Canada)** — Statutory Orders and Regulations (`SOR`, `SI`, `CRC`) & Consolidated Acts (*Reproduction of Federal Law Order SI/97-5*)
-4. **[European Union](https://www.globaldataindex.org/?gdi_country=European+Union)** — EU Regulations, Directives & Decisions (`CELEX`) (*Commission Decision 2011/833/EU*)
-5. **[Commonwealth of Australia](https://www.globaldataindex.org/?gdi_country=Australia)** — Federal Register of Legislation Acts & Instruments (*Creative Commons Attribution 4.0 International / CC BY 4.0*)
-6. **[United Nations](https://www.globaldataindex.org/?gdi_country=United+Nations)** — UN Security Council (`S/RES/`), General Assembly (`A/RES/`) & Official Records (*UN Administrative Instruction ST/AI/189/Add.9/Rev.2*)
+| Jurisdiction | Indexed Dossiers | Issuing Authorities | Governing Open-Government Framework | Canonical Archive Hub |
+| :--- | :--- | :--- | :--- | :--- |
+| **[United States](https://www.globaldataindex.org/united-states/)** | `8,001` | `176` | *17 U.S.C. § 105 Public Domain* | [https://www.globaldataindex.org/united-states/](https://www.globaldataindex.org/united-states/) |
+| **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,562` | `13` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
+| **[Canada](https://www.globaldataindex.org/canada/)** | `4,328` | `15` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
+| **[European Union](https://www.globaldataindex.org/european-union/)** | `1,241` | `4` | *European Commission Reuse Decision (2011/833/EU)* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
+| **[Australia](https://www.globaldataindex.org/australia/)** | `289` | `11` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
+| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `331` | `4` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
+
+*To browse all `223` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
