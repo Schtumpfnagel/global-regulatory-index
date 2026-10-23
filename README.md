@@ -30,8 +30,8 @@ configs:
 **Primary Institutional Terminal:** [Global Data Index (https://www.globaldataindex.org)](https://www.globaldataindex.org)  
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-22 23:56 UTC`  
-**Total Indexed Public Records in Catalog:** `15,979` across `223` issuing authorities
+**Last Automated Sync:** `2026-10-23 07:57 UTC`  
+**Total Indexed Public Records in Catalog:** `16,059` across `223` issuing authorities
 
 ---
 
@@ -45,10 +45,10 @@ Full analytical briefings, structured HTML compliance matrices, two-stage Tables
 
 | Jurisdiction | Indexed Dossiers | Issuing Authorities | Governing Open-Government Framework | Canonical Archive Hub |
 | :--- | :--- | :--- | :--- | :--- |
-| **[United States](https://www.globaldataindex.org/united-states/)** | `8,051` | `176` | *17 U.S.C. § 105 Public Domain* | [https://www.globaldataindex.org/united-states/](https://www.globaldataindex.org/united-states/) |
-| **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,612` | `13` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
-| **[Canada](https://www.globaldataindex.org/canada/)** | `4,378` | `15` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
-| **[European Union](https://www.globaldataindex.org/european-union/)** | `1,291` | `4` | *European Commission Reuse Decision (2011/833/EU)* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
+| **[United States](https://www.globaldataindex.org/united-states/)** | `8,071` | `176` | *17 U.S.C. § 105 Public Domain* | [https://www.globaldataindex.org/united-states/](https://www.globaldataindex.org/united-states/) |
+| **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,632` | `13` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
+| **[Canada](https://www.globaldataindex.org/canada/)** | `4,398` | `15` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
+| **[European Union](https://www.globaldataindex.org/european-union/)** | `1,311` | `4` | *European Commission Reuse Decision (2011/833/EU)* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `316` | `11` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
 | **[United Nations](https://www.globaldataindex.org/united-nations/)** | `331` | `4` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 
