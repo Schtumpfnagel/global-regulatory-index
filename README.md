@@ -34,8 +34,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-24 14:10 UTC`  
-**Total Indexed Public Records in Catalog:** `20,433` across `236` issuing authorities
+**Last Automated Sync:** `2026-10-24 15:53 UTC`  
+**Total Indexed Public Records in Catalog:** `20,441` across `238` issuing authorities
 
 ---
 
@@ -54,7 +54,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Canada](https://www.globaldataindex.org/canada/)** | `5,202` | `15` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,161` | `4` | *European Commission Reuse Decision (2011/833/EU)* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,006` | `17` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
-| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `1,191` | `6` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
+| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `1,199` | `8` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 
 ## Primary Issuing Authority Archive Hubs (Top 35 by Dossier Volume)
 
@@ -96,7 +96,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Department for Environment, Food and Rural Affairs](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** | United Kingdom | `106` | [https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/) |
 | **[UN Economic and Social Council (ECOSOC)](https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/)** | United Nations | `100` | [https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/](https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/feed/) |
 
-*To browse all `236` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
+*To browse all `238` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
