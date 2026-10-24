@@ -34,8 +34,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-24 18:51 UTC`  
-**Total Indexed Public Records in Catalog:** `20,552` across `254` issuing authorities
+**Last Automated Sync:** `2026-10-24 19:42 UTC`  
+**Total Indexed Public Records in Catalog:** `20,582` across `267` issuing authorities
 
 ---
 
@@ -55,6 +55,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,221` | `14` | *European Commission Reuse Decision (2011/833/EU)* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,017` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
 | **[United Nations](https://www.globaldataindex.org/united-nations/)** | `1,203` | `10` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
+| **[Ireland](https://www.globaldataindex.org/ireland/)** | `30` | `13` | *Oireachtas (Open Data) PSI Licence / CC BY 4.0* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
 
 ## Primary Issuing Authority Archive Hubs (Top 35 by Dossier Volume)
 
@@ -96,7 +97,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Department for Environment, Food and Rural Affairs](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** | United Kingdom | `106` | [https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/) |
 | **[UN Economic and Social Council (ECOSOC)](https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/)** | United Nations | `100` | [https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/](https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/feed/) |
 
-*To browse all `254` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
+*To browse all `267` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
@@ -105,7 +106,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
-| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`) |
+| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`, `IE-ACT-2026-27`) |
 | `jurisdiction` | `string` | Issuing sovereign jurisdiction or multilateral body |
 | `authority` | `string` | Issuing government department, ministry, agency, or organ |
 | `publication_date` | `string` | Official publication or enactment date (`YYYY-MM-DD`) |
