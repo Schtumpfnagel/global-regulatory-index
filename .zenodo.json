@@ -1,0 +1,72 @@
+{
+  "upload_type": "dataset",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 19,519 Official Dossiers",
+  "creators": [
+    {
+      "name": "Global Data Index",
+      "affiliation": "Global Data Index (globaldataindex.org)"
+    }
+  ],
+  "description": "<p>Automated, machine-readable bibliographic metadata catalog (CSV and JSONL) indexing <strong>19,519</strong> official primary and secondary laws, final and proposed rules, statutory instruments, and multilateral resolutions across <strong>233</strong> government departments, ministries, regulatory agencies, and multilateral organs in six core jurisdictions: <a href='https://www.globaldataindex.org/united-states/'>United States</a>, <a href='https://www.globaldataindex.org/united-kingdom/'>United Kingdom</a>, <a href='https://www.globaldataindex.org/canada/'>Canada</a>, <a href='https://www.globaldataindex.org/european-union/'>European Union</a>, <a href='https://www.globaldataindex.org/australia/'>Australia</a>, and the <a href='https://www.globaldataindex.org/united-nations/'>United Nations</a>.</p><p>Full plain-English executive briefings, structured HTML compliance matrices, semantic definition lists, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are accessible via each record's canonical URL on <a href='https://www.globaldataindex.org/'>https://www.globaldataindex.org</a> and the <a href='https://www.globaldataindex.org/methodology/'>Complete Issuing Authority Directory</a>.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "legislation",
+    "regulation",
+    "regulatory compliance",
+    "statutory instruments",
+    "Federal Register",
+    "EUR-Lex",
+    "United Nations resolutions",
+    "legal intelligence",
+    "Global Data Index"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.globaldataindex.org/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/methodology/",
+      "relation": "isCompiledBy",
+      "resource_type": "publication-technicalnote"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/terms-of-service/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/united-states/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/united-kingdom/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/canada/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/european-union/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/australia/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/united-nations/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ]
+}
