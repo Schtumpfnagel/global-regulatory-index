@@ -1,13 +1,13 @@
 {
   "upload_type": "dataset",
-  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 20,582 Official Dossiers",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 20,592 Official Dossiers",
   "creators": [
     {
       "name": "Global Data Index",
       "affiliation": "Global Data Index (globaldataindex.org)"
     }
   ],
-  "description": "<p>Automated, machine-readable bibliographic metadata catalog (CSV and JSONL) indexing <strong>20,582</strong> official primary and secondary laws, final and proposed rules, statutory instruments, and multilateral resolutions across <strong>267</strong> government departments, ministries, regulatory agencies, and multilateral organs across active jurisdictions: <a href='https://www.globaldataindex.org/united-states/'>United States</a>, <a href='https://www.globaldataindex.org/united-kingdom/'>United Kingdom</a>, <a href='https://www.globaldataindex.org/canada/'>Canada</a>, <a href='https://www.globaldataindex.org/european-union/'>European Union</a>, <a href='https://www.globaldataindex.org/australia/'>Australia</a>, <a href='https://www.globaldataindex.org/united-nations/'>United Nations</a>, <a href='https://www.globaldataindex.org/ireland/'>Ireland</a>.</p><p>Full plain-English executive briefings, structured HTML compliance matrices, semantic definition lists, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are accessible via each record's canonical URL on <a href='https://www.globaldataindex.org/'>https://www.globaldataindex.org</a> and the <a href='https://www.globaldataindex.org/methodology/'>Complete Issuing Authority Directory</a>.</p>",
+  "description": "<p>Automated, machine-readable bibliographic metadata catalog (CSV and JSONL) indexing <strong>20,592</strong> official primary and secondary laws, final and proposed rules, statutory instruments, and multilateral resolutions across <strong>267</strong> government departments, ministries, regulatory agencies, and multilateral organs across active jurisdictions: <a href='https://www.globaldataindex.org/united-states/'>United States</a>, <a href='https://www.globaldataindex.org/united-kingdom/'>United Kingdom</a>, <a href='https://www.globaldataindex.org/canada/'>Canada</a>, <a href='https://www.globaldataindex.org/european-union/'>European Union</a>, <a href='https://www.globaldataindex.org/australia/'>Australia</a>, <a href='https://www.globaldataindex.org/united-nations/'>United Nations</a>, <a href='https://www.globaldataindex.org/ireland/'>Ireland</a>.</p><p>Full plain-English executive briefings, structured HTML compliance matrices, semantic definition lists, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are accessible via each record's canonical URL on <a href='https://www.globaldataindex.org/'>https://www.globaldataindex.org</a> and the <a href='https://www.globaldataindex.org/methodology/'>Complete Issuing Authority Directory</a>.</p>",
   "access_right": "open",
   "license": "cc-by-4.0",
   "language": "eng",

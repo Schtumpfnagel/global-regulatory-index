@@ -34,8 +34,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-24 19:42 UTC`  
-**Total Indexed Public Records in Catalog:** `20,582` across `267` issuing authorities
+**Last Automated Sync:** `2026-10-24 19:52 UTC`  
+**Total Indexed Public Records in Catalog:** `20,592` across `267` issuing authorities
 
 ---
 
@@ -55,7 +55,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,221` | `14` | *European Commission Reuse Decision (2011/833/EU)* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,017` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
 | **[United Nations](https://www.globaldataindex.org/united-nations/)** | `1,203` | `10` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
-| **[Ireland](https://www.globaldataindex.org/ireland/)** | `30` | `13` | *Oireachtas (Open Data) PSI Licence / CC BY 4.0* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
+| **[Ireland](https://www.globaldataindex.org/ireland/)** | `40` | `13` | *Oireachtas (Open Data) PSI Licence / CC BY 4.0* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
 
 ## Primary Issuing Authority Archive Hubs (Top 35 by Dossier Volume)
 
