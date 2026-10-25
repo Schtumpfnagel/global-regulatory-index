@@ -34,8 +34,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-25 05:02 UTC`  
-**Total Indexed Public Records in Catalog:** `21,331` across `284` issuing authorities
+**Last Automated Sync:** `2026-10-25 05:06 UTC`  
+**Total Indexed Public Records in Catalog:** `21,431` across `285` issuing authorities
 
 ---
 
@@ -54,7 +54,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Canada](https://www.globaldataindex.org/canada/)** | `5,238` | `18` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,233` | `15` | *European Commission Reuse Decision (2011/833/EU)* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,017` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
-| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `1,881` | `21` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
+| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `1,981` | `22` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 | **[Ireland](https://www.globaldataindex.org/ireland/)** | `88` | `18` | *Oireachtas (Open Data) PSI Licence / CC BY 4.0* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
 
 ## Primary Issuing Authority Archive Hubs (Top 35 by Dossier Volume)
@@ -69,8 +69,8 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[European Parliament and Council of the EU](https://www.globaldataindex.org/european-union/european-parliament-and-council-of-the-eu/)** | European Union | `646` | [https://www.globaldataindex.org/european-union/european-parliament-and-council-of-the-eu/](https://www.globaldataindex.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.globaldataindex.org/european-union/european-parliament-and-council-of-the-eu/feed/) |
 | **[Transport Canada](https://www.globaldataindex.org/canada/transport-canada/)** | Canada | `639` | [https://www.globaldataindex.org/canada/transport-canada/](https://www.globaldataindex.org/canada/transport-canada/) | [RSS Feed](https://www.globaldataindex.org/canada/transport-canada/feed/) |
 | **[Council of the European Union](https://www.globaldataindex.org/european-union/council-of-the-european-union/)** | European Union | `603` | [https://www.globaldataindex.org/european-union/council-of-the-european-union/](https://www.globaldataindex.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.globaldataindex.org/european-union/council-of-the-european-union/feed/) |
+| **[General Assembly](https://www.globaldataindex.org/united-nations/general-assembly/)** | United Nations | `586` | [https://www.globaldataindex.org/united-nations/general-assembly/](https://www.globaldataindex.org/united-nations/general-assembly/) | [RSS Feed](https://www.globaldataindex.org/united-nations/general-assembly/feed/) |
 | **[National Oceanic and Atmospheric Administration](https://www.globaldataindex.org/united-states/national-oceanic-and-atmospheric-administration/)** | United States | `517` | [https://www.globaldataindex.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.globaldataindex.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.globaldataindex.org/united-states/national-oceanic-and-atmospheric-administration/feed/) |
-| **[General Assembly](https://www.globaldataindex.org/united-nations/general-assembly/)** | United Nations | `513` | [https://www.globaldataindex.org/united-nations/general-assembly/](https://www.globaldataindex.org/united-nations/general-assembly/) | [RSS Feed](https://www.globaldataindex.org/united-nations/general-assembly/feed/) |
 | **[HM Government Legislation](https://www.globaldataindex.org/united-kingdom/hm-government-legislation/)** | United Kingdom | `501` | [https://www.globaldataindex.org/united-kingdom/hm-government-legislation/](https://www.globaldataindex.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/hm-government-legislation/feed/) |
 | **[UN General Assembly (UNGA)](https://www.globaldataindex.org/united-nations/un-general-assembly-unga/)** | United Nations | `462` | [https://www.globaldataindex.org/united-nations/un-general-assembly-unga/](https://www.globaldataindex.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.globaldataindex.org/united-nations/un-general-assembly-unga/feed/) |
 | **[Department of Finance Canada](https://www.globaldataindex.org/canada/department-of-finance-canada/)** | Canada | `360` | [https://www.globaldataindex.org/canada/department-of-finance-canada/](https://www.globaldataindex.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.globaldataindex.org/canada/department-of-finance-canada/feed/) |
@@ -97,7 +97,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Department of Health, Disability and Ageing](https://www.globaldataindex.org/australia/department-of-health-disability-and-ageing/)** | Australia | `112` | [https://www.globaldataindex.org/australia/department-of-health-disability-and-ageing/](https://www.globaldataindex.org/australia/department-of-health-disability-and-ageing/) | [RSS Feed](https://www.globaldataindex.org/australia/department-of-health-disability-and-ageing/feed/) |
 | **[Department for Environment, Food and Rural Affairs](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** | United Kingdom | `106` | [https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/) |
 
-*To browse all `284` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
+*To browse all `285` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
