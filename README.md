@@ -34,8 +34,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-25 04:39 UTC`  
-**Total Indexed Public Records in Catalog:** `20,930` across `282` issuing authorities
+**Last Automated Sync:** `2026-10-25 04:43 UTC`  
+**Total Indexed Public Records in Catalog:** `21,030` across `282` issuing authorities
 
 ---
 
@@ -54,7 +54,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Canada](https://www.globaldataindex.org/canada/)** | `5,238` | `18` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,233` | `15` | *European Commission Reuse Decision (2011/833/EU)* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,017` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
-| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `1,481` | `19` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
+| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `1,581` | `19` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 | **[Ireland](https://www.globaldataindex.org/ireland/)** | `88` | `18` | *Oireachtas (Open Data) PSI Licence / CC BY 4.0* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
 
 ## Primary Issuing Authority Archive Hubs (Top 35 by Dossier Volume)
@@ -77,9 +77,9 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Department of the Treasury](https://www.globaldataindex.org/australia/department-of-the-treasury/)** | Australia | `341` | [https://www.globaldataindex.org/australia/department-of-the-treasury/](https://www.globaldataindex.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.globaldataindex.org/australia/department-of-the-treasury/feed/) |
 | **[Federal Communications Commission](https://www.globaldataindex.org/united-states/federal-communications-commission/)** | United States | `295` | [https://www.globaldataindex.org/united-states/federal-communications-commission/](https://www.globaldataindex.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.globaldataindex.org/united-states/federal-communications-commission/feed/) |
 | **[HM Treasury](https://www.globaldataindex.org/united-kingdom/hm-treasury/)** | United Kingdom | `287` | [https://www.globaldataindex.org/united-kingdom/hm-treasury/](https://www.globaldataindex.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/hm-treasury/feed/) |
+| **[General Assembly](https://www.globaldataindex.org/united-nations/general-assembly/)** | United Nations | `278` | [https://www.globaldataindex.org/united-nations/general-assembly/](https://www.globaldataindex.org/united-nations/general-assembly/) | [RSS Feed](https://www.globaldataindex.org/united-nations/general-assembly/feed/) |
 | **[UN Human Rights Council & Treaty Bodies](https://www.globaldataindex.org/united-nations/un-human-rights-council-treaty-bodies/)** | United Nations | `270` | [https://www.globaldataindex.org/united-nations/un-human-rights-council-treaty-bodies/](https://www.globaldataindex.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.globaldataindex.org/united-nations/un-human-rights-council-treaty-bodies/feed/) |
 | **[Food and Drug Administration](https://www.globaldataindex.org/united-states/food-and-drug-administration/)** | United States | `233` | [https://www.globaldataindex.org/united-states/food-and-drug-administration/](https://www.globaldataindex.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.globaldataindex.org/united-states/food-and-drug-administration/feed/) |
-| **[General Assembly](https://www.globaldataindex.org/united-nations/general-assembly/)** | United Nations | `190` | [https://www.globaldataindex.org/united-nations/general-assembly/](https://www.globaldataindex.org/united-nations/general-assembly/) | [RSS Feed](https://www.globaldataindex.org/united-nations/general-assembly/feed/) |
 | **[Attorney-General's Department](https://www.globaldataindex.org/australia/attorney-general-s-department/)** | Australia | `184` | [https://www.globaldataindex.org/australia/attorney-general-s-department/](https://www.globaldataindex.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.globaldataindex.org/australia/attorney-general-s-department/feed/) |
 | **[Department for Transport](https://www.globaldataindex.org/united-kingdom/department-for-transport/)** | United Kingdom | `159` | [https://www.globaldataindex.org/united-kingdom/department-for-transport/](https://www.globaldataindex.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/department-for-transport/feed/) |
 | **[Internal Revenue Service](https://www.globaldataindex.org/united-states/internal-revenue-service/)** | United States | `159` | [https://www.globaldataindex.org/united-states/internal-revenue-service/](https://www.globaldataindex.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.globaldataindex.org/united-states/internal-revenue-service/feed/) |
