@@ -34,8 +34,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-25 04:09 UTC`  
-**Total Indexed Public Records in Catalog:** `20,730` across `277` issuing authorities
+**Last Automated Sync:** `2026-10-25 04:29 UTC`  
+**Total Indexed Public Records in Catalog:** `20,830` across `281` issuing authorities
 
 ---
 
@@ -54,7 +54,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Canada](https://www.globaldataindex.org/canada/)** | `5,238` | `18` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,233` | `15` | *European Commission Reuse Decision (2011/833/EU)* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,017` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
-| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `1,281` | `14` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
+| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `1,381` | `18` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 | **[Ireland](https://www.globaldataindex.org/ireland/)** | `88` | `18` | *Oireachtas (Open Data) PSI Licence / CC BY 4.0* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
 
 ## Primary Issuing Authority Archive Hubs (Top 35 by Dossier Volume)
@@ -91,13 +91,13 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Natural Resources Canada](https://www.globaldataindex.org/canada/natural-resources-canada/)** | Canada | `131` | [https://www.globaldataindex.org/canada/natural-resources-canada/](https://www.globaldataindex.org/canada/natural-resources-canada/) | [RSS Feed](https://www.globaldataindex.org/canada/natural-resources-canada/feed/) |
 | **[Nuclear Regulatory Commission](https://www.globaldataindex.org/united-states/nuclear-regulatory-commission/)** | United States | `131` | [https://www.globaldataindex.org/united-states/nuclear-regulatory-commission/](https://www.globaldataindex.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.globaldataindex.org/united-states/nuclear-regulatory-commission/feed/) |
 | **[Department for Education](https://www.globaldataindex.org/united-kingdom/department-for-education/)** | United Kingdom | `129` | [https://www.globaldataindex.org/united-kingdom/department-for-education/](https://www.globaldataindex.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/department-for-education/feed/) |
+| **[General Assembly](https://www.globaldataindex.org/united-nations/general-assembly/)** | United Nations | `128` | [https://www.globaldataindex.org/united-nations/general-assembly/](https://www.globaldataindex.org/united-nations/general-assembly/) | [RSS Feed](https://www.globaldataindex.org/united-nations/general-assembly/feed/) |
 | **[Department for Energy Security and Net Zero](https://www.globaldataindex.org/united-kingdom/department-for-energy-security-and-net-zero/)** | United Kingdom | `121` | [https://www.globaldataindex.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.globaldataindex.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/department-for-energy-security-and-net-zero/feed/) |
 | **[Department for Business and Trade](https://www.globaldataindex.org/united-kingdom/department-for-business-and-trade/)** | United Kingdom | `117` | [https://www.globaldataindex.org/united-kingdom/department-for-business-and-trade/](https://www.globaldataindex.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/department-for-business-and-trade/feed/) |
 | **[Department of Health, Disability and Ageing](https://www.globaldataindex.org/australia/department-of-health-disability-and-ageing/)** | Australia | `112` | [https://www.globaldataindex.org/australia/department-of-health-disability-and-ageing/](https://www.globaldataindex.org/australia/department-of-health-disability-and-ageing/) | [RSS Feed](https://www.globaldataindex.org/australia/department-of-health-disability-and-ageing/feed/) |
 | **[Department for Environment, Food and Rural Affairs](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** | United Kingdom | `106` | [https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/) |
-| **[UN Economic and Social Council (ECOSOC)](https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/)** | United Nations | `100` | [https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/](https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.globaldataindex.org/united-nations/un-economic-and-social-council-ecosoc/feed/) |
 
-*To browse all `277` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
+*To browse all `281` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
