@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-27 16:55 UTC`  
-**Total Indexed Public Records in Catalog:** `32,310` across `535` issuing authorities
+**Last Automated Sync:** `2026-10-27 17:18 UTC`  
+**Total Indexed Public Records in Catalog:** `32,435` across `537` issuing authorities
 
 ---
 
@@ -173,8 +173,8 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,047` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
 | **[United Nations](https://www.globaldataindex.org/united-nations/)** | `6,420` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 | **[Ireland](https://www.globaldataindex.org/ireland/)** | `88` | `18` | *Oireachtas (Open Data) PSI Licence (CC BY 4.0) & S.I. No. 349/2021* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
-| **[Germany](https://www.globaldataindex.org/germany/)** | `0` | `0` | *§ 5 UrhG (Official Works Exemption), § 12a EGovG & Data Licence Germany (dl-de/by-2-0 / CC BY 4.0)* | [https://www.globaldataindex.org/germany/](https://www.globaldataindex.org/germany/) |
-| **[International](https://www.globaldataindex.org/international/)** | `185` | `4` | *World Bank Open Access Policy (CC BY 4.0)* | [https://www.globaldataindex.org/international/](https://www.globaldataindex.org/international/) |
+| **[Germany](https://www.globaldataindex.org/germany/)** | `100` | `1` | *§ 5 UrhG (Official Works Exemption), § 12a EGovG & Data Licence Germany (dl-de/by-2-0 / CC BY 4.0)* | [https://www.globaldataindex.org/germany/](https://www.globaldataindex.org/germany/) |
+| **[International](https://www.globaldataindex.org/international/)** | `210` | `5` | *World Bank Open Access Policy (CC BY 4.0)* | [https://www.globaldataindex.org/international/](https://www.globaldataindex.org/international/) |
 | **[Austria](https://www.globaldataindex.org/austria/)** | `91` | `15` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.globaldataindex.org/austria/](https://www.globaldataindex.org/austria/) |
 | **[Switzerland](https://www.globaldataindex.org/switzerland/)** | `107` | `4` | *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)* | [https://www.globaldataindex.org/switzerland/](https://www.globaldataindex.org/switzerland/) |
 | **[Finland](https://www.globaldataindex.org/finland/)** | `45` | `8` | *Finnish Copyright Act (404/1961, s. 9) & CC BY 4.0 (JHS 189 / Finlex Open Data)* | [https://www.globaldataindex.org/finland/](https://www.globaldataindex.org/finland/) |
@@ -234,7 +234,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** | Canada | `156` | [https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/) |
 | **[Ministry of Housing, Communities and Local Government](https://www.globaldataindex.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** | United Kingdom | `153` | [https://www.globaldataindex.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.globaldataindex.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/) |
 
-*To browse all `535` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
+*To browse all `537` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
