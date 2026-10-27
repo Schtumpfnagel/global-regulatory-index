@@ -1,13 +1,13 @@
 {
   "upload_type": "dataset",
-  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 30,746 Official Dossiers",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 31,291 Official Dossiers",
   "creators": [
     {
       "name": "Global Data Index",
       "affiliation": "Global Data Index (globaldataindex.org)"
     }
   ],
-  "description": "<p>Automated, machine-readable bibliographic metadata catalog (CSV and JSONL) indexing <strong>30,746</strong> official primary and secondary laws, final and proposed rules, statutory instruments, and multilateral resolutions across <strong>474</strong> government departments, ministries, regulatory agencies, and multilateral organs across active jurisdictions: <a href='https://www.globaldataindex.org/united-states/'>United States</a>, <a href='https://www.globaldataindex.org/united-kingdom/'>United Kingdom</a>, <a href='https://www.globaldataindex.org/canada/'>Canada</a>, <a href='https://www.globaldataindex.org/european-union/'>European Union</a>, <a href='https://www.globaldataindex.org/australia/'>Australia</a>, <a href='https://www.globaldataindex.org/united-nations/'>United Nations</a>, <a href='https://www.globaldataindex.org/ireland/'>Ireland</a>, <a href='https://www.globaldataindex.org/international/'>International</a>, <a href='https://www.globaldataindex.org/south-africa/'>South Africa</a>, <a href='https://www.globaldataindex.org/india/'>India</a>, <a href='https://www.globaldataindex.org/japan/'>Japan</a>, <a href='https://www.globaldataindex.org/sweden/'>Sweden</a>.</p><p>Full plain-English executive briefings, structured HTML compliance matrices, semantic definition lists, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are accessible via each record's canonical URL on <a href='https://www.globaldataindex.org/'>https://www.globaldataindex.org</a> and the <a href='https://www.globaldataindex.org/methodology/'>Complete Issuing Authority Directory</a>.</p>",
+  "description": "<p>Automated, machine-readable bibliographic metadata catalog (CSV and JSONL) indexing <strong>31,291</strong> official primary and secondary laws, final and proposed rules, statutory instruments, and multilateral resolutions across <strong>504</strong> government departments, ministries, regulatory agencies, and multilateral organs across active jurisdictions: <a href='https://www.globaldataindex.org/united-states/'>United States</a>, <a href='https://www.globaldataindex.org/united-kingdom/'>United Kingdom</a>, <a href='https://www.globaldataindex.org/canada/'>Canada</a>, <a href='https://www.globaldataindex.org/european-union/'>European Union</a>, <a href='https://www.globaldataindex.org/australia/'>Australia</a>, <a href='https://www.globaldataindex.org/united-nations/'>United Nations</a>, <a href='https://www.globaldataindex.org/ireland/'>Ireland</a>, <a href='https://www.globaldataindex.org/germany/'>Germany</a>, <a href='https://www.globaldataindex.org/international/'>International</a>, <a href='https://www.globaldataindex.org/switzerland/'>Switzerland</a>, <a href='https://www.globaldataindex.org/finland/'>Finland</a>, <a href='https://www.globaldataindex.org/france/'>France</a>, <a href='https://www.globaldataindex.org/norway/'>Norway</a>, <a href='https://www.globaldataindex.org/south-africa/'>South Africa</a>, <a href='https://www.globaldataindex.org/india/'>India</a>, <a href='https://www.globaldataindex.org/brazil/'>Brazil</a>, <a href='https://www.globaldataindex.org/denmark/'>Denmark</a>, <a href='https://www.globaldataindex.org/italy/'>Italy</a>, <a href='https://www.globaldataindex.org/japan/'>Japan</a>, <a href='https://www.globaldataindex.org/south-korea/'>South Korea</a>, <a href='https://www.globaldataindex.org/netherlands/'>Netherlands</a>, <a href='https://www.globaldataindex.org/russia/'>Russia</a>, <a href='https://www.globaldataindex.org/sweden/'>Sweden</a>, <a href='https://www.globaldataindex.org/singapore/'>Singapore</a>.</p><p>Full plain-English executive briefings, structured HTML compliance matrices, semantic definition lists, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are accessible via each record's canonical URL on <a href='https://www.globaldataindex.org/'>https://www.globaldataindex.org</a> and the <a href='https://www.globaldataindex.org/methodology/'>Complete Issuing Authority Directory</a>.</p>",
   "access_right": "open",
   "license": "cc-by-4.0",
   "language": "eng",
@@ -31,7 +31,39 @@
     "united nations",
     "ireland",
     "oireachtas",
+    "germany",
+    "bundesrepublik deutschland",
+    "gesetze im internet",
+    "robert koch institute",
+    "openagrar",
+    "govdata",
     "world bank",
+    "switzerland",
+    "swiss confederation",
+    "fedlex",
+    "opendata swiss",
+    "sfao",
+    "finland",
+    "valtioneuvosto",
+    "finlex",
+    "national audit office vtv",
+    "supreme court of finland",
+    "supreme administrative court of finland",
+    "france",
+    "republique francaise",
+    "banque de france",
+    "amf",
+    "cour des comptes",
+    "dila",
+    "norway",
+    "cristin",
+    "nva",
+    "state agencies",
+    "international",
+    "oecd",
+    "policy papers",
+    "economic surveys",
+    "artificial intelligence",
     "fao",
     "food and agriculture organization",
     "wipo",
@@ -43,6 +75,21 @@
     "india",
     "parliament of india",
     "digital sansad",
+    "brazil",
+    "banco central do brasil",
+    "copom",
+    "supremo tribunal federal",
+    "camara dos deputados",
+    "fiocruz",
+    "denmark",
+    "geus",
+    "greenland",
+    "energy",
+    "geology",
+    "italy",
+    "inapp",
+    "istat",
+    "italian republic",
     "japan",
     "e gov",
     "maff",
@@ -50,11 +97,28 @@
     "naro",
     "qst",
     "government of japan",
+    "south korea",
+    "republic of korea",
+    "kei",
+    "kdi",
+    "ministry of environment",
+    "netherlands",
+    "rijksoverheid",
+    "rivm",
+    "wodc",
+    "tweede kamer",
+    "russia",
+    "bank of russia",
+    "central bank of russia",
     "sweden",
     "riksdagen",
     "naturvardsverket",
     "trafikverket",
-    "sou"
+    "sou",
+    "singapore",
+    "parliament of singapore",
+    "supreme court of singapore",
+    "gov sg"
   ],
   "related_identifiers": [
     {
@@ -108,7 +172,32 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.globaldataindex.org/germany/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.globaldataindex.org/international/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/switzerland/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/finland/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/france/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/norway/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -123,12 +212,47 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.globaldataindex.org/brazil/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/denmark/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/italy/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.globaldataindex.org/japan/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.globaldataindex.org/south-korea/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/netherlands/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/russia/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.globaldataindex.org/sweden/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.globaldataindex.org/singapore/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     }
