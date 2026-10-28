@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-28 22:37 UTC`  
-**Total Indexed Public Records in Catalog:** `32,980` across `549` issuing authorities
+**Last Automated Sync:** `2026-10-28 23:44 UTC`  
+**Total Indexed Public Records in Catalog:** `32,981` across `549` issuing authorities
 
 ---
 
@@ -170,7 +170,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,965` | `17` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
 | **[Canada](https://www.globaldataindex.org/canada/)** | `5,324` | `23` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,271` | `15` | *Commission Decision 2011/833/EU* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
-| **[Australia](https://www.globaldataindex.org/australia/)** | `1,064` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
+| **[Australia](https://www.globaldataindex.org/australia/)** | `1,065` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
 | **[United Nations](https://www.globaldataindex.org/united-nations/)** | `6,426` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 | **[Ireland](https://www.globaldataindex.org/ireland/)** | `88` | `18` | *Oireachtas (Open Data) PSI Licence (CC BY 4.0) & S.I. No. 349/2021* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
 | **[Germany](https://www.globaldataindex.org/germany/)** | `108` | `1` | *§ 5 UrhG (Official Works Exemption), § 12a EGovG & Data Licence Germany (dl-de/by-2-0 / CC BY 4.0)* | [https://www.globaldataindex.org/germany/](https://www.globaldataindex.org/germany/) |
@@ -215,7 +215,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Human Rights Bodies](https://www.globaldataindex.org/united-nations/human-rights-bodies/)** | United Nations | `465` | [https://www.globaldataindex.org/united-nations/human-rights-bodies/](https://www.globaldataindex.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.globaldataindex.org/united-nations/human-rights-bodies/feed/) |
 | **[UN General Assembly (UNGA)](https://www.globaldataindex.org/united-nations/un-general-assembly-unga/)** | United Nations | `462` | [https://www.globaldataindex.org/united-nations/un-general-assembly-unga/](https://www.globaldataindex.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.globaldataindex.org/united-nations/un-general-assembly-unga/feed/) |
 | **[Department of Finance Canada](https://www.globaldataindex.org/canada/department-of-finance-canada/)** | Canada | `360` | [https://www.globaldataindex.org/canada/department-of-finance-canada/](https://www.globaldataindex.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.globaldataindex.org/canada/department-of-finance-canada/feed/) |
-| **[Department of the Treasury](https://www.globaldataindex.org/australia/department-of-the-treasury/)** | Australia | `351` | [https://www.globaldataindex.org/australia/department-of-the-treasury/](https://www.globaldataindex.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.globaldataindex.org/australia/department-of-the-treasury/feed/) |
+| **[Department of the Treasury](https://www.globaldataindex.org/australia/department-of-the-treasury/)** | Australia | `352` | [https://www.globaldataindex.org/australia/department-of-the-treasury/](https://www.globaldataindex.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.globaldataindex.org/australia/department-of-the-treasury/feed/) |
 | **[UN Security Council (UNSC)](https://www.globaldataindex.org/united-nations/un-security-council-unsc/)** | United Nations | `348` | [https://www.globaldataindex.org/united-nations/un-security-council-unsc/](https://www.globaldataindex.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.globaldataindex.org/united-nations/un-security-council-unsc/feed/) |
 | **[Food and Drug Administration](https://www.globaldataindex.org/united-states/food-and-drug-administration/)** | United States | `305` | [https://www.globaldataindex.org/united-states/food-and-drug-administration/](https://www.globaldataindex.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.globaldataindex.org/united-states/food-and-drug-administration/feed/) |
 | **[HM Treasury](https://www.globaldataindex.org/united-kingdom/hm-treasury/)** | United Kingdom | `288` | [https://www.globaldataindex.org/united-kingdom/hm-treasury/](https://www.globaldataindex.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/hm-treasury/feed/) |
