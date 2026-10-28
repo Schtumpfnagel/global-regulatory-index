@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-28 11:08 UTC`  
-**Total Indexed Public Records in Catalog:** `32,839` across `545` issuing authorities
+**Last Automated Sync:** `2026-10-28 13:04 UTC`  
+**Total Indexed Public Records in Catalog:** `32,860` across `546` issuing authorities
 
 ---
 
@@ -168,23 +168,23 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | :--- | :--- | :--- | :--- | :--- |
 | **[United States](https://www.globaldataindex.org/united-states/)** | `14,637` | `205` | *17 U.S.C. § 105* | [https://www.globaldataindex.org/united-states/](https://www.globaldataindex.org/united-states/) |
 | **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,963` | `17` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
-| **[Canada](https://www.globaldataindex.org/canada/)** | `5,242` | `19` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
+| **[Canada](https://www.globaldataindex.org/canada/)** | `5,243` | `20` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,271` | `15` | *Commission Decision 2011/833/EU* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,062` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
 | **[United Nations](https://www.globaldataindex.org/united-nations/)** | `6,426` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 | **[Ireland](https://www.globaldataindex.org/ireland/)** | `88` | `18` | *Oireachtas (Open Data) PSI Licence (CC BY 4.0) & S.I. No. 349/2021* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
 | **[Germany](https://www.globaldataindex.org/germany/)** | `108` | `1` | *§ 5 UrhG (Official Works Exemption), § 12a EGovG & Data Licence Germany (dl-de/by-2-0 / CC BY 4.0)* | [https://www.globaldataindex.org/germany/](https://www.globaldataindex.org/germany/) |
-| **[International](https://www.globaldataindex.org/international/)** | `250` | `5` | *World Bank Open Access Policy (CC BY 4.0)* | [https://www.globaldataindex.org/international/](https://www.globaldataindex.org/international/) |
-| **[Austria](https://www.globaldataindex.org/austria/)** | `93` | `15` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.globaldataindex.org/austria/](https://www.globaldataindex.org/austria/) |
-| **[Switzerland](https://www.globaldataindex.org/switzerland/)** | `110` | `4` | *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)* | [https://www.globaldataindex.org/switzerland/](https://www.globaldataindex.org/switzerland/) |
+| **[International](https://www.globaldataindex.org/international/)** | `251` | `5` | *World Bank Open Access Policy (CC BY 4.0)* | [https://www.globaldataindex.org/international/](https://www.globaldataindex.org/international/) |
+| **[Austria](https://www.globaldataindex.org/austria/)** | `94` | `15` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.globaldataindex.org/austria/](https://www.globaldataindex.org/austria/) |
+| **[Switzerland](https://www.globaldataindex.org/switzerland/)** | `126` | `4` | *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)* | [https://www.globaldataindex.org/switzerland/](https://www.globaldataindex.org/switzerland/) |
 | **[Finland](https://www.globaldataindex.org/finland/)** | `45` | `8` | *Finnish Copyright Act (404/1961, s. 9) & CC BY 4.0 (JHS 189 / Finlex Open Data)* | [https://www.globaldataindex.org/finland/](https://www.globaldataindex.org/finland/) |
 | **[France](https://www.globaldataindex.org/france/)** | `123` | `3` | *Licence Ouverte / Open Licence 2.0 (Etalab) & Code des relations entre le public et l'administration (CRPA, Art. L.321-1 & L.323-2)* | [https://www.globaldataindex.org/france/](https://www.globaldataindex.org/france/) |
-| **[Norway](https://www.globaldataindex.org/norway/)** | `52` | `6` | *Norwegian Copyright Act (Åndsverkloven) § 14 & NLOD 2.0 / CC BY 4.0* | [https://www.globaldataindex.org/norway/](https://www.globaldataindex.org/norway/) |
+| **[Norway](https://www.globaldataindex.org/norway/)** | `53` | `6` | *Norwegian Copyright Act (Åndsverkloven) § 14 & NLOD 2.0 / CC BY 4.0* | [https://www.globaldataindex.org/norway/](https://www.globaldataindex.org/norway/) |
 | **[Italy](https://www.globaldataindex.org/italy/)** | `55` | `3` | *Italian Copyright Act (Law No. 633/1941, Art. 5), Legislative Decree No. 36/2006 (PSI), CAD (D.Lgs. 82/2005, Art. 52) & CC BY 4.0 / IODL 2.0* | [https://www.globaldataindex.org/italy/](https://www.globaldataindex.org/italy/) |
 | **[Poland](https://www.globaldataindex.org/poland/)** | `41` | `2` | *Polish Copyright Act (Dz.U. 1994 nr 24 poz. 83, Art. 4) & Open Data Act (Dz.U. 2021 poz. 1641)* | [https://www.globaldataindex.org/poland/](https://www.globaldataindex.org/poland/) |
 | **[South Africa](https://www.globaldataindex.org/south-africa/)** | `46` | `15` | *South African Copyright Act 98 of 1978, s. 12(8)(a)* | [https://www.globaldataindex.org/south-africa/](https://www.globaldataindex.org/south-africa/) |
 | **[India](https://www.globaldataindex.org/india/)** | `11` | `3` | *Indian Copyright Act 1957, s. 52(1)(q) & GODL-India* | [https://www.globaldataindex.org/india/](https://www.globaldataindex.org/india/) |
-| **[Belgium](https://www.globaldataindex.org/belgium/)** | `17` | `1` | *Belgian Code of Economic Law Art. XI.172 § 2, Federal PSI Reuse Law (4 May 2016) & CC BY 4.0 / CC0* | [https://www.globaldataindex.org/belgium/](https://www.globaldataindex.org/belgium/) |
+| **[Belgium](https://www.globaldataindex.org/belgium/)** | `18` | `1` | *Belgian Code of Economic Law Art. XI.172 § 2, Federal PSI Reuse Law (4 May 2016) & CC BY 4.0 / CC0* | [https://www.globaldataindex.org/belgium/](https://www.globaldataindex.org/belgium/) |
 | **[Brazil](https://www.globaldataindex.org/brazil/)** | `80` | `2` | *Brazilian Copyright Act (Law No. 9,610/1998, Art. 8, IV) & Access to Information Act (Law No. 12,527/2011 / Decree No. 8,777/2016)* | [https://www.globaldataindex.org/brazil/](https://www.globaldataindex.org/brazil/) |
 | **[Denmark](https://www.globaldataindex.org/denmark/)** | `22` | `3` | *Danish Copyright Act (Ophavsretsloven), s. 9 & Danish PSI / Open Data Licence (CC BY 4.0 / CC0)* | [https://www.globaldataindex.org/denmark/](https://www.globaldataindex.org/denmark/) |
 | **[Japan](https://www.globaldataindex.org/japan/)** | `55` | `7` | *Japanese Copyright Act (Act No. 48 of 1970), Art. 13 & Government of Japan Standard Terms of Use v2.0 (CC BY 4.0)* | [https://www.globaldataindex.org/japan/](https://www.globaldataindex.org/japan/) |
@@ -234,7 +234,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** | Canada | `156` | [https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/) |
 | **[Ministry of Housing, Communities and Local Government](https://www.globaldataindex.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** | United Kingdom | `153` | [https://www.globaldataindex.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.globaldataindex.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/) |
 
-*To browse all `545` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
+*To browse all `546` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
