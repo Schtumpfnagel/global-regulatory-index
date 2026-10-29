@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-29 13:55 UTC`  
-**Total Indexed Public Records in Catalog:** `33,115` across `553` issuing authorities
+**Last Automated Sync:** `2026-10-29 14:58 UTC`  
+**Total Indexed Public Records in Catalog:** `33,117` across `553` issuing authorities
 
 ---
 
@@ -166,8 +166,8 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 
 | Jurisdiction | Indexed Dossiers | Issuing Authorities | Governing Open-Government Framework | Canonical Archive Hub |
 | :--- | :--- | :--- | :--- | :--- |
-| **[United States](https://www.globaldataindex.org/united-states/)** | `14,687` | `205` | *17 U.S.C. § 105* | [https://www.globaldataindex.org/united-states/](https://www.globaldataindex.org/united-states/) |
-| **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,969` | `19` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
+| **[United States](https://www.globaldataindex.org/united-states/)** | `14,688` | `205` | *17 U.S.C. § 105* | [https://www.globaldataindex.org/united-states/](https://www.globaldataindex.org/united-states/) |
+| **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,970` | `19` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
 | **[Canada](https://www.globaldataindex.org/canada/)** | `5,324` | `23` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,288` | `16` | *Commission Decision 2011/833/EU* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,077` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
@@ -229,8 +229,8 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Attorney-General's Department](https://www.globaldataindex.org/australia/attorney-general-s-department/)** | Australia | `184` | [https://www.globaldataindex.org/australia/attorney-general-s-department/](https://www.globaldataindex.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.globaldataindex.org/australia/attorney-general-s-department/feed/) |
 | **[Centers for Medicare & Medicaid Services](https://www.globaldataindex.org/united-states/centers-for-medicare-medicaid-services/)** | United States | `177` | [https://www.globaldataindex.org/united-states/centers-for-medicare-medicaid-services/](https://www.globaldataindex.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.globaldataindex.org/united-states/centers-for-medicare-medicaid-services/feed/) |
 | **[Office of the Secretary](https://www.globaldataindex.org/united-states/office-of-the-secretary/)** | United States | `173` | [https://www.globaldataindex.org/united-states/office-of-the-secretary/](https://www.globaldataindex.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.globaldataindex.org/united-states/office-of-the-secretary/feed/) |
+| **[U.S. House of Representatives](https://www.globaldataindex.org/united-states/u-s-house-of-representatives/)** | United States | `165` | [https://www.globaldataindex.org/united-states/u-s-house-of-representatives/](https://www.globaldataindex.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.globaldataindex.org/united-states/u-s-house-of-representatives/feed/) |
 | **[Department for Transport](https://www.globaldataindex.org/united-kingdom/department-for-transport/)** | United Kingdom | `164` | [https://www.globaldataindex.org/united-kingdom/department-for-transport/](https://www.globaldataindex.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/department-for-transport/feed/) |
-| **[U.S. House of Representatives](https://www.globaldataindex.org/united-states/u-s-house-of-representatives/)** | United States | `164` | [https://www.globaldataindex.org/united-states/u-s-house-of-representatives/](https://www.globaldataindex.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.globaldataindex.org/united-states/u-s-house-of-representatives/feed/) |
 | **[Pipeline and Hazardous Materials Safety Administration](https://www.globaldataindex.org/united-states/pipeline-and-hazardous-materials-safety-administration/)** | United States | `163` | [https://www.globaldataindex.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.globaldataindex.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.globaldataindex.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/) |
 | **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** | Canada | `156` | [https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/) |
 
