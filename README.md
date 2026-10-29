@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-29 10:33 UTC`  
-**Total Indexed Public Records in Catalog:** `33,074` across `552` issuing authorities
+**Last Automated Sync:** `2026-10-29 11:42 UTC`  
+**Total Indexed Public Records in Catalog:** `33,092` across `553` issuing authorities
 
 ---
 
@@ -167,16 +167,16 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | Jurisdiction | Indexed Dossiers | Issuing Authorities | Governing Open-Government Framework | Canonical Archive Hub |
 | :--- | :--- | :--- | :--- | :--- |
 | **[United States](https://www.globaldataindex.org/united-states/)** | `14,675` | `205` | *17 U.S.C. § 105* | [https://www.globaldataindex.org/united-states/](https://www.globaldataindex.org/united-states/) |
-| **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,968` | `18` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
+| **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,969` | `19` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
 | **[Canada](https://www.globaldataindex.org/canada/)** | `5,324` | `23` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,288` | `16` | *Commission Decision 2011/833/EU* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,077` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
-| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `6,427` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
+| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `6,428` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 | **[Ireland](https://www.globaldataindex.org/ireland/)** | `88` | `18` | *Oireachtas (Open Data) PSI Licence (CC BY 4.0) & S.I. No. 349/2021* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
 | **[Germany](https://www.globaldataindex.org/germany/)** | `108` | `1` | *§ 5 UrhG (Official Works Exemption), § 12a EGovG & Data Licence Germany (dl-de/by-2-0 / CC BY 4.0)* | [https://www.globaldataindex.org/germany/](https://www.globaldataindex.org/germany/) |
 | **[International](https://www.globaldataindex.org/international/)** | `252` | `5` | *World Bank Open Access Policy (CC BY 4.0)* | [https://www.globaldataindex.org/international/](https://www.globaldataindex.org/international/) |
 | **[Austria](https://www.globaldataindex.org/austria/)** | `99` | `15` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.globaldataindex.org/austria/](https://www.globaldataindex.org/austria/) |
-| **[Switzerland](https://www.globaldataindex.org/switzerland/)** | `129` | `4` | *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)* | [https://www.globaldataindex.org/switzerland/](https://www.globaldataindex.org/switzerland/) |
+| **[Switzerland](https://www.globaldataindex.org/switzerland/)** | `145` | `4` | *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)* | [https://www.globaldataindex.org/switzerland/](https://www.globaldataindex.org/switzerland/) |
 | **[Finland](https://www.globaldataindex.org/finland/)** | `45` | `8` | *Finnish Copyright Act (404/1961, s. 9) & CC BY 4.0 (JHS 189 / Finlex Open Data)* | [https://www.globaldataindex.org/finland/](https://www.globaldataindex.org/finland/) |
 | **[France](https://www.globaldataindex.org/france/)** | `164` | `3` | *Licence Ouverte / Open Licence 2.0 (Etalab) & Code des relations entre le public et l'administration (CRPA, Art. L.321-1 & L.323-2)* | [https://www.globaldataindex.org/france/](https://www.globaldataindex.org/france/) |
 | **[Norway](https://www.globaldataindex.org/norway/)** | `54` | `6` | *Norwegian Copyright Act (Åndsverkloven) § 14 & NLOD 2.0 / CC BY 4.0* | [https://www.globaldataindex.org/norway/](https://www.globaldataindex.org/norway/) |
@@ -200,7 +200,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | :--- | :--- | :--- | :--- | :--- |
 | **[Federal Aviation Administration](https://www.globaldataindex.org/united-states/federal-aviation-administration/)** | United States | `3,421` | [https://www.globaldataindex.org/united-states/federal-aviation-administration/](https://www.globaldataindex.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.globaldataindex.org/united-states/federal-aviation-administration/feed/) |
 | **[Department of Justice Canada](https://www.globaldataindex.org/canada/department-of-justice-canada/)** | Canada | `3,418` | [https://www.globaldataindex.org/canada/department-of-justice-canada/](https://www.globaldataindex.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.globaldataindex.org/canada/department-of-justice-canada/feed/) |
-| **[General Assembly](https://www.globaldataindex.org/united-nations/general-assembly/)** | United Nations | `3,008` | [https://www.globaldataindex.org/united-nations/general-assembly/](https://www.globaldataindex.org/united-nations/general-assembly/) | [RSS Feed](https://www.globaldataindex.org/united-nations/general-assembly/feed/) |
+| **[General Assembly](https://www.globaldataindex.org/united-nations/general-assembly/)** | United Nations | `3,009` | [https://www.globaldataindex.org/united-nations/general-assembly/](https://www.globaldataindex.org/united-nations/general-assembly/) | [RSS Feed](https://www.globaldataindex.org/united-nations/general-assembly/feed/) |
 | **[Environmental Protection Agency](https://www.globaldataindex.org/united-states/environmental-protection-agency/)** | United States | `1,873` | [https://www.globaldataindex.org/united-states/environmental-protection-agency/](https://www.globaldataindex.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.globaldataindex.org/united-states/environmental-protection-agency/feed/) |
 | **[Coast Guard](https://www.globaldataindex.org/united-states/coast-guard/)** | United States | `1,180` | [https://www.globaldataindex.org/united-states/coast-guard/](https://www.globaldataindex.org/united-states/coast-guard/) | [RSS Feed](https://www.globaldataindex.org/united-states/coast-guard/feed/) |
 | **[European Commission](https://www.globaldataindex.org/european-union/european-commission/)** | European Union | `982` | [https://www.globaldataindex.org/european-union/european-commission/](https://www.globaldataindex.org/european-union/european-commission/) | [RSS Feed](https://www.globaldataindex.org/european-union/european-commission/feed/) |
@@ -234,7 +234,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** | Canada | `156` | [https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/) |
 | **[U.S. House of Representatives](https://www.globaldataindex.org/united-states/u-s-house-of-representatives/)** | United States | `156` | [https://www.globaldataindex.org/united-states/u-s-house-of-representatives/](https://www.globaldataindex.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.globaldataindex.org/united-states/u-s-house-of-representatives/feed/) |
 
-*To browse all `552` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
+*To browse all `553` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
