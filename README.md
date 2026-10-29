@@ -151,7 +151,7 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-29 19:27 UTC`  
+**Last Automated Sync:** `2026-10-29 20:36 UTC`  
 **Total Indexed Public Records in Catalog:** `33,151` across `554` issuing authorities
 
 ---
