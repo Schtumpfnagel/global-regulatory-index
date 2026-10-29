@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-29 14:58 UTC`  
-**Total Indexed Public Records in Catalog:** `33,117` across `553` issuing authorities
+**Last Automated Sync:** `2026-10-29 16:01 UTC`  
+**Total Indexed Public Records in Catalog:** `33,118` across `553` issuing authorities
 
 ---
 
@@ -167,7 +167,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | Jurisdiction | Indexed Dossiers | Issuing Authorities | Governing Open-Government Framework | Canonical Archive Hub |
 | :--- | :--- | :--- | :--- | :--- |
 | **[United States](https://www.globaldataindex.org/united-states/)** | `14,688` | `205` | *17 U.S.C. § 105* | [https://www.globaldataindex.org/united-states/](https://www.globaldataindex.org/united-states/) |
-| **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,970` | `19` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
+| **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,971` | `19` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
 | **[Canada](https://www.globaldataindex.org/canada/)** | `5,324` | `23` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,288` | `16` | *Commission Decision 2011/833/EU* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,077` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
@@ -218,7 +218,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Department of the Treasury](https://www.globaldataindex.org/australia/department-of-the-treasury/)** | Australia | `355` | [https://www.globaldataindex.org/australia/department-of-the-treasury/](https://www.globaldataindex.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.globaldataindex.org/australia/department-of-the-treasury/feed/) |
 | **[UN Security Council (UNSC)](https://www.globaldataindex.org/united-nations/un-security-council-unsc/)** | United Nations | `348` | [https://www.globaldataindex.org/united-nations/un-security-council-unsc/](https://www.globaldataindex.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.globaldataindex.org/united-nations/un-security-council-unsc/feed/) |
 | **[Food and Drug Administration](https://www.globaldataindex.org/united-states/food-and-drug-administration/)** | United States | `305` | [https://www.globaldataindex.org/united-states/food-and-drug-administration/](https://www.globaldataindex.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.globaldataindex.org/united-states/food-and-drug-administration/feed/) |
-| **[HM Treasury](https://www.globaldataindex.org/united-kingdom/hm-treasury/)** | United Kingdom | `288` | [https://www.globaldataindex.org/united-kingdom/hm-treasury/](https://www.globaldataindex.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/hm-treasury/feed/) |
+| **[HM Treasury](https://www.globaldataindex.org/united-kingdom/hm-treasury/)** | United Kingdom | `289` | [https://www.globaldataindex.org/united-kingdom/hm-treasury/](https://www.globaldataindex.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/hm-treasury/feed/) |
 | **[Fish and Wildlife Service](https://www.globaldataindex.org/united-states/fish-and-wildlife-service/)** | United States | `277` | [https://www.globaldataindex.org/united-states/fish-and-wildlife-service/](https://www.globaldataindex.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.globaldataindex.org/united-states/fish-and-wildlife-service/feed/) |
 | **[UN Human Rights Council & Treaty Bodies](https://www.globaldataindex.org/united-nations/un-human-rights-council-treaty-bodies/)** | United Nations | `270` | [https://www.globaldataindex.org/united-nations/un-human-rights-council-treaty-bodies/](https://www.globaldataindex.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.globaldataindex.org/united-nations/un-human-rights-council-treaty-bodies/feed/) |
 | **[Energy Department](https://www.globaldataindex.org/united-states/energy-department/)** | United States | `261` | [https://www.globaldataindex.org/united-states/energy-department/](https://www.globaldataindex.org/united-states/energy-department/) | [RSS Feed](https://www.globaldataindex.org/united-states/energy-department/feed/) |
