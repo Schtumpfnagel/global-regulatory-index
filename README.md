@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-29 16:01 UTC`  
-**Total Indexed Public Records in Catalog:** `33,118` across `553` issuing authorities
+**Last Automated Sync:** `2026-10-29 16:58 UTC`  
+**Total Indexed Public Records in Catalog:** `33,128` across `554` issuing authorities
 
 ---
 
@@ -166,12 +166,12 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 
 | Jurisdiction | Indexed Dossiers | Issuing Authorities | Governing Open-Government Framework | Canonical Archive Hub |
 | :--- | :--- | :--- | :--- | :--- |
-| **[United States](https://www.globaldataindex.org/united-states/)** | `14,688` | `205` | *17 U.S.C. § 105* | [https://www.globaldataindex.org/united-states/](https://www.globaldataindex.org/united-states/) |
-| **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,971` | `19` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
+| **[United States](https://www.globaldataindex.org/united-states/)** | `14,692` | `205` | *17 U.S.C. § 105* | [https://www.globaldataindex.org/united-states/](https://www.globaldataindex.org/united-states/) |
+| **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,973` | `20` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
 | **[Canada](https://www.globaldataindex.org/canada/)** | `5,324` | `23` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,288` | `16` | *Commission Decision 2011/833/EU* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
 | **[Australia](https://www.globaldataindex.org/australia/)** | `1,077` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
-| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `6,431` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
+| **[United Nations](https://www.globaldataindex.org/united-nations/)** | `6,435` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 | **[Ireland](https://www.globaldataindex.org/ireland/)** | `88` | `18` | *Oireachtas (Open Data) PSI Licence (CC BY 4.0) & S.I. No. 349/2021* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
 | **[Germany](https://www.globaldataindex.org/germany/)** | `108` | `1` | *§ 5 UrhG (Official Works Exemption), § 12a EGovG & Data Licence Germany (dl-de/by-2-0 / CC BY 4.0)* | [https://www.globaldataindex.org/germany/](https://www.globaldataindex.org/germany/) |
 | **[International](https://www.globaldataindex.org/international/)** | `252` | `5` | *World Bank Open Access Policy (CC BY 4.0)* | [https://www.globaldataindex.org/international/](https://www.globaldataindex.org/international/) |
@@ -212,7 +212,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Federal Communications Commission](https://www.globaldataindex.org/united-states/federal-communications-commission/)** | United States | `522` | [https://www.globaldataindex.org/united-states/federal-communications-commission/](https://www.globaldataindex.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.globaldataindex.org/united-states/federal-communications-commission/feed/) |
 | **[HM Government Legislation](https://www.globaldataindex.org/united-kingdom/hm-government-legislation/)** | United Kingdom | `501` | [https://www.globaldataindex.org/united-kingdom/hm-government-legislation/](https://www.globaldataindex.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.globaldataindex.org/united-kingdom/hm-government-legislation/feed/) |
 | **[Security Council](https://www.globaldataindex.org/united-nations/security-council/)** | United Nations | `491` | [https://www.globaldataindex.org/united-nations/security-council/](https://www.globaldataindex.org/united-nations/security-council/) | [RSS Feed](https://www.globaldataindex.org/united-nations/security-council/feed/) |
-| **[Human Rights Bodies](https://www.globaldataindex.org/united-nations/human-rights-bodies/)** | United Nations | `465` | [https://www.globaldataindex.org/united-nations/human-rights-bodies/](https://www.globaldataindex.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.globaldataindex.org/united-nations/human-rights-bodies/feed/) |
+| **[Human Rights Bodies](https://www.globaldataindex.org/united-nations/human-rights-bodies/)** | United Nations | `469` | [https://www.globaldataindex.org/united-nations/human-rights-bodies/](https://www.globaldataindex.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.globaldataindex.org/united-nations/human-rights-bodies/feed/) |
 | **[UN General Assembly (UNGA)](https://www.globaldataindex.org/united-nations/un-general-assembly-unga/)** | United Nations | `462` | [https://www.globaldataindex.org/united-nations/un-general-assembly-unga/](https://www.globaldataindex.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.globaldataindex.org/united-nations/un-general-assembly-unga/feed/) |
 | **[Department of Finance Canada](https://www.globaldataindex.org/canada/department-of-finance-canada/)** | Canada | `360` | [https://www.globaldataindex.org/canada/department-of-finance-canada/](https://www.globaldataindex.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.globaldataindex.org/canada/department-of-finance-canada/feed/) |
 | **[Department of the Treasury](https://www.globaldataindex.org/australia/department-of-the-treasury/)** | Australia | `355` | [https://www.globaldataindex.org/australia/department-of-the-treasury/](https://www.globaldataindex.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.globaldataindex.org/australia/department-of-the-treasury/feed/) |
@@ -234,7 +234,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Pipeline and Hazardous Materials Safety Administration](https://www.globaldataindex.org/united-states/pipeline-and-hazardous-materials-safety-administration/)** | United States | `163` | [https://www.globaldataindex.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.globaldataindex.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.globaldataindex.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/) |
 | **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** | Canada | `156` | [https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.globaldataindex.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/) |
 
-*To browse all `553` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
+*To browse all `554` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.globaldataindex.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
