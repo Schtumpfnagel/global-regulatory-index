@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-30 00:30 UTC`  
-**Total Indexed Public Records in Catalog:** `33,164` across `554` issuing authorities
+**Last Automated Sync:** `2026-10-30 02:16 UTC`  
+**Total Indexed Public Records in Catalog:** `33,174` across `554` issuing authorities
 
 ---
 
@@ -170,7 +170,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,973` | `20` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
 | **[Canada](https://www.globaldataindex.org/canada/)** | `5,324` | `23` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,288` | `16` | *Commission Decision 2011/833/EU* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
-| **[Australia](https://www.globaldataindex.org/australia/)** | `1,085` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
+| **[Australia](https://www.globaldataindex.org/australia/)** | `1,092` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
 | **[United Nations](https://www.globaldataindex.org/united-nations/)** | `6,435` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 | **[Ireland](https://www.globaldataindex.org/ireland/)** | `88` | `18` | *Oireachtas (Open Data) PSI Licence (CC BY 4.0) & S.I. No. 349/2021* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
 | **[Germany](https://www.globaldataindex.org/germany/)** | `108` | `1` | *§ 5 UrhG (Official Works Exemption), § 12a EGovG & Data Licence Germany (dl-de/by-2-0 / CC BY 4.0)* | [https://www.globaldataindex.org/germany/](https://www.globaldataindex.org/germany/) |
@@ -185,7 +185,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[South Africa](https://www.globaldataindex.org/south-africa/)** | `46` | `15` | *South African Copyright Act 98 of 1978, s. 12(8)(a)* | [https://www.globaldataindex.org/south-africa/](https://www.globaldataindex.org/south-africa/) |
 | **[India](https://www.globaldataindex.org/india/)** | `11` | `3` | *Indian Copyright Act 1957, s. 52(1)(q) & GODL-India* | [https://www.globaldataindex.org/india/](https://www.globaldataindex.org/india/) |
 | **[Belgium](https://www.globaldataindex.org/belgium/)** | `19` | `1` | *Belgian Code of Economic Law Art. XI.172 § 2, Federal PSI Reuse Law (4 May 2016) & CC BY 4.0 / CC0* | [https://www.globaldataindex.org/belgium/](https://www.globaldataindex.org/belgium/) |
-| **[Brazil](https://www.globaldataindex.org/brazil/)** | `80` | `2` | *Brazilian Copyright Act (Law No. 9,610/1998, Art. 8, IV) & Access to Information Act (Law No. 12,527/2011 / Decree No. 8,777/2016)* | [https://www.globaldataindex.org/brazil/](https://www.globaldataindex.org/brazil/) |
+| **[Brazil](https://www.globaldataindex.org/brazil/)** | `83` | `2` | *Brazilian Copyright Act (Law No. 9,610/1998, Art. 8, IV) & Access to Information Act (Law No. 12,527/2011 / Decree No. 8,777/2016)* | [https://www.globaldataindex.org/brazil/](https://www.globaldataindex.org/brazil/) |
 | **[Denmark](https://www.globaldataindex.org/denmark/)** | `22` | `3` | *Danish Copyright Act (Ophavsretsloven), s. 9 & Danish PSI / Open Data Licence (CC BY 4.0 / CC0)* | [https://www.globaldataindex.org/denmark/](https://www.globaldataindex.org/denmark/) |
 | **[Japan](https://www.globaldataindex.org/japan/)** | `55` | `7` | *Japanese Copyright Act (Act No. 48 of 1970), Art. 13 & Government of Japan Standard Terms of Use v2.0 (CC BY 4.0)* | [https://www.globaldataindex.org/japan/](https://www.globaldataindex.org/japan/) |
 | **[South Korea](https://www.globaldataindex.org/south-korea/)** | `0` | `0` | *Korean Copyright Act, Art. 7 (Public Domain) & KOGL Type 1* | [https://www.globaldataindex.org/south-korea/](https://www.globaldataindex.org/south-korea/) |
