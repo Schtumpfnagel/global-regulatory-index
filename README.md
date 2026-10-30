@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.globaldataindex.org/methodology/](https://www.globaldataindex.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.globaldataindex.org/llms.txt](https://www.globaldataindex.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.globaldataindex.org/terms-of-service/](https://www.globaldataindex.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-29 23:23 UTC`  
-**Total Indexed Public Records in Catalog:** `33,161` across `554` issuing authorities
+**Last Automated Sync:** `2026-10-30 00:30 UTC`  
+**Total Indexed Public Records in Catalog:** `33,164` across `554` issuing authorities
 
 ---
 
@@ -170,7 +170,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[United Kingdom](https://www.globaldataindex.org/united-kingdom/)** | `1,973` | `20` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.globaldataindex.org/united-kingdom/](https://www.globaldataindex.org/united-kingdom/) |
 | **[Canada](https://www.globaldataindex.org/canada/)** | `5,324` | `23` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.globaldataindex.org/canada/](https://www.globaldataindex.org/canada/) |
 | **[European Union](https://www.globaldataindex.org/european-union/)** | `2,288` | `16` | *Commission Decision 2011/833/EU* | [https://www.globaldataindex.org/european-union/](https://www.globaldataindex.org/european-union/) |
-| **[Australia](https://www.globaldataindex.org/australia/)** | `1,082` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
+| **[Australia](https://www.globaldataindex.org/australia/)** | `1,085` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.globaldataindex.org/australia/](https://www.globaldataindex.org/australia/) |
 | **[United Nations](https://www.globaldataindex.org/united-nations/)** | `6,435` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.globaldataindex.org/united-nations/](https://www.globaldataindex.org/united-nations/) |
 | **[Ireland](https://www.globaldataindex.org/ireland/)** | `88` | `18` | *Oireachtas (Open Data) PSI Licence (CC BY 4.0) & S.I. No. 349/2021* | [https://www.globaldataindex.org/ireland/](https://www.globaldataindex.org/ireland/) |
 | **[Germany](https://www.globaldataindex.org/germany/)** | `108` | `1` | *§ 5 UrhG (Official Works Exemption), § 12a EGovG & Data Licence Germany (dl-de/by-2-0 / CC BY 4.0)* | [https://www.globaldataindex.org/germany/](https://www.globaldataindex.org/germany/) |
