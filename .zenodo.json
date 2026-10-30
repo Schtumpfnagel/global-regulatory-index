@@ -1,13 +1,13 @@
 {
   "upload_type": "dataset",
-  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 33,220 Official Dossiers",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 33,268 Official Dossiers",
   "creators": [
     {
-      "name": "Global Data Index",
-      "affiliation": "Global Data Index (globaldataindex.org)"
+      "name": "Index Data",
+      "affiliation": "Index Data (indexdata.org)"
     }
   ],
-  "description": "<p>Automated, machine-readable bibliographic metadata catalog (CSV and JSONL) indexing <strong>33,220</strong> official primary and secondary laws, final and proposed rules, statutory instruments, and multilateral resolutions across <strong>555</strong> government departments, ministries, regulatory agencies, and multilateral organs across active jurisdictions: <a href='https://www.globaldataindex.org/united-states/'>United States</a>, <a href='https://www.globaldataindex.org/united-kingdom/'>United Kingdom</a>, <a href='https://www.globaldataindex.org/canada/'>Canada</a>, <a href='https://www.globaldataindex.org/european-union/'>European Union</a>, <a href='https://www.globaldataindex.org/australia/'>Australia</a>, <a href='https://www.globaldataindex.org/united-nations/'>United Nations</a>, <a href='https://www.globaldataindex.org/ireland/'>Ireland</a>, <a href='https://www.globaldataindex.org/germany/'>Germany</a>, <a href='https://www.globaldataindex.org/international/'>International</a>, <a href='https://www.globaldataindex.org/austria/'>Austria</a>, <a href='https://www.globaldataindex.org/switzerland/'>Switzerland</a>, <a href='https://www.globaldataindex.org/finland/'>Finland</a>, <a href='https://www.globaldataindex.org/france/'>France</a>, <a href='https://www.globaldataindex.org/norway/'>Norway</a>, <a href='https://www.globaldataindex.org/italy/'>Italy</a>, <a href='https://www.globaldataindex.org/poland/'>Poland</a>, <a href='https://www.globaldataindex.org/south-africa/'>South Africa</a>, <a href='https://www.globaldataindex.org/india/'>India</a>, <a href='https://www.globaldataindex.org/belgium/'>Belgium</a>, <a href='https://www.globaldataindex.org/brazil/'>Brazil</a>, <a href='https://www.globaldataindex.org/denmark/'>Denmark</a>, <a href='https://www.globaldataindex.org/japan/'>Japan</a>, <a href='https://www.globaldataindex.org/south-korea/'>South Korea</a>, <a href='https://www.globaldataindex.org/netherlands/'>Netherlands</a>, <a href='https://www.globaldataindex.org/russia/'>Russia</a>, <a href='https://www.globaldataindex.org/sweden/'>Sweden</a>, <a href='https://www.globaldataindex.org/singapore/'>Singapore</a>.</p><p>Full plain-English executive briefings, structured HTML compliance matrices, semantic definition lists, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are accessible via each record's canonical URL on <a href='https://www.globaldataindex.org/'>https://www.globaldataindex.org</a> and the <a href='https://www.globaldataindex.org/methodology/'>Complete Issuing Authority Directory</a>.</p>",
+  "description": "<p>Automated, machine-readable bibliographic metadata catalog (CSV and JSONL) indexing <strong>33,268</strong> official primary and secondary laws, final and proposed rules, statutory instruments, and multilateral resolutions across <strong>562</strong> government departments, ministries, regulatory agencies, and multilateral organs across active jurisdictions: <a href='https://www.indexdata.org/united-states/'>United States</a>, <a href='https://www.indexdata.org/united-kingdom/'>United Kingdom</a>, <a href='https://www.indexdata.org/canada/'>Canada</a>, <a href='https://www.indexdata.org/european-union/'>European Union</a>, <a href='https://www.indexdata.org/australia/'>Australia</a>, <a href='https://www.indexdata.org/united-nations/'>United Nations</a>, <a href='https://www.indexdata.org/ireland/'>Ireland</a>, <a href='https://www.indexdata.org/germany/'>Germany</a>, <a href='https://www.indexdata.org/international/'>International</a>, <a href='https://www.indexdata.org/austria/'>Austria</a>, <a href='https://www.indexdata.org/switzerland/'>Switzerland</a>, <a href='https://www.indexdata.org/finland/'>Finland</a>, <a href='https://www.indexdata.org/france/'>France</a>, <a href='https://www.indexdata.org/norway/'>Norway</a>, <a href='https://www.indexdata.org/italy/'>Italy</a>, <a href='https://www.indexdata.org/poland/'>Poland</a>, <a href='https://www.indexdata.org/south-africa/'>South Africa</a>, <a href='https://www.indexdata.org/india/'>India</a>, <a href='https://www.indexdata.org/belgium/'>Belgium</a>, <a href='https://www.indexdata.org/brazil/'>Brazil</a>, <a href='https://www.indexdata.org/denmark/'>Denmark</a>, <a href='https://www.indexdata.org/japan/'>Japan</a>, <a href='https://www.indexdata.org/south-korea/'>South Korea</a>, <a href='https://www.indexdata.org/netherlands/'>Netherlands</a>, <a href='https://www.indexdata.org/russia/'>Russia</a>, <a href='https://www.indexdata.org/sweden/'>Sweden</a>, <a href='https://www.indexdata.org/singapore/'>Singapore</a>.</p><p>Full plain-English executive briefings, structured HTML compliance matrices, semantic definition lists, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are accessible via each record's canonical URL on <a href='https://www.indexdata.org/'>https://www.indexdata.org</a> and the <a href='https://www.indexdata.org/methodology/'>Complete Issuing Authority Directory</a>.</p>",
   "access_right": "open",
   "license": "cc-by-4.0",
   "language": "eng",
@@ -17,7 +17,7 @@
     "regulatory compliance",
     "statutory instruments",
     "legal intelligence",
-    "Global Data Index",
+    "Index Data",
     "federal register",
     "united states",
     "united kingdom",
@@ -141,152 +141,152 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "https://www.globaldataindex.org/",
+      "identifier": "https://www.indexdata.org/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/methodology/",
+      "identifier": "https://www.indexdata.org/methodology/",
       "relation": "isCompiledBy",
       "resource_type": "publication-technicalnote"
     },
     {
-      "identifier": "https://www.globaldataindex.org/terms-of-service/",
+      "identifier": "https://www.indexdata.org/terms-of-service/",
       "relation": "isDocumentedBy",
       "resource_type": "publication-other"
     },
     {
-      "identifier": "https://www.globaldataindex.org/united-states/",
+      "identifier": "https://www.indexdata.org/united-states/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/united-kingdom/",
+      "identifier": "https://www.indexdata.org/united-kingdom/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/canada/",
+      "identifier": "https://www.indexdata.org/canada/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/european-union/",
+      "identifier": "https://www.indexdata.org/european-union/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/australia/",
+      "identifier": "https://www.indexdata.org/australia/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/united-nations/",
+      "identifier": "https://www.indexdata.org/united-nations/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/ireland/",
+      "identifier": "https://www.indexdata.org/ireland/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/germany/",
+      "identifier": "https://www.indexdata.org/germany/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/international/",
+      "identifier": "https://www.indexdata.org/international/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/austria/",
+      "identifier": "https://www.indexdata.org/austria/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/switzerland/",
+      "identifier": "https://www.indexdata.org/switzerland/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/finland/",
+      "identifier": "https://www.indexdata.org/finland/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/france/",
+      "identifier": "https://www.indexdata.org/france/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/norway/",
+      "identifier": "https://www.indexdata.org/norway/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/italy/",
+      "identifier": "https://www.indexdata.org/italy/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/poland/",
+      "identifier": "https://www.indexdata.org/poland/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/south-africa/",
+      "identifier": "https://www.indexdata.org/south-africa/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/india/",
+      "identifier": "https://www.indexdata.org/india/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/belgium/",
+      "identifier": "https://www.indexdata.org/belgium/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/brazil/",
+      "identifier": "https://www.indexdata.org/brazil/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/denmark/",
+      "identifier": "https://www.indexdata.org/denmark/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/japan/",
+      "identifier": "https://www.indexdata.org/japan/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/south-korea/",
+      "identifier": "https://www.indexdata.org/south-korea/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/netherlands/",
+      "identifier": "https://www.indexdata.org/netherlands/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/russia/",
+      "identifier": "https://www.indexdata.org/russia/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/sweden/",
+      "identifier": "https://www.indexdata.org/sweden/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.globaldataindex.org/singapore/",
+      "identifier": "https://www.indexdata.org/singapore/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     }
