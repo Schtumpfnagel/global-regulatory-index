@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-10-31 10:07 UTC`  
-**Total Indexed Public Records in Catalog:** `33,365` across `564` issuing authorities
+**Last Automated Sync:** `2026-10-31 11:07 UTC`  
+**Total Indexed Public Records in Catalog:** `33,367` across `564` issuing authorities
 
 ---
 
@@ -166,7 +166,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 
 | Jurisdiction | Indexed Dossiers | Issuing Authorities | Governing Open-Government Framework | Canonical Archive Hub |
 | :--- | :--- | :--- | :--- | :--- |
-| **[United States](https://www.indexdata.org/united-states/)** | `14,775` | `205` | *17 U.S.C. § 105* | [https://www.indexdata.org/united-states/](https://www.indexdata.org/united-states/) |
+| **[United States](https://www.indexdata.org/united-states/)** | `14,777` | `205` | *17 U.S.C. § 105* | [https://www.indexdata.org/united-states/](https://www.indexdata.org/united-states/) |
 | **[United Kingdom](https://www.indexdata.org/united-kingdom/)** | `1,979` | `22` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.indexdata.org/united-kingdom/](https://www.indexdata.org/united-kingdom/) |
 | **[Canada](https://www.indexdata.org/canada/)** | `5,324` | `23` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.indexdata.org/canada/](https://www.indexdata.org/canada/) |
 | **[European Union](https://www.indexdata.org/european-union/)** | `2,325` | `23` | *Commission Decision 2011/833/EU* | [https://www.indexdata.org/european-union/](https://www.indexdata.org/european-union/) |
@@ -224,7 +224,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** | United States | `261` | [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/) |
 | **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** | United States | `258` | [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/) |
 | **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** | United States | `223` | [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/) |
-| **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** | United States | `209` | [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/) |
+| **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** | United States | `211` | [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/) |
 | **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** | United Nations | `197` | [https://www.indexdata.org/united-nations/united-nations-secretariat/](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/) |
 | **[Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)** | United States | `190` | [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/) |
 | **[Attorney-General's Department](https://www.indexdata.org/australia/attorney-general-s-department/)** | Australia | `184` | [https://www.indexdata.org/australia/attorney-general-s-department/](https://www.indexdata.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.indexdata.org/australia/attorney-general-s-department/feed/) |
