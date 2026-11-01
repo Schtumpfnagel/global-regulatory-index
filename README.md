@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-01 14:57 UTC`  
-**Total Indexed Public Records in Catalog:** `33,375` across `564` issuing authorities
+**Last Automated Sync:** `2026-11-01 16:01 UTC`  
+**Total Indexed Public Records in Catalog:** `33,386` across `565` issuing authorities
 
 ---
 
@@ -193,6 +193,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Russia](https://www.indexdata.org/russia/)** | `0` | `0` | *Civil Code of the Russian Federation, Part IV, Art. 1259(6)(1) & Federal Law No. 8-FZ* | [https://www.indexdata.org/russia/](https://www.indexdata.org/russia/) |
 | **[Sweden](https://www.indexdata.org/sweden/)** | `26` | `3` | *Swedish Copyright Act (SFS 1960:729), s. 9 & 26a; Act on Reuse of Public Sector Documents (SFS 2022:818 / PSI & CC0/CC BY 4.0)* | [https://www.indexdata.org/sweden/](https://www.indexdata.org/sweden/) |
 | **[Singapore](https://www.indexdata.org/singapore/)** | `19` | `3` | *Singapore Open Data Licence v1.0 & SSO Terms of Use (Clause 13)* | [https://www.indexdata.org/singapore/](https://www.indexdata.org/singapore/) |
+| **[Estonia](https://www.indexdata.org/estonia/)** | `11` | `1` | *Estonian Copyright Act (AutÕS) § 5 & Public Information Act (AvTS) § 3¹ (CC BY 4.0 / CC BY-SA 3.0)* | [https://www.indexdata.org/estonia/](https://www.indexdata.org/estonia/) |
 
 ## Primary Issuing Authority Archive Hubs (Top 35 by Dossier Volume)
 
@@ -234,7 +235,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)** | United States | `163` | [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/) |
 | **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** | Canada | `156` | [https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/) |
 
-*To browse all `564` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.indexdata.org/methodology/)**.*
+*To browse all `565` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.indexdata.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
@@ -243,7 +244,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
-| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `SOR-2026-45`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`, `IE-ACT-2026-27`, `DE-GII-BGB`, `WB-34442292`, `AT-ERV-1991-52`, `CH-FEDLEX-1993-1798-20250101`, `FI-VTV-28851`, `FR-INFOFI-109684-20120412`, `NO-CRISTIN-2345678`, `OECD-PUB-257230EC-EN`, `FAO-I9419EN`, `IT-INAPP-5255`, `PL-PAIH-205192`, `WIPO-60683`, `ZA-BILL-B27-2026`, `IN-SANSAD-1538515`, `BE-SCIENSANO-7928`, `BR-BCB-COPOM-281`, `DK-GEUS-92135`, `JP-EGOV-910DBEE5`, `KR-KEI-2017.oak-20410`, `NL-RIVM-656735`, `RU-CBR-41665`, `SE-TRV-trafikverket-20039`, `SG-SUPCT-2026-SGHC-50`) |
+| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `SOR-2026-45`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`, `IE-ACT-2026-27`, `DE-GII-BGB`, `WB-34442292`, `AT-ERV-1991-52`, `CH-FEDLEX-1993-1798-20250101`, `FI-VTV-28851`, `FR-INFOFI-109684-20120412`, `NO-CRISTIN-2345678`, `OECD-PUB-257230EC-EN`, `FAO-I9419EN`, `IT-INAPP-5255`, `PL-PAIH-205192`, `WIPO-60683`, `ZA-BILL-B27-2026`, `IN-SANSAD-1538515`, `BE-SCIENSANO-7928`, `BR-BCB-COPOM-281`, `DK-GEUS-92135`, `JP-EGOV-910DBEE5`, `KR-KEI-2017.oak-20410`, `NL-RIVM-656735`, `RU-CBR-41665`, `SE-TRV-trafikverket-20039`, `SG-SUPCT-2026-SGHC-50`, `EE-RK-MEDIA-261540`) |
 | `jurisdiction` | `string` | Issuing sovereign jurisdiction or multilateral classification |
 | `authority` | `string` | Issuing government department, ministry, agency, or international institution |
 | `publication_date` | `string` | Official publication or enactment date (`YYYY-MM-DD`) |
