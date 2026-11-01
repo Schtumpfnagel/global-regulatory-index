@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-01 16:01 UTC`  
-**Total Indexed Public Records in Catalog:** `33,386` across `565` issuing authorities
+**Last Automated Sync:** `2026-11-01 16:33 UTC`  
+**Total Indexed Public Records in Catalog:** `33,388` across `565` issuing authorities
 
 ---
 
@@ -193,7 +193,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Russia](https://www.indexdata.org/russia/)** | `0` | `0` | *Civil Code of the Russian Federation, Part IV, Art. 1259(6)(1) & Federal Law No. 8-FZ* | [https://www.indexdata.org/russia/](https://www.indexdata.org/russia/) |
 | **[Sweden](https://www.indexdata.org/sweden/)** | `26` | `3` | *Swedish Copyright Act (SFS 1960:729), s. 9 & 26a; Act on Reuse of Public Sector Documents (SFS 2022:818 / PSI & CC0/CC BY 4.0)* | [https://www.indexdata.org/sweden/](https://www.indexdata.org/sweden/) |
 | **[Singapore](https://www.indexdata.org/singapore/)** | `19` | `3` | *Singapore Open Data Licence v1.0 & SSO Terms of Use (Clause 13)* | [https://www.indexdata.org/singapore/](https://www.indexdata.org/singapore/) |
-| **[Estonia](https://www.indexdata.org/estonia/)** | `11` | `1` | *Estonian Copyright Act (AutÕS) § 5 & Public Information Act (AvTS) § 3¹ (CC BY 4.0 / CC BY-SA 3.0)* | [https://www.indexdata.org/estonia/](https://www.indexdata.org/estonia/) |
+| **[Estonia](https://www.indexdata.org/estonia/)** | `13` | `1` | *Estonian Copyright Act (AutÕS) § 5 & Public Information Act (AvTS) § 3¹ (CC BY 4.0 / CC BY-SA 3.0)* | [https://www.indexdata.org/estonia/](https://www.indexdata.org/estonia/) |
 
 ## Primary Issuing Authority Archive Hubs (Top 35 by Dossier Volume)
 
