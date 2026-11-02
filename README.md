@@ -156,8 +156,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-02 18:41 UTC`  
-**Total Indexed Public Records in Catalog:** `33,855` across `597` issuing authorities
+**Last Automated Sync:** `2026-11-02 19:01 UTC`  
+**Total Indexed Public Records in Catalog:** `33,926` across `599` issuing authorities
 
 ---
 
@@ -179,8 +179,8 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[United Nations](https://www.indexdata.org/united-nations/)** | `6,449` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.indexdata.org/united-nations/](https://www.indexdata.org/united-nations/) |
 | **[Ireland](https://www.indexdata.org/ireland/)** | `90` | `18` | *Oireachtas (Open Data) PSI Licence (CC BY 4.0) & S.I. No. 349/2021* | [https://www.indexdata.org/ireland/](https://www.indexdata.org/ireland/) |
 | **[Germany](https://www.indexdata.org/germany/)** | `129` | `3` | *§ 5 UrhG (Official Works Exemption), § 12a EGovG & Data Licence Germany (dl-de/by-2-0 / CC BY 4.0)* | [https://www.indexdata.org/germany/](https://www.indexdata.org/germany/) |
-| **[International](https://www.indexdata.org/international/)** | `416` | `7` | *World Bank Open Access Policy (CC BY 4.0)* | [https://www.indexdata.org/international/](https://www.indexdata.org/international/) |
-| **[Austria](https://www.indexdata.org/austria/)** | `117` | `16` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.indexdata.org/austria/](https://www.indexdata.org/austria/) |
+| **[International](https://www.indexdata.org/international/)** | `483` | `8` | *World Bank Open Access Policy (CC BY 4.0)* | [https://www.indexdata.org/international/](https://www.indexdata.org/international/) |
+| **[Austria](https://www.indexdata.org/austria/)** | `121` | `17` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.indexdata.org/austria/](https://www.indexdata.org/austria/) |
 | **[Switzerland](https://www.indexdata.org/switzerland/)** | `168` | `5` | *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)* | [https://www.indexdata.org/switzerland/](https://www.indexdata.org/switzerland/) |
 | **[Finland](https://www.indexdata.org/finland/)** | `45` | `8` | *Finnish Copyright Act (404/1961, s. 9) & CC BY 4.0 (JHS 189 / Finlex Open Data)* | [https://www.indexdata.org/finland/](https://www.indexdata.org/finland/) |
 | **[France](https://www.indexdata.org/france/)** | `223` | `3` | *Licence Ouverte / Open Licence 2.0 (Etalab) & Code des relations entre le public et l'administration (CRPA, Art. L.321-1 & L.323-2)* | [https://www.indexdata.org/france/](https://www.indexdata.org/france/) |
@@ -242,7 +242,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)** | United States | `163` | [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/) |
 | **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** | Canada | `156` | [https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/) |
 
-*To browse all `597` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.indexdata.org/methodology/)**.*
+*To browse all `599` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.indexdata.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
@@ -251,7 +251,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
-| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `SOR-2026-45`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`, `IE-ACT-2026-27`, `DE-GII-BGB`, `WB-34442292`, `AT-ERV-1991-52`, `CH-FEDLEX-1993-1798-20250101`, `FI-VTV-28851`, `FR-INFOFI-109684-20120412`, `KR-OA-W4414742698`, `NO-CRISTIN-2345678`, `OECD-PUB-257230EC-EN`, `FAO-I9419EN`, `IT-INAPP-5255`, `PL-PAIH-205192`, `WIPO-60683`, `ZA-BILL-B27-2026`, `IN-SANSAD-1538515`, `BE-SCIENSANO-7928`, `BR-BCB-COPOM-281`, `DK-GEUS-92135`, `JP-EGOV-910DBEE5`, `NL-RIVM-656735`, `RU-IEP-W4391234567`, `SE-TRV-trafikverket-20039`, `SG-SUPCT-2026-SGHC-50`, `AT-GOEG-30`, `DE-UBA-123456789-12424`, `EE-RK-MEDIA-261540`, `EIOPA-CELLAR-BFF84DAF-742C-11F1-9800-01AA75ED71A1`, `ES-CIEMAT-20-500-14855-5873`, `ESMA-PRIII-4773044`, `PT-OA-W4415628910`, `SG-ASTAR-W7224998811`, `UK-PARL-OE-18207`, `US-DOT-ROSAP-94173`) |
+| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `SOR-2026-45`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`, `IE-ACT-2026-27`, `DE-GII-BGB`, `WB-34442292`, `AT-ERV-1991-52`, `CH-FEDLEX-1993-1798-20250101`, `FI-VTV-28851`, `FR-INFOFI-109684-20120412`, `KR-OA-W4414742698`, `NO-CRISTIN-2345678`, `OECD-PUB-257230EC-EN`, `FAO-I9419EN`, `IT-INAPP-5255`, `PL-PAIH-205192`, `WIPO-60683`, `ZA-BILL-B27-2026`, `IN-SANSAD-1538515`, `BE-SCIENSANO-7928`, `BR-BCB-COPOM-281`, `DK-GEUS-92135`, `JP-EGOV-910DBEE5`, `NL-RIVM-656735`, `RU-IEP-W4391234567`, `SE-TRV-trafikverket-20039`, `SG-SUPCT-2026-SGHC-50`, `AT-GOEG-30`, `DE-UBA-123456789-12424`, `ECA-CELLAR-46AB6960-D410-11F1-9458-01AA75ED71A1`, `EE-RK-MEDIA-261540`, `EIOPA-CELLAR-BFF84DAF-742C-11F1-9800-01AA75ED71A1`, `ES-CIEMAT-20-500-14855-5873`, `ESMA-PRIII-4773044`, `PT-OA-W4415628910`, `SG-ASTAR-W7224998811`, `UK-PARL-OE-18207`, `US-DOT-ROSAP-94173`) |
 | `jurisdiction` | `string` | Issuing sovereign jurisdiction or multilateral classification |
 | `authority` | `string` | Issuing government department, ministry, agency, or international institution |
 | `publication_date` | `string` | Official publication or enactment date (`YYYY-MM-DD`) |
