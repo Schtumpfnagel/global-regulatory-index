@@ -146,7 +146,7 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-01 22:51 UTC`  
+**Last Automated Sync:** `2026-11-02 00:02 UTC`  
 **Total Indexed Public Records in Catalog:** `33,545` across `577` issuing authorities
 
 ---
