@@ -153,7 +153,7 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-02 04:57 UTC`  
+**Last Automated Sync:** `2026-11-02 05:58 UTC`  
 **Total Indexed Public Records in Catalog:** `33,593` across `582` issuing authorities
 
 ---
@@ -246,7 +246,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
-| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `SOR-2026-45`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`, `IE-ACT-2026-27`, `DE-GII-BGB`, `WB-34442292`, `AT-ERV-1991-52`, `CH-FEDLEX-1993-1798-20250101`, `FI-VTV-28851`, `FR-INFOFI-109684-20120412`, `KR-OA-W4414742698`, `NO-CRISTIN-2345678`, `OECD-PUB-257230EC-EN`, `FAO-I9419EN`, `IT-INAPP-5255`, `PL-PAIH-205192`, `WIPO-60683`, `ZA-BILL-B27-2026`, `IN-SANSAD-1538515`, `BE-SCIENSANO-7928`, `BR-BCB-COPOM-281`, `DK-GEUS-92135`, `JP-EGOV-910DBEE5`, `NL-RIVM-656735`, `RU-CBR-41665`, `SE-TRV-trafikverket-20039`, `SG-SUPCT-2026-SGHC-50`, `EE-RK-MEDIA-261540`, `UK-PARL-OE-18207`, `US-DOT-ROSAP-94173`) |
+| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `SOR-2026-45`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`, `IE-ACT-2026-27`, `DE-GII-BGB`, `WB-34442292`, `AT-ERV-1991-52`, `CH-FEDLEX-1993-1798-20250101`, `FI-VTV-28851`, `FR-INFOFI-109684-20120412`, `KR-OA-W4414742698`, `NO-CRISTIN-2345678`, `OECD-PUB-257230EC-EN`, `FAO-I9419EN`, `IT-INAPP-5255`, `PL-PAIH-205192`, `WIPO-60683`, `ZA-BILL-B27-2026`, `IN-SANSAD-1538515`, `BE-SCIENSANO-7928`, `BR-BCB-COPOM-281`, `DK-GEUS-92135`, `JP-EGOV-910DBEE5`, `NL-RIVM-656735`, `RU-CBR-41665`, `SE-TRV-trafikverket-20039`, `SG-SUPCT-2026-SGHC-50`, `EE-RK-MEDIA-261540`, `SG-ASTAR-W7224998811`, `UK-PARL-OE-18207`, `US-DOT-ROSAP-94173`) |
 | `jurisdiction` | `string` | Issuing sovereign jurisdiction or multilateral classification |
 | `authority` | `string` | Issuing government department, ministry, agency, or international institution |
 | `publication_date` | `string` | Official publication or enactment date (`YYYY-MM-DD`) |
