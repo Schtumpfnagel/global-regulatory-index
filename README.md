@@ -151,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-03 18:04 UTC`  
-**Total Indexed Public Records in Catalog:** `34,449` across `643` issuing authorities
+**Last Automated Sync:** `2026-11-03 18:19 UTC`  
+**Total Indexed Public Records in Catalog:** `34,456` across `643` issuing authorities
 
 ---
 
@@ -179,7 +179,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Switzerland](https://www.indexdata.org/switzerland/)** | `168` | `5` | *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)* | [https://www.indexdata.org/switzerland/](https://www.indexdata.org/switzerland/) |
 | **[Finland](https://www.indexdata.org/finland/)** | `45` | `8` | *Finnish Copyright Act (404/1961, s. 9) & CC BY 4.0 (JHS 189 / Finlex Open Data)* | [https://www.indexdata.org/finland/](https://www.indexdata.org/finland/) |
 | **[France](https://www.indexdata.org/france/)** | `238` | `3` | *Licence Ouverte / Open Licence 2.0 (Etalab) & Code des relations entre le public et l'administration (CRPA, Art. L.321-1 & L.323-2)* | [https://www.indexdata.org/france/](https://www.indexdata.org/france/) |
-| **[South Korea](https://www.indexdata.org/south-korea/)** | `42` | `6` | *Copyright Act of the Republic of Korea (Arts. 7 & 24-2) & KOGL Type 1 (공공누리 제1유형)* | [https://www.indexdata.org/south-korea/](https://www.indexdata.org/south-korea/) |
+| **[South Korea](https://www.indexdata.org/south-korea/)** | `46` | `6` | *Copyright Act of the Republic of Korea (Arts. 7 & 24-2) & KOGL Type 1 (공공누리 제1유형)* | [https://www.indexdata.org/south-korea/](https://www.indexdata.org/south-korea/) |
 | **[Norway](https://www.indexdata.org/norway/)** | `57` | `6` | *Norwegian Copyright Act (Åndsverkloven) § 14 & NLOD 2.0 / CC BY 4.0* | [https://www.indexdata.org/norway/](https://www.indexdata.org/norway/) |
 | **[Italy](https://www.indexdata.org/italy/)** | `57` | `3` | *Italian Copyright Act (Law No. 633/1941, Art. 5), Legislative Decree No. 36/2006 (PSI), CAD (D.Lgs. 82/2005, Art. 52) & CC BY 4.0 / IODL 2.0* | [https://www.indexdata.org/italy/](https://www.indexdata.org/italy/) |
 | **[Poland](https://www.indexdata.org/poland/)** | `41` | `2` | *Polish Copyright Act (Dz.U. 1994 nr 24 poz. 83, Art. 4) & Open Data Act (Dz.U. 2021 poz. 1641)* | [https://www.indexdata.org/poland/](https://www.indexdata.org/poland/) |
@@ -195,7 +195,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[China](https://www.indexdata.org/china/)** | `16` | `12` | *Art. 5(1) PRC Copyright Law (Public Domain) & HKSAR DATA.GOV.HK Open Data Terms* | [https://www.indexdata.org/china/](https://www.indexdata.org/china/) |
 | **[Estonia](https://www.indexdata.org/estonia/)** | `16` | `3` | *Estonian Copyright Act § 5(3)-(4), Public Information Act § 3¹ & Riigikogu Open Data Licence* | [https://www.indexdata.org/estonia/](https://www.indexdata.org/estonia/) |
 | **[Spain](https://www.indexdata.org/spain/)** | `27` | `6` | *Art. 13 TRLPI (RDL 1/1996) & Law 37/2007 on Re-use of Public Sector Information (RD 1495/2011)* | [https://www.indexdata.org/spain/](https://www.indexdata.org/spain/) |
-| **[Israel](https://www.indexdata.org/israel/)** | `100` | `14` | *Copyright Act, 5768-2007, Section 6 (Official Publications) & Data.gov.il Open Government Data License* | [https://www.indexdata.org/israel/](https://www.indexdata.org/israel/) |
+| **[Israel](https://www.indexdata.org/israel/)** | `103` | `14` | *Copyright Act, 5768-2007, Section 6 (Official Publications) & Data.gov.il Open Government Data License* | [https://www.indexdata.org/israel/](https://www.indexdata.org/israel/) |
 | **[Portugal](https://www.indexdata.org/portugal/)** | `4` | `2` | *Law No. 68/2021 (Open Data Principles), Law No. 26/2016 (LADA) & Art. 7 CDADC (Decree-Law No. 63/85)* | [https://www.indexdata.org/portugal/](https://www.indexdata.org/portugal/) |
 | **[Netherlands](https://www.indexdata.org/netherlands/)** | `4` | `2` | *Open Government / Statutory Public Sector Reuse Framework* | [https://www.indexdata.org/netherlands/](https://www.indexdata.org/netherlands/) |
 
