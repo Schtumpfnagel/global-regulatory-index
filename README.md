@@ -28,6 +28,8 @@ tags:
   - united-nations
   - ireland
   - oireachtas
+  - statutory-agencies
+  - public-sector
   - germany
   - bundesrepublik-deutschland
   - gesetze-im-internet
@@ -152,8 +154,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-03 19:29 UTC`  
-**Total Indexed Public Records in Catalog:** `34,467` across `645` issuing authorities
+**Last Automated Sync:** `2026-11-03 20:33 UTC`  
+**Total Indexed Public Records in Catalog:** `34,488` across `656` issuing authorities
 
 ---
 
@@ -172,8 +174,8 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Canada](https://www.indexdata.org/canada/)** | `5,326` | `23` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.indexdata.org/canada/](https://www.indexdata.org/canada/) |
 | **[European Union](https://www.indexdata.org/european-union/)** | `2,326` | `23` | *Commission Decision 2011/833/EU* | [https://www.indexdata.org/european-union/](https://www.indexdata.org/european-union/) |
 | **[Australia](https://www.indexdata.org/australia/)** | `1,126` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.indexdata.org/australia/](https://www.indexdata.org/australia/) |
-| **[United Nations](https://www.indexdata.org/united-nations/)** | `6,450` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.indexdata.org/united-nations/](https://www.indexdata.org/united-nations/) |
-| **[Ireland](https://www.indexdata.org/ireland/)** | `90` | `18` | *Oireachtas (Open Data) PSI Licence (CC BY 4.0) & S.I. No. 349/2021* | [https://www.indexdata.org/ireland/](https://www.indexdata.org/ireland/) |
+| **[United Nations](https://www.indexdata.org/united-nations/)** | `6,451` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.indexdata.org/united-nations/](https://www.indexdata.org/united-nations/) |
+| **[Ireland](https://www.indexdata.org/ireland/)** | `100` | `28` | *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)* | [https://www.indexdata.org/ireland/](https://www.indexdata.org/ireland/) |
 | **[Germany](https://www.indexdata.org/germany/)** | `129` | `3` | *§ 5 UrhG (Official Works Exemption), § 12a EGovG & Data Licence Germany (dl-de/by-2-0 / CC BY 4.0)* | [https://www.indexdata.org/germany/](https://www.indexdata.org/germany/) |
 | **[International](https://www.indexdata.org/international/)** | `674` | `11` | *World Bank Open Access Policy (CC BY 4.0)* | [https://www.indexdata.org/international/](https://www.indexdata.org/international/) |
 | **[Austria](https://www.indexdata.org/austria/)** | `147` | `17` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.indexdata.org/austria/](https://www.indexdata.org/austria/) |
@@ -192,11 +194,11 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Japan](https://www.indexdata.org/japan/)** | `55` | `7` | *Japanese Copyright Act (Act No. 48 of 1970), Art. 13 & Government of Japan Standard Terms of Use v2.0 (CC BY 4.0)* | [https://www.indexdata.org/japan/](https://www.indexdata.org/japan/) |
 | **[Russia](https://www.indexdata.org/russia/)** | `8` | `2` | *Civil Code of the Russian Federation, Part IV, Art. 1259(6)(1) & Open Government Data Standard* | [https://www.indexdata.org/russia/](https://www.indexdata.org/russia/) |
 | **[Sweden](https://www.indexdata.org/sweden/)** | `26` | `3` | *Swedish Copyright Act (SFS 1960:729), s. 9 & 26a; Act on Reuse of Public Sector Documents (SFS 2022:818 / PSI & CC0/CC BY 4.0)* | [https://www.indexdata.org/sweden/](https://www.indexdata.org/sweden/) |
-| **[Singapore](https://www.indexdata.org/singapore/)** | `43` | `5` | *Singapore Open Data Licence v1.0 & SSO Terms of Use (Clause 13)* | [https://www.indexdata.org/singapore/](https://www.indexdata.org/singapore/) |
+| **[Singapore](https://www.indexdata.org/singapore/)** | `45` | `6` | *Singapore Open Data Licence v1.0 & SSO Terms of Use (Clause 13)* | [https://www.indexdata.org/singapore/](https://www.indexdata.org/singapore/) |
 | **[China](https://www.indexdata.org/china/)** | `16` | `12` | *Art. 5(1) PRC Copyright Law (Public Domain) & HKSAR DATA.GOV.HK Open Data Terms* | [https://www.indexdata.org/china/](https://www.indexdata.org/china/) |
 | **[Estonia](https://www.indexdata.org/estonia/)** | `16` | `3` | *Estonian Copyright Act § 5(3)-(4), Public Information Act § 3¹ & Riigikogu Open Data Licence* | [https://www.indexdata.org/estonia/](https://www.indexdata.org/estonia/) |
 | **[Spain](https://www.indexdata.org/spain/)** | `27` | `6` | *Art. 13 TRLPI (RDL 1/1996) & Law 37/2007 on Re-use of Public Sector Information (RD 1495/2011)* | [https://www.indexdata.org/spain/](https://www.indexdata.org/spain/) |
-| **[Israel](https://www.indexdata.org/israel/)** | `106` | `14` | *Copyright Act, 5768-2007, Section 6 (Official Publications) & Data.gov.il Open Government Data License* | [https://www.indexdata.org/israel/](https://www.indexdata.org/israel/) |
+| **[Israel](https://www.indexdata.org/israel/)** | `114` | `14` | *Copyright Act, 5768-2007, Section 6 (Official Publications) & Data.gov.il Open Government Data License* | [https://www.indexdata.org/israel/](https://www.indexdata.org/israel/) |
 | **[Portugal](https://www.indexdata.org/portugal/)** | `4` | `2` | *Law No. 68/2021 (Open Data Principles), Law No. 26/2016 (LADA) & Art. 7 CDADC (Decree-Law No. 63/85)* | [https://www.indexdata.org/portugal/](https://www.indexdata.org/portugal/) |
 | **[Netherlands](https://www.indexdata.org/netherlands/)** | `4` | `2` | *Open Government / Statutory Public Sector Reuse Framework* | [https://www.indexdata.org/netherlands/](https://www.indexdata.org/netherlands/) |
 
@@ -217,7 +219,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** | United Nations | `526` | [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/) |
 | **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** | United States | `525` | [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/) |
 | **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** | United Kingdom | `501` | [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/) |
-| **[Security Council](https://www.indexdata.org/united-nations/security-council/)** | United Nations | `498` | [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/) |
+| **[Security Council](https://www.indexdata.org/united-nations/security-council/)** | United Nations | `499` | [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/) |
 | **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** | United Nations | `473` | [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/) |
 | **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** | United Nations | `462` | [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/) |
 | **[Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)** | Australia | `369` | [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/) |
@@ -240,7 +242,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)** | United States | `174` | [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/) |
 | **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** | United Kingdom | `166` | [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/) |
 
-*To browse all `645` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.indexdata.org/methodology/)**.*
+*To browse all `656` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.indexdata.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
@@ -249,7 +251,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
-| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `SOR-2026-45`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`, `IE-ACT-2026-27`, `DE-GII-BGB`, `WB-34442292`, `AT-ERV-1991-52`, `CH-FEDLEX-1993-1798-20250101`, `FI-VTV-28851`, `FR-INFOFI-109684-20120412`, `KR-OA-W3115307640`, `NO-CRISTIN-2345678`, `OECD-PUB-257230EC-EN`, `FAO-I9419EN`, `IT-INAPP-5255`, `PL-PAIH-205192`, `WIPO-60683`, `ZA-BILL-B27-2026`, `IN-SANSAD-1538515`, `BE-SCIENSANO-12770`, `BR-BCB-COPOM-281`, `DK-GEUS-92135`, `JP-EGOV-910DBEE5`, `RU-IEP-W4391234567`, `SE-TRV-trafikverket-20039`, `SG-SUPCT-2026-SGHC-50`, `AT-GOEG-30`, `CN-HK-DATAGOV-c9d93524-b3e8-41db-80d6-c3ed2a48b38d-supp`, `DE-UBA-123456789-12424`, `EBA-CELLAR-834F95C1-5FBB-11F1-9AF0-01AA75ED71A1`, `ECA-CELLAR-46AB6960-D410-11F1-9458-01AA75ED71A1`, `ECDC-CELLAR-8E8ABA71-D27C-11F1-9458-01AA75ED71A1`, `EE-RK-MEDIA-261540`, `EFSA-CELLAR-8F30D7BB-BE06-11F1-9AAE-01AA75ED71A1`, `EIOPA-CELLAR-BFF84DAF-742C-11F1-9800-01AA75ED71A1`, `ES-DEFENSOR-5733`, `ESMA-PRIII-4773044`, `IL-IIA-EN-23395`, `PT-OA-W4415628910`, `SG-ASTAR-W7224998811`, `UK-PARL-OE-18207`, `US-DOT-ROSAP-94173`) |
+| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `SOR-2026-45`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`, `IE-ACT-2026-37`, `DE-GII-BGB`, `WB-34442292`, `AT-ERV-1991-52`, `CH-FEDLEX-1993-1798-20250101`, `FI-VTV-28851`, `FR-INFOFI-109684-20120412`, `KR-OA-W3115307640`, `NO-CRISTIN-2345678`, `OECD-PUB-257230EC-EN`, `FAO-I9419EN`, `IT-INAPP-5255`, `PL-PAIH-205192`, `WIPO-60683`, `ZA-BILL-B27-2026`, `IN-SANSAD-1538515`, `BE-SCIENSANO-12770`, `BR-BCB-COPOM-281`, `DK-GEUS-92135`, `JP-EGOV-910DBEE5`, `RU-IEP-W4391234567`, `SE-TRV-trafikverket-20039`, `SG-SUPCT-2026-SGHC-50`, `AT-GOEG-30`, `CN-HK-DATAGOV-c9d93524-b3e8-41db-80d6-c3ed2a48b38d-supp`, `DE-UBA-123456789-12424`, `EBA-CELLAR-834F95C1-5FBB-11F1-9AF0-01AA75ED71A1`, `ECA-CELLAR-46AB6960-D410-11F1-9458-01AA75ED71A1`, `ECDC-CELLAR-8E8ABA71-D27C-11F1-9458-01AA75ED71A1`, `EE-RK-MEDIA-261540`, `EFSA-CELLAR-8F30D7BB-BE06-11F1-9AAE-01AA75ED71A1`, `EIOPA-CELLAR-BFF84DAF-742C-11F1-9800-01AA75ED71A1`, `ES-DEFENSOR-5733`, `ESMA-PRIII-4773044`, `IL-IIA-EN-23395`, `PT-OA-W4415628910`, `SG-ASTAR-W7224998811`, `UK-PARL-OE-18207`, `US-DOT-ROSAP-94173`) |
 | `jurisdiction` | `string` | Issuing sovereign jurisdiction or multilateral classification |
 | `authority` | `string` | Issuing government department, ministry, agency, or international institution |
 | `publication_date` | `string` | Official publication or enactment date (`YYYY-MM-DD`) |
