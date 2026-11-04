@@ -155,8 +155,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-04 12:58 UTC`  
-**Total Indexed Public Records in Catalog:** `34,717` across `671` issuing authorities
+**Last Automated Sync:** `2026-11-04 14:10 UTC`  
+**Total Indexed Public Records in Catalog:** `34,726` across `671` issuing authorities
 
 ---
 
@@ -172,13 +172,13 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | :--- | :--- | :--- | :--- | :--- |
 | **[United States](https://www.indexdata.org/united-states/)** | `14,988` | `216` | *17 U.S.C. § 105* | [https://www.indexdata.org/united-states/](https://www.indexdata.org/united-states/) |
 | **[United Kingdom](https://www.indexdata.org/united-kingdom/)** | `2,147` | `36` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.indexdata.org/united-kingdom/](https://www.indexdata.org/united-kingdom/) |
-| **[Canada](https://www.indexdata.org/canada/)** | `5,327` | `24` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.indexdata.org/canada/](https://www.indexdata.org/canada/) |
-| **[European Union](https://www.indexdata.org/european-union/)** | `2,348` | `25` | *Commission Decision 2011/833/EU* | [https://www.indexdata.org/european-union/](https://www.indexdata.org/european-union/) |
+| **[Canada](https://www.indexdata.org/canada/)** | `5,328` | `24` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.indexdata.org/canada/](https://www.indexdata.org/canada/) |
+| **[European Union](https://www.indexdata.org/european-union/)** | `2,349` | `25` | *Commission Decision 2011/833/EU* | [https://www.indexdata.org/european-union/](https://www.indexdata.org/european-union/) |
 | **[Australia](https://www.indexdata.org/australia/)** | `1,131` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.indexdata.org/australia/](https://www.indexdata.org/australia/) |
 | **[United Nations](https://www.indexdata.org/united-nations/)** | `6,453` | `168` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.indexdata.org/united-nations/](https://www.indexdata.org/united-nations/) |
-| **[Ireland](https://www.indexdata.org/ireland/)** | `149` | `34` | *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)* | [https://www.indexdata.org/ireland/](https://www.indexdata.org/ireland/) |
+| **[Ireland](https://www.indexdata.org/ireland/)** | `150` | `34` | *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)* | [https://www.indexdata.org/ireland/](https://www.indexdata.org/ireland/) |
 | **[Germany](https://www.indexdata.org/germany/)** | `129` | `3` | *§ 5 UrhG (Official Works Exemption), § 12a EGovG & Data Licence Germany (dl-de/by-2-0 / CC BY 4.0)* | [https://www.indexdata.org/germany/](https://www.indexdata.org/germany/) |
-| **[International](https://www.indexdata.org/international/)** | `694` | `13` | *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0* | [https://www.indexdata.org/international/](https://www.indexdata.org/international/) |
+| **[International](https://www.indexdata.org/international/)** | `699` | `13` | *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0* | [https://www.indexdata.org/international/](https://www.indexdata.org/international/) |
 | **[Austria](https://www.indexdata.org/austria/)** | `147` | `17` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.indexdata.org/austria/](https://www.indexdata.org/austria/) |
 | **[Switzerland](https://www.indexdata.org/switzerland/)** | `178` | `5` | *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)* | [https://www.indexdata.org/switzerland/](https://www.indexdata.org/switzerland/) |
 | **[Finland](https://www.indexdata.org/finland/)** | `45` | `8` | *Finnish Copyright Act (404/1961, s. 9) & CC BY 4.0 (JHS 189 / Finlex Open Data)* | [https://www.indexdata.org/finland/](https://www.indexdata.org/finland/) |
@@ -189,7 +189,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Poland](https://www.indexdata.org/poland/)** | `41` | `2` | *Polish Copyright Act (Dz.U. 1994 nr 24 poz. 83, Art. 4) & Open Data Act (Dz.U. 2021 poz. 1641)* | [https://www.indexdata.org/poland/](https://www.indexdata.org/poland/) |
 | **[South Africa](https://www.indexdata.org/south-africa/)** | `46` | `15` | *South African Copyright Act 98 of 1978, s. 12(8)(a)* | [https://www.indexdata.org/south-africa/](https://www.indexdata.org/south-africa/) |
 | **[India](https://www.indexdata.org/india/)** | `11` | `3` | *Indian Copyright Act 1957, s. 52(1)(q) & GODL-India* | [https://www.indexdata.org/india/](https://www.indexdata.org/india/) |
-| **[Belgium](https://www.indexdata.org/belgium/)** | `24` | `3` | *Code of Economic Law Art. XI.172 & Belgian Act of 4 May 2016 (PSI / CC0 / CC BY 4.0)* | [https://www.indexdata.org/belgium/](https://www.indexdata.org/belgium/) |
+| **[Belgium](https://www.indexdata.org/belgium/)** | `25` | `3` | *Code of Economic Law Art. XI.172 & Belgian Act of 4 May 2016 (PSI / CC0 / CC BY 4.0)* | [https://www.indexdata.org/belgium/](https://www.indexdata.org/belgium/) |
 | **[Brazil](https://www.indexdata.org/brazil/)** | `83` | `2` | *Brazilian Copyright Act (Law No. 9,610/1998, Art. 8, IV) & Access to Information Act (Law No. 12,527/2011 / Decree No. 8,777/2016)* | [https://www.indexdata.org/brazil/](https://www.indexdata.org/brazil/) |
 | **[Denmark](https://www.indexdata.org/denmark/)** | `22` | `3` | *Danish Copyright Act (Ophavsretsloven), s. 9 & Danish PSI / Open Data Licence (CC BY 4.0 / CC0)* | [https://www.indexdata.org/denmark/](https://www.indexdata.org/denmark/) |
 | **[Japan](https://www.indexdata.org/japan/)** | `55` | `7` | *Japanese Copyright Act (Act No. 48 of 1970), Art. 13 & Government of Japan Standard Terms of Use v2.0 (CC BY 4.0)* | [https://www.indexdata.org/japan/](https://www.indexdata.org/japan/) |
