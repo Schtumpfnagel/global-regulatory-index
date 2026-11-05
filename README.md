@@ -149,8 +149,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-05 01:52 UTC`  
-**Total Indexed Public Records in Catalog:** `35,255` across `678` issuing authorities
+**Last Automated Sync:** `2026-11-05 03:13 UTC`  
+**Total Indexed Public Records in Catalog:** `35,280` across `679` issuing authorities
 
 ---
 
@@ -165,11 +165,11 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | Jurisdiction | Indexed Dossiers | Issuing Authorities | Governing Open-Government Framework | Canonical Archive Hub |
 | :--- | :--- | :--- | :--- | :--- |
 | **[United States](https://www.indexdata.org/united-states/)** | `14,997` | `216` | *17 U.S.C. § 105* | [https://www.indexdata.org/united-states/](https://www.indexdata.org/united-states/) |
-| **[United Kingdom](https://www.indexdata.org/united-kingdom/)** | `2,152` | `37` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.indexdata.org/united-kingdom/](https://www.indexdata.org/united-kingdom/) |
+| **[United Kingdom](https://www.indexdata.org/united-kingdom/)** | `2,156` | `38` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.indexdata.org/united-kingdom/](https://www.indexdata.org/united-kingdom/) |
 | **[Canada](https://www.indexdata.org/canada/)** | `5,338` | `24` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.indexdata.org/canada/](https://www.indexdata.org/canada/) |
-| **[European Union](https://www.indexdata.org/european-union/)** | `2,545` | `27` | *Commission Decision 2011/833/EU* | [https://www.indexdata.org/european-union/](https://www.indexdata.org/european-union/) |
-| **[Australia](https://www.indexdata.org/australia/)** | `1,135` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.indexdata.org/australia/](https://www.indexdata.org/australia/) |
-| **[United Nations](https://www.indexdata.org/united-nations/)** | `6,699` | `170` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.indexdata.org/united-nations/](https://www.indexdata.org/united-nations/) |
+| **[European Union](https://www.indexdata.org/european-union/)** | `2,555` | `27` | *Commission Decision 2011/833/EU* | [https://www.indexdata.org/european-union/](https://www.indexdata.org/european-union/) |
+| **[Australia](https://www.indexdata.org/australia/)** | `1,136` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.indexdata.org/australia/](https://www.indexdata.org/australia/) |
+| **[United Nations](https://www.indexdata.org/united-nations/)** | `6,709` | `170` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.indexdata.org/united-nations/](https://www.indexdata.org/united-nations/) |
 | **[Ireland](https://www.indexdata.org/ireland/)** | `150` | `34` | *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)* | [https://www.indexdata.org/ireland/](https://www.indexdata.org/ireland/) |
 | **[International](https://www.indexdata.org/international/)** | `728` | `13` | *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0* | [https://www.indexdata.org/international/](https://www.indexdata.org/international/) |
 | **[Austria](https://www.indexdata.org/austria/)** | `147` | `17` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.indexdata.org/austria/](https://www.indexdata.org/austria/) |
@@ -234,10 +234,10 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Attorney-General's Department](https://www.indexdata.org/australia/attorney-general-s-department/)** | Australia | `184` | [https://www.indexdata.org/australia/attorney-general-s-department/](https://www.indexdata.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.indexdata.org/australia/attorney-general-s-department/feed/) |
 | **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** | United Kingdom | `181` | [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/) |
 | **[Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)** | United States | `179` | [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/) |
+| **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** | United Nations | `175` | [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) |
 | **[Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)** | United States | `174` | [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/) |
-| **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** | United Kingdom | `167` | [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/) |
 
-*To browse all `678` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.indexdata.org/methodology/)**.*
+*To browse all `679` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.indexdata.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
