@@ -129,6 +129,8 @@ tags:
   - vti
   - sgu
   - scb
+  - msb
+  - vetenskapsradet
   - singapore
   - parliament-of-singapore
   - supreme-court-of-singapore
@@ -149,8 +151,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-06 12:54 UTC`  
-**Total Indexed Public Records in Catalog:** `36,317` across `708` issuing authorities
+**Last Automated Sync:** `2026-11-06 13:56 UTC`  
+**Total Indexed Public Records in Catalog:** `36,357` across `708` issuing authorities
 
 ---
 
@@ -164,15 +166,15 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 
 | Jurisdiction | Indexed Dossiers | Issuing Authorities | Governing Open-Government Framework | Canonical Archive Hub |
 | :--- | :--- | :--- | :--- | :--- |
-| **[United States](https://www.indexdata.org/united-states/)** | `15,073` | `217` | *17 U.S.C. § 105* | [https://www.indexdata.org/united-states/](https://www.indexdata.org/united-states/) |
-| **[United Kingdom](https://www.indexdata.org/united-kingdom/)** | `2,275` | `50` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.indexdata.org/united-kingdom/](https://www.indexdata.org/united-kingdom/) |
+| **[United States](https://www.indexdata.org/united-states/)** | `15,074` | `217` | *17 U.S.C. § 105* | [https://www.indexdata.org/united-states/](https://www.indexdata.org/united-states/) |
+| **[United Kingdom](https://www.indexdata.org/united-kingdom/)** | `2,284` | `50` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.indexdata.org/united-kingdom/](https://www.indexdata.org/united-kingdom/) |
 | **[Canada](https://www.indexdata.org/canada/)** | `5,342` | `25` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.indexdata.org/canada/](https://www.indexdata.org/canada/) |
-| **[European Union](https://www.indexdata.org/european-union/)** | `2,945` | `29` | *Commission Decision 2011/833/EU* | [https://www.indexdata.org/european-union/](https://www.indexdata.org/european-union/) |
+| **[European Union](https://www.indexdata.org/european-union/)** | `2,954` | `29` | *Commission Decision 2011/833/EU* | [https://www.indexdata.org/european-union/](https://www.indexdata.org/european-union/) |
 | **[Australia](https://www.indexdata.org/australia/)** | `1,142` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.indexdata.org/australia/](https://www.indexdata.org/australia/) |
 | **[United Nations](https://www.indexdata.org/united-nations/)** | `6,912` | `171` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.indexdata.org/united-nations/](https://www.indexdata.org/united-nations/) |
 | **[Ireland](https://www.indexdata.org/ireland/)** | `158` | `34` | *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)* | [https://www.indexdata.org/ireland/](https://www.indexdata.org/ireland/) |
-| **[International](https://www.indexdata.org/international/)** | `869` | `15` | *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0* | [https://www.indexdata.org/international/](https://www.indexdata.org/international/) |
-| **[Austria](https://www.indexdata.org/austria/)** | `147` | `17` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.indexdata.org/austria/](https://www.indexdata.org/austria/) |
+| **[International](https://www.indexdata.org/international/)** | `871` | `15` | *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0* | [https://www.indexdata.org/international/](https://www.indexdata.org/international/) |
+| **[Austria](https://www.indexdata.org/austria/)** | `155` | `17` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.indexdata.org/austria/](https://www.indexdata.org/austria/) |
 | **[Switzerland](https://www.indexdata.org/switzerland/)** | `180` | `5` | *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)* | [https://www.indexdata.org/switzerland/](https://www.indexdata.org/switzerland/) |
 | **[Finland](https://www.indexdata.org/finland/)** | `45` | `8` | *Finnish Copyright Act (404/1961, s. 9) & CC BY 4.0 (JHS 189 / Finlex Open Data)* | [https://www.indexdata.org/finland/](https://www.indexdata.org/finland/) |
 | **[France](https://www.indexdata.org/france/)** | `281` | `3` | *Licence Ouverte / Open Licence 2.0 (Etalab) & Code des relations entre le public et l'administration (CRPA, Art. L.321-1 & L.323-2)* | [https://www.indexdata.org/france/](https://www.indexdata.org/france/) |
@@ -186,15 +188,15 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Brazil](https://www.indexdata.org/brazil/)** | `83` | `2` | *Brazilian Copyright Act (Law No. 9,610/1998, Art. 8, IV) & Access to Information Act (Law No. 12,527/2011 / Decree No. 8,777/2016)* | [https://www.indexdata.org/brazil/](https://www.indexdata.org/brazil/) |
 | **[Denmark](https://www.indexdata.org/denmark/)** | `22` | `3` | *Danish Copyright Act (Ophavsretsloven), s. 9 & Danish PSI / Open Data Licence (CC BY 4.0 / CC0)* | [https://www.indexdata.org/denmark/](https://www.indexdata.org/denmark/) |
 | **[Japan](https://www.indexdata.org/japan/)** | `55` | `7` | *Japanese Copyright Act (Act No. 48 of 1970), Art. 13 & Government of Japan Standard Terms of Use v2.0 (CC BY 4.0)* | [https://www.indexdata.org/japan/](https://www.indexdata.org/japan/) |
-| **[Russia](https://www.indexdata.org/russia/)** | `19` | `2` | *Civil Code of the Russian Federation, Part IV, Art. 1259(6)(1) & Open Government Data Standard* | [https://www.indexdata.org/russia/](https://www.indexdata.org/russia/) |
-| **[Sweden](https://www.indexdata.org/sweden/)** | `36` | `3` | *URL (1960:729) Ch. 1 Sec. 9 & Ch. 2 Sec. 26a / Open Data Act (2022:818) / CC0 1.0 / CC BY 4.0* | [https://www.indexdata.org/sweden/](https://www.indexdata.org/sweden/) |
-| **[Singapore](https://www.indexdata.org/singapore/)** | `55` | `6` | *Singapore Open Data Licence v1.0 & SSO Terms of Use (Clause 13)* | [https://www.indexdata.org/singapore/](https://www.indexdata.org/singapore/) |
+| **[Russia](https://www.indexdata.org/russia/)** | `24` | `2` | *Civil Code of the Russian Federation, Part IV, Art. 1259(6)(1) & Open Government Data Standard* | [https://www.indexdata.org/russia/](https://www.indexdata.org/russia/) |
+| **[Sweden](https://www.indexdata.org/sweden/)** | `36` | `3` | *URL 9 § (1960:729) / SFS 2022:818 / CC BY 4.0* | [https://www.indexdata.org/sweden/](https://www.indexdata.org/sweden/) |
+| **[Singapore](https://www.indexdata.org/singapore/)** | `59` | `6` | *Singapore Open Data Licence v1.0 & SSO Terms of Use (Clause 13)* | [https://www.indexdata.org/singapore/](https://www.indexdata.org/singapore/) |
 | **[China](https://www.indexdata.org/china/)** | `20` | `13` | *PRC Copyright Law Art. 5 & HKSAR Cap. 528 / DATA.GOV.HK Terms* | [https://www.indexdata.org/china/](https://www.indexdata.org/china/) |
-| **[Czechia](https://www.indexdata.org/czechia/)** | `32` | `8` | *Act No. 121/2000 Coll. § 3(a) & Act No. 106/1999 Coll. (CC BY 4.0 / Public Domain)* | [https://www.indexdata.org/czechia/](https://www.indexdata.org/czechia/) |
+| **[Czechia](https://www.indexdata.org/czechia/)** | `33` | `8` | *Act No. 121/2000 Coll. § 3(a) & Act No. 106/1999 Coll. (CC BY 4.0 / Public Domain)* | [https://www.indexdata.org/czechia/](https://www.indexdata.org/czechia/) |
 | **[Germany](https://www.indexdata.org/germany/)** | `148` | `5` | *§ 5 UrhG / § 12a EGovG / DNG (Datenlizenz Deutschland dl-de/by-2-0 & CC BY 4.0)* | [https://www.indexdata.org/germany/](https://www.indexdata.org/germany/) |
 | **[Estonia](https://www.indexdata.org/estonia/)** | `16` | `3` | *Estonian Copyright Act § 5(3)-(4), Public Information Act § 3¹ & Riigikogu Open Data Licence* | [https://www.indexdata.org/estonia/](https://www.indexdata.org/estonia/) |
 | **[Spain](https://www.indexdata.org/spain/)** | `35` | `8` | *Art. 13 TRLPI (RDL 1/1996) & Law 37/2007 on Re-use of Public Sector Information (RD 1495/2011)* | [https://www.indexdata.org/spain/](https://www.indexdata.org/spain/) |
-| **[Israel](https://www.indexdata.org/israel/)** | `127` | `14` | *Copyright Act, 5768-2007, Section 6 (Official Publications) & Data.gov.il Open Government Data License* | [https://www.indexdata.org/israel/](https://www.indexdata.org/israel/) |
+| **[Israel](https://www.indexdata.org/israel/)** | `128` | `14` | *Copyright Act, 5768-2007, Section 6 (Official Publications) & Data.gov.il Open Government Data License* | [https://www.indexdata.org/israel/](https://www.indexdata.org/israel/) |
 | **[Portugal](https://www.indexdata.org/portugal/)** | `4` | `2` | *Law No. 68/2021 (Open Data Principles), Law No. 26/2016 (LADA) & Art. 7 CDADC (Decree-Law No. 63/85)* | [https://www.indexdata.org/portugal/](https://www.indexdata.org/portugal/) |
 | **[Netherlands](https://www.indexdata.org/netherlands/)** | `4` | `2` | *Open Government / Statutory Public Sector Reuse Framework* | [https://www.indexdata.org/netherlands/](https://www.indexdata.org/netherlands/) |
 
@@ -219,14 +221,14 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** | United Nations | `478` | [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/) |
 | **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** | United Nations | `462` | [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/) |
 | **[Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)** | Australia | `376` | [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/) |
-| **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** | European Union | `362` | [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) |
+| **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** | European Union | `370` | [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) |
 | **[Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)** | Canada | `360` | [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/) |
 | **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** | United Nations | `348` | [https://www.indexdata.org/united-nations/un-security-council-unsc/](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/) |
 | **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** | United States | `310` | [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/) |
 | **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** | United Kingdom | `293` | [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/) |
 | **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** | United States | `278` | [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/) |
 | **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** | United Nations | `270` | [https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/) |
-| **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** | United States | `266` | [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/) |
+| **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** | United States | `267` | [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/) |
 | **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** | United States | `261` | [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/) |
 | **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** | United States | `258` | [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/) |
 | **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** | United Nations | `250` | [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) |
