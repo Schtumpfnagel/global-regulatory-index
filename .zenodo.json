@@ -1,13 +1,13 @@
 {
   "upload_type": "dataset",
-  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 36,401 Official Dossiers",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 36,448 Official Dossiers",
   "creators": [
     {
       "name": "Index Data",
       "affiliation": "Index Data (indexdata.org)"
     }
   ],
-  "description": "<p>Automated, machine-readable bibliographic metadata catalog (CSV and JSONL) indexing <strong>36,401</strong> official primary and secondary laws, final and proposed rules, statutory instruments, and multilateral resolutions across <strong>714</strong> government departments, ministries, regulatory agencies, and multilateral organs across active jurisdictions: <a href='https://www.indexdata.org/united-states/'>United States</a>, <a href='https://www.indexdata.org/united-kingdom/'>United Kingdom</a>, <a href='https://www.indexdata.org/canada/'>Canada</a>, <a href='https://www.indexdata.org/european-union/'>European Union</a>, <a href='https://www.indexdata.org/australia/'>Australia</a>, <a href='https://www.indexdata.org/united-nations/'>United Nations</a>, <a href='https://www.indexdata.org/ireland/'>Ireland</a>, <a href='https://www.indexdata.org/international/'>International</a>, <a href='https://www.indexdata.org/austria/'>Austria</a>, <a href='https://www.indexdata.org/switzerland/'>Switzerland</a>, <a href='https://www.indexdata.org/finland/'>Finland</a>, <a href='https://www.indexdata.org/france/'>France</a>, <a href='https://www.indexdata.org/south-korea/'>South Korea</a>, <a href='https://www.indexdata.org/norway/'>Norway</a>, <a href='https://www.indexdata.org/italy/'>Italy</a>, <a href='https://www.indexdata.org/poland/'>Poland</a>, <a href='https://www.indexdata.org/south-africa/'>South Africa</a>, <a href='https://www.indexdata.org/india/'>India</a>, <a href='https://www.indexdata.org/belgium/'>Belgium</a>, <a href='https://www.indexdata.org/brazil/'>Brazil</a>, <a href='https://www.indexdata.org/denmark/'>Denmark</a>, <a href='https://www.indexdata.org/japan/'>Japan</a>, <a href='https://www.indexdata.org/russia/'>Russia</a>, <a href='https://www.indexdata.org/sweden/'>Sweden</a>, <a href='https://www.indexdata.org/singapore/'>Singapore</a>, <a href='https://www.indexdata.org/china/'>China</a>, <a href='https://www.indexdata.org/czechia/'>Czechia</a>, <a href='https://www.indexdata.org/germany/'>Germany</a>, <a href='https://www.indexdata.org/estonia/'>Estonia</a>, <a href='https://www.indexdata.org/spain/'>Spain</a>, <a href='https://www.indexdata.org/israel/'>Israel</a>, <a href='https://www.indexdata.org/portugal/'>Portugal</a>, <a href='https://www.indexdata.org/netherlands/'>Netherlands</a>.</p><p>Full plain-English executive briefings, structured HTML compliance matrices, semantic definition lists, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are accessible via each record's canonical URL on <a href='https://www.indexdata.org/'>https://www.indexdata.org</a> and the <a href='https://www.indexdata.org/methodology/'>Complete Issuing Authority Directory</a>.</p>",
+  "description": "<p>Automated, machine-readable bibliographic metadata catalog (CSV and JSONL) indexing <strong>36,448</strong> official primary and secondary laws, final and proposed rules, statutory instruments, and multilateral resolutions across <strong>725</strong> government departments, ministries, regulatory agencies, and multilateral organs across active jurisdictions: <a href='https://www.indexdata.org/united-states/'>United States</a>, <a href='https://www.indexdata.org/united-kingdom/'>United Kingdom</a>, <a href='https://www.indexdata.org/canada/'>Canada</a>, <a href='https://www.indexdata.org/european-union/'>European Union</a>, <a href='https://www.indexdata.org/australia/'>Australia</a>, <a href='https://www.indexdata.org/united-nations/'>United Nations</a>, <a href='https://www.indexdata.org/ireland/'>Ireland</a>, <a href='https://www.indexdata.org/international/'>International</a>, <a href='https://www.indexdata.org/austria/'>Austria</a>, <a href='https://www.indexdata.org/switzerland/'>Switzerland</a>, <a href='https://www.indexdata.org/finland/'>Finland</a>, <a href='https://www.indexdata.org/france/'>France</a>, <a href='https://www.indexdata.org/norway/'>Norway</a>, <a href='https://www.indexdata.org/italy/'>Italy</a>, <a href='https://www.indexdata.org/poland/'>Poland</a>, <a href='https://www.indexdata.org/south-africa/'>South Africa</a>, <a href='https://www.indexdata.org/india/'>India</a>, <a href='https://www.indexdata.org/belgium/'>Belgium</a>, <a href='https://www.indexdata.org/brazil/'>Brazil</a>, <a href='https://www.indexdata.org/japan/'>Japan</a>, <a href='https://www.indexdata.org/russia/'>Russia</a>, <a href='https://www.indexdata.org/sweden/'>Sweden</a>, <a href='https://www.indexdata.org/singapore/'>Singapore</a>, <a href='https://www.indexdata.org/china/'>China</a>, <a href='https://www.indexdata.org/czechia/'>Czechia</a>, <a href='https://www.indexdata.org/germany/'>Germany</a>, <a href='https://www.indexdata.org/denmark/'>Denmark</a>, <a href='https://www.indexdata.org/estonia/'>Estonia</a>, <a href='https://www.indexdata.org/spain/'>Spain</a>, <a href='https://www.indexdata.org/israel/'>Israel</a>, <a href='https://www.indexdata.org/portugal/'>Portugal</a>, <a href='https://www.indexdata.org/netherlands/'>Netherlands</a>, <a href='https://www.indexdata.org/south-korea/'>South Korea</a>.</p><p>Full plain-English executive briefings, structured HTML compliance matrices, semantic definition lists, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are accessible via each record's canonical URL on <a href='https://www.indexdata.org/'>https://www.indexdata.org</a> and the <a href='https://www.indexdata.org/methodology/'>Complete Issuing Authority Directory</a>.</p>",
   "access_right": "open",
   "license": "cc-by-4.0",
   "language": "eng",
@@ -63,17 +63,12 @@
     "amf",
     "cour des comptes",
     "dila",
-    "south korea",
-    "republic of korea",
-    "moef",
-    "kiep",
-    "kdi",
-    "bank of korea",
-    "gggi",
     "norway",
     "cristin",
     "nva",
     "state agencies",
+    "ombudsman",
+    "fdk",
     "international",
     "oecd",
     "policy papers",
@@ -111,14 +106,6 @@
     "supremo tribunal federal",
     "camara dos deputados",
     "fiocruz",
-    "denmark",
-    "geus",
-    "diis",
-    "royal danish library",
-    "open data dk",
-    "greenland",
-    "energy",
-    "geology",
     "japan",
     "e gov",
     "maff",
@@ -222,11 +209,6 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/south-korea/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    },
-    {
       "identifier": "https://www.indexdata.org/norway/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
@@ -258,11 +240,6 @@
     },
     {
       "identifier": "https://www.indexdata.org/brazil/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    },
-    {
-      "identifier": "https://www.indexdata.org/denmark/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -302,6 +279,11 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.indexdata.org/denmark/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.indexdata.org/estonia/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
@@ -323,6 +305,11 @@
     },
     {
       "identifier": "https://www.indexdata.org/netherlands/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.indexdata.org/south-korea/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     }
