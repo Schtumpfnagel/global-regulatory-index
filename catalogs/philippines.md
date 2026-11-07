@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `137` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-07 22:52 UTC`
+**Total Indexed Dossiers in Philippines:** `141` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-07 23:54 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (11 Authorities)
 
-- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
-- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
+- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
+- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–137 of 137)
+## Indexed Statutory & Regulatory Dossiers (Records 1–141 of 141)
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
@@ -62,6 +62,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-ind
 - `[`PH-MARINA-25998`]` **[Mphilgeps Posting – Various Electrical Supplier for 4th Qtr.](https://www.indexdata.org/mphilgeps-posting-various-electrical-supplier-for-4th-qtr/)** — `2026-10-20` | `3 Pages`
 - `[`PH-MARINA-25995`]` **[Request for Quotation – CPMRS of Aluminum Glass Doors and Windows](https://www.indexdata.org/request-for-quotation-cpmrs-of-aluminum-glass-doors-and-windows/)** — `2026-10-20` | `11 Pages`
 - `[`PH-MARINA-25994`]` **[Philgeps Posting – CPMRS of Aluminum Glass Doors and Windows](https://www.indexdata.org/philgeps-posting-cpmrs-of-aluminum-glass-doors-and-windows/)** — `2026-10-20` | `3 Pages`
+- `[`PH-MARINA-25980`]` **[01 TCI Part-A-Course-Framework Issue 01 Rev. 00](https://www.indexdata.org/01-tci-part-a-course-framework-issue-01-rev-00/)** — `2026-10-15` | `6 Pages`
+- `[`PH-MARINA-25979`]` **[02 TCI Part-B-Course-Outline Issue 01 Rev 00](https://www.indexdata.org/02-tci-part-b-course-outline-issue-01-rev-00/)** — `2026-10-15` | `3 Pages`
 
 ### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
@@ -89,6 +91,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-dru
 - `[`PH-FDA-123022`]` **[AFO-PLMD-ENG.2](https://www.indexdata.org/afo-plmd-eng-2/)** — `2026-11-03` | `3 Pages`
 - `[`PH-FDA-123021`]` **[AFO-PLMD-AO2(1)](https://www.indexdata.org/afo-plmd-ao21/)** — `2026-11-03` | `3 Pages`
 - `[`PH-FDA-123020`]` **[AFO-HRDD-AO2(2)](https://www.indexdata.org/afo-hrdd-ao22/)** — `2026-11-03` | `3 Pages`
+- `[`PH-FDA-123019`]` **[AFO-COA-AA6](https://www.indexdata.org/afo-coa-aa6/)** — `2026-11-03` | `3 Pages`
+- `[`PH-FDA-123018`]` **[AFO-AFMD-CASHIER-AO2(2)](https://www.indexdata.org/afo-afmd-cashier-ao22/)** — `2026-11-03` | `3 Pages`
 
 ### [Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-development-authority/](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
