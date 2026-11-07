@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,356` across `26` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,357` across `26` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-07 06:47 UTC`
+**Last Automated Sync:** `2026-11-07 07:57 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
 - **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
-- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
+- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
@@ -42,11 +42,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,356 of 5,356)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,357 of 5,357)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`P-4.6`]` **[An Act respecting payments to a trust established to provide provinces and territories with funding for community development](https://www.indexdata.org/an-act-respecting-payments-to-a-trust-established-to-provide-provinces-and-territories-with-funding-for-community-development/)** — `2026-09-30` | `5 Pages`
 - `[`P-4.4`]` **[Payment Clearing and Settlement Act](https://www.indexdata.org/payment-clearing-and-settlement-act/)** — `2026-09-30` | `52 Pages`
 - `[`P-4.3`]` **[Payment Card Networks Act](https://www.indexdata.org/payment-card-networks-act/)** — `2026-09-30` | `8 Pages`
 - `[`P-4.2`]` **[Pay Equity Act](https://www.indexdata.org/pay-equity-act/)** — `2026-09-30` | `105 Pages`

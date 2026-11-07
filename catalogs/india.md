@@ -4,21 +4,22 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/india/](https://www.indexdata.org/india/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/india/feed/](https://www.indexdata.org/india/feed/)  
 **Wikidata Sovereign Entity:** [`Q668`](https://www.wikidata.org/wiki/Q668)  
-**Governing Open-Government Framework:** *Indian Copyright Act 1957, s. 52(1)(q) & GODL-India*  
-**Total Indexed Dossiers in India:** `11` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-07 06:47 UTC`
+**Governing Open-Government Framework:** *Section 52(1)(q) Copyright Act, 1957 & GODL-India*  
+**Total Indexed Dossiers in India:** `15` across `4` issuing authorities  
+**Last Automated Sync:** `2026-11-07 07:57 UTC`
 
 ---
 
-## Issuing Authorities in India (3 Authorities)
+## Issuing Authorities in India (4 Authorities)
 
 - **[Committee on Agriculture, Animal Husbandry and Food Processing](https://www.indexdata.org/india/committee-on-agriculture-animal-husbandry-and-food-processing/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/india/committee-on-agriculture-animal-husbandry-and-food-processing/) | [RSS Feed](https://www.indexdata.org/india/committee-on-agriculture-animal-husbandry-and-food-processing/feed/)
+- **[Central Pollution Control Board (CPCB)](https://www.indexdata.org/india/central-pollution-control-board-cpcb/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/india/central-pollution-control-board-cpcb/) | [RSS Feed](https://www.indexdata.org/india/central-pollution-control-board-cpcb/feed/)
 - **[Committee on Government Assurances](https://www.indexdata.org/india/committee-on-government-assurances/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/india/committee-on-government-assurances/) | [RSS Feed](https://www.indexdata.org/india/committee-on-government-assurances/feed/)
 - **[Estimates Committee](https://www.indexdata.org/india/estimates-committee/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/india/estimates-committee/) | [RSS Feed](https://www.indexdata.org/india/estimates-committee/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–11 of 11)
+## Indexed Statutory & Regulatory Dossiers (Records 1–15 of 15)
 
 ### [Committee on Agriculture, Animal Husbandry and Food Processing](https://www.indexdata.org/india/committee-on-agriculture-animal-husbandry-and-food-processing/)
 Canonical Authority Archive: [https://www.indexdata.org/india/committee-on-agriculture-animal-husbandry-and-food-processing/](https://www.indexdata.org/india/committee-on-agriculture-animal-husbandry-and-food-processing/) | [RSS Feed](https://www.indexdata.org/india/committee-on-agriculture-animal-husbandry-and-food-processing/feed/)
@@ -31,6 +32,14 @@ Canonical Authority Archive: [https://www.indexdata.org/india/committee-on-agric
 - `[`IN-SANSAD-1538510`]` **[Forty-First Report of the Standing Committee on Agriculture, Animal Husbandry and Food Processing (18th Lok Sabha) on Action Taken by the Government on the Observations/Recommendations contained in the Twenty First Report (Eighteenth Lok Sabha) of the Standing Committee on Agriculture, Animal Husbandry and Food Processing (2024-25) on the Subject ''Initiatives Taken in Food Processing Sector under 'Make in India' Program'' pertaining to the Ministry of Food Processing Industries.](https://www.indexdata.org/forty-first-report-of-the-standing-committee-on-agriculture-animal-husbandry-and-food-processing-18th-lok-sabha-on-action-taken-by-the-government-on-the-observations-recommendations-contained-in-th/)** — `2026-08-12` | `55 Pages`
 - `[`IN-SANSAD-1538509`]` **[Fortieth Report of the Standing Committee on Agriculture, Animal Husbandry and Food Processing (18th Lok Sabha) on Action Taken by the Government on the Observations/Recommendations contained in the Twentieth Report (Eighteenth Lok Sabha) of the Standing Committee on Agriculture, Animal Husbandry and Food Processing (2024-25) on the Subject ''Development and Modernization of Fishing Harbours'' pertaining to the Ministry of Fisheries, Animal Husbandry and Dairying (Department of Fisheries).](https://www.indexdata.org/fortieth-report-of-the-standing-committee-on-agriculture-animal-husbandry-and-food-processing-18th-lok-sabha-on-action-taken-by-the-government-on-the-observations-recommendations-contained-in-the-t/)** — `2026-08-12` | `44 Pages`
 - `[`IN-SANSAD-1538508`]` **[Thirty-Ninth Report of the Standing Committee on Agriculture, Animal Husbandry and Food Processing (18th Lok Sabha) on Action-taken by the Government on the Observations/Recommendations contained in the Fourteenth Report (Eighteenth Lok Sabha) of the Standing Committee on Agriculture, Animal Husbandry and Food Processing (2024-25) on the subject "Role of National Dairy Development Board for Protection and Development of Indigenous Cattle Breeds" pertaining to the Ministry of Fisheries, Animal Husbandry and Dairying (Department of Animal Husbandry and Dairying).](https://www.indexdata.org/thirty-ninth-report-of-the-standing-committee-on-agriculture-animal-husbandry-and-food-processing-18th-lok-sabha-on-action-taken-by-the-government-on-the-observations-recommendations-contained-in-t/)** — `2026-08-12` | `71 Pages`
+
+### [Central Pollution Control Board (CPCB)](https://www.indexdata.org/india/central-pollution-control-board-cpcb/)
+Canonical Authority Archive: [https://www.indexdata.org/india/central-pollution-control-board-cpcb/](https://www.indexdata.org/india/central-pollution-control-board-cpcb/) | [RSS Feed](https://www.indexdata.org/india/central-pollution-control-board-cpcb/feed/)
+
+- `[`IN-CPCB-OA-360-NGT-District-Envionment-Plan`]` **[OA 360 NGT District Envionment Plan](https://www.indexdata.org/oa-360-ngt-district-envionment-plan/)** — `2020-10-05` | `16 Pages`
+- `[`IN-CPCB-Nomination_of_CPIO`]` **[Central Pollution Control Board (CPCB) — Nomination of CPIO](https://www.indexdata.org/central-pollution-control-board-cpcb-nomination-of-cpio/)** — `2020-10-05` | `4 Pages`
+- `[`IN-CPCB-NPS_Application_-Latest-_Form`]` **[Central Pollution Control Board (CPCB) — NPS Application (Latest) Form](https://www.indexdata.org/central-pollution-control-board-cpcb-nps-application-latest-form/)** — `2020-10-05` | `6 Pages`
+- `[`IN-CPCB-Docs_to_be_submitted`]` **[Central Pollution Control Board (CPCB) — Docs to be submitted](https://www.indexdata.org/central-pollution-control-board-cpcb-docs-to-be-submitted/)** — `2020-10-05` | `18 Pages`
 
 ### [Committee on Government Assurances](https://www.indexdata.org/india/committee-on-government-assurances/)
 Canonical Authority Archive: [https://www.indexdata.org/india/committee-on-government-assurances/](https://www.indexdata.org/india/committee-on-government-assurances/) | [RSS Feed](https://www.indexdata.org/india/committee-on-government-assurances/feed/)
