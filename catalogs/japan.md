@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q17`](https://www.wikidata.org/wiki/Q17)  
 **Governing Open-Government Framework:** *Japanese Copyright Act (Act No. 48 of 1970), Art. 13 & Government of Japan Standard Terms of Use v2.0 (CC BY 4.0)*  
 **Total Indexed Dossiers in Japan:** `55` across `7` issuing authorities  
-**Last Automated Sync:** `2026-11-07 09:59 UTC`
+**Last Automated Sync:** `2026-11-07 10:53 UTC`
 
 ---
 

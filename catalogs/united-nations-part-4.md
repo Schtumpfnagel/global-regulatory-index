@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,923` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,924` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-07 09:59 UTC`
+**Last Automated Sync:** `2026-11-07 10:53 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`109` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`110` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,923)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,924)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1132,7 +1132,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-human-
 - `[`UN-A-HRC-WGAD-2024-33`]` **[Opinions adopted by the Working Group on Arbitrary Detention at its 100th session, 26-30 August 2024 — Opinion No. 33/2024 concerning Akin Öztürk (Türkiye)](https://www.indexdata.org/a-hrc-wgad-2024-33-opinions-adopted-by-the-working-group-on-arbitrary-detention-at-its-100th-session-26-30-august-2024-opinion-no-33-2024-concerning-akin-ozturk-turkiye/)** — `2024-11-29` | `13 Pages`
 - `[`UN-CCPR-C-TUR-CO-2`]` **[Concluding observations on the 2nd periodic report of Türkiye — Human Rights Committee](https://www.indexdata.org/ccpr-c-tur-co-2-concluding-observations-on-the-2nd-periodic-report-of-turkiye-human-rights-committee/)** — `2024-11-28` | `15 Pages`
 - `[`UN-CCPR-C-GRC-CO-3`]` **[Concluding observations on the 3rd periodic report of Greece — Human Rights Committee](https://www.indexdata.org/ccpr-c-grc-co-3-concluding-observations-on-the-3rd-periodic-report-of-greece-human-rights-committee/)** — `2024-11-28` | `10 Pages`
-- `[`UN-CRPD-C-BLR-FCO-1`]` **[Information received from Belarus on follow-up to the concluding observations on its initial report — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-blr-fco-1-information-received-from-belarus-on-follow-up-to-the-concluding-observations-on-its-initial-report-committee-on-the-rights-of-persons-with-disabilities/)** — `2024-11-27` | `5 Pages`
 
 ### [UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-security-council-unsc/](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -1417,6 +1416,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-econom
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 
+- `[`UN-E-CN.6-2026-NGO-178`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-178-statement/)** — `2026-01-12` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-177`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-177-statement/)** — `2026-01-12` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-176`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-176-statement/)** — `2026-01-12` | `5 Pages`
 - `[`UN-E-CN.6-2026-NGO-175`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-175-statement/)** — `2026-01-12` | `4 Pages`

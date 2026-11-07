@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,923` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,924` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-07 09:59 UTC`
+**Last Automated Sync:** `2026-11-07 10:53 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`109` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`110` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,923)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,924)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-81-126`]` **[Industrial development cooperation — note](https://www.indexdata.org/a-81-126-industrial-development-cooperation-note/)** — `2026-07-01` | `18 Pages`
 - `[`UN-A-81-119`]` **[Election of members of the International Court of Justice : list of nominations by national groups : curricula vitae of the candidates nominated by national groups — note](https://www.indexdata.org/a-81-119-election-of-members-of-the-international-court-of-justice-list-of-nominations-by-national-groups-curricula-vitae-of-the-candidates-nominated-by-national-groups-note/)** — `2026-07-01` | `66 Pages`
 - `[`UN-A-81-118`]` **[Election of members of the International Court of Justice : list of nominations by national groups — note](https://www.indexdata.org/a-81-118-election-of-members-of-the-international-court-of-justice-list-of-nominations-by-national-groups-note/)** — `2026-07-01` | `8 Pages`
 - `[`UN-A-81-117`]` **[Election of members of the International Court of Justice — memorandum](https://www.indexdata.org/a-81-117-election-of-members-of-the-international-court-of-justice-memorandum/)** — `2026-07-01` | `3 Pages`
@@ -808,7 +809,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-80-604`]` **[Observations and recommendations on cross-cutting issues related to peacekeeping operations — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-604-observations-and-recommendations-on-cross-cutting-issues-related-to-peacekeeping-operations-report-of-the-advisory-committee-on-administrative-and-budgetary-questions/)** — `2026-04-17` | `82 Pages`
 - `[`UN-A-HRC-62-43-Add.1`]` **[Visit to Guatemala — report of the Special Rapporteur on the Independence of Judges and Lawyers](https://www.indexdata.org/a-hrc-62-43-add-1-visit-to-guatemala-report-of-the-special-rapporteur-on-the-independence-of-judges-and-lawyers/)** — `2026-04-16` | `20 Pages`
 - `[`UN-A-HRC-62-15`]` **[Report of the Working Group on the Universal Periodic Review — Saint Kitts and Nevis](https://www.indexdata.org/a-hrc-62-15-report-of-the-working-group-on-the-universal-periodic-review-saint-kitts-and-nevis/)** — `2026-04-16` | `24 Pages`
-- `[`UN-A-HRC-62-11-Add.1`]` **[Report of the Working Group on the Universal Periodic Review — Oman : addendum](https://www.indexdata.org/a-hrc-62-11-add-1-report-of-the-working-group-on-the-universal-periodic-review-oman-addendum/)** — `2026-04-16` | `10 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)

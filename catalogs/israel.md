@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q801`](https://www.wikidata.org/wiki/Q801)  
 **Governing Open-Government Framework:** *Copyright Act, 5768-2007, Section 6 (Official Publications) & Data.gov.il Open Government Data License*  
 **Total Indexed Dossiers in Israel:** `128` across `14` issuing authorities  
-**Last Automated Sync:** `2026-11-07 09:59 UTC`
+**Last Automated Sync:** `2026-11-07 10:53 UTC`
 
 ---
 

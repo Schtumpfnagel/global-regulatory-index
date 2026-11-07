@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,923` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,924` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-07 09:59 UTC`
+**Last Automated Sync:** `2026-11-07 10:53 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`109` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`110` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,923 of 6,923)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,924 of 6,924)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -963,6 +963,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-genera
 ### [UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 
+- `[`UN-CRPD-C-BLR-FCO-1`]` **[Information received from Belarus on follow-up to the concluding observations on its initial report — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-blr-fco-1-information-received-from-belarus-on-follow-up-to-the-concluding-observations-on-its-initial-report-committee-on-the-rights-of-persons-with-disabilities/)** — `2024-11-27` | `5 Pages`
 - `[`UN-CERD-C-TJK-FCO-12-13`]` **[Information received from Tajikistan on follow-up to the concluding observations on its combined 12th and 13th periodic reports — Committee on the Elimination of Racial Discrimination](https://www.indexdata.org/cerd-c-tjk-fco-12-13-information-received-from-tajikistan-on-follow-up-to-the-concluding-observations-on-its-combined-12th-and-13th-periodic-reports-committee-on-the-elimination-of-racial/)** — `2024-11-27` | `4 Pages`
 - `[`UN-CAT-C-EGY-FCO-5`]` **[Information received from Egypt on follow-up to the concluding observations on its 5th periodic report — Committee against Torture](https://www.indexdata.org/cat-c-egy-fco-5-information-received-from-egypt-on-follow-up-to-the-concluding-observations-on-its-5th-periodic-report-committee-against-torture/)** — `2024-11-26` | `6 Pages`
 - `[`UN-A-HRC-57-NGO-212`]` **[The Impacts of Unilateral Coercive Measures on Child Labour in a Country](https://www.indexdata.org/the-impacts-of-unilateral-coercive-measures-on-child-labour-in-a-country/)** — `2024-08-28` | `3 Pages`
