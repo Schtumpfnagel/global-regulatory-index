@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/belgium/](https://www.indexdata.org/belgium/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/belgium/feed/](https://www.indexdata.org/belgium/feed/)  
+**Wikidata Sovereign Entity:** [`Q31`](https://www.wikidata.org/wiki/Q31)  
 **Governing Open-Government Framework:** *Belgian Code of Economic Law (CDE/WER) Art. XI.172 & Law of 4 May 2016 on Re-use of Public Sector Information*  
 **Total Indexed Dossiers in Belgium:** `25` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/south-africa/](https://www.indexdata.org/south-africa/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/south-africa/feed/](https://www.indexdata.org/south-africa/feed/)  
+**Wikidata Sovereign Entity:** [`Q258`](https://www.wikidata.org/wiki/Q258)  
 **Governing Open-Government Framework:** *South African Copyright Act 98 of 1978, s. 12(8)(a)*  
 **Total Indexed Dossiers in South Africa:** `46` across `15` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

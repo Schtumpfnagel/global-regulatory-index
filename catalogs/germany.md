@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/germany/](https://www.indexdata.org/germany/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/germany/feed/](https://www.indexdata.org/germany/feed/)  
-**Governing Open-Government Framework:** *§ 5 UrhG / § 12a EGovG / DNG (Datenlizenz Deutschland dl-de/by-2-0 & CC BY 4.0)*  
-**Total Indexed Dossiers in Germany:** `148` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Wikidata Sovereign Entity:** [`Q183`](https://www.wikidata.org/wiki/Q183)  
+**Governing Open-Government Framework:** *UrhG § 5 / DL-DE->BY-2.0*  
+**Total Indexed Dossiers in Germany:** `149` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 
@@ -14,12 +15,12 @@
 - **[Federal Ministry of Justice (BMJ)](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/)** (`113` dossiers) — [Authority Archive](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/) | [RSS Feed](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/feed/)
 - **[Federal Agency for Nature Conservation (Bundesamt für Naturschutz - BfN)](https://www.indexdata.org/germany/federal-agency-for-nature-conservation-bundesamt-f-r-naturschutz-bfn/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/germany/federal-agency-for-nature-conservation-bundesamt-f-r-naturschutz-bfn/) | [RSS Feed](https://www.indexdata.org/germany/federal-agency-for-nature-conservation-bundesamt-f-r-naturschutz-bfn/feed/)
 - **[Federal Environment Agency (Umweltbundesamt - UBA)](https://www.indexdata.org/germany/federal-environment-agency-umweltbundesamt-uba/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/germany/federal-environment-agency-umweltbundesamt-uba/) | [RSS Feed](https://www.indexdata.org/germany/federal-environment-agency-umweltbundesamt-uba/feed/)
-- **[Physikalisch-Technische Bundesanstalt (PTB)](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/) | [RSS Feed](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/feed/)
+- **[Physikalisch-Technische Bundesanstalt (PTB)](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/) | [RSS Feed](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/feed/)
 - **[Robert Koch Institute (RKI)](https://www.indexdata.org/germany/robert-koch-institute-rki/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/germany/robert-koch-institute-rki/) | [RSS Feed](https://www.indexdata.org/germany/robert-koch-institute-rki/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–148 of 148)
+## Indexed Statutory & Regulatory Dossiers (Records 1–149 of 149)
 
 ### [Federal Ministry of Justice (BMJ)](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/)
 Canonical Authority Archive: [https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/) | [RSS Feed](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/feed/)
@@ -178,6 +179,7 @@ Canonical Authority Archive: [https://www.indexdata.org/germany/physikalisch-tec
 - `[`DE-PTB-10.7795-810.20130620O`]` **[The INRIM 1D comparator with a new interferometric set-up for measurement of diameter gauges and linear artefacts](https://www.indexdata.org/the-inrim-1d-comparator-with-a-new-interferometric-set-up-for-measurement-of-diameter-gauges-and-linear-artefacts/)** — `2026-07-21` | `4 Pages`
 - `[`DE-PTB-10.7795-810.20130620K`]` **[Subnanometer absolute measurements by means of mixed synthetic-optical homodyne interferometer](https://www.indexdata.org/subnanometer-absolute-measurements-by-means-of-mixed-synthetic-optical-homodyne-interferometer/)** — `2026-07-21` | `6 Pages`
 - `[`DE-PTB-10.7795-810.20130620F`]` **[Precision angle comparator using self-calibration of scale errors based on the equal-division-averaged method](https://www.indexdata.org/precision-angle-comparator-using-self-calibration-of-scale-errors-based-on-the-equal-division-averaged-method/)** — `2026-07-21` | `4 Pages`
+- `[`DE-PTB-10.7795-110.20130617A`]` **[Reality – governed by six invariant fundamental constants: A metrological view on the unity of physics](https://www.indexdata.org/reality-governed-by-six-invariant-fundamental-constants-a-metrological-view-on-the-unity-of-physics/)** — `2013-12-20` | `30 Pages`
 
 ### [Robert Koch Institute (RKI)](https://www.indexdata.org/germany/robert-koch-institute-rki/)
 Canonical Authority Archive: [https://www.indexdata.org/germany/robert-koch-institute-rki/](https://www.indexdata.org/germany/robert-koch-institute-rki/) | [RSS Feed](https://www.indexdata.org/germany/robert-koch-institute-rki/feed/)

@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/ireland/](https://www.indexdata.org/ireland/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
+**Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
 **Total Indexed Dossiers in Ireland:** `159` across `34` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

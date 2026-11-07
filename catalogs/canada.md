@@ -1,12 +1,13 @@
-# Canada — Official Legislation, Regulations & Statutory Dossiers (Part 1 of 3)
+# Canada — Official Legislation, Regulations & Statutory Dossiers (Part 1 of 4)
 
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/canada/](https://www.indexdata.org/canada/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
+**Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,351` across `26` issuing authorities  
-**Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md)  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Total Indexed Dossiers in Canada:** `5,356` across `26` issuing authorities  
+**Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 
@@ -28,11 +29,11 @@
 - **[Immigration, Refugees and Citizenship Canada](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/) | [RSS Feed](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/feed/)
 - **[Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
-- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
+- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
+- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
-- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
 - **[Government of Ontario](https://www.indexdata.org/canada/government-of-ontario/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-ontario/) | [RSS Feed](https://www.indexdata.org/canada/government-of-ontario/feed/)
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
@@ -41,7 +42,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,800 of 5,351)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,356)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -971,198 +972,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-62-1`]` **[Ontario Onion Growers’ Marketing Order](https://www.indexdata.org/ontario-onion-growers-marketing-order/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-61-378`]` **[Agassiz Correctional Camp, Petawawa Correctional Camp and Gatineau Correctional Camp Lands Proclaimed Penitentiaries](https://www.indexdata.org/agassiz-correctional-camp-petawawa-correctional-camp-and-gatineau-correctional-camp-lands-proclaimed-penitentiaries/)** — `2026-09-30` | `8 Pages`
 - `[`SOR-60-481`]` **[Quebec Apple Growers’ Marketing Order](https://www.indexdata.org/quebec-apple-growers-marketing-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-57-216`]` **[Dominion Succession Duty (1957) Regulations](https://www.indexdata.org/dominion-succession-duty-1957-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-57-176`]` **[Joyceville Institution Proclaimed a Penitentiary for Ontario](https://www.indexdata.org/joyceville-institution-proclaimed-a-penitentiary-for-ontario/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-56-290`]` **[Saskatchewan Penitentiary proclaimed a penitentiary for Alberta and Saskatchewan](https://www.indexdata.org/saskatchewan-penitentiary-proclaimed-a-penitentiary-for-alberta-and-saskatchewan/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-54-743`]` **[Dominion Succession Duty Regulations](https://www.indexdata.org/dominion-succession-duty-regulations/)** — `2026-09-30` | `36 Pages`
-- `[`SOR-54-578`]` **[War Claims Regulations](https://www.indexdata.org/war-claims-regulations/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-2026-88`]` **[Maintenance and Repair of Ontario Municipal Drains Regulations](https://www.indexdata.org/maintenance-and-repair-of-ontario-municipal-drains-regulations/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-2026-79`]` **[Critical Habitat of the Channel Darter (Percina copelandi) Lake Ontario Populations Order](https://www.indexdata.org/critical-habitat-of-the-channel-darter-percina-copelandi-lake-ontario-populations-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2026-78`]` **[Critical Habitat of the Channel Darter (Percina copelandi) Lake Erie Populations Order](https://www.indexdata.org/critical-habitat-of-the-channel-darter-percina-copelandi-lake-erie-populations-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2026-67`]` **[Proclamation Designating the Republic of the Philippines as a Designated State for the Purposes of the Visiting Forces Act](https://www.indexdata.org/proclamation-designating-the-republic-of-the-philippines-as-a-designated-state-for-the-purposes-of-the-visiting-forces-act/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2026-56`]` **[Critical Habitat of the Plains Minnow (Hybognathus placitus) Order](https://www.indexdata.org/critical-habitat-of-the-plains-minnow-hybognathus-placitus-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2026-48`]` **[Order Extending the Application of the Freezing Assets of Corrupt Foreign Officials (Tunisia) Regulations](https://www.indexdata.org/order-extending-the-application-of-the-freezing-assets-of-corrupt-foreign-officials-tunisia-regulations/)** — `2026-09-30` | `4 Pages`
-- `[`SOR-2026-4`]` **[Critical Habitat of the Silver Chub (Macrhybopsis storeriana) Great Lakes – Upper St. Lawrence Populations Order](https://www.indexdata.org/critical-habitat-of-the-silver-chub-macrhybopsis-storeriana-great-lakes-upper-st-lawrence-populations-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2026-34`]` **[Steel Derivative Goods Surtax Remission Order](https://www.indexdata.org/steel-derivative-goods-surtax-remission-order/)** — `2026-09-30` | `18 Pages`
-- `[`SOR-2026-3175`]` **[Select Luxury Items Tax Regulations](https://www.indexdata.org/select-luxury-items-tax-regulations/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2026-202`]` **[High Risk Child Sex Offender Database Regulations](https://www.indexdata.org/high-risk-child-sex-offender-database-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2026-189`]` **[Second International Conference on Returning Ukrainian Children, Detained Civilians, and Prisoners of War Privileges and Immunities Order](https://www.indexdata.org/second-international-conference-on-returning-ukrainian-children-detained-civilians-and-prisoners-of-war-privileges-and-immunities-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2026-186`]` **[United States Surtax Order (2026)](https://www.indexdata.org/united-states-surtax-order-2026/)** — `2026-09-30` | `17 Pages`
-- `[`SOR-2026-183`]` **[Critical Habitat of the Piping Plover melodus subspecies (Charadrius melodus melodus) Order](https://www.indexdata.org/critical-habitat-of-the-piping-plover-melodus-subspecies-charadrius-melodus-melodus-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2026-171`]` **[Canadian Industrial Hemp Promotion-Research Levies Order](https://www.indexdata.org/canadian-industrial-hemp-promotion-research-levies-order/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-2026-169`]` **[Certain Wood Cabinet and Vanity Goods Surtax Order](https://www.indexdata.org/certain-wood-cabinet-and-vanity-goods-surtax-order/)** — `2026-09-30` | `12 Pages`
-- `[`SOR-2026-162`]` **[Order Providing for Reliance on Decisions of, or Documents Produced by, Foreign Regulatory Authorities in Respect of Certain Drugs](https://www.indexdata.org/order-providing-for-reliance-on-decisions-of-or-documents-produced-by-foreign-regulatory-authorities-in-respect-of-certain-drugs/)** — `2026-09-30` | `29 Pages`
-- `[`SOR-2026-152`]` **[Foreign Influence Transparency and Accountability Regulations](https://www.indexdata.org/foreign-influence-transparency-and-accountability-regulations/)** — `2026-09-30` | `16 Pages`
-- `[`SOR-2026-146`]` **[Honda Canada Inc. Remission Order](https://www.indexdata.org/honda-canada-inc-remission-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2026-141`]` **[Railway Personnel Training and Qualifications Regulations](https://www.indexdata.org/railway-personnel-training-and-qualifications-regulations/)** — `2026-09-30` | `17 Pages`
-- `[`SOR-2026-135`]` **[Certain Canned Vegetable Goods Surtax Order](https://www.indexdata.org/certain-canned-vegetable-goods-surtax-order/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2026-133`]` **[Canadian Payments Association By-law No. 10 — RTR](https://www.indexdata.org/canadian-payments-association-by-law-no-10-rtr/)** — `2026-09-30` | `29 Pages`
-- `[`SOR-2026-126`]` **[CICEPA Tariff Preference Regulations](https://www.indexdata.org/cicepa-tariff-preference-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2026-125`]` **[CICEPA Rules of Origin for Casual Goods Regulations](https://www.indexdata.org/cicepa-rules-of-origin-for-casual-goods-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2026-124`]` **[CICEPA Rules of Origin Regulations](https://www.indexdata.org/cicepa-rules-of-origin-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2026-111`]` **[Order Exempting Certain Navigable Waters Located in Newfoundland and Labrador from the Application of Sections 22 and 23 of the Canadian Navigable Waters Act](https://www.indexdata.org/order-exempting-certain-navigable-waters-located-in-newfoundland-and-labrador-from-the-application-of-sections-22-and-23-of-the-canadian-navigable-waters-act/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2026-108`]` **[Refined Sugar Anti-dumping Duty Remission Order, 2026](https://www.indexdata.org/refined-sugar-anti-dumping-duty-remission-order-2026/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2025-95`]` **[United States Surtax Order (Steel and Aluminum 2025)](https://www.indexdata.org/united-states-surtax-order-steel-and-aluminum-2025/)** — `2026-09-30` | `19 Pages`
-- `[`SOR-2025-94`]` **[Exemption Order in Respect of Labelling Requirements for Certain Natural Health Products](https://www.indexdata.org/exemption-order-in-respect-of-labelling-requirements-for-certain-natural-health-products/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2025-93`]` **[Order Establishing Supplementary Rules Respecting the Sale of Natural Health Products Containing Ephedrine or Pseudoephedrine](https://www.indexdata.org/order-establishing-supplementary-rules-respecting-the-sale-of-natural-health-products-containing-ephedrine-or-pseudoephedrine/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2025-88`]` **[Reduction in the Release of Volatile Organic Compounds (Storage and Loading of Volatile Petroleum Liquids) Regulations](https://www.indexdata.org/reduction-in-the-release-of-volatile-organic-compounds-storage-and-loading-of-volatile-petroleum-liquids-regulations/)** — `2026-09-30` | `125 Pages`
-- `[`SOR-2025-87`]` **[Order Declaring an Amnesty Period (2025)](https://www.indexdata.org/order-declaring-an-amnesty-period-2025/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-2025-66`]` **[United States Surtax Order (2025-1)](https://www.indexdata.org/united-states-surtax-order-2025-1/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2025-60`]` **[Order Designating Certain Excluded Classes of Projects](https://www.indexdata.org/order-designating-certain-excluded-classes-of-projects/)** — `2026-09-30` | `38 Pages`
-- `[`SOR-2025-51`]` **[Cost Recovery (Online News Act) Regulations](https://www.indexdata.org/cost-recovery-online-news-act-regulations/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2025-42`]` **[Canada’s 2025 G7 Presidency Privileges and Immunities Order](https://www.indexdata.org/canadas-2025-g7-presidency-privileges-and-immunities-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2025-4`]` **[Critical Habitat of the Redside Dace (Clinostomus elongatus) Order](https://www.indexdata.org/critical-habitat-of-the-redside-dace-clinostomus-elongatus-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2025-36`]` **[Certain Products Containing Toxic Substances Regulations](https://www.indexdata.org/certain-products-containing-toxic-substances-regulations/)** — `2026-09-30` | `20 Pages`
-- `[`SOR-2025-35`]` **[Canada Disability Benefit Regulations](https://www.indexdata.org/canada-disability-benefit-regulations/)** — `2026-09-30` | `30 Pages`
-- `[`SOR-2025-29`]` **[Order Respecting the Seizure of Property Situated in Canada (Aircraft RA-82078)](https://www.indexdata.org/order-respecting-the-seizure-of-property-situated-in-canada-aircraft-ra-82078/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2025-279`]` **[Landfill Methane Regulations](https://www.indexdata.org/landfill-methane-regulations/)** — `2026-09-30` | `38 Pages`
-- `[`SOR-2025-275`]` **[Vessel Traffic Services Zones Regulations](https://www.indexdata.org/vessel-traffic-services-zones-regulations-2/)** — `2026-09-30` | `26 Pages`
-- `[`SOR-2025-270`]` **[Prohibition of Certain Toxic Substances Regulations, 2025](https://www.indexdata.org/prohibition-of-certain-toxic-substances-regulations-2025/)** — `2026-09-30` | `43 Pages`
-- `[`SOR-2025-267`]` **[Steel Derivative Goods Surtax Order](https://www.indexdata.org/steel-derivative-goods-surtax-order/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-2025-25`]` **[Eligibility of Certain Former Members of the Canadian Forces Regulations](https://www.indexdata.org/eligibility-of-certain-former-members-of-the-canadian-forces-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2025-248`]` **[Exemption Order in Respect of Foods for a Special Dietary Purpose](https://www.indexdata.org/exemption-order-in-respect-of-foods-for-a-special-dietary-purpose/)** — `2026-09-30` | `16 Pages`
-- `[`SOR-2025-242`]` **[Controlled Substances Regulations](https://www.indexdata.org/controlled-substances-regulations/)** — `2026-09-30` | `173 Pages`
-- `[`SOR-2025-225`]` **[Free Trade and Labour Mobility in Canada Regulations](https://www.indexdata.org/free-trade-and-labour-mobility-in-canada-regulations/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-2025-220`]` **[FIFA Men’s World Cup 2026 Remission Order](https://www.indexdata.org/fifa-mens-world-cup-2026-remission-order/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-2025-165`]` **[Canada Deposit Insurance Corporation Differential Premiums By-law](https://www.indexdata.org/canada-deposit-insurance-corporation-differential-premiums-by-law-2/)** — `2026-09-30` | `30 Pages`
-- `[`SOR-2025-154`]` **[Steel Goods and Aluminum Goods Surtax Order](https://www.indexdata.org/steel-goods-and-aluminum-goods-surtax-order/)** — `2026-09-30` | `12 Pages`
-- `[`SOR-2025-15`]` **[United States Surtax Order (2025)](https://www.indexdata.org/united-states-surtax-order-2025/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2025-122`]` **[United States Surtax Remission Order (2025)](https://www.indexdata.org/united-states-surtax-remission-order-2025/)** — `2026-09-30` | `274 Pages`
-- `[`SOR-2025-12`]` **[China Surtax Remission Order (2024)](https://www.indexdata.org/china-surtax-remission-order-2024/)** — `2026-09-30` | `26 Pages`
-- `[`SOR-2024-89`]` **[Marketing Authorization to Permit a Lower Calcium Threshold for Exemptions from the Requirement for Prepackaged Products to Carry a Nutrition Symbol in the Case of Cheese, Yogurt, Kefir and Buttermilk](https://www.indexdata.org/marketing-authorization-to-permit-a-lower-calcium-threshold-for-exemptions-from-the-requirement-for-prepackaged-products-to-carry-a-nutrition-symbol-in-the-case-of-cheese-yogurt-kefir-and-buttermilk/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2024-88`]` **[Marketing Authorization for Vitamin D in Yogurt and Kefir](https://www.indexdata.org/marketing-authorization-for-vitamin-d-in-yogurt-and-kefir/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2024-71`]` **[Bank for International Settlements Privileges and Immunities Order](https://www.indexdata.org/bank-for-international-settlements-privileges-and-immunities-order/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2024-68`]` **[CUFTA Rules of Origin Regulations](https://www.indexdata.org/cufta-rules-of-origin-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2024-46`]` **[Broadcasting Fees Regulations](https://www.indexdata.org/broadcasting-fees-regulations/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2024-283`]` **[Preclearance in the United States Regulations](https://www.indexdata.org/preclearance-in-the-united-states-regulations/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-2024-26`]` **[Canada–Nova Scotia Offshore Area Petroleum Operations Framework Regulations](https://www.indexdata.org/canada-nova-scotia-offshore-area-petroleum-operations-framework-regulations/)** — `2026-09-30` | `188 Pages`
-- `[`SOR-2024-25`]` **[Canada–Newfoundland and Labrador Offshore Area Petroleum Operations Framework Regulations](https://www.indexdata.org/canada-newfoundland-and-labrador-offshore-area-petroleum-operations-framework-regulations/)** — `2026-09-30` | `188 Pages`
-- `[`SOR-2024-249`]` **[Order Declaring an Amnesty Period (2024)](https://www.indexdata.org/order-declaring-an-amnesty-period-2024/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-2024-230`]` **[National Parks of Canada Land Use Planning Regulations](https://www.indexdata.org/national-parks-of-canada-land-use-planning-regulations/)** — `2026-09-30` | `26 Pages`
-- `[`SOR-2024-220`]` **[Canadian Industrial Hemp Promotion-Research Agency Proclamation](https://www.indexdata.org/canadian-industrial-hemp-promotion-research-agency-proclamation/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-2024-217`]` **[Tents Regulations](https://www.indexdata.org/tents-regulations/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2024-21`]` **[Critical Habitat of the White Sturgeon (Acipenser transmontanus) Nechako River Population Order](https://www.indexdata.org/critical-habitat-of-the-white-sturgeon-acipenser-transmontanus-nechako-river-population-order/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2024-209`]` **[Ministerial Conference on the Human Dimension of Ukraine’s 10-Point Peace Formula Privileges and Immunities Order](https://www.indexdata.org/ministerial-conference-on-the-human-dimension-of-ukraines-10-point-peace-formula-privileges-and-immunities-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2024-195`]` **[Critical Habitat of the Spotted Gar (Lepisosteus oculatus) Order](https://www.indexdata.org/critical-habitat-of-the-spotted-gar-lepisosteus-oculatus-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2024-187`]` **[China Surtax Order (2024)](https://www.indexdata.org/china-surtax-order-2024/)** — `2026-09-30` | `13 Pages`
-- `[`SOR-2024-169`]` **[Supplementary Rules Respecting Nicotine Replacement Therapies Order](https://www.indexdata.org/supplementary-rules-respecting-nicotine-replacement-therapies-order/)** — `2026-09-30` | `14 Pages`
-- `[`SOR-2024-16`]` **[Locally Engaged Staff Employment Regulations, 2024](https://www.indexdata.org/locally-engaged-staff-employment-regulations-2024/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-2024-1597`]` **[Digital Services Tax Regulations](https://www.indexdata.org/digital-services-tax-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2024-150`]` **[Form of Proxy (Banks and Bank Holding Companies) Regulations, 2023](https://www.indexdata.org/form-of-proxy-banks-and-bank-holding-companies-regulations-2023/)** — `2026-09-30` | `12 Pages`
-- `[`SOR-2024-148`]` **[Canadian Navigable Waters Act Fees Regulations](https://www.indexdata.org/canadian-navigable-waters-act-fees-regulations/)** — `2026-09-30` | `17 Pages`
-- `[`SOR-2024-126`]` **[North Atlantic Treaty Organisation Privileges and Immunities Order](https://www.indexdata.org/north-atlantic-treaty-organisation-privileges-and-immunities-order/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-2024-125`]` **[CTMA Ranger Remission Order](https://www.indexdata.org/ctma-ranger-remission-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2024-117`]` **[Application of the Pay Equity Act to Ministers’ Offices Regulations](https://www.indexdata.org/application-of-the-pay-equity-act-to-ministers-offices-regulations/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-2024-116`]` **[Order Grouping Ministers’ Offices for the Purpose of a Pay Equity Plan](https://www.indexdata.org/order-grouping-ministers-offices-for-the-purpose-of-a-pay-equity-plan/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2024-114`]` **[Criminal Interest Rate Regulations](https://www.indexdata.org/criminal-interest-rate-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2024-110`]` **[Biocides Regulations](https://www.indexdata.org/biocides-regulations/)** — `2026-09-30` | `64 Pages`
-- `[`SOR-2024-102`]` **[Order Exempting Kapisikama Lake, Located in Quebec, from the Application of Section 23 of the Canadian Navigable Waters Act](https://www.indexdata.org/order-exempting-kapisikama-lake-located-in-quebec-from-the-application-of-section-23-of-the-canadian-navigable-waters-act/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2023-84`]` **[Associate Judges (Tax Court of Canada) Regulations](https://www.indexdata.org/associate-judges-tax-court-of-canada-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2023-83`]` **[Associate Judges (Federal Court) Regulations](https://www.indexdata.org/associate-judges-federal-court-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2023-5`]` **[Order Revoking the New Brunswick Translated Documents Regulations, SOR/93-9](https://www.indexdata.org/order-revoking-the-new-brunswick-translated-documents-regulations-sor-93-9/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2023-43`]` **[Large Diameter Line Pipe Anti-dumping Duty Remission Order, 2023](https://www.indexdata.org/large-diameter-line-pipe-anti-dumping-duty-remission-order-2023/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2023-39`]` **[Critical Habitat of the Silver Shiner (Notropis photogenis) Order](https://www.indexdata.org/critical-habitat-of-the-silver-shiner-notropis-photogenis-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2023-36`]` **[Medical Device Establishment Licence Fees Remission Order (Expedited Examination of Applications During the COVID-19 Pandemic)](https://www.indexdata.org/medical-device-establishment-licence-fees-remission-order-expedited-examination-of-applications-during-the-covid-19-pandemic/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2023-29`]` **[Order Establishing Criteria Related to Certain Offences Listed in the Schedule to the Expungement of Historically Unjust Convictions Act](https://www.indexdata.org/order-establishing-criteria-related-to-certain-offences-listed-in-the-schedule-to-the-expungement-of-historically-unjust-convictions-act/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-2023-276`]` **[Online News Act Application and Exemption Regulations](https://www.indexdata.org/online-news-act-application-and-exemption-regulations/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2023-271`]` **[Federal Prompt Payment for Construction Work Regulations (Dispute Resolution)](https://www.indexdata.org/federal-prompt-payment-for-construction-work-regulations-dispute-resolution/)** — `2026-09-30` | `13 Pages`
-- `[`SOR-2023-270`]` **[Order Designating Provinces Under Subsection 6(1) of the Federal Prompt Payment for Construction Work Act](https://www.indexdata.org/order-designating-provinces-under-subsection-61-of-the-federal-prompt-payment-for-construction-work-act/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2023-269`]` **[Federal Prompt Payment for Construction Work Regulations (Criteria, Time Limits, Interest and Circumstances)](https://www.indexdata.org/federal-prompt-payment-for-construction-work-regulations-criteria-time-limits-interest-and-circumstances/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2023-257`]` **[Vessel Construction and Equipment Regulations](https://www.indexdata.org/vessel-construction-and-equipment-regulations/)** — `2026-09-30` | `35 Pages`
-- `[`SOR-2023-239`]` **[Order Issuing Directions to the CRTC (Sustainable and Equitable Broadcasting Regulatory Framework)](https://www.indexdata.org/order-issuing-directions-to-the-crtc-sustainable-and-equitable-broadcasting-regulatory-framework/)** — `2026-09-30` | `12 Pages`
-- `[`SOR-2023-221`]` **[Critical Habitat of the Atlantic Mud-piddock (Barnea truncata) Order](https://www.indexdata.org/critical-habitat-of-the-atlantic-mud-piddock-barnea-truncata-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2023-213`]` **[Order Exempting Certain Navigable Waters Located in Quebec from the Application of Section 23 of the Canadian Navigable Waters Act](https://www.indexdata.org/order-exempting-certain-navigable-waters-located-in-quebec-from-the-application-of-section-23-of-the-canadian-navigable-waters-act/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2023-212`]` **[Direct Shipment (Most-Favoured-Nation Tariff, General Preferential Tariff, General Preferential Tariff Plus, Least Developed Country Tariff, Commonwealth Caribbean Countries Tariff, Australia Tariff and New Zealand Tariff) Regulations](https://www.indexdata.org/direct-shipment-most-favoured-nation-tariff-general-preferential-tariff-general-preferential-tariff-plus-least-developed-country-tariff-commonwealth-caribbean-countries-tariff-australia-tariff-a/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2023-210`]` **[General Preferential Tariff, General Preferential Tariff Plus and Least Developed Country Tariff Rules of Origin Regulations](https://www.indexdata.org/general-preferential-tariff-general-preferential-tariff-plus-and-least-developed-country-tariff-rules-of-origin-regulations/)** — `2026-09-30` | `12 Pages`
-- `[`SOR-2023-208`]` **[Least Developed Country Tariff Withdrawal (2023 LDCT Review) Order](https://www.indexdata.org/least-developed-country-tariff-withdrawal-2023-ldct-review-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2023-207`]` **[General Preferential Tariff Withdrawal and Extension (2023 GPT Review) Order](https://www.indexdata.org/general-preferential-tariff-withdrawal-and-extension-2023-gpt-review-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2023-203`]` **[Online Undertakings Registration Regulations](https://www.indexdata.org/online-undertakings-registration-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2023-198`]` **[Canada-CARICOM Summit 2023 Privileges and Immunities Order](https://www.indexdata.org/canada-caricom-summit-2023-privileges-and-immunities-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2023-197`]` **[Investments in Permitted Infrastructure Entities Regulations](https://www.indexdata.org/investments-in-permitted-infrastructure-entities-regulations/)** — `2026-09-30` | `24 Pages`
-- `[`SOR-2023-160`]` **[Certain Russian Goods Remission Order](https://www.indexdata.org/certain-russian-goods-remission-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2023-153`]` **[CHFTA Verification of Origin Regulations](https://www.indexdata.org/chfta-verification-of-origin-regulations/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-2023-135`]` **[Squamish Nation Residential Tenancy Regulations](https://www.indexdata.org/squamish-nation-residential-tenancy-regulations/)** — `2026-09-30` | `18 Pages`
-- `[`SOR-2023-125`]` **[Release of Information for Family Orders and Agreements Enforcement Assistance Regulations](https://www.indexdata.org/release-of-information-for-family-orders-and-agreements-enforcement-assistance-regulations/)** — `2026-09-30` | `15 Pages`
-- `[`SOR-2023-120`]` **[Order Respecting the Seizure of Property Situated in Canada (Volga-Dnepr Airlines or Volga-Dnepr Group)](https://www.indexdata.org/order-respecting-the-seizure-of-property-situated-in-canada-volga-dnepr-airlines-or-volga-dnepr-group/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2023-101`]` **[Carriages and Strollers Regulations](https://www.indexdata.org/carriages-and-strollers-regulations-2/)** — `2026-09-30` | `16 Pages`
-- `[`SOR-2022-97`]` **[Critical Habitat of the Cerulean Warbler (Setophaga cerulea) Order](https://www.indexdata.org/critical-habitat-of-the-cerulean-warbler-setophaga-cerulea-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2022-88`]` **[Proclamation Declaring that the Government Corporations Operation Act Ceases to Apply to Trans Mountain Corporation](https://www.indexdata.org/proclamation-declaring-that-the-government-corporations-operation-act-ceases-to-apply-to-trans-mountain-corporation/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2022-82`]` **[Joint Notice Extending the Prohibition Period for Certain Activities on Georges Bank](https://www.indexdata.org/joint-notice-extending-the-prohibition-period-for-certain-activities-on-georges-bank/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2022-4`]` **[Critical Habitat of the Gattinger’s Agalinis (Agalinis gattingeri) Order](https://www.indexdata.org/critical-habitat-of-the-gattingers-agalinis-agalinis-gattingeri-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2022-35`]` **[Most-Favoured-Nation Tariff Withdrawal Order (2022-1)](https://www.indexdata.org/most-favoured-nation-tariff-withdrawal-order-2022-1/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2022-279`]` **[Order Respecting the Restraint of Property Situated in Canada (Roman Arkadyevich Abramovich)](https://www.indexdata.org/order-respecting-the-restraint-of-property-situated-in-canada-roman-arkadyevich-abramovich/)** — `2026-09-30` | `4 Pages`
-- `[`SOR-2022-277`]` **[Immigration Appeal Division Rules, 2022](https://www.indexdata.org/immigration-appeal-division-rules-2022/)** — `2026-09-30` | `44 Pages`
-- `[`SOR-2022-274`]` **[Order Prohibiting Certain Activities in Arctic Offshore Waters, 2022](https://www.indexdata.org/order-prohibiting-certain-activities-in-arctic-offshore-waters-2022/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-2022-26`]` **[Proclamation Revoking the Declaration of a Public Order Emergency](https://www.indexdata.org/proclamation-revoking-the-declaration-of-a-public-order-emergency/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2022-256`]` **[Social Security Tribunal Rules of Procedure](https://www.indexdata.org/social-security-tribunal-rules-of-procedure/)** — `2026-09-30` | `38 Pages`
-- `[`SOR-2022-255`]` **[Social Security Tribunal Regulations, 2022](https://www.indexdata.org/social-security-tribunal-regulations-2022/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2022-250`]` **[Prohibition on the Purchase of Residential Property by Non-Canadians Regulations](https://www.indexdata.org/prohibition-on-the-purchase-of-residential-property-by-non-canadians-regulations/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-2022-237`]` **[Regulations Implementing the United Nations Resolutions on Haiti](https://www.indexdata.org/regulations-implementing-the-united-nations-resolutions-on-haiti/)** — `2026-09-30` | `14 Pages`
-- `[`SOR-2022-236`]` **[Critical Habitat of the Pugnose Minnow (Opsopoeodus emiliae) Order](https://www.indexdata.org/critical-habitat-of-the-pugnose-minnow-opsopoeodus-emiliae-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2022-235`]` **[Critical Habitat of the Black Redhorse (Moxostoma duquesnei) Order](https://www.indexdata.org/critical-habitat-of-the-black-redhorse-moxostoma-duquesnei-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2022-22`]` **[Emergency Economic Measures Order](https://www.indexdata.org/emergency-economic-measures-order/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-2022-217`]` **[Critical Habitat of the Threehorn Wartyback (Obliquaria reflexa) Order](https://www.indexdata.org/critical-habitat-of-the-threehorn-wartyback-obliquaria-reflexa-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2022-216`]` **[Critical Habitat of the Fawnsfoot (Truncilla donaciformis) Order](https://www.indexdata.org/critical-habitat-of-the-fawnsfoot-truncilla-donaciformis-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2022-215`]` **[Critical Habitat of the Lilliput (Toxolasma parvum) Order](https://www.indexdata.org/critical-habitat-of-the-lilliput-toxolasma-parvum-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2022-21`]` **[Emergency Measures Regulations](https://www.indexdata.org/emergency-measures-regulations/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-2022-209`]` **[Most-Favoured-Nation Tariff Withdrawal Order (2022-2)](https://www.indexdata.org/most-favoured-nation-tariff-withdrawal-order-2022-2/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2022-20`]` **[Proclamation Declaring a Public Order Emergency](https://www.indexdata.org/proclamation-declaring-a-public-order-emergency/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2022-2`]` **[Critical Habitat of the Striped Bass (Morone saxatilis) St. Lawrence River Population Order](https://www.indexdata.org/critical-habitat-of-the-striped-bass-morone-saxatilis-st-lawrence-river-population-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2022-19116`]` **[Underused Housing Tax Regulations](https://www.indexdata.org/underused-housing-tax-regulations/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-2022-138`]` **[Single-use Plastics Prohibition Regulations](https://www.indexdata.org/single-use-plastics-prohibition-regulations/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2022-127`]` **[Ukraine Goods Remission Order](https://www.indexdata.org/ukraine-goods-remission-order/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-2021-95`]` **[Critical Habitat of the Copper Redhorse (Moxostoma hubbsi) Order](https://www.indexdata.org/critical-habitat-of-the-copper-redhorse-moxostoma-hubbsi-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2021-68`]` **[CUKTCA Tariff Preference Regulations](https://www.indexdata.org/cuktca-tariff-preference-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2021-67`]` **[CUKTCA Rules of Origin Regulations](https://www.indexdata.org/cuktca-rules-of-origin-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2021-66`]` **[CUKTCA Rules of Origin for Casual Goods Regulations](https://www.indexdata.org/cuktca-rules-of-origin-for-casual-goods-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2021-62`]` **[Wreck Removal Convention Certificate Fee Regulations](https://www.indexdata.org/wreck-removal-convention-certificate-fee-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2021-55`]` **[Disability Tax Credit Promoters Restrictions Regulations](https://www.indexdata.org/disability-tax-credit-promoters-restrictions-regulations/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2021-5`]` **[Calculation of Contribution Rates Regulations, 2021](https://www.indexdata.org/calculation-of-contribution-rates-regulations-2021/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2021-35`]` **[Canada Recovery Benefits Regulations](https://www.indexdata.org/canada-recovery-benefits-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2021-32`]` **[Critical Habitat of the Rainbow Trout (Oncorhynchus mykiss) Athabasca River Populations Order](https://www.indexdata.org/critical-habitat-of-the-rainbow-trout-oncorhynchus-mykiss-athabasca-river-populations-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2021-31`]` **[Critical Habitat of the Bull Trout (Salvelinus confluentus) Saskatchewan-Nelson Rivers Populations Order](https://www.indexdata.org/critical-habitat-of-the-bull-trout-salvelinus-confluentus-saskatchewan-nelson-rivers-populations-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2021-278`]` **[Marketing Authorization for Vitamin D in Milk, Goat’s Milk and Margarine](https://www.indexdata.org/marketing-authorization-for-vitamin-d-in-milk-goats-milk-and-margarine/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2021-275`]` **[Lockdown Regions Designation Order (COVID-19)](https://www.indexdata.org/lockdown-regions-designation-order-covid-19/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-2021-268`]` **[Volatile Organic Compound Concentration Limits for Certain Products Regulations](https://www.indexdata.org/volatile-organic-compound-concentration-limits-for-certain-products-regulations/)** — `2026-09-30` | `50 Pages`
-- `[`SOR-2021-26`]` **[Order Extending the Application of the Freezing Assets of Corrupt Foreign Officials (Tunisia) Regulations](https://www.indexdata.org/order-extending-the-application-of-the-freezing-assets-of-corrupt-foreign-officials-tunisia-regulations-2/)** — `2026-09-30` | `4 Pages`
-- `[`SOR-2021-241`]` **[Accessible Canada Regulations](https://www.indexdata.org/accessible-canada-regulations/)** — `2026-09-30` | `39 Pages`
-- `[`SOR-2021-234`]` **[Pardon Services Fees Order](https://www.indexdata.org/pardon-services-fees-order-2/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2021-231`]` **[Emergency Order for the Protection of the Western Chorus Frog Great Lakes / St. Lawrence — Canadian Shield Population (Longueuil)](https://www.indexdata.org/emergency-order-for-the-protection-of-the-western-chorus-frog-great-lakes-st-lawrence-canadian-shield-population-longueuil/)** — `2026-09-30` | `30 Pages`
-- `[`SOR-2021-22`]` **[Federal Elections Fees Tariff](https://www.indexdata.org/federal-elections-fees-tariff/)** — `2026-09-30` | `22 Pages`
-- `[`SOR-2021-217`]` **[Canadian Pork Promotion-Research Levies Order](https://www.indexdata.org/canadian-pork-promotion-research-levies-order/)** — `2026-09-30` | `17 Pages`
-- `[`SOR-2021-200`]` **[Exemptions from and Modifications to Hours of Work Provisions Regulations](https://www.indexdata.org/exemptions-from-and-modifications-to-hours-of-work-provisions-regulations/)** — `2026-09-30` | `25 Pages`
-- `[`SOR-2021-182`]` **[Canadian Payments Association By-law No. 9 — Lynx](https://www.indexdata.org/canadian-payments-association-by-law-no-9-lynx/)** — `2026-09-30` | `28 Pages`
-- `[`SOR-2021-174`]` **[Privacy Act Extension Order, No. 3](https://www.indexdata.org/privacy-act-extension-order-no-3/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2021-170`]` **[Minor Works Order](https://www.indexdata.org/minor-works-order/)** — `2026-09-30` | `23 Pages`
-- `[`SOR-2021-161`]` **[Pay Equity Regulations](https://www.indexdata.org/pay-equity-regulations/)** — `2026-09-30` | `63 Pages`
-- `[`SOR-2021-148`]` **[Formaldehyde Emissions from Composite Wood Products Regulations](https://www.indexdata.org/formaldehyde-emissions-from-composite-wood-products-regulations/)** — `2026-09-30` | `40 Pages`
-- `[`SOR-2021-144`]` **[CCFTA Rules of Origin Regulations](https://www.indexdata.org/ccfta-rules-of-origin-regulations-2/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2021-137`]` **[Canadian Human Rights Tribunal Rules of Procedure, 2021](https://www.indexdata.org/canadian-human-rights-tribunal-rules-of-procedure-2021/)** — `2026-09-30` | `21 Pages`
-- `[`SOR-2021-135`]` **[Vessel Safety Certificates Regulations](https://www.indexdata.org/vessel-safety-certificates-regulations/)** — `2026-09-30` | `50 Pages`
-- `[`SOR-2021-128`]` **[Regulations Defining “official development assistance”](https://www.indexdata.org/regulations-defining-official-development-assistance/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2021-120`]` **[Ballast Water Regulations](https://www.indexdata.org/ballast-water-regulations/)** — `2026-09-30` | `19 Pages`
-- `[`SOR-2021-12`]` **[Critical Habitat of the Fernald’s Braya (Braya fernaldii) Order](https://www.indexdata.org/critical-habitat-of-the-fernalds-braya-braya-fernaldii-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2020-97`]` **[Order Declaring an Amnesty Period (2020)](https://www.indexdata.org/order-declaring-an-amnesty-period-2020/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2020-49`]` **[International and Interprovincial Power Line Damage Prevention Regulations – Obligations of Holders of Permits and Certificates](https://www.indexdata.org/international-and-interprovincial-power-line-damage-prevention-regulations-obligations-of-holders-of-permits-and-certificates/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-2020-29`]` **[Critical Habitat of the Vancouver Lamprey (Entosphenus macrostomus) Order](https://www.indexdata.org/critical-habitat-of-the-vancouver-lamprey-entosphenus-macrostomus-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2020-286`]` **[Canada – European Union Tariff Withdrawal Order (United Kingdom)](https://www.indexdata.org/canada-european-union-tariff-withdrawal-order-united-kingdom/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2020-283`]` **[Direction Respecting Flight Cancellations for Situations Outside of a Carrier’s Control](https://www.indexdata.org/direction-respecting-flight-cancellations-for-situations-outside-of-a-carriers-control/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2020-282`]` **[Canadian Pork Promotion-Research Agency Proclamation](https://www.indexdata.org/canadian-pork-promotion-research-agency-proclamation/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2020-266`]` **[Denial of Licences for Family Orders and Agreements Enforcement Regulations, 2021](https://www.indexdata.org/denial-of-licences-for-family-orders-and-agreements-enforcement-regulations-2021/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2020-26`]` **[Critical Habitat of the Paxton Lake Limnetic Threespine Stickleback (Gasterosteus aculeatus) Order](https://www.indexdata.org/critical-habitat-of-the-paxton-lake-limnetic-threespine-stickleback-gasterosteus-aculeatus-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2020-259`]` **[British Columbia Vegetable Order](https://www.indexdata.org/british-columbia-vegetable-order-2/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2020-258`]` **[Off-road Compression-Ignition (Mobile and Stationary) and Large Spark-Ignition Engine Emission Regulations](https://www.indexdata.org/off-road-compression-ignition-mobile-and-stationary-and-large-spark-ignition-engine-emission-regulations/)** — `2026-09-30` | `65 Pages`
-- `[`SOR-2020-25`]` **[Critical Habitat of the Paxton Lake Benthic Threespine Stickleback (Gasterosteus aculeatus) Order](https://www.indexdata.org/critical-habitat-of-the-paxton-lake-benthic-threespine-stickleback-gasterosteus-aculeatus-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2020-249`]` **[Notice of Relocation Regulations](https://www.indexdata.org/notice-of-relocation-regulations/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-2020-231`]` **[Reduction in the Release of Volatile Organic Compounds Regulations (Petroleum Sector)](https://www.indexdata.org/reduction-in-the-release-of-volatile-organic-compounds-regulations-petroleum-sector/)** — `2026-09-30` | `57 Pages`
-- `[`SOR-2020-213`]` **[Establishment Licence Fees Remission Order (Indication of an Activity in respect of a COVID-19 Drug)](https://www.indexdata.org/establishment-licence-fees-remission-order-indication-of-an-activity-in-respect-of-a-covid-19-drug/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2020-199`]` **[United States Surtax Order (Aluminum 2020)](https://www.indexdata.org/united-states-surtax-order-aluminum-2020/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2020-186`]` **[Critical Habitat of the Spotted Wolffish (Anarhichas minor) Order](https://www.indexdata.org/critical-habitat-of-the-spotted-wolffish-anarhichas-minor-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2020-185`]` **[Critical Habitat of the Northern Wolffish (Anarhichas denticulatus) Order](https://www.indexdata.org/critical-habitat-of-the-northern-wolffish-anarhichas-denticulatus-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2020-178`]` **[Locomotive Voice and Video Recorder Regulations](https://www.indexdata.org/locomotive-voice-and-video-recorder-regulations/)** — `2026-09-30` | `24 Pages`
-- `[`SOR-2020-157`]` **[CUSMA Tariff Preference Regulations](https://www.indexdata.org/cusma-tariff-preference-regulations/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-2020-156`]` **[CUSMA Rules of Origin for Casual Goods Regulations](https://www.indexdata.org/cusma-rules-of-origin-for-casual-goods-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2020-155`]` **[CUSMA Rules of Origin Regulations](https://www.indexdata.org/cusma-rules-of-origin-regulations/)** — `2026-09-30` | `249 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1439,29 +1248,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/
 - `[`SOR-78-373`]` **[Canadian Manufactured Goods Exported Drawback Regulations](https://www.indexdata.org/canadian-manufactured-goods-exported-drawback-regulations/)** — `2026-09-30` | `8 Pages`
 - `[`SOR-78-307`]` **[Ontario Fresh Grape Information (Interprovincial and Export) Regulations](https://www.indexdata.org/ontario-fresh-grape-information-interprovincial-and-export-regulations/)** — `2026-09-30` | `13 Pages`
 - `[`SOR-62-91`]` **[Support Organizations Superannuation Regulations](https://www.indexdata.org/support-organizations-superannuation-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-49-42`]` **[Regulations re school fees and transportation costs for children of certain Government employees](https://www.indexdata.org/regulations-re-school-fees-and-transportation-costs-for-children-of-certain-government-employees/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2026-58`]` **[Order Designating the Sarvarjuaq Marine Protected Area](https://www.indexdata.org/order-designating-the-sarvarjuaq-marine-protected-area/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2026-57`]` **[Order Designating the Qikiqtait Marine Protected Area](https://www.indexdata.org/order-designating-the-qikiqtait-marine-protected-area/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2025-287`]` **[Surtax on Imports of Certain Steel Goods Remission Order, 2025](https://www.indexdata.org/surtax-on-imports-of-certain-steel-goods-remission-order-2025/)** — `2026-09-30` | `18 Pages`
-- `[`SOR-2025-148`]` **[Order Imposing a Surtax on the Importation of Certain Steel Goods](https://www.indexdata.org/order-imposing-a-surtax-on-the-importation-of-certain-steel-goods/)** — `2026-09-30` | `65 Pages`
-- `[`SOR-2025-118`]` **[United States Surtax Order (Motor Vehicles 2025)](https://www.indexdata.org/united-states-surtax-order-motor-vehicles-2025/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-2024-237`]` **[Possession and Export of Elvers Regulations](https://www.indexdata.org/possession-and-export-of-elvers-regulations/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2024-165`]` **[Order No. 2 Designating the Tuvaijuittuq Marine Protected Area](https://www.indexdata.org/order-no-2-designating-the-tuvaijuittuq-marine-protected-area/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2024-133`]` **[Marine Safety Management System Regulations](https://www.indexdata.org/marine-safety-management-system-regulations/)** — `2026-09-30` | `28 Pages`
-- `[`SOR-2024-122`]` **[Tang.ɢwan — ḥačxʷiqak — Tsigis Marine Protected Area Regulations](https://www.indexdata.org/tang-%c9%a2wan-%e1%b8%a5acx%ca%b7iqak-tsigis-marine-protected-area-regulations/)** — `2026-09-30` | `12 Pages`
-- `[`SOR-2023-154`]` **[Administrative Monetary Penalties (Motor Vehicle Safety) Regulations](https://www.indexdata.org/administrative-monetary-penalties-motor-vehicle-safety-regulations/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-2023-15`]` **[Prohibition of the Manufacture and Importation of Wheel Weights Containing Lead Regulations](https://www.indexdata.org/prohibition-of-the-manufacture-and-importation-of-wheel-weights-containing-lead-regulations/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2023-138`]` **[Administrative Monetary Penalties (Canada Marine Act) Regulations](https://www.indexdata.org/administrative-monetary-penalties-canada-marine-act-regulations/)** — `2026-09-30` | `19 Pages`
-- `[`SOR-2021-59`]` **[Marine Safety Fees Regulations](https://www.indexdata.org/marine-safety-fees-regulations/)** — `2026-09-30` | `18 Pages`
-- `[`SOR-2021-243`]` **[Accessible Transportation Planning and Reporting Regulations](https://www.indexdata.org/accessible-transportation-planning-and-reporting-regulations/)** — `2026-09-30` | `14 Pages`
-- `[`SOR-2021-160`]` **[Canadian Radio-television and Telecommunications Commission Accessibility Reporting Regulations](https://www.indexdata.org/canadian-radio-television-and-telecommunications-commission-accessibility-reporting-regulations/)** — `2026-09-30` | `22 Pages`
-- `[`SOR-2020-90`]` **[Income Support Payment (Excluded Nominal Income) Regulations](https://www.indexdata.org/income-support-payment-excluded-nominal-income-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2020-72`]` **[Export Charges for Certain Dairy Products Regulations](https://www.indexdata.org/export-charges-for-certain-dairy-products-regulations/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2020-62`]` **[Income Support Payment Amount Regulations](https://www.indexdata.org/income-support-payment-amount-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2020-54`]` **[Regulations Maintaining the Safety of Persons in Ports and the Seaway](https://www.indexdata.org/regulations-maintaining-the-safety-of-persons-in-ports-and-the-seaway/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2020-250`]` **[Provincial Child Support Service Regulations](https://www.indexdata.org/provincial-child-support-service-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2020-222`]` **[Passenger Rail Transportation Security Regulations](https://www.indexdata.org/passenger-rail-transportation-security-regulations/)** — `2026-09-30` | `22 Pages`
-- `[`SOR-2020-216`]` **[Navigation Safety Regulations, 2020](https://www.indexdata.org/navigation-safety-regulations-2020/)** — `2026-09-30` | `112 Pages`
 
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
@@ -1559,20 +1345,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-fin
 - `[`SOR-61-507`]` **[Canadian Arsenals Pension Regulations](https://www.indexdata.org/canadian-arsenals-pension-regulations/)** — `2026-09-30` | `7 Pages`
 - `[`SOR-61-472`]` **[C.O.T.C. Pension Regulations](https://www.indexdata.org/c-o-t-c-pension-regulations/)** — `2026-09-30` | `10 Pages`
 - `[`SOR-58-417`]` **[Pension Increase Regulations, 1958](https://www.indexdata.org/pension-increase-regulations-1958/)** — `2026-09-30` | `13 Pages`
-- `[`SOR-55-416`]` **[Defence Services Pension Part V Regulations](https://www.indexdata.org/defence-services-pension-part-v-regulations/)** — `2026-09-30` | `30 Pages`
-- `[`SOR-51-84`]` **[Application of Defence Services Pension Act to Special Force](https://www.indexdata.org/application-of-defence-services-pension-act-to-special-force/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2025-67`]` **[Proceeds of Crime (Money Laundering) and Terrorist Financing Reporting of Goods Regulations](https://www.indexdata.org/proceeds-of-crime-money-laundering-and-terrorist-financing-reporting-of-goods-regulations/)** — `2026-09-30` | `14 Pages`
-- `[`SOR-2024-70`]` **[Excise Duties on Vaping Products Regulations](https://www.indexdata.org/excise-duties-on-vaping-products-regulations/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-2024-42`]` **[Financial Security (Electronic Means) Regulations](https://www.indexdata.org/financial-security-electronic-means-regulations/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-2024-157`]` **[Real Property (GST/HST) Regulations](https://www.indexdata.org/real-property-gst-hst-regulations/)** — `2026-09-30` | `19 Pages`
-- `[`SOR-2024-119`]` **[Royal Canadian Mounted Police (Dependants) Pension Fund Increase in Benefits Order](https://www.indexdata.org/royal-canadian-mounted-police-dependants-pension-fund-increase-in-benefits-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2023-229`]` **[Retail Payment Activities Regulations](https://www.indexdata.org/retail-payment-activities-regulations/)** — `2026-09-30` | `51 Pages`
-- `[`SOR-2023-195`]` **[Financial Transactions and Reports Analysis Centre of Canada Assessment of Expenses Regulations](https://www.indexdata.org/financial-transactions-and-reports-analysis-centre-of-canada-assessment-of-expenses-regulations/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-2022-79`]` **[Canada Post Corporation Pension Plan Funding Regulations](https://www.indexdata.org/canada-post-corporation-pension-plan-funding-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2022-55`]` **[Canada Deposit Insurance Corporation Eligible Financial Contracts By-law](https://www.indexdata.org/canada-deposit-insurance-corporation-eligible-financial-contracts-by-law/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2022-43`]` **[Royal Canadian Mounted Police (Dependants) Pension Fund Increase in Benefits Order](https://www.indexdata.org/royal-canadian-mounted-police-dependants-pension-fund-increase-in-benefits-order-2/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2021-6`]` **[Additional Canada Pension Plan Sustainability Regulations](https://www.indexdata.org/additional-canada-pension-plan-sustainability-regulations/)** — `2026-09-30` | `24 Pages`
-- `[`SOR-2021-181`]` **[Financial Consumer Protection Framework Regulations](https://www.indexdata.org/financial-consumer-protection-framework-regulations/)** — `2026-09-30` | `64 Pages`
 
 ### [Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/natural-resources-canada/](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
@@ -1625,117 +1397,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/natural-resources
 - `[`SOR-80-629`]` **[Determining that the Canada Development Corporation Need Not Apply for a Certificate of Continuance Under the Act](https://www.indexdata.org/determining-that-the-canada-development-corporation-need-not-apply-for-a-certificate-of-continuance-under-the-act/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-79-82`]` **[Canada Oil and Gas Drilling Regulations](https://www.indexdata.org/canada-oil-and-gas-drilling-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-79-15`]` **[Handling of Carloads of Explosives on Railway Trackage Regulations](https://www.indexdata.org/handling-of-carloads-of-explosives-on-railway-trackage-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2025-37`]` **[Order Declaring that the Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) Do Not Apply in British Columbia, 2025](https://www.indexdata.org/order-declaring-that-the-regulations-respecting-reduction-in-the-release-of-methane-and-certain-volatile-organic-compounds-upstream-oil-and-gas-sector-do-not-apply-in-british-columbia-2025/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2025-219`]` **[Nuclear Security Regulations](https://www.indexdata.org/nuclear-security-regulations/)** — `2026-09-30` | `72 Pages`
-- `[`SOR-2025-213`]` **[Order Declaring that the Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) Do Not Apply in Alberta, 2025](https://www.indexdata.org/order-declaring-that-the-regulations-respecting-reduction-in-the-release-of-methane-and-certain-volatile-organic-compounds-upstream-oil-and-gas-sector-do-not-apply-in-alberta-2025/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2024-272`]` **[Canada Offshore Renewable Energy Regulations](https://www.indexdata.org/canada-offshore-renewable-energy-regulations/)** — `2026-09-30` | `61 Pages`
-- `[`SOR-2024-270`]` **[Order Declaring that the Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) Do Not Apply in Saskatchewan, 2025](https://www.indexdata.org/order-declaring-that-the-regulations-respecting-reduction-in-the-release-of-methane-and-certain-volatile-organic-compounds-upstream-oil-and-gas-sector-do-not-apply-in-saskatchewan-2025/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2024-263`]` **[Clean Electricity Regulations](https://www.indexdata.org/clean-electricity-regulations/)** — `2026-09-30` | `90 Pages`
-- `[`SOR-2020-60`]` **[Order Declaring that the Provisions of the Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) Do Not Apply in British Columbia](https://www.indexdata.org/order-declaring-that-the-provisions-of-the-regulations-respecting-reduction-in-the-release-of-methane-and-certain-volatile-organic-compounds-upstream-oil-and-gas-sector-do-not-apply-in-british-colum/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2020-234`]` **[Order Declaring that the Provisions of the Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) Do Not Apply in Saskatchewan](https://www.indexdata.org/order-declaring-that-the-provisions-of-the-regulations-respecting-reduction-in-the-release-of-methane-and-certain-volatile-organic-compounds-upstream-oil-and-gas-sector-do-not-apply-in-saskatchewan/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2020-233`]` **[Order Declaring that the Provisions of the Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) Do Not Apply in Alberta](https://www.indexdata.org/order-declaring-that-the-provisions-of-the-regulations-respecting-reduction-in-the-release-of-methane-and-certain-volatile-organic-compounds-upstream-oil-and-gas-sector-do-not-apply-in-alberta/)** — `2026-09-30` | `3 Pages`
-
-### [Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
-
-- `[`W-6`]` **[Weights and Measures Act](https://www.indexdata.org/weights-and-measures-act/)** — `2026-09-30` | `51 Pages`
-- `[`T-3.4`]` **[Telecommunications Act](https://www.indexdata.org/telecommunications-act/)** — `2026-09-30` | `102 Pages`
-- `[`T-13`]` **[Trademarks Act](https://www.indexdata.org/trademarks-act/)** — `2026-09-30` | `115 Pages`
-- `[`SOR-99-460`]` **[Industrial Design Regulations](https://www.indexdata.org/industrial-design-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-99-348`]` **[Regulations Prescribing Networks (Copyright Act)](https://www.indexdata.org/regulations-prescribing-networks-copyright-act/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-97-457`]` **[Copyright Regulations](https://www.indexdata.org/copyright-regulations/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-97-164`]` **[Regulations Establishing the Period Within Which Owners of Copyright not Represented by Collective Societies Can Claim Retransmission Royalties](https://www.indexdata.org/regulations-establishing-the-period-within-which-owners-of-copyright-not-represented-by-collective-societies-can-claim-retransmission-royalties/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-96-484`]` **[Radiocommunication Regulations](https://www.indexdata.org/radiocommunication-regulations/)** — `2026-09-30` | `58 Pages`
-- `[`SOR-96-423`]` **[Patent Rules](https://www.indexdata.org/patent-rules/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-96-195`]` **[Trade-marks Regulations](https://www.indexdata.org/trade-marks-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-95-157`]` **[Telecommunications Fees Regulations, 1995](https://www.indexdata.org/telecommunications-fees-regulations-1995/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-94-688`]` **[Patented Medicines Regulations](https://www.indexdata.org/patented-medicines-regulations/)** — `2026-09-30` | `13 Pages`
-- `[`SOR-94-667`]` **[Canadian Telecommunications Common Carrier Ownership and Control Regulations](https://www.indexdata.org/canadian-telecommunications-common-carrier-ownership-and-control-regulations/)** — `2026-09-30` | `47 Pages`
-- `[`SOR-94-290`]` **[Competition Tribunal Rules](https://www.indexdata.org/competition-tribunal-rules/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-93-365`]` **[Telecommunications Apparatus Assessment and Testing Fees Order](https://www.indexdata.org/telecommunications-apparatus-assessment-and-testing-fees-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-93-133`]` **[Patented Medicines (Notice of Compliance) Regulations](https://www.indexdata.org/patented-medicines-notice-of-compliance-regulations/)** — `2026-09-30` | `27 Pages`
-- `[`SOR-88-577`]` **[Terra Nova Telecommunications Inc. Shares Sale Order](https://www.indexdata.org/terra-nova-telecommunications-inc-shares-sale-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-85-611`]` **[Investment Canada Regulations](https://www.indexdata.org/investment-canada-regulations/)** — `2026-09-30` | `28 Pages`
-- `[`SOR-81-907`]` **[International Telecommunications Satellite Organization (INTELSAT) Privileges and Immunities Order](https://www.indexdata.org/international-telecommunications-satellite-organization-intelsat-privileges-and-immunities-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-81-319`]` **[Telecommunications and Electronic Maintenance Services Fees Order](https://www.indexdata.org/telecommunications-and-electronic-maintenance-services-fees-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-79-554`]` **[CRTC Telecommunications Rules of Procedure](https://www.indexdata.org/crtc-telecommunications-rules-of-procedure/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2025-63`]` **[Radiocommunication Act Exemption Order (Jammers — Certain Correctional Services)](https://www.indexdata.org/radiocommunication-act-exemption-order-jammers-certain-correctional-services/)** — `2026-09-30` | `13 Pages`
-- `[`SOR-2024-94`]` **[Radiocommunication Act Exemption Order (Jammers — Royal Canadian Mounted Police)](https://www.indexdata.org/radiocommunication-act-exemption-order-jammers-royal-canadian-mounted-police/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-2024-7`]` **[Radiocommunication Act Exemption Order (Jammers — Department of National Defence and Canadian Forces)](https://www.indexdata.org/radiocommunication-act-exemption-order-jammers-department-of-national-defence-and-canadian-forces/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-2023-73`]` **[By-laws of the College of Patent Agents and Trademark Agents](https://www.indexdata.org/by-laws-of-the-college-of-patent-agents-and-trademark-agents/)** — `2026-09-30` | `44 Pages`
-- `[`SOR-2023-24`]` **[Copyright Board Rules of Practice and Procedure](https://www.indexdata.org/copyright-board-rules-of-practice-and-procedure/)** — `2026-09-30` | `24 Pages`
-- `[`SOR-2023-23`]` **[Order Issuing a Direction to the CRTC on a Renewed Approach to Telecommunications Policy](https://www.indexdata.org/order-issuing-a-direction-to-the-crtc-on-a-renewed-approach-to-telecommunications-policy/)** — `2026-09-30` | `13 Pages`
-- `[`SOR-2021-168`]` **[By-laws of the College of Patent Agents and Trademark Agents (Board)](https://www.indexdata.org/by-laws-of-the-college-of-patent-agents-and-trademark-agents-board/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2021-167`]` **[By-laws of the College of Patent Agents and Trademark Agents (College)](https://www.indexdata.org/by-laws-of-the-college-of-patent-agents-and-trademark-agents-college/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2021-166`]` **[Order Fixing the Number of Directors Under the College of Patent Agents and Trademark Agents Act](https://www.indexdata.org/order-fixing-the-number-of-directors-under-the-college-of-patent-agents-and-trademark-agents-act/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2021-165`]` **[Code of Professional Conduct for Patent Agents and Trademark Agents Regulations](https://www.indexdata.org/code-of-professional-conduct-for-patent-agents-and-trademark-agents-regulations/)** — `2026-09-30` | `39 Pages`
-- `[`SOR-2021-129`]` **[College of Patent Agents and Trademark Agents Regulations](https://www.indexdata.org/college-of-patent-agents-and-trademark-agents-regulations/)** — `2026-09-30` | `17 Pages`
-- `[`SOR-2020-77`]` **[Direction to the Canadian Radio-television and Telecommunications Commission Respecting the Implementation of the Canada–United States–Mexico Agreement](https://www.indexdata.org/direction-to-the-canadian-radio-television-and-telecommunications-commission-respecting-the-implementation-of-the-canada-united-states-mexico-agreement/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2020-264`]` **[Time Limits in Respect of Matters Before the Copyright Board Regulations](https://www.indexdata.org/time-limits-in-respect-of-matters-before-the-copyright-board-regulations/)** — `2026-09-30` | `7 Pages`
-
-### [Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/)
-
-- `[`Y-4.6`]` **[Yukon Waters Act](https://www.indexdata.org/yukon-waters-act/)** — `2026-09-30` | `3 Pages`
-- `[`Y-4.3`]` **[Yukon Surface Rights Board Act](https://www.indexdata.org/yukon-surface-rights-board-act/)** — `2026-09-30` | `55 Pages`
-- `[`Y-2.6`]` **[Yukon First Nations Self-Government Act](https://www.indexdata.org/yukon-first-nations-self-government-act/)** — `2026-09-30` | `27 Pages`
-- `[`Y-2.3`]` **[Yukon First Nations Land Claims Settlement Act](https://www.indexdata.org/yukon-first-nations-land-claims-settlement-act/)** — `2026-09-30` | `14 Pages`
-- `[`Y-2.2`]` **[Yukon Environmental and Socio-economic Assessment Act](https://www.indexdata.org/yukon-environmental-and-socio-economic-assessment-act/)** — `2026-09-30` | `84 Pages`
-- `[`Y-2.01`]` **[Yukon Act](https://www.indexdata.org/yukon-act/)** — `2026-09-30` | `41 Pages`
-- `[`Y-2`]` **[Yukon Act](https://www.indexdata.org/yukon-act-2/)** — `2026-09-30` | `3 Pages`
-- `[`U-2.2`]` **[United Nations Declaration on the Rights of Indigenous Peoples Act](https://www.indexdata.org/united-nations-declaration-on-the-rights-of-indigenous-peoples-act/)** — `2026-09-30` | `21 Pages`
-- `[`SOR-99-422`]` **[Order Authorizing Federal Employees to Acquire Interests in Certain Lands in the Northwest Territories (Order No. 3, 1999)](https://www.indexdata.org/order-authorizing-federal-employees-to-acquire-interests-in-certain-lands-in-the-northwest-territories-order-no-3-1999/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-99-298`]` **[Order Authorizing Federal Employees to Acquire Interests in Certain Lands in the Northwest Territories (Order No. 1, 1999)](https://www.indexdata.org/order-authorizing-federal-employees-to-acquire-interests-in-certain-lands-in-the-northwest-territories-order-no-1-1999/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-99-12`]` **[Preliminary Screening Requirement Regulations](https://www.indexdata.org/preliminary-screening-requirement-regulations/)** — `2026-09-30` | `14 Pages`
-- `[`SOR-98-438`]` **[Order Authorizing Federal Employees to Acquire Interests in Certain Lands in the Northwest Territories (Order No. 2, 1998)](https://www.indexdata.org/order-authorizing-federal-employees-to-acquire-interests-in-certain-lands-in-the-northwest-territories-order-no-2-1998/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-98-380`]` **[Order Respecting the First Legislative Assembly of Nunavut](https://www.indexdata.org/order-respecting-the-first-legislative-assembly-of-nunavut/)** — `2026-09-30` | `19 Pages`
-- `[`SOR-98-261`]` **[Order authorizing certain employees of the Government of Canada to acquire interests in territorial lands in the Northwest Territories (Order No. 1, 1998)](https://www.indexdata.org/order-authorizing-certain-employees-of-the-government-of-canada-to-acquire-interests-in-territorial-lands-in-the-northwest-territories-order-no-1-1998/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-98-188`]` **[Order Prohibiting the Issuance of Interests at Lapierre House Historic Site in the Yukon Territory](https://www.indexdata.org/order-prohibiting-the-issuance-of-interests-at-lapierre-house-historic-site-in-the-yukon-territory/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-97-540`]` **[Order Prohibiting the Issuance of Interests at Rampart House in the Yukon Territory](https://www.indexdata.org/order-prohibiting-the-issuance-of-interests-at-rampart-house-in-the-yukon-territory/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-89-547`]` **[Form of Deeds Relating to Certain Successions of Cree and Naskapi Beneficiaries Regulations](https://www.indexdata.org/form-of-deeds-relating-to-certain-successions-of-cree-and-naskapi-beneficiaries-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-88-315`]` **[Cree-Naskapi Band Elections Regulations](https://www.indexdata.org/cree-naskapi-band-elections-regulations/)** — `2026-09-30` | `29 Pages`
-- `[`SOR-86-490`]` **[Cree-Naskapi Long-Term Borrowing Regulations, 1986](https://www.indexdata.org/cree-naskapi-long-term-borrowing-regulations-1986/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-86-1070`]` **[Cree-Naskapi Land Registry Regulations](https://www.indexdata.org/cree-naskapi-land-registry-regulations/)** — `2026-09-30` | `27 Pages`
-- `[`SOR-2025-207`]` **[First Nations Fiscal Management Act Adaptation Regulations](https://www.indexdata.org/first-nations-fiscal-management-act-adaptation-regulations/)** — `2026-09-30` | `132 Pages`
-- `[`SOR-2024-66`]` **[Approved Screening Devices Order](https://www.indexdata.org/approved-screening-devices-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2023-128`]` **[Order Bringing Individual Agreements with First Nations into Effect](https://www.indexdata.org/order-bringing-individual-agreements-with-first-nations-into-effect/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2022-158`]` **[Order Bringing Individual Agreements with First Nations into Effect](https://www.indexdata.org/order-bringing-individual-agreements-with-first-nations-into-effect-2/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2020-84`]` **[First Nations Election Cancellation and Postponement Regulations (Prevention of Diseases)](https://www.indexdata.org/first-nations-election-cancellation-and-postponement-regulations-prevention-of-diseases/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2020-290`]` **[United Kingdom Trade Continuity Remission Order, 2021](https://www.indexdata.org/united-kingdom-trade-continuity-remission-order-2021/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2020-28`]` **[Critical Habitat of the Vananda Creek Limnetic Threespine Stickleback (Gasterosteus aculeatus) Order](https://www.indexdata.org/critical-habitat-of-the-vananda-creek-limnetic-threespine-stickleback-gasterosteus-aculeatus-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2020-27`]` **[Critical Habitat of the Vananda Creek Benthic Threespine Stickleback (Gasterosteus aculeatus) Order](https://www.indexdata.org/critical-habitat-of-the-vananda-creek-benthic-threespine-stickleback-gasterosteus-aculeatus-order/)** — `2026-09-30` | `6 Pages`
-
-### [Health Canada](https://www.indexdata.org/canada/health-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/health-canada/](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)
-
-- `[`T-11.5`]` **[Tobacco and Vaping Products Act](https://www.indexdata.org/tobacco-and-vaping-products-act/)** — `2026-09-30` | `75 Pages`
-- `[`SOR-99-94`]` **[Tobacco (Seizure and Restoration) Regulations](https://www.indexdata.org/tobacco-seizure-and-restoration-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-99-93`]` **[Tobacco (Access) Regulations](https://www.indexdata.org/tobacco-access-regulations/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-98-5`]` **[Licensed Dealers for Controlled Drugs and Narcotics (Veterinary Use) Fees Regulations](https://www.indexdata.org/licensed-dealers-for-controlled-drugs-and-narcotics-veterinary-use-fees-regulations/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-98-432`]` **[Fees In Respect of Medical Devices Regulations](https://www.indexdata.org/fees-in-respect-of-medical-devices-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-98-282`]` **[Medical Devices Regulations](https://www.indexdata.org/medical-devices-regulations/)** — `2026-09-30` | `124 Pages`
-- `[`SOR-98-182`]` **[Ontario Hydro Nuclear Facilities Exclusion Regulations (Use of Tobacco)](https://www.indexdata.org/ontario-hydro-nuclear-facilities-exclusion-regulations-use-of-tobacco/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-97-234`]` **[Controlled Drugs and Substances Act (Police Enforcement) Regulations](https://www.indexdata.org/controlled-drugs-and-substances-act-police-enforcement-regulations/)** — `2026-09-30` | `19 Pages`
-- `[`SOR-97-229`]` **[Regulations Exempting Certain Precursors and Controlled Substances from the Application of the Controlled Drugs and Substances Act](https://www.indexdata.org/regulations-exempting-certain-precursors-and-controlled-substances-from-the-application-of-the-controlled-drugs-and-substances-act/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-97-173`]` **[Regulations Prescribing the Fees to be Paid for a Pest Control Product Application Examination Service Provided by or on behalf of Her Majesty in Right of Canada, for a Right or Privilege to Manufacture or Sell a Pest Control Product in Canada and for Establishing a Maximum Residue Limit in Relation to a Pest Control Product](https://www.indexdata.org/regulations-prescribing-the-fees-to-be-paid-for-a-pest-control-product-application-examination-service-provided-by-or-on-behalf-of-her-majesty-in-right-of-canada-for-a-right-or-privilege-to-manufactu/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-94-558`]` **[Human Pathogens Importation Regulations](https://www.indexdata.org/human-pathogens-importation-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-90-39`]` **[Hazardous Products (Expansion Gates and Expandable Enclosures) Regulations](https://www.indexdata.org/hazardous-products-expansion-gates-and-expandable-enclosures-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-90-245`]` **[Hazardous Products (Tents) Regulations](https://www.indexdata.org/hazardous-products-tents-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-89-514`]` **[Hazardous Products (Lighters) Regulations](https://www.indexdata.org/hazardous-products-lighters-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-89-446`]` **[Hazardous Products (Booster Cushions) Regulations](https://www.indexdata.org/hazardous-products-booster-cushions-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-89-440`]` **[Hazardous Products (Crocidolite Asbestos) Regulations](https://www.indexdata.org/hazardous-products-crocidolite-asbestos-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-88-151`]` **[Hazardous Products (Child Restraint Systems) Regulations](https://www.indexdata.org/hazardous-products-child-restraint-systems-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-87-443`]` **[Hazardous Products (Children’s Sleepwear) Regulations](https://www.indexdata.org/hazardous-products-childrens-sleepwear-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-86-239`]` **[Ontario Flue-Cured Tobacco Licence Charges (Interprovincial and Export) Order](https://www.indexdata.org/ontario-flue-cured-tobacco-licence-charges-interprovincial-and-export-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-84-271`]` **[Hazardous Products (Infant Feeding Bottle Nipples) Regulations](https://www.indexdata.org/hazardous-products-infant-feeding-bottle-nipples-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-80-810`]` **[Hazardous Products (Mattresses) Regulations](https://www.indexdata.org/hazardous-products-mattresses-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-79-732`]` **[Hazardous Products (Cellulose Insulation) Regulations](https://www.indexdata.org/hazardous-products-cellulose-insulation-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2025-80`]` **[Tobacco Charges Regulations](https://www.indexdata.org/tobacco-charges-regulations/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2023-42`]` **[Electronic Heated Tobacco Products Remission Order](https://www.indexdata.org/electronic-heated-tobacco-products-remission-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2023-123`]` **[Vaping Products Reporting Regulations](https://www.indexdata.org/vaping-products-reporting-regulations/)** — `2026-09-30` | `16 Pages`
-- `[`SOR-2022-18`]` **[Clinical Trials for Medical Devices and Drugs Relating to COVID-19 Regulations](https://www.indexdata.org/clinical-trials-for-medical-devices-and-drugs-relating-to-covid-19-regulations/)** — `2026-09-30` | `35 Pages`
-- `[`SOR-2021-123`]` **[Nicotine Concentration in Vaping Products Regulations](https://www.indexdata.org/nicotine-concentration-in-vaping-products-regulations/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2020-9`]` **[Cannabis for Medical Purposes Remission Order](https://www.indexdata.org/cannabis-for-medical-purposes-remission-order/)** — `2026-09-30` | `7 Pages`
 
 ### [Public Safety Canada](https://www.indexdata.org/canada/public-safety-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/public-safety-canada/](https://www.indexdata.org/canada/public-safety-canada/) | [RSS Feed](https://www.indexdata.org/canada/public-safety-canada/feed/)
@@ -1765,35 +1426,81 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/public-safety-can
 - `[`SOR-89-421`]` **[Royal Canadian Mounted Police Case Examination Fees (Bermuda) Regulations](https://www.indexdata.org/royal-canadian-mounted-police-case-examination-fees-bermuda-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-88-397`]` **[Royal Canadian Mounted Police External Review Committee Security and Confidentiality Regulations](https://www.indexdata.org/royal-canadian-mounted-police-external-review-committee-security-and-confidentiality-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-88-361`]` **[Royal Canadian Mounted Police Regulations, 1988](https://www.indexdata.org/royal-canadian-mounted-police-regulations-1988/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2024-208`]` **[Shipment by Post of Certain Prohibited Firearms and Prohibited Devices by Certain Businesses Regulations](https://www.indexdata.org/shipment-by-post-of-certain-prohibited-firearms-and-prohibited-devices-by-certain-businesses-regulations/)** — `2026-09-30` | `9 Pages`
 
-### [Global Affairs Canada](https://www.indexdata.org/canada/global-affairs-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/global-affairs-canada/](https://www.indexdata.org/canada/global-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/global-affairs-canada/feed/)
+### [Health Canada](https://www.indexdata.org/canada/health-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/health-canada/](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)
 
-- `[`Z-041`]` **[Treaties of Peace (Italy, Romania, Hungary and Finland) Act, 1948](https://www.indexdata.org/treaties-of-peace-italy-romania-hungary-and-finland-act-1948/)** — `2026-09-30` | `4 Pages`
-- `[`U-2`]` **[United Nations Act](https://www.indexdata.org/united-nations-act/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-95-538`]` **[Consular Services Fees Regulations](https://www.indexdata.org/consular-services-fees-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-88-485`]` **[Diplomatic Service (Special) Superannuation Regulations, 1988](https://www.indexdata.org/diplomatic-service-special-superannuation-regulations-1988/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2025-61`]` **[General Permit Allowing Specified Activities and Transactions that Are Prohibited Under the Special Economic Measures (Syria) Regulations](https://www.indexdata.org/general-permit-allowing-specified-activities-and-transactions-that-are-prohibited-under-the-special-economic-measures-syria-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2025-50`]` **[Special Economic Measures Permit Authorization Order](https://www.indexdata.org/special-economic-measures-permit-authorization-order/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2024-92`]` **[Special Economic Measures (Extremist Settler Violence) Permit Authorization Order](https://www.indexdata.org/special-economic-measures-extremist-settler-violence-permit-authorization-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2024-91`]` **[Special Economic Measures (Extremist Settler Violence) Regulations](https://www.indexdata.org/special-economic-measures-extremist-settler-violence-regulations/)** — `2026-09-30` | `12 Pages`
-- `[`SOR-2024-62`]` **[Special Economic Measures (Sudan) Permit Authorization Order](https://www.indexdata.org/special-economic-measures-sudan-permit-authorization-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2024-61`]` **[Special Economic Measures (Sudan) Regulations](https://www.indexdata.org/special-economic-measures-sudan-regulations/)** — `2026-09-30` | `14 Pages`
-- `[`SOR-2024-24`]` **[Special Economic Measures (Guatemala) Permit Authorization Order](https://www.indexdata.org/special-economic-measures-guatemala-permit-authorization-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2024-23`]` **[Special Economic Measures (Guatemala) Regulations](https://www.indexdata.org/special-economic-measures-guatemala-regulations/)** — `2026-09-30` | `11 Pages`
-- `[`SOR-2024-18`]` **[Special Economic Measures (Hamas Terrorist Attacks) Permit Authorization Order](https://www.indexdata.org/special-economic-measures-hamas-terrorist-attacks-permit-authorization-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2024-17`]` **[Special Economic Measures (Hamas Terrorist Attacks) Regulations](https://www.indexdata.org/special-economic-measures-hamas-terrorist-attacks-regulations/)** — `2026-09-30` | `12 Pages`
-- `[`SOR-2023-3`]` **[Special Economic Measures (Sri Lanka) Permit Authorization Order](https://www.indexdata.org/special-economic-measures-sri-lanka-permit-authorization-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2023-2`]` **[Special Economic Measures (Sri Lanka) Regulations](https://www.indexdata.org/special-economic-measures-sri-lanka-regulations/)** — `2026-09-30` | `12 Pages`
-- `[`SOR-2023-110`]` **[Special Economic Measures (Moldova) Permit Authorization Order](https://www.indexdata.org/special-economic-measures-moldova-permit-authorization-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2023-109`]` **[Special Economic Measures (Moldova) Regulations](https://www.indexdata.org/special-economic-measures-moldova-regulations/)** — `2026-09-30` | `13 Pages`
-- `[`SOR-2022-227`]` **[Special Economic Measures (Haiti) Permit Authorization Order](https://www.indexdata.org/special-economic-measures-haiti-permit-authorization-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2022-226`]` **[Special Economic Measures (Haiti) Regulations](https://www.indexdata.org/special-economic-measures-haiti-regulations/)** — `2026-09-30` | `14 Pages`
-- `[`SOR-2021-50`]` **[Special Economic Measures (People’s Republic of China) Permit Authorization Order](https://www.indexdata.org/special-economic-measures-peoples-republic-of-china-permit-authorization-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2021-49`]` **[Special Economic Measures (People’s Republic of China) Regulations](https://www.indexdata.org/special-economic-measures-peoples-republic-of-china-regulations/)** — `2026-09-30` | `12 Pages`
-- `[`SOR-2020-215`]` **[Special Economic Measures (Belarus) Permit Authorization Order](https://www.indexdata.org/special-economic-measures-belarus-permit-authorization-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2020-214`]` **[Special Economic Measures (Belarus) Regulations](https://www.indexdata.org/special-economic-measures-belarus-regulations/)** — `2026-09-30` | `69 Pages`
+- `[`T-11.5`]` **[Tobacco and Vaping Products Act](https://www.indexdata.org/tobacco-and-vaping-products-act/)** — `2026-09-30` | `75 Pages`
+- `[`SOR-99-94`]` **[Tobacco (Seizure and Restoration) Regulations](https://www.indexdata.org/tobacco-seizure-and-restoration-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-99-93`]` **[Tobacco (Access) Regulations](https://www.indexdata.org/tobacco-access-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-98-5`]` **[Licensed Dealers for Controlled Drugs and Narcotics (Veterinary Use) Fees Regulations](https://www.indexdata.org/licensed-dealers-for-controlled-drugs-and-narcotics-veterinary-use-fees-regulations/)** — `2026-09-30` | `9 Pages`
+- `[`SOR-98-432`]` **[Fees In Respect of Medical Devices Regulations](https://www.indexdata.org/fees-in-respect-of-medical-devices-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-98-282`]` **[Medical Devices Regulations](https://www.indexdata.org/medical-devices-regulations/)** — `2026-09-30` | `124 Pages`
+- `[`SOR-98-182`]` **[Ontario Hydro Nuclear Facilities Exclusion Regulations (Use of Tobacco)](https://www.indexdata.org/ontario-hydro-nuclear-facilities-exclusion-regulations-use-of-tobacco/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-97-234`]` **[Controlled Drugs and Substances Act (Police Enforcement) Regulations](https://www.indexdata.org/controlled-drugs-and-substances-act-police-enforcement-regulations/)** — `2026-09-30` | `19 Pages`
+- `[`SOR-97-229`]` **[Regulations Exempting Certain Precursors and Controlled Substances from the Application of the Controlled Drugs and Substances Act](https://www.indexdata.org/regulations-exempting-certain-precursors-and-controlled-substances-from-the-application-of-the-controlled-drugs-and-substances-act/)** — `2026-09-30` | `8 Pages`
+- `[`SOR-97-173`]` **[Regulations Prescribing the Fees to be Paid for a Pest Control Product Application Examination Service Provided by or on behalf of Her Majesty in Right of Canada, for a Right or Privilege to Manufacture or Sell a Pest Control Product in Canada and for Establishing a Maximum Residue Limit in Relation to a Pest Control Product](https://www.indexdata.org/regulations-prescribing-the-fees-to-be-paid-for-a-pest-control-product-application-examination-service-provided-by-or-on-behalf-of-her-majesty-in-right-of-canada-for-a-right-or-privilege-to-manufactu/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-94-558`]` **[Human Pathogens Importation Regulations](https://www.indexdata.org/human-pathogens-importation-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-90-39`]` **[Hazardous Products (Expansion Gates and Expandable Enclosures) Regulations](https://www.indexdata.org/hazardous-products-expansion-gates-and-expandable-enclosures-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-90-245`]` **[Hazardous Products (Tents) Regulations](https://www.indexdata.org/hazardous-products-tents-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-89-514`]` **[Hazardous Products (Lighters) Regulations](https://www.indexdata.org/hazardous-products-lighters-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-89-446`]` **[Hazardous Products (Booster Cushions) Regulations](https://www.indexdata.org/hazardous-products-booster-cushions-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-89-440`]` **[Hazardous Products (Crocidolite Asbestos) Regulations](https://www.indexdata.org/hazardous-products-crocidolite-asbestos-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-88-151`]` **[Hazardous Products (Child Restraint Systems) Regulations](https://www.indexdata.org/hazardous-products-child-restraint-systems-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-87-443`]` **[Hazardous Products (Children’s Sleepwear) Regulations](https://www.indexdata.org/hazardous-products-childrens-sleepwear-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-86-239`]` **[Ontario Flue-Cured Tobacco Licence Charges (Interprovincial and Export) Order](https://www.indexdata.org/ontario-flue-cured-tobacco-licence-charges-interprovincial-and-export-order/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-84-271`]` **[Hazardous Products (Infant Feeding Bottle Nipples) Regulations](https://www.indexdata.org/hazardous-products-infant-feeding-bottle-nipples-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-80-810`]` **[Hazardous Products (Mattresses) Regulations](https://www.indexdata.org/hazardous-products-mattresses-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-79-732`]` **[Hazardous Products (Cellulose Insulation) Regulations](https://www.indexdata.org/hazardous-products-cellulose-insulation-regulations/)** — `2026-09-30` | `3 Pages`
+
+### [Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
+
+- `[`W-6`]` **[Weights and Measures Act](https://www.indexdata.org/weights-and-measures-act/)** — `2026-09-30` | `51 Pages`
+- `[`T-3.4`]` **[Telecommunications Act](https://www.indexdata.org/telecommunications-act/)** — `2026-09-30` | `102 Pages`
+- `[`T-13`]` **[Trademarks Act](https://www.indexdata.org/trademarks-act/)** — `2026-09-30` | `115 Pages`
+- `[`SOR-99-460`]` **[Industrial Design Regulations](https://www.indexdata.org/industrial-design-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-99-348`]` **[Regulations Prescribing Networks (Copyright Act)](https://www.indexdata.org/regulations-prescribing-networks-copyright-act/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-97-457`]` **[Copyright Regulations](https://www.indexdata.org/copyright-regulations/)** — `2026-09-30` | `10 Pages`
+- `[`SOR-97-164`]` **[Regulations Establishing the Period Within Which Owners of Copyright not Represented by Collective Societies Can Claim Retransmission Royalties](https://www.indexdata.org/regulations-establishing-the-period-within-which-owners-of-copyright-not-represented-by-collective-societies-can-claim-retransmission-royalties/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-96-484`]` **[Radiocommunication Regulations](https://www.indexdata.org/radiocommunication-regulations/)** — `2026-09-30` | `58 Pages`
+- `[`SOR-96-423`]` **[Patent Rules](https://www.indexdata.org/patent-rules/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-96-195`]` **[Trade-marks Regulations](https://www.indexdata.org/trade-marks-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-95-157`]` **[Telecommunications Fees Regulations, 1995](https://www.indexdata.org/telecommunications-fees-regulations-1995/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-94-688`]` **[Patented Medicines Regulations](https://www.indexdata.org/patented-medicines-regulations/)** — `2026-09-30` | `13 Pages`
+- `[`SOR-94-667`]` **[Canadian Telecommunications Common Carrier Ownership and Control Regulations](https://www.indexdata.org/canadian-telecommunications-common-carrier-ownership-and-control-regulations/)** — `2026-09-30` | `47 Pages`
+- `[`SOR-94-290`]` **[Competition Tribunal Rules](https://www.indexdata.org/competition-tribunal-rules/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-93-365`]` **[Telecommunications Apparatus Assessment and Testing Fees Order](https://www.indexdata.org/telecommunications-apparatus-assessment-and-testing-fees-order/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-93-133`]` **[Patented Medicines (Notice of Compliance) Regulations](https://www.indexdata.org/patented-medicines-notice-of-compliance-regulations/)** — `2026-09-30` | `27 Pages`
+- `[`SOR-88-577`]` **[Terra Nova Telecommunications Inc. Shares Sale Order](https://www.indexdata.org/terra-nova-telecommunications-inc-shares-sale-order/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-85-611`]` **[Investment Canada Regulations](https://www.indexdata.org/investment-canada-regulations/)** — `2026-09-30` | `28 Pages`
+- `[`SOR-81-907`]` **[International Telecommunications Satellite Organization (INTELSAT) Privileges and Immunities Order](https://www.indexdata.org/international-telecommunications-satellite-organization-intelsat-privileges-and-immunities-order/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-81-319`]` **[Telecommunications and Electronic Maintenance Services Fees Order](https://www.indexdata.org/telecommunications-and-electronic-maintenance-services-fees-order/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-79-554`]` **[CRTC Telecommunications Rules of Procedure](https://www.indexdata.org/crtc-telecommunications-rules-of-procedure/)** — `2026-09-30` | `3 Pages`
+
+### [Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/)
+
+- `[`Y-4.6`]` **[Yukon Waters Act](https://www.indexdata.org/yukon-waters-act/)** — `2026-09-30` | `3 Pages`
+- `[`Y-4.3`]` **[Yukon Surface Rights Board Act](https://www.indexdata.org/yukon-surface-rights-board-act/)** — `2026-09-30` | `55 Pages`
+- `[`Y-2.6`]` **[Yukon First Nations Self-Government Act](https://www.indexdata.org/yukon-first-nations-self-government-act/)** — `2026-09-30` | `27 Pages`
+- `[`Y-2.3`]` **[Yukon First Nations Land Claims Settlement Act](https://www.indexdata.org/yukon-first-nations-land-claims-settlement-act/)** — `2026-09-30` | `14 Pages`
+- `[`Y-2.2`]` **[Yukon Environmental and Socio-economic Assessment Act](https://www.indexdata.org/yukon-environmental-and-socio-economic-assessment-act/)** — `2026-09-30` | `84 Pages`
+- `[`Y-2.01`]` **[Yukon Act](https://www.indexdata.org/yukon-act/)** — `2026-09-30` | `41 Pages`
+- `[`Y-2`]` **[Yukon Act](https://www.indexdata.org/yukon-act-2/)** — `2026-09-30` | `3 Pages`
+- `[`U-2.2`]` **[United Nations Declaration on the Rights of Indigenous Peoples Act](https://www.indexdata.org/united-nations-declaration-on-the-rights-of-indigenous-peoples-act/)** — `2026-09-30` | `21 Pages`
+- `[`SOR-99-422`]` **[Order Authorizing Federal Employees to Acquire Interests in Certain Lands in the Northwest Territories (Order No. 3, 1999)](https://www.indexdata.org/order-authorizing-federal-employees-to-acquire-interests-in-certain-lands-in-the-northwest-territories-order-no-3-1999/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-99-298`]` **[Order Authorizing Federal Employees to Acquire Interests in Certain Lands in the Northwest Territories (Order No. 1, 1999)](https://www.indexdata.org/order-authorizing-federal-employees-to-acquire-interests-in-certain-lands-in-the-northwest-territories-order-no-1-1999/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-99-12`]` **[Preliminary Screening Requirement Regulations](https://www.indexdata.org/preliminary-screening-requirement-regulations/)** — `2026-09-30` | `14 Pages`
+- `[`SOR-98-438`]` **[Order Authorizing Federal Employees to Acquire Interests in Certain Lands in the Northwest Territories (Order No. 2, 1998)](https://www.indexdata.org/order-authorizing-federal-employees-to-acquire-interests-in-certain-lands-in-the-northwest-territories-order-no-2-1998/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-98-380`]` **[Order Respecting the First Legislative Assembly of Nunavut](https://www.indexdata.org/order-respecting-the-first-legislative-assembly-of-nunavut/)** — `2026-09-30` | `19 Pages`
+- `[`SOR-98-261`]` **[Order authorizing certain employees of the Government of Canada to acquire interests in territorial lands in the Northwest Territories (Order No. 1, 1998)](https://www.indexdata.org/order-authorizing-certain-employees-of-the-government-of-canada-to-acquire-interests-in-territorial-lands-in-the-northwest-territories-order-no-1-1998/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-98-188`]` **[Order Prohibiting the Issuance of Interests at Lapierre House Historic Site in the Yukon Territory](https://www.indexdata.org/order-prohibiting-the-issuance-of-interests-at-lapierre-house-historic-site-in-the-yukon-territory/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-97-540`]` **[Order Prohibiting the Issuance of Interests at Rampart House in the Yukon Territory](https://www.indexdata.org/order-prohibiting-the-issuance-of-interests-at-rampart-house-in-the-yukon-territory/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-89-547`]` **[Form of Deeds Relating to Certain Successions of Cree and Naskapi Beneficiaries Regulations](https://www.indexdata.org/form-of-deeds-relating-to-certain-successions-of-cree-and-naskapi-beneficiaries-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-88-315`]` **[Cree-Naskapi Band Elections Regulations](https://www.indexdata.org/cree-naskapi-band-elections-regulations/)** — `2026-09-30` | `29 Pages`
+- `[`SOR-86-490`]` **[Cree-Naskapi Long-Term Borrowing Regulations, 1986](https://www.indexdata.org/cree-naskapi-long-term-borrowing-regulations-1986/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-86-1070`]` **[Cree-Naskapi Land Registry Regulations](https://www.indexdata.org/cree-naskapi-land-registry-regulations/)** — `2026-09-30` | `27 Pages`
 
 ### [Employment and Social Development Canada](https://www.indexdata.org/canada/employment-and-social-development-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/employment-and-social-development-canada/](https://www.indexdata.org/canada/employment-and-social-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/employment-and-social-development-canada/feed/)
@@ -1814,10 +1521,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/employment-and-so
 - `[`SOR-84-435`]` **[Uranium Mines (Ontario) Occupational Health and Safety Regulations](https://www.indexdata.org/uranium-mines-ontario-occupational-health-and-safety-regulations/)** — `2026-09-30` | `13 Pages`
 - `[`SOR-84-349`]` **[Water Supply and Sewage Disposal Services Charges Order (Peace River-Liard Regional District)](https://www.indexdata.org/water-supply-and-sewage-disposal-services-charges-order-peace-river-liard-regional-district/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-83-813`]` **[Unemployment Insurance Account Advance Regulations](https://www.indexdata.org/unemployment-insurance-account-advance-regulations/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2025-74`]` **[Employment Insurance Board of Appeal Regulations](https://www.indexdata.org/employment-insurance-board-of-appeal-regulations/)** — `2026-09-30` | `21 Pages`
-- `[`SOR-2021-248`]` **[Canada–Nova Scotia Offshore Area Occupational Health and Safety Regulations](https://www.indexdata.org/canada-nova-scotia-offshore-area-occupational-health-and-safety-regulations/)** — `2026-09-30` | `171 Pages`
-- `[`SOR-2021-247`]` **[Canada–Newfoundland and Labrador Offshore Area Occupational Health and Safety Regulations](https://www.indexdata.org/canada-newfoundland-and-labrador-offshore-area-occupational-health-and-safety-regulations/)** — `2026-09-30` | `171 Pages`
-- `[`SOR-2020-260`]` **[Administrative Monetary Penalties (Canada Labour Code) Regulations](https://www.indexdata.org/administrative-monetary-penalties-canada-labour-code-regulations/)** — `2026-09-30` | `188 Pages`
 
 ### [Environment and Climate Change Canada](https://www.indexdata.org/canada/environment-and-climate-change-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/environment-and-climate-change-canada/](https://www.indexdata.org/canada/environment-and-climate-change-canada/) | [RSS Feed](https://www.indexdata.org/canada/environment-and-climate-change-canada/feed/)
@@ -1835,13 +1538,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/environment-and-c
 - `[`SOR-80-9`]` **[Arctic Waters Experimental Pollution Regulations, 1979](https://www.indexdata.org/arctic-waters-experimental-pollution-regulations-1979/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-80-831`]` **[Carbonated Beverage Glass Containers Regulations](https://www.indexdata.org/carbonated-beverage-glass-containers-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-78-417`]` **[Arctic Waters Experimental Pollution Regulations, 1978](https://www.indexdata.org/arctic-waters-experimental-pollution-regulations-1978/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2024-48`]` **[Fourth Session of the Intergovernmental Negotiating Committee on Plastic Pollution (Ottawa 2024 – INC-4) Privileges and Immunities Order](https://www.indexdata.org/fourth-session-of-the-intergovernmental-negotiating-committee-on-plastic-pollution-ottawa-2024-inc-4-privileges-and-immunities-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2024-269`]` **[Order Declaring that the Reduction of Carbon Dioxide Emissions from Coal-fired Generation of Electricity Regulations Do Not Apply in Saskatchewan, 2025](https://www.indexdata.org/order-declaring-that-the-reduction-of-carbon-dioxide-emissions-from-coal-fired-generation-of-electricity-regulations-do-not-apply-in-saskatchewan-2025/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2023-183`]` **[NATO Climate Change and Security Centre of Excellence Rights, Privileges and Immunities Order](https://www.indexdata.org/nato-climate-change-and-security-centre-of-excellence-rights-privileges-and-immunities-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2022-140`]` **[Clean Fuel Regulations](https://www.indexdata.org/clean-fuel-regulations/)** — `2026-09-30` | `239 Pages`
-- `[`SOR-2022-111`]` **[Canadian Greenhouse Gas Offset Credit System Regulations](https://www.indexdata.org/canadian-greenhouse-gas-offset-credit-system-regulations/)** — `2026-09-30` | `69 Pages`
-- `[`SOR-2022-110`]` **[Federal Halocarbon Regulations, 2022](https://www.indexdata.org/federal-halocarbon-regulations-2022/)** — `2026-09-30` | `23 Pages`
-- `[`SOR-2022-105`]` **[Migratory Birds Regulations, 2022](https://www.indexdata.org/migratory-birds-regulations-2022/)** — `2026-09-30` | `163 Pages`
 
 ### [Agriculture and Agri-Food Canada](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/agriculture-and-agri-food-canada/](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/) | [RSS Feed](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/feed/)
@@ -1855,7 +1551,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/agriculture-and-a
 - `[`SOR-94-789`]` **[Scientific or Technical Assistance Fees Order (Research Branch — Agriculture)](https://www.indexdata.org/scientific-or-technical-assistance-fees-order-research-branch-agriculture/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-90-288`]` **[Meat Inspection Regulations, 1990](https://www.indexdata.org/meat-inspection-regulations-1990/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-83-593`]` **[Feeds Regulations, 1983](https://www.indexdata.org/feeds-regulations-1983/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2024-132`]` **[Feeds Regulations, 2024](https://www.indexdata.org/feeds-regulations-2024/)** — `2026-09-30` | `71 Pages`
 
 ### [Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/fisheries-and-oceans-canada/](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
@@ -1868,17 +1563,18 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/fisheries-and-oce
 - `[`SOR-84-764`]` **[Order Authorizing the Minister of Regional Industrial Expansion to Exercise the Powers of the Minister of Fisheries and Oceans under Subsection 6(1) of the Act with Respect to Certain Companies](https://www.indexdata.org/order-authorizing-the-minister-of-regional-industrial-expansion-to-exercise-the-powers-of-the-minister-of-fisheries-and-oceans-under-subsection-61-of-the-act-with-respect-to-certain-companies/)** — `2026-09-30` | `4 Pages`
 - `[`SOR-82-611`]` **[St. Anthony Fisheries Limited Regulations](https://www.indexdata.org/st-anthony-fisheries-limited-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-80-64`]` **[Northwest Atlantic Fisheries Organization Privileges and Immunities Order](https://www.indexdata.org/northwest-atlantic-fisheries-organization-privileges-and-immunities-order/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2023-63`]` **[Northwest Atlantic Fisheries Organization Privileges and Immunities Order, 2023](https://www.indexdata.org/northwest-atlantic-fisheries-organization-privileges-and-immunities-order-2023/)** — `2026-09-30` | `6 Pages`
 
-### [Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-national-defence/](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
+### [International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/international-development-research-centre/](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 
-- `[`W-11.4`]` **[Women’s Royal Naval Services and the South African Military Nursing Service (Benefits) Act](https://www.indexdata.org/womens-royal-naval-services-and-the-south-african-military-nursing-service-benefits-act/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-98-40`]` **[Order Designating Certain Countries and Military Service Agencies for the Purposes of Tariff Item No. 9810.00.00](https://www.indexdata.org/order-designating-certain-countries-and-military-service-agencies-for-the-purposes-of-tariff-item-no-9810-00-00/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-92-201b`]` **[Department of National Defence Terms Under Three Months Regulations, 1992](https://www.indexdata.org/department-of-national-defence-terms-under-three-months-regulations-1992/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-92-201a`]` **[Department of National Defence Terms Under Three Months Exclusion Approval Order, 1992](https://www.indexdata.org/department-of-national-defence-terms-under-three-months-exclusion-approval-order-1992/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-2025-46`]` **[Rules of Practice and Procedure of the Chief Military Judge](https://www.indexdata.org/rules-of-practice-and-procedure-of-the-chief-military-judge/)** — `2026-09-30` | `37 Pages`
-- `[`SOR-2022-9`]` **[Rules of Procedure for Hearings Before the Military Police Complaints Commission, 2022](https://www.indexdata.org/rules-of-procedure-for-hearings-before-the-military-police-complaints-commission-2022/)** — `2026-09-30` | `41 Pages`
+- `[`CA-IDRC-10625-69527`]` **[Final Technical Report](https://www.indexdata.org/final-technical-report/)** — `2026-11-01` | `58 Pages`
+- `[`CA-IDRC-10625-69526`]` **[Final Technical Report](https://www.indexdata.org/final-technical-report-2/)** — `2026-11-01` | `58 Pages`
+- `[`CA-IDRC-10625-69525`]` **[Zimbabwe le coût humain du boom du lithium](https://www.indexdata.org/zimbabwe-le-cout-humain-du-boom-du-lithium/)** — `2026-11-01` | `2 Pages`
+- `[`CA-IDRC-10625-69524`]` **[Ghana le changement climatique fragilise aussi ceux qui soignent](https://www.indexdata.org/ghana-le-changement-climatique-fragilise-aussi-ceux-qui-soignent/)** — `2026-11-01` | `2 Pages`
+- `[`CA-IDRC-10625-69444`]` **[Moving to impact : benefits of locally led adaptation](https://www.indexdata.org/moving-to-impact-benefits-of-locally-led-adaptation/)** — `2026-11-01` | `9 Pages`
+- `[`CA-IDRC-10625-69400`]` **[Piloting the upscaling of Community-Based Flood Early Warning Systems Durban](https://www.indexdata.org/piloting-the-upscaling-of-community-based-flood-early-warning-systems-durban/)** — `2026-10-01` | `54 Pages`
+- `[`CA-IDRC-10625-69378`]` **[Impact of Culturally Responsive Teaching Practices on Social and Emotional Development of Early Learners in Ethically Diverse Classrooms in Ghana](https://www.indexdata.org/impact-of-culturally-responsive-teaching-practices-on-social-and-emotional-development-of-early-learners-in-ethically-diverse-classrooms-in-ghana/)** — `2026-10-01` | `36 Pages`
+- `[`CA-IDRC-10625-69368`]` **[Microbiological and genomic approaches to study and characterize co and cross resistance to antimicrobial peptides in Listeria monocytogenes ATCC 19 111 variants](https://www.indexdata.org/microbiological-and-genomic-approaches-to-study-and-characterize-co-and-cross-resistance-to-antimicrobial-peptides-in-listeria-monocytogenes-atcc-19-111-variants/)** — `2026-10-01` | `57 Pages`
 
 ### [Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-northwest-territories/](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
@@ -1889,22 +1585,21 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-nor
 - `[`CA-OPEN-a800e17b-5c79-f46b-532f-c119b2bb7b42`]` **[Mineral Tenure All](https://www.indexdata.org/mineral-tenure-all/)** — `2026-10-27` | `19 Pages`
 - `[`CA-OPEN-9e17b0bc-8ad5-07ad-601e-700183763829`]` **[Commissioner of Lands Administration Atlas Website](https://www.indexdata.org/commissioner-of-lands-administration-atlas-website/)** — `2026-10-27` | `26 Pages`
 
-### [Immigration, Refugees and Citizenship Canada](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/) | [RSS Feed](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/feed/)
+### [Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-national-defence/](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
 
-- `[`SOR-93-246`]` **[Citizenship Regulations](https://www.indexdata.org/citizenship-regulations/)** — `2026-09-30` | `23 Pages`
-- `[`SOR-93-22`]` **[Federal Courts Citizenship, Immigration and Refugee Protection Rules](https://www.indexdata.org/federal-courts-citizenship-immigration-and-refugee-protection-rules/)** — `2026-09-30` | `28 Pages`
-- `[`SOR-2026-68`]` **[College of Immigration and Citizenship Consultants Regulations](https://www.indexdata.org/college-of-immigration-and-citizenship-consultants-regulations/)** — `2026-09-30` | `33 Pages`
-- `[`SOR-2022-128`]` **[Code of Professional Conduct for College of Immigration and Citizenship Consultants Licensees](https://www.indexdata.org/code-of-professional-conduct-for-college-of-immigration-and-citizenship-consultants-licensees/)** — `2026-09-30` | `31 Pages`
-- `[`SOR-2021-25`]` **[Cross-border Movement of Hazardous Waste and Hazardous Recyclable Material Regulations](https://www.indexdata.org/cross-border-movement-of-hazardous-waste-and-hazardous-recyclable-material-regulations/)** — `2026-09-30` | `238 Pages`
+- `[`W-11.4`]` **[Women’s Royal Naval Services and the South African Military Nursing Service (Benefits) Act](https://www.indexdata.org/womens-royal-naval-services-and-the-south-african-military-nursing-service-benefits-act/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-98-40`]` **[Order Designating Certain Countries and Military Service Agencies for the Purposes of Tariff Item No. 9810.00.00](https://www.indexdata.org/order-designating-certain-countries-and-military-service-agencies-for-the-purposes-of-tariff-item-no-9810-00-00/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-92-201b`]` **[Department of National Defence Terms Under Three Months Regulations, 1992](https://www.indexdata.org/department-of-national-defence-terms-under-three-months-regulations-1992/)** — `2026-09-30` | `8 Pages`
+- `[`SOR-92-201a`]` **[Department of National Defence Terms Under Three Months Exclusion Approval Order, 1992](https://www.indexdata.org/department-of-national-defence-terms-under-three-months-exclusion-approval-order-1992/)** — `2026-09-30` | `8 Pages`
 
-### [International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/international-development-research-centre/](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
+### [Global Affairs Canada](https://www.indexdata.org/canada/global-affairs-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/global-affairs-canada/](https://www.indexdata.org/canada/global-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/global-affairs-canada/feed/)
 
-- `[`CA-IDRC-10625-69527`]` **[Final Technical Report](https://www.indexdata.org/final-technical-report/)** — `2026-11-01` | `58 Pages`
-- `[`CA-IDRC-10625-69526`]` **[Final Technical Report](https://www.indexdata.org/final-technical-report-2/)** — `2026-11-01` | `58 Pages`
-- `[`CA-IDRC-10625-69525`]` **[Zimbabwe le coût humain du boom du lithium](https://www.indexdata.org/zimbabwe-le-cout-humain-du-boom-du-lithium/)** — `2026-11-01` | `2 Pages`
-- `[`CA-IDRC-10625-69524`]` **[Ghana le changement climatique fragilise aussi ceux qui soignent](https://www.indexdata.org/ghana-le-changement-climatique-fragilise-aussi-ceux-qui-soignent/)** — `2026-11-01` | `2 Pages`
+- `[`Z-041`]` **[Treaties of Peace (Italy, Romania, Hungary and Finland) Act, 1948](https://www.indexdata.org/treaties-of-peace-italy-romania-hungary-and-finland-act-1948/)** — `2026-09-30` | `4 Pages`
+- `[`U-2`]` **[United Nations Act](https://www.indexdata.org/united-nations-act/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-95-538`]` **[Consular Services Fees Regulations](https://www.indexdata.org/consular-services-fees-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-88-485`]` **[Diplomatic Service (Special) Superannuation Regulations, 1988](https://www.indexdata.org/diplomatic-service-special-superannuation-regulations-1988/)** — `2026-09-30` | `6 Pages`
 
 ### [Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/telefilm-canada/](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
@@ -1913,6 +1608,12 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/telefilm-canada/]
 - `[`CA-OPEN-e849efcd-66d6-489d-99c9`]` **[Telefilm Canada's 2025/2026 Annual Report — Annual Report 2025/2026](https://www.indexdata.org/telefilm-canadas-2025-2026-annual-report-annual-report-2025-2026/)** — `2026-11-04` | `162 Pages`
 - `[`CA-OPEN-1a30a510-d886-4e45-9847-66a458461282`]` **[Telefilm Canada’s annual reports on the administration of the Privacy Act](https://www.indexdata.org/telefilm-canadas-annual-reports-on-the-administration-of-the-privacy-act/)** — `2026-11-04` | `8 Pages`
 - `[`CA-OPEN-1a30a510-d886-4e45-9847`]` **[Telefilm Canada’s annual reports on the administration of the Privacy Act — Annual Report on the Privacy Act 2025/2026](https://www.indexdata.org/telefilm-canadas-annual-reports-on-the-administration-of-the-privacy-act-annual-report-on-the-privacy-act-2025-2026/)** — `2026-11-04` | `8 Pages`
+
+### [Immigration, Refugees and Citizenship Canada](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/) | [RSS Feed](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/feed/)
+
+- `[`SOR-93-246`]` **[Citizenship Regulations](https://www.indexdata.org/citizenship-regulations/)** — `2026-09-30` | `23 Pages`
+- `[`SOR-93-22`]` **[Federal Courts Citizenship, Immigration and Refugee Protection Rules](https://www.indexdata.org/federal-courts-citizenship-immigration-and-refugee-protection-rules/)** — `2026-09-30` | `28 Pages`
 
 ### [Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/governor-general-in-council/](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)

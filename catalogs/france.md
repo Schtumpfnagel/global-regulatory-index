@@ -3,21 +3,29 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/france/](https://www.indexdata.org/france/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/france/feed/](https://www.indexdata.org/france/feed/)  
-**Governing Open-Government Framework:** *Licence Ouverte / Open Licence 2.0 (Etalab) & Code des relations entre le public et l'administration (CRPA, Art. L.321-1 & L.323-2)*  
-**Total Indexed Dossiers in France:** `288` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Wikidata Sovereign Entity:** [`Q142`](https://www.wikidata.org/wiki/Q142)  
+**Governing Open-Government Framework:** *CRPA Art. L321-1 to L323-7 / Loi n° 2016-1321*  
+**Total Indexed Dossiers in France:** `295` across `10` issuing authorities  
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 
-## Issuing Authorities in France (3 Authorities)
+## Issuing Authorities in France (10 Authorities)
 
 - **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`219` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
 - **[Banque de France](https://www.indexdata.org/france/banque-de-france/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/france/banque-de-france/) | [RSS Feed](https://www.indexdata.org/france/banque-de-france/feed/)
 - **[National Institute of Statistics and Economic Studies (INSEE)](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/) | [RSS Feed](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/feed/)
+- **[Bretagne Développement Innovation (BDI)](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/) | [RSS Feed](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/feed/)
+- **[Directorate of Legal and Administrative Information (Direction de l'information légale et administrative - DILA)](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/) | [RSS Feed](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/feed/)
+- **[French Agricultural Research Centre for International Development (CIRAD)](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/) | [RSS Feed](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/feed/)
+- **[French Polar Institute Paul-Émile Victor (Institut polaire français Paul-Émile Victor - IPEV)](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/) | [RSS Feed](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/feed/)
+- **[Ministry of Higher Education and Research — Recherche Data Gouv](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/) | [RSS Feed](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/feed/)
+- **[National Commission on Informatics and Liberty (Commission nationale de l'informatique et des libertés - CNIL)](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/) | [RSS Feed](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/feed/)
+- **[National Cybersecurity Agency of France (Agence nationale de la sécurité des systèmes d'information - ANSSI)](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/) | [RSS Feed](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–288 of 288)
+## Indexed Statutory & Regulatory Dossiers (Records 1–295 of 295)
 
 ### [Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)
 Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
@@ -318,6 +326,41 @@ Canonical Authority Archive: [https://www.indexdata.org/france/national-institut
 - `[`FR-GOV-05708284`]` **[New Technologies, Workplace Organisation and the Age Structure of the Workforce: Firm-Level Evicdence](https://www.indexdata.org/new-technologies-workplace-organisation-and-the-age-structure-of-the-workforce-firm-level-evicdence/)** — `2004-08-01` | `28 Pages`
 - `[`FR-GOV-05714329`]` **[MZE : a small macro-model for the euro area](https://www.indexdata.org/mze-a-small-macro-model-for-the-euro-area/)** — `2003-12-01` | `64 Pages`
 - `[`FR-GOV-05714605`]` **[Intragenerational distributional analysis in the french private sector pension scheme. A microsimulation approach](https://www.indexdata.org/intragenerational-distributional-analysis-in-the-french-private-sector-pension-scheme-a-microsimulation-approach/)** — `2002-12-01` | `40 Pages`
+
+### [Bretagne Développement Innovation (BDI)](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/)
+Canonical Authority Archive: [https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/) | [RSS Feed](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/feed/)
+
+- `[`FR-BDI-146548`]` **[ICE project – Chausey – Final_EN](https://www.indexdata.org/ice-project-chausey-final_en/)** — `2025-07-18` | `54 Pages`
+
+### [Directorate of Legal and Administrative Information (Direction de l'information légale et administrative - DILA)](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/)
+Canonical Authority Archive: [https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/) | [RSS Feed](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/feed/)
+
+- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique/)** — `2024-03-26` | `7 Pages`
+
+### [French Agricultural Research Centre for International Development (CIRAD)](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/)
+Canonical Authority Archive: [https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/) | [RSS Feed](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/feed/)
+
+- `[`FR-CIRAD-619826`]` **[Parasitic wasp-associated polydnavirus and venom affect arthropod community assembly on wild cabbage via the caterpillar host](https://www.indexdata.org/parasitic-wasp-associated-polydnavirus-and-venom-affect-arthropod-community-assembly-on-wild-cabbage-via-the-caterpillar-host/)** — `2026-11-06` | `16 Pages`
+
+### [French Polar Institute Paul-Émile Victor (Institut polaire français Paul-Émile Victor - IPEV)](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/)
+Canonical Authority Archive: [https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/) | [RSS Feed](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/feed/)
+
+- `[`FR-IPEV-48696`]` **[POLAR WATCH 16 FR](https://www.indexdata.org/polar-watch-16-fr/)** — `2026-10-19` | `12 Pages`
+
+### [Ministry of Higher Education and Research — Recherche Data Gouv](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/)
+Canonical Authority Archive: [https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/) | [RSS Feed](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/feed/)
+
+- `[`FR-RDG-781763`]` **[Metabolic phenotyping of Ralstonia pseudosolanacearum strains using Biolog microarrays — biolog curves PM1 PM2 PM3 substrates](https://www.indexdata.org/metabolic-phenotyping-of-ralstonia-pseudosolanacearum-strains-using-biolog-microarrays-biolog-curves-pm1-pm2-pm3-substrates/)** — `2026-11-05` | `12 Pages`
+
+### [National Commission on Informatics and Liberty (Commission nationale de l'informatique et des libertés - CNIL)](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/)
+Canonical Authority Archive: [https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/) | [RSS Feed](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/feed/)
+
+- `[`FR-CNIL-agence-privacy-t2-chap1`]` **[CNIL Privacy Agency Guide — Chapter 1](https://www.indexdata.org/cnil-privacy-agency-guide-chapter-1/)** — `2026-09-01` | `34 Pages`
+
+### [National Cybersecurity Agency of France (Agence nationale de la sécurité des systèmes d'information - ANSSI)](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/)
+Canonical Authority Archive: [https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/) | [RSS Feed](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/feed/)
+
+- `[`FR-ANSSI-20`]` **[rapport_activite_ANSSI_2021](https://www.indexdata.org/rapport_activite_anssi_2021/)** — `2026-11-07` | `2 Pages`
 
 ---
 

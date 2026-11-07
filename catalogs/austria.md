@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/austria/](https://www.indexdata.org/austria/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/austria/feed/](https://www.indexdata.org/austria/feed/)  
+**Wikidata Sovereign Entity:** [`Q40`](https://www.wikidata.org/wiki/Q40)  
 **Governing Open-Government Framework:** *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0*  
 **Total Indexed Dossiers in Austria:** `155` across `17` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

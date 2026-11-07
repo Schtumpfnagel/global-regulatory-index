@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/poland/](https://www.indexdata.org/poland/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/poland/feed/](https://www.indexdata.org/poland/feed/)  
+**Wikidata Sovereign Entity:** [`Q36`](https://www.wikidata.org/wiki/Q36)  
 **Governing Open-Government Framework:** *Polish Copyright Act (Dz.U. 1994 nr 24 poz. 83, Art. 4) & Open Data Act (Dz.U. 2021 poz. 1641)*  
 **Total Indexed Dossiers in Poland:** `42` across `2` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

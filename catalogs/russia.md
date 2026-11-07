@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/russia/](https://www.indexdata.org/russia/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/russia/feed/](https://www.indexdata.org/russia/feed/)  
+**Wikidata Sovereign Entity:** [`Q159`](https://www.wikidata.org/wiki/Q159)  
 **Governing Open-Government Framework:** *Civil Code of the Russian Federation, Part IV, Art. 1259(6)(1) & Open Government Data Standard*  
 **Total Indexed Dossiers in Russia:** `24` across `2` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

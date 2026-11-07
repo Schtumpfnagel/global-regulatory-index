@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/sweden/](https://www.indexdata.org/sweden/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/sweden/feed/](https://www.indexdata.org/sweden/feed/)  
+**Wikidata Sovereign Entity:** [`Q34`](https://www.wikidata.org/wiki/Q34)  
 **Governing Open-Government Framework:** *URL 9 § (1960:729) / SFS 2022:818 / CC BY 4.0*  
 **Total Indexed Dossiers in Sweden:** `47` across `7` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

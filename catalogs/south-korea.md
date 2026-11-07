@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/south-korea/](https://www.indexdata.org/south-korea/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/south-korea/feed/](https://www.indexdata.org/south-korea/feed/)  
+**Wikidata Sovereign Entity:** [`Q884`](https://www.wikidata.org/wiki/Q884)  
 **Governing Open-Government Framework:** *Copyright Act Art. 7 & Art. 24-2 / KOGL Type 1*  
 **Total Indexed Dossiers in South Korea:** `66` across `7` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

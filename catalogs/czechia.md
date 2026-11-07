@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/czechia/](https://www.indexdata.org/czechia/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/czechia/feed/](https://www.indexdata.org/czechia/feed/)  
+**Wikidata Sovereign Entity:** [`Q213`](https://www.wikidata.org/wiki/Q213)  
 **Governing Open-Government Framework:** *Act No. 121/2000 Coll., § 3(a) & Act No. 106/1999 Coll. (CC BY 4.0 / Public Domain)*  
 **Total Indexed Dossiers in Czechia:** `36` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

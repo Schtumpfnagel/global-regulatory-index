@@ -1,0 +1,66 @@
+# Wikidata QuickStatements Batch for Q142071440 (Index Data — Global Regulatory & Statutory Open Metadata Index)
+# Generated UTC: 2026-11-07 06:47 UTC | Total Dossiers: 36848 | Active Jurisdictions: 34
+Q142071440	P856	"https://www.indexdata.org/"
+Q142071440	P973	"https://www.indexdata.org/methodology/"
+Q142071440	P973	"https://www.indexdata.org/llms.txt"
+Q142071440	P973	"https://www.indexdata.org/llms-full.txt"
+Q142071440	P1324	"https://github.com/Schtumpfnagel/global-regulatory-index"
+Q142071440	P953	"https://huggingface.co/datasets/Schtumpfnagel/global-regulatory-index"
+Q142071440	P953	"https://osf.io/g342m/"
+Q142071440	P356	"10.5281/ZENODO.23612006"
+Q142071440	P356	"10.7910/DVN/QUYKAG"
+Q142071440	P356	"10.6084/M9.FIGSHARE.34942678"
+Q142071440	P1114	36848
+Q142071440	P1269	Q30	S854	"https://www.indexdata.org/united-states/"
+Q142071440	P1269	Q145	S854	"https://www.indexdata.org/united-kingdom/"
+Q142071440	P1269	Q16	S854	"https://www.indexdata.org/canada/"
+Q142071440	P1269	Q458	S854	"https://www.indexdata.org/european-union/"
+Q142071440	P1269	Q1065	S854	"https://www.indexdata.org/united-nations/"
+Q142071440	P1269	Q27	S854	"https://www.indexdata.org/ireland/"
+Q142071440	P1269	Q408	S854	"https://www.indexdata.org/australia/"
+Q142071440	P973	"https://www.indexdata.org/international/"
+Q142071440	P1269	Q40	S854	"https://www.indexdata.org/austria/"
+Q142071440	P1269	Q39	S854	"https://www.indexdata.org/switzerland/"
+Q142071440	P1269	Q33	S854	"https://www.indexdata.org/finland/"
+Q142071440	P1269	Q142	S854	"https://www.indexdata.org/france/"
+Q142071440	P1269	Q884	S854	"https://www.indexdata.org/south-korea/"
+Q142071440	P1269	Q20	S854	"https://www.indexdata.org/norway/"
+Q142071440	P1269	Q38	S854	"https://www.indexdata.org/italy/"
+Q142071440	P1269	Q928	S854	"https://www.indexdata.org/philippines/"
+Q142071440	P1269	Q36	S854	"https://www.indexdata.org/poland/"
+Q142071440	P1269	Q258	S854	"https://www.indexdata.org/south-africa/"
+Q142071440	P1269	Q668	S854	"https://www.indexdata.org/india/"
+Q142071440	P1269	Q31	S854	"https://www.indexdata.org/belgium/"
+Q142071440	P1269	Q155	S854	"https://www.indexdata.org/brazil/"
+Q142071440	P1269	Q17	S854	"https://www.indexdata.org/japan/"
+Q142071440	P1269	Q55	S854	"https://www.indexdata.org/netherlands/"
+Q142071440	P1269	Q159	S854	"https://www.indexdata.org/russia/"
+Q142071440	P1269	Q34	S854	"https://www.indexdata.org/sweden/"
+Q142071440	P1269	Q148	S854	"https://www.indexdata.org/china/"
+Q142071440	P1269	Q213	S854	"https://www.indexdata.org/czechia/"
+Q142071440	P1269	Q183	S854	"https://www.indexdata.org/germany/"
+Q142071440	P1269	Q35	S854	"https://www.indexdata.org/denmark/"
+Q142071440	P1269	Q191	S854	"https://www.indexdata.org/estonia/"
+Q142071440	P1269	Q29	S854	"https://www.indexdata.org/spain/"
+Q142071440	P1269	Q801	S854	"https://www.indexdata.org/israel/"
+Q142071440	P1269	Q45	S854	"https://www.indexdata.org/portugal/"
+Q142071440	P1269	Q334	S854	"https://www.indexdata.org/singapore/"
+Q142071440	P1269	Q192247
+Q142071440	P1269	Q161718
+Q142071440	P1269	Q1377617
+Q142071440	P1269	Q7164
+Q142071440	P1269	Q130146
+Q142071440	P1269	Q132551
+Q142071440	P1269	Q82151
+Q142071440	P1269	Q41550
+Q142071440	P1269	Q182000
+Q142071440	P1269	Q899683
+Q142071440	P1269	Q8919
+Q142071440	P1269	Q806640
+Q142071440	P1269	Q1377613
+Q142071440	P1269	Q1377610
+Q142071440	P1269	Q8901
+Q142071440	P1269	Q8901
+Q142071440	P1269	Q177773
+Q142071440	P1269	Q693152
+Q142071440	P1269	Q54129

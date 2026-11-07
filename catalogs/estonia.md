@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/estonia/](https://www.indexdata.org/estonia/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/estonia/feed/](https://www.indexdata.org/estonia/feed/)  
+**Wikidata Sovereign Entity:** [`Q191`](https://www.wikidata.org/wiki/Q191)  
 **Governing Open-Government Framework:** *Estonian Copyright Act § 5(3)-(4), Public Information Act § 3¹ & Riigikogu Open Data Licence*  
 **Total Indexed Dossiers in Estonia:** `16` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

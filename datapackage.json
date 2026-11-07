@@ -1,0 +1,310 @@
+{
+  "profile": "tabular-data-package",
+  "name": "global-regulatory-index",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 36,848 Official Dossiers",
+  "homepage": "https://www.indexdata.org/",
+  "version": "2026.11.07",
+  "created": "2026-11-07",
+  "id": "https://doi.org/10.5281/zenodo.23612006",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Index Data",
+      "path": "https://www.indexdata.org/",
+      "email": "support@indexdata.org",
+      "role": "publisher"
+    }
+  ],
+  "keywords": [
+    "legal",
+    "regulation",
+    "legislation",
+    "compliance",
+    "statutory-instruments",
+    "public-domain",
+    "government-documents",
+    "regulatory-intelligence",
+    "federal-register",
+    "united-states",
+    "united-kingdom",
+    "uksi",
+    "ukpga",
+    "canada",
+    "justice-laws",
+    "eur-lex",
+    "european-union",
+    "united-nations",
+    "ireland",
+    "oireachtas",
+    "statutory-agencies",
+    "public-sector",
+    "australia",
+    "federal-register-of-legislation",
+    "commonwealth-of-australia",
+    "world-bank",
+    "austria",
+    "ris-bka",
+    "bundesgesetzblatt",
+    "fma-austria",
+    "oenb",
+    "austrian-laws",
+    "switzerland",
+    "swiss-confederation",
+    "fedlex",
+    "opendata-swiss",
+    "sfao",
+    "finland",
+    "valtioneuvosto",
+    "finlex",
+    "national-audit-office-vtv",
+    "supreme-court-of-finland",
+    "supreme-administrative-court-of-finland",
+    "finnish-environment-institute-syke",
+    "natural-resources-institute-finland-luke",
+    "sitra",
+    "finnish-competition-and-consumer-authority-kkv",
+    "digital-and-population-data-services-agency-dvv",
+    "nordic-welfare-centre",
+    "france"
+  ],
+  "sources": [
+    {
+      "title": "Index Data Primary Repository",
+      "path": "https://www.indexdata.org/"
+    },
+    {
+      "title": "Complete Issuing Authority Directory",
+      "path": "https://www.indexdata.org/methodology/"
+    },
+    {
+      "title": "CERN / Zenodo Archival Mirror",
+      "path": "https://doi.org/10.5281/zenodo.23612006"
+    },
+    {
+      "title": "Harvard Dataverse Mirror",
+      "path": "https://doi.org/10.7910/DVN/QUYKAG"
+    },
+    {
+      "title": "Figshare Academic Mirror",
+      "path": "https://doi.org/10.6084/m9.figshare.34942678"
+    },
+    {
+      "title": "Hugging Face Dataset Mirror",
+      "path": "https://huggingface.co/datasets/Schtumpfnagel/global-regulatory-index"
+    },
+    {
+      "title": "Open Science Framework (OSF)",
+      "path": "https://osf.io/g342m/"
+    },
+    {
+      "title": "Wikidata Entity (Q142071440)",
+      "path": "https://www.wikidata.org/wiki/Q142071440"
+    },
+    {
+      "title": "United States Official Statutory Archive",
+      "path": "https://www.indexdata.org/united-states/"
+    },
+    {
+      "title": "United Kingdom Official Statutory Archive",
+      "path": "https://www.indexdata.org/united-kingdom/"
+    },
+    {
+      "title": "Canada Official Statutory Archive",
+      "path": "https://www.indexdata.org/canada/"
+    },
+    {
+      "title": "European Union Official Statutory Archive",
+      "path": "https://www.indexdata.org/european-union/"
+    },
+    {
+      "title": "United Nations Official Statutory Archive",
+      "path": "https://www.indexdata.org/united-nations/"
+    },
+    {
+      "title": "Ireland Official Statutory Archive",
+      "path": "https://www.indexdata.org/ireland/"
+    },
+    {
+      "title": "Australia Official Statutory Archive",
+      "path": "https://www.indexdata.org/australia/"
+    },
+    {
+      "title": "International Official Statutory Archive",
+      "path": "https://www.indexdata.org/international/"
+    },
+    {
+      "title": "Austria Official Statutory Archive",
+      "path": "https://www.indexdata.org/austria/"
+    },
+    {
+      "title": "Switzerland Official Statutory Archive",
+      "path": "https://www.indexdata.org/switzerland/"
+    },
+    {
+      "title": "Finland Official Statutory Archive",
+      "path": "https://www.indexdata.org/finland/"
+    },
+    {
+      "title": "France Official Statutory Archive",
+      "path": "https://www.indexdata.org/france/"
+    },
+    {
+      "title": "South Korea Official Statutory Archive",
+      "path": "https://www.indexdata.org/south-korea/"
+    },
+    {
+      "title": "Norway Official Statutory Archive",
+      "path": "https://www.indexdata.org/norway/"
+    },
+    {
+      "title": "Italy Official Statutory Archive",
+      "path": "https://www.indexdata.org/italy/"
+    },
+    {
+      "title": "Philippines Official Statutory Archive",
+      "path": "https://www.indexdata.org/philippines/"
+    },
+    {
+      "title": "Poland Official Statutory Archive",
+      "path": "https://www.indexdata.org/poland/"
+    },
+    {
+      "title": "South Africa Official Statutory Archive",
+      "path": "https://www.indexdata.org/south-africa/"
+    },
+    {
+      "title": "India Official Statutory Archive",
+      "path": "https://www.indexdata.org/india/"
+    },
+    {
+      "title": "Belgium Official Statutory Archive",
+      "path": "https://www.indexdata.org/belgium/"
+    },
+    {
+      "title": "Brazil Official Statutory Archive",
+      "path": "https://www.indexdata.org/brazil/"
+    },
+    {
+      "title": "Japan Official Statutory Archive",
+      "path": "https://www.indexdata.org/japan/"
+    },
+    {
+      "title": "Netherlands Official Statutory Archive",
+      "path": "https://www.indexdata.org/netherlands/"
+    },
+    {
+      "title": "Russia Official Statutory Archive",
+      "path": "https://www.indexdata.org/russia/"
+    },
+    {
+      "title": "Sweden Official Statutory Archive",
+      "path": "https://www.indexdata.org/sweden/"
+    },
+    {
+      "title": "China Official Statutory Archive",
+      "path": "https://www.indexdata.org/china/"
+    },
+    {
+      "title": "Czechia Official Statutory Archive",
+      "path": "https://www.indexdata.org/czechia/"
+    },
+    {
+      "title": "Germany Official Statutory Archive",
+      "path": "https://www.indexdata.org/germany/"
+    },
+    {
+      "title": "Denmark Official Statutory Archive",
+      "path": "https://www.indexdata.org/denmark/"
+    },
+    {
+      "title": "Estonia Official Statutory Archive",
+      "path": "https://www.indexdata.org/estonia/"
+    },
+    {
+      "title": "Spain Official Statutory Archive",
+      "path": "https://www.indexdata.org/spain/"
+    },
+    {
+      "title": "Israel Official Statutory Archive",
+      "path": "https://www.indexdata.org/israel/"
+    },
+    {
+      "title": "Portugal Official Statutory Archive",
+      "path": "https://www.indexdata.org/portugal/"
+    },
+    {
+      "title": "Singapore Official Statutory Archive",
+      "path": "https://www.indexdata.org/singapore/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "regulatory_index_2026_csv",
+      "path": "regulatory_index_2026.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "document_id",
+            "type": "string",
+            "description": "Official statutory or regulatory identifier"
+          },
+          {
+            "name": "jurisdiction",
+            "type": "string",
+            "description": "Issuing sovereign state or multilateral union"
+          },
+          {
+            "name": "authority",
+            "type": "string",
+            "description": "Issuing ministry, agency, central bank, court, or parliament"
+          },
+          {
+            "name": "publication_date",
+            "type": "date",
+            "format": "%Y-%m-%d",
+            "description": "Official publication or enactment date"
+          },
+          {
+            "name": "page_count",
+            "type": "integer",
+            "description": "Verified pagination of the source PDF dossier"
+          },
+          {
+            "name": "language",
+            "type": "string",
+            "description": "Document language (English)"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "Official statutory or regulatory title"
+          },
+          {
+            "name": "canonical_url",
+            "type": "string",
+            "format": "uri",
+            "description": "Canonical URL on indexdata.org"
+          }
+        ],
+        "primaryKey": "document_id"
+      }
+    },
+    {
+      "name": "regulatory_index_2026_jsonl",
+      "path": "regulatory_index_2026.jsonl",
+      "format": "jsonl",
+      "mediatype": "application/jsonl",
+      "encoding": "utf-8"
+    }
+  ]
+}

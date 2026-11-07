@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/singapore/](https://www.indexdata.org/singapore/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/singapore/feed/](https://www.indexdata.org/singapore/feed/)  
+**Wikidata Sovereign Entity:** [`Q334`](https://www.wikidata.org/wiki/Q334)  
 **Governing Open-Government Framework:** *SG Open Data Licence v1.0 / Copyright Act 2021*  
 **Total Indexed Dossiers in Singapore:** `82` across `10` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

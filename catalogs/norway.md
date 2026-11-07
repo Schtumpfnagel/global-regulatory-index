@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/norway/](https://www.indexdata.org/norway/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/norway/feed/](https://www.indexdata.org/norway/feed/)  
+**Wikidata Sovereign Entity:** [`Q20`](https://www.wikidata.org/wiki/Q20)  
 **Governing Open-Government Framework:** *Åndsverkloven § 14 / NLOD 2.0*  
 **Total Indexed Dossiers in Norway:** `71` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

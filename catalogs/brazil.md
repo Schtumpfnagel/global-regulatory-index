@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/brazil/](https://www.indexdata.org/brazil/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/brazil/feed/](https://www.indexdata.org/brazil/feed/)  
+**Wikidata Sovereign Entity:** [`Q155`](https://www.wikidata.org/wiki/Q155)  
 **Governing Open-Government Framework:** *Lei nº 9.610/1998 Art. 8º, IV; Lei nº 12.527/2011 (LAI); Decreto nº 8.777/2016 (CC BY 4.0 / ODbL)*  
 **Total Indexed Dossiers in Brazil:** `84` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

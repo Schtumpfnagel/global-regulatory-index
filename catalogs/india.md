@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/india/](https://www.indexdata.org/india/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/india/feed/](https://www.indexdata.org/india/feed/)  
+**Wikidata Sovereign Entity:** [`Q668`](https://www.wikidata.org/wiki/Q668)  
 **Governing Open-Government Framework:** *Indian Copyright Act 1957, s. 52(1)(q) & GODL-India*  
 **Total Indexed Dossiers in India:** `11` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

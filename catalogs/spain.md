@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/spain/](https://www.indexdata.org/spain/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/spain/feed/](https://www.indexdata.org/spain/feed/)  
+**Wikidata Sovereign Entity:** [`Q29`](https://www.wikidata.org/wiki/Q29)  
 **Governing Open-Government Framework:** *Art. 13 TRLPI (RDL 1/1996) & Law 37/2007 on Re-use of Public Sector Information (RD 1495/2011)*  
 **Total Indexed Dossiers in Spain:** `35` across `8` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 

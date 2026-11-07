@@ -1,12 +1,13 @@
-# Canada — Official Legislation, Regulations & Statutory Dossiers (Part 3 of 3)
+# Canada — Official Legislation, Regulations & Statutory Dossiers (Part 3 of 4)
 
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/canada/](https://www.indexdata.org/canada/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
+**Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,351` across `26` issuing authorities  
-**Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | **[Part 3 (Current)]**  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Total Indexed Dossiers in Canada:** `5,356` across `26` issuing authorities  
+**Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | **[Part 3 (Current)]** | [Part 4](canada-part-4.md)  
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 
@@ -28,11 +29,11 @@
 - **[Immigration, Refugees and Citizenship Canada](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/) | [RSS Feed](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/feed/)
 - **[Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
-- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
+- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
+- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
-- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
 - **[Government of Ontario](https://www.indexdata.org/canada/government-of-ontario/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-ontario/) | [RSS Feed](https://www.indexdata.org/canada/government-of-ontario/feed/)
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
@@ -41,11 +42,429 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,601–5,351 of 5,351)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,356)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`SOR-2001-434`]` **[Subsidiaries that Hold Insurance Holding Company Shares Regulations](https://www.indexdata.org/subsidiaries-that-hold-insurance-holding-company-shares-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-433`]` **[Subsidiaries that Hold Bank Holding Company Shares Regulations](https://www.indexdata.org/subsidiaries-that-hold-bank-holding-company-shares-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-432`]` **[Specialized Financing (Foreign Banks) Regulations](https://www.indexdata.org/specialized-financing-foreign-banks-regulations/)** — `2026-09-30` | `11 Pages`
+- `[`SOR-2001-430`]` **[Specialized Financing (Retail Associations) Regulations](https://www.indexdata.org/specialized-financing-retail-associations-regulations/)** — `2026-09-30` | `11 Pages`
+- `[`SOR-2001-429`]` **[Specialized Financing (Life Companies) Regulations](https://www.indexdata.org/specialized-financing-life-companies-regulations/)** — `2026-09-30` | `11 Pages`
+- `[`SOR-2001-428`]` **[Specialized Financing (Banks) Regulations](https://www.indexdata.org/specialized-financing-banks-regulations/)** — `2026-09-30` | `10 Pages`
+- `[`SOR-2001-427`]` **[Specialized Financing (Cooperative Credit Associations) Regulations](https://www.indexdata.org/specialized-financing-cooperative-credit-associations-regulations/)** — `2026-09-30` | `9 Pages`
+- `[`SOR-2001-424`]` **[Regulatory Capital (Insurance Holding Companies) Regulations](https://www.indexdata.org/regulatory-capital-insurance-holding-companies-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-420`]` **[Regulatory Capital (Bank Holding Companies) Regulations](https://www.indexdata.org/regulatory-capital-bank-holding-companies-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2001-418`]` **[Prospectus Exemptions (Insurance Holding Companies) Regulations](https://www.indexdata.org/prospectus-exemptions-insurance-holding-companies-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-414`]` **[Prospectus Exemptions (Bank Holding Companies) Regulations](https://www.indexdata.org/prospectus-exemptions-bank-holding-companies-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-412`]` **[Prospectus (Banks and Bank Holding Companies) Regulations](https://www.indexdata.org/prospectus-banks-and-bank-holding-companies-regulations-2/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-411`]` **[Prohibited Activities Respecting Real Property (Foreign Banks) Regulations](https://www.indexdata.org/prohibited-activities-respecting-real-property-foreign-banks-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-409`]` **[Name Use in Securities-related Transactions (Banks and Bank Holding Companies) Regulations](https://www.indexdata.org/name-use-in-securities-related-transactions-banks-and-bank-holding-companies-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-407`]` **[Name Use (Foreign Banks) Regulations](https://www.indexdata.org/name-use-foreign-banks-regulations-2/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-405`]` **[Minority Investment (Insurance Holding Companies) Regulations](https://www.indexdata.org/minority-investment-insurance-holding-companies-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2001-403`]` **[Minority Investment (Cooperative Credit Associations) Regulations](https://www.indexdata.org/minority-investment-cooperative-credit-associations-regulations/)** — `2026-09-30` | `8 Pages`
+- `[`SOR-2001-402`]` **[Minority Investment (Banks) Regulations](https://www.indexdata.org/minority-investment-banks-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2001-401`]` **[Minority Investment (Bank Holding Companies) Regulations](https://www.indexdata.org/minority-investment-bank-holding-companies-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2001-400`]` **[Material Percentage Regulations](https://www.indexdata.org/material-percentage-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-399`]` **[Manner of Calculation (Foreign Banks) Regulations](https://www.indexdata.org/manner-of-calculation-foreign-banks-regulations/)** — `2026-09-30` | `9 Pages`
+- `[`SOR-2001-397`]` **[Investment Limits (Insurance Holding Companies) Regulations](https://www.indexdata.org/investment-limits-insurance-holding-companies-regulations/)** — `2026-09-30` | `18 Pages`
+- `[`SOR-2001-395`]` **[Investment Limits (Cooperative Credit Associations) Regulations](https://www.indexdata.org/investment-limits-cooperative-credit-associations-regulations/)** — `2026-09-30` | `17 Pages`
+- `[`SOR-2001-394`]` **[Investment Limits (Canadian Societies) Regulations](https://www.indexdata.org/investment-limits-canadian-societies-regulations/)** — `2026-09-30` | `16 Pages`
+- `[`SOR-2001-393`]` **[Investment Limits (Banks) Regulations](https://www.indexdata.org/investment-limits-banks-regulations/)** — `2026-09-30` | `16 Pages`
+- `[`SOR-2001-392`]` **[Investment Limits (Bank Holding Companies) Regulations](https://www.indexdata.org/investment-limits-bank-holding-companies-regulations/)** — `2026-09-30` | `16 Pages`
+- `[`SOR-2001-391`]` **[Information Processing Activities (Banks and Authorized Foreign Banks) Regulations](https://www.indexdata.org/information-processing-activities-banks-and-authorized-foreign-banks-regulations/)** — `2026-09-30` | `8 Pages`
+- `[`SOR-2001-390`]` **[Form of Proxy (Banks and Bank Holding Companies) Regulations](https://www.indexdata.org/form-of-proxy-banks-and-bank-holding-companies-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-388`]` **[Finance Entity Regulations](https://www.indexdata.org/finance-entity-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-387`]` **[Factoring Entity Regulations](https://www.indexdata.org/factoring-entity-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-384`]` **[Exemption from Restrictions on Investments (Cooperative Credit Associations) Regulations](https://www.indexdata.org/exemption-from-restrictions-on-investments-cooperative-credit-associations-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-383`]` **[Exemption from Restrictions on Investments (Banks, Bank Holding Companies and Foreign Banks) Regulations](https://www.indexdata.org/exemption-from-restrictions-on-investments-banks-bank-holding-companies-and-foreign-banks-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-382`]` **[Exempt Debt Obligation Transactions (Banks and Bank Holding Companies) Regulations](https://www.indexdata.org/exempt-debt-obligation-transactions-banks-and-bank-holding-companies-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2001-381`]` **[Exempt Classes of Foreign Banks Regulations](https://www.indexdata.org/exempt-classes-of-foreign-banks-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-380`]` **[Equity of an Insurance Company or Insurance Holding Company Regulations](https://www.indexdata.org/equity-of-an-insurance-company-or-insurance-holding-company-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-378`]` **[Equity of a Cooperative Credit Association Regulations](https://www.indexdata.org/equity-of-a-cooperative-credit-association-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-377`]` **[Equity of a Bank or a Bank Holding Company Regulations](https://www.indexdata.org/equity-of-a-bank-or-a-bank-holding-company-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2001-376`]` **[Entity Associated with a Foreign Bank Regulations](https://www.indexdata.org/entity-associated-with-a-foreign-bank-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2001-374`]` **[Complaint Information (Retail Associations) Regulations](https://www.indexdata.org/complaint-information-retail-associations-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-371`]` **[Complaint Information (Banks) Regulations](https://www.indexdata.org/complaint-information-banks-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-370`]` **[Complaint Information (Authorized Foreign Banks) Regulations](https://www.indexdata.org/complaint-information-authorized-foreign-banks-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-360`]` **[Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism](https://www.indexdata.org/regulations-implementing-the-united-nations-resolutions-on-the-suppression-of-terrorism/)** — `2026-09-30` | `15 Pages`
+- `[`SOR-2001-345`]` **[Saskatchewan Alfalfa Seed Order](https://www.indexdata.org/saskatchewan-alfalfa-seed-order/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-344`]` **[Saskatchewan Flax Order](https://www.indexdata.org/saskatchewan-flax-order/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-32`]` **[Controlled Goods Regulations](https://www.indexdata.org/controlled-goods-regulations/)** — `2026-09-30` | `20 Pages`
+- `[`SOR-2001-296`]` **[Educational Program, Work and Other Subject-matter Record-keeping Regulations](https://www.indexdata.org/educational-program-work-and-other-subject-matter-record-keeping-regulations/)** — `2026-09-30` | `9 Pages`
+- `[`SOR-2001-283`]` **[Optional Survivor Annuity Regulations](https://www.indexdata.org/optional-survivor-annuity-regulations/)** — `2026-09-30` | `12 Pages`
+- `[`SOR-2001-282`]` **[Enhanced Survivor Annuity Regulations](https://www.indexdata.org/enhanced-survivor-annuity-regulations/)** — `2026-09-30` | `12 Pages`
+- `[`SOR-2001-281`]` **[By-law No. 7 Respecting the Large Value Transfer System](https://www.indexdata.org/by-law-no-7-respecting-the-large-value-transfer-system/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-276`]` **[Regulations Respecting Applications for Permits for Disposal at Sea](https://www.indexdata.org/regulations-respecting-applications-for-permits-for-disposal-at-sea/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-275`]` **[Disposal at Sea Regulations](https://www.indexdata.org/disposal-at-sea-regulations/)** — `2026-09-30` | `12 Pages`
+- `[`SOR-2001-269`]` **[Consumer Chemicals and Containers Regulations, 2001](https://www.indexdata.org/consumer-chemicals-and-containers-regulations-2001/)** — `2026-09-30` | `77 Pages`
+- `[`SOR-2001-261`]` **[Regulations Implementing the United Nations Resolutions on Liberia](https://www.indexdata.org/regulations-implementing-the-united-nations-resolutions-on-liberia/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-251`]` **[Albania and the Sultanate of Oman Goods Remission Order](https://www.indexdata.org/albania-and-the-sultanate-of-oman-goods-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-248`]` **[Commissioner’s Standing Orders (Classification Redress Process for Members)](https://www.indexdata.org/commissioners-standing-orders-classification-redress-process-for-members/)** — `2026-09-30` | `9 Pages`
+- `[`SOR-2001-227`]` **[Marihuana Medical Access Regulations](https://www.indexdata.org/marihuana-medical-access-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-226`]` **[Certain Refractory Products Remission Order](https://www.indexdata.org/certain-refractory-products-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-211`]` **[Plum Pox Virus Compensation Regulations](https://www.indexdata.org/plum-pox-virus-compensation-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-205`]` **[Orion Bus Industries Ltd. Remission Order](https://www.indexdata.org/orion-bus-industries-ltd-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-161`]` **[Iodinated Contrast Media Anti-Dumping Duty Remission Order](https://www.indexdata.org/iodinated-contrast-media-anti-dumping-duty-remission-order/)** — `2026-09-30` | `13 Pages`
+- `[`SOR-2001-115`]` **[Saskatchewan Uranium Mines and Mills Exclusion Regulations](https://www.indexdata.org/saskatchewan-uranium-mines-and-mills-exclusion-regulations/)** — `2026-09-30` | `8 Pages`
+- `[`SOR-2001-101`]` **[Cost of Borrowing (Banks) Regulations](https://www.indexdata.org/cost-of-borrowing-banks-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-92`]` **[Canadian Broiler Hatching Egg Marketing Levies Order](https://www.indexdata.org/canadian-broiler-hatching-egg-marketing-levies-order/)** — `2026-09-30` | `8 Pages`
+- `[`SOR-2000-70`]` **[Ship Registration and Tonnage Regulations](https://www.indexdata.org/ship-registration-and-tonnage-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-69`]` **[Canadian Wheat Board Contingency Fund Regulations](https://www.indexdata.org/canadian-wheat-board-contingency-fund-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-66`]` **[Tributyltetradecylphosphonium Chloride Regulations](https://www.indexdata.org/tributyltetradecylphosphonium-chloride-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2000-54`]` **[Prescribed Deposits (Banks without Deposit Insurance) Regulations](https://www.indexdata.org/prescribed-deposits-banks-without-deposit-insurance-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2000-53`]` **[Prescribed Deposits (Authorized Foreign Banks) Regulations](https://www.indexdata.org/prescribed-deposits-authorized-foreign-banks-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2000-52`]` **[Sales or Trades (Authorized Foreign Banks) Regulations](https://www.indexdata.org/sales-or-trades-authorized-foreign-banks-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2000-43`]` **[Gasoline and Gasoline Blend Dispensing Flow Rate Regulations](https://www.indexdata.org/gasoline-and-gasoline-blend-dispensing-flow-rate-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2000-42`]` **[Exemption from Deposit Insurance By-Law (Prescribed Deposits)](https://www.indexdata.org/exemption-from-deposit-insurance-by-law-prescribed-deposits/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2000-418`]` **[Order Prescribing the Fee to be Paid by Foreign Nationals to Participate in an International Youth Exchange Program in Canada](https://www.indexdata.org/order-prescribing-the-fee-to-be-paid-by-foreign-nationals-to-participate-in-an-international-youth-exchange-program-in-canada/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2000-387`]` **[National Parks of Canada Wilderness Area Declaration Regulations](https://www.indexdata.org/national-parks-of-canada-wilderness-area-declaration-regulations/)** — `2026-09-30` | `8 Pages`
+- `[`SOR-2000-376`]` **[Regulations Maintaining Certain Reciprocal Transfer Agreements](https://www.indexdata.org/regulations-maintaining-certain-reciprocal-transfer-agreements/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2000-375`]` **[Canada Post Corporation Withdrawal Regulations](https://www.indexdata.org/canada-post-corporation-withdrawal-regulations/)** — `2026-09-30` | `10 Pages`
+- `[`SOR-2000-324`]` **[Regulations Respecting Anti-Competitive Acts of Persons Operating a Domestic Service](https://www.indexdata.org/regulations-respecting-anti-competitive-acts-of-persons-operating-a-domestic-service/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2000-303`]` **[Criminal Records Regulations](https://www.indexdata.org/criminal-records-regulations/)** — `2026-09-30` | `11 Pages`
+- `[`SOR-2000-300`]` **[DNA Identification Regulations](https://www.indexdata.org/dna-identification-regulations/)** — `2026-09-30` | `9 Pages`
+- `[`SOR-2000-294`]` **[Canadian Forces Grievance Board Rules of Procedure (Review of a Grievance by Way of a Hearing)](https://www.indexdata.org/canadian-forces-grievance-board-rules-of-procedure-review-of-a-grievance-by-way-of-a-hearing/)** — `2026-09-30` | `15 Pages`
+- `[`SOR-2000-283`]` **[Canadian Broiler Hatching Egg and Chick Orderly Marketing Regulations](https://www.indexdata.org/canadian-broiler-hatching-egg-and-chick-orderly-marketing-regulations/)** — `2026-09-30` | `11 Pages`
+- `[`SOR-2000-277`]` **[Deposit Insurance Application Fee By-law](https://www.indexdata.org/deposit-insurance-application-fee-by-law/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2000-265`]` **[Ship Station (Radio) Technical Regulations, 1999](https://www.indexdata.org/ship-station-radio-technical-regulations-1999/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-260`]` **[Ship Station (Radio) Regulations, 1999](https://www.indexdata.org/ship-station-radio-regulations-1999/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-233`]` **[Compensation for Destroyed Animals and Things Regulations](https://www.indexdata.org/compensation-for-destroyed-animals-and-things-regulations/)** — `2026-09-30` | `16 Pages`
+- `[`SOR-2000-230`]` **[International Telecommunication Union Privileges and Immunities Order](https://www.indexdata.org/international-telecommunication-union-privileges-and-immunities-order/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2000-228`]` **[New Brunswick Primary Forest Products Order](https://www.indexdata.org/new-brunswick-primary-forest-products-order/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2000-217`]` **[Benzodiazepines and Other Targeted Substances Regulations](https://www.indexdata.org/benzodiazepines-and-other-targeted-substances-regulations/)** — `2026-09-30` | `93 Pages`
+- `[`SOR-2000-214`]` **[Stranded Steel Wire Remission Order](https://www.indexdata.org/stranded-steel-wire-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2000-206`]` **[Uranium Mines and Mills Regulations](https://www.indexdata.org/uranium-mines-and-mills-regulations/)** — `2026-09-30` | `22 Pages`
+- `[`SOR-2000-203`]` **[Radiation Protection Regulations](https://www.indexdata.org/radiation-protection-regulations/)** — `2026-09-30` | `23 Pages`
+- `[`SOR-2000-181`]` **[DNA Data Bank Advisory Committee Regulations](https://www.indexdata.org/dna-data-bank-advisory-committee-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2000-177`]` **[Canada Deposit Insurance Corporation Notice Regulations (Compensation in Respect of the Restructuring of Federal Member Institutions)](https://www.indexdata.org/canada-deposit-insurance-corporation-notice-regulations-compensation-in-respect-of-the-restructuring-of-federal-member-institutions/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2000-143`]` **[Withdrawal of Entities Regulations](https://www.indexdata.org/withdrawal-of-entities-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2000-142`]` **[Expropriation Fees Regulations](https://www.indexdata.org/expropriation-fees-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2000-141`]` **[Commissioner’s Standing Orders (Dispute Resolution Process for Promotions and Job Requirements)](https://www.indexdata.org/commissioners-standing-orders-dispute-resolution-process-for-promotions-and-job-requirements/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-131`]` **[Order Designating the Staff of the Non-Public Funds, Canadian Forces, a separate employer, for the purposes of paragraph 62(1)(a) of the Act](https://www.indexdata.org/order-designating-the-staff-of-the-non-public-funds-canadian-forces-a-separate-employer-for-the-purposes-of-paragraph-621a-of-the-act/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2000-112`]` **[Designated Provisions Regulations](https://www.indexdata.org/designated-provisions-regulations/)** — `2026-09-30` | `14 Pages`
+- `[`SOR-2000-107`]` **[Persistence and Bioaccumulation Regulations](https://www.indexdata.org/persistence-and-bioaccumulation-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2000-100`]` **[Federal-Provincial Fiscal Arrangements Regulations, 1999](https://www.indexdata.org/federal-provincial-fiscal-arrangements-regulations-1999/)** — `2026-09-30` | `12 Pages`
+- `[`SI-99-99`]` **[Overpayments to Certain Members of the Canadian Forces Remission Order](https://www.indexdata.org/overpayments-to-certain-members-of-the-canadian-forces-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-99-9`]` **[Reservation to the Crown Waiver Order (Contwoyto Lake, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-contwoyto-lake-n-w-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-99-82`]` **[Telesat Canada Remission Order](https://www.indexdata.org/telesat-canada-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-99-77`]` **[Proclamation giving notice that the Protocol Amending the Convention between Canada and the Republic of Indonesia for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income and on Capital came into force on December 31, 1998](https://www.indexdata.org/proclamation-giving-notice-that-the-protocol-amending-the-convention-between-canada-and-the-republic-of-indonesia-for-the-avoidance-of-double-taxation-and-the-prevention-of-fiscal-evasion-with-respect/)** — `2026-09-30` | `15 Pages`
+- `[`SI-99-76`]` **[Proclamation giving notice that the Agreement on Social Security between Canada and the Republic of Trinidad and Tobago is in force as of July 1, 1999](https://www.indexdata.org/proclamation-giving-notice-that-the-agreement-on-social-security-between-canada-and-the-republic-of-trinidad-and-tobago-is-in-force-as-of-july-1-1999/)** — `2026-09-30` | `21 Pages`
+- `[`SI-99-50`]` **[Proclamation giving notice that the Agreement on Social Security between the Government of Canada and the Government of the Republic of Korea is in Force as of May 1, 1999](https://www.indexdata.org/proclamation-giving-notice-that-the-agreement-on-social-security-between-the-government-of-canada-and-the-government-of-the-republic-of-korea-is-in-force-as-of-may-1-1999/)** — `2026-09-30` | `21 Pages`
+- `[`SI-99-49`]` **[Proclamation giving notice that the Agreement on Social Security between the Government of Canada and the Government of the Republic of Croatia is in Force as of May 1, 1999](https://www.indexdata.org/proclamation-giving-notice-that-the-agreement-on-social-security-between-the-government-of-canada-and-the-government-of-the-republic-of-croatia-is-in-force-as-of-may-1-1999/)** — `2026-09-30` | `20 Pages`
+- `[`SI-99-47`]` **[AECB Cost Recovery Fees Remission Order, 1997](https://www.indexdata.org/aecb-cost-recovery-fees-remission-order-1997/)** — `2026-09-30` | `6 Pages`
+- `[`SI-99-42`]` **[Proclamation declaring the Wednesday of Canadian Environment Week in June of each year to be Clean Air Day Canada](https://www.indexdata.org/proclamation-declaring-the-wednesday-of-canadian-environment-week-in-june-of-each-year-to-be-clean-air-day-canada/)** — `2026-09-30` | `5 Pages`
+- `[`SI-99-21`]` **[Coin-Operated Devices Remission Order](https://www.indexdata.org/coin-operated-devices-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-99-19`]` **[Proclamation giving notice that the annexed November 30, 1995 supplementary agreement, entitled Protocol to the Tax Convention Between the Government of Canada and the Government of the French Republic signed on May 2, 1975 and amended by the Protocol of January 16, 1987, came into force on September 1, 1998](https://www.indexdata.org/proclamation-giving-notice-that-the-annexed-november-30-1995-supplementary-agreement-entitled-protocol-to-the-tax-convention-between-the-government-of-canada-and-the-government-of-the-french-republi/)** — `2026-09-30` | `29 Pages`
+- `[`SI-99-140`]` **[Certain Commercial Salmon Fishing Licences Fees Remission Order](https://www.indexdata.org/certain-commercial-salmon-fishing-licences-fees-remission-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-99-139`]` **[Reservation to the Crown Waiver Order (Hay River, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-hay-river-n-w-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-99-130`]` **[Order Directing that Certain Documents be Discontinued](https://www.indexdata.org/order-directing-that-certain-documents-be-discontinued/)** — `2026-09-30` | `5 Pages`
+- `[`SI-99-128`]` **[Order Designating the Minister of Canadian Heritage as Minister for purposes of the Act](https://www.indexdata.org/order-designating-the-minister-of-canadian-heritage-as-minister-for-purposes-of-the-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-99-11`]` **[Proclamation Giving Notice that the Agreement on Social Security between Canada and Grenada is in Force as of February 1, 1999](https://www.indexdata.org/proclamation-giving-notice-that-the-agreement-on-social-security-between-canada-and-grenada-is-in-force-as-of-february-1-1999/)** — `2026-09-30` | `20 Pages`
+- `[`SI-99-10`]` **[Rules of Practice in Criminal Matters in the Court of Appeal of Quebec](https://www.indexdata.org/rules-of-practice-in-criminal-matters-in-the-court-of-appeal-of-quebec/)** — `2026-09-30` | `3 Pages`
+- `[`SI-98-97`]` **[Proclamation Declaring the last Sunday in September of each year to be “Police and Peace Officers’ National Memorial Day”](https://www.indexdata.org/proclamation-declaring-the-last-sunday-in-september-of-each-year-to-be-police-and-peace-officers-national-memorial-day/)** — `2026-09-30` | `5 Pages`
+- `[`SI-98-94`]` **[Proclamation Giving Notice that the Convention Between the Government of Canada and the Swiss Federal Council for the Avoidance of Double Taxation with Respect to Taxes on Income and on Capital Came into Force on April 21, 1998](https://www.indexdata.org/proclamation-giving-notice-that-the-convention-between-the-government-of-canada-and-the-swiss-federal-council-for-the-avoidance-of-double-taxation-with-respect-to-taxes-on-income-and-on-capital-came-i/)** — `2026-09-30` | `33 Pages`
+- `[`SI-98-92`]` **[Reservation to the Crown Waiver Order (Seepage Lake, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-seepage-lake-n-w-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-98-91`]` **[Reservation to the Crown Waiver Order (Yellowknife Bay, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-yellowknife-bay-n-w-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-98-90`]` **[Corrected Certificates Remission Order](https://www.indexdata.org/corrected-certificates-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-98-89`]` **[Order Authorizing the Minister of the Environment to Prescribe Charges](https://www.indexdata.org/order-authorizing-the-minister-of-the-environment-to-prescribe-charges/)** — `2026-09-30` | `4 Pages`
+- `[`SI-98-81`]` **[Specifications Relating to Non-automatic Weighing Devices (1998)](https://www.indexdata.org/specifications-relating-to-non-automatic-weighing-devices-1998/)** — `2026-09-30` | `33 Pages`
+- `[`SI-98-8`]` **[Charitable Goods Remission Order](https://www.indexdata.org/charitable-goods-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-98-62`]` **[Proclamation Giving Notice that the Agreement on Social Security Between the Government of Canada and the Government of the Republic of Chile Comes into Force on June 1, 1998](https://www.indexdata.org/proclamation-giving-notice-that-the-agreement-on-social-security-between-the-government-of-canada-and-the-government-of-the-republic-of-chile-comes-into-force-on-june-1-1998/)** — `2026-09-30` | `22 Pages`
+- `[`SI-98-59`]` **[Honeywell Remission Order](https://www.indexdata.org/honeywell-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-98-57`]` **[Proclamation recognizing the outstanding service to Canadians by employees in the public service of Canada in times of natural disaster](https://www.indexdata.org/proclamation-recognizing-the-outstanding-service-to-canadians-by-employees-in-the-public-service-of-canada-in-times-of-natural-disaster/)** — `2026-09-30` | `5 Pages`
+- `[`SI-98-55`]` **[Canadian Orders, Decorations and Medals Directive, 1998](https://www.indexdata.org/canadian-orders-decorations-and-medals-directive-1998/)** — `2026-09-30` | `14 Pages`
+- `[`SI-98-51`]` **[Proclamation Giving Notice that the Administrative Understanding on Mutual Assistance Shall be Effective Upon the Entering Into Force of the Second Supplementary Agreement Between Canada and the United States of America](https://www.indexdata.org/proclamation-giving-notice-that-the-administrative-understanding-on-mutual-assistance-shall-be-effective-upon-the-entering-into-force-of-the-second-supplementary-agreement-between-canada-and-the-unite/)** — `2026-09-30` | `9 Pages`
+- `[`SI-98-50`]` **[Proclamation Giving Notice That the Memorandum of Understanding Between the Government of Canada and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Co-operation and Mutual Assistance in the Administration of Social Security Programmes Comes Into Force April 1, 1998](https://www.indexdata.org/proclamation-giving-notice-that-the-memorandum-of-understanding-between-the-government-of-canada-and-the-government-of-the-united-kingdom-of-great-britain-and-northern-ireland-concerning-co-operation/)** — `2026-09-30` | `10 Pages`
+- `[`SI-98-49`]` **[Proclamation giving notice that the Convention on Social Security between the Government of Canada and the Government of the United Kingdom of Great Britain and Northern Ireland comes into force on April 1, 1998](https://www.indexdata.org/proclamation-giving-notice-that-the-convention-on-social-security-between-the-government-of-canada-and-the-government-of-the-united-kingdom-of-great-britain-and-northern-ireland-comes-into-force-on-ap/)** — `2026-09-30` | `16 Pages`
+- `[`SI-98-4`]` **[Red River Basin (Manitoba) Flood Relief Payments Remission Order](https://www.indexdata.org/red-river-basin-manitoba-flood-relief-payments-remission-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-98-3`]` **[Withdrawal from Disposal Order (East Arm of Great Slave Lake National Park — Great Slave Lake, N.W.T.)](https://www.indexdata.org/withdrawal-from-disposal-order-east-arm-of-great-slave-lake-national-park-great-slave-lake-n-w-t/)** — `2026-09-30` | `10 Pages`
+- `[`SI-98-120`]` **[Proclamation Giving Notice that the Agreement between Canada and Saint Vincent and the Grenadines is in Force as of November 1, 1998](https://www.indexdata.org/proclamation-giving-notice-that-the-agreement-between-canada-and-saint-vincent-and-the-grenadines-is-in-force-as-of-november-1-1998/)** — `2026-09-30` | `19 Pages`
+- `[`SI-98-103`]` **[Order Assigning to the Minister of the Environment the Administration of Certain Public Lands](https://www.indexdata.org/order-assigning-to-the-minister-of-the-environment-the-administration-of-certain-public-lands/)** — `2026-09-30` | `7 Pages`
+- `[`SI-97-96`]` **[Non-Canadian Ships Safety Order](https://www.indexdata.org/non-canadian-ships-safety-order/)** — `2026-09-30` | `3 Pages`
+- `[`SI-97-5`]` **[Reproduction of Federal Law Order](https://www.indexdata.org/reproduction-of-federal-law-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-97-49`]` **[Proclamation Amending the Agreement on Social Security Between Canada and Spain in Force May 1, 1997](https://www.indexdata.org/proclamation-amending-the-agreement-on-social-security-between-canada-and-spain-in-force-may-1-1997/)** — `2026-09-30` | `9 Pages`
+- `[`SI-97-48`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and New Zealand in Force May 1, 1997](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-new-zealand-in-force-may-1-1997/)** — `2026-09-30` | `21 Pages`
+- `[`SI-97-32`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and the Republic of the Philippines in Force March 1, 1997](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-the-republic-of-the-philippines-in-force-march-1-1997/)** — `2026-09-30` | `20 Pages`
+- `[`SI-97-134`]` **[Proclamation Amending the Agreement on Social Security Between Canada and the Hellenic Republic in Force December 1, 1997](https://www.indexdata.org/proclamation-amending-the-agreement-on-social-security-between-canada-and-the-hellenic-republic-in-force-december-1-1997/)** — `2026-09-30` | `21 Pages`
+- `[`SI-97-133`]` **[Rules of the Ontario Court of Justice in Criminal Proceedings](https://www.indexdata.org/rules-of-the-ontario-court-of-justice-in-criminal-proceedings/)** — `2026-09-30` | `3 Pages`
+- `[`SI-97-127`]` **[Indians and Bands on Certain Indian Settlements Remission Order (1997)](https://www.indexdata.org/indians-and-bands-on-certain-indian-settlements-remission-order-1997/)** — `2026-09-30` | `9 Pages`
+- `[`SI-97-111`]` **[Proclamation Declaring the Second Supplementary Agreement Amending the Agreement on Social Security Between Canada and the United States of America in Force October 1, 1997](https://www.indexdata.org/proclamation-declaring-the-second-supplementary-agreement-amending-the-agreement-on-social-security-between-canada-and-the-united-states-of-america-in-force-october-1-1997/)** — `2026-09-30` | `11 Pages`
+- `[`SI-96-96`]` **[Reservation to the Crown Waiver Order (Niven Lake, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-niven-lake-n-w-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-96-66`]` **[Order Designating Charlottetown, Prince Edward Island as Head Office of the Veterans Review and Appeal Board](https://www.indexdata.org/order-designating-charlottetown-prince-edward-island-as-head-office-of-the-veterans-review-and-appeal-board/)** — `2026-09-30` | `4 Pages`
+- `[`SI-96-55`]` **[Proclamation Declaring June 21 of Each Year as National Aboriginal Day](https://www.indexdata.org/proclamation-declaring-june-21-of-each-year-as-national-aboriginal-day/)** — `2026-09-30` | `5 Pages`
+- `[`SI-96-36`]` **[Proclamation Designating the Maple Tree as National Arboreal Emblem of Canada](https://www.indexdata.org/proclamation-designating-the-maple-tree-as-national-arboreal-emblem-of-canada/)** — `2026-09-30` | `5 Pages`
+- `[`SI-96-32`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and the United Mexican States in Force May 1, 1996](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-the-united-mexican-states-in-force-may-1-1996/)** — `2026-09-30` | `20 Pages`
+- `[`SI-96-24`]` **[Order Designating the Minister of Industry as Minister for Purposes of Sections 11.12 to 11.2 of the Act](https://www.indexdata.org/order-designating-the-minister-of-industry-as-minister-for-purposes-of-sections-11-12-to-11-2-of-the-act/)** — `2026-09-30` | `3 Pages`
+- `[`SI-96-22`]` **[Canada Assistance Plan (British Columbia) Remission Order](https://www.indexdata.org/canada-assistance-plan-british-columbia-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-96-16`]` **[Order Transferring from the Minister of Finance to the Minister of Industry, the Powers, Duties and Functions in Relation to Regional Economic Development in Quebec and the Control and Supervision of the Economic Development Agency of Canada for the Regions of Quebec](https://www.indexdata.org/order-transferring-from-the-minister-of-finance-to-the-minister-of-industry-the-powers-duties-and-functions-in-relation-to-regional-economic-development-in-quebec-and-the-control-and-supervision-of/)** — `2026-09-30` | `4 Pages`
+- `[`SI-96-120`]` **[Proclamation Amending the Agreement on Social Security Between Canada and the Republic of Finland in Force January 1, 1997](https://www.indexdata.org/proclamation-amending-the-agreement-on-social-security-between-canada-and-the-republic-of-finland-in-force-january-1-1997/)** — `2026-09-30` | `13 Pages`
+- `[`SI-96-100`]` **[Proclamation Declaring the Supplementary Agreement to the Agreement on Social Security between Canada and the Republic of Austria in Force on December 1, 1996](https://www.indexdata.org/proclamation-declaring-the-supplementary-agreement-to-the-agreement-on-social-security-between-canada-and-the-republic-of-austria-in-force-on-december-1-1996/)** — `2026-09-30` | `11 Pages`
+- `[`SI-95-79`]` **[Order Designating the Appropriate Authority for a Province with Respect to the Act](https://www.indexdata.org/order-designating-the-appropriate-authority-for-a-province-with-respect-to-the-act/)** — `2026-09-30` | `5 Pages`
+- `[`SI-95-69`]` **[Order Transferring to the Minister of Finance the Powers, Duties and Functions of the Minister of Indian Affairs and Northern Development in Respect of the Administration of the Transfer Payments to the Territorial Governments Program](https://www.indexdata.org/order-transferring-to-the-minister-of-finance-the-powers-duties-and-functions-of-the-minister-of-indian-affairs-and-northern-development-in-respect-of-the-administration-of-the-transfer-payments-to-t/)** — `2026-09-30` | `4 Pages`
+- `[`SI-95-62`]` **[Harbourfront Remission Order](https://www.indexdata.org/harbourfront-remission-order/)** — `2026-09-30` | `9 Pages`
+- `[`SI-95-59`]` **[Solicitor General of Canada Authority to Prescribe Fees Order](https://www.indexdata.org/solicitor-general-of-canada-authority-to-prescribe-fees-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-95-56`]` **[Order Assigning to the Minister of the Environment the Administration of Certain Public Lands](https://www.indexdata.org/order-assigning-to-the-minister-of-the-environment-the-administration-of-certain-public-lands-2/)** — `2026-09-30` | `6 Pages`
+- `[`SI-95-52`]` **[Order Transferring from the Minister of Finance, to the Minister of National Health and Welfare and to the Minister of Employment and Immigration Certain Powers, Duties and Functions with Respect to Certain Programs](https://www.indexdata.org/order-transferring-from-the-minister-of-finance-to-the-minister-of-national-health-and-welfare-and-to-the-minister-of-employment-and-immigration-certain-powers-duties-and-functions-with-respect-to-c/)** — `2026-09-30` | `5 Pages`
+- `[`SI-95-49`]` **[Order Transferring from the Minister of Industry to the Minister of Finance, the Powers, Duties and Functions under Certain Sections of the Act](https://www.indexdata.org/order-transferring-from-the-minister-of-industry-to-the-minister-of-finance-the-powers-duties-and-functions-under-certain-sections-of-the-act/)** — `2026-09-30` | `5 Pages`
+- `[`SI-95-47`]` **[Order Designating the Commission of Inquiry into the Deployment of Canadian Forces to Somalia as a Department and the Prime Minister as Appropriate Minister](https://www.indexdata.org/order-designating-the-commission-of-inquiry-into-the-deployment-of-canadian-forces-to-somalia-as-a-department-and-the-prime-minister-as-appropriate-minister/)** — `2026-09-30` | `4 Pages`
+- `[`SI-95-45`]` **[Order Transferring from the Department of Employment and Immigration to the Office of the Coordinator, Status of Women, the Control and Supervision of the Women’s Program](https://www.indexdata.org/order-transferring-from-the-department-of-employment-and-immigration-to-the-office-of-the-coordinator-status-of-women-the-control-and-supervision-of-the-womens-program/)** — `2026-09-30` | `4 Pages`
+- `[`SI-95-42`]` **[Order Assigning to the Minister of the Environment, the Administration of Certain Public Lands](https://www.indexdata.org/order-assigning-to-the-minister-of-the-environment-the-administration-of-certain-public-lands-3/)** — `2026-09-30` | `15 Pages`
+- `[`SI-95-36`]` **[Order Transferring from the Minister of Employment and Immigration to the Minister of Labour, all the Powers, Duties and Functions of the Minister of Employment and Immigration under Certain Acts](https://www.indexdata.org/order-transferring-from-the-minister-of-employment-and-immigration-to-the-minister-of-labour-all-the-powers-duties-and-functions-of-the-minister-of-employment-and-immigration-under-certain-acts/)** — `2026-09-30` | `5 Pages`
+- `[`SI-95-33`]` **[Goods and Services Tax Builders Remission Order](https://www.indexdata.org/goods-and-services-tax-builders-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-95-23`]` **[Withdrawal from Disposal Order (Kelly Lake Area, N.W.T.)](https://www.indexdata.org/withdrawal-from-disposal-order-kelly-lake-area-n-w-t/)** — `2026-09-30` | `7 Pages`
+- `[`SI-95-22`]` **[Proclamation Announcing the Appointment of the Governor General](https://www.indexdata.org/proclamation-announcing-the-appointment-of-the-governor-general/)** — `2026-09-30` | `5 Pages`
+- `[`SI-95-126`]` **[Special Service Medal Bar Order "NATO—OTAN"](https://www.indexdata.org/special-service-medal-bar-order-nato-otan/)** — `2026-09-30` | `5 Pages`
+- `[`SI-95-118`]` **[Proclamation Declaring the Consolidated Agreements on Social Security Between Canada and the United Kingdom in Force December 1, 1995](https://www.indexdata.org/proclamation-declaring-the-consolidated-agreements-on-social-security-between-canada-and-the-united-kingdom-in-force-december-1-1995/)** — `2026-09-30` | `12 Pages`
+- `[`SI-95-112`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and the Swiss Confederation in Force October 1, 1995](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-the-swiss-confederation-in-force-october-1-1995/)** — `2026-09-30` | `19 Pages`
+- `[`SI-95-102`]` **[Order Transferring to the Minister of National Revenue, the Powers, Duties and Functions of the Minister of Industry under the Tax Rebate Discounting Act](https://www.indexdata.org/order-transferring-to-the-minister-of-national-revenue-the-powers-duties-and-functions-of-the-minister-of-industry-under-the-tax-rebate-discounting-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-94-87`]` **[Minister of Communications (National Library) Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-communications-national-library-authority-to-prescribe-fees-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-94-8`]` **[Order Designating the Minister for International Trade as Minister for Purposes of Sections 1 to 9 and Parts I and III of the Act](https://www.indexdata.org/order-designating-the-minister-for-international-trade-as-minister-for-purposes-of-sections-1-to-9-and-parts-i-and-iii-of-the-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-94-71`]` **[Indians and the War Lake First Nation Band on the Ilford Indian Settlement Remission Order](https://www.indexdata.org/indians-and-the-war-lake-first-nation-band-on-the-ilford-indian-settlement-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-94-70`]` **[Indians and Webequie Band on the Webequie Indian Settlement Remission Order](https://www.indexdata.org/indians-and-webequie-band-on-the-webequie-indian-settlement-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-94-62`]` **[Canadian Volunteer Service Medal Order](https://www.indexdata.org/canadian-volunteer-service-medal-order/)** — `2026-09-30` | `12 Pages`
+- `[`SI-94-61`]` **[Order Designating the National Capital Region as the Place in Canada at which the Principal Office of the National Round Table on the Environment and the Economy Shall be Located](https://www.indexdata.org/order-designating-the-national-capital-region-as-the-place-in-canada-at-which-the-principal-office-of-the-national-round-table-on-the-environment-and-the-economy-shall-be-located/)** — `2026-09-30` | `4 Pages`
+- `[`SI-94-6`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and the Federation of St. Kitts and Nevis in Force January 1, 1994](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-the-federation-of-st-kitts-and-nevis-in-force-january-1-1994/)** — `2026-09-30` | `19 Pages`
+- `[`SI-94-5`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and Antigua and Barbuda in Force January 1, 1994](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-antigua-and-barbuda-in-force-january-1-1994/)** — `2026-09-30` | `19 Pages`
+- `[`SI-94-47`]` **[Treaty Land Entitlement (Saskatchewan) Remission Order](https://www.indexdata.org/treaty-land-entitlement-saskatchewan-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-94-4`]` **[Proclamation Declaring the Agreement on Social Security Between Jersey, Guernsey and Canada in Force January 1, 1994](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-jersey-guernsey-and-canada-in-force-january-1-1994/)** — `2026-09-30` | `26 Pages`
+- `[`SI-94-34`]` **[Order Directing that Certain Documents be Discontinued](https://www.indexdata.org/order-directing-that-certain-documents-be-discontinued-2/)** — `2026-09-30` | `5 Pages`
+- `[`SI-94-28`]` **[Reservation to the Crown Waiver Order (Great Slave Lake, N.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-great-slave-lake-n-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-94-143`]` **[Order Varying Telecom Decision CRTC 94-19](https://www.indexdata.org/order-varying-telecom-decision-crtc-94-19/)** — `2026-09-30` | `5 Pages`
+- `[`SI-94-130`]` **[Reservation to the Crown Waiver Order (Mackenzie River, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-mackenzie-river-n-w-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-94-113`]` **[Reservation to the Crown Waiver Order (Yellowknife, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-yellowknife-n-w-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-94-106`]` **[Minister of Communications (National Archives of Canada) Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-communications-national-archives-of-canada-authority-to-prescribe-fees-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-98`]` **[Order Transferring from the Minister of National Health and Welfare to the Minister of Labour, the Powers, Duties and Functions in Relation to Regional Economic Development in Quebec and the Control and Supervision of the Federal Office of Regional Development — Quebec](https://www.indexdata.org/order-transferring-from-the-minister-of-national-health-and-welfare-to-the-minister-of-labour-the-powers-duties-and-functions-in-relation-to-regional-economic-development-in-quebec-and-the-control-a/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-81`]` **[Canadian Security Intelligence Service Act Deputy Heads of the Public Service of Canada Order](https://www.indexdata.org/canadian-security-intelligence-service-act-deputy-heads-of-the-public-service-of-canada-order/)** — `2026-09-30` | `3 Pages`
+- `[`SI-93-80`]` **[Storage Charges Remission Order, 1993](https://www.indexdata.org/storage-charges-remission-order-1993/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-8`]` **[Minister of National Revenue Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-national-revenue-authority-to-prescribe-fees-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-32`]` **[Minister of Communications Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-communications-authority-to-prescribe-fees-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-30`]` **[Order Directing that Certain Documents be Discontinued](https://www.indexdata.org/order-directing-that-certain-documents-be-discontinued-3/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-27`]` **[Reservation to the Crown Waiver Order (Kam Lake, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-kam-lake-n-w-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-255`]` **[Designation of Countries (Standards Council of Canada) Order](https://www.indexdata.org/designation-of-countries-standards-council-of-canada-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-240`]` **[Reservation to the Crown Waiver Order (Prosperous Lake, N.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-prosperous-lake-n-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-238`]` **[Order Transferring from the Minister of Industry, Science and Technology to the Minister of National Health and Welfare the Powers, Duties and Functions of the Minister of Industry, Science and Technology under the Hazardous Materials Information Review Act](https://www.indexdata.org/order-transferring-from-the-minister-of-industry-science-and-technology-to-the-minister-of-national-health-and-welfare-the-powers-duties-and-functions-of-the-minister-of-industry-science-and-techno/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-232`]` **[Order Designating the Minister of Communications as Minister for Purposes of Section 47 of the Act](https://www.indexdata.org/order-designating-the-minister-of-communications-as-minister-for-purposes-of-section-47-of-the-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-229`]` **[Order Designating the Minister of Industry, Science and Technology as Minister for Purposes of the Act](https://www.indexdata.org/order-designating-the-minister-of-industry-science-and-technology-as-minister-for-purposes-of-the-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-228`]` **[Order Designating the Minister for Purposes of the Act](https://www.indexdata.org/order-designating-the-minister-for-purposes-of-the-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-227`]` **[Order Designating the Minister of Communications as Appropriate Minister with Respect to the National Battlefields Commission](https://www.indexdata.org/order-designating-the-minister-of-communications-as-appropriate-minister-with-respect-to-the-national-battlefields-commission/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-225`]` **[Order Designating the Commission of Inquiry on the Blood System in Canada as a Department and the Prime Minister as Appropriate Minister](https://www.indexdata.org/order-designating-the-commission-of-inquiry-on-the-blood-system-in-canada-as-a-department-and-the-prime-minister-as-appropriate-minister/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-174`]` **[Order Designating the Minister of Finance as Minister for Purposes of the Act](https://www.indexdata.org/order-designating-the-minister-of-finance-as-minister-for-purposes-of-the-act-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-173`]` **[Order Designating the Minister of Finance as Minister for Purposes of the Act](https://www.indexdata.org/order-designating-the-minister-of-finance-as-minister-for-purposes-of-the-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-150`]` **[Withdrawal from Disposal Order (Contwoyto Lake, N.W.T.)](https://www.indexdata.org/withdrawal-from-disposal-order-contwoyto-lake-n-w-t/)** — `2026-09-30` | `7 Pages`
+- `[`SI-93-145`]` **[Order Transferring to the Department of National Health and Welfare the Control and Supervision of the Product Safety Branch in the Department of Consumer and Corporate Affairs](https://www.indexdata.org/order-transferring-to-the-department-of-national-health-and-welfare-the-control-and-supervision-of-the-product-safety-branch-in-the-department-of-consumer-and-corporate-affairs/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-126`]` **[Order Amalgamating and Combining the Privy Council Office with the Federal-Provincial Relations Office under the Prime Minister](https://www.indexdata.org/order-amalgamating-and-combining-the-privy-council-office-with-the-federal-provincial-relations-office-under-the-prime-minister/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-117`]` **[Order Designating the Minister of Industry, Science and Technology as Minister for Purposes of the Standards Council of Canada Act](https://www.indexdata.org/order-designating-the-minister-of-industry-science-and-technology-as-minister-for-purposes-of-the-standards-council-of-canada-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-113`]` **[Order Designating the Minister of Supply and Services as Minister for Purposes of the Act](https://www.indexdata.org/order-designating-the-minister-of-supply-and-services-as-minister-for-purposes-of-the-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-112`]` **[Order Designating the Minister of Supply and Services as Appropriate Minister with Respect to the Queens Quay West Land Corporation](https://www.indexdata.org/order-designating-the-minister-of-supply-and-services-as-appropriate-minister-with-respect-to-the-queens-quay-west-land-corporation/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-111`]` **[Order Designating the Minister of Supply and Services as Appropriate Minister with Respect to the Defence Construction (1951) Ltd.](https://www.indexdata.org/order-designating-the-minister-of-supply-and-services-as-appropriate-minister-with-respect-to-the-defence-construction-1951-ltd/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-104`]` **[Order Designating the Secretary of State of Canada as Appropriate Minister with Respect to the National Archives, the National Film Board, the National Library, the National Gallery, the National Museum of Science and Technology, the Canadian Museum of Civilization, and the Canadian Museum of Nature](https://www.indexdata.org/order-designating-the-secretary-of-state-of-canada-as-appropriate-minister-with-respect-to-the-national-archives-the-national-film-board-the-national-library-the-national-gallery-the-national-muse/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-99`]` **[Ontario Court of Justice Criminal Proceedings Rules](https://www.indexdata.org/ontario-court-of-justice-criminal-proceedings-rules/)** — `2026-09-30` | `3 Pages`
+- `[`SI-92-97`]` **[Cape Breton Development Corporation Employees Pre-Retirement Remission Order](https://www.indexdata.org/cape-breton-development-corporation-employees-pre-retirement-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-92-96`]` **[Saskatchewan Liquor Board Employees’ Remission Order](https://www.indexdata.org/saskatchewan-liquor-board-employees-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-92-74`]` **[Withdrawal of Certain Lands (Mackenzie Delta Region, N.W.T.) from Disposal Order](https://www.indexdata.org/withdrawal-of-certain-lands-mackenzie-delta-region-n-w-t-from-disposal-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-92-73`]` **[Withdrawal of Certain Lands (Peel River Basin, Y.T.) from Disposal Order](https://www.indexdata.org/withdrawal-of-certain-lands-peel-river-basin-y-t-from-disposal-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-92-53`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and Ireland in Force January 1, 1992](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-ireland-in-force-january-1-1992/)** — `2026-09-30` | `19 Pages`
+- `[`SI-92-43`]` **[Order Placing Members of the Canadian Forces on Active Service (Cambodia)](https://www.indexdata.org/order-placing-members-of-the-canadian-forces-on-active-service-cambodia/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-42`]` **[Order Placing Members of the Canadian Forces on Active Service (Yugoslavia)](https://www.indexdata.org/order-placing-members-of-the-canadian-forces-on-active-service-yugoslavia/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-41`]` **[Withdrawal of Certain Lands (North Baffin Island, N.W.T.) from Disposal Order](https://www.indexdata.org/withdrawal-of-certain-lands-north-baffin-island-n-w-t-from-disposal-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-92-35`]` **[Manitoba Court of Queen’s Bench Rules (Criminal)](https://www.indexdata.org/manitoba-court-of-queens-bench-rules-criminal/)** — `2026-09-30` | `3 Pages`
+- `[`SI-92-228`]` **[Order Transfering the Powers, Duties and Functions of the International Expositions Division to the Minister of Communication](https://www.indexdata.org/order-transfering-the-powers-duties-and-functions-of-the-international-expositions-division-to-the-minister-of-communication/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-222`]` **[Order No. 2 Placing Members of the Canadian Forces on Active Service (Somalia)](https://www.indexdata.org/order-no-2-placing-members-of-the-canadian-forces-on-active-service-somalia/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-209`]` **[Foreign Aircraft Servicing Equipment Remission Order, 1992](https://www.indexdata.org/foreign-aircraft-servicing-equipment-remission-order-1992/)** — `2026-09-30` | `5 Pages`
+- `[`SI-92-205`]` **[Reservation to the Crown Waiver Order (Great Slave Lake, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-great-slave-lake-n-w-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-92-181`]` **[Issuance of Writs of Referendum Authorization Order](https://www.indexdata.org/issuance-of-writs-of-referendum-authorization-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-180`]` **[Proclamation Directing a Referendum Relating to the Constitution of Canada](https://www.indexdata.org/proclamation-directing-a-referendum-relating-to-the-constitution-of-canada/)** — `2026-09-30` | `5 Pages`
+- `[`SI-92-169`]` **[Order Placing Members of the Canadian Forces on Active Service (Somalia)](https://www.indexdata.org/order-placing-members-of-the-canadian-forces-on-active-service-somalia/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-158`]` **[Statutes of Canada Loose-leaf Consolidation Updates Distribution Order](https://www.indexdata.org/statutes-of-canada-loose-leaf-consolidation-updates-distribution-order/)** — `2026-09-30` | `3 Pages`
+- `[`SI-92-139`]` **[Withdrawal of Certain Lands (North and South Baffin, Kitikmeot East and West and Keewatin, N.W.T.) from Disposal Order](https://www.indexdata.org/withdrawal-of-certain-lands-north-and-south-baffin-kitikmeot-east-and-west-and-keewatin-n-w-t-from-disposal-order/)** — `2026-09-30` | `17 Pages`
+- `[`SI-92-133`]` **[Special Voting Rules Referendum Fees Tariff](https://www.indexdata.org/special-voting-rules-referendum-fees-tariff/)** — `2026-09-30` | `10 Pages`
+- `[`SI-92-131`]` **[Fingerprinting, Palmprinting and Photography Order](https://www.indexdata.org/fingerprinting-palmprinting-and-photography-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-119`]` **[Reservation to the Crown Waiver Order (Hay River, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-hay-river-n-w-t-2/)** — `2026-09-30` | `5 Pages`
+- `[`SI-92-111`]` **[Withdrawal of Certain Lands (Fry Inlet on Contwoyto Lake, N.W.T.) from Disposal Order](https://www.indexdata.org/withdrawal-of-certain-lands-fry-inlet-on-contwoyto-lake-n-w-t-from-disposal-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-92-110`]` **[Order Giving Notice that a Tax Convention Between Canada and the United Mexican States Came into Force May 11, 1992](https://www.indexdata.org/order-giving-notice-that-a-tax-convention-between-canada-and-the-united-mexican-states-came-into-force-may-11-1992/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-109`]` **[Order Giving Notice that a Tax Information Exchange Convention Between Canada and the United Mexican States Came into Force April 27, 1992](https://www.indexdata.org/order-giving-notice-that-a-tax-information-exchange-convention-between-canada-and-the-united-mexican-states-came-into-force-april-27-1992/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-107`]` **[Order Assigning to the Minister of the Environment, the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/order-assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands/)** — `2026-09-30` | `7 Pages`
+- `[`SI-92-102`]` **[Indians and Bands on certain Indian Settlements Remission Order](https://www.indexdata.org/indians-and-bands-on-certain-indian-settlements-remission-order/)** — `2026-09-30` | `9 Pages`
+- `[`SI-91-9`]` **[Joint Canada-United States Government Projects Remission Order](https://www.indexdata.org/joint-canada-united-states-government-projects-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-91-89`]` **[Indian Bridge Workers Remission Order](https://www.indexdata.org/indian-bridge-workers-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-91-84`]` **[Seasonal Residents’ Remission Order, 1991](https://www.indexdata.org/seasonal-residents-remission-order-1991/)** — `2026-09-30` | `6 Pages`
+- `[`SI-91-71`]` **[Stelco Steel Remission Order](https://www.indexdata.org/stelco-steel-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-91-66`]` **[Standard Trust Depositors Remission Order](https://www.indexdata.org/standard-trust-depositors-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-91-65`]` **[Exclusion Approval Order for certain persons and certain positions (Air Traffic Control Group), 1991](https://www.indexdata.org/exclusion-approval-order-for-certain-persons-and-certain-positions-air-traffic-control-group-1991/)** — `2026-09-30` | `7 Pages`
+- `[`SI-91-6`]` **[Order Designating the Minister of Industry, Science and Technology as Minister for Purposes of the Canadian Space Agency Act, the Canadian Space Agency as a Department, and the President of the Agency as Deputy Head](https://www.indexdata.org/order-designating-the-minister-of-industry-science-and-technology-as-minister-for-purposes-of-the-canadian-space-agency-act-the-canadian-space-agency-as-a-department-and-the-president-of-the-agency/)** — `2026-09-30` | `5 Pages`
+- `[`SI-91-53`]` **[Order Giving Notice that a Tax Agreement Between Canada and Papua New Guinea Came into Force on December 21, 1989](https://www.indexdata.org/order-giving-notice-that-a-tax-agreement-between-canada-and-papua-new-guinea-came-into-force-on-december-21-1989/)** — `2026-09-30` | `4 Pages`
+- `[`SI-91-52`]` **[Order Giving Notice that a Tax Agreement Between Canada and the Polish People’s Republic Came into Force on November 30, 1989](https://www.indexdata.org/order-giving-notice-that-a-tax-agreement-between-canada-and-the-polish-peoples-republic-came-into-force-on-november-30-1989/)** — `2026-09-30` | `4 Pages`
+- `[`SI-91-35`]` **[Proclamation Giving Notice of Coming Into Force Canada-Republic of Zambia Convention Respecting Taxes on Income](https://www.indexdata.org/proclamation-giving-notice-of-coming-into-force-canada-republic-of-zambia-convention-respecting-taxes-on-income/)** — `2026-09-30` | `5 Pages`
+- `[`SI-91-21`]` **[Railway Track Scales for In-Motion Weighing Specifications](https://www.indexdata.org/railway-track-scales-for-in-motion-weighing-specifications/)** — `2026-09-30` | `11 Pages`
+- `[`SI-91-155`]` **[Withdrawal of Certain Lands (Mayo, Y.T.) from Disposal Order](https://www.indexdata.org/withdrawal-of-certain-lands-mayo-y-t-from-disposal-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-91-146`]` **[Order Placing Members of the Canadian Force on Active Service (Western Sahara)](https://www.indexdata.org/order-placing-members-of-the-canadian-force-on-active-service-western-sahara/)** — `2026-09-30` | `4 Pages`
+- `[`SI-91-137`]` **[Residents of India Remission Order](https://www.indexdata.org/residents-of-india-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-91-124`]` **[Proclamation Declaring the Agreement on Social Security between Canada and the Republic of Cyprus in Force May 1, 1991](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-the-republic-of-cyprus-in-force-may-1-1991/)** — `2026-09-30` | `19 Pages`
+- `[`SI-91-115`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and the Netherlands in Force October 1, 1990](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-the-netherlands-in-force-october-1-1990/)** — `2026-09-30` | `26 Pages`
+- `[`SI-91-110`]` **[Propane Dispenser Specifications](https://www.indexdata.org/propane-dispenser-specifications/)** — `2026-09-30` | `7 Pages`
+- `[`SI-91-11`]` **[American Bases in Newfoundland Remission Order, 1990](https://www.indexdata.org/american-bases-in-newfoundland-remission-order-1990/)** — `2026-09-30` | `7 Pages`
+- `[`SI-91-108`]` **[Order Giving Notice that a Tax Convention Between Canada and the Grand Duchy of Luxembourg Came into Force on July 8, 1991](https://www.indexdata.org/order-giving-notice-that-a-tax-convention-between-canada-and-the-grand-duchy-of-luxembourg-came-into-force-on-july-8-1991/)** — `2026-09-30` | `4 Pages`
+- `[`SI-91-10`]` **[Passover Products Remission Order](https://www.indexdata.org/passover-products-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-90-95`]` **[Gallantry Awards Order](https://www.indexdata.org/gallantry-awards-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-90-89`]` **[Order Specifying the National Capital Region as the Place in Which Shall be Located the Head Office of Certain Museums](https://www.indexdata.org/order-specifying-the-national-capital-region-as-the-place-in-which-shall-be-located-the-head-office-of-certain-museums/)** — `2026-09-30` | `4 Pages`
+- `[`SI-90-8`]` **[Proclamation Declaring the Reciprocal Agreement on Social Security Between Canada and Australia in Force September 1, 1989](https://www.indexdata.org/proclamation-declaring-the-reciprocal-agreement-on-social-security-between-canada-and-australia-in-force-september-1-1989/)** — `2026-09-30` | `22 Pages`
+- `[`SI-90-73`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and Luxembourg in Force April 1, 1990](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-luxembourg-in-force-april-1-1990/)** — `2026-09-30` | `20 Pages`
+- `[`SI-90-52`]` **[Proclamation Declaring the Reciprocal Agreement on Social Security Between Canada and Iceland in Force October 1, 1989](https://www.indexdata.org/proclamation-declaring-the-reciprocal-agreement-on-social-security-between-canada-and-iceland-in-force-october-1-1989/)** — `2026-09-30` | `19 Pages`
+- `[`SI-90-33`]` **[Order Designating the Minister of Industry, Science and Technology as Minister for Purposes of the Act](https://www.indexdata.org/order-designating-the-minister-of-industry-science-and-technology-as-minister-for-purposes-of-the-act-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-90-29`]` **[Order Designating the Minister of Industry, Science and Technology as Minister for Purposes of the Act](https://www.indexdata.org/order-designating-the-minister-of-industry-science-and-technology-as-minister-for-purposes-of-the-act-3/)** — `2026-09-30` | `3 Pages`
+- `[`SI-90-163`]` **[Soquip Alberta Inc. (Petroleum and Gas Revenue Tax Act) Remission Order](https://www.indexdata.org/soquip-alberta-inc-petroleum-and-gas-revenue-tax-act-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-90-156`]` **[Electronic Registers and Ancillary Equipment Incorporated in Metering Assemblies Specifications](https://www.indexdata.org/electronic-registers-and-ancillary-equipment-incorporated-in-metering-assemblies-specifications/)** — `2026-09-30` | `13 Pages`
+- `[`SI-90-155`]` **[Metering Assemblies Incorporating Electronic ATCs Specifications](https://www.indexdata.org/metering-assemblies-incorporating-electronic-atcs-specifications/)** — `2026-09-30` | `10 Pages`
+- `[`SI-90-153`]` **[Prime Minister Authority to Prescribe Fees Order (Canadian Heraldic Authority)](https://www.indexdata.org/prime-minister-authority-to-prescribe-fees-order-canadian-heraldic-authority/)** — `2026-09-30` | `4 Pages`
+- `[`SI-90-15`]` **[Order Placing Members of the Canadian Forces on Active Service (ONUCA — Central America)](https://www.indexdata.org/order-placing-members-of-the-canadian-forces-on-active-service-onuca-central-america/)** — `2026-09-30` | `4 Pages`
+- `[`SI-90-118`]` **[Spruce Falls Remission Order](https://www.indexdata.org/spruce-falls-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-90-117`]` **[Telesat Canada Financing Remission Order](https://www.indexdata.org/telesat-canada-financing-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-90-116`]` **[Quebec Family Allowances (1989) Remission Order](https://www.indexdata.org/quebec-family-allowances-1989-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-90-115`]` **[Reservation to the Crown Waiver Order (Tuktoyaktuk Harbour, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-tuktoyaktuk-harbour-n-w-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-90-114`]` **[Reservation to the Crown Waiver Order (Mackenzie River, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-mackenzie-river-n-w-t-2/)** — `2026-09-30` | `5 Pages`
+- `[`SI-90-111`]` **[Order Placing Members of the Canadian Forces on Active Service (Arabian Peninsula)](https://www.indexdata.org/order-placing-members-of-the-canadian-forces-on-active-service-arabian-peninsula/)** — `2026-09-30` | `5 Pages`
+- `[`SI-89-98`]` **[Order Designating the Minister of Finance as Minister for Purposes of the Act](https://www.indexdata.org/order-designating-the-minister-of-finance-as-minister-for-purposes-of-the-act-3/)** — `2026-09-30` | `3 Pages`
+- `[`SI-89-51`]` **[Bridgestone Remission Order](https://www.indexdata.org/bridgestone-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-89-231`]` **[Order Declaring November 1, 1989 as the Day on Which the Fourth Supplement to the Revised Statutes of Canada, 1985 Comes into Force](https://www.indexdata.org/order-declaring-november-1-1989-as-the-day-on-which-the-fourth-supplement-to-the-revised-statutes-of-canada-1985-comes-into-force/)** — `2026-09-30` | `4 Pages`
+- `[`SI-89-217`]` **[Minister of National Revenue Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-national-revenue-authority-to-prescribe-fees-order-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-89-215`]` **[Solicitor General of Canada Authority to Prescribe Fees or Charges Order (Police Information Retrieval System)](https://www.indexdata.org/solicitor-general-of-canada-authority-to-prescribe-fees-or-charges-order-police-information-retrieval-system/)** — `2026-09-30` | `4 Pages`
+- `[`SI-89-214`]` **[Solicitor General of Canada Authority to Prescribe Fees or Charges Order (RCMP Training Academy-Regina)](https://www.indexdata.org/solicitor-general-of-canada-authority-to-prescribe-fees-or-charges-order-rcmp-training-academy-regina/)** — `2026-09-30` | `4 Pages`
+- `[`SI-89-172`]` **[Secretary of State Authority to Prescribe Fees and Charges Order (Canadian Centre for Management Development)](https://www.indexdata.org/secretary-of-state-authority-to-prescribe-fees-and-charges-order-canadian-centre-for-management-development/)** — `2026-09-30` | `4 Pages`
+- `[`SI-89-151`]` **[Order Assigning to the Minister of the Environment the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/order-assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands-2/)** — `2026-09-30` | `5 Pages`
+- `[`SI-89-147`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and the Commonwealth of Dominica in Force January 1, 1989](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-the-commonwealth-of-dominica-in-force-january-1-1989/)** — `2026-09-30` | `19 Pages`
+- `[`SI-89-140`]` **[Statutes of Canada Distribution Direction, No. 2](https://www.indexdata.org/statutes-of-canada-distribution-direction-no-2/)** — `2026-09-30` | `5 Pages`
+- `[`SI-89-132`]` **[Aluminerie de Bécancour Remission Order](https://www.indexdata.org/aluminerie-de-becancour-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-89-125`]` **[Exclusion Approval Order for Certain Employees and Certain Positions (Air Traffic Control Group), 1989](https://www.indexdata.org/exclusion-approval-order-for-certain-employees-and-certain-positions-air-traffic-control-group-1989/)** — `2026-09-30` | `7 Pages`
+- `[`SI-89-123`]` **[Order Declaring May 1, 1989 as the Day on Which the Third Supplement to the Revised Statutes of Canada, 1985 Comes into Force](https://www.indexdata.org/order-declaring-may-1-1989-as-the-day-on-which-the-third-supplement-to-the-revised-statutes-of-canada-1985-comes-into-force/)** — `2026-09-30` | `4 Pages`
+- `[`SI-89-122`]` **[Revised Statutes of Canada, 1985 Distribution Direction « No. 2 »](https://www.indexdata.org/revised-statutes-of-canada-1985-distribution-direction-no-2/)** — `2026-09-30` | `5 Pages`
+- `[`SI-89-104`]` **[Order Placing Members of the Canadian Forces on Active Service (UNTAG-Namibia)](https://www.indexdata.org/order-placing-members-of-the-canadian-forces-on-active-service-untag-namibia/)** — `2026-09-30` | `4 Pages`
+- `[`SI-89-103`]` **[Order Placing Members of the Canadian Forces on Active Service for the Purpose of Fulfilling Canada’s Obligations Under the North Atlantic Treaty](https://www.indexdata.org/order-placing-members-of-the-canadian-forces-on-active-service-for-the-purpose-of-fulfilling-canadas-obligations-under-the-north-atlantic-treaty/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-98`]` **[Minister of National Health and Welfare Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-national-health-and-welfare-authority-to-prescribe-fees-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-68`]` **[Order Authorizing the Minister of Consumer and Corporate Affairs to Prescribe Fees](https://www.indexdata.org/order-authorizing-the-minister-of-consumer-and-corporate-affairs-to-prescribe-fees/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-6`]` **[Goodyear Remission Order](https://www.indexdata.org/goodyear-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-88-50`]` **[Revised Statutes of Canada, 1985 Distribution Direction](https://www.indexdata.org/revised-statutes-of-canada-1985-distribution-direction/)** — `2026-09-30` | `6 Pages`
+- `[`SI-88-47`]` **[Minister of Consumer and Corporate Affairs Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-consumer-and-corporate-affairs-authority-to-prescribe-fees-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-46`]` **[Minister of Consumer and Corporate Affairs Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-consumer-and-corporate-affairs-authority-to-prescribe-fees-order-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-246`]` **[Quebec Family Allowances (1988) Remission Order](https://www.indexdata.org/quebec-family-allowances-1988-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-88-239`]` **[Order Declaring December 12, 1988 as the Day on Which the Second Supplement to the Revised Statutes of Canada, 1985 Comes into Force](https://www.indexdata.org/order-declaring-december-12-1988-as-the-day-on-which-the-second-supplement-to-the-revised-statutes-of-canada-1985-comes-into-force/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-228`]` **[Order Declaring December 12, 1988 as the Day on which the First Supplement to the Revised Statutes of Canada, 1985 Comes into Force](https://www.indexdata.org/order-declaring-december-12-1988-as-the-day-on-which-the-first-supplement-to-the-revised-statutes-of-canada-1985-comes-into-force/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-227`]` **[Order Fixing December 12, 1988 as the Day on which the Revised Statutes of Canada, 1985 Come into Force](https://www.indexdata.org/order-fixing-december-12-1988-as-the-day-on-which-the-revised-statutes-of-canada-1985-come-into-force/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-189`]` **[Minister of National Revenue Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-national-revenue-authority-to-prescribe-fees-order-3/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-188`]` **[Minister of National Revenue Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-national-revenue-authority-to-prescribe-fees-order-4/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-183`]` **[Proclamation Giving Notice of Coming into Force Canada-Cameroon Convention Respecting Taxes on Income](https://www.indexdata.org/proclamation-giving-notice-of-coming-into-force-canada-cameroon-convention-respecting-taxes-on-income/)** — `2026-09-30` | `5 Pages`
+- `[`SI-88-138`]` **[Order Assigning to the Minister of the Environment the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/order-assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands-3/)** — `2026-09-30` | `8 Pages`
+- `[`SI-88-137`]` **[Order Designating the National Capital Region as the Place of the Head Office of the Hazardous Materials Information Review Commission](https://www.indexdata.org/order-designating-the-national-capital-region-as-the-place-of-the-head-office-of-the-hazardous-materials-information-review-commission/)** — `2026-09-30` | `3 Pages`
+- `[`SI-88-130`]` **[Minister of Employment and Immigration Authority to Prescribe Fees or Charges Order](https://www.indexdata.org/minister-of-employment-and-immigration-authority-to-prescribe-fees-or-charges-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-129`]` **[Order Placing Members of the Canadian Forces on Active Service (Iran-Iraq)](https://www.indexdata.org/order-placing-members-of-the-canadian-forces-on-active-service-iran-iraq/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-127`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and the Federal Republic of Germany in Force April 1, 1988](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-the-federal-republic-of-germany-in-force-april-1-1988/)** — `2026-09-30` | `26 Pages`
+- `[`SI-88-122`]` **[Order Transferring to the Minister of Finance the Powers, Duties and Functions of the Minister of Supply and Services under Part I of the Currency Act](https://www.indexdata.org/order-transferring-to-the-minister-of-finance-the-powers-duties-and-functions-of-the-minister-of-supply-and-services-under-part-i-of-the-currency-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-116`]` **[Order Designating the Minister of Western Economic Diversification as Minister for Purposes of the Act, Except Section 3 in Relation to the Western Provinces](https://www.indexdata.org/order-designating-the-minister-of-western-economic-diversification-as-minister-for-purposes-of-the-act-except-section-3-in-relation-to-the-western-provinces/)** — `2026-09-30` | `4 Pages`
+- `[`SI-88-112`]` **[Order Transferring to the Minister of Western Economic Diversification the Powers, Duties and Functions of the Minister of Indian Affairs and Northern Development Under Certain Acts in Relation to the Western Provinces](https://www.indexdata.org/order-transferring-to-the-minister-of-western-economic-diversification-the-powers-duties-and-functions-of-the-minister-of-indian-affairs-and-northern-development-under-certain-acts-in-relation-to-the/)** — `2026-09-30` | `5 Pages`
+- `[`SI-88-106`]` **[Pasta Remission Order 1988](https://www.indexdata.org/pasta-remission-order-1988/)** — `2026-09-30` | `5 Pages`
+- `[`SI-87-93`]` **[Minister of Consumer and Corporate Affairs Authority to Prescribe Fees or Charges Order](https://www.indexdata.org/minister-of-consumer-and-corporate-affairs-authority-to-prescribe-fees-or-charges-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-87-36`]` **[Order Giving Notice that a Tax Agreement between Canada and the People’s Republic of China came into Force on December 29, 1986](https://www.indexdata.org/order-giving-notice-that-a-tax-agreement-between-canada-and-the-peoples-republic-of-china-came-into-force-on-december-29-1986/)** — `2026-09-30` | `4 Pages`
+- `[`SI-87-26`]` **[Proclamation Giving Notice of the Coming into Force of Canada-United Kingdom Convention Respecting Judgments in Civil and Commercial Matters](https://www.indexdata.org/proclamation-giving-notice-of-the-coming-into-force-of-canada-united-kingdom-convention-respecting-judgments-in-civil-and-commercial-matters/)** — `2026-09-30` | `5 Pages`
+- `[`SI-87-210`]` **[Minister of the Environment Authority to Prescribe Fees or Charges Order](https://www.indexdata.org/minister-of-the-environment-authority-to-prescribe-fees-or-charges-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-87-152`]` **[Low Level Air Defence System Remission Order](https://www.indexdata.org/low-level-air-defence-system-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-87-116`]` **[Domestic Spirits Destroyed Remission Order](https://www.indexdata.org/domestic-spirits-destroyed-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-86-91`]` **[Minister of Public Works Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-public-works-authority-to-prescribe-fees-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-86-79`]` **[Alberta Court of Queen’s Bench Rules Respecting Pre-Trial Conferences](https://www.indexdata.org/alberta-court-of-queens-bench-rules-respecting-pre-trial-conferences/)** — `2026-09-30` | `3 Pages`
+- `[`SI-86-78`]` **[Rule of the Court of Queen’s Bench of New Brunswick Respecting Pre-Trial Conferences Under Subsection 553.1(2) of the Criminal Code of Canada](https://www.indexdata.org/rule-of-the-court-of-queens-bench-of-new-brunswick-respecting-pre-trial-conferences-under-subsection-553-12-of-the-criminal-code-of-canada/)** — `2026-09-30` | `3 Pages`
+- `[`SI-86-61`]` **[Pet Food for Testing Remission Order](https://www.indexdata.org/pet-food-for-testing-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-86-45`]` **[Proclamation Giving Notice of Coming into Force Canada-Brazil Convention Respecting Taxes on Income](https://www.indexdata.org/proclamation-giving-notice-of-coming-into-force-canada-brazil-convention-respecting-taxes-on-income/)** — `2026-09-30` | `5 Pages`
+- `[`SI-86-31`]` **[Systems Software Development Contract Remission Order](https://www.indexdata.org/systems-software-development-contract-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-86-161`]` **[Railway Rolling Stock (Temporary Domestic Service U.S. Built Multi-Level) Remission Order](https://www.indexdata.org/railway-rolling-stock-temporary-domestic-service-u-s-built-multi-level-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-86-150`]` **[Assigning the Administration, Management and Control of Certain Lands from the Minister of Indian Affairs and Northern Development to the Minister of the Environment](https://www.indexdata.org/assigning-the-administration-management-and-control-of-certain-lands-from-the-minister-of-indian-affairs-and-northern-development-to-the-minister-of-the-environment/)** — `2026-09-30` | `6 Pages`
+- `[`SI-85-94`]` **[Canadian Patrol Frigate Project Remission Order](https://www.indexdata.org/canadian-patrol-frigate-project-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-85-70`]` **[Proclamation Giving Notice of Coming Into Force Canada-Bangladesh Convention Respecting Taxes on Income](https://www.indexdata.org/proclamation-giving-notice-of-coming-into-force-canada-bangladesh-convention-respecting-taxes-on-income/)** — `2026-09-30` | `5 Pages`
+- `[`SI-85-37`]` **[Assigning to the Minister of the Environment, the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands/)** — `2026-09-30` | `8 Pages`
+- `[`SI-85-25`]` **[Proclamations Certifying Who Are the High Contracting Parties to the Warsaw Convention](https://www.indexdata.org/proclamations-certifying-who-are-the-high-contracting-parties-to-the-warsaw-convention/)** — `2026-09-30` | `20 Pages`
+- `[`SI-85-219`]` **[Merchandise for Photographic Layouts Remission Order](https://www.indexdata.org/merchandise-for-photographic-layouts-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-85-215`]` **[Bottled Domestic Spirits Remission Order](https://www.indexdata.org/bottled-domestic-spirits-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-85-214`]` **[Government and Long-Term Corporate Debt Obligations Remission Order](https://www.indexdata.org/government-and-long-term-corporate-debt-obligations-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-85-202`]` **[Proclamations Certifying Who Are the High Contracting Parties to the Warsaw Convention](https://www.indexdata.org/proclamations-certifying-who-are-the-high-contracting-parties-to-the-warsaw-convention-2/)** — `2026-09-30` | `14 Pages`
+- `[`SI-85-201`]` **[Approved Breath Analysis Instruments Order](https://www.indexdata.org/approved-breath-analysis-instruments-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-85-20`]` **[Computer Carrier Media Remission Order](https://www.indexdata.org/computer-carrier-media-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-85-144`]` **[Indian Remission Order](https://www.indexdata.org/indian-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-85-142`]` **[Assigning to the Minister of the Environment the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands-2/)** — `2026-09-30` | `5 Pages`
+- `[`SI-85-138`]` **[Solicitor General of Canada Authority to Prescribe Fees Order](https://www.indexdata.org/solicitor-general-of-canada-authority-to-prescribe-fees-order-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-85-136`]` **[IRSTD System Remission Order](https://www.indexdata.org/irstd-system-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-85-133`]` **[Investigation Drugs, Placebos and Emergency Drugs Remission Order](https://www.indexdata.org/investigation-drugs-placebos-and-emergency-drugs-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-85-122`]` **[Visiting Forces and Visiting Forces Personnel Alcoholic Beverages Remission Order](https://www.indexdata.org/visiting-forces-and-visiting-forces-personnel-alcoholic-beverages-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-84-77`]` **[Assigning to the Minister of the Environment, the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands-4/)** — `2026-09-30` | `5 Pages`
+- `[`SI-84-62`]` **[Assigning to the Minister of the Environment, the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands-3/)** — `2026-09-30` | `5 Pages`
+- `[`SI-84-51`]` **[Laminated Glass Dinnerware Remission Order](https://www.indexdata.org/laminated-glass-dinnerware-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-84-50`]` **[Foreign Organizations Remission Order, 1983](https://www.indexdata.org/foreign-organizations-remission-order-1983/)** — `2026-09-30` | `8 Pages`
+- `[`SI-84-38`]` **[Minister of Consumer and Corporate Affairs Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-consumer-and-corporate-affairs-authority-to-prescribe-fees-order-3/)** — `2026-09-30` | `4 Pages`
+- `[`SI-84-35`]` **[Minister of Consumer and Corporate Affairs Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-consumer-and-corporate-affairs-authority-to-prescribe-fees-order-4/)** — `2026-09-30` | `4 Pages`
+- `[`SI-84-167`]` **[Proclamation Designating Certain Countries as Designated States for Purposes of the Act](https://www.indexdata.org/proclamation-designating-certain-countries-as-designated-states-for-purposes-of-the-act-3/)** — `2026-09-30` | `5 Pages`
+- `[`SI-84-134`]` **[Designating the Judges of Her Majesty’s Court of Queen’s Bench for Manitoba to Exercise all the Functions and Powers of a Judge Under the Act](https://www.indexdata.org/designating-the-judges-of-her-majestys-court-of-queens-bench-for-manitoba-to-exercise-all-the-functions-and-powers-of-a-judge-under-the-act/)** — `2026-09-30` | `5 Pages`
+- `[`SI-83-88`]` **[Coffin or Casket Remission Order](https://www.indexdata.org/coffin-or-casket-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-83-80`]` **[Minister of Public Works Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-public-works-authority-to-prescribe-fees-order-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-83-72`]` **[Pari-Mutuel Payments Order](https://www.indexdata.org/pari-mutuel-payments-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-83-207`]` **[Statutes of Canada Distribution Direction](https://www.indexdata.org/statutes-of-canada-distribution-direction/)** — `2026-09-30` | `6 Pages`
+- `[`SI-83-178`]` **[Airline Guide Catalogue Remission Order](https://www.indexdata.org/airline-guide-catalogue-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-83-166`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and Jamaica in force June 3, 1983](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-jamaica-in-force-june-3-1983/)** — `2026-09-30` | `18 Pages`
+- `[`SI-83-114`]` **[Privacy Act Heads of Government Institutions Designation Order](https://www.indexdata.org/privacy-act-heads-of-government-institutions-designation-order/)** — `2026-09-30` | `3 Pages`
+- `[`SI-83-113`]` **[Access to Information Act Heads of Government Institutions Designation Order](https://www.indexdata.org/access-to-information-act-heads-of-government-institutions-designation-order/)** — `2026-09-30` | `3 Pages`
+- `[`SI-83-109`]` **[Designating the Minister of Justice and the President of the Treasury Board as Ministers for Purposes of Certain Sections of the Act](https://www.indexdata.org/designating-the-minister-of-justice-and-the-president-of-the-treasury-board-as-ministers-for-purposes-of-certain-sections-of-the-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-83-108`]` **[Designating the Minister of Justice and the President of the Treasury Board as Ministers for Purposes of Certain Sections of the Act](https://www.indexdata.org/designating-the-minister-of-justice-and-the-president-of-the-treasury-board-as-ministers-for-purposes-of-certain-sections-of-the-act-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-82-73`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and Hellenic Republic in Force December 8, 1981](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-hellenic-republic-in-force-december-8-1981/)** — `2026-09-30` | `18 Pages`
+- `[`SI-82-42`]` **[Unfinished Leather Remission Order](https://www.indexdata.org/unfinished-leather-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-82-30`]` **[Assigning to the Minister of the Environment the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands-5/)** — `2026-09-30` | `5 Pages`
+- `[`SI-82-246`]` **[Goods for Production of Aircraft Components Remission Order No. 2](https://www.indexdata.org/goods-for-production-of-aircraft-components-remission-order-no-2/)** — `2026-09-30` | `5 Pages`
+- `[`SI-82-229`]` **[Satellites and Satellite Subsystems Remission Order, 1982](https://www.indexdata.org/satellites-and-satellite-subsystems-remission-order-1982/)** — `2026-09-30` | `5 Pages`
+- `[`SI-82-221`]` **[Designation of Place of Inspection and Sale](https://www.indexdata.org/designation-of-place-of-inspection-and-sale/)** — `2026-09-30` | `4 Pages`
+- `[`SI-82-197`]` **[Assigning to the Minister of the Environment, the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands-6/)** — `2026-09-30` | `5 Pages`
+- `[`SI-82-131`]` **[Repair Abroad of Canadian Civil Aircraft, Canadian Aircraft Engines and Flight Simulators Remission Order](https://www.indexdata.org/repair-abroad-of-canadian-civil-aircraft-canadian-aircraft-engines-and-flight-simulators-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-82-105`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and the United States of America in Force February 9, 1982](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-the-united-states-of-america-in-force-february-9-1982/)** — `2026-09-30` | `20 Pages`
+- `[`SI-82-104`]` **[Minister of Communications Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-communications-authority-to-prescribe-fees-order-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-81-97`]` **[The Court of Queen’s Bench for Saskatchewan Summary Conviction Appeal Rules](https://www.indexdata.org/the-court-of-queens-bench-for-saskatchewan-summary-conviction-appeal-rules/)** — `2026-09-30` | `3 Pages`
+- `[`SI-81-90`]` **[Assigning to the Minister of the Environment the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands-7/)** — `2026-09-30` | `6 Pages`
+- `[`SI-81-81`]` **[Minister Responsible for the Canada Mortgage and Housing Corporation Authority to Prescribe Fees Order](https://www.indexdata.org/minister-responsible-for-the-canada-mortgage-and-housing-corporation-authority-to-prescribe-fees-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-81-48`]` **[Proclamation Giving Notice of Coming into Force Canada-Barbados Convention Respecting Taxes on Income and Capital](https://www.indexdata.org/proclamation-giving-notice-of-coming-into-force-canada-barbados-convention-respecting-taxes-on-income-and-capital/)** — `2026-09-30` | `5 Pages`
+- `[`SI-81-28`]` **[Proclamation Declaring the Agreement Between Canada and France on Social Security in Force Effective January 13, 1981](https://www.indexdata.org/proclamation-declaring-the-agreement-between-canada-and-france-on-social-security-in-force-effective-january-13-1981/)** — `2026-09-30` | `25 Pages`
+- `[`SI-81-27`]` **[Proclamation Giving Notice of Coming into Force Canada-Austria Convention Respecting Taxes on Income and Capital](https://www.indexdata.org/proclamation-giving-notice-of-coming-into-force-canada-austria-convention-respecting-taxes-on-income-and-capital/)** — `2026-09-30` | `5 Pages`
+- `[`SI-81-19`]` **[Minister of Communications Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-communications-authority-to-prescribe-fees-order-3/)** — `2026-09-30` | `11 Pages`
+- `[`SI-81-124`]` **[Proclamation Giving Notice of Coming into Force Canada-Australia Convention Respecting Taxes on Income](https://www.indexdata.org/proclamation-giving-notice-of-coming-into-force-canada-australia-convention-respecting-taxes-on-income/)** — `2026-09-30` | `5 Pages`
+- `[`SI-81-105`]` **[Load Line Exemption Order](https://www.indexdata.org/load-line-exemption-order/)** — `2026-09-30` | `3 Pages`
+- `[`SI-80-8`]` **[Certain Areas Covered With Water Proclaimed Public Harbours Effective January 1, 1980](https://www.indexdata.org/certain-areas-covered-with-water-proclaimed-public-harbours-effective-january-1-1980/)** — `2026-09-30` | `6 Pages`
+- `[`SI-80-176`]` **[Front End Wheel Loader Remission Order](https://www.indexdata.org/front-end-wheel-loader-remission-order/)** — `2026-09-30` | `12 Pages`
+- `[`SI-80-129`]` **[Assigning to the Minister of the Environment the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands-8/)** — `2026-09-30` | `5 Pages`
+- `[`SI-80-125`]` **[Immigration Guidelines](https://www.indexdata.org/immigration-guidelines/)** — `2026-09-30` | `3 Pages`
+- `[`SI-80-114`]` **[Assigning to the Minister of the Environment the Administration, Management and Control of Certain Public Lands](https://www.indexdata.org/assigning-to-the-minister-of-the-environment-the-administration-management-and-control-of-certain-public-lands-9/)** — `2026-09-30` | `10 Pages`
+- `[`SI-80-108`]` **[Load Line Assignment Authorization Order](https://www.indexdata.org/load-line-assignment-authorization-order/)** — `2026-09-30` | `3 Pages`
+- `[`SI-79-73`]` **[Canadian Exploration Expense Remission Order](https://www.indexdata.org/canadian-exploration-expense-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-79-7`]` **[Proclamation Giving Notice that an Agreement Expressed in Letters Between the High Commissioner of the United Kingdom and the Minister of National Health and Welfare Dated November 10, 1977 is in Force Effective October 13, 1978](https://www.indexdata.org/proclamation-giving-notice-that-an-agreement-expressed-in-letters-between-the-high-commissioner-of-the-united-kingdom-and-the-minister-of-national-health-and-welfare-dated-november-10-1977-is-in/)** — `2026-09-30` | `10 Pages`
+- `[`SI-79-40`]` **[Proclamation Declaring that the Agreement of Social Security Between Canada and Italy is in Force Effective December 20, 1978](https://www.indexdata.org/proclamation-declaring-that-the-agreement-of-social-security-between-canada-and-italy-is-in-force-effective-december-20-1978/)** — `2026-09-30` | `22 Pages`
+- `[`SI-79-2`]` **[Aircraft (International Service) Remission Order](https://www.indexdata.org/aircraft-international-service-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-79-10`]` **[Minister of Communications Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-communications-authority-to-prescribe-fees-order-4/)** — `2026-09-30` | `4 Pages`
+- `[`SI-78-75`]` **[Atlantic Region Ferry Remission Order](https://www.indexdata.org/atlantic-region-ferry-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-78-65`]` **[Minister of Indian Affairs and Northern Development Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-indian-affairs-and-northern-development-authority-to-prescribe-fees-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-78-57`]` **[Cruiser Remission Order](https://www.indexdata.org/cruiser-remission-order/)** — `2026-09-30` | `11 Pages`
+- `[`SI-78-179`]` **[Declaring the United States to be a Reciprocating Country for Purposes of the Act](https://www.indexdata.org/declaring-the-united-states-to-be-a-reciprocating-country-for-purposes-of-the-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-78-165`]` **[Age Guidelines](https://www.indexdata.org/age-guidelines/)** — `2026-09-30` | `5 Pages`
+- `[`SI-77-174`]` **[Rules of the Court of Appeal of Alberta as to Criminal Appeals](https://www.indexdata.org/rules-of-the-court-of-appeal-of-alberta-as-to-criminal-appeals/)** — `2026-09-30` | `3 Pages`
+- `[`SI-76-44`]` **[Designating the Office of the Co-ordinator, Status of Women as a Department, the Minister of National Health and Welfare as Appropriate Minister and the Co-ordinator as Deputy Head](https://www.indexdata.org/designating-the-office-of-the-co-ordinator-status-of-women-as-a-department-the-minister-of-national-health-and-welfare-as-appropriate-minister-and-the-co-ordinator-as-deputy-head/)** — `2026-09-30` | `5 Pages`
+- `[`SI-76-31`]` **[Rail Rate Freeze Compensatory Payments Order](https://www.indexdata.org/rail-rate-freeze-compensatory-payments-order/)** — `2026-09-30` | `8 Pages`
+- `[`SI-45-7421`]` **[International Monetary Fund and International Bank for Reconstruction and Development Order](https://www.indexdata.org/international-monetary-fund-and-international-bank-for-reconstruction-and-development-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2026-9`]` **[Fee Paid or Payable for the Acquisition of Permanent Resident Status (Certain Foreign Nationals) Remission Order](https://www.indexdata.org/fee-paid-or-payable-for-the-acquisition-of-permanent-resident-status-certain-foreign-nationals-remission-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-8`]` **[Fees Paid or Payable for the Acquisition of Permanent Resident Status and for the Processing of a Sponsorship Application for Family Classes (Sudan) Remission Order](https://www.indexdata.org/fees-paid-or-payable-for-the-acquisition-of-permanent-resident-status-and-for-the-processing-of-a-sponsorship-application-for-family-classes-sudan-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2026-7`]` **[Fee Paid or Payable for the Acquisition of Permanent Resident Status (Afghanistan) Remission Order](https://www.indexdata.org/fee-paid-or-payable-for-the-acquisition-of-permanent-resident-status-afghanistan-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-2026-42`]` **[Order Transferring from the Department of Industry to the Department of Public Works and Government Services the Control and Supervision of the Industrial Technological Benefits Branch, Except for the Research and Analysis Directorate](https://www.indexdata.org/order-transferring-from-the-department-of-industry-to-the-department-of-public-works-and-government-services-the-control-and-supervision-of-the-industrial-technological-benefits-branch-except-for-the/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-41`]` **[Order Transferring from the Department of Public Safety and Emergency Preparedness to the Department of Employment and Social Development the Control and Supervision of the Supply Chains Act Taskforce](https://www.indexdata.org/order-transferring-from-the-department-of-public-safety-and-emergency-preparedness-to-the-department-of-employment-and-social-development-the-control-and-supervision-of-the-supply-chains-act-taskforce/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-40`]` **[Order Designating the Minister of Infrastructure and Communities to Be the Minister for the Purposes of the Build Canada Homes Act](https://www.indexdata.org/order-designating-the-minister-of-infrastructure-and-communities-to-be-the-minister-for-the-purposes-of-the-build-canada-homes-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-34`]` **[Order Designating the President of the King’s Privy Council for Canada as the Minister Responsible for the Invest in Canada Act](https://www.indexdata.org/order-designating-the-president-of-the-kings-privy-council-for-canada-as-the-minister-responsible-for-the-invest-in-canada-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-29`]` **[Proclamation by the Right Honourable Louise Arbour announcing the assumption of the powers and functions of Governor General and Commander-in-Chief of Canada](https://www.indexdata.org/proclamation-by-the-right-honourable-louise-arbour-announcing-the-assumption-of-the-powers-and-functions-of-governor-general-and-commander-in-chief-of-canada/)** — `2026-09-30` | `5 Pages`
+- `[`SI-2026-27`]` **[Remission Order in Respect of the 2016–2017 and 2019 Bovine Tuberculosis Outbreaks](https://www.indexdata.org/remission-order-in-respect-of-the-2016-2017-and-2019-bovine-tuberculosis-outbreaks/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2026-17`]` **[Order Transferring from the Department of Natural Resources to the Department of Employment and Social Development the Control and Supervision of the Sustainable Jobs Secretariat](https://www.indexdata.org/order-transferring-from-the-department-of-natural-resources-to-the-department-of-employment-and-social-development-the-control-and-supervision-of-the-sustainable-jobs-secretariat/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-16`]` **[Order Designating the Minister of Natural Resources to be a Specified Minister for the Purposes of the Canadian Sustainable Jobs Act](https://www.indexdata.org/order-designating-the-minister-of-natural-resources-to-be-a-specified-minister-for-the-purposes-of-the-canadian-sustainable-jobs-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-15`]` **[Order Designating the Minister of Employment and Social Development to be the Minister for the Purposes of the Canadian Sustainable Jobs Act](https://www.indexdata.org/order-designating-the-minister-of-employment-and-social-development-to-be-the-minister-for-the-purposes-of-the-canadian-sustainable-jobs-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-11`]` **[Fees Paid or Payable for the Processing of an Application for Permanent Resident Status (Humanitarian and Compassionate Considerations) Remission Order, No. 2](https://www.indexdata.org/fees-paid-or-payable-for-the-processing-of-an-application-for-permanent-resident-status-humanitarian-and-compassionate-considerations-remission-order-no-2/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2026-10`]` **[Fees Paid or Payable for the Processing of an Application for Permanent Resident Status (Humanitarian and Compassionate Considerations) Remission Order, No. 1](https://www.indexdata.org/fees-paid-or-payable-for-the-processing-of-an-application-for-permanent-resident-status-humanitarian-and-compassionate-considerations-remission-order-no-1/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2025-89`]` **[Order Designating the President of the King’s Privy Council for Canada as the Minister for the Purposes of the Building Canada Act](https://www.indexdata.org/order-designating-the-president-of-the-kings-privy-council-for-canada-as-the-minister-for-the-purposes-of-the-building-canada-act/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2025-84`]` **[Order Designating the Minister of State (Small Business and Tourism) as the Minister for the Purposes of the Canada Small Business Financing Act](https://www.indexdata.org/order-designating-the-minister-of-state-small-business-and-tourism-as-the-minister-for-the-purposes-of-the-canada-small-business-financing-act/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2025-82`]` **[Order Transferring from the Minister of Industry to the Minister of State (Small Business and Tourism) the Powers, Duties and Functions Under the Canadian Tourism Commission Act](https://www.indexdata.org/order-transferring-from-the-minister-of-industry-to-the-minister-of-state-small-business-and-tourism-the-powers-duties-and-functions-under-the-canadian-tourism-commission-act/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2025-80`]` **[Order Transferring from the Minister of Public Safety and Emergency Preparedness to the Minister of Emergency Management and Community Resilience the Powers, Duties and Functions Under Section 7 of the Emergency Management Act](https://www.indexdata.org/order-transferring-from-the-minister-of-public-safety-and-emergency-preparedness-to-the-minister-of-emergency-management-and-community-resilience-the-powers-duties-and-functions-under-section-7-of-th/)** — `2026-09-30` | `4 Pages`
@@ -623,532 +1042,74 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`P-8.3`]` **[Perfluorooctane Sulfonate Virtual Elimination Act](https://www.indexdata.org/perfluorooctane-sulfonate-virtual-elimination-act/)** — `2026-09-30` | `3 Pages`
 - `[`P-4.7`]` **[An Act to authorize certain payments to be made out of the Consolidated Revenue Fund for the purpose of improving housing supply](https://www.indexdata.org/an-act-to-authorize-certain-payments-to-be-made-out-of-the-consolidated-revenue-fund-for-the-purpose-of-improving-housing-supply/)** — `2026-09-30` | `4 Pages`
 - `[`P-4.6`]` **[An Act respecting payments to a trust established to provide provinces and territories with funding for community development](https://www.indexdata.org/an-act-respecting-payments-to-a-trust-established-to-provide-provinces-and-territories-with-funding-for-community-development/)** — `2026-09-30` | `5 Pages`
-- `[`P-4.4`]` **[Payment Clearing and Settlement Act](https://www.indexdata.org/payment-clearing-and-settlement-act/)** — `2026-09-30` | `52 Pages`
-- `[`P-4.3`]` **[Payment Card Networks Act](https://www.indexdata.org/payment-card-networks-act/)** — `2026-09-30` | `8 Pages`
-- `[`P-4.2`]` **[Pay Equity Act](https://www.indexdata.org/pay-equity-act/)** — `2026-09-30` | `105 Pages`
-- `[`P-38.8`]` **[Purple Day Act](https://www.indexdata.org/purple-day-act/)** — `2026-09-30` | `4 Pages`
-- `[`P-38.2`]` **[Department of Public Works and Government Services Act](https://www.indexdata.org/department-of-public-works-and-government-services-act/)** — `2026-09-30` | `20 Pages`
-- `[`P-36`]` **[Public Service Superannuation Act](https://www.indexdata.org/public-service-superannuation-act/)** — `2026-09-30` | `163 Pages`
-- `[`P-35`]` **[Public Service Staff Relations Act](https://www.indexdata.org/public-service-staff-relations-act/)** — `2026-09-30` | `3 Pages`
-- `[`P-34`]` **[Public Service Rearrangement and Transfer of Duties Act](https://www.indexdata.org/public-service-rearrangement-and-transfer-of-duties-act/)** — `2026-09-30` | `5 Pages`
-- `[`P-33.4`]` **[Public Service Modernization Act](https://www.indexdata.org/public-service-modernization-act/)** — `2026-09-30` | `35 Pages`
-- `[`P-33.35`]` **[Federal Public Sector Labour Relations and Employment Board Act](https://www.indexdata.org/federal-public-sector-labour-relations-and-employment-board-act/)** — `2026-09-30` | `17 Pages`
-- `[`P-33.3`]` **[Federal Public Sector Labour Relations Act](https://www.indexdata.org/federal-public-sector-labour-relations-act/)** — `2026-09-30` | `152 Pages`
-- `[`P-33.01`]` **[Public Service Employment Act](https://www.indexdata.org/public-service-employment-act-2/)** — `2026-09-30` | `73 Pages`
-- `[`P-33`]` **[Public Service Employment Act](https://www.indexdata.org/public-service-employment-act/)** — `2026-09-30` | `3 Pages`
-- `[`P-32`]` **[Public Servants Inventions Act](https://www.indexdata.org/public-servants-inventions-act/)** — `2026-09-30` | `9 Pages`
-- `[`P-31.9`]` **[Public Servants Disclosure Protection Act](https://www.indexdata.org/public-servants-disclosure-protection-act/)** — `2026-09-30` | `62 Pages`
-- `[`P-31.65`]` **[Public Sector Equitable Compensation Act](https://www.indexdata.org/public-sector-equitable-compensation-act/)** — `2026-09-30` | `3 Pages`
-- `[`P-31.6`]` **[Public Sector Compensation Act](https://www.indexdata.org/public-sector-compensation-act/)** — `2026-09-30` | `31 Pages`
-- `[`P-31.55`]` **[Department of Public Safety and Emergency Preparedness Act](https://www.indexdata.org/department-of-public-safety-and-emergency-preparedness-act/)** — `2026-09-30` | `10 Pages`
-- `[`P-31.5`]` **[Public Safety Act, 2002](https://www.indexdata.org/public-safety-act-2002/)** — `2026-09-30` | `15 Pages`
-- `[`P-31`]` **[Public Officers Act](https://www.indexdata.org/public-officers-act/)** — `2026-09-30` | `5 Pages`
-- `[`P-28`]` **[Public Documents Act](https://www.indexdata.org/public-documents-act/)** — `2026-09-30` | `5 Pages`
-- `[`P-27.5`]` **[Public Complaints and Review Commission Act](https://www.indexdata.org/public-complaints-and-review-commission-act/)** — `2026-09-30` | `71 Pages`
-- `[`P-26`]` **[Provincial Subsidies Act](https://www.indexdata.org/provincial-subsidies-act/)** — `2026-09-30` | `9 Pages`
-- `[`P-25.7`]` **[Protection of Residential Mortgage or Hypothecary Insurance Act](https://www.indexdata.org/protection-of-residential-mortgage-or-hypothecary-insurance-act/)** — `2026-09-30` | `24 Pages`
-- `[`P-25.6`]` **[Protecting Air Service Act](https://www.indexdata.org/protecting-air-service-act/)** — `2026-09-30` | `16 Pages`
-- `[`P-25.2`]` **[Prohibition on the Purchase of Residential Property by Non-Canadians Act](https://www.indexdata.org/prohibition-on-the-purchase-of-residential-property-by-non-canadians-act/)** — `2026-09-30` | `8 Pages`
-- `[`P-25`]` **[Prohibition of International Air Services Act](https://www.indexdata.org/prohibition-of-international-air-services-act/)** — `2026-09-30` | `5 Pages`
-- `[`P-24.8`]` **[Prohibiting Cluster Munitions Act](https://www.indexdata.org/prohibiting-cluster-munitions-act/)** — `2026-09-30` | `34 Pages`
-- `[`P-24`]` **[Privileges and Immunities (North Atlantic Treaty Organisation) Act](https://www.indexdata.org/privileges-and-immunities-north-atlantic-treaty-organisation-act/)** — `2026-09-30` | `21 Pages`
-- `[`P-21`]` **[Privacy Act](https://www.indexdata.org/privacy-act/)** — `2026-09-30` | `72 Pages`
-- `[`P-20`]` **[Prisons and Reformatories Act](https://www.indexdata.org/prisons-and-reformatories-act/)** — `2026-09-30` | `13 Pages`
-- `[`P-19.45`]` **[Prevention of Terrorist Travel Act](https://www.indexdata.org/prevention-of-terrorist-travel-act/)** — `2026-09-30` | `7 Pages`
-- `[`P-19.32`]` **[Preclearance Act, 2016](https://www.indexdata.org/preclearance-act-2016/)** — `2026-09-30` | `38 Pages`
-- `[`P-19.3`]` **[Preclearance Act](https://www.indexdata.org/preclearance-act/)** — `2026-09-30` | `3 Pages`
-- `[`P-19`]` **[Precious Metals Marking Act](https://www.indexdata.org/precious-metals-marking-act/)** — `2026-09-30` | `12 Pages`
-- `[`P-17`]` **[Prairie Farm Rehabilitation Act](https://www.indexdata.org/prairie-farm-rehabilitation-act/)** — `2026-09-30` | `6 Pages`
-- `[`P-16.81`]` **[Poverty Reduction Act](https://www.indexdata.org/poverty-reduction-act-2/)** — `2026-09-30` | `9 Pages`
-- `[`P-16.8`]` **[Poverty Reduction Act](https://www.indexdata.org/poverty-reduction-act/)** — `2026-09-30` | `3 Pages`
-- `[`P-16.5`]` **[Postal Services Resumption and Continuation Act](https://www.indexdata.org/postal-services-resumption-and-continuation-act/)** — `2026-09-30` | `12 Pages`
-- `[`P-16`]` **[Postal Services Interruption Relief Act](https://www.indexdata.org/postal-services-interruption-relief-act/)** — `2026-09-30` | `6 Pages`
-- `[`P-15.8`]` **[Postal Services Continuation Act, 1997](https://www.indexdata.org/postal-services-continuation-act-1997/)** — `2026-09-30` | `3 Pages`
-- `[`P-15.7`]` **[Postal Services Continuation Act, 1991](https://www.indexdata.org/postal-services-continuation-act-1991/)** — `2026-09-30` | `3 Pages`
-- `[`P-15.6`]` **[Postal Services Continuation Act, 1987](https://www.indexdata.org/postal-services-continuation-act-1987/)** — `2026-09-30` | `3 Pages`
-- `[`P-15.5`]` **[An Act respecting certain postal rates](https://www.indexdata.org/an-act-respecting-certain-postal-rates/)** — `2026-09-30` | `5 Pages`
-- `[`P-15.4`]` **[Pope John Paul II Day Act](https://www.indexdata.org/pope-john-paul-ii-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`P-14.6`]` **[Plant Breeders’ Rights Act](https://www.indexdata.org/plant-breeders-rights-act/)** — `2026-09-30` | `51 Pages`
-- `[`P-14.2`]` **[Pioneer Trust Payment Continuation Act](https://www.indexdata.org/pioneer-trust-payment-continuation-act/)** — `2026-09-30` | `5 Pages`
-- `[`P-13.6`]` **[Pictou Landing Indian Band Agreement Act](https://www.indexdata.org/pictou-landing-indian-band-agreement-act/)** — `2026-09-30` | `4 Pages`
-- `[`P-13.2`]` **[Pharmacare Act](https://www.indexdata.org/pharmacare-act/)** — `2026-09-30` | `9 Pages`
-- `[`P-12`]` **[Petroleum and Gas Revenue Tax Act](https://www.indexdata.org/petroleum-and-gas-revenue-tax-act/)** — `2026-09-30` | `60 Pages`
-- `[`P-11.1`]` **[Petro-Canada Public Participation Act](https://www.indexdata.org/petro-canada-public-participation-act/)** — `2026-09-30` | `18 Pages`
-- `[`P-10`]` **[Pesticide Residue Compensation Act](https://www.indexdata.org/pesticide-residue-compensation-act/)** — `2026-09-30` | `13 Pages`
-- `[`P-1.3`]` **[Parliamentary Employment and Staff Relations Act](https://www.indexdata.org/parliamentary-employment-and-staff-relations-act/)** — `2026-09-30` | `71 Pages`
-- `[`P-1`]` **[Parliament of Canada Act](https://www.indexdata.org/parliament-of-canada-act/)** — `2026-09-30` | `109 Pages`
-- `[`P-0.4`]` **[Parks Canada Agency Act](https://www.indexdata.org/parks-canada-agency-act/)** — `2026-09-30` | `25 Pages`
-- `[`P-0.2`]` **[Pandemic Day Act](https://www.indexdata.org/pandemic-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`O-9.5`]` **[An Act respecting certain Works on the Ottawa River](https://www.indexdata.org/an-act-respecting-certain-works-on-the-ottawa-river/)** — `2026-09-30` | `5 Pages`
-- `[`O-9.3`]` **[Online News Act](https://www.indexdata.org/online-news-act/)** — `2026-09-30` | `46 Pages`
-- `[`O-9.2`]` **[Olympic and Paralympic Marks Act](https://www.indexdata.org/olympic-and-paralympic-marks-act/)** — `2026-09-30` | `17 Pages`
-- `[`O-9.1`]` **[Olympic (1976) Act](https://www.indexdata.org/olympic-1976-act/)** — `2026-09-30` | `19 Pages`
-- `[`O-8.3`]` **[Oil Tanker Moratorium Act](https://www.indexdata.org/oil-tanker-moratorium-act/)** — `2026-09-30` | `22 Pages`
-- `[`O-8`]` **[Oil Substitution and Conservation Act](https://www.indexdata.org/oil-substitution-and-conservation-act/)** — `2026-09-30` | `8 Pages`
-- `[`O-5`]` **[Foreign Interference and Security of Information Act](https://www.indexdata.org/foreign-interference-and-security-of-information-act/)** — `2026-09-30` | `36 Pages`
-- `[`O-4`]` **[Official Residences Act](https://www.indexdata.org/official-residences-act/)** — `2026-09-30` | `10 Pages`
-- `[`O-3.01`]` **[Official Languages Act](https://www.indexdata.org/official-languages-act/)** — `2026-09-30` | `79 Pages`
-- `[`O-2.8`]` **[Official Development Assistance Accountability Act](https://www.indexdata.org/official-development-assistance-accountability-act/)** — `2026-09-30` | `7 Pages`
-- `[`O-1`]` **[Oaths of Allegiance Act](https://www.indexdata.org/oaths-of-allegiance-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-9.6`]` **[National Health and Fitness Day Act](https://www.indexdata.org/national-health-and-fitness-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-9.2`]` **[National Framework on Cancers Linked to Firefighting Act](https://www.indexdata.org/national-framework-on-cancers-linked-to-firefighting-act/)** — `2026-09-30` | `7 Pages`
-- `[`N-9.1`]` **[National Framework for Diabetes Act](https://www.indexdata.org/national-framework-for-diabetes-act/)** — `2026-09-30` | `6 Pages`
-- `[`N-9`]` **[National Flag of Canada Manufacturing Standards Act](https://www.indexdata.org/national-flag-of-canada-manufacturing-standards-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-8.6`]` **[National Flag of Canada Act](https://www.indexdata.org/national-flag-of-canada-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-8`]` **[National Film Act](https://www.indexdata.org/national-film-act/)** — `2026-09-30` | `12 Pages`
-- `[`N-7.6`]` **[National Fiddling Day Act](https://www.indexdata.org/national-fiddling-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-4.6`]` **[National Day of Remembrance Act](https://www.indexdata.org/national-day-of-remembrance-act/)** — `2026-09-30` | `4 Pages`
-- `[`N-4.3`]` **[National Council for Reconciliation Act](https://www.indexdata.org/national-council-for-reconciliation-act/)** — `2026-09-30` | `14 Pages`
-- `[`N-4.2`]` **[National Cemetery of Canada Act](https://www.indexdata.org/national-cemetery-of-canada-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-4`]` **[National Capital Act](https://www.indexdata.org/national-capital-act/)** — `2026-09-30` | `22 Pages`
-- `[`N-3.7`]` **[National Blood Donor Week Act](https://www.indexdata.org/national-blood-donor-week-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-3.4`]` **[National Battlefields at Quebec Act](https://www.indexdata.org/national-battlefields-at-quebec-act/)** — `2026-09-30` | `17 Pages`
-- `[`N-3`]` **[National Arts Centre Act](https://www.indexdata.org/national-arts-centre-act/)** — `2026-09-30` | `10 Pages`
-- `[`N-27.5`]` **[Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act](https://www.indexdata.org/nova-scotia-and-newfoundland-and-labrador-additional-fiscal-equalization-offset-payments-act/)** — `2026-09-30` | `15 Pages`
-- `[`N-26.5`]` **[Northumberland Strait Crossing Act](https://www.indexdata.org/northumberland-strait-crossing-act/)** — `2026-09-30` | `7 Pages`
-- `[`N-24.2`]` **[Northern Canada Power Commission (Share Issuance and Sale Authorization) Act](https://www.indexdata.org/northern-canada-power-commission-share-issuance-and-sale-authorization-act/)** — `2026-09-30` | `10 Pages`
-- `[`N-23.8`]` **[North American Free Trade Agreement Implementation Act](https://www.indexdata.org/north-american-free-trade-agreement-implementation-act/)** — `2026-09-30` | `16 Pages`
-- `[`N-23.7`]` **[Nordion and Theratronics Divestiture Authorization Act](https://www.indexdata.org/nordion-and-theratronics-divestiture-authorization-act/)** — `2026-09-30` | `13 Pages`
-- `[`N-23.6`]` **[Non-smokers’ Health Act](https://www.indexdata.org/non-smokers-health-act/)** — `2026-09-30` | `15 Pages`
-- `[`N-23.3`]` **[Nisga’a Final Agreement Act](https://www.indexdata.org/nisgaa-final-agreement-act/)** — `2026-09-30` | `11 Pages`
-- `[`N-22.7`]` **[New Brunswick Indian Reserves Agreement Act](https://www.indexdata.org/new-brunswick-indian-reserves-agreement-act/)** — `2026-09-30` | `10 Pages`
-- `[`N-22.6`]` **[New Bridge for the St. Lawrence Act](https://www.indexdata.org/new-bridge-for-the-st-lawrence-act/)** — `2026-09-30` | `7 Pages`
-- `[`N-22.4`]` **[Nelson House First Nation Flooded Land Act](https://www.indexdata.org/nelson-house-first-nation-flooded-land-act/)** — `2026-09-30` | `6 Pages`
-- `[`N-22`]` **[Canadian Navigable Waters Act](https://www.indexdata.org/canadian-navigable-waters-act/)** — `2026-09-30` | `71 Pages`
-- `[`N-21`]` **[Natural Sciences and Engineering Research Council Act](https://www.indexdata.org/natural-sciences-and-engineering-research-council-act/)** — `2026-09-30` | `10 Pages`
-- `[`N-20.9`]` **[Natural Resources Transfer (School Lands) Amendment Act, 1961](https://www.indexdata.org/natural-resources-transfer-school-lands-amendment-act-1961/)** — `2026-09-30` | `10 Pages`
-- `[`N-20.8`]` **[Department of Natural Resources Act](https://www.indexdata.org/department-of-natural-resources-act/)** — `2026-09-30` | `8 Pages`
-- `[`N-2.5`]` **[National Archives of Canada Act](https://www.indexdata.org/national-archives-of-canada-act/)** — `2026-09-30` | `3 Pages`
-- `[`N-2`]` **[National Anthem Act](https://www.indexdata.org/national-anthem-act/)** — `2026-09-30` | `6 Pages`
-- `[`N-17`]` **[National Symbol of Canada Act](https://www.indexdata.org/national-symbol-of-canada-act/)** — `2026-09-30` | `4 Pages`
-- `[`N-16.85`]` **[National Strategy Respecting Environmental Racism and Environmental Justice Act](https://www.indexdata.org/national-strategy-respecting-environmental-racism-and-environmental-justice-act/)** — `2026-09-30` | `6 Pages`
-- `[`N-16.8`]` **[National Strategy for Safe and Environmentally Sound Disposal of Lamps Containing Mercury Act](https://www.indexdata.org/national-strategy-for-safe-and-environmentally-sound-disposal-of-lamps-containing-mercury-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-16.77`]` **[National Strategy for Eye Care Act](https://www.indexdata.org/national-strategy-for-eye-care-act/)** — `2026-09-30` | `6 Pages`
-- `[`N-16.75`]` **[National Strategy for Alzheimer’s Disease and Other Dementias Act](https://www.indexdata.org/national-strategy-for-alzheimers-disease-and-other-dementias-act/)** — `2026-09-30` | `7 Pages`
-- `[`N-16.65`]` **[National Sickle Cell Awareness Day Act](https://www.indexdata.org/national-sickle-cell-awareness-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-16.5`]` **[National Seal Products Day Act](https://www.indexdata.org/national-seal-products-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-16.45`]` **[National School Food Program Act](https://www.indexdata.org/national-school-food-program-act/)** — `2026-09-30` | `8 Pages`
-- `[`N-16.4`]` **[National Round Table on the Environment and the Economy Act](https://www.indexdata.org/national-round-table-on-the-environment-and-the-economy-act/)** — `2026-09-30` | `3 Pages`
-- `[`N-16.2`]` **[National Ribbon Skirt Day Act](https://www.indexdata.org/national-ribbon-skirt-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-15.8`]` **[An Act to permit the resumption and continuation of the operation of the National Research Universal Reactor at Chalk River](https://www.indexdata.org/an-act-to-permit-the-resumption-and-continuation-of-the-operation-of-the-national-research-universal-reactor-at-chalk-river/)** — `2026-09-30` | `5 Pages`
-- `[`N-15`]` **[National Research Council Act](https://www.indexdata.org/national-research-council-act/)** — `2026-09-30` | `14 Pages`
-- `[`N-14.4`]` **[National Public Service Week: Serving Canadians Better Act](https://www.indexdata.org/national-public-service-week-serving-canadians-better-act/)** — `2026-09-30` | `4 Pages`
-- `[`N-14.3`]` **[National Philanthropy Day Act](https://www.indexdata.org/national-philanthropy-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-14.2`]` **[National Peacekeepers’ Day Act](https://www.indexdata.org/national-peacekeepers-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-14.01`]` **[Canada National Parks Act](https://www.indexdata.org/canada-national-parks-act/)** — `2026-09-30` | `201 Pages`
-- `[`N-13.6`]` **[National Organ Donor Week Act](https://www.indexdata.org/national-organ-donor-week-act/)** — `2026-09-30` | `4 Pages`
-- `[`N-12`]` **[National Library Act](https://www.indexdata.org/national-library-act/)** — `2026-09-30` | `3 Pages`
-- `[`N-11.5`]` **[National Hunting, Trapping and Fishing Heritage Day Act](https://www.indexdata.org/national-hunting-trapping-and-fishing-heritage-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-11.2`]` **[National Housing Strategy Act](https://www.indexdata.org/national-housing-strategy-act/)** — `2026-09-30` | `15 Pages`
-- `[`N-11`]` **[National Housing Act](https://www.indexdata.org/national-housing-act/)** — `2026-09-30` | `62 Pages`
-- `[`N-10.7`]` **[National Horse of Canada Act](https://www.indexdata.org/national-horse-of-canada-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-10.5`]` **[National Holocaust Monument Act](https://www.indexdata.org/national-holocaust-monument-act/)** — `2026-09-30` | `7 Pages`
-- `[`N-1.4`]` **[National Acadian Day Act](https://www.indexdata.org/national-acadian-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`N-0.5`]` **[An Act to change the names of certain electoral districts, 2026](https://www.indexdata.org/an-act-to-change-the-names-of-certain-electoral-districts-2026/)** — `2026-09-30` | `8 Pages`
-- `[`M-8.6`]` **[Modernization of Benefits and Obligations Act](https://www.indexdata.org/modernization-of-benefits-and-obligations-act/)** — `2026-09-30` | `17 Pages`
-- `[`M-8`]` **[Ministries and Ministers of State Act](https://www.indexdata.org/ministries-and-ministers-of-state-act/)** — `2026-09-30` | `6 Pages`
-- `[`M-7.6`]` **[Mi’kmaq Education Act](https://www.indexdata.org/mikmaq-education-act/)** — `2026-09-30` | `9 Pages`
-- `[`M-6`]` **[Merchant Seamen Compensation Act](https://www.indexdata.org/merchant-seamen-compensation-act/)** — `2026-09-30` | `28 Pages`
-- `[`M-5.8`]` **[Merchant Navy Veterans Day Act](https://www.indexdata.org/merchant-navy-veterans-day-act/)** — `2026-09-30` | `4 Pages`
-- `[`M-5`]` **[Members of Parliament Retiring Allowances Act](https://www.indexdata.org/members-of-parliament-retiring-allowances-act/)** — `2026-09-30` | `96 Pages`
-- `[`M-2.1`]` **[Marriage (Prohibited Degrees) Act](https://www.indexdata.org/marriage-prohibited-degrees-act/)** — `2026-09-30` | `5 Pages`
-- `[`M-13.6`]` **[Mutual Legal Assistance in Criminal Matters Act](https://www.indexdata.org/mutual-legal-assistance-in-criminal-matters-act/)** — `2026-09-30` | `45 Pages`
-- `[`M-13.4`]` **[Museums Act](https://www.indexdata.org/museums-act/)** — `2026-09-30` | `33 Pages`
-- `[`M-13`]` **[Payments in Lieu of Taxes Act](https://www.indexdata.org/payments-in-lieu-of-taxes-act/)** — `2026-09-30` | `28 Pages`
-- `[`M-12.8`]` **[Multilateral Instrument in Respect of Tax Conventions Act](https://www.indexdata.org/multilateral-instrument-in-respect-of-tax-conventions-act/)** — `2026-09-30` | `58 Pages`
-- `[`M-0.54`]` **[Manitoba Supplementary Provisions Act](https://www.indexdata.org/manitoba-supplementary-provisions-act/)** — `2026-09-30` | `5 Pages`
-- `[`M-0.5`]` **[Manganese-based Fuel Additives Act](https://www.indexdata.org/manganese-based-fuel-additives-act/)** — `2026-09-30` | `13 Pages`
-- `[`M-0.3`]` **[Maintenance of Railway Operations Act, 1995](https://www.indexdata.org/maintenance-of-railway-operations-act-1995/)** — `2026-09-30` | `3 Pages`
-- `[`M-0.23`]` **[Main Point of Contact with the Government of Canada in case of Death Act](https://www.indexdata.org/main-point-of-contact-with-the-government-of-canada-in-case-of-death-act/)** — `2026-09-30` | `6 Pages`
-- `[`M-0.2`]` **[Mackenzie Valley Resource Management Act](https://www.indexdata.org/mackenzie-valley-resource-management-act/)** — `2026-09-30` | `182 Pages`
-- `[`M-0.15`]` **[Mackenzie Gas Project Impacts Fund Act](https://www.indexdata.org/mackenzie-gas-project-impacts-fund-act/)** — `2026-09-30` | `7 Pages`
-- `[`M-0.1`]` **[Mackenzie Gas Project Impacts Act](https://www.indexdata.org/mackenzie-gas-project-impacts-act/)** — `2026-09-30` | `3 Pages`
-- `[`L-8.5`]` **[Lincoln Alexander Day Act](https://www.indexdata.org/lincoln-alexander-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`L-8`]` **[Lieutenant Governors Superannuation Act](https://www.indexdata.org/lieutenant-governors-superannuation-act/)** — `2026-09-30` | `13 Pages`
-- `[`L-7.7`]` **[Library and Archives of Canada Act](https://www.indexdata.org/library-and-archives-of-canada-act/)** — `2026-09-30` | `21 Pages`
-- `[`L-7.5`]` **[Legislative Instruments Re-enactment Act](https://www.indexdata.org/legislative-instruments-re-enactment-act/)** — `2026-09-30` | `7 Pages`
-- `[`L-7.3`]` **[Lebanese Heritage Month Act](https://www.indexdata.org/lebanese-heritage-month-act/)** — `2026-09-30` | `5 Pages`
-- `[`L-6.7`]` **[Law Commission of Canada Act](https://www.indexdata.org/law-commission-of-canada-act/)** — `2026-09-30` | `13 Pages`
-- `[`L-6.5`]` **[Laurier House Act](https://www.indexdata.org/laurier-house-act/)** — `2026-09-30` | `8 Pages`
-- `[`L-6.4`]` **[Latin American Heritage Month Act](https://www.indexdata.org/latin-american-heritage-month-act/)** — `2026-09-30` | `5 Pages`
-- `[`L-6.2`]` **[Language Skills Act](https://www.indexdata.org/language-skills-act/)** — `2026-09-30` | `5 Pages`
-- `[`L-6`]` **[Canada Lands Surveys Act](https://www.indexdata.org/canada-lands-surveys-act/)** — `2026-09-30` | `21 Pages`
-- `[`L-5.8`]` **[Canada Lands Surveyors Act](https://www.indexdata.org/canada-lands-surveyors-act/)** — `2026-09-30` | `31 Pages`
-- `[`L-5.2`]` **[Land Titles Repeal Act](https://www.indexdata.org/land-titles-repeal-act/)** — `2026-09-30` | `7 Pages`
-- `[`L-12.4`]` **[Lobbying Act](https://www.indexdata.org/lobbying-act/)** — `2026-09-30` | `37 Pages`
-- `[`L-10`]` **[Livestock Feed Assistance Act](https://www.indexdata.org/livestock-feed-assistance-act/)** — `2026-09-30` | `11 Pages`
-- `[`L-1`]` **[Labour Adjustment Benefits Act](https://www.indexdata.org/labour-adjustment-benefits-act/)** — `2026-09-30` | `30 Pages`
-- `[`K-9.5`]` **[Kyoto Protocol Implementation Act](https://www.indexdata.org/kyoto-protocol-implementation-act/)** — `2026-09-30` | `3 Pages`
-- `[`K-6.5`]` **[Korean War Veterans Day Act](https://www.indexdata.org/korean-war-veterans-day-act/)** — `2026-09-30` | `6 Pages`
-- `[`K-0.8`]` **[Kingsmere Park Act](https://www.indexdata.org/kingsmere-park-act/)** — `2026-09-30` | `6 Pages`
-- `[`K-0.7`]` **[Kindness Week Act](https://www.indexdata.org/kindness-week-act/)** — `2026-09-30` | `5 Pages`
-- `[`K-0.65`]` **[Kelowna Accord Implementation Act](https://www.indexdata.org/kelowna-accord-implementation-act/)** — `2026-09-30` | `5 Pages`
-- `[`K-0.5`]` **[Kanesatake Interim Land Base Governance Act](https://www.indexdata.org/kanesatake-interim-land-base-governance-act/)** — `2026-09-30` | `16 Pages`
-- `[`J-2.5`]` **[Justice for Victims of Terrorism Act](https://www.indexdata.org/justice-for-victims-of-terrorism-act/)** — `2026-09-30` | `7 Pages`
-- `[`J-2.3`]` **[Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)](https://www.indexdata.org/justice-for-victims-of-corrupt-foreign-officials-act-sergei-magnitsky-law/)** — `2026-09-30` | `20 Pages`
-- `[`J-2`]` **[Department of Justice Act](https://www.indexdata.org/department-of-justice-act/)** — `2026-09-30` | `8 Pages`
-- `[`J-1.5`]` **[An Act to incorporate the Jules and Paul-Émile Léger Foundation](https://www.indexdata.org/an-act-to-incorporate-the-jules-and-paul-emile-leger-foundation/)** — `2026-09-30` | `11 Pages`
-- `[`J-1`]` **[Judges Act](https://www.indexdata.org/judges-act/)** — `2026-09-30` | `109 Pages`
-- `[`J-0.9`]` **[Journey to Freedom Day Act](https://www.indexdata.org/journey-to-freedom-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`J-0.8`]` **[Jobs, Growth and Long-term Prosperity Act](https://www.indexdata.org/jobs-growth-and-long-term-prosperity-act/)** — `2026-09-30` | `75 Pages`
-- `[`J-0.7`]` **[Jobs and Economic Growth Act](https://www.indexdata.org/jobs-and-economic-growth-act/)** — `2026-09-30` | `69 Pages`
-- `[`J-0.3`]` **[James Bay and Northern Quebec Native Claims Settlement Act](https://www.indexdata.org/james-bay-and-northern-quebec-native-claims-settlement-act/)** — `2026-09-30` | `10 Pages`
-- `[`I-9.2`]` **[Department of Industry Act](https://www.indexdata.org/department-of-industry-act/)** — `2026-09-30` | `18 Pages`
-- `[`I-8`]` **[Industrial and Regional Development Act](https://www.indexdata.org/industrial-and-regional-development-act/)** — `2026-09-30` | `12 Pages`
-- `[`I-7.7`]` **[Indian (Soldier Settlement) Act](https://www.indexdata.org/indian-soldier-settlement-act/)** — `2026-09-30` | `6 Pages`
-- `[`I-7.4`]` **[Indian Reserves of Nova Scotia Act](https://www.indexdata.org/indian-reserves-of-nova-scotia-act/)** — `2026-09-30` | `10 Pages`
-- `[`I-7.2`]` **[An Act for the settlement of certain questions between the Governments of Canada and Ontario respecting Indian Reserve Lands](https://www.indexdata.org/an-act-for-the-settlement-of-certain-questions-between-the-governments-of-canada-and-ontario-respecting-indian-reserve-lands/)** — `2026-09-30` | `8 Pages`
-- `[`I-6.7`]` **[Indian Lands Agreement (1986) Act](https://www.indexdata.org/indian-lands-agreement-1986-act/)** — `2026-09-30` | `7 Pages`
-- `[`I-6`]` **[Department of Indian Affairs and Northern Development Act](https://www.indexdata.org/department-of-indian-affairs-and-northern-development-act/)** — `2026-09-30` | `3 Pages`
-- `[`I-21.5`]` **[Invest in Canada Act](https://www.indexdata.org/invest-in-canada-act/)** — `2026-09-30` | `14 Pages`
-- `[`I-21`]` **[Interpretation Act](https://www.indexdata.org/interpretation-act/)** — `2026-09-30` | `38 Pages`
-- `[`I-20.8`]` **[Internment of Persons of Ukrainian Origin Recognition Act](https://www.indexdata.org/internment-of-persons-of-ukrainian-origin-recognition-act/)** — `2026-09-30` | `5 Pages`
-- `[`I-20.6`]` **[International Transfer of Offenders Act](https://www.indexdata.org/international-transfer-of-offenders-act/)** — `2026-09-30` | `28 Pages`
-- `[`I-20.4`]` **[International Sale of Goods Contracts Convention Act](https://www.indexdata.org/international-sale-of-goods-contracts-convention-act/)** — `2026-09-30` | `34 Pages`
-- `[`I-20`]` **[International River Improvements Act](https://www.indexdata.org/international-river-improvements-act/)** — `2026-09-30` | `32 Pages`
-- `[`I-19.8`]` **[International Rapids Power Development Act](https://www.indexdata.org/international-rapids-power-development-act/)** — `2026-09-30` | `13 Pages`
-- `[`I-19.7`]` **[International Mother Language Day Act](https://www.indexdata.org/international-mother-language-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`I-19.6`]` **[International Interests in Mobile Equipment (aircraft equipment) Act](https://www.indexdata.org/international-interests-in-mobile-equipment-aircraft-equipment-act/)** — `2026-09-30` | `108 Pages`
-- `[`I-19`]` **[International Development Research Centre Act](https://www.indexdata.org/international-development-research-centre-act/)** — `2026-09-30` | `13 Pages`
-- `[`I-17.3`]` **[International Centre for Human Rights and Democratic Development Act](https://www.indexdata.org/international-centre-for-human-rights-and-democratic-development-act/)** — `2026-09-30` | `3 Pages`
-- `[`I-17.05`]` **[International Bridges and Tunnels Act](https://www.indexdata.org/international-bridges-and-tunnels-act/)** — `2026-09-30` | `33 Pages`
-- `[`I-17`]` **[International Boundary Waters Treaty Act](https://www.indexdata.org/international-boundary-waters-treaty-act/)** — `2026-09-30` | `42 Pages`
-- `[`I-16`]` **[International Boundary Commission Act](https://www.indexdata.org/international-boundary-commission-act/)** — `2026-09-30` | `7 Pages`
-- `[`I-15`]` **[Interest Act](https://www.indexdata.org/interest-act/)** — `2026-09-30` | `9 Pages`
-- `[`I-14.85`]` **[Intelligence Commissioner Act](https://www.indexdata.org/intelligence-commissioner-act/)** — `2026-09-30` | `16 Pages`
-- `[`I-14.6`]` **[Integrated Circuit Topography Act](https://www.indexdata.org/integrated-circuit-topography-act/)** — `2026-09-30` | `22 Pages`
-- `[`I-11`]` **[Inquiries Act](https://www.indexdata.org/inquiries-act/)** — `2026-09-30` | `9 Pages`
-- `[`I-1`]` **[Identification of Criminals Act](https://www.indexdata.org/identification-of-criminals-act/)** — `2026-09-30` | `8 Pages`
-- `[`H-6`]` **[Canadian Human Rights Act](https://www.indexdata.org/canadian-human-rights-act/)** — `2026-09-30` | `56 Pages`
-- `[`H-5.8`]` **[Department of Human Resources Development Act](https://www.indexdata.org/department-of-human-resources-development-act/)** — `2026-09-30` | `3 Pages`
-- `[`H-5.7`]` **[Department of Employment and Social Development Act](https://www.indexdata.org/department-of-employment-and-social-development-act/)** — `2026-09-30` | `76 Pages`
-- `[`H-5.4`]` **[Holocaust Memorial Day Act](https://www.indexdata.org/holocaust-memorial-day-act/)** — `2026-09-30` | `5 Pages`
-- `[`H-5`]` **[Holidays Act](https://www.indexdata.org/holidays-act/)** — `2026-09-30` | `4 Pages`
-- `[`H-4`]` **[Historic Sites and Monuments Act](https://www.indexdata.org/historic-sites-and-monuments-act/)** — `2026-09-30` | `7 Pages`
-- `[`H-3.8`]` **[Highway 30 Completion Bridges Act](https://www.indexdata.org/highway-30-completion-bridges-act/)** — `2026-09-30` | `5 Pages`
-- `[`H-3.77`]` **[High-Speed Rail Network Act](https://www.indexdata.org/high-speed-rail-network-act/)** — `2026-09-30` | `19 Pages`
-- `[`H-3.76`]` **[High Risk Child Sex Offender Database Act](https://www.indexdata.org/high-risk-child-sex-offender-database-act/)** — `2026-09-30` | `8 Pages`
-- `[`H-3.7`]` **[Hibernia Development Project Act](https://www.indexdata.org/hibernia-development-project-act/)** — `2026-09-30` | `12 Pages`
-- `[`H-3.5`]` **[Heritage Railway Stations Protection Act](https://www.indexdata.org/heritage-railway-stations-protection-act/)** — `2026-09-30` | `7 Pages`
-- `[`H-3.4`]` **[Heritage Lighthouse Protection Act](https://www.indexdata.org/heritage-lighthouse-protection-act/)** — `2026-09-30` | `9 Pages`
-- `[`H-3.2`]` **[Department of Health Act](https://www.indexdata.org/department-of-health-act/)** — `2026-09-30` | `13 Pages`
-- `[`H-2.7`]` **[Hazardous Materials Information Review Act](https://www.indexdata.org/hazardous-materials-information-review-act/)** — `2026-09-30` | `23 Pages`
-- `[`H-1`]` **[Harbour Commissions Act](https://www.indexdata.org/harbour-commissions-act/)** — `2026-09-30` | `3 Pages`
-- `[`H-0.3`]` **[Haida Nation Recognition Act](https://www.indexdata.org/haida-nation-recognition-act/)** — `2026-09-30` | `7 Pages`
-- `[`G-9`]` **[Governor General’s Act](https://www.indexdata.org/governor-generals-act/)** — `2026-09-30` | `11 Pages`
-- `[`G-7.6`]` **[Government Services Resumption Act](https://www.indexdata.org/government-services-resumption-act/)** — `2026-09-30` | `12 Pages`
-- `[`G-7.4`]` **[Government Services Act, 1999](https://www.indexdata.org/government-services-act-1999/)** — `2026-09-30` | `17 Pages`
-- `[`G-6`]` **[Government Property Traffic Act](https://www.indexdata.org/government-property-traffic-act/)** — `2026-09-30` | `6 Pages`
-- `[`G-5.7`]` **[Government Organization Act, Atlantic Canada, 1987](https://www.indexdata.org/government-organization-act-atlantic-canada-1987/)** — `2026-09-30` | `5 Pages`
-- `[`G-5.3`]` **[An Act respecting the Government House property, Toronto](https://www.indexdata.org/an-act-respecting-the-government-house-property-toronto/)** — `2026-09-30` | `4 Pages`
-- `[`G-5`]` **[Government Employees Compensation Act](https://www.indexdata.org/government-employees-compensation-act/)** — `2026-09-30` | `15 Pages`
-- `[`G-4`]` **[Government Corporations Operation Act](https://www.indexdata.org/government-corporations-operation-act/)** — `2026-09-30` | `6 Pages`
-- `[`G-3.8`]` **[Government Annuities Improvement Act](https://www.indexdata.org/government-annuities-improvement-act/)** — `2026-09-30` | `10 Pages`
-- `[`G-3.7`]` **[Government Annuities Act](https://www.indexdata.org/government-annuities-act/)** — `2026-09-30` | `9 Pages`
-- `[`G-3.3`]` **[Global Minimum Tax Act](https://www.indexdata.org/global-minimum-tax-act/)** — `2026-09-30` | `276 Pages`
-- `[`G-3`]` **[Geneva Conventions Act](https://www.indexdata.org/geneva-conventions-act/)** — `2026-09-30` | `230 Pages`
-- `[`G-2.5`]` **[Genetic Non-Discrimination Act](https://www.indexdata.org/genetic-non-discrimination-act/)** — `2026-09-30` | `6 Pages`
-- `[`G-2.3`]` **[Gender Equality Week Act](https://www.indexdata.org/gender-equality-week-act/)** — `2026-09-30` | `6 Pages`
-- `[`G-11.8`]` **[Gwich’in Land Claim Settlement Act](https://www.indexdata.org/gwichin-land-claim-settlement-act/)** — `2026-09-30` | `8 Pages`
-- `[`G-11.2`]` **[An Act to authorize the granting of an immediate annuity to the Honourable Mr. Justice Donald Raymond Morand](https://www.indexdata.org/an-act-to-authorize-the-granting-of-an-immediate-annuity-to-the-honourable-mr-justice-donald-raymond-morand/)** — `2026-09-30` | `5 Pages`
-- `[`F-8.6`]` **[Federal Sustainable Development Act](https://www.indexdata.org/federal-sustainable-development-act/)** — `2026-09-30` | `18 Pages`
-- `[`F-8.4`]` **[Federal Real Property and Federal Immovables Act](https://www.indexdata.org/federal-real-property-and-federal-immovables-act/)** — `2026-09-30` | `19 Pages`
-- `[`F-8.2`]` **[Federal-Provincial Fiscal Arrangements Act, 1972](https://www.indexdata.org/federal-provincial-fiscal-arrangements-act-1972/)** — `2026-09-30` | `38 Pages`
-- `[`F-8`]` **[Federal-Provincial Fiscal Arrangements Act](https://www.indexdata.org/federal-provincial-fiscal-arrangements-act/)** — `2026-09-30` | `113 Pages`
-- `[`F-7.8`]` **[Federal-Provincial Fiscal Arrangements Act](https://www.indexdata.org/federal-provincial-fiscal-arrangements-act-2/)** — `2026-09-30` | `23 Pages`
-- `[`F-7.7`]` **[Federal Prompt Payment for Construction Work Act](https://www.indexdata.org/federal-prompt-payment-for-construction-work-act/)** — `2026-09-30` | `17 Pages`
-- `[`F-7.5`]` **[Federal Law—Civil Law Harmonization Act, No. 1](https://www.indexdata.org/federal-law-civil-law-harmonization-act-no-1/)** — `2026-09-30` | `9 Pages`
-- `[`F-7.38`]` **[Federal Framework on Post-Traumatic Stress Disorder Act](https://www.indexdata.org/federal-framework-on-post-traumatic-stress-disorder-act/)** — `2026-09-30` | `6 Pages`
-- `[`F-7.35`]` **[Federal Framework on Lyme Disease Act](https://www.indexdata.org/federal-framework-on-lyme-disease-act/)** — `2026-09-30` | `7 Pages`
-- `[`F-7.33`]` **[Federal Framework on Autism Spectrum Disorder Act](https://www.indexdata.org/federal-framework-on-autism-spectrum-disorder-act/)** — `2026-09-30` | `7 Pages`
-- `[`F-7.3`]` **[Federal Framework for Suicide Prevention Act](https://www.indexdata.org/federal-framework-for-suicide-prevention-act/)** — `2026-09-30` | `6 Pages`
-- `[`F-7`]` **[Federal Courts Act](https://www.indexdata.org/federal-courts-act/)** — `2026-09-30` | `58 Pages`
-- `[`F-5.5`]` **[Federal Accountability Act](https://www.indexdata.org/federal-accountability-act/)** — `2026-09-30` | `32 Pages`
-- `[`F-4`]` **[Farm Products Agencies Act](https://www.indexdata.org/farm-products-agencies-act/)** — `2026-09-30` | `33 Pages`
-- `[`F-32.5`]` **[An Act respecting the provision of funding for diagnostic and medical equipment](https://www.indexdata.org/an-act-respecting-the-provision-of-funding-for-diagnostic-and-medical-equipment/)** — `2026-09-30` | `5 Pages`
-- `[`F-31.7`]` **[Fruit and Vegetable Customs Orders Validation Act](https://www.indexdata.org/fruit-and-vegetable-customs-orders-validation-act/)** — `2026-09-30` | `4 Pages`
-- `[`F-31.6`]` **[Freezing Assets of Corrupt Foreign Officials Act](https://www.indexdata.org/freezing-assets-of-corrupt-foreign-officials-act/)** — `2026-09-30` | `13 Pages`
-- `[`F-31.55`]` **[Free Trade and Labour Mobility in Canada Act](https://www.indexdata.org/free-trade-and-labour-mobility-in-canada-act/)** — `2026-09-30` | `9 Pages`
-- `[`F-31.5`]` **[Framework on Palliative Care in Canada Act](https://www.indexdata.org/framework-on-palliative-care-in-canada-act/)** — `2026-09-30` | `6 Pages`
-- `[`F-31.46`]` **[Framework Agreement on First Nation Land Management Act](https://www.indexdata.org/framework-agreement-on-first-nation-land-management-act/)** — `2026-09-30` | `9 Pages`
-- `[`F-31.2`]` **[Fort-Falls Bridge Authority Act](https://www.indexdata.org/fort-falls-bridge-authority-act/)** — `2026-09-30` | `22 Pages`
-- `[`F-30.4`]` **[Forgiveness of Debts (sub-Saharan Africa) Act](https://www.indexdata.org/forgiveness-of-debts-sub-saharan-africa-act/)** — `2026-09-30` | `6 Pages`
-- `[`F-30.2`]` **[Forgiveness of Certain Official Development Assistance Debts Act](https://www.indexdata.org/forgiveness-of-certain-official-development-assistance-debts-act/)** — `2026-09-30` | `6 Pages`
-- `[`F-3.3`]` **[Farm Income Protection Act](https://www.indexdata.org/farm-income-protection-act/)** — `2026-09-30` | `25 Pages`
-- `[`F-3`]` **[Farm Improvement Loans Act](https://www.indexdata.org/farm-improvement-loans-act/)** — `2026-09-30` | `3 Pages`
-- `[`F-29.6`]` **[Foreign Publishers Advertising Services Act](https://www.indexdata.org/foreign-publishers-advertising-services-act/)** — `2026-09-30` | `16 Pages`
-- `[`F-29.4`]` **[Foreign Missions and International Organizations Act](https://www.indexdata.org/foreign-missions-and-international-organizations-act/)** — `2026-09-30` | `71 Pages`
-- `[`F-29.2`]` **[Foreign Influence Transparency and Accountability Act](https://www.indexdata.org/foreign-influence-transparency-and-accountability-act/)** — `2026-09-30` | `19 Pages`
-- `[`F-29`]` **[Foreign Extraterritorial Measures Act](https://www.indexdata.org/foreign-extraterritorial-measures-act/)** — `2026-09-30` | `16 Pages`
-- `[`F-28`]` **[Foreign Enlistment Act](https://www.indexdata.org/foreign-enlistment-act/)** — `2026-09-30` | `10 Pages`
-- `[`F-27.3`]` **[Food Day in Canada Act](https://www.indexdata.org/food-day-in-canada-act/)** — `2026-09-30` | `5 Pages`
-- `[`F-24`]` **[Fishing and Recreational Harbours Act](https://www.indexdata.org/fishing-and-recreational-harbours-act/)** — `2026-09-30` | `18 Pages`
-- `[`F-2.7`]` **[Canadian Agricultural Loans Act](https://www.indexdata.org/canadian-agricultural-loans-act/)** — `2026-09-30` | `18 Pages`
-- `[`F-2.27`]` **[Farm Debt Mediation Act](https://www.indexdata.org/farm-debt-mediation-act/)** — `2026-09-30` | `20 Pages`
-- `[`F-2.2`]` **[Farm Credit Canada Act](https://www.indexdata.org/farm-credit-canada-act/)** — `2026-09-30` | `14 Pages`
-- `[`F-13`]` **[Freshwater Fish Marketing Act](https://www.indexdata.org/freshwater-fish-marketing-act/)** — `2026-09-30` | `27 Pages`
-- `[`F-12`]` **[Fish Inspection Act](https://www.indexdata.org/fish-inspection-act/)** — `2026-09-30` | `3 Pages`
-- `[`F-10.6`]` **[Fighting Against Forced Labour and Child Labour in Supply Chains Act](https://www.indexdata.org/fighting-against-forced-labour-and-child-labour-in-supply-chains-act/)** — `2026-09-30` | `17 Pages`
-- `[`F-1.4`]` **[Family Orders and Agreements Enforcement Assistance Act](https://www.indexdata.org/family-orders-and-agreements-enforcement-assistance-act/)** — `2026-09-30` | `45 Pages`
-- `[`F-1.2`]` **[Family Homes on Reserves and Matrimonial Interests or Rights Act](https://www.indexdata.org/family-homes-on-reserves-and-matrimonial-interests-or-rights-act/)** — `2026-09-30` | `46 Pages`
-- `[`F-0.7`]` **[Fall Economic Statement Implementation Act, 2022](https://www.indexdata.org/fall-economic-statement-implementation-act-2022/)** — `2026-09-30` | `19 Pages`
-- `[`E-9.5`]` **[Enterprise Cape Breton Corporation Act](https://www.indexdata.org/enterprise-cape-breton-corporation-act/)** — `2026-09-30` | `3 Pages`
-- `[`E-5.401`]` **[Employment Equity Act](https://www.indexdata.org/employment-equity-act/)** — `2026-09-30` | `39 Pages`
-- `[`E-4.6`]` **[Emergency Preparedness Act](https://www.indexdata.org/emergency-preparedness-act/)** — `2026-09-30` | `3 Pages`
-- `[`E-4.56`]` **[Emergency Management Act](https://www.indexdata.org/emergency-management-act/)** — `2026-09-30` | `9 Pages`
-- `[`E-3`]` **[Electoral Boundaries Readjustment Act](https://www.indexdata.org/electoral-boundaries-readjustment-act/)** — `2026-09-30` | `24 Pages`
-- `[`E-23.01`]` **[Extradition Act](https://www.indexdata.org/extradition-act/)** — `2026-09-30` | `48 Pages`
-- `[`E-22.7`]` **[Extractive Sector Transparency Measures Act](https://www.indexdata.org/extractive-sector-transparency-measures-act/)** — `2026-09-30` | `18 Pages`
-- `[`E-21.5`]` **[Expungement of Historically Unjust Convictions Act](https://www.indexdata.org/expungement-of-historically-unjust-convictions-act/)** — `2026-09-30` | `17 Pages`
-- `[`E-21`]` **[Expropriation Act](https://www.indexdata.org/expropriation-act/)** — `2026-09-30` | `45 Pages`
-- `[`E-2.01`]` **[Canada Elections Act](https://www.indexdata.org/canada-elections-act/)** — `2026-09-30` | `603 Pages`
-- `[`E-16`]` **[Experimental Farm Stations Act](https://www.indexdata.org/experimental-farm-stations-act/)** — `2026-09-30` | `7 Pages`
-- `[`E-15.5`]` **[Expenditure Restraint Act](https://www.indexdata.org/expenditure-restraint-act/)** — `2026-09-30` | `33 Pages`
-- `[`E-13.7`]` **[Exchequer Court Act](https://www.indexdata.org/exchequer-court-act/)** — `2026-09-30` | `7 Pages`
-- `[`E-13.5`]` **[European Bank for Reconstruction and Development Agreement Act](https://www.indexdata.org/european-bank-for-reconstruction-and-development-agreement-act/)** — `2026-09-30` | `50 Pages`
-- `[`E-13`]` **[Escheats Act](https://www.indexdata.org/escheats-act/)** — `2026-09-30` | `5 Pages`
-- `[`E-12.5`]` **[Environmental Violations Administrative Monetary Penalties Act](https://www.indexdata.org/environmental-violations-administrative-monetary-penalties-act/)** — `2026-09-30` | `15 Pages`
-- `[`E-11`]` **[Canadian Environment Week Act](https://www.indexdata.org/canadian-environment-week-act/)** — `2026-09-30` | `4 Pages`
-- `[`E-10`]` **[Department of the Environment Act](https://www.indexdata.org/department-of-the-environment-act/)** — `2026-09-30` | `7 Pages`
-- `[`E-1.45`]` **[Economic Statement Implementation Act, 2020](https://www.indexdata.org/economic-statement-implementation-act-2020/)** — `2026-09-30` | `10 Pages`
-- `[`E-1.4`]` **[Economic Recovery Act (stimulus)](https://www.indexdata.org/economic-recovery-act-stimulus/)** — `2026-09-30` | `11 Pages`
-- `[`E-1.3`]` **[Economic Development Agency of Canada for the Regions of Quebec Act](https://www.indexdata.org/economic-development-agency-of-canada-for-the-regions-of-quebec-act/)** — `2026-09-30` | `15 Pages`
-- `[`E-0.93`]` **[Economic and Fiscal Update Implementation Act, 2021](https://www.indexdata.org/economic-and-fiscal-update-implementation-act-2021/)** — `2026-09-30` | `12 Pages`
-- `[`E-0.9`]` **[Economic Action Plan 2015 Act, No. 1](https://www.indexdata.org/economic-action-plan-2015-act-no-1/)** — `2026-09-30` | `26 Pages`
-- `[`E-0.8`]` **[Economic Action Plan 2014 Act, No. 1](https://www.indexdata.org/economic-action-plan-2014-act-no-1/)** — `2026-09-30` | `54 Pages`
-- `[`E-0.7`]` **[Economic Action Plan 2013 Act, No. 2](https://www.indexdata.org/economic-action-plan-2013-act-no-2/)** — `2026-09-30` | `42 Pages`
-- `[`E-0.6`]` **[Economic Action Plan 2013 Act, No. 1](https://www.indexdata.org/economic-action-plan-2013-act-no-1/)** — `2026-09-30` | `31 Pages`
-- `[`D-4`]` **[Dry Docks Subsidies Act](https://www.indexdata.org/dry-docks-subsidies-act/)** — `2026-09-30` | `14 Pages`
-- `[`D-3.8`]` **[DNA Identification Act](https://www.indexdata.org/dna-identification-act/)** — `2026-09-30` | `23 Pages`
-- `[`D-3.4`]` **[Divorce Act](https://www.indexdata.org/divorce-act/)** — `2026-09-30` | `139 Pages`
-- `[`D-2.8`]` **[Disability Tax Credit Promoters Restrictions Act](https://www.indexdata.org/disability-tax-credit-promoters-restrictions-act/)** — `2026-09-30` | `7 Pages`
-- `[`D-2.5`]` **[Director of Public Prosecutions Act](https://www.indexdata.org/director-of-public-prosecutions-act/)** — `2026-09-30` | `14 Pages`
-- `[`D-1.65`]` **[Digital Services Tax Act](https://www.indexdata.org/digital-services-tax-act/)** — `2026-09-30` | `3 Pages`
-- `[`D-1.6`]` **[Depository Bills and Notes Act](https://www.indexdata.org/depository-bills-and-notes-act/)** — `2026-09-30` | `11 Pages`
-- `[`D-1.59`]` **[Department of Housing, Infrastructure and Communities Act](https://www.indexdata.org/department-of-housing-infrastructure-and-communities-act/)** — `2026-09-30` | `8 Pages`
-- `[`D-1.57`]` **[Dental Care Measures Act](https://www.indexdata.org/dental-care-measures-act/)** — `2026-09-30` | `7 Pages`
-- `[`D-1.55`]` **[Dental Benefit Act](https://www.indexdata.org/dental-benefit-act/)** — `2026-09-30` | `19 Pages`
-- `[`D-1.5`]` **[Déline Final Self-Government Agreement Act](https://www.indexdata.org/deline-final-self-government-agreement-act/)** — `2026-09-30` | `12 Pages`
-- `[`D-1`]` **[Defence Production Act](https://www.indexdata.org/defence-production-act/)** — `2026-09-30` | `43 Pages`
-- `[`D-0.5`]` **[Debt Servicing and Reduction Account Act](https://www.indexdata.org/debt-servicing-and-reduction-account-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-8.8`]` **[Canada–Poland Tax Convention Act, 2013](https://www.indexdata.org/canada-poland-tax-convention-act-2013/)** — `2026-09-30` | `28 Pages`
-- `[`C-8.5`]` **[Canada Petroleum Resources Act](https://www.indexdata.org/canada-petroleum-resources-act/)** — `2026-09-30` | `76 Pages`
-- `[`C-8.4`]` **[Canada–Peru Free Trade Agreement Implementation Act](https://www.indexdata.org/canada-peru-free-trade-agreement-implementation-act/)** — `2026-09-30` | `19 Pages`
-- `[`C-7.95`]` **[Canada–Panama Economic Growth and Prosperity Act](https://www.indexdata.org/canada-panama-economic-growth-and-prosperity-act/)** — `2026-09-30` | `24 Pages`
-- `[`C-7.9`]` **[Canada–Oman Tax Agreement Act, 2004](https://www.indexdata.org/canada-oman-tax-agreement-act-2004/)** — `2026-09-30` | `31 Pages`
-- `[`C-7.75`]` **[Canada Not-for-profit Corporations Act](https://www.indexdata.org/canada-not-for-profit-corporations-act/)** — `2026-09-30` | `179 Pages`
-- `[`C-7.7`]` **[Canada — Norway Tax Convention Act, 2002](https://www.indexdata.org/canada-norway-tax-convention-act-2002/)** — `2026-09-30` | `31 Pages`
-- `[`C-7.2`]` **[Canada–Namibia Tax Convention Act, 2013](https://www.indexdata.org/canada-namibia-tax-convention-act-2013/)** — `2026-09-30` | `29 Pages`
-- `[`C-7`]` **[Canada Mortgage and Housing Corporation Act](https://www.indexdata.org/canada-mortgage-and-housing-corporation-act/)** — `2026-09-30` | `21 Pages`
-- `[`C-6.94`]` **[Canada — Mongolia Tax Convention Act, 2002](https://www.indexdata.org/canada-mongolia-tax-convention-act-2002/)** — `2026-09-30` | `29 Pages`
-- `[`C-6.9`]` **[Canada — Moldova Tax Convention Act, 2002](https://www.indexdata.org/canada-moldova-tax-convention-act-2002/)** — `2026-09-30` | `27 Pages`
-- `[`C-6.87`]` **[Canada-Mexico Tax Information Exchange Convention Act, 1991](https://www.indexdata.org/canada-mexico-tax-information-exchange-convention-act-1991/)** — `2026-09-30` | `10 Pages`
-- `[`C-6.85`]` **[Canada–Mexico Tax Convention Act, 2006](https://www.indexdata.org/canada-mexico-tax-convention-act-2006/)** — `2026-09-30` | `32 Pages`
-- `[`C-6.65`]` **[Canada–Madagascar Tax Convention Act, 2018](https://www.indexdata.org/canada-madagascar-tax-convention-act-2018/)** — `2026-09-30` | `28 Pages`
-- `[`C-6.6`]` **[Canada — Kuwait Tax Agreement Act, 2002](https://www.indexdata.org/canada-kuwait-tax-agreement-act-2002/)** — `2026-09-30` | `28 Pages`
-- `[`C-6.48`]` **[Canada–Korea Economic Growth and Prosperity Act](https://www.indexdata.org/canada-korea-economic-growth-and-prosperity-act/)** — `2026-09-30` | `14 Pages`
-- `[`C-6.45`]` **[Canada–Jordan Economic Growth and Prosperity Act](https://www.indexdata.org/canada-jordan-economic-growth-and-prosperity-act/)** — `2026-09-30` | `17 Pages`
-- `[`C-6.42`]` **[Canada–Israel Tax Convention Act, 2016](https://www.indexdata.org/canada-israel-tax-convention-act-2016/)** — `2026-09-30` | `31 Pages`
-- `[`C-6.4`]` **[Canada-Israel Free Trade Agreement Implementation Act](https://www.indexdata.org/canada-israel-free-trade-agreement-implementation-act/)** — `2026-09-30` | `16 Pages`
-- `[`C-6.3`]` **[Canada–Ireland Tax Convention Act, 2004](https://www.indexdata.org/canada-ireland-tax-convention-act-2004/)** — `2026-09-30` | `30 Pages`
-- `[`C-6.2`]` **[Canadair Limited Divestiture Authorization Act](https://www.indexdata.org/canadair-limited-divestiture-authorization-act/)** — `2026-09-30` | `5 Pages`
-- `[`C-6.19`]` **[Canada Innovation Corporation Act](https://www.indexdata.org/canada-innovation-corporation-act/)** — `2026-09-30` | `15 Pages`
-- `[`C-6.16`]` **[Canada–Indonesia Comprehensive Economic Partnership Agreement Implementation Act](https://www.indexdata.org/canada-indonesia-comprehensive-economic-partnership-agreement-implementation-act/)** — `2026-09-30` | `62 Pages`
-- `[`C-6.15`]` **[Canada–Hong Kong Tax Agreement Act, 2013](https://www.indexdata.org/canada-hong-kong-tax-agreement-act-2013/)** — `2026-09-30` | `29 Pages`
-- `[`C-6.10`]` **[Canada–Honduras Economic Growth and Prosperity Act](https://www.indexdata.org/canada-honduras-economic-growth-and-prosperity-act/)** — `2026-09-30` | `14 Pages`
-- `[`C-6.1`]` **[Canada Health Care, Early Childhood Development and Other Social Services Funding Act](https://www.indexdata.org/canada-health-care-early-childhood-development-and-other-social-services-funding-act/)** — `2026-09-30` | `6 Pages`
-- `[`C-6`]` **[Canada Health Act](https://www.indexdata.org/canada-health-act/)** — `2026-09-30` | `18 Pages`
-- `[`C-52`]` **[Currency Act](https://www.indexdata.org/currency-act/)** — `2026-09-30` | `14 Pages`
-- `[`C-50`]` **[Crown Liability and Proceedings Act](https://www.indexdata.org/crown-liability-and-proceedings-act/)** — `2026-09-30` | `24 Pages`
-- `[`C-5.9`]` **[Canada–Greece Tax Convention Act, 2010](https://www.indexdata.org/canada-greece-tax-convention-act-2010/)** — `2026-09-30` | `31 Pages`
-- `[`C-5.85`]` **[Canada-Germany Tax Agreement Act, 1982](https://www.indexdata.org/canada-germany-tax-agreement-act-1982/)** — `2026-09-30` | `37 Pages`
-- `[`C-5.8`]` **[Canada–Gabon Tax Convention Act, 2004](https://www.indexdata.org/canada-gabon-tax-convention-act-2004/)** — `2026-09-30` | `25 Pages`
-- `[`C-5.7`]` **[Canada Fund for Africa Act](https://www.indexdata.org/canada-fund-for-africa-act/)** — `2026-09-30` | `5 Pages`
-- `[`C-5.5`]` **[Canada Foundation for Sustainable Development Technology Act](https://www.indexdata.org/canada-foundation-for-sustainable-development-technology-act/)** — `2026-09-30` | `26 Pages`
-- `[`C-5.2`]` **[Canada–Finland Tax Convention Act, 2006](https://www.indexdata.org/canada-finland-tax-convention-act-2006/)** — `2026-09-30` | `28 Pages`
-- `[`C-5`]` **[Canada Evidence Act](https://www.indexdata.org/canada-evidence-act/)** — `2026-09-30` | `82 Pages`
-- `[`C-49.6`]` **[Crown Corporations Dissolution or Transfer Authorization Act](https://www.indexdata.org/crown-corporations-dissolution-or-transfer-authorization-act/)** — `2026-09-30` | `9 Pages`
-- `[`C-49`]` **[Advance Payments for Crops Act](https://www.indexdata.org/advance-payments-for-crops-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-47.4`]` **[Critical Cyber Systems Protection Act](https://www.indexdata.org/critical-cyber-systems-protection-act/)** — `2026-09-30` | `82 Pages`
-- `[`C-47`]` **[Criminal Records Act](https://www.indexdata.org/criminal-records-act/)** — `2026-09-30` | `31 Pages`
-- `[`C-46`]` **[Criminal Code](https://www.indexdata.org/criminal-code/)** — `2026-09-30` | `1453 Pages`
-- `[`C-45.9`]` **[Crimes Against Humanity and War Crimes Act](https://www.indexdata.org/crimes-against-humanity-and-war-crimes-act/)** — `2026-09-30` | `31 Pages`
-- `[`C-45.6`]` **[An Act respecting certain measures related to COVID-19](https://www.indexdata.org/an-act-respecting-certain-measures-related-to-covid-19/)** — `2026-09-30` | `4 Pages`
-- `[`C-45.5`]` **[Courts Administration Service Act](https://www.indexdata.org/courts-administration-service-act/)** — `2026-09-30` | `22 Pages`
-- `[`C-45.2`]` **[Corruption of Foreign Public Officials Act](https://www.indexdata.org/corruption-of-foreign-public-officials-act/)** — `2026-09-30` | `9 Pages`
-- `[`C-43`]` **[Corporations Returns Act](https://www.indexdata.org/corporations-returns-act/)** — `2026-09-30` | `18 Pages`
-- `[`C-41.01`]` **[Cooperative Credit Associations Act](https://www.indexdata.org/cooperative-credit-associations-act/)** — `2026-09-30` | `344 Pages`
-- `[`C-4.8`]` **[Canada–European Union Comprehensive Economic and Trade Agreement Implementation Act](https://www.indexdata.org/canada-european-union-comprehensive-economic-and-trade-agreement-implementation-act/)** — `2026-09-30` | `23 Pages`
-- `[`C-38.7`]` **[Contraventions Act](https://www.indexdata.org/contraventions-act/)** — `2026-09-30` | `37 Pages`
-- `[`C-38.5`]` **[An Act to incorporate Continental Bank of Canada](https://www.indexdata.org/an-act-to-incorporate-continental-bank-of-canada/)** — `2026-09-30` | `18 Pages`
-- `[`C-38`]` **[Consumer Packaging and Labelling Act](https://www.indexdata.org/consumer-packaging-and-labelling-act/)** — `2026-09-30` | `20 Pages`
-- `[`C-36.78`]` **[Consumer-Driven Banking Act](https://www.indexdata.org/consumer-driven-banking-act/)** — `2026-09-30` | `85 Pages`
-- `[`C-36.75`]` **[Consumer-Driven Banking Act](https://www.indexdata.org/consumer-driven-banking-act-2/)** — `2026-09-30` | `3 Pages`
-- `[`C-36.71`]` **[Preserving Provincial Representation in the House of Commons Act](https://www.indexdata.org/preserving-provincial-representation-in-the-house-of-commons-act/)** — `2026-09-30` | `7 Pages`
-- `[`C-36.7`]` **[Constitutional Amendments](https://www.indexdata.org/constitutional-amendments/)** — `2026-09-30` | `5 Pages`
-- `[`C-36.65`]` **[Conflict of Interest Act](https://www.indexdata.org/conflict-of-interest-act/)** — `2026-09-30` | `41 Pages`
-- `[`C-36.6`]` **[Condominium Ordinance Validation Act](https://www.indexdata.org/condominium-ordinance-validation-act/)** — `2026-09-30` | `5 Pages`
-- `[`C-36.45`]` **[Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act](https://www.indexdata.org/comprehensive-and-progressive-agreement-for-trans-pacific-partnership-implementation-act/)** — `2026-09-30` | `38 Pages`
-- `[`C-36`]` **[Companies’ Creditors Arrangement Act](https://www.indexdata.org/companies-creditors-arrangement-act/)** — `2026-09-30` | `72 Pages`
-- `[`C-35.3`]` **[Communications Security Establishment Act](https://www.indexdata.org/communications-security-establishment-act/)** — `2026-09-30` | `35 Pages`
-- `[`C-34.6`]` **[Commercial Arbitration Act](https://www.indexdata.org/commercial-arbitration-act/)** — `2026-09-30` | `25 Pages`
-- `[`C-33.3`]` **[Coasting Trade Act](https://www.indexdata.org/coasting-trade-act/)** — `2026-09-30` | `28 Pages`
-- `[`C-31.8`]` **[Clarity Act](https://www.indexdata.org/clarity-act/)** — `2026-09-30` | `8 Pages`
-- `[`C-31.7`]` **[Claim Settlements (Alberta and Saskatchewan) Implementation Act](https://www.indexdata.org/claim-settlements-alberta-and-saskatchewan-implementation-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-31.6`]` **[Civil Service Insurance Act](https://www.indexdata.org/civil-service-insurance-act/)** — `2026-09-30` | `12 Pages`
-- `[`C-31.5`]` **[Civil Marriage Act](https://www.indexdata.org/civil-marriage-act/)** — `2026-09-30` | `10 Pages`
-- `[`C-31.4`]` **[Civil Lunar Gateway Agreement Implementation Act](https://www.indexdata.org/civil-lunar-gateway-agreement-implementation-act/)** — `2026-09-30` | `7 Pages`
-- `[`C-31.3`]` **[Civil International Space Station Agreement Implementation Act](https://www.indexdata.org/civil-international-space-station-agreement-implementation-act/)** — `2026-09-30` | `34 Pages`
-- `[`C-31`]` **[Civilian War-related Benefits Act](https://www.indexdata.org/civilian-war-related-benefits-act/)** — `2026-09-30` | `28 Pages`
-- `[`C-30`]` **[Canada-United Kingdom Civil and Commercial Judgments Convention Act](https://www.indexdata.org/canada-united-kingdom-civil-and-commercial-judgments-convention-act/)** — `2026-09-30` | `12 Pages`
-- `[`C-3.8`]` **[Canada Emission Reduction Incentives Agency Act](https://www.indexdata.org/canada-emission-reduction-incentives-agency-act/)** — `2026-09-30` | `12 Pages`
-- `[`C-3.75`]` **[Canada Emergency Student Benefit Act](https://www.indexdata.org/canada-emergency-student-benefit-act/)** — `2026-09-30` | `10 Pages`
-- `[`C-3.7`]` **[Canada Emergency Response Benefit Act](https://www.indexdata.org/canada-emergency-response-benefit-act/)** — `2026-09-30` | `9 Pages`
-- `[`C-3.65`]` **[Canada–EFTA Free Trade Agreement Implementation Act](https://www.indexdata.org/canada-efta-free-trade-agreement-implementation-act/)** — `2026-09-30` | `11 Pages`
-- `[`C-3.6`]` **[Canada Education Savings Act](https://www.indexdata.org/canada-education-savings-act/)** — `2026-09-30` | `22 Pages`
-- `[`C-3.55`]` **[Canada Early Learning and Child Care Act](https://www.indexdata.org/canada-early-learning-and-child-care-act/)** — `2026-09-30` | `12 Pages`
-- `[`C-3.5`]` **[Canada Disability Savings Act](https://www.indexdata.org/canada-disability-savings-act/)** — `2026-09-30` | `17 Pages`
-- `[`C-3.45`]` **[Canada Disability Benefit Act](https://www.indexdata.org/canada-disability-benefit-act/)** — `2026-09-30` | `12 Pages`
-- `[`C-3.43`]` **[Canada Development Investment Corporation Act](https://www.indexdata.org/canada-development-investment-corporation-act/)** — `2026-09-30` | `12 Pages`
-- `[`C-3.4`]` **[Canada Development Corporation Reorganization Act](https://www.indexdata.org/canada-development-corporation-reorganization-act/)** — `2026-09-30` | `13 Pages`
-- `[`C-3`]` **[Canada Deposit Insurance Corporation Act](https://www.indexdata.org/canada-deposit-insurance-corporation-act/)** — `2026-09-30` | `119 Pages`
-- `[`C-28.51`]` **[Children’s Special Allowances Act](https://www.indexdata.org/childrens-special-allowances-act/)** — `2026-09-30` | `6 Pages`
-- `[`C-28.5`]` **[Children’s Special Allowances Act](https://www.indexdata.org/childrens-special-allowances-act-2/)** — `2026-09-30` | `13 Pages`
-- `[`C-28`]` **[Children of Deceased Veterans Education Assistance Act](https://www.indexdata.org/children-of-deceased-veterans-education-assistance-act/)** — `2026-09-30` | `12 Pages`
-- `[`C-27.7`]` **[Child Day Act](https://www.indexdata.org/child-day-act/)** — `2026-09-30` | `4 Pages`
-- `[`C-27.6`]` **[Chemical Weapons Convention Implementation Act](https://www.indexdata.org/chemical-weapons-convention-implementation-act/)** — `2026-09-30` | `16 Pages`
-- `[`C-27.55`]` **[Charities Registration (Security Information) Act](https://www.indexdata.org/charities-registration-security-information-act/)** — `2026-09-30` | `10 Pages`
-- `[`C-27.5`]` **[Centennial Flame Research Award Act](https://www.indexdata.org/centennial-flame-research-award-act/)** — `2026-09-30` | `6 Pages`
-- `[`C-27.4`]` **[Celebrating Canada’s Seniors Act](https://www.indexdata.org/celebrating-canadas-seniors-act/)** — `2026-09-30` | `5 Pages`
-- `[`C-27.2`]` **[Caughnawaga Indian Reserve Act](https://www.indexdata.org/caughnawaga-indian-reserve-act/)** — `2026-09-30` | `5 Pages`
-- `[`C-26`]` **[Carriage by Air Act](https://www.indexdata.org/carriage-by-air-act/)** — `2026-09-30` | `68 Pages`
-- `[`C-25.2`]` **[Cape Breton Development Corporation Divestiture Authorization and Dissolution Act](https://www.indexdata.org/cape-breton-development-corporation-divestiture-authorization-and-dissolution-act/)** — `2026-09-30` | `5 Pages`
-- `[`C-25`]` **[Cape Breton Development Corporation Act](https://www.indexdata.org/cape-breton-development-corporation-act/)** — `2026-09-30` | `11 Pages`
-- `[`C-24.2`]` **[Canadian Wheat Board (Interim Operations) Act](https://www.indexdata.org/canadian-wheat-board-interim-operations-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-24`]` **[Canadian Wheat Board Act](https://www.indexdata.org/canadian-wheat-board-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-23.7`]` **[Canadian Victims Bill of Rights](https://www.indexdata.org/canadian-victims-bill-of-rights/)** — `2026-09-30` | `16 Pages`
-- `[`C-23.3`]` **[Canadian Tourism Commission Act](https://www.indexdata.org/canadian-tourism-commission-act/)** — `2026-09-30` | `16 Pages`
-- `[`C-23.25`]` **[Canadian Sustainable Jobs Act](https://www.indexdata.org/canadian-sustainable-jobs-act/)** — `2026-09-30` | `18 Pages`
-- `[`C-23.2`]` **[Canadian Space Agency Act](https://www.indexdata.org/canadian-space-agency-act/)** — `2026-09-30` | `12 Pages`
-- `[`C-23.05`]` **[Canadian Securities Regulation Regime Transition Office Act](https://www.indexdata.org/canadian-securities-regulation-regime-transition-office-act/)** — `2026-09-30` | `10 Pages`
-- `[`C-23`]` **[Canadian Security Intelligence Service Act](https://www.indexdata.org/canadian-security-intelligence-service-act/)** — `2026-09-30` | `76 Pages`
-- `[`C-22.4`]` **[Canadian Red Cross Society Act](https://www.indexdata.org/canadian-red-cross-society-act/)** — `2026-09-30` | `9 Pages`
-- `[`C-21.8`]` **[Canadian Race Relations Foundation Act](https://www.indexdata.org/canadian-race-relations-foundation-act/)** — `2026-09-30` | `15 Pages`
-- `[`C-21.3`]` **[Canadian Polar Commission Act](https://www.indexdata.org/canadian-polar-commission-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-21.1`]` **[Canadian Peacekeeping Service Medal Act](https://www.indexdata.org/canadian-peacekeeping-service-medal-act/)** — `2026-09-30` | `6 Pages`
-- `[`C-21`]` **[Canadian Payments Act](https://www.indexdata.org/canadian-payments-act/)** — `2026-09-30` | `41 Pages`
-- `[`C-20`]` **[Canadian Ownership and Control Determination Act](https://www.indexdata.org/canadian-ownership-and-control-determination-act/)** — `2026-09-30` | `23 Pages`
-- `[`C-2`]` **[Canada Council for the Arts Act](https://www.indexdata.org/canada-council-for-the-arts-act/)** — `2026-09-30` | `11 Pages`
-- `[`C-19.3`]` **[Canadian Net-Zero Emissions Accountability Act](https://www.indexdata.org/canadian-net-zero-emissions-accountability-act/)** — `2026-09-30` | `19 Pages`
-- `[`C-19.1`]` **[Canadian National Montreal Terminals Act, 1929](https://www.indexdata.org/canadian-national-montreal-terminals-act-1929/)** — `2026-09-30` | `9 Pages`
-- `[`C-18.7`]` **[Canadian Multiculturalism Act](https://www.indexdata.org/canadian-multiculturalism-act/)** — `2026-09-30` | `10 Pages`
-- `[`C-18.4`]` **[Canadian Jewish Heritage Month Act](https://www.indexdata.org/canadian-jewish-heritage-month-act/)** — `2026-09-30` | `5 Pages`
-- `[`C-18.3`]` **[Canadian International Trade Tribunal Act](https://www.indexdata.org/canadian-international-trade-tribunal-act/)** — `2026-09-30` | `113 Pages`
-- `[`C-18.1`]` **[Canadian Institutes of Health Research Act](https://www.indexdata.org/canadian-institutes-of-health-research-act/)** — `2026-09-30` | `24 Pages`
-- `[`C-17.8`]` **[Canadian High Arctic Research Station Act](https://www.indexdata.org/canadian-high-arctic-research-station-act/)** — `2026-09-30` | `16 Pages`
-- `[`C-17.6`]` **[Canadian Heritage Languages Institute Act](https://www.indexdata.org/canadian-heritage-languages-institute-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-17.3`]` **[Department of Canadian Heritage Act](https://www.indexdata.org/department-of-canadian-heritage-act/)** — `2026-09-30` | `14 Pages`
-- `[`C-17.15`]` **[Canadian Free Trade Agreement Implementation Act](https://www.indexdata.org/canadian-free-trade-agreement-implementation-act/)** — `2026-09-30` | `9 Pages`
-- `[`C-17`]` **[Canadian Forces Superannuation Act](https://www.indexdata.org/canadian-forces-superannuation-act/)** — `2026-09-30` | `73 Pages`
-- `[`C-16.8`]` **[Veterans Well-being Act](https://www.indexdata.org/veterans-well-being-act/)** — `2026-09-30` | `125 Pages`
-- `[`C-16.5`]` **[Canadian Food Inspection Agency Act](https://www.indexdata.org/canadian-food-inspection-agency-act/)** — `2026-09-30` | `22 Pages`
-- `[`C-16`]` **[Telefilm Canada Act](https://www.indexdata.org/telefilm-canada-act/)** — `2026-09-30` | `13 Pages`
-- `[`C-15.21`]` **[Canadian Environmental Assessment Act, 2012](https://www.indexdata.org/canadian-environmental-assessment-act-2012/)** — `2026-09-30` | `3 Pages`
-- `[`C-15.2`]` **[Canadian Environmental Assessment Act](https://www.indexdata.org/canadian-environmental-assessment-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-15`]` **[Canadian Dairy Commission Act](https://www.indexdata.org/canadian-dairy-commission-act/)** — `2026-09-30` | `17 Pages`
-- `[`C-14`]` **[Canadian Commercial Corporation Act](https://www.indexdata.org/canadian-commercial-corporation-act/)** — `2026-09-30` | `10 Pages`
-- `[`C-13.4`]` **[Canadian Centre on Substance Abuse Act](https://www.indexdata.org/canadian-centre-on-substance-abuse-act/)** — `2026-09-30` | `13 Pages`
-- `[`C-12.3`]` **[Canadian Bill of Rights](https://www.indexdata.org/canadian-bill-of-rights/)** — `2026-09-30` | `7 Pages`
-- `[`C-11.7`]` **[Canadian Association of Former Parliamentarians Act](https://www.indexdata.org/canadian-association-of-former-parliamentarians-act/)** — `2026-09-30` | `11 Pages`
-- `[`C-11.4`]` **[Canadian Arsenals Limited Divestiture Authorization Act](https://www.indexdata.org/canadian-arsenals-limited-divestiture-authorization-act/)** — `2026-09-30` | `11 Pages`
-- `[`C-11.01`]` **[Canada Worker Lockdown Benefit Act](https://www.indexdata.org/canada-worker-lockdown-benefit-act/)** — `2026-09-30` | `21 Pages`
-- `[`C-11.001`]` **[Canada Water Agency Act](https://www.indexdata.org/canada-water-agency-act/)** — `2026-09-30` | `8 Pages`
-- `[`C-11`]` **[Canada Water Act](https://www.indexdata.org/canada-water-act/)** — `2026-09-30` | `29 Pages`
-- `[`C-10.7`]` **[Canada–United States Tax Convention Act, 1984](https://www.indexdata.org/canada-united-states-tax-convention-act-1984/)** — `2026-09-30` | `120 Pages`
-- `[`C-10.65`]` **[Canada–United States–Mexico Agreement Implementation Act](https://www.indexdata.org/canada-united-states-mexico-agreement-implementation-act/)** — `2026-09-30` | `35 Pages`
-- `[`C-10.6`]` **[Canada-United States Free Trade Agreement Implementation Act](https://www.indexdata.org/canada-united-states-free-trade-agreement-implementation-act/)** — `2026-09-30` | `13 Pages`
-- `[`C-10.58`]` **[Canada–United States Enhanced Tax Information Exchange Agreement Implementation Act](https://www.indexdata.org/canada-united-states-enhanced-tax-information-exchange-agreement-implementation-act/)** — `2026-09-30` | `51 Pages`
-- `[`C-10.55`]` **[Canada — United Arab Emirates Tax Convention Act, 2002](https://www.indexdata.org/canada-united-arab-emirates-tax-convention-act-2002/)** — `2026-09-30` | `28 Pages`
-- `[`C-10.541`]` **[Canada–Ukraine Free Trade Agreement Implementation Act, 2023](https://www.indexdata.org/canada-ukraine-free-trade-agreement-implementation-act-2023/)** — `2026-09-30` | `12 Pages`
-- `[`C-10.54`]` **[Canada–Ukraine Free Trade Agreement Implementation Act](https://www.indexdata.org/canada-ukraine-free-trade-agreement-implementation-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-10.52`]` **[Canada–Turkey Tax Convention Act, 2010](https://www.indexdata.org/canada-turkey-tax-convention-act-2010/)** — `2026-09-30` | `29 Pages`
-- `[`C-10.5`]` **[Canada Travelling Exhibitions Indemnification Act](https://www.indexdata.org/canada-travelling-exhibitions-indemnification-act/)** — `2026-09-30` | `7 Pages`
-- `[`C-10.3`]` **[Canada Strategic Infrastructure Fund Act](https://www.indexdata.org/canada-strategic-infrastructure-fund-act/)** — `2026-09-30` | `7 Pages`
-- `[`C-10.2`]` **[Canada Small Business Financing Act](https://www.indexdata.org/canada-small-business-financing-act/)** — `2026-09-30` | `17 Pages`
-- `[`C-10.14`]` **[Canada–Serbia Tax Convention Act, 2013](https://www.indexdata.org/canada-serbia-tax-convention-act-2013/)** — `2026-09-30` | `27 Pages`
-- `[`C-10.13`]` **[Canada School of Public Service Act](https://www.indexdata.org/canada-school-of-public-service-act/)** — `2026-09-30` | `13 Pages`
-- `[`C-10.11`]` **[Canada Revenue Agency Act](https://www.indexdata.org/canada-revenue-agency-act/)** — `2026-09-30` | `44 Pages`
-- `[`C-10.10`]` **[Canada Recovery Benefits Act](https://www.indexdata.org/canada-recovery-benefits-act/)** — `2026-09-30` | `33 Pages`
-- `[`C-10.1`]` **[Canada Prize Act](https://www.indexdata.org/canada-prize-act/)** — `2026-09-30` | `9 Pages`
-- `[`C-10`]` **[Canada Post Corporation Act](https://www.indexdata.org/canada-post-corporation-act/)** — `2026-09-30` | `36 Pages`
-- `[`C-1.9`]` **[Canada-Costa Rica Free Trade Agreement Implementation Act](https://www.indexdata.org/canada-costa-rica-free-trade-agreement-implementation-act/)** — `2026-09-30` | `13 Pages`
-- `[`C-1.8`]` **[Canada Corporations Act](https://www.indexdata.org/canada-corporations-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-1.7`]` **[Canada Cooperatives Act](https://www.indexdata.org/canada-cooperatives-act/)** — `2026-09-30` | `259 Pages`
-- `[`C-1.68`]` **[Canada Consumer Product Safety Act](https://www.indexdata.org/canada-consumer-product-safety-act/)** — `2026-09-30` | `48 Pages`
-- `[`C-1.66`]` **[Canada–Colombia Tax Convention Act, 2010](https://www.indexdata.org/canada-colombia-tax-convention-act-2010/)** — `2026-09-30` | `29 Pages`
-- `[`C-1.65`]` **[Canada–Colombia Free Trade Agreement Implementation Act](https://www.indexdata.org/canada-colombia-free-trade-agreement-implementation-act/)** — `2026-09-30` | `14 Pages`
-- `[`C-1.6`]` **[Canada-Chile Free Trade Agreement Implementation Act](https://www.indexdata.org/canada-chile-free-trade-agreement-implementation-act/)** — `2026-09-30` | `74 Pages`
-- `[`C-1.2`]` **[Canada–Azerbaijan Tax Convention Act, 2004](https://www.indexdata.org/canada-azerbaijan-tax-convention-act-2004/)** — `2026-09-30` | `28 Pages`
-- `[`C-0.7`]` **[Canada–Armenia Tax Convention Act, 2004](https://www.indexdata.org/canada-armenia-tax-convention-act-2004/)** — `2026-09-30` | `28 Pages`
-- `[`C-0.5`]` **[Canada and Taiwan Territories Tax Arrangement Act, 2016](https://www.indexdata.org/canada-and-taiwan-territories-tax-arrangement-act-2016/)** — `2026-09-30` | `28 Pages`
-- `[`C-0.4`]` **[Canada Agricultural Products Act](https://www.indexdata.org/canada-agricultural-products-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-0.3`]` **[Campobello-Lubec Bridge Act](https://www.indexdata.org/campobello-lubec-bridge-act/)** — `2026-09-30` | `5 Pages`
-- `[`C-0.2`]` **[CN Commercialization Act](https://www.indexdata.org/cn-commercialization-act/)** — `2026-09-30` | `15 Pages`
-- `[`B-9.9`]` **[Business Development Bank of Canada Act](https://www.indexdata.org/business-development-bank-of-canada-act/)** — `2026-09-30` | `28 Pages`
-- `[`B-9.89`]` **[Building Canada Act](https://www.indexdata.org/building-canada-act/)** — `2026-09-30` | `21 Pages`
-- `[`B-9.88`]` **[Building a Green Prairie Economy Act](https://www.indexdata.org/building-a-green-prairie-economy-act/)** — `2026-09-30` | `6 Pages`
-- `[`B-9.87`]` **[Build Canada Homes Act](https://www.indexdata.org/build-canada-homes-act/)** — `2026-09-30` | `20 Pages`
-- `[`B-9.86`]` **[Buffalo and Fort Erie Public Bridge Company Act](https://www.indexdata.org/buffalo-and-fort-erie-public-bridge-company-act/)** — `2026-09-30` | `16 Pages`
-- `[`B-9.01`]` **[Broadcasting Act](https://www.indexdata.org/broadcasting-act/)** — `2026-09-30` | `82 Pages`
-- `[`B-8.5`]` **[British Columbia Treaty Commission Act](https://www.indexdata.org/british-columbia-treaty-commission-act/)** — `2026-09-30` | `12 Pages`
-- `[`B-8.4`]` **[British Columbia Indian Reserves Mineral Resources Act](https://www.indexdata.org/british-columbia-indian-reserves-mineral-resources-act/)** — `2026-09-30` | `7 Pages`
-- `[`B-8.3`]` **[British Columbia Indian Cut-off Lands Settlement Act](https://www.indexdata.org/british-columbia-indian-cut-off-lands-settlement-act/)** — `2026-09-30` | `6 Pages`
-- `[`B-8.05`]` **[Bridge To Strengthen Trade Act](https://www.indexdata.org/bridge-to-strengthen-trade-act/)** — `2026-09-30` | `15 Pages`
-- `[`B-8`]` **[Bridges Act](https://www.indexdata.org/bridges-act/)** — `2026-09-30` | `10 Pages`
-- `[`B-7`]` **[Bretton Woods and Related Agreements Act](https://www.indexdata.org/bretton-woods-and-related-agreements-act/)** — `2026-09-30` | `182 Pages`
-- `[`B-6.4`]` **[Boucherville Islands Bridge and Tunnel Act](https://www.indexdata.org/boucherville-islands-bridge-and-tunnel-act/)** — `2026-09-30` | `5 Pages`
-- `[`B-6.3`]` **[Borrowing Authority Act](https://www.indexdata.org/borrowing-authority-act/)** — `2026-09-30` | `7 Pages`
-- `[`B-6`]` **[Boards of Trade Act](https://www.indexdata.org/boards-of-trade-act/)** — `2026-09-30` | `21 Pages`
-- `[`B-5.5`]` **[Blue Water Bridge Authority Act](https://www.indexdata.org/blue-water-bridge-authority-act/)** — `2026-09-30` | `3 Pages`
-- `[`B-5.3`]` **[Biological and Toxin Weapons Convention Implementation Act](https://www.indexdata.org/biological-and-toxin-weapons-convention-implementation-act/)** — `2026-09-30` | `3 Pages`
-- `[`B-5`]` **[Bills of Lading Act](https://www.indexdata.org/bills-of-lading-act/)** — `2026-09-30` | `5 Pages`
-- `[`B-4`]` **[Bills of Exchange Act](https://www.indexdata.org/bills-of-exchange-act/)** — `2026-09-30` | `73 Pages`
-- `[`B-3.6`]` **[Bell Canada Act](https://www.indexdata.org/bell-canada-act/)** — `2026-09-30` | `7 Pages`
-- `[`B-3.4`]` **[Beechwood Power Project Act](https://www.indexdata.org/beechwood-power-project-act/)** — `2026-09-30` | `4 Pages`
-- `[`B-2`]` **[Bank of Canada Act](https://www.indexdata.org/bank-of-canada-act/)** — `2026-09-30` | `37 Pages`
-- `[`B-1.7`]` **[Bank of British Columbia Business Continuation Act](https://www.indexdata.org/bank-of-british-columbia-business-continuation-act/)** — `2026-09-30` | `9 Pages`
-- `[`B-1.5`]` **[Bank for International Settlements (Immunity) Act](https://www.indexdata.org/bank-for-international-settlements-immunity-act/)** — `2026-09-30` | `5 Pages`
-- `[`B-0.5`]` **[Bail and Sentencing Reform Act](https://www.indexdata.org/bail-and-sentencing-reform-act/)** — `2026-09-30` | `12 Pages`
-- `[`A-6`]` **[Agricultural Products Marketing Act](https://www.indexdata.org/agricultural-products-marketing-act/)** — `2026-09-30` | `7 Pages`
-- `[`A-5`]` **[Agricultural Products Cooperative Marketing Act](https://www.indexdata.org/agricultural-products-cooperative-marketing-act/)** — `2026-09-30` | `3 Pages`
-- `[`A-3.7`]` **[Agricultural Marketing Programs Act](https://www.indexdata.org/agricultural-marketing-programs-act/)** — `2026-09-30` | `45 Pages`
-- `[`A-3`]` **[Agricultural and Rural Development Act (ARDA)](https://www.indexdata.org/agricultural-and-rural-development-act-arda/)** — `2026-09-30` | `7 Pages`
-- `[`A-2.4`]` **[Agreement on Internal Trade Implementation Act](https://www.indexdata.org/agreement-on-internal-trade-implementation-act/)** — `2026-09-30` | `3 Pages`
-- `[`A-18.8`]` **[Avoiding Complicity in Mistreatment by Foreign Entities Act](https://www.indexdata.org/avoiding-complicity-in-mistreatment-by-foreign-entities-act/)** — `2026-09-30` | `10 Pages`
-- `[`A-17.5`]` **[An Act to confirm the authority of the Federal District Commission to have acquired certain lands](https://www.indexdata.org/an-act-to-confirm-the-authority-of-the-federal-district-commission-to-have-acquired-certain-lands/)** — `2026-09-30` | `4 Pages`
-- `[`A-17`]` **[Auditor General Act](https://www.indexdata.org/auditor-general-act/)** — `2026-09-30` | `22 Pages`
-- `[`A-13`]` **[Asia-Pacific Foundation of Canada Act](https://www.indexdata.org/asia-pacific-foundation-of-canada-act/)** — `2026-09-30` | `19 Pages`
-- `[`A-12.8`]` **[Asian Infrastructure Investment Bank Agreement Act](https://www.indexdata.org/asian-infrastructure-investment-bank-agreement-act/)** — `2026-09-30` | `37 Pages`
-- `[`A-11.91`]` **[Arab Heritage Month Act](https://www.indexdata.org/arab-heritage-month-act/)** — `2026-09-30` | `5 Pages`
-- `[`A-11.9`]` **[Apprentice Loans Act](https://www.indexdata.org/apprentice-loans-act/)** — `2026-09-30` | `16 Pages`
-- `[`A-11.7`]` **[Anti-terrorism Act](https://www.indexdata.org/anti-terrorism-act/)** — `2026-09-30` | `8 Pages`
-- `[`A-11.5`]` **[Anti-Personnel Mines Convention Implementation Act](https://www.indexdata.org/anti-personnel-mines-convention-implementation-act/)** — `2026-09-30` | `30 Pages`
-- `[`A-11.44`]` **[Antarctic Environmental Protection Act](https://www.indexdata.org/antarctic-environmental-protection-act/)** — `2026-09-30` | `63 Pages`
-- `[`A-11.4`]` **[Annulment of Marriages Act (Ontario)](https://www.indexdata.org/annulment-of-marriages-act-ontario/)** — `2026-09-30` | `4 Pages`
-- `[`A-11.31`]` **[Anishinabek Nation Governance Agreement Act](https://www.indexdata.org/anishinabek-nation-governance-agreement-act/)** — `2026-09-30` | `10 Pages`
-- `[`A-11.3`]` **[Anishinabek Nation Education Agreement Act](https://www.indexdata.org/anishinabek-nation-education-agreement-act/)** — `2026-09-30` | `10 Pages`
-- `[`A-11.2`]` **[Animal Pedigree Act](https://www.indexdata.org/animal-pedigree-act/)** — `2026-09-30` | `42 Pages`
-- `[`A-10.7`]` **[Alternative Fuels Act](https://www.indexdata.org/alternative-fuels-act/)** — `2026-09-30` | `7 Pages`
-- `[`A-10.6`]` **[Alberta Natural Resources Act](https://www.indexdata.org/alberta-natural-resources-act/)** — `2026-09-30` | `14 Pages`
-- `[`A-10.5`]` **[Air Travellers Security Charge Act](https://www.indexdata.org/air-travellers-security-charge-act/)** — `2026-09-30` | `77 Pages`
-- `[`A-10.1`]` **[Air Canada Public Participation Act](https://www.indexdata.org/air-canada-public-participation-act/)** — `2026-09-30` | `16 Pages`
-- `[`A-1.3`]` **[Addition of Lands to Reserves and Reserve Creation Act](https://www.indexdata.org/addition-of-lands-to-reserves-and-reserve-creation-act/)** — `2026-09-30` | `10 Pages`
-- `[`A-1`]` **[Access to Information Act](https://www.indexdata.org/access-to-information-act/)** — `2026-09-30` | `118 Pages`
-- `[`A-0.6`]` **[Accessible Canada Act](https://www.indexdata.org/accessible-canada-act/)** — `2026-09-30` | `93 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
 
+- `[`SOR-2001-37`]` **[Railway Safety Management System Regulations](https://www.indexdata.org/railway-safety-management-system-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-297`]` **[Order Declaring the Pickering Lands as an Airport Site](https://www.indexdata.org/order-declaring-the-pickering-lands-as-an-airport-site/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-286`]` **[Transportation of Dangerous Goods Regulations](https://www.indexdata.org/transportation-of-dangerous-goods-regulations/)** — `2026-09-30` | `1007 Pages`
+- `[`SOR-2001-154`]` **[Public Ports and Public Port Facilities Regulations](https://www.indexdata.org/public-ports-and-public-port-facilities-regulations/)** — `2026-09-30` | `41 Pages`
+- `[`SOR-2000-71`]` **[Regulations Excluding Certain Government Ships from the Application of the Canada Shipping Act](https://www.indexdata.org/regulations-excluding-certain-government-ships-from-the-application-of-the-canada-shipping-act/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2000-60`]` **[Portions of the Canada Ports Corporation Divestiture Regulations](https://www.indexdata.org/portions-of-the-canada-ports-corporation-divestiture-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2000-55`]` **[Port Authorities Operations Regulations](https://www.indexdata.org/port-authorities-operations-regulations/)** — `2026-09-30` | `74 Pages`
+- `[`SOR-2000-210`]` **[Nuclear Non-proliferation Import and Export Control Regulations](https://www.indexdata.org/nuclear-non-proliferation-import-and-export-control-regulations/)** — `2026-09-30` | `84 Pages`
+- `[`SOR-2000-208`]` **[Packaging and Transport of Nuclear Substances Regulations](https://www.indexdata.org/packaging-and-transport-of-nuclear-substances-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-132`]` **[General Pilotage Regulations](https://www.indexdata.org/general-pilotage-regulations/)** — `2026-09-30` | `110 Pages`
+- `[`SOR-2000-113`]` **[Insider Reports Exemptions (Banks) Regulations](https://www.indexdata.org/insider-reports-exemptions-banks-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-111`]` **[Canadian Aviation Security Regulations](https://www.indexdata.org/canadian-aviation-security-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-108`]` **[Export Control List Notification Regulations](https://www.indexdata.org/export-control-list-notification-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-1`]` **[Certain Canada Port Authorities Divestiture Regulations](https://www.indexdata.org/certain-canada-port-authorities-divestiture-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SI-99-60`]` **[Reservation to the Crown Waiver Order (Port Radium, N.W.T.)](https://www.indexdata.org/reservation-to-the-crown-waiver-order-port-radium-n-w-t/)** — `2026-09-30` | `5 Pages`
+- `[`SI-99-32`]` **[Order designating the Minister of Industry for the purposes of the Act, as the Minister in relation to small businesses in Quebec, the Minister for the purposes of the Atlantic Canada Opportunities Agency Act in relation to small businesses in the four maritime provinces and the Minister of Western Diversification in relation to small businesses in the four western provinces](https://www.indexdata.org/order-designating-the-minister-of-industry-for-the-purposes-of-the-act-as-the-minister-in-relation-to-small-businesses-in-quebec-the-minister-for-the-purposes-of-the-atlantic-canada-opportunities-ag/)** — `2026-09-30` | `3 Pages`
+- `[`SI-96-85`]` **[Order Designating the Ottawa Macdonald-Cartier International Airport Authority as a Designated Airport Authority and Designating the Date for the Transfer of the Ottawa Macdonald-Cartier International Airport to the Ottawa Macdonald-Cartier International Airport Authority](https://www.indexdata.org/order-designating-the-ottawa-macdonald-cartier-international-airport-authority-as-a-designated-airport-authority-and-designating-the-date-for-the-transfer-of-the-ottawa-macdonald-cartier-international/)** — `2026-09-30` | `4 Pages`
+- `[`SI-96-84`]` **[Order Designating the Winnipeg Airports Authority Inc. as a Designated Airport Authority and Designating the Date for the Transfer of the Winnipeg International Airport to the Winnipeg Airports Authority Inc.](https://www.indexdata.org/order-designating-the-winnipeg-airports-authority-inc-as-a-designated-airport-authority-and-designating-the-date-for-the-transfer-of-the-winnipeg-international-airport-to-the-winnipeg-airports-author/)** — `2026-09-30` | `4 Pages`
+- `[`SI-96-49`]` **[Order Designating the Greater Toronto Airports Authority as a Designated Airport Authority and Designating the Date for the Transfer of the Toronto-Lester B. Pearson International Airport to the Greater Toronto Airport Authority](https://www.indexdata.org/order-designating-the-greater-toronto-airports-authority-as-a-designated-airport-authority-and-designating-the-date-for-the-transfer-of-the-toronto-lester-b-pearson-international-airport-to-the-great/)** — `2026-09-30` | `4 Pages`
+- `[`SI-95-85`]` **[Order Transferring to the Department of Agriculture and Agri-Food the Control and Supervision of the Portion of the Public Service known as the Retail Food Program of the Department of Industry](https://www.indexdata.org/order-transferring-to-the-department-of-agriculture-and-agri-food-the-control-and-supervision-of-the-portion-of-the-public-service-known-as-the-retail-food-program-of-the-department-of-industry/)** — `2026-09-30` | `4 Pages`
+- `[`SI-95-46`]` **[Order Transferring from the Department of Transport to the Department of Fisheries and Oceans the Control and Supervision of the Canadian Coast Guard other Than the Harbours and Ports Directorate and the Regional Harbours and Ports Branches, the Marine Regulatory Directorate, and the Ship Inspection Directorate and the Regional Ship Inspection Branches](https://www.indexdata.org/order-transferring-from-the-department-of-transport-to-the-department-of-fisheries-and-oceans-the-control-and-supervision-of-the-canadian-coast-guard-other-than-the-harbours-and-ports-directorate-and/)** — `2026-09-30` | `4 Pages`
+- `[`SI-95-35`]` **[Order Transferring from the Department of Employment and Immigration to the Department of National Revenue the Control and Supervision of those Portions of the Public Service in the Income Security Programs Branch relating to Child Tax Benefit Program and Special Allowances under the Children’s Special Allowances Act](https://www.indexdata.org/order-transferring-from-the-department-of-employment-and-immigration-to-the-department-of-national-revenue-the-control-and-supervision-of-those-portions-of-the-public-service-in-the-income-security-pr/)** — `2026-09-30` | `5 Pages`
+- `[`SI-95-122`]` **[Temporary Importation of Vessels Remission Order, No. 9](https://www.indexdata.org/temporary-importation-of-vessels-remission-order-no-9/)** — `2026-09-30` | `13 Pages`
+- `[`SI-94-57`]` **[Order Authorizing the Minister of Transport to Prescribe Fees (Pleasure Craft)](https://www.indexdata.org/order-authorizing-the-minister-of-transport-to-prescribe-fees-pleasure-craft/)** — `2026-09-30` | `4 Pages`
+- `[`SI-94-56`]` **[Order Authorizing the Minister of Transport to Prescribe Fees (Ship/Shore Communications Services)](https://www.indexdata.org/order-authorizing-the-minister-of-transport-to-prescribe-fees-ship-shore-communications-services/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-203`]` **[Order Transferring to the Department of External Affairs from the Department of the Solicitor General, the Control and Supervision of the Passport Office](https://www.indexdata.org/order-transferring-to-the-department-of-external-affairs-from-the-department-of-the-solicitor-general-the-control-and-supervision-of-the-passport-office/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-202`]` **[Order Transferring to the Department of Communications the Control and Supervision of Certain Portions of the Public Service and to the Minister of Communications Certain Powers, Duties and Functions of the Secretary of State of Canada and of the Minister of Multiculturalism and Citizenship and Amalgamating and Combining the Departments of Communications and Multiculturalism and Citizenship under the Minister of Communications](https://www.indexdata.org/order-transferring-to-the-department-of-communications-the-control-and-supervision-of-certain-portions-of-the-public-service-and-to-the-minister-of-communications-certain-powers-duties-and-functions/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-201`]` **[Order Transferring to the Secretary of State of Canada Certain Powers, Duties and Functions of the Ministers of Employment and Immigration, the Solicitor General of Canada and Multiculturalism and Citizenship Relating to Immigration and Citizenship and to the Department of the Secretary of State of Canada the Control and Supervision of Certain Portions of the Public Service Relating Thereto](https://www.indexdata.org/order-transferring-to-the-secretary-of-state-of-canada-certain-powers-duties-and-functions-of-the-ministers-of-employment-and-immigration-the-solicitor-general-of-canada-and-multiculturalism-and-cit/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-170`]` **[Order Transferring to the Department of Industry, Science and Technology the Control and Supervision of Certain Portions of the Public Service in the Department of Communications](https://www.indexdata.org/order-transferring-to-the-department-of-industry-science-and-technology-the-control-and-supervision-of-certain-portions-of-the-public-service-in-the-department-of-communications/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-167`]` **[Order Transferring to the Department of National Health and Welfare the Control and Supervision of Certain Portions of the Public Service in the Social Service Programs Branch of the Department of Employment and Immigration](https://www.indexdata.org/order-transferring-to-the-department-of-national-health-and-welfare-the-control-and-supervision-of-certain-portions-of-the-public-service-in-the-social-service-programs-branch-of-the-department-of-emp/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-142`]` **[Order Transferring to the Department of Employment and Immigration the Control and Supervision of Certain Portions of the Public Service and Transferring to the Minister of Employment and Immigration the Powers, Duties and Functions of the Minister of Labour and Amalgamating and Combining the Department of Employment and Immigration and the Department of Labour Under the Minister of Employment and Immigration](https://www.indexdata.org/order-transferring-to-the-department-of-employment-and-immigration-the-control-and-supervision-of-certain-portions-of-the-public-service-and-transferring-to-the-minister-of-employment-and-immigration/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-141`]` **[Order Transferring to the Department of Industry, Science and Technology the Control and Supervision of Certain Portions of the Public Service and Transferring to the Minister of Industry, Science and Technology the Powers, Duties and Functions of the Minister of Consumer and Corporate Affairs and Amalgamating and Combining the Departments of Industry, Science and Technology and the Department of Consumer and Corporate Affairs under the Minister of Industry, Science and Technology](https://www.indexdata.org/order-transferring-to-the-department-of-industry-science-and-technology-the-control-and-supervision-of-certain-portions-of-the-public-service-and-transferring-to-the-minister-of-industry-science-and/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-140`]` **[Order Transferring to the Department of Agriculture the Control and Supervision of those Portions of the Public Service in the Department of Industry, Science and Technology Relating to Agri-Food Processing and Manufacturing and in the Department of Consumer and Corporate Affairs Relating to Agri-Food and Labelling](https://www.indexdata.org/order-transferring-to-the-department-of-agriculture-the-control-and-supervision-of-those-portions-of-the-public-service-in-the-department-of-industry-science-and-technology-relating-to-agri-food-proc/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-39`]` **[Order Designating the National Transportation Act Review Commission as a Department and the Prime Minister as Appropriate Minister](https://www.indexdata.org/order-designating-the-national-transportation-act-review-commission-as-a-department-and-the-prime-minister-as-appropriate-minister/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-168`]` **[Order Transferring to the Canada Employment and Immigration Commission from the Department of External Affairs the Control and Supervision of the Consular, Immigration and Passport Affairs Branch and the Immigration Sections of the Programs Division](https://www.indexdata.org/order-transferring-to-the-canada-employment-and-immigration-commission-from-the-department-of-external-affairs-the-control-and-supervision-of-the-consular-immigration-and-passport-affairs-branch-and/)** — `2026-09-30` | `4 Pages`
+- `[`SI-89-121`]` **[General Export Permit No. Ex. 18 — Portable Personal Computers and Associated Software](https://www.indexdata.org/general-export-permit-no-ex-18-portable-personal-computers-and-associated-software/)** — `2026-09-30` | `5 Pages`
+- `[`SI-87-102`]` **[Goods Imported for Certification Remission Order](https://www.indexdata.org/goods-imported-for-certification-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-85-182`]` **[Courier Imports Remission Order](https://www.indexdata.org/courier-imports-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-85-181`]` **[Postal Imports Remission Order](https://www.indexdata.org/postal-imports-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-83-221`]` **[Air Transportation Tax Remission Order](https://www.indexdata.org/air-transportation-tax-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-83-217`]` **[Minister of Transport Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-transport-authority-to-prescribe-fees-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-83-151`]` **[Imported Spirits for Blending Remission Order](https://www.indexdata.org/imported-spirits-for-blending-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-82-38`]` **[Designating the Advisory Council on the Status of Women as a Portion of the Public Service and Authorizing the President to Exercise and Perform all the Powers and Functions of the Treasury Board in Relation to Personnel Management of the Council](https://www.indexdata.org/designating-the-advisory-council-on-the-status-of-women-as-a-portion-of-the-public-service-and-authorizing-the-president-to-exercise-and-perform-all-the-powers-and-functions-of-the-treasury-board-in-r/)** — `2026-09-30` | `4 Pages`
+- `[`SI-81-86`]` **[Canadian Passport Order](https://www.indexdata.org/canadian-passport-order/)** — `2026-09-30` | `19 Pages`
+- `[`SI-81-61`]` **[Minister of Transport Authority to Prescribe Fees or Charges Order](https://www.indexdata.org/minister-of-transport-authority-to-prescribe-fees-or-charges-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-81-21`]` **[Northern Pipeline Socio-Economic and Environmental Terms and Conditions for the Swift River Portion of the Pipeline in the Province of British Columbia](https://www.indexdata.org/northern-pipeline-socio-economic-and-environmental-terms-and-conditions-for-the-swift-river-portion-of-the-pipeline-in-the-province-of-british-columbia/)** — `2026-09-30` | `42 Pages`
+- `[`SI-81-16`]` **[Minister of Transport Authority to Prescribe Charges Order](https://www.indexdata.org/minister-of-transport-authority-to-prescribe-charges-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-81-125`]` **[Proclamation Declaring the Agreement on Social Security Between Canada and Portugal in Force March 12, 1981](https://www.indexdata.org/proclamation-declaring-the-agreement-on-social-security-between-canada-and-portugal-in-force-march-12-1981/)** — `2026-09-30` | `22 Pages`
+- `[`SI-81-11`]` **[Canada Federal Court Reports Distribution Order](https://www.indexdata.org/canada-federal-court-reports-distribution-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-80-11`]` **[Exported Dairy Products Assistance Payments Order](https://www.indexdata.org/exported-dairy-products-assistance-payments-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-79-39`]` **[Non-Commercial Importations Remission Order](https://www.indexdata.org/non-commercial-importations-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-78-162`]` **[Diplomatic Motor Vehicle Diversion Remission Order](https://www.indexdata.org/diplomatic-motor-vehicle-diversion-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-2026-55`]` **[Order in Council Directing that the Annual Report of the Canadian Nuclear Safety Commission and the Annual Report of the Canada Energy Regulator Board of Directors Be Discontinued](https://www.indexdata.org/order-in-council-directing-that-the-annual-report-of-the-canadian-nuclear-safety-commission-and-the-annual-report-of-the-canada-energy-regulator-board-of-directors-be-discontinued/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-5`]` **[Order Transferring from the Department of Transport to the Department of National Defence the Control and Supervision of the Aircraft Services Directorate](https://www.indexdata.org/order-transferring-from-the-department-of-transport-to-the-department-of-national-defence-the-control-and-supervision-of-the-aircraft-services-directorate/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-28`]` **[Remission Order for Certain Fees Under the Passport and Other Travel Document Services Fees Regulations (March 31, 2026 to April 29, 2026)](https://www.indexdata.org/remission-order-for-certain-fees-under-the-passport-and-other-travel-document-services-fees-regulations-march-31-2026-to-april-29-2026/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-23`]` **[Order in Council Directing that the Annual Report of the Canadian Accessibility Standards Development Organization Be Discontinued](https://www.indexdata.org/order-in-council-directing-that-the-annual-report-of-the-canadian-accessibility-standards-development-organization-be-discontinued/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2026-22`]` **[Order Transferring to the Department of Public Works and Government Services the Control and Supervision of Certain Portions of the Federal Public Administration](https://www.indexdata.org/order-transferring-to-the-department-of-public-works-and-government-services-the-control-and-supervision-of-certain-portions-of-the-federal-public-administration/)** — `2026-09-30` | `5 Pages`
+- `[`SI-2026-13`]` **[United States Surtax Remission Order (Motor Vehicles 2026)](https://www.indexdata.org/united-states-surtax-remission-order-motor-vehicles-2026/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2026-12`]` **[Adjustment of Certain Fees Under the Passport and Other Travel Document Services Fees Regulations Remission Order](https://www.indexdata.org/adjustment-of-certain-fees-under-the-passport-and-other-travel-document-services-fees-regulations-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-2026-1`]` **[Remission Order for Certain Fees Under the Passport and Other Travel Document Services Fees Regulations](https://www.indexdata.org/remission-order-for-certain-fees-under-the-passport-and-other-travel-document-services-fees-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SI-2025-96`]` **[Order Transferring from the Department of Fisheries and Oceans to the Department of National Defence the Control and Supervision of the Canadian Coast Guard and the Canadian Coast Guard Support Services Group](https://www.indexdata.org/order-transferring-from-the-department-of-fisheries-and-oceans-to-the-department-of-national-defence-the-control-and-supervision-of-the-canadian-coast-guard-and-the-canadian-coast-guard-support-servic/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2025-91`]` **[Order Designating the Department of Industry to Provide Support to the Minister of Artificial Intelligence and Digital Innovation](https://www.indexdata.org/order-designating-the-department-of-industry-to-provide-support-to-the-minister-of-artificial-intelligence-and-digital-innovation/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2025-90`]` **[Order Designating the Minister of Transport as the Minister for the Purposes of the Free Trade and Labour Mobility in Canada Act](https://www.indexdata.org/order-designating-the-minister-of-transport-as-the-minister-for-the-purposes-of-the-free-trade-and-labour-mobility-in-canada-act/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2025-85`]` **[Order Designating the Minister of Foreign Affairs as the Minister for the Purposes of the Export and Import Permits Act](https://www.indexdata.org/order-designating-the-minister-of-foreign-affairs-as-the-minister-for-the-purposes-of-the-export-and-import-permits-act/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2025-83`]` **[Order Designating the Minister of Health to Be the Minister for the Purposes of the Physical Activity and Sport Act in Respect of Physical Activity and the Minister of State (Sport) to Be the Minister for the Purposes of that Act in Respect of Sport](https://www.indexdata.org/order-designating-the-minister-of-health-to-be-the-minister-for-the-purposes-of-the-physical-activity-and-sport-act-in-respect-of-physical-activity-and-the-minister-of-state-sport-to-be-the-minister/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2025-75`]` **[Order Designating the Department of Industry and the Department of Canadian Heritage to Provide Support to the Minister of Artificial Intelligence and Digital Innovation](https://www.indexdata.org/order-designating-the-department-of-industry-and-the-department-of-canadian-heritage-to-provide-support-to-the-minister-of-artificial-intelligence-and-digital-innovation/)** — `2026-09-30` | `3 Pages`
 - `[`SI-2025-74`]` **[Order Designating the Department of Public Safety and Emergency Preparedness to Provide Support to the Minister of Emergency Management and Community Resilience](https://www.indexdata.org/order-designating-the-department-of-public-safety-and-emergency-preparedness-to-provide-support-to-the-minister-of-emergency-management-and-community-resilience/)** — `2026-09-30` | `4 Pages`
@@ -1255,48 +1216,69 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/
 - `[`R-5.3`]` **[An Act respecting regulations made pursuant to section 4 of the Aeronautics Act](https://www.indexdata.org/an-act-respecting-regulations-made-pursuant-to-section-4-of-the-aeronautics-act/)** — `2026-09-30` | `6 Pages`
 - `[`R-4.2`]` **[Railway Safety Act](https://www.indexdata.org/railway-safety-act/)** — `2026-09-30` | `95 Pages`
 - `[`Q-1.7`]` **[Quebec Harbor, Port Warden Act](https://www.indexdata.org/quebec-harbor-port-warden-act/)** — `2026-09-30` | `12 Pages`
-- `[`P-15.44`]` **[Port of Montreal Operations Act, 2021](https://www.indexdata.org/port-of-montreal-operations-act-2021/)** — `2026-09-30` | `11 Pages`
-- `[`P-14`]` **[Pilotage Act](https://www.indexdata.org/pilotage-act/)** — `2026-09-30` | `69 Pages`
-- `[`P-13.4`]` **[Physical Activity and Sport Act](https://www.indexdata.org/physical-activity-and-sport-act/)** — `2026-09-30` | `20 Pages`
-- `[`O-2.6`]` **[An Act to amend and consolidate the Acts relating to the office of Port Warden for the Harbour of Montreal](https://www.indexdata.org/an-act-to-amend-and-consolidate-the-acts-relating-to-the-office-of-port-warden-for-the-harbour-of-montreal/)** — `2026-09-30` | `16 Pages`
-- `[`N-26.3`]` **[Northern Transportation Company Limited Disposal Authorization Act](https://www.indexdata.org/northern-transportation-company-limited-disposal-authorization-act/)** — `2026-09-30` | `8 Pages`
-- `[`N-16.7`]` **[National Sports of Canada Act](https://www.indexdata.org/national-sports-of-canada-act/)** — `2026-09-30` | `4 Pages`
-- `[`M-9`]` **[Motor Vehicle Fuel Consumption Standards Act](https://www.indexdata.org/motor-vehicle-fuel-consumption-standards-act/)** — `2026-09-30` | `27 Pages`
-- `[`M-12.01`]` **[Motor Vehicle Transport Act](https://www.indexdata.org/motor-vehicle-transport-act/)** — `2026-09-30` | `15 Pages`
-- `[`M-10.01`]` **[Motor Vehicle Safety Act](https://www.indexdata.org/motor-vehicle-safety-act/)** — `2026-09-30` | `40 Pages`
-- `[`M-0.8`]` **[Marine Transportation Security Act](https://www.indexdata.org/marine-transportation-security-act/)** — `2026-09-30` | `38 Pages`
-- `[`M-0.7`]` **[Marine Liability Act](https://www.indexdata.org/marine-liability-act/)** — `2026-09-30` | `256 Pages`
-- `[`M-0.6`]` **[Marine Insurance Act](https://www.indexdata.org/marine-insurance-act/)** — `2026-09-30` | `42 Pages`
-- `[`M-0.58`]` **[Marine Atlantic Inc. Acquisition Authorization Act](https://www.indexdata.org/marine-atlantic-inc-acquisition-authorization-act/)** — `2026-09-30` | `7 Pages`
-- `[`M-0.56`]` **[Marine War Risks Act](https://www.indexdata.org/marine-war-risks-act/)** — `2026-09-30` | `7 Pages`
-- `[`M-0.25`]` **[Maintenance of Ports Operations Act, 1986](https://www.indexdata.org/maintenance-of-ports-operations-act-1986/)** — `2026-09-30` | `3 Pages`
-- `[`I-3`]` **[Importation of Intoxicating Liquors Act](https://www.indexdata.org/importation-of-intoxicating-liquors-act/)** — `2026-09-30` | `11 Pages`
-- `[`I-20.7`]` **[An Act respecting the mandatory reporting of Internet child sexual abuse and exploitation material by persons who provide an Internet service](https://www.indexdata.org/an-act-respecting-the-mandatory-reporting-of-internet-child-sexual-abuse-and-exploitation-material-by-persons-who-provide-an-internet-service/)** — `2026-09-30` | `10 Pages`
-- `[`F-25`]` **[Fitness and Amateur Sport Act](https://www.indexdata.org/fitness-and-amateur-sport-act/)** — `2026-09-30` | `3 Pages`
-- `[`E-5.8`]` **[Employment Support Act](https://www.indexdata.org/employment-support-act/)** — `2026-09-30` | `10 Pages`
-- `[`E-20`]` **[Export Development Act](https://www.indexdata.org/export-development-act/)** — `2026-09-30` | `23 Pages`
-- `[`E-19`]` **[Export and Import Permits Act](https://www.indexdata.org/export-and-import-permits-act/)** — `2026-09-30` | `51 Pages`
-- `[`E-18.5`]` **[Export and Import of Rough Diamonds Act](https://www.indexdata.org/export-and-import-of-rough-diamonds-act/)** — `2026-09-30` | `21 Pages`
-- `[`E-18`]` **[Export Act](https://www.indexdata.org/export-act/)** — `2026-09-30` | `7 Pages`
-- `[`E-1.5`]` **[Eeyou Marine Region Land Claims Agreement Act](https://www.indexdata.org/eeyou-marine-region-land-claims-agreement-act/)** — `2026-09-30` | `8 Pages`
-- `[`D-3.9`]` **[Donkin Coal Block Development Opportunity Act](https://www.indexdata.org/donkin-coal-block-development-opportunity-act/)** — `2026-09-30` | `12 Pages`
-- `[`C-7.3`]` **[Canada National Marine Conservation Areas Act](https://www.indexdata.org/canada-national-marine-conservation-areas-act/)** — `2026-09-30` | `41 Pages`
-- `[`C-6.7`]` **[Canada Marine Act](https://www.indexdata.org/canada-marine-act/)** — `2026-09-30` | `114 Pages`
-- `[`C-51`]` **[Cultural Property Export and Import Act](https://www.indexdata.org/cultural-property-export-and-import-act/)** — `2026-09-30` | `35 Pages`
-- `[`C-29.7`]` **[Civil Air Navigation Services Commercialization Act](https://www.indexdata.org/civil-air-navigation-services-commercialization-act/)** — `2026-09-30` | `55 Pages`
-- `[`C-23.4`]` **[Canadian Transportation Accident Investigation and Safety Board Act](https://www.indexdata.org/canadian-transportation-accident-investigation-and-safety-board-act/)** — `2026-09-30` | `45 Pages`
-- `[`C-11.2`]` **[Canadian Air Transport Security Authority Act](https://www.indexdata.org/canadian-air-transport-security-authority-act/)** — `2026-09-30` | `19 Pages`
-- `[`C-10.4`]` **[Canada Transportation Act](https://www.indexdata.org/canada-transportation-act/)** — `2026-09-30` | `247 Pages`
-- `[`C-10.15`]` **[Canada Shipping Act, 2001](https://www.indexdata.org/canada-shipping-act-2001/)** — `2026-09-30` | `205 Pages`
-- `[`A-2`]` **[Aeronautics Act](https://www.indexdata.org/aeronautics-act/)** — `2026-09-30` | `116 Pages`
-- `[`A-18.5`]` **[Aviation Industry Indemnity Act](https://www.indexdata.org/aviation-industry-indemnity-act/)** — `2026-09-30` | `10 Pages`
-- `[`A-13.7`]` **[Atlantic Canada Opportunities Agency Act](https://www.indexdata.org/atlantic-canada-opportunities-agency-act/)** — `2026-09-30` | `14 Pages`
-- `[`A-10.4`]` **[Airport Transfer (Miscellaneous Matters) Act](https://www.indexdata.org/airport-transfer-miscellaneous-matters-act/)** — `2026-09-30` | `10 Pages`
-- `[`A-1.5`]` **[Administrative Tribunals Support Service of Canada Act](https://www.indexdata.org/administrative-tribunals-support-service-of-canada-act/)** — `2026-09-30` | `16 Pages`
 
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 
+- `[`SOR-2001-435`]` **[Total Assets for Public Holding Requirements (Trust and Loan Companies) Regulations](https://www.indexdata.org/total-assets-for-public-holding-requirements-trust-and-loan-companies-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-431`]` **[Specialized Financing (Trust And Loan Companies) Regulations](https://www.indexdata.org/specialized-financing-trust-and-loan-companies-regulations/)** — `2026-09-30` | `10 Pages`
+- `[`SOR-2001-426`]` **[Security Certificate Transfer Fee (Banks, Bank Holding Companies, Insurance Companies and Insurance Holding Companies) Regulations](https://www.indexdata.org/security-certificate-transfer-fee-banks-bank-holding-companies-insurance-companies-and-insurance-holding-companies-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-413`]` **[Prospectus (Insurance Companies and Insurance Holding Companies) Regulations](https://www.indexdata.org/prospectus-insurance-companies-and-insurance-holding-companies-regulations-2/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-410`]` **[Name Use in Securities-related Transactions (Insurance Companies and Insurance Holding Companies) Regulations](https://www.indexdata.org/name-use-in-securities-related-transactions-insurance-companies-and-insurance-holding-companies-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-408`]` **[Use of the Word “Bank” by Non-financial Businesses (Excluded Entities) Regulations](https://www.indexdata.org/use-of-the-word-bank-by-non-financial-businesses-excluded-entities-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-406`]` **[Minority Investment (Trust and Loan Companies) Regulations](https://www.indexdata.org/minority-investment-trust-and-loan-companies-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2001-404`]` **[Minority Investment (Insurance Companies) Regulations](https://www.indexdata.org/minority-investment-insurance-companies-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2001-398`]` **[Investment Limits (Trust and Loan Companies) Regulations](https://www.indexdata.org/investment-limits-trust-and-loan-companies-regulations/)** — `2026-09-30` | `16 Pages`
+- `[`SOR-2001-396`]` **[Investment Limits (Insurance Companies) Regulations](https://www.indexdata.org/investment-limits-insurance-companies-regulations/)** — `2026-09-30` | `21 Pages`
+- `[`SOR-2001-389`]` **[Financial Leasing Entity Regulations](https://www.indexdata.org/financial-leasing-entity-regulations/)** — `2026-09-30` | `8 Pages`
+- `[`SOR-2001-386`]` **[Exemption from Restrictions on Investments (Trust and Loan Companies) Regulations](https://www.indexdata.org/exemption-from-restrictions-on-investments-trust-and-loan-companies-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-385`]` **[Exemption from Restrictions on Investments (Insurance Companies, Insurance Holding Companies and Societies) Regulations](https://www.indexdata.org/exemption-from-restrictions-on-investments-insurance-companies-insurance-holding-companies-and-societies-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-379`]` **[Equity of a Trust and Loan Company Regulations](https://www.indexdata.org/equity-of-a-trust-and-loan-company-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-375`]` **[Complaint Information (Trust and Loan Companies) Regulations](https://www.indexdata.org/complaint-information-trust-and-loan-companies-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-373`]` **[Complaint Information (Canadian Insurance Companies) Regulations](https://www.indexdata.org/complaint-information-canadian-insurance-companies-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-372`]` **[Complaint Information (Foreign Insurance Companies) Regulations](https://www.indexdata.org/complaint-information-foreign-insurance-companies-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-2001-368`]` **[Commercial Loan (Insurance Companies, Societies, Insurance Holding Companies and Foreign Companies) Regulations](https://www.indexdata.org/commercial-loan-insurance-companies-societies-insurance-holding-companies-and-foreign-companies-regulations/)** — `2026-09-30` | `10 Pages`
+- `[`SOR-2001-366`]` **[Ancillary Activities (Insurance Companies, Canadian Societies and Insurance Holding Companies) Regulations](https://www.indexdata.org/ancillary-activities-insurance-companies-canadian-societies-and-insurance-holding-companies-regulations/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2001-365`]` **[Aggregate Financial Exposure (Trust and Loan Companies) Regulations](https://www.indexdata.org/aggregate-financial-exposure-trust-and-loan-companies-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-364`]` **[Aggregate Financial Exposure (Insurance Companies) Regulations](https://www.indexdata.org/aggregate-financial-exposure-insurance-companies-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-363`]` **[Aggregate Financial Exposure (Banks) Regulations](https://www.indexdata.org/aggregate-financial-exposure-banks-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-317`]` **[Proceeds of Crime (Money Laundering) and Terrorist Financing Suspicious Transaction Reporting Regulations](https://www.indexdata.org/proceeds-of-crime-money-laundering-and-terrorist-financing-suspicious-transaction-reporting-regulations/)** — `2026-09-30` | `28 Pages`
+- `[`SOR-2001-177`]` **[Assessment of Financial Institutions Regulations, 2001](https://www.indexdata.org/assessment-of-financial-institutions-regulations-2001/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-171`]` **[Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations](https://www.indexdata.org/selected-listed-financial-institutions-attribution-method-gst-hst-regulations/)** — `2026-09-30` | `222 Pages`
+- `[`SOR-2001-170`]` **[Place of Supply (GST/HST) Regulations](https://www.indexdata.org/place-of-supply-gst-hst-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-104`]` **[Cost of Borrowing (Trust and Loan Companies) Regulations](https://www.indexdata.org/cost-of-borrowing-trust-and-loan-companies-regulations/)** — `2026-09-30` | `32 Pages`
+- `[`SOR-2001-103`]` **[Cost of Borrowing (Foreign Insurance Companies) Regulations](https://www.indexdata.org/cost-of-borrowing-foreign-insurance-companies-regulations/)** — `2026-09-30` | `33 Pages`
+- `[`SOR-2001-102`]` **[Cost of Borrowing (Canadian Insurance Companies) Regulations](https://www.indexdata.org/cost-of-borrowing-canadian-insurance-companies-regulations/)** — `2026-09-30` | `32 Pages`
+- `[`SOR-2000-77`]` **[Public Sector Pension Investment Board Regulations](https://www.indexdata.org/public-sector-pension-investment-board-regulations/)** — `2026-09-30` | `20 Pages`
+- `[`SOR-2000-253`]` **[Gasoline Excise Tax Regulations](https://www.indexdata.org/gasoline-excise-tax-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SI-99-81`]` **[Commission for Environmental Cooperation (Director) Remission Order (Part IX of the Excise Tax Act)](https://www.indexdata.org/commission-for-environmental-cooperation-director-remission-order-part-ix-of-the-excise-tax-act/)** — `2026-09-30` | `5 Pages`
+- `[`SI-99-80`]` **[Commission for Environmental Cooperation (Executive Director) Remission Order (Part IX of the Excise Tax Act)](https://www.indexdata.org/commission-for-environmental-cooperation-executive-director-remission-order-part-ix-of-the-excise-tax-act/)** — `2026-09-30` | `5 Pages`
+- `[`SI-99-79`]` **[Commission for Environmental Cooperation Remission Order (Part IX of the Excise Tax Act)](https://www.indexdata.org/commission-for-environmental-cooperation-remission-order-part-ix-of-the-excise-tax-act/)** — `2026-09-30` | `5 Pages`
+- `[`SI-97-104`]` **[Order Designating the Minister of Industry as the Designated Minister for purposes of the Business Development Bank of Canada Act and as appropriate Minister with respect to the Business Development Bank of Canada for purposes of the Financial Administration Act](https://www.indexdata.org/order-designating-the-minister-of-industry-as-the-designated-minister-for-purposes-of-the-business-development-bank-of-canada-act-and-as-appropriate-minister-with-respect-to-the-business-development-b/)** — `2026-09-30` | `3 Pages`
+- `[`SI-96-82`]` **[Income Tax Paid by Investors, other than Promoters Remission Order](https://www.indexdata.org/income-tax-paid-by-investors-other-than-promoters-remission-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-96-80`]` **[Income Tax Paid by Investors, Other Than Promoters Remission Order](https://www.indexdata.org/income-tax-paid-by-investors-other-than-promoters-remission-order-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-96-31`]` **[Order Transferring to the Department of National Revenue the Control and Supervision of that Portion of the Public Service in the Office of the Superintendent of Financial Institutions known as the Pension Advice Section](https://www.indexdata.org/order-transferring-to-the-department-of-national-revenue-the-control-and-supervision-of-that-portion-of-the-public-service-in-the-office-of-the-superintendent-of-financial-institutions-known-as-the-pe/)** — `2026-09-30` | `4 Pages`
+- `[`SI-95-21`]` **[Income Tax Remission Order (Canada Pension Plan)](https://www.indexdata.org/income-tax-remission-order-canada-pension-plan/)** — `2026-09-30` | `4 Pages`
+- `[`SI-94-18`]` **[Order Designating the Minister of Industry, Science and Technology as Minister for Purposes of the Social Sciences and Humanities Research Council Act and as Appropriate Minister with Respect to the Social Sciences and Humanities Research Council for Purposes of the Financial Administration Act](https://www.indexdata.org/order-designating-the-minister-of-industry-science-and-technology-as-minister-for-purposes-of-the-social-sciences-and-humanities-research-council-act-and-as-appropriate-minister-with-respect-to-the-s/)** — `2026-09-30` | `3 Pages`
+- `[`SI-93-44`]` **[Indian Income Tax Remission Order](https://www.indexdata.org/indian-income-tax-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-93-42`]` **[Quebec Family Allowances Income Tax Remission Order, 1992](https://www.indexdata.org/quebec-family-allowances-income-tax-remission-order-1992/)** — `2026-09-30` | `6 Pages`
+- `[`SI-93-235`]` **[Order Designating the Minister of Industry, Science and Technology as Minister for Purposes of the National Research Council Act and as Appropriate Minister with Respect to the National Research Council of Canada for Purposes of the Financial Administration Act](https://www.indexdata.org/order-designating-the-minister-of-industry-science-and-technology-as-minister-for-purposes-of-the-national-research-council-act-and-as-appropriate-minister-with-respect-to-the-national-research-counc/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-234`]` **[Order Designating the Minister of Industry, Science and Technology as Minister for Purposes of the Natural Sciences and Engineering Research Council Act and as Appropriate Minister with Respect to the Natural Sciences and Engineering Research Council for Purposes of the Financial Administration Act](https://www.indexdata.org/order-designating-the-minister-of-industry-science-and-technology-as-minister-for-purposes-of-the-natural-sciences-and-engineering-research-council-act-and-as-appropriate-minister-with-respect-to-the/)** — `2026-09-30` | `3 Pages`
+- `[`SI-93-166`]` **[Indian Income Tax Remission Order](https://www.indexdata.org/indian-income-tax-remission-order-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-108`]` **[Order Designating the Minister for International Trade as Minister for Purposes of the Export Development Act and as Appropriate Minister with Respect to Export Development Canada for Purposes of the Financial Administration Act](https://www.indexdata.org/order-designating-the-minister-for-international-trade-as-minister-for-purposes-of-the-export-development-act-and-as-appropriate-minister-with-respect-to-export-development-canada-for-purposes-of-the/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-10`]` **[Non-Profit Grazing Associations (GST) Remission Order](https://www.indexdata.org/non-profit-grazing-associations-gst-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-92-28`]` **[Farm Equipment Income Tax and Canada Pension Contributions Remission Order](https://www.indexdata.org/farm-equipment-income-tax-and-canada-pension-contributions-remission-order/)** — `2026-09-30` | `7 Pages`
+- `[`SI-92-210`]` **[Visiting Forces (Part IX of the Excise Tax Act) Remission Order](https://www.indexdata.org/visiting-forces-part-ix-of-the-excise-tax-act-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-92-202`]` **[Importations by Certain Processing Service Companies (GST) Remission Order](https://www.indexdata.org/importations-by-certain-processing-service-companies-gst-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-91-153`]` **[Quebec Family Allowances Income Tax Remission Order, 1991](https://www.indexdata.org/quebec-family-allowances-income-tax-remission-order-1991/)** — `2026-09-30` | `6 Pages`
+- `[`SI-91-13`]` **[GST Federal Government Departments Remission Order](https://www.indexdata.org/gst-federal-government-departments-remission-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-90-39`]` **[Order Designating the Minister of Industry, Science and Technology as Minister for Purposes of the Statistics Act and for Purposes of the Financial Administration Act with Respect to Statistics Canada](https://www.indexdata.org/order-designating-the-minister-of-industry-science-and-technology-as-minister-for-purposes-of-the-statistics-act-and-for-purposes-of-the-financial-administration-act-with-respect-to-statistics-canada/)** — `2026-09-30` | `4 Pages`
+- `[`SI-89-157`]` **[Income Earned in Quebec Income Tax Remission Order, 1988](https://www.indexdata.org/income-earned-in-quebec-income-tax-remission-order-1988/)** — `2026-09-30` | `16 Pages`
+- `[`SI-89-128`]` **[Indian Statute-Barred Income Tax Assessment Remission Order](https://www.indexdata.org/indian-statute-barred-income-tax-assessment-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-86-64`]` **[Designating the Civil Aviation Tribunal as a Department; the Minister of Transport as Appropriate Minister for Purposes of the Financial Administration Act and as Minister for Purposes of Section 31 of the Aeronautics Act](https://www.indexdata.org/designating-the-civil-aviation-tribunal-as-a-department-the-minister-of-transport-as-appropriate-minister-for-purposes-of-the-financial-administration-act-and-as-minister-for-purposes-of-section/)** — `2026-09-30` | `4 Pages`
+- `[`SI-79-72`]` **[Customs Tariff Remission Order, 1979](https://www.indexdata.org/customs-tariff-remission-order-1979/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2026-57`]` **[Order Transferring from the Treasury Board Secretariat to Shared Services Canada the Control and Supervision of the Financial Management Transformation Sector and the Enterprise Resource Planning Solutions Division](https://www.indexdata.org/order-transferring-from-the-treasury-board-secretariat-to-shared-services-canada-the-control-and-supervision-of-the-financial-management-transformation-sector-and-the-enterprise-resource-planning-solu/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2025-92`]` **[Order Designating the Minister of Infrastructure and Communities as the Appropriate Minister for the Canada Lands Company Limited for the Purposes of the Financial Administration Act](https://www.indexdata.org/order-designating-the-minister-of-infrastructure-and-communities-as-the-appropriate-minister-for-the-canada-lands-company-limited-for-the-purposes-of-the-financial-administration-act/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2025-81`]` **[Order Transferring from the Minister for International Trade to the Minister of State (U.S. Trade) and the Minister of Foreign Affairs the Powers, Duties and Functions Under Subsection 53(2) of the Customs Tariff](https://www.indexdata.org/order-transferring-from-the-minister-for-international-trade-to-the-minister-of-state-u-s-trade-and-the-minister-of-foreign-affairs-the-powers-duties-and-functions-under-subsection-532-of-the-cu/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2025-54`]` **[Order Designating the Leader of the Government in the House of Commons as the Minister for the Purposes of the Electoral Boundaries Readjustment Suspension Act, 1994](https://www.indexdata.org/order-designating-the-leader-of-the-government-in-the-house-of-commons-as-the-minister-for-the-purposes-of-the-electoral-boundaries-readjustment-suspension-act-1994/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2025-48`]` **[Order Designating the Minister of Industry as the Designated Minister for the purposes of the Business Development Bank of Canada Act and as the appropriate Minister with respect to the Business Development Bank of Canada for the purposes of the Financial Administration Act](https://www.indexdata.org/order-designating-the-minister-of-industry-as-the-designated-minister-for-the-purposes-of-the-business-development-bank-of-canada-act-and-as-the-appropriate-minister-with-respect-to-the-business-devel/)** — `2026-09-30` | `4 Pages`
@@ -1331,80 +1313,19 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-fin
 - `[`P-7.01`]` **[Pension Benefits Standards Act, 1985](https://www.indexdata.org/pension-benefits-standards-act-1985/)** — `2026-09-30` | `106 Pages`
 - `[`P-6.7`]` **[Pension Benefits Division Act](https://www.indexdata.org/pension-benefits-division-act/)** — `2026-09-30` | `14 Pages`
 - `[`P-6`]` **[Pension Act](https://www.indexdata.org/pension-act/)** — `2026-09-30` | `91 Pages`
-- `[`P-33.6`]` **[Public Service Pension Adjustment Act](https://www.indexdata.org/public-service-pension-adjustment-act/)** — `2026-09-30` | `13 Pages`
-- `[`P-31.8`]` **[Public Sector Pension Reform](https://www.indexdata.org/public-sector-pension-reform/)** — `2026-09-30` | `9 Pages`
-- `[`P-31.7`]` **[Public Sector Pension Investment Board Act](https://www.indexdata.org/public-sector-pension-investment-board-act/)** — `2026-09-30` | `34 Pages`
-- `[`P-31.4`]` **[Public Pensions Reporting Act](https://www.indexdata.org/public-pensions-reporting-act/)** — `2026-09-30` | `8 Pages`
-- `[`P-24.501`]` **[Proceeds of Crime (Money Laundering) and Terrorist Financing Act](https://www.indexdata.org/proceeds-of-crime-money-laundering-and-terrorist-financing-act/)** — `2026-09-30` | `170 Pages`
-- `[`P-15.3`]` **[Pooled Registered Pension Plans Act](https://www.indexdata.org/pooled-registered-pension-plans-act/)** — `2026-09-30` | `55 Pages`
-- `[`O-2.7`]` **[Office of the Superintendent of Financial Institutions Act](https://www.indexdata.org/office-of-the-superintendent-of-financial-institutions-act/)** — `2026-09-30` | `32 Pages`
-- `[`N-23`]` **[Newfoundland and Labrador Additional Financial Assistance Act](https://www.indexdata.org/newfoundland-and-labrador-additional-financial-assistance-act/)** — `2026-09-30` | `4 Pages`
-- `[`I-4`]` **[Income Tax Conventions Interpretation Act](https://www.indexdata.org/income-tax-conventions-interpretation-act/)** — `2026-09-30` | `12 Pages`
-- `[`I-3.55`]` **[Income Tax Conventions Implementation Act, 2001](https://www.indexdata.org/income-tax-conventions-implementation-act-2001/)** — `2026-09-30` | `171 Pages`
-- `[`I-3.54`]` **[Income Tax Conventions Implementation Act, 1999](https://www.indexdata.org/income-tax-conventions-implementation-act-1999/)** — `2026-09-30` | `206 Pages`
-- `[`I-3.53`]` **[Income Tax Conventions Implementation Act, 1998](https://www.indexdata.org/income-tax-conventions-implementation-act-1998/)** — `2026-09-30` | `75 Pages`
-- `[`I-3.52`]` **[Income Tax Conventions Implementation Act, 1997](https://www.indexdata.org/income-tax-conventions-implementation-act-1997/)** — `2026-09-30` | `133 Pages`
-- `[`I-3.51`]` **[Income Tax Conventions Implementation Act, 1996](https://www.indexdata.org/income-tax-conventions-implementation-act-1996/)** — `2026-09-30` | `124 Pages`
-- `[`I-3.5`]` **[Income Tax Conventions Implementation Act, 1995](https://www.indexdata.org/income-tax-conventions-implementation-act-1995/)** — `2026-09-30` | `77 Pages`
-- `[`I-3.31`]` **[Income Tax Application Rules](https://www.indexdata.org/income-tax-application-rules/)** — `2026-09-30` | `89 Pages`
-- `[`I-3.3`]` **[Income Tax Act](https://www.indexdata.org/income-tax-act/)** — `2026-09-30` | `3827 Pages`
-- `[`I-19.3`]` **[International Financial Assistance Act](https://www.indexdata.org/international-financial-assistance-act/)** — `2026-09-30` | `8 Pages`
-- `[`I-18.1`]` **[An Act concerning an order under the International Development (Financial Institutions) Assistance Act](https://www.indexdata.org/an-act-concerning-an-order-under-the-international-development-financial-institutions-assistance-act/)** — `2026-09-30` | `4 Pages`
-- `[`I-18`]` **[International Development (Financial Institutions) Assistance Act](https://www.indexdata.org/international-development-financial-institutions-assistance-act/)** — `2026-09-30` | `9 Pages`
-- `[`I-11.8`]` **[Insurance Companies Act](https://www.indexdata.org/insurance-companies-act/)** — `2026-09-30` | `792 Pages`
-- `[`H-0.5`]` **[Halifax Relief Commission Pension Continuation Act](https://www.indexdata.org/halifax-relief-commission-pension-continuation-act/)** — `2026-09-30` | `8 Pages`
-- `[`G-2`]` **[Garnishment, Attachment and Pension Diversion Act](https://www.indexdata.org/garnishment-attachment-and-pension-diversion-act/)** — `2026-09-30` | `36 Pages`
-- `[`F-5.8`]` **[Federal Balanced Budget Act](https://www.indexdata.org/federal-balanced-budget-act/)** — `2026-09-30` | `3 Pages`
-- `[`F-11.66`]` **[First Nations Financial Transparency Act](https://www.indexdata.org/first-nations-financial-transparency-act/)** — `2026-09-30` | `9 Pages`
-- `[`F-11.4`]` **[Financial Institutions Depositors Compensation Act](https://www.indexdata.org/financial-institutions-depositors-compensation-act/)** — `2026-09-30` | `12 Pages`
-- `[`F-11.3`]` **[Financial Institutions and Deposit Insurance System Amendment Act](https://www.indexdata.org/financial-institutions-and-deposit-insurance-system-amendment-act/)** — `2026-09-30` | `7 Pages`
-- `[`F-11.2`]` **[Financial Institutions](https://www.indexdata.org/financial-institutions/)** — `2026-09-30` | `8 Pages`
-- `[`F-11.1`]` **[Financial Consumer Agency of Canada Act](https://www.indexdata.org/financial-consumer-agency-of-canada-act/)** — `2026-09-30` | `32 Pages`
-- `[`F-11`]` **[Financial Administration Act](https://www.indexdata.org/financial-administration-act/)** — `2026-09-30` | `180 Pages`
-- `[`E-3.1`]` **[Electoral Boundaries Readjustment Suspension Act, 1994](https://www.indexdata.org/electoral-boundaries-readjustment-suspension-act-1994/)** — `2026-09-30` | `5 Pages`
-- `[`E-15`]` **[Excise Tax Act](https://www.indexdata.org/excise-tax-act/)** — `2026-09-30` | `1256 Pages`
-- `[`E-14.1`]` **[Excise Act, 2001](https://www.indexdata.org/excise-act-2001/)** — `2026-09-30` | `316 Pages`
-- `[`E-14`]` **[Excise Act](https://www.indexdata.org/excise-act/)** — `2026-09-30` | `153 Pages`
-- `[`D-1.3`]` **[Defence Services Pension Continuation Act](https://www.indexdata.org/defence-services-pension-continuation-act/)** — `2026-09-30` | `31 Pages`
-- `[`C-8.3`]` **[Canada Pension Plan Investment Board Act](https://www.indexdata.org/canada-pension-plan-investment-board-act/)** — `2026-09-30` | `44 Pages`
-- `[`C-8`]` **[Canada Pension Plan](https://www.indexdata.org/canada-pension-plan/)** — `2026-09-30` | `269 Pages`
-- `[`C-6.5`]` **[Canada–Korea Income Tax Convention Act, 1980](https://www.indexdata.org/canada-korea-income-tax-convention-act-1980/)** — `2026-09-30` | `28 Pages`
-- `[`C-6.18`]` **[Canada Infrastructure Bank Act](https://www.indexdata.org/canada-infrastructure-bank-act/)** — `2026-09-30` | `16 Pages`
-- `[`C-54.011`]` **[Customs Tariff](https://www.indexdata.org/customs-tariff/)** — `2026-09-30` | `247 Pages`
-- `[`C-53`]` **[Customs and Excise Offshore Application Act](https://www.indexdata.org/customs-and-excise-offshore-application-act/)** — `2026-09-30` | `11 Pages`
-- `[`C-17.2`]` **[Canadian Gender Budgeting Act](https://www.indexdata.org/canadian-gender-budgeting-act/)** — `2026-09-30` | `6 Pages`
-- `[`C-13.7`]` **[Canadian Commercial Bank Financial Assistance Act](https://www.indexdata.org/canadian-commercial-bank-financial-assistance-act/)** — `2026-09-30` | `5 Pages`
-- `[`C-1.5`]` **[Canada-Brazil Income Tax Convention Act, 1984](https://www.indexdata.org/canada-brazil-income-tax-convention-act-1984/)** — `2026-09-30` | `25 Pages`
-- `[`C-1.3`]` **[Canada-Belgium Income Tax Convention Act, 1976](https://www.indexdata.org/canada-belgium-income-tax-convention-act-1976/)** — `2026-09-30` | `30 Pages`
-- `[`C-0.6`]` **[Canada-Argentina Income Tax Convention Act, 1994](https://www.indexdata.org/canada-argentina-income-tax-convention-act-1994/)** — `2026-09-30` | `28 Pages`
-- `[`B-9.8598`]` **[Budget 2025 Implementation Act, No. 1](https://www.indexdata.org/budget-2025-implementation-act-no-1/)** — `2026-09-30` | `74 Pages`
-- `[`B-9.8596`]` **[Budget Implementation Act, 2024, No. 1](https://www.indexdata.org/budget-implementation-act-2024-no-1/)** — `2026-09-30` | `57 Pages`
-- `[`B-9.8595`]` **[Budget Implementation Act, 2022, No. 1](https://www.indexdata.org/budget-implementation-act-2022-no-1/)** — `2026-09-30` | `58 Pages`
-- `[`B-9.8594`]` **[Budget Implementation Act, 2021, No. 1](https://www.indexdata.org/budget-implementation-act-2021-no-1/)** — `2026-09-30` | `57 Pages`
-- `[`B-9.8593`]` **[Budget Implementation Act, 2019, No. 1](https://www.indexdata.org/budget-implementation-act-2019-no-1/)** — `2026-09-30` | `58 Pages`
-- `[`B-9.8592`]` **[Budget Implementation Act, 2018, No. 1](https://www.indexdata.org/budget-implementation-act-2018-no-1/)** — `2026-09-30` | `43 Pages`
-- `[`B-9.8591`]` **[Budget Implementation Act, 2017, No. 2](https://www.indexdata.org/budget-implementation-act-2017-no-2/)** — `2026-09-30` | `23 Pages`
-- `[`B-9.859`]` **[Budget Implementation Act, 2017, No. 1](https://www.indexdata.org/budget-implementation-act-2017-no-1/)** — `2026-09-30` | `40 Pages`
-- `[`B-9.858`]` **[Budget Implementation Act, 2009](https://www.indexdata.org/budget-implementation-act-2009/)** — `2026-09-30` | `53 Pages`
-- `[`B-9.857`]` **[Budget Implementation Act, 2008](https://www.indexdata.org/budget-implementation-act-2008/)** — `2026-09-30` | `22 Pages`
-- `[`B-9.856`]` **[Budget Implementation Act, 2007](https://www.indexdata.org/budget-implementation-act-2007/)** — `2026-09-30` | `24 Pages`
-- `[`B-9.855`]` **[Budget Implementation Act, 2006](https://www.indexdata.org/budget-implementation-act-2006/)** — `2026-09-30` | `23 Pages`
-- `[`B-9.854`]` **[Budget Implementation Act, 2005](https://www.indexdata.org/budget-implementation-act-2005/)** — `2026-09-30` | `25 Pages`
-- `[`B-9.853`]` **[Budget Implementation Act, 2004, No. 2](https://www.indexdata.org/budget-implementation-act-2004-no-2/)** — `2026-09-30` | `8 Pages`
-- `[`B-9.852`]` **[Budget Implementation Act, 2004](https://www.indexdata.org/budget-implementation-act-2004/)** — `2026-09-30` | `11 Pages`
-- `[`B-9.851`]` **[Budget Implementation Act, 2003](https://www.indexdata.org/budget-implementation-act-2003/)** — `2026-09-30` | `18 Pages`
-- `[`B-9.85`]` **[Budget Implementation Act, 2001](https://www.indexdata.org/budget-implementation-act-2001/)** — `2026-09-30` | `8 Pages`
-- `[`B-9.84`]` **[Budget Implementation Act, 2000](https://www.indexdata.org/budget-implementation-act-2000/)** — `2026-09-30` | `13 Pages`
-- `[`B-9.83`]` **[Budget Implementation Act, 1999](https://www.indexdata.org/budget-implementation-act-1999/)** — `2026-09-30` | `7 Pages`
-- `[`B-9.82`]` **[Budget Implementation Act, 1998](https://www.indexdata.org/budget-implementation-act-1998/)** — `2026-09-30` | `13 Pages`
-- `[`B-9.81`]` **[Budget Implementation Act, 1997](https://www.indexdata.org/budget-implementation-act-1997/)** — `2026-09-30` | `31 Pages`
-- `[`B-9.8`]` **[Budget Implementation Act, 1995](https://www.indexdata.org/budget-implementation-act-1995/)** — `2026-09-30` | `10 Pages`
-- `[`B-9.6`]` **[Budget and Economic Statement Implementation Act, 2007](https://www.indexdata.org/budget-and-economic-statement-implementation-act-2007/)** — `2026-09-30` | `21 Pages`
-- `[`B-1.01`]` **[Bank Act](https://www.indexdata.org/bank-act/)** — `2026-09-30` | `892 Pages`
 
 ### [Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/)
 
+- `[`SOR-2001-258`]` **[Order Authorizing Federal Employees to Acquire Interests in Certain Lands in the Northwest Territories (Order No. 1, 2001)](https://www.indexdata.org/order-authorizing-federal-employees-to-acquire-interests-in-certain-lands-in-the-northwest-territories-order-no-1-2001/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2001-220`]` **[Nunavut Archaeological and Palaeontological Sites Regulations](https://www.indexdata.org/nunavut-archaeological-and-palaeontological-sites-regulations/)** — `2026-09-30` | `12 Pages`
+- `[`SOR-2001-219`]` **[Northwest Territories Archaeological Sites Regulations](https://www.indexdata.org/northwest-territories-archaeological-sites-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-182`]` **[Proclamation establishing three different time zones in Nunavut, for the purposes of the definition of “standard time” in the Interpretation Act](https://www.indexdata.org/proclamation-establishing-three-different-time-zones-in-nunavut-for-the-purposes-of-the-definition-of-standard-time-in-the-interpretation-act/)** — `2026-09-30` | `5 Pages`
+- `[`SI-99-53`]` **[Withdrawal from Disposal Order Aulavik (Banks Island) National Park, Northwest Territories](https://www.indexdata.org/withdrawal-from-disposal-order-aulavik-banks-island-national-park-northwest-territories/)** — `2026-09-30` | `9 Pages`
+- `[`SI-97-93`]` **[Order Respecting the Withdrawal from Disposal of Certain Lands in the Yukon Territory (Dawson First Nation, Y.T.)](https://www.indexdata.org/order-respecting-the-withdrawal-from-disposal-of-certain-lands-in-the-yukon-territory-dawson-first-nation-y-t/)** — `2026-09-30` | `7 Pages`
+- `[`SI-90-11`]` **[Crown Waiver Order (Northwest Territories)](https://www.indexdata.org/crown-waiver-order-northwest-territories/)** — `2026-09-30` | `5 Pages`
+- `[`SI-86-177`]` **[Designating the City of Ottawa as the Place for the Head Office of the Cree-Naskapi Commission](https://www.indexdata.org/designating-the-city-of-ottawa-as-the-place-for-the-head-office-of-the-cree-naskapi-commission/)** — `2026-09-30` | `4 Pages`
+- `[`SI-85-200`]` **[Approved Screening Devices Order](https://www.indexdata.org/approved-screening-devices-order-2/)** — `2026-09-30` | `3 Pages`
 - `[`SI-2025-31`]` **[Order Transferring from the Minister of Indigenous Services to the Minister of Industry the Powers, Duties and Functions in Relation to the Federal Economic Development Agency for Northern Ontario](https://www.indexdata.org/order-transferring-from-the-minister-of-indigenous-services-to-the-minister-of-industry-the-powers-duties-and-functions-in-relation-to-the-federal-economic-development-agency-for-northern-ontario/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2024-22`]` **[Withdrawal from Disposal of Certain Tracts of Territorial Lands in Nunavut (Kivalliq area) Order](https://www.indexdata.org/withdrawal-from-disposal-of-certain-tracts-of-territorial-lands-in-nunavut-kivalliq-area-order/)** — `2026-09-30` | `7 Pages`
 - `[`SI-2022-10`]` **[Withdrawal from Disposal of Certain Tracts of Territorial Lands in Nunavut (Bathurst Island) Order](https://www.indexdata.org/withdrawal-from-disposal-of-certain-tracts-of-territorial-lands-in-nunavut-bathurst-island-order/)** — `2026-09-30` | `8 Pages`
@@ -1472,162 +1393,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/crown-indigenous-
 - `[`S-7.2`]` **[Security Screening Services Commercialization Act](https://www.indexdata.org/security-screening-services-commercialization-act/)** — `2026-09-30` | `28 Pages`
 - `[`S-15.7`]` **[Split Lake Cree First Nation Flooded Land Act](https://www.indexdata.org/split-lake-cree-first-nation-flooded-land-act/)** — `2026-09-30` | `6 Pages`
 - `[`S-1.04`]` **[Safe Drinking Water for First Nations Act](https://www.indexdata.org/safe-drinking-water-for-first-nations-act/)** — `2026-09-30` | `3 Pages`
-- `[`N-28.8`]` **[Nunavut Waters and Nunavut Surface Rights Tribunal Act](https://www.indexdata.org/nunavut-waters-and-nunavut-surface-rights-tribunal-act/)** — `2026-09-30` | `98 Pages`
-- `[`N-28.75`]` **[Nunavut Planning and Project Assessment Act](https://www.indexdata.org/nunavut-planning-and-project-assessment-act/)** — `2026-09-30` | `133 Pages`
-- `[`N-28.7`]` **[Nunavut Land Claims Agreement Act](https://www.indexdata.org/nunavut-land-claims-agreement-act/)** — `2026-09-30` | `8 Pages`
-- `[`N-28.6`]` **[Nunavut Act](https://www.indexdata.org/nunavut-act/)** — `2026-09-30` | `44 Pages`
-- `[`N-28.5`]` **[Nunavik Inuit Land Claims Agreement Act](https://www.indexdata.org/nunavik-inuit-land-claims-agreement-act/)** — `2026-09-30` | `8 Pages`
-- `[`N-27.3`]` **[Northwest Territories Waters Act](https://www.indexdata.org/northwest-territories-waters-act/)** — `2026-09-30` | `3 Pages`
-- `[`N-27.1`]` **[Northwest Territories Surface Rights Board Act](https://www.indexdata.org/northwest-territories-surface-rights-board-act/)** — `2026-09-30` | `3 Pages`
-- `[`N-27.05`]` **[Northwest Territories Act](https://www.indexdata.org/northwest-territories-act/)** — `2026-09-30` | `38 Pages`
-- `[`N-27`]` **[Northwest Territories Act](https://www.indexdata.org/northwest-territories-act-2/)** — `2026-09-30` | `3 Pages`
-- `[`N-24.5`]` **[Northern Canada Power Commission Yukon Assets Disposal Authorization Act](https://www.indexdata.org/northern-canada-power-commission-yukon-assets-disposal-authorization-act/)** — `2026-09-30` | `10 Pages`
-- `[`M-0.55`]` **[Maanulth First Nations Final Agreement Act](https://www.indexdata.org/maanulth-first-nations-final-agreement-act/)** — `2026-09-30` | `11 Pages`
-- `[`M-0.53`]` **[Manitoba Claim Settlement Implementation Act (Norway House Cree Nation)](https://www.indexdata.org/manitoba-claim-settlement-implementation-act-norway-house-cree-nation/)** — `2026-09-30` | `8 Pages`
-- `[`L-4.3`]` **[Labrador Inuit Land Claims Agreement Act](https://www.indexdata.org/labrador-inuit-land-claims-agreement-act/)** — `2026-09-30` | `11 Pages`
-- `[`I-7.88`]` **[Department of Indigenous Services Act](https://www.indexdata.org/department-of-indigenous-services-act/)** — `2026-09-30` | `11 Pages`
-- `[`I-7.85`]` **[Indigenous Languages Act](https://www.indexdata.org/indigenous-languages-act/)** — `2026-09-30` | `26 Pages`
-- `[`I-5.3`]` **[Indian Act Amendment and Replacement Act](https://www.indexdata.org/indian-act-amendment-and-replacement-act/)** — `2026-09-30` | `5 Pages`
-- `[`I-5`]` **[Indian Act](https://www.indexdata.org/indian-act/)** — `2026-09-30` | `82 Pages`
-- `[`F-11.8`]` **[First Nations Land Management Act](https://www.indexdata.org/first-nations-land-management-act/)** — `2026-09-30` | `3 Pages`
-- `[`F-11.75`]` **[First Nations Jurisdiction over Education in British Columbia Act](https://www.indexdata.org/first-nations-jurisdiction-over-education-in-british-columbia-act/)** — `2026-09-30` | `16 Pages`
-- `[`F-11.73`]` **[An Act respecting First Nations, Inuit and Métis children, youth and families](https://www.indexdata.org/an-act-respecting-first-nations-inuit-and-metis-children-youth-and-families/)** — `2026-09-30` | `21 Pages`
-- `[`F-11.7`]` **[First Nations Goods and Services Tax Act](https://www.indexdata.org/first-nations-goods-and-services-tax-act/)** — `2026-09-30` | `60 Pages`
-- `[`F-11.67`]` **[First Nations Fiscal Management Act](https://www.indexdata.org/first-nations-fiscal-management-act/)** — `2026-09-30` | `114 Pages`
-- `[`F-11.65`]` **[First Nations Elections Act](https://www.indexdata.org/first-nations-elections-act/)** — `2026-09-30` | `35 Pages`
-- `[`F-11.64`]` **[First Nations Commercial and Industrial Development Act](https://www.indexdata.org/first-nations-commercial-and-industrial-development-act/)** — `2026-09-30` | `12 Pages`
-- `[`C-49.8`]` **[Department of Crown-Indigenous Relations and Northern Affairs Act](https://www.indexdata.org/department-of-crown-indigenous-relations-and-northern-affairs-act/)** — `2026-09-30` | `14 Pages`
-- `[`C-45.75`]` **[Cree Nation of Eeyou Istchee Governance Agreement Act](https://www.indexdata.org/cree-nation-of-eeyou-istchee-governance-agreement-act/)** — `2026-09-30` | `14 Pages`
-- `[`C-45.7`]` **[Naskapi and the Cree-Naskapi Commission Act](https://www.indexdata.org/naskapi-and-the-cree-naskapi-commission-act/)** — `2026-09-30` | `101 Pages`
-- `[`C-10.56`]` **[Canada–United Kingdom Trade Continuity Agreement Implementation Act](https://www.indexdata.org/canada-united-kingdom-trade-continuity-agreement-implementation-act/)** — `2026-09-30` | `25 Pages`
-
-### [Government and Municipalities of Québec](https://www.indexdata.org/canada/government-and-municipalities-of-qu-bec/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/government-and-municipalities-of-qu-bec/](https://www.indexdata.org/canada/government-and-municipalities-of-qu-bec/) | [RSS Feed](https://www.indexdata.org/canada/government-and-municipalities-of-qu-bec/feed/)
-
-- `[`CA-OPEN-175c123b-6bf4-4014-a4a5-9ad5af64acd4`]` **[Periphyton monitoring in lakes](https://www.indexdata.org/periphyton-monitoring-in-lakes/)** — `2026-06-18` | `4 Pages`
-- `[`CA-OPEN-76c29a38-21a4-4df9-88a5-2a1e0e7574cb`]` **[Physicochemical and bacteriological temporal trends in surface water](https://www.indexdata.org/physicochemical-and-bacteriological-temporal-trends-in-surface-water/)** — `2026-05-13` | `4 Pages`
-- `[`CA-OPEN-56b92582-1317-4648-ba82-2cd564768998`]` **[Change in forest cover detected by satellite imagery](https://www.indexdata.org/change-in-forest-cover-detected-by-satellite-imagery/)** — `2026-03-10` | `2 Pages`
-- `[`CA-OPEN-3eec3d05-61c1-4bcb-bf22-2d4bd71e2c0d`]` **[Orthorectified imagery from Quebec](https://www.indexdata.org/orthorectified-imagery-from-quebec/)** — `2025-12-03` | `25 Pages`
-- `[`CA-OPEN-55161f91-1e82-407a-94c0-e46a2bc13121`]` **[MED-ECHO - S19 Report - Summary of stays related to the effects or sequelae of an accident](https://www.indexdata.org/med-echo-s19-report-summary-of-stays-related-to-the-effects-or-sequelae-of-an-accident/)** — `2025-11-04` | `2 Pages`
-- `[`CA-OPEN-0be79cff-9cdf-4d4a-a4e7-f09ba7e8dddf`]` **[MED-ECHO - S18 Report - Number of days in intensive care by hospital center](https://www.indexdata.org/med-echo-s18-report-number-of-days-in-intensive-care-by-hospital-center/)** — `2025-11-04` | `2 Pages`
-- `[`CA-OPEN-ff725b35-4fba-4be0-ab64-811866b9330a`]` **[Lake Quebec Bathymetry Geobase (GBLQ)](https://www.indexdata.org/lake-quebec-bathymetry-geobase-gblq/)** — `2025-10-06` | `2 Pages`
-- `[`CA-OPEN-5d875628-c276-4f5b-9c76-d8c46ee20a66`]` **[Quebec road network reference system](https://www.indexdata.org/quebec-road-network-reference-system/)** — `2025-10-03` | `28 Pages`
-- `[`CA-OPEN-2b9c7a3c-f655-4e3a-9a53-cc28609e4801`]` **[Ungrouped list of work stoppages in Quebec](https://www.indexdata.org/ungrouped-list-of-work-stoppages-in-quebec/)** — `2025-08-29` | `2 Pages`
-- `[`CA-OPEN-ba2c19ec-e7c5-468b-83df-c5879263c925`]` **[Geobase of the Quebec hydrographic network at high resolution (GRHQ-HR)](https://www.indexdata.org/geobase-of-the-quebec-hydrographic-network-at-high-resolution-grhq-hr/)** — `2025-05-16` | `40 Pages`
-- `[`CA-OPEN-77ec9009-b733-4f09-ade3-99d7b2156ad4`]` **[Original ecoforest map and results of the fourth inventory](https://www.indexdata.org/original-ecoforest-map-and-results-of-the-fourth-inventory/)** — `2024-12-06` | `15 Pages`
-- `[`CA-OPEN-fcaea517-72ba-49b8-8b8f-d71e9abb30bf`]` **[Certified independent forest advisor](https://www.indexdata.org/certified-independent-forest-advisor/)** — `2024-12-03` | `25 Pages`
-- `[`CA-OPEN-1728e7f9-472a-474e-9e04-f96bf59479f9`]` **[Potential for the intensity and spread of forest fires](https://www.indexdata.org/potential-for-the-intensity-and-spread-of-forest-fires/)** — `2024-05-22` | `2 Pages`
-- `[`CA-OPEN-3b9ee7ff-1c08-4282-9d2a-c8654729aed5`]` **[Areas for the protection of municipal drinking water withdrawals](https://www.indexdata.org/areas-for-the-protection-of-municipal-drinking-water-withdrawals/)** — `2024-04-26` | `3 Pages`
-- `[`CA-OPEN-9b5b45db-5b77-4af2-8486-4ac04d63114e`]` **[Temperature variations for the urbanization perimeters of the smallest municipalities 2020-2022](https://www.indexdata.org/temperature-variations-for-the-urbanization-perimeters-of-the-smallest-municipalities-2020-2022/)** — `2023-11-03` | `48 Pages`
-- `[`CA-OPEN-bc442b74-ed2b-4310-9e44-5e73445f710b`]` **[Habitat quality model (MQH) for short-eared owls in southern Quebec](https://www.indexdata.org/habitat-quality-model-mqh-for-short-eared-owls-in-southern-quebec/)** — `2023-10-10` | `44 Pages`
-- `[`CA-OPEN-9046d521-561a-43ea-8e88-3f158ad853ab`]` **[Ecological planning unit](https://www.indexdata.org/ecological-planning-unit/)** — `2022-06-22` | `4 Pages`
-- `[`CA-OPEN-f8582c4d-a933-4306-bb27-d883e13dd207`]` **[Commercial premises and occupancy status](https://www.indexdata.org/commercial-premises-and-occupancy-status/)** — `2022-05-05` | `6 Pages`
-- `[`CA-OPEN-eedac88d-8ec4-435f-ba07-32978127e540`]` **[Coyotes reports](https://www.indexdata.org/coyotes-reports/)** — `2022-02-17` | `40 Pages`
-- `[`CA-OPEN-fff64fdd-2b42-4b65-af59-16f89e3507b6`]` **[Greenhouse Gas Emissions Register](https://www.indexdata.org/greenhouse-gas-emissions-register/)** — `2021-01-08` | `7 Pages`
-- `[`CA-OPEN-404f3b0c-a4a7-4e86-8cdc-ddfa233254a2`]` **[Potential flow bed from LiDAR](https://www.indexdata.org/potential-flow-bed-from-lidar/)** — `2020-11-17` | `25 Pages`
-- `[`CA-OPEN-4c95eca3-4609-4d55-963c-a686ecada7e5`]` **[Syndicate or office of forest producers](https://www.indexdata.org/syndicate-or-office-of-forest-producers/)** — `2020-09-15` | `25 Pages`
-- `[`CA-OPEN-fe81e9b6-0560-4705-b543-5edbd3c62b7c`]` **[Uses related to the aquatic environment (URMA)](https://www.indexdata.org/uses-related-to-the-aquatic-environment-urma/)** — `2020-05-06` | `3 Pages`
-- `[`CA-OPEN-004de02c-19f1-4da0-9af8-33f893e41972`]` **[Indices of deprivation](https://www.indexdata.org/indices-of-deprivation/)** — `2020-04-22` | `13 Pages`
-- `[`CA-OPEN-2a0df569-5b31-49ea-a558-89b3e4c933d6`]` **[Hydrogeological Information System (HIS)](https://www.indexdata.org/hydrogeological-information-system-his/)** — `2020-01-22` | `3 Pages`
-- `[`CA-OPEN-8f47fd37-7bb5-4d91-9bc1-9fe3c0467989`]` **[Atlas of areas of conservation interest in the St. Lawrence Lowlands](https://www.indexdata.org/atlas-of-areas-of-conservation-interest-in-the-st-lawrence-lowlands/)** — `2019-12-12` | `203 Pages`
-- `[`CA-OPEN-5b592411-0d27-4d2d-9cba-ce669a767645`]` **[TOPEX](https://www.indexdata.org/topex/)** — `2019-09-16` | `10 Pages`
-- `[`CA-OPEN-f19b0cda-8f52-44a1-9954-a1a606daa56e`]` **[2016 Quebec Deprivation Index](https://www.indexdata.org/2016-quebec-deprivation-index/)** — `2019-08-01` | `22 Pages`
-- `[`CA-OPEN-b75d8ae7-130d-442d-8ba2-1a991dccd36e`]` **[Geodesic points](https://www.indexdata.org/geodesic-points/)** — `2019-05-30` | `7 Pages`
-- `[`CA-OPEN-7c9fff9f-c7c0-4267-a287-f86299796aea`]` **[Layer of recreational territories in Quebec](https://www.indexdata.org/layer-of-recreational-territories-in-quebec/)** — `2019-03-26` | `4 Pages`
-- `[`CA-OPEN-bf2ca474-b331-4d35-ad09-351ca8f89b27`]` **[Monitoring the quality of river and river water](https://www.indexdata.org/monitoring-the-quality-of-river-and-river-water/)** — `2019-03-14` | `7 Pages`
-- `[`CA-OPEN-777a8cfc-9d97-4959-b89a-37c07f11dd5c`]` **[Quebec Security service](https://www.indexdata.org/quebec-security-service/)** — `2019-03-06` | `17 Pages`
-- `[`CA-OPEN-eec20550-7916-4ff9-b9bf-9e07288b4a17`]` **[Administrative divisions](https://www.indexdata.org/administrative-divisions/)** — `2018-05-24` | `27 Pages`
-- `[`CA-OPEN-75eecd68-eb35-42ff-9ca0-ca518845cc9f`]` **[Floristic habitats](https://www.indexdata.org/floristic-habitats/)** — `2018-03-05` | `2 Pages`
-- `[`CA-OPEN-f0250998-eac1-46a8-8e0c-d7278ae85506`]` **[Register of protected areas and ECAs in Quebec](https://www.indexdata.org/register-of-protected-areas-and-ecas-in-quebec/)** — `2018-02-14` | `11 Pages`
-- `[`CA-OPEN-a5740dd3-23a0-440b-98bf-4491025accc7`]` **[Management Unit Office (UG)](https://www.indexdata.org/management-unit-office-ug/)** — `2017-11-23` | `25 Pages`
-- `[`CA-OPEN-c6d8ea75-05e7-44cc-a359-356f6e79351e`]` **[Temporary sample plot from the second inventory](https://www.indexdata.org/temporary-sample-plot-from-the-second-inventory/)** — `2017-11-10` | `19 Pages`
-- `[`CA-OPEN-a232475f-ec3d-476a-8725-d0c12367b3f0`]` **[Original ecoforest map and current inventory results](https://www.indexdata.org/original-ecoforest-map-and-current-inventory-results/)** — `2017-10-30` | `22 Pages`
-- `[`CA-OPEN-baad3bb6-5879-4e34-a4a6-a43212706cb7`]` **[Up-to-date ecoforest map](https://www.indexdata.org/up-to-date-ecoforest-map/)** — `2017-10-25` | `6 Pages`
-- `[`CA-OPEN-cbb3329b-11c3-4340-b145-7de0b31d3a7d`]` **[MED-ECHO — S15 Report - Deliveries, Caesarean sections, births by treatment region](https://www.indexdata.org/med-echo-s15-report-deliveries-caesarean-sections-births-by-treatment-region/)** — `2017-08-18` | `2 Pages`
-- `[`CA-OPEN-0b926a9e-38be-4a17-b70e-42cdab937738`]` **[MED-ECHO — Report S16 - Summary of departures according to the main diagnosis by group of categories](https://www.indexdata.org/med-echo-report-s16-summary-of-departures-according-to-the-main-diagnosis-by-group-of-categories/)** — `2017-08-18` | `3 Pages`
-- `[`CA-OPEN-06f6f823-ff7b-490c-a926-8c18315ee656`]` **[MED-ECHO - Report S17 - Summary of departures according to hospital days by type of care](https://www.indexdata.org/med-echo-report-s17-summary-of-departures-according-to-hospital-days-by-type-of-care/)** — `2017-08-18` | `2 Pages`
-- `[`CA-OPEN-f8b8190b-c63d-41ca-bbc3-8f494092c4bc`]` **[MED-ECHO — Report S14 - Interregional mobility, hospital days by region, treatment and residence](https://www.indexdata.org/med-echo-report-s14-interregional-mobility-hospital-days-by-region-treatment-and-residence/)** — `2017-08-17` | `4 Pages`
-- `[`CA-OPEN-d684fe3e-d082-4d31-93da-18cdbf9597d2`]` **[MED-ECHO — Report S13 - Interregional mobility, number of departures by region, treatment and residence](https://www.indexdata.org/med-echo-report-s13-interregional-mobility-number-of-departures-by-region-treatment-and-residence/)** — `2017-08-17` | `3 Pages`
-- `[`CA-OPEN-18be2508-5062-4139-91fb-90aeee461dd2`]` **[MED-ECHO — Report S11 - Departures and stays of users (care LD) occupying CD beds by treatment region](https://www.indexdata.org/med-echo-report-s11-departures-and-stays-of-users-care-ld-occupying-cd-beds-by-treatment-region/)** — `2017-08-17` | `3 Pages`
-- `[`CA-OPEN-cdbc394b-8c24-4e34-8fc9-35b8b69408a7`]` **[List of work stoppages in Quebec](https://www.indexdata.org/list-of-work-stoppages-in-quebec/)** — `2017-06-01` | `2 Pages`
-- `[`CA-OPEN-22f8e414-d80b-444a-8c70-366577fc7a63`]` **[Wood Production Intensification Area (AIPL)](https://www.indexdata.org/wood-production-intensification-area-aipl/)** — `2016-12-20` | `44 Pages`
-- `[`CA-OPEN-911a70f1-1053-4f4a-9c3b-529de857bb16`]` **[Comparable population estimates and projections](https://www.indexdata.org/comparable-population-estimates-and-projections/)** — `2016-07-28` | `11 Pages`
-- `[`CA-OPEN-24c8be98-a7d4-43e6-b7cb-a9c8c6808871`]` **[Cubing rate and prediction models](https://www.indexdata.org/cubing-rate-and-prediction-models/)** — `2016-06-07` | `3 Pages`
-- `[`CA-OPEN-f1dd4c82-abe6-4fdb-9ba7-584043432de5`]` **[Photo bank of Northern Quebec](https://www.indexdata.org/photo-bank-of-northern-quebec/)** — `2016-06-01` | `25 Pages`
-- `[`CA-OPEN-6ec9e3a5-e83b-4938-9a8f-30691297d2a3`]` **[Ecological classification of Quebec territory](https://www.indexdata.org/ecological-classification-of-quebec-territory/)** — `2016-02-15` | `126 Pages`
-- `[`CA-OPEN-d23b2e02-085d-43e5-9e6e-e1d558ebfdd5`]` **[Electronic tender system (SEAO)](https://www.indexdata.org/electronic-tender-system-seao/)** — `2013-06-11` | `3 Pages`
-- `[`CA-OPEN-fbf12500-bffe-4209-a1ae-fba86f154ebf`]` **[Natural disturbance data - Insect: Spruce budworm](https://www.indexdata.org/natural-disturbance-data-insect-spruce-budworm/)** — `2013-03-26` | `8 Pages`
-- `[`CA-OPEN-1211010d-9ba0-422a-9910-a8dab0aef0f0`]` **[Trucking network](https://www.indexdata.org/trucking-network/)** — `2012-06-27` | `2 Pages`
-- `[`CA-OPEN-02bdd89e-fe1e-49b0-abb5-011cbf24ac27`]` **[CPTAQ decisions](https://www.indexdata.org/cptaq-decisions/)** — `2012-06-22` | `3 Pages`
-
-### [Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/natural-resources-canada/](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
-
-- `[`SI-2022-5`]` **[Order Respecting Ex Gratia Payments to Workers Involved in Chalk River Nuclear Decontamination](https://www.indexdata.org/order-respecting-ex-gratia-payments-to-workers-involved-in-chalk-river-nuclear-decontamination/)** — `2026-09-30` | `7 Pages`
-- `[`SI-2013-1`]` **[British Columbia Forestry Revitalization Remission Order](https://www.indexdata.org/british-columbia-forestry-revitalization-remission-order/)** — `2026-09-30` | `6 Pages`
-- `[`SI-2008-95`]` **[Order Respecting Ex Gratia Payments to Veterans and Science and Technology Workers Involved in Nuclear Weapons Testing or Nuclear Decontamination](https://www.indexdata.org/order-respecting-ex-gratia-payments-to-veterans-and-science-and-technology-workers-involved-in-nuclear-weapons-testing-or-nuclear-decontamination/)** — `2026-09-30` | `7 Pages`
-- `[`SI-2004-133`]` **[Northern Pipeline Agency Cost Recovery Charge Remission Order, 2004](https://www.indexdata.org/northern-pipeline-agency-cost-recovery-charge-remission-order-2004/)** — `2026-09-30` | `5 Pages`
-- `[`O-7`]` **[Canada Oil and Gas Operations Act](https://www.indexdata.org/canada-oil-and-gas-operations-act/)** — `2026-09-30` | `121 Pages`
-- `[`N-7`]` **[National Energy Board Act](https://www.indexdata.org/national-energy-board-act/)** — `2026-09-30` | `3 Pages`
-- `[`N-28.3`]` **[Nuclear Safety and Control Act](https://www.indexdata.org/nuclear-safety-and-control-act/)** — `2026-09-30` | `65 Pages`
-- `[`N-28.1`]` **[Nuclear Liability and Compensation Act](https://www.indexdata.org/nuclear-liability-and-compensation-act/)** — `2026-09-30` | `42 Pages`
-- `[`N-28`]` **[Nuclear Liability Act](https://www.indexdata.org/nuclear-liability-act/)** — `2026-09-30` | `3 Pages`
-- `[`N-27.7`]` **[Nuclear Fuel Waste Act](https://www.indexdata.org/nuclear-fuel-waste-act/)** — `2026-09-30` | `20 Pages`
-- `[`N-26`]` **[Northern Pipeline Act](https://www.indexdata.org/northern-pipeline-act/)** — `2026-09-30` | `51 Pages`
-- `[`I-7`]` **[Indian Oil and Gas Act](https://www.indexdata.org/indian-oil-and-gas-act/)** — `2026-09-30` | `25 Pages`
-- `[`H-5.6`]` **[An Act respecting the Hudson Bay Mining and Smelting Co., Limited](https://www.indexdata.org/an-act-respecting-the-hudson-bay-mining-and-smelting-co-limited/)** — `2026-09-30` | `8 Pages`
-- `[`F-31.4`]` **[Fort Nelson Indian Reserve Minerals Revenue Sharing Act](https://www.indexdata.org/fort-nelson-indian-reserve-minerals-revenue-sharing-act/)** — `2026-09-30` | `27 Pages`
-- `[`F-30`]` **[Forestry Act](https://www.indexdata.org/forestry-act/)** — `2026-09-30` | `7 Pages`
-- `[`F-11.9`]` **[First Nations Oil and Gas and Moneys Management Act](https://www.indexdata.org/first-nations-oil-and-gas-and-moneys-management-act/)** — `2026-09-30` | `32 Pages`
-- `[`E-9`]` **[Energy Supplies Emergency Act](https://www.indexdata.org/energy-supplies-emergency-act/)** — `2026-09-30` | `36 Pages`
-- `[`E-8`]` **[Energy Monitoring Act](https://www.indexdata.org/energy-monitoring-act/)** — `2026-09-30` | `15 Pages`
-- `[`E-6.4`]` **[Energy Efficiency Act](https://www.indexdata.org/energy-efficiency-act/)** — `2026-09-30` | `24 Pages`
-- `[`E-6.2`]` **[Energy Costs Assistance Measures Act](https://www.indexdata.org/energy-costs-assistance-measures-act/)** — `2026-09-30` | `7 Pages`
-- `[`E-6`]` **[Energy Administration Act](https://www.indexdata.org/energy-administration-act/)** — `2026-09-30` | `52 Pages`
-- `[`E-4`]` **[Electricity and Gas Inspection Act](https://www.indexdata.org/electricity-and-gas-inspection-act/)** — `2026-09-30` | `42 Pages`
-- `[`E-17`]` **[Explosives Act](https://www.indexdata.org/explosives-act/)** — `2026-09-30` | `25 Pages`
-- `[`E-1.7`]` **[Eldorado Nuclear Limited Reorganization and Divestiture Act](https://www.indexdata.org/eldorado-nuclear-limited-reorganization-and-divestiture-act/)** — `2026-09-30` | `19 Pages`
-- `[`C-7.8`]` **[Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act](https://www.indexdata.org/canada-nova-scotia-offshore-petroleum-resources-accord-implementation-and-offshore-renewable-energy-management-act/)** — `2026-09-30` | `361 Pages`
-- `[`C-7.5`]` **[Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act](https://www.indexdata.org/canada-newfoundland-and-labrador-atlantic-accord-implementation-and-offshore-renewable-energy-management-act/)** — `2026-09-30` | `338 Pages`
-- `[`C-41.5`]` **[Cooperative Energy Act](https://www.indexdata.org/cooperative-energy-act/)** — `2026-09-30` | `27 Pages`
-- `[`C-36.5`]` **[Comprehensive Nuclear Test-Ban Treaty Implementation Act](https://www.indexdata.org/comprehensive-nuclear-test-ban-treaty-implementation-act/)** — `2026-09-30` | `106 Pages`
-- `[`C-15.1`]` **[Canadian Energy Regulator Act](https://www.indexdata.org/canadian-energy-regulator-act/)** — `2026-09-30` | `210 Pages`
-- `[`C-11.1`]` **[Canada–Yukon Oil and Gas Accord Implementation Act](https://www.indexdata.org/canada-yukon-oil-and-gas-accord-implementation-act/)** — `2026-09-30` | `11 Pages`
-- `[`A-16`]` **[Nuclear Energy Act](https://www.indexdata.org/nuclear-energy-act/)** — `2026-09-30` | `11 Pages`
-
-### [Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-yukon/](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
-
-- `[`CA-OPEN-f1e2e769-b99e-4f5d-b5c0-054baf0a4730`]` **[Evaluation of the Multicultural Centre of the Yukon](https://www.indexdata.org/evaluation-of-the-multicultural-centre-of-the-yukon/)** — `2026-08-20` | `64 Pages`
-- `[`CA-OPEN-ea588a3a-e094-48c6-87ee-2bf29ee6b53e`]` **[Old Crow flood hazard maps - bathymetric data](https://www.indexdata.org/old-crow-flood-hazard-maps-bathymetric-data/)** — `2026-08-13` | `242 Pages`
-- `[`CA-OPEN-cc82eabd-c572-4af5-8615-6e1f2e3b9b73`]` **[Southern Lakes flood hazard maps - bathymetric data](https://www.indexdata.org/southern-lakes-flood-hazard-maps-bathymetric-data/)** — `2026-08-13` | `191 Pages`
-- `[`CA-OPEN-a210c44e-1eb7-4092-ba09-1cd94b466251`]` **[Dawson City/Klondike Valley flood hazard maps - bathymetric data](https://www.indexdata.org/dawson-city-klondike-valley-flood-hazard-maps-bathymetric-data/)** — `2026-08-13` | `682 Pages`
-- `[`CA-OPEN-9edaacbd-88a4-48ab-baa8-f42039c6e57a`]` **[Upper Liard flood hazard maps - bathymetric data](https://www.indexdata.org/upper-liard-flood-hazard-maps-bathymetric-data/)** — `2026-08-13` | `207 Pages`
-- `[`CA-OPEN-1ad09367-d26e-455c-ba1e-0360bd0fe102`]` **[Teslin flood hazard maps - bathymetric data](https://www.indexdata.org/teslin-flood-hazard-maps-bathymetric-data/)** — `2026-08-13` | `435 Pages`
-- `[`CA-OPEN-0eb04c8c-298a-482f-8359-538f244c3acd`]` **[Carmacks flood hazard maps - bathymetric data](https://www.indexdata.org/carmacks-flood-hazard-maps-bathymetric-data/)** — `2026-08-13` | `391 Pages`
-- `[`CA-OPEN-f0bcff62-88f3-42e2-a991-e54e0b1b908c`]` **[Community Development Fund - Annual Reports](https://www.indexdata.org/community-development-fund-annual-reports/)** — `2026-07-06` | `16 Pages`
-- `[`CA-OPEN-dfb320ae-b63c-4723-bb10-c54668657dde`]` **[Independent Review Report](https://www.indexdata.org/independent-review-report/)** — `2026-06-17` | `30 Pages`
-- `[`CA-OPEN-f7cadb53-9d4b-46f5-9e30-118055609a87`]` **[Yukon Canada Community-Building Fund Outcomes Report - 2024-25](https://www.indexdata.org/yukon-canada-community-building-fund-outcomes-report-2024-25/)** — `2026-06-12` | `20 Pages`
-- `[`CA-OPEN-696ea9dd-0172-4434-b608-ba2ee5c8d49d`]` **[Dawson City/Klondike Valley flood hazard maps](https://www.indexdata.org/dawson-city-klondike-valley-flood-hazard-maps/)** — `2026-05-20` | `5 Pages`
-- `[`CA-OPEN-1ba1bf92-2b25-424d-aa41-46015d051154`]` **[Upper Liard flood hazard maps](https://www.indexdata.org/upper-liard-flood-hazard-maps/)** — `2026-05-20` | `5 Pages`
-- `[`CA-OPEN-880e0c87-3042-4f15-97ea-fafc0e483963`]` **[Old Crow flood hazard maps](https://www.indexdata.org/old-crow-flood-hazard-maps/)** — `2026-05-19` | `6 Pages`
-- `[`CA-OPEN-f2cc58bd-2337-492e-b3cb-72380209dac2`]` **[Deputy Ministers’ Report to the Premier on the Truth and Reconciliation Commission of Canada Report – “Honouring the Truth, Reconciling for the Future”](https://www.indexdata.org/deputy-ministers-report-to-the-premier-on-the-truth-and-reconciliation-commission-of-canada-report-honouring-the-truth-reconciling-for-the-future/)** — `2025-01-10` | `23 Pages`
-- `[`CA-OPEN-cd21f1a3-c90b-4305-a384-b8498550ecae`]` **[Teslin flood hazard maps](https://www.indexdata.org/teslin-flood-hazard-maps/)** — `2024-12-12` | `6 Pages`
-- `[`CA-OPEN-0b74627d-d761-4295-a493-6269235e96d9`]` **[Carmacks flood hazard maps](https://www.indexdata.org/carmacks-flood-hazard-maps/)** — `2024-12-12` | `5 Pages`
-- `[`CA-OPEN-036e1b84-0093-4c4e-b255-3966bf185f85`]` **[Southern Lakes flood hazard maps](https://www.indexdata.org/southern-lakes-flood-hazard-maps/)** — `2024-12-12` | `6 Pages`
-- `[`CA-OPEN-501cc770-878d-4460-8cf0-4888ce428e3b`]` **[Assessment Report Geochemistry (GARDEd)](https://www.indexdata.org/assessment-report-geochemistry-garded/)** — `2024-01-30` | `27 Pages`
-- `[`CA-OPEN-ee1c8aff-c1d3-4a6f-9b80-84556abb63c5`]` **[Yukon Community Recreation Planning Toolkit](https://www.indexdata.org/yukon-community-recreation-planning-toolkit/)** — `2022-01-24` | `76 Pages`
-- `[`CA-OPEN-e75a3a3d-f8d9-4864-917a-ec4b87d1230b`]` **[Resources for statutory officers](https://www.indexdata.org/resources-for-statutory-officers/)** — `2021-07-08` | `190 Pages`
-- `[`CA-OPEN-fa9a9d59-fb80-4133-884b-f01f0e64aa4b`]` **[CMOH COVID-19 Guidelines and Letters](https://www.indexdata.org/cmoh-covid-19-guidelines-and-letters/)** — `2021-06-23` | `4 Pages`
-- `[`CA-OPEN-f0850a76-bd32-41e0-8233-859c78870292`]` **[ATIPP Checklist for Class A Public Bodies](https://www.indexdata.org/atipp-checklist-for-class-a-public-bodies/)** — `2021-03-31` | `10 Pages`
-- `[`CA-OPEN-f9103ed8-0920-4274-ad37-2cf5b2bfa0d1`]` **[Ministerial Public Body Heads Toolkit](https://www.indexdata.org/ministerial-public-body-heads-toolkit/)** — `2021-03-05` | `17 Pages`
-- `[`CA-OPEN-f5c3fac7-0cac-480e-86bb-a9db7194d94e`]` **[ATIPP Interpretation Manual Chapter 8](https://www.indexdata.org/atipp-interpretation-manual-chapter-8/)** — `2021-03-05` | `4 Pages`
-- `[`CA-OPEN-f17c1a7e-2024-451c-9daf-a8af7e776f64`]` **[88(c) Designation Form All Power and Duties of Head PB](https://www.indexdata.org/88c-designation-form-all-power-and-duties-of-head-pb/)** — `2021-03-05` | `3 Pages`
-- `[`CA-OPEN-ed7e6fc7-b19e-46c8-b9b7-c61ed6328e27`]` **[Guidance on Information Sharing Agreements](https://www.indexdata.org/guidance-on-information-sharing-agreements/)** — `2021-03-05` | `17 Pages`
-- `[`CA-OPEN-e7801ca9-90bc-4db8-81c6-fbf7fd289fdd`]` **[Designated Access Officer Toolkit for Statutory and Non-Statutory Public Bodies](https://www.indexdata.org/designated-access-officer-toolkit-for-statutory-and-non-statutory-public-bodies/)** — `2021-03-05` | `176 Pages`
-- `[`CA-OPEN-e3daa037-5358-4f62-bc3e-4bd5096aa71d`]` **[Level 1: Introduction to the ATIPP Act Transcript](https://www.indexdata.org/level-1-introduction-to-the-atipp-act-transcript/)** — `2021-03-05` | `29 Pages`
-- `[`CA-OPEN-ead819a9-28cd-4434-a26d-fa3613c47ee3`]` **[2002–03 Budget](https://www.indexdata.org/2002-03-budget/)** — `2020-07-20` | `32 Pages`
-- `[`CA-OPEN-f63c55e9-8058-4370-be75-f2d099a842c6`]` **[Plans and Reports - Bonnett Plume Caribou](https://www.indexdata.org/plans-and-reports-bonnett-plume-caribou/)** — `2020-07-08` | `13 Pages`
 
 ### [Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/governor-general-in-council/](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)
@@ -1663,9 +1428,39 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/governor-general-
 - `[`SI-2000-101`]` **[Selkirk First Nation (GST) Remission Order](https://www.indexdata.org/selkirk-first-nation-gst-remission-order/)** — `2026-09-30` | `5 Pages`
 - `[`SI-2000-100`]` **[Vuntut Gwitchin First Nation (GST) Remission Order](https://www.indexdata.org/vuntut-gwitchin-first-nation-gst-remission-order/)** — `2026-09-30` | `5 Pages`
 
+### [Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/natural-resources-canada/](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
+
+- `[`SOR-2000-7`]` **[Offshore Minerals Revenue Election Regulations](https://www.indexdata.org/offshore-minerals-revenue-election-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-212`]` **[Canadian Nuclear Safety Commission By-laws](https://www.indexdata.org/canadian-nuclear-safety-commission-by-laws/)** — `2026-09-30` | `7 Pages`
+- `[`SOR-2000-211`]` **[Canadian Nuclear Safety Commission Rules of Procedure](https://www.indexdata.org/canadian-nuclear-safety-commission-rules-of-procedure/)** — `2026-09-30` | `30 Pages`
+- `[`SOR-2000-209`]` **[Nuclear Security Regulations](https://www.indexdata.org/nuclear-security-regulations-2/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2000-207`]` **[Nuclear Substances and Radiation Devices Regulations](https://www.indexdata.org/nuclear-substances-and-radiation-devices-regulations/)** — `2026-09-30` | `61 Pages`
+- `[`SOR-2000-205`]` **[Class II Nuclear Facilities and Prescribed Equipment Regulations](https://www.indexdata.org/class-ii-nuclear-facilities-and-prescribed-equipment-regulations/)** — `2026-09-30` | `27 Pages`
+- `[`SOR-2000-204`]` **[Class I Nuclear Facilities Regulations](https://www.indexdata.org/class-i-nuclear-facilities-regulations/)** — `2026-09-30` | `21 Pages`
+- `[`SOR-2000-202`]` **[General Nuclear Safety and Control Regulations](https://www.indexdata.org/general-nuclear-safety-and-control-regulations/)** — `2026-09-30` | `30 Pages`
+- `[`SI-95-64`]` **[National Mining Week Proclamation](https://www.indexdata.org/national-mining-week-proclamation/)** — `2026-09-30` | `5 Pages`
+- `[`SI-95-2`]` **[Order Authorizing the Minister of Energy, Mines and Resources to Prescribe Fees](https://www.indexdata.org/order-authorizing-the-minister-of-energy-mines-and-resources-to-prescribe-fees/)** — `2026-09-30` | `4 Pages`
+- `[`SI-94-39`]` **[Atomic Energy Control Board Cost Recovery Fees Remission Order](https://www.indexdata.org/atomic-energy-control-board-cost-recovery-fees-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-93-52`]` **[Order Transferring to the Minister of Energy, Mines and Resources, the Powers, Duties and Functions of the Minister of Industry, Science and Technology under Sections 9 and 15 of the Department of Industry, Science and Technology Act Respecting the Hibernia Development Project](https://www.indexdata.org/order-transferring-to-the-minister-of-energy-mines-and-resources-the-powers-duties-and-functions-of-the-minister-of-industry-science-and-technology-under-sections-9-and-15-of-the-department-o/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-144`]` **[Order Transferring to the Minister of Energy, Mines and Resources the Powers, Duties and Functions of the Minister of Forestry and Amalgamating and Combining the Department of Energy, Mines and Resources and the Department of Forestry under the Minister of Energy, Mines and Resources](https://www.indexdata.org/order-transferring-to-the-minister-of-energy-mines-and-resources-the-powers-duties-and-functions-of-the-minister-of-forestry-and-amalgamating-and-combining-the-department-of-energy-mines-and-resour/)** — `2026-09-30` | `4 Pages`
+- `[`SI-83-32`]` **[Kinepouch and Kinestik Explosives Order, 1981](https://www.indexdata.org/kinepouch-and-kinestik-explosives-order-1981/)** — `2026-09-30` | `3 Pages`
+- `[`SI-81-23`]` **[Northern Pipeline Socio-Economic and Environmental Terms and Conditions for the Province of Saskatchewan](https://www.indexdata.org/northern-pipeline-socio-economic-and-environmental-terms-and-conditions-for-the-province-of-saskatchewan/)** — `2026-09-30` | `38 Pages`
+- `[`SI-81-22`]` **[Northern Pipeline Socio-Economic and Environmental Terms and Conditions for Northern British Columbia](https://www.indexdata.org/northern-pipeline-socio-economic-and-environmental-terms-and-conditions-for-northern-british-columbia/)** — `2026-09-30` | `47 Pages`
+- `[`SI-80-128`]` **[Northern Pipeline Socio-Economic and Environmental Terms and Conditions for Southern British Columbia](https://www.indexdata.org/northern-pipeline-socio-economic-and-environmental-terms-and-conditions-for-southern-british-columbia/)** — `2026-09-30` | `40 Pages`
+- `[`SI-80-127`]` **[Northern Pipeline Socio-Economic and Environmental Terms and Conditions for the Province of Alberta](https://www.indexdata.org/northern-pipeline-socio-economic-and-environmental-terms-and-conditions-for-the-province-of-alberta/)** — `2026-09-30` | `35 Pages`
+- `[`SI-2026-43`]` **[Order Transferring from the Department of Natural Resources to the Department of the Environment the Control and Supervision of the Office of Energy Efficiency](https://www.indexdata.org/order-transferring-from-the-department-of-natural-resources-to-the-department-of-the-environment-the-control-and-supervision-of-the-office-of-energy-efficiency/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2022-5`]` **[Order Respecting Ex Gratia Payments to Workers Involved in Chalk River Nuclear Decontamination](https://www.indexdata.org/order-respecting-ex-gratia-payments-to-workers-involved-in-chalk-river-nuclear-decontamination/)** — `2026-09-30` | `7 Pages`
+- `[`SI-2013-1`]` **[British Columbia Forestry Revitalization Remission Order](https://www.indexdata.org/british-columbia-forestry-revitalization-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2008-95`]` **[Order Respecting Ex Gratia Payments to Veterans and Science and Technology Workers Involved in Nuclear Weapons Testing or Nuclear Decontamination](https://www.indexdata.org/order-respecting-ex-gratia-payments-to-veterans-and-science-and-technology-workers-involved-in-nuclear-weapons-testing-or-nuclear-decontamination/)** — `2026-09-30` | `7 Pages`
+- `[`SI-2004-133`]` **[Northern Pipeline Agency Cost Recovery Charge Remission Order, 2004](https://www.indexdata.org/northern-pipeline-agency-cost-recovery-charge-remission-order-2004/)** — `2026-09-30` | `5 Pages`
+
 ### [Environment and Climate Change Canada](https://www.indexdata.org/canada/environment-and-climate-change-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/environment-and-climate-change-canada/](https://www.indexdata.org/canada/environment-and-climate-change-canada/) | [RSS Feed](https://www.indexdata.org/canada/environment-and-climate-change-canada/feed/)
 
+- `[`SI-2026-52`]` **[Order Acknowledging Receipt of the Assessments Done Under Subsection 23(1) of the Species at Risk Act (Basking Shark Atlantic Population and 14 Other Wildlife Species)](https://www.indexdata.org/order-acknowledging-receipt-of-the-assessments-done-under-subsection-231-of-the-species-at-risk-act-basking-shark-atlantic-population-and-14-other-wildlife-species/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2026-50`]` **[Order Acknowledging Receipt of the Assessments Done Under Subsection 23(1) of the Species at Risk Act (Canada Warbler and Six Other Wildlife Species)](https://www.indexdata.org/order-acknowledging-receipt-of-the-assessments-done-under-subsection-231-of-the-species-at-risk-act-canada-warbler-and-six-other-wildlife-species/)** — `2026-09-30` | `5 Pages`
+- `[`SI-2026-3`]` **[Order Acknowledging Receipt of the Assessments Done Under Subsection 23(1) of the Species at Risk Act (American Marten, Newfoundland Population and Six Other Wildlife Species)](https://www.indexdata.org/order-acknowledging-receipt-of-the-assessments-done-under-subsection-231-of-the-species-at-risk-act-american-marten-newfoundland-population-and-six-other-wildlife-species/)** — `2026-09-30` | `5 Pages`
 - `[`SI-2025-110`]` **[List of Wildlife Species at Risk (Decision Not to Add Certain Species) Order (American Eel)](https://www.indexdata.org/list-of-wildlife-species-at-risk-decision-not-to-add-certain-species-order-american-eel/)** — `2026-09-30` | `6 Pages`
 - `[`SI-2025-109`]` **[Order Acknowledging Receipt of the Assessment Done Under Subsection 23(1) of the Species at Risk Act (American Eel)](https://www.indexdata.org/order-acknowledging-receipt-of-the-assessment-done-under-subsection-231-of-the-species-at-risk-act-american-eel/)** — `2026-09-30` | `5 Pages`
 - `[`SI-2024-65`]` **[Order Acknowledging Receipt of the Assessments Done Under Subsection 23(1) of the Species at Risk Act (Certain Wildlife Species of Red Knot and Four Other Wildlife Species)](https://www.indexdata.org/order-acknowledging-receipt-of-the-assessments-done-under-subsection-231-of-the-species-at-risk-act-certain-wildlife-species-of-red-knot-and-four-other-wildlife-species/)** — `2026-09-30` | `5 Pages`
@@ -1684,18 +1479,13 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/environment-and-c
 - `[`SI-2009-20`]` **[List of Wildlife Species at Risk (Decision Not To Add or Referral Back to COSEWIC) Order](https://www.indexdata.org/list-of-wildlife-species-at-risk-decision-not-to-add-or-referral-back-to-cosewic-order/)** — `2026-09-30` | `6 Pages`
 - `[`SI-2004-48`]` **[Order Acknowledging Receipt of the Assessments Done Pursuant to Subsection 23(1) of the Species at Risk Act](https://www.indexdata.org/order-acknowledging-receipt-of-the-assessments-done-pursuant-to-subsection-231-of-the-species-at-risk-act/)** — `2026-09-30` | `9 Pages`
 - `[`S-15.3`]` **[Species at Risk Act](https://www.indexdata.org/species-at-risk-act/)** — `2026-09-30` | `115 Pages`
-- `[`M-7.01`]` **[Migratory Birds Convention Act, 1994](https://www.indexdata.org/migratory-birds-convention-act-1994/)** — `2026-09-30` | `61 Pages`
-- `[`I-2.75`]` **[Impact Assessment Act](https://www.indexdata.org/impact-assessment-act/)** — `2026-09-30` | `125 Pages`
-- `[`G-11.6`]` **[Greenhouse Gas Technology Investment Fund Act](https://www.indexdata.org/greenhouse-gas-technology-investment-fund-act/)** — `2026-09-30` | `3 Pages`
-- `[`G-11.55`]` **[Greenhouse Gas Pollution Pricing Act](https://www.indexdata.org/greenhouse-gas-pollution-pricing-act/)** — `2026-09-30` | `229 Pages`
-- `[`G-11.4`]` **[Grassy Narrows and Islington Indian Bands Mercury Pollution Claims Settlement Act](https://www.indexdata.org/grassy-narrows-and-islington-indian-bands-mercury-pollution-claims-settlement-act/)** — `2026-09-30` | `8 Pages`
-- `[`C-15.31`]` **[Canadian Environmental Protection Act, 1999](https://www.indexdata.org/canadian-environmental-protection-act-1999/)** — `2026-09-30` | `314 Pages`
-- `[`A-12`]` **[Arctic Waters Pollution Prevention Act](https://www.indexdata.org/arctic-waters-pollution-prevention-act/)** — `2026-09-30` | `25 Pages`
-- `[`CA-OPEN-fb7dd0e4-2feb-4fc1-96e7-aa626109f09c`]` **[Planning Map for Public EV Charging Infrastructure](https://www.indexdata.org/planning-map-for-public-ev-charging-infrastructure/)** — `2024-03-31` | `2 Pages`
 
 ### [Health Canada](https://www.indexdata.org/canada/health-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/health-canada/](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)
 
+- `[`SOR-2001-132`]` **[Agriculture and Agri-Food Administrative Monetary Penalties Regulations Respecting the Pest Control Products Act and Regulations](https://www.indexdata.org/agriculture-and-agri-food-administrative-monetary-penalties-regulations-respecting-the-pest-control-products-act-and-regulations/)** — `2026-09-30` | `24 Pages`
+- `[`SOR-2000-273`]` **[Tobacco Reporting Regulations](https://www.indexdata.org/tobacco-reporting-regulations/)** — `2026-09-30` | `45 Pages`
+- `[`SOR-2000-272`]` **[Tobacco Products Information Regulations](https://www.indexdata.org/tobacco-products-information-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SI-2025-36`]` **[Order Transferring from the Minister of Mental Health and Addictions and Associate Minister of Health to the Minister of Health the Powers, Duties and Functions Under the Controlled Drugs and Substances Act and the Tobacco and Vaping Products Act](https://www.indexdata.org/order-transferring-from-the-minister-of-mental-health-and-addictions-and-associate-minister-of-health-to-the-minister-of-health-the-powers-duties-and-functions-under-the-controlled-drugs-and-substanc/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2022-31`]` **[Order Transferring from the Minister of Health to the Minister of Mental Health and Addictions and Associate Minister of Health the Powers, Duties and Functions Under the Controlled Drugs and Substances Act and the Tobacco and Vaping Products Act](https://www.indexdata.org/order-transferring-from-the-minister-of-health-to-the-minister-of-mental-health-and-addictions-and-associate-minister-of-health-the-powers-duties-and-functions-under-the-controlled-drugs-and-substanc/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2018-103`]` **[Order Designating the Minister of Border Security and Organized Crime Reduction, a member of the Queen’s Privy Council for Canada, as the Minister for the purposes of the Cannabis Act](https://www.indexdata.org/order-designating-the-minister-of-border-security-and-organized-crime-reduction-a-member-of-the-queens-privy-council-for-canada-as-the-minister-for-the-purposes-of-the-cannabis-act/)** — `2026-09-30` | `3 Pages`
@@ -1710,20 +1500,12 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/health-canada/](h
 - `[`Q-1`]` **[Quarantine Act](https://www.indexdata.org/quarantine-act/)** — `2026-09-30` | `3 Pages`
 - `[`P-9.01`]` **[Pest Control Products Act](https://www.indexdata.org/pest-control-products-act/)** — `2026-09-30` | `89 Pages`
 - `[`P-9`]` **[Pest Control Products Act](https://www.indexdata.org/pest-control-products-act-2/)** — `2026-09-30` | `3 Pages`
-- `[`P-29.71`]` **[Public Health Events of National Concern Payments Act](https://www.indexdata.org/public-health-events-of-national-concern-payments-act-2/)** — `2026-09-30` | `3 Pages`
-- `[`P-29.7`]` **[Public Health Events of National Concern Payments Act](https://www.indexdata.org/public-health-events-of-national-concern-payments-act/)** — `2026-09-30` | `3 Pages`
-- `[`P-29.5`]` **[Public Health Agency of Canada Act](https://www.indexdata.org/public-health-agency-of-canada-act/)** — `2026-09-30` | `12 Pages`
-- `[`H-5.67`]` **[Human Pathogens and Toxins Act](https://www.indexdata.org/human-pathogens-and-toxins-act/)** — `2026-09-30` | `69 Pages`
-- `[`H-3`]` **[Hazardous Products Act](https://www.indexdata.org/hazardous-products-act/)** — `2026-09-30` | `44 Pages`
-- `[`H-2.71`]` **[An Act to amend the Hazardous Products Act and the Canada Labour Code, to enact the Hazardous Materials Information Review Act and to amend other Acts in relation thereto](https://www.indexdata.org/an-act-to-amend-the-hazardous-products-act-and-the-canada-labour-code-to-enact-the-hazardous-materials-information-review-act-and-to-amend-other-acts-in-relation-thereto/)** — `2026-09-30` | `7 Pages`
-- `[`F-27`]` **[Food and Drugs Act](https://www.indexdata.org/food-and-drugs-act/)** — `2026-09-30` | `84 Pages`
-- `[`C-38.8`]` **[Controlled Drugs and Substances Act](https://www.indexdata.org/controlled-drugs-and-substances-act/)** — `2026-09-30` | `117 Pages`
-- `[`C-24.5`]` **[Cannabis Act](https://www.indexdata.org/cannabis-act/)** — `2026-09-30` | `132 Pages`
-- `[`A-13.4`]` **[Assisted Human Reproduction Act](https://www.indexdata.org/assisted-human-reproduction-act/)** — `2026-09-30` | `28 Pages`
 
 ### [Immigration, Refugees and Citizenship Canada](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/) | [RSS Feed](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/feed/)
 
+- `[`SI-93-200`]` **[Order Transferring to the Minister of Communications and to the Minister of Multiculturalism and Citizenship Certain Powers, Duties and Functions of the Secretary of State of Canada and De-amalgamating the Departments of the Secretary of State of Canada, Multiculturalism and Citizenship and Communications](https://www.indexdata.org/order-transferring-to-the-minister-of-communications-and-to-the-minister-of-multiculturalism-and-citizenship-certain-powers-duties-and-functions-of-the-secretary-of-state-of-canada-and-de-amalgamatin/)** — `2026-09-30` | `4 Pages`
+- `[`SI-85-108`]` **[Remission of Application Fee for Certificate of Citizenship Order](https://www.indexdata.org/remission-of-application-fee-for-certificate-of-citizenship-order/)** — `2026-09-30` | `5 Pages`
 - `[`SI-2025-130`]` **[Adjustment of Certain Costs Paid or Payable Under the Immigration and Refugee Protection Regulations (April 1, 2019 to October 31, 2024) Remission Order](https://www.indexdata.org/adjustment-of-certain-costs-paid-or-payable-under-the-immigration-and-refugee-protection-regulations-april-1-2019-to-october-31-2024-remission-order/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2025-126`]` **[Certain Fees Under the Immigration and Refugee Protection Regulations Remission Order](https://www.indexdata.org/certain-fees-under-the-immigration-and-refugee-protection-regulations-remission-order/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2023-24`]` **[Order Extending the Application of Section 14 of the Citizenship Act](https://www.indexdata.org/order-extending-the-application-of-section-14-of-the-citizenship-act/)** — `2026-09-30` | `4 Pages`
@@ -1737,52 +1519,38 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/immigration-refug
 - `[`SI-2005-120`]` **[Order Setting Out the Respective Responsibilities of the Minister of Citizenship and Immigration and the Minister of Public Safety and Emergency Preparedness Under the Act](https://www.indexdata.org/order-setting-out-the-respective-responsibilities-of-the-minister-of-citizenship-and-immigration-and-the-minister-of-public-safety-and-emergency-preparedness-under-the-act/)** — `2026-09-30` | `3 Pages`
 - `[`SI-2003-214`]` **[Order Transferring from the Minister of Citizenship and Immigration to the Deputy Prime Minister and Minister of Public Safety and Emergency Preparedness the Control and Supervision of the Canada Border Services Agency](https://www.indexdata.org/order-transferring-from-the-minister-of-citizenship-and-immigration-to-the-deputy-prime-minister-and-minister-of-public-safety-and-emergency-preparedness-the-control-and-supervision-of-the-canada-bord/)** — `2026-09-30` | `4 Pages`
 - `[`S-22.5`]` **[Strengthening Canada’s Immigration System and Borders Act](https://www.indexdata.org/strengthening-canadas-immigration-system-and-borders-act/)** — `2026-09-30` | `22 Pages`
-- `[`I-2.5`]` **[Immigration and Refugee Protection Act](https://www.indexdata.org/immigration-and-refugee-protection-act/)** — `2026-09-30` | `199 Pages`
-- `[`I-14.7`]` **[Integrated Cross-border Law Enforcement Operations Act](https://www.indexdata.org/integrated-cross-border-law-enforcement-operations-act/)** — `2026-09-30` | `9 Pages`
-- `[`C-52.6`]` **[Customs Act](https://www.indexdata.org/customs-act/)** — `2026-09-30` | `235 Pages`
-- `[`C-33.6`]` **[College of Immigration and Citizenship Consultants Act](https://www.indexdata.org/college-of-immigration-and-citizenship-consultants-act/)** — `2026-09-30` | `43 Pages`
-- `[`C-29.4`]` **[Department of Citizenship and Immigration Act](https://www.indexdata.org/department-of-citizenship-and-immigration-act/)** — `2026-09-30` | `9 Pages`
-- `[`C-29`]` **[Citizenship Act](https://www.indexdata.org/citizenship-act/)** — `2026-09-30` | `72 Pages`
-- `[`C-1.4`]` **[Canada Border Services Agency Act](https://www.indexdata.org/canada-border-services-agency-act/)** — `2026-09-30` | `32 Pages`
 
 ### [Agriculture and Agri-Food Canada](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/agriculture-and-agri-food-canada/](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/) | [RSS Feed](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/feed/)
 
+- `[`SOR-2001-207`]` **[Railway Company Pay Out of Excess Revenue for the Movement of Grain Regulations](https://www.indexdata.org/railway-company-pay-out-of-excess-revenue-for-the-movement-of-grain-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-2000-306`]` **[Rules of the Board of Arbitration (Agriculture and Agri-Food)](https://www.indexdata.org/rules-of-the-board-of-arbitration-agriculture-and-agri-food/)** — `2026-09-30` | `15 Pages`
+- `[`SOR-2000-187`]` **[Agriculture and Agri-Food Administrative Monetary Penalties Regulations](https://www.indexdata.org/agriculture-and-agri-food-administrative-monetary-penalties-regulations/)** — `2026-09-30` | `93 Pages`
+- `[`SI-96-52`]` **[Order Transferring Food Inspection Activities from the Minister of National Health and Welfare to the Minister of Agriculture and Agri-Food and Transferring Food Safety Policy Activities from the Department of Agriculture and Agri-Food to the Department of National Health and Welfare](https://www.indexdata.org/order-transferring-food-inspection-activities-from-the-minister-of-national-health-and-welfare-to-the-minister-of-agriculture-and-agri-food-and-transferring-food-safety-policy-activities-from-the-depa/)** — `2026-09-30` | `5 Pages`
+- `[`SI-95-44`]` **[Order Transferring from the Minister of Agriculture and Agri-Food to the Minister of National Health and Welfare, the Powers, Duties and Functions under Certain Acts](https://www.indexdata.org/order-transferring-from-the-minister-of-agriculture-and-agri-food-to-the-minister-of-national-health-and-welfare-the-powers-duties-and-functions-under-certain-acts/)** — `2026-09-30` | `4 Pages`
+- `[`SI-94-147`]` **[Order Authorizing the Minister of Agriculture to Prescribe Fees](https://www.indexdata.org/order-authorizing-the-minister-of-agriculture-to-prescribe-fees/)** — `2026-09-30` | `4 Pages`
+- `[`SI-92-147`]` **[Order Authorizing the Minister of Agriculture to Prescribe Fees](https://www.indexdata.org/order-authorizing-the-minister-of-agriculture-to-prescribe-fees-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-86-140`]` **[Minister of Agriculture Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-agriculture-authority-to-prescribe-fees-order-2/)** — `2026-09-30` | `4 Pages`
+- `[`SI-86-139`]` **[Minister of Agriculture Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-agriculture-authority-to-prescribe-fees-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-86-138`]` **[Minister of Agriculture Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-agriculture-authority-to-prescribe-fees-order-3/)** — `2026-09-30` | `4 Pages`
+- `[`SI-83-96`]` **[Meat Inspection Overtime Inspection Fees Remission Order](https://www.indexdata.org/meat-inspection-overtime-inspection-fees-remission-order/)** — `2026-09-30` | `5 Pages`
 - `[`S-8`]` **[Seeds Act](https://www.indexdata.org/seeds-act/)** — `2026-09-30` | `20 Pages`
 - `[`S-1.1`]` **[Safe Food for Canadians Act](https://www.indexdata.org/safe-food-for-canadians-act/)** — `2026-09-30` | `41 Pages`
-- `[`P-19.6`]` **[Prince Rupert Grain Handling Operations Act](https://www.indexdata.org/prince-rupert-grain-handling-operations-act/)** — `2026-09-30` | `8 Pages`
-- `[`P-18`]` **[Prairie Grain Advance Payments Act](https://www.indexdata.org/prairie-grain-advance-payments-act/)** — `2026-09-30` | `3 Pages`
-- `[`P-14.8`]` **[Plant Protection Act](https://www.indexdata.org/plant-protection-act/)** — `2026-09-30` | `38 Pages`
-- `[`M-3.2`]` **[Meat Inspection Act](https://www.indexdata.org/meat-inspection-act/)** — `2026-09-30` | `3 Pages`
-- `[`M-1.5`]` **[Marketing Freedom for Grain Farmers Act](https://www.indexdata.org/marketing-freedom-for-grain-farmers-act/)** — `2026-09-30` | `14 Pages`
-- `[`H-3.3`]` **[Health of Animals Act](https://www.indexdata.org/health-of-animals-act/)** — `2026-09-30` | `49 Pages`
-- `[`G-10`]` **[Canada Grain Act](https://www.indexdata.org/canada-grain-act/)** — `2026-09-30` | `83 Pages`
-- `[`F-9`]` **[Feeds Act](https://www.indexdata.org/feeds-act/)** — `2026-09-30` | `21 Pages`
-- `[`F-26`]` **[Food and Agriculture Organization of the United Nations Act](https://www.indexdata.org/food-and-agriculture-organization-of-the-united-nations-act/)** — `2026-09-30` | `15 Pages`
-- `[`F-10`]` **[Fertilizers Act](https://www.indexdata.org/fertilizers-act/)** — `2026-09-30` | `21 Pages`
-- `[`B-8.2`]` **[British Columbia Grain Handling Operations Act](https://www.indexdata.org/british-columbia-grain-handling-operations-act/)** — `2026-09-30` | `14 Pages`
-- `[`A-9`]` **[Department of Agriculture and Agri-Food Act](https://www.indexdata.org/department-of-agriculture-and-agri-food-act/)** — `2026-09-30` | `7 Pages`
-- `[`A-8.8`]` **[Agriculture and Agri-Food Administrative Monetary Penalties Act](https://www.indexdata.org/agriculture-and-agri-food-administrative-monetary-penalties-act/)** — `2026-09-30` | `23 Pages`
-- `[`CA-OPEN-b604f77c-f3e8-4af2-90d8-01e87fe5e435`]` **[Canadian Agricultural Crop Water Balance (CACWB) – Watershed Aggregates](https://www.indexdata.org/canadian-agricultural-crop-water-balance-cacwb-watershed-aggregates/)** — `2026-03-31` | `34 Pages`
-- `[`CA-OPEN-9b9b725e-e5f9-43b6-a3e5-74dd663c99a1`]` **[Agri-Environmental Indicator – Risk of Water Contamination by Pesticides](https://www.indexdata.org/agri-environmental-indicator-risk-of-water-contamination-by-pesticides/)** — `2021-10-14` | `23 Pages`
 
-### [Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
+### [Global Affairs Canada](https://www.indexdata.org/canada/global-affairs-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/global-affairs-canada/](https://www.indexdata.org/canada/global-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/global-affairs-canada/feed/)
 
-- `[`SI-2022-11`]` **[Remission Order for Certain Fees Under the Bankruptcy and Insolvency General Rules from March 31 to August 31, 2020](https://www.indexdata.org/remission-order-for-certain-fees-under-the-bankruptcy-and-insolvency-general-rules-from-march-31-to-august-31-2020/)** — `2026-09-30` | `4 Pages`
-- `[`R-2`]` **[Radiocommunication Act](https://www.indexdata.org/radiocommunication-act/)** — `2026-09-30` | `39 Pages`
-- `[`P-4`]` **[Patent Act](https://www.indexdata.org/patent-act/)** — `2026-09-30` | `152 Pages`
-- `[`I-9`]` **[Industrial Design Act](https://www.indexdata.org/industrial-design-act/)** — `2026-09-30` | `21 Pages`
-- `[`I-21.8`]` **[Investment Canada Act](https://www.indexdata.org/investment-canada-act/)** — `2026-09-30` | `75 Pages`
-- `[`E-1.6`]` **[An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act](https://www.indexdata.org/an-act-to-promote-the-efficiency-and-adaptability-of-the-canadian-economy-by-regulating-certain-activities-that-discourage-reliance-on-electronic-means-of-carrying-out-commercial-activities-and-to-am/)** — `2026-09-30` | `48 Pages`
-- `[`C-55.5`]` **[An Act respecting cyber security, amending the Telecommunications Act and making consequential amendments to other Acts](https://www.indexdata.org/an-act-respecting-cyber-security-amending-the-telecommunications-act-and-making-consequential-amendments-to-other-acts/)** — `2026-09-30` | `7 Pages`
-- `[`C-44`]` **[Canada Business Corporations Act](https://www.indexdata.org/canada-business-corporations-act/)** — `2026-09-30` | `256 Pages`
-- `[`C-42`]` **[Copyright Act](https://www.indexdata.org/copyright-act/)** — `2026-09-30` | `194 Pages`
-- `[`C-36.4`]` **[Competition Tribunal Act](https://www.indexdata.org/competition-tribunal-act/)** — `2026-09-30` | `16 Pages`
-- `[`C-34`]` **[Competition Act](https://www.indexdata.org/competition-act/)** — `2026-09-30` | `190 Pages`
-- `[`C-33.7`]` **[College of Patent Agents and Trademark Agents Act](https://www.indexdata.org/college-of-patent-agents-and-trademark-agents-act/)** — `2026-09-30` | `44 Pages`
-- `[`C-22`]` **[Canadian Radio-television and Telecommunications Commission Act](https://www.indexdata.org/canadian-radio-television-and-telecommunications-commission-act/)** — `2026-09-30` | `13 Pages`
-- `[`B-3`]` **[Bankruptcy and Insolvency Act](https://www.indexdata.org/bankruptcy-and-insolvency-act/)** — `2026-09-30` | `307 Pages`
+- `[`SI-99-58`]` **[Order Designating the Minister of Foreign Affairs, the Minister of National Defence and the Minister of Public Works and Government Services as the Ministers for Purposes of Certain Sections of the Act](https://www.indexdata.org/order-designating-the-minister-of-foreign-affairs-the-minister-of-national-defence-and-the-minister-of-public-works-and-government-services-as-the-ministers-for-purposes-of-certain-sections-of-the-ac/)** — `2026-09-30` | `4 Pages`
+- `[`SI-95-66`]` **[Minister of Foreign Affairs Authority to Prescribe Fees Order](https://www.indexdata.org/minister-of-foreign-affairs-authority-to-prescribe-fees-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-86-41`]` **[United States Diplomatic and Consular Staff Remission Order](https://www.indexdata.org/united-states-diplomatic-and-consular-staff-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-79-19`]` **[Diplomatic, Consular and International Organizations’ Property Grants Order](https://www.indexdata.org/diplomatic-consular-and-international-organizations-property-grants-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2026-2`]` **[Consular Services Fees (Performance Standards) Remission Order](https://www.indexdata.org/consular-services-fees-performance-standards-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-2023-23`]` **[Certain Fees Paid or Payable for the Acquisition of Permanent Resident Status, Travel Document Services and Consular Services (Resettlement from Afghanistan) Remission Order](https://www.indexdata.org/certain-fees-paid-or-payable-for-the-acquisition-of-permanent-resident-status-travel-document-services-and-consular-services-resettlement-from-afghanistan-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2021-22`]` **[Certain Fees in Respect of Travel Document Services and Consular Services (COVID-19 Pandemic) Remission Order](https://www.indexdata.org/certain-fees-in-respect-of-travel-document-services-and-consular-services-covid-19-pandemic-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2011-48`]` **[Order Designating the Minister of Foreign Affairs for the Purposes of the National Capital Act](https://www.indexdata.org/order-designating-the-minister-of-foreign-affairs-for-the-purposes-of-the-national-capital-act/)** — `2026-09-30` | `3 Pages`
+- `[`SI-2006-11`]` **[Order Amalgamating and Combining the Department of International Trade and the Department of Foreign Affairs and International Trade under the Minister and the Deputy Minister of Foreign Affairs](https://www.indexdata.org/order-amalgamating-and-combining-the-department-of-international-trade-and-the-department-of-foreign-affairs-and-international-trade-under-the-minister-and-the-deputy-minister-of-foreign-affairs/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2003-208`]` **[Order Transferring from the Minister of Foreign Affairs to the Minister of International Trade the Control and Supervision of the Department of International Trade](https://www.indexdata.org/order-transferring-from-the-minister-of-foreign-affairs-to-the-minister-of-international-trade-the-control-and-supervision-of-the-department-of-international-trade/)** — `2026-09-30` | `4 Pages`
+- `[`S-14.5`]` **[Special Economic Measures Act](https://www.indexdata.org/special-economic-measures-act/)** — `2026-09-30` | `22 Pages`
 
 ### [Public Safety Canada](https://www.indexdata.org/canada/public-safety-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/public-safety-canada/](https://www.indexdata.org/canada/public-safety-canada/) | [RSS Feed](https://www.indexdata.org/canada/public-safety-canada/feed/)
@@ -1795,65 +1563,37 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/public-safety-can
 - `[`SI-2001-99`]` **[Firearms Fees Remission Order (Registration Certificate)](https://www.indexdata.org/firearms-fees-remission-order-registration-certificate/)** — `2026-09-30` | `5 Pages`
 - `[`R-11`]` **[Royal Canadian Mounted Police Superannuation Act](https://www.indexdata.org/royal-canadian-mounted-police-superannuation-act/)** — `2026-09-30` | `92 Pages`
 - `[`R-10`]` **[Royal Canadian Mounted Police Act](https://www.indexdata.org/royal-canadian-mounted-police-act/)** — `2026-09-30` | `136 Pages`
-- `[`N-16.62`]` **[National Security and Intelligence Review Agency Act](https://www.indexdata.org/national-security-and-intelligence-review-agency-act/)** — `2026-09-30` | `35 Pages`
-- `[`N-16.6`]` **[National Security and Intelligence Committee of Parliamentarians Act](https://www.indexdata.org/national-security-and-intelligence-committee-of-parliamentarians-act/)** — `2026-09-30` | `22 Pages`
-- `[`N-16.56`]` **[National Security Act, 2017](https://www.indexdata.org/national-security-act-2017/)** — `2026-09-30` | `33 Pages`
-- `[`F-11.6`]` **[Firearms Act](https://www.indexdata.org/firearms-act/)** — `2026-09-30` | `94 Pages`
-- `[`E-4.5`]` **[Emergencies Act](https://www.indexdata.org/emergencies-act/)** — `2026-09-30` | `42 Pages`
-- `[`C-44.6`]` **[Corrections and Conditional Release Act](https://www.indexdata.org/corrections-and-conditional-release-act/)** — `2026-09-30` | `209 Pages`
-
-### [Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/fisheries-and-oceans-canada/](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
-
-- `[`SI-2024-52`]` **[Order Transferring from the Minister of Fisheries and Oceans to the Minister of Foreign Affairs the Powers, Duties and Functions in Relation to the Great Lakes Fishery Commission](https://www.indexdata.org/order-transferring-from-the-minister-of-fisheries-and-oceans-to-the-minister-of-foreign-affairs-the-powers-duties-and-functions-in-relation-to-the-great-lakes-fishery-commission/)** — `2026-09-30` | `4 Pages`
-- `[`SI-2014-21`]` **[Order Designating the Minister of the Environment as the Minister Responsible for the Administration and Enforcement of Subsections 36(3) to (6) of the Fisheries Act](https://www.indexdata.org/order-designating-the-minister-of-the-environment-as-the-minister-responsible-for-the-administration-and-enforcement-of-subsections-363-to-6-of-the-fisheries-act/)** — `2026-09-30` | `6 Pages`
-- `[`O-2.4`]` **[Oceans Act](https://www.indexdata.org/oceans-act/)** — `2026-09-30` | `57 Pages`
-- `[`F-22`]` **[Fisheries Improvement Loans Act](https://www.indexdata.org/fisheries-improvement-loans-act/)** — `2026-09-30` | `12 Pages`
-- `[`F-21`]` **[Fisheries Development Act](https://www.indexdata.org/fisheries-development-act/)** — `2026-09-30` | `7 Pages`
-- `[`F-17`]` **[Great Lakes Fisheries Convention Act](https://www.indexdata.org/great-lakes-fisheries-convention-act/)** — `2026-09-30` | `11 Pages`
-- `[`F-15`]` **[Department of Fisheries and Oceans Act](https://www.indexdata.org/department-of-fisheries-and-oceans-act/)** — `2026-09-30` | `6 Pages`
-- `[`F-14`]` **[Fisheries Act](https://www.indexdata.org/fisheries-act/)** — `2026-09-30` | `112 Pages`
-- `[`C-33`]` **[Coastal Fisheries Protection Act](https://www.indexdata.org/coastal-fisheries-protection-act/)** — `2026-09-30` | `33 Pages`
-- `[`A-14`]` **[Atlantic Fisheries Restructuring Act](https://www.indexdata.org/atlantic-fisheries-restructuring-act/)** — `2026-09-30` | `7 Pages`
-- `[`CA-OPEN-30444c8b-a9f6-4b16-befa-22f967b583e5`]` **[Sponge occurrence and associated species and habitat descriptions derived from the 2021 and 2022 SCUBA diving surveys in the Eastern Shore Islands Area of Interest, Nova Scotia](https://www.indexdata.org/sponge-occurrence-and-associated-species-and-habitat-descriptions-derived-from-the-2021-and-2022-scuba-diving-surveys-in-the-eastern-shore-islands-area-of-interest-nova-scotia/)** — `2025-05-16` | `129 Pages`
-- `[`CA-OA-W7133275554`]` **[Review of the Atlantic Seal management strategy precautionary approach framework](https://www.indexdata.org/review-of-the-atlantic-seal-management-strategy-precautionary-approach-framework/)** — `2025-01-01` | `29 Pages`
 
 ### [Employment and Social Development Canada](https://www.indexdata.org/canada/employment-and-social-development-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/employment-and-social-development-canada/](https://www.indexdata.org/canada/employment-and-social-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/employment-and-social-development-canada/feed/)
 
+- `[`SI-96-87`]` **[Withdrawal from Disposal Order (Wager Bay National Park, N.W.T.)](https://www.indexdata.org/withdrawal-from-disposal-order-wager-bay-national-park-n-w-t/)** — `2026-09-30` | `9 Pages`
+- `[`SI-95-68`]` **[Mohawk Council of Akwesasne Sewage Treatment Plant Remission Order](https://www.indexdata.org/mohawk-council-of-akwesasne-sewage-treatment-plant-remission-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-92-98`]` **[Unemployment Insurance Premiums (Spousal Employment) Remission Order](https://www.indexdata.org/unemployment-insurance-premiums-spousal-employment-remission-order/)** — `2026-09-30` | `6 Pages`
+- `[`SI-91-104`]` **[Secretary of State Authority to Prescribe Fees Order (Student Loans)](https://www.indexdata.org/secretary-of-state-authority-to-prescribe-fees-order-student-loans/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2021-19`]` **[Canada Emergency Response Benefit and Employment Insurance Emergency Response Benefit Remission Order](https://www.indexdata.org/canada-emergency-response-benefit-and-employment-insurance-emergency-response-benefit-remission-order/)** — `2026-09-30` | `6 Pages`
 - `[`SI-2002-60`]` **[Remission Order Concerning Interest Accruing on Certain Unemployment Insurance Overpayments](https://www.indexdata.org/remission-order-concerning-interest-accruing-on-certain-unemployment-insurance-overpayments/)** — `2026-09-30` | `5 Pages`
 - `[`S-23`]` **[Canada Student Loans Act](https://www.indexdata.org/canada-student-loans-act/)** — `2026-09-30` | `32 Pages`
-- `[`O-9`]` **[Old Age Security Act](https://www.indexdata.org/old-age-security-act/)** — `2026-09-30` | `96 Pages`
-- `[`N-4.5`]` **[An Act to amend the Bills of Exchange Act, the Interpretation Act and the Canada Labour Code (National Day for Truth and Reconciliation)](https://www.indexdata.org/an-act-to-amend-the-bills-of-exchange-act-the-interpretation-act-and-the-canada-labour-code-national-day-for-truth-and-reconciliation/)** — `2026-09-30` | `5 Pages`
-- `[`L-4`]` **[Fair Wages and Hours of Labour Act](https://www.indexdata.org/fair-wages-and-hours-of-labour-act/)** — `2026-09-30` | `3 Pages`
-- `[`L-2`]` **[Canada Labour Code](https://www.indexdata.org/canada-labour-code/)** — `2026-09-30` | `369 Pages`
-- `[`E-5.6`]` **[Employment Insurance Act](https://www.indexdata.org/employment-insurance-act/)** — `2026-09-30` | `297 Pages`
-- `[`C-4.4`]` **[Canada Employment Insurance Financing Board Act](https://www.indexdata.org/canada-employment-insurance-financing-board-act/)** — `2026-09-30` | `3 Pages`
-- `[`C-13`]` **[Canadian Centre for Occupational Health and Safety Act](https://www.indexdata.org/canadian-centre-for-occupational-health-and-safety-act/)** — `2026-09-30` | `15 Pages`
-
-### [Global Affairs Canada](https://www.indexdata.org/canada/global-affairs-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/global-affairs-canada/](https://www.indexdata.org/canada/global-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/global-affairs-canada/feed/)
-
-- `[`SI-2023-23`]` **[Certain Fees Paid or Payable for the Acquisition of Permanent Resident Status, Travel Document Services and Consular Services (Resettlement from Afghanistan) Remission Order](https://www.indexdata.org/certain-fees-paid-or-payable-for-the-acquisition-of-permanent-resident-status-travel-document-services-and-consular-services-resettlement-from-afghanistan-remission-order/)** — `2026-09-30` | `6 Pages`
-- `[`SI-2021-22`]` **[Certain Fees in Respect of Travel Document Services and Consular Services (COVID-19 Pandemic) Remission Order](https://www.indexdata.org/certain-fees-in-respect-of-travel-document-services-and-consular-services-covid-19-pandemic-remission-order/)** — `2026-09-30` | `6 Pages`
-- `[`SI-2011-48`]` **[Order Designating the Minister of Foreign Affairs for the Purposes of the National Capital Act](https://www.indexdata.org/order-designating-the-minister-of-foreign-affairs-for-the-purposes-of-the-national-capital-act/)** — `2026-09-30` | `3 Pages`
-- `[`SI-2006-11`]` **[Order Amalgamating and Combining the Department of International Trade and the Department of Foreign Affairs and International Trade under the Minister and the Deputy Minister of Foreign Affairs](https://www.indexdata.org/order-amalgamating-and-combining-the-department-of-international-trade-and-the-department-of-foreign-affairs-and-international-trade-under-the-minister-and-the-deputy-minister-of-foreign-affairs/)** — `2026-09-30` | `4 Pages`
-- `[`SI-2003-208`]` **[Order Transferring from the Minister of Foreign Affairs to the Minister of International Trade the Control and Supervision of the Department of International Trade](https://www.indexdata.org/order-transferring-from-the-minister-of-foreign-affairs-to-the-minister-of-international-trade-the-control-and-supervision-of-the-department-of-international-trade/)** — `2026-09-30` | `4 Pages`
-- `[`S-14.5`]` **[Special Economic Measures Act](https://www.indexdata.org/special-economic-measures-act/)** — `2026-09-30` | `22 Pages`
-- `[`F-27.5`]` **[Department of Foreign Affairs, Trade and Development Act](https://www.indexdata.org/department-of-foreign-affairs-trade-and-development-act/)** — `2026-09-30` | `11 Pages`
-- `[`E-22`]` **[Department of Foreign Affairs and International Trade Act](https://www.indexdata.org/department-of-foreign-affairs-and-international-trade-act/)** — `2026-09-30` | `3 Pages`
-- `[`D-2`]` **[Diplomatic Service (Special) Superannuation Act](https://www.indexdata.org/diplomatic-service-special-superannuation-act/)** — `2026-09-30` | `21 Pages`
 
 ### [Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-national-defence/](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
 
+- `[`SOR-2000-14`]` **[Military Police Professional Code of Conduct](https://www.indexdata.org/military-police-professional-code-of-conduct/)** — `2026-09-30` | `7 Pages`
+- `[`SI-93-76`]` **[Proclamation Designating Certain Countries as States Eligible to Participate in the Military Training Assistance Program](https://www.indexdata.org/proclamation-designating-certain-countries-as-states-eligible-to-participate-in-the-military-training-assistance-program/)** — `2026-09-30` | `5 Pages`
 - `[`SI-2013-51`]` **[Order Renaming the Canadian Armed Forces Naval Jack as the Canadian Naval Ensign and Approving its use by the Canadian Forces](https://www.indexdata.org/order-renaming-the-canadian-armed-forces-naval-jack-as-the-canadian-naval-ensign-and-approving-its-use-by-the-canadian-forces/)** — `2026-09-30` | `4 Pages`
 - `[`SI-2007-87`]` **[Testing of Unregistered US Military Herbicides, including Agent Orange, at CFB Gagetown Ex Gratia Payments Order](https://www.indexdata.org/testing-of-unregistered-us-military-herbicides-including-agent-orange-at-cfb-gagetown-ex-gratia-payments-order/)** — `2026-09-30` | `7 Pages`
 - `[`SI-2006-4`]` **[Order Designating the Position of Deputy Minister of National Defence to the Position of Deputy Head in Respect of the Communications Security Establishment](https://www.indexdata.org/order-designating-the-position-of-deputy-minister-of-national-defence-to-the-position-of-deputy-head-in-respect-of-the-communications-security-establishment/)** — `2026-09-30` | `3 Pages`
 - `[`SI-2003-93`]` **[Order Authorizing the Minister of the Environment to Exercise, with the Concurrence of the Minister of National Defence, the Administration of Certain Public Lands](https://www.indexdata.org/order-authorizing-the-minister-of-the-environment-to-exercise-with-the-concurrence-of-the-minister-of-national-defence-the-administration-of-certain-public-lands/)** — `2026-09-30` | `5 Pages`
-- `[`N-5`]` **[National Defence Act](https://www.indexdata.org/national-defence-act/)** — `2026-09-30` | `416 Pages`
-- `[`I-9.8`]` **[Injured Military Members Compensation Act](https://www.indexdata.org/injured-military-members-compensation-act/)** — `2026-09-30` | `13 Pages`
+
+### [Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
+
+- `[`SOR-2001-206`]` **[Radiocommunication Act (Paragraph 9(1)(c)) Exemption Order](https://www.indexdata.org/radiocommunication-act-paragraph-91c-exemption-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-146`]` **[Order Transferring to the Department of External Affairs the Control and Supervision of the Investment Development Division in Investment Canada](https://www.indexdata.org/order-transferring-to-the-department-of-external-affairs-the-control-and-supervision-of-the-investment-development-division-in-investment-canada/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-138`]` **[Order Transferring to the Department of Supply and Services the Control and Supervision of the Government Telecommunications Agency and the Translation Bureau and Transferring to the Minister of Supply and Services the Powers, Duties and Functions of the Minister of Public Works and Amalgamating and Combining the Department of Supply and Services and the Department of Public Works Under the Minister of Supply and Services](https://www.indexdata.org/order-transferring-to-the-department-of-supply-and-services-the-control-and-supervision-of-the-government-telecommunications-agency-and-the-translation-bureau-and-transferring-to-the-minister-of-suppl/)** — `2026-09-30` | `5 Pages`
+- `[`SI-86-216`]` **[Order Designating the Registrar of the Competition Tribunal as Deputy Head with Respect to the Registry of the Competition Tribunal](https://www.indexdata.org/order-designating-the-registrar-of-the-competition-tribunal-as-deputy-head-with-respect-to-the-registry-of-the-competition-tribunal/)** — `2026-09-30` | `3 Pages`
+- `[`SI-2022-11`]` **[Remission Order for Certain Fees Under the Bankruptcy and Insolvency General Rules from March 31 to August 31, 2020](https://www.indexdata.org/remission-order-for-certain-fees-under-the-bankruptcy-and-insolvency-general-rules-from-march-31-to-august-31-2020/)** — `2026-09-30` | `4 Pages`
+- `[`R-2`]` **[Radiocommunication Act](https://www.indexdata.org/radiocommunication-act/)** — `2026-09-30` | `39 Pages`
 
 ### [Governor in Council](https://www.indexdata.org/canada/governor-in-council/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/governor-in-council/](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
@@ -1864,31 +1604,17 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/governor-in-counc
 - `[`SI-2000-90`]` **[Order Directing that Certain Documents be Discontinued](https://www.indexdata.org/order-directing-that-certain-documents-be-discontinued-6/)** — `2026-09-30` | `5 Pages`
 - `[`SI-2000-84`]` **[Proclamation Declaring October 31st of each year to be “National UNICEF Day”](https://www.indexdata.org/proclamation-declaring-october-31st-of-each-year-to-be-national-unicef-day/)** — `2026-09-30` | `5 Pages`
 
-### [Government of Ontario](https://www.indexdata.org/canada/government-of-ontario/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-ontario/](https://www.indexdata.org/canada/government-of-ontario/) | [RSS Feed](https://www.indexdata.org/canada/government-of-ontario/feed/)
+### [Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/fisheries-and-oceans-canada/](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 
-- `[`CA-OPEN-324ff147-816c-4143-a414-d1e973dca140`]` **[Police Use of Force Race-Based Data](https://www.indexdata.org/police-use-of-force-race-based-data/)** — `2023-11-09` | `4 Pages`
-- `[`CA-OPEN-967a942d-9397-4e7c-8f42-77fc422c0a37`]` **[Provincial (Stream) Water Quality Monitoring Network](https://www.indexdata.org/provincial-stream-water-quality-monitoring-network/)** — `2020-01-11` | `3 Pages`
+- `[`SI-88-41`]` **[Minister of Fisheries and Oceans Authority to Prescribe Fees or Charges Orders](https://www.indexdata.org/minister-of-fisheries-and-oceans-authority-to-prescribe-fees-or-charges-orders/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2024-52`]` **[Order Transferring from the Minister of Fisheries and Oceans to the Minister of Foreign Affairs the Powers, Duties and Functions in Relation to the Great Lakes Fishery Commission](https://www.indexdata.org/order-transferring-from-the-minister-of-fisheries-and-oceans-to-the-minister-of-foreign-affairs-the-powers-duties-and-functions-in-relation-to-the-great-lakes-fishery-commission/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2014-21`]` **[Order Designating the Minister of the Environment as the Minister Responsible for the Administration and Enforcement of Subsections 36(3) to (6) of the Fisheries Act](https://www.indexdata.org/order-designating-the-minister-of-the-environment-as-the-minister-responsible-for-the-administration-and-enforcement-of-subsections-363-to-6-of-the-fisheries-act/)** — `2026-09-30` | `6 Pages`
 
 ### [Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
 
 - `[`SI-2003-107`]` **[Order Respecting the Withdrawal from Disposal of Certain Tracts of Territorial Lands in the Northwest Territories (Nành’Geenjit Gwitr’it Tigwaa’in/Working for the Land: Gwich’in Land Use Plan), N.W.T.](https://www.indexdata.org/order-respecting-the-withdrawal-from-disposal-of-certain-tracts-of-territorial-lands-in-the-northwest-territories-nanhgeenjit-gwitrit-tigwaain-working-for-the-land-gwich/)** — `2026-09-30` | `3 Pages`
-
-### [Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-alberta/](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
-
-- `[`CA-OPEN-10b1dee3-c85a-45bd-8a17-f9954d4306b6`]` **[Office of the Public Guardian and Trustee Caseload](https://www.indexdata.org/office-of-the-public-guardian-and-trustee-caseload/)** — `2025-04-07` | `6 Pages`
-
-### [Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-british-columbia/](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
-
-- `[`CA-OPEN-9932cf39-456b-49f4-ba76-307f8ead57a2`]` **[Biogeoclimatic Projections](https://www.indexdata.org/biogeoclimatic-projections/)** — `2025-04-29` | `49 Pages`
-
-### [Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-northwest-territories/](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
-
-- `[`CA-OPEN-32a2842e-491d-744a-bfbf-b33f4a4a2e1c`]` **[Mobile Core Bathurst Caribou Management Zone](https://www.indexdata.org/mobile-core-bathurst-caribou-management-zone/)** — `2026-04-01` | `5 Pages`
 
 ---
 

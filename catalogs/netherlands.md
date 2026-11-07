@@ -3,9 +3,10 @@
 **Primary Institutional Repository:** [Index Data (https://www.indexdata.org)](https://www.indexdata.org) | [Back to Global Master Index](../README.md)  
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/netherlands/](https://www.indexdata.org/netherlands/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/netherlands/feed/](https://www.indexdata.org/netherlands/feed/)  
+**Wikidata Sovereign Entity:** [`Q55`](https://www.wikidata.org/wiki/Q55)  
 **Governing Open-Government Framework:** *Auteurswet Art. 11 & Art. 15b / Who / CC0 1.0 / CC BY 4.0*  
 **Total Indexed Dossiers in Netherlands:** `31` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-07 05:55 UTC`
+**Last Automated Sync:** `2026-11-07 06:47 UTC`
 
 ---
 
