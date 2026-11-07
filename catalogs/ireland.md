@@ -5,14 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `167` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-07 19:14 UTC`
+**Total Indexed Dossiers in Ireland:** `172` across `38` issuing authorities  
+**Last Automated Sync:** `2026-11-07 20:05 UTC`
 
 ---
 
 ## Issuing Authorities in Ireland (38 Authorities)
 
 - **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
+- **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
 - **[Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
 - **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
 - **[Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
@@ -20,7 +21,6 @@
 - **[Minister for Finance](https://www.indexdata.org/ireland/minister-for-finance/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-finance/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-finance/feed/)
 - **[Minister for Housing, Local Government and Heritage](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/feed/)
 - **[Department of Agriculture and Fisheries](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/feed/)
-- **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
 - **[Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
 - **[Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
 - **[National Treasury Management Agency (NTMA)](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/) | [RSS Feed](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/feed/)
@@ -53,7 +53,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–167 of 167)
+## Indexed Statutory & Regulatory Dossiers (Records 1–172 of 172)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -79,6 +79,21 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](ht
 - `[`IE-BILL-2026-65`]` **[Planning for Constitutional Change Bill 2026](https://www.indexdata.org/planning-for-constitutional-change-bill-2026/)** — `2026-06-16` | `10 Pages`
 - `[`IE-BILL-2026-64`]` **[Forestry (Critical Infrastructure) (Amendment) Bill 2026](https://www.indexdata.org/forestry-critical-infrastructure-amendment-bill-2026/)** — `2026-06-16` | `8 Pages`
 - `[`IE-BILL-2026-61`]` **[Prohibition of Sulky-Racing Bill 2026](https://www.indexdata.org/prohibition-of-sulky-racing-bill-2026/)** — `2026-06-10` | `8 Pages`
+
+### [Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
+
+- `[`IE-OA-W7125698991`]` **[School-level patterns of non-attendance, 2022/23 and 2023/24](https://www.indexdata.org/school-level-patterns-of-non-attendance-2022-23-and-2023-24/)** — `2026-01-26` | `187 Pages`
+- `[`IE-OA-W4416310111`]` **[Afterschool care for school-aged children in Ireland](https://www.indexdata.org/afterschool-care-for-school-aged-children-in-ireland/)** — `2025-11-18` | `91 Pages`
+- `[`IE-OA-W4414653055`]` **[Projections of regional demand and bed capacity requirements for public acute hospitals in Ireland, 2023–2040: Based on the Hippocrates model](https://www.indexdata.org/projections-of-regional-demand-and-bed-capacity-requirements-for-public-acute-hospitals-in-ireland-2023-2040-based-on-the-hippocrates-model/)** — `2025-09-30` | `137 Pages`
+- `[`IE-OA-W4413705277`]` **[Experience of bullying and bullying behaviours in childhood and adolescence](https://www.indexdata.org/experience-of-bullying-and-bullying-behaviours-in-childhood-and-adolescence/)** — `2025-08-26` | `88 Pages`
+- `[`IE-OA-W4411245221`]` **[Including non-resident fathers in cohort research: a scoping study](https://www.indexdata.org/including-non-resident-fathers-in-cohort-research-a-scoping-study/)** — `2025-06-04` | `86 Pages`
+- `[`IE-OA-W4405297299`]` **[Quarterly Economic Commentary, Winter 2024](https://www.indexdata.org/quarterly-economic-commentary-winter-2024/)** — `2024-12-12` | `128 Pages`
+- `[`IE-OA-W4402192158`]` **[Poverty, income inequality and living standards in Ireland: Fourth annual report](https://www.indexdata.org/poverty-income-inequality-and-living-standards-in-ireland-fourth-annual-report/)** — `2024-09-03` | `63 Pages`
+- `[`IE-OA-W4408360575`]` **[Adjusting estimates of poverty for the cost of disability](https://www.indexdata.org/adjusting-estimates-of-poverty-for-the-cost-of-disability/)** — `2024-03-12` | `70 Pages`
+- `[`IE-OA-W4389548308`]` **[Distributional impact of tax and welfare policies: Budget 2024](https://www.indexdata.org/distributional-impact-of-tax-and-welfare-policies-budget-2024/)** — `2023-12-11` | `19 Pages`
+- `[`IE-OA-W4224233040`]` **[Origin and Integration: Housing and Family among migrants in the 2016 Irish Census](https://www.indexdata.org/origin-and-integration-housing-and-family-among-migrants-in-the-2016-irish-census/)** — `2022-04-07` | `152 Pages`
+- `[`IE-OA-W4317179106`]` **[Wages and working conditions of non-Irish nationals in Ireland](https://www.indexdata.org/wages-and-working-conditions-of-non-irish-nationals-in-ireland/)** — `2022-01-19` | `141 Pages`
 
 ### [Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
@@ -161,16 +176,6 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-ag
 - `[`IE-MARINE-10793-405`]` **[Papers Presented to the 7th Session of the EIFAC Working Party on Eel](https://www.indexdata.org/papers-presented-to-the-7th-session-of-the-eifac-working-party-on-eel/)** — `2011-07-06` | `83 Pages`
 - `[`IE-MARINE-10793-397`]` **[The Effects of Drainage on the Trimblestown River](https://www.indexdata.org/the-effects-of-drainage-on-the-trimblestown-river/)** — `2011-07-06` | `21 Pages`
 - `[`IE-MARINE-10793-396`]` **[Pelagic Eggs and Young Stages of Fishes Taken on the South Coast of Ireland in 1967](https://www.indexdata.org/pelagic-eggs-and-young-stages-of-fishes-taken-on-the-south-coast-of-ireland-in-1967/)** — `2011-07-01` | `35 Pages`
-
-### [Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)
-Canonical Authority Archive: [https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
-
-- `[`IE-OA-W7125698991`]` **[School-level patterns of non-attendance, 2022/23 and 2023/24](https://www.indexdata.org/school-level-patterns-of-non-attendance-2022-23-and-2023-24/)** — `2026-01-26` | `187 Pages`
-- `[`IE-OA-W4416310111`]` **[Afterschool care for school-aged children in Ireland](https://www.indexdata.org/afterschool-care-for-school-aged-children-in-ireland/)** — `2025-11-18` | `91 Pages`
-- `[`IE-OA-W4414653055`]` **[Projections of regional demand and bed capacity requirements for public acute hospitals in Ireland, 2023–2040: Based on the Hippocrates model](https://www.indexdata.org/projections-of-regional-demand-and-bed-capacity-requirements-for-public-acute-hospitals-in-ireland-2023-2040-based-on-the-hippocrates-model/)** — `2025-09-30` | `137 Pages`
-- `[`IE-OA-W4413705277`]` **[Experience of bullying and bullying behaviours in childhood and adolescence](https://www.indexdata.org/experience-of-bullying-and-bullying-behaviours-in-childhood-and-adolescence/)** — `2025-08-26` | `88 Pages`
-- `[`IE-OA-W4411245221`]` **[Including non-resident fathers in cohort research: a scoping study](https://www.indexdata.org/including-non-resident-fathers-in-cohort-research-a-scoping-study/)** — `2025-06-04` | `86 Pages`
-- `[`IE-OA-W4405297299`]` **[Quarterly Economic Commentary, Winter 2024](https://www.indexdata.org/quarterly-economic-commentary-winter-2024/)** — `2024-12-12` | `128 Pages`
 
 ### [Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)

@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `901` across `15` issuing authorities  
-**Last Automated Sync:** `2026-11-07 19:14 UTC`
+**Total Indexed Dossiers in International:** `903` across `15` issuing authorities  
+**Last Automated Sync:** `2026-11-07 20:05 UTC`
 
 ---
 
@@ -14,8 +14,8 @@
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`159` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`144` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
-- **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`96` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
-- **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`89` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
+- **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
+- **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`66` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
@@ -29,7 +29,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–901 of 901)
+## Indexed Statutory & Regulatory Dossiers (Records 1–903 of 903)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -457,6 +457,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/organisati
 - `[`OECD-PUB-7E843E1D-EN`]` **[Enhancing corporate tax systems to support business dynamism](https://www.indexdata.org/enhancing-corporate-tax-systems-to-support-business-dynamism/)** — `2026-10-11` | `60 Pages`
 - `[`OECD-PUB-58C3689D-EN`]` **[SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia](https://www.indexdata.org/sme-policy-index-for-western-balkans-and-turkiye-2026-economy-profile-for-serbia/)** — `2026-10-04` | `281 Pages`
 - `[`OECD-PUB-B5DEA5F5-EN`]` **[Better Borders for Trade, Traceability and Enforcement](https://www.indexdata.org/better-borders-for-trade-traceability-and-enforcement/)** — `2026-10-02` | `95 Pages`
+- `[`OECD-PUB-1D6FB668-EN`]` **[Spending Better for Children through Social Policy](https://www.indexdata.org/spending-better-for-children-through-social-policy/)** — `2026-10-01` | `308 Pages`
 - `[`OECD-PUB-464C0CFF-EN`]` **[Government Unstuck](https://www.indexdata.org/government-unstuck/)** — `2026-09-29` | `135 Pages`
 - `[`OECD-PUB-3FF6655C-EN`]` **[Advancing the Implementation of the EU Carbon Border Adjustment Mechanism](https://www.indexdata.org/advancing-the-implementation-of-the-eu-carbon-border-adjustment-mechanism/)** — `2026-09-26` | `104 Pages`
 - `[`OECD-PUB-B4968BBC-EN`]` **[Education at a Glance 2026](https://www.indexdata.org/education-at-a-glance-2026/)** — `2026-09-25` | `558 Pages`
@@ -552,6 +553,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-f
 - `[`EFSA-KJ-17832127`]` **[Assessing the suitability of non-crop plant species for guideline testing](https://www.indexdata.org/assessing-the-suitability-of-non-crop-plant-species-for-guideline-testing/)** — `2026-11-07` | `11 Pages`
 - `[`EFSA-KJ-22942321`]` **[An update on data collection using iMammalia](https://www.indexdata.org/an-update-on-data-collection-using-imammalia/)** — `2026-09-24` | `23 Pages`
 - `[`EFSA-OA-W7212082650`]` **[Predictive modelling of chemical mixture toxicity to amphibians in Discoglossus galganoi larvae and metamorphs](https://www.indexdata.org/predictive-modelling-of-chemical-mixture-toxicity-to-amphibians-in-discoglossus-galganoi-larvae-and-metamorphs/)** — `2026-09-09` | `12 Pages`
+- `[`EFSA-OA-W7203943307`]` **[The gut microbiome organ](https://www.indexdata.org/the-gut-microbiome-organ/)** — `2026-08-01` | `97 Pages`
 - `[`EFSA-CELLAR-609799DF-8C7B-11F1-9262-01AA75ED71A1`]` **[Statement of revenue and expenditure for the 2026 financial year – European Food Safety Authority (EFSA) – amending budget No 3](https://www.indexdata.org/statement-of-revenue-and-expenditure-for-the-2026-financial-year-european-food-safety-authority-efsa-amending-budget-no-3/)** — `2026-07-31` | `6 Pages`
 - `[`EFSA-OA-W7167909967`]` **[Making Waves: towards a harmonized approach for monitoring antimicrobial resistance in European surface waters](https://www.indexdata.org/making-waves-towards-a-harmonized-approach-for-monitoring-antimicrobial-resistance-in-european-surface-waters/)** — `2026-07-10` | `8 Pages`
 - `[`EFSA-CELLAR-69E35B18-7751-11F1-BF5E-01AA75ED71A1`]` **[EFSA consolidated annual activity report 2025](https://www.indexdata.org/efsa-consolidated-annual-activity-report-2025/)** — `2026-07-02` | `103 Pages`

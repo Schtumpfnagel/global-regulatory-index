@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,349` across `53` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,351` across `53` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-07 19:14 UTC`
+**Last Automated Sync:** `2026-11-07 20:05 UTC`
 
 ---
 
@@ -31,8 +31,8 @@
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
+- **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
-- **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
 - **[Department for Business, Innovation, Science and Trade](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/feed/)
@@ -69,11 +69,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,349 of 2,349)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,351 of 2,351)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2025-537`]` **[The Proceeds of Crime Act 2002 (References to Financial Investigators) (England and Wales and Northern Ireland) (Amendment) Order 2025](https://www.indexdata.org/the-proceeds-of-crime-act-2002-references-to-financial-investigators-england-and-wales-and-northern-ireland-amendment-order-2025/)** — `2025-04-30` | `2 Pages`
 - `[`UKSI-2025-530`]` **[The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) (Amendment) Regulations 2025](https://www.indexdata.org/the-northern-ireland-troubles-legacy-and-reconciliation-act-2023-commencement-no-2-and-transitional-provisions-amendment-regulations-2025/)** — `2025-04-28` | `2 Pages`
 - `[`UKSI-2025-523`]` **[The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2025](https://www.indexdata.org/the-ferrybridge-multifuel-2-power-station-amendment-order-2025/)** — `2025-04-25` | `2 Pages`
 - `[`UKSI-2025-527`]` **[The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025](https://www.indexdata.org/the-a12-chelmsford-to-a120-widening-development-consent-corrections-order-2025/)** — `2025-04-24` | `8 Pages`
@@ -929,6 +930,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 
+- `[`UKSI-2025-536`]` **[The Online Procedure Rules (Specified Proceedings) Regulations 2025](https://www.indexdata.org/the-online-procedure-rules-specified-proceedings-regulations-2025/)** — `2025-04-29` | `2 Pages`
 - `[`UKSI-2025-466`]` **[The Civil Proceedings and Magistrates' Courts Fees (Amendment) Order 2025](https://www.indexdata.org/the-civil-proceedings-and-magistrates-courts-fees-amendment-order-2025/)** — `2025-04-07` | `4 Pages`
 - `[`UKSI-2025-351`]` **[The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025](https://www.indexdata.org/the-court-and-tribunal-fees-miscellaneous-amendments-order-2025/)** — `2025-03-13` | `28 Pages`
 - `[`UKSI-2025-112`]` **[The Valuation Tribunal for England (Membership and Transitional Provisions) (Amendment) Regulations 2025](https://www.indexdata.org/the-valuation-tribunal-for-england-membership-and-transitional-provisions-amendment-regulations-2025/)** — `2025-02-04` | `2 Pages`
