@@ -116,6 +116,7 @@ tags:
   - digital-sansad
   - belgium
   - sciensano
+  - bira-iasb
   - geological-survey-of-belgium
   - belgian-federal-government
   - public-health
@@ -132,6 +133,28 @@ tags:
   - naro
   - qst
   - government-of-japan
+  - netherlands
+  - rijksoverheid
+  - overheid
+  - tractatenblad
+  - staatscourant
+  - tweedekamer
+  - wodc
+  - rivm
+  - nlr
+  - cwi
+  - cokz
+  - rdw
+  - pbl
+  - knmi
+  - cbs
+  - tno
+  - deltares
+  - nioz
+  - nvwa
+  - rdi
+  - prorail
+  - acm
   - russia
   - gaidar-institute
   - imemo-ras
@@ -162,8 +185,8 @@ configs:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-07 00:45 UTC`  
-**Total Indexed Public Records in Catalog:** `36,652` across `739` issuing authorities
+**Last Automated Sync:** `2026-11-07 01:46 UTC`  
+**Total Indexed Public Records in Catalog:** `36,691` across `746` issuing authorities
 
 ---
 
@@ -178,13 +201,13 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | Jurisdiction | Indexed Dossiers | Issuing Authorities | Governing Open-Government Framework | Canonical Archive Hub |
 | :--- | :--- | :--- | :--- | :--- |
 | **[United States](https://www.indexdata.org/united-states/)** | `15,089` | `217` | *17 U.S.C. § 105* | [https://www.indexdata.org/united-states/](https://www.indexdata.org/united-states/) |
-| **[United Kingdom](https://www.indexdata.org/united-kingdom/)** | `2,310` | `53` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.indexdata.org/united-kingdom/](https://www.indexdata.org/united-kingdom/) |
+| **[United Kingdom](https://www.indexdata.org/united-kingdom/)** | `2,315` | `53` | *Open Government Licence v3.0 (OGL v3.0)* | [https://www.indexdata.org/united-kingdom/](https://www.indexdata.org/united-kingdom/) |
 | **[Canada](https://www.indexdata.org/canada/)** | `5,342` | `25` | *Reproduction of Federal Law Order (SI/97-5)* | [https://www.indexdata.org/canada/](https://www.indexdata.org/canada/) |
-| **[European Union](https://www.indexdata.org/european-union/)** | `3,063` | `29` | *Commission Decision 2011/833/EU* | [https://www.indexdata.org/european-union/](https://www.indexdata.org/european-union/) |
+| **[European Union](https://www.indexdata.org/european-union/)** | `3,071` | `29` | *Commission Decision 2011/833/EU* | [https://www.indexdata.org/european-union/](https://www.indexdata.org/european-union/) |
 | **[Australia](https://www.indexdata.org/australia/)** | `1,142` | `18` | *Creative Commons Attribution 4.0 (CC BY 4.0)* | [https://www.indexdata.org/australia/](https://www.indexdata.org/australia/) |
 | **[United Nations](https://www.indexdata.org/united-nations/)** | `6,923` | `171` | *UN Administrative Instruction ST/AI/189/Add.9/Rev.2* | [https://www.indexdata.org/united-nations/](https://www.indexdata.org/united-nations/) |
 | **[Ireland](https://www.indexdata.org/ireland/)** | `159` | `34` | *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)* | [https://www.indexdata.org/ireland/](https://www.indexdata.org/ireland/) |
-| **[International](https://www.indexdata.org/international/)** | `882` | `15` | *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0* | [https://www.indexdata.org/international/](https://www.indexdata.org/international/) |
+| **[International](https://www.indexdata.org/international/)** | `884` | `15` | *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0* | [https://www.indexdata.org/international/](https://www.indexdata.org/international/) |
 | **[Austria](https://www.indexdata.org/austria/)** | `155` | `17` | *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0* | [https://www.indexdata.org/austria/](https://www.indexdata.org/austria/) |
 | **[Switzerland](https://www.indexdata.org/switzerland/)** | `180` | `5` | *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)* | [https://www.indexdata.org/switzerland/](https://www.indexdata.org/switzerland/) |
 | **[Finland](https://www.indexdata.org/finland/)** | `65` | `13` | *Copyright Act (404/1961) § 9 & Act on the Openness of Government Activities (621/1999) / CC BY 4.0* | [https://www.indexdata.org/finland/](https://www.indexdata.org/finland/) |
@@ -192,15 +215,16 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[South Korea](https://www.indexdata.org/south-korea/)** | `66` | `7` | *Copyright Act Art. 7 & Art. 24-2 / KOGL Type 1* | [https://www.indexdata.org/south-korea/](https://www.indexdata.org/south-korea/) |
 | **[Norway](https://www.indexdata.org/norway/)** | `71` | `9` | *Åndsverkloven § 14 / NLOD 2.0* | [https://www.indexdata.org/norway/](https://www.indexdata.org/norway/) |
 | **[Italy](https://www.indexdata.org/italy/)** | `57` | `3` | *Italian Copyright Act (Law No. 633/1941, Art. 5), Legislative Decree No. 36/2006 (PSI), CAD (D.Lgs. 82/2005, Art. 52) & CC BY 4.0 / IODL 2.0* | [https://www.indexdata.org/italy/](https://www.indexdata.org/italy/) |
-| **[Philippines](https://www.indexdata.org/philippines/)** | `36` | `8` | *R.A. 8293 § 176.1 & Open Data Philippines Policy* | [https://www.indexdata.org/philippines/](https://www.indexdata.org/philippines/) |
+| **[Philippines](https://www.indexdata.org/philippines/)** | `42` | `8` | *R.A. 8293 § 176.1 & Open Data Philippines Policy* | [https://www.indexdata.org/philippines/](https://www.indexdata.org/philippines/) |
 | **[Poland](https://www.indexdata.org/poland/)** | `42` | `2` | *Polish Copyright Act (Dz.U. 1994 nr 24 poz. 83, Art. 4) & Open Data Act (Dz.U. 2021 poz. 1641)* | [https://www.indexdata.org/poland/](https://www.indexdata.org/poland/) |
 | **[South Africa](https://www.indexdata.org/south-africa/)** | `46` | `15` | *South African Copyright Act 98 of 1978, s. 12(8)(a)* | [https://www.indexdata.org/south-africa/](https://www.indexdata.org/south-africa/) |
 | **[India](https://www.indexdata.org/india/)** | `11` | `3` | *Indian Copyright Act 1957, s. 52(1)(q) & GODL-India* | [https://www.indexdata.org/india/](https://www.indexdata.org/india/) |
-| **[Belgium](https://www.indexdata.org/belgium/)** | `25` | `3` | *Code of Economic Law Art. XI.172 & Belgian Act of 4 May 2016 (PSI / CC0 / CC BY 4.0)* | [https://www.indexdata.org/belgium/](https://www.indexdata.org/belgium/) |
+| **[Belgium](https://www.indexdata.org/belgium/)** | `25` | `3` | *Belgian Code of Economic Law (CDE/WER) Art. XI.172 & Law of 4 May 2016 on Re-use of Public Sector Information* | [https://www.indexdata.org/belgium/](https://www.indexdata.org/belgium/) |
 | **[Brazil](https://www.indexdata.org/brazil/)** | `83` | `2` | *Brazilian Copyright Act (Law No. 9,610/1998, Art. 8, IV) & Access to Information Act (Law No. 12,527/2011 / Decree No. 8,777/2016)* | [https://www.indexdata.org/brazil/](https://www.indexdata.org/brazil/) |
 | **[Japan](https://www.indexdata.org/japan/)** | `55` | `7` | *Japanese Copyright Act (Act No. 48 of 1970), Art. 13 & Government of Japan Standard Terms of Use v2.0 (CC BY 4.0)* | [https://www.indexdata.org/japan/](https://www.indexdata.org/japan/) |
+| **[Netherlands](https://www.indexdata.org/netherlands/)** | `14` | `5` | *Auteurswet Art. 11 & Art. 15b / Who / CC0 1.0 / CC BY 4.0* | [https://www.indexdata.org/netherlands/](https://www.indexdata.org/netherlands/) |
 | **[Russia](https://www.indexdata.org/russia/)** | `24` | `2` | *Civil Code of the Russian Federation, Part IV, Art. 1259(6)(1) & Open Government Data Standard* | [https://www.indexdata.org/russia/](https://www.indexdata.org/russia/) |
-| **[Sweden](https://www.indexdata.org/sweden/)** | `36` | `3` | *URL 9 § (1960:729) / SFS 2022:818 / CC BY 4.0* | [https://www.indexdata.org/sweden/](https://www.indexdata.org/sweden/) |
+| **[Sweden](https://www.indexdata.org/sweden/)** | `44` | `7` | *URL 9 § (1960:729) / SFS 2022:818 / CC BY 4.0* | [https://www.indexdata.org/sweden/](https://www.indexdata.org/sweden/) |
 | **[China](https://www.indexdata.org/china/)** | `26` | `14` | *PRC Copyright Law Art. 5 & HKSAR Cap. 528 / DATA.GOV.HK Terms* | [https://www.indexdata.org/china/](https://www.indexdata.org/china/) |
 | **[Czechia](https://www.indexdata.org/czechia/)** | `33` | `8` | *Act No. 121/2000 Coll. § 3(a) & Act No. 106/1999 Coll. (CC BY 4.0 / Public Domain)* | [https://www.indexdata.org/czechia/](https://www.indexdata.org/czechia/) |
 | **[Germany](https://www.indexdata.org/germany/)** | `148` | `5` | *§ 5 UrhG / § 12a EGovG / DNG (Datenlizenz Deutschland dl-de/by-2-0 & CC BY 4.0)* | [https://www.indexdata.org/germany/](https://www.indexdata.org/germany/) |
@@ -210,7 +234,6 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Israel](https://www.indexdata.org/israel/)** | `128` | `14` | *Copyright Act, 5768-2007, Section 6 (Official Publications) & Data.gov.il Open Government Data License* | [https://www.indexdata.org/israel/](https://www.indexdata.org/israel/) |
 | **[Portugal](https://www.indexdata.org/portugal/)** | `4` | `2` | *Law No. 68/2021 (Open Data Principles), Law No. 26/2016 (LADA) & Art. 7 CDADC (Decree-Law No. 63/85)* | [https://www.indexdata.org/portugal/](https://www.indexdata.org/portugal/) |
 | **[Singapore](https://www.indexdata.org/singapore/)** | `76` | `10` | *SG Open Data Licence v1.0 / Copyright Act 2021* | [https://www.indexdata.org/singapore/](https://www.indexdata.org/singapore/) |
-| **[Netherlands](https://www.indexdata.org/netherlands/)** | `4` | `2` | *Open Government / Statutory Public Sector Reuse Framework* | [https://www.indexdata.org/netherlands/](https://www.indexdata.org/netherlands/) |
 
 ## Primary Issuing Authority Archive Hubs (Top 35 by Dossier Volume)
 
@@ -231,7 +254,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Security Council](https://www.indexdata.org/united-nations/security-council/)** | United Nations | `504` | [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/) |
 | **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** | United Kingdom | `501` | [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/) |
 | **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** | United Nations | `478` | [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/) |
-| **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** | European Union | `467` | [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) |
+| **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** | European Union | `474` | [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) |
 | **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** | United Nations | `462` | [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/) |
 | **[Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)** | Australia | `376` | [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/) |
 | **[Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)** | Canada | `360` | [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/) |
@@ -252,7 +275,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 | **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** | United Kingdom | `183` | [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/) |
 | **[Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)** | United States | `179` | [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/) |
 
-*To browse all `739` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.indexdata.org/methodology/)**.*
+*To browse all `746` individual government department, ministry, agency, and multilateral organ archives, visit the **[Indexed Jurisdictions & Issuing Authorities Directory](https://www.indexdata.org/methodology/)**.*
 
 ## Dataset Files & Schema
 
@@ -261,7 +284,7 @@ Full analytical briefings, structured HTML compliance matrices, semantic definit
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
-| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `SOR-2026-45`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`, `IE-ACT-2026-37`, `WB-WDS-34442292`, `AT-ERV-1991-52`, `CH-FEDLEX-1993-1798-20250101`, `FI-VTV-28851`, `FR-INFOFI-109684-20120412`, `KR-KIEP-10-11644-KIEP-EAER-2025-29-4-389`, `NO-CRISTIN-2345678`, `OECD-PUB-257230EC-EN`, `FAO-CE2176EN`, `IT-INAPP-5255`, `PH-GPPB-15640`, `PL-PAIH-205192`, `WIPO-60683`, `ZA-BILL-B27-2026`, `IN-SANSAD-1538515`, `BE-SCIENSANO-12770`, `BR-BCB-COPOM-281`, `JP-EGOV-910DBEE5`, `RU-IEP-W4391234567`, `SE-TRV-1993256`, `AT-GOEG-30`, `CN-HK-DATAGOV-cf1f9135-c1c1-4aab-a950-1bd019c20bb4-spec`, `CZ-CNB-W7223661835`, `DE-UBA-123456789-12516`, `DK-DIIS-57737`, `EBA-CELLAR-834F95C1-5FBB-11F1-9AF0-01AA75ED71A1`, `ECA-CELLAR-46AB6960-D410-11F1-9458-01AA75ED71A1`, `ECDC-CELLAR-8E8ABA71-D27C-11F1-9458-01AA75ED71A1`, `EE-RK-MEDIA-261540`, `EEA-RPT-EHRF2130`, `EFSA-CELLAR-8F30D7BB-BE06-11F1-9AAE-01AA75ED71A1`, `EIB-DOC-principles-impact-management-en`, `EIOPA-CELLAR-BFF84DAF-742C-11F1-9800-01AA75ED71A1`, `EMA-DOC-scientific-guideline-investigation-chiral-active-substances`, `ES-DEFENSOR-5733`, `ESMA-PRIII-4773044`, `IL-IIA-EN-23395`, `ILO-CR-10.54394-000343494`, `PT-OA-W4415628910`, `SG-MINLAW-ANNEX-B-SUMMARY-OF-KEY-REFORMS`, `UK-PARL-OE-18207`, `UNCTAD-ASYCUDA-MEDIA-12520`, `UNDP-UNDL-4131203`, `UNHCR-NADA-1573`, `US-DOT-ROSAP-94173`) |
+| `document_id` | `string` | Official statutory or registry identifier (e.g., `2026-06947`, `UKSI-2026-142`, `SOR-2026-45`, `CELEX-32026R0815`, `F2026L01394`, `UN-S-RES-2728-2024`, `IE-ACT-2026-37`, `WB-WDS-34442292`, `AT-ERV-1991-52`, `CH-FEDLEX-1993-1798-20250101`, `FI-VTV-28851`, `FR-INFOFI-109684-20120412`, `KR-KIEP-10-11644-KIEP-EAER-2025-29-4-389`, `NO-CRISTIN-2345678`, `OECD-PUB-257230EC-EN`, `FAO-CE2176EN`, `IT-INAPP-5255`, `PH-GPPB-15640`, `PL-PAIH-205192`, `WIPO-60683`, `ZA-BILL-B27-2026`, `IN-SANSAD-1538515`, `BE-SCIENSANO-12770`, `BR-BCB-COPOM-281`, `JP-EGOV-910DBEE5`, `NL-NLR-1855`, `RU-IEP-W4391234567`, `SE-TRV-1993256`, `AT-GOEG-30`, `CN-HK-DATAGOV-cf1f9135-c1c1-4aab-a950-1bd019c20bb4-spec`, `CZ-CNB-W7223661835`, `DE-UBA-123456789-12516`, `DK-DIIS-57737`, `EBA-CELLAR-834F95C1-5FBB-11F1-9AF0-01AA75ED71A1`, `ECA-CELLAR-46AB6960-D410-11F1-9458-01AA75ED71A1`, `ECDC-CELLAR-8E8ABA71-D27C-11F1-9458-01AA75ED71A1`, `EE-RK-MEDIA-261540`, `EEA-RPT-EHRF2130`, `EFSA-CELLAR-8F30D7BB-BE06-11F1-9AAE-01AA75ED71A1`, `EIB-DOC-principles-impact-management-en`, `EIOPA-CELLAR-BFF84DAF-742C-11F1-9800-01AA75ED71A1`, `EMA-DOC-scientific-guideline-investigation-chiral-active-substances`, `ES-DEFENSOR-5733`, `ESMA-PRIII-4773044`, `IL-IIA-EN-23395`, `ILO-CR-10.54394-000343494`, `PT-OA-W4415628910`, `SG-MINLAW-ANNEX-B-SUMMARY-OF-KEY-REFORMS`, `UK-PARL-OE-18207`, `UNCTAD-ASYCUDA-MEDIA-12520`, `UNDP-UNDL-4131203`, `UNHCR-NADA-1573`, `US-DOT-ROSAP-94173`) |
 | `jurisdiction` | `string` | Issuing sovereign jurisdiction or multilateral classification |
 | `authority` | `string` | Issuing government department, ministry, agency, or international institution |
 | `publication_date` | `string` | Official publication or enactment date (`YYYY-MM-DD`) |
