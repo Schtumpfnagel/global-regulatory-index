@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
 **Total Indexed Dossiers in Ireland:** `167` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-07 17:33 UTC`
+**Last Automated Sync:** `2026-11-07 17:55 UTC`
 
 ---
 

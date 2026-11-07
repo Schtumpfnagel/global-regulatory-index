@@ -5,18 +5,18 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `107` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-07 17:33 UTC`
+**Total Indexed Dossiers in Philippines:** `110` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-07 17:55 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (9 Authorities)
 
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
+- **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
-- **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
-- **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
-- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
+- **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
+- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 - **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
@@ -24,7 +24,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–107 of 107)
+## Indexed Statutory & Regulatory Dossiers (Records 1–110 of 110)
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
@@ -52,6 +52,29 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-ind
 - `[`PH-MARINA-26038`]` **[RFQ DRIED MANGOES AND BANANA CHIPS](https://www.indexdata.org/rfq-dried-mangoes-and-banana-chips/)** — `2026-10-24` | `8 Pages`
 - `[`PH-MARINA-26037`]` **[PHILGEPS POSTING DRIED MANGOES AND BANANA CHIPS](https://www.indexdata.org/philgeps-posting-dried-mangoes-and-banana-chips/)** — `2026-10-24` | `3 Pages`
 
+### [Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)
+Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-development-authority/](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
+
+- `[`PH-CDA-71185`]` **[RFQ Procurement of Full board Accommodation Services – Koronadal Sept 27-Oct 2](https://www.indexdata.org/rfq-procurement-of-full-board-accommodation-services-koronadal-sept-27-oct-2/)** — `2026-10-23` | `3 Pages`
+- `[`PH-CDA-71184`]` **[RFQ Procurement of Full board Accommodation Services – KIDAPAWAN Oct 19-21, 2026](https://www.indexdata.org/rfq-procurement-of-full-board-accommodation-services-kidapawan-oct-19-21-2026/)** — `2026-10-23` | `3 Pages`
+- `[`PH-CDA-71183`]` **[RFQ Procurement of Venue, Meals and Accommodation Services – Koronadal Oct 26-28](https://www.indexdata.org/rfq-procurement-of-venue-meals-and-accommodation-services-koronadal-oct-26-28/)** — `2026-10-23` | `3 Pages`
+- `[`PH-CDA-71182`]` **[RFQ Procurement of Supplies for Training Kits – Coop Summit](https://www.indexdata.org/rfq-procurement-of-supplies-for-training-kits-coop-summit/)** — `2026-10-23` | `2 Pages`
+- `[`PH-CDA-71181`]` **[RFQ Procurement of Food, Venue and Accommodation Services – GSC Oct 14-16](https://www.indexdata.org/rfq-procurement-of-food-venue-and-accommodation-services-gsc-oct-14-16/)** — `2026-10-23` | `3 Pages`
+- `[`PH-CDA-71180`]` **[RFQ Procurement of Transportation Services – GSC Oct 14-16](https://www.indexdata.org/rfq-procurement-of-transportation-services-gsc-oct-14-16/)** — `2026-10-23` | `3 Pages`
+- `[`PH-CDA-71179`]` **[RFQ-2026-139 VENUE Enterprise Batch 3 Oct 18-23, 2026 KID City](https://www.indexdata.org/rfq-2026-139-venue-enterprise-batch-3-oct-18-23-2026-kid-city/)** — `2026-10-23` | `3 Pages`
+- `[`PH-CDA-71178`]` **[RFQ Procurement of Food, Venue and Accommodation Services – Koronadal Nov 4-6](https://www.indexdata.org/rfq-procurement-of-food-venue-and-accommodation-services-koronadal-nov-4-6/)** — `2026-10-23` | `3 Pages`
+- `[`PH-CDA-71177`]` **[RFQ Procurement of Food, Venue and Accommodation Services Koronadal Nov 22-27](https://www.indexdata.org/rfq-procurement-of-food-venue-and-accommodation-services-koronadal-nov-22-27/)** — `2026-10-23` | `3 Pages`
+- `[`PH-CDA-71176`]` **[RFQ Procurement of Food, Venue and Accommodation Services GSC Nov 8-13](https://www.indexdata.org/rfq-procurement-of-food-venue-and-accommodation-services-gsc-nov-8-13/)** — `2026-10-23` | `3 Pages`
+- `[`PH-CDA-71175`]` **[RFQ Procurement of Food, Venue and Accommodation Services GSC Nov 10-11](https://www.indexdata.org/rfq-procurement-of-food-venue-and-accommodation-services-gsc-nov-10-11/)** — `2026-10-23` | `3 Pages`
+- `[`PH-CDA-71174`]` **[RFQ-2026-172 training kits Cooperative Enterprise and Development on November 8-13, 2026 at Gensan](https://www.indexdata.org/rfq-2026-172-training-kits-cooperative-enterprise-and-development-on-november-8-13-2026-at-gensan/)** — `2026-10-23` | `3 Pages`
+- `[`PH-CDA-71173`]` **[RFQ-2026-171 Transportation Cooperative Enterprise and Development November 8-13, 2026 at Gensan SIGNED](https://www.indexdata.org/rfq-2026-171-transportation-cooperative-enterprise-and-development-november-8-13-2026-at-gensan-signed/)** — `2026-10-23` | `2 Pages`
+- `[`PH-CDA-71104`]` **[Write-Up Youth Leadership Training](https://www.indexdata.org/write-up-youth-leadership-training/)** — `2026-10-21` | `5 Pages`
+- `[`PH-CDA-71103`]` **[Write-Up Youth Leadership Training](https://www.indexdata.org/write-up-youth-leadership-training-2/)** — `2026-10-21` | `5 Pages`
+- `[`PH-CDA-71010`]` **[CDA NEP 2027](https://www.indexdata.org/cda-nep-2027/)** — `2026-10-14` | `2 Pages`
+- `[`PH-CDA-71003`]` **[CDA Region III Extension Office Final APP CY 2026 version 2](https://www.indexdata.org/cda-region-iii-extension-office-final-app-cy-2026-version-2/)** — `2026-10-14` | `4 Pages`
+- `[`PH-CDA-70932`]` **[GPPB-prescribed-PMR- First sem 2026](https://www.indexdata.org/gppb-prescribed-pmr-first-sem-2026/)** — `2026-10-09` | `2 Pages`
+- `[`PH-CDA-70808`]` **[FINAL -Fate has it for Cebu Province CSF Cooperative (With Pics) (2)](https://www.indexdata.org/final-fate-has-it-for-cebu-province-csf-cooperative-with-pics-2/)** — `2026-10-05` | `2 Pages`
+
 ### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 
@@ -75,28 +98,6 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-dru
 - `[`PH-FDA-123177`]` **[ADA1-PLMD](https://www.indexdata.org/ada1-plmd/)** — `2026-11-04` | `3 Pages`
 - `[`PH-FDA-123176`]` **[ADA1-PLMD](https://www.indexdata.org/ada1-plmd-2/)** — `2026-11-04` | `3 Pages`
 
-### [Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)
-Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-development-authority/](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
-
-- `[`PH-CDA-71185`]` **[RFQ Procurement of Full board Accommodation Services – Koronadal Sept 27-Oct 2](https://www.indexdata.org/rfq-procurement-of-full-board-accommodation-services-koronadal-sept-27-oct-2/)** — `2026-10-23` | `3 Pages`
-- `[`PH-CDA-71184`]` **[RFQ Procurement of Full board Accommodation Services – KIDAPAWAN Oct 19-21, 2026](https://www.indexdata.org/rfq-procurement-of-full-board-accommodation-services-kidapawan-oct-19-21-2026/)** — `2026-10-23` | `3 Pages`
-- `[`PH-CDA-71183`]` **[RFQ Procurement of Venue, Meals and Accommodation Services – Koronadal Oct 26-28](https://www.indexdata.org/rfq-procurement-of-venue-meals-and-accommodation-services-koronadal-oct-26-28/)** — `2026-10-23` | `3 Pages`
-- `[`PH-CDA-71182`]` **[RFQ Procurement of Supplies for Training Kits – Coop Summit](https://www.indexdata.org/rfq-procurement-of-supplies-for-training-kits-coop-summit/)** — `2026-10-23` | `2 Pages`
-- `[`PH-CDA-71181`]` **[RFQ Procurement of Food, Venue and Accommodation Services – GSC Oct 14-16](https://www.indexdata.org/rfq-procurement-of-food-venue-and-accommodation-services-gsc-oct-14-16/)** — `2026-10-23` | `3 Pages`
-- `[`PH-CDA-71180`]` **[RFQ Procurement of Transportation Services – GSC Oct 14-16](https://www.indexdata.org/rfq-procurement-of-transportation-services-gsc-oct-14-16/)** — `2026-10-23` | `3 Pages`
-- `[`PH-CDA-71179`]` **[RFQ-2026-139 VENUE Enterprise Batch 3 Oct 18-23, 2026 KID City](https://www.indexdata.org/rfq-2026-139-venue-enterprise-batch-3-oct-18-23-2026-kid-city/)** — `2026-10-23` | `3 Pages`
-- `[`PH-CDA-71178`]` **[RFQ Procurement of Food, Venue and Accommodation Services – Koronadal Nov 4-6](https://www.indexdata.org/rfq-procurement-of-food-venue-and-accommodation-services-koronadal-nov-4-6/)** — `2026-10-23` | `3 Pages`
-- `[`PH-CDA-71177`]` **[RFQ Procurement of Food, Venue and Accommodation Services Koronadal Nov 22-27](https://www.indexdata.org/rfq-procurement-of-food-venue-and-accommodation-services-koronadal-nov-22-27/)** — `2026-10-23` | `3 Pages`
-- `[`PH-CDA-71176`]` **[RFQ Procurement of Food, Venue and Accommodation Services GSC Nov 8-13](https://www.indexdata.org/rfq-procurement-of-food-venue-and-accommodation-services-gsc-nov-8-13/)** — `2026-10-23` | `3 Pages`
-- `[`PH-CDA-71175`]` **[RFQ Procurement of Food, Venue and Accommodation Services GSC Nov 10-11](https://www.indexdata.org/rfq-procurement-of-food-venue-and-accommodation-services-gsc-nov-10-11/)** — `2026-10-23` | `3 Pages`
-- `[`PH-CDA-71174`]` **[RFQ-2026-172 training kits Cooperative Enterprise and Development on November 8-13, 2026 at Gensan](https://www.indexdata.org/rfq-2026-172-training-kits-cooperative-enterprise-and-development-on-november-8-13-2026-at-gensan/)** — `2026-10-23` | `3 Pages`
-- `[`PH-CDA-71173`]` **[RFQ-2026-171 Transportation Cooperative Enterprise and Development November 8-13, 2026 at Gensan SIGNED](https://www.indexdata.org/rfq-2026-171-transportation-cooperative-enterprise-and-development-november-8-13-2026-at-gensan-signed/)** — `2026-10-23` | `2 Pages`
-- `[`PH-CDA-71104`]` **[Write-Up Youth Leadership Training](https://www.indexdata.org/write-up-youth-leadership-training/)** — `2026-10-21` | `5 Pages`
-- `[`PH-CDA-71103`]` **[Write-Up Youth Leadership Training](https://www.indexdata.org/write-up-youth-leadership-training-2/)** — `2026-10-21` | `5 Pages`
-- `[`PH-CDA-71010`]` **[CDA NEP 2027](https://www.indexdata.org/cda-nep-2027/)** — `2026-10-14` | `2 Pages`
-- `[`PH-CDA-71003`]` **[CDA Region III Extension Office Final APP CY 2026 version 2](https://www.indexdata.org/cda-region-iii-extension-office-final-app-cy-2026-version-2/)** — `2026-10-14` | `4 Pages`
-- `[`PH-CDA-70932`]` **[GPPB-prescribed-PMR- First sem 2026](https://www.indexdata.org/gppb-prescribed-pmr-first-sem-2026/)** — `2026-10-09` | `2 Pages`
-
 ### [Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-investments/](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 
@@ -117,6 +118,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-inv
 - `[`PH-BOI-20554`]` **[Industry Profile – Chemicals aoJun2026](https://www.indexdata.org/industry-profile-chemicals-aojun2026/)** — `2026-09-22` | `2 Pages`
 - `[`PH-BOI-20552`]` **[Industry Profile – Oleochemicals aoJune 2026](https://www.indexdata.org/industry-profile-oleochemicals-aojune-2026/)** — `2026-09-22` | `2 Pages`
 - `[`PH-BOI-20537`]` **[Draft Guidelines in the Availment of the EDR Incentive](https://www.indexdata.org/draft-guidelines-in-the-availment-of-the-edr-incentive/)** — `2026-09-17` | `7 Pages`
+- `[`PH-BOI-20528`]` **[2026 VAT Zero-Rating Certificate Sept](https://www.indexdata.org/2026-vat-zero-rating-certificate-sept/)** — `2026-09-15` | `17 Pages`
 
 ### [National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/national-privacy-commission/](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
@@ -134,6 +136,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/national-pri
 - `[`PH-NPC-54144`]` **[2026.10.21 RFQ Forensic Laboratory Equipment](https://www.indexdata.org/2026-10-21-rfq-forensic-laboratory-equipment/)** — `2026-10-21` | `21 Pages`
 - `[`PH-NPC-54143`]` **[2026.10.20 RFQ FY 2027 Operational Planning and Conduct of FY 2027 GAD Plans and Budget Workshop - Transportation](https://www.indexdata.org/2026-10-20-rfq-fy-2027-operational-planning-and-conduct-of-fy-2027-gad-plans-and-budget-workshop-transportation/)** — `2026-10-21` | `12 Pages`
 - `[`PH-NPC-54131`]` **[NPC Advisory Opinion No. 2026-010](https://www.indexdata.org/npc-advisory-opinion-no-2026-010/)** — `2026-10-20` | `8 Pages`
+- `[`PH-NPC-54130`]` **[Npc Advisory Opinion No. 2026-011 redacted](https://www.indexdata.org/npc-advisory-opinion-no-2026-011-redacted/)** — `2026-10-20` | `5 Pages`
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
