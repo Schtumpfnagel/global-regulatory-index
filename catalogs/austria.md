@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/austria/feed/](https://www.indexdata.org/austria/feed/)  
 **Wikidata Sovereign Entity:** [`Q40`](https://www.wikidata.org/wiki/Q40)  
 **Governing Open-Government Framework:** *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0*  
-**Total Indexed Dossiers in Austria:** `155` across `17` issuing authorities  
-**Last Automated Sync:** `2026-11-07 18:29 UTC`
+**Total Indexed Dossiers in Austria:** `156` across `17` issuing authorities  
+**Last Automated Sync:** `2026-11-07 18:49 UTC`
 
 ---
 
@@ -14,7 +14,7 @@
 
 - **[Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
 - **[Austrian National Public Health Institute (Gesundheit Österreich GmbH - GÖG)](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/) | [RSS Feed](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/feed/)
-- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
+- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
 - **[Oesterreichische Nationalbank (OeNB)](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/) | [RSS Feed](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/feed/)
 - **[Federal Ministry of Education, Science and Research of Austria](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/feed/)
 - **[Austrian Energy Regulatory Authority (E-Control)](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/) | [RSS Feed](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/feed/)
@@ -32,7 +32,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–155 of 155)
+## Indexed Statutory & Regulatory Dossiers (Records 1–156 of 156)
 
 ### [Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
@@ -135,6 +135,7 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-academy
 - `[`AT-STAT-OEAW-W7223097957`]` **[Making the Impossible Possible: Uniting TMT and DIA for Scalable Low-Input-Proteomics](https://www.indexdata.org/making-the-impossible-possible-uniting-tmt-and-dia-for-scalable-low-input-proteomics/)** — `2026-10-21` | `33 Pages`
 - `[`AT-STAT-OEAW-W7223025268`]` **[A circalunar oscillator and moonlight tune the circadian clock to moon phase via cwo/Dec1&2](https://www.indexdata.org/a-circalunar-oscillator-and-moonlight-tune-the-circadian-clock-to-moon-phase-via-cwo-dec12/)** — `2026-10-20` | `77 Pages`
 - `[`AT-STAT-OEAW-W7203474790`]` **[Proof-of-Principle Implementation of Quantum Key Distribution in an Indefinite Causal Order](https://www.indexdata.org/proof-of-principle-implementation-of-quantum-key-distribution-in-an-indefinite-causal-order/)** — `2026-10-18` | `29 Pages`
+- `[`AT-STAT-OEAW-W7168475094`]` **[Classical and quantum mechanics across representations: An operational reading of the Wigner-Weyl correspondence](https://www.indexdata.org/classical-and-quantum-mechanics-across-representations-an-operational-reading-of-the-wigner-weyl-correspondence/)** — `2026-10-16` | `13 Pages`
 - `[`AT-STAT-OEAW-W7221689927`]` **[Arabidopsis–Swede Midge as an experimentally tractable insect gall model to dissect plant reprogramming](https://www.indexdata.org/arabidopsis-swede-midge-as-an-experimentally-tractable-insect-gall-model-to-dissect-plant-reprogramming/)** — `2026-10-13` | `30 Pages`
 - `[`AT-STAT-OEAW-W7211964990`]` **[Læmple: a benchmarking framework for virus lineage deconvolution tools for SARS-CoV-2 from wastewater](https://www.indexdata.org/laemple-a-benchmarking-framework-for-virus-lineage-deconvolution-tools-for-sars-cov-2-from-wastewater/)** — `2026-10-13` | `18 Pages`
 - `[`AT-STAT-OEAW-W4417299609`]` **[Towards local and compositional measurements in quantum field theory](https://www.indexdata.org/towards-local-and-compositional-measurements-in-quantum-field-theory/)** — `2026-10-08` | `33 Pages`
