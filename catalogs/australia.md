@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,256` across `33` issuing authorities  
-**Last Automated Sync:** `2026-11-07 20:05 UTC`
+**Total Indexed Dossiers in Australia:** `1,261` across `34` issuing authorities  
+**Last Automated Sync:** `2026-11-07 20:41 UTC`
 
 ---
 
-## Issuing Authorities in Australia (33 Authorities)
+## Issuing Authorities in Australia (34 Authorities)
 
 - **[Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)** (`376` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
 - **[Attorney-General's Department](https://www.indexdata.org/australia/attorney-general-s-department/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.indexdata.org/australia/attorney-general-s-department/feed/)
@@ -38,17 +38,18 @@
 - **[Aestra](https://www.indexdata.org/australia/aestra/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/australia/aestra/) | [RSS Feed](https://www.indexdata.org/australia/aestra/feed/)
 - **[Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
 - **[Northern Territory — Health](https://www.indexdata.org/australia/northern-territory-health/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-health/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-health/feed/)
+- **[Northern Territory — People, Sport and Culture](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/feed/)
+- **[Northern Territory — Corrections](https://www.indexdata.org/australia/northern-territory-corrections/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-corrections/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-corrections/feed/)
 - **[Northern Territory — Logistics and Infrastructure](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/feed/)
-- **[Northern Territory — Corrections](https://www.indexdata.org/australia/northern-territory-corrections/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-corrections/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-corrections/feed/)
 - **[Northern Territory — Chief Minister and Cabinet](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/feed/)
-- **[Northern Territory — People, Sport and Culture](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/feed/)
 - **[Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
 - **[Australian Business Register](https://www.indexdata.org/australia/australian-business-register/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
+- **[Housing, Local Government and Community Development](https://www.indexdata.org/australia/housing-local-government-and-community-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/housing-local-government-and-community-development/) | [RSS Feed](https://www.indexdata.org/australia/housing-local-government-and-community-development/feed/)
 - **[Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,256 of 1,256)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,261 of 1,261)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1395,6 +1396,23 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 - `[`AU-NT-8fc4a745-67c6-44cf-87f9`]` **[Mothers and Babies Report 2014](https://www.indexdata.org/mothers-and-babies-report-2014/)** — `2026-02-17` | `60 Pages`
 - `[`AU-NT-2bc4f1cc-ac9e-44b0-a3bf`]` **[Mothers and Babies Report 2015](https://www.indexdata.org/mothers-and-babies-report-2015/)** — `2026-02-17` | `62 Pages`
 
+### [Northern Territory — People, Sport and Culture](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/feed/)
+
+- `[`AU-NT-46875c93-8bba-4175-a294`]` **[Territory ANZACS — Data Quality Statement](https://www.indexdata.org/territory-anzacs-data-quality-statement/)** — `2024-12-18` | `2 Pages`
+- `[`AU-NT-ed662ae4-956c-4e69-aeb6`]` **[Cyclone Tracy collection — Data Quality Statement](https://www.indexdata.org/cyclone-tracy-collection-data-quality-statement/)** — `2024-10-03` | `2 Pages`
+- `[`AU-NT-dd74da90-4fe5-4f20-b90f`]` **[World War II — Data Quality Statement](https://www.indexdata.org/world-war-ii-data-quality-statement/)** — `2024-10-03` | `2 Pages`
+- `[`AU-NT-c31dac5e-b874-4059-9456`]` **[Goyder survey expedition — Data Quality Statement](https://www.indexdata.org/goyder-survey-expedition-data-quality-statement/)** — `2024-10-03` | `2 Pages`
+- `[`AU-NT-1839b9e2-2b7b-454c-9f37`]` **[Urban Sport Voucher and Learn to Swim Data — Data Quality Statement](https://www.indexdata.org/urban-sport-voucher-and-learn-to-swim-data-data-quality-statement/)** — `2024-09-23` | `2 Pages`
+
+### [Northern Territory — Corrections](https://www.indexdata.org/australia/northern-territory-corrections/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-corrections/](https://www.indexdata.org/australia/northern-territory-corrections/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-corrections/feed/)
+
+- `[`AU-NT-9bad4acb-1a06-4d39-b5bb`]` **[Average Weekly Juveniles in Detention to March 2020 — Data Quality Statement](https://www.indexdata.org/average-weekly-juveniles-in-detention-to-march-2020-data-quality-statement/)** — `2025-04-03` | `2 Pages`
+- `[`AU-NT-70bc917c-6711-4bb1-a902`]` **[Average Weekly Juveniles in Detention to December 2019 — Data Quality Statement](https://www.indexdata.org/average-weekly-juveniles-in-detention-to-december-2019-data-quality-statement/)** — `2025-04-03` | `2 Pages`
+- `[`AU-NT-1b7a7f04-2e6e-4288-a553`]` **[Average Weekly Juveniles in Detention September 2019 — Data_Quality_Statement](https://www.indexdata.org/average-weekly-juveniles-in-detention-september-2019-data_quality_statement/)** — `2025-04-03` | `2 Pages`
+- `[`AU-NT-844ecc26-b497-4936-96d6`]` **[Average Weekly Juveniles in Detention - Current — Data Quality Statement](https://www.indexdata.org/average-weekly-juveniles-in-detention-current-data-quality-statement/)** — `2024-09-23` | `2 Pages`
+
 ### [Northern Territory — Logistics and Infrastructure](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/feed/)
 
@@ -1403,24 +1421,11 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 - `[`AU-NT-91f556ee-c92c-452f-a6e2`]` **[Super Tuesday Bike Count Darwin 2025 — Super Tuesday Commuter Bike Count - Darwin 2025](https://www.indexdata.org/super-tuesday-bike-count-darwin-2025-super-tuesday-commuter-bike-count-darwin-2025/)** — `2025-12-11` | `49 Pages`
 - `[`AU-NT-7a4a72a3-e87b-41c4-85f9`]` **[Super Tuesday Bike Count Katherine 2025 — Super Tuesday Commuter Bike Count - Katherine 2025](https://www.indexdata.org/super-tuesday-bike-count-katherine-2025-super-tuesday-commuter-bike-count-katherine-2025/)** — `2025-12-11` | `18 Pages`
 
-### [Northern Territory — Corrections](https://www.indexdata.org/australia/northern-territory-corrections/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-corrections/](https://www.indexdata.org/australia/northern-territory-corrections/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-corrections/feed/)
-
-- `[`AU-NT-9bad4acb-1a06-4d39-b5bb`]` **[Average Weekly Juveniles in Detention to March 2020 — Data Quality Statement](https://www.indexdata.org/average-weekly-juveniles-in-detention-to-march-2020-data-quality-statement/)** — `2025-04-03` | `2 Pages`
-- `[`AU-NT-70bc917c-6711-4bb1-a902`]` **[Average Weekly Juveniles in Detention to December 2019 — Data Quality Statement](https://www.indexdata.org/average-weekly-juveniles-in-detention-to-december-2019-data-quality-statement/)** — `2025-04-03` | `2 Pages`
-- `[`AU-NT-1b7a7f04-2e6e-4288-a553`]` **[Average Weekly Juveniles in Detention September 2019 — Data_Quality_Statement](https://www.indexdata.org/average-weekly-juveniles-in-detention-september-2019-data_quality_statement/)** — `2025-04-03` | `2 Pages`
-
 ### [Northern Territory — Chief Minister and Cabinet](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/feed/)
 
 - `[`AU-NT-db8bac3f-d28b-42e0-a936`]` **[Story of Our Children and Young People — Story of Our Children and Young People Report 2019](https://www.indexdata.org/story-of-our-children-and-young-people-story-of-our-children-and-young-people-report-2019/)** — `2025-05-28` | `112 Pages`
 - `[`AU-NT-7f6a5d8b-93c2-4542-acc0`]` **[Story of Our Children and Young People 2021 Update — Story of Our Children and Young People Report 2021](https://www.indexdata.org/story-of-our-children-and-young-people-2021-update-story-of-our-children-and-young-people-report-2021/)** — `2025-05-28` | `160 Pages`
-
-### [Northern Territory — People, Sport and Culture](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/feed/)
-
-- `[`AU-NT-46875c93-8bba-4175-a294`]` **[Territory ANZACS — Data Quality Statement](https://www.indexdata.org/territory-anzacs-data-quality-statement/)** — `2024-12-18` | `2 Pages`
-- `[`AU-NT-c31dac5e-b874-4059-9456`]` **[Goyder survey expedition — Data Quality Statement](https://www.indexdata.org/goyder-survey-expedition-data-quality-statement/)** — `2024-10-03` | `2 Pages`
 
 ### [Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
@@ -1432,6 +1437,11 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/victoria-depar
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-business-register/](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
 
 - `[`AU-DATA-5bd7fcab-e315-42cb-8daf`]` **[ABN Bulk Extract — ABN Lookup Bulk Extract Readme](https://www.indexdata.org/abn-bulk-extract-abn-lookup-bulk-extract-readme/)** — `2026-11-03` | `11 Pages`
+
+### [Housing, Local Government and Community Development](https://www.indexdata.org/australia/housing-local-government-and-community-development/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/housing-local-government-and-community-development/](https://www.indexdata.org/australia/housing-local-government-and-community-development/) | [RSS Feed](https://www.indexdata.org/australia/housing-local-government-and-community-development/feed/)
+
+- `[`AU-NT-2dcfe0b7-6b4d-4633-9761`]` **[Urban Public Housing Wait Times, Wait List and Allocations December 2020 — Data Quality Statement](https://www.indexdata.org/urban-public-housing-wait-times-wait-list-and-allocations-december-2020-data-quality-statement/)** — `2024-09-23` | `2 Pages`
 
 ### [Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
