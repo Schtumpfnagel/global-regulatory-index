@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `3,292` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `3,301` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]**  
-**Last Automated Sync:** `2026-11-07 20:41 UTC`
+**Last Automated Sync:** `2026-11-07 21:47 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,021` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`671` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`679` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`624` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
-- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`150` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
+- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`151` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 - **[European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/) | [Wikidata `Q130146`](https://www.wikidata.org/wiki/Q130146)
 - **[European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
@@ -45,11 +45,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,292 of 3,292)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,301 of 3,301)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
 
+- `[`EIB-EV-ev_individual_loans_acp_en`]` **[EIB Operations Evaluation: Ev Individual Loans ACP](https://www.indexdata.org/eib-operations-evaluation-ev-individual-loans-acp/)** — `2025-04-14` | `70 Pages`
+- `[`EIB-EV-ev_if_operations_femip_acp_en`]` **[Ev if Operations FEMIP ACP](https://www.indexdata.org/ev-if-operations-femip-acp/)** — `2025-04-14` | `50 Pages`
+- `[`EIB-EV-ev_health_projects_en`]` **[EIB Operations Evaluation: Ev Health Projects](https://www.indexdata.org/eib-operations-evaluation-ev-health-projects/)** — `2025-04-14` | `42 Pages`
 - `[`EIB-EV-ev_greece_en`]` **[EIB Operations Evaluation — Ev Greece](https://www.indexdata.org/eib-operations-evaluation-ev-greece/)** — `2025-04-14` | `39 Pages`
 - `[`EIB-EV-ev_global_loans_sme_en`]` **[EIB Operations Evaluation: Ev Global Loans SME](https://www.indexdata.org/eib-operations-evaluation-ev-global-loans-sme/)** — `2025-04-14` | `40 Pages`
 - `[`EIB-EV-ev_global_loans_med_en`]` **[EIB Operations Evaluation: Ev Global Loans med](https://www.indexdata.org/eib-operations-evaluation-ev-global-loans-med/)** — `2025-04-14` | `42 Pages`
@@ -70,6 +73,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EV-ev_climate_action_eu_2010-2014_en`]` **[EIB Operations Evaluation: Ev Climate Action EU 2010 2014](https://www.indexdata.org/eib-operations-evaluation-ev-climate-action-eu-2010-2014/)** — `2025-04-14` | `42 Pages`
 - `[`EIB-EV-ev_briefing_intermediated_lending_if_acp_en`]` **[EIB Operations Evaluation: Ev Briefing Intermediated Lending if ACP](https://www.indexdata.org/eib-operations-evaluation-ev-briefing-intermediated-lending-if-acp/)** — `2025-04-14` | `2 Pages`
 - `[`EIB-EV-ev_briefing_evaluation_spl_en`]` **[EIB Operations Evaluation: Ev Briefing Evaluation spl](https://www.indexdata.org/eib-operations-evaluation-ev-briefing-evaluation-spl/)** — `2025-04-14` | `2 Pages`
+- `[`EIB-EV-ev_briefing_evaluation_of_efsi_en`]` **[EIB Operations Evaluation: Ev Briefing Evaluation of EFSI](https://www.indexdata.org/eib-operations-evaluation-ev-briefing-evaluation-of-efsi/)** — `2025-04-14` | `2 Pages`
 - `[`EIB-EFS-viwg_credit_guarantee_schemes_report_en`]` **[EIB Economics Study: Viwg Credit Guarantee Schemes Report](https://www.indexdata.org/eib-economics-study-viwg-credit-guarantee-schemes-report/)** — `2025-04-14` | `82 Pages`
 - `[`EIB-EFS-three_foundations_report_en`]` **[EIB Economics Study: Three Foundations Report](https://www.indexdata.org/eib-economics-study-three-foundations-report/)** — `2025-04-14` | `58 Pages`
 - `[`EIB-EFS-smes_and_private_sector_financing_in_georgia_en`]` **[EIB Economics Study: SMEs and Private Sector Financing in Georgia](https://www.indexdata.org/eib-economics-study-smes-and-private-sector-financing-in-georgia/)** — `2025-04-14` | `36 Pages`
@@ -153,6 +157,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EFS-eibis_2019_denmark_en`]` **[EIB Investment Survey (EIBIS) 2019 Denmark](https://www.indexdata.org/eib-investment-survey-eibis-2019-denmark/)** — `2025-04-14` | `24 Pages`
 - `[`EIB-EFS-eibis_2019_czech_republic_en`]` **[EIB Investment Survey (EIBIS) 2019 Czech Republic](https://www.indexdata.org/eib-investment-survey-eibis-2019-czech-republic/)** — `2025-04-14` | `24 Pages`
 - `[`EIB-EFS-eibis_2019_cyprus_en`]` **[EIB Investment Survey (EIBIS) 2019 Cyprus](https://www.indexdata.org/eib-investment-survey-eibis-2019-cyprus/)** — `2025-04-14` | `24 Pages`
+- `[`EIB-EFS-eibis_2019_croatia_en`]` **[EIB Investment Survey (EIBIS) 2019 Croatia](https://www.indexdata.org/eib-investment-survey-eibis-2019-croatia/)** — `2025-04-14` | `24 Pages`
 - `[`EIB-DOC-wallonia_finalreport_en`]` **[EIB Policy Document: Wallonia Finalreport](https://www.indexdata.org/eib-policy-document-wallonia-finalreport/)** — `2025-04-14` | `91 Pages`
 - `[`EIB-DOC-tebb-factsheet-en`]` **[EIB Policy Document: Tebb Factsheet](https://www.indexdata.org/eib-policy-document-tebb-factsheet/)** — `2025-04-14` | `2 Pages`
 - `[`EIB-DOC-sweu-factsheet-en`]` **[EIB Policy Document: Sweu Factsheet](https://www.indexdata.org/eib-policy-document-sweu-factsheet/)** — `2025-04-14` | `3 Pages`
@@ -213,6 +218,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-DOC-jessica_strategic_udf_appendix1_en`]` **[JESSICA Strategic udf Appendix1](https://www.indexdata.org/jessica-strategic-udf-appendix1/)** — `2025-04-14` | `55 Pages`
 - `[`EIB-DOC-jessica_stocktaking_final_report_en`]` **[JESSICA Stocktaking Final Report](https://www.indexdata.org/jessica-stocktaking-final-report/)** — `2025-04-14` | `153 Pages`
 - `[`EIB-DOC-jessica_smart_cities_deakin_presentation_en`]` **[JESSICA Smart Cities Deakin Presentation](https://www.indexdata.org/jessica-smart-cities-deakin-presentation/)** — `2025-04-14` | `61 Pages`
+- `[`EIB-DOC-jessica_slovenia_en`]` **[JESSICA Slovenia](https://www.indexdata.org/jessica-slovenia/)** — `2025-04-14` | `174 Pages`
 - `[`EIB-ELENA-project-factsheet-parteon-en`]` **[EIB ELENA Factsheet: Project Factsheet Parteon](https://www.indexdata.org/eib-elena-factsheet-project-factsheet-parteon/)** — `2025-04-11` | `2 Pages`
 - `[`EIB-CM-tap-sg-e-2017-21-pr-final-reply-en`]` **[EIB Complaints Mechanism: Tap sg e 2017 21 pr Final Reply](https://www.indexdata.org/eib-complaints-mechanism-tap-sg-e-2017-21-pr-final-reply/)** — `2025-04-11` | `2 Pages`
 - `[`EIB-CM-tap-sg-e-2017-21-pr-complaint-en`]` **[EIB Complaints Mechanism: Tap sg e 2017 21 pr Complaint](https://www.indexdata.org/eib-complaints-mechanism-tap-sg-e-2017-21-pr-complaint/)** — `2025-04-11` | `2 Pages`
@@ -243,6 +249,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-CM-sg-e-2019-06-iar-banja-luka-doboj-motorway-en`]` **[EIB Complaints Mechanism: Sg e 2019 06 Initial Assessment Report Banja Luka Doboj Motorway](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2019-06-initial-assessment-report-banja-luka-doboj-motorway/)** — `2025-04-11` | `10 Pages`
 - `[`EIB-CM-sg-e-2018-28-road-modernisation-conclusions-report-en1`]` **[EIB Complaints Mechanism: Sg e 2018 28 Road Modernisation Conclusions Report](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2018-28-road-modernisation-conclusions-report/)** — `2025-04-11` | `14 Pages`
 - `[`EIB-CM-sg-e-2018-25-ulaanbaatar-wws-closing-letter-20-11-2020-en`]` **[EIB Complaints Mechanism: Sg e 2018 25 Ulaanbaatar wws Closing Letter 20 11 2020](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2018-25-ulaanbaatar-wws-closing-letter-20-11-2020/)** — `2025-04-11` | `4 Pages`
+- `[`EIB-CM-sg-e-2018-13-18-and-20-23-2019-05-14-complaint-spain-gas-network-expasionii-initialassessmentreport-eng`]` **[EIB Complaints Mechanism: Sg e 2018 13 18 and 20 23 2019 05 14 Complaint Spain gas Network Expasionii Initialassessmentreport](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2018-13-18-and-20-23-2019-05-14-complaint-spain-gas-network-expasionii-initialassessmentreport/)** — `2025-04-11` | `16 Pages`
 - `[`EIB-ELENA-167-project-factsheet-mzbm-tbs-oss`]` **[EIB ELENA Factsheet: 167 Project Factsheet Mzbm tbs oss](https://www.indexdata.org/eib-elena-factsheet-167-project-factsheet-mzbm-tbs-oss/)** — `2025-04-03` | `2 Pages`
 - `[`EIB-ELENA-156-project-factsheet-green-homes`]` **[EIB ELENA Factsheet: 156 Project Factsheet Green Homes](https://www.indexdata.org/eib-elena-factsheet-156-project-factsheet-green-homes/)** — `2025-04-03` | `3 Pages`
 - `[`EIB-ELENA-140-project-factsheet-ee-eln-tartu-renovates`]` **[EIB ELENA Factsheet: 140 Project Factsheet ee eln Tartu Renovates](https://www.indexdata.org/eib-elena-factsheet-140-project-factsheet-ee-eln-tartu-renovates/)** — `2025-04-03` | `2 Pages`
@@ -296,6 +303,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-ELENA-80-project-factsheet-energy-efficiency-in-social-housing-frederikshavn-housing-association`]` **[EIB ELENA Factsheet: 80 Project Factsheet Energy Efficiency in Social Housing Frederikshavn Housing Association](https://www.indexdata.org/eib-elena-factsheet-80-project-factsheet-energy-efficiency-in-social-housing-frederikshavn-housing-association/)** — `2025-03-04` | `2 Pages`
 - `[`EIB-ELENA-79-project-factsheet-renowatt`]` **[EIB ELENA Factsheet: 79 Project Factsheet Renowatt](https://www.indexdata.org/eib-elena-factsheet-79-project-factsheet-renowatt/)** — `2025-03-04` | `2 Pages`
 - `[`EIB-ELENA-76-project-factsheet-green-revolution-of-wealth-in-salento-grows`]` **[EIB ELENA Factsheet: 76 Project Factsheet Green Revolution of Wealth in Salento Grows](https://www.indexdata.org/eib-elena-factsheet-76-project-factsheet-green-revolution-of-wealth-in-salento-grows/)** — `2025-03-04` | `3 Pages`
+- `[`EIB-ELENA-75-project-factsheet-efficiency-for-berlin-properties`]` **[EIB ELENA Factsheet: 75 Project Factsheet Efficiency for Berlin Properties](https://www.indexdata.org/eib-elena-factsheet-75-project-factsheet-efficiency-for-berlin-properties/)** — `2025-03-04` | `2 Pages`
 
 ### [European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-fund-eif/](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
@@ -339,6 +347,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-REC-smei_spain_blueprint`]` **[EIF Corporate Record: Smei Spain Blueprint](https://www.indexdata.org/eif-corporate-record-smei-spain-blueprint/)** — `2024-10-01` | `15 Pages`
 - `[`EIF-REC-smei-spain-siugi-call-for-expression-of-interest-annex-iii`]` **[EIF Corporate Record: Smei Spain Siugi Call for Expression of Interest Annex iii](https://www.indexdata.org/eif-corporate-record-smei-spain-siugi-call-for-expression-of-interest-annex-iii/)** — `2024-10-01` | `23 Pages`
 - `[`EIF-REC-smei-spain-siugi-call-for-expression-of-interest-annex-ii`]` **[EIF Corporate Record: Smei Spain Siugi Call for Expression of Interest Annex ii](https://www.indexdata.org/eif-corporate-record-smei-spain-siugi-call-for-expression-of-interest-annex-ii/)** — `2024-10-01` | `20 Pages`
+- `[`EIF-REC-smei-spain-siugi-call-for-expression-of-interest`]` **[EIF Corporate Record: Smei Spain Siugi Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-smei-spain-siugi-call-for-expression-of-interest/)** — `2024-10-01` | `15 Pages`
 
 ### [European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-environment-agency-eea/](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/)

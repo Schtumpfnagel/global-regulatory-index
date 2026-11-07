@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,261` across `34` issuing authorities  
-**Last Automated Sync:** `2026-11-07 20:41 UTC`
+**Total Indexed Dossiers in Australia:** `1,262` across `34` issuing authorities  
+**Last Automated Sync:** `2026-11-07 21:47 UTC`
 
 ---
 
@@ -41,15 +41,15 @@
 - **[Northern Territory — People, Sport and Culture](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/feed/)
 - **[Northern Territory — Corrections](https://www.indexdata.org/australia/northern-territory-corrections/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-corrections/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-corrections/feed/)
 - **[Northern Territory — Logistics and Infrastructure](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/feed/)
+- **[Housing, Local Government and Community Development](https://www.indexdata.org/australia/housing-local-government-and-community-development/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/housing-local-government-and-community-development/) | [RSS Feed](https://www.indexdata.org/australia/housing-local-government-and-community-development/feed/)
 - **[Northern Territory — Chief Minister and Cabinet](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/feed/)
 - **[Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
 - **[Australian Business Register](https://www.indexdata.org/australia/australian-business-register/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
-- **[Housing, Local Government and Community Development](https://www.indexdata.org/australia/housing-local-government-and-community-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/housing-local-government-and-community-development/) | [RSS Feed](https://www.indexdata.org/australia/housing-local-government-and-community-development/feed/)
 - **[Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,261 of 1,261)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,262 of 1,262)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1421,6 +1421,12 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 - `[`AU-NT-91f556ee-c92c-452f-a6e2`]` **[Super Tuesday Bike Count Darwin 2025 — Super Tuesday Commuter Bike Count - Darwin 2025](https://www.indexdata.org/super-tuesday-bike-count-darwin-2025-super-tuesday-commuter-bike-count-darwin-2025/)** — `2025-12-11` | `49 Pages`
 - `[`AU-NT-7a4a72a3-e87b-41c4-85f9`]` **[Super Tuesday Bike Count Katherine 2025 — Super Tuesday Commuter Bike Count - Katherine 2025](https://www.indexdata.org/super-tuesday-bike-count-katherine-2025-super-tuesday-commuter-bike-count-katherine-2025/)** — `2025-12-11` | `18 Pages`
 
+### [Housing, Local Government and Community Development](https://www.indexdata.org/australia/housing-local-government-and-community-development/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/housing-local-government-and-community-development/](https://www.indexdata.org/australia/housing-local-government-and-community-development/) | [RSS Feed](https://www.indexdata.org/australia/housing-local-government-and-community-development/feed/)
+
+- `[`AU-NT-83408706-b644-452a-bced`]` **[Urban Public Housing Wait Times, Wait List and Allocations June 2020 — Data Quality Statement](https://www.indexdata.org/urban-public-housing-wait-times-wait-list-and-allocations-june-2020-data-quality-statement/)** — `2024-09-23` | `2 Pages`
+- `[`AU-NT-2dcfe0b7-6b4d-4633-9761`]` **[Urban Public Housing Wait Times, Wait List and Allocations December 2020 — Data Quality Statement](https://www.indexdata.org/urban-public-housing-wait-times-wait-list-and-allocations-december-2020-data-quality-statement/)** — `2024-09-23` | `2 Pages`
+
 ### [Northern Territory — Chief Minister and Cabinet](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/feed/)
 
@@ -1437,11 +1443,6 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/victoria-depar
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-business-register/](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
 
 - `[`AU-DATA-5bd7fcab-e315-42cb-8daf`]` **[ABN Bulk Extract — ABN Lookup Bulk Extract Readme](https://www.indexdata.org/abn-bulk-extract-abn-lookup-bulk-extract-readme/)** — `2026-11-03` | `11 Pages`
-
-### [Housing, Local Government and Community Development](https://www.indexdata.org/australia/housing-local-government-and-community-development/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/housing-local-government-and-community-development/](https://www.indexdata.org/australia/housing-local-government-and-community-development/) | [RSS Feed](https://www.indexdata.org/australia/housing-local-government-and-community-development/feed/)
-
-- `[`AU-NT-2dcfe0b7-6b4d-4633-9761`]` **[Urban Public Housing Wait Times, Wait List and Allocations December 2020 — Data Quality Statement](https://www.indexdata.org/urban-public-housing-wait-times-wait-list-and-allocations-december-2020-data-quality-statement/)** — `2024-09-23` | `2 Pages`
 
 ### [Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
