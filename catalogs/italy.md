@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q38`](https://www.wikidata.org/wiki/Q38)  
 **Governing Open-Government Framework:** *Italian Copyright Act (Law No. 633/1941, Art. 5), Legislative Decree No. 36/2006 (PSI), CAD (D.Lgs. 82/2005, Art. 52) & CC BY 4.0 / IODL 2.0*  
 **Total Indexed Dossiers in Italy:** `57` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-07 09:01 UTC`
+**Last Automated Sync:** `2026-11-07 09:59 UTC`
 
 ---
 
