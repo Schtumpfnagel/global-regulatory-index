@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,182` across `25` issuing authorities  
-**Last Automated Sync:** `2026-11-07 10:53 UTC`
+**Total Indexed Dossiers in Australia:** `1,187` across `25` issuing authorities  
+**Last Automated Sync:** `2026-11-07 11:02 UTC`
 
 ---
 
@@ -32,15 +32,15 @@
 - **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
 - **[Department of the Prime Minister and Cabinet](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/feed/)
 - **[Aestra](https://www.indexdata.org/australia/aestra/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/australia/aestra/) | [RSS Feed](https://www.indexdata.org/australia/aestra/feed/)
-- **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
-- **[Northern Territory — Attorney-General’s](https://www.indexdata.org/australia/northern-territory-attorney-general-s/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-attorney-general-s/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-attorney-general-s/feed/)
-- **[Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
-- **[Great Barrier Reef Marine Park Authority](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/) | [RSS Feed](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/feed/)
+- **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
+- **[Northern Territory — Attorney-General’s](https://www.indexdata.org/australia/northern-territory-attorney-general-s/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-attorney-general-s/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-attorney-general-s/feed/)
+- **[Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
+- **[Great Barrier Reef Marine Park Authority](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/) | [RSS Feed](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/feed/)
 - **[Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,182 of 1,182)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,187 of 1,187)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1287,6 +1287,7 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-cen
 - `[`AU-ACIAR-AR2025-26`]` **[Annual Report 2025-26](https://www.indexdata.org/annual-report-2025-26/)** — `2026-10-22` | `122 Pages`
 - `[`AU-ACIAR-CP2026-27`]` **[Corporate Plan 2026–27](https://www.indexdata.org/corporate-plan-2026-27/)** — `2026-08-31` | `27 Pages`
 - `[`AU-ACIAR-AOP2026-27`]` **[Annual Operational Plan 2026-27](https://www.indexdata.org/annual-operational-plan-2026-27/)** — `2026-08-10` | `116 Pages`
+- `[`AU-ACIAR-MN223`]` **[Fusarium wilt of bananas: An integrated disease management manual](https://www.indexdata.org/fusarium-wilt-of-bananas-an-integrated-disease-management-manual/)** — `2026-05-22` | `124 Pages`
 - `[`AU-ACIAR-MN220`]` **[Smallholder coffee production training package](https://www.indexdata.org/smallholder-coffee-production-training-package/)** — `2024-08-07` | `64 Pages`
 - `[`AU-ACIAR-FR2023-005`]` **[Improving milk supply, competitiveness and livelihoods of smallholder dairy chains in Indonesia - Final Report](https://www.indexdata.org/improving-milk-supply-competitiveness-and-livelihoods-of-smallholder-dairy-chains-in-indonesia-final-report/)** — `2023-01-23` | `116 Pages`
 - `[`AU-ACIAR-FR2023-004`]` **[Initiating private sector partnerships to sustainably grow the smallholder dairy sectors of Indonesia and the Philippines - Final Report](https://www.indexdata.org/initiating-private-sector-partnerships-to-sustainably-grow-the-smallholder-dairy-sectors-of-indonesia-and-the-philippines-final-report/)** — `2023-01-23` | `270 Pages`
@@ -1300,6 +1301,7 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 - `[`AU-NT-b93cb721-4922-483e-a737`]` **[NT Crime Statistics April 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-april-2026-data_quality_statement-crime-stats-pdf/)** — `2026-09-14` | `2 Pages`
 - `[`AU-NT-4b8d3393-d9d3-49e9-a5f2`]` **[NT Crime Statistics June 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-june-2026-data_quality_statement-crime-stats-pdf/)** — `2026-09-14` | `2 Pages`
 - `[`AU-NT-2bf2a53f-c5d5-4015-9904`]` **[NT Crime Statistics March 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-march-2026-data_quality_statement-crime-stats-pdf/)** — `2026-06-11` | `2 Pages`
+- `[`AU-NT-ae059a2d-e8ba-4850-bc16`]` **[NT Crime Statistics February 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-february-2026-data_quality_statement-crime-stats-pdf/)** — `2026-05-11` | `2 Pages`
 
 ### [Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
@@ -1309,6 +1311,7 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-sec
 - `[`AU-DATA-4117fdec-3eff-44a1-9b78`]` **[ASIC - Registered Auditor Dataset — Registered Auditor - Help File](https://www.indexdata.org/asic-registered-auditor-dataset-registered-auditor-help-file/)** — `2026-11-05` | `11 Pages`
 - `[`AU-DATA-388c5a74-fa9e-4b48-8881`]` **[ASIC - Liquidator Dataset — Liquidator - Help File](https://www.indexdata.org/asic-liquidator-dataset-liquidator-help-file/)** — `2026-11-05` | `10 Pages`
 - `[`AU-DATA-ab7eddce-84df-4098-bc8f`]` **[ASIC - Australian Financial Services Licensee Dataset — AFS Licensee - Help File](https://www.indexdata.org/asic-australian-financial-services-licensee-dataset-afs-licensee-help-file/)** — `2026-11-04` | `13 Pages`
+- `[`AU-DATA-a7bbbf64-e2ef-4d96-9fb4`]` **[ASIC – Australian Financial Services Authorised Representative Dataset — AFS Authorised Representative Dataset - Help File](https://www.indexdata.org/asic-australian-financial-services-authorised-representative-dataset-afs-authorised-representative-dataset-help-file/)** — `2026-11-04` | `16 Pages`
 
 ### [Great Barrier Reef Marine Park Authority](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/) | [RSS Feed](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/feed/)
@@ -1316,6 +1319,8 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/great-barrier-
 - `[`AU-GBRMPA-11017-4180`]` **[Local Marine Advisory Committee Meetings May 2026](https://www.indexdata.org/local-marine-advisory-committee-meetings-may-2026/)** — `2026-01-01` | `9 Pages`
 - `[`AU-GBRMPA-11017-4171`]` **[Marine Monitoring Program: Quality Assurance and Quality Control Manual 2024-25](https://www.indexdata.org/marine-monitoring-program-quality-assurance-and-quality-control-manual-2024-25/)** — `2026-01-01` | `166 Pages`
 - `[`AU-GBRMPA-11017-4169`]` **[Marine Monitoring Program: 2024-25 Summary Results Booklet](https://www.indexdata.org/marine-monitoring-program-2024-25-summary-results-booklet/)** — `2026-01-01` | `24 Pages`
+- `[`AU-GBRMPA-11017-4168`]` **[Marine Monitoring Program: Annual Report Inshore Water Quality Monitoring 2024-25](https://www.indexdata.org/marine-monitoring-program-annual-report-inshore-water-quality-monitoring-2024-25/)** — `2026-01-01` | `343 Pages`
+- `[`AU-GBRMPA-11017-4167`]` **[Marine Monitoring Program: Annual Report for Inshore Seagrass Monitoring 2024–25](https://www.indexdata.org/marine-monitoring-program-annual-report-for-inshore-seagrass-monitoring-2024-25/)** — `2026-01-01` | `193 Pages`
 - `[`AU-GBRMPA-11017-4165`]` **[Australians, Climate Action and the Great Barrier Reef](https://www.indexdata.org/australians-climate-action-and-the-great-barrier-reef/)** — `2026-01-01` | `74 Pages`
 
 ### [Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)
