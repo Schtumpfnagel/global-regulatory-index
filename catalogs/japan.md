@@ -5,17 +5,17 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/japan/feed/](https://www.indexdata.org/japan/feed/)  
 **Wikidata Sovereign Entity:** [`Q17`](https://www.wikidata.org/wiki/Q17)  
 **Governing Open-Government Framework:** *Copyright Act, Act No. 48 of 1970, Article 13*  
-**Total Indexed Dossiers in Japan:** `73` across `12` issuing authorities  
-**Last Automated Sync:** `2026-11-07 13:55 UTC`
+**Total Indexed Dossiers in Japan:** `82` across `12` issuing authorities  
+**Last Automated Sync:** `2026-11-07 14:55 UTC`
 
 ---
 
 ## Issuing Authorities in Japan (12 Authorities)
 
 - **[National Agriculture and Food Research Organization (NARO)](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/) | [RSS Feed](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/feed/)
+- **[Fukuoka City](https://www.indexdata.org/japan/fukuoka-city/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/japan/fukuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/fukuoka-city/feed/)
 - **[Ministry of Justice of Japan (MOJ)](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/feed/)
 - **[Forestry and Forest Products Research Institute (FFPRI)](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/) | [RSS Feed](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/feed/)
-- **[Fukuoka City](https://www.indexdata.org/japan/fukuoka-city/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/japan/fukuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/fukuoka-city/feed/)
 - **[Ministry of Health, Labour and Welfare of Japan (MHLW)](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/feed/)
 - **[Ministry of Land, Infrastructure, Transport and Tourism of Japan (MLIT)](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/feed/)
 - **[Ministry of the Environment of Japan (MOE)](https://www.indexdata.org/japan/ministry-of-the-environment-of-japan-moe/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-the-environment-of-japan-moe/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-the-environment-of-japan-moe/feed/)
@@ -27,7 +27,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–73 of 73)
+## Indexed Statutory & Regulatory Dossiers (Records 1–82 of 82)
 
 ### [National Agriculture and Food Research Organization (NARO)](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/)
 Canonical Authority Archive: [https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/) | [RSS Feed](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/feed/)
@@ -57,6 +57,27 @@ Canonical Authority Archive: [https://www.indexdata.org/japan/national-agricultu
 - `[`JP-NARO-2001722`]` **[Moving Projection Method of Suspended Solid and Radioactive Substance By a Distributed Water Circulation Model Incorporating a Suspended Solid and a Radioactive Substance Movement](https://www.indexdata.org/moving-projection-method-of-suspended-solid-and-radioactive-substance-by-a-distributed-water-circulation-model-incorporating-a-suspended-solid-and-a-radioactive-substance-movement/)** — `2026-07-14` | `15 Pages`
 - `[`JP-NARO-2001721`]` **[Evaluation of Fish Diversity at Eco-friendly Sections in Agricultural Drainage Canals](https://www.indexdata.org/evaluation-of-fish-diversity-at-eco-friendly-sections-in-agricultural-drainage-canals/)** — `2026-07-14` | `11 Pages`
 
+### [Fukuoka City](https://www.indexdata.org/japan/fukuoka-city/)
+Canonical Authority Archive: [https://www.indexdata.org/japan/fukuoka-city/](https://www.indexdata.org/japan/fukuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/fukuoka-city/feed/)
+
+- `[`JP-EGOV-D35DABFD`]` **[Fukuoka City — Suishitsu2018 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2018-2025-01-07/)** — `2026-10-15` | `234 Pages`
+- `[`JP-EGOV-B8D410A5`]` **[Fukuoka City — 0 Insatsuyou R2 (2025-01-07)](https://www.indexdata.org/fukuoka-city-0-insatsuyou-r2-2025-01-07/)** — `2026-10-15` | `63 Pages`
+- `[`JP-EGOV-AE7290E9`]` **[Fukuoka City — Official Regulatory Document (2026-10-28)](https://www.indexdata.org/fukuoka-city-official-regulatory-document-2026-10-28-2/)** — `2026-10-15` | `13 Pages`
+- `[`JP-EGOV-ABE17F4E`]` **[Fukuoka City — H28 00Fukuokasizeimutoukeizentai (2025-01-07)](https://www.indexdata.org/fukuoka-city-h28-00fukuokasizeimutoukeizentai-2025-01-07/)** — `2026-10-15` | `191 Pages`
+- `[`JP-EGOV-950F9EF5`]` **[Fukuoka City — 0Insatsuyou R1 (2025-01-07)](https://www.indexdata.org/fukuoka-city-0insatsuyou-r1-2025-01-07/)** — `2026-10-15` | `63 Pages`
+- `[`JP-EGOV-94879CFD`]` **[Fukuoka City — Data Definition (2025-01-07)](https://www.indexdata.org/fukuoka-city-data-definition-2025-01-07/)** — `2026-10-15` | `2 Pages`
+- `[`JP-EGOV-8DB0629C`]` **[Fukuoka City — Suishitsu2008 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2008-2025-01-07/)** — `2026-10-15` | `326 Pages`
+- `[`JP-EGOV-82DC769C`]` **[Fukuoka City — Suishitsu2015 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2015-2025-01-07/)** — `2026-10-15` | `234 Pages`
+- `[`JP-EGOV-5A15359A`]` **[Fukuoka City — All Seika Nenpo 02 (2025-01-07)](https://www.indexdata.org/fukuoka-city-all-seika-nenpo-02-2025-01-07/)** — `2026-10-15` | `84 Pages`
+- `[`JP-EGOV-56C9A7B0`]` **[Fukuoka City — 2 R5Jissijyoukyou (2025-01-07)](https://www.indexdata.org/fukuoka-city-2-r5jissijyoukyou-2025-01-07/)** — `2026-10-15` | `2 Pages`
+- `[`JP-EGOV-557DD041`]` **[Fukuoka City — All Seika Nenpo 05 (2025-07-24)](https://www.indexdata.org/fukuoka-city-all-seika-nenpo-05-2025-07-24/)** — `2026-10-15` | `85 Pages`
+- `[`JP-EGOV-3DCC410D`]` **[Fukuoka City — Official Regulatory Document (2026-10-28)](https://www.indexdata.org/fukuoka-city-official-regulatory-document-2026-10-28/)** — `2026-10-15` | `242 Pages`
+- `[`JP-EGOV-335BCEFE`]` **[Fukuoka City — Suishitsu2017 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2017-2025-01-07/)** — `2026-10-15` | `235 Pages`
+- `[`JP-EGOV-2C9A9672`]` **[Fukuoka City — Suishitsu2016 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2016-2025-01-07/)** — `2026-10-15` | `243 Pages`
+- `[`JP-EGOV-11232A14`]` **[Fukuoka City — Taiki27 (2025-01-07)](https://www.indexdata.org/fukuoka-city-taiki27-2025-01-07/)** — `2026-10-15` | `176 Pages`
+- `[`JP-EGOV-04B565C0`]` **[Fukuoka City — R1 01Zaisei (2025-01-07)](https://www.indexdata.org/fukuoka-city-r1-01zaisei-2025-01-07/)** — `2026-10-15` | `8 Pages`
+- `[`JP-EGOV-0132D96D`]` **[Fukuoka City — Taiki26 (2025-01-07)](https://www.indexdata.org/fukuoka-city-taiki26-2025-01-07/)** — `2026-10-15` | `176 Pages`
+
 ### [Ministry of Justice of Japan (MOJ)](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/)
 Canonical Authority Archive: [https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/feed/)
 
@@ -83,18 +104,6 @@ Canonical Authority Archive: [https://www.indexdata.org/japan/forestry-and-fores
 - `[`JP-FFPRI-2006870`]` **[Beetles collected in the Tama Forest Science Garden of Forestry and Forest Products Research Institute (II)](https://www.indexdata.org/beetles-collected-in-the-tama-forest-science-garden-of-forestry-and-forest-products-research-institute-ii/)** — `2026-09-29` | `15 Pages`
 - `[`JP-FFPRI-2006869`]` **[Phytophthora cinnamomi causes root rot of Larix kaempferi seedlings](https://www.indexdata.org/phytophthora-cinnamomi-causes-root-rot-of-larix-kaempferi-seedlings/)** — `2026-09-29` | `5 Pages`
 - `[`JP-FFPRI-2006867`]` **[Glowing cradles: Hatching larvae of the longhorn beetle Schwarzerium quadricolle remain in fluorescent eggshells](https://www.indexdata.org/glowing-cradles-hatching-larvae-of-the-longhorn-beetle-schwarzerium-quadricolle-remain-in-fluorescent-eggshells/)** — `2026-09-28` | `5 Pages`
-
-### [Fukuoka City](https://www.indexdata.org/japan/fukuoka-city/)
-Canonical Authority Archive: [https://www.indexdata.org/japan/fukuoka-city/](https://www.indexdata.org/japan/fukuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/fukuoka-city/feed/)
-
-- `[`JP-EGOV-B8D410A5`]` **[Fukuoka City — 0 Insatsuyou R2 (2025-01-07)](https://www.indexdata.org/fukuoka-city-0-insatsuyou-r2-2025-01-07/)** — `2026-10-15` | `63 Pages`
-- `[`JP-EGOV-950F9EF5`]` **[Fukuoka City — 0Insatsuyou R1 (2025-01-07)](https://www.indexdata.org/fukuoka-city-0insatsuyou-r1-2025-01-07/)** — `2026-10-15` | `63 Pages`
-- `[`JP-EGOV-94879CFD`]` **[Fukuoka City — Data Definition (2025-01-07)](https://www.indexdata.org/fukuoka-city-data-definition-2025-01-07/)** — `2026-10-15` | `2 Pages`
-- `[`JP-EGOV-82DC769C`]` **[Fukuoka City — Suishitsu2015 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2015-2025-01-07/)** — `2026-10-15` | `234 Pages`
-- `[`JP-EGOV-5A15359A`]` **[Fukuoka City — All Seika Nenpo 02 (2025-01-07)](https://www.indexdata.org/fukuoka-city-all-seika-nenpo-02-2025-01-07/)** — `2026-10-15` | `84 Pages`
-- `[`JP-EGOV-557DD041`]` **[Fukuoka City — All Seika Nenpo 05 (2025-07-24)](https://www.indexdata.org/fukuoka-city-all-seika-nenpo-05-2025-07-24/)** — `2026-10-15` | `85 Pages`
-- `[`JP-EGOV-3DCC410D`]` **[Fukuoka City — Official Regulatory Document (2026-10-28)](https://www.indexdata.org/fukuoka-city-official-regulatory-document-2026-10-28/)** — `2026-10-15` | `242 Pages`
-- `[`JP-EGOV-11232A14`]` **[Fukuoka City — Taiki27 (2025-01-07)](https://www.indexdata.org/fukuoka-city-taiki27-2025-01-07/)** — `2026-10-15` | `176 Pages`
 
 ### [Ministry of Health, Labour and Welfare of Japan (MHLW)](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/)
 Canonical Authority Archive: [https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/feed/)

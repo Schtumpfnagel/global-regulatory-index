@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,322` across `53` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,326` across `53` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-07 13:55 UTC`
+**Last Automated Sync:** `2026-11-07 14:55 UTC`
 
 ---
 
@@ -26,7 +26,7 @@
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
@@ -69,7 +69,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,322)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,326)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -386,8 +386,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2025-515`]` **[The Domestic Abuse Act 2021 (Commencement No. 9 and Saving Provisions) Regulations 2025](https://www.indexdata.org/the-domestic-abuse-act-2021-commencement-no-9-and-saving-provisions-regulations-2025/)** — `2025-04-23` | `4 Pages`
 - `[`UKSI-2025-503`]` **[The Gambling Act 2005 (Gaming Tables in Casinos) (Definitions) (Amendment) Regulations 2025](https://www.indexdata.org/the-gambling-act-2005-gaming-tables-in-casinos-definitions-amendment-regulations-2025/)** — `2025-04-22` | `2 Pages`
 - `[`UKSI-2025-501`]` **[The Investigatory Powers (Amendment) Act 2024 (Commencement No. 2) Regulations 2025](https://www.indexdata.org/the-investigatory-powers-amendment-act-2024-commencement-no-2-regulations-2025/)** — `2025-04-22` | `4 Pages`
-- `[`UKPGA-2025-13`]` **[Steel Industry (Special Measures) Act 2025](https://www.indexdata.org/steel-industry-special-measures-act-2025/)** — `2025-04-12` | `10 Pages`
-- `[`UKSI-2025-482`]` **[The Heckington Fen Solar Park (Correction) Order 2025](https://www.indexdata.org/the-heckington-fen-solar-park-correction-order-2025/)** — `2025-04-11` | `8 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -867,7 +865,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-555`]` **[The Scotland Act 1998 (Agency Arrangements) (Specification) (Recognition of Qualifications) Order 2025](https://www.indexdata.org/the-scotland-act-1998-agency-arrangements-specification-recognition-of-qualifications-order-2025/)** — `2025-05-06` | `4 Pages`
 - `[`UKSI-2025-554`]` **[The Inspectors of Education, Children’s Services and Skills (No. 2) Order 2025](https://www.indexdata.org/the-inspectors-of-education-childrens-services-and-skills-no-2-order-2025/)** — `2025-05-06` | `2 Pages`
 - `[`UKSI-2025-528`]` **[The Higher Education (Freedom of Speech) Act 2023 (Commencement No. 3) Regulations 2025](https://www.indexdata.org/the-higher-education-freedom-of-speech-act-2023-commencement-no-3-regulations-2025/)** — `2025-04-28` | `4 Pages`
-- `[`UKSI-2025-494`]` **[The Power to Award Degrees etc. (National Film and Television School (The)) (Amendment) Order 2025](https://www.indexdata.org/the-power-to-award-degrees-etc-national-film-and-television-school-the-amendment-order-2025/)** — `2025-04-14` | `2 Pages`
 
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
@@ -1123,7 +1120,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-514`]` **[The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025](https://www.indexdata.org/the-energy-euratom-decisions-and-miscellaneous-provisions-amendment-and-revocation-regulations-2025/)** — `2025-04-24` | `8 Pages`
 - `[`UKSI-2025-498`]` **[The Oil and Gas Authority (Carbon Storage) (Retention of Information and Samples) Regulations 2025](https://www.indexdata.org/the-oil-and-gas-authority-carbon-storage-retention-of-information-and-samples-regulations-2025/)** — `2025-04-17` | `12 Pages`
 - `[`UKSI-2025-497`]` **[The Ecodesign for Energy-Related Products and Energy Information (Amendment) (Northern Ireland) Regulations 2025](https://www.indexdata.org/the-ecodesign-for-energy-related-products-and-energy-information-amendment-northern-ireland-regulations-2025/)** — `2025-04-15` | `12 Pages`
-- `[`UKSI-2025-485`]` **[The Hornsea Four Offshore Wind Farm (Amendment) Order 2025](https://www.indexdata.org/the-hornsea-four-offshore-wind-farm-amendment-order-2025/)** — `2025-04-11` | `4 Pages`
 
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
@@ -1409,6 +1405,10 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 ### [Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 
+- `[`UK-JUD-132861`]` **[Courts and Tribunals Judiciary: Respondent Replacement Appeal Skeleton Argument (CA-2026-000007)](https://www.indexdata.org/courts-and-tribunals-judiciary-respondent-replacement-appeal-skeleton-argument-ca-2026-000007/)** — `2026-11-07` | `34 Pages`
+- `[`UK-JUD-132860`]` **[Courts and Tribunals Judiciary: Replacement Skeleton Argument of BPI – Intervener – 21.10.26](https://www.indexdata.org/courts-and-tribunals-judiciary-replacement-skeleton-argument-of-bpi-intervener-21-10-26/)** — `2026-11-07` | `18 Pages`
+- `[`UK-JUD-132859`]` **[Courts and Tribunals Judiciary: Appellants Replacement Skeleton in Reply (to the Respondent’s Notice) – CA-2026-000007 – 144860245_1](https://www.indexdata.org/courts-and-tribunals-judiciary-appellants-replacement-skeleton-in-reply-to-the-respondents-notice-ca-2026-000007-144860245_1/)** — `2026-11-07` | `20 Pages`
+- `[`UK-JUD-132858`]` **[Courts and Tribunals Judiciary: Appellants Replacement Appeal Skeleton – CA-2026-000007 – 144861071_1](https://www.indexdata.org/courts-and-tribunals-judiciary-appellants-replacement-appeal-skeleton-ca-2026-000007-144861071_1/)** — `2026-11-07` | `25 Pages`
 - `[`UK-JUD-132826`]` **[Courts and Tribunals Judiciary: Artificial Intelligence and Expert Evidence Oct 2026](https://www.indexdata.org/courts-and-tribunals-judiciary-artificial-intelligence-and-expert-evidence-oct-2026/)** — `2026-11-06` | `7 Pages`
 - `[`UK-JUD-132823`]` **[Courts and Tribunals Judiciary: Donaldson sentencing remarks](https://www.indexdata.org/courts-and-tribunals-judiciary-donaldson-sentencing-remarks/)** — `2026-11-06` | `12 Pages`
 - `[`UK-JUD-132816`]` **[Courts and Tribunals Judiciary: Consolidated EAT Rules – 03.11.2026](https://www.indexdata.org/courts-and-tribunals-judiciary-consolidated-eat-rules-03-11-2026/)** — `2026-11-06` | `36 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,357` across `26` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,358` across `26` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-07 13:55 UTC`
+**Last Automated Sync:** `2026-11-07 14:55 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
 - **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
-- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
+- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
@@ -42,7 +42,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,357)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,358)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -971,7 +971,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-64-444`]` **[Canadian Forces Compulsory Early Superannuation Regulations](https://www.indexdata.org/canadian-forces-compulsory-early-superannuation-regulations/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-62-1`]` **[Ontario Onion Growers’ Marketing Order](https://www.indexdata.org/ontario-onion-growers-marketing-order/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-61-378`]` **[Agassiz Correctional Camp, Petawawa Correctional Camp and Gatineau Correctional Camp Lands Proclaimed Penitentiaries](https://www.indexdata.org/agassiz-correctional-camp-petawawa-correctional-camp-and-gatineau-correctional-camp-lands-proclaimed-penitentiaries/)** — `2026-09-30` | `8 Pages`
-- `[`SOR-60-481`]` **[Quebec Apple Growers’ Marketing Order](https://www.indexdata.org/quebec-apple-growers-marketing-order/)** — `2026-09-30` | `5 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1538,19 +1537,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/environment-and-c
 - `[`SOR-80-831`]` **[Carbonated Beverage Glass Containers Regulations](https://www.indexdata.org/carbonated-beverage-glass-containers-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-78-417`]` **[Arctic Waters Experimental Pollution Regulations, 1978](https://www.indexdata.org/arctic-waters-experimental-pollution-regulations-1978/)** — `2026-09-30` | `3 Pages`
 
-### [Agriculture and Agri-Food Canada](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/agriculture-and-agri-food-canada/](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/) | [RSS Feed](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/feed/)
-
-- `[`W-8.5`]` **[Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act](https://www.indexdata.org/wild-animal-and-plant-protection-and-regulation-of-international-and-interprovincial-trade-act/)** — `2026-09-30` | `32 Pages`
-- `[`W-7.8`]` **[Western Grain Transition Payments Act](https://www.indexdata.org/western-grain-transition-payments-act/)** — `2026-09-30` | `7 Pages`
-- `[`T-10.6`]` **[Thunder Bay Grain Handling Operations Act](https://www.indexdata.org/thunder-bay-grain-handling-operations-act/)** — `2026-09-30` | `10 Pages`
-- `[`SOR-99-451`]` **[Rules of the Review Tribunal (Agriculture and Agri-Food)](https://www.indexdata.org/rules-of-the-review-tribunal-agriculture-and-agri-food/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-95-314`]` **[Western Grain Transition Payments Regulations](https://www.indexdata.org/western-grain-transition-payments-regulations/)** — `2026-09-30` | `34 Pages`
-- `[`SOR-95-212`]` **[Plant Protection Regulations](https://www.indexdata.org/plant-protection-regulations/)** — `2026-09-30` | `39 Pages`
-- `[`SOR-94-789`]` **[Scientific or Technical Assistance Fees Order (Research Branch — Agriculture)](https://www.indexdata.org/scientific-or-technical-assistance-fees-order-research-branch-agriculture/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-90-288`]` **[Meat Inspection Regulations, 1990](https://www.indexdata.org/meat-inspection-regulations-1990/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-83-593`]` **[Feeds Regulations, 1983](https://www.indexdata.org/feeds-regulations-1983/)** — `2026-09-30` | `3 Pages`
-
 ### [International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/international-development-research-centre/](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 
@@ -1563,6 +1549,20 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/international-dev
 - `[`CA-IDRC-10625-69378`]` **[Impact of Culturally Responsive Teaching Practices on Social and Emotional Development of Early Learners in Ethically Diverse Classrooms in Ghana](https://www.indexdata.org/impact-of-culturally-responsive-teaching-practices-on-social-and-emotional-development-of-early-learners-in-ethically-diverse-classrooms-in-ghana/)** — `2026-10-01` | `36 Pages`
 - `[`CA-IDRC-10625-69368`]` **[Microbiological and genomic approaches to study and characterize co and cross resistance to antimicrobial peptides in Listeria monocytogenes ATCC 19 111 variants](https://www.indexdata.org/microbiological-and-genomic-approaches-to-study-and-characterize-co-and-cross-resistance-to-antimicrobial-peptides-in-listeria-monocytogenes-atcc-19-111-variants/)** — `2026-10-01` | `57 Pages`
 - `[`CA-IDRC-10625-69363`]` **[Final Technical Report_Consejo Latinoamericano de Ciencias Sociales](https://www.indexdata.org/final-technical-report_consejo-latinoamericano-de-ciencias-sociales/)** — `2026-10-01` | `20 Pages`
+- `[`CA-IDRC-10625-69194`]` **[Help seeking for intimate partner violence in a resource-constrained setting A latent class analysis of the Nigerian demographic health survey dataset](https://www.indexdata.org/help-seeking-for-intimate-partner-violence-in-a-resource-constrained-setting-a-latent-class-analysis-of-the-nigerian-demographic-health-survey-dataset/)** — `2026-10-01` | `2 Pages`
+
+### [Agriculture and Agri-Food Canada](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/agriculture-and-agri-food-canada/](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/) | [RSS Feed](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/feed/)
+
+- `[`W-8.5`]` **[Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act](https://www.indexdata.org/wild-animal-and-plant-protection-and-regulation-of-international-and-interprovincial-trade-act/)** — `2026-09-30` | `32 Pages`
+- `[`W-7.8`]` **[Western Grain Transition Payments Act](https://www.indexdata.org/western-grain-transition-payments-act/)** — `2026-09-30` | `7 Pages`
+- `[`T-10.6`]` **[Thunder Bay Grain Handling Operations Act](https://www.indexdata.org/thunder-bay-grain-handling-operations-act/)** — `2026-09-30` | `10 Pages`
+- `[`SOR-99-451`]` **[Rules of the Review Tribunal (Agriculture and Agri-Food)](https://www.indexdata.org/rules-of-the-review-tribunal-agriculture-and-agri-food/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-95-314`]` **[Western Grain Transition Payments Regulations](https://www.indexdata.org/western-grain-transition-payments-regulations/)** — `2026-09-30` | `34 Pages`
+- `[`SOR-95-212`]` **[Plant Protection Regulations](https://www.indexdata.org/plant-protection-regulations/)** — `2026-09-30` | `39 Pages`
+- `[`SOR-94-789`]` **[Scientific or Technical Assistance Fees Order (Research Branch — Agriculture)](https://www.indexdata.org/scientific-or-technical-assistance-fees-order-research-branch-agriculture/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-90-288`]` **[Meat Inspection Regulations, 1990](https://www.indexdata.org/meat-inspection-regulations-1990/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-83-593`]` **[Feeds Regulations, 1983](https://www.indexdata.org/feeds-regulations-1983/)** — `2026-09-30` | `3 Pages`
 
 ### [Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/fisheries-and-oceans-canada/](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)

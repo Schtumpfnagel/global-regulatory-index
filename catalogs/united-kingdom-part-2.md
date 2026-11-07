@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,322` across `53` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,326` across `53` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-07 13:55 UTC`
+**Last Automated Sync:** `2026-11-07 14:55 UTC`
 
 ---
 
@@ -26,7 +26,7 @@
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
@@ -69,11 +69,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,322 of 2,322)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,326 of 2,326)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKPGA-2025-13`]` **[Steel Industry (Special Measures) Act 2025](https://www.indexdata.org/steel-industry-special-measures-act-2025/)** — `2025-04-12` | `10 Pages`
+- `[`UKSI-2025-482`]` **[The Heckington Fen Solar Park (Correction) Order 2025](https://www.indexdata.org/the-heckington-fen-solar-park-correction-order-2025/)** — `2025-04-11` | `8 Pages`
 - `[`UKSI-2025-481`]` **[The West Midlands Rail Freight Interchange (Amendment No. 2) Order 2025](https://www.indexdata.org/the-west-midlands-rail-freight-interchange-amendment-no-2-order-2025/)** — `2025-04-10` | `8 Pages`
 - `[`UKSI-2025-457`]` **[The Tamar Bridge and Torpoint Ferry (Revision of Tolls) Order 2025](https://www.indexdata.org/the-tamar-bridge-and-torpoint-ferry-revision-of-tolls-order-2025/)** — `2025-04-09` | `4 Pages`
 - `[`UKSI-2025-533`]` **[The Rivenhall Generating Station Extension (Correction) Order 2025](https://www.indexdata.org/the-rivenhall-generating-station-extension-correction-order-2025/)** — `2025-04-08` | `2 Pages`
@@ -609,6 +611,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 
+- `[`UKSI-2025-494`]` **[The Power to Award Degrees etc. (National Film and Television School (The)) (Amendment) Order 2025](https://www.indexdata.org/the-power-to-award-degrees-etc-national-film-and-television-school-the-amendment-order-2025/)** — `2025-04-14` | `2 Pages`
 - `[`UKSI-2025-477`]` **[The Power to Award Degrees etc. (ICMP Management Limited) (Amendment) Order 2025](https://www.indexdata.org/the-power-to-award-degrees-etc-icmp-management-limited-amendment-order-2025/)** — `2025-04-04` | `2 Pages`
 - `[`UKPGA-2025-12`]` **[Non-Domestic Rating (Multipliers and Private Schools) Act 2025](https://www.indexdata.org/non-domestic-rating-multipliers-and-private-schools-act-2025/)** — `2025-04-03` | `11 Pages`
 - `[`UKSI-2025-465`]` **[The Power to Award Degrees etc. (Architectural Association School of Architecture) Order of Council 2019 (Amendment) Order 2025](https://www.indexdata.org/the-power-to-award-degrees-etc-architectural-association-school-of-architecture-order-of-council-2019-amendment-order-2025/)** — `2025-04-02` | `2 Pages`
@@ -664,6 +667,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 
+- `[`UKSI-2025-485`]` **[The Hornsea Four Offshore Wind Farm (Amendment) Order 2025](https://www.indexdata.org/the-hornsea-four-offshore-wind-farm-amendment-order-2025/)** — `2025-04-11` | `4 Pages`
 - `[`UKSI-2025-509`]` **[The Viking CCS Carbon Dioxide Pipeline Order 2025](https://www.indexdata.org/the-viking-ccs-carbon-dioxide-pipeline-order-2025/)** — `2025-04-09` | `192 Pages`
 - `[`UKSI-2025-468`]` **[The Rampion 2 Offshore Wind Farm Order 2025](https://www.indexdata.org/the-rampion-2-offshore-wind-farm-order-2025/)** — `2025-04-04` | `232 Pages`
 - `[`UKSI-2025-446`]` **[The Electricity (Early-Model Competitive Tenders for Onshore Transmission Licences) Regulations 2025](https://www.indexdata.org/the-electricity-early-model-competitive-tenders-for-onshore-transmission-licences-regulations-2025/)** — `2025-04-03` | `28 Pages`

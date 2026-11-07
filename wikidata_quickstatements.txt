@@ -1,5 +1,5 @@
 # Wikidata QuickStatements Batch for Q142071440 (Index Data — Global Regulatory & Statutory Open Metadata Index)
-# Generated UTC: 2026-11-07 13:55 UTC | Total Dossiers: 37155 | Active Jurisdictions: 34
+# Generated UTC: 2026-11-07 14:55 UTC | Total Dossiers: 37193 | Active Jurisdictions: 34
 Q142071440	P856	"https://www.indexdata.org/"
 Q142071440	P973	"https://www.indexdata.org/methodology/"
 Q142071440	P973	"https://www.indexdata.org/llms.txt"
@@ -10,7 +10,7 @@ Q142071440	P953	"https://osf.io/g342m/"
 Q142071440	P356	"10.5281/ZENODO.23612006"
 Q142071440	P356	"10.7910/DVN/QUYKAG"
 Q142071440	P356	"10.6084/M9.FIGSHARE.34942678"
-Q142071440	P1114	37155
+Q142071440	P1114	37193
 Q142071440	P1269	Q30	S854	"https://www.indexdata.org/united-states/"
 Q142071440	P1269	Q145	S854	"https://www.indexdata.org/united-kingdom/"
 Q142071440	P1269	Q16	S854	"https://www.indexdata.org/canada/"
@@ -34,7 +34,6 @@ Q142071440	P1269	Q31	S854	"https://www.indexdata.org/belgium/"
 Q142071440	P1269	Q155	S854	"https://www.indexdata.org/brazil/"
 Q142071440	P1269	Q17	S854	"https://www.indexdata.org/japan/"
 Q142071440	P1269	Q55	S854	"https://www.indexdata.org/netherlands/"
-Q142071440	P1269	Q159	S854	"https://www.indexdata.org/russia/"
 Q142071440	P1269	Q34	S854	"https://www.indexdata.org/sweden/"
 Q142071440	P1269	Q148	S854	"https://www.indexdata.org/china/"
 Q142071440	P1269	Q213	S854	"https://www.indexdata.org/czechia/"
@@ -45,6 +44,7 @@ Q142071440	P1269	Q29	S854	"https://www.indexdata.org/spain/"
 Q142071440	P1269	Q801	S854	"https://www.indexdata.org/israel/"
 Q142071440	P1269	Q45	S854	"https://www.indexdata.org/portugal/"
 Q142071440	P1269	Q334	S854	"https://www.indexdata.org/singapore/"
+Q142071440	P1269	Q159	S854	"https://www.indexdata.org/russia/"
 Q142071440	P1269	Q192247
 Q142071440	P1269	Q161718
 Q142071440	P1269	Q1377617
