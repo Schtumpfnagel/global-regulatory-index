@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,326` across `53` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,334` across `53` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-07 16:45 UTC`
+**Last Automated Sync:** `2026-11-07 17:33 UTC`
 
 ---
 
@@ -25,7 +25,7 @@
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`92` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
@@ -69,11 +69,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,326 of 2,326)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,334 of 2,334)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2025-503`]` **[The Gambling Act 2005 (Gaming Tables in Casinos) (Definitions) (Amendment) Regulations 2025](https://www.indexdata.org/the-gambling-act-2005-gaming-tables-in-casinos-definitions-amendment-regulations-2025/)** — `2025-04-22` | `2 Pages`
+- `[`UKSI-2025-501`]` **[The Investigatory Powers (Amendment) Act 2024 (Commencement No. 2) Regulations 2025](https://www.indexdata.org/the-investigatory-powers-amendment-act-2024-commencement-no-2-regulations-2025/)** — `2025-04-22` | `4 Pages`
 - `[`UKPGA-2025-13`]` **[Steel Industry (Special Measures) Act 2025](https://www.indexdata.org/steel-industry-special-measures-act-2025/)** — `2025-04-12` | `10 Pages`
 - `[`UKSI-2025-482`]` **[The Heckington Fen Solar Park (Correction) Order 2025](https://www.indexdata.org/the-heckington-fen-solar-park-correction-order-2025/)** — `2025-04-11` | `8 Pages`
 - `[`UKSI-2025-481`]` **[The West Midlands Rail Freight Interchange (Amendment No. 2) Order 2025](https://www.indexdata.org/the-west-midlands-rail-freight-interchange-amendment-no-2-order-2025/)** — `2025-04-10` | `8 Pages`
@@ -267,6 +269,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2025-507`]` **[The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025](https://www.indexdata.org/the-syria-sanctions-eu-exit-amendment-regulations-2025/)** — `2025-04-23` | `12 Pages`
+- `[`UKSI-2025-504`]` **[The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025](https://www.indexdata.org/the-russia-sanctions-eu-exit-amendment-regulations-2025/)** — `2025-04-22` | `116 Pages`
 - `[`UKSI-2025-383`]` **[The Relief for Creative Industries (Additional Information Requirements and Miscellaneous Amendments) (Amendment) Regulations 2025](https://www.indexdata.org/the-relief-for-creative-industries-additional-information-requirements-and-miscellaneous-amendments-amendment-regulations-2025/)** — `2025-03-24` | `8 Pages`
 - `[`UKSI-2025-343`]` **[The Pensions Increase (Review) Order 2025](https://www.indexdata.org/the-pensions-increase-review-order-2025/)** — `2025-03-13` | `8 Pages`
 - `[`UKSI-2025-345`]` **[The Double Taxation Relief and International Tax Enforcement (Belarus) (Revocation) Order 2025](https://www.indexdata.org/the-double-taxation-relief-and-international-tax-enforcement-belarus-revocation-order-2025/)** — `2025-03-12` | `2 Pages`
@@ -484,6 +488,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 
+- `[`UKSI-2025-505`]` **[The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2025](https://www.indexdata.org/the-motor-vehicles-driving-licences-amendment-no-4-regulations-2025/)** — `2025-04-23` | `4 Pages`
 - `[`UKSI-2025-454`]` **[The Road Vehicles (Construction and Use) (Amendment) Regulations 2025](https://www.indexdata.org/the-road-vehicles-construction-and-use-amendment-regulations-2025/)** — `2025-04-07` | `8 Pages`
 - `[`UKSI-2025-449`]` **[The River Tyne (Tunnels) (Revision of Toll) Order 2025 (revoked)](https://www.indexdata.org/the-river-tyne-tunnels-revision-of-toll-order-2025-revoked/)** — `2025-04-03` | `4 Pages`
 - `[`UKSI-2025-390`]` **[The Cattewater Harbour Revision Order 2025](https://www.indexdata.org/the-cattewater-harbour-revision-order-2025/)** — `2025-03-25` | `16 Pages`
@@ -551,6 +556,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 
+- `[`UKSI-2025-502`]` **[The Police (Vetting) Regulations 2025](https://www.indexdata.org/the-police-vetting-regulations-2025/)** — `2025-04-22` | `20 Pages`
 - `[`UKSI-2025-455`]` **[The Victim Support (Specified Roles) Regulations 2025](https://www.indexdata.org/the-victim-support-specified-roles-regulations-2025/)** — `2025-04-02` | `4 Pages`
 - `[`UKSI-2025-441`]` **[The Victims and Prisoners Act 2024 (Commencement No. 5) Regulations 2025](https://www.indexdata.org/the-victims-and-prisoners-act-2024-commencement-no-5-regulations-2025/)** — `2025-04-02` | `4 Pages`
 - `[`UKSI-2025-382`]` **[The Immigration (Biometric Information etc.) (Amendment) Regulations 2025](https://www.indexdata.org/the-immigration-biometric-information-etc-amendment-regulations-2025/)** — `2025-03-24` | `12 Pages`
@@ -608,6 +614,64 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 - `[`UKSI-2024-55`]` **[The Immigration (Health Charge) (Amendment) Order 2024](https://www.indexdata.org/the-immigration-health-charge-amendment-order-2024/)** — `2024-01-16` | `4 Pages`
 - `[`UKSI-2024-19`]` **[The Immigration (Age Assessments) Regulations 2024](https://www.indexdata.org/the-immigration-age-assessments-regulations-2024/)** — `2024-01-09` | `2 Pages`
 
+### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
+
+- `[`UKSI-2025-498`]` **[The Oil and Gas Authority (Carbon Storage) (Retention of Information and Samples) Regulations 2025](https://www.indexdata.org/the-oil-and-gas-authority-carbon-storage-retention-of-information-and-samples-regulations-2025/)** — `2025-04-17` | `12 Pages`
+- `[`UKSI-2025-497`]` **[The Ecodesign for Energy-Related Products and Energy Information (Amendment) (Northern Ireland) Regulations 2025](https://www.indexdata.org/the-ecodesign-for-energy-related-products-and-energy-information-amendment-northern-ireland-regulations-2025/)** — `2025-04-15` | `12 Pages`
+- `[`UKSI-2025-485`]` **[The Hornsea Four Offshore Wind Farm (Amendment) Order 2025](https://www.indexdata.org/the-hornsea-four-offshore-wind-farm-amendment-order-2025/)** — `2025-04-11` | `4 Pages`
+- `[`UKSI-2025-509`]` **[The Viking CCS Carbon Dioxide Pipeline Order 2025](https://www.indexdata.org/the-viking-ccs-carbon-dioxide-pipeline-order-2025/)** — `2025-04-09` | `192 Pages`
+- `[`UKSI-2025-468`]` **[The Rampion 2 Offshore Wind Farm Order 2025](https://www.indexdata.org/the-rampion-2-offshore-wind-farm-order-2025/)** — `2025-04-04` | `232 Pages`
+- `[`UKSI-2025-446`]` **[The Electricity (Early-Model Competitive Tenders for Onshore Transmission Licences) Regulations 2025](https://www.indexdata.org/the-electricity-early-model-competitive-tenders-for-onshore-transmission-licences-regulations-2025/)** — `2025-04-03` | `28 Pages`
+- `[`UKSI-2025-378`]` **[The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Spiorad na Mara) (Scotland) Order 2025](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-transmission-licence-spiorad-na-mara-scotland-order-2025/)** — `2025-03-24` | `2 Pages`
+- `[`UKSI-2025-362`]` **[The North Lincolnshire Green Energy Park Order 2025](https://www.indexdata.org/the-north-lincolnshire-green-energy-park-order-2025/)** — `2025-03-13` | `124 Pages`
+- `[`UKSI-2025-145`]` **[The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025](https://www.indexdata.org/the-sheringham-shoal-and-dudgeon-extensions-offshore-wind-farm-amendment-order-2025/)** — `2025-02-06` | `4 Pages`
+- `[`UKSI-2025-114`]` **[The Transfer of Undertakings (Protection of Employment) (Transfer of Staff to the Civil Nuclear Police Authority) Regulations 2025](https://www.indexdata.org/the-transfer-of-undertakings-protection-of-employment-transfer-of-staff-to-the-civil-nuclear-police-authority-regulations-2025/)** — `2025-02-04` | `4 Pages`
+- `[`UKSI-2025-25`]` **[The Contracts for Difference (Miscellaneous Amendments) Regulations 2025](https://www.indexdata.org/the-contracts-for-difference-miscellaneous-amendments-regulations-2025/)** — `2025-01-13` | `4 Pages`
+- `[`UKSI-2025-28`]` **[The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Seagreen) (Scotland) (Amendment) Order 2025](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-transmission-licence-seagreen-scotland-amendment-order-2025/)** — `2025-01-09` | `2 Pages`
+- `[`UKSI-2025-27`]` **[The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Dogger Bank A) Order 2025](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-transmission-licence-dogger-bank-a-order-2025/)** — `2025-01-09` | `4 Pages`
+- `[`UKSI-2024-1338`]` **[The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024](https://www.indexdata.org/the-sheringham-shoal-and-dudgeon-extensions-offshore-wind-farm-correction-order-2024/)** — `2024-12-10` | `24 Pages`
+- `[`UKSI-2024-1249`]` **[The Gate Burton Energy Park (Correction) Order 2024](https://www.indexdata.org/the-gate-burton-energy-park-correction-order-2024/)** — `2024-11-27` | `8 Pages`
+- `[`UKSI-2024-1081`]` **[The Code Manager Selection Regulations 2024](https://www.indexdata.org/the-code-manager-selection-regulations-2024/)** — `2024-10-28` | `8 Pages`
+- `[`UKSI-2024-1031`]` **[The HyNet Carbon Dioxide Pipeline (Correction) Order 2024](https://www.indexdata.org/the-hynet-carbon-dioxide-pipeline-correction-order-2024/)** — `2024-10-15` | `4 Pages`
+- `[`UKSI-2024-984`]` **[The Electricity (Standards of Performance) (Amendment) Regulations 2024](https://www.indexdata.org/the-electricity-standards-of-performance-amendment-regulations-2024/)** — `2024-10-01` | `4 Pages`
+- `[`UKSI-2024-957`]` **[The Energy Act 2023 (Commencement No. 3) Regulations 2024](https://www.indexdata.org/the-energy-act-2023-commencement-no-3-regulations-2024/)** — `2024-09-13` | `2 Pages`
+- `[`UKSI-2024-954`]` **[The Gas and Electricity Regulated Providers (Redress Scheme) (Amendment) Order 2024](https://www.indexdata.org/the-gas-and-electricity-regulated-providers-redress-scheme-amendment-order-2024/)** — `2024-09-12` | `4 Pages`
+- `[`UKSI-2024-905`]` **[The Independent System Operator and Planner (Designation) Third Party Compensation Regulations 2024](https://www.indexdata.org/the-independent-system-operator-and-planner-designation-third-party-compensation-regulations-2024/)** — `2024-09-05` | `4 Pages`
+- `[`UKSI-2024-893`]` **[The Warm Home Discount (Reconciliation) (Amendment) Regulations 2024](https://www.indexdata.org/the-warm-home-discount-reconciliation-amendment-regulations-2024/)** — `2024-09-03` | `2 Pages`
+- `[`UKSI-2024-890`]` **[The Energy Act 2023 (Commencement No. 2) Regulations 2024](https://www.indexdata.org/the-energy-act-2023-commencement-no-2-regulations-2024/)** — `2024-09-02` | `4 Pages`
+- `[`UKSI-2024-819`]` **[The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024](https://www.indexdata.org/the-electricity-class-exemptions-from-the-requirement-for-a-licence-amendment-order-2024/)** — `2024-07-25` | `8 Pages`
+- `[`UKSI-2024-809`]` **[The Electricity (Individual Exemption from the Requirement for a Supply Licence) (Green Volt) (Scotland) Order 2024](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-supply-licence-green-volt-scotland-order-2024/)** — `2024-07-19` | `4 Pages`
+- `[`UKSI-2024-800`]` **[The Hornsea Four Offshore Wind Farm (Amendment) Order 2024](https://www.indexdata.org/the-hornsea-four-offshore-wind-farm-amendment-order-2024/)** — `2024-07-17` | `4 Pages`
+- `[`UKSI-2024-799`]` **[The Awel y Môr Offshore Wind Farm (Correction) Order 2024](https://www.indexdata.org/the-awel-y-mor-offshore-wind-farm-correction-order-2024/)** — `2024-07-16` | `12 Pages`
+- `[`UKSI-2024-807`]` **[The Gate Burton Energy Park Order 2024](https://www.indexdata.org/the-gate-burton-energy-park-order-2024/)** — `2024-07-12` | `176 Pages`
+- `[`UKSI-2024-802`]` **[The Sunnica Energy Farm Order 2024](https://www.indexdata.org/the-sunnica-energy-farm-order-2024/)** — `2024-07-12` | `164 Pages`
+- `[`UKSI-2024-811`]` **[The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024](https://www.indexdata.org/the-national-grid-yorkshire-green-energy-enablement-project-corrections-order-2024/)** — `2024-06-11` | `4 Pages`
+- `[`UKSI-2024-706`]` **[The Energy Act 2023 (Consequential Amendments) Regulations 2024](https://www.indexdata.org/the-energy-act-2023-consequential-amendments-regulations-2024/)** — `2024-05-24` | `20 Pages`
+- `[`UKSI-2024-710`]` **[The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024](https://www.indexdata.org/the-contracts-for-difference-sustainable-industry-rewards-regulations-2024/)** — `2024-05-23` | `28 Pages`
+- `[`UKSI-2024-700`]` **[The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Seagreen) (Scotland) Order 2024](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-transmission-licence-seagreen-scotland-order-2024/)** — `2024-05-23` | `2 Pages`
+- `[`UKSI-2024-674`]` **[The Keuper Underground Gas Storage Facility (Amendment) Order 2024](https://www.indexdata.org/the-keuper-underground-gas-storage-facility-amendment-order-2024/)** — `2024-05-15` | `4 Pages`
+- `[`UKSI-2024-642`]` **[The Green Gas Support Scheme (Amendment) Regulations 2024](https://www.indexdata.org/the-green-gas-support-scheme-amendment-regulations-2024/)** — `2024-05-14` | `8 Pages`
+- `[`UKSI-2024-640`]` **[The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2024](https://www.indexdata.org/the-energy-performance-of-buildings-england-and-wales-amendment-regulations-2024/)** — `2024-05-14` | `4 Pages`
+- `[`UKSI-2024-627`]` **[The Hornsea Three Offshore Wind Farm (Amendment) Order 2024](https://www.indexdata.org/the-hornsea-three-offshore-wind-farm-amendment-order-2024/)** — `2024-05-09` | `4 Pages`
+- `[`UKSI-2024-564`]` **[The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm Order 2024](https://www.indexdata.org/the-sheringham-shoal-and-dudgeon-extensions-offshore-wind-farm-order-2024/)** — `2024-04-17` | `352 Pages`
+- `[`UKSI-2024-524`]` **[The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024](https://www.indexdata.org/the-boiler-upgrade-scheme-england-and-wales-amendment-regulations-2024/)** — `2024-04-17` | `16 Pages`
+- `[`UKSI-2024-465`]` **[The Smart Meters Act 2018 (Commencement) Regulations 2024](https://www.indexdata.org/the-smart-meters-act-2018-commencement-regulations-2024/)** — `2024-03-28` | `2 Pages`
+- `[`UKSI-2024-446`]` **[The Immingham Open Cycle Gas Turbine (Amendment) (No. 2) Order 2024](https://www.indexdata.org/the-immingham-open-cycle-gas-turbine-amendment-no-2-order-2024/)** — `2024-03-27` | `4 Pages`
+- `[`UKSI-2024-442`]` **[The Energy Bills Discount Scheme (Amendment) Regulations 2024](https://www.indexdata.org/the-energy-bills-discount-scheme-amendment-regulations-2024/)** — `2024-03-26` | `2 Pages`
+- `[`UKSI-2024-436`]` **[The HyNet Carbon Dioxide Pipeline Order 2024](https://www.indexdata.org/the-hynet-carbon-dioxide-pipeline-order-2024/)** — `2024-03-20` | `236 Pages`
+- `[`UKSI-2024-434`]` **[The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024](https://www.indexdata.org/the-electricity-capacity-supplier-payment-etc-amendment-and-excluded-electricity-regulations-2024/)** — `2024-03-20` | `8 Pages`
+- `[`UKSI-2024-419`]` **[The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024](https://www.indexdata.org/the-electricity-supplier-obligations-excluded-electricity-amendment-regulations-2024/)** — `2024-03-20` | `4 Pages`
+- `[`UKSI-2024-409`]` **[The Energy-Intensive Industry Electricity Support Payments and Levy Regulations 2024](https://www.indexdata.org/the-energy-intensive-industry-electricity-support-payments-and-levy-regulations-2024/)** — `2024-03-20` | `16 Pages`
+- `[`UKSI-2024-403`]` **[The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2024](https://www.indexdata.org/the-renewables-obligation-amendment-energy-intensive-industries-order-2024/)** — `2024-03-20` | `4 Pages`
+- `[`UKSI-2024-393`]` **[The National Grid (Yorkshire Green Energy Enablement Project) Development Consent Order 2024](https://www.indexdata.org/the-national-grid-yorkshire-green-energy-enablement-project-development-consent-order-2024/)** — `2024-03-14` | `164 Pages`
+- `[`UKSI-2024-162`]` **[The Offshore Installations (Safety Zones) Order 2024](https://www.indexdata.org/the-offshore-installations-safety-zones-order-2024/)** — `2024-02-19` | `4 Pages`
+- `[`UKSI-2024-134`]` **[The Independent System Operator and Planner Transfer Scheme Compensation (Amendment) Regulations 2024](https://www.indexdata.org/the-independent-system-operator-and-planner-transfer-scheme-compensation-amendment-regulations-2024/)** — `2024-02-07` | `2 Pages`
+- `[`UKSI-2024-125`]` **[The Independent System Operator and Planner Transfer Scheme Compensation Regulations 2024](https://www.indexdata.org/the-independent-system-operator-and-planner-transfer-scheme-compensation-regulations-2024/)** — `2024-01-30` | `8 Pages`
+- `[`UKSI-2024-117`]` **[The Hornsea Four Offshore Wind Farm (Correction) Order 2024](https://www.indexdata.org/the-hornsea-four-offshore-wind-farm-correction-order-2024/)** — `2024-01-30` | `8 Pages`
+- `[`UKSI-2024-108`]` **[The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024](https://www.indexdata.org/the-electricity-and-gas-standards-of-performance-suppliers-amendment-regulations-2024/)** — `2024-01-29` | `4 Pages`
+- `[`UKSI-2024-32`]` **[The Energy Act 2023 (Commencement No. 1) Regulations 2024](https://www.indexdata.org/the-energy-act-2023-commencement-no-1-regulations-2024/)** — `2024-01-10` | `4 Pages`
+
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 
@@ -663,62 +727,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2024-433`]` **[The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2024](https://www.indexdata.org/the-tertiary-education-and-research-wales-act-2022-consequential-amendments-order-2024/)** — `2024-03-25` | `4 Pages`
 - `[`UKSI-2024-427`]` **[The Designation of Schools Having a Religious Character (England) (Amendment and Revocations) Order 2024](https://www.indexdata.org/the-designation-of-schools-having-a-religious-character-england-amendment-and-revocations-order-2024/)** — `2024-03-25` | `2 Pages`
 - `[`UKSI-2024-109`]` **[The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2024](https://www.indexdata.org/the-school-admissions-admission-arrangements-and-co-ordination-of-admission-arrangements-england-amendment-regulations-2024/)** — `2024-01-30` | `2 Pages`
-
-### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
-
-- `[`UKSI-2025-485`]` **[The Hornsea Four Offshore Wind Farm (Amendment) Order 2025](https://www.indexdata.org/the-hornsea-four-offshore-wind-farm-amendment-order-2025/)** — `2025-04-11` | `4 Pages`
-- `[`UKSI-2025-509`]` **[The Viking CCS Carbon Dioxide Pipeline Order 2025](https://www.indexdata.org/the-viking-ccs-carbon-dioxide-pipeline-order-2025/)** — `2025-04-09` | `192 Pages`
-- `[`UKSI-2025-468`]` **[The Rampion 2 Offshore Wind Farm Order 2025](https://www.indexdata.org/the-rampion-2-offshore-wind-farm-order-2025/)** — `2025-04-04` | `232 Pages`
-- `[`UKSI-2025-446`]` **[The Electricity (Early-Model Competitive Tenders for Onshore Transmission Licences) Regulations 2025](https://www.indexdata.org/the-electricity-early-model-competitive-tenders-for-onshore-transmission-licences-regulations-2025/)** — `2025-04-03` | `28 Pages`
-- `[`UKSI-2025-378`]` **[The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Spiorad na Mara) (Scotland) Order 2025](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-transmission-licence-spiorad-na-mara-scotland-order-2025/)** — `2025-03-24` | `2 Pages`
-- `[`UKSI-2025-362`]` **[The North Lincolnshire Green Energy Park Order 2025](https://www.indexdata.org/the-north-lincolnshire-green-energy-park-order-2025/)** — `2025-03-13` | `124 Pages`
-- `[`UKSI-2025-145`]` **[The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025](https://www.indexdata.org/the-sheringham-shoal-and-dudgeon-extensions-offshore-wind-farm-amendment-order-2025/)** — `2025-02-06` | `4 Pages`
-- `[`UKSI-2025-114`]` **[The Transfer of Undertakings (Protection of Employment) (Transfer of Staff to the Civil Nuclear Police Authority) Regulations 2025](https://www.indexdata.org/the-transfer-of-undertakings-protection-of-employment-transfer-of-staff-to-the-civil-nuclear-police-authority-regulations-2025/)** — `2025-02-04` | `4 Pages`
-- `[`UKSI-2025-25`]` **[The Contracts for Difference (Miscellaneous Amendments) Regulations 2025](https://www.indexdata.org/the-contracts-for-difference-miscellaneous-amendments-regulations-2025/)** — `2025-01-13` | `4 Pages`
-- `[`UKSI-2025-28`]` **[The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Seagreen) (Scotland) (Amendment) Order 2025](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-transmission-licence-seagreen-scotland-amendment-order-2025/)** — `2025-01-09` | `2 Pages`
-- `[`UKSI-2025-27`]` **[The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Dogger Bank A) Order 2025](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-transmission-licence-dogger-bank-a-order-2025/)** — `2025-01-09` | `4 Pages`
-- `[`UKSI-2024-1338`]` **[The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024](https://www.indexdata.org/the-sheringham-shoal-and-dudgeon-extensions-offshore-wind-farm-correction-order-2024/)** — `2024-12-10` | `24 Pages`
-- `[`UKSI-2024-1249`]` **[The Gate Burton Energy Park (Correction) Order 2024](https://www.indexdata.org/the-gate-burton-energy-park-correction-order-2024/)** — `2024-11-27` | `8 Pages`
-- `[`UKSI-2024-1081`]` **[The Code Manager Selection Regulations 2024](https://www.indexdata.org/the-code-manager-selection-regulations-2024/)** — `2024-10-28` | `8 Pages`
-- `[`UKSI-2024-1031`]` **[The HyNet Carbon Dioxide Pipeline (Correction) Order 2024](https://www.indexdata.org/the-hynet-carbon-dioxide-pipeline-correction-order-2024/)** — `2024-10-15` | `4 Pages`
-- `[`UKSI-2024-984`]` **[The Electricity (Standards of Performance) (Amendment) Regulations 2024](https://www.indexdata.org/the-electricity-standards-of-performance-amendment-regulations-2024/)** — `2024-10-01` | `4 Pages`
-- `[`UKSI-2024-957`]` **[The Energy Act 2023 (Commencement No. 3) Regulations 2024](https://www.indexdata.org/the-energy-act-2023-commencement-no-3-regulations-2024/)** — `2024-09-13` | `2 Pages`
-- `[`UKSI-2024-954`]` **[The Gas and Electricity Regulated Providers (Redress Scheme) (Amendment) Order 2024](https://www.indexdata.org/the-gas-and-electricity-regulated-providers-redress-scheme-amendment-order-2024/)** — `2024-09-12` | `4 Pages`
-- `[`UKSI-2024-905`]` **[The Independent System Operator and Planner (Designation) Third Party Compensation Regulations 2024](https://www.indexdata.org/the-independent-system-operator-and-planner-designation-third-party-compensation-regulations-2024/)** — `2024-09-05` | `4 Pages`
-- `[`UKSI-2024-893`]` **[The Warm Home Discount (Reconciliation) (Amendment) Regulations 2024](https://www.indexdata.org/the-warm-home-discount-reconciliation-amendment-regulations-2024/)** — `2024-09-03` | `2 Pages`
-- `[`UKSI-2024-890`]` **[The Energy Act 2023 (Commencement No. 2) Regulations 2024](https://www.indexdata.org/the-energy-act-2023-commencement-no-2-regulations-2024/)** — `2024-09-02` | `4 Pages`
-- `[`UKSI-2024-819`]` **[The Electricity (Class Exemptions from the Requirement for a Licence) (Amendment) Order 2024](https://www.indexdata.org/the-electricity-class-exemptions-from-the-requirement-for-a-licence-amendment-order-2024/)** — `2024-07-25` | `8 Pages`
-- `[`UKSI-2024-809`]` **[The Electricity (Individual Exemption from the Requirement for a Supply Licence) (Green Volt) (Scotland) Order 2024](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-supply-licence-green-volt-scotland-order-2024/)** — `2024-07-19` | `4 Pages`
-- `[`UKSI-2024-800`]` **[The Hornsea Four Offshore Wind Farm (Amendment) Order 2024](https://www.indexdata.org/the-hornsea-four-offshore-wind-farm-amendment-order-2024/)** — `2024-07-17` | `4 Pages`
-- `[`UKSI-2024-799`]` **[The Awel y Môr Offshore Wind Farm (Correction) Order 2024](https://www.indexdata.org/the-awel-y-mor-offshore-wind-farm-correction-order-2024/)** — `2024-07-16` | `12 Pages`
-- `[`UKSI-2024-807`]` **[The Gate Burton Energy Park Order 2024](https://www.indexdata.org/the-gate-burton-energy-park-order-2024/)** — `2024-07-12` | `176 Pages`
-- `[`UKSI-2024-802`]` **[The Sunnica Energy Farm Order 2024](https://www.indexdata.org/the-sunnica-energy-farm-order-2024/)** — `2024-07-12` | `164 Pages`
-- `[`UKSI-2024-811`]` **[The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024](https://www.indexdata.org/the-national-grid-yorkshire-green-energy-enablement-project-corrections-order-2024/)** — `2024-06-11` | `4 Pages`
-- `[`UKSI-2024-706`]` **[The Energy Act 2023 (Consequential Amendments) Regulations 2024](https://www.indexdata.org/the-energy-act-2023-consequential-amendments-regulations-2024/)** — `2024-05-24` | `20 Pages`
-- `[`UKSI-2024-710`]` **[The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024](https://www.indexdata.org/the-contracts-for-difference-sustainable-industry-rewards-regulations-2024/)** — `2024-05-23` | `28 Pages`
-- `[`UKSI-2024-700`]` **[The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Seagreen) (Scotland) Order 2024](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-transmission-licence-seagreen-scotland-order-2024/)** — `2024-05-23` | `2 Pages`
-- `[`UKSI-2024-674`]` **[The Keuper Underground Gas Storage Facility (Amendment) Order 2024](https://www.indexdata.org/the-keuper-underground-gas-storage-facility-amendment-order-2024/)** — `2024-05-15` | `4 Pages`
-- `[`UKSI-2024-642`]` **[The Green Gas Support Scheme (Amendment) Regulations 2024](https://www.indexdata.org/the-green-gas-support-scheme-amendment-regulations-2024/)** — `2024-05-14` | `8 Pages`
-- `[`UKSI-2024-640`]` **[The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2024](https://www.indexdata.org/the-energy-performance-of-buildings-england-and-wales-amendment-regulations-2024/)** — `2024-05-14` | `4 Pages`
-- `[`UKSI-2024-627`]` **[The Hornsea Three Offshore Wind Farm (Amendment) Order 2024](https://www.indexdata.org/the-hornsea-three-offshore-wind-farm-amendment-order-2024/)** — `2024-05-09` | `4 Pages`
-- `[`UKSI-2024-564`]` **[The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm Order 2024](https://www.indexdata.org/the-sheringham-shoal-and-dudgeon-extensions-offshore-wind-farm-order-2024/)** — `2024-04-17` | `352 Pages`
-- `[`UKSI-2024-524`]` **[The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024](https://www.indexdata.org/the-boiler-upgrade-scheme-england-and-wales-amendment-regulations-2024/)** — `2024-04-17` | `16 Pages`
-- `[`UKSI-2024-465`]` **[The Smart Meters Act 2018 (Commencement) Regulations 2024](https://www.indexdata.org/the-smart-meters-act-2018-commencement-regulations-2024/)** — `2024-03-28` | `2 Pages`
-- `[`UKSI-2024-446`]` **[The Immingham Open Cycle Gas Turbine (Amendment) (No. 2) Order 2024](https://www.indexdata.org/the-immingham-open-cycle-gas-turbine-amendment-no-2-order-2024/)** — `2024-03-27` | `4 Pages`
-- `[`UKSI-2024-442`]` **[The Energy Bills Discount Scheme (Amendment) Regulations 2024](https://www.indexdata.org/the-energy-bills-discount-scheme-amendment-regulations-2024/)** — `2024-03-26` | `2 Pages`
-- `[`UKSI-2024-436`]` **[The HyNet Carbon Dioxide Pipeline Order 2024](https://www.indexdata.org/the-hynet-carbon-dioxide-pipeline-order-2024/)** — `2024-03-20` | `236 Pages`
-- `[`UKSI-2024-434`]` **[The Electricity Capacity (Supplier Payment etc.) (Amendment and Excluded Electricity) Regulations 2024](https://www.indexdata.org/the-electricity-capacity-supplier-payment-etc-amendment-and-excluded-electricity-regulations-2024/)** — `2024-03-20` | `8 Pages`
-- `[`UKSI-2024-419`]` **[The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024](https://www.indexdata.org/the-electricity-supplier-obligations-excluded-electricity-amendment-regulations-2024/)** — `2024-03-20` | `4 Pages`
-- `[`UKSI-2024-409`]` **[The Energy-Intensive Industry Electricity Support Payments and Levy Regulations 2024](https://www.indexdata.org/the-energy-intensive-industry-electricity-support-payments-and-levy-regulations-2024/)** — `2024-03-20` | `16 Pages`
-- `[`UKSI-2024-403`]` **[The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2024](https://www.indexdata.org/the-renewables-obligation-amendment-energy-intensive-industries-order-2024/)** — `2024-03-20` | `4 Pages`
-- `[`UKSI-2024-393`]` **[The National Grid (Yorkshire Green Energy Enablement Project) Development Consent Order 2024](https://www.indexdata.org/the-national-grid-yorkshire-green-energy-enablement-project-development-consent-order-2024/)** — `2024-03-14` | `164 Pages`
-- `[`UKSI-2024-162`]` **[The Offshore Installations (Safety Zones) Order 2024](https://www.indexdata.org/the-offshore-installations-safety-zones-order-2024/)** — `2024-02-19` | `4 Pages`
-- `[`UKSI-2024-134`]` **[The Independent System Operator and Planner Transfer Scheme Compensation (Amendment) Regulations 2024](https://www.indexdata.org/the-independent-system-operator-and-planner-transfer-scheme-compensation-amendment-regulations-2024/)** — `2024-02-07` | `2 Pages`
-- `[`UKSI-2024-125`]` **[The Independent System Operator and Planner Transfer Scheme Compensation Regulations 2024](https://www.indexdata.org/the-independent-system-operator-and-planner-transfer-scheme-compensation-regulations-2024/)** — `2024-01-30` | `8 Pages`
-- `[`UKSI-2024-117`]` **[The Hornsea Four Offshore Wind Farm (Correction) Order 2024](https://www.indexdata.org/the-hornsea-four-offshore-wind-farm-correction-order-2024/)** — `2024-01-30` | `8 Pages`
-- `[`UKSI-2024-108`]` **[The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024](https://www.indexdata.org/the-electricity-and-gas-standards-of-performance-suppliers-amendment-regulations-2024/)** — `2024-01-29` | `4 Pages`
-- `[`UKSI-2024-32`]` **[The Energy Act 2023 (Commencement No. 1) Regulations 2024](https://www.indexdata.org/the-energy-act-2023-commencement-no-1-regulations-2024/)** — `2024-01-10` | `4 Pages`
 
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)

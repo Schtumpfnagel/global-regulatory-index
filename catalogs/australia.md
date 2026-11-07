@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,223` across `28` issuing authorities  
-**Last Automated Sync:** `2026-11-07 16:45 UTC`
+**Total Indexed Dossiers in Australia:** `1,227` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-07 17:33 UTC`
 
 ---
 
-## Issuing Authorities in Australia (28 Authorities)
+## Issuing Authorities in Australia (29 Authorities)
 
 - **[Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)** (`376` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
 - **[Attorney-General's Department](https://www.indexdata.org/australia/attorney-general-s-department/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.indexdata.org/australia/attorney-general-s-department/feed/)
@@ -33,17 +33,18 @@
 - **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
 - **[Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
 - **[Department of Industry, Science and Resources](https://www.indexdata.org/australia/department-of-industry-science-and-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-industry-science-and-resources/) | [RSS Feed](https://www.indexdata.org/australia/department-of-industry-science-and-resources/feed/)
-- **[Northern Territory — Attorney-General’s](https://www.indexdata.org/australia/northern-territory-attorney-general-s/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-attorney-general-s/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-attorney-general-s/feed/)
+- **[Northern Territory — Attorney-General’s](https://www.indexdata.org/australia/northern-territory-attorney-general-s/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-attorney-general-s/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-attorney-general-s/feed/)
 - **[Department of the Prime Minister and Cabinet](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/feed/)
 - **[Aestra](https://www.indexdata.org/australia/aestra/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/australia/aestra/) | [RSS Feed](https://www.indexdata.org/australia/aestra/feed/)
 - **[Northern Territory — Health](https://www.indexdata.org/australia/northern-territory-health/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-health/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-health/feed/)
+- **[Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
 - **[Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
 - **[Australian Business Register](https://www.indexdata.org/australia/australian-business-register/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
-- **[Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
+- **[Northern Territory — Logistics and Infrastructure](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,223 of 1,223)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,227 of 1,227)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1330,6 +1331,7 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 - `[`AU-NT-6b63effe-866b-440b-a10a`]` **[NT Crime Statistics December 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-december-2025-data_quality_statement-crime-stats-pdf/)** — `2026-03-16` | `2 Pages`
 - `[`AU-NT-8ba4cec0-ccd9-4e1a-b317`]` **[NT Crime Statistics November 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-november-2025-data_quality_statement-crime-stats-pdf/)** — `2026-02-17` | `2 Pages`
 - `[`AU-NT-85f6e2b6-c05e-444c-9c56`]` **[NT Crime Statistics October 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-october-2025-data_quality_statement-crime-stats-pdf/)** — `2026-01-16` | `2 Pages`
+- `[`AU-NT-f837f983-797c-4fda-9842`]` **[NT Crime Statistics September 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-september-2025-data_quality_statement-crime-stats-pdf/)** — `2025-12-18` | `2 Pages`
 
 ### [Department of the Prime Minister and Cabinet](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/feed/)
@@ -1364,6 +1366,13 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 - `[`AU-NT-8fc4a745-67c6-44cf-87f9`]` **[Mothers and Babies Report 2014](https://www.indexdata.org/mothers-and-babies-report-2014/)** — `2026-02-17` | `60 Pages`
 - `[`AU-NT-2bc4f1cc-ac9e-44b0-a3bf`]` **[Mothers and Babies Report 2015](https://www.indexdata.org/mothers-and-babies-report-2015/)** — `2026-02-17` | `62 Pages`
 
+### [Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
+
+- `[`AU-DATA-ff6905d6-9d5d-4ef1-8478`]` **[ACNC 2023 Annual Information Statement (AIS) Data — Explanatory notes_2023 AIS data](https://www.indexdata.org/acnc-2023-annual-information-statement-ais-data-explanatory-notes_2023-ais-data/)** — `2026-11-01` | `22 Pages`
+- `[`AU-DATA-b050b242-4487-4306-abf5`]` **[ACNC Registered Charities — User notes](https://www.indexdata.org/acnc-registered-charities-user-notes/)** — `2026-11-01` | `6 Pages`
+- `[`AU-DATA-276ec1bc-4971-461c-88bc`]` **[ACNC 2024 Annual Information Statement (AIS) Data — Explanatory notes](https://www.indexdata.org/acnc-2024-annual-information-statement-ais-data-explanatory-notes/)** — `2026-11-01` | `19 Pages`
+
 ### [Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
 
@@ -1375,10 +1384,10 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-bus
 
 - `[`AU-DATA-5bd7fcab-e315-42cb-8daf`]` **[ABN Bulk Extract — ABN Lookup Bulk Extract Readme](https://www.indexdata.org/abn-bulk-extract-abn-lookup-bulk-extract-readme/)** — `2026-11-03` | `11 Pages`
 
-### [Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
+### [Northern Territory — Logistics and Infrastructure](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/feed/)
 
-- `[`AU-DATA-276ec1bc-4971-461c-88bc`]` **[ACNC 2024 Annual Information Statement (AIS) Data — Explanatory notes](https://www.indexdata.org/acnc-2024-annual-information-statement-ais-data-explanatory-notes/)** — `2026-11-01` | `19 Pages`
+- `[`AU-NT-b605526c-8c6a-4fdd-a052`]` **[Super Tuesday Bike Count Tennant Creek and Alice Springs 2025 — Super Tuesday Commuter Bike Count Tennant Creek and Alice Springs 2025](https://www.indexdata.org/super-tuesday-bike-count-tennant-creek-and-alice-springs-2025-super-tuesday-commuter-bike-count-tennant-creek-and-alice-springs-2025/)** — `2025-12-11` | `27 Pages`
 
 ---
 
