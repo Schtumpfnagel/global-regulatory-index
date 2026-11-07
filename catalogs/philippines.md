@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `105` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-07 16:15 UTC`
+**Total Indexed Dossiers in Philippines:** `106` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-07 16:45 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (9 Authorities)
 
-- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
+- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
@@ -24,7 +24,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–105 of 105)
+## Indexed Statutory & Regulatory Dossiers (Records 1–106 of 106)
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
@@ -50,6 +50,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-ind
 - `[`PH-MARINA-26060`]` **[PHILGEPS POSTING – Offsite Back-up](https://www.indexdata.org/philgeps-posting-offsite-back-up/)** — `2026-10-27` | `3 Pages`
 - `[`PH-MARINA-26047`]` **[SEPTEMBER-2026-NEWSLETTER](https://www.indexdata.org/september-2026-newsletter/)** — `2026-10-26` | `32 Pages`
 - `[`PH-MARINA-26038`]` **[RFQ DRIED MANGOES AND BANANA CHIPS](https://www.indexdata.org/rfq-dried-mangoes-and-banana-chips/)** — `2026-10-24` | `8 Pages`
+- `[`PH-MARINA-26037`]` **[PHILGEPS POSTING DRIED MANGOES AND BANANA CHIPS](https://www.indexdata.org/philgeps-posting-dried-mangoes-and-banana-chips/)** — `2026-10-24` | `3 Pages`
 
 ### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)

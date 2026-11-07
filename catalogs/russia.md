@@ -4,20 +4,21 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/russia/](https://www.indexdata.org/russia/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/russia/feed/](https://www.indexdata.org/russia/feed/)  
 **Wikidata Sovereign Entity:** [`Q159`](https://www.wikidata.org/wiki/Q159)  
-**Governing Open-Government Framework:** *Open Government / Statutory Public Sector Reuse Framework*  
-**Total Indexed Dossiers in Russia:** `24` across `2` issuing authorities  
-**Last Automated Sync:** `2026-11-07 16:15 UTC`
+**Governing Open-Government Framework:** *Civil Code Art. 1259(6) / Federal Law No. 8-FZ / Open Data Standard v3.0*  
+**Total Indexed Dossiers in Russia:** `34` across `3` issuing authorities  
+**Last Automated Sync:** `2026-11-07 16:45 UTC`
 
 ---
 
-## Issuing Authorities in Russia (2 Authorities)
+## Issuing Authorities in Russia (3 Authorities)
 
 - **[Russian Academy of Sciences](https://www.indexdata.org/russia/russian-academy-of-sciences/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/russia/russian-academy-of-sciences/) | [RSS Feed](https://www.indexdata.org/russia/russian-academy-of-sciences/feed/)
+- **[Ministry of Finance of the Russian Federation](https://www.indexdata.org/russia/ministry-of-finance-of-the-russian-federation/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/russia/ministry-of-finance-of-the-russian-federation/) | [RSS Feed](https://www.indexdata.org/russia/ministry-of-finance-of-the-russian-federation/feed/)
 - **[Ministry of Health of the Russian Federation](https://www.indexdata.org/russia/ministry-of-health-of-the-russian-federation/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/russia/ministry-of-health-of-the-russian-federation/) | [RSS Feed](https://www.indexdata.org/russia/ministry-of-health-of-the-russian-federation/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–24 of 24)
+## Indexed Statutory & Regulatory Dossiers (Records 1–34 of 34)
 
 ### [Russian Academy of Sciences](https://www.indexdata.org/russia/russian-academy-of-sciences/)
 Canonical Authority Archive: [https://www.indexdata.org/russia/russian-academy-of-sciences/](https://www.indexdata.org/russia/russian-academy-of-sciences/) | [RSS Feed](https://www.indexdata.org/russia/russian-academy-of-sciences/feed/)
@@ -38,6 +39,20 @@ Canonical Authority Archive: [https://www.indexdata.org/russia/russian-academy-o
 - `[`RU-RAS-W7225100288`]` **[Dynamics of osteocalcin and sclerostin levels in bone regeneration by means of mesenchymal stem cells](https://www.indexdata.org/dynamics-of-osteocalcin-and-sclerostin-levels-in-bone-regeneration-by-means-of-mesenchymal-stem-cells/)** — `2026-10-31` | `6 Pages`
 - `[`RU-RAS-W7224762159`]` **[A method of neural network identification of thermokarst formations in Central Yakutia using graphic data from satellite remote](https://www.indexdata.org/a-method-of-neural-network-identification-of-thermokarst-formations-in-central-yakutia-using-graphic-data-from-satellite-remote/)** — `2026-10-30` | `12 Pages`
 - `[`RU-RAS-W7224359618`]` **[Nuclear Risks and Damages in Europe](https://www.indexdata.org/nuclear-risks-and-damages-in-europe/)** — `2026-10-30` | `6 Pages`
+
+### [Ministry of Finance of the Russian Federation](https://www.indexdata.org/russia/ministry-of-finance-of-the-russian-federation/)
+Canonical Authority Archive: [https://www.indexdata.org/russia/ministry-of-finance-of-the-russian-federation/](https://www.indexdata.org/russia/ministry-of-finance-of-the-russian-federation/) | [RSS Feed](https://www.indexdata.org/russia/ministry-of-finance-of-the-russian-federation/feed/)
+
+- `[`RU-MINFIN-RU_BlueBook_GVT_2015_IFRIC_7`]` **[Ministry of Finance of the Russian Federation — RU BlueBook GVT 2015 IFRIC 7](https://www.indexdata.org/ministry-of-finance-of-the-russian-federation-ru-bluebook-gvt-2015-ifric-7/)** — `2026-09-16` | `2 Pages`
+- `[`RU-MINFIN-RU_BlueBook_GVT_2015_IFRIC_6`]` **[Ministry of Finance of the Russian Federation — RU BlueBook GVT 2015 IFRIC 6](https://www.indexdata.org/ministry-of-finance-of-the-russian-federation-ru-bluebook-gvt-2015-ifric-6/)** — `2026-09-16` | `2 Pages`
+- `[`RU-MINFIN-RU_BlueBook_GVT_2015_IFRIC_5`]` **[Ministry of Finance of the Russian Federation — RU BlueBook GVT 2015 IFRIC 5](https://www.indexdata.org/ministry-of-finance-of-the-russian-federation-ru-bluebook-gvt-2015-ifric-5/)** — `2026-09-16` | `3 Pages`
+- `[`RU-MINFIN-RU_BlueBook_GVT_2015_IFRIC_2`]` **[Ministry of Finance of the Russian Federation — RU BlueBook GVT 2015 IFRIC 2](https://www.indexdata.org/ministry-of-finance-of-the-russian-federation-ru-bluebook-gvt-2015-ifric-2/)** — `2026-09-16` | `8 Pages`
+- `[`RU-MINFIN-RU_BlueBook_GVT_2015_IFRIC_12`]` **[Ministry of Finance of the Russian Federation — RU BlueBook GVT 2015 IFRIC 12](https://www.indexdata.org/ministry-of-finance-of-the-russian-federation-ru-bluebook-gvt-2015-ifric-12/)** — `2026-09-16` | `7 Pages`
+- `[`RU-MINFIN-RU_BlueBook_GVT_2015_IFRIC_10`]` **[Ministry of Finance of the Russian Federation — RU BlueBook GVT 2015 IFRIC 10](https://www.indexdata.org/ministry-of-finance-of-the-russian-federation-ru-bluebook-gvt-2015-ifric-10/)** — `2026-09-16` | `2 Pages`
+- `[`RU-MINFIN-RU_BlueBook_GVT_2015_IFRIC_1`]` **[Ministry of Finance of the Russian Federation — RU BlueBook GVT 2015 IFRIC 1](https://www.indexdata.org/ministry-of-finance-of-the-russian-federation-ru-bluebook-gvt-2015-ifric-1/)** — `2026-09-16` | `3 Pages`
+- `[`RU-MINFIN-RU_BlueBook_GVT_2015_IAS_8`]` **[Ministry of Finance of the Russian Federation — RU BlueBook GVT 2015 IAS 8](https://www.indexdata.org/ministry-of-finance-of-the-russian-federation-ru-bluebook-gvt-2015-ias-8/)** — `2026-09-16` | `10 Pages`
+- `[`RU-MINFIN-RU_BlueBook_GVT_2015_IAS_7`]` **[Ministry of Finance of the Russian Federation — RU BlueBook GVT 2015 IAS 7](https://www.indexdata.org/ministry-of-finance-of-the-russian-federation-ru-bluebook-gvt-2015-ias-7/)** — `2026-09-16` | `10 Pages`
+- `[`RU-MINFIN-RU_BlueBook_GVT_2015_IAS_27`]` **[Ministry of Finance of the Russian Federation — RU BlueBook GVT 2015 IAS 27](https://www.indexdata.org/ministry-of-finance-of-the-russian-federation-ru-bluebook-gvt-2015-ias-27/)** — `2026-09-16` | `6 Pages`
 
 ### [Ministry of Health of the Russian Federation](https://www.indexdata.org/russia/ministry-of-health-of-the-russian-federation/)
 Canonical Authority Archive: [https://www.indexdata.org/russia/ministry-of-health-of-the-russian-federation/](https://www.indexdata.org/russia/ministry-of-health-of-the-russian-federation/) | [RSS Feed](https://www.indexdata.org/russia/ministry-of-health-of-the-russian-federation/feed/)
