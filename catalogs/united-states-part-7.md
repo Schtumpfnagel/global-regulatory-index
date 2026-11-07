@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,110` across `223` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,112` across `224` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-07 07:57 UTC`
+**Last Automated Sync:** `2026-11-07 09:01 UTC`
 
 ---
 
-## Issuing Authorities in United States (223 Authorities)
+## Issuing Authorities in United States (224 Authorities)
 
 - **[Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)** (`3,434` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 - **[Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)** (`1,877` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -169,9 +169,9 @@
 - **[Office of the Attorney General](https://www.indexdata.org/united-states/office-of-the-attorney-general/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/office-of-the-attorney-general/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-attorney-general/feed/)
 - **[Committee for Purchase From People Who Are Blind or Severely Disabled](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/) | [RSS Feed](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/feed/)
 - **[Community Living Administration](https://www.indexdata.org/united-states/community-living-administration/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/community-living-administration/) | [RSS Feed](https://www.indexdata.org/united-states/community-living-administration/feed/)
+- **[Executive Office of the President (The White House)](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/feed/)
 - **[National Endowment for the Arts](https://www.indexdata.org/united-states/national-endowment-for-the-arts/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-endowment-for-the-arts/) | [RSS Feed](https://www.indexdata.org/united-states/national-endowment-for-the-arts/feed/)
 - **[Office of the Secretary of Labor](https://www.indexdata.org/united-states/office-of-the-secretary-of-labor/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/office-of-the-secretary-of-labor/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary-of-labor/feed/)
-- **[Executive Office of the President (The White House)](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/feed/)
 - **[Government Accountability Office](https://www.indexdata.org/united-states/government-accountability-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/government-accountability-office/) | [RSS Feed](https://www.indexdata.org/united-states/government-accountability-office/feed/)
 - **[International Trade Commission](https://www.indexdata.org/united-states/international-trade-commission/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-commission/feed/)
 - **[Peace Corps](https://www.indexdata.org/united-states/peace-corps/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/peace-corps/) | [RSS Feed](https://www.indexdata.org/united-states/peace-corps/feed/)
@@ -234,12 +234,13 @@
 - **[Procurement and Property Management, Office of](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/) | [RSS Feed](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/feed/)
 - **[Reclamation Bureau](https://www.indexdata.org/united-states/reclamation-bureau/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/reclamation-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/reclamation-bureau/feed/)
 - **[U.S. Citizenship and Immigration Services](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/feed/)
+- **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Under-Secretary for Economic Affairs](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/) | [RSS Feed](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/feed/)
 - **[United States Agency for Global Media](https://www.indexdata.org/united-states/united-states-agency-for-global-media/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-agency-for-global-media/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-agency-for-global-media/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,110)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,112)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1039,7 +1040,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-12693`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Fishery of the Gulf of Mexico; 2024 Red Snapper Private Angling Component Accountability Measure in Federal Waters Off Alabama, Florida, and Mississippi](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-reef-fish-fishery-of-the-gulf-of-mexico-2024-red-snapper-private-angling-component-accountability-measure-in-federal-waters-off-alabama/)** — `2024-06-11` | `2 Pages`
 - `[`2024-12668`]` **[Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Virginia](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north-carolina-to-virginia-3/)** — `2024-06-11` | `2 Pages`
 - `[`2024-11982`]` **[Lake Ontario National Marine Sanctuary; Final Regulations](https://www.indexdata.org/lake-ontario-national-marine-sanctuary-final-regulations/)** — `2024-06-06` | `20 Pages`
-- `[`2024-12230`]` **[Fisheries of the Exclusive Economic Zone; Bering Sea and Aleutian Islands Crab Rationalization Program](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-bering-sea-and-aleutian-islands-crab-rationalization-program/)** — `2024-06-04` | `7 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1255,6 +1255,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
 
+- `[`2024-22765`]` **[Medicare Program; Changes to the Fiscal Year 2025 Hospital Inpatient Prospective Payment System (IPPS) Rates Due to Court Decision](https://www.indexdata.org/medicare-program-changes-to-the-fiscal-year-2025-hospital-inpatient-prospective-payment-system-ipps-rates-due-to-court-decision/)** — `2024-10-03` | `17 Pages`
 - `[`2024-22504`]` **[Medicare Program; Prospective Payment System and Consolidated Billing for Skilled Nursing Facilities; Updates to the Quality Reporting Program and Value-Based Purchasing Program for Federal Fiscal Year 2025; Correction](https://www.indexdata.org/medicare-program-prospective-payment-system-and-consolidated-billing-for-skilled-nursing-facilities-updates-to-the-quality-reporting-program-and-value-based-purchasing-program-for-federal-fiscal-yea/)** — `2024-10-02` | `3 Pages`
 - `[`2024-22501`]` **[Medicare and Medicaid Programs and the Children's Health Insurance Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year 2025 Rates; Quality Programs Requirements; and Other Policy Changes; Correction](https://www.indexdata.org/medicare-and-medicaid-programs-and-the-childrens-health-insurance-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-and-the-long-term-care-hospital-prospective-payment/)** — `2024-10-02` | `34 Pages`
 - `[`2024-22497`]` **[Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2025 and Updates to the IRF Quality Reporting Program; Correction](https://www.indexdata.org/medicare-program-inpatient-rehabilitation-facility-prospective-payment-system-for-federal-fiscal-year-2025-and-updates-to-the-irf-quality-reporting-program-correction/)** — `2024-10-02` | `2 Pages`
@@ -1281,6 +1282,36 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2024-13795`]` **[Medicare and Medicaid Programs; Minimum Staffing Standards for Long-Term Care Facilities and Medicaid Institutional Payment Transparency Reporting; Correction](https://www.indexdata.org/medicare-and-medicaid-programs-minimum-staffing-standards-for-long-term-care-facilities-and-medicaid-institutional-payment-transparency-reporting-correction/)** — `2024-06-24` | `5 Pages`
 - `[`2024-13712`]` **[Medicaid Program; Medicaid and Children's Health Insurance Program (CHIP) Managed Care Access, Finance, and Quality; Correction](https://www.indexdata.org/medicaid-program-medicaid-and-childrens-health-insurance-program-chip-managed-care-access-finance-and-quality-correction/)** — `2024-06-24` | `3 Pages`
 - `[`2024-12842`]` **[Medicare Program; Medicare Prescription Drug Benefit Program; Health Information Technology Standards and Implementation Specifications](https://www.indexdata.org/medicare-program-medicare-prescription-drug-benefit-program-health-information-technology-standards-and-implementation-specifications/)** — `2024-06-17` | `28 Pages`
+
+### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
+
+- `[`2024-22795`]` **[Implementation of HAVANA Act of 2021](https://www.indexdata.org/implementation-of-havana-act-of-2021-3/)** — `2024-10-03` | `7 Pages`
+- `[`2024-22632`]` **[Family Seating in Air Transportation](https://www.indexdata.org/family-seating-in-air-transportation/)** — `2024-10-03` | `2 Pages`
+- `[`2024-22571`]` **[Delegations of Authority](https://www.indexdata.org/delegations-of-authority-3/)** — `2024-10-02` | `3 Pages`
+- `[`2024-22584`]` **[Medical Billing for Healthcare Services Provided by Department of Defense Military Medical Treatment Facilities to Civilian Non-Beneficiaries](https://www.indexdata.org/medical-billing-for-healthcare-services-provided-by-department-of-defense-military-medical-treatment-facilities-to-civilian-non-beneficiaries-2/)** — `2024-10-01` | `12 Pages`
+- `[`2024-19457`]` **[Transactions Other Than Contracts, Grants, or Cooperative Agreements for Prototype Projects](https://www.indexdata.org/transactions-other-than-contracts-grants-or-cooperative-agreements-for-prototype-projects/)** — `2024-09-04` | `8 Pages`
+- `[`2024-18496`]` **[Transportation for Individuals With Disabilities; Adoption of Accessibility Standards for Pedestrian Facilities in the Public Right-of-Way](https://www.indexdata.org/transportation-for-individuals-with-disabilities-adoption-of-accessibility-standards-for-pedestrian-facilities-in-the-public-right-of-way-3/)** — `2024-08-22` | `7 Pages`
+- `[`2024-16458`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-5/)** — `2024-08-16` | `3 Pages`
+- `[`2024-16457`]` **[Department Regulatory and Deregulatory Agenda; Semiannual Summary](https://www.indexdata.org/department-regulatory-and-deregulatory-agenda-semiannual-summary/)** — `2024-08-16` | `8 Pages`
+- `[`2024-16455`]` **[Semiannual Agenda of Regulations](https://www.indexdata.org/semiannual-agenda-of-regulations/)** — `2024-08-16` | `8 Pages`
+- `[`2024-16453`]` **[Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/unified-agenda-of-federal-regulatory-and-deregulatory-actions-3/)** — `2024-08-16` | `8 Pages`
+- `[`2024-16451`]` **[Regulatory Agenda](https://www.indexdata.org/regulatory-agenda-2/)** — `2024-08-16` | `14 Pages`
+- `[`2024-16448`]` **[Semiannual Regulatory Agenda, Spring 2024](https://www.indexdata.org/semiannual-regulatory-agenda-spring-2024/)** — `2024-08-16` | `6 Pages`
+- `[`2024-16446`]` **[Spring 2024 Semiannual Agenda of Regulations](https://www.indexdata.org/spring-2024-semiannual-agenda-of-regulations/)** — `2024-08-16` | `15 Pages`
+- `[`2024-17602`]` **[Refunds and Other Consumer Protections (2024 FAA Reauthorization)](https://www.indexdata.org/refunds-and-other-consumer-protections-2024-faa-reauthorization/)** — `2024-08-12` | `5 Pages`
+- `[`2024-17323`]` **[Family Seating in Air Transportation](https://www.indexdata.org/family-seating-in-air-transportation-2/)** — `2024-08-09` | `23 Pages`
+- `[`2024-17240`]` **[Privacy Act Regulations; Exemption for the Law Enforcement Records Management System](https://www.indexdata.org/privacy-act-regulations-exemption-for-the-law-enforcement-records-management-system/)** — `2024-08-06` | `3 Pages`
+- `[`2024-14975`]` **[Health Data, Technology, and Interoperability: Patient Engagement, Information Sharing, and Public Health Interoperability](https://www.indexdata.org/health-data-technology-and-interoperability-patient-engagement-information-sharing-and-public-health-interoperability/)** — `2024-08-05` | `314 Pages`
+- `[`2024-16765`]` **[Procedures for Transportation Workplace Drug and Alcohol Testing Programs; Withdrawal of Direct Final Rule](https://www.indexdata.org/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-withdrawal-of-direct-final-rule/)** — `2024-08-01` | `2 Pages`
+- `[`2024-15329`]` **[Agriculture Acquisition Regulation (AGAR)](https://www.indexdata.org/agriculture-acquisition-regulation-agar-2/)** — `2024-07-26` | `17 Pages`
+- `[`2024-16181`]` **[Discontinue Use of Form CD-492, Justification for Other Than Full and Open Competition](https://www.indexdata.org/discontinue-use-of-form-cd-492-justification-for-other-than-full-and-open-competition/)** — `2024-07-23` | `2 Pages`
+- `[`2024-15091`]` **[DoD Assistance to Non-Government, Entertainment-Oriented Media Productions](https://www.indexdata.org/dod-assistance-to-non-government-entertainment-oriented-media-productions-2/)** — `2024-07-16` | `10 Pages`
+- `[`2024-14318`]` **[Disadvantaged Business Enterprise and Airport Concession Disadvantaged Business Enterprise Program Implementation Modifications; Corrections](https://www.indexdata.org/disadvantaged-business-enterprise-and-airport-concession-disadvantaged-business-enterprise-program-implementation-modifications-corrections/)** — `2024-07-03` | `4 Pages`
+- `[`2024-12749`]` **[Procedures for Transportation Workplace Drug and Alcohol Testing Programs: Technical Amendments](https://www.indexdata.org/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-technical-amendments/)** — `2024-06-21` | `3 Pages`
+- `[`2024-12748`]` **[Procedures for Transportation Workplace Drug and Alcohol Testing Programs](https://www.indexdata.org/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-5/)** — `2024-06-21` | `3 Pages`
+- `[`2024-12747`]` **[Procedures for Transportation Workplace Drug and Alcohol Testing Programs](https://www.indexdata.org/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-6/)** — `2024-06-21` | `3 Pages`
+- `[`2024-12542`]` **[Civil Monetary Penalty Inflation Adjustments for 2024](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustments-for-2024/)** — `2024-06-07` | `5 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
@@ -1310,35 +1341,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2024-13225`]` **[Soybean Promotion and Research: Adjustments to Representation on the United Soybean Board](https://www.indexdata.org/soybean-promotion-and-research-adjustments-to-representation-on-the-united-soybean-board-2/)** — `2024-06-17` | `3 Pages`
 - `[`2024-12415`]` **[Poultry Grower Payment Systems and Capital Improvement Systems](https://www.indexdata.org/poultry-grower-payment-systems-and-capital-improvement-systems-2/)** — `2024-06-10` | `53 Pages`
 - `[`2024-12400`]` **[Fees for Official Inspection and Weighing Services Under the United Stated Grain Standards Act](https://www.indexdata.org/fees-for-official-inspection-and-weighing-services-under-the-united-stated-grain-standards-act/)** — `2024-06-06` | `10 Pages`
-
-### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
-
-- `[`2024-22632`]` **[Family Seating in Air Transportation](https://www.indexdata.org/family-seating-in-air-transportation/)** — `2024-10-03` | `2 Pages`
-- `[`2024-22571`]` **[Delegations of Authority](https://www.indexdata.org/delegations-of-authority-3/)** — `2024-10-02` | `3 Pages`
-- `[`2024-22584`]` **[Medical Billing for Healthcare Services Provided by Department of Defense Military Medical Treatment Facilities to Civilian Non-Beneficiaries](https://www.indexdata.org/medical-billing-for-healthcare-services-provided-by-department-of-defense-military-medical-treatment-facilities-to-civilian-non-beneficiaries-2/)** — `2024-10-01` | `12 Pages`
-- `[`2024-19457`]` **[Transactions Other Than Contracts, Grants, or Cooperative Agreements for Prototype Projects](https://www.indexdata.org/transactions-other-than-contracts-grants-or-cooperative-agreements-for-prototype-projects/)** — `2024-09-04` | `8 Pages`
-- `[`2024-18496`]` **[Transportation for Individuals With Disabilities; Adoption of Accessibility Standards for Pedestrian Facilities in the Public Right-of-Way](https://www.indexdata.org/transportation-for-individuals-with-disabilities-adoption-of-accessibility-standards-for-pedestrian-facilities-in-the-public-right-of-way-3/)** — `2024-08-22` | `7 Pages`
-- `[`2024-16458`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-5/)** — `2024-08-16` | `3 Pages`
-- `[`2024-16457`]` **[Department Regulatory and Deregulatory Agenda; Semiannual Summary](https://www.indexdata.org/department-regulatory-and-deregulatory-agenda-semiannual-summary/)** — `2024-08-16` | `8 Pages`
-- `[`2024-16455`]` **[Semiannual Agenda of Regulations](https://www.indexdata.org/semiannual-agenda-of-regulations/)** — `2024-08-16` | `8 Pages`
-- `[`2024-16453`]` **[Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/unified-agenda-of-federal-regulatory-and-deregulatory-actions-3/)** — `2024-08-16` | `8 Pages`
-- `[`2024-16451`]` **[Regulatory Agenda](https://www.indexdata.org/regulatory-agenda-2/)** — `2024-08-16` | `14 Pages`
-- `[`2024-16448`]` **[Semiannual Regulatory Agenda, Spring 2024](https://www.indexdata.org/semiannual-regulatory-agenda-spring-2024/)** — `2024-08-16` | `6 Pages`
-- `[`2024-16446`]` **[Spring 2024 Semiannual Agenda of Regulations](https://www.indexdata.org/spring-2024-semiannual-agenda-of-regulations/)** — `2024-08-16` | `15 Pages`
-- `[`2024-17602`]` **[Refunds and Other Consumer Protections (2024 FAA Reauthorization)](https://www.indexdata.org/refunds-and-other-consumer-protections-2024-faa-reauthorization/)** — `2024-08-12` | `5 Pages`
-- `[`2024-17323`]` **[Family Seating in Air Transportation](https://www.indexdata.org/family-seating-in-air-transportation-2/)** — `2024-08-09` | `23 Pages`
-- `[`2024-17240`]` **[Privacy Act Regulations; Exemption for the Law Enforcement Records Management System](https://www.indexdata.org/privacy-act-regulations-exemption-for-the-law-enforcement-records-management-system/)** — `2024-08-06` | `3 Pages`
-- `[`2024-14975`]` **[Health Data, Technology, and Interoperability: Patient Engagement, Information Sharing, and Public Health Interoperability](https://www.indexdata.org/health-data-technology-and-interoperability-patient-engagement-information-sharing-and-public-health-interoperability/)** — `2024-08-05` | `314 Pages`
-- `[`2024-16765`]` **[Procedures for Transportation Workplace Drug and Alcohol Testing Programs; Withdrawal of Direct Final Rule](https://www.indexdata.org/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-withdrawal-of-direct-final-rule/)** — `2024-08-01` | `2 Pages`
-- `[`2024-15329`]` **[Agriculture Acquisition Regulation (AGAR)](https://www.indexdata.org/agriculture-acquisition-regulation-agar-2/)** — `2024-07-26` | `17 Pages`
-- `[`2024-16181`]` **[Discontinue Use of Form CD-492, Justification for Other Than Full and Open Competition](https://www.indexdata.org/discontinue-use-of-form-cd-492-justification-for-other-than-full-and-open-competition/)** — `2024-07-23` | `2 Pages`
-- `[`2024-15091`]` **[DoD Assistance to Non-Government, Entertainment-Oriented Media Productions](https://www.indexdata.org/dod-assistance-to-non-government-entertainment-oriented-media-productions-2/)** — `2024-07-16` | `10 Pages`
-- `[`2024-14318`]` **[Disadvantaged Business Enterprise and Airport Concession Disadvantaged Business Enterprise Program Implementation Modifications; Corrections](https://www.indexdata.org/disadvantaged-business-enterprise-and-airport-concession-disadvantaged-business-enterprise-program-implementation-modifications-corrections/)** — `2024-07-03` | `4 Pages`
-- `[`2024-12749`]` **[Procedures for Transportation Workplace Drug and Alcohol Testing Programs: Technical Amendments](https://www.indexdata.org/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-technical-amendments/)** — `2024-06-21` | `3 Pages`
-- `[`2024-12748`]` **[Procedures for Transportation Workplace Drug and Alcohol Testing Programs](https://www.indexdata.org/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-5/)** — `2024-06-21` | `3 Pages`
-- `[`2024-12747`]` **[Procedures for Transportation Workplace Drug and Alcohol Testing Programs](https://www.indexdata.org/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-6/)** — `2024-06-21` | `3 Pages`
-- `[`2024-12542`]` **[Civil Monetary Penalty Inflation Adjustments for 2024](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustments-for-2024/)** — `2024-06-07` | `5 Pages`
 
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
@@ -2050,11 +2052,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/delaware-r
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-benefits-security-administration/](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 
 - `[`2024-17586`]` **[Prohibited Transaction Class Exemption 84-14 for Transactions Determined by Independent Qualified Professional Asset Managers (the QPAM Exemption); Correction](https://www.indexdata.org/prohibited-transaction-class-exemption-84-14-for-transactions-determined-by-independent-qualified-professional-asset-managers-the-qpam-exemption-correction/)** — `2024-08-13` | `8 Pages`
-
-### [Engineers Corps](https://www.indexdata.org/united-states/engineers-corps/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/engineers-corps/](https://www.indexdata.org/united-states/engineers-corps/) | [RSS Feed](https://www.indexdata.org/united-states/engineers-corps/feed/)
-
-- `[`2024-12239`]` **[Civil Monetary Penalty Inflation Adjustment Rule](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustment-rule-2/)** — `2024-06-04` | `4 Pages`
 
 ### [Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-office-for-immigration-review/](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)

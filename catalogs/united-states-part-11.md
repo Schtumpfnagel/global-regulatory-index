@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,110` across `223` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,112` across `224` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-07 07:57 UTC`
+**Last Automated Sync:** `2026-11-07 09:01 UTC`
 
 ---
 
-## Issuing Authorities in United States (223 Authorities)
+## Issuing Authorities in United States (224 Authorities)
 
 - **[Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)** (`3,434` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 - **[Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)** (`1,877` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -169,9 +169,9 @@
 - **[Office of the Attorney General](https://www.indexdata.org/united-states/office-of-the-attorney-general/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/office-of-the-attorney-general/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-attorney-general/feed/)
 - **[Committee for Purchase From People Who Are Blind or Severely Disabled](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/) | [RSS Feed](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/feed/)
 - **[Community Living Administration](https://www.indexdata.org/united-states/community-living-administration/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/community-living-administration/) | [RSS Feed](https://www.indexdata.org/united-states/community-living-administration/feed/)
+- **[Executive Office of the President (The White House)](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/feed/)
 - **[National Endowment for the Arts](https://www.indexdata.org/united-states/national-endowment-for-the-arts/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-endowment-for-the-arts/) | [RSS Feed](https://www.indexdata.org/united-states/national-endowment-for-the-arts/feed/)
 - **[Office of the Secretary of Labor](https://www.indexdata.org/united-states/office-of-the-secretary-of-labor/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/office-of-the-secretary-of-labor/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary-of-labor/feed/)
-- **[Executive Office of the President (The White House)](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/feed/)
 - **[Government Accountability Office](https://www.indexdata.org/united-states/government-accountability-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/government-accountability-office/) | [RSS Feed](https://www.indexdata.org/united-states/government-accountability-office/feed/)
 - **[International Trade Commission](https://www.indexdata.org/united-states/international-trade-commission/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-commission/feed/)
 - **[Peace Corps](https://www.indexdata.org/united-states/peace-corps/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/peace-corps/) | [RSS Feed](https://www.indexdata.org/united-states/peace-corps/feed/)
@@ -234,12 +234,13 @@
 - **[Procurement and Property Management, Office of](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/) | [RSS Feed](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/feed/)
 - **[Reclamation Bureau](https://www.indexdata.org/united-states/reclamation-bureau/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/reclamation-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/reclamation-bureau/feed/)
 - **[U.S. Citizenship and Immigration Services](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/feed/)
+- **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Under-Secretary for Economic Affairs](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/) | [RSS Feed](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/feed/)
 - **[United States Agency for Global Media](https://www.indexdata.org/united-states/united-states-agency-for-global-media/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-agency-for-global-media/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-agency-for-global-media/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,110 of 15,110)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,112 of 15,112)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -270,6 +271,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-11064`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-304/)** — `2023-05-25` | `5 Pages`
 - `[`2023-10987`]` **[Special Conditions: B/E Aerospace Ltd., MHI RJ Aviation ULC Model CL-600-2B19 Airplane; Installation of a Therapeutic Oxygen System for Medical Use](https://www.indexdata.org/special-conditions-b-e-aerospace-ltd-mhi-rj-aviation-ulc-model-cl-600-2b19-airplane-installation-of-a-therapeutic-oxygen-system-for-medical-use/)** — `2023-05-24` | `3 Pages`
 
+### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
+
+- `[`2023-11476`]` **[Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Other Solid Waste Incineration Units Review; Withdrawal of Proposed Provision Removing Pyrolysis/Combustion Units](https://www.indexdata.org/standards-of-performance-for-new-stationary-sources-and-emission-guidelines-for-existing-sources-other-solid-waste-incineration-units-review-withdrawal-of-proposed-provision-removing-pyrolysis-combu/)** — `2023-06-05` | `2 Pages`
+- `[`2023-05744`]` **[Federal “Good Neighbor Plan” for the 2015 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/federal-good-neighbor-plan-for-the-2015-ozone-national-ambient-air-quality-standards/)** — `2023-06-05` | `265 Pages`
+- `[`2023-11752`]` **[Air Plan Approval; Pennsylvania; Infrastructure State Implementation Plan Revision Clean Air Act Section 110 Applicable Requirements for the 2015 8-Hour Ozone National Ambient Air Quality Standard (NAAQS)](https://www.indexdata.org/air-plan-approval-pennsylvania-infrastructure-state-implementation-plan-revision-clean-air-act-section-110-applicable-requirements-for-the-2015-8-hour-ozone-national-ambient-air-quality-standard-na/)** — `2023-06-02` | `3 Pages`
+- `[`2023-11683`]` **[Air Plan Approval; California; Mojave Desert Air Quality Management District](https://www.indexdata.org/air-plan-approval-california-mojave-desert-air-quality-management-district-3/)** — `2023-06-02` | `3 Pages`
+- `[`2023-11546`]` **[Air Plan Approval; State of Missouri; Restriction of Particulate Matter to the Ambient Air Beyond the Premises of Origin](https://www.indexdata.org/air-plan-approval-state-of-missouri-restriction-of-particulate-matter-to-the-ambient-air-beyond-the-premises-of-origin/)** — `2023-06-02` | `3 Pages`
+- `[`2023-11619`]` **[National Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissions Standards for Sterilization Facilities Residual Risk and Technology Review; Extension of Comment Period](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-ethylene-oxide-emissions-standards-for-sterilization-facilities-residual-risk-and-technology-review-extension-of-comment-period/)** — `2023-06-01` | `2 Pages`
+- `[`2023-11477`]` **[Pesticides; Exemptions of Certain Plant-Incorporated Protectants (PIPs) Derived From Newer Technologies](https://www.indexdata.org/pesticides-exemptions-of-certain-plant-incorporated-protectants-pips-derived-from-newer-technologies/)** — `2023-05-31` | `24 Pages`
+- `[`2023-11407`]` **[Testing Provisions for Air Emission Sources; Correction](https://www.indexdata.org/testing-provisions-for-air-emission-sources-correction-2/)** — `2023-05-30` | `2 Pages`
+- `[`2023-11357`]` **[Air Plan Approval; Illinois; Second Maintenance Plan for 1997 Ozone NAAQS; Jersey County Portion of St. Louis Missouri-Illinois Area](https://www.indexdata.org/air-plan-approval-illinois-second-maintenance-plan-for-1997-ozone-naaqs-jersey-county-portion-of-st-louis-missouri-illinois-area/)** — `2023-05-30` | `2 Pages`
+- `[`2023-11355`]` **[Air Plan Approval; Ohio; Sulfur Dioxide Regulations](https://www.indexdata.org/air-plan-approval-ohio-sulfur-dioxide-regulations/)** — `2023-05-30` | `4 Pages`
+- `[`2023-11317`]` **[Finding of Failure To Submit State Implementation Plan Submissions for the 2012 Fine Particulate Matter National Ambient Air Quality Standards; California; Los Angeles-South Coast Air Basin](https://www.indexdata.org/finding-of-failure-to-submit-state-implementation-plan-submissions-for-the-2012-fine-particulate-matter-national-ambient-air-quality-standards-california-los-angeles-south-coast-air-basin-2/)** — `2023-05-26` | `4 Pages`
+- `[`2023-10735`]` **[Updates to New Chemicals Regulations Under the Toxic Substances Control Act (TSCA)](https://www.indexdata.org/updates-to-new-chemicals-regulations-under-the-toxic-substances-control-act-tsca-2/)** — `2023-05-26` | `26 Pages`
+- `[`2023-10955`]` **[Air Plan Approval; AK; Revisions to Ice Fog and Sulfur Dioxide Regulations](https://www.indexdata.org/air-plan-approval-ak-revisions-to-ice-fog-and-sulfur-dioxide-regulations-2/)** — `2023-05-24` | `6 Pages`
+
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
@@ -285,22 +303,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2023-11430`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-10/)** — `2023-05-30` | `3 Pages`
 - `[`2023-11387`]` **[Safety Zone; La Quinta and Corpus Christi Shipping Channel, Ingleside, TX](https://www.indexdata.org/safety-zone-la-quinta-and-corpus-christi-shipping-channel-ingleside-tx-4/)** — `2023-05-26` | `3 Pages`
 - `[`2023-11294`]` **[Safety Zone; Illinois River Mile Markers 163.3 to 162.7, Peoria, IL](https://www.indexdata.org/safety-zone-illinois-river-mile-markers-163-3-to-162-7-peoria-il/)** — `2023-05-26` | `3 Pages`
-
-### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
-
-- `[`2023-05744`]` **[Federal “Good Neighbor Plan” for the 2015 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/federal-good-neighbor-plan-for-the-2015-ozone-national-ambient-air-quality-standards/)** — `2023-06-05` | `265 Pages`
-- `[`2023-11752`]` **[Air Plan Approval; Pennsylvania; Infrastructure State Implementation Plan Revision Clean Air Act Section 110 Applicable Requirements for the 2015 8-Hour Ozone National Ambient Air Quality Standard (NAAQS)](https://www.indexdata.org/air-plan-approval-pennsylvania-infrastructure-state-implementation-plan-revision-clean-air-act-section-110-applicable-requirements-for-the-2015-8-hour-ozone-national-ambient-air-quality-standard-na/)** — `2023-06-02` | `3 Pages`
-- `[`2023-11683`]` **[Air Plan Approval; California; Mojave Desert Air Quality Management District](https://www.indexdata.org/air-plan-approval-california-mojave-desert-air-quality-management-district-3/)** — `2023-06-02` | `3 Pages`
-- `[`2023-11546`]` **[Air Plan Approval; State of Missouri; Restriction of Particulate Matter to the Ambient Air Beyond the Premises of Origin](https://www.indexdata.org/air-plan-approval-state-of-missouri-restriction-of-particulate-matter-to-the-ambient-air-beyond-the-premises-of-origin/)** — `2023-06-02` | `3 Pages`
-- `[`2023-11619`]` **[National Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissions Standards for Sterilization Facilities Residual Risk and Technology Review; Extension of Comment Period](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-ethylene-oxide-emissions-standards-for-sterilization-facilities-residual-risk-and-technology-review-extension-of-comment-period/)** — `2023-06-01` | `2 Pages`
-- `[`2023-11477`]` **[Pesticides; Exemptions of Certain Plant-Incorporated Protectants (PIPs) Derived From Newer Technologies](https://www.indexdata.org/pesticides-exemptions-of-certain-plant-incorporated-protectants-pips-derived-from-newer-technologies/)** — `2023-05-31` | `24 Pages`
-- `[`2023-11407`]` **[Testing Provisions for Air Emission Sources; Correction](https://www.indexdata.org/testing-provisions-for-air-emission-sources-correction-2/)** — `2023-05-30` | `2 Pages`
-- `[`2023-11357`]` **[Air Plan Approval; Illinois; Second Maintenance Plan for 1997 Ozone NAAQS; Jersey County Portion of St. Louis Missouri-Illinois Area](https://www.indexdata.org/air-plan-approval-illinois-second-maintenance-plan-for-1997-ozone-naaqs-jersey-county-portion-of-st-louis-missouri-illinois-area/)** — `2023-05-30` | `2 Pages`
-- `[`2023-11355`]` **[Air Plan Approval; Ohio; Sulfur Dioxide Regulations](https://www.indexdata.org/air-plan-approval-ohio-sulfur-dioxide-regulations/)** — `2023-05-30` | `4 Pages`
-- `[`2023-11317`]` **[Finding of Failure To Submit State Implementation Plan Submissions for the 2012 Fine Particulate Matter National Ambient Air Quality Standards; California; Los Angeles-South Coast Air Basin](https://www.indexdata.org/finding-of-failure-to-submit-state-implementation-plan-submissions-for-the-2012-fine-particulate-matter-national-ambient-air-quality-standards-california-los-angeles-south-coast-air-basin-2/)** — `2023-05-26` | `4 Pages`
-- `[`2023-10735`]` **[Updates to New Chemicals Regulations Under the Toxic Substances Control Act (TSCA)](https://www.indexdata.org/updates-to-new-chemicals-regulations-under-the-toxic-substances-control-act-tsca-2/)** — `2023-05-26` | `26 Pages`
-- `[`2023-10955`]` **[Air Plan Approval; AK; Revisions to Ice Fog and Sulfur Dioxide Regulations](https://www.indexdata.org/air-plan-approval-ak-revisions-to-ice-fog-and-sulfur-dioxide-regulations-2/)** — `2023-05-24` | `6 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -437,6 +439,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/government
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
 - `[`2023-11718`]` **[Additional Guidance on Low-Income Communities Bonus Credit Program](https://www.indexdata.org/additional-guidance-on-low-income-communities-bonus-credit-program-2/)** — `2023-06-01` | `12 Pages`
+
+### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
+
+- `[`2023-11637`]` **[Implementing the Child Pornography Victims Reserve](https://www.indexdata.org/implementing-the-child-pornography-victims-reserve-2/)** — `2023-06-05` | `9 Pages`
 
 ### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)

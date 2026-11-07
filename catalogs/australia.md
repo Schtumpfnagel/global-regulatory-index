@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,163` across `25` issuing authorities  
-**Last Automated Sync:** `2026-11-07 07:57 UTC`
+**Total Indexed Dossiers in Australia:** `1,169` across `25` issuing authorities  
+**Last Automated Sync:** `2026-11-07 09:01 UTC`
 
 ---
 
@@ -30,17 +30,17 @@
 - **[Department of Industry, Science and Resources](https://www.indexdata.org/australia/department-of-industry-science-and-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-industry-science-and-resources/) | [RSS Feed](https://www.indexdata.org/australia/department-of-industry-science-and-resources/feed/)
 - **[Department of Social Services](https://www.indexdata.org/australia/department-of-social-services/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-social-services/) | [RSS Feed](https://www.indexdata.org/australia/department-of-social-services/feed/)
 - **[Department of the Prime Minister and Cabinet](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/feed/)
-- **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
-- **[Aestra](https://www.indexdata.org/australia/aestra/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/aestra/) | [RSS Feed](https://www.indexdata.org/australia/aestra/feed/)
-- **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
-- **[Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
-- **[Northern Territory — Attorney-General’s](https://www.indexdata.org/australia/northern-territory-attorney-general-s/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-attorney-general-s/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-attorney-general-s/feed/)
+- **[Aestra](https://www.indexdata.org/australia/aestra/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/australia/aestra/) | [RSS Feed](https://www.indexdata.org/australia/aestra/feed/)
+- **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
+- **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
+- **[Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
+- **[Northern Territory — Attorney-General’s](https://www.indexdata.org/australia/northern-territory-attorney-general-s/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-attorney-general-s/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-attorney-general-s/feed/)
 - **[Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
 - **[Great Barrier Reef Marine Park Authority](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/) | [RSS Feed](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,163 of 1,163)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,169 of 1,169)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1256,6 +1256,16 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-
 - `[`F2026L01062`]` **[Aboriginal Land and Waters (Jervis Bay Territory) By-Laws 2026](https://www.indexdata.org/aboriginal-land-and-waters-jervis-bay-territory-by-laws-2026/)** — `2026-07-20` | `50 Pages`
 - `[`F2026L00963`]` **[Parliamentary Service Classification Rules 2026](https://www.indexdata.org/parliamentary-service-classification-rules-2026/)** — `2026-07-10` | `15 Pages`
 
+### [Aestra](https://www.indexdata.org/australia/aestra/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/aestra/](https://www.indexdata.org/australia/aestra/) | [RSS Feed](https://www.indexdata.org/australia/aestra/feed/)
+
+- `[`AU-GBRMPA-11017-4179`]` **[A description of Northern Pisonia grandis populations in Australia](https://www.indexdata.org/a-description-of-northern-pisonia-grandis-populations-in-australia/)** — `2026-01-01` | `29 Pages`
+- `[`AU-GBRMPA-11017-4178`]` **[Rapid ecological assessment report – Douglas, Cairncross and Wallace islets](https://www.indexdata.org/rapid-ecological-assessment-report-douglas-cairncross-and-wallace-islets/)** — `2026-01-01` | `76 Pages`
+- `[`AU-GBRMPA-11017-4177`]` **[Rapid survey for Pisonia grandis - Bajigal and Bimi (Stephens and Sisters islands) Supplementary island threat assessment report](https://www.indexdata.org/rapid-survey-for-pisonia-grandis-bajigal-and-bimi-stephens-and-sisters-islands-supplementary-island-threat-assessment-report/)** — `2026-01-01` | `22 Pages`
+- `[`AU-GBRMPA-11017-4175`]` **[Bridled tern survey report – Bajigal and Bimi (supplementary island threat assessment)](https://www.indexdata.org/bridled-tern-survey-report-bajigal-and-bimi-supplementary-island-threat-assessment/)** — `2026-01-01` | `71 Pages`
+- `[`AU-GBRMPA-11017-4174`]` **[Bimi vegetation assessment (supplementary island threat assessment)](https://www.indexdata.org/bimi-vegetation-assessment-supplementary-island-threat-assessment/)** — `2026-01-01` | `34 Pages`
+- `[`AU-GBRMPA-11017-4172`]` **[Ecological Assessment for BAJIGAL (Stephens Island)](https://www.indexdata.org/ecological-assessment-for-bajigal-stephens-island/)** — `2026-01-01` | `112 Pages`
+
 ### [Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-law-reform-commission/](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
 
@@ -1264,26 +1274,21 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-law
 - `[`AU-ALRC-23554`]` **[20250820 FOI – ACL InvitationLetters_Redacted](https://www.indexdata.org/20250820-foi-acl-invitationletters_redacted/)** — `2026-10-19` | `22 Pages`
 - `[`AU-ALRC-23513`]` **[239. E Thatcher](https://www.indexdata.org/239-e-thatcher/)** — `2026-09-08` | `9 Pages`
 - `[`AU-ALRC-23507`]` **[2026–27 ALRC Corporate Plan](https://www.indexdata.org/2026-27-alrc-corporate-plan/)** — `2026-08-31` | `10 Pages`
-
-### [Aestra](https://www.indexdata.org/australia/aestra/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/aestra/](https://www.indexdata.org/australia/aestra/) | [RSS Feed](https://www.indexdata.org/australia/aestra/feed/)
-
-- `[`AU-GBRMPA-11017-4177`]` **[Rapid survey for Pisonia grandis - Bajigal and Bimi (Stephens and Sisters islands) Supplementary island threat assessment report](https://www.indexdata.org/rapid-survey-for-pisonia-grandis-bajigal-and-bimi-stephens-and-sisters-islands-supplementary-island-threat-assessment-report/)** — `2026-01-01` | `22 Pages`
-- `[`AU-GBRMPA-11017-4175`]` **[Bridled tern survey report – Bajigal and Bimi (supplementary island threat assessment)](https://www.indexdata.org/bridled-tern-survey-report-bajigal-and-bimi-supplementary-island-threat-assessment/)** — `2026-01-01` | `71 Pages`
-- `[`AU-GBRMPA-11017-4174`]` **[Bimi vegetation assessment (supplementary island threat assessment)](https://www.indexdata.org/bimi-vegetation-assessment-supplementary-island-threat-assessment/)** — `2026-01-01` | `34 Pages`
-- `[`AU-GBRMPA-11017-4172`]` **[Ecological Assessment for BAJIGAL (Stephens Island)](https://www.indexdata.org/ecological-assessment-for-bajigal-stephens-island/)** — `2026-01-01` | `112 Pages`
+- `[`AU-ALRC-23505`]` **[237. B Radford](https://www.indexdata.org/237-b-radford/)** — `2026-08-27` | `3 Pages`
 
 ### [Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
 
 - `[`AU-ACIAR-AR2025-26`]` **[Annual Report 2025-26](https://www.indexdata.org/annual-report-2025-26/)** — `2026-10-22` | `122 Pages`
 - `[`AU-ACIAR-CP2026-27`]` **[Corporate Plan 2026–27](https://www.indexdata.org/corporate-plan-2026-27/)** — `2026-08-31` | `27 Pages`
+- `[`AU-ACIAR-AOP2026-27`]` **[Annual Operational Plan 2026-27](https://www.indexdata.org/annual-operational-plan-2026-27/)** — `2026-08-10` | `116 Pages`
 - `[`AU-ACIAR-MN220`]` **[Smallholder coffee production training package](https://www.indexdata.org/smallholder-coffee-production-training-package/)** — `2024-08-07` | `64 Pages`
 
 ### [Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
 
 - `[`AU-DATA-fa0b0d71-b8b8-4af8-bc59`]` **[ASIC – Credit Licensee Dataset — Credit Licensee - Help File](https://www.indexdata.org/asic-credit-licensee-dataset-credit-licensee-help-file/)** — `2026-11-05` | `13 Pages`
+- `[`AU-DATA-a3b6d445-3a00-409a-8b49`]` **[ASIC – Credit Representative Dataset — Credit Representative - Help File](https://www.indexdata.org/asic-credit-representative-dataset-credit-representative-help-file/)** — `2026-11-05` | `12 Pages`
 - `[`AU-DATA-4117fdec-3eff-44a1-9b78`]` **[ASIC - Registered Auditor Dataset — Registered Auditor - Help File](https://www.indexdata.org/asic-registered-auditor-dataset-registered-auditor-help-file/)** — `2026-11-05` | `11 Pages`
 - `[`AU-DATA-388c5a74-fa9e-4b48-8881`]` **[ASIC - Liquidator Dataset — Liquidator - Help File](https://www.indexdata.org/asic-liquidator-dataset-liquidator-help-file/)** — `2026-11-05` | `10 Pages`
 
@@ -1292,6 +1297,7 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 
 - `[`AU-NT-ec7f057c-de34-4912-b887`]` **[Current - NT Crime Statistics August 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/current-nt-crime-statistics-august-2026-data_quality_statement-crime-stats-pdf/)** — `2026-10-14` | `2 Pages`
 - `[`AU-NT-d275f870-9e2d-46f5-9054`]` **[NT Crime Statistics July 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-july-2026-data_quality_statement-crime-stats-pdf/)** — `2026-10-12` | `2 Pages`
+- `[`AU-NT-e422fcaa-cea2-4b69-86f2`]` **[NT Crime Statistics May 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-may-2026-data_quality_statement-crime-stats-pdf/)** — `2026-09-14` | `2 Pages`
 - `[`AU-NT-b93cb721-4922-483e-a737`]` **[NT Crime Statistics April 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-april-2026-data_quality_statement-crime-stats-pdf/)** — `2026-09-14` | `2 Pages`
 
 ### [Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)
