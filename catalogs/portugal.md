@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q45`](https://www.wikidata.org/wiki/Q45)  
 **Governing Open-Government Framework:** *Lei n.º 68/2021*  
 **Total Indexed Dossiers in Portugal:** `16` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-07 14:55 UTC`
+**Last Automated Sync:** `2026-11-07 15:36 UTC`
 
 ---
 
@@ -26,15 +26,15 @@
 Canonical Authority Archive: [https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
 
 - `[`PT-CSM-WP-54718`]` **[20261105programa3](https://www.indexdata.org/20261105programa3/)** — `2026-11-01` | `2 Pages`
-- `[`PT-CSM-WP-54659`]` **[20261104_Listagem das Áreas Inspetivas &#8211; Serviços de Inspeção do CSM](https://www.indexdata.org/20261104_listagem-das-areas-inspetivas-servicos-de-inspecao-do-csm/)** — `2026-11-01` | `15 Pages`
+- `[`PT-CSM-WP-54659`]` **[20261104_Listagem das Áreas Inspetivas – Serviços de Inspeção do CSM](https://www.indexdata.org/20261104_listagem-das-areas-inspetivas-servicos-de-inspecao-do-csm/)** — `2026-11-01` | `15 Pages`
 - `[`PT-CSM-WP-54648`]` **[202611_Base para diálogo aberto com novos Juíze(a)s](https://www.indexdata.org/202611_base-para-dialogo-aberto-com-novos-juizeas/)** — `2026-11-01` | `12 Pages`
-- `[`PT-CSM-WP-54647`]` **[202611_Listagem das Áreas Inspetivas &#8211; Serviços de Inspeção do CSM](https://www.indexdata.org/202611_listagem-das-areas-inspetivas-servicos-de-inspecao-do-csm/)** — `2026-11-01` | `15 Pages`
+- `[`PT-CSM-WP-54647`]` **[202611_Listagem das Áreas Inspetivas – Serviços de Inspeção do CSM](https://www.indexdata.org/202611_listagem-das-areas-inspetivas-servicos-de-inspecao-do-csm/)** — `2026-11-01` | `15 Pages`
 
 ### [Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
 
-- `[`PT-IMT-WP-18409`]` **[LISTA DE MONOVOLUMES 406 &#8211; 2](https://www.indexdata.org/lista-de-monovolumes-406-2/)** — `2026-11-01` | `1314 Pages`
-- `[`PT-IMT-WP-18408`]` **[LISTA DE MONOVOLUMES 406 &#8211; 1](https://www.indexdata.org/lista-de-monovolumes-406-1/)** — `2026-11-01` | `993 Pages`
+- `[`PT-IMT-WP-18409`]` **[LISTA DE MONOVOLUMES 406 – 2](https://www.indexdata.org/lista-de-monovolumes-406-2/)** — `2026-11-01` | `1314 Pages`
+- `[`PT-IMT-WP-18408`]` **[LISTA DE MONOVOLUMES 406 – 1](https://www.indexdata.org/lista-de-monovolumes-406-1/)** — `2026-11-01` | `993 Pages`
 - `[`PT-IMT-WP-18406`]` **[ATA N 6- Audiência dos interessados e Lista Ordenação final para homologar 24 AT LVT_signed_signed](https://www.indexdata.org/ata-n-6-audiencia-dos-interessados-e-lista-ordenacao-final-para-homologar-24-at-lvt_signed_signed/)** — `2026-11-01` | `2 Pages`
 - `[`PT-IMT-WP-18405`]` **[Lista+unitária+definitiva+de+ordenação+final++para+homologação-++24+AT+LVT](https://www.indexdata.org/listaunitariadefinitivadeordenacaofinalparahomologacao-24atlvt/)** — `2026-11-01` | `3 Pages`
 

@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q159`](https://www.wikidata.org/wiki/Q159)  
 **Governing Open-Government Framework:** *Open Government / Statutory Public Sector Reuse Framework*  
 **Total Indexed Dossiers in Russia:** `24` across `2` issuing authorities  
-**Last Automated Sync:** `2026-11-07 14:55 UTC`
+**Last Automated Sync:** `2026-11-07 15:36 UTC`
 
 ---
 
