@@ -5,17 +5,17 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `85` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-07 11:02 UTC`
+**Total Indexed Dossiers in Philippines:** `90` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-07 11:59 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (9 Authorities)
 
+- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
+- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
-- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
-- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
-- **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
+- **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
@@ -24,7 +24,49 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–85 of 85)
+## Indexed Statutory & Regulatory Dossiers (Records 1–90 of 90)
+
+### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
+
+- `[`PH-FDA-123279`]` **[AFO-PLMD-ADA3](https://www.indexdata.org/afo-plmd-ada3/)** — `2026-11-06` | `3 Pages`
+- `[`PH-FDA-123273`]` **[2025 PV Annual Report](https://www.indexdata.org/2025-pv-annual-report/)** — `2026-11-05` | `21 Pages`
+- `[`PH-FDA-123192`]` **[TS2-HRDD](https://www.indexdata.org/ts2-hrdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123191`]` **[DDG AFO – PO II](https://www.indexdata.org/ddg-afo-po-ii/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123190`]` **[CDRR – MO III (PRSDD)](https://www.indexdata.org/cdrr-mo-iii-prsdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123189`]` **[CDRR – FDRO IV (LRD)](https://www.indexdata.org/cdrr-fdro-iv-lrd/)** — `2026-11-04` | `4 Pages`
+- `[`PH-FDA-123188`]` **[CDRR – FDRO II (LRD)](https://www.indexdata.org/cdrr-fdro-ii-lrd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123187`]` **[CDRR – FDRO I (PRSDD)](https://www.indexdata.org/cdrr-fdro-i-prsdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123186`]` **[CDRR – FDRO I (LRD)](https://www.indexdata.org/cdrr-fdro-i-lrd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123185`]` **[AO4-HRDD](https://www.indexdata.org/ao4-hrdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123184`]` **[AO2-HRDD](https://www.indexdata.org/ao2-hrdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123183`]` **[ADAS2-AFMD](https://www.indexdata.org/adas2-afmd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123182`]` **[ADAS1-HRDD](https://www.indexdata.org/adas1-hrdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123181`]` **[ADA5-CARPENTER2-PLMD](https://www.indexdata.org/ada5-carpenter2-plmd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123180`]` **[ADA4-PLMD](https://www.indexdata.org/ada4-plmd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123179`]` **[ADA3-PLMD](https://www.indexdata.org/ada3-plmd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123178`]` **[ADA3-HRDD](https://www.indexdata.org/ada3-hrdd/)** — `2026-11-04` | `3 Pages`
+
+### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
+Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
+
+- `[`PH-MARINA-26182`]` **[mPhilgeps Posting – Various ACU Materials](https://www.indexdata.org/mphilgeps-posting-various-acu-materials/)** — `2026-11-06` | `3 Pages`
+- `[`PH-MARINA-26181`]` **[Request for Quotation – Various ACU Materials 4th Qtr 2026](https://www.indexdata.org/request-for-quotation-various-acu-materials-4th-qtr-2026/)** — `2026-11-06` | `8 Pages`
+- `[`PH-MARINA-26154`]` **[BIDDING DOCUMENTS ICT MACHINERY](https://www.indexdata.org/bidding-documents-ict-machinery/)** — `2026-11-03` | `113 Pages`
+- `[`PH-MARINA-26150`]` **[PHILGEPS POSTING ICT MACHINERY SBB NO. 02](https://www.indexdata.org/philgeps-posting-ict-machinery-sbb-no-02/)** — `2026-11-03` | `4 Pages`
+- `[`PH-MARINA-26119`]` **[FAR 1 – FY 2026 3rd Quarter](https://www.indexdata.org/far-1-fy-2026-3rd-quarter/)** — `2026-10-30` | `21 Pages`
+- `[`PH-MARINA-26118`]` **[FAR 2 – FY 2026 3rd Quarter](https://www.indexdata.org/far-2-fy-2026-3rd-quarter/)** — `2026-10-30` | `2 Pages`
+- `[`PH-MARINA-26117`]` **[FAR 4 – FY 2026 3rd Quarter](https://www.indexdata.org/far-4-fy-2026-3rd-quarter/)** — `2026-10-30` | `10 Pages`
+- `[`PH-MARINA-26116`]` **[FAR 5 – FY 2026 3rd Quarter](https://www.indexdata.org/far-5-fy-2026-3rd-quarter/)** — `2026-10-30` | `20 Pages`
+- `[`PH-MARINA-26115`]` **[FAR 6 – FY 2026 3rd Quarter](https://www.indexdata.org/far-6-fy-2026-3rd-quarter/)** — `2026-10-30` | `5 Pages`
+- `[`PH-MARINA-26086`]` **[RFQ – SMS BLASTING](https://www.indexdata.org/rfq-sms-blasting/)** — `2026-10-28` | `10 Pages`
+- `[`PH-MARINA-26085`]` **[PHILGEPS POSTING – SMS BLASTING](https://www.indexdata.org/philgeps-posting-sms-blasting/)** — `2026-10-28` | `3 Pages`
+- `[`PH-MARINA-26084`]` **[RFQ – EMAIL BLASTING](https://www.indexdata.org/rfq-email-blasting/)** — `2026-10-28` | `10 Pages`
+- `[`PH-MARINA-26083`]` **[PHILGEPS POSTING – EMAIL BLASTING](https://www.indexdata.org/philgeps-posting-email-blasting/)** — `2026-10-28` | `3 Pages`
+- `[`PH-MARINA-26081`]` **[RFQ – SUPPLY, DELIVERY, INSTALLATION AND CONFIGURATION OF ANTI-VIRUS](https://www.indexdata.org/rfq-supply-delivery-installation-and-configuration-of-anti-virus/)** — `2026-10-28` | `11 Pages`
+- `[`PH-MARINA-26080`]` **[mPHILGEPS Posting – SUPPLY, DELIVERY, INSTALLATION AND CONFIGURATION OF ANTI-VIRUS](https://www.indexdata.org/mphilgeps-posting-supply-delivery-installation-and-configuration-of-anti-virus/)** — `2026-10-28` | `3 Pages`
+- `[`PH-MARINA-26079`]` **[mPHILGEPS Posting – Procurement of Scanners](https://www.indexdata.org/mphilgeps-posting-procurement-of-scanners/)** — `2026-10-28` | `3 Pages`
+- `[`PH-MARINA-26078`]` **[RFQ – Procurement of Scanners](https://www.indexdata.org/rfq-procurement-of-scanners/)** — `2026-10-28` | `8 Pages`
 
 ### [Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-development-authority/](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
@@ -46,44 +88,6 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-
 - `[`PH-CDA-71103`]` **[Write-Up Youth Leadership Training](https://www.indexdata.org/write-up-youth-leadership-training-2/)** — `2026-10-21` | `5 Pages`
 - `[`PH-CDA-71010`]` **[CDA NEP 2027](https://www.indexdata.org/cda-nep-2027/)** — `2026-10-14` | `2 Pages`
 
-### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
-
-- `[`PH-FDA-123279`]` **[AFO-PLMD-ADA3](https://www.indexdata.org/afo-plmd-ada3/)** — `2026-11-06` | `3 Pages`
-- `[`PH-FDA-123273`]` **[2025 PV Annual Report](https://www.indexdata.org/2025-pv-annual-report/)** — `2026-11-05` | `21 Pages`
-- `[`PH-FDA-123192`]` **[TS2-HRDD](https://www.indexdata.org/ts2-hrdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123191`]` **[DDG AFO – PO II](https://www.indexdata.org/ddg-afo-po-ii/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123190`]` **[CDRR – MO III (PRSDD)](https://www.indexdata.org/cdrr-mo-iii-prsdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123189`]` **[CDRR – FDRO IV (LRD)](https://www.indexdata.org/cdrr-fdro-iv-lrd/)** — `2026-11-04` | `4 Pages`
-- `[`PH-FDA-123188`]` **[CDRR – FDRO II (LRD)](https://www.indexdata.org/cdrr-fdro-ii-lrd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123187`]` **[CDRR – FDRO I (PRSDD)](https://www.indexdata.org/cdrr-fdro-i-prsdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123186`]` **[CDRR – FDRO I (LRD)](https://www.indexdata.org/cdrr-fdro-i-lrd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123185`]` **[AO4-HRDD](https://www.indexdata.org/ao4-hrdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123184`]` **[AO2-HRDD](https://www.indexdata.org/ao2-hrdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123183`]` **[ADAS2-AFMD](https://www.indexdata.org/adas2-afmd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123182`]` **[ADAS1-HRDD](https://www.indexdata.org/adas1-hrdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123181`]` **[ADA5-CARPENTER2-PLMD](https://www.indexdata.org/ada5-carpenter2-plmd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123180`]` **[ADA4-PLMD](https://www.indexdata.org/ada4-plmd/)** — `2026-11-04` | `3 Pages`
-
-### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
-Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
-
-- `[`PH-MARINA-26182`]` **[mPhilgeps Posting – Various ACU Materials](https://www.indexdata.org/mphilgeps-posting-various-acu-materials/)** — `2026-11-06` | `3 Pages`
-- `[`PH-MARINA-26181`]` **[Request for Quotation – Various ACU Materials 4th Qtr 2026](https://www.indexdata.org/request-for-quotation-various-acu-materials-4th-qtr-2026/)** — `2026-11-06` | `8 Pages`
-- `[`PH-MARINA-26154`]` **[BIDDING DOCUMENTS ICT MACHINERY](https://www.indexdata.org/bidding-documents-ict-machinery/)** — `2026-11-03` | `113 Pages`
-- `[`PH-MARINA-26150`]` **[PHILGEPS POSTING ICT MACHINERY SBB NO. 02](https://www.indexdata.org/philgeps-posting-ict-machinery-sbb-no-02/)** — `2026-11-03` | `4 Pages`
-- `[`PH-MARINA-26119`]` **[FAR 1 – FY 2026 3rd Quarter](https://www.indexdata.org/far-1-fy-2026-3rd-quarter/)** — `2026-10-30` | `21 Pages`
-- `[`PH-MARINA-26118`]` **[FAR 2 – FY 2026 3rd Quarter](https://www.indexdata.org/far-2-fy-2026-3rd-quarter/)** — `2026-10-30` | `2 Pages`
-- `[`PH-MARINA-26117`]` **[FAR 4 – FY 2026 3rd Quarter](https://www.indexdata.org/far-4-fy-2026-3rd-quarter/)** — `2026-10-30` | `10 Pages`
-- `[`PH-MARINA-26116`]` **[FAR 5 – FY 2026 3rd Quarter](https://www.indexdata.org/far-5-fy-2026-3rd-quarter/)** — `2026-10-30` | `20 Pages`
-- `[`PH-MARINA-26115`]` **[FAR 6 – FY 2026 3rd Quarter](https://www.indexdata.org/far-6-fy-2026-3rd-quarter/)** — `2026-10-30` | `5 Pages`
-- `[`PH-MARINA-26086`]` **[RFQ – SMS BLASTING](https://www.indexdata.org/rfq-sms-blasting/)** — `2026-10-28` | `10 Pages`
-- `[`PH-MARINA-26085`]` **[PHILGEPS POSTING – SMS BLASTING](https://www.indexdata.org/philgeps-posting-sms-blasting/)** — `2026-10-28` | `3 Pages`
-- `[`PH-MARINA-26084`]` **[RFQ – EMAIL BLASTING](https://www.indexdata.org/rfq-email-blasting/)** — `2026-10-28` | `10 Pages`
-- `[`PH-MARINA-26083`]` **[PHILGEPS POSTING – EMAIL BLASTING](https://www.indexdata.org/philgeps-posting-email-blasting/)** — `2026-10-28` | `3 Pages`
-- `[`PH-MARINA-26081`]` **[RFQ – SUPPLY, DELIVERY, INSTALLATION AND CONFIGURATION OF ANTI-VIRUS](https://www.indexdata.org/rfq-supply-delivery-installation-and-configuration-of-anti-virus/)** — `2026-10-28` | `11 Pages`
-- `[`PH-MARINA-26080`]` **[mPHILGEPS Posting – SUPPLY, DELIVERY, INSTALLATION AND CONFIGURATION OF ANTI-VIRUS](https://www.indexdata.org/mphilgeps-posting-supply-delivery-installation-and-configuration-of-anti-virus/)** — `2026-10-28` | `3 Pages`
-
 ### [Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-investments/](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 
@@ -99,6 +103,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-inv
 - `[`PH-BOI-20559`]` **[2026 S&E Industry Profile](https://www.indexdata.org/2026-se-industry-profile/)** — `2026-09-22` | `2 Pages`
 - `[`PH-BOI-20558`]` **[Industry Profile – FURNITURE (JUNE 2026)](https://www.indexdata.org/industry-profile-furniture-june-2026/)** — `2026-09-22` | `2 Pages`
 - `[`PH-BOI-20557`]` **[Footwear Industry Profile Feb2026](https://www.indexdata.org/footwear-industry-profile-feb2026/)** — `2026-09-22` | `2 Pages`
+- `[`PH-BOI-20556`]` **[2026 Textile – Garments Industry Profile (as of 21 May 2026)](https://www.indexdata.org/2026-textile-garments-industry-profile-as-of-21-may-2026/)** — `2026-09-22` | `3 Pages`
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)

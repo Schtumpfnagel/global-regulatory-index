@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/france/feed/](https://www.indexdata.org/france/feed/)  
 **Wikidata Sovereign Entity:** [`Q142`](https://www.wikidata.org/wiki/Q142)  
 **Governing Open-Government Framework:** *CRPA Art. L321-1 to L323-7 / Loi n° 2016-1321*  
-**Total Indexed Dossiers in France:** `326` across `14` issuing authorities  
-**Last Automated Sync:** `2026-11-07 11:02 UTC`
+**Total Indexed Dossiers in France:** `332` across `14` issuing authorities  
+**Last Automated Sync:** `2026-11-07 11:59 UTC`
 
 ---
 
@@ -15,10 +15,10 @@
 - **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`219` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
 - **[Banque de France](https://www.indexdata.org/france/banque-de-france/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/france/banque-de-france/) | [RSS Feed](https://www.indexdata.org/france/banque-de-france/feed/)
 - **[National Institute of Statistics and Economic Studies (INSEE)](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/) | [RSS Feed](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/feed/)
-- **[Bretagne Développement Innovation (BDI)](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/) | [RSS Feed](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/feed/)
-- **[National Cybersecurity Agency of France (Agence nationale de la sécurité des systèmes d'information - ANSSI)](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/) | [RSS Feed](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/feed/)
-- **[French Alternative Energies and Atomic Energy Commission (CEA — Cité des Énergies)](https://www.indexdata.org/france/french-alternative-energies-and-atomic-energy-commission-cea-cit-des-nergies/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-alternative-energies-and-atomic-energy-commission-cea-cit-des-nergies/) | [RSS Feed](https://www.indexdata.org/france/french-alternative-energies-and-atomic-energy-commission-cea-cit-des-nergies/feed/)
-- **[French Polar Institute Paul-Émile Victor (Institut polaire français Paul-Émile Victor - IPEV)](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/) | [RSS Feed](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/feed/)
+- **[Bretagne Développement Innovation (BDI)](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/) | [RSS Feed](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/feed/)
+- **[French Polar Institute Paul-Émile Victor (Institut polaire français Paul-Émile Victor - IPEV)](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/) | [RSS Feed](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/feed/)
+- **[National Cybersecurity Agency of France (Agence nationale de la sécurité des systèmes d'information - ANSSI)](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/) | [RSS Feed](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/feed/)
+- **[French Alternative Energies and Atomic Energy Commission (CEA — Cité des Énergies)](https://www.indexdata.org/france/french-alternative-energies-and-atomic-energy-commission-cea-cit-des-nergies/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-alternative-energies-and-atomic-energy-commission-cea-cit-des-nergies/) | [RSS Feed](https://www.indexdata.org/france/french-alternative-energies-and-atomic-energy-commission-cea-cit-des-nergies/feed/)
 - **[Ministry of Higher Education and Research — Recherche Data Gouv](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/) | [RSS Feed](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/feed/)
 - **[French National Centre for Scientific Research (CNRS)](https://www.indexdata.org/france/french-national-centre-for-scientific-research-cnrs/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-national-centre-for-scientific-research-cnrs/) | [RSS Feed](https://www.indexdata.org/france/french-national-centre-for-scientific-research-cnrs/feed/)
 - **[Directorate of Legal and Administrative Information (Direction de l'information légale et administrative - DILA)](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/) | [RSS Feed](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/feed/)
@@ -29,7 +29,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–326 of 326)
+## Indexed Statutory & Regulatory Dossiers (Records 1–332 of 332)
 
 ### [Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)
 Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
@@ -340,11 +340,25 @@ Canonical Authority Archive: [https://www.indexdata.org/france/bretagne-d-velopp
 - `[`FR-BDI-146545`]` **[ICE project – Molene – Final_EN](https://www.indexdata.org/ice-project-molene-final_en/)** — `2025-07-18` | `54 Pages`
 - `[`FR-BDI-146544`]` **[ICE project – D_2_3_access_to_finance](https://www.indexdata.org/ice-project-d_2_3_access_to_finance/)** — `2025-07-18` | `22 Pages`
 - `[`FR-BDI-146543`]` **[ICE project – D_4_2_1 Value_proposition](https://www.indexdata.org/ice-project-d_4_2_1-value_proposition/)** — `2025-07-18` | `17 Pages`
+- `[`FR-BDI-146542`]` **[ICE project – D_4_1_1 revised_methodology](https://www.indexdata.org/ice-project-d_4_1_1-revised_methodology/)** — `2025-07-18` | `25 Pages`
+- `[`FR-BDI-146541`]` **[ICE project – D_1_3_Life cycle sustainability framework](https://www.indexdata.org/ice-project-d_1_3_life-cycle-sustainability-framework/)** — `2025-07-18` | `4 Pages`
+
+### [French Polar Institute Paul-Émile Victor (Institut polaire français Paul-Émile Victor - IPEV)](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/)
+Canonical Authority Archive: [https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/) | [RSS Feed](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/feed/)
+
+- `[`FR-IPEV-48696`]` **[POLAR WATCH 16 FR](https://www.indexdata.org/polar-watch-16-fr/)** — `2026-10-19` | `12 Pages`
+- `[`FR-IPEV-48606`]` **[Phototheque De Linstitut Polaire Francais Resume Du Telechargement Du 2026 10 05](https://www.indexdata.org/phototheque-de-linstitut-polaire-francais-resume-du-telechargement-du-2026-10-05/)** — `2026-10-05` | `6 Pages`
+- `[`FR-IPEV-48378`]` **[INSTITUT POLAIRE Guide Subantarctique 2026 LIGHT](https://www.indexdata.org/institut-polaire-guide-subantarctique-2026-light/)** — `2026-06-29` | `33 Pages`
+- `[`FR-IPEV-48377`]` **[INSTITUT POLAIRE Guide Antarctique 2026](https://www.indexdata.org/institut-polaire-guide-antarctique-2026/)** — `2026-06-29` | `33 Pages`
+- `[`FR-IPEV-48349`]` **[CP NavirePousseurLaZelee Mai2026 InstitutPolaireFrancais](https://www.indexdata.org/cp-navirepousseurlazelee-mai2026-institutpolairefrancais/)** — `2026-05-07` | `3 Pages`
+- `[`FR-IPEV-48342`]` **[Pr Antarctica Concluding Beyond Epica Oldest Ice Definitive](https://www.indexdata.org/pr-antarctica-concluding-beyond-epica-oldest-ice-definitive/)** — `2026-04-27` | `3 Pages`
+- `[`FR-IPEV-48324`]` **[IPF RAPPORT D’ACTIVITÉ 2025 BAT WEB](https://www.indexdata.org/ipf-rapport-dactivite-2025-bat-web/)** — `2026-03-09` | `100 Pages`
 
 ### [National Cybersecurity Agency of France (Agence nationale de la sécurité des systèmes d'information - ANSSI)](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/)
 Canonical Authority Archive: [https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/) | [RSS Feed](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/feed/)
 
 - `[`FR-ANSSI-9`]` **[Formulaire de déclaration d'incidents OIV](https://www.indexdata.org/formulaire-de-declaration-dincidents-oiv/)** — `2026-11-07` | `5 Pages`
+- `[`FR-ANSSI-8`]` **[Formulaire de déclaration d'un SIIV - LPM](https://www.indexdata.org/formulaire-de-declaration-dun-siiv-lpm/)** — `2026-11-07` | `5 Pages`
 - `[`FR-ANSSI-20`]` **[rapport_activite_ANSSI_2021](https://www.indexdata.org/rapport_activite_anssi_2021/)** — `2026-11-07` | `2 Pages`
 - `[`FR-ANSSI-19`]` **[rapport_activite_ANSSI_2022](https://www.indexdata.org/rapport_activite_anssi_2022/)** — `2026-11-07` | `2 Pages`
 - `[`FR-ANSSI-18`]` **[rapport_activite_ANSSI_2023_dispositifs réglementaires](https://www.indexdata.org/rapport_activite_anssi_2023_dispositifs-reglementaires/)** — `2026-11-07` | `20 Pages`
@@ -359,15 +373,7 @@ Canonical Authority Archive: [https://www.indexdata.org/france/french-alternativ
 - `[`FR-CEA-29722`]` **[Offre d’emploi MEM_20260206_dc](https://www.indexdata.org/offre-demploi-mem_20260206_dc/)** — `2026-02-09` | `3 Pages`
 - `[`FR-CEA-29719`]` **[2026 02 01 Curriculum Vitae OK](https://www.indexdata.org/2026-02-01-curriculum-vitae-ok/)** — `2026-02-01` | `16 Pages`
 - `[`FR-CEA-29713`]` **[CV Yonghua Li-Beisson web](https://www.indexdata.org/cv-yonghua-li-beisson-web/)** — `2026-01-29` | `15 Pages`
-
-### [French Polar Institute Paul-Émile Victor (Institut polaire français Paul-Émile Victor - IPEV)](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/)
-Canonical Authority Archive: [https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/) | [RSS Feed](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/feed/)
-
-- `[`FR-IPEV-48696`]` **[POLAR WATCH 16 FR](https://www.indexdata.org/polar-watch-16-fr/)** — `2026-10-19` | `12 Pages`
-- `[`FR-IPEV-48606`]` **[Phototheque De Linstitut Polaire Francais Resume Du Telechargement Du 2026 10 05](https://www.indexdata.org/phototheque-de-linstitut-polaire-francais-resume-du-telechargement-du-2026-10-05/)** — `2026-10-05` | `6 Pages`
-- `[`FR-IPEV-48378`]` **[INSTITUT POLAIRE Guide Subantarctique 2026 LIGHT](https://www.indexdata.org/institut-polaire-guide-subantarctique-2026-light/)** — `2026-06-29` | `33 Pages`
-- `[`FR-IPEV-48377`]` **[INSTITUT POLAIRE Guide Antarctique 2026](https://www.indexdata.org/institut-polaire-guide-antarctique-2026/)** — `2026-06-29` | `33 Pages`
-- `[`FR-IPEV-48349`]` **[CP NavirePousseurLaZelee Mai2026 InstitutPolaireFrancais](https://www.indexdata.org/cp-navirepousseurlazelee-mai2026-institutpolairefrancais/)** — `2026-05-07` | `3 Pages`
+- `[`FR-CEA-29224`]` **[College_Giono](https://www.indexdata.org/college_giono/)** — `2025-10-22` | `11 Pages`
 
 ### [Ministry of Higher Education and Research — Recherche Data Gouv](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/)
 Canonical Authority Archive: [https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/) | [RSS Feed](https://www.indexdata.org/france/ministry-of-higher-education-and-research-recherche-data-gouv/feed/)
@@ -389,7 +395,7 @@ Canonical Authority Archive: [https://www.indexdata.org/france/french-national-c
 ### [Directorate of Legal and Administrative Information (Direction de l'information légale et administrative - DILA)](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/)
 Canonical Authority Archive: [https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/) | [RSS Feed](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/feed/)
 
-- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-6/)** — `2024-03-26` | `7 Pages`
+- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-7/)** — `2024-03-26` | `7 Pages`
 - `[`FR-DILA-ANN-api-lannuaire-administration-documentation_technique_api_annuaire_de_l_administration_pdf`]` **[api-lannuaire-administration — Documentation-technique-API-Annuaire-de-l-administration](https://www.indexdata.org/api-lannuaire-administration-documentation-technique-api-annuaire-de-l-administration/)** — `2023-12-11` | `9 Pages`
 
 ### [National Commission on Informatics and Liberty (Commission nationale de l'informatique et des libertés - CNIL)](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/)

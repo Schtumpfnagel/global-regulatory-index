@@ -5,19 +5,20 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/poland/feed/](https://www.indexdata.org/poland/feed/)  
 **Wikidata Sovereign Entity:** [`Q36`](https://www.wikidata.org/wiki/Q36)  
 **Governing Open-Government Framework:** *Polish Copyright Act (Dz.U. 1994 nr 24 poz. 83, Art. 4) & Open Data Act (Dz.U. 2021 poz. 1641)*  
-**Total Indexed Dossiers in Poland:** `42` across `2` issuing authorities  
-**Last Automated Sync:** `2026-11-07 11:02 UTC`
+**Total Indexed Dossiers in Poland:** `43` across `3` issuing authorities  
+**Last Automated Sync:** `2026-11-07 11:59 UTC`
 
 ---
 
-## Issuing Authorities in Poland (2 Authorities)
+## Issuing Authorities in Poland (3 Authorities)
 
 - **[Polish Investment and Trade Agency (PAIH)](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/) | [RSS Feed](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/feed/)
 - **[Chancellery of the Prime Minister of Poland](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/) | [RSS Feed](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/feed/)
+- **[Ministry of Science and Higher Education (POL-on)](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/) | [RSS Feed](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–42 of 42)
+## Indexed Statutory & Regulatory Dossiers (Records 1–43 of 43)
 
 ### [Polish Investment and Trade Agency (PAIH)](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/)
 Canonical Authority Archive: [https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/) | [RSS Feed](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/feed/)
@@ -68,6 +69,11 @@ Canonical Authority Archive: [https://www.indexdata.org/poland/chancellery-of-th
 
 - `[`PL-DANE-DS-5179`]` **[Walidacja programu XFLR5](https://www.indexdata.org/walidacja-programu-xflr5/)** — `2025-07-30` | `5 Pages`
 - `[`PL-DANE-DS-4346`]` **[Study of machinability and processing of synthetic materials](https://www.indexdata.org/study-of-machinability-and-processing-of-synthetic-materials/)** — `2024-06-25` | `28 Pages`
+
+### [Ministry of Science and Higher Education (POL-on)](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/)
+Canonical Authority Archive: [https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/) | [RSS Feed](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/feed/)
+
+- `[`PL-POLON-497463`]` **[pol on self assessment report 30 march 2025](https://www.indexdata.org/pol-on-self-assessment-report-30-march-2025/)** — `2025-05-20` | `2 Pages`
 
 ---
 

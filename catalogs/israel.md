@@ -4,18 +4,19 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/israel/](https://www.indexdata.org/israel/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/israel/feed/](https://www.indexdata.org/israel/feed/)  
 **Wikidata Sovereign Entity:** [`Q801`](https://www.wikidata.org/wiki/Q801)  
-**Governing Open-Government Framework:** *Copyright Act, 5768-2007, Section 6 (Official Publications) & Data.gov.il Open Government Data License*  
-**Total Indexed Dossiers in Israel:** `128` across `14` issuing authorities  
-**Last Automated Sync:** `2026-11-07 11:02 UTC`
+**Governing Open-Government Framework:** *Israel Copyright Act, 2007*  
+**Total Indexed Dossiers in Israel:** `137` across `16` issuing authorities  
+**Last Automated Sync:** `2026-11-07 11:59 UTC`
 
 ---
 
-## Issuing Authorities in Israel (14 Authorities)
+## Issuing Authorities in Israel (16 Authorities)
 
 - **[Israel Innovation Authority (IIA)](https://www.indexdata.org/israel/israel-innovation-authority-iia/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-innovation-authority-iia/) | [RSS Feed](https://www.indexdata.org/israel/israel-innovation-authority-iia/feed/)
 - **[Israel Nature and Parks Authority (INPA)](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/) | [RSS Feed](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/feed/)
 - **[Central Bureau of Statistics (CBS)](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/) | [RSS Feed](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/feed/)
 - **[Israel Oceanographic and Limnological Research (IOLR)](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/) | [RSS Feed](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/feed/)
+- **[Israel National Institute for Health Policy Research (NIHP)](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/) | [RSS Feed](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/feed/)
 - **[Ministry of Finance](https://www.indexdata.org/israel/ministry-of-finance/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/israel/ministry-of-finance/) | [RSS Feed](https://www.indexdata.org/israel/ministry-of-finance/feed/)
 - **[Ministry of Health — Northern District Health Bureau](https://www.indexdata.org/israel/ministry-of-health-northern-district-health-bureau/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/israel/ministry-of-health-northern-district-health-bureau/) | [RSS Feed](https://www.indexdata.org/israel/ministry-of-health-northern-district-health-bureau/feed/)
 - **[Agricultural Research Organization (ARO) — The Volcani Center](https://www.indexdata.org/israel/agricultural-research-organization-aro-the-volcani-center/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/israel/agricultural-research-organization-aro-the-volcani-center/) | [RSS Feed](https://www.indexdata.org/israel/agricultural-research-organization-aro-the-volcani-center/feed/)
@@ -25,11 +26,12 @@
 - **[Ministry of Justice](https://www.indexdata.org/israel/ministry-of-justice/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/israel/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/israel/ministry-of-justice/feed/)
 - **[Bank of Israel](https://www.indexdata.org/israel/bank-of-israel/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/israel/bank-of-israel/) | [RSS Feed](https://www.indexdata.org/israel/bank-of-israel/feed/)
 - **[Ministry of Energy and Infrastructure](https://www.indexdata.org/israel/ministry-of-energy-and-infrastructure/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/israel/ministry-of-energy-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/israel/ministry-of-energy-and-infrastructure/feed/)
+- **[Israel Water Authority](https://www.indexdata.org/israel/israel-water-authority/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-water-authority/) | [RSS Feed](https://www.indexdata.org/israel/israel-water-authority/feed/)
 - **[Ministry of Agriculture and Food Security](https://www.indexdata.org/israel/ministry-of-agriculture-and-food-security/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/israel/ministry-of-agriculture-and-food-security/) | [RSS Feed](https://www.indexdata.org/israel/ministry-of-agriculture-and-food-security/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–128 of 128)
+## Indexed Statutory & Regulatory Dossiers (Records 1–137 of 137)
 
 ### [Israel Innovation Authority (IIA)](https://www.indexdata.org/israel/israel-innovation-authority-iia/)
 Canonical Authority Archive: [https://www.indexdata.org/israel/israel-innovation-authority-iia/](https://www.indexdata.org/israel/israel-innovation-authority-iia/) | [RSS Feed](https://www.indexdata.org/israel/israel-innovation-authority-iia/feed/)
@@ -127,6 +129,18 @@ Canonical Authority Archive: [https://www.indexdata.org/israel/israel-oceanograp
 - `[`IL-IOLR-WP-2065`]` **[Researcher Position animal health IOLR-NCM](https://www.indexdata.org/researcher-position-animal-health-iolr-ncm/)** — `2025-07-02` | `2 Pages`
 - `[`IL-IOLR-WP-2062`]` **[Modeler in the Department of Physical Oceanography](https://www.indexdata.org/modeler-in-the-department-of-physical-oceanography/)** — `2025-05-27` | `2 Pages`
 
+### [Israel National Institute for Health Policy Research (NIHP)](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/)
+Canonical Authority Archive: [https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/) | [RSS Feed](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/feed/)
+
+- `[`IL-NIHP-7964`]` **[General guidelines-CRP systematic review](https://www.indexdata.org/general-guidelines-crp-systematic-review/)** — `2026-10-25` | `4 Pages`
+- `[`IL-NIHP-7856`]` **[Research grants – process and general guidelines 2026](https://www.indexdata.org/research-grants-process-and-general-guidelines-2026/)** — `2026-08-19` | `6 Pages`
+- `[`IL-NIHP-EN-2100`]` **[The-Public-Private-Mix-in-Health-Care-1](https://www.indexdata.org/the-public-private-mix-in-health-care-1/)** — `2025-11-12` | `21 Pages`
+- `[`IL-NIHP-EN-2015`]` **[Appendix – Key Findings for 2022 Data](https://www.indexdata.org/appendix-key-findings-for-2022-data/)** — `2025-11-05` | `17 Pages`
+- `[`IL-NIHP-EN-2014`]` **[Key Findings for 2022 Data](https://www.indexdata.org/key-findings-for-2022-data/)** — `2025-11-05` | `17 Pages`
+- `[`IL-NIHP-EN-2013`]` **[Selected Findings for 2023](https://www.indexdata.org/selected-findings-for-2023/)** — `2025-11-05` | `100 Pages`
+- `[`IL-NIHP-EN-2012`]` **[Key Findings for 2023 Data](https://www.indexdata.org/key-findings-for-2023-data/)** — `2025-11-05` | `32 Pages`
+- `[`IL-NIHP-EN-2011`]` **[Health Disparities Report – 2023 Data](https://www.indexdata.org/health-disparities-report-2023-data/)** — `2025-11-05` | `106 Pages`
+
 ### [Ministry of Finance](https://www.indexdata.org/israel/ministry-of-finance/)
 Canonical Authority Archive: [https://www.indexdata.org/israel/ministry-of-finance/](https://www.indexdata.org/israel/ministry-of-finance/) | [RSS Feed](https://www.indexdata.org/israel/ministry-of-finance/feed/)
 
@@ -209,6 +223,11 @@ Canonical Authority Archive: [https://www.indexdata.org/israel/ministry-of-energ
 
 - `[`IL-OA-MOE-W7225245755`]` **[Data-driven well-resolved aggregate-capacity screening for brackish-blending management in Kuwait under pumping and total-dissolved-solids constraints](https://www.indexdata.org/data-driven-well-resolved-aggregate-capacity-screening-for-brackish-blending-management-in-kuwait-under-pumping-and-total-dissolved-solids-constraints/)** — `2026-11-04` | `24 Pages`
 - `[`IL-OA-MOE-W7222986258`]` **[FARG‘ONA VODIYSI SHAROITIDA SANOAT SOVITISH KORXONASINI QFES, LiFePO₄ BESS VA BOSHQARILADIGAN SOVITISH YUKLAMASI ASOSIDA ENERGIYA BILAN TA’MINLASH. 2-QISM. REJIM-PARAMETRIK VA TEXNIKIQTISODIY OPTIMALLASHTIRISH](https://www.indexdata.org/fargona-vodiysi-sharoitida-sanoat-sovitish-korxonasini-qfes-lifepo%e2%82%84-bess-va-boshqariladigan-sovitish-yuklamasi-asosida-energiya-bilan-taminlash-2-qism-rejim-parametrik-va/)** — `2026-09-26` | `19 Pages`
+
+### [Israel Water Authority](https://www.indexdata.org/israel/israel-water-authority/)
+Canonical Authority Archive: [https://www.indexdata.org/israel/israel-water-authority/](https://www.indexdata.org/israel/israel-water-authority/) | [RSS Feed](https://www.indexdata.org/israel/israel-water-authority/feed/)
+
+- `[`IL-DATAGOV-WATER-ca82a3a2-4126-4d`]` **[Israel Water Authority — Max Discharge Recurrence Period W Table 6](https://www.indexdata.org/israel-water-authority-max-discharge-recurrence-period-w-table-6/)** — `2026-01-14` | `4 Pages`
 
 ### [Ministry of Agriculture and Food Security](https://www.indexdata.org/israel/ministry-of-agriculture-and-food-security/)
 Canonical Authority Archive: [https://www.indexdata.org/israel/ministry-of-agriculture-and-food-security/](https://www.indexdata.org/israel/ministry-of-agriculture-and-food-security/) | [RSS Feed](https://www.indexdata.org/israel/ministry-of-agriculture-and-food-security/feed/)
