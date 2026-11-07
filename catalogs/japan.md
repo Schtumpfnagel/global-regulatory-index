@@ -4,25 +4,30 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/japan/](https://www.indexdata.org/japan/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/japan/feed/](https://www.indexdata.org/japan/feed/)  
 **Wikidata Sovereign Entity:** [`Q17`](https://www.wikidata.org/wiki/Q17)  
-**Governing Open-Government Framework:** *Japanese Copyright Act (Act No. 48 of 1970), Art. 13 & Government of Japan Standard Terms of Use v2.0 (CC BY 4.0)*  
-**Total Indexed Dossiers in Japan:** `55` across `7` issuing authorities  
-**Last Automated Sync:** `2026-11-07 11:59 UTC`
+**Governing Open-Government Framework:** *Copyright Act, Act No. 48 of 1970, Article 13*  
+**Total Indexed Dossiers in Japan:** `64` across `12` issuing authorities  
+**Last Automated Sync:** `2026-11-07 12:58 UTC`
 
 ---
 
-## Issuing Authorities in Japan (7 Authorities)
+## Issuing Authorities in Japan (12 Authorities)
 
 - **[National Agriculture and Food Research Organization (NARO)](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/) | [RSS Feed](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/feed/)
 - **[Ministry of Justice of Japan (MOJ)](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/feed/)
 - **[Forestry and Forest Products Research Institute (FFPRI)](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/) | [RSS Feed](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/feed/)
 - **[Ministry of Health, Labour and Welfare of Japan (MHLW)](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/feed/)
 - **[Ministry of the Environment of Japan (MOE)](https://www.indexdata.org/japan/ministry-of-the-environment-of-japan-moe/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-the-environment-of-japan-moe/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-the-environment-of-japan-moe/feed/)
+- **[Ministry of Land, Infrastructure, Transport and Tourism of Japan (MLIT)](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/feed/)
+- **[Fukuoka City](https://www.indexdata.org/japan/fukuoka-city/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/japan/fukuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/fukuoka-city/feed/)
+- **[Personal Information Protection Commission of Japan (PPC)](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/) | [RSS Feed](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/feed/)
 - **[Digital Agency of Japan](https://www.indexdata.org/japan/digital-agency-of-japan/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/japan/digital-agency-of-japan/) | [RSS Feed](https://www.indexdata.org/japan/digital-agency-of-japan/feed/)
+- **[Imperial Household Agency](https://www.indexdata.org/japan/imperial-household-agency/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/japan/imperial-household-agency/) | [RSS Feed](https://www.indexdata.org/japan/imperial-household-agency/feed/)
 - **[Ministry of Agriculture, Forestry and Fisheries of Japan (MAFF)](https://www.indexdata.org/japan/ministry-of-agriculture-forestry-and-fisheries-of-japan-maff/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-agriculture-forestry-and-fisheries-of-japan-maff/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-agriculture-forestry-and-fisheries-of-japan-maff/feed/)
+- **[Shizuoka City](https://www.indexdata.org/japan/shizuoka-city/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/japan/shizuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/shizuoka-city/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–55 of 55)
+## Indexed Statutory & Regulatory Dossiers (Records 1–64 of 64)
 
 ### [National Agriculture and Food Research Organization (NARO)](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/)
 Canonical Authority Archive: [https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/) | [RSS Feed](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/feed/)
@@ -97,15 +102,44 @@ Canonical Authority Archive: [https://www.indexdata.org/japan/ministry-of-the-en
 - `[`JP-EGOV-A934DBE9`]` **[Front page/Foreword: Message from the Minister of the Environment/Cover photos/Back page](https://www.indexdata.org/front-page-foreword-message-from-the-minister-of-the-environment-cover-photos-back-page/)** — `2026-06-15` | `4 Pages`
 - `[`JP-EGOV-A86AD2A8`]` **[Full text](https://www.indexdata.org/full-text/)** — `2026-06-15` | `42 Pages`
 
+### [Ministry of Land, Infrastructure, Transport and Tourism of Japan (MLIT)](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/)
+Canonical Authority Archive: [https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/feed/)
+
+- `[`JP-EGOV-6CA63DFD`]` **[Ministry of Land, Infrastructure, Transport and Tourism of Japan (MLIT) — Official Regulatory Document (2023-03-13)](https://www.indexdata.org/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit-official-regulatory-document-2023-03-13/)** — `2023-03-13` | `324 Pages`
+- `[`JP-EGOV-76684393`]` **[Ministry of Land, Infrastructure, Transport and Tourism of Japan (MLIT) — Official Regulatory Document (2021-11-04)](https://www.indexdata.org/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit-official-regulatory-document-2021-11-04/)** — `2021-11-04` | `324 Pages`
+- `[`JP-EGOV-B190B3E1`]` **[Ministry of Land, Infrastructure, Transport and Tourism of Japan (MLIT) — Official Regulatory Document (2020-12-07)](https://www.indexdata.org/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit-official-regulatory-document-2020-12-07/)** — `2020-12-07` | `5 Pages`
+
+### [Fukuoka City](https://www.indexdata.org/japan/fukuoka-city/)
+Canonical Authority Archive: [https://www.indexdata.org/japan/fukuoka-city/](https://www.indexdata.org/japan/fukuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/fukuoka-city/feed/)
+
+- `[`JP-EGOV-950F9EF5`]` **[Fukuoka City — 0Insatsuyou R1 (2025-01-07)](https://www.indexdata.org/fukuoka-city-0insatsuyou-r1-2025-01-07/)** — `2026-10-15` | `63 Pages`
+- `[`JP-EGOV-11232A14`]` **[Fukuoka City — Taiki27 (2025-01-07)](https://www.indexdata.org/fukuoka-city-taiki27-2025-01-07/)** — `2026-10-15` | `176 Pages`
+
+### [Personal Information Protection Commission of Japan (PPC)](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/)
+Canonical Authority Archive: [https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/) | [RSS Feed](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/feed/)
+
+- `[`JP-EGOV-E4C0008D`]` **[Personal Information Protection Commission of Japan (PPC) — 261028 Shiryou 1 (2026-10-28)](https://www.indexdata.org/personal-information-protection-commission-of-japan-ppc-261028-shiryou-1-2026-10-28/)** — `2026-10-28` | `2 Pages`
+- `[`JP-EGOV-33950364`]` **[Personal Information Protection Commission of Japan (PPC) — 260909 Shiryou 1 (2026-09-10)](https://www.indexdata.org/personal-information-protection-commission-of-japan-ppc-260909-shiryou-1-2026-09-10/)** — `2026-09-10` | `4 Pages`
+
 ### [Digital Agency of Japan](https://www.indexdata.org/japan/digital-agency-of-japan/)
 Canonical Authority Archive: [https://www.indexdata.org/japan/digital-agency-of-japan/](https://www.indexdata.org/japan/digital-agency-of-japan/) | [RSS Feed](https://www.indexdata.org/japan/digital-agency-of-japan/feed/)
 
 - `[`JP-EGOV-1B0F6169`]` **[Public Data License (Version 1.0)(PDF)](https://www.indexdata.org/public-data-license-version-1-0pdf/)** — `2026-01-14` | `3 Pages`
 
+### [Imperial Household Agency](https://www.indexdata.org/japan/imperial-household-agency/)
+Canonical Authority Archive: [https://www.indexdata.org/japan/imperial-household-agency/](https://www.indexdata.org/japan/imperial-household-agency/) | [RSS Feed](https://www.indexdata.org/japan/imperial-household-agency/feed/)
+
+- `[`JP-EGOV-4E9AD257`]` **[Imperial Household Agency — Housin R07 (2014-09-19)](https://www.indexdata.org/imperial-household-agency-housin-r07-2014-09-19/)** — `2022-03-01` | `5 Pages`
+
 ### [Ministry of Agriculture, Forestry and Fisheries of Japan (MAFF)](https://www.indexdata.org/japan/ministry-of-agriculture-forestry-and-fisheries-of-japan-maff/)
 Canonical Authority Archive: [https://www.indexdata.org/japan/ministry-of-agriculture-forestry-and-fisheries-of-japan-maff/](https://www.indexdata.org/japan/ministry-of-agriculture-forestry-and-fisheries-of-japan-maff/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-agriculture-forestry-and-fisheries-of-japan-maff/feed/)
 
 - `[`JP-EGOV-6D595371`]` **[Annual Report on Forest and Forestry in Japan Fiscal Year 2024(PDF : 8,660KB)](https://www.indexdata.org/annual-report-on-forest-and-forestry-in-japan-fiscal-year-2024pdf-8660kb/)** — `2026-03-12` | `50 Pages`
+
+### [Shizuoka City](https://www.indexdata.org/japan/shizuoka-city/)
+Canonical Authority Archive: [https://www.indexdata.org/japan/shizuoka-city/](https://www.indexdata.org/japan/shizuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/shizuoka-city/feed/)
+
+- `[`JP-EGOV-CCA40BB9`]` **[Shizuoka City — Official Regulatory Document (2025-11-19)](https://www.indexdata.org/shizuoka-city-official-regulatory-document-2025-11-19/)** — `2026-10-15` | `84 Pages`
 
 ---
 

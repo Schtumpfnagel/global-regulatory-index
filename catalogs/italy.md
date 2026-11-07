@@ -4,21 +4,23 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/italy/](https://www.indexdata.org/italy/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/italy/feed/](https://www.indexdata.org/italy/feed/)  
 **Wikidata Sovereign Entity:** [`Q38`](https://www.wikidata.org/wiki/Q38)  
-**Governing Open-Government Framework:** *Italian Copyright Act (Law No. 633/1941, Art. 5), Legislative Decree No. 36/2006 (PSI), CAD (D.Lgs. 82/2005, Art. 52) & CC BY 4.0 / IODL 2.0*  
-**Total Indexed Dossiers in Italy:** `57` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-07 11:59 UTC`
+**Governing Open-Government Framework:** *Decreto Legislativo n. 36/2006 & Legge n. 633/1941 art. 5*  
+**Total Indexed Dossiers in Italy:** `64` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-07 12:58 UTC`
 
 ---
 
-## Issuing Authorities in Italy (3 Authorities)
+## Issuing Authorities in Italy (5 Authorities)
 
-- **[National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
+- **[National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
 - **[National Research Council of Italy (CNR)](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/) | [RSS Feed](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/feed/)
 - **[Italian National Institute of Statistics (ISTAT)](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/) | [RSS Feed](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/feed/)
+- **[Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
+- **[National Institute for Astrophysics (INAF)](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–57 of 57)
+## Indexed Statutory & Regulatory Dossiers (Records 1–64 of 64)
 
 ### [National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
@@ -26,6 +28,7 @@ Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute
 - `[`IT-INAPP-7085`]` **[Self-employment and income discontinuity: social protection needs and perspectives on collective representation](https://www.indexdata.org/self-employment-and-income-discontinuity-social-protection-needs-and-perspectives-on-collective-representation/)** — `2026-10-30` | `8 Pages`
 - `[`IT-INAPP-7072`]` **[Education, wages and firm heterogeneity: evidence from linked employer-employee data](https://www.indexdata.org/education-wages-and-firm-heterogeneity-evidence-from-linked-employer-employee-data/)** — `2026-10-23` | `16 Pages`
 - `[`IT-INAPP-7081`]` **[Austerity in the supply chain: how municipal fiscal rules reshape procurement and subcontractor wages](https://www.indexdata.org/austerity-in-the-supply-chain-how-municipal-fiscal-rules-reshape-procurement-and-subcontractor-wages-2/)** — `2026-10-22` | `19 Pages`
+- `[`IT-INAPP-7059`]` **[Institutional governance structures to guarantee access to essential social services in Italy](https://www.indexdata.org/institutional-governance-structures-to-guarantee-access-to-essential-social-services-in-italy/)** — `2026-10-12` | `8 Pages`
 - `[`IT-INAPP-7054`]` **[The atlas of work and qualifications and the national system of skills certification in Italy: territorial dynamics and initial quantitative analyses](https://www.indexdata.org/the-atlas-of-work-and-qualifications-and-the-national-system-of-skills-certification-in-italy-territorial-dynamics-and-initial-quantitative-analyses/)** — `2026-10-12` | `24 Pages`
 - `[`IT-INAPP-7019`]` **[Biblioteca Inapp su... Minori e Social](https://www.indexdata.org/biblioteca-inapp-su-minori-e-social/)** — `2026-10-06` | `10 Pages`
 - `[`IT-INAPP-6983`]` **[AI, work and creative industries: evidence from the audiovisual and music sector](https://www.indexdata.org/ai-work-and-creative-industries-evidence-from-the-audiovisual-and-music-sector/)** — `2026-09-27` | `14 Pages`
@@ -88,6 +91,20 @@ Canonical Authority Archive: [https://www.indexdata.org/italy/italian-national-i
 - `[`IT-ISTAT-121530`]` **[Report Competitiveness 2026-Executive Summary](https://www.indexdata.org/report-competitiveness-2026-executive-summary/)** — `2026-03-20` | `6 Pages`
 - `[`IT-ISTAT-116626`]` **[REPORT_lingue e dialetti-def](https://www.indexdata.org/report_lingue-e-dialetti-def/)** — `2026-01-27` | `15 Pages`
 - `[`IT-ISTAT-113871`]` **[Statistica Report Cst 2023 En](https://www.indexdata.org/statistica-report-cst-2023-en-2/)** — `2025-12-15` | `9 Pages`
+
+### [Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)
+Canonical Authority Archive: [https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
+
+- `[`IT-ENAC-76925`]` **[UAS Recognized Entities Novembre 2026](https://www.indexdata.org/uas-recognized-entities-novembre-2026/)** — `2026-11-05` | `14 Pages`
+- `[`IT-ENAC-83211`]` **[CARTA DEI SERVIZI Forlì 2026](https://www.indexdata.org/carta-dei-servizi-forli-2026/)** — `2026-10-22` | `38 Pages`
+- `[`IT-ENAC-83209`]` **[carta dei servizi Parma 2026](https://www.indexdata.org/carta-dei-servizi-parma-2026/)** — `2026-10-22` | `24 Pages`
+
+### [National Institute for Astrophysics (INAF)](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/)
+Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/feed/)
+
+- `[`IT-INAF-IFC-3652`]` **[Bando incarico di ricerca ENTRAMBE engl signed prot](https://www.indexdata.org/bando-incarico-di-ricerca-entrambe-engl-signed-prot/)** — `2026-10-26` | `32 Pages`
+- `[`IT-INAF-IFC-3636`]` **[algorithms 19 00859](https://www.indexdata.org/algorithms-19-00859/)** — `2026-10-12` | `27 Pages`
+- `[`IT-INAF-IFC-3624`]` **[Acq and ctrl system for cosmic ray detector](https://www.indexdata.org/acq-and-ctrl-system-for-cosmic-ray-detector/)** — `2026-10-09` | `16 Pages`
 
 ---
 

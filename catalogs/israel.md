@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/israel/feed/](https://www.indexdata.org/israel/feed/)  
 **Wikidata Sovereign Entity:** [`Q801`](https://www.wikidata.org/wiki/Q801)  
 **Governing Open-Government Framework:** *Israel Copyright Act, 2007*  
-**Total Indexed Dossiers in Israel:** `137` across `16` issuing authorities  
-**Last Automated Sync:** `2026-11-07 11:59 UTC`
+**Total Indexed Dossiers in Israel:** `139` across `16` issuing authorities  
+**Last Automated Sync:** `2026-11-07 12:58 UTC`
 
 ---
 
@@ -15,8 +15,8 @@
 - **[Israel Innovation Authority (IIA)](https://www.indexdata.org/israel/israel-innovation-authority-iia/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-innovation-authority-iia/) | [RSS Feed](https://www.indexdata.org/israel/israel-innovation-authority-iia/feed/)
 - **[Israel Nature and Parks Authority (INPA)](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/) | [RSS Feed](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/feed/)
 - **[Central Bureau of Statistics (CBS)](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/) | [RSS Feed](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/feed/)
+- **[Israel National Institute for Health Policy Research (NIHP)](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/) | [RSS Feed](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/feed/)
 - **[Israel Oceanographic and Limnological Research (IOLR)](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/) | [RSS Feed](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/feed/)
-- **[Israel National Institute for Health Policy Research (NIHP)](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/) | [RSS Feed](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/feed/)
 - **[Ministry of Finance](https://www.indexdata.org/israel/ministry-of-finance/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/israel/ministry-of-finance/) | [RSS Feed](https://www.indexdata.org/israel/ministry-of-finance/feed/)
 - **[Ministry of Health — Northern District Health Bureau](https://www.indexdata.org/israel/ministry-of-health-northern-district-health-bureau/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/israel/ministry-of-health-northern-district-health-bureau/) | [RSS Feed](https://www.indexdata.org/israel/ministry-of-health-northern-district-health-bureau/feed/)
 - **[Agricultural Research Organization (ARO) — The Volcani Center](https://www.indexdata.org/israel/agricultural-research-organization-aro-the-volcani-center/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/israel/agricultural-research-organization-aro-the-volcani-center/) | [RSS Feed](https://www.indexdata.org/israel/agricultural-research-organization-aro-the-volcani-center/feed/)
@@ -31,7 +31,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–137 of 137)
+## Indexed Statutory & Regulatory Dossiers (Records 1–139 of 139)
 
 ### [Israel Innovation Authority (IIA)](https://www.indexdata.org/israel/israel-innovation-authority-iia/)
 Canonical Authority Archive: [https://www.indexdata.org/israel/israel-innovation-authority-iia/](https://www.indexdata.org/israel/israel-innovation-authority-iia/) | [RSS Feed](https://www.indexdata.org/israel/israel-innovation-authority-iia/feed/)
@@ -115,6 +115,20 @@ Canonical Authority Archive: [https://www.indexdata.org/israel/central-bureau-of
 - `[`IL-OA-CBS-W4391440532`]` **[Nubian Levallois Technology During MIS 5: Refitted Lithic Sequences and OSL Ages of Dimona South, Israel, and Their Broader Implications](https://www.indexdata.org/nubian-levallois-technology-during-mis-5-refitted-lithic-sequences-and-osl-ages-of-dimona-south-israel-and-their-broader-implications/)** — `2024-02-01` | `25 Pages`
 - `[`IL-OA-CBS-W4387866985`]` **[Composition and affinities of glass from the Ma'agan Mikhael B shipwreck, Israel](https://www.indexdata.org/composition-and-affinities-of-glass-from-the-maagan-mikhael-b-shipwreck-israel/)** — `2023-10-23` | `12 Pages`
 
+### [Israel National Institute for Health Policy Research (NIHP)](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/)
+Canonical Authority Archive: [https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/) | [RSS Feed](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/feed/)
+
+- `[`IL-NIHP-7964`]` **[General guidelines-CRP systematic review](https://www.indexdata.org/general-guidelines-crp-systematic-review/)** — `2026-10-25` | `4 Pages`
+- `[`IL-NIHP-7856`]` **[Research grants – process and general guidelines 2026](https://www.indexdata.org/research-grants-process-and-general-guidelines-2026/)** — `2026-08-19` | `6 Pages`
+- `[`IL-NIHP-EN-2100`]` **[The-Public-Private-Mix-in-Health-Care-1](https://www.indexdata.org/the-public-private-mix-in-health-care-1/)** — `2025-11-12` | `21 Pages`
+- `[`IL-NIHP-EN-2015`]` **[Appendix – Key Findings for 2022 Data](https://www.indexdata.org/appendix-key-findings-for-2022-data/)** — `2025-11-05` | `17 Pages`
+- `[`IL-NIHP-EN-2014`]` **[Key Findings for 2022 Data](https://www.indexdata.org/key-findings-for-2022-data/)** — `2025-11-05` | `17 Pages`
+- `[`IL-NIHP-EN-2013`]` **[Selected Findings for 2023](https://www.indexdata.org/selected-findings-for-2023/)** — `2025-11-05` | `100 Pages`
+- `[`IL-NIHP-EN-2012`]` **[Key Findings for 2023 Data](https://www.indexdata.org/key-findings-for-2023-data/)** — `2025-11-05` | `32 Pages`
+- `[`IL-NIHP-EN-2011`]` **[Health Disparities Report – 2023 Data](https://www.indexdata.org/health-disparities-report-2023-data/)** — `2025-11-05` | `106 Pages`
+- `[`IL-NIHP-EN-1647`]` **[MY PATH IN THE ISRAELI HEALTH SYSTEM-HAIM DORON](https://www.indexdata.org/my-path-in-the-israeli-health-system-haim-doron/)** — `2022-12-06` | `173 Pages`
+- `[`IL-NIHP-EN-1324`]` **[The 19th Annual Dead Sea Conference, 2019 25 Years for the Health Insurance Law](https://www.indexdata.org/the-19th-annual-dead-sea-conference-2019-25-years-for-the-health-insurance-law/)** — `2019-12-17` | `132 Pages`
+
 ### [Israel Oceanographic and Limnological Research (IOLR)](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/)
 Canonical Authority Archive: [https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/) | [RSS Feed](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/feed/)
 
@@ -128,18 +142,6 @@ Canonical Authority Archive: [https://www.indexdata.org/israel/israel-oceanograp
 - `[`IL-IOLR-WP-2066`]` **[Researcher Position Marine Invertebrates and Marine Biotechnology IOLR-NCM](https://www.indexdata.org/researcher-position-marine-invertebrates-and-marine-biotechnology-iolr-ncm/)** — `2025-07-02` | `2 Pages`
 - `[`IL-IOLR-WP-2065`]` **[Researcher Position animal health IOLR-NCM](https://www.indexdata.org/researcher-position-animal-health-iolr-ncm/)** — `2025-07-02` | `2 Pages`
 - `[`IL-IOLR-WP-2062`]` **[Modeler in the Department of Physical Oceanography](https://www.indexdata.org/modeler-in-the-department-of-physical-oceanography/)** — `2025-05-27` | `2 Pages`
-
-### [Israel National Institute for Health Policy Research (NIHP)](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/)
-Canonical Authority Archive: [https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/) | [RSS Feed](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/feed/)
-
-- `[`IL-NIHP-7964`]` **[General guidelines-CRP systematic review](https://www.indexdata.org/general-guidelines-crp-systematic-review/)** — `2026-10-25` | `4 Pages`
-- `[`IL-NIHP-7856`]` **[Research grants – process and general guidelines 2026](https://www.indexdata.org/research-grants-process-and-general-guidelines-2026/)** — `2026-08-19` | `6 Pages`
-- `[`IL-NIHP-EN-2100`]` **[The-Public-Private-Mix-in-Health-Care-1](https://www.indexdata.org/the-public-private-mix-in-health-care-1/)** — `2025-11-12` | `21 Pages`
-- `[`IL-NIHP-EN-2015`]` **[Appendix – Key Findings for 2022 Data](https://www.indexdata.org/appendix-key-findings-for-2022-data/)** — `2025-11-05` | `17 Pages`
-- `[`IL-NIHP-EN-2014`]` **[Key Findings for 2022 Data](https://www.indexdata.org/key-findings-for-2022-data/)** — `2025-11-05` | `17 Pages`
-- `[`IL-NIHP-EN-2013`]` **[Selected Findings for 2023](https://www.indexdata.org/selected-findings-for-2023/)** — `2025-11-05` | `100 Pages`
-- `[`IL-NIHP-EN-2012`]` **[Key Findings for 2023 Data](https://www.indexdata.org/key-findings-for-2023-data/)** — `2025-11-05` | `32 Pages`
-- `[`IL-NIHP-EN-2011`]` **[Health Disparities Report – 2023 Data](https://www.indexdata.org/health-disparities-report-2023-data/)** — `2025-11-05` | `106 Pages`
 
 ### [Ministry of Finance](https://www.indexdata.org/israel/ministry-of-finance/)
 Canonical Authority Archive: [https://www.indexdata.org/israel/ministry-of-finance/](https://www.indexdata.org/israel/ministry-of-finance/) | [RSS Feed](https://www.indexdata.org/israel/ministry-of-finance/feed/)
