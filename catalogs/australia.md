@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,231` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-07 17:55 UTC`
+**Total Indexed Dossiers in Australia:** `1,237` across `30` issuing authorities  
+**Last Automated Sync:** `2026-11-07 18:11 UTC`
 
 ---
 
-## Issuing Authorities in Australia (29 Authorities)
+## Issuing Authorities in Australia (30 Authorities)
 
 - **[Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)** (`376` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
 - **[Attorney-General's Department](https://www.indexdata.org/australia/attorney-general-s-department/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.indexdata.org/australia/attorney-general-s-department/feed/)
@@ -27,24 +27,25 @@
 - **[Department of Foreign Affairs and Trade](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/) | [RSS Feed](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/feed/)
 - **[Department of Health and Aged Care](https://www.indexdata.org/australia/department-of-health-and-aged-care/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-health-and-aged-care/) | [RSS Feed](https://www.indexdata.org/australia/department-of-health-and-aged-care/feed/)
 - **[Great Barrier Reef Marine Park Authority](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/) | [RSS Feed](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/feed/)
+- **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
 - **[Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/) | [RSS Feed](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/feed/)
 - **[Department of Social Services](https://www.indexdata.org/australia/department-of-social-services/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-social-services/) | [RSS Feed](https://www.indexdata.org/australia/department-of-social-services/feed/)
+- **[Northern Territory — Attorney-General’s](https://www.indexdata.org/australia/northern-territory-attorney-general-s/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-attorney-general-s/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-attorney-general-s/feed/)
 - **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
-- **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
 - **[Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
 - **[Department of Industry, Science and Resources](https://www.indexdata.org/australia/department-of-industry-science-and-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-industry-science-and-resources/) | [RSS Feed](https://www.indexdata.org/australia/department-of-industry-science-and-resources/feed/)
-- **[Northern Territory — Attorney-General’s](https://www.indexdata.org/australia/northern-territory-attorney-general-s/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-attorney-general-s/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-attorney-general-s/feed/)
 - **[Department of the Prime Minister and Cabinet](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/feed/)
 - **[Aestra](https://www.indexdata.org/australia/aestra/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/australia/aestra/) | [RSS Feed](https://www.indexdata.org/australia/aestra/feed/)
-- **[Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
+- **[Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
 - **[Northern Territory — Health](https://www.indexdata.org/australia/northern-territory-health/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-health/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-health/feed/)
-- **[Northern Territory — Logistics and Infrastructure](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/feed/)
+- **[Northern Territory — Logistics and Infrastructure](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/feed/)
 - **[Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
 - **[Australian Business Register](https://www.indexdata.org/australia/australian-business-register/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
+- **[Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,231 of 1,231)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,237 of 1,237)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1219,6 +1220,24 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/great-barrier-
 - `[`AU-GBRMPA-11017-4152`]` **[Local Marine Advisory Committee Meetings November 2025](https://www.indexdata.org/local-marine-advisory-committee-meetings-november-2025/)** — `2026-01-01` | `6 Pages`
 - `[`AU-GBRMPA-11017-3249`]` **[Permit Application Assessment Fees](https://www.indexdata.org/permit-application-assessment-fees/)** — `2026-01-01` | `3 Pages`
 
+### [Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/australian-law-reform-commission/](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
+
+- `[`AU-ALRC-23586`]` **[ALRC Report 146 (Vol 2)](https://www.indexdata.org/alrc-report-146-vol-2/)** — `2026-11-04` | `712 Pages`
+- `[`AU-ALRC-23585`]` **[ALRC Report 146 (Vol 1)](https://www.indexdata.org/alrc-report-146-vol-1/)** — `2026-11-04` | `406 Pages`
+- `[`AU-ALRC-23554`]` **[20250820 FOI – ACL InvitationLetters_Redacted](https://www.indexdata.org/20250820-foi-acl-invitationletters_redacted/)** — `2026-10-19` | `22 Pages`
+- `[`AU-ALRC-23513`]` **[239. E Thatcher](https://www.indexdata.org/239-e-thatcher/)** — `2026-09-08` | `9 Pages`
+- `[`AU-ALRC-23507`]` **[2026–27 ALRC Corporate Plan](https://www.indexdata.org/2026-27-alrc-corporate-plan/)** — `2026-08-31` | `10 Pages`
+- `[`AU-ALRC-23505`]` **[237. B Radford](https://www.indexdata.org/237-b-radford/)** — `2026-08-27` | `3 Pages`
+- `[`AU-ALRC-23500`]` **[455. P Debets](https://www.indexdata.org/455-p-debets/)** — `2026-08-25` | `3 Pages`
+- `[`AU-ALRC-23499`]` **[457. S Mildenhall](https://www.indexdata.org/457-s-mildenhall/)** — `2026-08-25` | `3 Pages`
+- `[`AU-ALRC-23497`]` **[451. L Arthur](https://www.indexdata.org/451-l-arthur/)** — `2026-08-25` | `3 Pages`
+- `[`AU-ALRC-23490`]` **[444. Name withheld](https://www.indexdata.org/444-name-withheld/)** — `2026-08-25` | `2 Pages`
+- `[`AU-ALRC-23488`]` **[442. D & R Cox](https://www.indexdata.org/442-d-r-cox/)** — `2026-08-25` | `2 Pages`
+- `[`AU-ALRC-23480`]` **[452. Name withheld](https://www.indexdata.org/452-name-withheld/)** — `2026-08-25` | `2 Pages`
+- `[`AU-ALRC-23423`]` **[115. Name withheld](https://www.indexdata.org/115-name-withheld/)** — `2026-07-21` | `19 Pages`
+- `[`AU-ALRC-23413`]` **[ci_1647_name_withheld](https://www.indexdata.org/ci_1647_name_withheld/)** — `2026-07-20` | `2 Pages`
+
 ### [Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/) | [RSS Feed](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/feed/)
 
@@ -1253,6 +1272,23 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-
 - `[`C2025A00006`]` **[Social Security Legislation Amendment (Technical Changes) Act 2025](https://www.indexdata.org/social-security-legislation-amendment-technical-changes-act-2025/)** — `2025-02-14` | `9 Pages`
 - `[`C2024A00011`]` **[Social Services Legislation Amendment (Child Support and Family Assistance Technical Amendments) Act 2024](https://www.indexdata.org/social-services-legislation-amendment-child-support-and-family-assistance-technical-amendments-act-2024/)** — `2024-03-28` | `10 Pages`
 
+### [Northern Territory — Attorney-General’s](https://www.indexdata.org/australia/northern-territory-attorney-general-s/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-attorney-general-s/](https://www.indexdata.org/australia/northern-territory-attorney-general-s/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-attorney-general-s/feed/)
+
+- `[`AU-NT-ec7f057c-de34-4912-b887`]` **[Current - NT Crime Statistics August 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/current-nt-crime-statistics-august-2026-data_quality_statement-crime-stats-pdf/)** — `2026-10-14` | `2 Pages`
+- `[`AU-NT-d275f870-9e2d-46f5-9054`]` **[NT Crime Statistics July 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-july-2026-data_quality_statement-crime-stats-pdf/)** — `2026-10-12` | `2 Pages`
+- `[`AU-NT-e422fcaa-cea2-4b69-86f2`]` **[NT Crime Statistics May 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-may-2026-data_quality_statement-crime-stats-pdf/)** — `2026-09-14` | `2 Pages`
+- `[`AU-NT-b93cb721-4922-483e-a737`]` **[NT Crime Statistics April 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-april-2026-data_quality_statement-crime-stats-pdf/)** — `2026-09-14` | `2 Pages`
+- `[`AU-NT-4b8d3393-d9d3-49e9-a5f2`]` **[NT Crime Statistics June 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-june-2026-data_quality_statement-crime-stats-pdf/)** — `2026-09-14` | `2 Pages`
+- `[`AU-NT-2bf2a53f-c5d5-4015-9904`]` **[NT Crime Statistics March 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-march-2026-data_quality_statement-crime-stats-pdf/)** — `2026-06-11` | `2 Pages`
+- `[`AU-NT-ae059a2d-e8ba-4850-bc16`]` **[NT Crime Statistics February 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-february-2026-data_quality_statement-crime-stats-pdf/)** — `2026-05-11` | `2 Pages`
+- `[`AU-NT-d13c0cd8-7732-4eea-9e2c`]` **[NT Crime Statistics January 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-january-2026-data_quality_statement-crime-stats-pdf/)** — `2026-04-13` | `2 Pages`
+- `[`AU-NT-6b63effe-866b-440b-a10a`]` **[NT Crime Statistics December 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-december-2025-data_quality_statement-crime-stats-pdf/)** — `2026-03-16` | `2 Pages`
+- `[`AU-NT-8ba4cec0-ccd9-4e1a-b317`]` **[NT Crime Statistics November 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-november-2025-data_quality_statement-crime-stats-pdf/)** — `2026-02-17` | `2 Pages`
+- `[`AU-NT-85f6e2b6-c05e-444c-9c56`]` **[NT Crime Statistics October 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-october-2025-data_quality_statement-crime-stats-pdf/)** — `2026-01-16` | `2 Pages`
+- `[`AU-NT-f837f983-797c-4fda-9842`]` **[NT Crime Statistics September 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-september-2025-data_quality_statement-crime-stats-pdf/)** — `2025-12-18` | `2 Pages`
+- `[`AU-NT-a6b6ca42-e82e-4a1d-89e8`]` **[NT Crime Statistics August 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-august-2025-data_quality_statement-crime-stats-pdf/)** — `2025-11-20` | `2 Pages`
+
 ### [Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
 
@@ -1268,22 +1304,6 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-cen
 - `[`AU-ACIAR-FR2023-043`]` **[Analysing Gender Transformative Approaches to Agricultural Development with Ethnic Minority Communities in Vietnam - Final Report](https://www.indexdata.org/analysing-gender-transformative-approaches-to-agricultural-development-with-ethnic-minority-communities-in-vietnam-final-report/)** — `2023-08-23` | `488 Pages`
 - `[`AU-ACIAR-FR2023-005`]` **[Improving milk supply, competitiveness and livelihoods of smallholder dairy chains in Indonesia - Final Report](https://www.indexdata.org/improving-milk-supply-competitiveness-and-livelihoods-of-smallholder-dairy-chains-in-indonesia-final-report/)** — `2023-01-23` | `116 Pages`
 - `[`AU-ACIAR-FR2023-004`]` **[Initiating private sector partnerships to sustainably grow the smallholder dairy sectors of Indonesia and the Philippines - Final Report](https://www.indexdata.org/initiating-private-sector-partnerships-to-sustainably-grow-the-smallholder-dairy-sectors-of-indonesia-and-the-philippines-final-report/)** — `2023-01-23` | `270 Pages`
-
-### [Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/australian-law-reform-commission/](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
-
-- `[`AU-ALRC-23586`]` **[ALRC Report 146 (Vol 2)](https://www.indexdata.org/alrc-report-146-vol-2/)** — `2026-11-04` | `712 Pages`
-- `[`AU-ALRC-23585`]` **[ALRC Report 146 (Vol 1)](https://www.indexdata.org/alrc-report-146-vol-1/)** — `2026-11-04` | `406 Pages`
-- `[`AU-ALRC-23554`]` **[20250820 FOI – ACL InvitationLetters_Redacted](https://www.indexdata.org/20250820-foi-acl-invitationletters_redacted/)** — `2026-10-19` | `22 Pages`
-- `[`AU-ALRC-23513`]` **[239. E Thatcher](https://www.indexdata.org/239-e-thatcher/)** — `2026-09-08` | `9 Pages`
-- `[`AU-ALRC-23507`]` **[2026–27 ALRC Corporate Plan](https://www.indexdata.org/2026-27-alrc-corporate-plan/)** — `2026-08-31` | `10 Pages`
-- `[`AU-ALRC-23505`]` **[237. B Radford](https://www.indexdata.org/237-b-radford/)** — `2026-08-27` | `3 Pages`
-- `[`AU-ALRC-23500`]` **[455. P Debets](https://www.indexdata.org/455-p-debets/)** — `2026-08-25` | `3 Pages`
-- `[`AU-ALRC-23499`]` **[457. S Mildenhall](https://www.indexdata.org/457-s-mildenhall/)** — `2026-08-25` | `3 Pages`
-- `[`AU-ALRC-23497`]` **[451. L Arthur](https://www.indexdata.org/451-l-arthur/)** — `2026-08-25` | `3 Pages`
-- `[`AU-ALRC-23490`]` **[444. Name withheld](https://www.indexdata.org/444-name-withheld/)** — `2026-08-25` | `2 Pages`
-- `[`AU-ALRC-23488`]` **[442. D & R Cox](https://www.indexdata.org/442-d-r-cox/)** — `2026-08-25` | `2 Pages`
-- `[`AU-ALRC-23480`]` **[452. Name withheld](https://www.indexdata.org/452-name-withheld/)** — `2026-08-25` | `2 Pages`
 
 ### [Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
@@ -1317,22 +1337,6 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-
 - `[`F2026N00520`]` **[Net Zero Economy Authority (Gladstone Power Station Geographic Area) Notifiable Instrument 2026](https://www.indexdata.org/net-zero-economy-authority-gladstone-power-station-geographic-area-notifiable-instrument-2026/)** — `2026-07-17` | `3 Pages`
 - `[`F2026N00519`]` **[Net Zero Economy Authority (Gladstone Power Station Trigger Notice) Notifiable Instrument 2026](https://www.indexdata.org/net-zero-economy-authority-gladstone-power-station-trigger-notice-notifiable-instrument-2026/)** — `2026-07-17` | `5 Pages`
 
-### [Northern Territory — Attorney-General’s](https://www.indexdata.org/australia/northern-territory-attorney-general-s/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-attorney-general-s/](https://www.indexdata.org/australia/northern-territory-attorney-general-s/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-attorney-general-s/feed/)
-
-- `[`AU-NT-ec7f057c-de34-4912-b887`]` **[Current - NT Crime Statistics August 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/current-nt-crime-statistics-august-2026-data_quality_statement-crime-stats-pdf/)** — `2026-10-14` | `2 Pages`
-- `[`AU-NT-d275f870-9e2d-46f5-9054`]` **[NT Crime Statistics July 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-july-2026-data_quality_statement-crime-stats-pdf/)** — `2026-10-12` | `2 Pages`
-- `[`AU-NT-e422fcaa-cea2-4b69-86f2`]` **[NT Crime Statistics May 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-may-2026-data_quality_statement-crime-stats-pdf/)** — `2026-09-14` | `2 Pages`
-- `[`AU-NT-b93cb721-4922-483e-a737`]` **[NT Crime Statistics April 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-april-2026-data_quality_statement-crime-stats-pdf/)** — `2026-09-14` | `2 Pages`
-- `[`AU-NT-4b8d3393-d9d3-49e9-a5f2`]` **[NT Crime Statistics June 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-june-2026-data_quality_statement-crime-stats-pdf/)** — `2026-09-14` | `2 Pages`
-- `[`AU-NT-2bf2a53f-c5d5-4015-9904`]` **[NT Crime Statistics March 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-march-2026-data_quality_statement-crime-stats-pdf/)** — `2026-06-11` | `2 Pages`
-- `[`AU-NT-ae059a2d-e8ba-4850-bc16`]` **[NT Crime Statistics February 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-february-2026-data_quality_statement-crime-stats-pdf/)** — `2026-05-11` | `2 Pages`
-- `[`AU-NT-d13c0cd8-7732-4eea-9e2c`]` **[NT Crime Statistics January 2026 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-january-2026-data_quality_statement-crime-stats-pdf/)** — `2026-04-13` | `2 Pages`
-- `[`AU-NT-6b63effe-866b-440b-a10a`]` **[NT Crime Statistics December 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-december-2025-data_quality_statement-crime-stats-pdf/)** — `2026-03-16` | `2 Pages`
-- `[`AU-NT-8ba4cec0-ccd9-4e1a-b317`]` **[NT Crime Statistics November 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-november-2025-data_quality_statement-crime-stats-pdf/)** — `2026-02-17` | `2 Pages`
-- `[`AU-NT-85f6e2b6-c05e-444c-9c56`]` **[NT Crime Statistics October 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-october-2025-data_quality_statement-crime-stats-pdf/)** — `2026-01-16` | `2 Pages`
-- `[`AU-NT-f837f983-797c-4fda-9842`]` **[NT Crime Statistics September 2025 — Data_Quality_Statement Crime Stats.pdf](https://www.indexdata.org/nt-crime-statistics-september-2025-data_quality_statement-crime-stats-pdf/)** — `2025-12-18` | `2 Pages`
-
 ### [Department of the Prime Minister and Cabinet](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/feed/)
 
@@ -1363,6 +1367,7 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-cha
 - `[`AU-DATA-ff6905d6-9d5d-4ef1-8478`]` **[ACNC 2023 Annual Information Statement (AIS) Data — Explanatory notes_2023 AIS data](https://www.indexdata.org/acnc-2023-annual-information-statement-ais-data-explanatory-notes_2023-ais-data/)** — `2026-11-01` | `22 Pages`
 - `[`AU-DATA-db8def1b-b3ba-4536-98eb`]` **[ACNC 2021 Annual Information Statement (AIS) Data — Explanatory notes](https://www.indexdata.org/acnc-2021-annual-information-statement-ais-data-explanatory-notes/)** — `2026-11-01` | `24 Pages`
 - `[`AU-DATA-b050b242-4487-4306-abf5`]` **[ACNC Registered Charities — User notes](https://www.indexdata.org/acnc-registered-charities-user-notes/)** — `2026-11-01` | `6 Pages`
+- `[`AU-DATA-34b35c52-8af0-4cc1-aa0b`]` **[ACNC 2019 Annual Information Statement Data — Explanatory notes](https://www.indexdata.org/acnc-2019-annual-information-statement-data-explanatory-notes/)** — `2026-11-01` | `20 Pages`
 - `[`AU-DATA-28a94374-d516-4200-a6f8`]` **[ACNC 2020 Annual Information Statement (AIS) Data — Explanatory notes](https://www.indexdata.org/acnc-2020-annual-information-statement-ais-data-explanatory-notes/)** — `2026-11-01` | `24 Pages`
 - `[`AU-DATA-276ec1bc-4971-461c-88bc`]` **[ACNC 2024 Annual Information Statement (AIS) Data — Explanatory notes](https://www.indexdata.org/acnc-2024-annual-information-statement-ais-data-explanatory-notes/)** — `2026-11-01` | `19 Pages`
 
@@ -1380,6 +1385,7 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 
 - `[`AU-NT-fcf01b61-c8d8-4703-b289`]` **[Super Tuesday Bike Count Palmerston 2025 — Super Tuesday Commuter Bike Count Palmerston 2025](https://www.indexdata.org/super-tuesday-bike-count-palmerston-2025-super-tuesday-commuter-bike-count-palmerston-2025/)** — `2025-12-11` | `25 Pages`
 - `[`AU-NT-b605526c-8c6a-4fdd-a052`]` **[Super Tuesday Bike Count Tennant Creek and Alice Springs 2025 — Super Tuesday Commuter Bike Count Tennant Creek and Alice Springs 2025](https://www.indexdata.org/super-tuesday-bike-count-tennant-creek-and-alice-springs-2025-super-tuesday-commuter-bike-count-tennant-creek-and-alice-springs-2025/)** — `2025-12-11` | `27 Pages`
+- `[`AU-NT-91f556ee-c92c-452f-a6e2`]` **[Super Tuesday Bike Count Darwin 2025 — Super Tuesday Commuter Bike Count - Darwin 2025](https://www.indexdata.org/super-tuesday-bike-count-darwin-2025-super-tuesday-commuter-bike-count-darwin-2025/)** — `2025-12-11` | `49 Pages`
 - `[`AU-NT-7a4a72a3-e87b-41c4-85f9`]` **[Super Tuesday Bike Count Katherine 2025 — Super Tuesday Commuter Bike Count - Katherine 2025](https://www.indexdata.org/super-tuesday-bike-count-katherine-2025-super-tuesday-commuter-bike-count-katherine-2025/)** — `2025-12-11` | `18 Pages`
 
 ### [Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)
@@ -1392,6 +1398,11 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/victoria-depar
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-business-register/](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
 
 - `[`AU-DATA-5bd7fcab-e315-42cb-8daf`]` **[ABN Bulk Extract — ABN Lookup Bulk Extract Readme](https://www.indexdata.org/abn-bulk-extract-abn-lookup-bulk-extract-readme/)** — `2026-11-03` | `11 Pages`
+
+### [Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
+
+- `[`AU-NT-06056af4-d8b9-46e1-994d`]` **[NT Parks and Reserves Land Holdings List 2024 — Data Quality Statement](https://www.indexdata.org/nt-parks-and-reserves-land-holdings-list-2024-data-quality-statement/)** — `2025-11-05` | `2 Pages`
 
 ---
 
