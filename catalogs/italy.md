@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/italy/feed/](https://www.indexdata.org/italy/feed/)  
 **Wikidata Sovereign Entity:** [`Q38`](https://www.wikidata.org/wiki/Q38)  
 **Governing Open-Government Framework:** *Decreto Legislativo n. 36/2006 & Legge n. 633/1941 art. 5*  
-**Total Indexed Dossiers in Italy:** `64` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-07 12:58 UTC`
+**Total Indexed Dossiers in Italy:** `66` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-07 13:55 UTC`
 
 ---
 
@@ -15,12 +15,12 @@
 - **[National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
 - **[National Research Council of Italy (CNR)](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/) | [RSS Feed](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/feed/)
 - **[Italian National Institute of Statistics (ISTAT)](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/) | [RSS Feed](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/feed/)
-- **[Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
+- **[Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
 - **[National Institute for Astrophysics (INAF)](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–64 of 64)
+## Indexed Statutory & Regulatory Dossiers (Records 1–66 of 66)
 
 ### [National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
@@ -98,6 +98,8 @@ Canonical Authority Archive: [https://www.indexdata.org/italy/italian-civil-avia
 - `[`IT-ENAC-76925`]` **[UAS Recognized Entities Novembre 2026](https://www.indexdata.org/uas-recognized-entities-novembre-2026/)** — `2026-11-05` | `14 Pages`
 - `[`IT-ENAC-83211`]` **[CARTA DEI SERVIZI Forlì 2026](https://www.indexdata.org/carta-dei-servizi-forli-2026/)** — `2026-10-22` | `38 Pages`
 - `[`IT-ENAC-83209`]` **[carta dei servizi Parma 2026](https://www.indexdata.org/carta-dei-servizi-parma-2026/)** — `2026-10-22` | `24 Pages`
+- `[`IT-ENAC-83207`]` **[Carta dei Servizi Bologna 2026](https://www.indexdata.org/carta-dei-servizi-bologna-2026/)** — `2026-10-22` | `49 Pages`
+- `[`IT-ENAC-83205`]` **[Carta dei Servizi Rimini 2026](https://www.indexdata.org/carta-dei-servizi-rimini-2026/)** — `2026-10-22` | `50 Pages`
 
 ### [National Institute for Astrophysics (INAF)](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/feed/)

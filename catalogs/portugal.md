@@ -5,22 +5,22 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/portugal/feed/](https://www.indexdata.org/portugal/feed/)  
 **Wikidata Sovereign Entity:** [`Q45`](https://www.wikidata.org/wiki/Q45)  
 **Governing Open-Government Framework:** *Lei n.º 68/2021*  
-**Total Indexed Dossiers in Portugal:** `14` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-07 12:58 UTC`
+**Total Indexed Dossiers in Portugal:** `16` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-07 13:55 UTC`
 
 ---
 
 ## Issuing Authorities in Portugal (5 Authorities)
 
 - **[High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
-- **[Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
-- **[Regional Directorate for the Sea — Madeira (DRM)](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/) | [RSS Feed](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/feed/)
+- **[Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
+- **[Regional Directorate for the Sea — Madeira (DRM)](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/) | [RSS Feed](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/feed/)
 - **[National Institute of Health Doutor Ricardo Jorge (INSA)](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/) | [RSS Feed](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/feed/)
 - **[National Laboratory of Energy and Geology (LNEG)](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/) | [RSS Feed](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–14 of 14)
+## Indexed Statutory & Regulatory Dossiers (Records 1–16 of 16)
 
 ### [High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
@@ -36,6 +36,7 @@ Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-m
 - `[`PT-IMT-WP-18409`]` **[LISTA DE MONOVOLUMES 406 &#8211; 2](https://www.indexdata.org/lista-de-monovolumes-406-2/)** — `2026-11-01` | `1314 Pages`
 - `[`PT-IMT-WP-18408`]` **[LISTA DE MONOVOLUMES 406 &#8211; 1](https://www.indexdata.org/lista-de-monovolumes-406-1/)** — `2026-11-01` | `993 Pages`
 - `[`PT-IMT-WP-18406`]` **[ATA N 6- Audiência dos interessados e Lista Ordenação final para homologar 24 AT LVT_signed_signed](https://www.indexdata.org/ata-n-6-audiencia-dos-interessados-e-lista-ordenacao-final-para-homologar-24-at-lvt_signed_signed/)** — `2026-11-01` | `2 Pages`
+- `[`PT-IMT-WP-18405`]` **[Lista+unitária+definitiva+de+ordenação+final++para+homologação-++24+AT+LVT](https://www.indexdata.org/listaunitariadefinitivadeordenacaofinalparahomologacao-24atlvt/)** — `2026-11-01` | `3 Pages`
 
 ### [Regional Directorate for the Sea — Madeira (DRM)](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/) | [RSS Feed](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/feed/)
@@ -43,6 +44,7 @@ Canonical Authority Archive: [https://www.indexdata.org/portugal/regional-direct
 - `[`PT-MARMAD-WP-6633`]` **[2022_ALTERAÇÃO LICENÇA EXPLORAÇÃO Nº 1_2017_ MARISMAR](https://www.indexdata.org/2022_alteracao-licenca-exploracao-no-1_2017_-marismar/)** — `2026-08-01` | `2 Pages`
 - `[`PT-MARMAD-WP-6632`]` **[Licença exploração 1. 2017](https://www.indexdata.org/licenca-exploracao-1-2017/)** — `2026-08-01` | `2 Pages`
 - `[`PT-MARMAD-WP-6631`]` **[Licença exploração 1 2008 com averbamento 08.08.2017](https://www.indexdata.org/licenca-exploracao-1-2008-com-averbamento-08-08-2017/)** — `2026-08-01` | `3 Pages`
+- `[`PT-MARMAD-WP-6621`]` **[Lista Lotes Marismar Atualizada](https://www.indexdata.org/lista-lotes-marismar-atualizada/)** — `2026-08-01` | `3 Pages`
 
 ### [National Institute of Health Doutor Ricardo Jorge (INSA)](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/) | [RSS Feed](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/feed/)
