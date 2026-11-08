@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `196` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-08 16:53 UTC`
+**Total Indexed Dossiers in Philippines:** `198` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-08 17:54 UTC`
 
 ---
 
@@ -14,10 +14,10 @@
 
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`49` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
+- **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
-- **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
-- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
+- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 - **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 - **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–196 of 196)
+## Indexed Statutory & Regulatory Dossiers (Records 1–198 of 198)
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
@@ -120,6 +120,38 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-
 - `[`PH-CDA-70153`]` **[Article–Courtesy Call Across R9 for the CDA LGU](https://www.indexdata.org/article-courtesy-call-across-r9-for-the-cda-lgu/)** — `2026-08-18` | `3 Pages`
 - `[`PH-CDA-70137`]` **[CDA Strengthens Coconut Farmers Cooperatives Through Business Planning and Financial Management Seminar](https://www.indexdata.org/cda-strengthens-coconut-farmers-cooperatives-through-business-planning-and-financial-management-seminar/)** — `2026-08-18` | `4 Pages`
 
+### [Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)
+Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-investments/](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
+
+- `[`PH-BOI-20765`]` **[TOR – MS SQL Terms of Reference](https://www.indexdata.org/tor-ms-sql-terms-of-reference/)** — `2026-11-06` | `3 Pages`
+- `[`PH-BOI-20707`]` **[NGPA PBDs 2026-008 SIEM –](https://www.indexdata.org/ngpa-pbds-2026-008-siem/)** — `2026-10-30` | `105 Pages`
+- `[`PH-BOI-20706`]` **[NGPA PBDs 2026-007 Virtualization Modernization Solution –](https://www.indexdata.org/ngpa-pbds-2026-007-virtualization-modernization-solution/)** — `2026-10-30` | `103 Pages`
+- `[`PH-BOI-20705`]` **[TOR-SIEM (1)](https://www.indexdata.org/tor-siem-1/)** — `2026-10-30` | `22 Pages`
+- `[`PH-BOI-20704`]` **[TOR – Virtualization Modernization Solution – Final-Signed (1)](https://www.indexdata.org/tor-virtualization-modernization-solution-final-signed-1/)** — `2026-10-30` | `17 Pages`
+- `[`PH-BOI-20702`]` **[TOR Video wall](https://www.indexdata.org/tor-video-wall/)** — `2026-10-22` | `5 Pages`
+- `[`PH-BOI-20674`]` **[RD 2026 Sep](https://www.indexdata.org/rd-2026-sep/)** — `2026-10-12` | `9 Pages`
+- `[`PH-BOI-20596`]` **[Bid docsBOSS Enhancement](https://www.indexdata.org/bid-docsboss-enhancement/)** — `2026-09-29` | `114 Pages`
+- `[`PH-BOI-20560`]` **[Industry Profile – PLASTICS (JUNE 2026)](https://www.indexdata.org/industry-profile-plastics-june-2026/)** — `2026-09-22` | `2 Pages`
+- `[`PH-BOI-20559`]` **[2026 S&E Industry Profile](https://www.indexdata.org/2026-se-industry-profile/)** — `2026-09-22` | `2 Pages`
+- `[`PH-BOI-20558`]` **[Industry Profile – FURNITURE (JUNE 2026)](https://www.indexdata.org/industry-profile-furniture-june-2026/)** — `2026-09-22` | `2 Pages`
+- `[`PH-BOI-20557`]` **[Footwear Industry Profile Feb2026](https://www.indexdata.org/footwear-industry-profile-feb2026/)** — `2026-09-22` | `2 Pages`
+- `[`PH-BOI-20556`]` **[2026 Textile – Garments Industry Profile (as of 21 May 2026)](https://www.indexdata.org/2026-textile-garments-industry-profile-as-of-21-may-2026/)** — `2026-09-22` | `3 Pages`
+- `[`PH-BOI-20555`]` **[Pharma Industry Profile aoApr2026](https://www.indexdata.org/pharma-industry-profile-aoapr2026/)** — `2026-09-22` | `2 Pages`
+- `[`PH-BOI-20554`]` **[Industry Profile – Chemicals aoJun2026](https://www.indexdata.org/industry-profile-chemicals-aojun2026/)** — `2026-09-22` | `2 Pages`
+- `[`PH-BOI-20552`]` **[Industry Profile – Oleochemicals aoJune 2026](https://www.indexdata.org/industry-profile-oleochemicals-aojune-2026/)** — `2026-09-22` | `2 Pages`
+- `[`PH-BOI-20537`]` **[Draft Guidelines in the Availment of the EDR Incentive](https://www.indexdata.org/draft-guidelines-in-the-availment-of-the-edr-incentive/)** — `2026-09-17` | `7 Pages`
+- `[`PH-BOI-20528`]` **[2026 VAT Zero-Rating Certificate Sept](https://www.indexdata.org/2026-vat-zero-rating-certificate-sept/)** — `2026-09-15` | `17 Pages`
+- `[`PH-BOI-20521`]` **[RD 2026 Aug](https://www.indexdata.org/rd-2026-aug/)** — `2026-09-11` | `8 Pages`
+- `[`PH-BOI-20506`]` **[Draft MC 2026 on ITH IRR Under RA No. 12066](https://www.indexdata.org/draft-mc-2026-on-ith-irr-under-ra-no-12066/)** — `2026-09-10` | `7 Pages`
+- `[`PH-BOI-20502`]` **[Draft MC 2026 Guidelines on SCIT Availment](https://www.indexdata.org/draft-mc-2026-guidelines-on-scit-availment/)** — `2026-09-10` | `6 Pages`
+- `[`PH-BOI-20445`]` **[RFO Building Consolidated for website posting July31](https://www.indexdata.org/rfo-building-consolidated-for-website-posting-july31/)** — `2026-08-14` | `11 Pages`
+- `[`PH-BOI-20444`]` **[RFO Land Consolidated for website posting July31](https://www.indexdata.org/rfo-land-consolidated-for-website-posting-july31/)** — `2026-08-14` | `10 Pages`
+- `[`PH-BOI-20388`]` **[RD Jul 2026](https://www.indexdata.org/rd-jul-2026/)** — `2026-08-11` | `7 Pages`
+- `[`PH-BOI-20326`]` **[SEP SME COMPETE+ Project as of 09 July 2026](https://www.indexdata.org/sep-sme-compete-project-as-of-09-july-2026/)** — `2026-07-28` | `61 Pages`
+- `[`PH-BOI-20325`]` **[ESMS SBC WB COMPETE+ full version as of 09 July 2026](https://www.indexdata.org/esms-sbc-wb-compete-full-version-as-of-09-july-2026/)** — `2026-07-28` | `76 Pages`
+- `[`PH-BOI-20324`]` **[ESCP SME COMPETE+ as of 09 July 2026](https://www.indexdata.org/escp-sme-compete-as-of-09-july-2026/)** — `2026-07-28` | `11 Pages`
+- `[`PH-BOI-20296`]` **[Modifications (1) – Budgetary Modifications](https://www.indexdata.org/modifications-1-budgetary-modifications/)** — `2026-07-22` | `3 Pages`
+
 ### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 
@@ -151,37 +183,6 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-dru
 - `[`PH-FDA-123017`]` **[AFO-AFMD-ACCNTG-AO2(2)](https://www.indexdata.org/afo-afmd-accntg-ao22/)** — `2026-11-03` | `3 Pages`
 - `[`PH-FDA-123008`]` **[Draft Administraive Order for comments](https://www.indexdata.org/draft-administraive-order-for-comments/)** — `2026-11-03` | `12 Pages`
 - `[`PH-FDA-122967`]` **[ITB NO. 2026-0105-AFO SBB No. 3](https://www.indexdata.org/itb-no-2026-0105-afo-sbb-no-3/)** — `2026-10-30` | `2 Pages`
-
-### [Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)
-Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-investments/](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
-
-- `[`PH-BOI-20765`]` **[TOR – MS SQL Terms of Reference](https://www.indexdata.org/tor-ms-sql-terms-of-reference/)** — `2026-11-06` | `3 Pages`
-- `[`PH-BOI-20707`]` **[NGPA PBDs 2026-008 SIEM –](https://www.indexdata.org/ngpa-pbds-2026-008-siem/)** — `2026-10-30` | `105 Pages`
-- `[`PH-BOI-20706`]` **[NGPA PBDs 2026-007 Virtualization Modernization Solution –](https://www.indexdata.org/ngpa-pbds-2026-007-virtualization-modernization-solution/)** — `2026-10-30` | `103 Pages`
-- `[`PH-BOI-20705`]` **[TOR-SIEM (1)](https://www.indexdata.org/tor-siem-1/)** — `2026-10-30` | `22 Pages`
-- `[`PH-BOI-20704`]` **[TOR – Virtualization Modernization Solution – Final-Signed (1)](https://www.indexdata.org/tor-virtualization-modernization-solution-final-signed-1/)** — `2026-10-30` | `17 Pages`
-- `[`PH-BOI-20702`]` **[TOR Video wall](https://www.indexdata.org/tor-video-wall/)** — `2026-10-22` | `5 Pages`
-- `[`PH-BOI-20674`]` **[RD 2026 Sep](https://www.indexdata.org/rd-2026-sep/)** — `2026-10-12` | `9 Pages`
-- `[`PH-BOI-20596`]` **[Bid docsBOSS Enhancement](https://www.indexdata.org/bid-docsboss-enhancement/)** — `2026-09-29` | `114 Pages`
-- `[`PH-BOI-20560`]` **[Industry Profile – PLASTICS (JUNE 2026)](https://www.indexdata.org/industry-profile-plastics-june-2026/)** — `2026-09-22` | `2 Pages`
-- `[`PH-BOI-20559`]` **[2026 S&E Industry Profile](https://www.indexdata.org/2026-se-industry-profile/)** — `2026-09-22` | `2 Pages`
-- `[`PH-BOI-20558`]` **[Industry Profile – FURNITURE (JUNE 2026)](https://www.indexdata.org/industry-profile-furniture-june-2026/)** — `2026-09-22` | `2 Pages`
-- `[`PH-BOI-20557`]` **[Footwear Industry Profile Feb2026](https://www.indexdata.org/footwear-industry-profile-feb2026/)** — `2026-09-22` | `2 Pages`
-- `[`PH-BOI-20556`]` **[2026 Textile – Garments Industry Profile (as of 21 May 2026)](https://www.indexdata.org/2026-textile-garments-industry-profile-as-of-21-may-2026/)** — `2026-09-22` | `3 Pages`
-- `[`PH-BOI-20555`]` **[Pharma Industry Profile aoApr2026](https://www.indexdata.org/pharma-industry-profile-aoapr2026/)** — `2026-09-22` | `2 Pages`
-- `[`PH-BOI-20554`]` **[Industry Profile – Chemicals aoJun2026](https://www.indexdata.org/industry-profile-chemicals-aojun2026/)** — `2026-09-22` | `2 Pages`
-- `[`PH-BOI-20552`]` **[Industry Profile – Oleochemicals aoJune 2026](https://www.indexdata.org/industry-profile-oleochemicals-aojune-2026/)** — `2026-09-22` | `2 Pages`
-- `[`PH-BOI-20537`]` **[Draft Guidelines in the Availment of the EDR Incentive](https://www.indexdata.org/draft-guidelines-in-the-availment-of-the-edr-incentive/)** — `2026-09-17` | `7 Pages`
-- `[`PH-BOI-20528`]` **[2026 VAT Zero-Rating Certificate Sept](https://www.indexdata.org/2026-vat-zero-rating-certificate-sept/)** — `2026-09-15` | `17 Pages`
-- `[`PH-BOI-20521`]` **[RD 2026 Aug](https://www.indexdata.org/rd-2026-aug/)** — `2026-09-11` | `8 Pages`
-- `[`PH-BOI-20506`]` **[Draft MC 2026 on ITH IRR Under RA No. 12066](https://www.indexdata.org/draft-mc-2026-on-ith-irr-under-ra-no-12066/)** — `2026-09-10` | `7 Pages`
-- `[`PH-BOI-20502`]` **[Draft MC 2026 Guidelines on SCIT Availment](https://www.indexdata.org/draft-mc-2026-guidelines-on-scit-availment/)** — `2026-09-10` | `6 Pages`
-- `[`PH-BOI-20445`]` **[RFO Building Consolidated for website posting July31](https://www.indexdata.org/rfo-building-consolidated-for-website-posting-july31/)** — `2026-08-14` | `11 Pages`
-- `[`PH-BOI-20444`]` **[RFO Land Consolidated for website posting July31](https://www.indexdata.org/rfo-land-consolidated-for-website-posting-july31/)** — `2026-08-14` | `10 Pages`
-- `[`PH-BOI-20388`]` **[RD Jul 2026](https://www.indexdata.org/rd-jul-2026/)** — `2026-08-11` | `7 Pages`
-- `[`PH-BOI-20326`]` **[SEP SME COMPETE+ Project as of 09 July 2026](https://www.indexdata.org/sep-sme-compete-project-as-of-09-july-2026/)** — `2026-07-28` | `61 Pages`
-- `[`PH-BOI-20325`]` **[ESMS SBC WB COMPETE+ full version as of 09 July 2026](https://www.indexdata.org/esms-sbc-wb-compete-full-version-as-of-09-july-2026/)** — `2026-07-28` | `76 Pages`
-- `[`PH-BOI-20324`]` **[ESCP SME COMPETE+ as of 09 July 2026](https://www.indexdata.org/escp-sme-compete-as-of-09-july-2026/)** — `2026-07-28` | `11 Pages`
 
 ### [National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/national-privacy-commission/](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
@@ -238,6 +239,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/department-o
 - `[`PH-DA-113806`]` **[Daily Cigarette Price Monitoring November 5, 2026](https://www.indexdata.org/daily-cigarette-price-monitoring-november-5-2026/)** — `2026-11-05` | `15 Pages`
 - `[`PH-DA-113805`]` **[Daily Price Index November 5, 2026](https://www.indexdata.org/daily-price-index-november-5-2026/)** — `2026-11-05` | `12 Pages`
 - `[`PH-DA-113785`]` **[mc51 s2026](https://www.indexdata.org/mc51-s2026/)** — `2026-11-05` | `27 Pages`
+- `[`PH-DA-113778`]` **[Clippings for November 5, 2026](https://www.indexdata.org/clippings-for-november-5-2026/)** — `2026-11-05` | `78 Pages`
 
 ### [Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/philippine-carabao-center/](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)

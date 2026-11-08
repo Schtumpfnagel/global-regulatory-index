@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `3,497` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `3,505` across `29` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md)  
-**Last Automated Sync:** `2026-11-08 16:53 UTC`
+**Last Automated Sync:** `2026-11-08 17:54 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,021` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`858` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`866` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`624` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
 - **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`168` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,497)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,505)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -631,7 +631,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`CELEX-32026R0491`]` **[Commission Implementing Regulation (EU) 2026/491 of 4 March 2026 amending Annex IV to Implementing Regulation (EU) 2021/404 as regards the entries for Argentina and Thailand in the list of third countries or territories, or zones thereof, authorised for the entry into the Union of consignments of certain categories of equine animals, and correcting Annexes XIII and XVIII thereto as regards the entries for Paraguay and the United Arab Emirates in the lists of third countries or territories, or zones thereof, authorised for the entry into the Union of consignments of fresh meat of ungulates and of certain dairy products of camelid animals](https://www.indexdata.org/commission-implementing-regulation-eu-2026-491-of-4-march-2026-amending-annex-iv-to-implementing-regulation-eu-2021-404-as-regards-the-entries-for-argentina-and-thailand-in-the-list/)** — `2026-03-04` | `6 Pages`
 - `[`CELEX-32026R0488`]` **[Commission Implementing Regulation (EU) 2026/488 of 4 March 2026 amending Implementing Regulation (EU) 2025/455 as regards minor change to the Union authorisation of the single biocidal product SatPax® 70/30 IPA](https://www.indexdata.org/commission-implementing-regulation-eu-2026-488-of-4-march-2026-amending-implementing-regulation-eu-2025-455-as-regards-minor-change-to-the-union-authorisation-of-the-single-biocidal-prod/)** — `2026-03-04` | `11 Pages`
 - `[`CELEX-32026R0486`]` **[Commission Implementing Regulation (EU) 2026/486 of 4 March 2026 amending Annex IV to Implementing Regulation (EU) 2021/404 as regards the entry for Malaysia in the list of third countries or territories or zones thereof authorised for the entry into the Union of consignments of equine animals](https://www.indexdata.org/commission-implementing-regulation-eu-2026-486-of-4-march-2026-amending-annex-iv-to-implementing-regulation-eu-2021-404-as-regards-the-entry-for-malaysia-in-the-list-of-third-countr/)** — `2026-03-04` | `3 Pages`
-- `[`CELEX-32026D0526`]` **[Commission Implementing Decision (EU) 2026/526 of 4 March 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 1566)](https://www.indexdata.org/commission-implementing-decision-eu-2026-526-of-4-march-2026-amending-the-annex-to-implementing-decision-eu-2023-2447-concerning-emergency-measures-in-relation-to-outbreaks-of-highly-pat/)** — `2026-03-04` | `51 Pages`
 
 ### [Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/council-of-the-european-union/](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -1509,6 +1508,23 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-ATT-securitisation-product-overview`]` **[EIF Securitisation Overview: Securitisation Product Overview](https://www.indexdata.org/eif-securitisation-overview-securitisation-product-overview/)** — `2026-04-09` | `8 Pages`
 - `[`EIF-GOV-eif-staff-pension-scheme-regulations`]` **[EIF Staff Pension Scheme Regulations](https://www.indexdata.org/eif-staff-pension-scheme-regulations/)** — `2026-03-25` | `42 Pages`
 
+### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
+Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
+
+- `[`EIB-EMN-15737-fhq_r_toolkit_summary_emn_07`]` **[Fhq r Toolkit Summary European Microfinance Network (EMN) 07](https://www.indexdata.org/fhq-r-toolkit-summary-european-microfinance-network-emn-07/)** — `2026-10-30` | `31 Pages`
+- `[`EIB-EMN-15735-r4w_impact_assessment_spain_greece_`]` **[EIB Institute & European Microfinance: R4w Impact Assessment Spain Greece](https://www.indexdata.org/eib-institute-european-microfinance-r4w-impact-assessment-spain-greece/)** — `2026-10-30` | `30 Pages`
+- `[`EIB-EMN-15337-report_25`]` **[EIB Institute & European Microfinance — Report 25](https://www.indexdata.org/eib-institute-european-microfinance-report-25/)** — `2026-09-15` | `84 Pages`
+- `[`EIB-EMN-15334-en_nb_2`]` **[EIB Institute & European Microfinance — En nb 2](https://www.indexdata.org/eib-institute-european-microfinance-en-nb-2/)** — `2026-09-15` | `53 Pages`
+- `[`EIB-EMN-15282-microcredit-regulation-in-europe_2025-1`]` **[EIB Institute & European Microfinance: Microcredit Regulation in Europe 2025 1](https://www.indexdata.org/eib-institute-european-microfinance-microcredit-regulation-in-europe-2025-1/)** — `2026-08-28` | `22 Pages`
+- `[`EIB-EMN-15086-microcredit-regulation-in-europe_2025`]` **[EIB Institute & European Microfinance: Microcredit Regulation in Europe 2025](https://www.indexdata.org/eib-institute-european-microfinance-microcredit-regulation-in-europe-2025/)** — `2026-07-31` | `22 Pages`
+- `[`EIB-EMN-14941-adie-annual_report_2025-pdf`]` **[EIB Institute & European Microfinance: Adie Annual Report 2025.pdf](https://www.indexdata.org/eib-institute-european-microfinance-adie-annual-report-2025-pdf/)** — `2026-07-09` | `24 Pages`
+- `[`EIB-EMN-14885-tors_2026_amfi_final`]` **[EIB Institute & European Microfinance: Tors 2026 Amfi Final](https://www.indexdata.org/eib-institute-european-microfinance-tors-2026-amfi-final/)** — `2026-07-01` | `9 Pages`
+- `[`EIB-DOC-principles-impact-management-en`]` **[EIB Policy Document: Principles Impact Management](https://www.indexdata.org/eib-policy-document-principles-impact-management/)** — `2026-05-13` | `7 Pages`
+- `[`EIB-ELENA-118-project-factsheet-crpigb-cr`]` **[EIB ELENA Factsheet: 118 Project Factsheet Crpigb cr](https://www.indexdata.org/eib-elena-factsheet-118-project-factsheet-crpigb-cr/)** — `2026-04-09` | `2 Pages`
+- `[`EIB-ELENA-138-project-factsheet-residential-energy-rehabilitation-rer`]` **[EIB ELENA Factsheet: 138 Project Factsheet Residential Energy Rehabilitation rer](https://www.indexdata.org/eib-elena-factsheet-138-project-factsheet-residential-energy-rehabilitation-rer/)** — `2026-03-06` | `2 Pages`
+- `[`EIB-ELENA-127-project-factsheet-top-condomini`]` **[EIB ELENA Factsheet: 127 Project Factsheet top Condomini](https://www.indexdata.org/eib-elena-factsheet-127-project-factsheet-top-condomini/)** — `2026-03-06` | `2 Pages`
+- `[`EIB-ELENA-123-project-factsheet-primavera`]` **[EIB ELENA Factsheet: 123 Project Factsheet Primavera](https://www.indexdata.org/eib-elena-factsheet-123-project-factsheet-primavera/)** — `2026-03-05` | `2 Pages`
+
 ### [European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-central-bank-ecb/](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/)
 
@@ -1524,22 +1540,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`CELEX-32026D1520`]` **[Decision (EU) 2026/1520 of the European Central Bank of 23 June 2026 granting authorisation to sign agreements with customers of TARGET-ECB (ECB/2026/14)](https://www.indexdata.org/decision-eu-2026-1520-of-the-european-central-bank-of-23-june-2026-granting-authorisation-to-sign-agreements-with-customers-of-target-ecb-ecb-2026-14/)** — `2026-06-23` | `2 Pages`
 - `[`CELEX-32026D1190`]` **[Decision (EU) 2026/1190 of the European Central Bank of 19 May 2026 amending Decision (EU) 2025/2419 on the approval of the volume of coin issuance in 2026 (ECB/2025/37) (ECB/2026/12)](https://www.indexdata.org/decision-eu-2026-1190-of-the-european-central-bank-of-19-may-2026-amending-decision-eu-2025-2419-on-the-approval-of-the-volume-of-coin-issuance-in-2026-ecb-2025-37-ecb-2026/)** — `2026-05-19` | `2 Pages`
 - `[`CELEX-32026D0812`]` **[Decision (EU) 2026/812 of the European Central Bank of 26 March 2026 amending Decision (EU) 2019/1743 on the remuneration of holdings of excess reserves and of certain deposits (ECB/2019/31) (ECB/2026/10)](https://www.indexdata.org/decision-eu-2026-812-of-the-european-central-bank-of-26-march-2026-amending-decision-eu-2019-1743-on-the-remuneration-of-holdings-of-excess-reserves-and-of-certain-deposits-ecb-201/)** — `2026-03-26` | `3 Pages`
-
-### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
-Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
-
-- `[`EIB-EMN-15737-fhq_r_toolkit_summary_emn_07`]` **[Fhq r Toolkit Summary European Microfinance Network (EMN) 07](https://www.indexdata.org/fhq-r-toolkit-summary-european-microfinance-network-emn-07/)** — `2026-10-30` | `31 Pages`
-- `[`EIB-EMN-15735-r4w_impact_assessment_spain_greece_`]` **[EIB Institute & European Microfinance: R4w Impact Assessment Spain Greece](https://www.indexdata.org/eib-institute-european-microfinance-r4w-impact-assessment-spain-greece/)** — `2026-10-30` | `30 Pages`
-- `[`EIB-EMN-15337-report_25`]` **[EIB Institute & European Microfinance — Report 25](https://www.indexdata.org/eib-institute-european-microfinance-report-25/)** — `2026-09-15` | `84 Pages`
-- `[`EIB-EMN-15334-en_nb_2`]` **[EIB Institute & European Microfinance — En nb 2](https://www.indexdata.org/eib-institute-european-microfinance-en-nb-2/)** — `2026-09-15` | `53 Pages`
-- `[`EIB-EMN-15282-microcredit-regulation-in-europe_2025-1`]` **[EIB Institute & European Microfinance: Microcredit Regulation in Europe 2025 1](https://www.indexdata.org/eib-institute-european-microfinance-microcredit-regulation-in-europe-2025-1/)** — `2026-08-28` | `22 Pages`
-- `[`EIB-EMN-15086-microcredit-regulation-in-europe_2025`]` **[EIB Institute & European Microfinance: Microcredit Regulation in Europe 2025](https://www.indexdata.org/eib-institute-european-microfinance-microcredit-regulation-in-europe-2025/)** — `2026-07-31` | `22 Pages`
-- `[`EIB-EMN-14941-adie-annual_report_2025-pdf`]` **[EIB Institute & European Microfinance: Adie Annual Report 2025.pdf](https://www.indexdata.org/eib-institute-european-microfinance-adie-annual-report-2025-pdf/)** — `2026-07-09` | `24 Pages`
-- `[`EIB-DOC-principles-impact-management-en`]` **[EIB Policy Document: Principles Impact Management](https://www.indexdata.org/eib-policy-document-principles-impact-management/)** — `2026-05-13` | `7 Pages`
-- `[`EIB-ELENA-118-project-factsheet-crpigb-cr`]` **[EIB ELENA Factsheet: 118 Project Factsheet Crpigb cr](https://www.indexdata.org/eib-elena-factsheet-118-project-factsheet-crpigb-cr/)** — `2026-04-09` | `2 Pages`
-- `[`EIB-ELENA-138-project-factsheet-residential-energy-rehabilitation-rer`]` **[EIB ELENA Factsheet: 138 Project Factsheet Residential Energy Rehabilitation rer](https://www.indexdata.org/eib-elena-factsheet-138-project-factsheet-residential-energy-rehabilitation-rer/)** — `2026-03-06` | `2 Pages`
-- `[`EIB-ELENA-127-project-factsheet-top-condomini`]` **[EIB ELENA Factsheet: 127 Project Factsheet top Condomini](https://www.indexdata.org/eib-elena-factsheet-127-project-factsheet-top-condomini/)** — `2026-03-06` | `2 Pages`
-- `[`EIB-ELENA-123-project-factsheet-primavera`]` **[EIB ELENA Factsheet: 123 Project Factsheet Primavera](https://www.indexdata.org/eib-elena-factsheet-123-project-factsheet-primavera/)** — `2026-03-05` | `2 Pages`
 
 ### [European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-environment-agency-eea/](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/)
