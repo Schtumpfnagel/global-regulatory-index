@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `194` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-08 16:01 UTC`
+**Total Indexed Dossiers in Philippines:** `196` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-08 16:53 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (11 Authorities)
 
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`49` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
-- **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
+- **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–194 of 194)
+## Indexed Statutory & Regulatory Dossiers (Records 1–196 of 196)
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
@@ -117,6 +117,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-
 - `[`PH-CDA-70431`]` **[UPDATED CDA APP NON CSE 2026 (version 1)](https://www.indexdata.org/updated-cda-app-non-cse-2026-version-1/)** — `2026-09-07` | `14 Pages`
 - `[`PH-CDA-70412`]` **[CDA ROV APP-CSE 2027](https://www.indexdata.org/cda-rov-app-cse-2027/)** — `2026-09-03` | `9 Pages`
 - `[`PH-CDA-70204`]` **[CDA REGION IX SHOWCASES LOCAL COCONUT PRODUCTS AT NATIONAL COCONUT WEEK 2026 EXHIBITION](https://www.indexdata.org/cda-region-ix-showcases-local-coconut-products-at-national-coconut-week-2026-exhibition/)** — `2026-08-19` | `3 Pages`
+- `[`PH-CDA-70153`]` **[Article–Courtesy Call Across R9 for the CDA LGU](https://www.indexdata.org/article-courtesy-call-across-r9-for-the-cda-lgu/)** — `2026-08-18` | `3 Pages`
+- `[`PH-CDA-70137`]` **[CDA Strengthens Coconut Farmers Cooperatives Through Business Planning and Financial Management Seminar](https://www.indexdata.org/cda-strengthens-coconut-farmers-cooperatives-through-business-planning-and-financial-management-seminar/)** — `2026-08-18` | `4 Pages`
 
 ### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
