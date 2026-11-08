@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `3,444` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `3,451` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | **[Part 2 (Current)]** | [Part 3](european-union-part-3.md)  
-**Last Automated Sync:** `2026-11-08 10:55 UTC`
+**Last Automated Sync:** `2026-11-08 11:56 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,021` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`807` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`813` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`624` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
-- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`166` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
+- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`167` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 - **[European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/) | [Wikidata `Q130146`](https://www.wikidata.org/wiki/Q130146)
 - **[European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,444)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,451)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -555,6 +555,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-POD-monster-under-the-bed-episode-6-transcript`]` **[EIB Policy Transcript: Monster Under the bed Episode 6 Transcript](https://www.indexdata.org/eib-policy-transcript-monster-under-the-bed-episode-6-transcript/)** — `2025-04-15` | `14 Pages`
 - `[`EIB-POD-monster-under-the-bed-episode-5-transcript`]` **[EIB Policy Transcript: Monster Under the bed Episode 5 Transcript](https://www.indexdata.org/eib-policy-transcript-monster-under-the-bed-episode-5-transcript/)** — `2025-04-15` | `14 Pages`
 - `[`EIB-POD-monster-under-the-bed-episode-4-transcript`]` **[EIB Policy Transcript: Monster Under the bed Episode 4 Transcript](https://www.indexdata.org/eib-policy-transcript-monster-under-the-bed-episode-4-transcript/)** — `2025-04-15` | `12 Pages`
+- `[`EIB-POD-monster-under-the-bed-episode-3-transcript`]` **[EIB Policy Transcript: Monster Under the bed Episode 3 Transcript](https://www.indexdata.org/eib-policy-transcript-monster-under-the-bed-episode-3-transcript/)** — `2025-04-15` | `16 Pages`
 - `[`EIB-PIPE-91_nts_en`]` **[EIB Project Environmental Assessment: 91 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-91-non-technical-summary-nts/)** — `2025-04-15` | `21 Pages`
 - `[`EIB-PIPE-902_epb3_en`]` **[EIB Project Environmental Assessment — 902 Epb3](https://www.indexdata.org/eib-project-environmental-assessment-902-epb3/)** — `2025-04-15` | `3 Pages`
 - `[`EIB-PIPE-902_epb2_en`]` **[EIB Project Environmental Assessment — 902 Epb2](https://www.indexdata.org/eib-project-environmental-assessment-902-epb2/)** — `2025-04-15` | `42 Pages`
@@ -594,6 +595,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-PIPE-20110457_nts_en`]` **[EIB Project Environmental Assessment: 20110457 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20110457-non-technical-summary-nts/)** — `2025-04-15` | `3 Pages`
 - `[`EIB-PIPE-20110440_nts_en`]` **[EIB Project Environmental Assessment: 20110440 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20110440-non-technical-summary-nts/)** — `2025-04-15` | `9 Pages`
 - `[`EIB-PIPE-20110395_nts_en`]` **[EIB Project Environmental Assessment: 20110395 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20110395-non-technical-summary-nts/)** — `2025-04-15` | `5 Pages`
+- `[`EIB-PIPE-20110392_nts_en`]` **[EIB Project Environmental Assessment: 20110392 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20110392-non-technical-summary-nts/)** — `2025-04-15` | `18 Pages`
 - `[`EIB-EVT-warsaw_programme_english`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_programme_en`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme-2/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_26112010_wisniewski_en`]` **[EIB Policy Conference: Warsaw 26112010 Wisniewski](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-wisniewski/)** — `2025-04-15` | `9 Pages`
@@ -611,6 +613,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-warsaw_26112010_kallas_en`]` **[EIB Policy Conference: Warsaw 26112010 Kallas](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-kallas/)** — `2025-04-15` | `18 Pages`
 - `[`EIB-EVT-warsaw_26112010_erhardt_en`]` **[EIB Policy Conference: Warsaw 26112010 Erhardt](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-erhardt/)** — `2025-04-15` | `9 Pages`
 - `[`EIB-EVT-warsaw_26112010_engelhardt_en`]` **[EIB Policy Conference: Warsaw 26112010 Engelhardt](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-engelhardt/)** — `2025-04-15` | `16 Pages`
+- `[`EIB-EVT-warsaw_26112010_buzek_en`]` **[EIB Policy Conference: Warsaw 26112010 Buzek](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-buzek/)** — `2025-04-15` | `9 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -905,9 +908,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-GOV-ca_provisional_summary_20080213_en`]` **[EIB Board of Directors: Ca Provisional Summary 20080213](https://www.indexdata.org/eib-board-of-directors-ca-provisional-summary-20080213/)** — `2025-04-14` | `7 Pages`
 - `[`EIB-GOV-ca_provisional_summary_20071211_en`]` **[EIB Board of Directors: Ca Provisional Summary 20071211](https://www.indexdata.org/eib-board-of-directors-ca-provisional-summary-20071211/)** — `2025-04-14` | `6 Pages`
 - `[`EIB-EXT-testing-the-application-of-the-eu-taxonomy-to-core-banking`]` **[EIB Sustainable Finance: Testing the Application of the EU Taxonomy to Core Banking](https://www.indexdata.org/eib-sustainable-finance-testing-the-application-of-the-eu-taxonomy-to-core-banking/)** — `2025-04-14` | `96 Pages`
-- `[`EIB-EXT-letter_to_mr_derwent_17112011`]` **[EIB Sustainable Finance: Letter to mr Derwent 17112011](https://www.indexdata.org/eib-sustainable-finance-letter-to-mr-derwent-17112011/)** — `2025-04-14` | `2 Pages`
-- `[`EIB-EXT-eib-group-breakfast-briefing-eif-and-sustainable-financing-opportunities-20-05-2022`]` **[EIB Group Breakfast Briefing EIF and Sustainable Financing Opportunities 20 05 2022](https://www.indexdata.org/eib-group-breakfast-briefing-eif-and-sustainable-financing-opportunities-20-05-2022/)** — `2025-04-14` | `25 Pages`
-- `[`EIB-EXT-ecb-report-institutions-climate-related-environmental-risk`]` **[EIB Sustainable Finance: Ecb Report Institutions Climate Related Environmental Risk](https://www.indexdata.org/eib-sustainable-finance-ecb-report-institutions-climate-related-environmental-risk/)** — `2025-04-14` | `32 Pages`
 
 ### [European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
