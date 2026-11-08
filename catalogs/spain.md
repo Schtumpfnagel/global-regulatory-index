@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/spain/feed/](https://www.indexdata.org/spain/feed/)  
 **Wikidata Sovereign Entity:** [`Q29`](https://www.wikidata.org/wiki/Q29)  
 **Governing Open-Government Framework:** *Art. 13 TRLPI (RDL 1/1996) & Law 37/2007 on Re-use of Public Sector Information (RD 1495/2011)*  
-**Total Indexed Dossiers in Spain:** `35` across `8` issuing authorities  
-**Last Automated Sync:** `2026-11-08 00:58 UTC`
+**Total Indexed Dossiers in Spain:** `37` across `8` issuing authorities  
+**Last Automated Sync:** `2026-11-08 01:54 UTC`
 
 ---
 
@@ -14,8 +14,8 @@
 
 - **[National Institute of Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
 - **[Center for Energy, Environmental and Technological Research (CIEMAT)](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/) | [RSS Feed](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/feed/)
-- **[Government of Spain (Datos.gob.es)](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/) | [RSS Feed](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/feed/)
-- **[Ombudsman of Spain (Defensor del Pueblo)](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/) | [RSS Feed](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/feed/)
+- **[Government of Spain (Datos.gob.es)](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/) | [RSS Feed](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/feed/)
+- **[Ombudsman of Spain (Defensor del Pueblo)](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/) | [RSS Feed](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/feed/)
 - **[Spanish National Research Council (CSIC)](https://www.indexdata.org/spain/spanish-national-research-council-csic/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/spain/spanish-national-research-council-csic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-research-council-csic/feed/)
 - **[Spanish National Center for Cardiovascular Research (CNIC)](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/feed/)
 - **[Ministry of Culture (Ministerio de Cultura)](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/) | [RSS Feed](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/feed/)
@@ -23,7 +23,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–35 of 35)
+## Indexed Statutory & Regulatory Dossiers (Records 1–37 of 37)
 
 ### [National Institute of Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)
 Canonical Authority Archive: [https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
@@ -56,6 +56,7 @@ Canonical Authority Archive: [https://www.indexdata.org/spain/government-of-spai
 - `[`ES-EUODP-https-datos-madrid-es-dataset-300322-0-oficinas-contrib`]` **[Offices of Integral Attention to the Taxpayer (OAIC)](https://www.indexdata.org/offices-of-integral-attention-to-the-taxpayer-oaic/)** — `2026-10-24` | `4 Pages`
 - `[`ES-EUODP-https-datos-madrid-es-dataset-300261-0-agenda-proximas`]` **[Upcoming Urban Careers](https://www.indexdata.org/upcoming-urban-careers/)** — `2026-10-24` | `3 Pages`
 - `[`ES-EUODP-https-datos-madrid-es-dataset-217921-0-salas-estudio`]` **[Study and reading rooms](https://www.indexdata.org/study-and-reading-rooms/)** — `2026-10-24` | `2 Pages`
+- `[`ES-EUODP-https-datos-madrid-es-dataset-212904-0-centros-ensenanz`]` **[Headquarters. Schools](https://www.indexdata.org/headquarters-schools/)** — `2026-10-24` | `2 Pages`
 - `[`ES-EUODP-https-datos-madrid-es-dataset-232993-0-normativa-munici`]` **[Municipal regulations](https://www.indexdata.org/municipal-regulations/)** — `2026-10-17` | `3 Pages`
 
 ### [Ombudsman of Spain (Defensor del Pueblo)](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/)
@@ -67,6 +68,7 @@ Canonical Authority Archive: [https://www.indexdata.org/spain/ombudsman-of-spain
 - `[`ES-DEFENSOR-5418`]` **[Informe_2023_MNP_eng](https://www.indexdata.org/informe_2023_mnp_eng/)** — `2024-12-16` | `103 Pages`
 - `[`ES-DEFENSOR-5381`]` **[RESUMEN_Informe_2022_MNP_ENG](https://www.indexdata.org/resumen_informe_2022_mnp_eng/)** — `2023-07-25` | `60 Pages`
 - `[`ES-DEFENSOR-5291`]` **[Resumen MNP 2021_ingles](https://www.indexdata.org/resumen-mnp-2021_ingles/)** — `2022-09-22` | `99 Pages`
+- `[`ES-DEFENSOR-5181`]` **[Executive Summary 2021 Annual Report](https://www.indexdata.org/executive-summary-2021-annual-report/)** — `2022-05-03` | `10 Pages`
 
 ### [Spanish National Research Council (CSIC)](https://www.indexdata.org/spain/spanish-national-research-council-csic/)
 Canonical Authority Archive: [https://www.indexdata.org/spain/spanish-national-research-council-csic/](https://www.indexdata.org/spain/spanish-national-research-council-csic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-research-council-csic/feed/)

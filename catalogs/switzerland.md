@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/switzerland/feed/](https://www.indexdata.org/switzerland/feed/)  
 **Wikidata Sovereign Entity:** [`Q39`](https://www.wikidata.org/wiki/Q39)  
 **Governing Open-Government Framework:** *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)*  
-**Total Indexed Dossiers in Switzerland:** `181` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-08 00:58 UTC`
+**Total Indexed Dossiers in Switzerland:** `182` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-08 01:54 UTC`
 
 ---
 
@@ -14,13 +14,13 @@
 
 - **[Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
 - **[Federal Department of Justice and Police (FDJP)](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/feed/)
-- **[EnviDat: the Environmental Data Portal](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/) | [RSS Feed](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/feed/)
+- **[EnviDat: the Environmental Data Portal](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/) | [RSS Feed](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/feed/)
 - **[Federal Department of Economic Affairs, Education and Research (EAER)](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/feed/)
 - **[Federal Department of Home Affairs (FDHA)](https://www.indexdata.org/switzerland/federal-department-of-home-affairs-fdha/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-home-affairs-fdha/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-home-affairs-fdha/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–181 of 181)
+## Indexed Statutory & Regulatory Dossiers (Records 1–182 of 182)
 
 ### [Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)
 Canonical Authority Archive: [https://www.indexdata.org/switzerland/federal-statistical-office-fso/](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
@@ -206,6 +206,7 @@ Canonical Authority Archive: [https://www.indexdata.org/switzerland/envidat-the-
 - `[`CH-OGD-d7f3b04b-ebec-42`]` **[Stumps as a dead wood resource in forests - data based on the Swiss National Forest Inventory](https://www.indexdata.org/stumps-as-a-dead-wood-resource-in-forests-data-based-on-the-swiss-national-forest-inventory/)** — `2026-06-09` | `17 Pages`
 - `[`CH-OGD-d3e28347-7214-4a`]` **[Genomics and Adaptation in Forest Ecosystems. Book of Abstracts. EvolTree Conference 2021, 14 – 17 September 2021, Birmensdorf, Switzerland](https://www.indexdata.org/genomics-and-adaptation-in-forest-ecosystems-book-of-abstracts-evoltree-conference-2021-14-17-september-2021-birmensdorf-switzerland/)** — `2026-06-09` | `94 Pages`
 - `[`CH-OGD-d0224393-91d5-45`]` **[UAV-derived Digital Surface Models and orthoimages for three alpine glaciers](https://www.indexdata.org/uav-derived-digital-surface-models-and-orthoimages-for-three-alpine-glaciers/)** — `2026-06-09` | `16 Pages`
+- `[`CH-OGD-cab1471a-613f-4e`]` **[Experts survey protective forest and combined extremes in Val Mesolcina](https://www.indexdata.org/experts-survey-protective-forest-and-combined-extremes-in-val-mesolcina/)** — `2026-06-09` | `3 Pages`
 
 ### [Federal Department of Economic Affairs, Education and Research (EAER)](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/)
 Canonical Authority Archive: [https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/feed/)
