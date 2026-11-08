@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,262` across `34` issuing authorities  
-**Last Automated Sync:** `2026-11-08 17:54 UTC`
+**Total Indexed Dossiers in Australia:** `1,266` across `34` issuing authorities  
+**Last Automated Sync:** `2026-11-08 18:55 UTC`
 
 ---
 
@@ -34,9 +34,9 @@
 - **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
 - **[Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
 - **[Department of Industry, Science and Resources](https://www.indexdata.org/australia/department-of-industry-science-and-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-industry-science-and-resources/) | [RSS Feed](https://www.indexdata.org/australia/department-of-industry-science-and-resources/feed/)
+- **[Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
 - **[Department of the Prime Minister and Cabinet](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/feed/)
 - **[Aestra](https://www.indexdata.org/australia/aestra/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/australia/aestra/) | [RSS Feed](https://www.indexdata.org/australia/aestra/feed/)
-- **[Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
 - **[Northern Territory — Health](https://www.indexdata.org/australia/northern-territory-health/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-health/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-health/feed/)
 - **[Northern Territory — People, Sport and Culture](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/feed/)
 - **[Northern Territory — Corrections](https://www.indexdata.org/australia/northern-territory-corrections/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-corrections/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-corrections/feed/)
@@ -49,7 +49,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,262 of 1,262)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,266 of 1,266)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1353,6 +1353,20 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-
 - `[`F2026N00520`]` **[Net Zero Economy Authority (Gladstone Power Station Geographic Area) Notifiable Instrument 2026](https://www.indexdata.org/net-zero-economy-authority-gladstone-power-station-geographic-area-notifiable-instrument-2026/)** — `2026-07-17` | `3 Pages`
 - `[`F2026N00519`]` **[Net Zero Economy Authority (Gladstone Power Station Trigger Notice) Notifiable Instrument 2026](https://www.indexdata.org/net-zero-economy-authority-gladstone-power-station-trigger-notice-notifiable-instrument-2026/)** — `2026-07-17` | `5 Pages`
 
+### [Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
+
+- `[`AU-DATA-d7992845-5d3b-4868-b012`]` **[ACNC 2014 Annual Information Statement data — Explanatory guide](https://www.indexdata.org/acnc-2014-annual-information-statement-data-explanatory-guide/)** — `2026-11-08` | `19 Pages`
+- `[`AU-DATA-cc9d8524-39d8-4374-84b9`]` **[ACNC 2013 Annual Information Statement data — User notes](https://www.indexdata.org/acnc-2013-annual-information-statement-data-user-notes/)** — `2026-11-08` | `12 Pages`
+- `[`AU-DATA-86cad799-2601-4f23-b02c`]` **[ACNC 2015 Annual Information Statement Data — Explanatory notes - 2015 AIS dataset](https://www.indexdata.org/acnc-2015-annual-information-statement-data-explanatory-notes-2015-ais-dataset/)** — `2026-11-08` | `20 Pages`
+- `[`AU-DATA-7e073d71-4eef-4f0c-921b`]` **[ACNC 2016 Annual Information Statement Data — Explanatory notes - 2016 AIS dataset](https://www.indexdata.org/acnc-2016-annual-information-statement-data-explanatory-notes-2016-ais-dataset/)** — `2026-11-08` | `23 Pages`
+- `[`AU-DATA-ff6905d6-9d5d-4ef1-8478`]` **[ACNC 2023 Annual Information Statement (AIS) Data — Explanatory notes_2023 AIS data](https://www.indexdata.org/acnc-2023-annual-information-statement-ais-data-explanatory-notes_2023-ais-data/)** — `2026-11-01` | `22 Pages`
+- `[`AU-DATA-db8def1b-b3ba-4536-98eb`]` **[ACNC 2021 Annual Information Statement (AIS) Data — Explanatory notes](https://www.indexdata.org/acnc-2021-annual-information-statement-ais-data-explanatory-notes/)** — `2026-11-01` | `24 Pages`
+- `[`AU-DATA-b050b242-4487-4306-abf5`]` **[ACNC Registered Charities — User notes](https://www.indexdata.org/acnc-registered-charities-user-notes/)** — `2026-11-01` | `6 Pages`
+- `[`AU-DATA-34b35c52-8af0-4cc1-aa0b`]` **[ACNC 2019 Annual Information Statement Data — Explanatory notes](https://www.indexdata.org/acnc-2019-annual-information-statement-data-explanatory-notes/)** — `2026-11-01` | `20 Pages`
+- `[`AU-DATA-28a94374-d516-4200-a6f8`]` **[ACNC 2020 Annual Information Statement (AIS) Data — Explanatory notes](https://www.indexdata.org/acnc-2020-annual-information-statement-ais-data-explanatory-notes/)** — `2026-11-01` | `24 Pages`
+- `[`AU-DATA-276ec1bc-4971-461c-88bc`]` **[ACNC 2024 Annual Information Statement (AIS) Data — Explanatory notes](https://www.indexdata.org/acnc-2024-annual-information-statement-ais-data-explanatory-notes/)** — `2026-11-01` | `19 Pages`
+
 ### [Department of the Prime Minister and Cabinet](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/feed/)
 
@@ -1376,16 +1390,6 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/aestra/](https
 - `[`AU-GBRMPA-11017-4175`]` **[Bridled tern survey report – Bajigal and Bimi (supplementary island threat assessment)](https://www.indexdata.org/bridled-tern-survey-report-bajigal-and-bimi-supplementary-island-threat-assessment/)** — `2026-01-01` | `71 Pages`
 - `[`AU-GBRMPA-11017-4174`]` **[Bimi vegetation assessment (supplementary island threat assessment)](https://www.indexdata.org/bimi-vegetation-assessment-supplementary-island-threat-assessment/)** — `2026-01-01` | `34 Pages`
 - `[`AU-GBRMPA-11017-4172`]` **[Ecological Assessment for BAJIGAL (Stephens Island)](https://www.indexdata.org/ecological-assessment-for-bajigal-stephens-island/)** — `2026-01-01` | `112 Pages`
-
-### [Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
-
-- `[`AU-DATA-ff6905d6-9d5d-4ef1-8478`]` **[ACNC 2023 Annual Information Statement (AIS) Data — Explanatory notes_2023 AIS data](https://www.indexdata.org/acnc-2023-annual-information-statement-ais-data-explanatory-notes_2023-ais-data/)** — `2026-11-01` | `22 Pages`
-- `[`AU-DATA-db8def1b-b3ba-4536-98eb`]` **[ACNC 2021 Annual Information Statement (AIS) Data — Explanatory notes](https://www.indexdata.org/acnc-2021-annual-information-statement-ais-data-explanatory-notes/)** — `2026-11-01` | `24 Pages`
-- `[`AU-DATA-b050b242-4487-4306-abf5`]` **[ACNC Registered Charities — User notes](https://www.indexdata.org/acnc-registered-charities-user-notes/)** — `2026-11-01` | `6 Pages`
-- `[`AU-DATA-34b35c52-8af0-4cc1-aa0b`]` **[ACNC 2019 Annual Information Statement Data — Explanatory notes](https://www.indexdata.org/acnc-2019-annual-information-statement-data-explanatory-notes/)** — `2026-11-01` | `20 Pages`
-- `[`AU-DATA-28a94374-d516-4200-a6f8`]` **[ACNC 2020 Annual Information Statement (AIS) Data — Explanatory notes](https://www.indexdata.org/acnc-2020-annual-information-statement-ais-data-explanatory-notes/)** — `2026-11-01` | `24 Pages`
-- `[`AU-DATA-276ec1bc-4971-461c-88bc`]` **[ACNC 2024 Annual Information Statement (AIS) Data — Explanatory notes](https://www.indexdata.org/acnc-2024-annual-information-statement-ais-data-explanatory-notes/)** — `2026-11-01` | `19 Pages`
 
 ### [Northern Territory — Health](https://www.indexdata.org/australia/northern-territory-health/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-health/](https://www.indexdata.org/australia/northern-territory-health/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-health/feed/)

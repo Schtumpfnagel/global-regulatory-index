@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `3,505` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `3,513` across `29` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md)  
-**Last Automated Sync:** `2026-11-08 17:54 UTC`
+**Last Automated Sync:** `2026-11-08 18:55 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,021` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`866` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`874` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`624` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
 - **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`168` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,505)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,513)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -1328,7 +1328,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`CELEX-32026D0517`]` **[Commission Implementing Decision (EU) 2026/517 of 10 March 2026 authorising the placing on the market of products containing, consisting of or produced from genetically modified soybean DBN-09004-6 pursuant to Regulation (EC) No 1829/2003 of the European Parliament and of the Council (notified under document C(2026) 1496)](https://www.indexdata.org/commission-implementing-decision-eu-2026-517-of-10-march-2026-authorising-the-placing-on-the-market-of-products-containing-consisting-of-or-produced-from-genetically-modified-soybean-dbn-09004/)** — `2026-03-10` | `6 Pages`
 - `[`CELEX-32026R0545`]` **[Commission Implementing Regulation (EU) 2026/545 of 5 March 2026 on the registration of the geographical indication Adana Şalgamı (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council](https://www.indexdata.org/commission-implementing-regulation-eu-2026-545-of-5-march-2026-on-the-registration-of-the-geographical-indication-adana-salgami-pgi-in-the-union-register-of-geographical-indications-pursuant/)** — `2026-03-05` | `2 Pages`
 - `[`CELEX-32026R0497`]` **[Commission Delegated Regulation (EU) 2026/497 of 4 March 2026 amending Regulation (EU) 2023/2053 of the European Parliament and of the Council as regards the management of bluefin tuna in the eastern Atlantic and in the Mediterranean](https://www.indexdata.org/commission-delegated-regulation-eu-2026-497-of-4-march-2026-amending-regulation-eu-2023-2053-of-the-european-parliament-and-of-the-council-as-regards-the-management-of-bluefin-tuna-in-th/)** — `2026-03-04` | `5 Pages`
-- `[`CELEX-32026D0583`]` **[Commission Implementing Decision (EU) 2026/583 of 4 March 2026 on the request for registration of the European citizens’ initiative entitled European Public Social Network, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council (notified under document C(2026) 1492)](https://www.indexdata.org/commission-implementing-decision-eu-2026-583-of-4-march-2026-on-the-request-for-registration-of-the-european-citizens-initiative-entitled-european-public-social-network-pursuant-to-re/)** — `2026-03-04` | `2 Pages`
 
 ### [European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-medicines-agency-ema/](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/)
@@ -1519,6 +1518,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EMN-15086-microcredit-regulation-in-europe_2025`]` **[EIB Institute & European Microfinance: Microcredit Regulation in Europe 2025](https://www.indexdata.org/eib-institute-european-microfinance-microcredit-regulation-in-europe-2025/)** — `2026-07-31` | `22 Pages`
 - `[`EIB-EMN-14941-adie-annual_report_2025-pdf`]` **[EIB Institute & European Microfinance: Adie Annual Report 2025.pdf](https://www.indexdata.org/eib-institute-european-microfinance-adie-annual-report-2025-pdf/)** — `2026-07-09` | `24 Pages`
 - `[`EIB-EMN-14885-tors_2026_amfi_final`]` **[EIB Institute & European Microfinance: Tors 2026 Amfi Final](https://www.indexdata.org/eib-institute-european-microfinance-tors-2026-amfi-final/)** — `2026-07-01` | `9 Pages`
+- `[`EIB-EMN-14812-bilancio-sostenibilita-2025_permicro_web`]` **[EIB Institute & European Microfinance: Bilancio Sostenibilita 2025 Permicro web](https://www.indexdata.org/eib-institute-european-microfinance-bilancio-sostenibilita-2025-permicro-web/)** — `2026-06-23` | `35 Pages`
 - `[`EIB-DOC-principles-impact-management-en`]` **[EIB Policy Document: Principles Impact Management](https://www.indexdata.org/eib-policy-document-principles-impact-management/)** — `2026-05-13` | `7 Pages`
 - `[`EIB-ELENA-118-project-factsheet-crpigb-cr`]` **[EIB ELENA Factsheet: 118 Project Factsheet Crpigb cr](https://www.indexdata.org/eib-elena-factsheet-118-project-factsheet-crpigb-cr/)** — `2026-04-09` | `2 Pages`
 - `[`EIB-ELENA-138-project-factsheet-residential-energy-rehabilitation-rer`]` **[EIB ELENA Factsheet: 138 Project Factsheet Residential Energy Rehabilitation rer](https://www.indexdata.org/eib-elena-factsheet-138-project-factsheet-residential-energy-rehabilitation-rer/)** — `2026-03-06` | `2 Pages`
