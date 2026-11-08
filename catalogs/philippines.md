@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `198` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-08 18:55 UTC`
+**Total Indexed Dossiers in Philippines:** `200` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-08 19:15 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
-- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
+- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 - **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 - **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–198 of 198)
+## Indexed Statutory & Regulatory Dossiers (Records 1–200 of 200)
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
@@ -240,6 +240,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/department-o
 - `[`PH-DA-113805`]` **[Daily Price Index November 5, 2026](https://www.indexdata.org/daily-price-index-november-5-2026/)** — `2026-11-05` | `12 Pages`
 - `[`PH-DA-113785`]` **[mc51 s2026](https://www.indexdata.org/mc51-s2026/)** — `2026-11-05` | `27 Pages`
 - `[`PH-DA-113778`]` **[Clippings for November 5, 2026](https://www.indexdata.org/clippings-for-november-5-2026/)** — `2026-11-05` | `78 Pages`
+- `[`PH-DA-113766`]` **[Price Monitoring November 4, 2026](https://www.indexdata.org/price-monitoring-november-4-2026/)** — `2026-11-04` | `6 Pages`
+- `[`PH-DA-113763`]` **[Daily Cigarette Price Monitoring November 4, 2026](https://www.indexdata.org/daily-cigarette-price-monitoring-november-4-2026/)** — `2026-11-04` | `15 Pages`
 
 ### [Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/philippine-carabao-center/](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)

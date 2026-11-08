@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q213`](https://www.wikidata.org/wiki/Q213)  
 **Governing Open-Government Framework:** *Act No. 121/2000 Coll., § 3(a) & Act No. 106/1999 Coll. (CC BY 4.0 / Public Domain)*  
 **Total Indexed Dossiers in Czechia:** `36` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-08 18:55 UTC`
+**Last Automated Sync:** `2026-11-08 19:15 UTC`
 
 ---
 
