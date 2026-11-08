@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `3,531` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `3,538` across `29` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md)  
-**Last Automated Sync:** `2026-11-08 20:23 UTC`
+**Last Automated Sync:** `2026-11-08 21:32 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,021` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`891` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`898` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`624` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
 - **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`169` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,531)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,538)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -628,7 +628,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`CELEX-32026R0700`]` **[Commission Implementing Regulation (EU) 2026/700 of 4 March 2026 amending Implementing Regulation (EU) 2024/2651 as regards administrative changes to the Union authorisation of the biocidal product family Taski-Room Care-Suma Family based on Lactic Acid](https://www.indexdata.org/commission-implementing-regulation-eu-2026-700-of-4-march-2026-amending-implementing-regulation-eu-2024-2651-as-regards-administrative-changes-to-the-union-authorisation-of-the-biocidal/)** — `2026-03-04` | `53 Pages`
 - `[`CELEX-32026R0665`]` **[Commission Implementing Regulation (EU) 2026/665 of 4 March 2026 amending Implementing Regulation (EU) 2022/2552 as regards the technical specifications of data requirements for the detailed topic industrial production statistics establishing the industrial products classification breakdown](https://www.indexdata.org/commission-implementing-regulation-eu-2026-665-of-4-march-2026-amending-implementing-regulation-eu-2022-2552-as-regards-the-technical-specifications-of-data-requirements-for-the-detailed/)** — `2026-03-04` | `271 Pages`
 - `[`CELEX-32026R0520`]` **[Commission Implementing Regulation (EU) 2026/520 of 4 March 2026 amending Annexes XIV and XV to Implementing Regulation (EU) 2021/404 as regards the entries for Argentina and Bosnia and Herzegovina in the lists of third countries, territories or zones thereof authorised for the entry into the Union of consignments of fresh meat of poultry and game birds and of meat products from poultry](https://www.indexdata.org/commission-implementing-regulation-eu-2026-520-of-4-march-2026-amending-annexes-xiv-and-xv-to-implementing-regulation-eu-2021-404-as-regards-the-entries-for-argentina-and-bosnia-and/)** — `2026-03-04` | `4 Pages`
-- `[`CELEX-32026R0491`]` **[Commission Implementing Regulation (EU) 2026/491 of 4 March 2026 amending Annex IV to Implementing Regulation (EU) 2021/404 as regards the entries for Argentina and Thailand in the list of third countries or territories, or zones thereof, authorised for the entry into the Union of consignments of certain categories of equine animals, and correcting Annexes XIII and XVIII thereto as regards the entries for Paraguay and the United Arab Emirates in the lists of third countries or territories, or zones thereof, authorised for the entry into the Union of consignments of fresh meat of ungulates and of certain dairy products of camelid animals](https://www.indexdata.org/commission-implementing-regulation-eu-2026-491-of-4-march-2026-amending-annex-iv-to-implementing-regulation-eu-2021-404-as-regards-the-entries-for-argentina-and-thailand-in-the-list/)** — `2026-03-04` | `6 Pages`
 
 ### [Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/council-of-the-european-union/](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -1520,6 +1519,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EMN-14802-emn-ac2026_provisional-agenda-2`]` **[European Microfinance Network (EMN) Ac2026 Provisional Agenda 1](https://www.indexdata.org/european-microfinance-network-emn-ac2026-provisional-agenda-1/)** — `2026-06-18` | `2 Pages`
 - `[`EIB-EMN-14801-emn-ac2026_provisional-agenda`]` **[European Microfinance Network (EMN) Ac2026 Provisional Agenda](https://www.indexdata.org/european-microfinance-network-emn-ac2026-provisional-agenda/)** — `2026-06-18` | `2 Pages`
 - `[`EIB-DOC-principles-impact-management-en`]` **[EIB Policy Document: Principles Impact Management](https://www.indexdata.org/eib-policy-document-principles-impact-management/)** — `2026-05-13` | `7 Pages`
+- `[`EIB-EMN-14673-terms-of-reference-2024-2`]` **[EIB Institute & European Microfinance: Terms of Reference 2024](https://www.indexdata.org/eib-institute-european-microfinance-terms-of-reference-2024/)** — `2026-04-30` | `8 Pages`
 - `[`EIB-ELENA-118-project-factsheet-crpigb-cr`]` **[EIB ELENA Factsheet: 118 Project Factsheet Crpigb cr](https://www.indexdata.org/eib-elena-factsheet-118-project-factsheet-crpigb-cr/)** — `2026-04-09` | `2 Pages`
 - `[`EIB-ELENA-138-project-factsheet-residential-energy-rehabilitation-rer`]` **[EIB ELENA Factsheet: 138 Project Factsheet Residential Energy Rehabilitation rer](https://www.indexdata.org/eib-elena-factsheet-138-project-factsheet-residential-energy-rehabilitation-rer/)** — `2026-03-06` | `2 Pages`
 - `[`EIB-ELENA-127-project-factsheet-top-condomini`]` **[EIB ELENA Factsheet: 127 Project Factsheet top Condomini](https://www.indexdata.org/eib-elena-factsheet-127-project-factsheet-top-condomini/)** — `2026-03-06` | `2 Pages`
