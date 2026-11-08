@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `181` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-08 09:55 UTC`
+**Total Indexed Dossiers in Philippines:** `182` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-08 10:55 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
-- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
+- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 - **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–181 of 181)
+## Indexed Statutory & Regulatory Dossiers (Records 1–182 of 182)
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
@@ -203,6 +203,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/national-pri
 - `[`PH-NPC-54086`]` **[2026-012 Fuel-Oil-and-Lubricant](https://www.indexdata.org/2026-012-fuel-oil-and-lubricant/)** — `2026-10-08` | `6 Pages`
 - `[`PH-NPC-54075`]` **[2026-10-07 RFQ 18-Day Campaign to End Violence Against Women’s and Children – Advocacy Tokens](https://www.indexdata.org/2026-10-07-rfq-18-day-campaign-to-end-violence-against-womens-and-children-advocacy-tokens/)** — `2026-10-07` | `13 Pages`
 - `[`PH-NPC-54067`]` **[2026-012 Fuel Oil and Lubricant](https://www.indexdata.org/2026-012-fuel-oil-and-lubricant-2/)** — `2026-10-07` | `3 Pages`
+- `[`PH-NPC-54055`]` **[Invitation to Bid - Dark Web Monitoring](https://www.indexdata.org/invitation-to-bid-dark-web-monitoring/)** — `2026-10-07` | `4 Pages`
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
