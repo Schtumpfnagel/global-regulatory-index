@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,351` across `53` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,352` across `53` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-07 23:54 UTC`
+**Last Automated Sync:** `2026-11-08 00:05 UTC`
 
 ---
 
@@ -36,9 +36,9 @@
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
 - **[Department for Business, Innovation, Science and Trade](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/feed/)
+- **[Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
 - **[Maritime and Coastguard Agency](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/feed/)
 - **[Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
-- **[Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
 - **[Regulator of Social Housing](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/) | [RSS Feed](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/feed/)
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
@@ -69,7 +69,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,351)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,352)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -536,7 +536,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2025-589`]` **[The Finance Act 2021 (Increase in Schedule 26 Penalty Percentages) Regulations 2025](https://www.indexdata.org/the-finance-act-2021-increase-in-schedule-26-penalty-percentages-regulations-2025/)** — `2025-05-13` | `4 Pages`
 - `[`UKSI-2025-572`]` **[The Financial Services and Markets Act 2023 (Commencement No. 9) Regulations 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2023-commencement-no-9-regulations-2025/)** — `2025-05-13` | `8 Pages`
 - `[`UKSI-2025-553`]` **[The Taxation of Chargeable Gains (Gilt-edged Securities) Order 2025](https://www.indexdata.org/the-taxation-of-chargeable-gains-gilt-edged-securities-order-2025/)** — `2025-05-06` | `2 Pages`
-- `[`UKSI-2025-549`]` **[The Insolvency Practitioners (Recognised Professional Bodies) (Revocation of Recognition of the Institute of Chartered Accountants in Ireland) Order 2025](https://www.indexdata.org/the-insolvency-practitioners-recognised-professional-bodies-revocation-of-recognition-of-the-institute-of-chartered-accountants-in-ireland-order-2025/)** — `2025-04-30` | `2 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
@@ -1609,6 +1608,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UK-GOV-9004953c-87ec-4439-9619-9f814512335a-1`]` **[Designated standards: radio equipment — Designated standards: radio equipment – notice of publication, 3 November 2026](https://www.indexdata.org/designated-standards-radio-equipment-designated-standards-radio-equipment-notice-of-publication-3-november-2026/)** — `2026-11-03` | `32 Pages`
 - `[`UKSI-2026-1129`]` **[The Code of Practice (Access and Unfair Practices During the Recognition and Derecognition Process) Order 2026](https://www.indexdata.org/the-code-of-practice-access-and-unfair-practices-during-the-recognition-and-derecognition-process-order-2026/)** — `2026-10-26` | `4 Pages`
 
+### [Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
+
+- `[`UK-GOV-03a4663f-565d-45c7-983f-ca6b2dbeb4df-1`]` **[2026 Remembrance Sunday commemorations: order of service](https://www.indexdata.org/2026-remembrance-sunday-commemorations-order-of-service/)** — `2026-11-08` | `4 Pages`
+- `[`UKSI-2026-1149`]` **[The Charities (Russell-Cotes Art Gallery and Museum) Order 2026](https://www.indexdata.org/the-charities-russell-cotes-art-gallery-and-museum-order-2026/)** — `2026-11-02` | `12 Pages`
+- `[`UK-DGOV-14218517-ef1-2523f476-46a`]` **[Organogram of Staff Roles & Salaries — Organogram, as of 30/06/2010 (from legacy dataset)](https://www.indexdata.org/organogram-of-staff-roles-salaries-organogram-as-of-30-06-2010-from-legacy-dataset-2/)** — `2026-10-30` | `5 Pages`
+- `[`UKSI-2026-1135`]` **[The Football Governance Act 2025 (Commencement No. 5) Regulations 2026](https://www.indexdata.org/the-football-governance-act-2025-commencement-no-5-regulations-2026/)** — `2026-10-27` | `8 Pages`
+- `[`UKSI-2026-1119`]` **[The Electronic Communications and Wireless Telegraphy (Amendment and Saving Provision) Regulations 2026](https://www.indexdata.org/the-electronic-communications-and-wireless-telegraphy-amendment-and-saving-provision-regulations-2026/)** — `2026-10-22` | `4 Pages`
+
 ### [Maritime and Coastguard Agency](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/feed/)
 
@@ -1625,14 +1633,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/cabinet-o
 - `[`UK-GOV-8cb56210-606c-4b0c-b821-b09eaf25a972-11`]` **[Update on the Government response to the Humble Address motion — Letter to Chair of the Foreign Affairs Committee - 5 November 2026](https://www.indexdata.org/update-on-the-government-response-to-the-humble-address-motion-letter-to-chair-of-the-foreign-affairs-committee-5-november-2026/)** — `2026-11-05` | `2 Pages`
 - `[`UK-GOV-8cb56210-606c-4b0c-b821-b09eaf25a972-10`]` **[Update on the Government response to the Humble Address motion — Letter to Chair of the Public Administration and Constitutional Affairs Committee - 5 November 2026](https://www.indexdata.org/update-on-the-government-response-to-the-humble-address-motion-letter-to-chair-of-the-public-administration-and-constitutional-affairs-committee-5-november-2026/)** — `2026-11-05` | `2 Pages`
 - `[`UK-GOV-0b34fefe-e127-4bcc-8966-47a3c19b1ff4-1`]` **[Cabinet Secretary's Objectives 2026-27 — Cabinet Secretary's Objectives 2026-27 (updated)](https://www.indexdata.org/cabinet-secretarys-objectives-2026-27-cabinet-secretarys-objectives-2026-27-updated/)** — `2026-11-05` | `6 Pages`
-
-### [Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
-
-- `[`UKSI-2026-1149`]` **[The Charities (Russell-Cotes Art Gallery and Museum) Order 2026](https://www.indexdata.org/the-charities-russell-cotes-art-gallery-and-museum-order-2026/)** — `2026-11-02` | `12 Pages`
-- `[`UK-DGOV-14218517-ef1-2523f476-46a`]` **[Organogram of Staff Roles & Salaries — Organogram, as of 30/06/2010 (from legacy dataset)](https://www.indexdata.org/organogram-of-staff-roles-salaries-organogram-as-of-30-06-2010-from-legacy-dataset-2/)** — `2026-10-30` | `5 Pages`
-- `[`UKSI-2026-1135`]` **[The Football Governance Act 2025 (Commencement No. 5) Regulations 2026](https://www.indexdata.org/the-football-governance-act-2025-commencement-no-5-regulations-2026/)** — `2026-10-27` | `8 Pages`
-- `[`UKSI-2026-1119`]` **[The Electronic Communications and Wireless Telegraphy (Amendment and Saving Provision) Regulations 2026](https://www.indexdata.org/the-electronic-communications-and-wireless-telegraphy-amendment-and-saving-provision-regulations-2026/)** — `2026-10-22` | `4 Pages`
 
 ### [Regulator of Social Housing](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/regulator-of-social-housing/](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/) | [RSS Feed](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/feed/)
