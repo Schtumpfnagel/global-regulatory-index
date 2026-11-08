@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `922` across `19` issuing authorities  
-**Last Automated Sync:** `2026-11-08 11:56 UTC`
+**Total Indexed Dossiers in International:** `927` across `19` issuing authorities  
+**Last Automated Sync:** `2026-11-08 12:55 UTC`
 
 ---
 
@@ -13,7 +13,7 @@
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`159` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`144` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
-- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`113` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
+- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
@@ -33,7 +33,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–922 of 922)
+## Indexed Statutory & Regulatory Dossiers (Records 1–927 of 927)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -362,6 +362,11 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 - `[`FAO-CD8336EN`]` **[FAO Rwanda Newsletter, 4th Quarter 2025 - Issue #4](https://www.indexdata.org/fao-rwanda-newsletter-4th-quarter-2025-issue-4/)** — `2026-11-08` | `9 Pages`
 - `[`FAO-CD8335EN`]` **[A preliminary contribution to characterize biosecurity, emergency preparedness, and response in central Mediterranean aquatic food systems](https://www.indexdata.org/a-preliminary-contribution-to-characterize-biosecurity-emergency-preparedness-and-response-in-central-mediterranean-aquatic-food-systems/)** — `2026-11-08` | `15 Pages`
 - `[`FAO-CD8288EN`]` **[UPDATE: The desert locust outbreak splits into two in the Western Region](https://www.indexdata.org/update-the-desert-locust-outbreak-splits-into-two-in-the-western-region/)** — `2026-11-08` | `2 Pages`
+- `[`FAO-CD8259EN`]` **[Building Back Resilient and Sustainable Agrifood Systems in Ukraine: Support to Rural Households and Small-Scale Farmers Affected by the War and Land Warfare Contamination](https://www.indexdata.org/building-back-resilient-and-sustainable-agrifood-systems-in-ukraine-support-to-rural-households-and-small-scale-farmers-affected-by-the-war-and-land-warfare-contamination/)** — `2026-11-08` | `49 Pages`
+- `[`FAO-CD8217EN`]` **[Increasing the sustainability and resilience of agriculture/food system through nature-based solutions](https://www.indexdata.org/increasing-the-sustainability-and-resilience-of-agriculture-food-system-through-nature-based-solutions/)** — `2026-11-08` | `220 Pages`
+- `[`FAO-CD8203EN`]` **[FAO Korea Partnership Newsletter, December 2025 – Issue #13](https://www.indexdata.org/fao-korea-partnership-newsletter-december-2025-issue-13/)** — `2026-11-08` | `6 Pages`
+- `[`FAO-CD8132EN`]` **[Eighth Operational Phase of the GEF Small Grants Programme (Tranche II)](https://www.indexdata.org/eighth-operational-phase-of-the-gef-small-grants-programme-tranche-ii/)** — `2026-11-08` | `258 Pages`
+- `[`FAO-CD8106EN`]` **[FAO Kyrgyzstan Newsletter, 4th quarter 2025 – Issue #4](https://www.indexdata.org/fao-kyrgyzstan-newsletter-4th-quarter-2025-issue-4/)** — `2026-11-08` | `10 Pages`
 - `[`FAO-CE2131EN`]` **[Coastal hazards and adaptation in Small Island Developing States based on the Coastal Hazard Wheel framework](https://www.indexdata.org/coastal-hazards-and-adaptation-in-small-island-developing-states-based-on-the-coastal-hazard-wheel-framework-6/)** — `2026-11-07` | `28 Pages`
 - `[`FAO-CE1981EN`]` **[Coastal hazards and adaptation in Small Island Developing States based on the Coastal Hazard Wheel framework](https://www.indexdata.org/coastal-hazards-and-adaptation-in-small-island-developing-states-based-on-the-coastal-hazard-wheel-framework-5/)** — `2026-11-07` | `25 Pages`
 - `[`FAO-CE1964EN`]` **[Coastal hazards and adaptation in Small Island Developing States based on the Coastal Hazard Wheel framework](https://www.indexdata.org/coastal-hazards-and-adaptation-in-small-island-developing-states-based-on-the-coastal-hazard-wheel-framework-4/)** — `2026-11-07` | `25 Pages`

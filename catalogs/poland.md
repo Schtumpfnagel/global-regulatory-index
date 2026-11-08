@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q36`](https://www.wikidata.org/wiki/Q36)  
 **Governing Open-Government Framework:** *Polish Copyright Act (Dz.U. 1994 nr 24 poz. 83, Art. 4) & Open Data Act (Dz.U. 2021 poz. 1641)*  
 **Total Indexed Dossiers in Poland:** `43` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-08 11:56 UTC`
+**Last Automated Sync:** `2026-11-08 12:55 UTC`
 
 ---
 
