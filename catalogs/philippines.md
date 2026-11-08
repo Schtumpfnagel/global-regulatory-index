@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `207` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-08 21:32 UTC`
+**Total Indexed Dossiers in Philippines:** `208` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-08 22:36 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (11 Authorities)
 
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`49` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
-- **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
+- **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–207 of 207)
+## Indexed Statutory & Regulatory Dossiers (Records 1–208 of 208)
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
@@ -120,6 +120,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-
 - `[`PH-CDA-70153`]` **[Article–Courtesy Call Across R9 for the CDA LGU](https://www.indexdata.org/article-courtesy-call-across-r9-for-the-cda-lgu/)** — `2026-08-18` | `3 Pages`
 - `[`PH-CDA-70137`]` **[CDA Strengthens Coconut Farmers Cooperatives Through Business Planning and Financial Management Seminar](https://www.indexdata.org/cda-strengthens-coconut-farmers-cooperatives-through-business-planning-and-financial-management-seminar/)** — `2026-08-18` | `4 Pages`
 - `[`PH-CDA-70057`]` **[CDA Region VI Extension Office 6 FY 2026 1st Semester PMR.xlsx – Sheet1](https://www.indexdata.org/cda-region-vi-extension-office-6-fy-2026-1st-semester-pmr-xlsx-sheet1/)** — `2026-08-12` | `3 Pages`
+- `[`PH-CDA-70050`]` **[PMR 1st Semester 2025](https://www.indexdata.org/pmr-1st-semester-2025/)** — `2026-08-12` | `2 Pages`
 
 ### [Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-investments/](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)

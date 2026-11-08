@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q258`](https://www.wikidata.org/wiki/Q258)  
 **Governing Open-Government Framework:** *South African Copyright Act 98 of 1978, s. 12(8)(a)*  
 **Total Indexed Dossiers in South Africa:** `46` across `15` issuing authorities  
-**Last Automated Sync:** `2026-11-08 21:32 UTC`
+**Last Automated Sync:** `2026-11-08 22:36 UTC`
 
 ---
 

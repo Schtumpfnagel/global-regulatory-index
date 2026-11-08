@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q39`](https://www.wikidata.org/wiki/Q39)  
 **Governing Open-Government Framework:** *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)*  
 **Total Indexed Dossiers in Switzerland:** `182` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-08 21:32 UTC`
+**Last Automated Sync:** `2026-11-08 22:36 UTC`
 
 ---
 
