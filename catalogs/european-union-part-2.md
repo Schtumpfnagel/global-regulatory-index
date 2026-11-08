@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `3,468` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `3,474` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | **[Part 2 (Current)]** | [Part 3](european-union-part-3.md)  
-**Last Automated Sync:** `2026-11-08 13:56 UTC`
+**Last Automated Sync:** `2026-11-08 14:02 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,021` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`829` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`835` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`624` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
 - **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`168` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,468)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,474)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -767,6 +767,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-CONS-elp_comments_sse_20130624_en`]` **[EIB Public Consultation: Elp Comments sse 20130624](https://www.indexdata.org/eib-public-consultation-elp-comments-sse-20130624/)** — `2025-04-15` | `5 Pages`
 - `[`EIB-CONS-elp_comments_scotland_enterprise_20130624_en`]` **[EIB Public Consultation: Elp Comments Scotland Enterprise 20130624](https://www.indexdata.org/eib-public-consultation-elp-comments-scotland-enterprise-20130624/)** — `2025-04-15` | `11 Pages`
 - `[`EIB-CONS-elp_comments_scotia_gas_network_20130624_en`]` **[EIB Public Consultation: Elp Comments Scotia gas Network 20130624](https://www.indexdata.org/eib-public-consultation-elp-comments-scotia-gas-network-20130624/)** — `2025-04-15` | `4 Pages`
+- `[`EIB-CONS-elp_comments_reseau_de_transport_delectricite_20130624_en`]` **[EIB Public Consultation: Elp Comments Reseau de Transport Delectricite 20130624](https://www.indexdata.org/eib-public-consultation-elp-comments-reseau-de-transport-delectricite-20130624/)** — `2025-04-15` | `3 Pages`
 - `[`EIB-PJ-western_european_gas_market_en`]` **[EIB Projects Directorate Study: Western European gas Market](https://www.indexdata.org/eib-projects-directorate-study-western-european-gas-market/)** — `2025-04-14` | `35 Pages`
 - `[`EIB-PJ-vencap`]` **[EIB Projects Directorate Study — Vencap](https://www.indexdata.org/eib-projects-directorate-study-vencap/)** — `2025-04-14` | `81 Pages`
 - `[`EIB-PJ-telecommunications_network_development_en`]` **[EIB Projects Directorate Study: Telecommunications Network Development](https://www.indexdata.org/eib-projects-directorate-study-telecommunications-network-development/)** — `2025-04-14` | `22 Pages`
@@ -906,8 +907,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-GOV-ca_provisional_summary_20081216_en`]` **[EIB Board of Directors: Ca Provisional Summary 20081216](https://www.indexdata.org/eib-board-of-directors-ca-provisional-summary-20081216/)** — `2025-04-14` | `7 Pages`
 - `[`EIB-GOV-ca_provisional_summary_20081118_en`]` **[EIB Board of Directors: Ca Provisional Summary 20081118](https://www.indexdata.org/eib-board-of-directors-ca-provisional-summary-20081118/)** — `2025-04-14` | `8 Pages`
 - `[`EIB-GOV-ca_provisional_summary_20081021_en`]` **[EIB Board of Directors: Ca Provisional Summary 20081021](https://www.indexdata.org/eib-board-of-directors-ca-provisional-summary-20081021/)** — `2025-04-14` | `7 Pages`
-- `[`EIB-GOV-ca_provisional_summary_20080923_en`]` **[EIB Board of Directors: Ca Provisional Summary 20080923](https://www.indexdata.org/eib-board-of-directors-ca-provisional-summary-20080923/)** — `2025-04-14` | `6 Pages`
-- `[`EIB-GOV-ca_provisional_summary_20080715_en`]` **[EIB Board of Directors: Ca Provisional Summary 20080715](https://www.indexdata.org/eib-board-of-directors-ca-provisional-summary-20080715/)** — `2025-04-14` | `8 Pages`
 
 ### [European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
@@ -1554,6 +1553,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 ### [European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-central-bank-ecb/](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/)
 
+- `[`CELEX-32026D0565`]` **[Decision (EU) 2026/565 of the European Central Bank of 3 March 2026 nominating heads of work units to adopt delegated decisions regarding mergers, divisions and acquisitions of material holdings (ECB/2026/6)](https://www.indexdata.org/decision-eu-2026-565-of-the-european-central-bank-of-3-march-2026-nominating-heads-of-work-units-to-adopt-delegated-decisions-regarding-mergers-divisions-and-acquisitions-of-material-holdings/)** — `2026-03-03` | `3 Pages`
 - `[`CELEX-32026D0564`]` **[Decision (EU) 2026/564 of the European Central Bank of 13 February 2026 on delegation of the power to adopt decisions regarding mergers, divisions and acquisitions of material holdings (ECB/2026/5)](https://www.indexdata.org/decision-eu-2026-564-of-the-european-central-bank-of-13-february-2026-on-delegation-of-the-power-to-adopt-decisions-regarding-mergers-divisions-and-acquisitions-of-material-holdings-ecb-2026/)** — `2026-02-13` | `6 Pages`
 - `[`CELEX-32026D0115`]` **[Decision (EU) 2026/115 of the European Central Bank of 31 December 2025 on the paying-up of capital, transfer of foreign reserve assets, and contributions by Българска народна банка (Bulgarian National Bank) to the European Central Bank’s reserves and provisions (ECB/2025/44)](https://www.indexdata.org/decision-eu-2026-115-of-the-european-central-bank-of-31-december-2025-on-the-paying-up-of-capital-transfer-of-foreign-reserve-assets-and-contributions-by-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80/)** — `2025-12-31` | `5 Pages`
 - `[`CELEX-32026D0086`]` **[Decision (EU) 2026/86 of the European Central Bank of 19 December 2025 amending Decision (EU) 2016/456 (ECB/2016/3) as regards investigations in relation to the prevention of fraud, corruption and any other illegal activities affecting the financial interests of the Union and amending Decision (EU) 2020/1575 (ECB/2020/54) as regards the follow-up to suspected breaches of professional duties where the person concerned is a high-level ECB official (ECB/2025/45)](https://www.indexdata.org/decision-eu-2026-86-of-the-european-central-bank-of-19-december-2025-amending-decision-eu-2016-456-ecb-2016-3-as-regards-investigations-in-relation-to-the-prevention-of-fraud-corrupti/)** — `2025-12-19` | `4 Pages`

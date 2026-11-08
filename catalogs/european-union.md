@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `3,468` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `3,474` across `29` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md)  
-**Last Automated Sync:** `2026-11-08 13:56 UTC`
+**Last Automated Sync:** `2026-11-08 14:02 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,021` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`829` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`835` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`624` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
 - **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`168` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,468)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,474)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -1527,7 +1527,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`CELEX-32026D1520`]` **[Decision (EU) 2026/1520 of the European Central Bank of 23 June 2026 granting authorisation to sign agreements with customers of TARGET-ECB (ECB/2026/14)](https://www.indexdata.org/decision-eu-2026-1520-of-the-european-central-bank-of-23-june-2026-granting-authorisation-to-sign-agreements-with-customers-of-target-ecb-ecb-2026-14/)** — `2026-06-23` | `2 Pages`
 - `[`CELEX-32026D1190`]` **[Decision (EU) 2026/1190 of the European Central Bank of 19 May 2026 amending Decision (EU) 2025/2419 on the approval of the volume of coin issuance in 2026 (ECB/2025/37) (ECB/2026/12)](https://www.indexdata.org/decision-eu-2026-1190-of-the-european-central-bank-of-19-may-2026-amending-decision-eu-2025-2419-on-the-approval-of-the-volume-of-coin-issuance-in-2026-ecb-2025-37-ecb-2026/)** — `2026-05-19` | `2 Pages`
 - `[`CELEX-32026D0812`]` **[Decision (EU) 2026/812 of the European Central Bank of 26 March 2026 amending Decision (EU) 2019/1743 on the remuneration of holdings of excess reserves and of certain deposits (ECB/2019/31) (ECB/2026/10)](https://www.indexdata.org/decision-eu-2026-812-of-the-european-central-bank-of-26-march-2026-amending-decision-eu-2019-1743-on-the-remuneration-of-holdings-of-excess-reserves-and-of-certain-deposits-ecb-201/)** — `2026-03-26` | `3 Pages`
-- `[`CELEX-32026D0565`]` **[Decision (EU) 2026/565 of the European Central Bank of 3 March 2026 nominating heads of work units to adopt delegated decisions regarding mergers, divisions and acquisitions of material holdings (ECB/2026/6)](https://www.indexdata.org/decision-eu-2026-565-of-the-european-central-bank-of-3-march-2026-nominating-heads-of-work-units-to-adopt-delegated-decisions-regarding-mergers-divisions-and-acquisitions-of-material-holdings/)** — `2026-03-03` | `3 Pages`
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -1535,6 +1534,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EMN-15737-fhq_r_toolkit_summary_emn_07`]` **[Fhq r Toolkit Summary European Microfinance Network (EMN) 07](https://www.indexdata.org/fhq-r-toolkit-summary-european-microfinance-network-emn-07/)** — `2026-10-30` | `31 Pages`
 - `[`EIB-EMN-15735-r4w_impact_assessment_spain_greece_`]` **[EIB Institute & European Microfinance: R4w Impact Assessment Spain Greece](https://www.indexdata.org/eib-institute-european-microfinance-r4w-impact-assessment-spain-greece/)** — `2026-10-30` | `30 Pages`
 - `[`EIB-EMN-15337-report_25`]` **[EIB Institute & European Microfinance — Report 25](https://www.indexdata.org/eib-institute-european-microfinance-report-25/)** — `2026-09-15` | `84 Pages`
+- `[`EIB-EMN-15334-en_nb_2`]` **[EIB Institute & European Microfinance — En nb 2](https://www.indexdata.org/eib-institute-european-microfinance-en-nb-2/)** — `2026-09-15` | `53 Pages`
 - `[`EIB-DOC-principles-impact-management-en`]` **[EIB Policy Document: Principles Impact Management](https://www.indexdata.org/eib-policy-document-principles-impact-management/)** — `2026-05-13` | `7 Pages`
 - `[`EIB-ELENA-118-project-factsheet-crpigb-cr`]` **[EIB ELENA Factsheet: 118 Project Factsheet Crpigb cr](https://www.indexdata.org/eib-elena-factsheet-118-project-factsheet-crpigb-cr/)** — `2026-04-09` | `2 Pages`
 - `[`EIB-ELENA-138-project-factsheet-residential-energy-rehabilitation-rer`]` **[EIB ELENA Factsheet: 138 Project Factsheet Residential Energy Rehabilitation rer](https://www.indexdata.org/eib-elena-factsheet-138-project-factsheet-residential-energy-rehabilitation-rer/)** — `2026-03-06` | `2 Pages`
