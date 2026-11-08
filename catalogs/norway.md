@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q20`](https://www.wikidata.org/wiki/Q20)  
 **Governing Open-Government Framework:** *Åndsverkloven § 14 / NLOD 2.0*  
 **Total Indexed Dossiers in Norway:** `71` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-08 01:54 UTC`
+**Last Automated Sync:** `2026-11-08 02:56 UTC`
 
 ---
 
