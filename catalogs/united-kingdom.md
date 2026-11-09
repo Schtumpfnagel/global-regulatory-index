@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,357` across `54` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,358` across `54` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-09 02:36 UTC`
+**Last Automated Sync:** `2026-11-09 03:11 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`183` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`168` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
-- **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`143` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
+- **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`144` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`123` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
@@ -70,7 +70,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,357)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,358)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -855,6 +855,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UK-GOV-977db9af-94c4-4e55-94eb-72988dc7566b-2`]` **[School workforce census: guides — School workforce census 2026: guide for centrally employed staff](https://www.indexdata.org/school-workforce-census-guides-school-workforce-census-2026-guide-for-centrally-employed-staff/)** — `2026-11-06` | `54 Pages`
 - `[`UK-GOV-977db9af-94c4-4e55-94eb-72988dc7566b-1`]` **[School workforce census: guides — School workforce census guide 2026](https://www.indexdata.org/school-workforce-census-guides-school-workforce-census-guide-2026/)** — `2026-11-06` | `74 Pages`
 - `[`UK-GOV-c3fa56c2-8b9d-42b2-b3af-fcae686583ec-1`]` **[Investigation outcome report: London Academy for Applied Technology](https://www.indexdata.org/investigation-outcome-report-london-academy-for-applied-technology/)** — `2026-11-05` | `2 Pages`
+- `[`UKSI-2026-1165`]` **[The Children’s Wellbeing and Schools Act 2026 (Commencement No. 1) Regulations 2026](https://www.indexdata.org/the-childrens-wellbeing-and-schools-act-2026-commencement-no-1-regulations-2026/)** — `2026-11-04` | `8 Pages`
 - `[`UK-GOV-e347528e-5ecc-4c59-b82b-8d75ef01f12b-1`]` **[The Terrorism (Protection of Premises) Act 2025: in education — The Terrorism (Protection of Premises) Act 2025: Martyn’s Law](https://www.indexdata.org/the-terrorism-protection-of-premises-act-2025-in-education-the-terrorism-protection-of-premises-act-2025-martyns-law/)** — `2026-11-03` | `33 Pages`
 - `[`UK-GOV-b7041601-62b5-4851-8514-bdde5ca29486-4`]` **[Sustainability leadership and climate action plans in education — sustainability progress](https://www.indexdata.org/sustainability-leadership-and-climate-action-plans-in-education-sustainability-progress/)** — `2026-11-03` | `3 Pages`
 - `[`UK-GOV-b7041601-62b5-4851-8514-bdde5ca29486-3`]` **[Sustainability leadership and climate action plans in education — United Learning Trust’s sustainability journey](https://www.indexdata.org/sustainability-leadership-and-climate-action-plans-in-education-united-learning-trusts-sustainability-journey/)** — `2026-11-03` | `3 Pages`
@@ -939,7 +940,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-598`]` **[The Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (Commencement) Regulations 2025](https://www.indexdata.org/the-institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-act-2025-commencement-regulations-2025/)** — `2025-05-19` | `4 Pages`
 - `[`UKSI-2025-590`]` **[The Childcare (Fees) (Amendment) Regulations 2025](https://www.indexdata.org/the-childcare-fees-amendment-regulations-2025/)** — `2025-05-15` | `2 Pages`
 - `[`UKPGA-2025-14`]` **[Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025](https://www.indexdata.org/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-act-2025/)** — `2025-05-15` | `18 Pages`
-- `[`UKSI-2025-555`]` **[The Scotland Act 1998 (Agency Arrangements) (Specification) (Recognition of Qualifications) Order 2025](https://www.indexdata.org/the-scotland-act-1998-agency-arrangements-specification-recognition-of-qualifications-order-2025/)** — `2025-05-06` | `4 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
