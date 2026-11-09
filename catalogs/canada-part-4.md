@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,361` across `26` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,364` across `26` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-09 15:22 UTC`
+**Last Automated Sync:** `2026-11-09 15:44 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
 - **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
-- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
+- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
@@ -42,11 +42,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,361 of 5,361)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,364 of 5,364)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`P-8.6`]` **[Personal Information Protection and Electronic Documents Act](https://www.indexdata.org/personal-information-protection-and-electronic-documents-act/)** — `2026-09-30` | `71 Pages`
+- `[`P-8.3`]` **[Perfluorooctane Sulfonate Virtual Elimination Act](https://www.indexdata.org/perfluorooctane-sulfonate-virtual-elimination-act/)** — `2026-09-30` | `3 Pages`
 - `[`P-4.7`]` **[An Act to authorize certain payments to be made out of the Consolidated Revenue Fund for the purpose of improving housing supply](https://www.indexdata.org/an-act-to-authorize-certain-payments-to-be-made-out-of-the-consolidated-revenue-fund-for-the-purpose-of-improving-housing-supply/)** — `2026-09-30` | `4 Pages`
 - `[`P-4.6`]` **[An Act respecting payments to a trust established to provide provinces and territories with funding for community development](https://www.indexdata.org/an-act-respecting-payments-to-a-trust-established-to-provide-provinces-and-territories-with-funding-for-community-development/)** — `2026-09-30` | `5 Pages`
 - `[`P-4.4`]` **[Payment Clearing and Settlement Act](https://www.indexdata.org/payment-clearing-and-settlement-act/)** — `2026-09-30` | `52 Pages`
@@ -575,6 +577,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 
+- `[`P-8`]` **[Pension Fund Societies Act](https://www.indexdata.org/pension-fund-societies-act/)** — `2026-09-30` | `13 Pages`
 - `[`P-7.01`]` **[Pension Benefits Standards Act, 1985](https://www.indexdata.org/pension-benefits-standards-act-1985/)** — `2026-09-30` | `106 Pages`
 - `[`P-6.7`]` **[Pension Benefits Division Act](https://www.indexdata.org/pension-benefits-division-act/)** — `2026-09-30` | `14 Pages`
 - `[`P-6`]` **[Pension Act](https://www.indexdata.org/pension-act/)** — `2026-09-30` | `91 Pages`

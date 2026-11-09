@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,165` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,167` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 15:22 UTC`
+**Last Automated Sync:** `2026-11-09 15:44 UTC`
 
 ---
 
@@ -72,9 +72,9 @@
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,165)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,167)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -946,6 +946,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2026-17109`]` **[Fisheries of the Caribbean, Gulf of America, and South Atlantic; 2026 Commercial Closure for the Scamp and Yellowmouth Grouper Complex in the South Atlantic](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-2026-commercial-closure-for-the-scamp-and-yellowmouth-grouper-complex-in-the-south-atlantic/)** — `2026-08-21` | `2 Pages`
 - `[`2026-17003`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2025-2026 Biennial Specifications and Management Measures; Inseason Adjustments](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2025-2026-biennial-specifications-and-management-measures-inseason-adjustments/)** — `2026-08-20` | `4 Pages`
 - `[`2026-16870`]` **[Atlantic Highly Migratory Species; North Atlantic Swordfish, South Atlantic Swordfish, North Atlantic Albacore, and Atlantic Bluefin Tuna Quotas](https://www.indexdata.org/atlantic-highly-migratory-species-north-atlantic-swordfish-south-atlantic-swordfish-north-atlantic-albacore-and-atlantic-bluefin-tuna-quotas/)** — `2026-08-19` | `14 Pages`
 - `[`2026-16591`]` **[Atlantic Highly Migratory Species; Revisions to Fishing Gear Regulations](https://www.indexdata.org/atlantic-highly-migratory-species-revisions-to-fishing-gear-regulations/)** — `2026-08-14` | `9 Pages`
@@ -1166,8 +1167,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-to
 - `[`2026-08920`]` **[Removing Triplicate Filing Requirement for Importing Plastic Explosives](https://www.indexdata.org/removing-triplicate-filing-requirement-for-importing-plastic-explosives/)** — `2026-05-06` | `3 Pages`
 - `[`2026-08919`]` **[Revising Regulations Defining “Engaged in the Business” as a Dealer in Firearms](https://www.indexdata.org/revising-regulations-defining-engaged-in-the-business-as-a-dealer-in-firearms/)** — `2026-05-06` | `13 Pages`
 - `[`2026-08918`]` **[Clarifying Exceptions to the Brady Act Background Check Requirement](https://www.indexdata.org/clarifying-exceptions-to-the-brady-act-background-check-requirement/)** — `2026-05-06` | `6 Pages`
-- `[`2026-08917`]` **[Clarifying Delivery to a Common or Contract Carrier When Transporting Firearms](https://www.indexdata.org/clarifying-delivery-to-a-common-or-contract-carrier-when-transporting-firearms/)** — `2026-05-06` | `6 Pages`
-- `[`2026-08916`]` **[Clarifying Interstate Transportation of Firearms Under the Gun Control Act](https://www.indexdata.org/clarifying-interstate-transportation-of-firearms-under-the-gun-control-act/)** — `2026-05-06` | `8 Pages`
 
 ### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
@@ -1373,6 +1372,27 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CPRT-119HPRT62789`]` **[CP-11 - FULL COMMITTEE BUSINESS MEETING MARK-UP OF SEVERAL BILLS for the COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED NINETEENTH CONGRESS SECOND SESSION](https://www.indexdata.org/cp-11-full-committee-business-meeting-mark-up-of-several-bills-for-the-committee-on-oversight-and-government-reform-u-s-house-of-representatives-one-hundred-nineteenth-congress-second-session/)** — `2026-06-11` | `38 Pages`
 - `[`US-CPRT-119HPRT62609`]` **[CP-10 - FULL COMMITTEE BUSINESS MEETING MARK-UP OF SEVERAL RESOLUTIONS for the COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED NINETEENTH CONGRESS SECOND SESSION](https://www.indexdata.org/cp-10-full-committee-business-meeting-mark-up-of-several-resolutions-for-the-committee-on-oversight-and-government-reform-u-s-house-of-representatives-one-hundred-nineteenth-congress-second-session/)** — `2026-06-11` | `76 Pages`
 
+### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
+
+- `[`2026-17108`]` **[Withdrawal of International Airport Designation of Chalk Seaplane Base](https://www.indexdata.org/withdrawal-of-international-airport-designation-of-chalk-seaplane-base/)** — `2026-08-21` | `4 Pages`
+- `[`2026-16425`]` **[Rescission of DOE's Procedures for Traffic Control on the Nevada Test Site](https://www.indexdata.org/rescission-of-does-procedures-for-traffic-control-on-the-nevada-test-site/)** — `2026-08-12` | `4 Pages`
+- `[`2026-15211`]` **[Energy Conservation Program: Procedures, Interpretations, and Policies for Consideration of New or Revised Energy Conservation Standards and Test Procedures for Consumer Products and Certain Commercial/Industrial Equipment; Extension of Public Comment Period](https://www.indexdata.org/energy-conservation-program-procedures-interpretations-and-policies-for-consideration-of-new-or-revised-energy-conservation-standards-and-test-procedures-for-consumer-products-and-certain-commercia/)** — `2026-07-28` | `2 Pages`
+- `[`2026-14461`]` **[Implementing Voluntary Agreements Under the Defense Production Act](https://www.indexdata.org/implementing-voluntary-agreements-under-the-defense-production-act/)** — `2026-07-17` | `7 Pages`
+- `[`2026-14333`]` **[Financial Assistance Regulations-Conflict of Interest and Conflict of Commitment Policy Requirements](https://www.indexdata.org/financial-assistance-regulations-conflict-of-interest-and-conflict-of-commitment-policy-requirements/)** — `2026-07-16` | `14 Pages`
+- `[`2026-14043`]` **[Administrative False Claims and Procedures](https://www.indexdata.org/administrative-false-claims-and-procedures/)** — `2026-07-13` | `5 Pages`
+- `[`2026-13875`]` **[Zero-Based Regulating](https://www.indexdata.org/zero-based-regulating/)** — `2026-07-09` | `3 Pages`
+- `[`2026-13674`]` **[Energy Conservation Program: Procedures, Interpretations, and Policies for Consideration of New or Revised Energy Conservation Standards and Test Procedures for Consumer Products and Certain Commercial/Industrial Equipment](https://www.indexdata.org/energy-conservation-program-procedures-interpretations-and-policies-for-consideration-of-new-or-revised-energy-conservation-standards-and-test-procedures-for-consumer-products-and-certain-commercia-2/)** — `2026-07-07` | `50 Pages`
+- `[`2026-13673`]` **[Energy Conservation Program: Review of DOE's Analytic Methods for Setting Energy Conservation Standards](https://www.indexdata.org/energy-conservation-program-review-of-does-analytic-methods-for-setting-energy-conservation-standards/)** — `2026-07-07` | `14 Pages`
+- `[`2026-13347`]` **[Rescinding New Construction Requirements Related to Nondiscrimination in Federally Assisted Programs or Activities](https://www.indexdata.org/rescinding-new-construction-requirements-related-to-nondiscrimination-in-federally-assisted-programs-or-activities/)** — `2026-07-01` | `2 Pages`
+- `[`2026-13304`]` **[Rescinding Regulations Related to Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance](https://www.indexdata.org/rescinding-regulations-related-to-nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal-financial-assistance/)** — `2026-07-01` | `2 Pages`
+- `[`2026-12475`]` **[Application for Authorization To Transmit Electric Energy to a Foreign Country](https://www.indexdata.org/application-for-authorization-to-transmit-electric-energy-to-a-foreign-country/)** — `2026-06-22` | `6 Pages`
+- `[`2026-12066`]` **[Assistance to Foreign Atomic Energy Activities](https://www.indexdata.org/assistance-to-foreign-atomic-energy-activities/)** — `2026-06-16` | `3 Pages`
+- `[`2026-11971`]` **[Energy Conservation Program: Energy Conservation Standards for Distribution Transformers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-distribution-transformers/)** — `2026-06-15` | `5 Pages`
+- `[`2026-10729`]` **[Zero-Based Regulating](https://www.indexdata.org/zero-based-regulating-2/)** — `2026-05-29` | `8 Pages`
+- `[`2026-10727`]` **[Zero-Based Regulating](https://www.indexdata.org/zero-based-regulating-3/)** — `2026-05-29` | `9 Pages`
+- `[`2026-10064`]` **[Renewable Energy Production Incentives](https://www.indexdata.org/renewable-energy-production-incentives/)** — `2026-05-20` | `4 Pages`
+
 ### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
 
@@ -1412,26 +1432,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enfor
 - `[`2026-10253`]` **[Schedules of Controlled Substances: Temporary Placement of 2-Fluorodeschloroketamine in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-2-fluorodeschloroketamine-in-schedule-i/)** — `2026-05-22` | `6 Pages`
 - `[`2026-10128`]` **[Revision of Applications for Manufacturing and Procurement Quotas](https://www.indexdata.org/revision-of-applications-for-manufacturing-and-procurement-quotas/)** — `2026-05-20` | `14 Pages`
 - `[`2026-09566`]` **[Schedules of Controlled Substances: Placement of CUMYL-PEGACLONE in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-cumyl-pegaclone-in-schedule-i/)** — `2026-05-13` | `5 Pages`
-
-### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
-
-- `[`2026-16425`]` **[Rescission of DOE's Procedures for Traffic Control on the Nevada Test Site](https://www.indexdata.org/rescission-of-does-procedures-for-traffic-control-on-the-nevada-test-site/)** — `2026-08-12` | `4 Pages`
-- `[`2026-15211`]` **[Energy Conservation Program: Procedures, Interpretations, and Policies for Consideration of New or Revised Energy Conservation Standards and Test Procedures for Consumer Products and Certain Commercial/Industrial Equipment; Extension of Public Comment Period](https://www.indexdata.org/energy-conservation-program-procedures-interpretations-and-policies-for-consideration-of-new-or-revised-energy-conservation-standards-and-test-procedures-for-consumer-products-and-certain-commercia/)** — `2026-07-28` | `2 Pages`
-- `[`2026-14461`]` **[Implementing Voluntary Agreements Under the Defense Production Act](https://www.indexdata.org/implementing-voluntary-agreements-under-the-defense-production-act/)** — `2026-07-17` | `7 Pages`
-- `[`2026-14333`]` **[Financial Assistance Regulations-Conflict of Interest and Conflict of Commitment Policy Requirements](https://www.indexdata.org/financial-assistance-regulations-conflict-of-interest-and-conflict-of-commitment-policy-requirements/)** — `2026-07-16` | `14 Pages`
-- `[`2026-14043`]` **[Administrative False Claims and Procedures](https://www.indexdata.org/administrative-false-claims-and-procedures/)** — `2026-07-13` | `5 Pages`
-- `[`2026-13875`]` **[Zero-Based Regulating](https://www.indexdata.org/zero-based-regulating/)** — `2026-07-09` | `3 Pages`
-- `[`2026-13674`]` **[Energy Conservation Program: Procedures, Interpretations, and Policies for Consideration of New or Revised Energy Conservation Standards and Test Procedures for Consumer Products and Certain Commercial/Industrial Equipment](https://www.indexdata.org/energy-conservation-program-procedures-interpretations-and-policies-for-consideration-of-new-or-revised-energy-conservation-standards-and-test-procedures-for-consumer-products-and-certain-commercia-2/)** — `2026-07-07` | `50 Pages`
-- `[`2026-13673`]` **[Energy Conservation Program: Review of DOE's Analytic Methods for Setting Energy Conservation Standards](https://www.indexdata.org/energy-conservation-program-review-of-does-analytic-methods-for-setting-energy-conservation-standards/)** — `2026-07-07` | `14 Pages`
-- `[`2026-13347`]` **[Rescinding New Construction Requirements Related to Nondiscrimination in Federally Assisted Programs or Activities](https://www.indexdata.org/rescinding-new-construction-requirements-related-to-nondiscrimination-in-federally-assisted-programs-or-activities/)** — `2026-07-01` | `2 Pages`
-- `[`2026-13304`]` **[Rescinding Regulations Related to Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance](https://www.indexdata.org/rescinding-regulations-related-to-nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal-financial-assistance/)** — `2026-07-01` | `2 Pages`
-- `[`2026-12475`]` **[Application for Authorization To Transmit Electric Energy to a Foreign Country](https://www.indexdata.org/application-for-authorization-to-transmit-electric-energy-to-a-foreign-country/)** — `2026-06-22` | `6 Pages`
-- `[`2026-12066`]` **[Assistance to Foreign Atomic Energy Activities](https://www.indexdata.org/assistance-to-foreign-atomic-energy-activities/)** — `2026-06-16` | `3 Pages`
-- `[`2026-11971`]` **[Energy Conservation Program: Energy Conservation Standards for Distribution Transformers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-distribution-transformers/)** — `2026-06-15` | `5 Pages`
-- `[`2026-10729`]` **[Zero-Based Regulating](https://www.indexdata.org/zero-based-regulating-2/)** — `2026-05-29` | `8 Pages`
-- `[`2026-10727`]` **[Zero-Based Regulating](https://www.indexdata.org/zero-based-regulating-3/)** — `2026-05-29` | `9 Pages`
-- `[`2026-10064`]` **[Renewable Energy Production Incentives](https://www.indexdata.org/renewable-energy-production-incentives/)** — `2026-05-20` | `4 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)

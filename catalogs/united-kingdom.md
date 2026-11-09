@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,420` across `58` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,426` across `58` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-09 15:22 UTC`
+**Last Automated Sync:** `2026-11-09 15:44 UTC`
 
 ---
 
@@ -31,11 +31,11 @@
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
+- **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
 - **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
-- **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
 - **[Department for Business, Innovation, Science and Trade](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/feed/)
 - **[Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
 - **[Maritime and Coastguard Agency](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/feed/)
@@ -74,7 +74,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,420)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,426)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -360,9 +360,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2025-669`]` **[The Wireless Telegraphy (Licence Award) Regulations 2025](https://www.indexdata.org/the-wireless-telegraphy-licence-award-regulations-2025/)** — `2025-06-10` | `64 Pages`
 - `[`UKSI-2025-694`]` **[The Infrastructure Planning (Onshore Wind and Solar Generation) Order 2025](https://www.indexdata.org/the-infrastructure-planning-onshore-wind-and-solar-generation-order-2025/)** — `2025-06-09` | `8 Pages`
 - `[`UKSI-2025-664`]` **[The Private Security Industry Act 2001 (Exemption) (Aviation Security) (Amendment) Regulations 2025](https://www.indexdata.org/the-private-security-industry-act-2001-exemption-aviation-security-amendment-regulations-2025/)** — `2025-06-09` | `4 Pages`
-- `[`UKSI-2025-656`]` **[The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025](https://www.indexdata.org/the-investigatory-powers-codes-of-practice-review-of-notices-and-technical-advisory-board-regulations-2025/)** — `2025-06-05` | `8 Pages`
-- `[`UKSI-2025-655`]` **[The Coroners and Justice Act 2009 (Alteration of Coroner Areas) Order 2025](https://www.indexdata.org/the-coroners-and-justice-act-2009-alteration-of-coroner-areas-order-2025/)** — `2025-06-05` | `2 Pages`
-- `[`UKSI-2025-795`]` **[The M5 Junction 10 Development Consent Order 2025](https://www.indexdata.org/the-m5-junction-10-development-consent-order-2025/)** — `2025-06-04` | `208 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -515,7 +512,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2025-688`]` **[The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025](https://www.indexdata.org/the-payment-services-and-payment-accounts-contract-termination-amendment-regulations-2025/)** — `2025-06-12` | `8 Pages`
 - `[`UKSI-2025-670`]` **[The Pension Fund Clearing Obligation Exemption (Amendment) Regulations 2025](https://www.indexdata.org/the-pension-fund-clearing-obligation-exemption-amendment-regulations-2025/)** — `2025-06-10` | `2 Pages`
 - `[`UKSI-2025-666`]` **[The Private Intermittent Securities and Capital Exchange System (Exemption from Stamp Duties) Regulations 2025](https://www.indexdata.org/the-private-intermittent-securities-and-capital-exchange-system-exemption-from-stamp-duties-regulations-2025/)** — `2025-06-10` | `2 Pages`
-- `[`UKSI-2025-653`]` **[The Capital Buffers and Macro-prudential Measures Regulations 2025](https://www.indexdata.org/the-capital-buffers-and-macro-prudential-measures-regulations-2025/)** — `2025-06-04` | `12 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
@@ -620,7 +616,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2025-988`]` **[The Housing Benefit (Habitual Residence) (Amendment) Regulations 2025](https://www.indexdata.org/the-housing-benefit-habitual-residence-amendment-regulations-2025/)** — `2025-09-01` | `2 Pages`
 - `[`UKSI-2025-879`]` **[The Combined Authorities (Adult Education Functions) (Amendment) Order 2025 (revoked)](https://www.indexdata.org/the-combined-authorities-adult-education-functions-amendment-order-2025-revoked/)** — `2025-07-16` | `12 Pages`
 - `[`UKSI-2025-868`]` **[The Solihull (Electoral Changes) Order 2025](https://www.indexdata.org/the-solihull-electoral-changes-order-2025/)** — `2025-07-15` | `8 Pages`
-- `[`UKSI-2025-652`]` **[The Local Audit (Modification of Financial Reporting Requirements) Regulations 2025](https://www.indexdata.org/the-local-audit-modification-of-financial-reporting-requirements-regulations-2025/)** — `2025-06-04` | `2 Pages`
 
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
@@ -989,7 +984,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-676`]` **[The National Security Act 2023 (Foreign Activities and Foreign Influence Registration Scheme: Exemptions for Certain Foreign Power Investment Funds, Education, Government Administration and Public Bodies) Regulations 2025](https://www.indexdata.org/the-national-security-act-2023-foreign-activities-and-foreign-influence-registration-scheme-exemptions-for-certain-foreign-power-investment-funds-education-government-administration-and-public-bod/)** — `2025-06-10` | `8 Pages`
 - `[`UKSI-2025-665`]` **[The Diocese of Chelmsford (Educational Endowments) (Takeley Church of England School) Order 2025](https://www.indexdata.org/the-diocese-of-chelmsford-educational-endowments-takeley-church-of-england-school-order-2025/)** — `2025-06-10` | `5 Pages`
 - `[`UKSI-2025-660`]` **[The Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (Consequential Amendments) Regulations 2025](https://www.indexdata.org/the-institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-act-2025-consequential-amendments-regulations-2025/)** — `2025-06-09` | `4 Pages`
-- `[`UKSI-2025-648`]` **[The Diocese of Canterbury (Educational Endowments) (Sturry Church of England Primary School) Order 2025](https://www.indexdata.org/the-diocese-of-canterbury-educational-endowments-sturry-church-of-england-primary-school-order-2025/)** — `2025-06-04` | `5 Pages`
 
 ### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
@@ -1523,6 +1517,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2025-1096`]` **[The Armed Forces Act 2006 (Continuation) Order 2025](https://www.indexdata.org/the-armed-forces-act-2006-continuation-order-2025/)** — `2025-10-15` | `2 Pages`
 - `[`UKPGA-2025-23`]` **[Armed Forces Commissioner Act 2025](https://www.indexdata.org/armed-forces-commissioner-act-2025/)** — `2025-09-03` | `20 Pages`
 
+### [Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/marine-management-organisation/](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
+
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-92`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Vessel Licence – External Waters (Svalbard) Conditions 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-vessel-licence-external-waters-svalbard-conditions-2024/)** — `2026-11-09` | `3 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-91`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (NOR Vessels - Mackerel) 2024 Conditions](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-nor-vessels-mackerel-2024-conditions/)** — `2026-11-09` | `7 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-90`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (FRO Vessels - Mackerel) 2024 Conditions](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-fro-vessels-mackerel-2024-conditions/)** — `2026-11-09` | `7 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-9`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (EU vessels) - 3rd April 2021](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-eu-vessels-3rd-april-2021/)** — `2026-11-09` | `10 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-89`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Vessel Licence - External Waters (NEAFC Base) Variation 1 Conditions 15 July 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-vessel-licence-external-waters-neafc-base-variation-1-conditions-15-july-2024/)** — `2026-11-09` | `14 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-88`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Vessel Licence - External Waters (EU) Variation 2 Conditions 15 July 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-vessel-licence-external-waters-eu-variation-2-conditions-15-july-2024/)** — `2026-11-09` | `6 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-99`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (FRO Vessels) Variation 2 Conditions 30 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-fro-vessels-variation-2-conditions-30-september-2024/)** — `2026-11-05` | `21 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-98`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (EU Vessels) Variation 7 Conditions 30 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-eu-vessels-variation-7-conditions-30-september-2024/)** — `2026-11-05` | `21 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-97`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (NOR Vessels) Variation 4 Conditions 30 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-nor-vessels-variation-4-conditions-30-september-2024/)** — `2026-11-05` | `21 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-96`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Vessel Licence (NEAFC BASE) Variation 2 Conditions 18 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-vessel-licence-neafc-base-variation-2-conditions-18-september-2024/)** — `2026-11-05` | `14 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-95`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (FRO Vessels) Variation 1 Conditions 23 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-fro-vessels-variation-1-conditions-23-september-2024/)** — `2026-11-05` | `21 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-94`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (EU Vessels) Variation 6 Conditions 23 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-eu-vessels-variation-6-conditions-23-september-2024/)** — `2026-11-05` | `21 Pages`
+- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-93`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (NOR Vessels) Variation 3 Conditions 23 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-nor-vessels-variation-3-conditions-23-september-2024/)** — `2026-11-05` | `21 Pages`
+
 ### [Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 
@@ -1580,17 +1591,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/rochdale-
 - `[`UK-DGOV-1ed5d69d-324-8b0ee362-0a1`]` **[Invitation to tender — Jan-Mar 2022 Invitation to Tender (pdf)](https://www.indexdata.org/invitation-to-tender-jan-mar-2022-invitation-to-tender-pdf/)** — `2026-11-05` | `2 Pages`
 - `[`UK-DGOV-1ed5d69d-324-78d5f123-700`]` **[Invitation to tender — Jan-Mar 2019 Invitation to Tender (pdf)](https://www.indexdata.org/invitation-to-tender-jan-mar-2019-invitation-to-tender-pdf/)** — `2026-11-05` | `2 Pages`
 - `[`UK-DGOV-1ed5d69d-324-645c7115-d65`]` **[Invitation to tender — Apr-Jun 2019 Invitation to Tender (pdf)](https://www.indexdata.org/invitation-to-tender-apr-jun-2019-invitation-to-tender-pdf/)** — `2026-11-05` | `2 Pages`
-
-### [Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/marine-management-organisation/](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
-
-- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-99`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (FRO Vessels) Variation 2 Conditions 30 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-fro-vessels-variation-2-conditions-30-september-2024/)** — `2026-11-05` | `21 Pages`
-- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-98`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (EU Vessels) Variation 7 Conditions 30 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-eu-vessels-variation-7-conditions-30-september-2024/)** — `2026-11-05` | `21 Pages`
-- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-97`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (NOR Vessels) Variation 4 Conditions 30 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-nor-vessels-variation-4-conditions-30-september-2024/)** — `2026-11-05` | `21 Pages`
-- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-96`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Vessel Licence (NEAFC BASE) Variation 2 Conditions 18 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-vessel-licence-neafc-base-variation-2-conditions-18-september-2024/)** — `2026-11-05` | `14 Pages`
-- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-95`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (FRO Vessels) Variation 1 Conditions 23 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-fro-vessels-variation-1-conditions-23-september-2024/)** — `2026-11-05` | `21 Pages`
-- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-94`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (EU Vessels) Variation 6 Conditions 23 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-eu-vessels-variation-6-conditions-23-september-2024/)** — `2026-11-05` | `21 Pages`
-- `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-93`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (NOR Vessels) Variation 3 Conditions 23 September 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-nor-vessels-variation-3-conditions-23-september-2024/)** — `2026-11-05` | `21 Pages`
 
 ### [Department for Business, Innovation, Science and Trade](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/feed/)

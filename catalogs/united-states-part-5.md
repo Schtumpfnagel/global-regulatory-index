@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,165` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,167` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 15:22 UTC`
+**Last Automated Sync:** `2026-11-09 15:44 UTC`
 
 ---
 
@@ -72,9 +72,9 @@
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,165)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,167)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -692,12 +692,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-02221`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-32/)** — `2025-02-05` | `3 Pages`
 - `[`2025-02218`]` **[Special Conditions: Airbus Model A321neo ACF and A321neo XLR Series Airplanes; Dynamic Test Requirements for Single Occupant Oblique Seats at an Installation Angle of 49 Degrees With Airbags and 3-Point Restraint or Pretensioner Restraint Systems](https://www.indexdata.org/special-conditions-airbus-model-a321neo-acf-and-a321neo-xlr-series-airplanes-dynamic-test-requirements-for-single-occupant-oblique-seats-at-an-installation-angle-of-49-degrees-with-airbags-and-3-poi/)** — `2025-02-05` | `5 Pages`
 - `[`2025-02249`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-33/)** — `2025-02-04` | `3 Pages`
-- `[`2025-02248`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-141/)** — `2025-02-04` | `4 Pages`
-- `[`2025-02214`]` **[Special Conditions: Gulfstream Aerospace Corporation, Model GVII-G400 Airplane; Automatic Speed Protection for Design Dive Speed (Dive Speed Definition)](https://www.indexdata.org/special-conditions-gulfstream-aerospace-corporation-model-gvii-g400-airplane-automatic-speed-protection-for-design-dive-speed-dive-speed-definition-2/)** — `2025-02-04` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-12512`]` **[Air Plan Approval; Ohio; Moderate Attainment Plan Elements for the Cleveland Area for the 2015 Ozone Standard](https://www.indexdata.org/air-plan-approval-ohio-moderate-attainment-plan-elements-for-the-cleveland-area-for-the-2015-ozone-standard/)** — `2025-07-07` | `2 Pages`
 - `[`2025-12508`]` **[Air Plan Approval; Oklahoma; Revisions to Air Pollution Control Rules](https://www.indexdata.org/air-plan-approval-oklahoma-revisions-to-air-pollution-control-rules-2/)** — `2025-07-07` | `4 Pages`
 - `[`2025-11153`]` **[Renewable Fuel Standard (RFS) Program: Partial Waiver of the 2024 Cellulosic Biofuel Volume Requirement](https://www.indexdata.org/renewable-fuel-standard-rfs-program-partial-waiver-of-the-2024-cellulosic-biofuel-volume-requirement/)** — `2025-07-07` | `10 Pages`
 - `[`2025-12499`]` **[National Priorities List](https://www.indexdata.org/national-priorities-list-2/)** — `2025-07-03` | `8 Pages`
@@ -971,6 +970,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2025-12513`]` **[Deep Seabed Mining: Revisions to Regulations for Exploration License and Commercial Recovery Permit Applications](https://www.indexdata.org/deep-seabed-mining-revisions-to-regulations-for-exploration-license-and-commercial-recovery-permit-applications-2/)** — `2025-07-07` | `12 Pages`
 - `[`2025-11867`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Several Groundfish Species in the Bering Sea and Aleutian Islands Management Area](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-several-groundfish-species-in-the-bering-sea-and-aleutian-islands-management-area-2/)** — `2025-06-27` | `2 Pages`
 - `[`2025-11748`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Rocky Intertidal Monitoring Surveys Along the Oregon and California Coasts](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-rocky-intertidal-monitoring-surveys-along-the-oregon-and-california-coasts/)** — `2025-06-26` | `10 Pages`
 - `[`2025-11737`]` **[Fisheries off West Coast States; Coastal Pelagic Species Fisheries; Annual Specifications; 2025-2026 Annual Specifications and Management Measures for Pacific Sardine](https://www.indexdata.org/fisheries-off-west-coast-states-coastal-pelagic-species-fisheries-annual-specifications-2025-2026-annual-specifications-and-management-measures-for-pacific-sardine-2/)** — `2025-06-26` | `4 Pages`

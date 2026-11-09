@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,361` across `26` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,364` across `26` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | **[Part 3 (Current)]** | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-09 15:22 UTC`
+**Last Automated Sync:** `2026-11-09 15:44 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
 - **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
-- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
+- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
@@ -42,11 +42,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,361)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,364)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`SOR-2001-475`]` **[Money Market Mutual Fund Conditions Regulations](https://www.indexdata.org/money-market-mutual-fund-conditions-regulations/)** — `2026-09-30` | `9 Pages`
 - `[`SOR-2001-472`]` **[Disclosure on Account Opening by Telephone Request (Banks) Regulations](https://www.indexdata.org/disclosure-on-account-opening-by-telephone-request-banks-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-2001-471`]` **[Disclosure on Account Opening by Telephone Request (Authorized Foreign Banks) Regulations](https://www.indexdata.org/disclosure-on-account-opening-by-telephone-request-authorized-foreign-banks-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-2001-451`]` **[Potato Wart Compensation Regulations](https://www.indexdata.org/potato-wart-compensation-regulations/)** — `2026-09-30` | `3 Pages`
@@ -1042,8 +1043,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`R-1`]` **[Radiation Emitting Devices Act](https://www.indexdata.org/radiation-emitting-devices-act/)** — `2026-09-30` | `18 Pages`
 - `[`Q-1.8`]` **[Queen Elizabeth II Canadian Research Fund Act](https://www.indexdata.org/queen-elizabeth-ii-canadian-research-fund-act/)** — `2026-09-30` | `6 Pages`
 - `[`Q-0.5`]` **[Qalipu Mi’kmaq First Nation Act](https://www.indexdata.org/qalipu-mikmaq-first-nation-act/)** — `2026-09-30` | `5 Pages`
-- `[`P-8.6`]` **[Personal Information Protection and Electronic Documents Act](https://www.indexdata.org/personal-information-protection-and-electronic-documents-act/)** — `2026-09-30` | `71 Pages`
-- `[`P-8.3`]` **[Perfluorooctane Sulfonate Virtual Elimination Act](https://www.indexdata.org/perfluorooctane-sulfonate-virtual-elimination-act/)** — `2026-09-30` | `3 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1222,6 +1221,8 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 
+- `[`SOR-2001-474`]` **[Financial Consumer Agency of Canada Assessment of Financial Institutions Regulations](https://www.indexdata.org/financial-consumer-agency-of-canada-assessment-of-financial-institutions-regulations/)** — `2026-09-30` | `12 Pages`
+- `[`SOR-2001-473`]` **[Disclosure on Account Opening by Telephone Request (Trust and Loan Companies) Regulations](https://www.indexdata.org/disclosure-on-account-opening-by-telephone-request-trust-and-loan-companies-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-2001-437`]` **[Total Assets for Supervisability and Public Holding Requirements (Insurance Companies and Insurance Holding Companies) Regulations](https://www.indexdata.org/total-assets-for-supervisability-and-public-holding-requirements-insurance-companies-and-insurance-holding-companies-regulations/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-2001-435`]` **[Total Assets for Public Holding Requirements (Trust and Loan Companies) Regulations](https://www.indexdata.org/total-assets-for-public-holding-requirements-trust-and-loan-companies-regulations/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-2001-431`]` **[Specialized Financing (Trust And Loan Companies) Regulations](https://www.indexdata.org/specialized-financing-trust-and-loan-companies-regulations/)** — `2026-09-30` | `10 Pages`
@@ -1312,7 +1313,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-fin
 - `[`S-22.7`]` **[Canada Student Financial Assistance Act](https://www.indexdata.org/canada-student-financial-assistance-act/)** — `2026-09-30` | `37 Pages`
 - `[`R-7.36`]` **[Retail Payment Activities Act](https://www.indexdata.org/retail-payment-activities-act/)** — `2026-09-30` | `52 Pages`
 - `[`R-10.6`]` **[Royal Canadian Mounted Police Pension Continuation Act](https://www.indexdata.org/royal-canadian-mounted-police-pension-continuation-act/)** — `2026-09-30` | `38 Pages`
-- `[`P-8`]` **[Pension Fund Societies Act](https://www.indexdata.org/pension-fund-societies-act/)** — `2026-09-30` | `13 Pages`
 
 ### [Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/)

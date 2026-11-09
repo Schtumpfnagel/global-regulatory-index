@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,165` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,167` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 15:22 UTC`
+**Last Automated Sync:** `2026-11-09 15:44 UTC`
 
 ---
 
@@ -72,9 +72,9 @@
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,165)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,167)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -779,6 +779,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-12627`]` **[Safety Zone; Narragansett Bay, Newport, RI](https://www.indexdata.org/safety-zone-narragansett-bay-newport-ri/)** — `2024-06-10` | `3 Pages`
+- `[`2024-12619`]` **[Safety Zone; Chesapeake Bay, Approaches to Baltimore Harbor, MD](https://www.indexdata.org/safety-zone-chesapeake-bay-approaches-to-baltimore-harbor-md/)** — `2024-06-10` | `3 Pages`
 - `[`2024-12641`]` **[Safety Zone; Ludington Harbor, Ludington, MI](https://www.indexdata.org/safety-zone-ludington-harbor-ludington-mi/)** — `2024-06-07` | `3 Pages`
 - `[`2024-12572`]` **[Recordkeeping and Reporting Requirements To Document Environmental Compliance on Certain Commercial Vessels](https://www.indexdata.org/recordkeeping-and-reporting-requirements-to-document-environmental-compliance-on-certain-commercial-vessels/)** — `2024-06-07` | `3 Pages`
 - `[`2024-12437`]` **[Safety Zone; Gulf Intracoastal Waterway, Corpus Christi, TX](https://www.indexdata.org/safety-zone-gulf-intracoastal-waterway-corpus-christi-tx/)** — `2024-06-06` | `3 Pages`
@@ -1358,7 +1360,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 - `[`2024-04223`]` **[Regulatory Guide: General Site Suitability for Nuclear Power Stations](https://www.indexdata.org/regulatory-guide-general-site-suitability-for-nuclear-power-stations/)** — `2024-02-29` | `2 Pages`
 - `[`2024-04222`]` **[Draft Regulatory Guide: Preparing Probabilistic Fracture Mechanics Submittals](https://www.indexdata.org/draft-regulatory-guide-preparing-probabilistic-fracture-mechanics-submittals/)** — `2024-02-29` | `2 Pages`
 - `[`2024-03231`]` **[Fee Schedules; Fee Recovery for Fiscal Year 2024](https://www.indexdata.org/fee-schedules-fee-recovery-for-fiscal-year-2024-2/)** — `2024-02-20` | `27 Pages`
-- `[`2024-00468`]` **[Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/unified-agenda-of-federal-regulatory-and-deregulatory-actions-7/)** — `2024-02-09` | `3 Pages`
 
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
@@ -1440,24 +1441,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`2024-02798`]` **[Federal Acquisition Regulation: Trade Agreements Thresholds](https://www.indexdata.org/federal-acquisition-regulation-trade-agreements-thresholds-2/)** — `2024-02-23` | `4 Pages`
 - `[`2024-02797`]` **[Federal Acquisition Regulation: Certification of Service-Disabled Veteran-Owned Small Businesses](https://www.indexdata.org/federal-acquisition-regulation-certification-of-service-disabled-veteran-owned-small-businesses-2/)** — `2024-02-23` | `12 Pages`
 
-### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-
-- `[`2024-11116`]` **[Regulation S-P: Privacy of Consumer Financial Information and Safeguarding Customer Information](https://www.indexdata.org/regulation-s-p-privacy-of-consumer-financial-information-and-safeguarding-customer-information/)** — `2024-06-03` | `102 Pages`
-- `[`2024-08091`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-8/)** — `2024-04-19` | `3 Pages`
-- `[`2024-05556`]` **[Disclosure of Order Execution Information](https://www.indexdata.org/disclosure-of-order-execution-information/)** — `2024-04-15` | `190 Pages`
-- `[`2024-07648`]` **[The Enhancement and Standardization of Climate-Related Disclosures for Investors; Delay of Effective Date](https://www.indexdata.org/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors-delay-of-effective-date/)** — `2024-04-12` | `2 Pages`
-- `[`2024-06865`]` **[Exemption for Certain Investment Advisers Operating Through the Internet](https://www.indexdata.org/exemption-for-certain-investment-advisers-operating-through-the-internet/)** — `2024-04-09` | `21 Pages`
-- `[`2024-06187`]` **[Share Repurchase Disclosure Modernization](https://www.indexdata.org/share-repurchase-disclosure-modernization/)** — `2024-04-08` | `7 Pages`
-- `[`2024-05137`]` **[The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.indexdata.org/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors/)** — `2024-03-28` | `254 Pages`
-- `[`2024-05624`]` **[Exemption for Certain Investment Advisers Operating Through the Internet; Correction](https://www.indexdata.org/exemption-for-certain-investment-advisers-operating-through-the-internet-correction/)** — `2024-03-18` | `2 Pages`
-- `[`2024-03473`]` **[Form PF; Reporting Requirements for All Filers and Large Hedge Fund Advisers](https://www.indexdata.org/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers-2/)** — `2024-03-12` | `178 Pages`
-- `[`2024-02837`]` **[Further Definition of “As a Part of a Regular Business” in the Definition of Dealer and Government Securities Dealer in Connection With Certain Liquidity Providers](https://www.indexdata.org/further-definition-of-as-a-part-of-a-regular-business-in-the-definition-of-dealer-and-government-securities-dealer-in-connection-with-certain-liquidity-providers/)** — `2024-02-29` | `73 Pages`
-- `[`2024-04062`]` **[Supplemental Standards of Ethical Conduct for Members and Employees of the Securities and Exchange Commission](https://www.indexdata.org/supplemental-standards-of-ethical-conduct-for-members-and-employees-of-the-securities-and-exchange-commission/)** — `2024-02-28` | `14 Pages`
-- `[`2024-01853`]` **[Special Purpose Acquisition Companies, Shell Companies, and Projections](https://www.indexdata.org/special-purpose-acquisition-companies-shell-companies-and-projections/)** — `2024-02-26` | `170 Pages`
-- `[`2024-03436`]` **[Qualifying Venture Capital Funds Inflation Adjustment](https://www.indexdata.org/qualifying-venture-capital-funds-inflation-adjustment-2/)** — `2024-02-21` | `6 Pages`
-- `[`2024-00469`]` **[Regulatory Flexibility Agenda](https://www.indexdata.org/regulatory-flexibility-agenda-2/)** — `2024-02-09` | `8 Pages`
-
 ### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
 
@@ -1474,6 +1457,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2024-04081`]` **[Rent Adjustments in the Mark-to-Market Program](https://www.indexdata.org/rent-adjustments-in-the-mark-to-market-program/)** — `2024-02-28` | `3 Pages`
 - `[`2024-03736`]` **[Adjustment of Civil Monetary Penalty Amounts for 2024](https://www.indexdata.org/adjustment-of-civil-monetary-penalty-amounts-for-2024/)** — `2024-02-23` | `4 Pages`
 - `[`2024-02447`]` **[Implementing Rental Housing Assistance for the Native Hawaiian Housing Block Grant Program](https://www.indexdata.org/implementing-rental-housing-assistance-for-the-native-hawaiian-housing-block-grant-program/)** — `2024-02-12` | `8 Pages`
+
+### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
+
+- `[`2024-11116`]` **[Regulation S-P: Privacy of Consumer Financial Information and Safeguarding Customer Information](https://www.indexdata.org/regulation-s-p-privacy-of-consumer-financial-information-and-safeguarding-customer-information/)** — `2024-06-03` | `102 Pages`
+- `[`2024-08091`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-8/)** — `2024-04-19` | `3 Pages`
+- `[`2024-05556`]` **[Disclosure of Order Execution Information](https://www.indexdata.org/disclosure-of-order-execution-information/)** — `2024-04-15` | `190 Pages`
+- `[`2024-07648`]` **[The Enhancement and Standardization of Climate-Related Disclosures for Investors; Delay of Effective Date](https://www.indexdata.org/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors-delay-of-effective-date/)** — `2024-04-12` | `2 Pages`
+- `[`2024-06865`]` **[Exemption for Certain Investment Advisers Operating Through the Internet](https://www.indexdata.org/exemption-for-certain-investment-advisers-operating-through-the-internet/)** — `2024-04-09` | `21 Pages`
+- `[`2024-06187`]` **[Share Repurchase Disclosure Modernization](https://www.indexdata.org/share-repurchase-disclosure-modernization/)** — `2024-04-08` | `7 Pages`
+- `[`2024-05137`]` **[The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.indexdata.org/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors/)** — `2024-03-28` | `254 Pages`
+- `[`2024-05624`]` **[Exemption for Certain Investment Advisers Operating Through the Internet; Correction](https://www.indexdata.org/exemption-for-certain-investment-advisers-operating-through-the-internet-correction/)** — `2024-03-18` | `2 Pages`
+- `[`2024-03473`]` **[Form PF; Reporting Requirements for All Filers and Large Hedge Fund Advisers](https://www.indexdata.org/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers-2/)** — `2024-03-12` | `178 Pages`
+- `[`2024-02837`]` **[Further Definition of “As a Part of a Regular Business” in the Definition of Dealer and Government Securities Dealer in Connection With Certain Liquidity Providers](https://www.indexdata.org/further-definition-of-as-a-part-of-a-regular-business-in-the-definition-of-dealer-and-government-securities-dealer-in-connection-with-certain-liquidity-providers/)** — `2024-02-29` | `73 Pages`
+- `[`2024-04062`]` **[Supplemental Standards of Ethical Conduct for Members and Employees of the Securities and Exchange Commission](https://www.indexdata.org/supplemental-standards-of-ethical-conduct-for-members-and-employees-of-the-securities-and-exchange-commission/)** — `2024-02-28` | `14 Pages`
+- `[`2024-01853`]` **[Special Purpose Acquisition Companies, Shell Companies, and Projections](https://www.indexdata.org/special-purpose-acquisition-companies-shell-companies-and-projections/)** — `2024-02-26` | `170 Pages`
+- `[`2024-03436`]` **[Qualifying Venture Capital Funds Inflation Adjustment](https://www.indexdata.org/qualifying-venture-capital-funds-inflation-adjustment-2/)** — `2024-02-21` | `6 Pages`
 
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
