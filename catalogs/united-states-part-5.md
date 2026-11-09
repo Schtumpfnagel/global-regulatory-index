@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,178` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 20:57 UTC`
+**Last Automated Sync:** `2026-11-09 21:56 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Education Department](https://www.indexdata.org/united-states/education-department/)** (`132` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 - **[Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 - **[Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`117` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 - **[Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 - **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 - **[National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)** (`112` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,177)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,178)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -686,7 +686,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-02376`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-156/)** — `2025-02-10` | `9 Pages`
 - `[`2025-02375`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-184/)** — `2025-02-10` | `3 Pages`
 - `[`2025-02374`]` **[Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc-airplanes-17/)** — `2025-02-10` | `3 Pages`
-- `[`2025-02323`]` **[Amendment of Class E Airspace; Marion, NC](https://www.indexdata.org/amendment-of-class-e-airspace-marion-nc/)** — `2025-02-07` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1060,6 +1059,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 
+- `[`2025-12557`]` **[Department of Energy Acquisition Regulation](https://www.indexdata.org/department-of-energy-acquisition-regulation/)** — `2025-07-07` | `2 Pages`
 - `[`2025-12383`]` **[Revision of National Environmental Policy Act Implementing Procedures](https://www.indexdata.org/revision-of-national-environmental-policy-act-implementing-procedures/)** — `2025-07-03` | `40 Pages`
 - `[`2025-12328`]` **[Energy Conservation Standards for Manufactured Housing](https://www.indexdata.org/energy-conservation-standards-for-manufactured-housing/)** — `2025-07-02` | `6 Pages`
 - `[`2025-09591`]` **[Energy Conservation Program: Test Procedure for Central Air Conditioners and Heat Pumps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-central-air-conditioners-and-heat-pumps-2/)** — `2025-05-29` | `5 Pages`

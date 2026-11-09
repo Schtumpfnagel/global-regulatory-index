@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,178` across `229` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 20:57 UTC`
+**Last Automated Sync:** `2026-11-09 21:56 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Education Department](https://www.indexdata.org/united-states/education-department/)** (`132` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 - **[Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 - **[Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`117` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 - **[Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 - **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 - **[National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)** (`112` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,177)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,178)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -1434,6 +1434,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-geolog
 - `[`US-DOI-USGS-dr1233`]` **[Terrain-based map of mélange and intact rock at the junction of Coastal and Central Belt rocks of the Franciscan Complex between Gualala and Ukiah, northern California Coast Ranges](https://www.indexdata.org/terrain-based-map-of-melange-and-intact-rock-at-the-junction-of-coastal-and-central-belt-rocks-of-the-franciscan-complex-between-gualala-and-ukiah-northern-california-coast-ranges/)** — `2026-10-14` | `28 Pages`
 - `[`US-DOI-USGS-dr1234`]` **[Range-wide population trend analysis for greater sage-grouse ( Centrocercus urophasianus )—Updated 1960–2025](https://www.indexdata.org/range-wide-population-trend-analysis-for-greater-sage-grouse-centrocercus-urophasianus-updated-1960-2025/)** — `2026-10-09` | `56 Pages`
 
+### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+
+- `[`US-FRPI-2026-23075`]` **[Schedules of Controlled Substances: Placement of Oveporexton in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-oveporexton-in-schedule-iv/)** — `2026-11-09` | `20 Pages`
+- `[`2026-22717`]` **[Specific Listing for 3-Chloromethcathinone, A Currently Controlled Schedule I Substance](https://www.indexdata.org/specific-listing-for-3-chloromethcathinone-a-currently-controlled-schedule-i-substance/)** — `2026-11-06` | `3 Pages`
+- `[`2026-22484`]` **[Technical Amendment to the Regulation Regarding Amendments to Applications](https://www.indexdata.org/technical-amendment-to-the-regulation-regarding-amendments-to-applications/)** — `2026-11-04` | `2 Pages`
+- `[`2026-22208`]` **[Schedules of Controlled Substances: Placement of Centanafadine in Schedule III](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-centanafadine-in-schedule-iii/)** — `2026-10-30` | `8 Pages`
+- `[`2026-20943`]` **[Schedules of Controlled Substances: Temporary Placement of 7- Hydroxymitragynine and Mitragynine Pseudoindoxyl Above a Specified Threshold in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-7-hydroxymitragynine-and-mitragynine-pseudoindoxyl-above-a-specified-threshold-in-schedule-i/)** — `2026-10-14` | `12 Pages`
+- `[`2026-20942`]` **[Schedules of Controlled Substances: Temporary Placement of MGM-15 and MGM-16 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mgm-15-and-mgm-16-in-schedule-i/)** — `2026-10-14` | `7 Pages`
+- `[`2026-20757`]` **[Schedules of Controlled Substances; Removal of Exemption Status for Inactive Butalbital Products](https://www.indexdata.org/schedules-of-controlled-substances-removal-of-exemption-status-for-inactive-butalbital-products/)** — `2026-10-09` | `6 Pages`
+- `[`2026-20748`]` **[Schedules of Controlled Substances: Placement of O-Desmethyltramadol in Schedule I; Correction](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-o-desmethyltramadol-in-schedule-i-correction/)** — `2026-10-09` | `2 Pages`
+- `[`2026-20084`]` **[Extension of Reexportation Period.](https://www.indexdata.org/extension-of-reexportation-period/)** — `2026-10-01` | `5 Pages`
+- `[`2026-19400`]` **[Schedules of Controlled Substances: Placement of 4-Hydroxy-N,N-Diisopropyltryptamine (4-OH-DiPT), 5-Methoxy-alpha-Methyltryptamine (5-MeO-AMT), 5-Methoxy-N-Methyl-N-Isopropyltryptamine (5-MeO-MiPT), 5-Methoxy-N,N-Diethyltryptamine (5-MeO-DET), and N,N-Diisopropyltryptamine (DiPT) Into Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-hydroxy-nn-diisopropyltryptamine-4-oh-dipt-5-methoxy-alpha-methyltryptamine-5-meo-amt-5-methoxy-n-methyl-n-isopropyltryptamine-5-meo-mipt-5/)** — `2026-09-23` | `10 Pages`
+- `[`2026-19231`]` **[Schedules of Controlled Substances: Placement of Diphenidine in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-diphenidine-in-schedule-i/)** — `2026-09-21` | `4 Pages`
+- `[`2026-17536`]` **[Schedules of Controlled Substances: Placement of Cipepofol in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-cipepofol-in-schedule-iv/)** — `2026-08-27` | `7 Pages`
+- `[`2026-17531`]` **[Schedules of Controlled Substances: Temporary Placement of 5,6-Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-56-dichloro-brorphine-56-dichloro-desmethylchlorphine-n-propionitrile-chlorphine-and-spirochlorphine-in-schedule-i-of-the-controlled-sub/)** — `2026-08-27` | `7 Pages`
+- `[`2026-17429`]` **[Schedules of Controlled Substances: Temporary Placement of Mitragynine Pseudoindoxyl, MGM-15, and MGM-16 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mitragynine-pseudoindoxyl-mgm-15-and-mgm-16-in-schedule-i/)** — `2026-08-26` | `9 Pages`
+
 ### [Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration-fhwa/](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
 
@@ -1469,23 +1487,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 - `[`2026-17336`]` **[Streamlining Probationary and Trial Period Appeals; Correction and Technical Amendment](https://www.indexdata.org/streamlining-probationary-and-trial-period-appeals-correction-and-technical-amendment/)** — `2026-08-25` | `2 Pages`
 - `[`2026-17335`]` **[Reduction in Force; Correction](https://www.indexdata.org/reduction-in-force-correction-2/)** — `2026-08-25` | `3 Pages`
 - `[`2026-17334`]` **[Improving Performance, Accountability and Responsiveness in the Civil Service, and Recruitment and Relocation Incentive Waivers; Correcting Amendments](https://www.indexdata.org/improving-performance-accountability-and-responsiveness-in-the-civil-service-and-recruitment-and-relocation-incentive-waivers-correcting-amendments/)** — `2026-08-25` | `2 Pages`
-
-### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
-
-- `[`2026-22717`]` **[Specific Listing for 3-Chloromethcathinone, A Currently Controlled Schedule I Substance](https://www.indexdata.org/specific-listing-for-3-chloromethcathinone-a-currently-controlled-schedule-i-substance/)** — `2026-11-06` | `3 Pages`
-- `[`2026-22484`]` **[Technical Amendment to the Regulation Regarding Amendments to Applications](https://www.indexdata.org/technical-amendment-to-the-regulation-regarding-amendments-to-applications/)** — `2026-11-04` | `2 Pages`
-- `[`2026-22208`]` **[Schedules of Controlled Substances: Placement of Centanafadine in Schedule III](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-centanafadine-in-schedule-iii/)** — `2026-10-30` | `8 Pages`
-- `[`2026-20943`]` **[Schedules of Controlled Substances: Temporary Placement of 7- Hydroxymitragynine and Mitragynine Pseudoindoxyl Above a Specified Threshold in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-7-hydroxymitragynine-and-mitragynine-pseudoindoxyl-above-a-specified-threshold-in-schedule-i/)** — `2026-10-14` | `12 Pages`
-- `[`2026-20942`]` **[Schedules of Controlled Substances: Temporary Placement of MGM-15 and MGM-16 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mgm-15-and-mgm-16-in-schedule-i/)** — `2026-10-14` | `7 Pages`
-- `[`2026-20757`]` **[Schedules of Controlled Substances; Removal of Exemption Status for Inactive Butalbital Products](https://www.indexdata.org/schedules-of-controlled-substances-removal-of-exemption-status-for-inactive-butalbital-products/)** — `2026-10-09` | `6 Pages`
-- `[`2026-20748`]` **[Schedules of Controlled Substances: Placement of O-Desmethyltramadol in Schedule I; Correction](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-o-desmethyltramadol-in-schedule-i-correction/)** — `2026-10-09` | `2 Pages`
-- `[`2026-20084`]` **[Extension of Reexportation Period.](https://www.indexdata.org/extension-of-reexportation-period/)** — `2026-10-01` | `5 Pages`
-- `[`2026-19400`]` **[Schedules of Controlled Substances: Placement of 4-Hydroxy-N,N-Diisopropyltryptamine (4-OH-DiPT), 5-Methoxy-alpha-Methyltryptamine (5-MeO-AMT), 5-Methoxy-N-Methyl-N-Isopropyltryptamine (5-MeO-MiPT), 5-Methoxy-N,N-Diethyltryptamine (5-MeO-DET), and N,N-Diisopropyltryptamine (DiPT) Into Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-hydroxy-nn-diisopropyltryptamine-4-oh-dipt-5-methoxy-alpha-methyltryptamine-5-meo-amt-5-methoxy-n-methyl-n-isopropyltryptamine-5-meo-mipt-5/)** — `2026-09-23` | `10 Pages`
-- `[`2026-19231`]` **[Schedules of Controlled Substances: Placement of Diphenidine in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-diphenidine-in-schedule-i/)** — `2026-09-21` | `4 Pages`
-- `[`2026-17536`]` **[Schedules of Controlled Substances: Placement of Cipepofol in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-cipepofol-in-schedule-iv/)** — `2026-08-27` | `7 Pages`
-- `[`2026-17531`]` **[Schedules of Controlled Substances: Temporary Placement of 5,6-Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-56-dichloro-brorphine-56-dichloro-desmethylchlorphine-n-propionitrile-chlorphine-and-spirochlorphine-in-schedule-i-of-the-controlled-sub/)** — `2026-08-27` | `7 Pages`
-- `[`2026-17429`]` **[Schedules of Controlled Substances: Temporary Placement of Mitragynine Pseudoindoxyl, MGM-15, and MGM-16 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mitragynine-pseudoindoxyl-mgm-15-and-mgm-16-in-schedule-i/)** — `2026-08-26` | `9 Pages`
 
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
@@ -1672,17 +1673,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2026-17884`]` **[Free Matter for the Blind and Other Physically Handicapped Persons](https://www.indexdata.org/free-matter-for-the-blind-and-other-physically-handicapped-persons/)** — `2026-09-01` | `2 Pages`
 - `[`2026-17238`]` **[Ballot Mail for Federal Elections](https://www.indexdata.org/ballot-mail-for-federal-elections/)** — `2026-08-26` | `27 Pages`
 
-### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
-
-- `[`2026-21377`]` **[Further Definition of “Swap”-Inclusions](https://www.indexdata.org/further-definition-of-swap-inclusions/)** — `2026-10-21` | `12 Pages`
-- `[`2026-21376`]` **[Further Definition of “Swap” To Exclude Casino-Style Gambling Products](https://www.indexdata.org/further-definition-of-swap-to-exclude-casino-style-gambling-products/)** — `2026-10-19` | `11 Pages`
-- `[`2026-20888`]` **[Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets](https://www.indexdata.org/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets/)** — `2026-10-13` | `30 Pages`
-- `[`2026-19006`]` **[Whistleblower Award Determination](https://www.indexdata.org/whistleblower-award-determination-2/)** — `2026-09-16` | `18 Pages`
-- `[`2026-18212`]` **[Clearing Requirement Determination Under Section 2(h) of the Commodity Exchange Act for Interest Rate Swaps To Account for CAD and MXN Interest Rate Benchmark Transitions](https://www.indexdata.org/clearing-requirement-determination-under-section-2h-of-the-commodity-exchange-act-for-interest-rate-swaps-to-account-for-cad-and-mxn-interest-rate-benchmark-transitions-2/)** — `2026-09-08` | `26 Pages`
-- `[`2026-17416`]` **[Swap Execution Facility Order Book Requirement for Permitted Transactions](https://www.indexdata.org/swap-execution-facility-order-book-requirement-for-permitted-transactions/)** — `2026-08-26` | `8 Pages`
-- `[`2026-17163`]` **[Request for Comment on the Listing of Compute Derivatives Contracts](https://www.indexdata.org/request-for-comment-on-the-listing-of-compute-derivatives-contracts/)** — `2026-08-21` | `6 Pages`
-
 ### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 
@@ -1726,6 +1716,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-p
 - `[`2026-20251`]` **[Big Cypress National Preserve; Off-Road Motor Vehicles](https://www.indexdata.org/big-cypress-national-preserve-off-road-motor-vehicles/)** — `2026-10-02` | `4 Pages`
 - `[`2026-17902`]` **[Bicycle Use in Park Areas](https://www.indexdata.org/bicycle-use-in-park-areas/)** — `2026-09-01` | `7 Pages`
 - `[`2026-17198`]` **[Gulf Islands National Seashore; Personal Watercraft](https://www.indexdata.org/gulf-islands-national-seashore-personal-watercraft/)** — `2026-08-24` | `4 Pages`
+
+### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
+
+- `[`2026-21377`]` **[Further Definition of “Swap”-Inclusions](https://www.indexdata.org/further-definition-of-swap-inclusions/)** — `2026-10-21` | `12 Pages`
+- `[`2026-21376`]` **[Further Definition of “Swap” To Exclude Casino-Style Gambling Products](https://www.indexdata.org/further-definition-of-swap-to-exclude-casino-style-gambling-products/)** — `2026-10-19` | `11 Pages`
+- `[`2026-20888`]` **[Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets](https://www.indexdata.org/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets/)** — `2026-10-13` | `30 Pages`
+- `[`2026-19006`]` **[Whistleblower Award Determination](https://www.indexdata.org/whistleblower-award-determination-2/)** — `2026-09-16` | `18 Pages`
+- `[`2026-18212`]` **[Clearing Requirement Determination Under Section 2(h) of the Commodity Exchange Act for Interest Rate Swaps To Account for CAD and MXN Interest Rate Benchmark Transitions](https://www.indexdata.org/clearing-requirement-determination-under-section-2h-of-the-commodity-exchange-act-for-interest-rate-swaps-to-account-for-cad-and-mxn-interest-rate-benchmark-transitions-2/)** — `2026-09-08` | `26 Pages`
+- `[`2026-17416`]` **[Swap Execution Facility Order Book Requirement for Permitted Transactions](https://www.indexdata.org/swap-execution-facility-order-book-requirement-for-permitted-transactions/)** — `2026-08-26` | `8 Pages`
 
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)

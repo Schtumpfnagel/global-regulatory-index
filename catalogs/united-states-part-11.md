@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,178` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-09 20:57 UTC`
+**Last Automated Sync:** `2026-11-09 21:56 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Education Department](https://www.indexdata.org/united-states/education-department/)** (`132` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 - **[Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 - **[Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`117` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 - **[Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 - **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 - **[National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)** (`112` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,177 of 15,177)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,178 of 15,178)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -402,6 +402,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2023-11550`]` **[Medicare Program; Contract Year 2024 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and Programs of All-Inclusive Care for the Elderly; Correction](https://www.indexdata.org/medicare-program-contract-year-2024-policy-and-technical-changes-to-the-medicare-advantage-program-medicare-prescription-drug-benefit-program-medicare-cost-plan-program-and-programs-of-all-inclusi-3/)** — `2023-05-31` | `2 Pages`
 - `[`2023-10934`]` **[Medicaid Program; Misclassification of Drugs, Program Administration and Program Integrity Updates Under the Medicaid Drug Rebate Program](https://www.indexdata.org/medicaid-program-misclassification-of-drugs-program-administration-and-program-integrity-updates-under-the-medicaid-drug-rebate-program-2/)** — `2023-05-26` | `59 Pages`
 
+### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
+
+- `[`2023-12132`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Swale Paintbrush](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-swale-paintbrush-2/)** — `2023-06-08` | `15 Pages`
+- `[`2023-11653`]` **[Exhibition of Migratory Birds and Eagles](https://www.indexdata.org/exhibition-of-migratory-birds-and-eagles/)** — `2023-06-01` | `3 Pages`
+- `[`2023-11652`]` **[Regulatory Authorizations for Migratory Bird and Eagle Possession by the General Public, Educators, and Government Agencies](https://www.indexdata.org/regulatory-authorizations-for-migratory-bird-and-eagle-possession-by-the-general-public-educators-and-government-agencies-2/)** — `2023-06-01` | `13 Pages`
+- `[`2023-11471`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Sira Curassow and Southern Helmeted Curassow](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-sira-curassow-and-southern-helmeted-curassow-2/)** — `2023-05-31` | `11 Pages`
+
 ### [National Energy Technology Laboratory (U.S. Department of Energy)](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/) | [RSS Feed](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/feed/)
 
@@ -423,13 +431,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ra
 - `[`2023-10773`]` **[Certification of Signal Employees](https://www.indexdata.org/certification-of-signal-employees-4/)** — `2023-05-31` | `60 Pages`
 - `[`2023-10772`]` **[Certification of Dispatchers](https://www.indexdata.org/certification-of-dispatchers-3/)** — `2023-05-31` | `57 Pages`
 - `[`2023-11188`]` **[Passenger Equipment Safety Standards; Standards for High-Speed Trainsets; Extension of Comment Period](https://www.indexdata.org/passenger-equipment-safety-standards-standards-for-high-speed-trainsets-extension-of-comment-period/)** — `2023-05-25` | `2 Pages`
-
-### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-
-- `[`2023-11653`]` **[Exhibition of Migratory Birds and Eagles](https://www.indexdata.org/exhibition-of-migratory-birds-and-eagles/)** — `2023-06-01` | `3 Pages`
-- `[`2023-11652`]` **[Regulatory Authorizations for Migratory Bird and Eagle Possession by the General Public, Educators, and Government Agencies](https://www.indexdata.org/regulatory-authorizations-for-migratory-bird-and-eagle-possession-by-the-general-public-educators-and-government-agencies-2/)** — `2023-06-01` | `13 Pages`
-- `[`2023-11471`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Sira Curassow and Southern Helmeted Curassow](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-sira-curassow-and-southern-helmeted-curassow-2/)** — `2023-05-31` | `11 Pages`
 
 ### [Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)

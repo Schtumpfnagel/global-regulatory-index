@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,178` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 20:57 UTC`
+**Last Automated Sync:** `2026-11-09 21:56 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Education Department](https://www.indexdata.org/united-states/education-department/)** (`132` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 - **[Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 - **[Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`117` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 - **[Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 - **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 - **[National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)** (`112` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,177)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,178)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -598,7 +598,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-02443`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-264/)** — `2024-02-12` | `4 Pages`
 - `[`2024-02610`]` **[Amendment of Class E Airspace; Ozark, AL and Columbus, GA](https://www.indexdata.org/amendment-of-class-e-airspace-ozark-al-and-columbus-ga/)** — `2024-02-09` | `2 Pages`
 - `[`2024-02494`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-265/)** — `2024-02-09` | `4 Pages`
-- `[`2024-02433`]` **[Airworthiness Directives; Saab AB, Support and Services (Formerly Known as Saab AB, Saab Aeronautics) Airplanes](https://www.indexdata.org/airworthiness-directives-saab-ab-support-and-services-formerly-known-as-saab-ab-saab-aeronautics-airplanes-2/)** — `2024-02-09` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1676,6 +1675,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2024-04421`]` **[Domestic Mail Manual; Incorporation by Reference](https://www.indexdata.org/domestic-mail-manual-incorporation-by-reference-2/)** — `2024-03-04` | `2 Pages`
 - `[`2024-03079`]` **[Authorization To Manufacture and Distribute Postage Evidencing Systems](https://www.indexdata.org/authorization-to-manufacture-and-distribute-postage-evidencing-systems/)** — `2024-02-26` | `3 Pages`
 
+### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
+
+- `[`2024-12659`]` **[National Poultry Improvement Plan and Auxiliary Provisions](https://www.indexdata.org/national-poultry-improvement-plan-and-auxiliary-provisions-3/)** — `2024-06-11` | `12 Pages`
+- `[`2024-12315`]` **[Horse Protection Amendments; Correction](https://www.indexdata.org/horse-protection-amendments-correction/)** — `2024-06-05` | `2 Pages`
+- `[`2024-09717`]` **[Use of Electronic Identification Eartags as Official Identification in Cattle and Bison](https://www.indexdata.org/use-of-electronic-identification-eartags-as-official-identification-in-cattle-and-bison/)** — `2024-05-09` | `27 Pages`
+- `[`2024-09469`]` **[Horse Protection Amendments](https://www.indexdata.org/horse-protection-amendments/)** — `2024-05-08` | `58 Pages`
+- `[`2024-09348`]` **[User Fees for Agricultural Quarantine and Inspection Services](https://www.indexdata.org/user-fees-for-agricultural-quarantine-and-inspection-services/)** — `2024-05-07` | `49 Pages`
+- `[`2024-07370`]` **[Import Regulations for Horses; Technical Amendments](https://www.indexdata.org/import-regulations-for-horses-technical-amendments/)** — `2024-04-08` | `2 Pages`
+- `[`2024-07038`]` **[Domestic Quarantine: Quarantined Areas and Regulated Articles; Technical Amendment](https://www.indexdata.org/domestic-quarantine-quarantined-areas-and-regulated-articles-technical-amendment/)** — `2024-04-04` | `2 Pages`
+
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 
@@ -1697,16 +1707,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2024-07646`]` **[Federal Motor Vehicle Safety Standards; FMVSS No. 305a Electric-Powered Vehicles: Electric Powertrain Integrity Global Technical Regulation No. 20, Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fmvss-no-305a-electric-powered-vehicles-electric-powertrain-integrity-global-technical-regulation-no-20-incorporation-by-reference-4/)** — `2024-04-15` | `51 Pages`
 - `[`2024-05010`]` **[Improvements for Heavy-Duty Engine and Vehicle Fuel Efficiency Test Procedures, and Other Technical Amendments](https://www.indexdata.org/improvements-for-heavy-duty-engine-and-vehicle-fuel-efficiency-test-procedures-and-other-technical-amendments/)** — `2024-03-15` | `24 Pages`
 - `[`2024-03119`]` **[Exemptions From Average Fuel Economy Standards; Passenger Automobile Average Fuel Economy Standards](https://www.indexdata.org/exemptions-from-average-fuel-economy-standards-passenger-automobile-average-fuel-economy-standards/)** — `2024-02-20` | `8 Pages`
-
-### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
-
-- `[`2024-12315`]` **[Horse Protection Amendments; Correction](https://www.indexdata.org/horse-protection-amendments-correction/)** — `2024-06-05` | `2 Pages`
-- `[`2024-09717`]` **[Use of Electronic Identification Eartags as Official Identification in Cattle and Bison](https://www.indexdata.org/use-of-electronic-identification-eartags-as-official-identification-in-cattle-and-bison/)** — `2024-05-09` | `27 Pages`
-- `[`2024-09469`]` **[Horse Protection Amendments](https://www.indexdata.org/horse-protection-amendments/)** — `2024-05-08` | `58 Pages`
-- `[`2024-09348`]` **[User Fees for Agricultural Quarantine and Inspection Services](https://www.indexdata.org/user-fees-for-agricultural-quarantine-and-inspection-services/)** — `2024-05-07` | `49 Pages`
-- `[`2024-07370`]` **[Import Regulations for Horses; Technical Amendments](https://www.indexdata.org/import-regulations-for-horses-technical-amendments/)** — `2024-04-08` | `2 Pages`
-- `[`2024-07038`]` **[Domestic Quarantine: Quarantined Areas and Regulated Articles; Technical Amendment](https://www.indexdata.org/domestic-quarantine-quarantined-areas-and-regulated-articles-technical-amendment/)** — `2024-04-04` | `2 Pages`
 
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)

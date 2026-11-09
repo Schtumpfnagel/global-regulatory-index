@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,178` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 20:57 UTC`
+**Last Automated Sync:** `2026-11-09 21:56 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Education Department](https://www.indexdata.org/united-states/education-department/)** (`132` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 - **[Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 - **[Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`117` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 - **[Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 - **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 - **[National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)** (`112` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,177)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,178)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1223,31 +1223,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2026-09479`]` **[Excepted Fertility Benefits](https://www.indexdata.org/excepted-fertility-benefits/)** — `2026-05-13` | `34 Pages`
 - `[`2026-09141`]` **[Section 45Z Clean Fuel Production Credit; Hearing](https://www.indexdata.org/section-45z-clean-fuel-production-credit-hearing/)** — `2026-05-08` | `2 Pages`
 
-### [Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
-
-- `[`2026-16981`]` **[Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms](https://www.indexdata.org/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition-receipt-transfer-shipment-transportation-or-possession-of-firearms/)** — `2026-08-20` | `40 Pages`
-- `[`2026-13587`]` **[Fingerprint and Photograph Requirements for Firearms Applications](https://www.indexdata.org/fingerprint-and-photograph-requirements-for-firearms-applications/)** — `2026-07-06` | `21 Pages`
-- `[`2026-13586`]` **[Registering NFA Firearms That Fall Out of Government Contract](https://www.indexdata.org/registering-nfa-firearms-that-fall-out-of-government-contract/)** — `2026-07-06` | `11 Pages`
-- `[`2026-09182`]` **[Revising Firearms Transaction Record, “Form 4473”](https://www.indexdata.org/revising-firearms-transaction-record-form-4473/)** — `2026-05-08` | `16 Pages`
-- `[`2026-09165`]` **[Removing Youth Handgun Safety Act Notice](https://www.indexdata.org/removing-youth-handgun-safety-act-notice/)** — `2026-05-08` | `6 Pages`
-- `[`2026-09164`]` **[Converting Temporary to Permanent Imports for Defense Articles](https://www.indexdata.org/converting-temporary-to-permanent-imports-for-defense-articles/)** — `2026-05-08` | `8 Pages`
-- `[`2026-09163`]` **[Importing Dual-Use Frames, Receivers, or Barrels](https://www.indexdata.org/importing-dual-use-frames-receivers-or-barrels/)** — `2026-05-08` | `10 Pages`
-- `[`2026-09162`]` **[Firearm Activities in Foreign Trade Zones, Customs-Bonded Warehouses](https://www.indexdata.org/firearm-activities-in-foreign-trade-zones-customs-bonded-warehouses/)** — `2026-05-08` | `7 Pages`
-- `[`2026-09161`]` **[Interstate Transport and Temporary Export of National Firearms Act Firearms](https://www.indexdata.org/interstate-transport-and-temporary-export-of-national-firearms-act-firearms/)** — `2026-05-08` | `9 Pages`
-- `[`2026-09160`]` **[Implementing PATRIOT Act Improvements: Contraband Cigarettes and Smokeless Tobacco](https://www.indexdata.org/implementing-patriot-act-improvements-contraband-cigarettes-and-smokeless-tobacco/)** — `2026-05-08` | `16 Pages`
-- `[`2026-09159`]` **[Defining “Willfully” for Firearms Violations](https://www.indexdata.org/defining-willfully-for-firearms-violations/)** — `2026-05-08` | `9 Pages`
-- `[`2026-09158`]` **[Firearms Electronic Record-Keeping](https://www.indexdata.org/firearms-electronic-record-keeping/)** — `2026-05-08` | `7 Pages`
-- `[`2026-09157`]` **[Revising Non-Over-the-Counter Firearms Transaction Requirements](https://www.indexdata.org/revising-non-over-the-counter-firearms-transaction-requirements/)** — `2026-05-08` | `13 Pages`
-- `[`2026-09156`]` **[Revising Definitions of “Adjudicated as a Mental Defective” and “Committed to a Mental Institution”](https://www.indexdata.org/revising-definitions-of-adjudicated-as-a-mental-defective-and-committed-to-a-mental-institution/)** — `2026-05-08` | `22 Pages`
-- `[`2026-09155`]` **[Changes to National Firearms Act Tax Remittance Provisions](https://www.indexdata.org/changes-to-national-firearms-act-tax-remittance-provisions/)** — `2026-05-08` | `7 Pages`
-- `[`2026-09154`]` **[Joint Registration for Spouses Under the National Firearms Act](https://www.indexdata.org/joint-registration-for-spouses-under-the-national-firearms-act/)** — `2026-05-08` | `13 Pages`
-- `[`2026-08932`]` **[Selecting Biological Sex on ATF Forms](https://www.indexdata.org/selecting-biological-sex-on-atf-forms/)** — `2026-05-06` | `5 Pages`
-- `[`2026-08931`]` **[Conforming Change for Approving a Making Application](https://www.indexdata.org/conforming-change-for-approving-a-making-application/)** — `2026-05-06` | `3 Pages`
-- `[`2026-08930`]` **[Removing Factoring Criteria for Firearms With Attached “Stabilizing Braces”](https://www.indexdata.org/removing-factoring-criteria-for-firearms-with-attached-stabilizing-braces/)** — `2026-05-06` | `10 Pages`
-- `[`2026-08929`]` **[Firearm Records Retention Periods](https://www.indexdata.org/firearm-records-retention-periods/)** — `2026-05-06` | `12 Pages`
-- `[`2026-08928`]` **[Transferring Machine Guns Between Qualified Licensees](https://www.indexdata.org/transferring-machine-guns-between-qualified-licensees/)** — `2026-05-06` | `6 Pages`
-
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
 
@@ -1323,6 +1298,30 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 - `[`2026-11022`]` **[Federal Employees Health Benefits Program: Verification Requirements for Family Member Coverage](https://www.indexdata.org/federal-employees-health-benefits-program-verification-requirements-for-family-member-coverage/)** — `2026-06-02` | `6 Pages`
 - `[`2026-10552`]` **[Elimination of Time-in-Grade](https://www.indexdata.org/elimination-of-time-in-grade-2/)** — `2026-05-28` | `5 Pages`
 
+### [Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
+
+- `[`2026-16981`]` **[Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms](https://www.indexdata.org/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition-receipt-transfer-shipment-transportation-or-possession-of-firearms/)** — `2026-08-20` | `40 Pages`
+- `[`2026-13587`]` **[Fingerprint and Photograph Requirements for Firearms Applications](https://www.indexdata.org/fingerprint-and-photograph-requirements-for-firearms-applications/)** — `2026-07-06` | `21 Pages`
+- `[`2026-13586`]` **[Registering NFA Firearms That Fall Out of Government Contract](https://www.indexdata.org/registering-nfa-firearms-that-fall-out-of-government-contract/)** — `2026-07-06` | `11 Pages`
+- `[`2026-09182`]` **[Revising Firearms Transaction Record, “Form 4473”](https://www.indexdata.org/revising-firearms-transaction-record-form-4473/)** — `2026-05-08` | `16 Pages`
+- `[`2026-09165`]` **[Removing Youth Handgun Safety Act Notice](https://www.indexdata.org/removing-youth-handgun-safety-act-notice/)** — `2026-05-08` | `6 Pages`
+- `[`2026-09164`]` **[Converting Temporary to Permanent Imports for Defense Articles](https://www.indexdata.org/converting-temporary-to-permanent-imports-for-defense-articles/)** — `2026-05-08` | `8 Pages`
+- `[`2026-09163`]` **[Importing Dual-Use Frames, Receivers, or Barrels](https://www.indexdata.org/importing-dual-use-frames-receivers-or-barrels/)** — `2026-05-08` | `10 Pages`
+- `[`2026-09162`]` **[Firearm Activities in Foreign Trade Zones, Customs-Bonded Warehouses](https://www.indexdata.org/firearm-activities-in-foreign-trade-zones-customs-bonded-warehouses/)** — `2026-05-08` | `7 Pages`
+- `[`2026-09161`]` **[Interstate Transport and Temporary Export of National Firearms Act Firearms](https://www.indexdata.org/interstate-transport-and-temporary-export-of-national-firearms-act-firearms/)** — `2026-05-08` | `9 Pages`
+- `[`2026-09160`]` **[Implementing PATRIOT Act Improvements: Contraband Cigarettes and Smokeless Tobacco](https://www.indexdata.org/implementing-patriot-act-improvements-contraband-cigarettes-and-smokeless-tobacco/)** — `2026-05-08` | `16 Pages`
+- `[`2026-09159`]` **[Defining “Willfully” for Firearms Violations](https://www.indexdata.org/defining-willfully-for-firearms-violations/)** — `2026-05-08` | `9 Pages`
+- `[`2026-09158`]` **[Firearms Electronic Record-Keeping](https://www.indexdata.org/firearms-electronic-record-keeping/)** — `2026-05-08` | `7 Pages`
+- `[`2026-09157`]` **[Revising Non-Over-the-Counter Firearms Transaction Requirements](https://www.indexdata.org/revising-non-over-the-counter-firearms-transaction-requirements/)** — `2026-05-08` | `13 Pages`
+- `[`2026-09156`]` **[Revising Definitions of “Adjudicated as a Mental Defective” and “Committed to a Mental Institution”](https://www.indexdata.org/revising-definitions-of-adjudicated-as-a-mental-defective-and-committed-to-a-mental-institution/)** — `2026-05-08` | `22 Pages`
+- `[`2026-09155`]` **[Changes to National Firearms Act Tax Remittance Provisions](https://www.indexdata.org/changes-to-national-firearms-act-tax-remittance-provisions/)** — `2026-05-08` | `7 Pages`
+- `[`2026-09154`]` **[Joint Registration for Spouses Under the National Firearms Act](https://www.indexdata.org/joint-registration-for-spouses-under-the-national-firearms-act/)** — `2026-05-08` | `13 Pages`
+- `[`2026-08932`]` **[Selecting Biological Sex on ATF Forms](https://www.indexdata.org/selecting-biological-sex-on-atf-forms/)** — `2026-05-06` | `5 Pages`
+- `[`2026-08931`]` **[Conforming Change for Approving a Making Application](https://www.indexdata.org/conforming-change-for-approving-a-making-application/)** — `2026-05-06` | `3 Pages`
+- `[`2026-08930`]` **[Removing Factoring Criteria for Firearms With Attached “Stabilizing Braces”](https://www.indexdata.org/removing-factoring-criteria-for-firearms-with-attached-stabilizing-braces/)** — `2026-05-06` | `10 Pages`
+- `[`2026-08929`]` **[Firearm Records Retention Periods](https://www.indexdata.org/firearm-records-retention-periods/)** — `2026-05-06` | `12 Pages`
+
 ### [National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-credit-union-administration/](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
 
@@ -1367,6 +1366,27 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CPRT-119HPRT62789`]` **[CP-11 - FULL COMMITTEE BUSINESS MEETING MARK-UP OF SEVERAL BILLS for the COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED NINETEENTH CONGRESS SECOND SESSION](https://www.indexdata.org/cp-11-full-committee-business-meeting-mark-up-of-several-bills-for-the-committee-on-oversight-and-government-reform-u-s-house-of-representatives-one-hundred-nineteenth-congress-second-session/)** — `2026-06-11` | `38 Pages`
 - `[`US-CPRT-119HPRT62609`]` **[CP-10 - FULL COMMITTEE BUSINESS MEETING MARK-UP OF SEVERAL RESOLUTIONS for the COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM U.S. HOUSE OF REPRESENTATIVES ONE HUNDRED NINETEENTH CONGRESS SECOND SESSION](https://www.indexdata.org/cp-10-full-committee-business-meeting-mark-up-of-several-resolutions-for-the-committee-on-oversight-and-government-reform-u-s-house-of-representatives-one-hundred-nineteenth-congress-second-session/)** — `2026-06-11` | `76 Pages`
 
+### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
+
+- `[`2026-17163`]` **[Request for Comment on the Listing of Compute Derivatives Contracts](https://www.indexdata.org/request-for-comment-on-the-listing-of-compute-derivatives-contracts/)** — `2026-08-21` | `6 Pages`
+- `[`2026-17079`]` **[Commodity Pool Operators and Commodity Trading Advisors: Reduction of Duplicative Regulation Through Intermediary Registration Exemptions; Expansion of the Exemption for Small Commodity Pools](https://www.indexdata.org/commodity-pool-operators-and-commodity-trading-advisors-reduction-of-duplicative-regulation-through-intermediary-registration-exemptions-expansion-of-the-exemption-for-small-commodity-pools/)** — `2026-08-21` | `17 Pages`
+- `[`2026-15948`]` **[Conflicts and Affiliations](https://www.indexdata.org/conflicts-and-affiliations/)** — `2026-08-06` | `70 Pages`
+- `[`2026-15216`]` **[Request for Comment on the Extension of Standard Futures Contracts to 24/7 Trading and on Perpetual Contracts Referencing Physically Delivered or Storable Energy Commodities](https://www.indexdata.org/request-for-comment-on-the-extension-of-standard-futures-contracts-to-24-7-trading-and-on-perpetual-contracts-referencing-physically-delivered-or-storable-energy-commodities/)** — `2026-07-28` | `3 Pages`
+- `[`2026-14710`]` **[Order Sunsetting Certain Large Trader Reporting Requirements for Physical Commodity Swaps](https://www.indexdata.org/order-sunsetting-certain-large-trader-reporting-requirements-for-physical-commodity-swaps/)** — `2026-07-21` | `3 Pages`
+- `[`2026-14635`]` **[Order Providing Exemptive Relief To Facilitate Listing of Cash-Settled Futures on Individual Equity Securities](https://www.indexdata.org/order-providing-exemptive-relief-to-facilitate-listing-of-cash-settled-futures-on-individual-equity-securities/)** — `2026-07-21` | `5 Pages`
+- `[`2026-14509`]` **[Margin Requirements for Uncleared Swaps for Swap Dealers and Major Swap Participants](https://www.indexdata.org/margin-requirements-for-uncleared-swaps-for-swap-dealers-and-major-swap-participants/)** — `2026-07-17` | `30 Pages`
+- `[`2026-13239`]` **[Data Reporting Requirements for Certain Event Contracts](https://www.indexdata.org/data-reporting-requirements-for-certain-event-contracts/)** — `2026-07-01` | `32 Pages`
+- `[`2026-12784`]` **[Request for Comment on the Extension of Standard Futures Contracts to 24/7 Trading and on Perpetual Contracts Referencing Physically Delivered or Storable Energy Commodities](https://www.indexdata.org/request-for-comment-on-the-extension-of-standard-futures-contracts-to-24-7-trading-and-on-perpetual-contracts-referencing-physically-delivered-or-storable-energy-commodities-2/)** — `2026-06-25` | `6 Pages`
+- `[`2026-12337`]` **[Request for Information: Identifying Regulations To Facilitate Innovation and Competition to Financial Products and Services for Fintech Firms](https://www.indexdata.org/request-for-information-identifying-regulations-to-facilitate-innovation-and-competition-to-financial-products-and-services-for-fintech-firms/)** — `2026-06-18` | `3 Pages`
+- `[`2026-12006`]` **[Whistleblower Award Determination](https://www.indexdata.org/whistleblower-award-determination/)** — `2026-06-15` | `13 Pages`
+- `[`2026-11854`]` **[Prediction Markets; Public Interest Determinations](https://www.indexdata.org/prediction-markets-public-interest-determinations/)** — `2026-06-12` | `66 Pages`
+- `[`2026-11466`]` **[Rescission of Policy Relating to the Acceptance of Settlements in Administrative and Civil Proceedings](https://www.indexdata.org/rescission-of-policy-relating-to-the-acceptance-of-settlements-in-administrative-and-civil-proceedings/)** — `2026-06-08` | `4 Pages`
+- `[`2026-09693`]` **[Order Granting Conditional Substituted Compliance in Connection With Certain Capital and Financial Reporting Requirements Applicable to a Nonbank Swap Dealer Domiciled in the French Republic and Subject to the European Union's Investment Firms Regulation and Investment Firms Directive](https://www.indexdata.org/order-granting-conditional-substituted-compliance-in-connection-with-certain-capital-and-financial-reporting-requirements-applicable-to-a-nonbank-swap-dealer-domiciled-in-the-french-republic-and-subje/)** — `2026-05-14` | `34 Pages`
+- `[`2026-09428`]` **[Clearing Requirement Determination Under Section 2(h) of the Commodity Exchange Act for Interest Rate Swaps to Account for CAD and MXN Interest Rate Benchmark Transitions](https://www.indexdata.org/clearing-requirement-determination-under-section-2h-of-the-commodity-exchange-act-for-interest-rate-swaps-to-account-for-cad-and-mxn-interest-rate-benchmark-transitions/)** — `2026-05-12` | `29 Pages`
+- `[`2026-09327`]` **[Official Seal](https://www.indexdata.org/official-seal/)** — `2026-05-11` | `4 Pages`
+- `[`2026-08979`]` **[Privacy Act Regulations](https://www.indexdata.org/privacy-act-regulations/)** — `2026-05-06` | `3 Pages`
+
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 
@@ -1387,26 +1407,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2026-10729`]` **[Zero-Based Regulating](https://www.indexdata.org/zero-based-regulating-2/)** — `2026-05-29` | `8 Pages`
 - `[`2026-10727`]` **[Zero-Based Regulating](https://www.indexdata.org/zero-based-regulating-3/)** — `2026-05-29` | `9 Pages`
 - `[`2026-10064`]` **[Renewable Energy Production Incentives](https://www.indexdata.org/renewable-energy-production-incentives/)** — `2026-05-20` | `4 Pages`
-
-### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
-
-- `[`2026-17079`]` **[Commodity Pool Operators and Commodity Trading Advisors: Reduction of Duplicative Regulation Through Intermediary Registration Exemptions; Expansion of the Exemption for Small Commodity Pools](https://www.indexdata.org/commodity-pool-operators-and-commodity-trading-advisors-reduction-of-duplicative-regulation-through-intermediary-registration-exemptions-expansion-of-the-exemption-for-small-commodity-pools/)** — `2026-08-21` | `17 Pages`
-- `[`2026-15948`]` **[Conflicts and Affiliations](https://www.indexdata.org/conflicts-and-affiliations/)** — `2026-08-06` | `70 Pages`
-- `[`2026-15216`]` **[Request for Comment on the Extension of Standard Futures Contracts to 24/7 Trading and on Perpetual Contracts Referencing Physically Delivered or Storable Energy Commodities](https://www.indexdata.org/request-for-comment-on-the-extension-of-standard-futures-contracts-to-24-7-trading-and-on-perpetual-contracts-referencing-physically-delivered-or-storable-energy-commodities/)** — `2026-07-28` | `3 Pages`
-- `[`2026-14710`]` **[Order Sunsetting Certain Large Trader Reporting Requirements for Physical Commodity Swaps](https://www.indexdata.org/order-sunsetting-certain-large-trader-reporting-requirements-for-physical-commodity-swaps/)** — `2026-07-21` | `3 Pages`
-- `[`2026-14635`]` **[Order Providing Exemptive Relief To Facilitate Listing of Cash-Settled Futures on Individual Equity Securities](https://www.indexdata.org/order-providing-exemptive-relief-to-facilitate-listing-of-cash-settled-futures-on-individual-equity-securities/)** — `2026-07-21` | `5 Pages`
-- `[`2026-14509`]` **[Margin Requirements for Uncleared Swaps for Swap Dealers and Major Swap Participants](https://www.indexdata.org/margin-requirements-for-uncleared-swaps-for-swap-dealers-and-major-swap-participants/)** — `2026-07-17` | `30 Pages`
-- `[`2026-13239`]` **[Data Reporting Requirements for Certain Event Contracts](https://www.indexdata.org/data-reporting-requirements-for-certain-event-contracts/)** — `2026-07-01` | `32 Pages`
-- `[`2026-12784`]` **[Request for Comment on the Extension of Standard Futures Contracts to 24/7 Trading and on Perpetual Contracts Referencing Physically Delivered or Storable Energy Commodities](https://www.indexdata.org/request-for-comment-on-the-extension-of-standard-futures-contracts-to-24-7-trading-and-on-perpetual-contracts-referencing-physically-delivered-or-storable-energy-commodities-2/)** — `2026-06-25` | `6 Pages`
-- `[`2026-12337`]` **[Request for Information: Identifying Regulations To Facilitate Innovation and Competition to Financial Products and Services for Fintech Firms](https://www.indexdata.org/request-for-information-identifying-regulations-to-facilitate-innovation-and-competition-to-financial-products-and-services-for-fintech-firms/)** — `2026-06-18` | `3 Pages`
-- `[`2026-12006`]` **[Whistleblower Award Determination](https://www.indexdata.org/whistleblower-award-determination/)** — `2026-06-15` | `13 Pages`
-- `[`2026-11854`]` **[Prediction Markets; Public Interest Determinations](https://www.indexdata.org/prediction-markets-public-interest-determinations/)** — `2026-06-12` | `66 Pages`
-- `[`2026-11466`]` **[Rescission of Policy Relating to the Acceptance of Settlements in Administrative and Civil Proceedings](https://www.indexdata.org/rescission-of-policy-relating-to-the-acceptance-of-settlements-in-administrative-and-civil-proceedings/)** — `2026-06-08` | `4 Pages`
-- `[`2026-09693`]` **[Order Granting Conditional Substituted Compliance in Connection With Certain Capital and Financial Reporting Requirements Applicable to a Nonbank Swap Dealer Domiciled in the French Republic and Subject to the European Union's Investment Firms Regulation and Investment Firms Directive](https://www.indexdata.org/order-granting-conditional-substituted-compliance-in-connection-with-certain-capital-and-financial-reporting-requirements-applicable-to-a-nonbank-swap-dealer-domiciled-in-the-french-republic-and-subje/)** — `2026-05-14` | `34 Pages`
-- `[`2026-09428`]` **[Clearing Requirement Determination Under Section 2(h) of the Commodity Exchange Act for Interest Rate Swaps to Account for CAD and MXN Interest Rate Benchmark Transitions](https://www.indexdata.org/clearing-requirement-determination-under-section-2h-of-the-commodity-exchange-act-for-interest-rate-swaps-to-account-for-cad-and-mxn-interest-rate-benchmark-transitions/)** — `2026-05-12` | `29 Pages`
-- `[`2026-09327`]` **[Official Seal](https://www.indexdata.org/official-seal/)** — `2026-05-11` | `4 Pages`
-- `[`2026-08979`]` **[Privacy Act Regulations](https://www.indexdata.org/privacy-act-regulations/)** — `2026-05-06` | `3 Pages`
 
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)

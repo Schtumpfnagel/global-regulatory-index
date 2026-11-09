@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,178` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 20:57 UTC`
+**Last Automated Sync:** `2026-11-09 21:56 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Education Department](https://www.indexdata.org/united-states/education-department/)** (`132` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 - **[Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 - **[Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`117` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 - **[Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 - **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 - **[National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)** (`112` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,177)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,178)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1221,7 +1221,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2023-12315`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Southern Elktoe and Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-southern-elktoe-and-designation-of-critical-habitat/)** — `2023-06-21` | `30 Pages`
 - `[`2023-12129`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Navasota False Foxglove and Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-navasota-false-foxglove-and-designation-of-critical-habitat/)** — `2023-06-13` | `23 Pages`
 - `[`2023-12636`]` **[Regulations To Implement the Big Cat Public Safety Act](https://www.indexdata.org/regulations-to-implement-the-big-cat-public-safety-act/)** — `2023-06-12` | `18 Pages`
-- `[`2023-12132`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Swale Paintbrush](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-swale-paintbrush-2/)** — `2023-06-08` | `15 Pages`
 
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -1655,6 +1654,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2023-13439`]` **[Veteran-Owned Small Business and Service-Disabled, Veteran-Owned Small Business-Certification; Correction](https://www.indexdata.org/veteran-owned-small-business-and-service-disabled-veteran-owned-small-business-certification-correction/)** — `2023-07-03` | `2 Pages`
 - `[`2023-12779`]` **[Disaster Assistance Loan Program Changes to Maximum Loan Amounts and Miscellaneous Updates](https://www.indexdata.org/disaster-assistance-loan-program-changes-to-maximum-loan-amounts-and-miscellaneous-updates/)** — `2023-06-16` | `7 Pages`
 
+### [State Department](https://www.indexdata.org/united-states/state-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+
+- `[`2023-21666`]` **[Publication, Coordination, and Reporting of International Agreements: Amendments](https://www.indexdata.org/publication-coordination-and-reporting-of-international-agreements-amendments/)** — `2023-10-02` | `9 Pages`
+- `[`2023-21559`]` **[Schedule of Fees for Consular Services-Administrative Processing of Request for Certificate of Loss of Nationality (CLN) Fee](https://www.indexdata.org/schedule-of-fees-for-consular-services-administrative-processing-of-request-for-certificate-of-loss-of-nationality-cln-fee/)** — `2023-10-02` | `4 Pages`
+- `[`2023-19851`]` **[International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus/)** — `2023-09-14` | `2 Pages`
+- `[`2023-19047`]` **[Visas: Ineligibility Based on Public Charge](https://www.indexdata.org/visas-ineligibility-based-on-public-charge/)** — `2023-09-05` | `10 Pages`
+- `[`2023-18143`]` **[Access to Information; Privacy Act Provisions](https://www.indexdata.org/access-to-information-privacy-act-provisions-2/)** — `2023-08-25` | `4 Pages`
+- `[`2023-15744`]` **[Third-Party Attendance at Appointments for Passport, Consular Report of Birth Abroad (CRBA), and Certain Other Services](https://www.indexdata.org/third-party-attendance-at-appointments-for-passport-consular-report-of-birth-abroad-crba-and-certain-other-services-2/)** — `2023-07-26` | `3 Pages`
+- `[`2023-14538`]` **[Visas: Nonimmigrant Visas; Immigrant Visas](https://www.indexdata.org/visas-nonimmigrant-visas-immigrant-visas/)** — `2023-07-14` | `10 Pages`
+- `[`2023-13318`]` **[Passports: Consular Reports of Birth Abroad (CRBA)](https://www.indexdata.org/passports-consular-reports-of-birth-abroad-crba/)** — `2023-06-23` | `2 Pages`
+
 ### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
 
@@ -1676,17 +1687,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2023-13942`]` **[Priority Mail Express Refunds](https://www.indexdata.org/priority-mail-express-refunds/)** — `2023-06-30` | `2 Pages`
 - `[`2023-13440`]` **[Intelligent Mail Package Barcode Compliance Quality](https://www.indexdata.org/intelligent-mail-package-barcode-compliance-quality-2/)** — `2023-06-28` | `2 Pages`
 - `[`2023-12668`]` **[International Mailing Services: Price Changes](https://www.indexdata.org/international-mailing-services-price-changes-5/)** — `2023-06-14` | `2 Pages`
-
-### [State Department](https://www.indexdata.org/united-states/state-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
-
-- `[`2023-21559`]` **[Schedule of Fees for Consular Services-Administrative Processing of Request for Certificate of Loss of Nationality (CLN) Fee](https://www.indexdata.org/schedule-of-fees-for-consular-services-administrative-processing-of-request-for-certificate-of-loss-of-nationality-cln-fee/)** — `2023-10-02` | `4 Pages`
-- `[`2023-19851`]` **[International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus/)** — `2023-09-14` | `2 Pages`
-- `[`2023-19047`]` **[Visas: Ineligibility Based on Public Charge](https://www.indexdata.org/visas-ineligibility-based-on-public-charge/)** — `2023-09-05` | `10 Pages`
-- `[`2023-18143`]` **[Access to Information; Privacy Act Provisions](https://www.indexdata.org/access-to-information-privacy-act-provisions-2/)** — `2023-08-25` | `4 Pages`
-- `[`2023-15744`]` **[Third-Party Attendance at Appointments for Passport, Consular Report of Birth Abroad (CRBA), and Certain Other Services](https://www.indexdata.org/third-party-attendance-at-appointments-for-passport-consular-report-of-birth-abroad-crba-and-certain-other-services-2/)** — `2023-07-26` | `3 Pages`
-- `[`2023-14538`]` **[Visas: Nonimmigrant Visas; Immigrant Visas](https://www.indexdata.org/visas-nonimmigrant-visas-immigrant-visas/)** — `2023-07-14` | `10 Pages`
-- `[`2023-13318`]` **[Passports: Consular Reports of Birth Abroad (CRBA)](https://www.indexdata.org/passports-consular-reports-of-birth-abroad-crba/)** — `2023-06-23` | `2 Pages`
 
 ### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)

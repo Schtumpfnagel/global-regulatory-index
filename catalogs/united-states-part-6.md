@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,178` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 20:57 UTC`
+**Last Automated Sync:** `2026-11-09 21:56 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Education Department](https://www.indexdata.org/united-states/education-department/)** (`132` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 - **[Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 - **[Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`117` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 - **[Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 - **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 - **[National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)** (`112` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -245,11 +245,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,177)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,178)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-02323`]` **[Amendment of Class E Airspace; Marion, NC](https://www.indexdata.org/amendment-of-class-e-airspace-marion-nc/)** — `2025-02-07` | `2 Pages`
 - `[`2025-02244`]` **[Airworthiness Directives; Embraer S.A. (Type Certificate Previously Held by Yaborã Indústria Aeronáutica S.A.; Embraer S.A.) Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-type-certificate-previously-held-by-yabora-industria-aeronautica-s-a-embraer-s-a-airplanes-8/)** — `2025-02-07` | `4 Pages`
 - `[`2025-02281`]` **[Amendment of Jet Route J-96 in the Vicinity of Cimarron, NM](https://www.indexdata.org/amendment-of-jet-route-j-96-in-the-vicinity-of-cimarron-nm-2/)** — `2025-02-06` | `3 Pages`
 - `[`2025-02250`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-34/)** — `2025-02-06` | `3 Pages`
@@ -1513,21 +1514,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2024-25570`]` **[Covered Clearing Agency Resilience and Recovery and Orderly Wind-Down Plans](https://www.indexdata.org/covered-clearing-agency-resilience-and-recovery-and-orderly-wind-down-plans/)** — `2024-11-18` | `60 Pages`
 - `[`2024-24355`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-6/)** — `2024-10-22` | `2 Pages`
 
-### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
-
-- `[`2025-00786`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-3/)** — `2025-01-15` | `7 Pages`
-- `[`2024-30344`]` **[Updating Authorizations for Payments for Legal Services](https://www.indexdata.org/updating-authorizations-for-payments-for-legal-services/)** — `2024-12-19` | `11 Pages`
-- `[`2024-29991`]` **[Publication of Venezuela Sanctions Regulations Web General Licenses 5Q and 8O](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-licenses-5q-and-8o/)** — `2024-12-19` | `2 Pages`
-- `[`2024-29676`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 53A, 55C, 113, and 114](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-53a-55c-113-and-114/)** — `2024-12-18` | `3 Pages`
-- `[`2024-28470`]` **[Publication of Western Balkans Stabilization Regulations Web General License 5A](https://www.indexdata.org/publication-of-western-balkans-stabilization-regulations-web-general-license-5a/)** — `2024-12-06` | `2 Pages`
-- `[`2024-26800`]` **[Publication of an Iran-Related Determination](https://www.indexdata.org/publication-of-an-iran-related-determination-2/)** — `2024-11-19` | `2 Pages`
-- `[`2024-26796`]` **[Publication of Covid-Related Web General License Related to Iranian Transactions and Sanctions Regulations and Global Terrorism Sanctions Regulations](https://www.indexdata.org/publication-of-covid-related-web-general-license-related-to-iranian-transactions-and-sanctions-regulations-and-global-terrorism-sanctions-regulations/)** — `2024-11-19` | `2 Pages`
-- `[`2024-26229`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 8K, 25G, 110, 111, and 112](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-8k-25g-110-111-and-112/)** — `2024-11-14` | `3 Pages`
-- `[`2024-26127`]` **[Burma Sanctions Regulations](https://www.indexdata.org/burma-sanctions-regulations/)** — `2024-11-13` | `13 Pages`
-- `[`2024-24524`]` **[Publication of Western Balkans Stabilization Regulations Web General Licenses 3A, 4, and 5](https://www.indexdata.org/publication-of-western-balkans-stabilization-regulations-web-general-licenses-3a-4-and-5/)** — `2024-10-23` | `3 Pages`
-- `[`2024-23217`]` **[Reporting, Procedures and Penalties Regulations](https://www.indexdata.org/reporting-procedures-and-penalties-regulations-2/)** — `2024-10-08` | `4 Pages`
-
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 
@@ -1585,6 +1571,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-en
 - `[`2024-24528`]` **[Compensation for Reactive Power Within the Standard Power Factor Range](https://www.indexdata.org/compensation-for-reactive-power-within-the-standard-power-factor-range/)** — `2024-11-26` | `47 Pages`
 - `[`2024-24526`]` **[Applications for Permits to Site Interstate Electric Transmission Facilities](https://www.indexdata.org/applications-for-permits-to-site-interstate-electric-transmission-facilities/)** — `2024-10-23` | `8 Pages`
 - `[`2024-24518`]` **[Supplemental Review of the Oil Pipeline Index Level](https://www.indexdata.org/supplemental-review-of-the-oil-pipeline-index-level-2/)** — `2024-10-23` | `8 Pages`
+
+### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
+
+- `[`2025-00786`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-3/)** — `2025-01-15` | `7 Pages`
+- `[`2024-30344`]` **[Updating Authorizations for Payments for Legal Services](https://www.indexdata.org/updating-authorizations-for-payments-for-legal-services/)** — `2024-12-19` | `11 Pages`
+- `[`2024-29991`]` **[Publication of Venezuela Sanctions Regulations Web General Licenses 5Q and 8O](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-licenses-5q-and-8o/)** — `2024-12-19` | `2 Pages`
+- `[`2024-29676`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 53A, 55C, 113, and 114](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-53a-55c-113-and-114/)** — `2024-12-18` | `3 Pages`
+- `[`2024-28470`]` **[Publication of Western Balkans Stabilization Regulations Web General License 5A](https://www.indexdata.org/publication-of-western-balkans-stabilization-regulations-web-general-license-5a/)** — `2024-12-06` | `2 Pages`
+- `[`2024-26800`]` **[Publication of an Iran-Related Determination](https://www.indexdata.org/publication-of-an-iran-related-determination-2/)** — `2024-11-19` | `2 Pages`
+- `[`2024-26796`]` **[Publication of Covid-Related Web General License Related to Iranian Transactions and Sanctions Regulations and Global Terrorism Sanctions Regulations](https://www.indexdata.org/publication-of-covid-related-web-general-license-related-to-iranian-transactions-and-sanctions-regulations-and-global-terrorism-sanctions-regulations/)** — `2024-11-19` | `2 Pages`
+- `[`2024-26229`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 8K, 25G, 110, 111, and 112](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-8k-25g-110-111-and-112/)** — `2024-11-14` | `3 Pages`
+- `[`2024-26127`]` **[Burma Sanctions Regulations](https://www.indexdata.org/burma-sanctions-regulations/)** — `2024-11-13` | `13 Pages`
+- `[`2024-24524`]` **[Publication of Western Balkans Stabilization Regulations Web General Licenses 3A, 4, and 5](https://www.indexdata.org/publication-of-western-balkans-stabilization-regulations-web-general-licenses-3a-4-and-5/)** — `2024-10-23` | `3 Pages`
 
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,178` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 20:57 UTC`
+**Last Automated Sync:** `2026-11-09 21:56 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Education Department](https://www.indexdata.org/united-states/education-department/)** (`132` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 - **[Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 - **[Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`117` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+- **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 - **[Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)** (`115` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 - **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 - **[National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)** (`112` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -245,11 +245,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,177)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,178)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-02433`]` **[Airworthiness Directives; Saab AB, Support and Services (Formerly Known as Saab AB, Saab Aeronautics) Airplanes](https://www.indexdata.org/airworthiness-directives-saab-ab-support-and-services-formerly-known-as-saab-ab-saab-aeronautics-airplanes-2/)** — `2024-02-09` | `2 Pages`
 - `[`2024-02545`]` **[Modernization of Special Airworthiness Certification](https://www.indexdata.org/modernization-of-special-airworthiness-certification-2/)** — `2024-02-08` | `2 Pages`
 - `[`2024-00872`]` **[Falsification, Reproduction, Alteration, Omission, or Incorrect Statements](https://www.indexdata.org/falsification-reproduction-alteration-omission-or-incorrect-statements-3/)** — `2024-02-08` | `19 Pages`
 - `[`2024-02442`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-51/)** — `2024-02-07` | `3 Pages`
@@ -1568,20 +1569,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2023-23665`]` **[Section 108 Loan Guarantee Program: Announcement of Fee To Cover Credit Subsidy Costs for FY 2024](https://www.indexdata.org/section-108-loan-guarantee-program-announcement-of-fee-to-cover-credit-subsidy-costs-for-fy-2024/)** — `2023-10-26` | `3 Pages`
 - `[`2023-23332`]` **[Modernizing the Delivery of Housing Counseling Services](https://www.indexdata.org/modernizing-the-delivery-of-housing-counseling-services-2/)** — `2023-10-25` | `3 Pages`
 
-### [State Department](https://www.indexdata.org/united-states/state-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
-
-- `[`2024-01059`]` **[Nondiscrimination in Foreign Assistance](https://www.indexdata.org/nondiscrimination-in-foreign-assistance/)** — `2024-01-19` | `5 Pages`
-- `[`2024-00972`]` **[Department of State Acquisition Regulation: Nondiscrimination in Foreign Assistance](https://www.indexdata.org/department-of-state-acquisition-regulation-nondiscrimination-in-foreign-assistance/)** — `2024-01-19` | `6 Pages`
-- `[`2023-29003`]` **[Department of State 2024 Civil Monetary Penalties Inflationary Adjustment](https://www.indexdata.org/department-of-state-2024-civil-monetary-penalties-inflationary-adjustment/)** — `2024-01-05` | `3 Pages`
-- `[`2023-27837`]` **[Publication, Coordination, and Reporting of International Agreements: Amendments; Correction](https://www.indexdata.org/publication-coordination-and-reporting-of-international-agreements-amendments-correction/)** — `2023-12-19` | `2 Pages`
-- `[`2023-26907`]` **[Immigrant Visas](https://www.indexdata.org/immigrant-visas/)** — `2023-12-07` | `2 Pages`
-- `[`2023-26673`]` **[Temporary Modification of Category VIII of the U.S. Munitions List](https://www.indexdata.org/temporary-modification-of-category-viii-of-the-u-s-munitions-list/)** — `2023-12-04` | `3 Pages`
-- `[`2023-23650`]` **[Exchange Visitor Program-Au Pairs](https://www.indexdata.org/exchange-visitor-program-au-pairs/)** — `2023-10-30` | `27 Pages`
-- `[`2023-23501`]` **[Public Access to Information; Correction](https://www.indexdata.org/public-access-to-information-correction/)** — `2023-10-27` | `2 Pages`
-- `[`2023-22380`]` **[Public Access to Information](https://www.indexdata.org/public-access-to-information-2/)** — `2023-10-18` | `18 Pages`
-- `[`2023-21666`]` **[Publication, Coordination, and Reporting of International Agreements: Amendments](https://www.indexdata.org/publication-coordination-and-reporting-of-international-agreements-amendments/)** — `2023-10-02` | `9 Pages`
-
 ### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
 
@@ -1620,6 +1607,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2023-22370`]` **[Ownership and Control and Contractual Assistance Requirements for the 8(a) Business Development Program; Correction](https://www.indexdata.org/ownership-and-control-and-contractual-assistance-requirements-for-the-8a-business-development-program-correction/)** — `2023-10-11` | `2 Pages`
 - `[`2023-22171`]` **[ALP Express Pilot Program](https://www.indexdata.org/alp-express-pilot-program/)** — `2023-10-06` | `3 Pages`
 - `[`2023-22185`]` **[Community Advantage Pilot Program](https://www.indexdata.org/community-advantage-pilot-program/)** — `2023-10-05` | `6 Pages`
+
+### [State Department](https://www.indexdata.org/united-states/state-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+
+- `[`2024-01059`]` **[Nondiscrimination in Foreign Assistance](https://www.indexdata.org/nondiscrimination-in-foreign-assistance/)** — `2024-01-19` | `5 Pages`
+- `[`2024-00972`]` **[Department of State Acquisition Regulation: Nondiscrimination in Foreign Assistance](https://www.indexdata.org/department-of-state-acquisition-regulation-nondiscrimination-in-foreign-assistance/)** — `2024-01-19` | `6 Pages`
+- `[`2023-29003`]` **[Department of State 2024 Civil Monetary Penalties Inflationary Adjustment](https://www.indexdata.org/department-of-state-2024-civil-monetary-penalties-inflationary-adjustment/)** — `2024-01-05` | `3 Pages`
+- `[`2023-27837`]` **[Publication, Coordination, and Reporting of International Agreements: Amendments; Correction](https://www.indexdata.org/publication-coordination-and-reporting-of-international-agreements-amendments-correction/)** — `2023-12-19` | `2 Pages`
+- `[`2023-26907`]` **[Immigrant Visas](https://www.indexdata.org/immigrant-visas/)** — `2023-12-07` | `2 Pages`
+- `[`2023-26673`]` **[Temporary Modification of Category VIII of the U.S. Munitions List](https://www.indexdata.org/temporary-modification-of-category-viii-of-the-u-s-munitions-list/)** — `2023-12-04` | `3 Pages`
+- `[`2023-23650`]` **[Exchange Visitor Program-Au Pairs](https://www.indexdata.org/exchange-visitor-program-au-pairs/)** — `2023-10-30` | `27 Pages`
+- `[`2023-23501`]` **[Public Access to Information; Correction](https://www.indexdata.org/public-access-to-information-correction/)** — `2023-10-27` | `2 Pages`
+- `[`2023-22380`]` **[Public Access to Information](https://www.indexdata.org/public-access-to-information-2/)** — `2023-10-18` | `18 Pages`
 
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
