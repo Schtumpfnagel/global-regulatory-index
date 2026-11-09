@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,389` across `57` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,393` across `57` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-09 12:19 UTC`
+**Last Automated Sync:** `2026-11-09 13:26 UTC`
 
 ---
 
@@ -26,7 +26,7 @@
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
@@ -73,7 +73,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,389)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,393)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -631,8 +631,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2025-868`]` **[The Solihull (Electoral Changes) Order 2025](https://www.indexdata.org/the-solihull-electoral-changes-order-2025/)** — `2025-07-15` | `8 Pages`
 - `[`UKSI-2025-652`]` **[The Local Audit (Modification of Financial Reporting Requirements) Regulations 2025](https://www.indexdata.org/the-local-audit-modification-of-financial-reporting-requirements-regulations-2025/)** — `2025-06-04` | `2 Pages`
 - `[`UKSI-2025-603`]` **[The Cornwall Council (Adult Education Functions) Regulations 2025](https://www.indexdata.org/the-cornwall-council-adult-education-functions-regulations-2025/)** — `2025-05-19` | `12 Pages`
-- `[`UKSI-2025-602`]` **[The East Midlands Combined County Authority (Adult Education Functions) Regulations 2025 (revoked)](https://www.indexdata.org/the-east-midlands-combined-county-authority-adult-education-functions-regulations-2025-revoked/)** — `2025-05-19` | `8 Pages`
-- `[`UKSI-2025-601`]` **[The York and North Yorkshire Combined Authority (Adult Education Functions) Order 2025 (revoked)](https://www.indexdata.org/the-york-and-north-yorkshire-combined-authority-adult-education-functions-order-2025-revoked/)** — `2025-05-19` | `8 Pages`
 
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
@@ -920,7 +918,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-637`]` **[The Power to Award Degrees etc. (Spurgeon’s College) (Amendment) Order 2025 (revoked)](https://www.indexdata.org/the-power-to-award-degrees-etc-spurgeons-college-amendment-order-2025-revoked/)** — `2025-06-02` | `2 Pages`
 - `[`UKSI-2025-632`]` **[The School Travel (Pupils with Dual Registration) (England) (Amendment) Regulations 2025](https://www.indexdata.org/the-school-travel-pupils-with-dual-registration-england-amendment-regulations-2025/)** — `2025-05-30` | `2 Pages`
 - `[`UKSI-2025-626`]` **[The Higher Education (Registration Fees) (England) (Amendment) Regulations 2025](https://www.indexdata.org/the-higher-education-registration-fees-england-amendment-regulations-2025/)** — `2025-05-28` | `4 Pages`
-- `[`UKSI-2025-600`]` **[The School Information (England) (Amendment) Regulations 2025](https://www.indexdata.org/the-school-information-england-amendment-regulations-2025/)** — `2025-05-19` | `2 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -1232,11 +1229,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-874`]` **[The Protection and Disclosure of Personal Information (Amendment) Regulations 2025](https://www.indexdata.org/the-protection-and-disclosure-of-personal-information-amendment-regulations-2025/)** — `2025-07-15` | `16 Pages`
 - `[`UKSI-2025-679`]` **[The Trade Marks (Isle of Man) (Amendment) Order 2025](https://www.indexdata.org/the-trade-marks-isle-of-man-amendment-order-2025/)** — `2025-06-11` | `4 Pages`
 - `[`UKSI-2025-651`]` **[The Register of Overseas Entities (Annotation) Regulations 2025](https://www.indexdata.org/the-register-of-overseas-entities-annotation-regulations-2025/)** — `2025-06-02` | `4 Pages`
-- `[`UKSI-2025-599`]` **[The Apprenticeships (Miscellaneous Provisions) (England) (Amendment) Regulations 2025](https://www.indexdata.org/the-apprenticeships-miscellaneous-provisions-england-amendment-regulations-2025/)** — `2025-05-19` | `2 Pages`
 
 ### [Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 
+- `[`UK-JUD-132936`]` **[Courts and Tribunals Judiciary: 2026-0418 – Response from NHS Englandv2](https://www.indexdata.org/courts-and-tribunals-judiciary-2026-0418-response-from-nhs-englandv2/)** — `2026-11-09` | `4 Pages`
+- `[`UK-JUD-132933`]` **[Courts and Tribunals Judiciary: Sentencing remarks – R v. Kyle – 09.11.2026](https://www.indexdata.org/courts-and-tribunals-judiciary-sentencing-remarks-r-v-kyle-09-11-2026/)** — `2026-11-09` | `7 Pages`
+- `[`UK-JUD-132926`]` **[Courts and Tribunals Judiciary: Consultation – FJC Draft Guidance on the Use of Hair Strand Testing within Family Proceedings (November 2026)](https://www.indexdata.org/courts-and-tribunals-judiciary-consultation-fjc-draft-guidance-on-the-use-of-hair-strand-testing-within-family-proceedings-november-2026/)** — `2026-11-09` | `37 Pages`
+- `[`UK-JUD-132918`]` **[Courts and Tribunals Judiciary: Graeme Elliott – Prevention of future deaths report – 2026-0433_Published](https://www.indexdata.org/courts-and-tribunals-judiciary-graeme-elliott-prevention-of-future-deaths-report-2026-0433_published/)** — `2026-11-09` | `3 Pages`
 - `[`UK-JUD-132910`]` **[Courts and Tribunals Judiciary: Angela Montegomery – Prevention of future deaths report – 2026-0432Published](https://www.indexdata.org/courts-and-tribunals-judiciary-angela-montegomery-prevention-of-future-deaths-report-2026-0432published/)** — `2026-11-09` | `4 Pages`
 - `[`UK-JUD-132909`]` **[Courts and Tribunals Judiciary: Re B](https://www.indexdata.org/courts-and-tribunals-judiciary-re-b/)** — `2026-11-09` | `17 Pages`
 - `[`UK-JUD-132907`]` **[Courts and Tribunals Judiciary: Re D](https://www.indexdata.org/courts-and-tribunals-judiciary-re-d/)** — `2026-11-09` | `6 Pages`

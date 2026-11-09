@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,389` across `57` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,393` across `57` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-09 12:19 UTC`
+**Last Automated Sync:** `2026-11-09 13:26 UTC`
 
 ---
 
@@ -26,7 +26,7 @@
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
@@ -73,7 +73,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,389 of 2,389)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,393 of 2,393)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -437,6 +437,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 
+- `[`UKSI-2025-602`]` **[The East Midlands Combined County Authority (Adult Education Functions) Regulations 2025 (revoked)](https://www.indexdata.org/the-east-midlands-combined-county-authority-adult-education-functions-regulations-2025-revoked/)** — `2025-05-19` | `8 Pages`
+- `[`UKSI-2025-601`]` **[The York and North Yorkshire Combined Authority (Adult Education Functions) Order 2025 (revoked)](https://www.indexdata.org/the-york-and-north-yorkshire-combined-authority-adult-education-functions-order-2025-revoked/)** — `2025-05-19` | `8 Pages`
 - `[`UKSI-2025-560`]` **[The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025](https://www.indexdata.org/the-town-and-country-planning-general-permitted-development-england-amendment-order-2025/)** — `2025-05-06` | `4 Pages`
 - `[`UKSI-2025-566`]` **[The Newcastle upon Tyne (Electoral Changes) Order 2025](https://www.indexdata.org/the-newcastle-upon-tyne-electoral-changes-order-2025/)** — `2025-05-02` | `8 Pages`
 - `[`UKSI-2025-565`]` **[The Kirklees (Electoral Changes) Order 2025](https://www.indexdata.org/the-kirklees-electoral-changes-order-2025/)** — `2025-05-02` | `8 Pages`
@@ -591,6 +593,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 
+- `[`UKSI-2025-600`]` **[The School Information (England) (Amendment) Regulations 2025](https://www.indexdata.org/the-school-information-england-amendment-regulations-2025/)** — `2025-05-19` | `2 Pages`
 - `[`UKSI-2025-598`]` **[The Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (Commencement) Regulations 2025](https://www.indexdata.org/the-institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-act-2025-commencement-regulations-2025/)** — `2025-05-19` | `4 Pages`
 - `[`UKSI-2025-590`]` **[The Childcare (Fees) (Amendment) Regulations 2025](https://www.indexdata.org/the-childcare-fees-amendment-regulations-2025/)** — `2025-05-15` | `2 Pages`
 - `[`UKPGA-2025-14`]` **[Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025](https://www.indexdata.org/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-act-2025/)** — `2025-05-15` | `18 Pages`
@@ -775,6 +778,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 
+- `[`UKSI-2025-599`]` **[The Apprenticeships (Miscellaneous Provisions) (England) (Amendment) Regulations 2025](https://www.indexdata.org/the-apprenticeships-miscellaneous-provisions-england-amendment-regulations-2025/)** — `2025-05-19` | `2 Pages`
 - `[`UKSI-2025-604`]` **[The Public Interest Disclosure (Prescribed Persons) (Amendment) Order 2025](https://www.indexdata.org/the-public-interest-disclosure-prescribed-persons-amendment-order-2025/)** — `2025-05-16` | `4 Pages`
 - `[`UKSI-2025-573`]` **[The Companies and Limited Liability Partnerships (Annotation) Regulations 2025](https://www.indexdata.org/the-companies-and-limited-liability-partnerships-annotation-regulations-2025/)** — `2025-05-12` | `4 Pages`
 - `[`UKSI-2025-531`]` **[The Furniture and Furnishings (Fire) (Safety) (Amendment) Regulations 2025](https://www.indexdata.org/the-furniture-and-furnishings-fire-safety-amendment-regulations-2025/)** — `2025-04-28` | `4 Pages`

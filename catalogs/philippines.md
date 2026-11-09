@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `290` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-09 12:19 UTC`
+**Total Indexed Dossiers in Philippines:** `296` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-09 13:26 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (11 Authorities)
 
-- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
+- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`61` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–290 of 290)
+## Indexed Statutory & Regulatory Dossiers (Records 1–296 of 296)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -96,6 +96,12 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/department-o
 - `[`PH-DA-113677`]` **[mc47 s2025](https://www.indexdata.org/mc47-s2025/)** — `2026-11-03` | `6 Pages`
 - `[`PH-DA-113671`]` **[Daily Cigarette Price Monitoring November 2, 2026](https://www.indexdata.org/daily-cigarette-price-monitoring-november-2-2026/)** — `2026-11-03` | `15 Pages`
 - `[`PH-DA-113670`]` **[Daily Cigarette Price Monitoring November 1, 2026](https://www.indexdata.org/daily-cigarette-price-monitoring-november-1-2026/)** — `2026-11-03` | `15 Pages`
+- `[`PH-DA-113669`]` **[Daily Cigarette Price Monitoring October 31, 2026](https://www.indexdata.org/daily-cigarette-price-monitoring-october-31-2026/)** — `2026-11-03` | `15 Pages`
+- `[`PH-DA-113668`]` **[Daily Price Index November 1, 2026](https://www.indexdata.org/daily-price-index-november-1-2026/)** — `2026-11-03` | `8 Pages`
+- `[`PH-DA-113667`]` **[Daily Price Index October 31, 2026](https://www.indexdata.org/daily-price-index-october-31-2026/)** — `2026-11-03` | `8 Pages`
+- `[`PH-DA-113665`]` **[mc53 s2026](https://www.indexdata.org/mc53-s2026/)** — `2026-11-03` | `7 Pages`
+- `[`PH-DA-113646`]` **[Clippings for November 3, 2026](https://www.indexdata.org/clippings-for-november-3-2026/)** — `2026-11-03` | `17 Pages`
+- `[`PH-DA-113644`]` **[Weekly Average Prices October 26-November 1, 2026](https://www.indexdata.org/weekly-average-prices-october-26-november-1-2026/)** — `2026-11-02` | `3 Pages`
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
