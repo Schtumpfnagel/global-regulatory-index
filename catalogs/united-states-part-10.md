@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,167` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,169` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 16:15 UTC`
+**Last Automated Sync:** `2026-11-09 16:44 UTC`
 
 ---
 
@@ -113,12 +113,12 @@
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,167)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,169)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -993,6 +993,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2023-21466`]` **[Fisheries of the Northeastern United States; Atlantic Coastal Fisheries Cooperative Management Act Provisions; American Lobster Fishery](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-coastal-fisheries-cooperative-management-act-provisions-american-lobster-fishery/)** — `2023-10-02` | `15 Pages`
 - `[`2023-21648`]` **[Designation of Wisconsin Shipwreck Coast National Marine Sanctuary; Delay of Effectiveness](https://www.indexdata.org/designation-of-wisconsin-shipwreck-coast-national-marine-sanctuary-delay-of-effectiveness/)** — `2023-09-29` | `3 Pages`
 - `[`2023-21410`]` **[Fisheries Off West Coast States; Coastal Pelagic Species Fisheries; Biennial Specifications; 2023-2024 and 2024-2025 Specifications for Pacific Mackerel](https://www.indexdata.org/fisheries-off-west-coast-states-coastal-pelagic-species-fisheries-biennial-specifications-2023-2024-and-2024-2025-specifications-for-pacific-mackerel-2/)** — `2023-09-29` | `3 Pages`
 - `[`2023-21074`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Ocean Perch in the Western Regulatory Area of the Gulf of Alaska](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-western-regulatory-area-of-the-gulf-of-alaska-2/)** — `2023-09-27` | `2 Pages`
@@ -1333,7 +1334,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2023-14044`]` **[Medicare Program; Calendar Year (CY) 2024 Home Health (HH) Prospective Payment System Rate Update; HH Quality Reporting Program Requirements; HH Value-Based Purchasing Expanded Model Requirements; Home Intravenous Immune Globulin Items and Services; Hospice Informal Dispute Resolution and Special Focus Program Requirements, Certain Requirements for Durable Medical Equipment Prosthetics and Orthotics Supplies; and Provider and Supplier Enrollment Requirements](https://www.indexdata.org/medicare-program-calendar-year-cy-2024-home-health-hh-prospective-payment-system-rate-update-hh-quality-reporting-program-requirements-hh-value-based-purchasing-expanded-model-requirements-hom-3/)** — `2023-07-10` | `164 Pages`
 - `[`2023-13748`]` **[Medicare Program; End-Stage Renal Disease Prospective Payment System, Payment for Renal Dialysis Services Furnished to Individuals With Acute Kidney Injury, End-Stage Renal Disease Quality Incentive Program, and End-Stage Renal Disease Treatment Choices Model](https://www.indexdata.org/medicare-program-end-stage-renal-disease-prospective-payment-system-payment-for-renal-dialysis-services-furnished-to-individuals-with-acute-kidney-injury-end-stage-renal-disease-quality-incentive-p-4/)** — `2023-06-30` | `115 Pages`
 - `[`2023-12308`]` **[Medicare Program; Treatment of Medicare Part C Days in the Calculation of a Hospital's Medicare Disproportionate Patient Percentage](https://www.indexdata.org/medicare-program-treatment-of-medicare-part-c-days-in-the-calculation-of-a-hospitals-medicare-disproportionate-patient-percentage/)** — `2023-06-09` | `22 Pages`
-- `[`2023-12098`]` **[Medicare Program; Contract Year 2024 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and Programs of All-Inclusive Care for the Elderly; Correction](https://www.indexdata.org/medicare-program-contract-year-2024-policy-and-technical-changes-to-the-medicare-advantage-program-medicare-prescription-drug-benefit-program-medicare-cost-plan-program-and-programs-of-all-inclusi-2/)** — `2023-06-07` | `2 Pages`
 
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
@@ -1666,17 +1666,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-
 - `[`2023-15940`]` **[Copyright Claims Board: Agreement-Based Counterclaims](https://www.indexdata.org/copyright-claims-board-agreement-based-counterclaims/)** — `2023-07-27` | `2 Pages`
 - `[`2023-12250`]` **[Exemptions To Permit Circumvention of Access Controls on Copyrighted Works](https://www.indexdata.org/exemptions-to-permit-circumvention-of-access-controls-on-copyrighted-works-3/)** — `2023-06-08` | `4 Pages`
 
-### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-
-- `[`2023-20630`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-20/)** — `2023-09-26` | `2 Pages`
-- `[`2023-20143`]` **[Update to Product Lists](https://www.indexdata.org/update-to-product-lists-2/)** — `2023-09-18` | `8 Pages`
-- `[`2023-19854`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-21/)** — `2023-09-14` | `2 Pages`
-- `[`2023-19363`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-22/)** — `2023-09-08` | `2 Pages`
-- `[`2023-19361`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-23/)** — `2023-09-08` | `2 Pages`
-- `[`2023-12895`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-24/)** — `2023-06-16` | `3 Pages`
-- `[`2023-12109`]` **[Non-Public Materials](https://www.indexdata.org/non-public-materials/)** — `2023-06-07` | `4 Pages`
-
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
 
@@ -1687,6 +1676,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2023-13942`]` **[Priority Mail Express Refunds](https://www.indexdata.org/priority-mail-express-refunds/)** — `2023-06-30` | `2 Pages`
 - `[`2023-13440`]` **[Intelligent Mail Package Barcode Compliance Quality](https://www.indexdata.org/intelligent-mail-package-barcode-compliance-quality-2/)** — `2023-06-28` | `2 Pages`
 - `[`2023-12668`]` **[International Mailing Services: Price Changes](https://www.indexdata.org/international-mailing-services-price-changes-5/)** — `2023-06-14` | `2 Pages`
+
+### [State Department](https://www.indexdata.org/united-states/state-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+
+- `[`2023-21559`]` **[Schedule of Fees for Consular Services-Administrative Processing of Request for Certificate of Loss of Nationality (CLN) Fee](https://www.indexdata.org/schedule-of-fees-for-consular-services-administrative-processing-of-request-for-certificate-of-loss-of-nationality-cln-fee/)** — `2023-10-02` | `4 Pages`
+- `[`2023-19851`]` **[International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus/)** — `2023-09-14` | `2 Pages`
+- `[`2023-19047`]` **[Visas: Ineligibility Based on Public Charge](https://www.indexdata.org/visas-ineligibility-based-on-public-charge/)** — `2023-09-05` | `10 Pages`
+- `[`2023-18143`]` **[Access to Information; Privacy Act Provisions](https://www.indexdata.org/access-to-information-privacy-act-provisions-2/)** — `2023-08-25` | `4 Pages`
+- `[`2023-15744`]` **[Third-Party Attendance at Appointments for Passport, Consular Report of Birth Abroad (CRBA), and Certain Other Services](https://www.indexdata.org/third-party-attendance-at-appointments-for-passport-consular-report-of-birth-abroad-crba-and-certain-other-services-2/)** — `2023-07-26` | `3 Pages`
+- `[`2023-14538`]` **[Visas: Nonimmigrant Visas; Immigrant Visas](https://www.indexdata.org/visas-nonimmigrant-visas-immigrant-visas/)** — `2023-07-14` | `10 Pages`
+- `[`2023-13318`]` **[Passports: Consular Reports of Birth Abroad (CRBA)](https://www.indexdata.org/passports-consular-reports-of-birth-abroad-crba/)** — `2023-06-23` | `2 Pages`
 
 ### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
@@ -1718,15 +1718,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/land-manag
 - `[`2023-12178`]` **[Rights-of-Way, Leasing, and Operations for Renewable Energy](https://www.indexdata.org/rights-of-way-leasing-and-operations-for-renewable-energy-2/)** — `2023-06-16` | `37 Pages`
 - `[`2023-11742`]` **[Onshore Oil and Gas Operations; Federal and Indian Oil and Gas Leases; Codification of Onshore Orders 1, 2, 6, and 7](https://www.indexdata.org/onshore-oil-and-gas-operations-federal-and-indian-oil-and-gas-leases-codification-of-onshore-orders-1-2-6-and-7/)** — `2023-06-16` | `53 Pages`
 
-### [State Department](https://www.indexdata.org/united-states/state-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
 
-- `[`2023-19851`]` **[International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus/)** — `2023-09-14` | `2 Pages`
-- `[`2023-19047`]` **[Visas: Ineligibility Based on Public Charge](https://www.indexdata.org/visas-ineligibility-based-on-public-charge/)** — `2023-09-05` | `10 Pages`
-- `[`2023-18143`]` **[Access to Information; Privacy Act Provisions](https://www.indexdata.org/access-to-information-privacy-act-provisions-2/)** — `2023-08-25` | `4 Pages`
-- `[`2023-15744`]` **[Third-Party Attendance at Appointments for Passport, Consular Report of Birth Abroad (CRBA), and Certain Other Services](https://www.indexdata.org/third-party-attendance-at-appointments-for-passport-consular-report-of-birth-abroad-crba-and-certain-other-services-2/)** — `2023-07-26` | `3 Pages`
-- `[`2023-14538`]` **[Visas: Nonimmigrant Visas; Immigrant Visas](https://www.indexdata.org/visas-nonimmigrant-visas-immigrant-visas/)** — `2023-07-14` | `10 Pages`
-- `[`2023-13318`]` **[Passports: Consular Reports of Birth Abroad (CRBA)](https://www.indexdata.org/passports-consular-reports-of-birth-abroad-crba/)** — `2023-06-23` | `2 Pages`
+- `[`2023-20630`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-20/)** — `2023-09-26` | `2 Pages`
+- `[`2023-20143`]` **[Update to Product Lists](https://www.indexdata.org/update-to-product-lists-2/)** — `2023-09-18` | `8 Pages`
+- `[`2023-19854`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-21/)** — `2023-09-14` | `2 Pages`
+- `[`2023-19363`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-22/)** — `2023-09-08` | `2 Pages`
+- `[`2023-19361`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-23/)** — `2023-09-08` | `2 Pages`
+- `[`2023-12895`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-24/)** — `2023-06-16` | `3 Pages`
 
 ### [Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)

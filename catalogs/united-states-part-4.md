@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,167` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,169` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 16:15 UTC`
+**Last Automated Sync:** `2026-11-09 16:44 UTC`
 
 ---
 
@@ -113,12 +113,12 @@
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,167)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,169)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -895,12 +895,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-12564`]` **[Establishment of Public Docket and Listening Sessions on Implementation Challenges Associated With Clean Water Act Section 401](https://www.indexdata.org/establishment-of-public-docket-and-listening-sessions-on-implementation-challenges-associated-with-clean-water-act-section-401/)** — `2025-07-07` | `3 Pages`
 - `[`2025-12533`]` **[Air Plan Approval; Louisiana; Interstate Transport Requirements for the 2010 SO2 NAAQS](https://www.indexdata.org/air-plan-approval-louisiana-interstate-transport-requirements-for-the-2010-so2-naaqs/)** — `2025-07-07` | `3 Pages`
 - `[`2025-12527`]` **[Air Plan Approval; West Virginia; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-approval-west-virginia-regional-haze-state-implementation-plan-for-the-second-implementation-period/)** — `2025-07-07` | `5 Pages`
-- `[`2025-12520`]` **[New Source Performance Standards; Delegation of Authority to Oklahoma](https://www.indexdata.org/new-source-performance-standards-delegation-of-authority-to-oklahoma-2/)** — `2025-07-07` | `3 Pages`
-- `[`2025-12515`]` **[Air Plan Approval; Connecticut; 2014 and 2017 Periodic Emissions Inventory for 2008 8-Hour Ozone NAAQS](https://www.indexdata.org/air-plan-approval-connecticut-2014-and-2017-periodic-emissions-inventory-for-2008-8-hour-ozone-naaqs-2/)** — `2025-07-07` | `6 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2025-23435`]` **[Special Local Regulation, Temporary Anchorage Ground Suspension, and Security Zones: Sail 4th 250, International Naval Review 250; Port of New York and New Jersey](https://www.indexdata.org/special-local-regulation-temporary-anchorage-ground-suspension-and-security-zones-sail-4th-250-international-naval-review-250-port-of-new-york-and-new-jersey-2/)** — `2025-12-19` | `20 Pages`
 - `[`2025-23412`]` **[Safety Zone; Fireworks Display, Ohio River Mile Marker 73 to 74, Wellsburg, WV](https://www.indexdata.org/safety-zone-fireworks-display-ohio-river-mile-marker-73-to-74-wellsburg-wv/)** — `2025-12-19` | `2 Pages`
 - `[`2025-23125`]` **[Safety Zone; San Francisco New Year's Eve Fireworks; San Francisco, CA](https://www.indexdata.org/safety-zone-san-francisco-new-years-eve-fireworks-san-francisco-ca/)** — `2025-12-17` | `2 Pages`
 - `[`2025-23085`]` **[Special Local Regulation; Milwaukee River, Milwaukee, WI](https://www.indexdata.org/special-local-regulation-milwaukee-river-milwaukee-wi/)** — `2025-12-17` | `3 Pages`
@@ -1324,6 +1323,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
 
+- `[`2025-23428`]` **[Incorporation by Reference of Institute of Electrical and Electronics Engineers Standard 603-2018](https://www.indexdata.org/incorporation-by-reference-of-institute-of-electrical-and-electronics-engineers-standard-603-2018-2/)** — `2025-12-19` | `7 Pages`
 - `[`2025-22230`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS® Universal Storage System, Certificate of Compliance No. 1015, Renewed Amendment No. 10, and Revision 1 to Renewed Amendment Nos. 5 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewed-amendment-no-10-and-revision-1-to-renewed-amen/)** — `2025-12-08` | `3 Pages`
 - `[`2025-22229`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS® Universal Storage System, Certificate of Compliance No. 1015, Renewed Amendment No. 10, and Revision 1 to Renewed Amendment Nos. 5 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewed-amendment-no-10-and-revision-1-to-renewed-amen-2/)** — `2025-12-08` | `6 Pages`
 - `[`2025-21785`]` **[The Sunset Rule](https://www.indexdata.org/the-sunset-rule/)** — `2025-12-03` | `3 Pages`

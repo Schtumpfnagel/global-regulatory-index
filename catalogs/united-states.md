@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,167` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,169` across `229` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 16:15 UTC`
+**Last Automated Sync:** `2026-11-09 16:44 UTC`
 
 ---
 
@@ -113,12 +113,12 @@
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,167)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,169)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -1473,6 +1473,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 - `[`2026-17335`]` **[Reduction in Force; Correction](https://www.indexdata.org/reduction-in-force-correction-2/)** — `2026-08-25` | `3 Pages`
 - `[`2026-17334`]` **[Improving Performance, Accountability and Responsiveness in the Civil Service, and Recruitment and Relocation Incentive Waivers; Correcting Amendments](https://www.indexdata.org/improving-performance-accountability-and-responsiveness-in-the-civil-service-and-recruitment-and-relocation-incentive-waivers-correcting-amendments/)** — `2026-08-25` | `2 Pages`
 
+### [U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-geological-survey-usgs/](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
+
+- `[`US-DOI-USGS-fs20263011`]` **[Compensatory offsetting tool for energy infrastructure](https://www.indexdata.org/compensatory-offsetting-tool-for-energy-infrastructure/)** — `2026-11-09` | `2 Pages`
+- `[`US-DOI-USGS-sir20265028`]` **[Baseline water-quality inventory and summary for the Paterson Great Falls National Historical Park, New Jersey](https://www.indexdata.org/baseline-water-quality-inventory-and-summary-for-the-paterson-great-falls-national-historical-park-new-jersey/)** — `2026-11-05` | `76 Pages`
+- `[`US-DOI-USGS-tm6C3`]` **[An updated decision-support tool for grassland birds in the Avian-Impact Offset Method](https://www.indexdata.org/an-updated-decision-support-tool-for-grassland-birds-in-the-avian-impact-offset-method/)** — `2026-11-04` | `22 Pages`
+- `[`US-DOI-USGS-fs20263034`]` **[The National Wildlife Disease Database](https://www.indexdata.org/the-national-wildlife-disease-database/)** — `2026-10-30` | `2 Pages`
+- `[`US-DOI-USGS-dr1232`]` **[Distribution, abundance, and habitat characteristics of Coastal Cactus Wrens ( Campylorhynchus brunneicapillus ) in San Diego County, California—2025 data summary](https://www.indexdata.org/distribution-abundance-and-habitat-characteristics-of-coastal-cactus-wrens-campylorhynchus-brunneicapillus-in-san-diego-county-california-2025-data-summary/)** — `2026-10-30` | `28 Pages`
+- `[`US-DOI-USGS-sir20265073`]` **[Slip tendency and dilation tendency of Quaternary faults in the Great Basin region, Arizona, California, Idaho, Nevada, Oregon, Utah, and Wyoming](https://www.indexdata.org/slip-tendency-and-dilation-tendency-of-quaternary-faults-in-the-great-basin-region-arizona-california-idaho-nevada-oregon-utah-and-wyoming/)** — `2026-10-29` | `22 Pages`
+- `[`US-DOI-USGS-fs20263031`]` **[Assessment of Undiscovered Conventional Gas Resources in the Northern Alaska Province, 2026](https://www.indexdata.org/assessment-of-undiscovered-conventional-gas-resources-in-the-northern-alaska-province-2026/)** — `2026-10-21` | `6 Pages`
+- `[`US-DOI-USGS-ofr20261033`]` **[ECCOE Landsat quarterly calibration and validation report—Quarter 2, 2026](https://www.indexdata.org/eccoe-landsat-quarterly-calibration-and-validation-report-quarter-2-2026/)** — `2026-10-20` | `70 Pages`
+- `[`US-DOI-USGS-ofr20261032`]` **[ECCOE Landsat quarterly calibration and validation report—Quarter 1, 2026](https://www.indexdata.org/eccoe-landsat-quarterly-calibration-and-validation-report-quarter-1-2026/)** — `2026-10-19` | `66 Pages`
+- `[`US-DOI-USGS-sir20265060`]` **[Streamflow assessment of Birch Creek, southern boundary of the Blackfeet Indian Reservation, Pondera County, northwestern Montana—Synoptic and continuous streamflow measurements through 2022](https://www.indexdata.org/streamflow-assessment-of-birch-creek-southern-boundary-of-the-blackfeet-indian-reservation-pondera-county-northwestern-montana-synoptic-and-continuous-streamflow-measurements-through-2022/)** — `2026-10-15` | `54 Pages`
+- `[`US-DOI-USGS-sir20265042`]` **[A spatial analysis of the groundwater emergence flood hazard in Long Island, New York, and coastal areas surrounding Long Island Sound in New York, Connecticut, and Rhode Island](https://www.indexdata.org/a-spatial-analysis-of-the-groundwater-emergence-flood-hazard-in-long-island-new-york-and-coastal-areas-surrounding-long-island-sound-in-new-york-connecticut-and-rhode-island/)** — `2026-10-15` | `36 Pages`
+- `[`US-DOI-USGS-fs20263026`]` **[Global Fiducials Library](https://www.indexdata.org/global-fiducials-library/)** — `2026-10-14` | `2 Pages`
+- `[`US-DOI-USGS-dr1233`]` **[Terrain-based map of mélange and intact rock at the junction of Coastal and Central Belt rocks of the Franciscan Complex between Gualala and Ukiah, northern California Coast Ranges](https://www.indexdata.org/terrain-based-map-of-melange-and-intact-rock-at-the-junction-of-coastal-and-central-belt-rocks-of-the-franciscan-complex-between-gualala-and-ukiah-northern-california-coast-ranges/)** — `2026-10-14` | `28 Pages`
+- `[`US-DOI-USGS-dr1234`]` **[Range-wide population trend analysis for greater sage-grouse ( Centrocercus urophasianus )—Updated 1960–2025](https://www.indexdata.org/range-wide-population-trend-analysis-for-greater-sage-grouse-centrocercus-urophasianus-updated-1960-2025/)** — `2026-10-09` | `56 Pages`
+
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 
@@ -1521,22 +1539,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-18190`]` **[Transfer Agent Rules](https://www.indexdata.org/transfer-agent-rules/)** — `2026-09-04` | `116 Pages`
 - `[`2026-17939`]` **[Exemption of Debt Obligations Issued by the European Union Under the Securities Exchange Act of 1934 for Purposes of Trading Futures Contracts on Those Securities](https://www.indexdata.org/exemption-of-debt-obligations-issued-by-the-european-union-under-the-securities-exchange-act-of-1934-for-purposes-of-trading-futures-contracts-on-those-securities/)** — `2026-09-02` | `22 Pages`
 - `[`2026-17183`]` **[Regulation Crypto Assets](https://www.indexdata.org/regulation-crypto-assets/)** — `2026-08-21` | `146 Pages`
-
-### [U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-geological-survey-usgs/](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
-
-- `[`US-DOI-USGS-sir20265028`]` **[Baseline water-quality inventory and summary for the Paterson Great Falls National Historical Park, New Jersey](https://www.indexdata.org/baseline-water-quality-inventory-and-summary-for-the-paterson-great-falls-national-historical-park-new-jersey/)** — `2026-11-05` | `76 Pages`
-- `[`US-DOI-USGS-fs20263034`]` **[The National Wildlife Disease Database](https://www.indexdata.org/the-national-wildlife-disease-database/)** — `2026-10-30` | `2 Pages`
-- `[`US-DOI-USGS-dr1232`]` **[Distribution, abundance, and habitat characteristics of Coastal Cactus Wrens ( Campylorhynchus brunneicapillus ) in San Diego County, California—2025 data summary](https://www.indexdata.org/distribution-abundance-and-habitat-characteristics-of-coastal-cactus-wrens-campylorhynchus-brunneicapillus-in-san-diego-county-california-2025-data-summary/)** — `2026-10-30` | `28 Pages`
-- `[`US-DOI-USGS-sir20265073`]` **[Slip tendency and dilation tendency of Quaternary faults in the Great Basin region, Arizona, California, Idaho, Nevada, Oregon, Utah, and Wyoming](https://www.indexdata.org/slip-tendency-and-dilation-tendency-of-quaternary-faults-in-the-great-basin-region-arizona-california-idaho-nevada-oregon-utah-and-wyoming/)** — `2026-10-29` | `22 Pages`
-- `[`US-DOI-USGS-fs20263031`]` **[Assessment of Undiscovered Conventional Gas Resources in the Northern Alaska Province, 2026](https://www.indexdata.org/assessment-of-undiscovered-conventional-gas-resources-in-the-northern-alaska-province-2026/)** — `2026-10-21` | `6 Pages`
-- `[`US-DOI-USGS-ofr20261033`]` **[ECCOE Landsat quarterly calibration and validation report—Quarter 2, 2026](https://www.indexdata.org/eccoe-landsat-quarterly-calibration-and-validation-report-quarter-2-2026/)** — `2026-10-20` | `70 Pages`
-- `[`US-DOI-USGS-ofr20261032`]` **[ECCOE Landsat quarterly calibration and validation report—Quarter 1, 2026](https://www.indexdata.org/eccoe-landsat-quarterly-calibration-and-validation-report-quarter-1-2026/)** — `2026-10-19` | `66 Pages`
-- `[`US-DOI-USGS-sir20265060`]` **[Streamflow assessment of Birch Creek, southern boundary of the Blackfeet Indian Reservation, Pondera County, northwestern Montana—Synoptic and continuous streamflow measurements through 2022](https://www.indexdata.org/streamflow-assessment-of-birch-creek-southern-boundary-of-the-blackfeet-indian-reservation-pondera-county-northwestern-montana-synoptic-and-continuous-streamflow-measurements-through-2022/)** — `2026-10-15` | `54 Pages`
-- `[`US-DOI-USGS-sir20265042`]` **[A spatial analysis of the groundwater emergence flood hazard in Long Island, New York, and coastal areas surrounding Long Island Sound in New York, Connecticut, and Rhode Island](https://www.indexdata.org/a-spatial-analysis-of-the-groundwater-emergence-flood-hazard-in-long-island-new-york-and-coastal-areas-surrounding-long-island-sound-in-new-york-connecticut-and-rhode-island/)** — `2026-10-15` | `36 Pages`
-- `[`US-DOI-USGS-fs20263026`]` **[Global Fiducials Library](https://www.indexdata.org/global-fiducials-library/)** — `2026-10-14` | `2 Pages`
-- `[`US-DOI-USGS-dr1233`]` **[Terrain-based map of mélange and intact rock at the junction of Coastal and Central Belt rocks of the Franciscan Complex between Gualala and Ukiah, northern California Coast Ranges](https://www.indexdata.org/terrain-based-map-of-melange-and-intact-rock-at-the-junction-of-coastal-and-central-belt-rocks-of-the-franciscan-complex-between-gualala-and-ukiah-northern-california-coast-ranges/)** — `2026-10-14` | `28 Pages`
-- `[`US-DOI-USGS-dr1234`]` **[Range-wide population trend analysis for greater sage-grouse ( Centrocercus urophasianus )—Updated 1960–2025](https://www.indexdata.org/range-wide-population-trend-analysis-for-greater-sage-grouse-centrocercus-urophasianus-updated-1960-2025/)** — `2026-10-09` | `56 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
@@ -1851,14 +1853,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-
 - `[`US-FR-2026-22787`]` **[Anti-Communism Week, 2026](https://www.indexdata.org/anti-communism-week-2026/)** — `2026-11-06` | `2 Pages`
 - `[`US-EOP-WH-2026ModifyingAuto338.prc_.AnnexII-2`]` **[2026ModifyingAuto338.prc .AnnexII-2](https://www.indexdata.org/2026modifyingauto338-prc-annexii-2/)** — `2026-10-01` | `2 Pages`
 
-### [Federal Contract Compliance Programs Office](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/feed/)
-
-- `[`2026-17757`]` **[Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended; Correction](https://www.indexdata.org/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act-of-1974-as-amended-correction/)** — `2026-08-31` | `2 Pages`
-- `[`2026-17116`]` **[Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended](https://www.indexdata.org/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act-of-1974-as-amended/)** — `2026-08-21` | `11 Pages`
-- `[`2026-17115`]` **[Modifications to the Regulations Implementing Section 503 of the Rehabilitation Act of 1973, as Amended](https://www.indexdata.org/modifications-to-the-regulations-implementing-section-503-of-the-rehabilitation-act-of-1973-as-amended/)** — `2026-08-21` | `26 Pages`
-- `[`2026-17114`]` **[Rescission of Executive Order 11246 Implementing Regulations](https://www.indexdata.org/rescission-of-executive-order-11246-implementing-regulations/)** — `2026-08-21` | `37 Pages`
-
 ### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 
@@ -1980,6 +1974,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-
 
 - `[`2026-21024`]` **[Imposition and Collection of Civil Penalties for Certain Immigration-Related Violations](https://www.indexdata.org/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations/)** — `2026-10-14` | `43 Pages`
 - `[`2026-17146`]` **[Inflation Adjustment for EOIR OBBBA Fees; Fiscal Year 2027](https://www.indexdata.org/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2027/)** — `2026-08-21` | `4 Pages`
+
+### [Federal Contract Compliance Programs Office](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/feed/)
+
+- `[`2026-17757`]` **[Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended; Correction](https://www.indexdata.org/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act-of-1974-as-amended-correction/)** — `2026-08-31` | `2 Pages`
+- `[`2026-17116`]` **[Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended](https://www.indexdata.org/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act-of-1974-as-amended/)** — `2026-08-21` | `11 Pages`
 
 ### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)

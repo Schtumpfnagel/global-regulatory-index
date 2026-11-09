@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,167` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,169` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 16:15 UTC`
+**Last Automated Sync:** `2026-11-09 16:44 UTC`
 
 ---
 
@@ -113,12 +113,12 @@
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -245,11 +245,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,167)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,169)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-02249`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-33/)** — `2025-02-04` | `3 Pages`
 - `[`2025-02248`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-141/)** — `2025-02-04` | `4 Pages`
 - `[`2025-02214`]` **[Special Conditions: Gulfstream Aerospace Corporation, Model GVII-G400 Airplane; Automatic Speed Protection for Design Dive Speed (Dive Speed Definition)](https://www.indexdata.org/special-conditions-gulfstream-aerospace-corporation-model-gvii-g400-airplane-automatic-speed-protection-for-design-dive-speed-dive-speed-definition-2/)** — `2025-02-04` | `3 Pages`
 - `[`2025-02204`]` **[Airworthiness Directives; CFM International, S.A. Engines](https://www.indexdata.org/airworthiness-directives-cfm-international-s-a-engines-13/)** — `2025-02-04` | `3 Pages`
@@ -566,8 +567,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-23202`]` **[Amendment of Jet Routes J-35 and J-101; Amendment VOR Federal Airways V-9, V-48, V-69, V-227, and V-313; and Revocation of VOR Federal Airway V-586 in the Vicinity of Pontiac, IL](https://www.indexdata.org/amendment-of-jet-routes-j-35-and-j-101-amendment-vor-federal-airways-v-9-v-48-v-69-v-227-and-v-313-and-revocation-of-vor-federal-airway-v-586-in-the-vicinity-of-pontiac-il/)** — `2024-10-08` | `3 Pages`
 - `[`2024-23137`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-153/)** — `2024-10-08` | `3 Pages`
 - `[`2024-23136`]` **[Modernization of Passenger Information Requirements Relating to “No Smoking” Sign Illumination; Correction; Confirmation of Effective Date](https://www.indexdata.org/modernization-of-passenger-information-requirements-relating-to-no-smoking-sign-illumination-correction-confirmation-of-effective-date/)** — `2024-10-08` | `2 Pages`
-- `[`2024-23117`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-184/)** — `2024-10-08` | `7 Pages`
-- `[`2024-23116`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-185/)** — `2024-10-08` | `5 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1499,6 +1498,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-hous
 - `[`2024-24742`]` **[Updates to the Off-Farm Labor Housing (Off-FLH), Loan and Grant Rates and Terms; Clarification of Grant Agreement Terms](https://www.indexdata.org/updates-to-the-off-farm-labor-housing-off-flh-loan-and-grant-rates-and-terms-clarification-of-grant-agreement-terms/)** — `2024-10-25` | `3 Pages`
 - `[`2024-23506`]` **[Single Family Housing Section 502 Direct and Guaranteed Manufactured Housing Pilots](https://www.indexdata.org/single-family-housing-section-502-direct-and-guaranteed-manufactured-housing-pilots/)** — `2024-10-11` | `3 Pages`
 
+### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
+
+- `[`2025-02138`]` **[Form PF; Reporting Requirements for All Filers and Large Hedge Fund Advisers; Extension of Compliance Date](https://www.indexdata.org/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers-extension-of-compliance-date/)** — `2025-02-05` | `4 Pages`
+- `[`2025-01923`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-5/)** — `2025-01-30` | `3 Pages`
+- `[`2025-01864`]` **[Staff Accounting Bulletin No. 122](https://www.indexdata.org/staff-accounting-bulletin-no-122/)** — `2025-01-30` | `2 Pages`
+- `[`2024-30433`]` **[Electronic Submission of Certain Materials Under the Securities Exchange Act of 1934; Amendments Regarding the FOCUS Report](https://www.indexdata.org/electronic-submission-of-certain-materials-under-the-securities-exchange-act-of-1934-amendments-regarding-the-focus-report/)** — `2025-01-21` | `177 Pages`
+- `[`2024-31178`]` **[Daily Computation of Customer and Broker-Dealer Reserve Requirements Under the Broker-Dealer Customer Protection Rule](https://www.indexdata.org/daily-computation-of-customer-and-broker-dealer-reserve-requirements-under-the-broker-dealer-customer-protection-rule/)** — `2025-01-13` | `50 Pages`
+- `[`2024-30494`]` **[EDGAR Filer Access and Account Management](https://www.indexdata.org/edgar-filer-access-and-account-management/)** — `2024-12-27` | `62 Pages`
+- `[`2024-29420`]` **[Commission's Organization and Program Management Regulations](https://www.indexdata.org/commissions-organization-and-program-management-regulations-2/)** — `2024-12-16` | `2 Pages`
+- `[`2024-28353`]` **[List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act](https://www.indexdata.org/list-of-rules-to-be-reviewed-pursuant-to-the-regulatory-flexibility-act-2/)** — `2024-12-10` | `2 Pages`
+- `[`2024-26524`]` **[Private Fund Advisers; Documentation of Registered Investment Adviser Compliance Reviews](https://www.indexdata.org/private-fund-advisers-documentation-of-registered-investment-adviser-compliance-reviews/)** — `2024-11-19` | `2 Pages`
+- `[`2024-26387`]` **[Conforming Amendments to Commission Rules and Forms](https://www.indexdata.org/conforming-amendments-to-commission-rules-and-forms/)** — `2024-11-18` | `14 Pages`
+- `[`2024-25570`]` **[Covered Clearing Agency Resilience and Recovery and Orderly Wind-Down Plans](https://www.indexdata.org/covered-clearing-agency-resilience-and-recovery-and-orderly-wind-down-plans/)** — `2024-11-18` | `60 Pages`
+- `[`2024-24355`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-6/)** — `2024-10-22` | `2 Pages`
+
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 
@@ -1543,21 +1558,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/](https://
 - `[`2024-28993`]` **[Spectrum Sharing Rules for NGSO Fixed-Satellite Service Systems](https://www.indexdata.org/spectrum-sharing-rules-for-ngso-fixed-satellite-service-systems/)** — `2024-12-13` | `2 Pages`
 - `[`GDI-419534`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-33/)** — `2024-12-02` | `2 Pages`
 - `[`GDI-419529`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP)) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-airplanes/)** — `2024-12-02` | `2 Pages`
-
-### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-
-- `[`2025-01923`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-5/)** — `2025-01-30` | `3 Pages`
-- `[`2025-01864`]` **[Staff Accounting Bulletin No. 122](https://www.indexdata.org/staff-accounting-bulletin-no-122/)** — `2025-01-30` | `2 Pages`
-- `[`2024-30433`]` **[Electronic Submission of Certain Materials Under the Securities Exchange Act of 1934; Amendments Regarding the FOCUS Report](https://www.indexdata.org/electronic-submission-of-certain-materials-under-the-securities-exchange-act-of-1934-amendments-regarding-the-focus-report/)** — `2025-01-21` | `177 Pages`
-- `[`2024-31178`]` **[Daily Computation of Customer and Broker-Dealer Reserve Requirements Under the Broker-Dealer Customer Protection Rule](https://www.indexdata.org/daily-computation-of-customer-and-broker-dealer-reserve-requirements-under-the-broker-dealer-customer-protection-rule/)** — `2025-01-13` | `50 Pages`
-- `[`2024-30494`]` **[EDGAR Filer Access and Account Management](https://www.indexdata.org/edgar-filer-access-and-account-management/)** — `2024-12-27` | `62 Pages`
-- `[`2024-29420`]` **[Commission's Organization and Program Management Regulations](https://www.indexdata.org/commissions-organization-and-program-management-regulations-2/)** — `2024-12-16` | `2 Pages`
-- `[`2024-28353`]` **[List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act](https://www.indexdata.org/list-of-rules-to-be-reviewed-pursuant-to-the-regulatory-flexibility-act-2/)** — `2024-12-10` | `2 Pages`
-- `[`2024-26524`]` **[Private Fund Advisers; Documentation of Registered Investment Adviser Compliance Reviews](https://www.indexdata.org/private-fund-advisers-documentation-of-registered-investment-adviser-compliance-reviews/)** — `2024-11-19` | `2 Pages`
-- `[`2024-26387`]` **[Conforming Amendments to Commission Rules and Forms](https://www.indexdata.org/conforming-amendments-to-commission-rules-and-forms/)** — `2024-11-18` | `14 Pages`
-- `[`2024-25570`]` **[Covered Clearing Agency Resilience and Recovery and Orderly Wind-Down Plans](https://www.indexdata.org/covered-clearing-agency-resilience-and-recovery-and-orderly-wind-down-plans/)** — `2024-11-18` | `60 Pages`
-- `[`2024-24355`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-6/)** — `2024-10-22` | `2 Pages`
 
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)

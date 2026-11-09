@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,167` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,169` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 16:15 UTC`
+**Last Automated Sync:** `2026-11-09 16:44 UTC`
 
 ---
 
@@ -113,12 +113,12 @@
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,167)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,169)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -691,11 +691,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-02250`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-34/)** — `2025-02-06` | `3 Pages`
 - `[`2025-02221`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-32/)** — `2025-02-05` | `3 Pages`
 - `[`2025-02218`]` **[Special Conditions: Airbus Model A321neo ACF and A321neo XLR Series Airplanes; Dynamic Test Requirements for Single Occupant Oblique Seats at an Installation Angle of 49 Degrees With Airbags and 3-Point Restraint or Pretensioner Restraint Systems](https://www.indexdata.org/special-conditions-airbus-model-a321neo-acf-and-a321neo-xlr-series-airplanes-dynamic-test-requirements-for-single-occupant-oblique-seats-at-an-installation-angle-of-49-degrees-with-airbags-and-3-poi/)** — `2025-02-05` | `5 Pages`
-- `[`2025-02249`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-33/)** — `2025-02-04` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-12520`]` **[New Source Performance Standards; Delegation of Authority to Oklahoma](https://www.indexdata.org/new-source-performance-standards-delegation-of-authority-to-oklahoma-2/)** — `2025-07-07` | `3 Pages`
+- `[`2025-12515`]` **[Air Plan Approval; Connecticut; 2014 and 2017 Periodic Emissions Inventory for 2008 8-Hour Ozone NAAQS](https://www.indexdata.org/air-plan-approval-connecticut-2014-and-2017-periodic-emissions-inventory-for-2008-8-hour-ozone-naaqs-2/)** — `2025-07-07` | `6 Pages`
 - `[`2025-12512`]` **[Air Plan Approval; Ohio; Moderate Attainment Plan Elements for the Cleveland Area for the 2015 Ozone Standard](https://www.indexdata.org/air-plan-approval-ohio-moderate-attainment-plan-elements-for-the-cleveland-area-for-the-2015-ozone-standard/)** — `2025-07-07` | `2 Pages`
 - `[`2025-12508`]` **[Air Plan Approval; Oklahoma; Revisions to Air Pollution Control Rules](https://www.indexdata.org/air-plan-approval-oklahoma-revisions-to-air-pollution-control-rules-2/)** — `2025-07-07` | `4 Pages`
 - `[`2025-11153`]` **[Renewable Fuel Standard (RFS) Program: Partial Waiver of the 2024 Cellulosic Biofuel Volume Requirement](https://www.indexdata.org/renewable-fuel-standard-rfs-program-partial-waiver-of-the-2024-cellulosic-biofuel-volume-requirement/)** — `2025-07-07` | `10 Pages`
@@ -1553,7 +1554,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2025-04064`]` **[Delegation of Authority to Director of the Division of Enforcement](https://www.indexdata.org/delegation-of-authority-to-director-of-the-division-of-enforcement/)** — `2025-03-14` | `2 Pages`
 - `[`2025-03351`]` **[Extension of Compliance Dates for Standards for Covered Clearing Agencies for U.S. Treasury Securities and Application of the Broker-Dealer Customer Protection Rule With Respect to U.S. Treasury Securities](https://www.indexdata.org/extension-of-compliance-dates-for-standards-for-covered-clearing-agencies-for-u-s-treasury-securities-and-application-of-the-broker-dealer-customer-protection-rule-with-respect-to-u-s-treasury-secur/)** — `2025-03-04` | `6 Pages`
 - `[`2025-02524`]` **[Technical Amendments to Commission Rules and Forms](https://www.indexdata.org/technical-amendments-to-commission-rules-and-forms-2/)** — `2025-02-18` | `8 Pages`
-- `[`2025-02138`]` **[Form PF; Reporting Requirements for All Filers and Large Hedge Fund Advisers; Extension of Compliance Date](https://www.indexdata.org/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers-extension-of-compliance-date/)** — `2025-02-05` | `4 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)

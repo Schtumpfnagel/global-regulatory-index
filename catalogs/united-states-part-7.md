@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,167` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,169` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 16:15 UTC`
+**Last Automated Sync:** `2026-11-09 16:44 UTC`
 
 ---
 
@@ -113,12 +113,12 @@
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -245,11 +245,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,167)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,169)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-23117`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-184/)** — `2024-10-08` | `7 Pages`
+- `[`2024-23116`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-185/)** — `2024-10-08` | `5 Pages`
 - `[`2024-23115`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-54/)** — `2024-10-08` | `3 Pages`
 - `[`2024-23114`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-186/)** — `2024-10-08` | `4 Pages`
 - `[`2024-23113`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-55/)** — `2024-10-08` | `5 Pages`
@@ -949,7 +951,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-13139`]` **[Safety Zone; La Quinta and Corpus Christi Shipping Channel, Ingleside, TX](https://www.indexdata.org/safety-zone-la-quinta-and-corpus-christi-shipping-channel-ingleside-tx/)** — `2024-06-14` | `3 Pages`
 - `[`2024-12845`]` **[Special Local Regulation; Elizabeth River, Norfolk Harbor, Norfolk, VA](https://www.indexdata.org/special-local-regulation-elizabeth-river-norfolk-harbor-norfolk-va-3/)** — `2024-06-13` | `4 Pages`
 - `[`2024-10341`]` **[Updates to Marine Engineering Standards](https://www.indexdata.org/updates-to-marine-engineering-standards/)** — `2024-06-12` | `143 Pages`
-- `[`2024-12642`]` **[Safety Zone; Washington Channel, Upper Potomac River, Washington, DC](https://www.indexdata.org/safety-zone-washington-channel-upper-potomac-river-washington-dc/)** — `2024-06-10` | `2 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1964,12 +1965,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/investment
 - `[`2024-15221`]` **[Definition of Military Installation and the List of Military Installations in Regulations Pertaining to Certain Transactions by Foreign Persons Involving Real Estate in the United States](https://www.indexdata.org/definition-of-military-installation-and-the-list-of-military-installations-in-regulations-pertaining-to-certain-transactions-by-foreign-persons-involving-real-estate-in-the-united-states/)** — `2024-07-19` | `8 Pages`
 - `[`2024-13923`]` **[Provisions Pertaining to U.S. Investments in Certain National Security Technologies and Products in Countries of Concern](https://www.indexdata.org/provisions-pertaining-to-u-s-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern-2/)** — `2024-07-05` | `36 Pages`
 
-### [Management and Budget Office](https://www.indexdata.org/united-states/management-and-budget-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/management-and-budget-office/](https://www.indexdata.org/united-states/management-and-budget-office/) | [RSS Feed](https://www.indexdata.org/united-states/management-and-budget-office/feed/)
-
-- `[`2024-22520`]` **[Guidance for Federal Financial Assistance; Corrections](https://www.indexdata.org/guidance-for-federal-financial-assistance-corrections/)** — `2024-10-01` | `3 Pages`
-- `[`2024-12667`]` **[Privacy Act and Freedom of Information Act Regulations](https://www.indexdata.org/privacy-act-and-freedom-of-information-act-regulations/)** — `2024-06-10` | `7 Pages`
-
 ### [National Labor Relations Board](https://www.indexdata.org/united-states/national-labor-relations-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-labor-relations-board/](https://www.indexdata.org/united-states/national-labor-relations-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-labor-relations-board/feed/)
 
@@ -2131,6 +2126,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/labor-depa
 Canonical Authority Archive: [https://www.indexdata.org/united-states/legal-services-corporation/](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 
 - `[`2024-17729`]` **[Governing Bodies](https://www.indexdata.org/governing-bodies/)** — `2024-08-12` | `3 Pages`
+
+### [Management and Budget Office](https://www.indexdata.org/united-states/management-and-budget-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/management-and-budget-office/](https://www.indexdata.org/united-states/management-and-budget-office/) | [RSS Feed](https://www.indexdata.org/united-states/management-and-budget-office/feed/)
+
+- `[`2024-22520`]` **[Guidance for Federal Financial Assistance; Corrections](https://www.indexdata.org/guidance-for-federal-financial-assistance-corrections/)** — `2024-10-01` | `3 Pages`
 
 ### [Merit Systems Protection Board](https://www.indexdata.org/united-states/merit-systems-protection-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/merit-systems-protection-board/](https://www.indexdata.org/united-states/merit-systems-protection-board/) | [RSS Feed](https://www.indexdata.org/united-states/merit-systems-protection-board/feed/)

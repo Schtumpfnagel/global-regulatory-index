@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `172` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-09 16:15 UTC`
+**Total Indexed Dossiers in Ireland:** `173` across `38` issuing authorities  
+**Last Automated Sync:** `2026-11-09 16:44 UTC`
 
 ---
 
@@ -20,10 +20,10 @@
 - **[Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
 - **[Minister for Finance](https://www.indexdata.org/ireland/minister-for-finance/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-finance/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-finance/feed/)
 - **[Minister for Housing, Local Government and Heritage](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/feed/)
+- **[National Treasury Management Agency (NTMA)](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/) | [RSS Feed](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/feed/)
 - **[Department of Agriculture and Fisheries](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/feed/)
 - **[Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
 - **[Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
-- **[National Treasury Management Agency (NTMA)](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/) | [RSS Feed](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/feed/)
 - **[Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
 - **[Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
 - **[Minister for Climate, Energy and the Environment](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/feed/)
@@ -53,7 +53,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–172 of 172)
+## Indexed Statutory & Regulatory Dossiers (Records 1–173 of 173)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -167,6 +167,17 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-hou
 - `[`IE-ACT-2025-9`]` **[Planning and Development (Amendment) Act 2025](https://www.indexdata.org/planning-and-development-amendment-act-2025/)** — `2025-07-23` | `27 Pages`
 - `[`IE-ACT-2025-5`]` **[Residential Tenancies (Amendment) Act 2025](https://www.indexdata.org/residential-tenancies-amendment-act-2025/)** — `2025-06-19` | `6 Pages`
 
+### [National Treasury Management Agency (NTMA)](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/) | [RSS Feed](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/feed/)
+
+- `[`IE-NTMA-newera-annual-financial-review-2025`]` **[NewERA Annual Financial Review 2025](https://www.indexdata.org/newera-annual-financial-review-2025/)** — `2026-11-09` | `32 Pages`
+- `[`IE-NTMA-climate-action-framework-2026-implementati`]` **[Climate Action Framework 2026 Implementation Update](https://www.indexdata.org/climate-action-framework-2026-implementation-update/)** — `2026-11-02` | `38 Pages`
+- `[`IE-NTMA-isgb-impact-report-2024-web`]` **[ISGB Impact Report 2024 WEB](https://www.indexdata.org/isgb-impact-report-2024-web/)** — `2026-08-20` | `15 Pages`
+- `[`IE-NTMA-isgb-allocation-report-2025-web`]` **[ISGB Allocation Report 2025 WEB](https://www.indexdata.org/isgb-allocation-report-2025-web/)** — `2026-08-20` | `51 Pages`
+- `[`IE-NTMA-ntma-annual-report-financial-statements-20`]` **[NTMA Annual Report Financial Statements 2025](https://www.indexdata.org/ntma-annual-report-financial-statements-2025/)** — `2026-07-08` | `356 Pages`
+- `[`IE-NTMA-carbon-fund-annual-report-2025`]` **[Carbon Fund Annual Report 2025](https://www.indexdata.org/carbon-fund-annual-report-2025/)** — `2026-07-08` | `14 Pages`
+- `[`IE-NTMA-ntma-climate-strategy-2026-final`]` **[NTMA Climate Strategy 2026 final](https://www.indexdata.org/ntma-climate-strategy-2026-final/)** — `2026-07-01` | `13 Pages`
+
 ### [Department of Agriculture and Fisheries](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/feed/)
 
@@ -196,16 +207,6 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-hea
 - `[`IE-ACT-2026-17`]` **[Health (Amendment) (Home Support Providers) Act 2026](https://www.indexdata.org/health-amendment-home-support-providers-act-2026/)** — `2026-07-01` | `45 Pages`
 - `[`IE-ACT-2025-14`]` **[Health Insurance (Amendment) Act 2025](https://www.indexdata.org/health-insurance-amendment-act-2025/)** — `2025-12-10` | `10 Pages`
 - `[`IE-ACT-2024-42`]` **[Health Insurance (Amendment) and Health (Provision of Menopause Products) Act 2024](https://www.indexdata.org/health-insurance-amendment-and-health-provision-of-menopause-products-act-2024/)** — `2024-11-11` | `13 Pages`
-
-### [National Treasury Management Agency (NTMA)](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/)
-Canonical Authority Archive: [https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/) | [RSS Feed](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/feed/)
-
-- `[`IE-NTMA-climate-action-framework-2026-implementati`]` **[Climate Action Framework 2026 Implementation Update](https://www.indexdata.org/climate-action-framework-2026-implementation-update/)** — `2026-11-02` | `38 Pages`
-- `[`IE-NTMA-isgb-impact-report-2024-web`]` **[ISGB Impact Report 2024 WEB](https://www.indexdata.org/isgb-impact-report-2024-web/)** — `2026-08-20` | `15 Pages`
-- `[`IE-NTMA-isgb-allocation-report-2025-web`]` **[ISGB Allocation Report 2025 WEB](https://www.indexdata.org/isgb-allocation-report-2025-web/)** — `2026-08-20` | `51 Pages`
-- `[`IE-NTMA-ntma-annual-report-financial-statements-20`]` **[NTMA Annual Report Financial Statements 2025](https://www.indexdata.org/ntma-annual-report-financial-statements-2025/)** — `2026-07-08` | `356 Pages`
-- `[`IE-NTMA-carbon-fund-annual-report-2025`]` **[Carbon Fund Annual Report 2025](https://www.indexdata.org/carbon-fund-annual-report-2025/)** — `2026-07-08` | `14 Pages`
-- `[`IE-NTMA-ntma-climate-strategy-2026-final`]` **[NTMA Climate Strategy 2026 final](https://www.indexdata.org/ntma-climate-strategy-2026-final/)** — `2026-07-01` | `13 Pages`
 
 ### [Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)

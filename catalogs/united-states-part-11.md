@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,167` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,169` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-09 16:15 UTC`
+**Last Automated Sync:** `2026-11-09 16:44 UTC`
 
 ---
 
@@ -113,12 +113,12 @@
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,167 of 15,167)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,169 of 15,169)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -387,6 +387,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2023-11463`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General License 8G](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-license-8g/)** — `2023-05-31` | `2 Pages`
 - `[`2023-11488`]` **[Publication of Cyber-Related Sanctions Regulations Web General License 1 and Subsequent Iterations](https://www.indexdata.org/publication-of-cyber-related-sanctions-regulations-web-general-license-1-and-subsequent-iterations/)** — `2023-05-30` | `4 Pages`
 
+### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
+
+- `[`2023-12098`]` **[Medicare Program; Contract Year 2024 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and Programs of All-Inclusive Care for the Elderly; Correction](https://www.indexdata.org/medicare-program-contract-year-2024-policy-and-technical-changes-to-the-medicare-advantage-program-medicare-prescription-drug-benefit-program-medicare-cost-plan-program-and-programs-of-all-inclusi-2/)** — `2023-06-07` | `2 Pages`
+- `[`2023-11449`]` **[Medicare and Medicaid Programs; Policy and Regulatory Changes to the Omnibus COVID-19 Health Care Staff Vaccination Requirements; Additional Policy and Regulatory Changes to the Requirements for Long-Term Care (LTC) Facilities and Intermediate Care Facilities for Individuals With Intellectual Disabilities (ICFs-IID) To Provide COVID-19 Vaccine Education and Offer Vaccinations to Residents, Clients, and Staff; Policy and Regulatory Changes to the Long Term Care Facility COVID-19 Testing Requirements](https://www.indexdata.org/medicare-and-medicaid-programs-policy-and-regulatory-changes-to-the-omnibus-covid-19-health-care-staff-vaccination-requirements-additional-policy-and-regulatory-changes-to-the-requirements-for-long/)** — `2023-06-05` | `26 Pages`
+- `[`2023-11550`]` **[Medicare Program; Contract Year 2024 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and Programs of All-Inclusive Care for the Elderly; Correction](https://www.indexdata.org/medicare-program-contract-year-2024-policy-and-technical-changes-to-the-medicare-advantage-program-medicare-prescription-drug-benefit-program-medicare-cost-plan-program-and-programs-of-all-inclusi-3/)** — `2023-05-31` | `2 Pages`
+- `[`2023-10934`]` **[Medicaid Program; Misclassification of Drugs, Program Administration and Program Integrity Updates Under the Medicaid Drug Rebate Program](https://www.indexdata.org/medicaid-program-misclassification-of-drugs-program-administration-and-program-integrity-updates-under-the-medicaid-drug-rebate-program-2/)** — `2023-05-26` | `59 Pages`
+
 ### [National Energy Technology Laboratory (U.S. Department of Energy)](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/) | [RSS Feed](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/feed/)
 
@@ -394,13 +402,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-e
 - `[`US-DOE-NETL-4b8960e4-e8a4-408d-a396-387bcb3732dc`]` **[PHASE II COLLABORATIVE TEST PROGRAM: ANALYSIS OF SELECTED TRACE METALS IN LEACHATE FROM SELECTED FOSSIL ENERGY MATERIALS](https://www.indexdata.org/phase-ii-collaborative-test-program-analysis-of-selected-trace-metals-in-leachate-from-selected-fossil-energy-materials/)** — `1980-01-01` | `146 Pages`
 - `[`US-DOE-NETL-0c22b8c5-9d21-43d3-a361-151ac5de2353`]` **[PROPOSAL: DEVELOPMENT OF UNDERGROUND COAL GASIFICATION IN NEW MEXICO](https://www.indexdata.org/proposal-development-of-underground-coal-gasification-in-new-mexico/)** — `1978-06-01` | `203 Pages`
 - `[`US-DOE-NETL-0fa2e599-4710-4f73-9a3f-6895b651b71b`]` **[PROCESS DESIGN OF A COUNTERCURRENT OIL-SHALE RETORT FOR INVESTIGATION OF SHALE-OIL MIST FORMATION](https://www.indexdata.org/process-design-of-a-countercurrent-oil-shale-retort-for-investigation-of-shale-oil-mist-formation/)** — `1955-01-01` | `77 Pages`
-
-### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
-
-- `[`2023-11449`]` **[Medicare and Medicaid Programs; Policy and Regulatory Changes to the Omnibus COVID-19 Health Care Staff Vaccination Requirements; Additional Policy and Regulatory Changes to the Requirements for Long-Term Care (LTC) Facilities and Intermediate Care Facilities for Individuals With Intellectual Disabilities (ICFs-IID) To Provide COVID-19 Vaccine Education and Offer Vaccinations to Residents, Clients, and Staff; Policy and Regulatory Changes to the Long Term Care Facility COVID-19 Testing Requirements](https://www.indexdata.org/medicare-and-medicaid-programs-policy-and-regulatory-changes-to-the-omnibus-covid-19-health-care-staff-vaccination-requirements-additional-policy-and-regulatory-changes-to-the-requirements-for-long/)** — `2023-06-05` | `26 Pages`
-- `[`2023-11550`]` **[Medicare Program; Contract Year 2024 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and Programs of All-Inclusive Care for the Elderly; Correction](https://www.indexdata.org/medicare-program-contract-year-2024-policy-and-technical-changes-to-the-medicare-advantage-program-medicare-prescription-drug-benefit-program-medicare-cost-plan-program-and-programs-of-all-inclusi-3/)** — `2023-05-31` | `2 Pages`
-- `[`2023-10934`]` **[Medicaid Program; Misclassification of Drugs, Program Administration and Program Integrity Updates Under the Medicaid Drug Rebate Program](https://www.indexdata.org/medicaid-program-misclassification-of-drugs-program-administration-and-program-integrity-updates-under-the-medicaid-drug-rebate-program-2/)** — `2023-05-26` | `59 Pages`
 
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
@@ -465,6 +466,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 
 - `[`2023-11895`]` **[Draft Regulatory Guide: Weather-Related Administrative Controls at Independent Spent Fuel Storage Installations](https://www.indexdata.org/draft-regulatory-guide-weather-related-administrative-controls-at-independent-spent-fuel-storage-installations/)** — `2023-06-05` | `2 Pages`
 - `[`2023-11179`]` **[Draft Regulatory Guide: Guidance for a Technology-Inclusive Content of Application Methodology To Inform the Licensing Basis and Content of Applications for Licenses, Certifications, and Approvals for Non-Light-Water Reactors](https://www.indexdata.org/draft-regulatory-guide-guidance-for-a-technology-inclusive-content-of-application-methodology-to-inform-the-licensing-basis-and-content-of-applications-for-licenses-certifications-and-approvals-for-3/)** — `2023-05-25` | `4 Pages`
+
+### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+
+- `[`2023-12109`]` **[Non-Public Materials](https://www.indexdata.org/non-public-materials/)** — `2023-06-07` | `4 Pages`
+- `[`2023-11935`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-25/)** — `2023-06-06` | `2 Pages`
 
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
@@ -557,11 +564,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
 
 - `[`2023-07109`]` **[Hazardous Materials: Harmonization With International Standards](https://www.indexdata.org/hazardous-materials-harmonization-with-international-standards-5/)** — `2023-05-30` | `55 Pages`
-
-### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-
-- `[`2023-11935`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-25/)** — `2023-06-06` | `2 Pages`
 
 ### [Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/social-security-administration/](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)
