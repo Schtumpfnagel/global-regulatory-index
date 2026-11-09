@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/denmark/feed/](https://www.indexdata.org/denmark/feed/)  
 **Wikidata Sovereign Entity:** [`Q35`](https://www.wikidata.org/wiki/Q35)  
 **Governing Open-Government Framework:** *Ophavsretsloven § 9 (LBK nr 1144 af 23/10/2014) / PSI-loven (CC BY 4.0)*  
-**Total Indexed Dossiers in Denmark:** `33` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-09 11:46 UTC`
+**Total Indexed Dossiers in Denmark:** `34` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-09 12:19 UTC`
 
 ---
 
@@ -14,9 +14,9 @@
 
 - **[Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
 - **[Open Data DK](https://www.indexdata.org/denmark/open-data-dk/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/open-data-dk/) | [RSS Feed](https://www.indexdata.org/denmark/open-data-dk/feed/)
+- **[Rigsrevisionen (National Audit Office of Denmark)](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/) | [RSS Feed](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/feed/)
 - **[Danish Institute for International Studies (DIIS)](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/) | [RSS Feed](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/feed/)
 - **[Ministry of Justice (Justitsministeriet)](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/feed/)
-- **[Rigsrevisionen (National Audit Office of Denmark)](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/) | [RSS Feed](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/feed/)
 - **[The Danish Center for Social Science Research (VIVE)](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/) | [RSS Feed](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/feed/)
 - **[Danish Financial Supervisory Authority (Finanstilsynet)](https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/) | [RSS Feed](https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/feed/)
 - **[Ministry of Climate, Energy and Utilities (Klima-, Energi- og Forsyningsministeriet)](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/feed/)
@@ -24,7 +24,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–33 of 33)
+## Indexed Statutory & Regulatory Dossiers (Records 1–34 of 34)
 
 ### [Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
@@ -56,6 +56,13 @@ Canonical Authority Archive: [https://www.indexdata.org/denmark/open-data-dk/](h
 - `[`DK-ODK-1ff77ab4-d92e-4c1b-a947`]` **[Open Data DK generalforsamling 2024](https://www.indexdata.org/open-data-dk-generalforsamling-2024/)** — `2026-06-02` | `3 Pages`
 - `[`DK-ODK-93114131-457c-425a-a2e4`]` **[Open Data DK ekstraordinær generalforsamling oktober 2023](https://www.indexdata.org/open-data-dk-ekstraordinaer-generalforsamling-oktober-2023/)** — `2026-06-01` | `2 Pages`
 
+### [Rigsrevisionen (National Audit Office of Denmark)](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/)
+Canonical Authority Archive: [https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/) | [RSS Feed](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/feed/)
+
+- `[`DK-RR-beretning-om-revisionen-af-v`]` **[Beretning om revisionen af virksomheder uden for statsregnskabet for 2025 &#124; Rigsrevisionen](https://www.indexdata.org/beretning-om-revisionen-af-virksomheder-uden-for-statsregnskabet-for-2025-rigsrevisionen/)** — `2026-11-01` | `3 Pages`
+- `[`DK-RR-beretning-om-revisionen-af-s`]` **[Beretning om revisionen af statens forvaltning i 2025 &#124; Rigsrevisionen](https://www.indexdata.org/beretning-om-revisionen-af-statens-forvaltning-i-2025-rigsrevisionen/)** — `2026-11-01` | `3 Pages`
+- `[`DK-RR-beretning-om-forsvarets-saer`]` **[Beretning om Forsvarets særligt væsentlige materiel &#124; Rigsrevisionen](https://www.indexdata.org/beretning-om-forsvarets-saerligt-vaesentlige-materiel-rigsrevisionen/)** — `2026-11-01` | `3 Pages`
+
 ### [Danish Institute for International Studies (DIIS)](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/) | [RSS Feed](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/feed/)
 
@@ -67,12 +74,6 @@ Canonical Authority Archive: [https://www.indexdata.org/denmark/ministry-of-just
 
 - `[`DK-JM-28399`]` **[Liste over auktionledere](https://www.indexdata.org/liste-over-auktionledere/)** — `2026-10-01` | `9 Pages`
 - `[`DK-JM-28364`]` **[Effekten af Ungdomskriminalitetsnævnet med fokus på recidiv og skoletilknytning – en delevaluering af Ungdomskriminalitetsnævnet](https://www.indexdata.org/effekten-af-ungdomskriminalitetsnaevnet-med-fokus-pa-recidiv-og-skoletilknytning-en-delevaluering-af-ungdomskriminalitetsnaevnet/)** — `2026-10-01` | `72 Pages`
-
-### [Rigsrevisionen (National Audit Office of Denmark)](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/)
-Canonical Authority Archive: [https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/) | [RSS Feed](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/feed/)
-
-- `[`DK-RR-beretning-om-revisionen-af-v`]` **[Beretning om revisionen af virksomheder uden for statsregnskabet for 2025 &#124; Rigsrevisionen](https://www.indexdata.org/beretning-om-revisionen-af-virksomheder-uden-for-statsregnskabet-for-2025-rigsrevisionen/)** — `2026-11-01` | `3 Pages`
-- `[`DK-RR-beretning-om-revisionen-af-s`]` **[Beretning om revisionen af statens forvaltning i 2025 &#124; Rigsrevisionen](https://www.indexdata.org/beretning-om-revisionen-af-statens-forvaltning-i-2025-rigsrevisionen/)** — `2026-11-01` | `3 Pages`
 
 ### [The Danish Center for Social Science Research (VIVE)](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/) | [RSS Feed](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/feed/)
