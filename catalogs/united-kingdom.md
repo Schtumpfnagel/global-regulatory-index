@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,354` across `53` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,357` across `54` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-08 23:15 UTC`
+**Last Automated Sync:** `2026-11-09 00:21 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (53 Authorities)
+## Issuing Authorities in United Kingdom (54 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -41,6 +41,7 @@
 - **[Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
 - **[Regulator of Social Housing](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/) | [RSS Feed](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/feed/)
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
+- **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
 - **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Intellectual Property Office](https://www.indexdata.org/united-kingdom/intellectual-property-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/intellectual-property-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/intellectual-property-office/feed/)
@@ -69,7 +70,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,354)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,357)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -535,7 +536,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2025-578`]` **[The Value Added Tax (Amendment) Regulations 2025](https://www.indexdata.org/the-value-added-tax-amendment-regulations-2025/)** — `2025-05-14` | `2 Pages`
 - `[`UKSI-2025-589`]` **[The Finance Act 2021 (Increase in Schedule 26 Penalty Percentages) Regulations 2025](https://www.indexdata.org/the-finance-act-2021-increase-in-schedule-26-penalty-percentages-regulations-2025/)** — `2025-05-13` | `4 Pages`
 - `[`UKSI-2025-572`]` **[The Financial Services and Markets Act 2023 (Commencement No. 9) Regulations 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2023-commencement-no-9-regulations-2025/)** — `2025-05-13` | `8 Pages`
-- `[`UKSI-2025-553`]` **[The Taxation of Chargeable Gains (Gilt-edged Securities) Order 2025](https://www.indexdata.org/the-taxation-of-chargeable-gains-gilt-edged-securities-order-2025/)** — `2025-05-06` | `2 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
@@ -645,7 +645,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2025-602`]` **[The East Midlands Combined County Authority (Adult Education Functions) Regulations 2025 (revoked)](https://www.indexdata.org/the-east-midlands-combined-county-authority-adult-education-functions-regulations-2025-revoked/)** — `2025-05-19` | `8 Pages`
 - `[`UKSI-2025-601`]` **[The York and North Yorkshire Combined Authority (Adult Education Functions) Order 2025 (revoked)](https://www.indexdata.org/the-york-and-north-yorkshire-combined-authority-adult-education-functions-order-2025-revoked/)** — `2025-05-19` | `8 Pages`
 - `[`UKSI-2025-560`]` **[The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025](https://www.indexdata.org/the-town-and-country-planning-general-permitted-development-england-amendment-order-2025/)** — `2025-05-06` | `4 Pages`
-- `[`UKSI-2025-566`]` **[The Newcastle upon Tyne (Electoral Changes) Order 2025](https://www.indexdata.org/the-newcastle-upon-tyne-electoral-changes-order-2025/)** — `2025-05-02` | `8 Pages`
 
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
@@ -941,7 +940,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-590`]` **[The Childcare (Fees) (Amendment) Regulations 2025](https://www.indexdata.org/the-childcare-fees-amendment-regulations-2025/)** — `2025-05-15` | `2 Pages`
 - `[`UKPGA-2025-14`]` **[Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025](https://www.indexdata.org/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-act-2025/)** — `2025-05-15` | `18 Pages`
 - `[`UKSI-2025-555`]` **[The Scotland Act 1998 (Agency Arrangements) (Specification) (Recognition of Qualifications) Order 2025](https://www.indexdata.org/the-scotland-act-1998-agency-arrangements-specification-recognition-of-qualifications-order-2025/)** — `2025-05-06` | `4 Pages`
-- `[`UKSI-2025-554`]` **[The Inspectors of Education, Children’s Services and Skills (No. 2) Order 2025](https://www.indexdata.org/the-inspectors-of-education-childrens-services-and-skills-no-2-order-2025/)** — `2025-05-06` | `2 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -1648,6 +1646,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/governmen
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-3`]` **[The Consultancy Playbook — Annex 1 - Definitions of Extended Workforce Services (PDF)](https://www.indexdata.org/the-consultancy-playbook-annex-1-definitions-of-extended-workforce-services-pdf/)** — `2026-11-06` | `11 Pages`
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-2`]` **[The Consultancy Playbook — Knowledge and Skills: Generation, Transfer and Sharing - Guidance Note (PDF)](https://www.indexdata.org/the-consultancy-playbook-knowledge-and-skills-generation-transfer-and-sharing-guidance-note-pdf/)** — `2026-11-06` | `22 Pages`
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-1`]` **[The Consultancy Playbook — The Consultancy Playbook (PDF)](https://www.indexdata.org/the-consultancy-playbook-the-consultancy-playbook-pdf/)** — `2026-11-06` | `56 Pages`
+
+### [HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-passport-office/](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
+
+- `[`UK-GOV-5e16d17e-7631-11e4-a3cb-005056011aef-2`]` **[Application form to correct details on a death registration — How to apply for a correction to a death entry](https://www.indexdata.org/application-form-to-correct-details-on-a-death-registration-how-to-apply-for-a-correction-to-a-death-entry/)** — `2026-11-09` | `4 Pages`
+- `[`UK-GOV-5e16d17e-7631-11e4-a3cb-005056011aef-1`]` **[Application form to correct details on a death registration](https://www.indexdata.org/application-form-to-correct-details-on-a-death-registration/)** — `2026-11-09` | `4 Pages`
+- `[`UK-GOV-5e16d134-7631-11e4-a3cb-005056011aef-1`]` **[Application form to remove the wrong father's details from a birth registration](https://www.indexdata.org/application-form-to-remove-the-wrong-fathers-details-from-a-birth-registration/)** — `2026-11-09` | `4 Pages`
 
 ### [Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/legal-aid-agency/](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)

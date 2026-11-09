@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,266` across `34` issuing authorities  
-**Last Automated Sync:** `2026-11-08 23:15 UTC`
+**Total Indexed Dossiers in Australia:** `1,267` across `34` issuing authorities  
+**Last Automated Sync:** `2026-11-09 00:21 UTC`
 
 ---
 
@@ -34,7 +34,7 @@
 - **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
 - **[Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
 - **[Department of Industry, Science and Resources](https://www.indexdata.org/australia/department-of-industry-science-and-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-industry-science-and-resources/) | [RSS Feed](https://www.indexdata.org/australia/department-of-industry-science-and-resources/feed/)
-- **[Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
+- **[Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
 - **[Department of the Prime Minister and Cabinet](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/feed/)
 - **[Aestra](https://www.indexdata.org/australia/aestra/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/australia/aestra/) | [RSS Feed](https://www.indexdata.org/australia/aestra/feed/)
 - **[Northern Territory — Health](https://www.indexdata.org/australia/northern-territory-health/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-health/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-health/feed/)
@@ -49,7 +49,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,266 of 1,266)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,267 of 1,267)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1356,6 +1356,7 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-
 ### [Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
 
+- `[`AU-DATA-cfc1a18e-f4e0-4ed8-9a19`]` **[ACNC 2018 Annual Information Statement Data — 2018 AIS Explanatory notes.pdf](https://www.indexdata.org/acnc-2018-annual-information-statement-data-2018-ais-explanatory-notes-pdf/)** — `2026-11-09` | `20 Pages`
 - `[`AU-DATA-d7992845-5d3b-4868-b012`]` **[ACNC 2014 Annual Information Statement data — Explanatory guide](https://www.indexdata.org/acnc-2014-annual-information-statement-data-explanatory-guide/)** — `2026-11-08` | `19 Pages`
 - `[`AU-DATA-cc9d8524-39d8-4374-84b9`]` **[ACNC 2013 Annual Information Statement data — User notes](https://www.indexdata.org/acnc-2013-annual-information-statement-data-user-notes/)** — `2026-11-08` | `12 Pages`
 - `[`AU-DATA-86cad799-2601-4f23-b02c`]` **[ACNC 2015 Annual Information Statement Data — Explanatory notes - 2015 AIS dataset](https://www.indexdata.org/acnc-2015-annual-information-statement-data-explanatory-notes-2015-ais-dataset/)** — `2026-11-08` | `20 Pages`

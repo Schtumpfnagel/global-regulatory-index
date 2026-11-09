@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,354` across `53` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,357` across `54` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-08 23:15 UTC`
+**Last Automated Sync:** `2026-11-09 00:21 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (53 Authorities)
+## Issuing Authorities in United Kingdom (54 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -41,6 +41,7 @@
 - **[Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
 - **[Regulator of Social Housing](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/) | [RSS Feed](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/feed/)
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
+- **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
 - **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Intellectual Property Office](https://www.indexdata.org/united-kingdom/intellectual-property-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/intellectual-property-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/intellectual-property-office/feed/)
@@ -69,7 +70,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,354 of 2,354)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,357 of 2,357)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -275,6 +276,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2025-553`]` **[The Taxation of Chargeable Gains (Gilt-edged Securities) Order 2025](https://www.indexdata.org/the-taxation-of-chargeable-gains-gilt-edged-securities-order-2025/)** — `2025-05-06` | `2 Pages`
 - `[`UKSI-2025-549`]` **[The Insolvency Practitioners (Recognised Professional Bodies) (Revocation of Recognition of the Institute of Chartered Accountants in Ireland) Order 2025](https://www.indexdata.org/the-insolvency-practitioners-recognised-professional-bodies-revocation-of-recognition-of-the-institute-of-chartered-accountants-in-ireland-order-2025/)** — `2025-04-30` | `2 Pages`
 - `[`UKSI-2025-532`]` **[The Export Control (Amendment) Regulations 2025](https://www.indexdata.org/the-export-control-amendment-regulations-2025/)** — `2025-04-28` | `28 Pages`
 - `[`UKSI-2025-511`]` **[The Free Zone (Customs Site No. 7 Liverpool) Designation Order 2025](https://www.indexdata.org/the-free-zone-customs-site-no-7-liverpool-designation-order-2025/)** — `2025-04-24` | `4 Pages`
@@ -418,6 +420,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 
+- `[`UKSI-2025-566`]` **[The Newcastle upon Tyne (Electoral Changes) Order 2025](https://www.indexdata.org/the-newcastle-upon-tyne-electoral-changes-order-2025/)** — `2025-05-02` | `8 Pages`
 - `[`UKSI-2025-565`]` **[The Kirklees (Electoral Changes) Order 2025](https://www.indexdata.org/the-kirklees-electoral-changes-order-2025/)** — `2025-05-02` | `8 Pages`
 - `[`UKSI-2025-564`]` **[The Sunderland (Electoral Changes) Order 2025](https://www.indexdata.org/the-sunderland-electoral-changes-order-2025/)** — `2025-05-02` | `8 Pages`
 - `[`UKSI-2025-461`]` **[The Bradford (Electoral Changes) Order 2025](https://www.indexdata.org/the-bradford-electoral-changes-order-2025/)** — `2025-04-07` | `8 Pages`
@@ -688,6 +691,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 
+- `[`UKSI-2025-554`]` **[The Inspectors of Education, Children’s Services and Skills (No. 2) Order 2025](https://www.indexdata.org/the-inspectors-of-education-childrens-services-and-skills-no-2-order-2025/)** — `2025-05-06` | `2 Pages`
 - `[`UKSI-2025-528`]` **[The Higher Education (Freedom of Speech) Act 2023 (Commencement No. 3) Regulations 2025](https://www.indexdata.org/the-higher-education-freedom-of-speech-act-2023-commencement-no-3-regulations-2025/)** — `2025-04-28` | `4 Pages`
 - `[`UKSI-2025-494`]` **[The Power to Award Degrees etc. (National Film and Television School (The)) (Amendment) Order 2025](https://www.indexdata.org/the-power-to-award-degrees-etc-national-film-and-television-school-the-amendment-order-2025/)** — `2025-04-14` | `2 Pages`
 - `[`UKSI-2025-477`]` **[The Power to Award Degrees etc. (ICMP Management Limited) (Amendment) Order 2025](https://www.indexdata.org/the-power-to-award-degrees-etc-icmp-management-limited-amendment-order-2025/)** — `2025-04-04` | `2 Pages`
