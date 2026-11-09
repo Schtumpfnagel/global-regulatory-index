@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,926` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,927` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-09 13:26 UTC`
+**Last Automated Sync:** `2026-11-09 14:24 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,015` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`504` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,926)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,927)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1225,7 +1225,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-CN.6-2026-NGO-184`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-184-statement/)** — `2026-01-12` | `3 Pages`
 - `[`UN-E-CN.6-2026-NGO-183`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-183-statement/)** — `2026-01-12` | `3 Pages`
 - `[`UN-E-CN.6-2026-NGO-182`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-182-statement/)** — `2026-01-12` | `2 Pages`
-- `[`UN-E-CN.6-2026-NGO-181`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-181-statement/)** — `2026-01-12` | `4 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
@@ -1394,6 +1393,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 
+- `[`UN-CED-C-DNK-Q-1`]` **[List of issues in relation to the report submitted by Denmark under article 29 (1) of the Convention — Committee on Enforced Disappearances](https://www.indexdata.org/ced-c-dnk-q-1-list-of-issues-in-relation-to-the-report-submitted-by-denmark-under-article-29-1-of-the-convention-committee-on-enforced-disappearances/)** — `2026-04-16` | `9 Pages`
 - `[`UN-CRPD-C-IRL-Q-1`]` **[List of issues in relation to the initial report of Ireland — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-irl-q-1-list-of-issues-in-relation-to-the-initial-report-of-ireland-committee-on-the-rights-of-persons-with-disabilities/)** — `2026-04-15` | `10 Pages`
 - `[`UN-CRPD-C-COL-Q-2-4`]` **[List of issues and questions in relation to the combined 2nd to 4th periodic reports of Colombia — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-col-q-2-4-list-of-issues-and-questions-in-relation-to-the-combined-2nd-to-4th-periodic-reports-of-colombia-committee-on-the-rights-of-persons-with-disabilities/)** — `2026-04-15` | `11 Pages`
 - `[`UN-CMW-C-GMB-1`]` **[Initial report submitted by the Gambia under article 73 of the Convention, due in 2020 — International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families](https://www.indexdata.org/cmw-c-gmb-1-initial-report-submitted-by-the-gambia-under-article-73-of-the-convention-due-in-2020-international-convention-on-the-protection-of-the-rights-of-all-migrant-workers-and-membe/)** — `2026-04-15` | `40 Pages`

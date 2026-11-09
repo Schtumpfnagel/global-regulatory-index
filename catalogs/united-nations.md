@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,926` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,927` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-09 13:26 UTC`
+**Last Automated Sync:** `2026-11-09 14:24 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,015` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`504` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,926)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,927)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1192,7 +1192,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-RES-80-240-B`]` **[Support account for peacekeeping operations — resolution](https://www.indexdata.org/a-res-80-240-b-support-account-for-peacekeeping-operations-resolution/)** — `2026-07-01` | `5 Pages`
 - `[`UN-A-HRC-63-32-Add.1`]` **[Visit to Germany — report of the Special Rapporteur on the Right to Development, Surya Deva](https://www.indexdata.org/a-hrc-63-32-add-1-visit-to-germany-report-of-the-special-rapporteur-on-the-right-to-development-surya-deva/)** — `2026-07-01` | `19 Pages`
 - `[`UN-A-HRC-62-L.25`]` **[Human rights implications of the obstruction and denial of humanitarian access and threats to the safety of humanitarian personnel in armed conflict — draft resolution](https://www.indexdata.org/a-hrc-62-l-25-human-rights-implications-of-the-obstruction-and-denial-of-humanitarian-access-and-threats-to-the-safety-of-humanitarian-personnel-in-armed-conflict-draft-resolution/)** — `2026-07-01` | `3 Pages`
-- `[`UN-A-HRC-62-L.13`]` **[Human rights and the civilian acquisition, possession and use of firearms — draft resolution](https://www.indexdata.org/a-hrc-62-l-13-human-rights-and-the-civilian-acquisition-possession-and-use-of-firearms-draft-resolution/)** — `2026-07-01` | `5 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
@@ -1487,6 +1486,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 
+- `[`UN-A-C.2-80-SR.13`]` **[Summary record of the joint meeting of the Second Committee and the Economic and Social Council on "Reimagining public-investor partnerships: systems finance for inclusive sustainability transformations" — held at Headquarters, New York, on Tuesday, 14 October 2025, General Assembly, 80th session, 2nd Committee, 13th meeting and Economic and Social Council, 2026 session, 3rd meeting](https://www.indexdata.org/a-c-2-80-sr-13-summary-record-of-the-joint-meeting-of-the-second-committee-and-the-economic-and-social-council-on-reimagining-public-investor-partnerships-systems-finance-for-inclusive-sustainabi/)** — `2026-11-09` | `17 Pages`
 - `[`UN-E-CN.6-2027-NGO-6`]` **[Statement](https://www.indexdata.org/e-cn-6-2027-ngo-6-statement/)** — `2026-11-05` | `4 Pages`
 - `[`UN-E-CN.6-2027-NGO-7`]` **[Statement](https://www.indexdata.org/e-cn-6-2027-ngo-7-statement/)** — `2026-11-04` | `3 Pages`
 - `[`UN-E-CN.6-2027-NGO-5`]` **[Statement](https://www.indexdata.org/e-cn-6-2027-ngo-5-statement/)** — `2026-11-04` | `4 Pages`

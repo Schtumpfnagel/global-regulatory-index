@@ -5,20 +5,20 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,393` across `57` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,402` across `58` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-09 13:26 UTC`
+**Last Automated Sync:** `2026-11-09 14:24 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (57 Authorities)
+## Issuing Authorities in United Kingdom (58 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`183` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`168` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`144` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
-- **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
+- **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`123` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
@@ -26,7 +26,7 @@
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
@@ -46,6 +46,7 @@
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
 - **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
+- **[Foreign, Commonwealth & Development Office](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/feed/)
 - **[Intellectual Property Office](https://www.indexdata.org/united-kingdom/intellectual-property-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/intellectual-property-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/intellectual-property-office/feed/)
 - **[Medicines and Healthcare products Regulatory Agency](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/feed/)
 - **[Office of Communications (OFCOM)](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/feed/)
@@ -73,11 +74,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,393 of 2,393)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,402 of 2,402)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2025-615`]` **[DAMAGES, ENGLAND AND WALES](https://www.indexdata.org/damages-england-and-wales/)** — `2025-05-20` | `4 Pages`
+- `[`UKSI-2025-616`]` **[CONTRACTS, ENGLAND AND WALES](https://www.indexdata.org/contracts-england-and-wales/)** — `2025-05-19` | `4 Pages`
 - `[`UKSI-2025-597`]` **[The Manston Airport Development Consent (Amendment) Order 2025](https://www.indexdata.org/the-manston-airport-development-consent-amendment-order-2025/)** — `2025-05-19` | `2 Pages`
 - `[`UKPGA-2025-15`]` **[Bank Resolution (Recapitalisation) Act 2025](https://www.indexdata.org/bank-resolution-recapitalisation-act-2025/)** — `2025-05-15` | `10 Pages`
 - `[`UKSI-2025-592`]` **[The Price Marking (Amendment) Order 2025](https://www.indexdata.org/the-price-marking-amendment-order-2025/)** — `2025-05-14` | `4 Pages`
@@ -437,6 +440,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 
+- `[`UKSI-2025-603`]` **[The Cornwall Council (Adult Education Functions) Regulations 2025](https://www.indexdata.org/the-cornwall-council-adult-education-functions-regulations-2025/)** — `2025-05-19` | `12 Pages`
 - `[`UKSI-2025-602`]` **[The East Midlands Combined County Authority (Adult Education Functions) Regulations 2025 (revoked)](https://www.indexdata.org/the-east-midlands-combined-county-authority-adult-education-functions-regulations-2025-revoked/)** — `2025-05-19` | `8 Pages`
 - `[`UKSI-2025-601`]` **[The York and North Yorkshire Combined Authority (Adult Education Functions) Order 2025 (revoked)](https://www.indexdata.org/the-york-and-north-yorkshire-combined-authority-adult-education-functions-order-2025-revoked/)** — `2025-05-19` | `8 Pages`
 - `[`UKSI-2025-560`]` **[The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025](https://www.indexdata.org/the-town-and-country-planning-general-permitted-development-england-amendment-order-2025/)** — `2025-05-06` | `4 Pages`
@@ -522,6 +526,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 
+- `[`UKSI-2025-608`]` **[The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2025](https://www.indexdata.org/the-motor-vehicles-driving-licences-amendment-no-2-regulations-2025/)** — `2025-05-20` | `4 Pages`
+- `[`UKSI-2025-607`]` **[The M48 Motorway (Severn Bridge) (Temporary Prohibition of Heavy Goods Vehicles) Order 2025](https://www.indexdata.org/the-m48-motorway-severn-bridge-temporary-prohibition-of-heavy-goods-vehicles-order-2025/)** — `2025-05-20` | `2 Pages`
 - `[`UKSI-2025-596`]` **[The Folkestone Harbour Revision Order (Amendment) Order 2025](https://www.indexdata.org/the-folkestone-harbour-revision-order-amendment-order-2025/)** — `2025-05-16` | `4 Pages`
 - `[`UKSI-2025-563`]` **[The Blyth (Extension of Limits) Harbour Revision Order 2025](https://www.indexdata.org/the-blyth-extension-of-limits-harbour-revision-order-2025/)** — `2025-05-07` | `4 Pages`
 - `[`UKSI-2025-529`]` **[The Aviation Security (Amendment) Regulations 2025](https://www.indexdata.org/the-aviation-security-amendment-regulations-2025/)** — `2025-04-28` | `2 Pages`
@@ -718,6 +724,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 ### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 
+- `[`UKSI-2025-622`]` **[The Immingham Open Cycle Gas Turbine (Amendment) (No. 3) Order 2025](https://www.indexdata.org/the-immingham-open-cycle-gas-turbine-amendment-no-3-order-2025/)** — `2025-05-22` | `8 Pages`
 - `[`UKPGA-2025-16`]` **[Great British Energy Act 2025](https://www.indexdata.org/great-british-energy-act-2025/)** — `2025-05-15` | `10 Pages`
 - `[`UKSI-2025-514`]` **[The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025](https://www.indexdata.org/the-energy-euratom-decisions-and-miscellaneous-provisions-amendment-and-revocation-regulations-2025/)** — `2025-04-24` | `8 Pages`
 - `[`UKSI-2025-498`]` **[The Oil and Gas Authority (Carbon Storage) (Retention of Information and Samples) Regulations 2025](https://www.indexdata.org/the-oil-and-gas-authority-carbon-storage-retention-of-information-and-samples-regulations-2025/)** — `2025-04-17` | `12 Pages`
@@ -836,6 +843,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 
+- `[`UKSI-2025-610`]` **[The Fair Dealing Obligations (Pigs) Regulations 2025](https://www.indexdata.org/the-fair-dealing-obligations-pigs-regulations-2025/)** — `2025-05-21` | `16 Pages`
+- `[`UKSI-2025-605`]` **[The Persistent Organic Pollutants (Amendment) (No. 3) Regulations 2025](https://www.indexdata.org/the-persistent-organic-pollutants-amendment-no-3-regulations-2025/)** — `2025-05-20` | `2 Pages`
 - `[`UKSI-2025-568`]` **[The Agriculture (Delinked Payments) (Reductions) (England) Regulations 2025](https://www.indexdata.org/the-agriculture-delinked-payments-reductions-england-regulations-2025/)** — `2025-05-08` | `4 Pages`
 - `[`UKSI-2025-559`]` **[The Phytosanitary Conditions (Amendment) Regulations 2025](https://www.indexdata.org/the-phytosanitary-conditions-amendment-regulations-2025/)** — `2025-05-07` | `12 Pages`
 - `[`UKSI-2025-510`]` **[The Ivory Prohibitions (Exemptions) (Process and Procedure) (Amendment) Regulations 2025](https://www.indexdata.org/the-ivory-prohibitions-exemptions-process-and-procedure-amendment-regulations-2025/)** — `2025-04-23` | `2 Pages`
@@ -935,6 +944,44 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2024-15`]` **[The National Health Service (Notifiable Reconfigurations and Transitional Provision) Regulations 2024](https://www.indexdata.org/the-national-health-service-notifiable-reconfigurations-and-transitional-provision-regulations-2024/)** — `2024-01-08` | `2 Pages`
 - `[`UKSI-2024-14`]` **[The Northampton General Hospital National Health Service Trust (Establishment) (Amendment) Order 2024](https://www.indexdata.org/the-northampton-general-hospital-national-health-service-trust-establishment-amendment-order-2024/)** — `2024-01-08` | `2 Pages`
 
+### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
+
+- `[`UKSI-2025-611`]` **[The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025](https://www.indexdata.org/the-legal-aid-sentencing-and-punishment-of-offenders-act-2012-legal-aid-domestic-abuse-miscellaneous-amendments-order-2025/)** — `2025-05-20` | `8 Pages`
+- `[`UKSI-2025-561`]` **[The Tribunal Procedure (Amendment) Rules 2025](https://www.indexdata.org/the-tribunal-procedure-amendment-rules-2025/)** — `2025-05-07` | `8 Pages`
+- `[`UKSI-2025-536`]` **[The Online Procedure Rules (Specified Proceedings) Regulations 2025](https://www.indexdata.org/the-online-procedure-rules-specified-proceedings-regulations-2025/)** — `2025-04-29` | `2 Pages`
+- `[`UKSI-2025-466`]` **[The Civil Proceedings and Magistrates' Courts Fees (Amendment) Order 2025](https://www.indexdata.org/the-civil-proceedings-and-magistrates-courts-fees-amendment-order-2025/)** — `2025-04-07` | `4 Pages`
+- `[`UKSI-2025-351`]` **[The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025](https://www.indexdata.org/the-court-and-tribunal-fees-miscellaneous-amendments-order-2025/)** — `2025-03-13` | `28 Pages`
+- `[`UKSI-2025-112`]` **[The Valuation Tribunal for England (Membership and Transitional Provisions) (Amendment) Regulations 2025](https://www.indexdata.org/the-valuation-tribunal-for-england-membership-and-transitional-provisions-amendment-regulations-2025/)** — `2025-02-04` | `2 Pages`
+- `[`UKSI-2025-106`]` **[The Civil Procedure (Amendment) Rules 2025](https://www.indexdata.org/the-civil-procedure-amendment-rules-2025/)** — `2025-01-30` | `16 Pages`
+- `[`UKSI-2025-60`]` **[The Criminal Procedure (Amendment) Rules 2025](https://www.indexdata.org/the-criminal-procedure-amendment-rules-2025/)** — `2025-01-20` | `8 Pages`
+- `[`UKSI-2024-1322`]` **[The Family Procedure (Amendment No. 2) Rules 2024](https://www.indexdata.org/the-family-procedure-amendment-no-2-rules-2024/)** — `2024-12-11` | `4 Pages`
+- `[`UKSI-2024-1285`]` **[The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 2) Order 2024](https://www.indexdata.org/the-first-tier-tribunal-and-upper-tribunal-chambers-amendment-no-2-order-2024/)** — `2024-12-02` | `2 Pages`
+- `[`UKSI-2024-1283`]` **[TRIBUNALS AND INQUIRIES](https://www.indexdata.org/tribunals-and-inquiries/)** — `2024-12-02` | `8 Pages`
+- `[`UKSI-2024-1217`]` **[The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024](https://www.indexdata.org/the-prison-and-young-offender-institution-interception-of-communications-amendment-rules-2024/)** — `2024-11-21` | `4 Pages`
+- `[`UKSI-2024-1131`]` **[The Crown Court (Amendment No. 2) Rules 2024](https://www.indexdata.org/the-crown-court-amendment-no-2-rules-2024/)** — `2024-11-06` | `8 Pages`
+- `[`UKSI-2024-1074`]` **[The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024](https://www.indexdata.org/the-civil-and-criminal-legal-aid-financial-resources-and-contribution-orders-amendment-regulations-2024/)** — `2024-10-28` | `24 Pages`
+- `[`UKSI-2024-1043`]` **[The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024](https://www.indexdata.org/the-magistrates-courts-detention-freezing-and-forfeiture-of-cryptoassets-and-miscellaneous-amendments-rules-2024/)** — `2024-10-16` | `20 Pages`
+- `[`UKSI-2024-1042`]` **[The Magistrates’ Courts (Detention, Freezing and Forfeiture of Terrorist Cryptoassets, and Miscellaneous Amendments) Rules 2024](https://www.indexdata.org/the-magistrates-courts-detention-freezing-and-forfeiture-of-terrorist-cryptoassets-and-miscellaneous-amendments-rules-2024/)** — `2024-10-16` | `16 Pages`
+- `[`UKSI-2024-1041`]` **[The Magistrates’ Courts (Conversion of Terrorist Cryptoassets) Rules 2024](https://www.indexdata.org/the-magistrates-courts-conversion-of-terrorist-cryptoassets-rules-2024/)** — `2024-10-16` | `12 Pages`
+- `[`UKSI-2024-1040`]` **[The Magistrates’ Courts (Conversion of Cryptoassets) Rules 2024](https://www.indexdata.org/the-magistrates-courts-conversion-of-cryptoassets-rules-2024/)** — `2024-10-16` | `12 Pages`
+- `[`UKSI-2024-1016`]` **[The Family Procedure (Amendment) Rules 2024](https://www.indexdata.org/the-family-procedure-amendment-rules-2024/)** — `2024-10-08` | `4 Pages`
+- `[`UKSI-2024-1011`]` **[The Parole Board (Amendment) Rules 2024](https://www.indexdata.org/the-parole-board-amendment-rules-2024/)** — `2024-10-07` | `4 Pages`
+- `[`UKSI-2024-889`]` **[The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024](https://www.indexdata.org/the-civil-legal-aid-standard-civil-contract-miscellaneous-amendments-regulations-2024/)** — `2024-09-02` | `4 Pages`
+- `[`UKSI-2024-846`]` **[The Victims and Prisoners Act 2024 (Commencement No. 2) Regulations 2024](https://www.indexdata.org/the-victims-and-prisoners-act-2024-commencement-no-2-regulations-2024/)** — `2024-07-30` | `2 Pages`
+- `[`UKSI-2024-842`]` **[The Criminal Procedure (Amendment No. 2) Rules 2024](https://www.indexdata.org/the-criminal-procedure-amendment-no-2-rules-2024/)** — `2024-07-30` | `60 Pages`
+- `[`UKSI-2024-839`]` **[The Civil Procedure (Amendment No. 3) Rules 2024](https://www.indexdata.org/the-civil-procedure-amendment-no-3-rules-2024/)** — `2024-07-29` | `16 Pages`
+- `[`UKSI-2024-715`]` **[The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Amendment) Order 2024](https://www.indexdata.org/the-legal-aid-sentencing-and-punishment-of-offenders-act-2012-legal-aid-domestic-abuse-amendment-order-2024/)** — `2024-05-24` | `4 Pages`
+- `[`UKSI-2024-624`]` **[The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024](https://www.indexdata.org/the-prohibition-of-cross-examination-in-person-fees-of-court-appointed-qualified-legal-representatives-amendment-regulations-2024/)** — `2024-05-08` | `8 Pages`
+- `[`UKSI-2024-595`]` **[The Civil Procedure (Amendment No. 2) Rules 2024](https://www.indexdata.org/the-civil-procedure-amendment-no-2-rules-2024/)** — `2024-04-30` | `4 Pages`
+- `[`UKSI-2024-538`]` **[The Civil and Family Proceedings Fees (Amendment) Order 2024](https://www.indexdata.org/the-civil-and-family-proceedings-fees-amendment-order-2024/)** — `2024-04-18` | `4 Pages`
+- `[`UKSI-2024-476`]` **[The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024](https://www.indexdata.org/the-court-and-tribunal-fees-miscellaneous-amendments-order-2024/)** — `2024-04-03` | `28 Pages`
+- `[`UKSI-2024-408`]` **[The Criminal Justice Act 2003 (Suitability for Fixed Term Recall) Order 2024](https://www.indexdata.org/the-criminal-justice-act-2003-suitability-for-fixed-term-recall-order-2024/)** — `2024-03-19` | `4 Pages`
+- `[`UKSI-2024-376`]` **[The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment) Order 2024](https://www.indexdata.org/the-first-tier-tribunal-and-upper-tribunal-chambers-amendment-order-2024/)** — `2024-03-13` | `2 Pages`
+- `[`UKSI-2024-106`]` **[The Civil Procedure (Amendment) Rules 2024](https://www.indexdata.org/the-civil-procedure-amendment-rules-2024/)** — `2024-01-30` | `8 Pages`
+- `[`UKSI-2024-62`]` **[The Criminal Procedure (Amendment) Rules 2024](https://www.indexdata.org/the-criminal-procedure-amendment-rules-2024/)** — `2024-01-18` | `36 Pages`
+- `[`UKSI-2024-58`]` **[The Criminal Legal Aid (General) (Amendment) Regulations 2024](https://www.indexdata.org/the-criminal-legal-aid-general-amendment-regulations-2024/)** — `2024-01-16` | `2 Pages`
+
 ### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 
@@ -971,43 +1018,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2024-149`]` **[The Social Security (Gibraltar) Order 2024](https://www.indexdata.org/the-social-security-gibraltar-order-2024/)** — `2024-02-21` | `48 Pages`
 - `[`UKSI-2024-159`]` **[The Universal Credit (Work-Related Requirements) In Work Pilot Scheme (Extension) Order 2024](https://www.indexdata.org/the-universal-credit-work-related-requirements-in-work-pilot-scheme-extension-order-2024/)** — `2024-02-15` | `2 Pages`
 - `[`UKSI-2024-22`]` **[The Justification Decision (Scientific Age Imaging) Regulations 2024](https://www.indexdata.org/the-justification-decision-scientific-age-imaging-regulations-2024/)** — `2024-01-08` | `4 Pages`
-
-### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
-
-- `[`UKSI-2025-561`]` **[The Tribunal Procedure (Amendment) Rules 2025](https://www.indexdata.org/the-tribunal-procedure-amendment-rules-2025/)** — `2025-05-07` | `8 Pages`
-- `[`UKSI-2025-536`]` **[The Online Procedure Rules (Specified Proceedings) Regulations 2025](https://www.indexdata.org/the-online-procedure-rules-specified-proceedings-regulations-2025/)** — `2025-04-29` | `2 Pages`
-- `[`UKSI-2025-466`]` **[The Civil Proceedings and Magistrates' Courts Fees (Amendment) Order 2025](https://www.indexdata.org/the-civil-proceedings-and-magistrates-courts-fees-amendment-order-2025/)** — `2025-04-07` | `4 Pages`
-- `[`UKSI-2025-351`]` **[The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025](https://www.indexdata.org/the-court-and-tribunal-fees-miscellaneous-amendments-order-2025/)** — `2025-03-13` | `28 Pages`
-- `[`UKSI-2025-112`]` **[The Valuation Tribunal for England (Membership and Transitional Provisions) (Amendment) Regulations 2025](https://www.indexdata.org/the-valuation-tribunal-for-england-membership-and-transitional-provisions-amendment-regulations-2025/)** — `2025-02-04` | `2 Pages`
-- `[`UKSI-2025-106`]` **[The Civil Procedure (Amendment) Rules 2025](https://www.indexdata.org/the-civil-procedure-amendment-rules-2025/)** — `2025-01-30` | `16 Pages`
-- `[`UKSI-2025-60`]` **[The Criminal Procedure (Amendment) Rules 2025](https://www.indexdata.org/the-criminal-procedure-amendment-rules-2025/)** — `2025-01-20` | `8 Pages`
-- `[`UKSI-2024-1322`]` **[The Family Procedure (Amendment No. 2) Rules 2024](https://www.indexdata.org/the-family-procedure-amendment-no-2-rules-2024/)** — `2024-12-11` | `4 Pages`
-- `[`UKSI-2024-1285`]` **[The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 2) Order 2024](https://www.indexdata.org/the-first-tier-tribunal-and-upper-tribunal-chambers-amendment-no-2-order-2024/)** — `2024-12-02` | `2 Pages`
-- `[`UKSI-2024-1283`]` **[TRIBUNALS AND INQUIRIES](https://www.indexdata.org/tribunals-and-inquiries/)** — `2024-12-02` | `8 Pages`
-- `[`UKSI-2024-1217`]` **[The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024](https://www.indexdata.org/the-prison-and-young-offender-institution-interception-of-communications-amendment-rules-2024/)** — `2024-11-21` | `4 Pages`
-- `[`UKSI-2024-1131`]` **[The Crown Court (Amendment No. 2) Rules 2024](https://www.indexdata.org/the-crown-court-amendment-no-2-rules-2024/)** — `2024-11-06` | `8 Pages`
-- `[`UKSI-2024-1074`]` **[The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024](https://www.indexdata.org/the-civil-and-criminal-legal-aid-financial-resources-and-contribution-orders-amendment-regulations-2024/)** — `2024-10-28` | `24 Pages`
-- `[`UKSI-2024-1043`]` **[The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024](https://www.indexdata.org/the-magistrates-courts-detention-freezing-and-forfeiture-of-cryptoassets-and-miscellaneous-amendments-rules-2024/)** — `2024-10-16` | `20 Pages`
-- `[`UKSI-2024-1042`]` **[The Magistrates’ Courts (Detention, Freezing and Forfeiture of Terrorist Cryptoassets, and Miscellaneous Amendments) Rules 2024](https://www.indexdata.org/the-magistrates-courts-detention-freezing-and-forfeiture-of-terrorist-cryptoassets-and-miscellaneous-amendments-rules-2024/)** — `2024-10-16` | `16 Pages`
-- `[`UKSI-2024-1041`]` **[The Magistrates’ Courts (Conversion of Terrorist Cryptoassets) Rules 2024](https://www.indexdata.org/the-magistrates-courts-conversion-of-terrorist-cryptoassets-rules-2024/)** — `2024-10-16` | `12 Pages`
-- `[`UKSI-2024-1040`]` **[The Magistrates’ Courts (Conversion of Cryptoassets) Rules 2024](https://www.indexdata.org/the-magistrates-courts-conversion-of-cryptoassets-rules-2024/)** — `2024-10-16` | `12 Pages`
-- `[`UKSI-2024-1016`]` **[The Family Procedure (Amendment) Rules 2024](https://www.indexdata.org/the-family-procedure-amendment-rules-2024/)** — `2024-10-08` | `4 Pages`
-- `[`UKSI-2024-1011`]` **[The Parole Board (Amendment) Rules 2024](https://www.indexdata.org/the-parole-board-amendment-rules-2024/)** — `2024-10-07` | `4 Pages`
-- `[`UKSI-2024-889`]` **[The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024](https://www.indexdata.org/the-civil-legal-aid-standard-civil-contract-miscellaneous-amendments-regulations-2024/)** — `2024-09-02` | `4 Pages`
-- `[`UKSI-2024-846`]` **[The Victims and Prisoners Act 2024 (Commencement No. 2) Regulations 2024](https://www.indexdata.org/the-victims-and-prisoners-act-2024-commencement-no-2-regulations-2024/)** — `2024-07-30` | `2 Pages`
-- `[`UKSI-2024-842`]` **[The Criminal Procedure (Amendment No. 2) Rules 2024](https://www.indexdata.org/the-criminal-procedure-amendment-no-2-rules-2024/)** — `2024-07-30` | `60 Pages`
-- `[`UKSI-2024-839`]` **[The Civil Procedure (Amendment No. 3) Rules 2024](https://www.indexdata.org/the-civil-procedure-amendment-no-3-rules-2024/)** — `2024-07-29` | `16 Pages`
-- `[`UKSI-2024-715`]` **[The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Amendment) Order 2024](https://www.indexdata.org/the-legal-aid-sentencing-and-punishment-of-offenders-act-2012-legal-aid-domestic-abuse-amendment-order-2024/)** — `2024-05-24` | `4 Pages`
-- `[`UKSI-2024-624`]` **[The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024](https://www.indexdata.org/the-prohibition-of-cross-examination-in-person-fees-of-court-appointed-qualified-legal-representatives-amendment-regulations-2024/)** — `2024-05-08` | `8 Pages`
-- `[`UKSI-2024-595`]` **[The Civil Procedure (Amendment No. 2) Rules 2024](https://www.indexdata.org/the-civil-procedure-amendment-no-2-rules-2024/)** — `2024-04-30` | `4 Pages`
-- `[`UKSI-2024-538`]` **[The Civil and Family Proceedings Fees (Amendment) Order 2024](https://www.indexdata.org/the-civil-and-family-proceedings-fees-amendment-order-2024/)** — `2024-04-18` | `4 Pages`
-- `[`UKSI-2024-476`]` **[The Court and Tribunal Fees (Miscellaneous Amendments) Order 2024](https://www.indexdata.org/the-court-and-tribunal-fees-miscellaneous-amendments-order-2024/)** — `2024-04-03` | `28 Pages`
-- `[`UKSI-2024-408`]` **[The Criminal Justice Act 2003 (Suitability for Fixed Term Recall) Order 2024](https://www.indexdata.org/the-criminal-justice-act-2003-suitability-for-fixed-term-recall-order-2024/)** — `2024-03-19` | `4 Pages`
-- `[`UKSI-2024-376`]` **[The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment) Order 2024](https://www.indexdata.org/the-first-tier-tribunal-and-upper-tribunal-chambers-amendment-order-2024/)** — `2024-03-13` | `2 Pages`
-- `[`UKSI-2024-106`]` **[The Civil Procedure (Amendment) Rules 2024](https://www.indexdata.org/the-civil-procedure-amendment-rules-2024/)** — `2024-01-30` | `8 Pages`
-- `[`UKSI-2024-62`]` **[The Criminal Procedure (Amendment) Rules 2024](https://www.indexdata.org/the-criminal-procedure-amendment-rules-2024/)** — `2024-01-18` | `36 Pages`
-- `[`UKSI-2024-58`]` **[The Criminal Legal Aid (General) (Amendment) Regulations 2024](https://www.indexdata.org/the-criminal-legal-aid-general-amendment-regulations-2024/)** — `2024-01-16` | `2 Pages`
 
 ### [Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-defence/](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)

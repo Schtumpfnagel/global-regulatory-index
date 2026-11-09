@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,926` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,927` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-09 13:26 UTC`
+**Last Automated Sync:** `2026-11-09 14:24 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,015` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`504` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,926)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,927)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1131,7 +1131,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-human-
 - `[`UN-CCPR-C-ESP-7`]` **[Seventh periodic report submitted by Spain under article 40 of the Covenant, due in 2020 — International Covenant on Civil and Political Rights](https://www.indexdata.org/ccpr-c-esp-7-seventh-periodic-report-submitted-by-spain-under-article-40-of-the-covenant-due-in-2020-international-covenant-on-civil-and-political-rights/)** — `2024-11-29` | `34 Pages`
 - `[`UN-A-HRC-WGAD-2024-33`]` **[Opinions adopted by the Working Group on Arbitrary Detention at its 100th session, 26-30 August 2024 — Opinion No. 33/2024 concerning Akin Öztürk (Türkiye)](https://www.indexdata.org/a-hrc-wgad-2024-33-opinions-adopted-by-the-working-group-on-arbitrary-detention-at-its-100th-session-26-30-august-2024-opinion-no-33-2024-concerning-akin-ozturk-turkiye/)** — `2024-11-29` | `13 Pages`
 - `[`UN-CCPR-C-TUR-CO-2`]` **[Concluding observations on the 2nd periodic report of Türkiye — Human Rights Committee](https://www.indexdata.org/ccpr-c-tur-co-2-concluding-observations-on-the-2nd-periodic-report-of-turkiye-human-rights-committee/)** — `2024-11-28` | `15 Pages`
-- `[`UN-CCPR-C-GRC-CO-3`]` **[Concluding observations on the 3rd periodic report of Greece — Human Rights Committee](https://www.indexdata.org/ccpr-c-grc-co-3-concluding-observations-on-the-3rd-periodic-report-of-greece-human-rights-committee/)** — `2024-11-28` | `10 Pages`
 
 ### [UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-security-council-unsc/](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -1414,6 +1413,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-econom
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 
+- `[`UN-E-CN.6-2026-NGO-181`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-181-statement/)** — `2026-01-12` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-180`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-180-statement/)** — `2026-01-12` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-179`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-179-statement/)** — `2026-01-12` | `3 Pages`
 - `[`UN-E-CN.6-2026-NGO-178`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-178-statement/)** — `2026-01-12` | `4 Pages`

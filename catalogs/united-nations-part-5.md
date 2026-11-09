@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,926` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,927` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-09 13:26 UTC`
+**Last Automated Sync:** `2026-11-09 14:24 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,015` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`504` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,926 of 6,926)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,927 of 6,927)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -965,6 +965,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-genera
 ### [UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 
+- `[`UN-CCPR-C-GRC-CO-3`]` **[Concluding observations on the 3rd periodic report of Greece — Human Rights Committee](https://www.indexdata.org/ccpr-c-grc-co-3-concluding-observations-on-the-3rd-periodic-report-of-greece-human-rights-committee/)** — `2024-11-28` | `10 Pages`
 - `[`UN-CRPD-C-BLR-FCO-1`]` **[Information received from Belarus on follow-up to the concluding observations on its initial report — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-blr-fco-1-information-received-from-belarus-on-follow-up-to-the-concluding-observations-on-its-initial-report-committee-on-the-rights-of-persons-with-disabilities/)** — `2024-11-27` | `5 Pages`
 - `[`UN-CERD-C-TJK-FCO-12-13`]` **[Information received from Tajikistan on follow-up to the concluding observations on its combined 12th and 13th periodic reports — Committee on the Elimination of Racial Discrimination](https://www.indexdata.org/cerd-c-tjk-fco-12-13-information-received-from-tajikistan-on-follow-up-to-the-concluding-observations-on-its-combined-12th-and-13th-periodic-reports-committee-on-the-elimination-of-racial/)** — `2024-11-27` | `4 Pages`
 - `[`UN-CAT-C-EGY-FCO-5`]` **[Information received from Egypt on follow-up to the concluding observations on its 5th periodic report — Committee against Torture](https://www.indexdata.org/cat-c-egy-fco-5-information-received-from-egypt-on-follow-up-to-the-concluding-observations-on-its-5th-periodic-report-committee-against-torture/)** — `2024-11-26` | `6 Pages`
