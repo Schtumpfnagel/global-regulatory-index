@@ -5,7 +5,7 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
 **Total Indexed Dossiers in International:** `930` across `19` issuing authorities  
-**Last Automated Sync:** `2026-11-09 07:56 UTC`
+**Last Automated Sync:** `2026-11-09 08:56 UTC`
 
 ---
 

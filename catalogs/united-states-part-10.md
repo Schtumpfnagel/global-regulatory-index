@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,157` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,158` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 07:56 UTC`
+**Last Automated Sync:** `2026-11-09 08:56 UTC`
 
 ---
 
@@ -75,7 +75,7 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
-- **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
+- **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,157)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,158)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1316,7 +1316,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2023-12799`]` **[Section 6418 Transfer of Certain Credits](https://www.indexdata.org/section-6418-transfer-of-certain-credits/)** — `2023-06-21` | `31 Pages`
 - `[`2023-12798`]` **[Section 6417 Elective Payment of Applicable Credits](https://www.indexdata.org/section-6417-elective-payment-of-applicable-credits/)** — `2023-06-21` | `31 Pages`
 - `[`2023-12797`]` **[Pre-Filing Registration Requirements for Certain Tax Credit Elections](https://www.indexdata.org/pre-filing-registration-requirements-for-certain-tax-credit-elections/)** — `2023-06-21` | `10 Pages`
-- `[`2023-11861`]` **[Malta Personal Retirement Scheme Listed Transaction](https://www.indexdata.org/malta-personal-retirement-scheme-listed-transaction/)** — `2023-06-07` | `9 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1761,6 +1760,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-en
 - `[`2023-13287`]` **[Tariff Provisions](https://www.indexdata.org/tariff-provisions/)** — `2023-06-22` | `12 Pages`
 - `[`2023-12184`]` **[Incentives for Advanced Cybersecurity Investment](https://www.indexdata.org/incentives-for-advanced-cybersecurity-investment/)** — `2023-06-07` | `2 Pages`
 
+### [Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-labor-relations-authority/](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
+
+- `[`2023-21447`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-3/)** — `2023-09-29` | `2 Pages`
+- `[`2023-20909`]` **[Availability of Official Information](https://www.indexdata.org/availability-of-official-information/)** — `2023-09-29` | `6 Pages`
+- `[`2023-20892`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-4/)** — `2023-09-26` | `2 Pages`
+- `[`2023-19269`]` **[Negotiability Proceedings](https://www.indexdata.org/negotiability-proceedings/)** — `2023-09-12` | `16 Pages`
+- `[`2023-14399`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-5/)** — `2023-07-10` | `2 Pages`
+
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 
@@ -1778,14 +1786,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-hous
 - `[`2023-15759`]` **[Single Family Housing Section 502 Guaranteed Loan Program](https://www.indexdata.org/single-family-housing-section-502-guaranteed-loan-program/)** — `2023-07-26` | `5 Pages`
 - `[`2023-15202`]` **[Loan Guarantees Under the Section 538 Guaranteed Rural Rental Housing Program](https://www.indexdata.org/loan-guarantees-under-the-section-538-guaranteed-rural-rental-housing-program-2/)** — `2023-07-19` | `2 Pages`
 - `[`2023-15174`]` **[Single Family Housing Section 504 Home Repair Loans and Grants in Presidentially Declared Disaster Areas Pilot Program](https://www.indexdata.org/single-family-housing-section-504-home-repair-loans-and-grants-in-presidentially-declared-disaster-areas-pilot-program-2/)** — `2023-07-18` | `2 Pages`
-
-### [Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-labor-relations-authority/](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
-
-- `[`2023-20909`]` **[Availability of Official Information](https://www.indexdata.org/availability-of-official-information/)** — `2023-09-29` | `6 Pages`
-- `[`2023-20892`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-4/)** — `2023-09-26` | `2 Pages`
-- `[`2023-19269`]` **[Negotiability Proceedings](https://www.indexdata.org/negotiability-proceedings/)** — `2023-09-12` | `16 Pages`
-- `[`2023-14399`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-5/)** — `2023-07-10` | `2 Pages`
 
 ### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)

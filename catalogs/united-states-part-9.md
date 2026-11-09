@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,157` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,158` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 07:56 UTC`
+**Last Automated Sync:** `2026-11-09 08:56 UTC`
 
 ---
 
@@ -75,7 +75,7 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
-- **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
+- **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,157)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,158)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1238,6 +1238,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
 
+- `[`2024-00454`]` **[Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/unified-agenda-of-federal-regulatory-and-deregulatory-actions-9/)** — `2024-02-09` | `6 Pages`
 - `[`2024-00453`]` **[Regulatory Agenda](https://www.indexdata.org/regulatory-agenda-3/)** — `2024-02-09` | `10 Pages`
 - `[`2024-00451`]` **[Fall 2023 Semiannual Agenda of Regulations](https://www.indexdata.org/fall-2023-semiannual-agenda-of-regulations/)** — `2024-02-09` | `15 Pages`
 - `[`2024-00449`]` **[Department Regulatory and Deregulatory Agenda; Semiannual Summary](https://www.indexdata.org/department-regulatory-and-deregulatory-agenda-semiannual-summary-2/)** — `2024-02-09` | `17 Pages`
@@ -1829,14 +1830,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-hi
 - `[`2023-27178`]` **[National Standards for Traffic Control Devices; the Manual on Uniform Traffic Control Devices for Streets and Highways; Revision](https://www.indexdata.org/national-standards-for-traffic-control-devices-the-manual-on-uniform-traffic-control-devices-for-streets-and-highways-revision-2/)** — `2023-12-19` | `25 Pages`
 - `[`2023-26019`]` **[National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure](https://www.indexdata.org/national-performance-management-measures-assessing-performance-of-the-national-highway-system-greenhouse-gas-emissions-measure-2/)** — `2023-12-07` | `31 Pages`
 
-### [Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-labor-relations-authority/](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
-
-- `[`2023-26516`]` **[Privacy](https://www.indexdata.org/privacy/)** — `2023-12-04` | `5 Pages`
-- `[`2023-25300`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-2/)** — `2023-11-17` | `2 Pages`
-- `[`2023-22439`]` **[Privacy](https://www.indexdata.org/privacy-2/)** — `2023-10-11` | `6 Pages`
-- `[`2023-21447`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-3/)** — `2023-09-29` | `2 Pages`
-
 ### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 
@@ -1904,6 +1897,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ho
 - `[`2024-00731`]` **[Prudential Management and Operations Standards](https://www.indexdata.org/prudential-management-and-operations-standards/)** — `2024-01-19` | `6 Pages`
 - `[`2024-00874`]` **[Rules of Practice and Procedure; Civil Money Penalty Inflation Adjustment](https://www.indexdata.org/rules-of-practice-and-procedure-civil-money-penalty-inflation-adjustment-2/)** — `2024-01-18` | `3 Pages`
 - `[`2023-26078`]` **[Enterprise Regulatory Capital Framework-Commingled Securities, Multifamily Government Subsidy, Derivatives, and Other Enhancements](https://www.indexdata.org/enterprise-regulatory-capital-framework-commingled-securities-multifamily-government-subsidy-derivatives-and-other-enhancements/)** — `2023-11-30` | `26 Pages`
+
+### [Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-labor-relations-authority/](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
+
+- `[`2023-26516`]` **[Privacy](https://www.indexdata.org/privacy/)** — `2023-12-04` | `5 Pages`
+- `[`2023-25300`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-2/)** — `2023-11-17` | `2 Pages`
+- `[`2023-22439`]` **[Privacy](https://www.indexdata.org/privacy-2/)** — `2023-10-11` | `6 Pages`
 
 ### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)

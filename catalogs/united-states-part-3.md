@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,157` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,158` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 07:56 UTC`
+**Last Automated Sync:** `2026-11-09 08:56 UTC`
 
 ---
 
@@ -75,7 +75,7 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
-- **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
+- **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
@@ -245,11 +245,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,157)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,158)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-08903`]` **[Special Conditions: Xtreme Avionics, LLC, Airbus Defense and Space S.A. Model 212 Series Airplane; Rechargeable Lithium Battery and Battery System Installations](https://www.indexdata.org/special-conditions-xtreme-avionics-llc-airbus-defense-and-space-s-a-model-212-series-airplane-rechargeable-lithium-battery-and-battery-system-installations/)** — `2026-05-06` | `3 Pages`
 - `[`2026-08645`]` **[Establishment of Class D and Class E Airspace; Ceiba, PR](https://www.indexdata.org/establishment-of-class-d-and-class-e-airspace-ceiba-pr/)** — `2026-05-04` | `3 Pages`
 - `[`2026-08594`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-52/)** — `2026-05-04` | `3 Pages`
 - `[`2026-08593`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-7/)** — `2026-05-04` | `4 Pages`
@@ -1197,35 +1198,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 - `[`2026-00904`]` **[Commercial Non-Power Production or Utilization Facilities](https://www.indexdata.org/commercial-non-power-production-or-utilization-facilities/)** — `2026-01-20` | `4 Pages`
 - `[`2025-23428`]` **[Incorporation by Reference of Institute of Electrical and Electronics Engineers Standard 603-2018](https://www.indexdata.org/incorporation-by-reference-of-institute-of-electrical-and-electronics-engineers-standard-603-2018-2/)** — `2025-12-19` | `7 Pages`
 
-### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
-
-- `[`2026-08613`]` **[Treatment of Income From Indian Fishing Rights-Related Activity as Compensation](https://www.indexdata.org/treatment-of-income-from-indian-fishing-rights-related-activity-as-compensation/)** — `2026-05-04` | `4 Pages`
-- `[`2026-08546`]` **[Section 6435 Payments; Refunds for Previously Taxed Dyed Fuel](https://www.indexdata.org/section-6435-payments-refunds-for-previously-taxed-dyed-fuel/)** — `2026-05-01` | `3 Pages`
-- `[`2026-08545`]` **[Section 6435 Payments; Refunds for Previously Taxed Dyed Fuel](https://www.indexdata.org/section-6435-payments-refunds-for-previously-taxed-dyed-fuel-2/)** — `2026-05-01` | `7 Pages`
-- `[`2026-08344`]` **[Section 45Z Clean Fuel Production Credit; Hearing](https://www.indexdata.org/section-45z-clean-fuel-production-credit-hearing-2/)** — `2026-04-29` | `2 Pages`
-- `[`2026-07682`]` **[Enrolled Agent Special Enrollment Examination User Fee Update](https://www.indexdata.org/enrolled-agent-special-enrollment-examination-user-fee-update/)** — `2026-04-20` | `3 Pages`
-- `[`2026-07681`]` **[Enrolled Agent Special Enrollment Examination User Fee Update](https://www.indexdata.org/enrolled-agent-special-enrollment-examination-user-fee-update-2/)** — `2026-04-20` | `4 Pages`
-- `[`2026-07519`]` **[Increase in Threshold for Requiring Information Reporting With Respect to Certain Payees; Extension and Modification of Limitation on Wagering Losses](https://www.indexdata.org/increase-in-threshold-for-requiring-information-reporting-with-respect-to-certain-payees-extension-and-modification-of-limitation-on-wagering-losses/)** — `2026-04-17` | `9 Pages`
-- `[`2026-07104`]` **[Occupations That Customarily and Regularly Received Tips; Definition of Qualified Tips](https://www.indexdata.org/occupations-that-customarily-and-regularly-received-tips-definition-of-qualified-tips/)** — `2026-04-13` | `31 Pages`
-- `[`2026-07085`]` **[Excise Tax on Remittance Transfers](https://www.indexdata.org/excise-tax-on-remittance-transfers/)** — `2026-04-13` | `13 Pages`
-- `[`2026-05896`]` **[Preparer Tax Identification Number (PTIN) User Fee Update; Hearing](https://www.indexdata.org/preparer-tax-identification-number-ptin-user-fee-update-hearing/)** — `2026-03-26` | `2 Pages`
-- `[`2026-05525`]` **[Substantiation Requirements and Qualified Nonpersonal Use Vehicles](https://www.indexdata.org/substantiation-requirements-and-qualified-nonpersonal-use-vehicles/)** — `2026-03-20` | `4 Pages`
-- `[`2026-05447`]` **[Consistent Basis Reporting Between Estate and Person Acquiring Property From Decedent; Correction](https://www.indexdata.org/consistent-basis-reporting-between-estate-and-person-acquiring-property-from-decedent-correction/)** — `2026-03-19` | `2 Pages`
-- `[`2026-04798`]` **[Guidance on Tax-Exempt Refunding Bonds](https://www.indexdata.org/guidance-on-tax-exempt-refunding-bonds/)** — `2026-03-12` | `6 Pages`
-- `[`2026-04534`]` **[Trump Accounts Contribution Pilot Program](https://www.indexdata.org/trump-accounts-contribution-pilot-program/)** — `2026-03-09` | `10 Pages`
-- `[`2026-04533`]` **[Trump Accounts](https://www.indexdata.org/trump-accounts-3/)** — `2026-03-09` | `10 Pages`
-- `[`2026-04432`]` **[Removal of Final Regulations Identifying Certain Partnership Related-Party Basis Adjustment Transactions as Transactions of Interest](https://www.indexdata.org/removal-of-final-regulations-identifying-certain-partnership-related-party-basis-adjustment-transactions-as-transactions-of-interest/)** — `2026-03-06` | `4 Pages`
-- `[`2026-04431`]` **[Electronic Furnishing of Payee Statements Regarding Digital Asset Sales by Brokers](https://www.indexdata.org/electronic-furnishing-of-payee-statements-regarding-digital-asset-sales-by-brokers/)** — `2026-03-06` | `21 Pages`
-- `[`2026-03798`]` **[Private Health Insurance; Transparency in Coverage; Extension of Comment Period](https://www.indexdata.org/private-health-insurance-transparency-in-coverage-extension-of-comment-period/)** — `2026-02-25` | `2 Pages`
-- `[`2026-02246`]` **[Section 45Z Clean Fuel Production Credit](https://www.indexdata.org/section-45z-clean-fuel-production-credit/)** — `2026-02-04` | `48 Pages`
-- `[`2026-00254`]` **[Backup Withholding on Third Party Network Transactions](https://www.indexdata.org/backup-withholding-on-third-party-network-transactions-2/)** — `2026-01-09` | `4 Pages`
-- `[`2025-24154`]` **[Car Loan Interest Deduction](https://www.indexdata.org/car-loan-interest-deduction-2/)** — `2026-01-02` | `27 Pages`
-- `[`2025-24153`]` **[Statutory Updates to Branded Prescription Drug Fee Regulations](https://www.indexdata.org/statutory-updates-to-branded-prescription-drug-fee-regulations/)** — `2026-01-02` | `5 Pages`
-- `[`2025-23693`]` **[Transparency in Coverage](https://www.indexdata.org/transparency-in-coverage-2/)** — `2025-12-23` | `87 Pages`
-- `[`2025-23460`]` **[Excise Tax on Repurchase of Corporate Stock; Correction](https://www.indexdata.org/excise-tax-on-repurchase-of-corporate-stock-correction/)** — `2025-12-19` | `2 Pages`
-- `[`2025-23292`]` **[Base Erosion and Anti-Abuse Tax Rules for Qualified Derivative Payments on Securities Lending Transactions](https://www.indexdata.org/base-erosion-and-anti-abuse-tax-rules-for-qualified-derivative-payments-on-securities-lending-transactions/)** — `2025-12-18` | `6 Pages`
-
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
@@ -1253,6 +1225,34 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2026-02372`]` **[Kiwifruit Grown in California and Imported Kiwifruit; Modification of Handling Regulations](https://www.indexdata.org/kiwifruit-grown-in-california-and-imported-kiwifruit-modification-of-handling-regulations/)** — `2026-02-06` | `4 Pages`
 - `[`2026-01351`]` **[Marketing Order for Onions Grown in South Texas (M.O. No. 959); Hearing](https://www.indexdata.org/marketing-order-for-onions-grown-in-south-texas-m-o-no-959-hearing/)** — `2026-01-23` | `3 Pages`
 - `[`2025-24113`]` **[Cotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2025 Amendments)](https://www.indexdata.org/cotton-board-rules-and-regulations-adjusting-supplemental-assessment-on-imports-2025-amendments-2/)** — `2025-12-31` | `39 Pages`
+
+### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
+
+- `[`2026-08613`]` **[Treatment of Income From Indian Fishing Rights-Related Activity as Compensation](https://www.indexdata.org/treatment-of-income-from-indian-fishing-rights-related-activity-as-compensation/)** — `2026-05-04` | `4 Pages`
+- `[`2026-08546`]` **[Section 6435 Payments; Refunds for Previously Taxed Dyed Fuel](https://www.indexdata.org/section-6435-payments-refunds-for-previously-taxed-dyed-fuel/)** — `2026-05-01` | `3 Pages`
+- `[`2026-08545`]` **[Section 6435 Payments; Refunds for Previously Taxed Dyed Fuel](https://www.indexdata.org/section-6435-payments-refunds-for-previously-taxed-dyed-fuel-2/)** — `2026-05-01` | `7 Pages`
+- `[`2026-08344`]` **[Section 45Z Clean Fuel Production Credit; Hearing](https://www.indexdata.org/section-45z-clean-fuel-production-credit-hearing-2/)** — `2026-04-29` | `2 Pages`
+- `[`2026-07682`]` **[Enrolled Agent Special Enrollment Examination User Fee Update](https://www.indexdata.org/enrolled-agent-special-enrollment-examination-user-fee-update/)** — `2026-04-20` | `3 Pages`
+- `[`2026-07681`]` **[Enrolled Agent Special Enrollment Examination User Fee Update](https://www.indexdata.org/enrolled-agent-special-enrollment-examination-user-fee-update-2/)** — `2026-04-20` | `4 Pages`
+- `[`2026-07519`]` **[Increase in Threshold for Requiring Information Reporting With Respect to Certain Payees; Extension and Modification of Limitation on Wagering Losses](https://www.indexdata.org/increase-in-threshold-for-requiring-information-reporting-with-respect-to-certain-payees-extension-and-modification-of-limitation-on-wagering-losses/)** — `2026-04-17` | `9 Pages`
+- `[`2026-07104`]` **[Occupations That Customarily and Regularly Received Tips; Definition of Qualified Tips](https://www.indexdata.org/occupations-that-customarily-and-regularly-received-tips-definition-of-qualified-tips/)** — `2026-04-13` | `31 Pages`
+- `[`2026-07085`]` **[Excise Tax on Remittance Transfers](https://www.indexdata.org/excise-tax-on-remittance-transfers/)** — `2026-04-13` | `13 Pages`
+- `[`2026-05896`]` **[Preparer Tax Identification Number (PTIN) User Fee Update; Hearing](https://www.indexdata.org/preparer-tax-identification-number-ptin-user-fee-update-hearing/)** — `2026-03-26` | `2 Pages`
+- `[`2026-05525`]` **[Substantiation Requirements and Qualified Nonpersonal Use Vehicles](https://www.indexdata.org/substantiation-requirements-and-qualified-nonpersonal-use-vehicles/)** — `2026-03-20` | `4 Pages`
+- `[`2026-05447`]` **[Consistent Basis Reporting Between Estate and Person Acquiring Property From Decedent; Correction](https://www.indexdata.org/consistent-basis-reporting-between-estate-and-person-acquiring-property-from-decedent-correction/)** — `2026-03-19` | `2 Pages`
+- `[`2026-04798`]` **[Guidance on Tax-Exempt Refunding Bonds](https://www.indexdata.org/guidance-on-tax-exempt-refunding-bonds/)** — `2026-03-12` | `6 Pages`
+- `[`2026-04534`]` **[Trump Accounts Contribution Pilot Program](https://www.indexdata.org/trump-accounts-contribution-pilot-program/)** — `2026-03-09` | `10 Pages`
+- `[`2026-04533`]` **[Trump Accounts](https://www.indexdata.org/trump-accounts-3/)** — `2026-03-09` | `10 Pages`
+- `[`2026-04432`]` **[Removal of Final Regulations Identifying Certain Partnership Related-Party Basis Adjustment Transactions as Transactions of Interest](https://www.indexdata.org/removal-of-final-regulations-identifying-certain-partnership-related-party-basis-adjustment-transactions-as-transactions-of-interest/)** — `2026-03-06` | `4 Pages`
+- `[`2026-04431`]` **[Electronic Furnishing of Payee Statements Regarding Digital Asset Sales by Brokers](https://www.indexdata.org/electronic-furnishing-of-payee-statements-regarding-digital-asset-sales-by-brokers/)** — `2026-03-06` | `21 Pages`
+- `[`2026-03798`]` **[Private Health Insurance; Transparency in Coverage; Extension of Comment Period](https://www.indexdata.org/private-health-insurance-transparency-in-coverage-extension-of-comment-period/)** — `2026-02-25` | `2 Pages`
+- `[`2026-02246`]` **[Section 45Z Clean Fuel Production Credit](https://www.indexdata.org/section-45z-clean-fuel-production-credit/)** — `2026-02-04` | `48 Pages`
+- `[`2026-00254`]` **[Backup Withholding on Third Party Network Transactions](https://www.indexdata.org/backup-withholding-on-third-party-network-transactions-2/)** — `2026-01-09` | `4 Pages`
+- `[`2025-24154`]` **[Car Loan Interest Deduction](https://www.indexdata.org/car-loan-interest-deduction-2/)** — `2026-01-02` | `27 Pages`
+- `[`2025-24153`]` **[Statutory Updates to Branded Prescription Drug Fee Regulations](https://www.indexdata.org/statutory-updates-to-branded-prescription-drug-fee-regulations/)** — `2026-01-02` | `5 Pages`
+- `[`2025-23693`]` **[Transparency in Coverage](https://www.indexdata.org/transparency-in-coverage-2/)** — `2025-12-23` | `87 Pages`
+- `[`2025-23460`]` **[Excise Tax on Repurchase of Corporate Stock; Correction](https://www.indexdata.org/excise-tax-on-repurchase-of-corporate-stock-correction/)** — `2025-12-19` | `2 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)

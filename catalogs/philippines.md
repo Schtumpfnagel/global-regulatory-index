@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `261` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-09 07:56 UTC`
+**Total Indexed Dossiers in Philippines:** `268` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-09 08:56 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (11 Authorities)
 
-- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
-- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`45` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
-- **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
+- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
+- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
+- **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`43` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–261 of 261)
+## Indexed Statutory & Regulatory Dossiers (Records 1–268 of 268)
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
@@ -39,6 +39,9 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-ind
 - `[`PH-MARINA-26201`]` **[Annex H – Minimum Required Equipment](https://www.indexdata.org/annex-h-minimum-required-equipment/)** — `2026-11-09` | `19 Pages`
 - `[`PH-MARINA-26194`]` **[Annex F – RULES AND REGULATIONS GOVERNING THE IMPLEMENTATION OF THE SEAGOING SERVICE REQUIREMENT UNDER THE BSMT AND BSMARE PROGRAMS](https://www.indexdata.org/annex-f-rules-and-regulations-governing-the-implementation-of-the-seagoing-service-requirement-under-the-bsmt-and-bsmare-programs/)** — `2026-11-09` | `20 Pages`
 - `[`PH-MARINA-26193`]` **[Annex D2 – Sample Program of Study for BSMarE Program](https://www.indexdata.org/annex-d2-sample-program-of-study-for-bsmare-program/)** — `2026-11-09` | `4 Pages`
+- `[`PH-MARINA-26192`]` **[Annex D1 – Sample Program of Study for BSMT Program](https://www.indexdata.org/annex-d1-sample-program-of-study-for-bsmt-program/)** — `2026-11-09` | `4 Pages`
+- `[`PH-MARINA-26191`]` **[Annex C1 – Course Specifications – BSMT](https://www.indexdata.org/annex-c1-course-specifications-bsmt/)** — `2026-11-09` | `181 Pages`
+- `[`PH-MARINA-26190`]` **[Annex E – Procedures Manual for Assessment and Evaluation of Competences for the BSMT and BSMarE Programs](https://www.indexdata.org/annex-e-procedures-manual-for-assessment-and-evaluation-of-competences-for-the-bsmt-and-bsmare-programs/)** — `2026-11-09` | `76 Pages`
 - `[`PH-MARINA-26182`]` **[mPhilgeps Posting – Various ACU Materials](https://www.indexdata.org/mphilgeps-posting-various-acu-materials/)** — `2026-11-06` | `3 Pages`
 - `[`PH-MARINA-26181`]` **[Request for Quotation – Various ACU Materials 4th Qtr 2026](https://www.indexdata.org/request-for-quotation-various-acu-materials-4th-qtr-2026/)** — `2026-11-06` | `8 Pages`
 - `[`PH-MARINA-26154`]` **[BIDDING DOCUMENTS ICT MACHINERY](https://www.indexdata.org/bidding-documents-ict-machinery/)** — `2026-11-03` | `113 Pages`
@@ -137,6 +140,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/department-o
 - `[`PH-DA-113741`]` **[do32 s2026](https://www.indexdata.org/do32-s2026/)** — `2026-11-04` | `2 Pages`
 - `[`PH-DA-113735`]` **[so1544 s2026](https://www.indexdata.org/so1544-s2026/)** — `2026-11-04` | `2 Pages`
 - `[`PH-DA-113734`]` **[so1543 s2026](https://www.indexdata.org/so1543-s2026/)** — `2026-11-04` | `2 Pages`
+- `[`PH-DA-113731`]` **[so1540 s2026](https://www.indexdata.org/so1540-s2026/)** — `2026-11-04` | `4 Pages`
+- `[`PH-DA-113730`]` **[so1539 s2026](https://www.indexdata.org/so1539-s2026/)** — `2026-11-04` | `3 Pages`
 
 ### [Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-investments/](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
@@ -182,6 +187,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-inv
 - `[`PH-BOI-20115`]` **[PMD Online Request for Data on Investment Statistics](https://www.indexdata.org/pmd-online-request-for-data-on-investment-statistics/)** — `2026-06-05` | `4 Pages`
 - `[`PH-BOI-20113`]` **[LCS Endorsement of Good Standing](https://www.indexdata.org/lcs-endorsement-of-good-standing/)** — `2026-06-05` | `2 Pages`
 - `[`PH-BOI-20112`]` **[LCS Certificate of Qualification to Import Tax and Duty free Spare Parts and Supplies under Article 39l of EO 226 The Omnibus Investments Code o](https://www.indexdata.org/lcs-certificate-of-qualification-to-import-tax-and-duty-free-spare-parts-and-supplies-under-article-39l-of-eo-226-the-omnibus-investments-code-o/)** — `2026-06-05` | `3 Pages`
+- `[`PH-BOI-20111`]` **[LCS Certificate of Non-Local Availability](https://www.indexdata.org/lcs-certificate-of-non-local-availability/)** — `2026-06-05` | `3 Pages`
+- `[`PH-BOI-20110`]` **[LCS Certificate of Entitlement to Tax Incentives for projects registered under EO 226 Corporate Recovery and Tax Incentives for Enterprises Act](https://www.indexdata.org/lcs-certificate-of-entitlement-to-tax-incentives-for-projects-registered-under-eo-226-corporate-recovery-and-tax-incentives-for-enterprises-act/)** — `2026-06-05` | `3 Pages`
 
 ### [National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/national-privacy-commission/](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)

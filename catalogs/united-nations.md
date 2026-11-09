@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,924` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,925` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-09 07:56 UTC`
+**Last Automated Sync:** `2026-11-09 08:56 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,014` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`504` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`478` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,924)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,925)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1193,7 +1193,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-62-L.25`]` **[Human rights implications of the obstruction and denial of humanitarian access and threats to the safety of humanitarian personnel in armed conflict — draft resolution](https://www.indexdata.org/a-hrc-62-l-25-human-rights-implications-of-the-obstruction-and-denial-of-humanitarian-access-and-threats-to-the-safety-of-humanitarian-personnel-in-armed-conflict-draft-resolution/)** — `2026-07-01` | `3 Pages`
 - `[`UN-A-HRC-62-L.13`]` **[Human rights and the civilian acquisition, possession and use of firearms — draft resolution](https://www.indexdata.org/a-hrc-62-l-13-human-rights-and-the-civilian-acquisition-possession-and-use-of-firearms-draft-resolution/)** — `2026-07-01` | `5 Pages`
 - `[`UN-A-C.5-80-INF-5`]` **[Recommendations contained in the report of the 5th Committee (A/80/568/Add.2) for consideration by the General Assembly — note](https://www.indexdata.org/a-c-5-80-inf-5-recommendations-contained-in-the-report-of-the-5th-committee-a-80-568-add-2-for-consideration-by-the-general-assembly-note/)** — `2026-07-01` | `3 Pages`
-- `[`UN-A-81-127`]` **[Effects of the use of armaments and ammunitions containing depleted uranium — report of the Secretary-General](https://www.indexdata.org/a-81-127-effects-of-the-use-of-armaments-and-ammunitions-containing-depleted-uranium-report-of-the-secretary-general/)** — `2026-07-01` | `7 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
@@ -1375,6 +1374,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 
+- `[`UN-CRC-C-BRB-QPR-3-7`]` **[List of issues prior to submission of the combined 3rd to 7th periodic reports of Barbados — Committee on the Rights of the Child](https://www.indexdata.org/crc-c-brb-qpr-3-7-list-of-issues-prior-to-submission-of-the-combined-3rd-to-7th-periodic-reports-of-barbados-committee-on-the-rights-of-the-child/)** — `2026-11-06` | `10 Pages`
 - `[`UN-CCPR-C-GEO-FCO-5`]` **[Information received from Georgia on follow-up to the concluding observations on its 5th periodic report — Human Rights Committee](https://www.indexdata.org/ccpr-c-geo-fco-5-information-received-from-georgia-on-follow-up-to-the-concluding-observations-on-its-5th-periodic-report-human-rights-committee/)** — `2026-11-05` | `8 Pages`
 - `[`UN-CRPD-C-ETH-Q-2-3`]` **[List of issues in relation to the combined 2nd and 3rd periodic reports of Ethiopia — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-eth-q-2-3-list-of-issues-in-relation-to-the-combined-2nd-and-3rd-periodic-reports-of-ethiopia-committee-on-the-rights-of-persons-with-disabilities/)** — `2026-11-04` | `10 Pages`
 - `[`UN-CRC-C-101-D-186-2022`]` **[Decision adopted by the Committee under the Optional Protocol to the Convention on the Rights of the Child on a Communications Procedure, concerning communication No. 186/2022](https://www.indexdata.org/crc-c-101-d-186-2022-decision-adopted-by-the-committee-under-the-optional-protocol-to-the-convention-on-the-rights-of-the-child-on-a-communications-procedure-concerning-communication-no-186-2022/)** — `2026-11-04` | `17 Pages`
