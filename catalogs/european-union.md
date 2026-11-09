@@ -5,22 +5,22 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `3,662` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `3,672` across `29` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md)  
-**Last Automated Sync:** `2026-11-09 10:42 UTC`
+**Last Automated Sync:** `2026-11-09 11:46 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,021` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`998` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,005` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`624` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
-- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`193` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
+- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`195` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 - **[European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/) | [Wikidata `Q130146`](https://www.wikidata.org/wiki/Q130146)
 - **[European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
-- **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
+- **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
 - **[European Parliament and Council of the European Union](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-european-union/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-european-union/feed/)
 - **[Court of Justice of the European Union](https://www.indexdata.org/european-union/court-of-justice-of-the-european-union/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/court-of-justice-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/court-of-justice-of-the-european-union/feed/)
 - **[EFTA Surveillance Authority](https://www.indexdata.org/european-union/efta-surveillance-authority/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/efta-surveillance-authority/) | [RSS Feed](https://www.indexdata.org/european-union/efta-surveillance-authority/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,662)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,672)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -626,7 +626,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`CELEX-32026L0500`]` **[Commission Directive (EU) 2026/500 of 5 March 2026 amending Directive 2008/63/EC as regards a reporting obligation](https://www.indexdata.org/commission-directive-eu-2026-500-of-5-march-2026-amending-directive-2008-63-ec-as-regards-a-reporting-obligation/)** — `2026-03-05` | `2 Pages`
 - `[`CELEX-32026R0773`]` **[Commission Delegated Regulation (EU) 2026/773 of 4 March 2026 amending Delegated Regulation (EU) 2019/980 as regards the reduced content and the standardised format and sequence of the EU Follow-on prospectus and the EU Growth issuance prospectus](https://www.indexdata.org/commission-delegated-regulation-eu-2026-773-of-4-march-2026-amending-delegated-regulation-eu-2019-980-as-regards-the-reduced-content-and-the-standardised-format-and-sequence-of-the-eu-fo/)** — `2026-03-04` | `42 Pages`
 - `[`CELEX-32026R0700`]` **[Commission Implementing Regulation (EU) 2026/700 of 4 March 2026 amending Implementing Regulation (EU) 2024/2651 as regards administrative changes to the Union authorisation of the biocidal product family Taski-Room Care-Suma Family based on Lactic Acid](https://www.indexdata.org/commission-implementing-regulation-eu-2026-700-of-4-march-2026-amending-implementing-regulation-eu-2024-2651-as-regards-administrative-changes-to-the-union-authorisation-of-the-biocidal/)** — `2026-03-04` | `53 Pages`
-- `[`CELEX-32026R0665`]` **[Commission Implementing Regulation (EU) 2026/665 of 4 March 2026 amending Implementing Regulation (EU) 2022/2552 as regards the technical specifications of data requirements for the detailed topic industrial production statistics establishing the industrial products classification breakdown](https://www.indexdata.org/commission-implementing-regulation-eu-2026-665-of-4-march-2026-amending-implementing-regulation-eu-2022-2552-as-regards-the-technical-specifications-of-data-requirements-for-the-detailed/)** — `2026-03-04` | `271 Pages`
 
 ### [Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/council-of-the-european-union/](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -1544,6 +1543,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 ### [European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-environment-agency-eea/](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/)
 
+- `[`EEA-RPT-TAPIE22026D4309A`]` **[EEA Report: Trends and Projections in Europe 2026](https://www.indexdata.org/eea-report-trends-and-projections-in-europe-2026/)** — `2026-11-09` | `93 Pages`
 - `[`EEA-RPT-ECRAE22365573`]` **[European Climate Risk Assessment EUCRA 2](https://www.indexdata.org/european-climate-risk-assessment-eucra-2/)** — `2026-10-27` | `73 Pages`
 - `[`EEA-RPT-GGETADECA913`]` **[EEA Report: Greenhouse Gas Emissions Trends and Drivers in the EU Agricultural Sector](https://www.indexdata.org/eea-report-greenhouse-gas-emissions-trends-and-drivers-in-the-eu-agricultural-sector/)** — `2026-10-21` | `153 Pages`
 - `[`EEA-RPT-EIT4EDA5F`]` **[EEA Report: Europe's Industrial Transformation](https://www.indexdata.org/eea-report-europes-industrial-transformation/)** — `2026-10-20` | `138 Pages`
