@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `276` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-09 09:55 UTC`
+**Total Indexed Dossiers in Philippines:** `280` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-09 10:42 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (11 Authorities)
 
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`61` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
-- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
+- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–276 of 276)
+## Indexed Statutory & Regulatory Dossiers (Records 1–280 of 280)
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
@@ -147,6 +147,10 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/department-o
 - `[`PH-DA-113728`]` **[so1537 s2026](https://www.indexdata.org/so1537-s2026/)** — `2026-11-04` | `2 Pages`
 - `[`PH-DA-113727`]` **[so1536 s2026](https://www.indexdata.org/so1536-s2026/)** — `2026-11-04` | `2 Pages`
 - `[`PH-DA-113726`]` **[so1535 s2026](https://www.indexdata.org/so1535-s2026/)** — `2026-11-04` | `2 Pages`
+- `[`PH-DA-113716`]` **[Clippings for November 4, 2026](https://www.indexdata.org/clippings-for-november-4-2026/)** — `2026-11-04` | `43 Pages`
+- `[`PH-DA-113714`]` **[Price Monitoring November 3, 2026](https://www.indexdata.org/price-monitoring-november-3-2026/)** — `2026-11-03` | `6 Pages`
+- `[`PH-DA-113713`]` **[Price Monitoring November 2, 2026](https://www.indexdata.org/price-monitoring-november-2-2026/)** — `2026-11-03` | `6 Pages`
+- `[`PH-DA-113710`]` **[Daily Cigarette Price Monitoring November 3, 2026](https://www.indexdata.org/daily-cigarette-price-monitoring-november-3-2026/)** — `2026-11-03` | `15 Pages`
 
 ### [Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-investments/](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)

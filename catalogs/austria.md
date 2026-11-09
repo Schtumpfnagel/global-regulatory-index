@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/austria/feed/](https://www.indexdata.org/austria/feed/)  
 **Wikidata Sovereign Entity:** [`Q40`](https://www.wikidata.org/wiki/Q40)  
 **Governing Open-Government Framework:** *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0*  
-**Total Indexed Dossiers in Austria:** `157` across `17` issuing authorities  
-**Last Automated Sync:** `2026-11-09 09:55 UTC`
+**Total Indexed Dossiers in Austria:** `158` across `17` issuing authorities  
+**Last Automated Sync:** `2026-11-09 10:42 UTC`
 
 ---
 
@@ -16,8 +16,8 @@
 - **[Austrian National Public Health Institute (Gesundheit Österreich GmbH - GÖG)](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/) | [RSS Feed](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/feed/)
 - **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
 - **[Oesterreichische Nationalbank (OeNB)](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/) | [RSS Feed](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/feed/)
+- **[Austrian Energy Regulatory Authority (E-Control)](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/) | [RSS Feed](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/feed/)
 - **[Federal Ministry of Education, Science and Research of Austria](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/feed/)
-- **[Austrian Energy Regulatory Authority (E-Control)](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/) | [RSS Feed](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/feed/)
 - **[Federal Ministry of Social Affairs, Health, Care and Consumer Protection of Austria (BMSGPK)](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/feed/)
 - **[Federal Ministry of Justice of Austria (BMJ)](https://www.indexdata.org/austria/federal-ministry-of-justice-of-austria-bmj/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-ministry-of-justice-of-austria-bmj/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-of-justice-of-austria-bmj/feed/)
 - **[Austrian Regulatory Authority for Broadcasting and Telecommunications (RTR)](https://www.indexdata.org/austria/austrian-regulatory-authority-for-broadcasting-and-telecommunications-rtr/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-regulatory-authority-for-broadcasting-and-telecommunications-rtr/) | [RSS Feed](https://www.indexdata.org/austria/austrian-regulatory-authority-for-broadcasting-and-telecommunications-rtr/feed/)
@@ -32,7 +32,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–157 of 157)
+## Indexed Statutory & Regulatory Dossiers (Records 1–158 of 158)
 
 ### [Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
@@ -178,6 +178,16 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/oesterreichische
 - `[`AT-OENB-W4407977088`]` **[Targeted But (Not) Toxic? Tltro and Financial Stability](https://www.indexdata.org/targeted-but-not-toxic-tltro-and-financial-stability/)** — `2025-01-01` | `32 Pages`
 - `[`AT-OENB-W4406235583`]` **[The Intersection between Climate Transition Policies and Geoeconomic Fragmentation](https://www.indexdata.org/the-intersection-between-climate-transition-policies-and-geoeconomic-fragmentation/)** — `2025-01-01` | `31 Pages`
 
+### [Austrian Energy Regulatory Authority (E-Control)](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/)
+Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/) | [RSS Feed](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/feed/)
+
+- `[`AT-ERV-2025_1_91`]` **[Federal Act on Rules for the Electricity Sector (Electricity Act)](https://www.indexdata.org/federal-act-on-rules-for-the-electricity-sector-electricity-act/)** — `2026-11-09` | `254 Pages`
+- `[`AT-ERV-2021_1_150`]` **[Federal Act on the Expansion of Energy from Renewable Sources (Renewable Energy Expansion Act)](https://www.indexdata.org/federal-act-on-the-expansion-of-energy-from-renewable-sources-renewable-energy-expansion-act/)** — `2026-10-07` | `122 Pages`
+- `[`AT-ERV-2010_1_110_a`]` **[Federal Act on the Regulatory Authority for Electricity and Natural Gas](https://www.indexdata.org/federal-act-on-the-regulatory-authority-for-electricity-and-natural-gas/)** — `2026-10-07` | `51 Pages`
+- `[`AT-ERV-2010_1_110`]` **[Federal Act Providing New Rules for the Organisation of the Electricity Sector (Electricity Act 2010 – ElWOG 2010)](https://www.indexdata.org/federal-act-providing-new-rules-for-the-organisation-of-the-electricity-sector-electricity-act-2010-elwog-2010/)** — `2026-03-04` | `174 Pages`
+- `[`AT-ERV-2011_1_75`]` **[Federal Act on Supporting Electricity Produced from Renewable Energy Sources (Green Electricity Act 2012)](https://www.indexdata.org/federal-act-on-supporting-electricity-produced-from-renewable-energy-sources-green-electricity-act-2012/)** — `2025-11-13` | `95 Pages`
+- `[`AT-ERV-2011_1_107`]` **[Federal Act Providing New Rules for the Gas Sector (Gas Act 2011)](https://www.indexdata.org/federal-act-providing-new-rules-for-the-gas-sector-gas-act-2011/)** — `2025-08-28` | `242 Pages`
+
 ### [Federal Ministry of Education, Science and Research of Austria](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/feed/)
 
@@ -187,15 +197,6 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/federal-ministry
 - `[`AT-ERV-2002_1_120`]` **[Federal Act on the Organisation of Universities and their Studies (Universities Act 2002 – UG)](https://www.indexdata.org/federal-act-on-the-organisation-of-universities-and-their-studies-universities-act-2002-ug/)** — `2025-11-13` | `238 Pages`
 - `[`AT-ERV-2020_1_77`]` **[Private Higher Education Act (Privathochschulgesetz) – PrivHG](https://www.indexdata.org/private-higher-education-act-privathochschulgesetz-privhg/)** — `2025-09-24` | `21 Pages`
 - `[`AT-ERV-1986_291`]` **[Federal Act of 15 May 1986 on Living in Student Residence Halls (Student Residence Act)](https://www.indexdata.org/federal-act-of-15-may-1986-on-living-in-student-residence-halls-student-residence-act/)** — `2024-09-09` | `18 Pages`
-
-### [Austrian Energy Regulatory Authority (E-Control)](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/)
-Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/) | [RSS Feed](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/feed/)
-
-- `[`AT-ERV-2021_1_150`]` **[Federal Act on the Expansion of Energy from Renewable Sources (Renewable Energy Expansion Act)](https://www.indexdata.org/federal-act-on-the-expansion-of-energy-from-renewable-sources-renewable-energy-expansion-act/)** — `2026-10-07` | `122 Pages`
-- `[`AT-ERV-2010_1_110_a`]` **[Federal Act on the Regulatory Authority for Electricity and Natural Gas](https://www.indexdata.org/federal-act-on-the-regulatory-authority-for-electricity-and-natural-gas/)** — `2026-10-07` | `51 Pages`
-- `[`AT-ERV-2010_1_110`]` **[Federal Act Providing New Rules for the Organisation of the Electricity Sector (Electricity Act 2010 – ElWOG 2010)](https://www.indexdata.org/federal-act-providing-new-rules-for-the-organisation-of-the-electricity-sector-electricity-act-2010-elwog-2010/)** — `2026-03-04` | `174 Pages`
-- `[`AT-ERV-2011_1_75`]` **[Federal Act on Supporting Electricity Produced from Renewable Energy Sources (Green Electricity Act 2012)](https://www.indexdata.org/federal-act-on-supporting-electricity-produced-from-renewable-energy-sources-green-electricity-act-2012/)** — `2025-11-13` | `95 Pages`
-- `[`AT-ERV-2011_1_107`]` **[Federal Act Providing New Rules for the Gas Sector (Gas Act 2011)](https://www.indexdata.org/federal-act-providing-new-rules-for-the-gas-sector-gas-act-2011/)** — `2025-08-28` | `242 Pages`
 
 ### [Federal Ministry of Social Affairs, Health, Care and Consumer Protection of Austria (BMSGPK)](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/feed/)
