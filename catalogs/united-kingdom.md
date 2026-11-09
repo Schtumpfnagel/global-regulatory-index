@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,412` across `58` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,415` across `58` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-09 14:51 UTC`
+**Last Automated Sync:** `2026-11-09 15:07 UTC`
 
 ---
 
@@ -26,11 +26,11 @@
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`85` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
-- **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
+- **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
@@ -74,7 +74,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,412)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,415)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -368,8 +368,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2025-645`]` **[The Access to the Countryside (Coastal Margin) (St Mawes to Cremyll) Order 2025](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-st-mawes-to-cremyll-order-2025/)** — `2025-06-03` | `2 Pages`
 - `[`UKSI-2025-644`]` **[The Access to the Countryside (Coastal Margin) (Penzance to St Mawes) Order 2025](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-penzance-to-st-mawes-order-2025/)** — `2025-06-03` | `2 Pages`
 - `[`UKSI-2025-643`]` **[The Access to the Countryside (Coastal Margin) (Newquay to Penzance) (No. 2) Order 2025](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-newquay-to-penzance-no-2-order-2025/)** — `2025-06-03` | `2 Pages`
-- `[`UKSI-2025-642`]` **[The Access to the Countryside (Coastal Margin) (Kimmeridge Bay to Highcliffe) (No. 1) Order 2025](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-kimmeridge-bay-to-highcliffe-no-1-order-2025/)** — `2025-06-03` | `2 Pages`
-- `[`UKSI-2025-640`]` **[The Access to the Countryside (Coastal Margin) (Isle of Sheppey) (No. 1) Order 2025](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-isle-of-sheppey-no-1-order-2025/)** — `2025-06-03` | `3 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -1219,6 +1217,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 
+- `[`UK-JUD-132944`]` **[Courts and Tribunals Judiciary: R v Russell Brand Sentencing Remarks 9.11.26](https://www.indexdata.org/courts-and-tribunals-judiciary-r-v-russell-brand-sentencing-remarks-9-11-26/)** — `2026-11-09` | `8 Pages`
 - `[`UK-JUD-132936`]` **[Courts and Tribunals Judiciary: 2026-0418 – Response from NHS Englandv2](https://www.indexdata.org/courts-and-tribunals-judiciary-2026-0418-response-from-nhs-englandv2/)** — `2026-11-09` | `4 Pages`
 - `[`UK-JUD-132933`]` **[Courts and Tribunals Judiciary: Sentencing remarks – R v. Kyle – 09.11.2026](https://www.indexdata.org/courts-and-tribunals-judiciary-sentencing-remarks-r-v-kyle-09-11-2026/)** — `2026-11-09` | `7 Pages`
 - `[`UK-JUD-132926`]` **[Courts and Tribunals Judiciary: Consultation – FJC Draft Guidance on the Use of Hair Strand Testing within Family Proceedings (November 2026)](https://www.indexdata.org/courts-and-tribunals-judiciary-consultation-fjc-draft-guidance-on-the-use-of-hair-strand-testing-within-family-proceedings-november-2026/)** — `2026-11-09` | `37 Pages`
@@ -1325,7 +1324,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-984`]` **[The Dentists Act 1984 (Medical Authorities) Order 2025](https://www.indexdata.org/the-dentists-act-1984-medical-authorities-order-2025/)** — `2025-08-27` | `2 Pages`
 - `[`UKSI-2025-950`]` **[The Health and Social Care Information Standards (Procedure) Regulations 2025](https://www.indexdata.org/the-health-and-social-care-information-standards-procedure-regulations-2025/)** — `2025-07-09` | `4 Pages`
 - `[`UKSI-2025-667`]` **[The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025](https://www.indexdata.org/the-branded-health-service-medicines-costs-amendment-regulations-2025/)** — `2025-06-09` | `4 Pages`
-- `[`UKSI-2025-641`]` **[The Communications Act 2003 (Restrictions on the Advertising of Less Healthy Food) (Effective Date) (Amendment) Regulations 2025](https://www.indexdata.org/the-communications-act-2003-restrictions-on-the-advertising-of-less-healthy-food-effective-date-amendment-regulations-2025/)** — `2025-06-03` | `2 Pages`
 
 ### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
@@ -1483,6 +1481,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/environme
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 
 - `[`UK-GOV-2db1bfc6-ccf2-41a7-9d21-b619263d20e2-4`]` **[Export day old poultry of turkeys, chickens and ducklings to Egypt: certificate 5308 — guidance notes](https://www.indexdata.org/export-day-old-poultry-of-turkeys-chickens-and-ducklings-to-egypt-certificate-5308-guidance-notes/)** — `2026-11-09` | `4 Pages`
+- `[`UK-GOV-2db1bfc6-ccf2-41a7-9d21-b619263d20e2-3`]` **[Export day old poultry of turkeys, chickens and ducklings to Egypt: certificate 5308 — Supplementary page: 5308SUP, version 3](https://www.indexdata.org/export-day-old-poultry-of-turkeys-chickens-and-ducklings-to-egypt-certificate-5308-supplementary-page-5308sup-version-3/)** — `2026-11-09` | `2 Pages`
+- `[`UK-GOV-2db1bfc6-ccf2-41a7-9d21-b619263d20e2-2`]` **[Export day old poultry of turkeys, chickens and ducklings to Egypt: certificate 5308 — Export day old chicks of turkeys, chickens and ducklings to Egypt: EHC 5308, version 3](https://www.indexdata.org/export-day-old-poultry-of-turkeys-chickens-and-ducklings-to-egypt-certificate-5308-export-day-old-chicks-of-turkeys-chickens-and-ducklings-to-egypt-ehc-5308-version-3/)** — `2026-11-09` | `3 Pages`
 - `[`UK-DGOV-e769d17f-71f-fea866bd-179`]` **[List of Type 2 (Long Journey) Authorised Transporters — Authorised Transporters May 2025](https://www.indexdata.org/list-of-type-2-long-journey-authorised-transporters-authorised-transporters-may-2025/)** — `2026-11-04` | `45 Pages`
 - `[`UK-DGOV-e769d17f-71f-fa80ac4c-1f4`]` **[List of Type 2 (Long Journey) Authorised Transporters — Authorised Transporters March 2025](https://www.indexdata.org/list-of-type-2-long-journey-authorised-transporters-authorised-transporters-march-2025/)** — `2026-11-04` | `44 Pages`
 - `[`UK-DGOV-e769d17f-71f-f109179d-ed0`]` **[List of Type 2 (Long Journey) Authorised Transporters — Authorised Transporters April 2025](https://www.indexdata.org/list-of-type-2-long-journey-authorised-transporters-authorised-transporters-april-2025/)** — `2026-11-04` | `45 Pages`
