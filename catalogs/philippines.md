@@ -5,18 +5,18 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `253` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-09 06:54 UTC`
+**Total Indexed Dossiers in Philippines:** `261` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-09 07:56 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (11 Authorities)
 
-- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
-- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`43` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
-- **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
+- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
+- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`45` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
+- **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
+- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
-- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 - **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–253 of 253)
+## Indexed Statutory & Regulatory Dossiers (Records 1–261 of 261)
 
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
@@ -37,6 +37,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-ind
 - `[`PH-MARINA-26203`]` **[Annex A2 – STCW Competence Map – BSMarE](https://www.indexdata.org/annex-a2-stcw-competence-map-bsmare/)** — `2026-11-09` | `8 Pages`
 - `[`PH-MARINA-26202`]` **[Annex A1 STCW Competence Map – BSMT](https://www.indexdata.org/annex-a1-stcw-competence-map-bsmt/)** — `2026-11-09` | `19 Pages`
 - `[`PH-MARINA-26201`]` **[Annex H – Minimum Required Equipment](https://www.indexdata.org/annex-h-minimum-required-equipment/)** — `2026-11-09` | `19 Pages`
+- `[`PH-MARINA-26194`]` **[Annex F – RULES AND REGULATIONS GOVERNING THE IMPLEMENTATION OF THE SEAGOING SERVICE REQUIREMENT UNDER THE BSMT AND BSMARE PROGRAMS](https://www.indexdata.org/annex-f-rules-and-regulations-governing-the-implementation-of-the-seagoing-service-requirement-under-the-bsmt-and-bsmare-programs/)** — `2026-11-09` | `20 Pages`
+- `[`PH-MARINA-26193`]` **[Annex D2 – Sample Program of Study for BSMarE Program](https://www.indexdata.org/annex-d2-sample-program-of-study-for-bsmare-program/)** — `2026-11-09` | `4 Pages`
 - `[`PH-MARINA-26182`]` **[mPhilgeps Posting – Various ACU Materials](https://www.indexdata.org/mphilgeps-posting-various-acu-materials/)** — `2026-11-06` | `3 Pages`
 - `[`PH-MARINA-26181`]` **[Request for Quotation – Various ACU Materials 4th Qtr 2026](https://www.indexdata.org/request-for-quotation-various-acu-materials-4th-qtr-2026/)** — `2026-11-06` | `8 Pages`
 - `[`PH-MARINA-26154`]` **[BIDDING DOCUMENTS ICT MACHINERY](https://www.indexdata.org/bidding-documents-ict-machinery/)** — `2026-11-03` | `113 Pages`
@@ -90,6 +92,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-ind
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 
+- `[`PH-DA-113921`]` **[November 9, 2026 DPI AFC](https://www.indexdata.org/november-9-2026-dpi-afc/)** — `2026-11-09` | `12 Pages`
 - `[`PH-DA-113901`]` **[so1573 s2026](https://www.indexdata.org/so1573-s2026/)** — `2026-11-09` | `3 Pages`
 - `[`PH-DA-113892`]` **[Clippings for November 8, 2026](https://www.indexdata.org/clippings-for-november-8-2026/)** — `2026-11-09` | `16 Pages`
 - `[`PH-DA-113891`]` **[Clippings for November 7, 2026](https://www.indexdata.org/clippings-for-november-7-2026/)** — `2026-11-09` | `30 Pages`
@@ -133,6 +136,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/department-o
 - `[`PH-DA-113747`]` **[so1549 s2026](https://www.indexdata.org/so1549-s2026/)** — `2026-11-04` | `2 Pages`
 - `[`PH-DA-113741`]` **[do32 s2026](https://www.indexdata.org/do32-s2026/)** — `2026-11-04` | `2 Pages`
 - `[`PH-DA-113735`]` **[so1544 s2026](https://www.indexdata.org/so1544-s2026/)** — `2026-11-04` | `2 Pages`
+- `[`PH-DA-113734`]` **[so1543 s2026](https://www.indexdata.org/so1543-s2026/)** — `2026-11-04` | `2 Pages`
 
 ### [Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-investments/](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
@@ -176,6 +180,52 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-inv
 - `[`PH-BOI-20122`]` **[FAS Request of Leave Monetization](https://www.indexdata.org/fas-request-of-leave-monetization/)** — `2026-06-05` | `2 Pages`
 - `[`PH-BOI-20116`]` **[PMD Walk-in Request for Data on Investment Statistics](https://www.indexdata.org/pmd-walk-in-request-for-data-on-investment-statistics/)** — `2026-06-05` | `2 Pages`
 - `[`PH-BOI-20115`]` **[PMD Online Request for Data on Investment Statistics](https://www.indexdata.org/pmd-online-request-for-data-on-investment-statistics/)** — `2026-06-05` | `4 Pages`
+- `[`PH-BOI-20113`]` **[LCS Endorsement of Good Standing](https://www.indexdata.org/lcs-endorsement-of-good-standing/)** — `2026-06-05` | `2 Pages`
+- `[`PH-BOI-20112`]` **[LCS Certificate of Qualification to Import Tax and Duty free Spare Parts and Supplies under Article 39l of EO 226 The Omnibus Investments Code o](https://www.indexdata.org/lcs-certificate-of-qualification-to-import-tax-and-duty-free-spare-parts-and-supplies-under-article-39l-of-eo-226-the-omnibus-investments-code-o/)** — `2026-06-05` | `3 Pages`
+
+### [National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/philippines/national-privacy-commission/](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
+
+- `[`PH-NPC-54234`]` **[2026.11.05 RFQ FY 2027 Operational Planning and Conduct of FY 2027 GAD Plans and Budget Workshop - Transportation](https://www.indexdata.org/2026-11-05-rfq-fy-2027-operational-planning-and-conduct-of-fy-2027-gad-plans-and-budget-workshop-transportation/)** — `2026-11-06` | `12 Pages`
+- `[`PH-NPC-54218`]` **[2026.10.29 RFQ Plaques (Employees Appreciation)](https://www.indexdata.org/2026-10-29-rfq-plaques-employees-appreciation/)** — `2026-10-30` | `7 Pages`
+- `[`PH-NPC-54198`]` **[2026.10.29 RFQ - Privacy Hub- Jacket with QR Code](https://www.indexdata.org/2026-10-29-rfq-privacy-hub-jacket-with-qr-code/)** — `2026-10-29` | `19 Pages`
+- `[`PH-NPC-54197`]` **[2026.10.29 RFQ FY 2027 Annual Operational Panning and Conduct of FY 2027 GAD Plans and Budget (GPB) and General Assembly and Employees Appreciation Commemorative Tokens](https://www.indexdata.org/2026-10-29-rfq-fy-2027-annual-operational-panning-and-conduct-of-fy-2027-gad-plans-and-budget-gpb-and-general-assembly-and-employees-appreciation-commemorative-tokens/)** — `2026-10-29` | `13 Pages`
+- `[`PH-NPC-54196`]` **[2026.10.29 RFQ Privacy in the Spotlight PITS Tokens](https://www.indexdata.org/2026-10-29-rfq-privacy-in-the-spotlight-pits-tokens/)** — `2026-10-29` | `21 Pages`
+- `[`PH-NPC-54192`]` **[PAPs Implementation 3rd Qtr 2026 For TS](https://www.indexdata.org/paps-implementation-3rd-qtr-2026-for-ts/)** — `2026-10-29` | `25 Pages`
+- `[`PH-NPC-54191`]` **[BAR 1 3rd Qtr 2026 For TS](https://www.indexdata.org/bar-1-3rd-qtr-2026-for-ts/)** — `2026-10-29` | `4 Pages`
+- `[`PH-NPC-54167`]` **[Dark Web Monitoring](https://www.indexdata.org/dark-web-monitoring/)** — `2026-10-23` | `2 Pages`
+- `[`PH-NPC-54163`]` **[2026.10.22 RFQ Kabataang Digital Caravan- Advocacy Tokens](https://www.indexdata.org/2026-10-22-rfq-kabataang-digital-caravan-advocacy-tokens/)** — `2026-10-22` | `23 Pages`
+- `[`PH-NPC-54162`]` **[2026.10.22 RFQ Heavy Duty Scanner](https://www.indexdata.org/2026-10-22-rfq-heavy-duty-scanner/)** — `2026-10-22` | `15 Pages`
+- `[`PH-NPC-54144`]` **[2026.10.21 RFQ Forensic Laboratory Equipment](https://www.indexdata.org/2026-10-21-rfq-forensic-laboratory-equipment/)** — `2026-10-21` | `21 Pages`
+- `[`PH-NPC-54143`]` **[2026.10.20 RFQ FY 2027 Operational Planning and Conduct of FY 2027 GAD Plans and Budget Workshop - Transportation](https://www.indexdata.org/2026-10-20-rfq-fy-2027-operational-planning-and-conduct-of-fy-2027-gad-plans-and-budget-workshop-transportation/)** — `2026-10-21` | `12 Pages`
+- `[`PH-NPC-54131`]` **[NPC Advisory Opinion No. 2026-010](https://www.indexdata.org/npc-advisory-opinion-no-2026-010/)** — `2026-10-20` | `8 Pages`
+- `[`PH-NPC-54130`]` **[Npc Advisory Opinion No. 2026-011 redacted](https://www.indexdata.org/npc-advisory-opinion-no-2026-011-redacted/)** — `2026-10-20` | `5 Pages`
+- `[`PH-NPC-54122`]` **[2026.10.19 RFQ Tokens (Employees Appreciation)](https://www.indexdata.org/2026-10-19-rfq-tokens-employees-appreciation/)** — `2026-10-19` | `15 Pages`
+- `[`PH-NPC-54121`]` **[2026.10.19 RFQ FY 2027 Annual Operational Planning and Conduct of FY 2027 GAD Plans and Budget (GPB) and General Assembly and Employees Appreciation - Commemorative Tokens](https://www.indexdata.org/2026-10-19-rfq-fy-2027-annual-operational-planning-and-conduct-of-fy-2027-gad-plans-and-budget-gpb-and-general-assembly-and-employees-appreciation-commemorative-tokens/)** — `2026-10-19` | `13 Pages`
+- `[`PH-NPC-54116`]` **[2026.10.16 RFQ Legal and Enforcement Office Corporate Jacket](https://www.indexdata.org/2026-10-16-rfq-legal-and-enforcement-office-corporate-jacket/)** — `2026-10-18` | `13 Pages`
+- `[`PH-NPC-54115`]` **[2026.10.16 RFQ Plaques (Employees Appreciation)](https://www.indexdata.org/2026-10-16-rfq-plaques-employees-appreciation/)** — `2026-10-18` | `7 Pages`
+- `[`PH-NPC-54105`]` **[2026.10.14 RFQ Energy Efficient Refrigerator](https://www.indexdata.org/2026-10-14-rfq-energy-efficient-refrigerator/)** — `2026-10-14` | `9 Pages`
+- `[`PH-NPC-54104`]` **[2026.10.14 RFQ Heavy Duty Scanner](https://www.indexdata.org/2026-10-14-rfq-heavy-duty-scanner/)** — `2026-10-14` | `15 Pages`
+- `[`PH-NPC-54086`]` **[2026-012 Fuel-Oil-and-Lubricant](https://www.indexdata.org/2026-012-fuel-oil-and-lubricant/)** — `2026-10-08` | `6 Pages`
+- `[`PH-NPC-54075`]` **[2026-10-07 RFQ 18-Day Campaign to End Violence Against Women’s and Children – Advocacy Tokens](https://www.indexdata.org/2026-10-07-rfq-18-day-campaign-to-end-violence-against-womens-and-children-advocacy-tokens/)** — `2026-10-07` | `13 Pages`
+- `[`PH-NPC-54067`]` **[2026-012 Fuel Oil and Lubricant](https://www.indexdata.org/2026-012-fuel-oil-and-lubricant-2/)** — `2026-10-07` | `3 Pages`
+- `[`PH-NPC-54055`]` **[Invitation to Bid - Dark Web Monitoring](https://www.indexdata.org/invitation-to-bid-dark-web-monitoring/)** — `2026-10-07` | `4 Pages`
+- `[`PH-NPC-54054`]` **[CBD Dark Web Monitoring](https://www.indexdata.org/cbd-dark-web-monitoring/)** — `2026-10-07` | `136 Pages`
+- `[`PH-NPC-54050`]` **[CBD ICT Machineries and Equipment](https://www.indexdata.org/cbd-ict-machineries-and-equipment/)** — `2026-10-03` | `133 Pages`
+- `[`PH-NPC-54049`]` **[Invitation to Bid-ICT Machineries and Equipment](https://www.indexdata.org/invitation-to-bid-ict-machineries-and-equipment/)** — `2026-10-03` | `3 Pages`
+- `[`PH-NPC-54000`]` **[2026.09.25 RFQ 78th Meeting of the (IWGDPT or Berlin Group) - Lease of Venue](https://www.indexdata.org/2026-09-25-rfq-78th-meeting-of-the-iwgdpt-or-berlin-group-lease-of-venue/)** — `2026-09-28` | `17 Pages`
+- `[`PH-NPC-53985`]` **[2026.09.23 RFQ Privacy in the Spotlight PITS - Token](https://www.indexdata.org/2026-09-23-rfq-privacy-in-the-spotlight-pits-token/)** — `2026-09-23` | `21 Pages`
+- `[`PH-NPC-53967`]` **[Advisory Opinion 2026-009 Barangay Ordinance on CCTV Redacted](https://www.indexdata.org/advisory-opinion-2026-009-barangay-ordinance-on-cctv-redacted/)** — `2026-09-22` | `8 Pages`
+- `[`PH-NPC-53961`]` **[&#91;For Publication&#93; Advisory - Grant of Additional Period to Submit 2025 ASIRs 08Sept](https://www.indexdata.org/for-publication-advisory-grant-of-additional-period-to-submit-2025-asirs-08sept/)** — `2026-09-21` | `3 Pages`
+- `[`PH-NPC-53960`]` **[&#91;For Publication&#93; DPCJ 18Sep2026 Draft Circular Data Subjects Rights](https://www.indexdata.org/for-publication-dpcj-18sep2026-draft-circular-data-subjects-rights/)** — `2026-09-18` | `25 Pages`
+- `[`PH-NPC-53952`]` **[2026.09.16 RFQ Kabataang Digital Caravan – Medal Plaque](https://www.indexdata.org/2026-09-16-rfq-kabataang-digital-caravan-medal-plaque/)** — `2026-09-17` | `11 Pages`
+- `[`PH-NPC-53951`]` **[2026.09.16 RFQ Legal Materials Book](https://www.indexdata.org/2026-09-16-rfq-legal-materials-book/)** — `2026-09-17` | `9 Pages`
+- `[`PH-NPC-53938`]` **[2026.09.15 RFQ Thermal Printers](https://www.indexdata.org/2026-09-15-rfq-thermal-printers/)** — `2026-09-16` | `10 Pages`
+- `[`PH-NPC-53937`]` **[2026.09.15 RFQ Renewal of Philippine Jurisprudence Online Access](https://www.indexdata.org/2026-09-15-rfq-renewal-of-philippine-jurisprudence-online-access/)** — `2026-09-16` | `7 Pages`
+- `[`PH-NPC-53923`]` **[NPC Advisory No. 2026-008 Eligibility to CBPR and LGU Health Requirement Compliance](https://www.indexdata.org/npc-advisory-no-2026-008-eligibility-to-cbpr-and-lgu-health-requirement-compliance/)** — `2026-09-10` | `9 Pages`
+- `[`PH-NPC-53919`]` **[2026-09.09 RFQ Reeltok Mobile Phone](https://www.indexdata.org/2026-09-09-rfq-reeltok-mobile-phone/)** — `2026-09-09` | `17 Pages`
+- `[`PH-NPC-53918`]` **[2026.09.09 RFQ ICT Equipment](https://www.indexdata.org/2026-09-09-rfq-ict-equipment/)** — `2026-09-09` | `7 Pages`
+- `[`PH-NPC-53908`]` **[DWM Supplemental Bid Bulletin-2026 1 58ac7845-e32d-4306-84e9-8b3135ceb498](https://www.indexdata.org/dwm-supplemental-bid-bulletin-2026-1-58ac7845-e32d-4306-84e9-8b3135ceb498/)** — `2026-09-07` | `4 Pages`
 
 ### [Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-development-authority/](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
@@ -219,48 +269,6 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-
 - `[`PH-CDA-70050`]` **[PMR 1st Semester 2025](https://www.indexdata.org/pmr-1st-semester-2025/)** — `2026-08-12` | `2 Pages`
 - `[`PH-CDA-69906`]` **[Table](https://www.indexdata.org/table/)** — `2026-08-03` | `2 Pages`
 - `[`PH-CDA-69871`]` **[MIMAROPA NGPA APP 2026 Revised No. 1](https://www.indexdata.org/mimaropa-ngpa-app-2026-revised-no-1/)** — `2026-07-31` | `2 Pages`
-
-### [National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/philippines/national-privacy-commission/](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
-
-- `[`PH-NPC-54234`]` **[2026.11.05 RFQ FY 2027 Operational Planning and Conduct of FY 2027 GAD Plans and Budget Workshop - Transportation](https://www.indexdata.org/2026-11-05-rfq-fy-2027-operational-planning-and-conduct-of-fy-2027-gad-plans-and-budget-workshop-transportation/)** — `2026-11-06` | `12 Pages`
-- `[`PH-NPC-54218`]` **[2026.10.29 RFQ Plaques (Employees Appreciation)](https://www.indexdata.org/2026-10-29-rfq-plaques-employees-appreciation/)** — `2026-10-30` | `7 Pages`
-- `[`PH-NPC-54198`]` **[2026.10.29 RFQ - Privacy Hub- Jacket with QR Code](https://www.indexdata.org/2026-10-29-rfq-privacy-hub-jacket-with-qr-code/)** — `2026-10-29` | `19 Pages`
-- `[`PH-NPC-54197`]` **[2026.10.29 RFQ FY 2027 Annual Operational Panning and Conduct of FY 2027 GAD Plans and Budget (GPB) and General Assembly and Employees Appreciation Commemorative Tokens](https://www.indexdata.org/2026-10-29-rfq-fy-2027-annual-operational-panning-and-conduct-of-fy-2027-gad-plans-and-budget-gpb-and-general-assembly-and-employees-appreciation-commemorative-tokens/)** — `2026-10-29` | `13 Pages`
-- `[`PH-NPC-54196`]` **[2026.10.29 RFQ Privacy in the Spotlight PITS Tokens](https://www.indexdata.org/2026-10-29-rfq-privacy-in-the-spotlight-pits-tokens/)** — `2026-10-29` | `21 Pages`
-- `[`PH-NPC-54192`]` **[PAPs Implementation 3rd Qtr 2026 For TS](https://www.indexdata.org/paps-implementation-3rd-qtr-2026-for-ts/)** — `2026-10-29` | `25 Pages`
-- `[`PH-NPC-54191`]` **[BAR 1 3rd Qtr 2026 For TS](https://www.indexdata.org/bar-1-3rd-qtr-2026-for-ts/)** — `2026-10-29` | `4 Pages`
-- `[`PH-NPC-54167`]` **[Dark Web Monitoring](https://www.indexdata.org/dark-web-monitoring/)** — `2026-10-23` | `2 Pages`
-- `[`PH-NPC-54163`]` **[2026.10.22 RFQ Kabataang Digital Caravan- Advocacy Tokens](https://www.indexdata.org/2026-10-22-rfq-kabataang-digital-caravan-advocacy-tokens/)** — `2026-10-22` | `23 Pages`
-- `[`PH-NPC-54162`]` **[2026.10.22 RFQ Heavy Duty Scanner](https://www.indexdata.org/2026-10-22-rfq-heavy-duty-scanner/)** — `2026-10-22` | `15 Pages`
-- `[`PH-NPC-54144`]` **[2026.10.21 RFQ Forensic Laboratory Equipment](https://www.indexdata.org/2026-10-21-rfq-forensic-laboratory-equipment/)** — `2026-10-21` | `21 Pages`
-- `[`PH-NPC-54143`]` **[2026.10.20 RFQ FY 2027 Operational Planning and Conduct of FY 2027 GAD Plans and Budget Workshop - Transportation](https://www.indexdata.org/2026-10-20-rfq-fy-2027-operational-planning-and-conduct-of-fy-2027-gad-plans-and-budget-workshop-transportation/)** — `2026-10-21` | `12 Pages`
-- `[`PH-NPC-54131`]` **[NPC Advisory Opinion No. 2026-010](https://www.indexdata.org/npc-advisory-opinion-no-2026-010/)** — `2026-10-20` | `8 Pages`
-- `[`PH-NPC-54130`]` **[Npc Advisory Opinion No. 2026-011 redacted](https://www.indexdata.org/npc-advisory-opinion-no-2026-011-redacted/)** — `2026-10-20` | `5 Pages`
-- `[`PH-NPC-54122`]` **[2026.10.19 RFQ Tokens (Employees Appreciation)](https://www.indexdata.org/2026-10-19-rfq-tokens-employees-appreciation/)** — `2026-10-19` | `15 Pages`
-- `[`PH-NPC-54121`]` **[2026.10.19 RFQ FY 2027 Annual Operational Planning and Conduct of FY 2027 GAD Plans and Budget (GPB) and General Assembly and Employees Appreciation - Commemorative Tokens](https://www.indexdata.org/2026-10-19-rfq-fy-2027-annual-operational-planning-and-conduct-of-fy-2027-gad-plans-and-budget-gpb-and-general-assembly-and-employees-appreciation-commemorative-tokens/)** — `2026-10-19` | `13 Pages`
-- `[`PH-NPC-54116`]` **[2026.10.16 RFQ Legal and Enforcement Office Corporate Jacket](https://www.indexdata.org/2026-10-16-rfq-legal-and-enforcement-office-corporate-jacket/)** — `2026-10-18` | `13 Pages`
-- `[`PH-NPC-54115`]` **[2026.10.16 RFQ Plaques (Employees Appreciation)](https://www.indexdata.org/2026-10-16-rfq-plaques-employees-appreciation/)** — `2026-10-18` | `7 Pages`
-- `[`PH-NPC-54105`]` **[2026.10.14 RFQ Energy Efficient Refrigerator](https://www.indexdata.org/2026-10-14-rfq-energy-efficient-refrigerator/)** — `2026-10-14` | `9 Pages`
-- `[`PH-NPC-54104`]` **[2026.10.14 RFQ Heavy Duty Scanner](https://www.indexdata.org/2026-10-14-rfq-heavy-duty-scanner/)** — `2026-10-14` | `15 Pages`
-- `[`PH-NPC-54086`]` **[2026-012 Fuel-Oil-and-Lubricant](https://www.indexdata.org/2026-012-fuel-oil-and-lubricant/)** — `2026-10-08` | `6 Pages`
-- `[`PH-NPC-54075`]` **[2026-10-07 RFQ 18-Day Campaign to End Violence Against Women’s and Children – Advocacy Tokens](https://www.indexdata.org/2026-10-07-rfq-18-day-campaign-to-end-violence-against-womens-and-children-advocacy-tokens/)** — `2026-10-07` | `13 Pages`
-- `[`PH-NPC-54067`]` **[2026-012 Fuel Oil and Lubricant](https://www.indexdata.org/2026-012-fuel-oil-and-lubricant-2/)** — `2026-10-07` | `3 Pages`
-- `[`PH-NPC-54055`]` **[Invitation to Bid - Dark Web Monitoring](https://www.indexdata.org/invitation-to-bid-dark-web-monitoring/)** — `2026-10-07` | `4 Pages`
-- `[`PH-NPC-54054`]` **[CBD Dark Web Monitoring](https://www.indexdata.org/cbd-dark-web-monitoring/)** — `2026-10-07` | `136 Pages`
-- `[`PH-NPC-54050`]` **[CBD ICT Machineries and Equipment](https://www.indexdata.org/cbd-ict-machineries-and-equipment/)** — `2026-10-03` | `133 Pages`
-- `[`PH-NPC-54049`]` **[Invitation to Bid-ICT Machineries and Equipment](https://www.indexdata.org/invitation-to-bid-ict-machineries-and-equipment/)** — `2026-10-03` | `3 Pages`
-- `[`PH-NPC-54000`]` **[2026.09.25 RFQ 78th Meeting of the (IWGDPT or Berlin Group) - Lease of Venue](https://www.indexdata.org/2026-09-25-rfq-78th-meeting-of-the-iwgdpt-or-berlin-group-lease-of-venue/)** — `2026-09-28` | `17 Pages`
-- `[`PH-NPC-53985`]` **[2026.09.23 RFQ Privacy in the Spotlight PITS - Token](https://www.indexdata.org/2026-09-23-rfq-privacy-in-the-spotlight-pits-token/)** — `2026-09-23` | `21 Pages`
-- `[`PH-NPC-53967`]` **[Advisory Opinion 2026-009 Barangay Ordinance on CCTV Redacted](https://www.indexdata.org/advisory-opinion-2026-009-barangay-ordinance-on-cctv-redacted/)** — `2026-09-22` | `8 Pages`
-- `[`PH-NPC-53961`]` **[&#91;For Publication&#93; Advisory - Grant of Additional Period to Submit 2025 ASIRs 08Sept](https://www.indexdata.org/for-publication-advisory-grant-of-additional-period-to-submit-2025-asirs-08sept/)** — `2026-09-21` | `3 Pages`
-- `[`PH-NPC-53960`]` **[&#91;For Publication&#93; DPCJ 18Sep2026 Draft Circular Data Subjects Rights](https://www.indexdata.org/for-publication-dpcj-18sep2026-draft-circular-data-subjects-rights/)** — `2026-09-18` | `25 Pages`
-- `[`PH-NPC-53952`]` **[2026.09.16 RFQ Kabataang Digital Caravan – Medal Plaque](https://www.indexdata.org/2026-09-16-rfq-kabataang-digital-caravan-medal-plaque/)** — `2026-09-17` | `11 Pages`
-- `[`PH-NPC-53951`]` **[2026.09.16 RFQ Legal Materials Book](https://www.indexdata.org/2026-09-16-rfq-legal-materials-book/)** — `2026-09-17` | `9 Pages`
-- `[`PH-NPC-53938`]` **[2026.09.15 RFQ Thermal Printers](https://www.indexdata.org/2026-09-15-rfq-thermal-printers/)** — `2026-09-16` | `10 Pages`
-- `[`PH-NPC-53937`]` **[2026.09.15 RFQ Renewal of Philippine Jurisprudence Online Access](https://www.indexdata.org/2026-09-15-rfq-renewal-of-philippine-jurisprudence-online-access/)** — `2026-09-16` | `7 Pages`
-- `[`PH-NPC-53923`]` **[NPC Advisory No. 2026-008 Eligibility to CBPR and LGU Health Requirement Compliance](https://www.indexdata.org/npc-advisory-no-2026-008-eligibility-to-cbpr-and-lgu-health-requirement-compliance/)** — `2026-09-10` | `9 Pages`
-- `[`PH-NPC-53919`]` **[2026-09.09 RFQ Reeltok Mobile Phone](https://www.indexdata.org/2026-09-09-rfq-reeltok-mobile-phone/)** — `2026-09-09` | `17 Pages`
 
 ### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
