@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/france/feed/](https://www.indexdata.org/france/feed/)  
 **Wikidata Sovereign Entity:** [`Q142`](https://www.wikidata.org/wiki/Q142)  
 **Governing Open-Government Framework:** *CRPA Art. L321-1 to L323-7 / Loi n° 2016-1321*  
-**Total Indexed Dossiers in France:** `377` across `14` issuing authorities  
-**Last Automated Sync:** `2026-11-09 21:56 UTC`
+**Total Indexed Dossiers in France:** `379` across `14` issuing authorities  
+**Last Automated Sync:** `2026-11-09 22:47 UTC`
 
 ---
 
 ## Issuing Authorities in France (14 Authorities)
 
-- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`234` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
+- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`236` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
 - **[Banque de France](https://www.indexdata.org/france/banque-de-france/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/france/banque-de-france/) | [RSS Feed](https://www.indexdata.org/france/banque-de-france/feed/)
 - **[National Institute of Statistics and Economic Studies (INSEE)](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/) | [RSS Feed](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/feed/)
 - **[Bretagne Développement Innovation (BDI)](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/) | [RSS Feed](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/feed/)
@@ -29,7 +29,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–377 of 377)
+## Indexed Statutory & Regulatory Dossiers (Records 1–379 of 379)
 
 ### [Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)
 Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
@@ -46,8 +46,10 @@ Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets
 - `[`FR-INFOFI-112440_20261109`]` **[GENFIT Highlights Data from Clinical Studies of Nangibotide, Supporting Its Advancement into ACLF with Phase 2 Data Expected in 2027 — Inside Information](https://www.indexdata.org/genfit-highlights-data-from-clinical-studies-of-nangibotide-supporting-its-advancement-into-aclf-with-phase-2-data-expected-in-2027-inside-information/)** — `2026-11-09` | `4 Pages`
 - `[`FR-INFOFI-112295_20261109`]` **[Valneva Announces Positive Phase 2 Results for Tetravalent Shigella Vaccine Candidate S4V2 — Inside Information](https://www.indexdata.org/valneva-announces-positive-phase-2-results-for-tetravalent-shigella-vaccine-candidate-s4v2-inside-information/)** — `2026-11-09` | `3 Pages`
 - `[`FR-INFOFI-083725_20261109`]` **[Air Liquide has successfully issued a CHF 390 million multi-tranche bond — Inside Information](https://www.indexdata.org/air-liquide-has-successfully-issued-a-chf-390-million-multi-tranche-bond-inside-information/)** — `2026-11-09` | `2 Pages`
+- `[`FR-INFOFI-083719_20261109`]` **[Disclosure of transactions in own shares from November 2 to November 6, 2026 — Acquisition or disposal of the issuer's own shares](https://www.indexdata.org/disclosure-of-transactions-in-own-shares-from-november-2-to-november-6-2026-acquisition-or-disposal-of-the-issuers-own-shares/)** — `2026-11-09` | `4 Pages`
 - `[`FR-INFOFI-083714_20261109`]` **[BIOPHYTIS ANNOUNCES THE OPERATIONAL LAUNCH OF ITS JOINT VENTURE IN CHINA — Inside Information](https://www.indexdata.org/biophytis-announces-the-operational-launch-of-its-joint-venture-in-china-inside-information/)** — `2026-11-09` | `2 Pages`
 - `[`FR-INFOFI-083712_20261109`]` **[bioMérieux receives U.S. FDA 510(k) clearance for the latest versions of the BIOFIRE® FILMARRAY® Gastrointestinal Panels to enhance detection of gastrointestinal pathogens including norovirus — Inside Information](https://www.indexdata.org/biomerieux-receives-u-s-fda-510k-clearance-for-the-latest-versions-of-the-biofire-filmarray-gastrointestinal-panels-to-enhance-detection-of-gastrointestinal-pathogens-including-noroviru/)** — `2026-11-09` | `3 Pages`
+- `[`FR-INFOFI-082271_20261109`]` **[2026 NINE-MONTH REVENUE UP 11.3% TO EUR 492.8 MILLION — Quarterly financial reporting](https://www.indexdata.org/2026-nine-month-revenue-up-11-3-to-eur-492-8-million-quarterly-financial-reporting/)** — `2026-11-09` | `5 Pages`
 - `[`FR-INFOFI-082256_20261109`]` **[MONTHLY NEWSLETTER NOVEMBER 2026 — Inside Information](https://www.indexdata.org/monthly-newsletter-november-2026-inside-information/)** — `2026-11-09` | `3 Pages`
 - `[`FR-INFOFI-170179_20261106`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-24/)** — `2026-11-06` | `4 Pages`
 - `[`FR-INFOFI-170169_20261106`]` **[Total number of voting rights and capital / Information on the total number of voting rights and the number of shares making up the capital](https://www.indexdata.org/total-number-of-voting-rights-and-capital-information-on-the-total-number-of-voting-rights-and-the-number-of-shares-making-up-the-capital-4/)** — `2026-11-06` | `2 Pages`
@@ -440,7 +442,7 @@ Canonical Authority Archive: [https://www.indexdata.org/france/french-national-c
 ### [Directorate of Legal and Administrative Information (Direction de l'information légale et administrative - DILA)](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/)
 Canonical Authority Archive: [https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/) | [RSS Feed](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/feed/)
 
-- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-81/)** — `2024-03-26` | `7 Pages`
+- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-82/)** — `2024-03-26` | `7 Pages`
 - `[`FR-DILA-ANN-api-lannuaire-administration-documentation_technique_api_annuaire_de_l_administration_pdf`]` **[api-lannuaire-administration — Documentation-technique-API-Annuaire-de-l-administration](https://www.indexdata.org/api-lannuaire-administration-documentation-technique-api-annuaire-de-l-administration/)** — `2023-12-11` | `9 Pages`
 
 ### [National Commission on Informatics and Liberty (Commission nationale de l'informatique et des libertés - CNIL)](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/)

@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q55`](https://www.wikidata.org/wiki/Q55)  
 **Governing Open-Government Framework:** *Auteurswet Art. 11 & Art. 15b / Who / CC0 1.0 / CC BY 4.0*  
 **Total Indexed Dossiers in Netherlands:** `31` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-09 21:56 UTC`
+**Last Automated Sync:** `2026-11-09 22:47 UTC`
 
 ---
 
