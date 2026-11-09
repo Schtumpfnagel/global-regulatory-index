@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,364` across `26` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,369` across `26` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-09 16:44 UTC`
+**Last Automated Sync:** `2026-11-09 17:16 UTC`
 
 ---
 
 ## Issuing Authorities in Canada (26 Authorities)
 
-- **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,418` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
+- **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
 - **[Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)** (`360` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 - **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** (`156` dossiers) — [Authority Archive](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/)
@@ -42,7 +42,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,364 of 5,364)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,369 of 5,369)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -573,6 +573,11 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`A-1.3`]` **[Addition of Lands to Reserves and Reserve Creation Act](https://www.indexdata.org/addition-of-lands-to-reserves-and-reserve-creation-act/)** — `2026-09-30` | `10 Pages`
 - `[`A-1`]` **[Access to Information Act](https://www.indexdata.org/access-to-information-act/)** — `2026-09-30` | `118 Pages`
 - `[`A-0.6`]` **[Accessible Canada Act](https://www.indexdata.org/accessible-canada-act/)** — `2026-09-30` | `93 Pages`
+- `[`CA-OPEN-ff1d7bcf-6606-4c4f-8b91`]` **[Federal Child Support Tables – Ontario — 2017 Simplified Federal Child Support Tables: five or more children](https://www.indexdata.org/federal-child-support-tables-ontario-2017-simplified-federal-child-support-tables-five-or-more-children/)** — `2018-08-01` | `9 Pages`
+- `[`CA-OPEN-db90d875-3f1a-4e6a-8659`]` **[Federal Child Support Tables – British Columbia — 2017 Simplified Federal Child Support Tables: five or more children](https://www.indexdata.org/federal-child-support-tables-british-columbia-2017-simplified-federal-child-support-tables-five-or-more-children/)** — `2018-08-01` | `9 Pages`
+- `[`CA-OPEN-d6a468f7-90b8-40f3-81df`]` **[Federal Child Support Tables – Saskatchewan — 2017 Simplified Federal Child Support Tables: five or more children](https://www.indexdata.org/federal-child-support-tables-saskatchewan-2017-simplified-federal-child-support-tables-five-or-more-children/)** — `2018-08-01` | `9 Pages`
+- `[`CA-OPEN-cf9833d4-718e-4d48-bb61`]` **[Federal Child Support Tables – Newfoundland & Labrador — 2017 Simplified Federal Child Support Tables: five or more children](https://www.indexdata.org/federal-child-support-tables-newfoundland-labrador-2017-simplified-federal-child-support-tables-five-or-more-children/)** — `2018-08-01` | `9 Pages`
+- `[`CA-OPEN-b7d5f4db-6e1e-49e4-8712`]` **[Federal Child Support Tables – Nova Scotia — 2017 Simplified Federal Child Support Tables: five or more children](https://www.indexdata.org/federal-child-support-tables-nova-scotia-2017-simplified-federal-child-support-tables-five-or-more-children/)** — `2018-08-01` | `9 Pages`
 
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)

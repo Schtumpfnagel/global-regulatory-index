@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,169` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,171` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 16:44 UTC`
+**Last Automated Sync:** `2026-11-09 17:16 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`276` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`277` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -111,9 +111,9 @@
 - **[Farm Credit Administration](https://www.indexdata.org/united-states/farm-credit-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-credit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/farm-credit-administration/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,169)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,171)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1163,8 +1163,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-to
 - `[`2026-08924`]` **[Licensee “eZ Check” Verification for Transfers](https://www.indexdata.org/licensee-ez-check-verification-for-transfers/)** — `2026-05-06` | `6 Pages`
 - `[`2026-08923`]` **[Clarifying Special (Occupational) Tax Payments Per Business Activity](https://www.indexdata.org/clarifying-special-occupational-tax-payments-per-business-activity/)** — `2026-05-06` | `8 Pages`
 - `[`2026-08922`]` **[Firearms Transactions and Straw Purchases](https://www.indexdata.org/firearms-transactions-and-straw-purchases/)** — `2026-05-06` | `6 Pages`
-- `[`2026-08921`]` **[Adding Component Definitions Under the Arms Export Control Act](https://www.indexdata.org/adding-component-definitions-under-the-arms-export-control-act/)** — `2026-05-06` | `4 Pages`
-- `[`2026-08920`]` **[Removing Triplicate Filing Requirement for Importing Plastic Explosives](https://www.indexdata.org/removing-triplicate-filing-requirement-for-importing-plastic-explosives/)** — `2026-05-06` | `3 Pages`
 
 ### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
@@ -1450,6 +1448,25 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2026-10276`]` **[Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; and Other Policy Changes; Correction](https://www.indexdata.org/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and-the-long-term-care-hospital-prospective-payment-system-and-policy-changes-and-fiscal-year-fy-2027-3/)** — `2026-05-22` | `3 Pages`
 - `[`2026-10050`]` **[Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program](https://www.indexdata.org/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and-basic-health-program/)** — `2026-05-20` | `352 Pages`
 
+### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
+
+- `[`2026-17119`]` **[Genealogy Program Regulations To Clarify the Impact of Federal Records Requirements](https://www.indexdata.org/genealogy-program-regulations-to-clarify-the-impact-of-federal-records-requirements/)** — `2026-08-21` | `8 Pages`
+- `[`2026-16319`]` **[Regulatory Changes Required by the Energy Security and Lightering Independence Act of 2022](https://www.indexdata.org/regulatory-changes-required-by-the-energy-security-and-lightering-independence-act-of-2022/)** — `2026-08-11` | `7 Pages`
+- `[`2026-16313`]` **[Mandatory Electronic Filing (e-Filing)](https://www.indexdata.org/mandatory-electronic-filing-e-filing/)** — `2026-08-11` | `48 Pages`
+- `[`2026-16252`]` **[Immigration Bonds; Technical Amendment](https://www.indexdata.org/immigration-bonds-technical-amendment/)** — `2026-08-10` | `2 Pages`
+- `[`2026-16231`]` **[9-11 Response and Biometric Entry-Exit Fee for H-1B and L-1 Visas](https://www.indexdata.org/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas/)** — `2026-08-10` | `21 Pages`
+- `[`2026-15190`]` **[Affirmative Asylum Referrals Without Interview](https://www.indexdata.org/affirmative-asylum-referrals-without-interview-2/)** — `2026-07-28` | `28 Pages`
+- `[`2026-14698`]` **[USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction](https://www.indexdata.org/uscis-immigration-fees-and-related-procedures-required-by-h-r-1-reconciliation-bill-correction/)** — `2026-07-21` | `2 Pages`
+- `[`2026-14539`]` **[Public Charge Ground of Inadmissibility](https://www.indexdata.org/public-charge-ground-of-inadmissibility/)** — `2026-07-20` | `154 Pages`
+- `[`2026-14439`]` **[Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media](https://www.indexdata.org/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant-academic-students-exchange-visitors-and-representatives-of-foreign-information-media/)** — `2026-07-17` | `156 Pages`
+- `[`2026-13392`]` **[EB-5 Reform and Integrity Act of 2022; Ensuring the Integrity of the EB-5 Program; Automatic Revocation of Petitions for Immigrant Classification](https://www.indexdata.org/eb-5-reform-and-integrity-act-of-2022-ensuring-the-integrity-of-the-eb-5-program-automatic-revocation-of-petitions-for-immigrant-classification/)** — `2026-07-02` | `127 Pages`
+- `[`2026-13057`]` **[Alien Registration Form and Evidence of Registration](https://www.indexdata.org/alien-registration-form-and-evidence-of-registration/)** — `2026-06-29` | `85 Pages`
+- `[`2026-12542`]` **[Naturalization Application Fee Adjustments](https://www.indexdata.org/naturalization-application-fee-adjustments/)** — `2026-06-23` | `48 Pages`
+- `[`2026-11285`]` **[Clarification of Discretionary Employment Authorization for Certain Aliens](https://www.indexdata.org/clarification-of-discretionary-employment-authorization-for-certain-aliens/)** — `2026-06-05` | `127 Pages`
+- `[`2026-09289`]` **[Signatures on Immigration Benefit Requests](https://www.indexdata.org/signatures-on-immigration-benefit-requests/)** — `2026-05-11` | `11 Pages`
+- `[`2026-09007`]` **[Fee Adjustment for U.S. Immigration and Customs Enforcement Form I-246, Application for a Stay of Deportation or Removal](https://www.indexdata.org/fee-adjustment-for-u-s-immigration-and-customs-enforcement-form-i-246-application-for-a-stay-of-deportation-or-removal/)** — `2026-05-07` | `7 Pages`
+
 ### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 
@@ -1485,24 +1502,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 - `[`2026-10620`]` **[Proposed Waiver and Extension of the Project Period With Funding for Arts in Education National Program](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program/)** — `2026-05-28` | `2 Pages`
 - `[`2026-10013`]` **[Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Pell Grant Exclusion Relating to Other Grant Aid; and Workforce Pell Grants](https://www.indexdata.org/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant-exclusion-relating-to-other-grant-aid-and-workforce-pell-grants/)** — `2026-05-19` | `85 Pages`
 - `[`2026-09111`]` **[Proposed Waiver and Extension of the Project Period With Funding for Native American Career and Technical Education Program (NACTEP)](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-for-native-american-career-and-technical-education-program-nactep/)** — `2026-05-07` | `3 Pages`
-
-### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
-
-- `[`2026-16319`]` **[Regulatory Changes Required by the Energy Security and Lightering Independence Act of 2022](https://www.indexdata.org/regulatory-changes-required-by-the-energy-security-and-lightering-independence-act-of-2022/)** — `2026-08-11` | `7 Pages`
-- `[`2026-16313`]` **[Mandatory Electronic Filing (e-Filing)](https://www.indexdata.org/mandatory-electronic-filing-e-filing/)** — `2026-08-11` | `48 Pages`
-- `[`2026-16252`]` **[Immigration Bonds; Technical Amendment](https://www.indexdata.org/immigration-bonds-technical-amendment/)** — `2026-08-10` | `2 Pages`
-- `[`2026-16231`]` **[9-11 Response and Biometric Entry-Exit Fee for H-1B and L-1 Visas](https://www.indexdata.org/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas/)** — `2026-08-10` | `21 Pages`
-- `[`2026-15190`]` **[Affirmative Asylum Referrals Without Interview](https://www.indexdata.org/affirmative-asylum-referrals-without-interview-2/)** — `2026-07-28` | `28 Pages`
-- `[`2026-14698`]` **[USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction](https://www.indexdata.org/uscis-immigration-fees-and-related-procedures-required-by-h-r-1-reconciliation-bill-correction/)** — `2026-07-21` | `2 Pages`
-- `[`2026-14539`]` **[Public Charge Ground of Inadmissibility](https://www.indexdata.org/public-charge-ground-of-inadmissibility/)** — `2026-07-20` | `154 Pages`
-- `[`2026-14439`]` **[Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media](https://www.indexdata.org/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant-academic-students-exchange-visitors-and-representatives-of-foreign-information-media/)** — `2026-07-17` | `156 Pages`
-- `[`2026-13392`]` **[EB-5 Reform and Integrity Act of 2022; Ensuring the Integrity of the EB-5 Program; Automatic Revocation of Petitions for Immigrant Classification](https://www.indexdata.org/eb-5-reform-and-integrity-act-of-2022-ensuring-the-integrity-of-the-eb-5-program-automatic-revocation-of-petitions-for-immigrant-classification/)** — `2026-07-02` | `127 Pages`
-- `[`2026-13057`]` **[Alien Registration Form and Evidence of Registration](https://www.indexdata.org/alien-registration-form-and-evidence-of-registration/)** — `2026-06-29` | `85 Pages`
-- `[`2026-12542`]` **[Naturalization Application Fee Adjustments](https://www.indexdata.org/naturalization-application-fee-adjustments/)** — `2026-06-23` | `48 Pages`
-- `[`2026-11285`]` **[Clarification of Discretionary Employment Authorization for Certain Aliens](https://www.indexdata.org/clarification-of-discretionary-employment-authorization-for-certain-aliens/)** — `2026-06-05` | `127 Pages`
-- `[`2026-09289`]` **[Signatures on Immigration Benefit Requests](https://www.indexdata.org/signatures-on-immigration-benefit-requests/)** — `2026-05-11` | `11 Pages`
-- `[`2026-09007`]` **[Fee Adjustment for U.S. Immigration and Customs Enforcement Form I-246, Application for a Stay of Deportation or Removal](https://www.indexdata.org/fee-adjustment-for-u-s-immigration-and-customs-enforcement-form-i-246-application-for-a-stay-of-deportation-or-removal/)** — `2026-05-07` | `7 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
@@ -1894,6 +1893,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-ac
 - `[`2026-12825`]` **[Defense Federal Acquisition Regulation Supplement: Small Purchase Exception for the Acquisition of U.S. Flags (DFARS Case 2024-D013)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-small-purchase-exception-for-the-acquisition-of-u-s-flags-dfars-case-2024-d013/)** — `2026-06-25` | `5 Pages`
 - `[`2026-09067`]` **[Defense Federal Acquisition Regulation Supplement: Mitigating Risks Related to Foreign Ownership, Control, or Influence (DFARS Case 2021-D011)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-mitigating-risks-related-to-foreign-ownership-control-or-influence-dfars-case-2021-d011/)** — `2026-05-07` | `6 Pages`
 
+### [Federal Contract Compliance Programs Office](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/feed/)
+
+- `[`2026-17116`]` **[Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended](https://www.indexdata.org/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act-of-1974-as-amended/)** — `2026-08-21` | `11 Pages`
+- `[`2026-17115`]` **[Modifications to the Regulations Implementing Section 503 of the Rehabilitation Act of 1973, as Amended](https://www.indexdata.org/modifications-to-the-regulations-implementing-section-503-of-the-rehabilitation-act-of-1973-as-amended/)** — `2026-08-21` | `26 Pages`
+- `[`2026-17114`]` **[Rescission of Executive Order 11246 Implementing Regulations](https://www.indexdata.org/rescission-of-executive-order-11246-implementing-regulations/)** — `2026-08-21` | `37 Pages`
+
 ### [Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-housing-finance-agency/](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 
@@ -1992,12 +1998,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-
 
 - `[`2026-15458`]` **[Civil Money Penalty for Actions in Contempt of an Immigration Judge's Proper Exercise of Authority](https://www.indexdata.org/civil-money-penalty-for-actions-in-contempt-of-an-immigration-judges-proper-exercise-of-authority/)** — `2026-07-30` | `16 Pages`
 - `[`2026-11692`]` **[EOIR Fees](https://www.indexdata.org/eoir-fees/)** — `2026-06-11` | `8 Pages`
-
-### [Federal Contract Compliance Programs Office](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/feed/)
-
-- `[`2026-17115`]` **[Modifications to the Regulations Implementing Section 503 of the Rehabilitation Act of 1973, as Amended](https://www.indexdata.org/modifications-to-the-regulations-implementing-section-503-of-the-rehabilitation-act-of-1973-as-amended/)** — `2026-08-21` | `26 Pages`
-- `[`2026-17114`]` **[Rescission of Executive Order 11246 Implementing Regulations](https://www.indexdata.org/rescission-of-executive-order-11246-implementing-regulations/)** — `2026-08-21` | `37 Pages`
 
 ### [Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-maritime-commission/](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)

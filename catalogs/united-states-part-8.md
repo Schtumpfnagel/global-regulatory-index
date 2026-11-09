@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,169` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,171` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 16:44 UTC`
+**Last Automated Sync:** `2026-11-09 17:16 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`276` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`277` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -111,9 +111,9 @@
 - **[Farm Credit Administration](https://www.indexdata.org/united-states/farm-credit-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-credit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/farm-credit-administration/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,169)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,171)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -601,6 +601,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-12519`]` **[Air Plan Approval; Michigan; Definitions](https://www.indexdata.org/air-plan-approval-michigan-definitions-2/)** — `2024-06-11` | `2 Pages`
 - `[`2024-12516`]` **[Air Plan Approval; Connecticut; Plan for Inclusion of a Consent Order and Removal of State Orders](https://www.indexdata.org/air-plan-approval-connecticut-plan-for-inclusion-of-a-consent-order-and-removal-of-state-orders-2/)** — `2024-06-07` | `5 Pages`
 - `[`2024-12496`]` **[Hazardous Waste Management System; Identification and Listing of Hazardous Waste](https://www.indexdata.org/hazardous-waste-management-system-identification-and-listing-of-hazardous-waste-5/)** — `2024-06-07` | `4 Pages`
 - `[`2024-11692`]` **[Alabama: Denial of State Coal Combustion Residuals Permit Program](https://www.indexdata.org/alabama-denial-of-state-coal-combustion-residuals-permit-program/)** — `2024-06-07` | `47 Pages`
@@ -1207,7 +1208,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 - `[`2024-02621`]` **[Identification (ID) Cards for Members of the Uniformed Services, Their Dependents, and Other Eligible Individuals](https://www.indexdata.org/identification-id-cards-for-members-of-the-uniformed-services-their-dependents-and-other-eligible-individuals/)** — `2024-02-14` | `27 Pages`
 - `[`2024-02665`]` **[Natural Resource Damages for Hazardous Substances](https://www.indexdata.org/natural-resource-damages-for-hazardous-substances-2/)** — `2024-02-13` | `2 Pages`
 - `[`2024-00583`]` **[Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/unified-agenda-of-federal-regulatory-and-deregulatory-actions-6/)** — `2024-02-09` | `2 Pages`
-- `[`2024-00517`]` **[Semiannual Regulatory Agenda, Fall 2023](https://www.indexdata.org/semiannual-regulatory-agenda-fall-2023/)** — `2024-02-09` | `7 Pages`
 
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -1508,6 +1508,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-s
 - `[`2024-06851`]` **[Harmonization of the Fees and Application Procedures for the Global Entry and SENTRI Programs and Other Changes](https://www.indexdata.org/harmonization-of-the-fees-and-application-procedures-for-the-global-entry-and-sentri-programs-and-other-changes/)** — `2024-04-02` | `24 Pages`
 - `[`2024-05935`]` **[U.S. Citizenship and Immigration Services Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements; Correction](https://www.indexdata.org/u-s-citizenship-and-immigration-services-fee-schedule-and-changes-to-certain-other-immigration-benefit-request-requirements-correction/)** — `2024-03-21` | `5 Pages`
 
+### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
+
+- `[`2024-10872`]` **[Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.indexdata.org/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation-3/)** — `2024-06-11` | `307 Pages`
+- `[`2024-11896`]` **[Establishment of Categorical Reasonable Period of Time for Action on Requests for Water Quality Certification Under Section 401(a)(1) of the Clean Water Act and Clarifying Types of Hydroelectric Project Proceedings That May Require Water Quality Certification](https://www.indexdata.org/establishment-of-categorical-reasonable-period-of-time-for-action-on-requests-for-water-quality-certification-under-section-401a1-of-the-clean-water-act-and-clarifying-types-of-hydroelectric-proje/)** — `2024-06-06` | `6 Pages`
+- `[`2024-10879`]` **[Applications for Permits To Site Interstate Electric Transmission Facilities](https://www.indexdata.org/applications-for-permits-to-site-interstate-electric-transmission-facilities-2/)** — `2024-05-29` | `59 Pages`
+- `[`2024-09438`]` **[Standards for Business Practices and Communication Protocols for Public Utilities](https://www.indexdata.org/standards-for-business-practices-and-communication-protocols-for-public-utilities-2/)** — `2024-05-06` | `11 Pages`
+- `[`2024-06563`]` **[Improvements to Generator Interconnection Procedures and Agreements](https://www.indexdata.org/improvements-to-generator-interconnection-procedures-and-agreements/)** — `2024-04-16` | `238 Pages`
+- `[`2024-06561`]` **[Standards for Business Practices of Interstate Natural Gas Pipelines](https://www.indexdata.org/standards-for-business-practices-of-interstate-natural-gas-pipelines-4/)** — `2024-04-05` | `7 Pages`
+- `[`2024-06562`]` **[Petition for Rulemaking To Update Commission Regulations Regarding Allocation of Interstate Pipeline Capacity](https://www.indexdata.org/petition-for-rulemaking-to-update-commission-regulations-regarding-allocation-of-interstate-pipeline-capacity/)** — `2024-03-29` | `5 Pages`
+- `[`2024-06556`]` **[Compensation for Reactive Power Within the Standard Power Factor Range](https://www.indexdata.org/compensation-for-reactive-power-within-the-standard-power-factor-range-2/)** — `2024-03-28` | `15 Pages`
+- `[`2024-04726`]` **[Natural Gas Pipelines; Project Cost and Annual Limits](https://www.indexdata.org/natural-gas-pipelines-project-cost-and-annual-limits/)** — `2024-03-08` | `3 Pages`
+- `[`2024-03609`]` **[Enforcement of Statutes, Orders, Rules, and Regulations](https://www.indexdata.org/enforcement-of-statutes-orders-rules-and-regulations/)** — `2024-02-26` | `5 Pages`
+
 ### [Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 
@@ -1548,19 +1562,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-p
 - `[`2024-05472`]` **[Electric Bicycles; Advance Notice of Proposed Rulemaking; Request for Comments and Information](https://www.indexdata.org/electric-bicycles-advance-notice-of-proposed-rulemaking-request-for-comments-and-information/)** — `2024-03-15` | `6 Pages`
 - `[`2024-05281`]` **[Safety Standard for Automatic Residential Garage Door Operators](https://www.indexdata.org/safety-standard-for-automatic-residential-garage-door-operators/)** — `2024-03-14` | `3 Pages`
 - `[`2024-02562`]` **[Notice of Availability of Updated ASTM Standard Under the Portable Fuel Container Safety Act](https://www.indexdata.org/notice-of-availability-of-updated-astm-standard-under-the-portable-fuel-container-safety-act/)** — `2024-02-09` | `2 Pages`
-
-### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
-
-- `[`2024-11896`]` **[Establishment of Categorical Reasonable Period of Time for Action on Requests for Water Quality Certification Under Section 401(a)(1) of the Clean Water Act and Clarifying Types of Hydroelectric Project Proceedings That May Require Water Quality Certification](https://www.indexdata.org/establishment-of-categorical-reasonable-period-of-time-for-action-on-requests-for-water-quality-certification-under-section-401a1-of-the-clean-water-act-and-clarifying-types-of-hydroelectric-proje/)** — `2024-06-06` | `6 Pages`
-- `[`2024-10879`]` **[Applications for Permits To Site Interstate Electric Transmission Facilities](https://www.indexdata.org/applications-for-permits-to-site-interstate-electric-transmission-facilities-2/)** — `2024-05-29` | `59 Pages`
-- `[`2024-09438`]` **[Standards for Business Practices and Communication Protocols for Public Utilities](https://www.indexdata.org/standards-for-business-practices-and-communication-protocols-for-public-utilities-2/)** — `2024-05-06` | `11 Pages`
-- `[`2024-06563`]` **[Improvements to Generator Interconnection Procedures and Agreements](https://www.indexdata.org/improvements-to-generator-interconnection-procedures-and-agreements/)** — `2024-04-16` | `238 Pages`
-- `[`2024-06561`]` **[Standards for Business Practices of Interstate Natural Gas Pipelines](https://www.indexdata.org/standards-for-business-practices-of-interstate-natural-gas-pipelines-4/)** — `2024-04-05` | `7 Pages`
-- `[`2024-06562`]` **[Petition for Rulemaking To Update Commission Regulations Regarding Allocation of Interstate Pipeline Capacity](https://www.indexdata.org/petition-for-rulemaking-to-update-commission-regulations-regarding-allocation-of-interstate-pipeline-capacity/)** — `2024-03-29` | `5 Pages`
-- `[`2024-06556`]` **[Compensation for Reactive Power Within the Standard Power Factor Range](https://www.indexdata.org/compensation-for-reactive-power-within-the-standard-power-factor-range-2/)** — `2024-03-28` | `15 Pages`
-- `[`2024-04726`]` **[Natural Gas Pipelines; Project Cost and Annual Limits](https://www.indexdata.org/natural-gas-pipelines-project-cost-and-annual-limits/)** — `2024-03-08` | `3 Pages`
-- `[`2024-03609`]` **[Enforcement of Statutes, Orders, Rules, and Regulations](https://www.indexdata.org/enforcement-of-statutes-orders-rules-and-regulations/)** — `2024-02-26` | `5 Pages`
 
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
@@ -2081,11 +2082,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/council-on-environmental-quality/](https://www.indexdata.org/united-states/council-on-environmental-quality/) | [RSS Feed](https://www.indexdata.org/united-states/council-on-environmental-quality/feed/)
 
 - `[`2024-08792`]` **[National Environmental Policy Act Implementing Regulations Revisions Phase 2](https://www.indexdata.org/national-environmental-policy-act-implementing-regulations-revisions-phase-2/)** — `2024-05-01` | `136 Pages`
-
-### [Defense Department](https://www.indexdata.org/united-states/defense-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-department/](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
-
-- `[`2024-00516`]` **[Improving Government Regulations; Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/improving-government-regulations-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2/)** — `2024-02-09` | `2 Pages`
 
 ### [Delaware River Basin Commission](https://www.indexdata.org/united-states/delaware-river-basin-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/delaware-river-basin-commission/](https://www.indexdata.org/united-states/delaware-river-basin-commission/) | [RSS Feed](https://www.indexdata.org/united-states/delaware-river-basin-commission/feed/)

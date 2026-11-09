@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `173` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-09 16:44 UTC`
+**Total Indexed Dossiers in Ireland:** `174` across `38` issuing authorities  
+**Last Automated Sync:** `2026-11-09 17:16 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
 - **[Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
 - **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
-- **[Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
+- **[Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
 - **[Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
 - **[Minister for Finance](https://www.indexdata.org/ireland/minister-for-finance/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-finance/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-finance/feed/)
 - **[Minister for Housing, Local Government and Heritage](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/feed/)
@@ -53,7 +53,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–173 of 173)
+## Indexed Statutory & Regulatory Dossiers (Records 1–174 of 174)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -125,6 +125,7 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/marine-institute
 ### [Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/seanad-ireann/](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
 
+- `[`IE-BILL-2026-103`]` **[Safety, Health and Welfare at Work (Extreme Weather) Bill 2026](https://www.indexdata.org/safety-health-and-welfare-at-work-extreme-weather-bill-2026/)** — `2026-11-03` | `10 Pages`
 - `[`IE-BILL-2026-100`]` **[Patient Safety (Right to Escalation and Clinical Review) Bill 2026](https://www.indexdata.org/patient-safety-right-to-escalation-and-clinical-review-bill-2026/)** — `2026-10-20` | `12 Pages`
 - `[`IE-BILL-2026-97`]` **[Public Health (Tobacco Products and Nicotine Inhaling Products) (Amendment) (No. 2) Bill 2026](https://www.indexdata.org/public-health-tobacco-products-and-nicotine-inhaling-products-amendment-no-2-bill-2026/)** — `2026-10-13` | `8 Pages`
 - `[`IE-BILL-2026-96`]` **[Harassment, Harmful Communications and Related Offences (Amendment) (No. 3) Bill 2026](https://www.indexdata.org/harassment-harmful-communications-and-related-offences-amendment-no-3-bill-2026/)** — `2026-10-13` | `12 Pages`

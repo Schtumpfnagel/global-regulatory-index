@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,169` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,171` across `229` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 16:44 UTC`
+**Last Automated Sync:** `2026-11-09 17:16 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`276` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`277` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -111,9 +111,9 @@
 - **[Farm Credit Administration](https://www.indexdata.org/united-states/farm-credit-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-credit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/farm-credit-administration/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,169)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,171)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -314,6 +314,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CRPT-119hrpt853`]` **[H. Rept. 119-853](https://www.indexdata.org/h-rept-119-853/)** — `2026-11-02` | `11 Pages`
 - `[`US-CHRG-119hhrg65540`]` **[Serial No. 119-44 - BUILDING AN AI-READY AMERICA: ADOPTING AI AT WORK](https://www.indexdata.org/serial-no-119-44-building-an-ai-ready-america-adopting-ai-at-work/)** — `2026-11-02` | `98 Pages`
 - `[`US-CHRG-119hhrg64505`]` **[Serial No. 119-47 - TSA MODERNIZATION: INDUSTRY PERSPECTIVES ON KEY SECURITY AND TRAVEL REFORMS 25 YEARS AFTER 9/11](https://www.indexdata.org/serial-no-119-47-tsa-modernization-industry-perspectives-on-key-security-and-travel-reforms-25-years-after-9-11/)** — `2026-11-01` | `68 Pages`
+- `[`US-BILLS-119hres1494ih`]` **[H. Res. 1494 (IH) - Original Resolution Honoring Congresswoman Sheila Jackson Lee](https://www.indexdata.org/h-res-1494-ih-original-resolution-honoring-congresswoman-sheila-jackson-lee/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10954ih`]` **[H.R. 10954 (IH) - Don’t Flush Babies Act](https://www.indexdata.org/h-r-10954-ih-dont-flush-babies-act/)** — `2026-11-01` | `9 Pages`
 - `[`US-CRPT-119hrpt856`]` **[H. Rept. 119-856](https://www.indexdata.org/h-rept-119-856/)** — `2026-10-31` | `4 Pages`
 - `[`US-BILLS-119hr10933ih`]` **[H.R. 10933 (IH) - EMS Supporting Personnel, Operations, Upgrades, Resources, and Training Act of 2026](https://www.indexdata.org/h-r-10933-ih-ems-supporting-personnel-operations-upgrades-resources-and-training-act-of-2026/)** — `2026-10-31` | `12 Pages`
@@ -1419,6 +1420,25 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 - `[`2026-17446`]` **[List of Approved Spent Fuel Storage Casks: TN Americas, LLC Standardized NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel, Certificate of Compliance No. 1004, Renewed Amendment No. 19](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-standardized-nuhoms-horizontal-modular-storage-system-for-irradiated-nuclear-fuel-certificate-of-compliance-no-1004-renewed-amendme/)** — `2026-08-26` | `3 Pages`
 - `[`2026-17445`]` **[List of Approved Spent Fuel Storage Casks: TN Americas, LLC Standardized NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel, Certificate of Compliance No. 1004, Renewed Amendment No. 19](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-standardized-nuhoms-horizontal-modular-storage-system-for-irradiated-nuclear-fuel-certificate-of-compliance-no-1004-renewed-amendme-2/)** — `2026-08-26` | `6 Pages`
 
+### [U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-geological-survey-usgs/](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
+
+- `[`US-DOI-USGS-tm18C1`]` **[Methods and considerations for writing science syntheses for use in decision making on public lands](https://www.indexdata.org/methods-and-considerations-for-writing-science-syntheses-for-use-in-decision-making-on-public-lands/)** — `2026-11-09` | `34 Pages`
+- `[`US-DOI-USGS-fs20263011`]` **[Compensatory offsetting tool for energy infrastructure](https://www.indexdata.org/compensatory-offsetting-tool-for-energy-infrastructure/)** — `2026-11-09` | `2 Pages`
+- `[`US-DOI-USGS-sir20265028`]` **[Baseline water-quality inventory and summary for the Paterson Great Falls National Historical Park, New Jersey](https://www.indexdata.org/baseline-water-quality-inventory-and-summary-for-the-paterson-great-falls-national-historical-park-new-jersey/)** — `2026-11-05` | `76 Pages`
+- `[`US-DOI-USGS-tm6C3`]` **[An updated decision-support tool for grassland birds in the Avian-Impact Offset Method](https://www.indexdata.org/an-updated-decision-support-tool-for-grassland-birds-in-the-avian-impact-offset-method/)** — `2026-11-04` | `22 Pages`
+- `[`US-DOI-USGS-fs20263034`]` **[The National Wildlife Disease Database](https://www.indexdata.org/the-national-wildlife-disease-database/)** — `2026-10-30` | `2 Pages`
+- `[`US-DOI-USGS-dr1232`]` **[Distribution, abundance, and habitat characteristics of Coastal Cactus Wrens ( Campylorhynchus brunneicapillus ) in San Diego County, California—2025 data summary](https://www.indexdata.org/distribution-abundance-and-habitat-characteristics-of-coastal-cactus-wrens-campylorhynchus-brunneicapillus-in-san-diego-county-california-2025-data-summary/)** — `2026-10-30` | `28 Pages`
+- `[`US-DOI-USGS-sir20265073`]` **[Slip tendency and dilation tendency of Quaternary faults in the Great Basin region, Arizona, California, Idaho, Nevada, Oregon, Utah, and Wyoming](https://www.indexdata.org/slip-tendency-and-dilation-tendency-of-quaternary-faults-in-the-great-basin-region-arizona-california-idaho-nevada-oregon-utah-and-wyoming/)** — `2026-10-29` | `22 Pages`
+- `[`US-DOI-USGS-fs20263031`]` **[Assessment of Undiscovered Conventional Gas Resources in the Northern Alaska Province, 2026](https://www.indexdata.org/assessment-of-undiscovered-conventional-gas-resources-in-the-northern-alaska-province-2026/)** — `2026-10-21` | `6 Pages`
+- `[`US-DOI-USGS-ofr20261033`]` **[ECCOE Landsat quarterly calibration and validation report—Quarter 2, 2026](https://www.indexdata.org/eccoe-landsat-quarterly-calibration-and-validation-report-quarter-2-2026/)** — `2026-10-20` | `70 Pages`
+- `[`US-DOI-USGS-ofr20261032`]` **[ECCOE Landsat quarterly calibration and validation report—Quarter 1, 2026](https://www.indexdata.org/eccoe-landsat-quarterly-calibration-and-validation-report-quarter-1-2026/)** — `2026-10-19` | `66 Pages`
+- `[`US-DOI-USGS-sir20265060`]` **[Streamflow assessment of Birch Creek, southern boundary of the Blackfeet Indian Reservation, Pondera County, northwestern Montana—Synoptic and continuous streamflow measurements through 2022](https://www.indexdata.org/streamflow-assessment-of-birch-creek-southern-boundary-of-the-blackfeet-indian-reservation-pondera-county-northwestern-montana-synoptic-and-continuous-streamflow-measurements-through-2022/)** — `2026-10-15` | `54 Pages`
+- `[`US-DOI-USGS-sir20265042`]` **[A spatial analysis of the groundwater emergence flood hazard in Long Island, New York, and coastal areas surrounding Long Island Sound in New York, Connecticut, and Rhode Island](https://www.indexdata.org/a-spatial-analysis-of-the-groundwater-emergence-flood-hazard-in-long-island-new-york-and-coastal-areas-surrounding-long-island-sound-in-new-york-connecticut-and-rhode-island/)** — `2026-10-15` | `36 Pages`
+- `[`US-DOI-USGS-fs20263026`]` **[Global Fiducials Library](https://www.indexdata.org/global-fiducials-library/)** — `2026-10-14` | `2 Pages`
+- `[`US-DOI-USGS-dr1233`]` **[Terrain-based map of mélange and intact rock at the junction of Coastal and Central Belt rocks of the Franciscan Complex between Gualala and Ukiah, northern California Coast Ranges](https://www.indexdata.org/terrain-based-map-of-melange-and-intact-rock-at-the-junction-of-coastal-and-central-belt-rocks-of-the-franciscan-complex-between-gualala-and-ukiah-northern-california-coast-ranges/)** — `2026-10-14` | `28 Pages`
+- `[`US-DOI-USGS-dr1234`]` **[Range-wide population trend analysis for greater sage-grouse ( Centrocercus urophasianus )—Updated 1960–2025](https://www.indexdata.org/range-wide-population-trend-analysis-for-greater-sage-grouse-centrocercus-urophasianus-updated-1960-2025/)** — `2026-10-09` | `56 Pages`
+
 ### [Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration-fhwa/](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
 
@@ -1436,24 +1456,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-hi
 - `[`US-DOT-ROSAP-94163`]` **[Work Zone Management Program: Join the Work Zone Data Initiative](https://www.indexdata.org/work-zone-management-program-join-the-work-zone-data-initiative/)** — `2026-10-26` | `2 Pages`
 - `[`US-DOT-ROSAP-94162`]` **[Bridge Formula Weights &#91;Brochure&#93;](https://www.indexdata.org/bridge-formula-weights-brochure/)** — `2026-10-26` | `6 Pages`
 - `[`US-DOT-ROSAP-94161`]` **[Parking Stress in DC: A Research Study of DC's Residential Parking Permit Program](https://www.indexdata.org/parking-stress-in-dc-a-research-study-of-dcs-residential-parking-permit-program/)** — `2026-10-26` | `32 Pages`
-
-### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
-
-- `[`2026-20956`]` **[Removing 30-Day Refugee Termination Notice](https://www.indexdata.org/removing-30-day-refugee-termination-notice/)** — `2026-10-14` | `15 Pages`
-- `[`2026-20955`]` **[Removal of Automatic Extensions for Certain Employment Authorization Documents](https://www.indexdata.org/removal-of-automatic-extensions-for-certain-employment-authorization-documents/)** — `2026-10-14` | `63 Pages`
-- `[`2026-20941`]` **[Removing Deference to Prior USCIS Determinations of Eligibility](https://www.indexdata.org/removing-deference-to-prior-uscis-determinations-of-eligibility/)** — `2026-10-14` | `15 Pages`
-- `[`2026-20660`]` **[Optional Practical Training Fees](https://www.indexdata.org/optional-practical-training-fees/)** — `2026-10-08` | `35 Pages`
-- `[`2026-20016`]` **[U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule](https://www.indexdata.org/u-s-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee-rule/)** — `2026-09-30` | `46 Pages`
-- `[`2026-19207`]` **[Homeland Security Acquisition Regulation, Make Personal Protective Equipment in America Act Restrictions on Foreign Acquisition (HSAR Case 2024-003)](https://www.indexdata.org/homeland-security-acquisition-regulation-make-personal-protective-equipment-in-america-act-restrictions-on-foreign-acquisition-hsar-case-2024-003/)** — `2026-09-18` | `10 Pages`
-- `[`2026-18949`]` **[Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States; Correction](https://www.indexdata.org/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the-united-states-correction/)** — `2026-09-16` | `2 Pages`
-- `[`2026-18631`]` **[Eliminating the Discretionary 60-Day Grace Period](https://www.indexdata.org/eliminating-the-discretionary-60-day-grace-period/)** — `2026-09-11` | `22 Pages`
-- `[`2026-18345`]` **[Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States](https://www.indexdata.org/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the-united-states/)** — `2026-09-09` | `10 Pages`
-- `[`C3-2026-15190`]` **[Affirmative Asylum Referrals Without Interview](https://www.indexdata.org/affirmative-asylum-referrals-without-interview/)** — `2026-08-31` | `3 Pages`
-- `[`2026-17378`]` **[Special Local Regulation; Lake Erie, Kelleys Island, OH](https://www.indexdata.org/special-local-regulation-lake-erie-kelleys-island-oh/)** — `2026-08-26` | `3 Pages`
-- `[`2026-17324`]` **[Fee for Certain H-1B Petitions](https://www.indexdata.org/fee-for-certain-h-1b-petitions/)** — `2026-08-25` | `23 Pages`
-- `[`2026-17299`]` **[Special Local Regulation; Choptank River, Cambridge, MD](https://www.indexdata.org/special-local-regulation-choptank-river-cambridge-md/)** — `2026-08-25` | `3 Pages`
-- `[`2026-17119`]` **[Genealogy Program Regulations To Clarify the Impact of Federal Records Requirements](https://www.indexdata.org/genealogy-program-regulations-to-clarify-the-impact-of-federal-records-requirements/)** — `2026-08-21` | `8 Pages`
 
 ### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
@@ -1473,24 +1475,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 - `[`2026-17335`]` **[Reduction in Force; Correction](https://www.indexdata.org/reduction-in-force-correction-2/)** — `2026-08-25` | `3 Pages`
 - `[`2026-17334`]` **[Improving Performance, Accountability and Responsiveness in the Civil Service, and Recruitment and Relocation Incentive Waivers; Correcting Amendments](https://www.indexdata.org/improving-performance-accountability-and-responsiveness-in-the-civil-service-and-recruitment-and-relocation-incentive-waivers-correcting-amendments/)** — `2026-08-25` | `2 Pages`
 
-### [U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-geological-survey-usgs/](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
-
-- `[`US-DOI-USGS-fs20263011`]` **[Compensatory offsetting tool for energy infrastructure](https://www.indexdata.org/compensatory-offsetting-tool-for-energy-infrastructure/)** — `2026-11-09` | `2 Pages`
-- `[`US-DOI-USGS-sir20265028`]` **[Baseline water-quality inventory and summary for the Paterson Great Falls National Historical Park, New Jersey](https://www.indexdata.org/baseline-water-quality-inventory-and-summary-for-the-paterson-great-falls-national-historical-park-new-jersey/)** — `2026-11-05` | `76 Pages`
-- `[`US-DOI-USGS-tm6C3`]` **[An updated decision-support tool for grassland birds in the Avian-Impact Offset Method](https://www.indexdata.org/an-updated-decision-support-tool-for-grassland-birds-in-the-avian-impact-offset-method/)** — `2026-11-04` | `22 Pages`
-- `[`US-DOI-USGS-fs20263034`]` **[The National Wildlife Disease Database](https://www.indexdata.org/the-national-wildlife-disease-database/)** — `2026-10-30` | `2 Pages`
-- `[`US-DOI-USGS-dr1232`]` **[Distribution, abundance, and habitat characteristics of Coastal Cactus Wrens ( Campylorhynchus brunneicapillus ) in San Diego County, California—2025 data summary](https://www.indexdata.org/distribution-abundance-and-habitat-characteristics-of-coastal-cactus-wrens-campylorhynchus-brunneicapillus-in-san-diego-county-california-2025-data-summary/)** — `2026-10-30` | `28 Pages`
-- `[`US-DOI-USGS-sir20265073`]` **[Slip tendency and dilation tendency of Quaternary faults in the Great Basin region, Arizona, California, Idaho, Nevada, Oregon, Utah, and Wyoming](https://www.indexdata.org/slip-tendency-and-dilation-tendency-of-quaternary-faults-in-the-great-basin-region-arizona-california-idaho-nevada-oregon-utah-and-wyoming/)** — `2026-10-29` | `22 Pages`
-- `[`US-DOI-USGS-fs20263031`]` **[Assessment of Undiscovered Conventional Gas Resources in the Northern Alaska Province, 2026](https://www.indexdata.org/assessment-of-undiscovered-conventional-gas-resources-in-the-northern-alaska-province-2026/)** — `2026-10-21` | `6 Pages`
-- `[`US-DOI-USGS-ofr20261033`]` **[ECCOE Landsat quarterly calibration and validation report—Quarter 2, 2026](https://www.indexdata.org/eccoe-landsat-quarterly-calibration-and-validation-report-quarter-2-2026/)** — `2026-10-20` | `70 Pages`
-- `[`US-DOI-USGS-ofr20261032`]` **[ECCOE Landsat quarterly calibration and validation report—Quarter 1, 2026](https://www.indexdata.org/eccoe-landsat-quarterly-calibration-and-validation-report-quarter-1-2026/)** — `2026-10-19` | `66 Pages`
-- `[`US-DOI-USGS-sir20265060`]` **[Streamflow assessment of Birch Creek, southern boundary of the Blackfeet Indian Reservation, Pondera County, northwestern Montana—Synoptic and continuous streamflow measurements through 2022](https://www.indexdata.org/streamflow-assessment-of-birch-creek-southern-boundary-of-the-blackfeet-indian-reservation-pondera-county-northwestern-montana-synoptic-and-continuous-streamflow-measurements-through-2022/)** — `2026-10-15` | `54 Pages`
-- `[`US-DOI-USGS-sir20265042`]` **[A spatial analysis of the groundwater emergence flood hazard in Long Island, New York, and coastal areas surrounding Long Island Sound in New York, Connecticut, and Rhode Island](https://www.indexdata.org/a-spatial-analysis-of-the-groundwater-emergence-flood-hazard-in-long-island-new-york-and-coastal-areas-surrounding-long-island-sound-in-new-york-connecticut-and-rhode-island/)** — `2026-10-15` | `36 Pages`
-- `[`US-DOI-USGS-fs20263026`]` **[Global Fiducials Library](https://www.indexdata.org/global-fiducials-library/)** — `2026-10-14` | `2 Pages`
-- `[`US-DOI-USGS-dr1233`]` **[Terrain-based map of mélange and intact rock at the junction of Coastal and Central Belt rocks of the Franciscan Complex between Gualala and Ukiah, northern California Coast Ranges](https://www.indexdata.org/terrain-based-map-of-melange-and-intact-rock-at-the-junction-of-coastal-and-central-belt-rocks-of-the-franciscan-complex-between-gualala-and-ukiah-northern-california-coast-ranges/)** — `2026-10-14` | `28 Pages`
-- `[`US-DOI-USGS-dr1234`]` **[Range-wide population trend analysis for greater sage-grouse ( Centrocercus urophasianus )—Updated 1960–2025](https://www.indexdata.org/range-wide-population-trend-analysis-for-greater-sage-grouse-centrocercus-urophasianus-updated-1960-2025/)** — `2026-10-09` | `56 Pages`
-
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 
@@ -1507,6 +1491,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enfor
 - `[`2026-17536`]` **[Schedules of Controlled Substances: Placement of Cipepofol in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-cipepofol-in-schedule-iv/)** — `2026-08-27` | `7 Pages`
 - `[`2026-17531`]` **[Schedules of Controlled Substances: Temporary Placement of 5,6-Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-56-dichloro-brorphine-56-dichloro-desmethylchlorphine-n-propionitrile-chlorphine-and-spirochlorphine-in-schedule-i-of-the-controlled-sub/)** — `2026-08-27` | `7 Pages`
 - `[`2026-17429`]` **[Schedules of Controlled Substances: Temporary Placement of Mitragynine Pseudoindoxyl, MGM-15, and MGM-16 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mitragynine-pseudoindoxyl-mgm-15-and-mgm-16-in-schedule-i/)** — `2026-08-26` | `9 Pages`
+
+### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
+
+- `[`2026-20956`]` **[Removing 30-Day Refugee Termination Notice](https://www.indexdata.org/removing-30-day-refugee-termination-notice/)** — `2026-10-14` | `15 Pages`
+- `[`2026-20955`]` **[Removal of Automatic Extensions for Certain Employment Authorization Documents](https://www.indexdata.org/removal-of-automatic-extensions-for-certain-employment-authorization-documents/)** — `2026-10-14` | `63 Pages`
+- `[`2026-20941`]` **[Removing Deference to Prior USCIS Determinations of Eligibility](https://www.indexdata.org/removing-deference-to-prior-uscis-determinations-of-eligibility/)** — `2026-10-14` | `15 Pages`
+- `[`2026-20660`]` **[Optional Practical Training Fees](https://www.indexdata.org/optional-practical-training-fees/)** — `2026-10-08` | `35 Pages`
+- `[`2026-20016`]` **[U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule](https://www.indexdata.org/u-s-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee-rule/)** — `2026-09-30` | `46 Pages`
+- `[`2026-19207`]` **[Homeland Security Acquisition Regulation, Make Personal Protective Equipment in America Act Restrictions on Foreign Acquisition (HSAR Case 2024-003)](https://www.indexdata.org/homeland-security-acquisition-regulation-make-personal-protective-equipment-in-america-act-restrictions-on-foreign-acquisition-hsar-case-2024-003/)** — `2026-09-18` | `10 Pages`
+- `[`2026-18949`]` **[Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States; Correction](https://www.indexdata.org/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the-united-states-correction/)** — `2026-09-16` | `2 Pages`
+- `[`2026-18631`]` **[Eliminating the Discretionary 60-Day Grace Period](https://www.indexdata.org/eliminating-the-discretionary-60-day-grace-period/)** — `2026-09-11` | `22 Pages`
+- `[`2026-18345`]` **[Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States](https://www.indexdata.org/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the-united-states/)** — `2026-09-09` | `10 Pages`
+- `[`C3-2026-15190`]` **[Affirmative Asylum Referrals Without Interview](https://www.indexdata.org/affirmative-asylum-referrals-without-interview/)** — `2026-08-31` | `3 Pages`
+- `[`2026-17378`]` **[Special Local Regulation; Lake Erie, Kelleys Island, OH](https://www.indexdata.org/special-local-regulation-lake-erie-kelleys-island-oh/)** — `2026-08-26` | `3 Pages`
+- `[`2026-17324`]` **[Fee for Certain H-1B Petitions](https://www.indexdata.org/fee-for-certain-h-1b-petitions/)** — `2026-08-25` | `23 Pages`
+- `[`2026-17299`]` **[Special Local Regulation; Choptank River, Cambridge, MD](https://www.indexdata.org/special-local-regulation-choptank-river-cambridge-md/)** — `2026-08-25` | `3 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1975,12 +1976,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-
 - `[`2026-21024`]` **[Imposition and Collection of Civil Penalties for Certain Immigration-Related Violations](https://www.indexdata.org/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations/)** — `2026-10-14` | `43 Pages`
 - `[`2026-17146`]` **[Inflation Adjustment for EOIR OBBBA Fees; Fiscal Year 2027](https://www.indexdata.org/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2027/)** — `2026-08-21` | `4 Pages`
 
-### [Federal Contract Compliance Programs Office](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/feed/)
-
-- `[`2026-17757`]` **[Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended; Correction](https://www.indexdata.org/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act-of-1974-as-amended-correction/)** — `2026-08-31` | `2 Pages`
-- `[`2026-17116`]` **[Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended](https://www.indexdata.org/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act-of-1974-as-amended/)** — `2026-08-21` | `11 Pages`
-
 ### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 
@@ -2125,6 +2120,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/equal-empl
 Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-service-agency/](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 
 - `[`2026-18164`]` **[Driving Efficiency in Farm Loan Delivery](https://www.indexdata.org/driving-efficiency-in-farm-loan-delivery/)** — `2026-09-04` | `35 Pages`
+
+### [Federal Contract Compliance Programs Office](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/feed/)
+
+- `[`2026-17757`]` **[Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended; Correction](https://www.indexdata.org/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act-of-1974-as-amended-correction/)** — `2026-08-31` | `2 Pages`
 
 ### [Fiscal Service](https://www.indexdata.org/united-states/fiscal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fiscal-service/](https://www.indexdata.org/united-states/fiscal-service/) | [RSS Feed](https://www.indexdata.org/united-states/fiscal-service/feed/)
