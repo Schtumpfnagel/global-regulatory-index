@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,466` across `60` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,476` across `60` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-09 18:57 UTC`
+**Last Automated Sync:** `2026-11-09 19:55 UTC`
 
 ---
 
@@ -27,10 +27,10 @@
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
-- **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
@@ -76,11 +76,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,466 of 2,466)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,476 of 2,476)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2025-857`]` **[The Childcare Payments (Eligibility) (Amendment and Transitional Provisions) Regulations 2025](https://www.indexdata.org/the-childcare-payments-eligibility-amendment-and-transitional-provisions-regulations-2025/)** — `2025-07-14` | `8 Pages`
+- `[`UKSI-2025-1005`]` **[The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2025](https://www.indexdata.org/the-ecclesiastical-judges-legal-officers-and-others-fees-order-2025/)** — `2025-07-11` | `16 Pages`
 - `[`UKSI-2025-866`]` **[The Court of Protection (Amendment) Rules 2025](https://www.indexdata.org/the-court-of-protection-amendment-rules-2025/)** — `2025-07-10` | `4 Pages`
 - `[`UKSI-2025-854`]` **[The Postal Services (Universal Postal Service) (Amendment) Order 2025 (revoked)](https://www.indexdata.org/the-postal-services-universal-postal-service-amendment-order-2025-revoked/)** — `2025-07-10` | `4 Pages`
 - `[`UKSI-2025-845`]` **[The Subsidy Control (Subsidies and Schemes of Interest or Particular Interest) (Amendment) Regulations 2025](https://www.indexdata.org/the-subsidy-control-subsidies-and-schemes-of-interest-or-particular-interest-amendment-regulations-2025/)** — `2025-07-10` | `2 Pages`
@@ -322,6 +324,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2025-873`]` **[The Financial Services and Markets Act 2023 (Commencement No. 10 and Saving Provisions) Regulations 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2023-commencement-no-10-and-saving-provisions-regulations-2025/)** — `2025-07-14` | `12 Pages`
+- `[`UKSI-2025-872`]` **[The Bank Resolution (Recapitalisation) Act 2025 (Commencement) Regulations 2025](https://www.indexdata.org/the-bank-resolution-recapitalisation-act-2025-commencement-regulations-2025/)** — `2025-07-14` | `2 Pages`
+- `[`UKSI-2025-862`]` **[The Bank Recovery and Resolution (Amendment) Regulations 2025](https://www.indexdata.org/the-bank-recovery-and-resolution-amendment-regulations-2025/)** — `2025-07-14` | `8 Pages`
+- `[`UKSI-2025-861`]` **[The Disability Premium Compensation Scheme (Income Tax Exemption) Regulations 2025](https://www.indexdata.org/the-disability-premium-compensation-scheme-income-tax-exemption-regulations-2025/)** — `2025-07-14` | `4 Pages`
+- `[`UKSI-2025-860`]` **[The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (Amendment) Regulations 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2000-markets-in-financial-instruments-amendment-regulations-2025/)** — `2025-07-14` | `4 Pages`
+- `[`UKSI-2025-859`]` **[The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2000-regulated-activities-etc-amendment-order-2025/)** — `2025-07-14` | `16 Pages`
 - `[`UKSI-2025-877`]` **[The Proceeds of Crime (Money Laundering) (Threshold Amount) (Amendment) Order 2025](https://www.indexdata.org/the-proceeds-of-crime-money-laundering-threshold-amount-amendment-order-2025/)** — `2025-07-10` | `2 Pages`
 - `[`UKSI-2025-688`]` **[The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025](https://www.indexdata.org/the-payment-services-and-payment-accounts-contract-termination-amendment-regulations-2025/)** — `2025-06-12` | `8 Pages`
 - `[`UKSI-2025-670`]` **[The Pension Fund Clearing Obligation Exemption (Amendment) Regulations 2025](https://www.indexdata.org/the-pension-fund-clearing-obligation-exemption-amendment-regulations-2025/)** — `2025-06-10` | `2 Pages`
@@ -562,6 +570,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 
+- `[`UKSI-2025-853`]` **[The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) (Variation) Order 2025](https://www.indexdata.org/the-a282-trunk-road-dartford-thurrock-crossing-charging-scheme-variation-order-2025/)** — `2025-07-14` | `2 Pages`
 - `[`UKSI-2025-850`]` **[The Air Navigation (Amendment) Order 2025](https://www.indexdata.org/the-air-navigation-amendment-order-2025/)** — `2025-07-09` | `12 Pages`
 - `[`UKPGA-2025-17`]` **[Sentencing Guidelines (Pre-sentence Reports) Act 2025](https://www.indexdata.org/sentencing-guidelines-pre-sentence-reports-act-2025/)** — `2025-06-19` | `7 Pages`
 - `[`UKSI-2025-678`]` **[The Vehicle Emissions Trading Schemes (Amendment) Order 2025](https://www.indexdata.org/the-vehicle-emissions-trading-schemes-amendment-order-2025/)** — `2025-06-11` | `8 Pages`
@@ -903,6 +912,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 
+- `[`UKSI-2025-855`]` **[The Thames Estuary Cockle Fishery (No. 2) (Variation) Order 2025](https://www.indexdata.org/the-thames-estuary-cockle-fishery-no-2-variation-order-2025/)** — `2025-07-14` | `2 Pages`
 - `[`UKSI-2025-837`]` **[The Sheep Carcase (Classification and Price Reporting) (England) Regulations 2025](https://www.indexdata.org/the-sheep-carcase-classification-and-price-reporting-england-regulations-2025/)** — `2025-07-09` | `24 Pages`
 - `[`UKSI-2025-662`]` **[The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025](https://www.indexdata.org/the-water-supply-and-sewerage-services-customer-service-standards-amendment-regulations-2025/)** — `2025-06-09` | `28 Pages`
 - `[`UKSI-2025-610`]` **[The Fair Dealing Obligations (Pigs) Regulations 2025](https://www.indexdata.org/the-fair-dealing-obligations-pigs-regulations-2025/)** — `2025-05-21` | `16 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,171` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 18:57 UTC`
+**Last Automated Sync:** `2026-11-09 19:55 UTC`
 
 ---
 
@@ -119,6 +119,7 @@
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -166,7 +167,6 @@
 - **[National Archives and Records Administration](https://www.indexdata.org/united-states/national-archives-and-records-administration/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-archives-and-records-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-archives-and-records-administration/feed/)
 - **[National Indian Gaming Commission](https://www.indexdata.org/united-states/national-indian-gaming-commission/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-indian-gaming-commission/) | [RSS Feed](https://www.indexdata.org/united-states/national-indian-gaming-commission/feed/)
 - **[National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)
 - **[Indian Health Service](https://www.indexdata.org/united-states/indian-health-service/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-health-service/) | [RSS Feed](https://www.indexdata.org/united-states/indian-health-service/feed/)
 - **[National Institute of Standards and Technology](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,171)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,177)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -601,14 +601,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-21684`]` **[Airworthiness Directives; Centerpointe Aerospace Inc. Helicopters](https://www.indexdata.org/airworthiness-directives-centerpointe-aerospace-inc-helicopters-2/)** — `2023-10-03` | `3 Pages`
 - `[`2023-21636`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-55/)** — `2023-10-03` | `4 Pages`
 - `[`2023-21673`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-267/)** — `2023-10-02` | `5 Pages`
-- `[`2023-21635`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-300/)** — `2023-10-02` | `3 Pages`
-- `[`2023-21634`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-301/)** — `2023-10-02` | `3 Pages`
-- `[`2023-21632`]` **[Airworthiness Directives; British Aerospace (Operations) Limited and British Aerospace Regional Aircraft Airplanes](https://www.indexdata.org/airworthiness-directives-british-aerospace-operations-limited-and-british-aerospace-regional-aircraft-airplanes/)** — `2023-10-02` | `4 Pages`
-- `[`2023-21631`]` **[Airworthiness Directives; Viking Air Limited (Type Certificate Previously Held by Bombardier Inc. and de Havilland Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-viking-air-limited-type-certificate-previously-held-by-bombardier-inc-and-de-havilland-inc-airplanes-4/)** — `2023-10-02` | `8 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-02299`]` **[National Emission Standards for Hazardous Air Pollutants: Lime Manufacturing Plants Amendments](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-lime-manufacturing-plants-amendments/)** — `2024-02-09` | `16 Pages`
 - `[`2024-00458`]` **[Fall 2023 Unified Agenda of Regulatory and Deregulatory Actions](https://www.indexdata.org/fall-2023-unified-agenda-of-regulatory-and-deregulatory-actions/)** — `2024-02-09` | `6 Pages`
 - `[`2024-02328`]` **[Definition of Hazardous Waste Applicable to Corrective Action for Releases From Solid Waste Management Units](https://www.indexdata.org/definition-of-hazardous-waste-applicable-to-corrective-action-for-releases-from-solid-waste-management-units-2/)** — `2024-02-08` | `9 Pages`
 - `[`2024-02324`]` **[Listing of Specific PFAS as Hazardous Constituents](https://www.indexdata.org/listing-of-specific-pfas-as-hazardous-constituents/)** — `2024-02-08` | `16 Pages`
@@ -764,6 +761,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-02410`]` **[Great Lakes Pilotage Rates-2024 Annual Review](https://www.indexdata.org/great-lakes-pilotage-rates-2024-annual-review/)** — `2024-02-09` | `35 Pages`
 - `[`2024-02404`]` **[Safety Zones in Reentry Sites; Jacksonville, Florida](https://www.indexdata.org/safety-zones-in-reentry-sites-jacksonville-florida/)** — `2024-02-07` | `2 Pages`
 - `[`2024-02389`]` **[Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL](https://www.indexdata.org/drawbridge-operation-regulation-okeechobee-waterway-stuart-fl-5/)** — `2024-02-06` | `2 Pages`
 - `[`2024-02187`]` **[Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL](https://www.indexdata.org/drawbridge-operation-regulation-okeechobee-waterway-stuart-fl-6/)** — `2024-02-05` | `3 Pages`
@@ -878,6 +876,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-02220`]` **[Pacific Halibut Fisheries of the West Coast; 2024 Catch Sharing Plan and Recreational Fishery Management Measures](https://www.indexdata.org/pacific-halibut-fisheries-of-the-west-coast-2024-catch-sharing-plan-and-recreational-fishery-management-measures/)** — `2024-02-09` | `7 Pages`
 - `[`2024-02516`]` **[Fisheries of the Northeastern United States; Atlantic Deep-Sea Red Crab Fishery; 2024 Atlantic Deep-Sea Red Crab Specifications](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-deep-sea-red-crab-fishery-2024-atlantic-deep-sea-red-crab-specifications/)** — `2024-02-08` | `2 Pages`
 - `[`2024-02509`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Atlantic Coastal Migratory Pelagic Fishery; Atlantic Dolphin and Wahoo Fishery; and South Atlantic Snapper-Grouper Fishery; Control Date](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-atlantic-coastal-migratory-pelagic-fishery-atlantic-dolphin-and-wahoo-fishery-and-south-atlantic-snapper-grouper-fishery-control-date/)** — `2024-02-08` | `2 Pages`
 - `[`2024-02493`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pollock in the Bering Sea and Aleutian Islands](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pollock-in-the-bering-sea-and-aleutian-islands-7/)** — `2024-02-07` | `3 Pages`
@@ -1135,7 +1134,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2023-22104`]` **[Preparer Tax Identification Number (PTIN) User Fee Update](https://www.indexdata.org/preparer-tax-identification-number-ptin-user-fee-update-4/)** — `2023-10-04` | `3 Pages`
 - `[`2023-22103`]` **[Preparer Tax Identification Number (PTIN) User Fee Update](https://www.indexdata.org/preparer-tax-identification-number-ptin-user-fee-update-5/)** — `2023-10-04` | `4 Pages`
 - `[`2023-21969`]` **[Request for Information; Coverage of Over-the-Counter Preventive Services](https://www.indexdata.org/request-for-information-coverage-of-over-the-counter-preventive-services/)** — `2023-10-04` | `7 Pages`
-- `[`2023-21586`]` **[Excise Tax on Designated Drugs; Procedural Requirements](https://www.indexdata.org/excise-tax-on-designated-drugs-procedural-requirements-2/)** — `2023-10-02` | `5 Pages`
 
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
@@ -1172,37 +1170,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2023-21685`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Northwestern Pond Turtle and Southwestern Pond Turtle](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-the-northwestern-pond-turtle-and-southwestern-pond-turtle/)** — `2023-10-03` | `30 Pages`
 - `[`2023-21667`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Short-Tailed Snake](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-short-tailed-snake/)** — `2023-10-03` | `24 Pages`
 
-### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
-
-- `[`2024-00452`]` **[Fall 2023 Unified Agenda of Regulatory and Deregulatory Actions](https://www.indexdata.org/fall-2023-unified-agenda-of-regulatory-and-deregulatory-actions-2/)** — `2024-02-09` | `5 Pages`
-- `[`2024-01874`]` **[Procedures for Determining Eligibility for Access to Classified Matter or Special Nuclear Material](https://www.indexdata.org/procedures-for-determining-eligibility-for-access-to-classified-matter-or-special-nuclear-material-2/)** — `2024-01-31` | `7 Pages`
-- `[`2023-28976`]` **[Energy Conservation Program: Energy Conservation Standards for Fans and Blowers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-fans-and-blowers/)** — `2024-01-19` | `162 Pages`
-- `[`2023-28978`]` **[Energy Conservation Program: Energy Conservation Standards for Refrigerators, Refrigerator-Freezers, and Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-refrigerators-refrigerator-freezers-and-freezers-3/)** — `2024-01-17` | `91 Pages`
-- `[`2023-28977`]` **[Energy Conservation Program: Energy Conservation Standards for Refrigerators, Refrigerator-Freezers, and Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-refrigerators-refrigerator-freezers-and-freezers-2/)** — `2024-01-17` | `24 Pages`
-- `[`2023-28828`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-9/)** — `2024-01-09` | `5 Pages`
-- `[`2024-00153`]` **[Civil Nuclear Credit Program and Recapture of Credits](https://www.indexdata.org/civil-nuclear-credit-program-and-recapture-of-credits-2/)** — `2024-01-08` | `9 Pages`
-- `[`2023-28556`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Water Heaters](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-water-heaters-3/)** — `2023-12-27` | `10 Pages`
-- `[`2023-27182`]` **[Energy Conservation Program: Energy Conservation Standards for Manufactured Housing; Enforcement](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-manufactured-housing-enforcement/)** — `2023-12-26` | `11 Pages`
-- `[`2023-27616`]` **[Social Security Number Fraud Prevention Act](https://www.indexdata.org/social-security-number-fraud-prevention-act/)** — `2023-12-18` | `5 Pages`
-- `[`2023-25514`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Furnaces](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-furnaces/)** — `2023-12-18` | `148 Pages`
-- `[`2023-27615`]` **[Worker Safety and Health Program](https://www.indexdata.org/worker-safety-and-health-program/)** — `2023-12-15` | `6 Pages`
-- `[`2023-26531`]` **[Energy Conservation Program: Energy Conservation Standards for Expanded Scope Electric Motors](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-expanded-scope-electric-motors/)** — `2023-12-15` | `92 Pages`
-- `[`2023-26479`]` **[Interpretation of Foreign Entity of Concern](https://www.indexdata.org/interpretation-of-foreign-entity-of-concern-2/)** — `2023-12-04` | `8 Pages`
-- `[`2023-25921`]` **[Energy Conservation Program: Test Procedure for Water-Source Heat Pumps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-water-source-heat-pumps/)** — `2023-12-04` | `45 Pages`
-- `[`2023-25869`]` **[Energy Conservation Program: Energy Conservation Standards for Oil, Electric, and Weatherized Gas Consumer Furnaces](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-oil-electric-and-weatherized-gas-consumer-furnaces-2/)** — `2023-11-29` | `38 Pages`
-- `[`2023-25982`]` **[Privacy Act of 1974: Implementation of Exemptions](https://www.indexdata.org/privacy-act-of-1974-implementation-of-exemptions-6/)** — `2023-11-27` | `5 Pages`
-- `[`2023-25923`]` **[Organizational Changes in Certain Department of Energy Health, Safety, and Security Regulations; Correction](https://www.indexdata.org/organizational-changes-in-certain-department-of-energy-health-safety-and-security-regulations-correction/)** — `2023-11-24` | `2 Pages`
-- `[`2023-24106`]` **[Energy Conservation Program: Energy Conservation Standards for Dehumidifiers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dehumidifiers/)** — `2023-11-06` | `64 Pages`
-- `[`2023-16875`]` **[Department of Energy Acquisition Regulation (DEAR)](https://www.indexdata.org/department-of-energy-acquisition-regulation-dear-2/)** — `2023-10-26` | `106 Pages`
-- `[`2023-18531`]` **[Energy Conservation Program: Test Procedure for Walk-In Coolers and Walk-In Freezers; Correction](https://www.indexdata.org/energy-conservation-program-test-procedure-for-walk-in-coolers-and-walk-in-freezers-correction/)** — `2023-10-25` | `5 Pages`
-- `[`2023-23204`]` **[Energy Conservation Program: Energy Conservation Standards for Electric Motors](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-electric-motors/)** — `2023-10-20` | `9 Pages`
-- `[`2023-21987`]` **[Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and-refrigerator-freezers-4/)** — `2023-10-10` | `112 Pages`
-- `[`2023-22149`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Furnace Fans](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-furnace-fans-3/)** — `2023-10-06` | `46 Pages`
-- `[`2023-20392`]` **[Energy Conservation Program: Energy Conservation Standards for Commercial Water Heating Equipment](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-commercial-water-heating-equipment/)** — `2023-10-06` | `139 Pages`
-- `[`2023-21834`]` **[Energy Conservation Program: Energy Conservation Standards for Metal Halide Lamp Fixtures](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-metal-halide-lamp-fixtures-2/)** — `2023-10-03` | `10 Pages`
-- `[`2023-21654`]` **[Petroleum-Equivalent Fuel Economy Calculation](https://www.indexdata.org/petroleum-equivalent-fuel-economy-calculation-4/)** — `2023-10-02` | `2 Pages`
-
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
 
@@ -1237,6 +1204,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
 
+- `[`2024-00583`]` **[Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/unified-agenda-of-federal-regulatory-and-deregulatory-actions-6/)** — `2024-02-09` | `2 Pages`
 - `[`2024-00517`]` **[Semiannual Regulatory Agenda, Fall 2023](https://www.indexdata.org/semiannual-regulatory-agenda-fall-2023/)** — `2024-02-09` | `7 Pages`
 - `[`2024-00454`]` **[Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/unified-agenda-of-federal-regulatory-and-deregulatory-actions-9/)** — `2024-02-09` | `6 Pages`
 - `[`2024-00453`]` **[Regulatory Agenda](https://www.indexdata.org/regulatory-agenda-3/)** — `2024-02-09` | `10 Pages`
@@ -1263,6 +1231,36 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 - `[`2023-23299`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-21/)** — `2023-10-25` | `3 Pages`
 - `[`2023-23013`]` **[Medical Malpractice Claims by Members of the Uniformed Services](https://www.indexdata.org/medical-malpractice-claims-by-members-of-the-uniformed-services-2/)** — `2023-10-20` | `4 Pages`
 - `[`2023-22524`]` **[Delegations of Authority](https://www.indexdata.org/delegations-of-authority-4/)** — `2023-10-12` | `2 Pages`
+
+### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
+
+- `[`2024-00452`]` **[Fall 2023 Unified Agenda of Regulatory and Deregulatory Actions](https://www.indexdata.org/fall-2023-unified-agenda-of-regulatory-and-deregulatory-actions-2/)** — `2024-02-09` | `5 Pages`
+- `[`2024-01874`]` **[Procedures for Determining Eligibility for Access to Classified Matter or Special Nuclear Material](https://www.indexdata.org/procedures-for-determining-eligibility-for-access-to-classified-matter-or-special-nuclear-material-2/)** — `2024-01-31` | `7 Pages`
+- `[`2023-28976`]` **[Energy Conservation Program: Energy Conservation Standards for Fans and Blowers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-fans-and-blowers/)** — `2024-01-19` | `162 Pages`
+- `[`2023-28978`]` **[Energy Conservation Program: Energy Conservation Standards for Refrigerators, Refrigerator-Freezers, and Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-refrigerators-refrigerator-freezers-and-freezers-3/)** — `2024-01-17` | `91 Pages`
+- `[`2023-28977`]` **[Energy Conservation Program: Energy Conservation Standards for Refrigerators, Refrigerator-Freezers, and Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-refrigerators-refrigerator-freezers-and-freezers-2/)** — `2024-01-17` | `24 Pages`
+- `[`2023-28828`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-9/)** — `2024-01-09` | `5 Pages`
+- `[`2024-00153`]` **[Civil Nuclear Credit Program and Recapture of Credits](https://www.indexdata.org/civil-nuclear-credit-program-and-recapture-of-credits-2/)** — `2024-01-08` | `9 Pages`
+- `[`2023-28556`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Water Heaters](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-water-heaters-3/)** — `2023-12-27` | `10 Pages`
+- `[`2023-27182`]` **[Energy Conservation Program: Energy Conservation Standards for Manufactured Housing; Enforcement](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-manufactured-housing-enforcement/)** — `2023-12-26` | `11 Pages`
+- `[`2023-27616`]` **[Social Security Number Fraud Prevention Act](https://www.indexdata.org/social-security-number-fraud-prevention-act/)** — `2023-12-18` | `5 Pages`
+- `[`2023-25514`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Furnaces](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-furnaces/)** — `2023-12-18` | `148 Pages`
+- `[`2023-27615`]` **[Worker Safety and Health Program](https://www.indexdata.org/worker-safety-and-health-program/)** — `2023-12-15` | `6 Pages`
+- `[`2023-26531`]` **[Energy Conservation Program: Energy Conservation Standards for Expanded Scope Electric Motors](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-expanded-scope-electric-motors/)** — `2023-12-15` | `92 Pages`
+- `[`2023-26479`]` **[Interpretation of Foreign Entity of Concern](https://www.indexdata.org/interpretation-of-foreign-entity-of-concern-2/)** — `2023-12-04` | `8 Pages`
+- `[`2023-25921`]` **[Energy Conservation Program: Test Procedure for Water-Source Heat Pumps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-water-source-heat-pumps/)** — `2023-12-04` | `45 Pages`
+- `[`2023-25869`]` **[Energy Conservation Program: Energy Conservation Standards for Oil, Electric, and Weatherized Gas Consumer Furnaces](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-oil-electric-and-weatherized-gas-consumer-furnaces-2/)** — `2023-11-29` | `38 Pages`
+- `[`2023-25982`]` **[Privacy Act of 1974: Implementation of Exemptions](https://www.indexdata.org/privacy-act-of-1974-implementation-of-exemptions-6/)** — `2023-11-27` | `5 Pages`
+- `[`2023-25923`]` **[Organizational Changes in Certain Department of Energy Health, Safety, and Security Regulations; Correction](https://www.indexdata.org/organizational-changes-in-certain-department-of-energy-health-safety-and-security-regulations-correction/)** — `2023-11-24` | `2 Pages`
+- `[`2023-24106`]` **[Energy Conservation Program: Energy Conservation Standards for Dehumidifiers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dehumidifiers/)** — `2023-11-06` | `64 Pages`
+- `[`2023-16875`]` **[Department of Energy Acquisition Regulation (DEAR)](https://www.indexdata.org/department-of-energy-acquisition-regulation-dear-2/)** — `2023-10-26` | `106 Pages`
+- `[`2023-18531`]` **[Energy Conservation Program: Test Procedure for Walk-In Coolers and Walk-In Freezers; Correction](https://www.indexdata.org/energy-conservation-program-test-procedure-for-walk-in-coolers-and-walk-in-freezers-correction/)** — `2023-10-25` | `5 Pages`
+- `[`2023-23204`]` **[Energy Conservation Program: Energy Conservation Standards for Electric Motors](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-electric-motors/)** — `2023-10-20` | `9 Pages`
+- `[`2023-21987`]` **[Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and-refrigerator-freezers-4/)** — `2023-10-10` | `112 Pages`
+- `[`2023-22149`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Furnace Fans](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-furnace-fans-3/)** — `2023-10-06` | `46 Pages`
+- `[`2023-20392`]` **[Energy Conservation Program: Energy Conservation Standards for Commercial Water Heating Equipment](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-commercial-water-heating-equipment/)** — `2023-10-06` | `139 Pages`
+- `[`2023-21834`]` **[Energy Conservation Program: Energy Conservation Standards for Metal Halide Lamp Fixtures](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-metal-halide-lamp-fixtures-2/)** — `2023-10-03` | `10 Pages`
 
 ### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
@@ -1679,6 +1677,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-re
 - `[`2023-25387`]` **[Rules Regarding Delegation of Authority](https://www.indexdata.org/rules-regarding-delegation-of-authority/)** — `2023-11-17` | `2 Pages`
 - `[`2023-24034`]` **[Debit Card Interchange Fees and Routing](https://www.indexdata.org/debit-card-interchange-fees-and-routing/)** — `2023-11-14` | `33 Pages`
 
+### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+
+- `[`2024-01947`]` **[Health Resources Priorities and Allocations System (HRPAS)](https://www.indexdata.org/health-resources-priorities-and-allocations-system-hrpas/)** — `2024-02-09` | `17 Pages`
+- `[`2024-01513`]` **[Possession, Use, and Transfer of Select Agents and Toxins; Biennial Review of the List of Select Agents and Toxins](https://www.indexdata.org/possession-use-and-transfer-of-select-agents-and-toxins-biennial-review-of-the-list-of-select-agents-and-toxins-2/)** — `2024-01-30` | `20 Pages`
+- `[`2023-21735`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs-2/)** — `2023-10-12` | `37 Pages`
+- `[`2023-21734`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs/)** — `2023-10-12` | `44 Pages`
+- `[`2023-22264`]` **[Annual Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/annual-civil-monetary-penalties-inflation-adjustment-5/)** — `2023-10-06` | `23 Pages`
+- `[`2023-21746`]` **[Public Health Service Policies on Research Misconduct](https://www.indexdata.org/public-health-service-policies-on-research-misconduct-2/)** — `2023-10-06` | `22 Pages`
+- `[`2023-21750`]` **[National Institute on Minority Health and Health Disparities Research Endowment Programs](https://www.indexdata.org/national-institute-on-minority-health-and-health-disparities-research-endowment-programs-2/)** — `2023-10-04` | `5 Pages`
+
 ### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
 
@@ -1709,16 +1718,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-
 - `[`2023-26399`]` **[Beneficial Ownership Information Reporting Deadline Extension for Reporting Companies Created or Registered in 2024](https://www.indexdata.org/beneficial-ownership-information-reporting-deadline-extension-for-reporting-companies-created-or-registered-in-2024/)** — `2023-11-30` | `6 Pages`
 - `[`2023-24559`]` **[Use of FinCEN Identifiers for Reporting Beneficial Ownership Information of Entities](https://www.indexdata.org/use-of-fincen-identifiers-for-reporting-beneficial-ownership-information-of-entities/)** — `2023-11-08` | `3 Pages`
 - `[`2023-23449`]` **[Proposal of Special Measure Regarding Convertible Virtual Currency Mixing, as a Class of Transactions of Primary Money Laundering Concern](https://www.indexdata.org/proposal-of-special-measure-regarding-convertible-virtual-currency-mixing-as-a-class-of-transactions-of-primary-money-laundering-concern/)** — `2023-10-23` | `23 Pages`
-
-### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-
-- `[`2024-01513`]` **[Possession, Use, and Transfer of Select Agents and Toxins; Biennial Review of the List of Select Agents and Toxins](https://www.indexdata.org/possession-use-and-transfer-of-select-agents-and-toxins-biennial-review-of-the-list-of-select-agents-and-toxins-2/)** — `2024-01-30` | `20 Pages`
-- `[`2023-21735`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs-2/)** — `2023-10-12` | `37 Pages`
-- `[`2023-21734`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs/)** — `2023-10-12` | `44 Pages`
-- `[`2023-22264`]` **[Annual Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/annual-civil-monetary-penalties-inflation-adjustment-5/)** — `2023-10-06` | `23 Pages`
-- `[`2023-21746`]` **[Public Health Service Policies on Research Misconduct](https://www.indexdata.org/public-health-service-policies-on-research-misconduct-2/)** — `2023-10-06` | `22 Pages`
-- `[`2023-21750`]` **[National Institute on Minority Health and Health Disparities Research Endowment Programs](https://www.indexdata.org/national-institute-on-minority-health-and-health-disparities-research-endowment-programs-2/)** — `2023-10-04` | `5 Pages`
 
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
@@ -2011,6 +2010,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/management
 - `[`2023-27473`]` **[Privacy Act and Freedom of Information Act Regulations](https://www.indexdata.org/privacy-act-and-freedom-of-information-act-regulations-2/)** — `2023-12-20` | `8 Pages`
 - `[`2023-21078`]` **[Guidance for Grants and Agreements](https://www.indexdata.org/guidance-for-grants-and-agreements/)** — `2023-10-05` | `111 Pages`
 
+### [National Endowment for the Arts](https://www.indexdata.org/united-states/national-endowment-for-the-arts/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-endowment-for-the-arts/](https://www.indexdata.org/united-states/national-endowment-for-the-arts/) | [RSS Feed](https://www.indexdata.org/united-states/national-endowment-for-the-arts/feed/)
+
+- `[`2024-00662`]` **[Civil Penalties Adjustment for 2024](https://www.indexdata.org/civil-penalties-adjustment-for-2024/)** — `2024-02-09` | `3 Pages`
+- `[`2024-00992`]` **[Civil Penalties Adjustment for 2024](https://www.indexdata.org/civil-penalties-adjustment-for-2024-2/)** — `2024-01-19` | `4 Pages`
+
 ### [National Labor Relations Board](https://www.indexdata.org/united-states/national-labor-relations-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-labor-relations-board/](https://www.indexdata.org/united-states/national-labor-relations-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-labor-relations-board/feed/)
 
@@ -2154,11 +2159,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/merit-syst
 Canonical Authority Archive: [https://www.indexdata.org/united-states/mine-safety-and-health-administration/](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 
 - `[`2023-27640`]` **[Safety Program for Surface Mobile Equipment](https://www.indexdata.org/safety-program-for-surface-mobile-equipment/)** — `2023-12-20` | `25 Pages`
-
-### [National Endowment for the Arts](https://www.indexdata.org/united-states/national-endowment-for-the-arts/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-endowment-for-the-arts/](https://www.indexdata.org/united-states/national-endowment-for-the-arts/) | [RSS Feed](https://www.indexdata.org/united-states/national-endowment-for-the-arts/feed/)
-
-- `[`2024-00992`]` **[Civil Penalties Adjustment for 2024](https://www.indexdata.org/civil-penalties-adjustment-for-2024-2/)** — `2024-01-19` | `4 Pages`
 
 ### [National Indian Gaming Commission](https://www.indexdata.org/united-states/national-indian-gaming-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-indian-gaming-commission/](https://www.indexdata.org/united-states/national-indian-gaming-commission/) | [RSS Feed](https://www.indexdata.org/united-states/national-indian-gaming-commission/feed/)

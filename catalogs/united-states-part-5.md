@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,171` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 18:57 UTC`
+**Last Automated Sync:** `2026-11-09 19:55 UTC`
 
 ---
 
@@ -119,6 +119,7 @@
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -166,7 +167,6 @@
 - **[National Archives and Records Administration](https://www.indexdata.org/united-states/national-archives-and-records-administration/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-archives-and-records-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-archives-and-records-administration/feed/)
 - **[National Indian Gaming Commission](https://www.indexdata.org/united-states/national-indian-gaming-commission/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-indian-gaming-commission/) | [RSS Feed](https://www.indexdata.org/united-states/national-indian-gaming-commission/feed/)
 - **[National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)
 - **[Indian Health Service](https://www.indexdata.org/united-states/indian-health-service/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-health-service/) | [RSS Feed](https://www.indexdata.org/united-states/indian-health-service/feed/)
 - **[National Institute of Standards and Technology](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/feed/)
@@ -245,11 +245,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,171)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,177)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-12555`]` **[Airworthiness Directives; Honda Aircraft Company LLC Airplanes](https://www.indexdata.org/airworthiness-directives-honda-aircraft-company-llc-airplanes-6/)** — `2025-07-07` | `3 Pages`
 - `[`2025-12507`]` **[Establishment of E2 and Removal of Class E4 Airspace Over Jacksonville, NC](https://www.indexdata.org/establishment-of-e2-and-removal-of-class-e4-airspace-over-jacksonville-nc/)** — `2025-07-07` | `2 Pages`
 - `[`2025-12503`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-104/)** — `2025-07-07` | `3 Pages`
 - `[`2025-12479`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-114/)** — `2025-07-03` | `4 Pages`
@@ -686,10 +687,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-02375`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-184/)** — `2025-02-10` | `3 Pages`
 - `[`2025-02374`]` **[Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc-airplanes-17/)** — `2025-02-10` | `3 Pages`
 - `[`2025-02323`]` **[Amendment of Class E Airspace; Marion, NC](https://www.indexdata.org/amendment-of-class-e-airspace-marion-nc/)** — `2025-02-07` | `2 Pages`
-- `[`2025-02244`]` **[Airworthiness Directives; Embraer S.A. (Type Certificate Previously Held by Yaborã Indústria Aeronáutica S.A.; Embraer S.A.) Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-type-certificate-previously-held-by-yabora-industria-aeronautica-s-a-embraer-s-a-airplanes-8/)** — `2025-02-07` | `4 Pages`
-- `[`2025-02281`]` **[Amendment of Jet Route J-96 in the Vicinity of Cimarron, NM](https://www.indexdata.org/amendment-of-jet-route-j-96-in-the-vicinity-of-cimarron-nm-2/)** — `2025-02-06` | `3 Pages`
-- `[`2025-02250`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-34/)** — `2025-02-06` | `3 Pages`
-- `[`2025-02221`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-32/)** — `2025-02-05` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -861,6 +858,9 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2025-12544`]` **[Safety Zone; Redfish Bay, Aransas Pass, TX](https://www.indexdata.org/safety-zone-redfish-bay-aransas-pass-tx/)** — `2025-07-07` | `2 Pages`
+- `[`2025-12541`]` **[Safety Zone; Corpus Christi Bay, Corpus Christi, TX](https://www.indexdata.org/safety-zone-corpus-christi-bay-corpus-christi-tx/)** — `2025-07-07` | `3 Pages`
+- `[`2025-12540`]` **[Regulated Navigation Area and Safety Zone; Hampton River, Hampton, NH](https://www.indexdata.org/regulated-navigation-area-and-safety-zone-hampton-river-hampton-nh/)** — `2025-07-07` | `7 Pages`
 - `[`2025-12467`]` **[Safety Zone; Fireworks Displays Within the Fifth Coast Guard District](https://www.indexdata.org/safety-zone-fireworks-displays-within-the-fifth-coast-guard-district/)** — `2025-07-03` | `3 Pages`
 - `[`2025-12459`]` **[Safety Zone; Francis Scott Key Bridge, Patapsco River, Baltimore, MD](https://www.indexdata.org/safety-zone-francis-scott-key-bridge-patapsco-river-baltimore-md-2/)** — `2025-07-03` | `3 Pages`
 - `[`2025-12366`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-3/)** — `2025-07-02` | `3 Pages`
@@ -1121,8 +1121,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2025-03465`]` **[Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and-refrigerator-freezers/)** — `2025-03-07` | `3 Pages`
 - `[`2025-03464`]` **[Energy Conservation Program: Test Procedures for Compressors](https://www.indexdata.org/energy-conservation-program-test-procedures-for-compressors/)** — `2025-03-07` | `2 Pages`
 - `[`2025-02851`]` **[Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-walk-in-coolers-and-walk-in-freezers-3/)** — `2025-02-20` | `2 Pages`
-- `[`2025-02237`]` **[Energy Conservation Program: Test Procedures for Residential and Commercial Clothes Washers and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-test-procedures-for-residential-and-commercial-clothes-washers-and-consumer-clothes-dryers/)** — `2025-02-05` | `2 Pages`
-- `[`2025-02235`]` **[Energy Conservation Program: Test Procedure for General Service Lamps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-general-service-lamps/)** — `2025-02-05` | `2 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1636,6 +1634,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 
+- `[`2025-12554`]` **[Classification of Revenue Under Title IV](https://www.indexdata.org/classification-of-revenue-under-title-iv/)** — `2025-07-07` | `4 Pages`
 - `[`2025-11807`]` **[Innovative Rehabilitation Training Program](https://www.indexdata.org/innovative-rehabilitation-training-program/)** — `2025-06-26` | `5 Pages`
 - `[`2025-11608`]` **[Technical Assistance on State Data Collection-IDEA Data Management Center](https://www.indexdata.org/technical-assistance-on-state-data-collection-idea-data-management-center/)** — `2025-06-25` | `8 Pages`
 - `[`2025-11599`]` **[Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate IDEA Part B and Part C Fiscal Data](https://www.indexdata.org/technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state-capacity-to-collect-report-analyze-and-use-accurate-idea-part-b-and-part-c-fiscal-data/)** — `2025-06-25` | `6 Pages`
@@ -1887,6 +1886,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/transporta
 - `[`2025-02814`]` **[Periodic Revisions to Denied Boarding Compensation and Domestic Baggage Liability Limits](https://www.indexdata.org/periodic-revisions-to-denied-boarding-compensation-and-domestic-baggage-liability-limits/)** — `2025-02-20` | `2 Pages`
 - `[`2025-02811`]` **[Transportation for Individuals With Disabilities; Adoption of Accessibility Standards for Pedestrian Facilities in the Public Right-of-Way](https://www.indexdata.org/transportation-for-individuals-with-disabilities-adoption-of-accessibility-standards-for-pedestrian-facilities-in-the-public-right-of-way/)** — `2025-02-19` | `2 Pages`
 
+### [Wage and Hour Division](https://www.indexdata.org/united-states/wage-and-hour-division/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/wage-and-hour-division/](https://www.indexdata.org/united-states/wage-and-hour-division/) | [RSS Feed](https://www.indexdata.org/united-states/wage-and-hour-division/feed/)
+
+- `[`2025-12534`]` **[Employment of Workers With Disabilities Under Section 14(c) of the Fair Labor Standards Act; Withdrawal](https://www.indexdata.org/employment-of-workers-with-disabilities-under-section-14c-of-the-fair-labor-standards-act-withdrawal/)** — `2025-07-07` | `2 Pages`
+- `[`2025-12316`]` **[Application of the Fair Labor Standards Act to Domestic Service](https://www.indexdata.org/application-of-the-fair-labor-standards-act-to-domestic-service/)** — `2025-07-02` | `10 Pages`
+- `[`2025-12314`]` **[Statements of General Policy or Interpretation Not Directly Related to Regulations](https://www.indexdata.org/statements-of-general-policy-or-interpretation-not-directly-related-to-regulations/)** — `2025-07-02` | `8 Pages`
+
 ### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 
@@ -2006,12 +2012,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/treasury-d
 
 - `[`2025-08504`]` **[Privacy Act of 1974; Exempting a System of Records From Certain Requirements](https://www.indexdata.org/privacy-act-of-1974-exempting-a-system-of-records-from-certain-requirements/)** — `2025-05-14` | `3 Pages`
 - `[`2025-06353`]` **[Eliminating Unnecessary Regulations](https://www.indexdata.org/eliminating-unnecessary-regulations-2/)** — `2025-04-15` | `3 Pages`
-
-### [Wage and Hour Division](https://www.indexdata.org/united-states/wage-and-hour-division/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/wage-and-hour-division/](https://www.indexdata.org/united-states/wage-and-hour-division/) | [RSS Feed](https://www.indexdata.org/united-states/wage-and-hour-division/feed/)
-
-- `[`2025-12316`]` **[Application of the Fair Labor Standards Act to Domestic Service](https://www.indexdata.org/application-of-the-fair-labor-standards-act-to-domestic-service/)** — `2025-07-02` | `10 Pages`
-- `[`2025-12314`]` **[Statements of General Policy or Interpretation Not Directly Related to Regulations](https://www.indexdata.org/statements-of-general-policy-or-interpretation-not-directly-related-to-regulations/)** — `2025-07-02` | `8 Pages`
 
 ### [Agriculture Department](https://www.indexdata.org/united-states/agriculture-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agriculture-department/](https://www.indexdata.org/united-states/agriculture-department/) | [RSS Feed](https://www.indexdata.org/united-states/agriculture-department/feed/)

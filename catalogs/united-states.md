@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,171` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 18:57 UTC`
+**Last Automated Sync:** `2026-11-09 19:55 UTC`
 
 ---
 
@@ -119,6 +119,7 @@
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -166,7 +167,6 @@
 - **[National Archives and Records Administration](https://www.indexdata.org/united-states/national-archives-and-records-administration/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-archives-and-records-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-archives-and-records-administration/feed/)
 - **[National Indian Gaming Commission](https://www.indexdata.org/united-states/national-indian-gaming-commission/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-indian-gaming-commission/) | [RSS Feed](https://www.indexdata.org/united-states/national-indian-gaming-commission/feed/)
 - **[National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)
 - **[Indian Health Service](https://www.indexdata.org/united-states/indian-health-service/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-health-service/) | [RSS Feed](https://www.indexdata.org/united-states/indian-health-service/feed/)
 - **[National Institute of Standards and Technology](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,171)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,177)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -851,7 +851,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-17389`]` **[Safety Zone; Lake St. Clair; New Baltimore, MI](https://www.indexdata.org/safety-zone-lake-st-clair-new-baltimore-mi/)** — `2026-08-26` | `2 Pages`
 - `[`2026-17375`]` **[Safety Zone; Spring Lake, Fruitport, MI](https://www.indexdata.org/safety-zone-spring-lake-fruitport-mi/)** — `2026-08-26` | `2 Pages`
 - `[`2026-17217`]` **[Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI](https://www.indexdata.org/safety-zone-t-v-denise-foss-o-n-1254223-honolulu-hi/)** — `2026-08-24` | `3 Pages`
-- `[`2026-17131`]` **[Security Zone; Ohio River, Cincinnati, OH](https://www.indexdata.org/security-zone-ohio-river-cincinnati-oh/)** — `2026-08-21` | `2 Pages`
 
 ### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
@@ -1025,8 +1024,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2026-17391`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Duckabush Estuary Restoration Project in Washington](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-duckabush-estuary-restoration-project-in-washington/)** — `2026-08-26` | `13 Pages`
 - `[`2026-17300`]` **[Fisheries of the Caribbean, Gulf of America, and South Atlantic; Extension of the Commercial Shrimp Permit Moratorium in the Gulf of America](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-extension-of-the-commercial-shrimp-permit-moratorium-in-the-gulf-of-america/)** — `2026-08-25` | `4 Pages`
 - `[`2026-17228`]` **[Coastal Migratory Pelagic Resources of the Gulf and Atlantic Region; Commercial Closure for Atlantic Spanish Mackerel in the Northern Zone](https://www.indexdata.org/coastal-migratory-pelagic-resources-of-the-gulf-and-atlantic-region-commercial-closure-for-atlantic-spanish-mackerel-in-the-northern-zone/)** — `2026-08-24` | `2 Pages`
-- `[`2026-17129`]` **[Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Massachusetts](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north-carolina-to-massachusetts/)** — `2026-08-21` | `2 Pages`
-- `[`2026-17120`]` **[Fisheries of the South Atlantic; 2026 Commercial Closure of Red Snapper in the South Atlantic](https://www.indexdata.org/fisheries-of-the-south-atlantic-2026-commercial-closure-of-red-snapper-in-the-south-atlantic/)** — `2026-08-21` | `2 Pages`
 
 ### [United States Senate](https://www.indexdata.org/united-states/united-states-senate/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-senate/](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
@@ -1291,30 +1288,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2026-17487`]` **[Publication of a Determination Issued Pursuant to Executive Order 13902.](https://www.indexdata.org/publication-of-a-determination-issued-pursuant-to-executive-order-13902/)** — `2026-08-27` | `2 Pages`
 - `[`2026-17426`]` **[Iranian Transactions and Sanctions Regulations](https://www.indexdata.org/iranian-transactions-and-sanctions-regulations-3/)** — `2026-08-26` | `2 Pages`
 
-### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
-
-- `[`2026-21568`]` **[Guidance Under Section 355 Concerning Device and Active Trade or Business; Partial Withdrawal](https://www.indexdata.org/guidance-under-section-355-concerning-device-and-active-trade-or-business-partial-withdrawal/)** — `2026-10-21` | `2 Pages`
-- `[`2026-21267`]` **[Regulations Regarding Payment of Tax by Commercially Acceptable Means](https://www.indexdata.org/regulations-regarding-payment-of-tax-by-commercially-acceptable-means/)** — `2026-10-19` | `3 Pages`
-- `[`2026-21253`]` **[Non-Applicability of Section 357(c) to Consolidated Groups](https://www.indexdata.org/non-applicability-of-section-357c-to-consolidated-groups/)** — `2026-10-16` | `3 Pages`
-- `[`2026-21056`]` **[Premium Tax Credit](https://www.indexdata.org/premium-tax-credit/)** — `2026-10-15` | `17 Pages`
-- `[`2026-20447`]` **[Transparency in Coverage](https://www.indexdata.org/transparency-in-coverage/)** — `2026-10-06` | `120 Pages`
-- `[`2026-20277`]` **[Federal Scholarship Tax Credit](https://www.indexdata.org/federal-scholarship-tax-credit-2/)** — `2026-10-02` | `51 Pages`
-- `[`2026-20264`]` **[Federal Scholarship Tax Credit](https://www.indexdata.org/federal-scholarship-tax-credit/)** — `2026-10-02` | `18 Pages`
-- `[`2026-20027`]` **[Trump Accounts](https://www.indexdata.org/trump-accounts/)** — `2026-09-30` | `6 Pages`
-- `[`2026-20026`]` **[Trump Accounts](https://www.indexdata.org/trump-accounts-2/)** — `2026-09-30` | `23 Pages`
-- `[`2026-19888`]` **[Election To Pay in Installments Tax on Gain From Certain Farmland Property](https://www.indexdata.org/election-to-pay-in-installments-tax-on-gain-from-certain-farmland-property/)** — `2026-09-29` | `17 Pages`
-- `[`2026-19666`]` **[Estate Tax Closing Letter User Fee Update](https://www.indexdata.org/estate-tax-closing-letter-user-fee-update/)** — `2026-09-25` | `3 Pages`
-- `[`2026-19013`]` **[Racial Nondiscrimination in Private Schools; Hearing](https://www.indexdata.org/racial-nondiscrimination-in-private-schools-hearing/)** — `2026-09-16` | `2 Pages`
-- `[`2026-18645`]` **[Allocation and Apportionment of Deductions to Foreign Source Section 951A Category Income and Deduction Eligible Income](https://www.indexdata.org/allocation-and-apportionment-of-deductions-to-foreign-source-section-951a-category-income-and-deduction-eligible-income/)** — `2026-09-11` | `10 Pages`
-- `[`2026-18574`]` **[Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures](https://www.indexdata.org/information-reporting-regarding-qualified-opportunity-zones-and-updated-qualified-opportunity-fund-certification-and-decertification-procedures/)** — `2026-09-11` | `33 Pages`
-- `[`2026-18219`]` **[Car Loan Interest Deduction](https://www.indexdata.org/car-loan-interest-deduction/)** — `2026-09-08` | `31 Pages`
-- `[`2026-18127`]` **[Racial Nondiscrimination in Private Schools](https://www.indexdata.org/racial-nondiscrimination-in-private-schools/)** — `2026-09-04` | `9 Pages`
-- `[`2026-17622`]` **[Federal Independent Dispute Resolution Operations; Correction](https://www.indexdata.org/federal-independent-dispute-resolution-operations-correction/)** — `2026-08-28` | `12 Pages`
-- `[`2026-17365`]` **[Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss](https://www.indexdata.org/pro-rata-share-of-subpart-f-income-tested-income-or-tested-loss/)** — `2026-08-26` | `26 Pages`
-- `[`2026-17154`]` **[Income Taxes](https://www.indexdata.org/income-taxes/)** — `2026-08-21` | `3 Pages`
-- `[`2026-17123`]` **[Guidance on Eligible Investments for Trump Accounts](https://www.indexdata.org/guidance-on-eligible-investments-for-trump-accounts/)** — `2026-08-21` | `16 Pages`
-
 ### [National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 
@@ -1338,6 +1311,28 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`US-DOC-NOAA-77433`]` **[In Sandy Substrates, Tidal Inundation Stimulates Plant Biomass Production Across Species: Implications for Wetland Restoration](https://www.indexdata.org/in-sandy-substrates-tidal-inundation-stimulates-plant-biomass-production-across-species-implications-for-wetland-restoration/)** — `2026-10-30` | `12 Pages`
 - `[`US-DOC-NOAA-77432`]` **[Evaluating spatial and temporal dynamics of cold- and warm-adapted fish in a changing Long Island Sound](https://www.indexdata.org/evaluating-spatial-and-temporal-dynamics-of-cold-and-warm-adapted-fish-in-a-changing-long-island-sound/)** — `2026-10-30` | `13 Pages`
 - `[`US-DOC-NOAA-77431`]` **[Evaluating species at risk in data‐limited fisheries: A productivity-susceptibility analysis for marine aquarium fish](https://www.indexdata.org/evaluating-species-at-risk-in-data%e2%80%90limited-fisheries-a-productivity-susceptibility-analysis-for-marine-aquarium-fish/)** — `2026-10-30` | `18 Pages`
+
+### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
+
+- `[`2026-21568`]` **[Guidance Under Section 355 Concerning Device and Active Trade or Business; Partial Withdrawal](https://www.indexdata.org/guidance-under-section-355-concerning-device-and-active-trade-or-business-partial-withdrawal/)** — `2026-10-21` | `2 Pages`
+- `[`2026-21267`]` **[Regulations Regarding Payment of Tax by Commercially Acceptable Means](https://www.indexdata.org/regulations-regarding-payment-of-tax-by-commercially-acceptable-means/)** — `2026-10-19` | `3 Pages`
+- `[`2026-21253`]` **[Non-Applicability of Section 357(c) to Consolidated Groups](https://www.indexdata.org/non-applicability-of-section-357c-to-consolidated-groups/)** — `2026-10-16` | `3 Pages`
+- `[`2026-21056`]` **[Premium Tax Credit](https://www.indexdata.org/premium-tax-credit/)** — `2026-10-15` | `17 Pages`
+- `[`2026-20447`]` **[Transparency in Coverage](https://www.indexdata.org/transparency-in-coverage/)** — `2026-10-06` | `120 Pages`
+- `[`2026-20277`]` **[Federal Scholarship Tax Credit](https://www.indexdata.org/federal-scholarship-tax-credit-2/)** — `2026-10-02` | `51 Pages`
+- `[`2026-20264`]` **[Federal Scholarship Tax Credit](https://www.indexdata.org/federal-scholarship-tax-credit/)** — `2026-10-02` | `18 Pages`
+- `[`2026-20027`]` **[Trump Accounts](https://www.indexdata.org/trump-accounts/)** — `2026-09-30` | `6 Pages`
+- `[`2026-20026`]` **[Trump Accounts](https://www.indexdata.org/trump-accounts-2/)** — `2026-09-30` | `23 Pages`
+- `[`2026-19888`]` **[Election To Pay in Installments Tax on Gain From Certain Farmland Property](https://www.indexdata.org/election-to-pay-in-installments-tax-on-gain-from-certain-farmland-property/)** — `2026-09-29` | `17 Pages`
+- `[`2026-19666`]` **[Estate Tax Closing Letter User Fee Update](https://www.indexdata.org/estate-tax-closing-letter-user-fee-update/)** — `2026-09-25` | `3 Pages`
+- `[`2026-19013`]` **[Racial Nondiscrimination in Private Schools; Hearing](https://www.indexdata.org/racial-nondiscrimination-in-private-schools-hearing/)** — `2026-09-16` | `2 Pages`
+- `[`2026-18645`]` **[Allocation and Apportionment of Deductions to Foreign Source Section 951A Category Income and Deduction Eligible Income](https://www.indexdata.org/allocation-and-apportionment-of-deductions-to-foreign-source-section-951a-category-income-and-deduction-eligible-income/)** — `2026-09-11` | `10 Pages`
+- `[`2026-18574`]` **[Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures](https://www.indexdata.org/information-reporting-regarding-qualified-opportunity-zones-and-updated-qualified-opportunity-fund-certification-and-decertification-procedures/)** — `2026-09-11` | `33 Pages`
+- `[`2026-18219`]` **[Car Loan Interest Deduction](https://www.indexdata.org/car-loan-interest-deduction/)** — `2026-09-08` | `31 Pages`
+- `[`2026-18127`]` **[Racial Nondiscrimination in Private Schools](https://www.indexdata.org/racial-nondiscrimination-in-private-schools/)** — `2026-09-04` | `9 Pages`
+- `[`2026-17622`]` **[Federal Independent Dispute Resolution Operations; Correction](https://www.indexdata.org/federal-independent-dispute-resolution-operations-correction/)** — `2026-08-28` | `12 Pages`
+- `[`2026-17365`]` **[Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss](https://www.indexdata.org/pro-rata-share-of-subpart-f-income-tested-income-or-tested-loss/)** — `2026-08-26` | `26 Pages`
 
 ### [U.S. Department of Transportation (USDOT)](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/feed/)
@@ -1540,6 +1535,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-18190`]` **[Transfer Agent Rules](https://www.indexdata.org/transfer-agent-rules/)** — `2026-09-04` | `116 Pages`
 - `[`2026-17939`]` **[Exemption of Debt Obligations Issued by the European Union Under the Securities Exchange Act of 1934 for Purposes of Trading Futures Contracts on Those Securities](https://www.indexdata.org/exemption-of-debt-obligations-issued-by-the-european-union-under-the-securities-exchange-act-of-1934-for-purposes-of-trading-futures-contracts-on-those-securities/)** — `2026-09-02` | `22 Pages`
 - `[`2026-17183`]` **[Regulation Crypto Assets](https://www.indexdata.org/regulation-crypto-assets/)** — `2026-08-21` | `146 Pages`
+
+### [State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
+
+- `[`US-HI-DLNR-40552`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-9](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-9/)** — `2026-11-01` | `10 Pages`
+- `[`US-HI-DLNR-40551`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-8](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-8/)** — `2026-11-01` | `4 Pages`
+- `[`US-HI-DLNR-40550`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-6](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-6/)** — `2026-11-01` | `11 Pages`
+- `[`US-HI-DLNR-40549`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-5](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-5/)** — `2026-11-01` | `5 Pages`
+- `[`US-HI-DLNR-40548`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-4](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-4/)** — `2026-11-01` | `12 Pages`
+- `[`US-HI-DLNR-40547`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-3](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-3/)** — `2026-11-01` | `6 Pages`
+- `[`US-HI-DLNR-40525`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — A-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-a-1/)** — `2026-11-01` | `8 Pages`
+- `[`US-HI-DLNR-40521`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — L-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-l-1/)** — `2026-11-01` | `76 Pages`
+- `[`US-HI-DLNR-40520`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-2/)** — `2026-11-01` | `25 Pages`
+- `[`US-HI-DLNR-40519`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-1/)** — `2026-11-01` | `28 Pages`
+- `[`US-HI-DLNR-40518`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-3](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-3/)** — `2026-11-01` | `41 Pages`
+- `[`US-HI-DLNR-40517`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — J-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-j-2/)** — `2026-11-01` | `6 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
@@ -1766,16 +1777,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-ser
 - `[`2026-18648`]` **[Special Areas; Roadless Area Conservation](https://www.indexdata.org/special-areas-roadless-area-conservation/)** — `2026-09-11` | `2 Pages`
 - `[`2026-17211`]` **[Travel Management; National Forest System Lands](https://www.indexdata.org/travel-management-national-forest-system-lands/)** — `2026-08-24` | `6 Pages`
 
-### [State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
-
-- `[`US-HI-DLNR-40525`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — A-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-a-1/)** — `2026-11-01` | `8 Pages`
-- `[`US-HI-DLNR-40521`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — L-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-l-1/)** — `2026-11-01` | `76 Pages`
-- `[`US-HI-DLNR-40520`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-2/)** — `2026-11-01` | `25 Pages`
-- `[`US-HI-DLNR-40519`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-1/)** — `2026-11-01` | `28 Pages`
-- `[`US-HI-DLNR-40518`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-3](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-3/)** — `2026-11-01` | `41 Pages`
-- `[`US-HI-DLNR-40517`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — J-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-j-2/)** — `2026-11-01` | `6 Pages`
-
 ### [State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)
 
@@ -1970,12 +1971,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/employment
 - `[`2026-18978`]` **[Federal-State Unemployment Compensation (UC) Program; Data Availability](https://www.indexdata.org/federal-state-unemployment-compensation-uc-program-data-availability/)** — `2026-09-16` | `18 Pages`
 - `[`2026-17726`]` **[Rescission of Coordinated Enforcement Regulations](https://www.indexdata.org/rescission-of-coordinated-enforcement-regulations/)** — `2026-08-31` | `5 Pages`
 
-### [Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-office-for-immigration-review/](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
-
-- `[`2026-21024`]` **[Imposition and Collection of Civil Penalties for Certain Immigration-Related Violations](https://www.indexdata.org/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations/)** — `2026-10-14` | `43 Pages`
-- `[`2026-17146`]` **[Inflation Adjustment for EOIR OBBBA Fees; Fiscal Year 2027](https://www.indexdata.org/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2027/)** — `2026-08-21` | `4 Pages`
-
 ### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 
@@ -2115,6 +2110,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/engineers-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/equal-employment-opportunity-commission/](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
 
 - `[`2026-17641`]` **[Federal Sector Equal Employment Opportunity](https://www.indexdata.org/federal-sector-equal-employment-opportunity/)** — `2026-08-28` | `38 Pages`
+
+### [Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-office-for-immigration-review/](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
+
+- `[`2026-21024`]` **[Imposition and Collection of Civil Penalties for Certain Immigration-Related Violations](https://www.indexdata.org/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations/)** — `2026-10-14` | `43 Pages`
 
 ### [Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-service-agency/](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)

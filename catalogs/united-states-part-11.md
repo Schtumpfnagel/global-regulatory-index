@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,171` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,177` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-09 18:57 UTC`
+**Last Automated Sync:** `2026-11-09 19:55 UTC`
 
 ---
 
@@ -119,6 +119,7 @@
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -166,7 +167,6 @@
 - **[National Archives and Records Administration](https://www.indexdata.org/united-states/national-archives-and-records-administration/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-archives-and-records-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-archives-and-records-administration/feed/)
 - **[National Indian Gaming Commission](https://www.indexdata.org/united-states/national-indian-gaming-commission/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-indian-gaming-commission/) | [RSS Feed](https://www.indexdata.org/united-states/national-indian-gaming-commission/feed/)
 - **[National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)
 - **[Indian Health Service](https://www.indexdata.org/united-states/indian-health-service/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-health-service/) | [RSS Feed](https://www.indexdata.org/united-states/indian-health-service/feed/)
 - **[National Institute of Standards and Technology](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/feed/)
@@ -245,11 +245,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,171 of 15,171)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,177 of 15,177)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-12111`]` **[Establishment of Class E Airspace; Tununak Airport, Tununak, AK](https://www.indexdata.org/establishment-of-class-e-airspace-tununak-airport-tununak-ak-2/)** — `2023-06-08` | `2 Pages`
+- `[`2023-12054`]` **[Amendment of Class E Airspace; West Palm Beach, FL](https://www.indexdata.org/amendment-of-class-e-airspace-west-palm-beach-fl-2/)** — `2023-06-08` | `2 Pages`
 - `[`2023-12097`]` **[Amendment of Canadian Area Navigation Routes Q-907 and Q-951, and Establishment of United States Area Navigation (RNAV) Route T-739; Eastern United States](https://www.indexdata.org/amendment-of-canadian-area-navigation-routes-q-907-and-q-951-and-establishment-of-united-states-area-navigation-rnav-route-t-739-eastern-united-states-2/)** — `2023-06-07` | `3 Pages`
 - `[`2023-12092`]` **[Amendment and Revocation of Very High Frequency (VHF) Omnidirectional Range (VOR) Federal Airways in the Eastern United States](https://www.indexdata.org/amendment-and-revocation-of-very-high-frequency-vhf-omnidirectional-range-vor-federal-airways-in-the-eastern-united-states/)** — `2023-06-07` | `2 Pages`
 - `[`2023-12091`]` **[Amendment of United States Area Navigation (RNAV) Route Q-445; Eastern United States](https://www.indexdata.org/amendment-of-united-states-area-navigation-rnav-route-q-445-eastern-united-states-2/)** — `2023-06-07` | `2 Pages`
@@ -296,6 +298,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2023-12171`]` **[Special Local Regulation; Horsepower on the Hudson, Hudson River, Castleton-on-Hudson, NY](https://www.indexdata.org/special-local-regulation-horsepower-on-the-hudson-hudson-river-castleton-on-hudson-ny/)** — `2023-06-07` | `3 Pages`
 - `[`2023-12169`]` **[Safety Zone; Potomac River, Between Charles County, MD and King George County, VA](https://www.indexdata.org/safety-zone-potomac-river-between-charles-county-md-and-king-george-county-va-2/)** — `2023-06-07` | `4 Pages`
 - `[`2023-12151`]` **[Safety Zone; Kanawha River, Charleston, WV](https://www.indexdata.org/safety-zone-kanawha-river-charleston-wv-2/)** — `2023-06-07` | `3 Pages`
 - `[`2023-11881`]` **[Special Local Regulation; Henderson Bay, Henderson Harbor, NY](https://www.indexdata.org/special-local-regulation-henderson-bay-henderson-harbor-ny-2/)** — `2023-06-07` | `5 Pages`
@@ -342,6 +345,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2023-10735`]` **[Updates to New Chemicals Regulations Under the Toxic Substances Control Act (TSCA)](https://www.indexdata.org/updates-to-new-chemicals-regulations-under-the-toxic-substances-control-act-tsca-2/)** — `2023-05-26` | `26 Pages`
 - `[`2023-10955`]` **[Air Plan Approval; AK; Revisions to Ice Fog and Sulfur Dioxide Regulations](https://www.indexdata.org/air-plan-approval-ak-revisions-to-ice-fog-and-sulfur-dioxide-regulations-2/)** — `2023-05-24` | `6 Pages`
 
+### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
+
+- `[`2023-11814`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the New England Wind Project Offshore Massachusetts](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-new-england-wind-project-offshore-massachusetts-2/)** — `2023-06-08` | `97 Pages`
+- `[`2023-12173`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Angling Category Southern New England Area Trophy Fishery for 2023](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category-southern-new-england-area-trophy-fishery-for-2023/)** — `2023-06-07` | `2 Pages`
+- `[`2023-12071`]` **[Pacific Halibut Fisheries of the West Coast; Catch Sharing Plan; Inseason Action](https://www.indexdata.org/pacific-halibut-fisheries-of-the-west-coast-catch-sharing-plan-inseason-action-2/)** — `2023-06-06` | `3 Pages`
+- `[`2023-11761`]` **[Taking of Marine Mammals Incidental to Commercial Fishing Operations; Amendment to the Atlantic Pelagic Longline Take Reduction Plan](https://www.indexdata.org/taking-of-marine-mammals-incidental-to-commercial-fishing-operations-amendment-to-the-atlantic-pelagic-longline-take-reduction-plan-2/)** — `2023-06-06` | `8 Pages`
+- `[`2023-11659`]` **[Control Date for the Northern Gulf of Maine Scallop Fishery; Atlantic Sea Scallop Fishery Management Plan](https://www.indexdata.org/control-date-for-the-northern-gulf-of-maine-scallop-fishery-atlantic-sea-scallop-fishery-management-plan/)** — `2023-06-01` | `2 Pages`
+- `[`2023-11494`]` **[Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Framework Adjustment 65](https://www.indexdata.org/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern-united-states-northeast-multispecies-fishery-framework-adjustment-65-2/)** — `2023-05-31` | `12 Pages`
+- `[`2023-11466`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2023 Harvest Specifications for Pacific Whiting, and 2023 Pacific Whiting Tribal Allocation](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2023-harvest-specifications-for-pacific-whiting-and-2023-pacific-whiting-tribal-allocation/)** — `2023-05-31` | `9 Pages`
+- `[`2023-11383`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; General Category Retention Limit Adjustment](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-general-category-retention-limit-adjustment-2/)** — `2023-05-30` | `3 Pages`
+- `[`2023-11366`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic Region; Amendment 51](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-snapper-grouper-fishery-of-the-south-atlantic-region-amendment-51-2/)** — `2023-05-30` | `6 Pages`
+- `[`2023-11218`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Snapper-Grouper Resources of the South Atlantic; 2023 Red Snapper Commercial and Recreational Fishing Seasons](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-snapper-grouper-resources-of-the-south-atlantic-2023-red-snapper-commercial-and-recreational-fishing-seasons/)** — `2023-05-25` | `2 Pages`
+- `[`2023-11079`]` **[Atlantic Highly Migratory Species (HMS); Atlantic Tunas General Category Restricted-Fishing Days (RFDs)](https://www.indexdata.org/atlantic-highly-migratory-species-hms-atlantic-tunas-general-category-restricted-fishing-days-rfds/)** — `2023-05-25` | `7 Pages`
+
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 
@@ -355,19 +373,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2023-10849`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Pool Heaters](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-pool-heaters/)** — `2023-05-30` | `82 Pages`
 - `[`2023-10287`]` **[Energy Conservation Program: Energy Conservation Standards for Room Air Conditioners](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-room-air-conditioners/)** — `2023-05-26` | `67 Pages`
 - `[`2023-10847`]` **[Energy Conservation Program: Test Procedures for Faucets and Showerheads](https://www.indexdata.org/energy-conservation-program-test-procedures-for-faucets-and-showerheads/)** — `2023-05-24` | `13 Pages`
-
-### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
-
-- `[`2023-12071`]` **[Pacific Halibut Fisheries of the West Coast; Catch Sharing Plan; Inseason Action](https://www.indexdata.org/pacific-halibut-fisheries-of-the-west-coast-catch-sharing-plan-inseason-action-2/)** — `2023-06-06` | `3 Pages`
-- `[`2023-11761`]` **[Taking of Marine Mammals Incidental to Commercial Fishing Operations; Amendment to the Atlantic Pelagic Longline Take Reduction Plan](https://www.indexdata.org/taking-of-marine-mammals-incidental-to-commercial-fishing-operations-amendment-to-the-atlantic-pelagic-longline-take-reduction-plan-2/)** — `2023-06-06` | `8 Pages`
-- `[`2023-11659`]` **[Control Date for the Northern Gulf of Maine Scallop Fishery; Atlantic Sea Scallop Fishery Management Plan](https://www.indexdata.org/control-date-for-the-northern-gulf-of-maine-scallop-fishery-atlantic-sea-scallop-fishery-management-plan/)** — `2023-06-01` | `2 Pages`
-- `[`2023-11494`]` **[Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Framework Adjustment 65](https://www.indexdata.org/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern-united-states-northeast-multispecies-fishery-framework-adjustment-65-2/)** — `2023-05-31` | `12 Pages`
-- `[`2023-11466`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2023 Harvest Specifications for Pacific Whiting, and 2023 Pacific Whiting Tribal Allocation](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2023-harvest-specifications-for-pacific-whiting-and-2023-pacific-whiting-tribal-allocation/)** — `2023-05-31` | `9 Pages`
-- `[`2023-11383`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; General Category Retention Limit Adjustment](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-general-category-retention-limit-adjustment-2/)** — `2023-05-30` | `3 Pages`
-- `[`2023-11366`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic Region; Amendment 51](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-snapper-grouper-fishery-of-the-south-atlantic-region-amendment-51-2/)** — `2023-05-30` | `6 Pages`
-- `[`2023-11218`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Snapper-Grouper Resources of the South Atlantic; 2023 Red Snapper Commercial and Recreational Fishing Seasons](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-snapper-grouper-resources-of-the-south-atlantic-2023-red-snapper-commercial-and-recreational-fishing-seasons/)** — `2023-05-25` | `2 Pages`
-- `[`2023-11079`]` **[Atlantic Highly Migratory Species (HMS); Atlantic Tunas General Category Restricted-Fishing Days (RFDs)](https://www.indexdata.org/atlantic-highly-migratory-species-hms-atlantic-tunas-general-category-restricted-fishing-days-rfds/)** — `2023-05-25` | `7 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -516,6 +521,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/delaware-river-basin-commission/](https://www.indexdata.org/united-states/delaware-river-basin-commission/) | [RSS Feed](https://www.indexdata.org/united-states/delaware-river-basin-commission/feed/)
 
 - `[`2023-11205`]` **[Regulatory Program Fees and Water Charges Rates](https://www.indexdata.org/regulatory-program-fees-and-water-charges-rates-4/)** — `2023-05-31` | `2 Pages`
+
+### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
+
+- `[`2023-12184`]` **[Incentives for Advanced Cybersecurity Investment](https://www.indexdata.org/incentives-for-advanced-cybersecurity-investment/)** — `2023-06-07` | `2 Pages`
 
 ### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
