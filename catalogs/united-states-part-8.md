@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,164` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,165` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 15:07 UTC`
+**Last Automated Sync:** `2026-11-09 15:22 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`275` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`276` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,164)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,165)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1070,7 +1070,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2024-02577`]` **[2018 Quadrennial Regulatory Review-Review of the Commission's Broadcast Ownership Rules](https://www.indexdata.org/2018-quadrennial-regulatory-review-review-of-the-commissions-broadcast-ownership-rules/)** — `2024-02-15` | `34 Pages`
 - `[`2024-02971`]` **[Wireline Competition Bureau Seeks Comment on Leveraging the Broadband Serviceable Location Fabric for High-Cost Support Mechanism Deployment Obligations](https://www.indexdata.org/wireline-competition-bureau-seeks-comment-on-leveraging-the-broadband-serviceable-location-fabric-for-high-cost-support-mechanism-deployment-obligations/)** — `2024-02-14` | `8 Pages`
 - `[`2024-01667`]` **[Data Breach Reporting Requirements](https://www.indexdata.org/data-breach-reporting-requirements/)** — `2024-02-12` | `37 Pages`
-- `[`2024-00466`]` **[Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2023](https://www.indexdata.org/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2023/)** — `2024-02-09` | `43 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -1868,6 +1867,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2024-04594`]` **[National Security Division; Provisions Regarding Access to Americans' Bulk Sensitive Personal Data and Government-Related Data by Countries of Concern](https://www.indexdata.org/national-security-division-provisions-regarding-access-to-americans-bulk-sensitive-personal-data-and-government-related-data-by-countries-of-concern/)** — `2024-03-05` | `23 Pages`
 - `[`2024-02829`]` **[Civil Monetary Penalties Inflation Adjustments for 2024](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustments-for-2024/)** — `2024-02-12` | `6 Pages`
 
+### [National Park Service](https://www.indexdata.org/united-states/national-park-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-park-service/](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
+
+- `[`2024-12605`]` **[Rights of Way](https://www.indexdata.org/rights-of-way-2/)** — `2024-06-10` | `16 Pages`
+- `[`2024-12204`]` **[Cape Hatteras National Seashore; Bicycling](https://www.indexdata.org/cape-hatteras-national-seashore-bicycling/)** — `2024-06-04` | `4 Pages`
+- `[`2024-08998`]` **[Chattahoochee River National Recreation Area; Bicycling](https://www.indexdata.org/chattahoochee-river-national-recreation-area-bicycling-2/)** — `2024-05-22` | `5 Pages`
+- `[`2024-10836`]` **[National Capital Region; Event at President's Park](https://www.indexdata.org/national-capital-region-event-at-presidents-park/)** — `2024-05-17` | `4 Pages`
+
 ### [Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-office-for-immigration-review/](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
 
@@ -1937,13 +1944,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/legal-serv
 - `[`2024-07762`]` **[Governing Bodies](https://www.indexdata.org/governing-bodies-2/)** — `2024-04-12` | `2 Pages`
 - `[`2024-07761`]` **[Restriction on Solicitation](https://www.indexdata.org/restriction-on-solicitation/)** — `2024-04-12` | `4 Pages`
 - `[`2024-03867`]` **[Client Grievance Procedures and Prohibition Against Discrimination on the Basis of Disability: Request for Information](https://www.indexdata.org/client-grievance-procedures-and-prohibition-against-discrimination-on-the-basis-of-disability-request-for-information/)** — `2024-02-29` | `2 Pages`
-
-### [National Park Service](https://www.indexdata.org/united-states/national-park-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-park-service/](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
-
-- `[`2024-12204`]` **[Cape Hatteras National Seashore; Bicycling](https://www.indexdata.org/cape-hatteras-national-seashore-bicycling/)** — `2024-06-04` | `4 Pages`
-- `[`2024-08998`]` **[Chattahoochee River National Recreation Area; Bicycling](https://www.indexdata.org/chattahoochee-river-national-recreation-area-bicycling-2/)** — `2024-05-22` | `5 Pages`
-- `[`2024-10836`]` **[National Capital Region; Event at President's Park](https://www.indexdata.org/national-capital-region-event-at-presidents-park/)** — `2024-05-17` | `4 Pages`
 
 ### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)

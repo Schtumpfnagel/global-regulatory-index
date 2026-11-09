@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,358` across `26` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,361` across `26` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-09 15:07 UTC`
+**Last Automated Sync:** `2026-11-09 15:22 UTC`
 
 ---
 
@@ -31,7 +31,7 @@
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
 - **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
-- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
+- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
@@ -42,7 +42,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,358)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,361)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -970,7 +970,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-65-410`]` **[Transitional Assistance Benefit Regulations](https://www.indexdata.org/transitional-assistance-benefit-regulations/)** — `2026-09-30` | `15 Pages`
 - `[`SOR-64-444`]` **[Canadian Forces Compulsory Early Superannuation Regulations](https://www.indexdata.org/canadian-forces-compulsory-early-superannuation-regulations/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-62-1`]` **[Ontario Onion Growers’ Marketing Order](https://www.indexdata.org/ontario-onion-growers-marketing-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-61-378`]` **[Agassiz Correctional Camp, Petawawa Correctional Camp and Gatineau Correctional Camp Lands Proclaimed Penitentiaries](https://www.indexdata.org/agassiz-correctional-camp-petawawa-correctional-camp-and-gatineau-correctional-camp-lands-proclaimed-penitentiaries/)** — `2026-09-30` | `8 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1341,8 +1340,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-fin
 - `[`SOR-73-71`]` **[Yukon Territory Pension Regulations](https://www.indexdata.org/yukon-territory-pension-regulations/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-67-56`]` **[Sydney Pilots’ Pension Regulations](https://www.indexdata.org/sydney-pilots-pension-regulations/)** — `2026-09-30` | `7 Pages`
 - `[`SOR-65-262`]` **[Pensionable Service Order](https://www.indexdata.org/pensionable-service-order/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-61-507`]` **[Canadian Arsenals Pension Regulations](https://www.indexdata.org/canadian-arsenals-pension-regulations/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-61-472`]` **[C.O.T.C. Pension Regulations](https://www.indexdata.org/c-o-t-c-pension-regulations/)** — `2026-09-30` | `10 Pages`
 
 ### [Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/natural-resources-canada/](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
@@ -1540,6 +1537,9 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/environment-and-c
 ### [International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/international-development-research-centre/](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 
+- `[`CA-IDRC-10625-69530`]` **[Caregivers Mental Health Belongs in Kenya's Disaster and Climate Response](https://www.indexdata.org/caregivers-mental-health-belongs-in-kenyas-disaster-and-climate-response-2/)** — `2026-11-01` | `7 Pages`
+- `[`CA-IDRC-10625-69529`]` **[Kenya's Climate and Gender Plans Are Silent on Violence After Floods](https://www.indexdata.org/kenyas-climate-and-gender-plans-are-silent-on-violence-after-floods/)** — `2026-11-01` | `7 Pages`
+- `[`CA-IDRC-10625-69528`]` **[Caregivers Mental Health Belongs in Kenya's Disaster and Climate Response](https://www.indexdata.org/caregivers-mental-health-belongs-in-kenyas-disaster-and-climate-response/)** — `2026-11-01` | `7 Pages`
 - `[`CA-IDRC-10625-69527`]` **[Final Technical Report](https://www.indexdata.org/final-technical-report/)** — `2026-11-01` | `58 Pages`
 - `[`CA-IDRC-10625-69526`]` **[Final Technical Report](https://www.indexdata.org/final-technical-report-2/)** — `2026-11-01` | `58 Pages`
 - `[`CA-IDRC-10625-69525`]` **[Zimbabwe le coût humain du boom du lithium](https://www.indexdata.org/zimbabwe-le-cout-humain-du-boom-du-lithium/)** — `2026-11-01` | `2 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,415` across `58` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,420` across `58` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-09 15:07 UTC`
+**Last Automated Sync:** `2026-11-09 15:22 UTC`
 
 ---
 
@@ -23,10 +23,10 @@
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`123` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`92` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`85` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`86` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
@@ -39,6 +39,7 @@
 - **[Department for Business, Innovation, Science and Trade](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/feed/)
 - **[Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
 - **[Maritime and Coastguard Agency](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/feed/)
+- **[Medicines and Healthcare products Regulatory Agency](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/feed/)
 - **[UK Parliament — Central Arbitration Committee](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/feed/)
 - **[Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
 - **[Office of the Schools Adjudicator](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/feed/)
@@ -48,7 +49,6 @@
 - **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Foreign, Commonwealth & Development Office](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/feed/)
 - **[Intellectual Property Office](https://www.indexdata.org/united-kingdom/intellectual-property-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/intellectual-property-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/intellectual-property-office/feed/)
-- **[Medicines and Healthcare products Regulatory Agency](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/feed/)
 - **[Office of Communications (OFCOM)](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/feed/)
 - **[Secretary of State](https://www.indexdata.org/united-kingdom/secretary-of-state/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/secretary-of-state/) | [RSS Feed](https://www.indexdata.org/united-kingdom/secretary-of-state/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
@@ -74,7 +74,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,415)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,420)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -363,11 +363,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2025-656`]` **[The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025](https://www.indexdata.org/the-investigatory-powers-codes-of-practice-review-of-notices-and-technical-advisory-board-regulations-2025/)** — `2025-06-05` | `8 Pages`
 - `[`UKSI-2025-655`]` **[The Coroners and Justice Act 2009 (Alteration of Coroner Areas) Order 2025](https://www.indexdata.org/the-coroners-and-justice-act-2009-alteration-of-coroner-areas-order-2025/)** — `2025-06-05` | `2 Pages`
 - `[`UKSI-2025-795`]` **[The M5 Junction 10 Development Consent Order 2025](https://www.indexdata.org/the-m5-junction-10-development-consent-order-2025/)** — `2025-06-04` | `208 Pages`
-- `[`UKSI-2025-672`]` **[The Antarctic (Amendment) Regulations 2025](https://www.indexdata.org/the-antarctic-amendment-regulations-2025/)** — `2025-06-03` | `16 Pages`
-- `[`UKSI-2025-647`]` **[The West Burton Solar Project (Correction) Order 2025](https://www.indexdata.org/the-west-burton-solar-project-correction-order-2025/)** — `2025-06-03` | `8 Pages`
-- `[`UKSI-2025-645`]` **[The Access to the Countryside (Coastal Margin) (St Mawes to Cremyll) Order 2025](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-st-mawes-to-cremyll-order-2025/)** — `2025-06-03` | `2 Pages`
-- `[`UKSI-2025-644`]` **[The Access to the Countryside (Coastal Margin) (Penzance to St Mawes) Order 2025](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-penzance-to-st-mawes-order-2025/)** — `2025-06-03` | `2 Pages`
-- `[`UKSI-2025-643`]` **[The Access to the Countryside (Coastal Margin) (Newquay to Penzance) (No. 2) Order 2025](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-newquay-to-penzance-no-2-order-2025/)** — `2025-06-03` | `2 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -823,6 +818,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 
+- `[`UK-GOV-e6f254d1-729b-4c27-aebc-1e31d1288f2a-1`]` **[2 Scarlet Oak Close, Telford, TF1 3FN: BIR/00GF/MNR/2025/0847 — TF1 3FN_BIR/00GF/MNR/2025/0847_Decision](https://www.indexdata.org/2-scarlet-oak-close-telford-tf1-3fn-bir-00gf-mnr-2025-0847-tf1-3fn_bir-00gf-mnr-2025-0847_decision/)** — `2026-11-09` | `5 Pages`
 - `[`UK-GOV-d8fd2b5a-3b5d-40a1-81e5-a7f44ff97969-1`]` **[Mr H Afshar and Others v Addison Lee Ltd: 3306435/2020 and Others — Mr H Afshar and Others v Addison Lee Ltd: 3306435/2020 and Others - Reconsideration](https://www.indexdata.org/mr-h-afshar-and-others-v-addison-lee-ltd-3306435-2020-and-others-mr-h-afshar-and-others-v-addison-lee-ltd-3306435-2020-and-others-reconsideration/)** — `2026-11-09` | `2 Pages`
 - `[`UK-GOV-3578f2e8-dfc0-46e9-bdaa-3eaa28c49e66-1`]` **[DAVID HILL and DAVID MCCRACKEN v THE COMMISSIONERS FOR HIS MAJESTY’S REVENUE AND CUSTOMS &#91;2026&#93; UKUT 00438 (TCC)](https://www.indexdata.org/david-hill-and-david-mccracken-v-the-commissioners-for-his-majestys-revenue-and-customs-2026-ukut-00438-tcc/)** — `2026-11-09` | `4 Pages`
 - `[`UK-GOV-fe48445c-3fc1-47d4-a1a4-89f26cef9805-2`]` **[Flat 5 Warburg Court, 2 Mornington Close, London NW9 5JD: LON/00AC/MNR/2025/0975](https://www.indexdata.org/flat-5-warburg-court-2-mornington-close-london-nw9-5jd-lon-00ac-mnr-2025-0975/)** — `2026-11-07` | `5 Pages`
@@ -1217,6 +1213,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 
+- `[`UK-JUD-132946`]` **[Courts and Tribunals Judiciary: R v Russell Brand Sentencing Remarks 9.11.26](https://www.indexdata.org/courts-and-tribunals-judiciary-r-v-russell-brand-sentencing-remarks-9-11-26-2/)** — `2026-11-09` | `8 Pages`
 - `[`UK-JUD-132944`]` **[Courts and Tribunals Judiciary: R v Russell Brand Sentencing Remarks 9.11.26](https://www.indexdata.org/courts-and-tribunals-judiciary-r-v-russell-brand-sentencing-remarks-9-11-26/)** — `2026-11-09` | `8 Pages`
 - `[`UK-JUD-132936`]` **[Courts and Tribunals Judiciary: 2026-0418 – Response from NHS Englandv2](https://www.indexdata.org/courts-and-tribunals-judiciary-2026-0418-response-from-nhs-englandv2/)** — `2026-11-09` | `4 Pages`
 - `[`UK-JUD-132933`]` **[Courts and Tribunals Judiciary: Sentencing remarks – R v. Kyle – 09.11.2026](https://www.indexdata.org/courts-and-tribunals-judiciary-sentencing-remarks-r-v-kyle-09-11-2026/)** — `2026-11-09` | `7 Pages`
@@ -1622,6 +1619,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/maritime-
 - `[`UK-GOV-4f3dce26-6a19-4b6c-98af-9c64666c2455-1`]` **[MSN 1862 (M) - Amendment 1 - UK Requirements for Deck Ratings](https://www.indexdata.org/msn-1862-m-amendment-1-uk-requirements-for-deck-ratings/)** — `2026-11-01` | `26 Pages`
 - `[`UK-GOV-25bea314-33fa-4bba-adcf-173f2134a05a-1`]` **[MSN 1863 (M+F) - Amendment 1 - UK Requirements for Engine Room Ratings](https://www.indexdata.org/msn-1863-mf-amendment-1-uk-requirements-for-engine-room-ratings/)** — `2026-11-01` | `17 Pages`
 
+### [Medicines and Healthcare products Regulatory Agency](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/feed/)
+
+- `[`UK-GOV-dc97ad55-3c92-4865-b45f-608c6e41144f-9`]` **[Human medicines: register of electronic export certificates — Register of electronic export certificates issued by MHRA (Human) - January 2026](https://www.indexdata.org/human-medicines-register-of-electronic-export-certificates-register-of-electronic-export-certificates-issued-by-mhra-human-january-2026/)** — `2026-11-09` | `10 Pages`
+- `[`UK-GOV-dc97ad55-3c92-4865-b45f-608c6e41144f-8`]` **[Human medicines: register of electronic export certificates — Register of electronic export certificates issued by MHRA (Human) - March 2026](https://www.indexdata.org/human-medicines-register-of-electronic-export-certificates-register-of-electronic-export-certificates-issued-by-mhra-human-march-2026/)** — `2026-11-09` | `12 Pages`
+- `[`UK-GOV-dc97ad55-3c92-4865-b45f-608c6e41144f-7`]` **[Human medicines: register of electronic export certificates — Register of electronic export certificates issued by MHRA (Human) - April 2026](https://www.indexdata.org/human-medicines-register-of-electronic-export-certificates-register-of-electronic-export-certificates-issued-by-mhra-human-april-2026/)** — `2026-11-09` | `11 Pages`
+- `[`UK-GOV-c12c0d86-9e33-4d6e-9eda-b7ba91b7a787-2`]` **[International Recognition Procedure — Validation checklist form](https://www.indexdata.org/international-recognition-procedure-validation-checklist-form/)** — `2026-11-06` | `2 Pages`
+- `[`UK-GOV-c12c0d86-9e33-4d6e-9eda-b7ba91b7a787-1`]` **[International Recognition Procedure — IRP initial validation checklist](https://www.indexdata.org/international-recognition-procedure-irp-initial-validation-checklist/)** — `2026-11-06` | `2 Pages`
+
 ### [UK Parliament — Central Arbitration Committee](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/feed/)
 
@@ -1687,12 +1693,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/intellect
 
 - `[`UK-GOV-5f503267-7631-11e4-a3cb-005056011aef-1`]` **[Renewal of design registration — Renewal of design registration (Designs Form DF9A)](https://www.indexdata.org/renewal-of-design-registration-renewal-of-design-registration-designs-form-df9a/)** — `2026-11-05` | `4 Pages`
 - `[`UK-GOV-5f4f1e44-7631-11e4-a3cb-005056011aef-1`]` **[Renewal of trade mark registration — Renewal of trade mark registration (Form TM11)](https://www.indexdata.org/renewal-of-trade-mark-registration-renewal-of-trade-mark-registration-form-tm11/)** — `2026-11-05` | `4 Pages`
-
-### [Medicines and Healthcare products Regulatory Agency](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/feed/)
-
-- `[`UK-GOV-c12c0d86-9e33-4d6e-9eda-b7ba91b7a787-2`]` **[International Recognition Procedure — Validation checklist form](https://www.indexdata.org/international-recognition-procedure-validation-checklist-form/)** — `2026-11-06` | `2 Pages`
-- `[`UK-GOV-c12c0d86-9e33-4d6e-9eda-b7ba91b7a787-1`]` **[International Recognition Procedure — IRP initial validation checklist](https://www.indexdata.org/international-recognition-procedure-irp-initial-validation-checklist/)** — `2026-11-06` | `2 Pages`
 
 ### [Office of Communications (OFCOM)](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/feed/)

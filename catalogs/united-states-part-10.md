@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,164` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,165` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 15:07 UTC`
+**Last Automated Sync:** `2026-11-09 15:22 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`275` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`276` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,164)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,165)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -647,7 +647,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-12054`]` **[Amendment of Class E Airspace; West Palm Beach, FL](https://www.indexdata.org/amendment-of-class-e-airspace-west-palm-beach-fl-2/)** — `2023-06-08` | `2 Pages`
 - `[`2023-12097`]` **[Amendment of Canadian Area Navigation Routes Q-907 and Q-951, and Establishment of United States Area Navigation (RNAV) Route T-739; Eastern United States](https://www.indexdata.org/amendment-of-canadian-area-navigation-routes-q-907-and-q-951-and-establishment-of-united-states-area-navigation-rnav-route-t-739-eastern-united-states-2/)** — `2023-06-07` | `3 Pages`
 - `[`2023-12092`]` **[Amendment and Revocation of Very High Frequency (VHF) Omnidirectional Range (VOR) Federal Airways in the Eastern United States](https://www.indexdata.org/amendment-and-revocation-of-very-high-frequency-vhf-omnidirectional-range-vor-federal-airways-in-the-eastern-united-states/)** — `2023-06-07` | `2 Pages`
-- `[`2023-12091`]` **[Amendment of United States Area Navigation (RNAV) Route Q-445; Eastern United States](https://www.indexdata.org/amendment-of-united-states-area-navigation-rnav-route-q-445-eastern-united-states-2/)** — `2023-06-07` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1784,6 +1783,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-hous
 - `[`2023-15202`]` **[Loan Guarantees Under the Section 538 Guaranteed Rural Rental Housing Program](https://www.indexdata.org/loan-guarantees-under-the-section-538-guaranteed-rural-rental-housing-program-2/)** — `2023-07-19` | `2 Pages`
 - `[`2023-15174`]` **[Single Family Housing Section 504 Home Repair Loans and Grants in Presidentially Declared Disaster Areas Pilot Program](https://www.indexdata.org/single-family-housing-section-504-home-repair-loans-and-grants-in-presidentially-declared-disaster-areas-pilot-program-2/)** — `2023-07-18` | `2 Pages`
 
+### [Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/social-security-administration/](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)
+
+- `[`2023-21671`]` **[Extension of the Flexibility in Evaluating “Close Proximity of Time” To Evaluate Changes in Healthcare Following the COVID-19 Public Health Emergency](https://www.indexdata.org/extension-of-the-flexibility-in-evaluating-close-proximity-of-time-to-evaluate-changes-in-healthcare-following-the-covid-19-public-health-emergency/)** — `2023-09-29` | `9 Pages`
+- `[`2023-21557`]` **[Intermediate Improvement to the Disability Adjudication Process: Including How We Consider Past Work](https://www.indexdata.org/intermediate-improvement-to-the-disability-adjudication-process-including-how-we-consider-past-work-2/)** — `2023-09-29` | `14 Pages`
+- `[`2023-21550`]` **[Expand the Definition of a Public Assistance Household](https://www.indexdata.org/expand-the-definition-of-a-public-assistance-household-2/)** — `2023-09-29` | `10 Pages`
+- `[`2023-18213`]` **[Expansion of the Rental Subsidy Policy for Supplemental Security Income (SSI) Applicants and Recipients](https://www.indexdata.org/expansion-of-the-rental-subsidy-policy-for-supplemental-security-income-ssi-applicants-and-recipients-2/)** — `2023-08-24` | `6 Pages`
+- `[`2023-16405`]` **[Changes to the Administrative Rules for Claimant Representation and Provisions for Direct Payment to Entities](https://www.indexdata.org/changes-to-the-administrative-rules-for-claimant-representation-and-provisions-for-direct-payment-to-entities-2/)** — `2023-08-04` | `10 Pages`
+
 ### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 
@@ -1831,14 +1839,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and
 - `[`2023-16396`]` **[International Trademark Classification Changes](https://www.indexdata.org/international-trademark-classification-changes-3/)** — `2023-08-02` | `4 Pages`
 - `[`2023-14606`]` **[Changes to the Representation of Others Before the United States Patent and Trademark Office](https://www.indexdata.org/changes-to-the-representation-of-others-before-the-united-states-patent-and-trademark-office/)** — `2023-07-14` | `11 Pages`
 - `[`2023-12712`]` **[Standardization of the Patent Term Adjustment Statement Regarding Information Disclosure Statements](https://www.indexdata.org/standardization-of-the-patent-term-adjustment-statement-regarding-information-disclosure-statements/)** — `2023-06-15` | `6 Pages`
-
-### [Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/social-security-administration/](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)
-
-- `[`2023-21557`]` **[Intermediate Improvement to the Disability Adjudication Process: Including How We Consider Past Work](https://www.indexdata.org/intermediate-improvement-to-the-disability-adjudication-process-including-how-we-consider-past-work-2/)** — `2023-09-29` | `14 Pages`
-- `[`2023-21550`]` **[Expand the Definition of a Public Assistance Household](https://www.indexdata.org/expand-the-definition-of-a-public-assistance-household-2/)** — `2023-09-29` | `10 Pages`
-- `[`2023-18213`]` **[Expansion of the Rental Subsidy Policy for Supplemental Security Income (SSI) Applicants and Recipients](https://www.indexdata.org/expansion-of-the-rental-subsidy-policy-for-supplemental-security-income-ssi-applicants-and-recipients-2/)** — `2023-08-24` | `6 Pages`
-- `[`2023-16405`]` **[Changes to the Administrative Rules for Claimant Representation and Provisions for Direct Payment to Entities](https://www.indexdata.org/changes-to-the-administrative-rules-for-claimant-representation-and-provisions-for-direct-payment-to-entities-2/)** — `2023-08-04` | `10 Pages`
 
 ### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)

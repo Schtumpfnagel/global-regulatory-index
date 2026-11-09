@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,164` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,165` across `229` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-09 15:07 UTC`
+**Last Automated Sync:** `2026-11-09 15:22 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`275` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`276` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,164)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,165)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -313,6 +313,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CRPT-119hrpt854`]` **[H. Rept. 119-854](https://www.indexdata.org/h-rept-119-854/)** — `2026-11-02` | `19 Pages`
 - `[`US-CRPT-119hrpt853`]` **[H. Rept. 119-853](https://www.indexdata.org/h-rept-119-853/)** — `2026-11-02` | `11 Pages`
 - `[`US-CHRG-119hhrg65540`]` **[Serial No. 119-44 - BUILDING AN AI-READY AMERICA: ADOPTING AI AT WORK](https://www.indexdata.org/serial-no-119-44-building-an-ai-ready-america-adopting-ai-at-work/)** — `2026-11-02` | `98 Pages`
+- `[`US-CHRG-119hhrg64505`]` **[Serial No. 119-47 - TSA MODERNIZATION: INDUSTRY PERSPECTIVES ON KEY SECURITY AND TRAVEL REFORMS 25 YEARS AFTER 9/11](https://www.indexdata.org/serial-no-119-47-tsa-modernization-industry-perspectives-on-key-security-and-travel-reforms-25-years-after-9-11/)** — `2026-11-01` | `68 Pages`
 - `[`US-BILLS-119hr10954ih`]` **[H.R. 10954 (IH) - Don’t Flush Babies Act](https://www.indexdata.org/h-r-10954-ih-dont-flush-babies-act/)** — `2026-11-01` | `9 Pages`
 - `[`US-CRPT-119hrpt856`]` **[H. Rept. 119-856](https://www.indexdata.org/h-rept-119-856/)** — `2026-10-31` | `4 Pages`
 - `[`US-BILLS-119hr10933ih`]` **[H.R. 10933 (IH) - EMS Supporting Personnel, Operations, Upgrades, Resources, and Training Act of 2026](https://www.indexdata.org/h-r-10933-ih-ems-supporting-personnel-operations-upgrades-resources-and-training-act-of-2026/)** — `2026-10-31` | `12 Pages`
@@ -696,84 +697,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-17298`]` **[Special Conditions: Pratt and Whitney Canada, PW220A; New Engine Rating: Idle-Cruise Regime](https://www.indexdata.org/special-conditions-pratt-and-whitney-canada-pw220a-new-engine-rating-idle-cruise-regime/)** — `2026-08-25` | `3 Pages`
 - `[`2026-17209`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-16/)** — `2026-08-24` | `4 Pages`
 
-### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
-
-- `[`2026-22734`]` **[Drawbridge Operation Regulation; Harlem River, Between the Boroughs of Manhattan and the Bronx, New York City, New York](https://www.indexdata.org/drawbridge-operation-regulation-harlem-river-between-the-boroughs-of-manhattan-and-the-bronx-new-york-city-new-york/)** — `2026-11-06` | `3 Pages`
-- `[`2026-22677`]` **[Drawbridge Operation Regulation; Wishkah River, Aberdeen, WA](https://www.indexdata.org/drawbridge-operation-regulation-wishkah-river-aberdeen-wa-3/)** — `2026-11-06` | `3 Pages`
-- `[`2026-22269`]` **[Safety Zone; M/T KALAHARI, Gulf of America, Pascagoula, MS](https://www.indexdata.org/safety-zone-m-t-kalahari-gulf-of-america-pascagoula-ms/)** — `2026-10-30` | `3 Pages`
-- `[`2026-22249`]` **[Safety Zone; S.S. UNITED STATES Dead Ship Tow, Sector Mobile Captain of the Port Zone, Mobile, AL](https://www.indexdata.org/safety-zone-s-s-united-states-dead-ship-tow-sector-mobile-captain-of-the-port-zone-mobile-al/)** — `2026-10-30` | `2 Pages`
-- `[`2026-22078`]` **[Safety Zone; Firework Display; Cumberland River, Hendersonville, TN](https://www.indexdata.org/safety-zone-firework-display-cumberland-river-hendersonville-tn/)** — `2026-10-29` | `3 Pages`
-- `[`2026-21949`]` **[Special Local Regulation; Port Miami Main Shipping Channel, Miami FL](https://www.indexdata.org/special-local-regulation-port-miami-main-shipping-channel-miami-fl/)** — `2026-10-28` | `3 Pages`
-- `[`2026-21918`]` **[Safety Zone; Southern California Annual Firework Events for the Los Angeles-Long Beach Captain of the Port Zone](https://www.indexdata.org/safety-zone-southern-california-annual-firework-events-for-the-los-angeles-long-beach-captain-of-the-port-zone/)** — `2026-10-27` | `5 Pages`
-- `[`2026-21636`]` **[Safety Zone; Brownsville Ship Channel, Brownsville, TX](https://www.indexdata.org/safety-zone-brownsville-ship-channel-brownsville-tx/)** — `2026-10-22` | `2 Pages`
-- `[`2026-21608`]` **[Drawbridge Operation Regulation; Manitowoc River, Manitowoc, WI](https://www.indexdata.org/drawbridge-operation-regulation-manitowoc-river-manitowoc-wi-2/)** — `2026-10-22` | `2 Pages`
-- `[`2026-21593`]` **[RIN 1625-AA00](https://www.indexdata.org/rin-1625-aa00/)** — `2026-10-22` | `3 Pages`
-- `[`2026-21498`]` **[Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI](https://www.indexdata.org/safety-zone-t-v-denise-foss-o-n-1254223-honolulu-hi-3/)** — `2026-10-21` | `2 Pages`
-- `[`2026-21478`]` **[Security Zones; Protection of Military Cargo, Captain of the Port Zone Puget Sound, WA](https://www.indexdata.org/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa/)** — `2026-10-21` | `2 Pages`
-- `[`2026-21305`]` **[Safety Zone; FRL Inaugural Invitational eFoil Exhibition Race, Miami Marine Stadium Basin, Miami, FL](https://www.indexdata.org/safety-zone-frl-inaugural-invitational-efoil-exhibition-race-miami-marine-stadium-basin-miami-fl/)** — `2026-10-19` | `2 Pages`
-- `[`2026-21302`]` **[Special Local Regulation; Ponce Harbor, Ponce, PR](https://www.indexdata.org/special-local-regulation-ponce-harbor-ponce-pr/)** — `2026-10-19` | `2 Pages`
-- `[`2026-21240`]` **[Safety Zone; Cumberland River, Hendersonville, TN](https://www.indexdata.org/safety-zone-cumberland-river-hendersonville-tn/)** — `2026-10-16` | `2 Pages`
-- `[`2026-21162`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az/)** — `2026-10-16` | `2 Pages`
-- `[`2026-21161`]` **[Safety Zone; Atlantic Ocean, Culebra, Puerto Rico](https://www.indexdata.org/safety-zone-atlantic-ocean-culebra-puerto-rico/)** — `2026-10-16` | `2 Pages`
-- `[`2026-21157`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az-2/)** — `2026-10-16` | `3 Pages`
-- `[`2026-21053`]` **[Safety Zone; Lake Michigan, Chicago, IL](https://www.indexdata.org/safety-zone-lake-michigan-chicago-il/)** — `2026-10-15` | `2 Pages`
-- `[`2026-20902`]` **[Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL](https://www.indexdata.org/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary-and-ship-canal-chicago-river-and-calumet-saganashkee-channel-chicago-il/)** — `2026-10-13` | `2 Pages`
-- `[`2026-20632`]` **[Special Local Regulations; San Francisco Bay Navy Fleet Week Parade of Ships and Blue Angels Demonstration, San Francisco, CA](https://www.indexdata.org/special-local-regulations-san-francisco-bay-navy-fleet-week-parade-of-ships-and-blue-angels-demonstration-san-francisco-ca/)** — `2026-10-08` | `2 Pages`
-- `[`2026-20545`]` **[Drawbridge Operation Regulation; Bay St. Louis, Bay St. Louis, MS; Back Bay of Biloxi, Biloxi, MS; Pascagoula River, Pascagoula, MS; Three Mile Creek, Mobile, AL; Chickasaw Creek, Saraland, AL.](https://www.indexdata.org/drawbridge-operation-regulation-bay-st-louis-bay-st-louis-ms-back-bay-of-biloxi-biloxi-ms-pascagoula-river-pascagoula-ms-three-mile-creek-mobile-al-chickasaw-creek-saraland-al/)** — `2026-10-07` | `5 Pages`
-- `[`2026-20522`]` **[Safety Zone; Luminsea Miami Shootout and Races, Miami Marine Stadium Harbor, Miami FL](https://www.indexdata.org/safety-zone-luminsea-miami-shootout-and-races-miami-marine-stadium-harbor-miami-fl/)** — `2026-10-07` | `3 Pages`
-- `[`2026-20520`]` **[Security Zone; U.S. Coast Guard Base, Los Angeles Harbor Main Channel, Los Angeles, CA](https://www.indexdata.org/security-zone-u-s-coast-guard-base-los-angeles-harbor-main-channel-los-angeles-ca/)** — `2026-10-07` | `3 Pages`
-- `[`2026-20491`]` **[Safety Zone; Red Bull Flugtag, Intercoastal Waterway, Biscayne Bay, Miami, FL](https://www.indexdata.org/safety-zone-red-bull-flugtag-intercoastal-waterway-biscayne-bay-miami-fl/)** — `2026-10-06` | `2 Pages`
-- `[`2026-20477`]` **[Security Zone; Patapsco River, Baltimore, MD](https://www.indexdata.org/security-zone-patapsco-river-baltimore-md/)** — `2026-10-06` | `2 Pages`
-- `[`2026-20324`]` **[Special Local Regulation; Allegheny River Mile Marker 20.5-21, Creighton, PA](https://www.indexdata.org/special-local-regulation-allegheny-river-mile-marker-20-5-21-creighton-pa/)** — `2026-10-05` | `3 Pages`
-- `[`2026-20223`]` **[Special Local Regulations; Marine Events Within the USCG East District-Philadelphia, PA](https://www.indexdata.org/special-local-regulations-marine-events-within-the-uscg-east-district-philadelphia-pa/)** — `2026-10-02` | `2 Pages`
-- `[`2026-20124`]` **[Safety Zone; Sector Mobile Captain of the Port Zone, Mobile, AL](https://www.indexdata.org/safety-zone-sector-mobile-captain-of-the-port-zone-mobile-al/)** — `2026-10-01` | `4 Pages`
-- `[`2026-20122`]` **[Safety Zone; St. Lawrence River, Massena, NY](https://www.indexdata.org/safety-zone-st-lawrence-river-massena-ny/)** — `2026-10-01` | `3 Pages`
-- `[`2026-20087`]` **[Clarification of Certain Mariner Training Requirements](https://www.indexdata.org/clarification-of-certain-mariner-training-requirements/)** — `2026-10-01` | `27 Pages`
-- `[`2026-19945`]` **[Safety Zone; Bridge Demolition, Upper Mississippi River, Chester, IL](https://www.indexdata.org/safety-zone-bridge-demolition-upper-mississippi-river-chester-il/)** — `2026-09-29` | `3 Pages`
-- `[`2026-19653`]` **[Special Local Regulation; Milwaukee River and Menomonee River, Milwaukee, WI](https://www.indexdata.org/special-local-regulation-milwaukee-river-and-menomonee-river-milwaukee-wi/)** — `2026-09-25` | `2 Pages`
-- `[`2026-19652`]` **[Implementation of Training Requirements for Personnel Serving on U.S.-Flagged Passenger Ships That Carry More Than 12 Passengers on International Voyages](https://www.indexdata.org/implementation-of-training-requirements-for-personnel-serving-on-u-s-flagged-passenger-ships-that-carry-more-than-12-passengers-on-international-voyages/)** — `2026-09-25` | `40 Pages`
-- `[`2026-19430`]` **[Safety Zone; Massachusetts Bay, Boston, MA](https://www.indexdata.org/safety-zone-massachusetts-bay-boston-ma/)** — `2026-09-23` | `3 Pages`
-- `[`2026-19429`]` **[Safety Zone; Zach's Bay, Wantagh, NY](https://www.indexdata.org/safety-zone-zachs-bay-wantagh-ny/)** — `2026-09-23` | `3 Pages`
-- `[`2026-19352`]` **[Safety Zone; Neuse River, New Bern, NC](https://www.indexdata.org/safety-zone-neuse-river-new-bern-nc/)** — `2026-09-22` | `2 Pages`
-- `[`2026-19270`]` **[Safety Zone; Illinois River, Morris, IL](https://www.indexdata.org/safety-zone-illinois-river-morris-il/)** — `2026-09-21` | `3 Pages`
-- `[`2026-19254`]` **[Great Lakes Pilotage Rates-2027 Annual Review and Revisions to Methodology](https://www.indexdata.org/great-lakes-pilotage-rates-2027-annual-review-and-revisions-to-methodology/)** — `2026-09-21` | `44 Pages`
-- `[`2026-19060`]` **[Safety Zone; Key West Main Ship Channel, and Fleming Key Cut, Key West, FL](https://www.indexdata.org/safety-zone-key-west-main-ship-channel-and-fleming-key-cut-key-west-fl/)** — `2026-09-17` | `2 Pages`
-- `[`2026-19059`]` **[Drawbridge Operation Regulation; Connecticut River, East Haddam, CT](https://www.indexdata.org/drawbridge-operation-regulation-connecticut-river-east-haddam-ct/)** — `2026-09-17` | `3 Pages`
-- `[`2026-19058`]` **[Drawbridge Operation Regulation; Niantic River, Between Waterford and Niantic, CT](https://www.indexdata.org/drawbridge-operation-regulation-niantic-river-between-waterford-and-niantic-ct/)** — `2026-09-17` | `3 Pages`
-- `[`2026-19057`]` **[Drawbridge Operation Regulation; Mystic River, Mystic, CT](https://www.indexdata.org/drawbridge-operation-regulation-mystic-river-mystic-ct/)** — `2026-09-17` | `2 Pages`
-- `[`2026-19056`]` **[Special Local Regulation; Maumee River, Toledo, OH](https://www.indexdata.org/special-local-regulation-maumee-river-toledo-oh/)** — `2026-09-17` | `3 Pages`
-- `[`2026-18977`]` **[Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI](https://www.indexdata.org/safety-zone-lake-st-clair-grosse-pointe-farms-mi/)** — `2026-09-16` | `2 Pages`
-- `[`2026-18960`]` **[Special Local Regulations; Recurring Marine Events, Sector St. Petersburg](https://www.indexdata.org/special-local-regulations-recurring-marine-events-sector-st-petersburg/)** — `2026-09-16` | `2 Pages`
-- `[`2026-18856`]` **[Safety Zone; Calcasieu River Channel, Lake Charles, LA](https://www.indexdata.org/safety-zone-calcasieu-river-channel-lake-charles-la/)** — `2026-09-15` | `3 Pages`
-- `[`2026-18855`]` **[Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX](https://www.indexdata.org/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx/)** — `2026-09-15` | `2 Pages`
-- `[`2026-18734`]` **[Safety Zone; Lake Erie, Oregon, OH](https://www.indexdata.org/safety-zone-lake-erie-oregon-oh/)** — `2026-09-14` | `2 Pages`
-- `[`2026-18670`]` **[Special Local Regulations; Marine Events Within the Sector Columbia River Captain of the Port Zone, Portland, OR](https://www.indexdata.org/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone-portland-or/)** — `2026-09-11` | `2 Pages`
-- `[`2026-18557`]` **[Safety Zone; York River, Yorktown, VA](https://www.indexdata.org/safety-zone-york-river-yorktown-va/)** — `2026-09-11` | `3 Pages`
-- `[`2026-18463`]` **[Special Local Regulations; Marine Events Within the USCG East District-Ocean City, NJ](https://www.indexdata.org/special-local-regulations-marine-events-within-the-uscg-east-district-ocean-city-nj/)** — `2026-09-10` | `2 Pages`
-- `[`2026-18369`]` **[Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL](https://www.indexdata.org/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary-and-ship-canal-chicago-river-and-calumet-saganashkee-channel-chicago-il-2/)** — `2026-09-09` | `2 Pages`
-- `[`2026-18364`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Fort Pierce, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-fort-pierce-fl/)** — `2026-09-09` | `2 Pages`
-- `[`2026-18279`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx/)** — `2026-09-08` | `2 Pages`
-- `[`2026-18166`]` **[Drawbridge Operation Regulation; Savannah River, Clyo, GA](https://www.indexdata.org/drawbridge-operation-regulation-savannah-river-clyo-ga/)** — `2026-09-04` | `2 Pages`
-- `[`2026-18130`]` **[Safety Zone; Ohio Street Beach Swim Course, Lake Michigan, Chicago Harbor, Chicago, IL](https://www.indexdata.org/safety-zone-ohio-street-beach-swim-course-lake-michigan-chicago-harbor-chicago-il/)** — `2026-09-04` | `2 Pages`
-- `[`2026-18062`]` **[Special Local Regulation; Allegheny River Mile Markers 0-3.5 and Ohio River Mile Marker 0-3, Pittsburgh, PA](https://www.indexdata.org/special-local-regulation-allegheny-river-mile-markers-0-3-5-and-ohio-river-mile-marker-0-3-pittsburgh-pa/)** — `2026-09-03` | `2 Pages`
-- `[`2026-18044`]` **[Safety Zone; Outer Harbor, Buffalo, NY](https://www.indexdata.org/safety-zone-outer-harbor-buffalo-ny/)** — `2026-09-03` | `2 Pages`
-- `[`2026-17978`]` **[Safety Zone; Bay Bridge Paddle; Chesapeake Bay, Annapolis, MD](https://www.indexdata.org/safety-zone-bay-bridge-paddle-chesapeake-bay-annapolis-md/)** — `2026-09-02` | `3 Pages`
-- `[`2026-17971`]` **[Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI](https://www.indexdata.org/safety-zone-lake-st-clair-grosse-pointe-farms-mi-3/)** — `2026-09-02` | `2 Pages`
-- `[`2026-17940`]` **[Safety Zone; Maumee River, Toledo, OH](https://www.indexdata.org/safety-zone-maumee-river-toledo-oh/)** — `2026-09-02` | `2 Pages`
-- `[`2026-17874`]` **[Safety Zone; Fort Myers Beach, FL](https://www.indexdata.org/safety-zone-fort-myers-beach-fl/)** — `2026-09-01` | `2 Pages`
-- `[`2026-17627`]` **[Safety Zone; Hurricanes, Tropical Storms, and Severe Weather Events in the Sector Mobile Captain of the Port Zone](https://www.indexdata.org/safety-zone-hurricanes-tropical-storms-and-severe-weather-events-in-the-sector-mobile-captain-of-the-port-zone/)** — `2026-08-28` | `3 Pages`
-- `[`2026-17608`]` **[Special Local Regulation; Chickahominy River, Williamsburg, VA](https://www.indexdata.org/special-local-regulation-chickahominy-river-williamsburg-va/)** — `2026-08-28` | `3 Pages`
-- `[`2026-17588`]` **[Safety Zones; Annual Events Requiring Safety Zones in the Captain of the Port Lake Michigan Zone, Fireworks at Pier Wisconsin](https://www.indexdata.org/safety-zones-annual-events-requiring-safety-zones-in-the-captain-of-the-port-lake-michigan-zone-fireworks-at-pier-wisconsin/)** — `2026-08-28` | `2 Pages`
-- `[`2026-17522`]` **[Safety Zone; Aerial Displays, Upper Bay, New York, NY](https://www.indexdata.org/safety-zone-aerial-displays-upper-bay-new-york-ny/)** — `2026-08-27` | `3 Pages`
-- `[`2026-17483`]` **[Drawbridge Operation Regulation; Albemarle Sound to Sunset Beach, Atlantic Intracoastal Waterway (AICW), Wrightsville Beach, NC](https://www.indexdata.org/drawbridge-operation-regulation-albemarle-sound-to-sunset-beach-atlantic-intracoastal-waterway-aicw-wrightsville-beach-nc/)** — `2026-08-27` | `3 Pages`
-- `[`2026-17419`]` **[Anchorage Regulation; San Juan Bay, San Juan, PR](https://www.indexdata.org/anchorage-regulation-san-juan-bay-san-juan-pr/)** — `2026-08-26` | `3 Pages`
-- `[`2026-17389`]` **[Safety Zone; Lake St. Clair; New Baltimore, MI](https://www.indexdata.org/safety-zone-lake-st-clair-new-baltimore-mi/)** — `2026-08-26` | `2 Pages`
-- `[`2026-17375`]` **[Safety Zone; Spring Lake, Fruitport, MI](https://www.indexdata.org/safety-zone-spring-lake-fruitport-mi/)** — `2026-08-26` | `2 Pages`
-- `[`2026-17217`]` **[Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI](https://www.indexdata.org/safety-zone-t-v-denise-foss-o-n-1254223-honolulu-hi/)** — `2026-08-24` | `3 Pages`
-- `[`2026-17131`]` **[Security Zone; Ohio River, Cincinnati, OH](https://www.indexdata.org/security-zone-ohio-river-cincinnati-oh/)** — `2026-08-21` | `2 Pages`
-- `[`2026-17098`]` **[Safety Zone: Piers Park, Boston Inner Harbor, East Boston MA](https://www.indexdata.org/safety-zone-piers-park-boston-inner-harbor-east-boston-ma/)** — `2026-08-21` | `2 Pages`
-
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
@@ -851,6 +774,83 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-17486`]` **[Air Plan Approval; Michigan; 2015 Ozone Moderate Reasonably Available Control Technology](https://www.indexdata.org/air-plan-approval-michigan-2015-ozone-moderate-reasonably-available-control-technology/)** — `2026-08-27` | `7 Pages`
 - `[`2026-17454`]` **[Florida: Final Authorization of State Hazardous Waste Management Program Revisions](https://www.indexdata.org/florida-final-authorization-of-state-hazardous-waste-management-program-revisions/)** — `2026-08-27` | `2 Pages`
 - `[`2026-17400`]` **[Significant New Use Rules on Certain Chemical Substances (24-5.5e)](https://www.indexdata.org/significant-new-use-rules-on-certain-chemical-substances-24-5-5e/)** — `2026-08-26` | `16 Pages`
+
+### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
+
+- `[`2026-22734`]` **[Drawbridge Operation Regulation; Harlem River, Between the Boroughs of Manhattan and the Bronx, New York City, New York](https://www.indexdata.org/drawbridge-operation-regulation-harlem-river-between-the-boroughs-of-manhattan-and-the-bronx-new-york-city-new-york/)** — `2026-11-06` | `3 Pages`
+- `[`2026-22677`]` **[Drawbridge Operation Regulation; Wishkah River, Aberdeen, WA](https://www.indexdata.org/drawbridge-operation-regulation-wishkah-river-aberdeen-wa-3/)** — `2026-11-06` | `3 Pages`
+- `[`2026-22269`]` **[Safety Zone; M/T KALAHARI, Gulf of America, Pascagoula, MS](https://www.indexdata.org/safety-zone-m-t-kalahari-gulf-of-america-pascagoula-ms/)** — `2026-10-30` | `3 Pages`
+- `[`2026-22249`]` **[Safety Zone; S.S. UNITED STATES Dead Ship Tow, Sector Mobile Captain of the Port Zone, Mobile, AL](https://www.indexdata.org/safety-zone-s-s-united-states-dead-ship-tow-sector-mobile-captain-of-the-port-zone-mobile-al/)** — `2026-10-30` | `2 Pages`
+- `[`2026-22078`]` **[Safety Zone; Firework Display; Cumberland River, Hendersonville, TN](https://www.indexdata.org/safety-zone-firework-display-cumberland-river-hendersonville-tn/)** — `2026-10-29` | `3 Pages`
+- `[`2026-21949`]` **[Special Local Regulation; Port Miami Main Shipping Channel, Miami FL](https://www.indexdata.org/special-local-regulation-port-miami-main-shipping-channel-miami-fl/)** — `2026-10-28` | `3 Pages`
+- `[`2026-21918`]` **[Safety Zone; Southern California Annual Firework Events for the Los Angeles-Long Beach Captain of the Port Zone](https://www.indexdata.org/safety-zone-southern-california-annual-firework-events-for-the-los-angeles-long-beach-captain-of-the-port-zone/)** — `2026-10-27` | `5 Pages`
+- `[`2026-21636`]` **[Safety Zone; Brownsville Ship Channel, Brownsville, TX](https://www.indexdata.org/safety-zone-brownsville-ship-channel-brownsville-tx/)** — `2026-10-22` | `2 Pages`
+- `[`2026-21608`]` **[Drawbridge Operation Regulation; Manitowoc River, Manitowoc, WI](https://www.indexdata.org/drawbridge-operation-regulation-manitowoc-river-manitowoc-wi-2/)** — `2026-10-22` | `2 Pages`
+- `[`2026-21593`]` **[RIN 1625-AA00](https://www.indexdata.org/rin-1625-aa00/)** — `2026-10-22` | `3 Pages`
+- `[`2026-21498`]` **[Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI](https://www.indexdata.org/safety-zone-t-v-denise-foss-o-n-1254223-honolulu-hi-3/)** — `2026-10-21` | `2 Pages`
+- `[`2026-21478`]` **[Security Zones; Protection of Military Cargo, Captain of the Port Zone Puget Sound, WA](https://www.indexdata.org/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa/)** — `2026-10-21` | `2 Pages`
+- `[`2026-21305`]` **[Safety Zone; FRL Inaugural Invitational eFoil Exhibition Race, Miami Marine Stadium Basin, Miami, FL](https://www.indexdata.org/safety-zone-frl-inaugural-invitational-efoil-exhibition-race-miami-marine-stadium-basin-miami-fl/)** — `2026-10-19` | `2 Pages`
+- `[`2026-21302`]` **[Special Local Regulation; Ponce Harbor, Ponce, PR](https://www.indexdata.org/special-local-regulation-ponce-harbor-ponce-pr/)** — `2026-10-19` | `2 Pages`
+- `[`2026-21240`]` **[Safety Zone; Cumberland River, Hendersonville, TN](https://www.indexdata.org/safety-zone-cumberland-river-hendersonville-tn/)** — `2026-10-16` | `2 Pages`
+- `[`2026-21162`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az/)** — `2026-10-16` | `2 Pages`
+- `[`2026-21161`]` **[Safety Zone; Atlantic Ocean, Culebra, Puerto Rico](https://www.indexdata.org/safety-zone-atlantic-ocean-culebra-puerto-rico/)** — `2026-10-16` | `2 Pages`
+- `[`2026-21157`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az-2/)** — `2026-10-16` | `3 Pages`
+- `[`2026-21053`]` **[Safety Zone; Lake Michigan, Chicago, IL](https://www.indexdata.org/safety-zone-lake-michigan-chicago-il/)** — `2026-10-15` | `2 Pages`
+- `[`2026-20902`]` **[Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL](https://www.indexdata.org/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary-and-ship-canal-chicago-river-and-calumet-saganashkee-channel-chicago-il/)** — `2026-10-13` | `2 Pages`
+- `[`2026-20632`]` **[Special Local Regulations; San Francisco Bay Navy Fleet Week Parade of Ships and Blue Angels Demonstration, San Francisco, CA](https://www.indexdata.org/special-local-regulations-san-francisco-bay-navy-fleet-week-parade-of-ships-and-blue-angels-demonstration-san-francisco-ca/)** — `2026-10-08` | `2 Pages`
+- `[`2026-20545`]` **[Drawbridge Operation Regulation; Bay St. Louis, Bay St. Louis, MS; Back Bay of Biloxi, Biloxi, MS; Pascagoula River, Pascagoula, MS; Three Mile Creek, Mobile, AL; Chickasaw Creek, Saraland, AL.](https://www.indexdata.org/drawbridge-operation-regulation-bay-st-louis-bay-st-louis-ms-back-bay-of-biloxi-biloxi-ms-pascagoula-river-pascagoula-ms-three-mile-creek-mobile-al-chickasaw-creek-saraland-al/)** — `2026-10-07` | `5 Pages`
+- `[`2026-20522`]` **[Safety Zone; Luminsea Miami Shootout and Races, Miami Marine Stadium Harbor, Miami FL](https://www.indexdata.org/safety-zone-luminsea-miami-shootout-and-races-miami-marine-stadium-harbor-miami-fl/)** — `2026-10-07` | `3 Pages`
+- `[`2026-20520`]` **[Security Zone; U.S. Coast Guard Base, Los Angeles Harbor Main Channel, Los Angeles, CA](https://www.indexdata.org/security-zone-u-s-coast-guard-base-los-angeles-harbor-main-channel-los-angeles-ca/)** — `2026-10-07` | `3 Pages`
+- `[`2026-20491`]` **[Safety Zone; Red Bull Flugtag, Intercoastal Waterway, Biscayne Bay, Miami, FL](https://www.indexdata.org/safety-zone-red-bull-flugtag-intercoastal-waterway-biscayne-bay-miami-fl/)** — `2026-10-06` | `2 Pages`
+- `[`2026-20477`]` **[Security Zone; Patapsco River, Baltimore, MD](https://www.indexdata.org/security-zone-patapsco-river-baltimore-md/)** — `2026-10-06` | `2 Pages`
+- `[`2026-20324`]` **[Special Local Regulation; Allegheny River Mile Marker 20.5-21, Creighton, PA](https://www.indexdata.org/special-local-regulation-allegheny-river-mile-marker-20-5-21-creighton-pa/)** — `2026-10-05` | `3 Pages`
+- `[`2026-20223`]` **[Special Local Regulations; Marine Events Within the USCG East District-Philadelphia, PA](https://www.indexdata.org/special-local-regulations-marine-events-within-the-uscg-east-district-philadelphia-pa/)** — `2026-10-02` | `2 Pages`
+- `[`2026-20124`]` **[Safety Zone; Sector Mobile Captain of the Port Zone, Mobile, AL](https://www.indexdata.org/safety-zone-sector-mobile-captain-of-the-port-zone-mobile-al/)** — `2026-10-01` | `4 Pages`
+- `[`2026-20122`]` **[Safety Zone; St. Lawrence River, Massena, NY](https://www.indexdata.org/safety-zone-st-lawrence-river-massena-ny/)** — `2026-10-01` | `3 Pages`
+- `[`2026-20087`]` **[Clarification of Certain Mariner Training Requirements](https://www.indexdata.org/clarification-of-certain-mariner-training-requirements/)** — `2026-10-01` | `27 Pages`
+- `[`2026-19945`]` **[Safety Zone; Bridge Demolition, Upper Mississippi River, Chester, IL](https://www.indexdata.org/safety-zone-bridge-demolition-upper-mississippi-river-chester-il/)** — `2026-09-29` | `3 Pages`
+- `[`2026-19653`]` **[Special Local Regulation; Milwaukee River and Menomonee River, Milwaukee, WI](https://www.indexdata.org/special-local-regulation-milwaukee-river-and-menomonee-river-milwaukee-wi/)** — `2026-09-25` | `2 Pages`
+- `[`2026-19652`]` **[Implementation of Training Requirements for Personnel Serving on U.S.-Flagged Passenger Ships That Carry More Than 12 Passengers on International Voyages](https://www.indexdata.org/implementation-of-training-requirements-for-personnel-serving-on-u-s-flagged-passenger-ships-that-carry-more-than-12-passengers-on-international-voyages/)** — `2026-09-25` | `40 Pages`
+- `[`2026-19430`]` **[Safety Zone; Massachusetts Bay, Boston, MA](https://www.indexdata.org/safety-zone-massachusetts-bay-boston-ma/)** — `2026-09-23` | `3 Pages`
+- `[`2026-19429`]` **[Safety Zone; Zach's Bay, Wantagh, NY](https://www.indexdata.org/safety-zone-zachs-bay-wantagh-ny/)** — `2026-09-23` | `3 Pages`
+- `[`2026-19352`]` **[Safety Zone; Neuse River, New Bern, NC](https://www.indexdata.org/safety-zone-neuse-river-new-bern-nc/)** — `2026-09-22` | `2 Pages`
+- `[`2026-19270`]` **[Safety Zone; Illinois River, Morris, IL](https://www.indexdata.org/safety-zone-illinois-river-morris-il/)** — `2026-09-21` | `3 Pages`
+- `[`2026-19254`]` **[Great Lakes Pilotage Rates-2027 Annual Review and Revisions to Methodology](https://www.indexdata.org/great-lakes-pilotage-rates-2027-annual-review-and-revisions-to-methodology/)** — `2026-09-21` | `44 Pages`
+- `[`2026-19060`]` **[Safety Zone; Key West Main Ship Channel, and Fleming Key Cut, Key West, FL](https://www.indexdata.org/safety-zone-key-west-main-ship-channel-and-fleming-key-cut-key-west-fl/)** — `2026-09-17` | `2 Pages`
+- `[`2026-19059`]` **[Drawbridge Operation Regulation; Connecticut River, East Haddam, CT](https://www.indexdata.org/drawbridge-operation-regulation-connecticut-river-east-haddam-ct/)** — `2026-09-17` | `3 Pages`
+- `[`2026-19058`]` **[Drawbridge Operation Regulation; Niantic River, Between Waterford and Niantic, CT](https://www.indexdata.org/drawbridge-operation-regulation-niantic-river-between-waterford-and-niantic-ct/)** — `2026-09-17` | `3 Pages`
+- `[`2026-19057`]` **[Drawbridge Operation Regulation; Mystic River, Mystic, CT](https://www.indexdata.org/drawbridge-operation-regulation-mystic-river-mystic-ct/)** — `2026-09-17` | `2 Pages`
+- `[`2026-19056`]` **[Special Local Regulation; Maumee River, Toledo, OH](https://www.indexdata.org/special-local-regulation-maumee-river-toledo-oh/)** — `2026-09-17` | `3 Pages`
+- `[`2026-18977`]` **[Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI](https://www.indexdata.org/safety-zone-lake-st-clair-grosse-pointe-farms-mi/)** — `2026-09-16` | `2 Pages`
+- `[`2026-18960`]` **[Special Local Regulations; Recurring Marine Events, Sector St. Petersburg](https://www.indexdata.org/special-local-regulations-recurring-marine-events-sector-st-petersburg/)** — `2026-09-16` | `2 Pages`
+- `[`2026-18856`]` **[Safety Zone; Calcasieu River Channel, Lake Charles, LA](https://www.indexdata.org/safety-zone-calcasieu-river-channel-lake-charles-la/)** — `2026-09-15` | `3 Pages`
+- `[`2026-18855`]` **[Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX](https://www.indexdata.org/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx/)** — `2026-09-15` | `2 Pages`
+- `[`2026-18734`]` **[Safety Zone; Lake Erie, Oregon, OH](https://www.indexdata.org/safety-zone-lake-erie-oregon-oh/)** — `2026-09-14` | `2 Pages`
+- `[`2026-18670`]` **[Special Local Regulations; Marine Events Within the Sector Columbia River Captain of the Port Zone, Portland, OR](https://www.indexdata.org/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone-portland-or/)** — `2026-09-11` | `2 Pages`
+- `[`2026-18557`]` **[Safety Zone; York River, Yorktown, VA](https://www.indexdata.org/safety-zone-york-river-yorktown-va/)** — `2026-09-11` | `3 Pages`
+- `[`2026-18463`]` **[Special Local Regulations; Marine Events Within the USCG East District-Ocean City, NJ](https://www.indexdata.org/special-local-regulations-marine-events-within-the-uscg-east-district-ocean-city-nj/)** — `2026-09-10` | `2 Pages`
+- `[`2026-18369`]` **[Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL](https://www.indexdata.org/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary-and-ship-canal-chicago-river-and-calumet-saganashkee-channel-chicago-il-2/)** — `2026-09-09` | `2 Pages`
+- `[`2026-18364`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Fort Pierce, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-fort-pierce-fl/)** — `2026-09-09` | `2 Pages`
+- `[`2026-18279`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx/)** — `2026-09-08` | `2 Pages`
+- `[`2026-18166`]` **[Drawbridge Operation Regulation; Savannah River, Clyo, GA](https://www.indexdata.org/drawbridge-operation-regulation-savannah-river-clyo-ga/)** — `2026-09-04` | `2 Pages`
+- `[`2026-18130`]` **[Safety Zone; Ohio Street Beach Swim Course, Lake Michigan, Chicago Harbor, Chicago, IL](https://www.indexdata.org/safety-zone-ohio-street-beach-swim-course-lake-michigan-chicago-harbor-chicago-il/)** — `2026-09-04` | `2 Pages`
+- `[`2026-18062`]` **[Special Local Regulation; Allegheny River Mile Markers 0-3.5 and Ohio River Mile Marker 0-3, Pittsburgh, PA](https://www.indexdata.org/special-local-regulation-allegheny-river-mile-markers-0-3-5-and-ohio-river-mile-marker-0-3-pittsburgh-pa/)** — `2026-09-03` | `2 Pages`
+- `[`2026-18044`]` **[Safety Zone; Outer Harbor, Buffalo, NY](https://www.indexdata.org/safety-zone-outer-harbor-buffalo-ny/)** — `2026-09-03` | `2 Pages`
+- `[`2026-17978`]` **[Safety Zone; Bay Bridge Paddle; Chesapeake Bay, Annapolis, MD](https://www.indexdata.org/safety-zone-bay-bridge-paddle-chesapeake-bay-annapolis-md/)** — `2026-09-02` | `3 Pages`
+- `[`2026-17971`]` **[Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI](https://www.indexdata.org/safety-zone-lake-st-clair-grosse-pointe-farms-mi-3/)** — `2026-09-02` | `2 Pages`
+- `[`2026-17940`]` **[Safety Zone; Maumee River, Toledo, OH](https://www.indexdata.org/safety-zone-maumee-river-toledo-oh/)** — `2026-09-02` | `2 Pages`
+- `[`2026-17874`]` **[Safety Zone; Fort Myers Beach, FL](https://www.indexdata.org/safety-zone-fort-myers-beach-fl/)** — `2026-09-01` | `2 Pages`
+- `[`2026-17627`]` **[Safety Zone; Hurricanes, Tropical Storms, and Severe Weather Events in the Sector Mobile Captain of the Port Zone](https://www.indexdata.org/safety-zone-hurricanes-tropical-storms-and-severe-weather-events-in-the-sector-mobile-captain-of-the-port-zone/)** — `2026-08-28` | `3 Pages`
+- `[`2026-17608`]` **[Special Local Regulation; Chickahominy River, Williamsburg, VA](https://www.indexdata.org/special-local-regulation-chickahominy-river-williamsburg-va/)** — `2026-08-28` | `3 Pages`
+- `[`2026-17588`]` **[Safety Zones; Annual Events Requiring Safety Zones in the Captain of the Port Lake Michigan Zone, Fireworks at Pier Wisconsin](https://www.indexdata.org/safety-zones-annual-events-requiring-safety-zones-in-the-captain-of-the-port-lake-michigan-zone-fireworks-at-pier-wisconsin/)** — `2026-08-28` | `2 Pages`
+- `[`2026-17522`]` **[Safety Zone; Aerial Displays, Upper Bay, New York, NY](https://www.indexdata.org/safety-zone-aerial-displays-upper-bay-new-york-ny/)** — `2026-08-27` | `3 Pages`
+- `[`2026-17483`]` **[Drawbridge Operation Regulation; Albemarle Sound to Sunset Beach, Atlantic Intracoastal Waterway (AICW), Wrightsville Beach, NC](https://www.indexdata.org/drawbridge-operation-regulation-albemarle-sound-to-sunset-beach-atlantic-intracoastal-waterway-aicw-wrightsville-beach-nc/)** — `2026-08-27` | `3 Pages`
+- `[`2026-17419`]` **[Anchorage Regulation; San Juan Bay, San Juan, PR](https://www.indexdata.org/anchorage-regulation-san-juan-bay-san-juan-pr/)** — `2026-08-26` | `3 Pages`
+- `[`2026-17389`]` **[Safety Zone; Lake St. Clair; New Baltimore, MI](https://www.indexdata.org/safety-zone-lake-st-clair-new-baltimore-mi/)** — `2026-08-26` | `2 Pages`
+- `[`2026-17375`]` **[Safety Zone; Spring Lake, Fruitport, MI](https://www.indexdata.org/safety-zone-spring-lake-fruitport-mi/)** — `2026-08-26` | `2 Pages`
+- `[`2026-17217`]` **[Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI](https://www.indexdata.org/safety-zone-t-v-denise-foss-o-n-1254223-honolulu-hi/)** — `2026-08-24` | `3 Pages`
+- `[`2026-17131`]` **[Security Zone; Ohio River, Cincinnati, OH](https://www.indexdata.org/security-zone-ohio-river-cincinnati-oh/)** — `2026-08-21` | `2 Pages`
 
 ### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
