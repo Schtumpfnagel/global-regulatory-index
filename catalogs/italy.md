@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/italy/feed/](https://www.indexdata.org/italy/feed/)  
 **Wikidata Sovereign Entity:** [`Q38`](https://www.wikidata.org/wiki/Q38)  
 **Governing Open-Government Framework:** *Decreto Legislativo n. 36/2006 & Legge n. 633/1941 art. 5*  
-**Total Indexed Dossiers in Italy:** `66` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-09 08:56 UTC`
+**Total Indexed Dossiers in Italy:** `67` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-09 09:55 UTC`
 
 ---
 
 ## Issuing Authorities in Italy (5 Authorities)
 
-- **[National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
+- **[National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
 - **[National Research Council of Italy (CNR)](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/) | [RSS Feed](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/feed/)
 - **[Italian National Institute of Statistics (ISTAT)](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/) | [RSS Feed](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/feed/)
 - **[Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
@@ -20,13 +20,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–66 of 66)
+## Indexed Statutory & Regulatory Dossiers (Records 1–67 of 67)
 
 ### [National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
 
 - `[`IT-INAPP-7085`]` **[Self-employment and income discontinuity: social protection needs and perspectives on collective representation](https://www.indexdata.org/self-employment-and-income-discontinuity-social-protection-needs-and-perspectives-on-collective-representation/)** — `2026-10-30` | `8 Pages`
 - `[`IT-INAPP-7072`]` **[Education, wages and firm heterogeneity: evidence from linked employer-employee data](https://www.indexdata.org/education-wages-and-firm-heterogeneity-evidence-from-linked-employer-employee-data/)** — `2026-10-23` | `16 Pages`
+- `[`IT-INAPP-7100`]` **[Artificial Intelligence exposure and gender inequalities in the italian labour market](https://www.indexdata.org/artificial-intelligence-exposure-and-gender-inequalities-in-the-italian-labour-market/)** — `2026-10-22` | `22 Pages`
 - `[`IT-INAPP-7081`]` **[Austerity in the supply chain: how municipal fiscal rules reshape procurement and subcontractor wages](https://www.indexdata.org/austerity-in-the-supply-chain-how-municipal-fiscal-rules-reshape-procurement-and-subcontractor-wages-2/)** — `2026-10-22` | `19 Pages`
 - `[`IT-INAPP-7059`]` **[Institutional governance structures to guarantee access to essential social services in Italy](https://www.indexdata.org/institutional-governance-structures-to-guarantee-access-to-essential-social-services-in-italy/)** — `2026-10-12` | `8 Pages`
 - `[`IT-INAPP-7054`]` **[The atlas of work and qualifications and the national system of skills certification in Italy: territorial dynamics and initial quantitative analyses](https://www.indexdata.org/the-atlas-of-work-and-qualifications-and-the-national-system-of-skills-certification-in-italy-territorial-dynamics-and-initial-quantitative-analyses/)** — `2026-10-12` | `24 Pages`
