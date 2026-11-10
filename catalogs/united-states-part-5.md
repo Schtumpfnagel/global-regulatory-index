@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,234` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,236` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 21:51 UTC`
+**Last Automated Sync:** `2026-11-10 23:02 UTC`
 
 ---
 
@@ -97,13 +97,13 @@
 - **[Surface Transportation Board](https://www.indexdata.org/united-states/surface-transportation-board/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-transportation-board/) | [RSS Feed](https://www.indexdata.org/united-states/surface-transportation-board/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
 - **[Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
 - **[Food Safety and Inspection Service](https://www.indexdata.org/united-states/food-safety-and-inspection-service/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-safety-and-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-safety-and-inspection-service/feed/)
 - **[Engineers Corps](https://www.indexdata.org/united-states/engineers-corps/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/engineers-corps/) | [RSS Feed](https://www.indexdata.org/united-states/engineers-corps/feed/)
 - **[Treasury Department](https://www.indexdata.org/united-states/treasury-department/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/treasury-department/) | [RSS Feed](https://www.indexdata.org/united-states/treasury-department/feed/)
 - **[U.S. Department of Transportation (USDOT)](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Census Bureau](https://www.indexdata.org/united-states/census-bureau/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
 - **[Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
 - **[Federal Railroad Administration (FRA)](https://www.indexdata.org/united-states/federal-railroad-administration-fra/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-railroad-administration-fra/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration-fra/feed/)
@@ -248,11 +248,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,234)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,236)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-13110`]` **[Revocation of Restricted Area R-6606 and Establishment of Restricted Area R-6606A and R-6606B; Pendleton, VA](https://www.indexdata.org/revocation-of-restricted-area-r-6606-and-establishment-of-restricted-area-r-6606a-and-r-6606b-pendleton-va/)** — `2025-07-14` | `2 Pages`
 - `[`2025-13103`]` **[Revocation of Colored Federal Airway Green 6 (G-6) and Alaskan Very High Frequency Omnidirectional Range Federal Airways V-459 and V-496 in Alaska](https://www.indexdata.org/revocation-of-colored-federal-airway-green-6-g-6-and-alaskan-very-high-frequency-omnidirectional-range-federal-airways-v-459-and-v-496-in-alaska/)** — `2025-07-14` | `3 Pages`
 - `[`2025-13007`]` **[Airworthiness Directives; Goodrich Cabin Attendant Seats](https://www.indexdata.org/airworthiness-directives-goodrich-cabin-attendant-seats-2/)** — `2025-07-11` | `3 Pages`
 - `[`2025-12912`]` **[Amendment of Class E4 Airspace Over Elmira, NY](https://www.indexdata.org/amendment-of-class-e4-airspace-over-elmira-ny-2/)** — `2025-07-11` | `3 Pages`
@@ -1054,11 +1055,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2025-03549`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the General Category January Through March Fishery for 2025](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-general-category-january-through-march-fishery-for-2025/)** — `2025-03-05` | `2 Pages`
 - `[`2025-03544`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Angling Category Southern Area Trophy Fishery for 2025](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category-southern-area-trophy-fishery-for-2025/)** — `2025-03-05` | `2 Pages`
 - `[`2025-03535`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Catcher Vessels Less Than 60 Feet (18.3 Meters) Length Overall Using Hook-and-Line or Pot Gear in the Bering Sea and Aleutian Islands Management Area](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcher-vessels-less-than-60-feet-18-3-meters-length-overall-using-hook-and-line-or-pot-gear-in-the-bering-sea-and-aleutian-island/)** — `2025-03-05` | `2 Pages`
-- `[`2025-02728`]` **[Endangered and Threatened Wildlife and Plants: Reclassification of Pillar Coral (Dendrogyra cylindrus) From Threatened to Endangered](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-reclassification-of-pillar-coral-dendrogyra-cylindrus-from-threatened-to-endangered/)** — `2025-02-18` | `2 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 
+- `[`2025-13130`]` **[Rescinding Obsolete Financial Assistance Rules](https://www.indexdata.org/rescinding-obsolete-financial-assistance-rules/)** — `2025-07-14` | `2 Pages`
 - `[`2025-12557`]` **[Department of Energy Acquisition Regulation](https://www.indexdata.org/department-of-energy-acquisition-regulation/)** — `2025-07-07` | `2 Pages`
 - `[`2025-12383`]` **[Revision of National Environmental Policy Act Implementing Procedures](https://www.indexdata.org/revision-of-national-environmental-policy-act-implementing-procedures/)** — `2025-07-03` | `40 Pages`
 - `[`2025-12328`]` **[Energy Conservation Standards for Manufactured Housing](https://www.indexdata.org/energy-conservation-standards-for-manufactured-housing/)** — `2025-07-02` | `6 Pages`
@@ -1760,15 +1761,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/general-se
 - `[`2025-06181`]` **[Federal Management Regulation; Soliciting Union Memberships Among Contractors in GSA-Controlled Buildings; Planned Rescission](https://www.indexdata.org/federal-management-regulation-soliciting-union-memberships-among-contractors-in-gsa-controlled-buildings-planned-rescission/)** — `2025-04-16` | `2 Pages`
 - `[`2025-06180`]` **[Federal Management Regulation; Federal Advisory Committee Management; Planned Revision](https://www.indexdata.org/federal-management-regulation-federal-advisory-committee-management-planned-revision/)** — `2025-04-16` | `2 Pages`
 
-### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
-
-- `[`2025-12584`]` **[Small Business Investment Company (SBIC) Regulatory Amendments](https://www.indexdata.org/small-business-investment-company-sbic-regulatory-amendments-2/)** — `2025-07-07` | `9 Pages`
-- `[`2025-10156`]` **[HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs; Correction](https://www.indexdata.org/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs-correction/)** — `2025-06-04` | `2 Pages`
-- `[`2025-09833`]` **[Civil Monetary Penalties Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustments/)** — `2025-06-03` | `3 Pages`
-- `[`2025-08294`]` **[Tribal Consultation for 8(a) Business Development Program and Mentor-Protégé Program Issues and Best Practices](https://www.indexdata.org/tribal-consultation-for-8a-business-development-program-and-mentor-protege-program-issues-and-best-practices/)** — `2025-05-12` | `2 Pages`
-- `[`2025-02741`]` **[HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs; Correction](https://www.indexdata.org/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs-correction-2/)** — `2025-02-18` | `3 Pages`
-
 ### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 
@@ -1833,6 +1825,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-reg
 - `[`2025-10758`]` **[System for Regulating Rates and Classes for Market Dominant Products](https://www.indexdata.org/system-for-regulating-rates-and-classes-for-market-dominant-products-4/)** — `2025-06-13` | `2 Pages`
 - `[`2025-03786`]` **[Streamlined Option Rulemaking-Fulfillment-Non-Published Rates Negotiated Service Agreements](https://www.indexdata.org/streamlined-option-rulemaking-fulfillment-non-published-rates-negotiated-service-agreements/)** — `2025-03-10` | `2 Pages`
 - `[`2025-03042`]` **[Market Dominant Postal Products](https://www.indexdata.org/market-dominant-postal-products/)** — `2025-02-26` | `3 Pages`
+
+### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
+
+- `[`2025-12584`]` **[Small Business Investment Company (SBIC) Regulatory Amendments](https://www.indexdata.org/small-business-investment-company-sbic-regulatory-amendments-2/)** — `2025-07-07` | `9 Pages`
+- `[`2025-10156`]` **[HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs; Correction](https://www.indexdata.org/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs-correction/)** — `2025-06-04` | `2 Pages`
+- `[`2025-09833`]` **[Civil Monetary Penalties Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustments/)** — `2025-06-03` | `3 Pages`
+- `[`2025-08294`]` **[Tribal Consultation for 8(a) Business Development Program and Mentor-Protégé Program Issues and Best Practices](https://www.indexdata.org/tribal-consultation-for-8a-business-development-program-and-mentor-protege-program-issues-and-best-practices/)** — `2025-05-12` | `2 Pages`
 
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)

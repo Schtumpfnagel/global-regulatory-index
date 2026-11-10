@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,234` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,236` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 21:51 UTC`
+**Last Automated Sync:** `2026-11-10 23:02 UTC`
 
 ---
 
@@ -97,13 +97,13 @@
 - **[Surface Transportation Board](https://www.indexdata.org/united-states/surface-transportation-board/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-transportation-board/) | [RSS Feed](https://www.indexdata.org/united-states/surface-transportation-board/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
 - **[Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
 - **[Food Safety and Inspection Service](https://www.indexdata.org/united-states/food-safety-and-inspection-service/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-safety-and-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-safety-and-inspection-service/feed/)
 - **[Engineers Corps](https://www.indexdata.org/united-states/engineers-corps/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/engineers-corps/) | [RSS Feed](https://www.indexdata.org/united-states/engineers-corps/feed/)
 - **[Treasury Department](https://www.indexdata.org/united-states/treasury-department/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/treasury-department/) | [RSS Feed](https://www.indexdata.org/united-states/treasury-department/feed/)
 - **[U.S. Department of Transportation (USDOT)](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Census Bureau](https://www.indexdata.org/united-states/census-bureau/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
 - **[Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
 - **[Federal Railroad Administration (FRA)](https://www.indexdata.org/united-states/federal-railroad-administration-fra/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-railroad-administration-fra/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration-fra/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,234)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,236)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -571,7 +571,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-13150`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-238/)** — `2024-06-18` | `5 Pages`
 - `[`2024-12621`]` **[Removal of Check Pilot Medical Certificate Requirement](https://www.indexdata.org/removal-of-check-pilot-medical-certificate-requirement/)** — `2024-06-18` | `18 Pages`
 - `[`2024-13163`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-41/)** — `2024-06-17` | `3 Pages`
-- `[`2024-13141`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-55/)** — `2024-06-17` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -945,7 +944,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-13253`]` **[Safety Zone; Trenton DTE Boiler Demolition, Trenton, MI](https://www.indexdata.org/safety-zone-trenton-dte-boiler-demolition-trenton-mi/)** — `2024-06-17` | `2 Pages`
 - `[`2024-13233`]` **[Safety Zone; Key West July 4th Fireworks, Key West, FL](https://www.indexdata.org/safety-zone-key-west-july-4th-fireworks-key-west-fl/)** — `2024-06-17` | `3 Pages`
 - `[`2024-13231`]` **[Safety Zone; Atlantic Ocean, Key West, FL](https://www.indexdata.org/safety-zone-atlantic-ocean-key-west-fl/)** — `2024-06-17` | `2 Pages`
-- `[`2024-13146`]` **[Fixed and Moving Safety Zone; Vicinity of the M/V HAPPY DIAMOND; Houston Ship Channel and Seabrook, TX](https://www.indexdata.org/fixed-and-moving-safety-zone-vicinity-of-the-m-v-happy-diamond-houston-ship-channel-and-seabrook-tx/)** — `2024-06-17` | `4 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1458,6 +1456,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 ### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
 
+- `[`2024-23276`]` **[Consumer Leasing (Regulation M)](https://www.indexdata.org/consumer-leasing-regulation-m-2/)** — `2024-10-15` | `5 Pages`
 - `[`2024-23275`]` **[Truth in Lending (Regulation Z)](https://www.indexdata.org/truth-in-lending-regulation-z-2/)** — `2024-10-15` | `7 Pages`
 - `[`2024-22962`]` **[Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt](https://www.indexdata.org/debt-collection-practices-regulation-f-deceptive-and-unfair-collection-of-medical-debt/)** — `2024-10-04` | `10 Pages`
 - `[`2024-22551`]` **[Consumer Financial Protection Circular 2024-05: Improper Overdraft Opt-In Practices](https://www.indexdata.org/consumer-financial-protection-circular-2024-05-improper-overdraft-opt-in-practices/)** — `2024-10-02` | `3 Pages`
@@ -1670,6 +1669,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2024-15269`]` **[Updated Terminology for State Housing Agency Housing Assistance Payments Contracts](https://www.indexdata.org/updated-terminology-for-state-housing-agency-housing-assistance-payments-contracts-2/)** — `2024-07-17` | `4 Pages`
 - `[`2024-15024`]` **[Federal Housing Administration (FHA): Single Family Sale Program](https://www.indexdata.org/federal-housing-administration-fha-single-family-sale-program-2/)** — `2024-07-16` | `13 Pages`
 
+### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+
+- `[`2024-23277`]` **[Appraisals for Higher-Priced Mortgage Loans Exemption Threshold](https://www.indexdata.org/appraisals-for-higher-priced-mortgage-loans-exemption-threshold-2/)** — `2024-10-15` | `4 Pages`
+- `[`2024-21560`]` **[Business Combinations Under the Bank Merger Act](https://www.indexdata.org/business-combinations-under-the-bank-merger-act/)** — `2024-09-25` | `15 Pages`
+- `[`2024-18415`]` **[Financial Data Transparency Act Joint Data Standards](https://www.indexdata.org/financial-data-transparency-act-joint-data-standards-2/)** — `2024-08-22` | `19 Pages`
+- `[`2024-16546`]` **[Anti-Money Laundering and Countering the Financing of Terrorism Program Requirements](https://www.indexdata.org/anti-money-laundering-and-countering-the-financing-of-terrorism-program-requirements/)** — `2024-08-09` | `23 Pages`
+- `[`2024-16197`]` **[Quality Control Standards for Automated Valuation Models](https://www.indexdata.org/quality-control-standards-for-automated-valuation-models/)** — `2024-08-07` | `43 Pages`
+- `[`2024-16729`]` **[Regulatory Publication and Review Under the Economic Growth and Regulatory Paperwork Reduction Act of 1996](https://www.indexdata.org/regulatory-publication-and-review-under-the-economic-growth-and-regulatory-paperwork-reduction-act-of-1996/)** — `2024-08-01` | `7 Pages`
+- `[`2024-16200`]` **[Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations](https://www.indexdata.org/interagency-guidance-on-reconsiderations-of-value-of-residential-real-estate-valuations/)** — `2024-07-26` | `10 Pages`
+- `[`2024-13960`]` **[OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches-2/)** — `2024-07-03` | `7 Pages`
+
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
 
@@ -1693,17 +1704,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/general-se
 - `[`2024-14424`]` **[Federal Management Regulation; Accessibility Standard for Pedestrian Facilities in the Public Right-of-Way](https://www.indexdata.org/federal-management-regulation-accessibility-standard-for-pedestrian-facilities-in-the-public-right-of-way/)** — `2024-07-03` | `7 Pages`
 - `[`2024-14416`]` **[General Services Administration Acquisition Regulation; Standardizing the Identification of Deviations in the General Services Administration Acquisition Regulation](https://www.indexdata.org/general-services-administration-acquisition-regulation-standardizing-the-identification-of-deviations-in-the-general-services-administration-acquisition-regulation/)** — `2024-07-03` | `2 Pages`
 - `[`2024-14352`]` **[General Services Administration Acquisition Regulation; Removing the GSA Payments Clause for Non-Commercial Contracts](https://www.indexdata.org/general-services-administration-acquisition-regulation-removing-the-gsa-payments-clause-for-non-commercial-contracts/)** — `2024-07-03` | `2 Pages`
-
-### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
-
-- `[`2024-21560`]` **[Business Combinations Under the Bank Merger Act](https://www.indexdata.org/business-combinations-under-the-bank-merger-act/)** — `2024-09-25` | `15 Pages`
-- `[`2024-18415`]` **[Financial Data Transparency Act Joint Data Standards](https://www.indexdata.org/financial-data-transparency-act-joint-data-standards-2/)** — `2024-08-22` | `19 Pages`
-- `[`2024-16546`]` **[Anti-Money Laundering and Countering the Financing of Terrorism Program Requirements](https://www.indexdata.org/anti-money-laundering-and-countering-the-financing-of-terrorism-program-requirements/)** — `2024-08-09` | `23 Pages`
-- `[`2024-16197`]` **[Quality Control Standards for Automated Valuation Models](https://www.indexdata.org/quality-control-standards-for-automated-valuation-models/)** — `2024-08-07` | `43 Pages`
-- `[`2024-16729`]` **[Regulatory Publication and Review Under the Economic Growth and Regulatory Paperwork Reduction Act of 1996](https://www.indexdata.org/regulatory-publication-and-review-under-the-economic-growth-and-regulatory-paperwork-reduction-act-of-1996/)** — `2024-08-01` | `7 Pages`
-- `[`2024-16200`]` **[Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations](https://www.indexdata.org/interagency-guidance-on-reconsiderations-of-value-of-residential-real-estate-valuations/)** — `2024-07-26` | `10 Pages`
-- `[`2024-13960`]` **[OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches-2/)** — `2024-07-03` | `7 Pages`
 
 ### [Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-crimes-enforcement-network/](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)

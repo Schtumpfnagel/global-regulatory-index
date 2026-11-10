@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,234` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,236` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 21:51 UTC`
+**Last Automated Sync:** `2026-11-10 23:02 UTC`
 
 ---
 
@@ -97,13 +97,13 @@
 - **[Surface Transportation Board](https://www.indexdata.org/united-states/surface-transportation-board/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-transportation-board/) | [RSS Feed](https://www.indexdata.org/united-states/surface-transportation-board/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
 - **[Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
 - **[Food Safety and Inspection Service](https://www.indexdata.org/united-states/food-safety-and-inspection-service/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-safety-and-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-safety-and-inspection-service/feed/)
 - **[Engineers Corps](https://www.indexdata.org/united-states/engineers-corps/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/engineers-corps/) | [RSS Feed](https://www.indexdata.org/united-states/engineers-corps/feed/)
 - **[Treasury Department](https://www.indexdata.org/united-states/treasury-department/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/treasury-department/) | [RSS Feed](https://www.indexdata.org/united-states/treasury-department/feed/)
 - **[U.S. Department of Transportation (USDOT)](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Census Bureau](https://www.indexdata.org/united-states/census-bureau/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
 - **[Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
 - **[Federal Railroad Administration (FRA)](https://www.indexdata.org/united-states/federal-railroad-administration-fra/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-railroad-administration-fra/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration-fra/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,234)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,236)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -604,7 +604,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-13279`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-59/)** — `2025-07-16` | `3 Pages`
 - `[`2025-13278`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-58/)** — `2025-07-16` | `2 Pages`
 - `[`2025-13214`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-helicopters-11/)** — `2025-07-15` | `4 Pages`
-- `[`2025-13110`]` **[Revocation of Restricted Area R-6606 and Establishment of Restricted Area R-6606A and R-6606B; Pendleton, VA](https://www.indexdata.org/revocation-of-restricted-area-r-6606-and-establishment-of-restricted-area-r-6606a-and-r-6606b-pendleton-va/)** — `2025-07-14` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1444,7 +1443,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2025-13134`]` **[Revisions to the Office of Hearings and Appeals Procedural Regulations for the DOE Contractor Employee Protection Program](https://www.indexdata.org/revisions-to-the-office-of-hearings-and-appeals-procedural-regulations-for-the-doe-contractor-employee-protection-program-2/)** — `2025-07-14` | `2 Pages`
 - `[`2025-13132`]` **[Revisions to the Office of Hearings and Appeals Procedural Regulations](https://www.indexdata.org/revisions-to-the-office-of-hearings-and-appeals-procedural-regulations/)** — `2025-07-14` | `2 Pages`
 - `[`2025-13131`]` **[Procedures for Acquisition of Petroleum for the Strategic Petroleum Reserve](https://www.indexdata.org/procedures-for-acquisition-of-petroleum-for-the-strategic-petroleum-reserve/)** — `2025-07-14` | `3 Pages`
-- `[`2025-13130`]` **[Rescinding Obsolete Financial Assistance Rules](https://www.indexdata.org/rescinding-obsolete-financial-assistance-rules/)** — `2025-07-14` | `2 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
@@ -1617,6 +1615,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 ### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
 
+- `[`2025-23974`]` **[Streamlining Probationary and Trial Period Appeals](https://www.indexdata.org/streamlining-probationary-and-trial-period-appeals-2/)** — `2025-12-30` | `15 Pages`
 - `[`2025-23289`]` **[Ensuring Consistent and Rigorous Standards for Senior Executive Service Candidate Development Programs](https://www.indexdata.org/ensuring-consistent-and-rigorous-standards-for-senior-executive-service-candidate-development-programs/)** — `2025-12-18` | `7 Pages`
 - `[`2025-22738`]` **[Recruitment and Relocation Incentive Waivers](https://www.indexdata.org/recruitment-and-relocation-incentive-waivers/)** — `2025-12-15` | `12 Pages`
 - `[`2025-22411`]` **[Sunset of the Pathways Presidential Management Fellows Program; Correction](https://www.indexdata.org/sunset-of-the-pathways-presidential-management-fellows-program-correction/)** — `2025-12-10` | `2 Pages`
@@ -1952,6 +1951,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/engineers-
 - `[`2025-20402`]` **[Updated Definition of “Waters of the United States”](https://www.indexdata.org/updated-definition-of-waters-of-the-united-states-2/)** — `2025-11-20` | `49 Pages`
 - `[`2025-15110`]` **[Civil Monetary Penalty Inflation Adjustment Rule](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustment-rule/)** — `2025-08-08` | `4 Pages`
 
+### [Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-office-for-immigration-review/](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
+
+- `[`2025-23970`]` **[Security Bars and Processing; Confirmation of Effective Date; Partial Withdrawal](https://www.indexdata.org/security-bars-and-processing-confirmation-of-effective-date-partial-withdrawal/)** — `2025-12-30` | `15 Pages`
+- `[`2025-16573`]` **[Designation of Temporary Immigration Judges](https://www.indexdata.org/designation-of-temporary-immigration-judges/)** — `2025-08-28` | `7 Pages`
+
 ### [Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-service-agency/](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 
@@ -2078,11 +2083,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-b
 Canonical Authority Archive: [https://www.indexdata.org/united-states/equal-employment-opportunity-commission/](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
 
 - `[`2025-18972`]` **[2025 Adjustment of the Penalty for Violation of Notice Posting Requirements](https://www.indexdata.org/2025-adjustment-of-the-penalty-for-violation-of-notice-posting-requirements/)** — `2025-09-30` | `2 Pages`
-
-### [Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-office-for-immigration-review/](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
-
-- `[`2025-16573`]` **[Designation of Temporary Immigration Judges](https://www.indexdata.org/designation-of-temporary-immigration-judges/)** — `2025-08-28` | `7 Pages`
 
 ### [Farm Credit Administration](https://www.indexdata.org/united-states/farm-credit-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-credit-administration/](https://www.indexdata.org/united-states/farm-credit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/farm-credit-administration/feed/)
