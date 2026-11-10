@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,227` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,233` across `231` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 18:59 UTC`
+**Last Automated Sync:** `2026-11-10 19:58 UTC`
 
 ---
 
@@ -89,6 +89,7 @@
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -107,7 +108,6 @@
 - **[Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
 - **[Federal Railroad Administration (FRA)](https://www.indexdata.org/united-states/federal-railroad-administration-fra/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-railroad-administration-fra/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration-fra/feed/)
 - **[Indian Affairs Bureau](https://www.indexdata.org/united-states/indian-affairs-bureau/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-affairs-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/indian-affairs-bureau/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Transportation Department](https://www.indexdata.org/united-states/transportation-department/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
 - **[Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
 - **[Safety and Environmental Enforcement Bureau](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/feed/)
@@ -247,11 +247,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,227)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,233)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-21897`]` **[Amendment of United States Area Navigation (RNAV) Routes; Eastern United States](https://www.indexdata.org/amendment-of-united-states-area-navigation-rnav-routes-eastern-united-states-4/)** — `2023-10-04` | `3 Pages`
+- `[`2023-21896`]` **[Amendment of Very High Frequency Omnidirectional Range (VOR) Federal Airway V-9; Arkansas](https://www.indexdata.org/amendment-of-very-high-frequency-omnidirectional-range-vor-federal-airway-v-9-arkansas-2/)** — `2023-10-04` | `3 Pages`
 - `[`2023-21895`]` **[Amendment of United States Area Navigation (RNAV) Routes; Eastern United States](https://www.indexdata.org/amendment-of-united-states-area-navigation-rnav-routes-eastern-united-states-5/)** — `2023-10-04` | `4 Pages`
 - `[`2023-21894`]` **[Amendment of Class C Airspace; San Juan Luis Munoz Marin International Airport, PR](https://www.indexdata.org/amendment-of-class-c-airspace-san-juan-luis-munoz-marin-international-airport-pr-2/)** — `2023-10-04` | `4 Pages`
 - `[`2023-21811`]` **[Amendment of Jet Route J-133 and Establishment of Area Navigation Route Q-801 in the Vicinity of Anchorage, AK](https://www.indexdata.org/amendment-of-jet-route-j-133-and-establishment-of-area-navigation-route-q-801-in-the-vicinity-of-anchorage-ak-3/)** — `2023-10-03` | `3 Pages`
@@ -644,14 +646,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-11497`]` **[Integration of Powered-Lift: Pilot Certification and Operations; Miscellaneous Amendments Related to Rotorcraft and Airplanes](https://www.indexdata.org/integration-of-powered-lift-pilot-certification-and-operations-miscellaneous-amendments-related-to-rotorcraft-and-airplanes-2/)** — `2023-06-14` | `160 Pages`
 - `[`2023-12610`]` **[Amendment of Class D and Class E Airspace; Lakeland, FL](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-lakeland-fl/)** — `2023-06-13` | `2 Pages`
 - `[`2023-12582`]` **[Amendment of Class E Airspace; Van Horn, TX](https://www.indexdata.org/amendment-of-class-e-airspace-van-horn-tx/)** — `2023-06-13` | `2 Pages`
-- `[`2023-12572`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-67/)** — `2023-06-13` | `3 Pages`
-- `[`2023-12497`]` **[Modification of Class E Airspace; Northeast Wyoming Regional Airport, Gillette, WY](https://www.indexdata.org/modification-of-class-e-airspace-northeast-wyoming-regional-airport-gillette-wy-2/)** — `2023-06-13` | `2 Pages`
-- `[`2023-12491`]` **[Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes](https://www.indexdata.org/airworthiness-directives-pilatus-aircraft-ltd-airplanes-24/)** — `2023-06-13` | `3 Pages`
-- `[`2023-12442`]` **[Airworthiness Directives; Gulfstream Aerospace Corporation Airplanes](https://www.indexdata.org/airworthiness-directives-gulfstream-aerospace-corporation-airplanes-12/)** — `2023-06-13` | `5 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-21971`]` **[Approval of Air Quality Implementation Plans; New York; Emission Statement Program](https://www.indexdata.org/approval-of-air-quality-implementation-plans-new-york-emission-statement-program/)** — `2023-10-04` | `4 Pages`
+- `[`2023-21970`]` **[Air Plan Approval; Colorado; Serious Attainment Plan Elements and Related Revisions for the 2008 8-Hour Ozone Standard for the Denver Metro/North Front Range Nonattainment Area](https://www.indexdata.org/air-plan-approval-colorado-serious-attainment-plan-elements-and-related-revisions-for-the-2008-8-hour-ozone-standard-for-the-denver-metro-north-front-range-nonattainment-area/)** — `2023-10-04` | `3 Pages`
 - `[`2023-21821`]` **[Cypermethrin; Pesticide Tolerances](https://www.indexdata.org/cypermethrin-pesticide-tolerances-3/)** — `2023-10-04` | `7 Pages`
 - `[`2023-21722`]` **[Air Plan Approval; South Carolina: New Source Review Updates](https://www.indexdata.org/air-plan-approval-south-carolina-new-source-review-updates/)** — `2023-10-04` | `5 Pages`
 - `[`2023-21757`]` **[Air Plan Disapproval; Texas; Contingency Measures for the Dallas-Fort Worth and Houston-Galveston-Brazoria Ozone Nonattainment Areas](https://www.indexdata.org/air-plan-disapproval-texas-contingency-measures-for-the-dallas-fort-worth-and-houston-galveston-brazoria-ozone-nonattainment-areas/)** — `2023-10-03` | `7 Pages`
@@ -853,7 +853,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2023-12614`]` **[Air Plan Approval; Oklahoma; Revisions to Air Pollution Control Rules](https://www.indexdata.org/air-plan-approval-oklahoma-revisions-to-air-pollution-control-rules-5/)** — `2023-06-13` | `4 Pages`
 - `[`2023-12601`]` **[Air Plan Approval; North Carolina; Bulk Gasoline Plant and Terminal Vapor Recovery Systems](https://www.indexdata.org/air-plan-approval-north-carolina-bulk-gasoline-plant-and-terminal-vapor-recovery-systems/)** — `2023-06-13` | `6 Pages`
 - `[`2023-12581`]` **[Air Plan Approval; North Carolina; Volatile Organic Compound Regulations](https://www.indexdata.org/air-plan-approval-north-carolina-volatile-organic-compound-regulations-2/)** — `2023-06-13` | `8 Pages`
-- `[`2023-12580`]` **[Air Plan Approval; Georgia; Miscellaneous Rule Revisions to Gasoline Dispensing Facility-Stage I](https://www.indexdata.org/air-plan-approval-georgia-miscellaneous-rule-revisions-to-gasoline-dispensing-facility-stage-i/)** — `2023-06-13` | `4 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -987,11 +986,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2023-12652`]` **[Safety Zone; Annual Fireworks Displays and Other Events in the Eighth Coast Guard District Requiring Safety Zones-Go 4th New Orleans Independence Day Celebration](https://www.indexdata.org/safety-zone-annual-fireworks-displays-and-other-events-in-the-eighth-coast-guard-district-requiring-safety-zones-go-4th-new-orleans-independence-day-celebration/)** — `2023-06-14` | `2 Pages`
 - `[`2023-12513`]` **[Marine Casualty Reporting on the Outer Continental Shelf](https://www.indexdata.org/marine-casualty-reporting-on-the-outer-continental-shelf-3/)** — `2023-06-14` | `25 Pages`
 - `[`2023-12642`]` **[Safety Zone; Heavy Weather and Natural or Other Disasters in San Juan Captain of the Port Zone, San Juan, Puerto Rico](https://www.indexdata.org/safety-zone-heavy-weather-and-natural-or-other-disasters-in-san-juan-captain-of-the-port-zone-san-juan-puerto-rico/)** — `2023-06-13` | `4 Pages`
-- `[`2023-12558`]` **[Special Local Regulations and Safety Zones; Recurring Marine Events, Fireworks Displays, and Swim Events Held in the Coast Guard Sector Long Island Sound Zone](https://www.indexdata.org/special-local-regulations-and-safety-zones-recurring-marine-events-fireworks-displays-and-swim-events-held-in-the-coast-guard-sector-long-island-sound-zone/)** — `2023-06-13` | `9 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2023-21914`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; 2023 Commercial and Recreational Closures for Gag in the South Atlantic](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-2023-commercial-and-recreational-closures-for-gag-in-the-south-atlantic/)** — `2023-10-04` | `2 Pages`
 - `[`2023-21844`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Atka Mackerel in the Central Aleutian District of the Bering Sea and Aleutian Islands Management Area](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-atka-mackerel-in-the-central-aleutian-district-of-the-bering-sea-and-aleutian-islands-management-area/)** — `2023-10-03` | `2 Pages`
 - `[`2023-21838`]` **[Pacific Island Fisheries; 2023 U.S. Territorial Longline Bigeye Tuna Catch Limits for the Commonwealth of the Northern Mariana Islands](https://www.indexdata.org/pacific-island-fisheries-2023-u-s-territorial-longline-bigeye-tuna-catch-limits-for-the-commonwealth-of-the-northern-mariana-islands/)** — `2023-10-03` | `2 Pages`
 - `[`2023-21499`]` **[Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to the U.S. Navy Training and Testing Activities in the Hawaii-Southern California Training and Testing Study Area](https://www.indexdata.org/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-the-u-s-navy-training-and-testing-activities-in-the-hawaii-southern-california-training-and-testing-study-area-2/)** — `2023-10-03` | `78 Pages`
@@ -1290,6 +1289,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
+- `[`2023-21969`]` **[Request for Information; Coverage of Over-the-Counter Preventive Services](https://www.indexdata.org/request-for-information-coverage-of-over-the-counter-preventive-services/)** — `2023-10-04` | `7 Pages`
 - `[`2023-21586`]` **[Excise Tax on Designated Drugs; Procedural Requirements](https://www.indexdata.org/excise-tax-on-designated-drugs-procedural-requirements-2/)** — `2023-10-02` | `5 Pages`
 - `[`2023-21177`]` **[Requirements Related to the Mental Health Parity and Addiction Equity Act; Extension of Comment Period](https://www.indexdata.org/requirements-related-to-the-mental-health-parity-and-addiction-equity-act-extension-of-comment-period/)** — `2023-09-28` | `3 Pages`
 - `[`2023-20840`]` **[Superfund Chemical Taxes; Hearing](https://www.indexdata.org/superfund-chemical-taxes-hearing/)** — `2023-09-26` | `2 Pages`

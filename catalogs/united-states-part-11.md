@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,227` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,233` across `231` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-10 18:59 UTC`
+**Last Automated Sync:** `2026-11-10 19:58 UTC`
 
 ---
 
@@ -89,6 +89,7 @@
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -107,7 +108,6 @@
 - **[Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
 - **[Federal Railroad Administration (FRA)](https://www.indexdata.org/united-states/federal-railroad-administration-fra/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-railroad-administration-fra/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration-fra/feed/)
 - **[Indian Affairs Bureau](https://www.indexdata.org/united-states/indian-affairs-bureau/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-affairs-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/indian-affairs-bureau/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Transportation Department](https://www.indexdata.org/united-states/transportation-department/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
 - **[Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
 - **[Safety and Environmental Enforcement Bureau](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/feed/)
@@ -247,11 +247,15 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,227 of 15,227)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,233 of 15,233)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-12572`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-67/)** — `2023-06-13` | `3 Pages`
+- `[`2023-12497`]` **[Modification of Class E Airspace; Northeast Wyoming Regional Airport, Gillette, WY](https://www.indexdata.org/modification-of-class-e-airspace-northeast-wyoming-regional-airport-gillette-wy-2/)** — `2023-06-13` | `2 Pages`
+- `[`2023-12491`]` **[Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes](https://www.indexdata.org/airworthiness-directives-pilatus-aircraft-ltd-airplanes-24/)** — `2023-06-13` | `3 Pages`
+- `[`2023-12442`]` **[Airworthiness Directives; Gulfstream Aerospace Corporation Airplanes](https://www.indexdata.org/airworthiness-directives-gulfstream-aerospace-corporation-airplanes-12/)** — `2023-06-13` | `5 Pages`
 - `[`2023-12441`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-338/)** — `2023-06-13` | `4 Pages`
 - `[`2023-12416`]` **[Decompression Criteria for Interior Compartments](https://www.indexdata.org/decompression-criteria-for-interior-compartments/)** — `2023-06-13` | `6 Pages`
 - `[`2023-12382`]` **[Aviation Maintenance Technician Schools](https://www.indexdata.org/aviation-maintenance-technician-schools/)** — `2023-06-13` | `5 Pages`
@@ -313,6 +317,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2023-12558`]` **[Special Local Regulations and Safety Zones; Recurring Marine Events, Fireworks Displays, and Swim Events Held in the Coast Guard Sector Long Island Sound Zone](https://www.indexdata.org/special-local-regulations-and-safety-zones-recurring-marine-events-fireworks-displays-and-swim-events-held-in-the-coast-guard-sector-long-island-sound-zone/)** — `2023-06-13` | `9 Pages`
 - `[`2023-12466`]` **[State Enforcement of Inland Navigation Rules](https://www.indexdata.org/state-enforcement-of-inland-navigation-rules/)** — `2023-06-12` | `5 Pages`
 - `[`2023-12451`]` **[Security Zones; Corpus Christi Ship Channel, Corpus Christi, TX](https://www.indexdata.org/security-zones-corpus-christi-ship-channel-corpus-christi-tx-4/)** — `2023-06-12` | `3 Pages`
 - `[`2023-12418`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-9/)** — `2023-06-09` | `3 Pages`
@@ -349,6 +354,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-12580`]` **[Air Plan Approval; Georgia; Miscellaneous Rule Revisions to Gasoline Dispensing Facility-Stage I](https://www.indexdata.org/air-plan-approval-georgia-miscellaneous-rule-revisions-to-gasoline-dispensing-facility-stage-i/)** — `2023-06-13` | `4 Pages`
 - `[`2023-12494`]` **[NPDES Small MS4 Urbanized Area Clarification](https://www.indexdata.org/npdes-small-ms4-urbanized-area-clarification/)** — `2023-06-12` | `7 Pages`
 - `[`2023-12407`]` **[National Emission Standards for Hazardous Air Pollutants: Plywood and Composite Wood Products; Extension of Comment Period](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-plywood-and-composite-wood-products-extension-of-comment-period/)** — `2023-06-12` | `2 Pages`
 - `[`2023-11904`]` **[National Oil and Hazardous Substances Pollution Contingency Plan; Product Schedule Listing and Authorization of Use Requirements](https://www.indexdata.org/national-oil-and-hazardous-substances-pollution-contingency-plan-product-schedule-listing-and-authorization-of-use-requirements-2/)** — `2023-06-12` | `77 Pages`

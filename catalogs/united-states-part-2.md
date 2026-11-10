@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,227` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,233` across `231` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 18:59 UTC`
+**Last Automated Sync:** `2026-11-10 19:58 UTC`
 
 ---
 
@@ -89,6 +89,7 @@
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -107,7 +108,6 @@
 - **[Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
 - **[Federal Railroad Administration (FRA)](https://www.indexdata.org/united-states/federal-railroad-administration-fra/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-railroad-administration-fra/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration-fra/feed/)
 - **[Indian Affairs Bureau](https://www.indexdata.org/united-states/indian-affairs-bureau/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-affairs-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/indian-affairs-bureau/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Transportation Department](https://www.indexdata.org/united-states/transportation-department/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
 - **[Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
 - **[Safety and Environmental Enforcement Bureau](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/feed/)
@@ -247,7 +247,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,227)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,233)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -767,6 +767,10 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-17503`]` **[Air Plan Approval; Mississippi; 2010 1-Hour SO2 NAAQS Transport Infrastructure](https://www.indexdata.org/air-plan-approval-mississippi-2010-1-hour-so2-naaqs-transport-infrastructure/)** — `2026-08-27` | `8 Pages`
+- `[`2026-17502`]` **[Air Plan Approval; Kentucky; Cincinnati-Hamilton Area Limited Maintenance Plan for the 1997 8-Hour Ozone NAAQS](https://www.indexdata.org/air-plan-approval-kentucky-cincinnati-hamilton-area-limited-maintenance-plan-for-the-1997-8-hour-ozone-naaqs/)** — `2026-08-27` | `7 Pages`
+- `[`2026-17501`]` **[Air Plan Approval; Kentucky; Louisville Area Limited Maintenance Plan for the 1997 8-Hour Ozone NAAQS](https://www.indexdata.org/air-plan-approval-kentucky-louisville-area-limited-maintenance-plan-for-the-1997-8-hour-ozone-naaqs/)** — `2026-08-27` | `6 Pages`
+- `[`2026-17499`]` **[Air Plan Approval; Oklahoma; Regional Haze Plan for the First Implementation Revision; Revision to State Implementation Plan and Requirements](https://www.indexdata.org/air-plan-approval-oklahoma-regional-haze-plan-for-the-first-implementation-revision-revision-to-state-implementation-plan-and-requirements/)** — `2026-08-27` | `8 Pages`
 - `[`2026-17497`]` **[Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Allegheny County; Negative Declaration for Existing Large Municipal Waste Combustors](https://www.indexdata.org/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-allegheny-county-negative-declaration-for-existing-large-municipal-waste-combustors/)** — `2026-08-27` | `2 Pages`
 - `[`2026-17495`]` **[Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Puerto Rico; Negative Declaration for the Oil and Gas Industry](https://www.indexdata.org/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-puerto-rico-negative-declaration-for-the-oil-and-gas-industry/)** — `2026-08-27` | `3 Pages`
 - `[`2026-17494`]` **[Air Plan Approval; Arkansas; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-approval-arkansas-regional-haze-state-implementation-plan-for-the-second-implementation-period/)** — `2026-08-27` | `5 Pages`
@@ -948,6 +952,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2026-17500`]` **[Fisheries of the Northeastern United States; Monkfish; Framework Adjustment 17](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-monkfish-framework-adjustment-17/)** — `2026-08-27` | `3 Pages`
 - `[`2026-17391`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Duckabush Estuary Restoration Project in Washington](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-duckabush-estuary-restoration-project-in-washington/)** — `2026-08-26` | `13 Pages`
 - `[`2026-17300`]` **[Fisheries of the Caribbean, Gulf of America, and South Atlantic; Extension of the Commercial Shrimp Permit Moratorium in the Gulf of America](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-extension-of-the-commercial-shrimp-permit-moratorium-in-the-gulf-of-america/)** — `2026-08-25` | `4 Pages`
 - `[`2026-17228`]` **[Coastal Migratory Pelagic Resources of the Gulf and Atlantic Region; Commercial Closure for Atlantic Spanish Mackerel in the Northern Zone](https://www.indexdata.org/coastal-migratory-pelagic-resources-of-the-gulf-and-atlantic-region-commercial-closure-for-atlantic-spanish-mackerel-in-the-northern-zone/)** — `2026-08-24` | `2 Pages`
@@ -1093,6 +1098,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2026-17508`]` **[Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band; Correction](https://www.indexdata.org/upper-c-band-3-98-4-2-ghz-expanding-flexible-use-of-the-3-7-to-4-2-ghz-band-correction/)** — `2026-08-27` | `2 Pages`
 - `[`2026-16590`]` **[FCC To Review E-Rate Program To Ensure Congress's Vision](https://www.indexdata.org/fcc-to-review-e-rate-program-to-ensure-congresss-vision/)** — `2026-08-14` | `28 Pages`
 - `[`2026-16503`]` **[Empowering Broadband Consumers Through Transparency](https://www.indexdata.org/empowering-broadband-consumers-through-transparency/)** — `2026-08-13` | `11 Pages`
 - `[`2026-16317`]` **[Television Broadcasting Services St. George, Utah](https://www.indexdata.org/television-broadcasting-services-st-george-utah/)** — `2026-08-11` | `2 Pages`
@@ -1467,24 +1473,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 - `[`2026-10620`]` **[Proposed Waiver and Extension of the Project Period With Funding for Arts in Education National Program](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program/)** — `2026-05-28` | `2 Pages`
 - `[`2026-10013`]` **[Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Pell Grant Exclusion Relating to Other Grant Aid; and Workforce Pell Grants](https://www.indexdata.org/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant-exclusion-relating-to-other-grant-aid-and-workforce-pell-grants/)** — `2026-05-19` | `85 Pages`
 
-### [Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
-
-- `[`2026-16981`]` **[Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms](https://www.indexdata.org/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition-receipt-transfer-shipment-transportation-or-possession-of-firearms/)** — `2026-08-20` | `40 Pages`
-- `[`2026-13587`]` **[Fingerprint and Photograph Requirements for Firearms Applications](https://www.indexdata.org/fingerprint-and-photograph-requirements-for-firearms-applications/)** — `2026-07-06` | `21 Pages`
-- `[`2026-13586`]` **[Registering NFA Firearms That Fall Out of Government Contract](https://www.indexdata.org/registering-nfa-firearms-that-fall-out-of-government-contract/)** — `2026-07-06` | `11 Pages`
-- `[`2026-09182`]` **[Revising Firearms Transaction Record, “Form 4473”](https://www.indexdata.org/revising-firearms-transaction-record-form-4473/)** — `2026-05-08` | `16 Pages`
-- `[`2026-09165`]` **[Removing Youth Handgun Safety Act Notice](https://www.indexdata.org/removing-youth-handgun-safety-act-notice/)** — `2026-05-08` | `6 Pages`
-- `[`2026-09164`]` **[Converting Temporary to Permanent Imports for Defense Articles](https://www.indexdata.org/converting-temporary-to-permanent-imports-for-defense-articles/)** — `2026-05-08` | `8 Pages`
-- `[`2026-09163`]` **[Importing Dual-Use Frames, Receivers, or Barrels](https://www.indexdata.org/importing-dual-use-frames-receivers-or-barrels/)** — `2026-05-08` | `10 Pages`
-- `[`2026-09162`]` **[Firearm Activities in Foreign Trade Zones, Customs-Bonded Warehouses](https://www.indexdata.org/firearm-activities-in-foreign-trade-zones-customs-bonded-warehouses/)** — `2026-05-08` | `7 Pages`
-- `[`2026-09161`]` **[Interstate Transport and Temporary Export of National Firearms Act Firearms](https://www.indexdata.org/interstate-transport-and-temporary-export-of-national-firearms-act-firearms/)** — `2026-05-08` | `9 Pages`
-- `[`2026-09160`]` **[Implementing PATRIOT Act Improvements: Contraband Cigarettes and Smokeless Tobacco](https://www.indexdata.org/implementing-patriot-act-improvements-contraband-cigarettes-and-smokeless-tobacco/)** — `2026-05-08` | `16 Pages`
-- `[`2026-09159`]` **[Defining “Willfully” for Firearms Violations](https://www.indexdata.org/defining-willfully-for-firearms-violations/)** — `2026-05-08` | `9 Pages`
-- `[`2026-09158`]` **[Firearms Electronic Record-Keeping](https://www.indexdata.org/firearms-electronic-record-keeping/)** — `2026-05-08` | `7 Pages`
-- `[`2026-09157`]` **[Revising Non-Over-the-Counter Firearms Transaction Requirements](https://www.indexdata.org/revising-non-over-the-counter-firearms-transaction-requirements/)** — `2026-05-08` | `13 Pages`
-- `[`2026-09156`]` **[Revising Definitions of “Adjudicated as a Mental Defective” and “Committed to a Mental Institution”](https://www.indexdata.org/revising-definitions-of-adjudicated-as-a-mental-defective-and-committed-to-a-mental-institution/)** — `2026-05-08` | `22 Pages`
-
 ### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 
@@ -1556,6 +1544,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mi
 - `[`2026-12482`]` **[West Virginia Regulatory Program](https://www.indexdata.org/west-virginia-regulatory-program/)** — `2026-06-22` | `8 Pages`
 - `[`2026-10722`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-6/)** — `2026-05-29` | `12 Pages`
 - `[`2026-10202`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program/)** — `2026-05-21` | `5 Pages`
+
+### [Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
+
+- `[`2026-16981`]` **[Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms](https://www.indexdata.org/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition-receipt-transfer-shipment-transportation-or-possession-of-firearms/)** — `2026-08-20` | `40 Pages`
+- `[`2026-13587`]` **[Fingerprint and Photograph Requirements for Firearms Applications](https://www.indexdata.org/fingerprint-and-photograph-requirements-for-firearms-applications/)** — `2026-07-06` | `21 Pages`
+- `[`2026-13586`]` **[Registering NFA Firearms That Fall Out of Government Contract](https://www.indexdata.org/registering-nfa-firearms-that-fall-out-of-government-contract/)** — `2026-07-06` | `11 Pages`
+- `[`2026-09182`]` **[Revising Firearms Transaction Record, “Form 4473”](https://www.indexdata.org/revising-firearms-transaction-record-form-4473/)** — `2026-05-08` | `16 Pages`
+- `[`2026-09165`]` **[Removing Youth Handgun Safety Act Notice](https://www.indexdata.org/removing-youth-handgun-safety-act-notice/)** — `2026-05-08` | `6 Pages`
+- `[`2026-09164`]` **[Converting Temporary to Permanent Imports for Defense Articles](https://www.indexdata.org/converting-temporary-to-permanent-imports-for-defense-articles/)** — `2026-05-08` | `8 Pages`
+- `[`2026-09163`]` **[Importing Dual-Use Frames, Receivers, or Barrels](https://www.indexdata.org/importing-dual-use-frames-receivers-or-barrels/)** — `2026-05-08` | `10 Pages`
+- `[`2026-09162`]` **[Firearm Activities in Foreign Trade Zones, Customs-Bonded Warehouses](https://www.indexdata.org/firearm-activities-in-foreign-trade-zones-customs-bonded-warehouses/)** — `2026-05-08` | `7 Pages`
 
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
