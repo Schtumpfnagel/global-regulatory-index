@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `176` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-10 17:57 UTC`
+**Total Indexed Dossiers in Ireland:** `178` across `38` issuing authorities  
+**Last Automated Sync:** `2026-11-10 18:59 UTC`
 
 ---
 
@@ -17,6 +17,7 @@
 - **[Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
 - **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
 - **[Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
+- **[Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
 - **[Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
 - **[Minister for Finance](https://www.indexdata.org/ireland/minister-for-finance/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-finance/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-finance/feed/)
 - **[Minister for Housing, Local Government and Heritage](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/feed/)
@@ -25,7 +26,6 @@
 - **[Department of Agriculture and Fisheries](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/feed/)
 - **[Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
 - **[Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
-- **[Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
 - **[Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
 - **[Minister for Climate, Energy and the Environment](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/feed/)
 - **[The Pensions Authority](https://www.indexdata.org/ireland/the-pensions-authority/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-pensions-authority/) | [RSS Feed](https://www.indexdata.org/ireland/the-pensions-authority/feed/)
@@ -53,7 +53,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–176 of 176)
+## Indexed Statutory & Regulatory Dossiers (Records 1–178 of 178)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -134,6 +134,17 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/seanad-ireann/](
 - `[`IE-BILL-2026-60`]` **[Electoral (Amendment) (Voting Age) Bill 2026](https://www.indexdata.org/electoral-amendment-voting-age-bill-2026/)** — `2026-06-10` | `8 Pages`
 - `[`IE-BILL-2026-56`]` **[Prohibition of Lethal Autonomous Weapons Systems Bill 2026](https://www.indexdata.org/prohibition-of-lethal-autonomous-weapons-systems-bill-2026/)** — `2026-05-27` | `8 Pages`
 - `[`IE-BILL-2026-55`]` **[Air Navigation and Transport (Amendment) Bill 2026](https://www.indexdata.org/air-navigation-and-transport-amendment-bill-2026/)** — `2026-05-27` | `10 Pages`
+
+### [Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
+
+- `[`IE-DATAGOV-d8092fff-40f7-4b`]` **[2019 Local election results](https://www.indexdata.org/2019-local-election-results/)** — `2026-11-10` | `250 Pages`
+- `[`IE-DATAGOV-a346551c-eb44-4a`]` **[2014 Local election results](https://www.indexdata.org/2014-local-election-results/)** — `2026-11-10` | `360 Pages`
+- `[`IE-DATAGOV-a8f25da2-31ac-40`]` **[1945 Local election results](https://www.indexdata.org/1945-local-election-results/)** — `2026-11-06` | `152 Pages`
+- `[`IE-DATAGOV-70055dc1-1f18-43`]` **[2024 Local election results](https://www.indexdata.org/2024-local-election-results/)** — `2026-10-30` | `332 Pages`
+- `[`IE-DATAGOV-0f259824-1e75-4e`]` **[1999 Local election results](https://www.indexdata.org/1999-local-election-results/)** — `2026-10-30` | `200 Pages`
+- `[`IE-DATAGOV-b6764a8a-2b78-4f`]` **[2004 Local election results](https://www.indexdata.org/2004-local-election-results/)** — `2026-10-29` | `241 Pages`
+- `[`IE-DATAGOV-9c3feb52-06fb-4f`]` **[Harbour Seal Moult Thermal-imaging Aerial Survey 2024](https://www.indexdata.org/harbour-seal-moult-thermal-imaging-aerial-survey-2024/)** — `2026-03-24` | `39 Pages`
 
 ### [Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/health-research-board-hrb/](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
@@ -219,15 +230,6 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-hea
 - `[`IE-ACT-2026-17`]` **[Health (Amendment) (Home Support Providers) Act 2026](https://www.indexdata.org/health-amendment-home-support-providers-act-2026/)** — `2026-07-01` | `45 Pages`
 - `[`IE-ACT-2025-14`]` **[Health Insurance (Amendment) Act 2025](https://www.indexdata.org/health-insurance-amendment-act-2025/)** — `2025-12-10` | `10 Pages`
 - `[`IE-ACT-2024-42`]` **[Health Insurance (Amendment) and Health (Provision of Menopause Products) Act 2024](https://www.indexdata.org/health-insurance-amendment-and-health-provision-of-menopause-products-act-2024/)** — `2024-11-11` | `13 Pages`
-
-### [Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)
-Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
-
-- `[`IE-DATAGOV-a8f25da2-31ac-40`]` **[1945 Local election results](https://www.indexdata.org/1945-local-election-results/)** — `2026-11-06` | `152 Pages`
-- `[`IE-DATAGOV-70055dc1-1f18-43`]` **[2024 Local election results](https://www.indexdata.org/2024-local-election-results/)** — `2026-10-30` | `332 Pages`
-- `[`IE-DATAGOV-0f259824-1e75-4e`]` **[1999 Local election results](https://www.indexdata.org/1999-local-election-results/)** — `2026-10-30` | `200 Pages`
-- `[`IE-DATAGOV-b6764a8a-2b78-4f`]` **[2004 Local election results](https://www.indexdata.org/2004-local-election-results/)** — `2026-10-29` | `241 Pages`
-- `[`IE-DATAGOV-9c3feb52-06fb-4f`]` **[Harbour Seal Moult Thermal-imaging Aerial Survey 2024](https://www.indexdata.org/harbour-seal-moult-thermal-imaging-aerial-survey-2024/)** — `2026-03-24` | `39 Pages`
 
 ### [Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/irish-fiscal-advisory-council/](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)

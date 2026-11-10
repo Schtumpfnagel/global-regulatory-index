@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,564` across `65` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,572` across `65` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-10 17:57 UTC`
+**Last Automated Sync:** `2026-11-10 18:59 UTC`
 
 ---
 
@@ -28,7 +28,7 @@
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
-- **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
+- **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
@@ -81,7 +81,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,564)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,572)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -326,7 +326,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKPGA-2025-25`]` **[Deprivation of Citizenship Orders (Effect during Appeal) Act 2025](https://www.indexdata.org/deprivation-of-citizenship-orders-effect-during-appeal-act-2025/)** — `2025-10-27` | `7 Pages`
 - `[`UKPGA-2025-24`]` **[Bus Services Act 2025](https://www.indexdata.org/bus-services-act-2025/)** — `2025-10-27` | `57 Pages`
 - `[`UKSI-2025-1124`]` **[The Byers Gill Solar (Correction) Order 2025](https://www.indexdata.org/the-byers-gill-solar-correction-order-2025/)** — `2025-10-24` | `4 Pages`
-- `[`UKSI-2025-1175`]` **[The Stonestreet Green Solar Order 2025](https://www.indexdata.org/the-stonestreet-green-solar-order-2025/)** — `2025-10-22` | `168 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -461,7 +460,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2025-1144`]` **[The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2025](https://www.indexdata.org/the-income-tax-pay-as-you-earn-amendment-no-2-regulations-2025/)** — `2025-10-30` | `2 Pages`
 - `[`UKSI-2025-1130`]` **[The Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025](https://www.indexdata.org/the-post-office-capture-redress-scheme-tax-exemptions-and-relief-regulations-2025/)** — `2025-10-28` | `4 Pages`
 - `[`UKSI-2025-1135`]` **[The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025](https://www.indexdata.org/the-carbon-dioxide-transport-and-storage-licensed-operators-administration-england-and-wales-rules-2025/)** — `2025-10-23` | `80 Pages`
-- `[`UKSI-2025-1113`]` **[The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025](https://www.indexdata.org/the-occupational-pension-schemes-collective-money-purchase-schemes-miscellaneous-amendments-regulations-2025/)** — `2025-10-22` | `4 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -762,7 +760,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1181`]` **[The Civil Enforcement of Parking Contraventions (County of East Sussex) (Amendment), Bus Lane Contraventions (Approved Local Authorities) (Amendment) and Moving Traffic Contraventions Designation Order 2025](https://www.indexdata.org/the-civil-enforcement-of-parking-contraventions-county-of-east-sussex-amendment-bus-lane-contraventions-approved-local-authorities-amendment-and-moving-traffic-contraventions-designation-orde/)** — `2025-11-11` | `4 Pages`
 - `[`UKSI-2025-1179`]` **[The Access to the Countryside (Coastal Margin) (Portsmouth to South Hayling) Order 2025](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-portsmouth-to-south-hayling-order-2025/)** — `2025-11-11` | `4 Pages`
 - `[`UKSI-2025-1150`]` **[The Aviation Safety (Amendment) Regulations 2025](https://www.indexdata.org/the-aviation-safety-amendment-regulations-2025/)** — `2025-10-28` | `8 Pages`
-- `[`UKSI-2025-1134`]` **[The Football Governance Act 2025 (Commencement No. 1) Regulations 2025](https://www.indexdata.org/the-football-governance-act-2025-commencement-no-1-regulations-2025/)** — `2025-10-23` | `2 Pages`
 
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
@@ -847,7 +844,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1189`]` **[The Control of Mercury (Enforcement) (Amendment) Regulations 2025](https://www.indexdata.org/the-control-of-mercury-enforcement-amendment-regulations-2025/)** — `2025-11-12` | `4 Pages`
 - `[`UKSI-2025-1170`]` **[The Phytosanitary Conditions (Amendment) (No. 2) Regulations 2025](https://www.indexdata.org/the-phytosanitary-conditions-amendment-no-2-regulations-2025/)** — `2025-11-05` | `8 Pages`
 - `[`UKSI-2025-1129`]` **[The Bathing Water (Amendment) (England and Wales) Regulations 2025](https://www.indexdata.org/the-bathing-water-amendment-england-and-wales-regulations-2025/)** — `2025-10-27` | `8 Pages`
-- `[`UKSI-2025-1111`]` **[The Organic Production (Amendment) Regulations 2025](https://www.indexdata.org/the-organic-production-amendment-regulations-2025/)** — `2025-10-21` | `4 Pages`
 
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
@@ -922,7 +918,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1184`]` **[The Education (Inspectors of Education and Training in Wales) Order 2025](https://www.indexdata.org/the-education-inspectors-of-education-and-training-in-wales-order-2025/)** — `2025-11-12` | `2 Pages`
 - `[`UKSI-2025-1166`]` **[The Diocese of Leeds (Educational Endowments) (Horton in Ribblesdale Church of England School) Order 2025](https://www.indexdata.org/the-diocese-of-leeds-educational-endowments-horton-in-ribblesdale-church-of-england-school-order-2025/)** — `2025-11-07` | `5 Pages`
 - `[`UKSI-2025-1127`]` **[The Power to Award Degrees etc. (University for the Creative Arts) Order 2025](https://www.indexdata.org/the-power-to-award-degrees-etc-university-for-the-creative-arts-order-2025/)** — `2025-10-24` | `2 Pages`
-- `[`UKSI-2025-1120`]` **[The Coasting Schools (England) (Amendment) Regulations 2025](https://www.indexdata.org/the-coasting-schools-england-amendment-regulations-2025/)** — `2025-10-23` | `4 Pages`
 
 ### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
@@ -1126,8 +1121,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1153`]` **[The Employment Tribunals (Early Conciliation: Exemptions and Rules of Procedure) (Amendment) Regulations 2025](https://www.indexdata.org/the-employment-tribunals-early-conciliation-exemptions-and-rules-of-procedure-amendment-regulations-2025/)** — `2025-11-03` | `2 Pages`
 - `[`UKSI-2025-1152`]` **[The Companies (Directors’ Report) (Payment Reporting) Regulations 2025](https://www.indexdata.org/the-companies-directors-report-payment-reporting-regulations-2025/)** — `2025-10-30` | `8 Pages`
 - `[`UKSI-2025-1137`]` **[The Registrar of Companies (Fees) (Amendment) Regulations 2025](https://www.indexdata.org/the-registrar-of-companies-fees-amendment-regulations-2025/)** — `2025-10-28` | `8 Pages`
-- `[`UKSI-2025-1118`]` **[The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 6 and Transitional Provisions) Regulations 2025](https://www.indexdata.org/the-economic-crime-and-corporate-transparency-act-2023-commencement-no-6-and-transitional-provisions-regulations-2025/)** — `2025-10-22` | `12 Pages`
-- `[`UKSI-2025-1116`]` **[The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025](https://www.indexdata.org/the-companies-and-limited-liability-partnerships-annotations-application-and-modification-of-company-law-and-consequential-amendments-regulations-2025/)** — `2025-10-22` | `12 Pages`
 
 ### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
@@ -1189,7 +1182,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1173`]` **[The Energy Act 2023 (Commencement No. 4) Regulations 2025](https://www.indexdata.org/the-energy-act-2023-commencement-no-4-regulations-2025/)** — `2025-11-06` | `4 Pages`
 - `[`UKSI-2025-1171`]` **[The Nuclear Installations (Prescribed Conditions and Excepted Matter) Regulations 2025](https://www.indexdata.org/the-nuclear-installations-prescribed-conditions-and-excepted-matter-regulations-2025/)** — `2025-11-06` | `4 Pages`
 - `[`UKSI-2025-1227`]` **[The Cory Decarbonisation Project Order 2025](https://www.indexdata.org/the-cory-decarbonisation-project-order-2025/)** — `2025-11-05` | `144 Pages`
-- `[`UKSI-2025-1123`]` **[The Mona Offshore Wind Farm (Correction) Order 2025](https://www.indexdata.org/the-mona-offshore-wind-farm-correction-order-2025/)** — `2025-10-23` | `8 Pages`
 
 ### [Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
@@ -1360,6 +1352,40 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1148`]` **[The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) Order 2025](https://www.indexdata.org/the-welfare-reform-act-2012-commencement-no-35-abolition-of-benefits-order-2025/)** — `2025-10-29` | `16 Pages`
 - `[`UKSI-2025-1132`]` **[The Social Security (Contributions) (Amendment No. 7) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-7-regulations-2025/)** — `2025-10-28` | `4 Pages`
 
+### [Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-defence/](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
+
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-37`]` **[Military Court Service sentencing remarks 2026 — Rex v Lance Bombardier Mosese Lewanivusu NASILASILA](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-lance-bombardier-mosese-lewanivusu-nasilasila/)** — `2026-11-10` | `5 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-36`]` **[Military Court Service sentencing remarks 2026 — Rex v Chief Technician Damian Jame Parr](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-chief-technician-damian-jame-parr/)** — `2026-11-10` | `5 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-35`]` **[Military Court Service sentencing remarks 2026 — R v Lance Corporal Terry DEADMAN](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-r-v-lance-corporal-terry-deadman/)** — `2026-11-10` | `8 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-34`]` **[Military Court Service sentencing remarks 2026 — Rex v Corporal Shayne Joshua Jack Hewitt and Corporal Alexander James Conway](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-corporal-shayne-joshua-jack-hewitt-and-corporal-alexander-james-conway/)** — `2026-11-10` | `6 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-33`]` **[Military Court Service sentencing remarks 2026 — Rex v Able Rate Reece Lee Nicholls](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-able-rate-reece-lee-nicholls/)** — `2026-11-10` | `3 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-32`]` **[Military Court Service sentencing remarks 2026 — R v Lance Corporal Cameron James WALSH](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-r-v-lance-corporal-cameron-james-walsh/)** — `2026-11-10` | `3 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-31`]` **[Military Court Service sentencing remarks 2026 — Rex v Air Trooper William Park](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-air-trooper-william-park/)** — `2026-11-10` | `5 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-30`]` **[Military Court Service sentencing remarks 2026 — Rex v Air Recruit Ben Mason](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-air-recruit-ben-mason/)** — `2026-11-10` | `4 Pages`
+- `[`UK-GOV-a3107397-b4ba-4b54-a8a1-04a07ada0b30-1`]` **[Atomic Weapons Establishment (AWE) annual report and accounts 2025-26 — AWE annual report and accounts 2025-26](https://www.indexdata.org/atomic-weapons-establishment-awe-annual-report-and-accounts-2025-26-awe-annual-report-and-accounts-2025-26/)** — `2026-11-10` | `154 Pages`
+- `[`UK-GOV-5c904541-7631-11e4-a3cb-005056011aef-9`]` **[Defence direction and guidance for training and education (JSP 822) — Chapter 7: Specific learning differences](https://www.indexdata.org/defence-direction-and-guidance-for-training-and-education-jsp-822-chapter-7-specific-learning-differences/)** — `2026-11-10` | `19 Pages`
+- `[`UK-GOV-5c904541-7631-11e4-a3cb-005056011aef-8`]` **[Defence direction and guidance for training and education (JSP 822) — Chapter 6: Functional skills (literacy and numeracy)](https://www.indexdata.org/defence-direction-and-guidance-for-training-and-education-jsp-822-chapter-6-functional-skills-literacy-and-numeracy/)** — `2026-11-10` | `16 Pages`
+- `[`UK-GOV-5c904541-7631-11e4-a3cb-005056011aef-7`]` **[Defence direction and guidance for training and education (JSP 822) — Chapter 5: Apprenticeships and accreditation](https://www.indexdata.org/defence-direction-and-guidance-for-training-and-education-jsp-822-chapter-5-apprenticeships-and-accreditation/)** — `2026-11-10` | `29 Pages`
+- `[`UK-GOV-5c904541-7631-11e4-a3cb-005056011aef-6`]` **[Defence direction and guidance for training and education (JSP 822) — Chapter 4: Care and welfare in training](https://www.indexdata.org/defence-direction-and-guidance-for-training-and-education-jsp-822-chapter-4-care-and-welfare-in-training/)** — `2026-11-10` | `61 Pages`
+- `[`UK-GOV-b3c047ed-62e2-4e96-9c6b-7ee75586f944-1`]` **[JADTEU airportability information and design guide](https://www.indexdata.org/jadteu-airportability-information-and-design-guide/)** — `2026-11-09` | `122 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-9`]` **[Military Court Service sentencing remarks 2026 — Rex v Trooper Joeli Naikelekele Ratu](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-trooper-joeli-naikelekele-ratu/)** — `2026-11-06` | `4 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-8`]` **[Military Court Service sentencing remarks 2026 — Rex v Lance Corporal Michael Alan Ward](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-lance-corporal-michael-alan-ward/)** — `2026-11-06` | `6 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-7`]` **[Military Court Service sentencing remarks 2026 — Rex v Captain Thomas Joseph Davies](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-captain-thomas-joseph-davies/)** — `2026-11-06` | `4 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-6`]` **[Military Court Service sentencing remarks 2026 — Rex v Lance Corporal Ganeshkumar Lawati](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-lance-corporal-ganeshkumar-lawati/)** — `2026-11-06` | `5 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-5`]` **[Military Court Service sentencing remarks 2026 — Rex v Private Raiv Francis](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-private-raiv-francis/)** — `2026-11-06` | `5 Pages`
+- `[`UK-GOV-409bd3d9-7f5c-47d0-86c6-70185af80d3c-1`]` **[The Service Complaint Process — The Service Complaint Process: Easy-read guide](https://www.indexdata.org/the-service-complaint-process-the-service-complaint-process-easy-read-guide/)** — `2026-11-06` | `3 Pages`
+- `[`UK-GOV-5fd979be-7631-11e4-a3cb-005056011aef-6`]` **[Notice of proposed amendments (NPA) documents — NPA 26/18](https://www.indexdata.org/notice-of-proposed-amendments-npa-documents-npa-26-18/)** — `2026-11-04` | `8 Pages`
+- `[`UKSI-2026-1066`]` **[The Armed Forces (Service Complaints Miscellaneous Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-armed-forces-service-complaints-miscellaneous-provisions-amendment-regulations-2026/)** — `2026-10-06` | `4 Pages`
+- `[`UKSI-2026-1068`]` **[The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-armed-forces-service-complaints-amendment-no-2-regulations-2026/)** — `2026-10-05` | `4 Pages`
+- `[`UKSI-2026-1067`]` **[The Armed Forces Commissioner Act 2025 (Commencement No. 2) Regulations 2026](https://www.indexdata.org/the-armed-forces-commissioner-act-2025-commencement-no-2-regulations-2026/)** — `2026-10-01` | `2 Pages`
+- `[`UKSI-2026-693`]` **[The Armed Forces (Review of Court Martial Sentence) (Amendment and Supplementary Provision) Regulations 2026](https://www.indexdata.org/the-armed-forces-review-of-court-martial-sentence-amendment-and-supplementary-provision-regulations-2026/)** — `2026-06-24` | `8 Pages`
+- `[`UKSI-2026-372`]` **[The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026](https://www.indexdata.org/the-armed-forces-commissioner-family-definition-and-consequential-and-transitional-provision-etc-regulations-2026/)** — `2026-03-23` | `4 Pages`
+- `[`UKSI-2026-286`]` **[The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2026](https://www.indexdata.org/the-protection-of-military-remains-act-1986-designation-of-vessels-and-controlled-sites-order-2026/)** — `2026-03-09` | `8 Pages`
+- `[`UKSI-2026-24`]` **[The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026](https://www.indexdata.org/the-armed-forces-commissioner-service-complaints-investigations-regulations-2026/)** — `2026-01-08` | `12 Pages`
+- `[`UKSI-2026-14`]` **[The Armed Forces Commissioner Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026](https://www.indexdata.org/the-armed-forces-commissioner-act-2025-commencement-no-1-and-transitional-and-saving-provisions-regulations-2026/)** — `2026-01-08` | `4 Pages`
+- `[`UKSI-2026-21`]` **[The Armed Forces (Service Complaints) (Amendment) Regulations 2026](https://www.indexdata.org/the-armed-forces-service-complaints-amendment-regulations-2026/)** — `2026-01-07` | `2 Pages`
+
 ### [HM Government](https://www.indexdata.org/united-kingdom/hm-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government/](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 
@@ -1450,32 +1476,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/animal-an
 - `[`UK-DGOV-e769d17f-71f-b30cfcbd-fdb`]` **[List of Type 2 (Long Journey) Authorised Transporters — Authorised Transporters November 2022](https://www.indexdata.org/list-of-type-2-long-journey-authorised-transporters-authorised-transporters-november-2022/)** — `2026-11-04` | `43 Pages`
 - `[`UK-DGOV-e769d17f-71f-b307f3b6-809`]` **[List of Type 2 (Long Journey) Authorised Transporters — Authorised Transporters April 2026](https://www.indexdata.org/list-of-type-2-long-journey-authorised-transporters-authorised-transporters-april-2026/)** — `2026-11-04` | `44 Pages`
 - `[`UK-DGOV-e769d17f-71f-a96a8b1e-ab3`]` **[List of Type 2 (Long Journey) Authorised Transporters — Authorised Transporters October 2023](https://www.indexdata.org/list-of-type-2-long-journey-authorised-transporters-authorised-transporters-october-2023/)** — `2026-11-04` | `40 Pages`
-
-### [Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-defence/](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
-
-- `[`UK-GOV-a3107397-b4ba-4b54-a8a1-04a07ada0b30-1`]` **[Atomic Weapons Establishment (AWE) annual report and accounts 2025-26 — AWE annual report and accounts 2025-26](https://www.indexdata.org/atomic-weapons-establishment-awe-annual-report-and-accounts-2025-26-awe-annual-report-and-accounts-2025-26/)** — `2026-11-10` | `154 Pages`
-- `[`UK-GOV-5c904541-7631-11e4-a3cb-005056011aef-9`]` **[Defence direction and guidance for training and education (JSP 822) — Chapter 7: Specific learning differences](https://www.indexdata.org/defence-direction-and-guidance-for-training-and-education-jsp-822-chapter-7-specific-learning-differences/)** — `2026-11-10` | `19 Pages`
-- `[`UK-GOV-5c904541-7631-11e4-a3cb-005056011aef-8`]` **[Defence direction and guidance for training and education (JSP 822) — Chapter 6: Functional skills (literacy and numeracy)](https://www.indexdata.org/defence-direction-and-guidance-for-training-and-education-jsp-822-chapter-6-functional-skills-literacy-and-numeracy/)** — `2026-11-10` | `16 Pages`
-- `[`UK-GOV-5c904541-7631-11e4-a3cb-005056011aef-7`]` **[Defence direction and guidance for training and education (JSP 822) — Chapter 5: Apprenticeships and accreditation](https://www.indexdata.org/defence-direction-and-guidance-for-training-and-education-jsp-822-chapter-5-apprenticeships-and-accreditation/)** — `2026-11-10` | `29 Pages`
-- `[`UK-GOV-5c904541-7631-11e4-a3cb-005056011aef-6`]` **[Defence direction and guidance for training and education (JSP 822) — Chapter 4: Care and welfare in training](https://www.indexdata.org/defence-direction-and-guidance-for-training-and-education-jsp-822-chapter-4-care-and-welfare-in-training/)** — `2026-11-10` | `61 Pages`
-- `[`UK-GOV-b3c047ed-62e2-4e96-9c6b-7ee75586f944-1`]` **[JADTEU airportability information and design guide](https://www.indexdata.org/jadteu-airportability-information-and-design-guide/)** — `2026-11-09` | `122 Pages`
-- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-9`]` **[Military Court Service sentencing remarks 2026 — Rex v Trooper Joeli Naikelekele Ratu](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-trooper-joeli-naikelekele-ratu/)** — `2026-11-06` | `4 Pages`
-- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-8`]` **[Military Court Service sentencing remarks 2026 — Rex v Lance Corporal Michael Alan Ward](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-lance-corporal-michael-alan-ward/)** — `2026-11-06` | `6 Pages`
-- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-7`]` **[Military Court Service sentencing remarks 2026 — Rex v Captain Thomas Joseph Davies](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-captain-thomas-joseph-davies/)** — `2026-11-06` | `4 Pages`
-- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-6`]` **[Military Court Service sentencing remarks 2026 — Rex v Lance Corporal Ganeshkumar Lawati](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-lance-corporal-ganeshkumar-lawati/)** — `2026-11-06` | `5 Pages`
-- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-5`]` **[Military Court Service sentencing remarks 2026 — Rex v Private Raiv Francis](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-private-raiv-francis/)** — `2026-11-06` | `5 Pages`
-- `[`UK-GOV-409bd3d9-7f5c-47d0-86c6-70185af80d3c-1`]` **[The Service Complaint Process — The Service Complaint Process: Easy-read guide](https://www.indexdata.org/the-service-complaint-process-the-service-complaint-process-easy-read-guide/)** — `2026-11-06` | `3 Pages`
-- `[`UK-GOV-5fd979be-7631-11e4-a3cb-005056011aef-6`]` **[Notice of proposed amendments (NPA) documents — NPA 26/18](https://www.indexdata.org/notice-of-proposed-amendments-npa-documents-npa-26-18/)** — `2026-11-04` | `8 Pages`
-- `[`UKSI-2026-1066`]` **[The Armed Forces (Service Complaints Miscellaneous Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-armed-forces-service-complaints-miscellaneous-provisions-amendment-regulations-2026/)** — `2026-10-06` | `4 Pages`
-- `[`UKSI-2026-1068`]` **[The Armed Forces (Service Complaints) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-armed-forces-service-complaints-amendment-no-2-regulations-2026/)** — `2026-10-05` | `4 Pages`
-- `[`UKSI-2026-1067`]` **[The Armed Forces Commissioner Act 2025 (Commencement No. 2) Regulations 2026](https://www.indexdata.org/the-armed-forces-commissioner-act-2025-commencement-no-2-regulations-2026/)** — `2026-10-01` | `2 Pages`
-- `[`UKSI-2026-693`]` **[The Armed Forces (Review of Court Martial Sentence) (Amendment and Supplementary Provision) Regulations 2026](https://www.indexdata.org/the-armed-forces-review-of-court-martial-sentence-amendment-and-supplementary-provision-regulations-2026/)** — `2026-06-24` | `8 Pages`
-- `[`UKSI-2026-372`]` **[The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026](https://www.indexdata.org/the-armed-forces-commissioner-family-definition-and-consequential-and-transitional-provision-etc-regulations-2026/)** — `2026-03-23` | `4 Pages`
-- `[`UKSI-2026-286`]` **[The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2026](https://www.indexdata.org/the-protection-of-military-remains-act-1986-designation-of-vessels-and-controlled-sites-order-2026/)** — `2026-03-09` | `8 Pages`
-- `[`UKSI-2026-24`]` **[The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026](https://www.indexdata.org/the-armed-forces-commissioner-service-complaints-investigations-regulations-2026/)** — `2026-01-08` | `12 Pages`
-- `[`UKSI-2026-14`]` **[The Armed Forces Commissioner Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026](https://www.indexdata.org/the-armed-forces-commissioner-act-2025-commencement-no-1-and-transitional-and-saving-provisions-regulations-2026/)** — `2026-01-08` | `4 Pages`
-- `[`UKSI-2026-21`]` **[The Armed Forces (Service Complaints) (Amendment) Regulations 2026](https://www.indexdata.org/the-armed-forces-service-complaints-amendment-regulations-2026/)** — `2026-01-07` | `2 Pages`
 
 ### [Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/marine-management-organisation/](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
