@@ -5,18 +5,18 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,513` across `61` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,519` across `63` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-10 13:10 UTC`
+**Last Automated Sync:** `2026-11-10 14:15 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (61 Authorities)
+## Issuing Authorities in United Kingdom (63 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`183` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
-- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`169` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
+- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`171` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`145` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
@@ -51,6 +51,8 @@
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
 - **[Foreign, Commonwealth & Development Office](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/feed/)
+- **[Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
+- **[Independent Chief Inspector of Borders and Immigration](https://www.indexdata.org/united-kingdom/independent-chief-inspector-of-borders-and-immigration/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/independent-chief-inspector-of-borders-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/independent-chief-inspector-of-borders-and-immigration/feed/)
 - **[Intellectual Property Office](https://www.indexdata.org/united-kingdom/intellectual-property-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/intellectual-property-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/intellectual-property-office/feed/)
 - **[Office of Communications (OFCOM)](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/feed/)
 - **[Secretary of State](https://www.indexdata.org/united-kingdom/secretary-of-state/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/secretary-of-state/) | [RSS Feed](https://www.indexdata.org/united-kingdom/secretary-of-state/feed/)
@@ -77,11 +79,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,513 of 2,513)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,519 of 2,519)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2025-997`]` **[The Environment Agency (Holme Styes Reservoir) Drought (No. 2) Order 2025](https://www.indexdata.org/the-environment-agency-holme-styes-reservoir-drought-no-2-order-2025/)** — `2025-09-04` | `3 Pages`
+- `[`UKSI-2025-996`]` **[The Data (Use and Access) Act 2025 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2025](https://www.indexdata.org/the-data-use-and-access-act-2025-commencement-no-3-and-transitional-and-saving-provisions-regulations-2025/)** — `2025-09-04` | `4 Pages`
 - `[`UKSI-2025-982`]` **[The Data (Use and Access) Act 2025 (Commencement No. 2) Regulations 2025](https://www.indexdata.org/the-data-use-and-access-act-2025-commencement-no-2-regulations-2025/)** — `2025-09-02` | `4 Pages`
 - `[`UKSI-2025-967`]` **[The Wireless Telegraphy (Licence Charges for the 900 MHz Frequency Band and the 1800 MHz Frequency Band) Regulations 2025](https://www.indexdata.org/the-wireless-telegraphy-licence-charges-for-the-900-mhz-frequency-band-and-the-1800-mhz-frequency-band-regulations-2025/)** — `2025-08-13` | `4 Pages`
 - `[`UKPGA-2025-21`]` **[Football Governance Act 2025](https://www.indexdata.org/football-governance-act-2025/)** — `2025-07-21` | `136 Pages`
@@ -812,6 +816,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 
+- `[`UKSI-2025-998`]` **[The Serious Organised Crime and Police Act 2005 (Designated Sites under Section 128) (Amendment) Order 2025](https://www.indexdata.org/the-serious-organised-crime-and-police-act-2005-designated-sites-under-section-128-amendment-order-2025/)** — `2025-09-04` | `4 Pages`
 - `[`UKSI-2025-875`]` **[The Justice and Security (Northern Ireland) Act 2007 (Extension of Duration of Non-jury Trial Provisions) Order 2025](https://www.indexdata.org/the-justice-and-security-northern-ireland-act-2007-extension-of-duration-of-non-jury-trial-provisions-order-2025/)** — `2025-07-15` | `2 Pages`
 - `[`UKSI-2025-681`]` **[The Criminal Justice Act 1988 (Offensive Weapons) (Amendment, Surrender and Compensation) (England and Wales) Order 2025](https://www.indexdata.org/the-criminal-justice-act-1988-offensive-weapons-amendment-surrender-and-compensation-england-and-wales-order-2025/)** — `2025-06-11` | `16 Pages`
 - `[`UKSI-2025-663`]` **[The Immigration (Exemption from Control) (Amendment) Order 2025](https://www.indexdata.org/the-immigration-exemption-from-control-amendment-order-2025/)** — `2025-06-05` | `2 Pages`
@@ -878,6 +883,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 
+- `[`UKSI-2025-999`]` **[The Competition Appeal Tribunal (Amendment) Rules 2025](https://www.indexdata.org/the-competition-appeal-tribunal-amendment-rules-2025/)** — `2025-09-04` | `8 Pages`
 - `[`UKSI-2025-874`]` **[The Protection and Disclosure of Personal Information (Amendment) Regulations 2025](https://www.indexdata.org/the-protection-and-disclosure-of-personal-information-amendment-regulations-2025/)** — `2025-07-15` | `16 Pages`
 - `[`UKSI-2025-679`]` **[The Trade Marks (Isle of Man) (Amendment) Order 2025](https://www.indexdata.org/the-trade-marks-isle-of-man-amendment-order-2025/)** — `2025-06-11` | `4 Pages`
 - `[`UKSI-2025-651`]` **[The Register of Overseas Entities (Annotation) Regulations 2025](https://www.indexdata.org/the-register-of-overseas-entities-annotation-regulations-2025/)** — `2025-06-02` | `4 Pages`
@@ -999,6 +1005,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 
+- `[`UKSI-2025-993`]` **[The Legislative Reform (Disclosure of Adult Social Care Data) Order 2025](https://www.indexdata.org/the-legislative-reform-disclosure-of-adult-social-care-data-order-2025/)** — `2025-09-03` | `4 Pages`
 - `[`UKSI-2025-989`]` **[The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025](https://www.indexdata.org/the-national-health-service-pharmaceutical-and-local-pharmaceutical-services-miscellaneous-amendments-regulations-2025/)** — `2025-09-01` | `36 Pages`
 - `[`UKSI-2025-987`]` **[The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2025](https://www.indexdata.org/the-national-health-service-general-medical-services-contracts-prescription-of-drugs-etc-amendment-regulations-2025/)** — `2025-09-01` | `2 Pages`
 - `[`UKSI-2025-986`]` **[The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2025 (revoked)](https://www.indexdata.org/the-personal-injuries-nhs-charges-amounts-amendment-regulations-2025-revoked/)** — `2025-09-01` | `4 Pages`
@@ -1097,6 +1104,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 
+- `[`UKSI-2025-1004`]` **[The Non-Contentious Probate (Amendment) Rules 2025](https://www.indexdata.org/the-non-contentious-probate-amendment-rules-2025/)** — `2025-09-05` | `8 Pages`
 - `[`UKSI-2025-611`]` **[The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025](https://www.indexdata.org/the-legal-aid-sentencing-and-punishment-of-offenders-act-2012-legal-aid-domestic-abuse-miscellaneous-amendments-order-2025/)** — `2025-05-20` | `8 Pages`
 - `[`UKSI-2025-561`]` **[The Tribunal Procedure (Amendment) Rules 2025](https://www.indexdata.org/the-tribunal-procedure-amendment-rules-2025/)** — `2025-05-07` | `8 Pages`
 - `[`UKSI-2025-536`]` **[The Online Procedure Rules (Specified Proceedings) Regulations 2025](https://www.indexdata.org/the-online-procedure-rules-specified-proceedings-regulations-2025/)** — `2025-04-29` | `2 Pages`
