@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/italy/feed/](https://www.indexdata.org/italy/feed/)  
 **Wikidata Sovereign Entity:** [`Q38`](https://www.wikidata.org/wiki/Q38)  
 **Governing Open-Government Framework:** *Decreto Legislativo n. 36/2006 & Legge n. 633/1941 art. 5*  
-**Total Indexed Dossiers in Italy:** `68` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-10 14:15 UTC`
+**Total Indexed Dossiers in Italy:** `71` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-10 15:04 UTC`
 
 ---
 
@@ -14,13 +14,13 @@
 
 - **[National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
 - **[National Research Council of Italy (CNR)](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/) | [RSS Feed](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/feed/)
+- **[Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
 - **[Italian National Institute of Statistics (ISTAT)](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/) | [RSS Feed](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/feed/)
-- **[Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
 - **[National Institute for Astrophysics (INAF)](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–68 of 68)
+## Indexed Statutory & Regulatory Dossiers (Records 1–71 of 71)
 
 ### [National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
@@ -83,6 +83,18 @@ Canonical Authority Archive: [https://www.indexdata.org/italy/national-research-
 - `[`IT-CNR-145487`]` **[Effect of laser pulse energies in laser induced breakdown spectroscopy in double-pulse configuration](https://www.indexdata.org/effect-of-laser-pulse-energies-in-laser-induced-breakdown-spectroscopy-in-double-pulse-configuration/)** — `2024-02-18` | `10 Pages`
 - `[`IT-CNR-372063`]` **[Molecular dynamics calculation of the spectral densities of plasma fluctuations](https://www.indexdata.org/molecular-dynamics-calculation-of-the-spectral-densities-of-plasma-fluctuations/)** — `2024-02-17` | `12 Pages`
 
+### [Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)
+Canonical Authority Archive: [https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
+
+- `[`IT-ENAC-83622`]` **[Accident victims and their Families Assistance Plan](https://www.indexdata.org/accident-victims-and-their-families-assistance-plan/)** — `2026-11-10` | `44 Pages`
+- `[`IT-ENAC-83620`]` **[Manuale “Allerta aeromobile all’interno del sedime aeroportuale”Aeroporto Leonardo Da Vinci](https://www.indexdata.org/manuale-allerta-aeromobile-allinterno-del-sedime-aeroportualeaeroporto-leonardo-da-vinci-2/)** — `2026-11-10` | `53 Pages`
+- `[`IT-ENAC-83619`]` **[Manuale “Allerta aeromobile all’interno del sedime aeroportuale”Aeroporto Leonardo Da Vinci](https://www.indexdata.org/manuale-allerta-aeromobile-allinterno-del-sedime-aeroportualeaeroporto-leonardo-da-vinci/)** — `2026-11-10` | `53 Pages`
+- `[`IT-ENAC-76925`]` **[UAS Recognized Entities Novembre 2026](https://www.indexdata.org/uas-recognized-entities-novembre-2026/)** — `2026-11-05` | `14 Pages`
+- `[`IT-ENAC-83211`]` **[CARTA DEI SERVIZI Forlì 2026](https://www.indexdata.org/carta-dei-servizi-forli-2026/)** — `2026-10-22` | `38 Pages`
+- `[`IT-ENAC-83209`]` **[carta dei servizi Parma 2026](https://www.indexdata.org/carta-dei-servizi-parma-2026/)** — `2026-10-22` | `24 Pages`
+- `[`IT-ENAC-83207`]` **[Carta dei Servizi Bologna 2026](https://www.indexdata.org/carta-dei-servizi-bologna-2026/)** — `2026-10-22` | `49 Pages`
+- `[`IT-ENAC-83205`]` **[Carta dei Servizi Rimini 2026](https://www.indexdata.org/carta-dei-servizi-rimini-2026/)** — `2026-10-22` | `50 Pages`
+
 ### [Italian National Institute of Statistics (ISTAT)](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/) | [RSS Feed](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/feed/)
 
@@ -93,15 +105,6 @@ Canonical Authority Archive: [https://www.indexdata.org/italy/italian-national-i
 - `[`IT-ISTAT-121530`]` **[Report Competitiveness 2026-Executive Summary](https://www.indexdata.org/report-competitiveness-2026-executive-summary/)** — `2026-03-20` | `6 Pages`
 - `[`IT-ISTAT-116626`]` **[REPORT_lingue e dialetti-def](https://www.indexdata.org/report_lingue-e-dialetti-def/)** — `2026-01-27` | `15 Pages`
 - `[`IT-ISTAT-113871`]` **[Statistica Report Cst 2023 En](https://www.indexdata.org/statistica-report-cst-2023-en-2/)** — `2025-12-15` | `9 Pages`
-
-### [Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)
-Canonical Authority Archive: [https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
-
-- `[`IT-ENAC-76925`]` **[UAS Recognized Entities Novembre 2026](https://www.indexdata.org/uas-recognized-entities-novembre-2026/)** — `2026-11-05` | `14 Pages`
-- `[`IT-ENAC-83211`]` **[CARTA DEI SERVIZI Forlì 2026](https://www.indexdata.org/carta-dei-servizi-forli-2026/)** — `2026-10-22` | `38 Pages`
-- `[`IT-ENAC-83209`]` **[carta dei servizi Parma 2026](https://www.indexdata.org/carta-dei-servizi-parma-2026/)** — `2026-10-22` | `24 Pages`
-- `[`IT-ENAC-83207`]` **[Carta dei Servizi Bologna 2026](https://www.indexdata.org/carta-dei-servizi-bologna-2026/)** — `2026-10-22` | `49 Pages`
-- `[`IT-ENAC-83205`]` **[Carta dei Servizi Rimini 2026](https://www.indexdata.org/carta-dei-servizi-rimini-2026/)** — `2026-10-22` | `50 Pages`
 
 ### [National Institute for Astrophysics (INAF)](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/feed/)

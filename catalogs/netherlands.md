@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/netherlands/feed/](https://www.indexdata.org/netherlands/feed/)  
 **Wikidata Sovereign Entity:** [`Q55`](https://www.wikidata.org/wiki/Q55)  
 **Governing Open-Government Framework:** *Auteurswet Art. 11 & Art. 15b / Who / CC0 1.0 / CC BY 4.0*  
-**Total Indexed Dossiers in Netherlands:** `31` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-10 14:15 UTC`
+**Total Indexed Dossiers in Netherlands:** `32` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-10 15:04 UTC`
 
 ---
 
 ## Issuing Authorities in Netherlands (5 Authorities)
 
-- **[Royal Netherlands Aerospace Centre (NLR)](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/) | [RSS Feed](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/feed/)
+- **[Royal Netherlands Aerospace Centre (NLR)](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/) | [RSS Feed](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/feed/)
 - **[Research and Data Centre - Ministry of Justice and Security (WODC)](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/) | [RSS Feed](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/feed/)
 - **[Centrum Wiskunde & Informatica (CWI)](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/) | [RSS Feed](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/feed/)
 - **[House of Representatives of the Netherlands (Tweede Kamer)](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/) | [RSS Feed](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/feed/)
@@ -20,7 +20,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–31 of 31)
+## Indexed Statutory & Regulatory Dossiers (Records 1–32 of 32)
 
 ### [Royal Netherlands Aerospace Centre (NLR)](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/)
 Canonical Authority Archive: [https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/) | [RSS Feed](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/feed/)
@@ -40,6 +40,7 @@ Canonical Authority Archive: [https://www.indexdata.org/netherlands/royal-nether
 - `[`NL-NLR-1916`]` **[On the effect of infrared camera positioning for in-flight boundary layer transition measurements](https://www.indexdata.org/on-the-effect-of-infrared-camera-positioning-for-in-flight-boundary-layer-transition-measurements/)** — `2026-01-01` | `10 Pages`
 - `[`NL-NLR-1908`]` **[Assessing the Impact of Uncontrolled Space Object Re-entries on Air Traffic Management Operations](https://www.indexdata.org/assessing-the-impact-of-uncontrolled-space-object-re-entries-on-air-traffic-management-operations/)** — `2026-01-01` | `12 Pages`
 - `[`NL-NLR-1855`]` **[Aircraft Collision Risk Modelling for the Determination of Separation Minima](https://www.indexdata.org/aircraft-collision-risk-modelling-for-the-determination-of-separation-minima/)** — `2026-01-01` | `640 Pages`
+- `[`NL-NLR-WP-15204`]` **[E1841 v12 Research and development more electric and hydrogen powered aerospace](https://www.indexdata.org/e1841-v12-research-and-development-more-electric-and-hydrogen-powered-aerospace-2/)** — `2025-12-01` | `52 Pages`
 - `[`NL-NLR-WP-15106`]` **[E1841 v12 Research and development more electric and hydrogen powered aerospace](https://www.indexdata.org/e1841-v12-research-and-development-more-electric-and-hydrogen-powered-aerospace/)** — `2025-12-01` | `52 Pages`
 
 ### [Research and Data Centre - Ministry of Justice and Security (WODC)](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/)

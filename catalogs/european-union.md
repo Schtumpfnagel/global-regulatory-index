@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `3,947` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `3,980` across `29` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md)  
-**Last Automated Sync:** `2026-11-10 14:15 UTC`
+**Last Automated Sync:** `2026-11-10 15:04 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,216` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
-- **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,024` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,242` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,025` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`624` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
-- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`241` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
+- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`247` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 - **[European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)** (`129` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/) | [Wikidata `Q130146`](https://www.wikidata.org/wiki/Q130146)
 - **[European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
@@ -45,11 +45,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,947)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,980)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 
+- `[`CELEX-52026XC05957`]` **[Publication of the communication of an approved standard amendment to a product specification of a geographical indication in accordance with Article 5(4) of Commission Delegated Regulation (EU) 2025/27](https://www.indexdata.org/publication-of-the-communication-of-an-approved-standard-amendment-to-a-product-specification-of-a-geographical-indication-in-accordance-with-article-54-of-commission-delegated-regulation-eu-2025-14/)** — `2026-11-10` | `30 Pages`
 - `[`CELEX-52026XC05951`]` **[Information notice – Public consultation – Crafts and Industrial Geographical indications from Thailand](https://www.indexdata.org/information-notice-public-consultation-crafts-and-industrial-geographical-indications-from-thailand/)** — `2026-11-09` | `2 Pages`
 - `[`CELEX-52026M12678`]` **[Prior notification of a concentration (Case M.12678 – ARES / EQT / STATERA JV ASSETS) – Candidate case for simplified procedure](https://www.indexdata.org/prior-notification-of-a-concentration-case-m-12678-ares-eqt-statera-jv-assets-candidate-case-for-simplified-procedure/)** — `2026-11-09` | `2 Pages`
 - `[`CELEX-52026M12588`]` **[Prior notification of a concentration (Case M.12588 – IGNIS P2X / ACCIONA DATA CENTERS / ACCIONA DESARROLLOS Y PROYECTOS RENOVABLES / IGNIS DATA EPTA AND ESTRIBO SOLAR) – Candidate case for simplified procedure](https://www.indexdata.org/prior-notification-of-a-concentration-case-m-12588-ignis-p2x-acciona-data-centers-acciona-desarrollos-y-proyectos-renovables-ignis-data-epta-and-estribo-solar-candidate-cas/)** — `2026-11-09` | `2 Pages`
@@ -1522,7 +1523,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EMN-14669-call-for-members`]` **[EIB Institute & European Microfinance: Call for members](https://www.indexdata.org/eib-institute-european-microfinance-call-for-members/)** — `2026-04-28` | `2 Pages`
 - `[`EIB-ELENA-118-project-factsheet-crpigb-cr`]` **[EIB ELENA Factsheet: 118 Project Factsheet Crpigb cr](https://www.indexdata.org/eib-elena-factsheet-118-project-factsheet-crpigb-cr/)** — `2026-04-09` | `2 Pages`
 - `[`EIB-ELENA-138-project-factsheet-residential-energy-rehabilitation-rer`]` **[EIB ELENA Factsheet: 138 Project Factsheet Residential Energy Rehabilitation rer](https://www.indexdata.org/eib-elena-factsheet-138-project-factsheet-residential-energy-rehabilitation-rer/)** — `2026-03-06` | `2 Pages`
-- `[`EIB-ELENA-127-project-factsheet-top-condomini`]` **[EIB ELENA Factsheet: 127 Project Factsheet top Condomini](https://www.indexdata.org/eib-elena-factsheet-127-project-factsheet-top-condomini/)** — `2026-03-06` | `2 Pages`
 
 ### [European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-central-bank-ecb/](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/)

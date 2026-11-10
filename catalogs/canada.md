@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,370` across `26` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,372` across `26` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-10 14:15 UTC`
+**Last Automated Sync:** `2026-11-10 15:04 UTC`
 
 ---
 
@@ -29,9 +29,9 @@
 - **[Immigration, Refugees and Citizenship Canada](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/) | [RSS Feed](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/feed/)
 - **[Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
-- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
+- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
-- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
+- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
@@ -42,7 +42,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,370)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,372)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -966,8 +966,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-67-619`]` **[Pay and Allowances Regulations (DSPCA)](https://www.indexdata.org/pay-and-allowances-regulations-dspca/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-67-346`]` **[Canadian Vickers Dry Dock Regulations](https://www.indexdata.org/canadian-vickers-dry-dock-regulations/)** — `2026-09-30` | `17 Pages`
 - `[`SOR-66-78`]` **[Canadian Forces Superannuation Special Election Regulations](https://www.indexdata.org/canadian-forces-superannuation-special-election-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-66-506`]` **[Foreign Claims (Bulgaria) Settlement Regulations](https://www.indexdata.org/foreign-claims-bulgaria-settlement-regulations/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-65-410`]` **[Transitional Assistance Benefit Regulations](https://www.indexdata.org/transitional-assistance-benefit-regulations/)** — `2026-09-30` | `15 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1494,6 +1492,27 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/crown-indigenous-
 - `[`SOR-86-490`]` **[Cree-Naskapi Long-Term Borrowing Regulations, 1986](https://www.indexdata.org/cree-naskapi-long-term-borrowing-regulations-1986/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-86-1070`]` **[Cree-Naskapi Land Registry Regulations](https://www.indexdata.org/cree-naskapi-land-registry-regulations/)** — `2026-09-30` | `27 Pages`
 
+### [International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/international-development-research-centre/](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
+
+- `[`CA-IDRC-10625-69535`]` **[Care Proofing Nairobi's Toilets Riverbank Housing and Flood Warnings](https://www.indexdata.org/care-proofing-nairobis-toilets-riverbank-housing-and-flood-warnings-2/)** — `2026-11-01` | `7 Pages`
+- `[`CA-IDRC-10625-69534`]` **[Paid Once Never Followed Up Relocation Eviction and Finance for Women](https://www.indexdata.org/paid-once-never-followed-up-relocation-eviction-and-finance-for-women-2/)** — `2026-11-01` | `7 Pages`
+- `[`CA-IDRC-10625-69533`]` **[Care Proofing Nairobi's Toilets Riverbank Housing and Flood Warnings](https://www.indexdata.org/care-proofing-nairobis-toilets-riverbank-housing-and-flood-warnings/)** — `2026-11-01` | `7 Pages`
+- `[`CA-IDRC-10625-69532`]` **[Paid Once Never Followed Up Relocation Eviction and Finance for Women](https://www.indexdata.org/paid-once-never-followed-up-relocation-eviction-and-finance-for-women/)** — `2026-11-01` | `7 Pages`
+- `[`CA-IDRC-10625-69530`]` **[Caregivers Mental Health Belongs in Kenya's Disaster and Climate Response](https://www.indexdata.org/caregivers-mental-health-belongs-in-kenyas-disaster-and-climate-response-2/)** — `2026-11-01` | `7 Pages`
+- `[`CA-IDRC-10625-69529`]` **[Kenya's Climate and Gender Plans Are Silent on Violence After Floods](https://www.indexdata.org/kenyas-climate-and-gender-plans-are-silent-on-violence-after-floods/)** — `2026-11-01` | `7 Pages`
+- `[`CA-IDRC-10625-69528`]` **[Caregivers Mental Health Belongs in Kenya's Disaster and Climate Response](https://www.indexdata.org/caregivers-mental-health-belongs-in-kenyas-disaster-and-climate-response/)** — `2026-11-01` | `7 Pages`
+- `[`CA-IDRC-10625-69527`]` **[Final Technical Report](https://www.indexdata.org/final-technical-report/)** — `2026-11-01` | `58 Pages`
+- `[`CA-IDRC-10625-69526`]` **[Final Technical Report](https://www.indexdata.org/final-technical-report-2/)** — `2026-11-01` | `58 Pages`
+- `[`CA-IDRC-10625-69525`]` **[Zimbabwe le coût humain du boom du lithium](https://www.indexdata.org/zimbabwe-le-cout-humain-du-boom-du-lithium/)** — `2026-11-01` | `2 Pages`
+- `[`CA-IDRC-10625-69524`]` **[Ghana le changement climatique fragilise aussi ceux qui soignent](https://www.indexdata.org/ghana-le-changement-climatique-fragilise-aussi-ceux-qui-soignent/)** — `2026-11-01` | `2 Pages`
+- `[`CA-IDRC-10625-69444`]` **[Moving to impact : benefits of locally led adaptation](https://www.indexdata.org/moving-to-impact-benefits-of-locally-led-adaptation/)** — `2026-11-01` | `9 Pages`
+- `[`CA-IDRC-10625-69400`]` **[Piloting the upscaling of Community-Based Flood Early Warning Systems Durban](https://www.indexdata.org/piloting-the-upscaling-of-community-based-flood-early-warning-systems-durban/)** — `2026-10-01` | `54 Pages`
+- `[`CA-IDRC-10625-69378`]` **[Impact of Culturally Responsive Teaching Practices on Social and Emotional Development of Early Learners in Ethically Diverse Classrooms in Ghana](https://www.indexdata.org/impact-of-culturally-responsive-teaching-practices-on-social-and-emotional-development-of-early-learners-in-ethically-diverse-classrooms-in-ghana/)** — `2026-10-01` | `36 Pages`
+- `[`CA-IDRC-10625-69368`]` **[Microbiological and genomic approaches to study and characterize co and cross resistance to antimicrobial peptides in Listeria monocytogenes ATCC 19 111 variants](https://www.indexdata.org/microbiological-and-genomic-approaches-to-study-and-characterize-co-and-cross-resistance-to-antimicrobial-peptides-in-listeria-monocytogenes-atcc-19-111-variants/)** — `2026-10-01` | `57 Pages`
+- `[`CA-IDRC-10625-69363`]` **[Final Technical Report_Consejo Latinoamericano de Ciencias Sociales](https://www.indexdata.org/final-technical-report_consejo-latinoamericano-de-ciencias-sociales/)** — `2026-10-01` | `20 Pages`
+- `[`CA-IDRC-10625-69194`]` **[Help seeking for intimate partner violence in a resource-constrained setting A latent class analysis of the Nigerian demographic health survey dataset](https://www.indexdata.org/help-seeking-for-intimate-partner-violence-in-a-resource-constrained-setting-a-latent-class-analysis-of-the-nigerian-demographic-health-survey-dataset/)** — `2026-10-01` | `2 Pages`
+
 ### [Employment and Social Development Canada](https://www.indexdata.org/canada/employment-and-social-development-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/employment-and-social-development-canada/](https://www.indexdata.org/canada/employment-and-social-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/employment-and-social-development-canada/feed/)
 
@@ -1513,26 +1532,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/employment-and-so
 - `[`SOR-84-435`]` **[Uranium Mines (Ontario) Occupational Health and Safety Regulations](https://www.indexdata.org/uranium-mines-ontario-occupational-health-and-safety-regulations/)** — `2026-09-30` | `13 Pages`
 - `[`SOR-84-349`]` **[Water Supply and Sewage Disposal Services Charges Order (Peace River-Liard Regional District)](https://www.indexdata.org/water-supply-and-sewage-disposal-services-charges-order-peace-river-liard-regional-district/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-83-813`]` **[Unemployment Insurance Account Advance Regulations](https://www.indexdata.org/unemployment-insurance-account-advance-regulations/)** — `2026-09-30` | `7 Pages`
-
-### [International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/international-development-research-centre/](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
-
-- `[`CA-IDRC-10625-69534`]` **[Paid Once Never Followed Up Relocation Eviction and Finance for Women](https://www.indexdata.org/paid-once-never-followed-up-relocation-eviction-and-finance-for-women-2/)** — `2026-11-01` | `7 Pages`
-- `[`CA-IDRC-10625-69533`]` **[Care Proofing Nairobi's Toilets Riverbank Housing and Flood Warnings](https://www.indexdata.org/care-proofing-nairobis-toilets-riverbank-housing-and-flood-warnings/)** — `2026-11-01` | `7 Pages`
-- `[`CA-IDRC-10625-69532`]` **[Paid Once Never Followed Up Relocation Eviction and Finance for Women](https://www.indexdata.org/paid-once-never-followed-up-relocation-eviction-and-finance-for-women/)** — `2026-11-01` | `7 Pages`
-- `[`CA-IDRC-10625-69530`]` **[Caregivers Mental Health Belongs in Kenya's Disaster and Climate Response](https://www.indexdata.org/caregivers-mental-health-belongs-in-kenyas-disaster-and-climate-response-2/)** — `2026-11-01` | `7 Pages`
-- `[`CA-IDRC-10625-69529`]` **[Kenya's Climate and Gender Plans Are Silent on Violence After Floods](https://www.indexdata.org/kenyas-climate-and-gender-plans-are-silent-on-violence-after-floods/)** — `2026-11-01` | `7 Pages`
-- `[`CA-IDRC-10625-69528`]` **[Caregivers Mental Health Belongs in Kenya's Disaster and Climate Response](https://www.indexdata.org/caregivers-mental-health-belongs-in-kenyas-disaster-and-climate-response/)** — `2026-11-01` | `7 Pages`
-- `[`CA-IDRC-10625-69527`]` **[Final Technical Report](https://www.indexdata.org/final-technical-report/)** — `2026-11-01` | `58 Pages`
-- `[`CA-IDRC-10625-69526`]` **[Final Technical Report](https://www.indexdata.org/final-technical-report-2/)** — `2026-11-01` | `58 Pages`
-- `[`CA-IDRC-10625-69525`]` **[Zimbabwe le coût humain du boom du lithium](https://www.indexdata.org/zimbabwe-le-cout-humain-du-boom-du-lithium/)** — `2026-11-01` | `2 Pages`
-- `[`CA-IDRC-10625-69524`]` **[Ghana le changement climatique fragilise aussi ceux qui soignent](https://www.indexdata.org/ghana-le-changement-climatique-fragilise-aussi-ceux-qui-soignent/)** — `2026-11-01` | `2 Pages`
-- `[`CA-IDRC-10625-69444`]` **[Moving to impact : benefits of locally led adaptation](https://www.indexdata.org/moving-to-impact-benefits-of-locally-led-adaptation/)** — `2026-11-01` | `9 Pages`
-- `[`CA-IDRC-10625-69400`]` **[Piloting the upscaling of Community-Based Flood Early Warning Systems Durban](https://www.indexdata.org/piloting-the-upscaling-of-community-based-flood-early-warning-systems-durban/)** — `2026-10-01` | `54 Pages`
-- `[`CA-IDRC-10625-69378`]` **[Impact of Culturally Responsive Teaching Practices on Social and Emotional Development of Early Learners in Ethically Diverse Classrooms in Ghana](https://www.indexdata.org/impact-of-culturally-responsive-teaching-practices-on-social-and-emotional-development-of-early-learners-in-ethically-diverse-classrooms-in-ghana/)** — `2026-10-01` | `36 Pages`
-- `[`CA-IDRC-10625-69368`]` **[Microbiological and genomic approaches to study and characterize co and cross resistance to antimicrobial peptides in Listeria monocytogenes ATCC 19 111 variants](https://www.indexdata.org/microbiological-and-genomic-approaches-to-study-and-characterize-co-and-cross-resistance-to-antimicrobial-peptides-in-listeria-monocytogenes-atcc-19-111-variants/)** — `2026-10-01` | `57 Pages`
-- `[`CA-IDRC-10625-69363`]` **[Final Technical Report_Consejo Latinoamericano de Ciencias Sociales](https://www.indexdata.org/final-technical-report_consejo-latinoamericano-de-ciencias-sociales/)** — `2026-10-01` | `20 Pages`
-- `[`CA-IDRC-10625-69194`]` **[Help seeking for intimate partner violence in a resource-constrained setting A latent class analysis of the Nigerian demographic health survey dataset](https://www.indexdata.org/help-seeking-for-intimate-partner-violence-in-a-resource-constrained-setting-a-latent-class-analysis-of-the-nigerian-demographic-health-survey-dataset/)** — `2026-10-01` | `2 Pages`
 
 ### [Environment and Climate Change Canada](https://www.indexdata.org/canada/environment-and-climate-change-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/environment-and-climate-change-canada/](https://www.indexdata.org/canada/environment-and-climate-change-canada/) | [RSS Feed](https://www.indexdata.org/canada/environment-and-climate-change-canada/feed/)
@@ -1567,6 +1566,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/agriculture-and-a
 ### [Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/fisheries-and-oceans-canada/](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 
+- `[`CA-OPEN-c30dc299-9026-4c44-b631`]` **[Dietary composition and sources of variability in emerging offshore grey seal colonies in the Northwest Atlantic](https://www.indexdata.org/dietary-composition-and-sources-of-variability-in-emerging-offshore-grey-seal-colonies-in-the-northwest-atlantic/)** — `2026-11-01` | `2 Pages`
 - `[`CA-OPEN-996ae476-109c-4baf-b820`]` **[Fishery resources and habitats in a headwater lake of the Brock River, Northwest Territories -water quality data.](https://www.indexdata.org/fishery-resources-and-habitats-in-a-headwater-lake-of-the-brock-river-northwest-territories-water-quality-data/)** — `2026-11-01` | `3 Pages`
 - `[`CA-OPEN-39acf317-c6c1-4ee6-a474-15a1979e140a`]` **[A Comparative Evaluation of the Efficacy of the Tobique River Atlantic Salmon Smolt-to-Adult Supplementation Program](https://www.indexdata.org/a-comparative-evaluation-of-the-efficacy-of-the-tobique-river-atlantic-salmon-smolt-to-adult-supplementation-program/)** — `2026-10-16` | `2 Pages`
 - `[`SOR-90-351`]` **[Management of Contaminated Fisheries Regulations](https://www.indexdata.org/management-of-contaminated-fisheries-regulations/)** — `2026-09-30` | `6 Pages`

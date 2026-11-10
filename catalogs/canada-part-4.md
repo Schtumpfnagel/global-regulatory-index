@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,370` across `26` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,372` across `26` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-10 14:15 UTC`
+**Last Automated Sync:** `2026-11-10 15:04 UTC`
 
 ---
 
@@ -29,9 +29,9 @@
 - **[Immigration, Refugees and Citizenship Canada](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/) | [RSS Feed](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/feed/)
 - **[Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
-- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
+- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
-- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
+- **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
@@ -42,11 +42,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,370 of 5,370)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,372 of 5,372)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`Q-0.5`]` **[Qalipu Mi’kmaq First Nation Act](https://www.indexdata.org/qalipu-mikmaq-first-nation-act/)** — `2026-09-30` | `5 Pages`
 - `[`P-8.6`]` **[Personal Information Protection and Electronic Documents Act](https://www.indexdata.org/personal-information-protection-and-electronic-documents-act/)** — `2026-09-30` | `71 Pages`
 - `[`P-8.3`]` **[Perfluorooctane Sulfonate Virtual Elimination Act](https://www.indexdata.org/perfluorooctane-sulfonate-virtual-elimination-act/)** — `2026-09-30` | `3 Pages`
 - `[`P-4.7`]` **[An Act to authorize certain payments to be made out of the Consolidated Revenue Fund for the purpose of improving housing supply](https://www.indexdata.org/an-act-to-authorize-certain-payments-to-be-made-out-of-the-consolidated-revenue-fund-for-the-purpose-of-improving-housing-supply/)** — `2026-09-30` | `4 Pages`
@@ -874,6 +875,22 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/agriculture-and-a
 - `[`CA-OPEN-b604f77c-f3e8-4af2-90d8-01e87fe5e435`]` **[Canadian Agricultural Crop Water Balance (CACWB) – Watershed Aggregates](https://www.indexdata.org/canadian-agricultural-crop-water-balance-cacwb-watershed-aggregates/)** — `2026-03-31` | `34 Pages`
 - `[`CA-OPEN-9b9b725e-e5f9-43b6-a3e5-74dd663c99a1`]` **[Agri-Environmental Indicator – Risk of Water Contamination by Pesticides](https://www.indexdata.org/agri-environmental-indicator-risk-of-water-contamination-by-pesticides/)** — `2021-10-14` | `23 Pages`
 
+### [Health Canada](https://www.indexdata.org/canada/health-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/health-canada/](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)
+
+- `[`P-9.01`]` **[Pest Control Products Act](https://www.indexdata.org/pest-control-products-act/)** — `2026-09-30` | `89 Pages`
+- `[`P-9`]` **[Pest Control Products Act](https://www.indexdata.org/pest-control-products-act-2/)** — `2026-09-30` | `3 Pages`
+- `[`P-29.71`]` **[Public Health Events of National Concern Payments Act](https://www.indexdata.org/public-health-events-of-national-concern-payments-act-2/)** — `2026-09-30` | `3 Pages`
+- `[`P-29.7`]` **[Public Health Events of National Concern Payments Act](https://www.indexdata.org/public-health-events-of-national-concern-payments-act/)** — `2026-09-30` | `3 Pages`
+- `[`P-29.5`]` **[Public Health Agency of Canada Act](https://www.indexdata.org/public-health-agency-of-canada-act/)** — `2026-09-30` | `12 Pages`
+- `[`H-5.67`]` **[Human Pathogens and Toxins Act](https://www.indexdata.org/human-pathogens-and-toxins-act/)** — `2026-09-30` | `69 Pages`
+- `[`H-3`]` **[Hazardous Products Act](https://www.indexdata.org/hazardous-products-act/)** — `2026-09-30` | `44 Pages`
+- `[`H-2.71`]` **[An Act to amend the Hazardous Products Act and the Canada Labour Code, to enact the Hazardous Materials Information Review Act and to amend other Acts in relation thereto](https://www.indexdata.org/an-act-to-amend-the-hazardous-products-act-and-the-canada-labour-code-to-enact-the-hazardous-materials-information-review-act-and-to-amend-other-acts-in-relation-thereto/)** — `2026-09-30` | `7 Pages`
+- `[`F-27`]` **[Food and Drugs Act](https://www.indexdata.org/food-and-drugs-act/)** — `2026-09-30` | `84 Pages`
+- `[`C-38.8`]` **[Controlled Drugs and Substances Act](https://www.indexdata.org/controlled-drugs-and-substances-act/)** — `2026-09-30` | `117 Pages`
+- `[`C-24.5`]` **[Cannabis Act](https://www.indexdata.org/cannabis-act/)** — `2026-09-30` | `132 Pages`
+- `[`A-13.4`]` **[Assisted Human Reproduction Act](https://www.indexdata.org/assisted-human-reproduction-act/)** — `2026-09-30` | `28 Pages`
+
 ### [Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
 
@@ -904,21 +921,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/fisheries-and-oce
 - `[`CA-OPEN-30444c8b-a9f6-4b16-befa-22f967b583e5`]` **[Sponge occurrence and associated species and habitat descriptions derived from the 2021 and 2022 SCUBA diving surveys in the Eastern Shore Islands Area of Interest, Nova Scotia](https://www.indexdata.org/sponge-occurrence-and-associated-species-and-habitat-descriptions-derived-from-the-2021-and-2022-scuba-diving-surveys-in-the-eastern-shore-islands-area-of-interest-nova-scotia/)** — `2025-05-16` | `129 Pages`
 - `[`CA-OA-W7133275554`]` **[Review of the Atlantic Seal management strategy precautionary approach framework](https://www.indexdata.org/review-of-the-atlantic-seal-management-strategy-precautionary-approach-framework/)** — `2025-01-01` | `29 Pages`
 - `[`CA-OA-W7133286685`]` **[Recovery Potential Assessment for Southern British Columbian Chinook Populations, Fraser and Southern Mainland Chinook Designatable Units (1, 6, 13 and 15)](https://www.indexdata.org/recovery-potential-assessment-for-southern-british-columbian-chinook-populations-fraser-and-southern-mainland-chinook-designatable-units-1-6-13-and-15/)** — `2023-01-01` | `308 Pages`
-
-### [Health Canada](https://www.indexdata.org/canada/health-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/health-canada/](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)
-
-- `[`P-9`]` **[Pest Control Products Act](https://www.indexdata.org/pest-control-products-act-2/)** — `2026-09-30` | `3 Pages`
-- `[`P-29.71`]` **[Public Health Events of National Concern Payments Act](https://www.indexdata.org/public-health-events-of-national-concern-payments-act-2/)** — `2026-09-30` | `3 Pages`
-- `[`P-29.7`]` **[Public Health Events of National Concern Payments Act](https://www.indexdata.org/public-health-events-of-national-concern-payments-act/)** — `2026-09-30` | `3 Pages`
-- `[`P-29.5`]` **[Public Health Agency of Canada Act](https://www.indexdata.org/public-health-agency-of-canada-act/)** — `2026-09-30` | `12 Pages`
-- `[`H-5.67`]` **[Human Pathogens and Toxins Act](https://www.indexdata.org/human-pathogens-and-toxins-act/)** — `2026-09-30` | `69 Pages`
-- `[`H-3`]` **[Hazardous Products Act](https://www.indexdata.org/hazardous-products-act/)** — `2026-09-30` | `44 Pages`
-- `[`H-2.71`]` **[An Act to amend the Hazardous Products Act and the Canada Labour Code, to enact the Hazardous Materials Information Review Act and to amend other Acts in relation thereto](https://www.indexdata.org/an-act-to-amend-the-hazardous-products-act-and-the-canada-labour-code-to-enact-the-hazardous-materials-information-review-act-and-to-amend-other-acts-in-relation-thereto/)** — `2026-09-30` | `7 Pages`
-- `[`F-27`]` **[Food and Drugs Act](https://www.indexdata.org/food-and-drugs-act/)** — `2026-09-30` | `84 Pages`
-- `[`C-38.8`]` **[Controlled Drugs and Substances Act](https://www.indexdata.org/controlled-drugs-and-substances-act/)** — `2026-09-30` | `117 Pages`
-- `[`C-24.5`]` **[Cannabis Act](https://www.indexdata.org/cannabis-act/)** — `2026-09-30` | `132 Pages`
-- `[`A-13.4`]` **[Assisted Human Reproduction Act](https://www.indexdata.org/assisted-human-reproduction-act/)** — `2026-09-30` | `28 Pages`
 
 ### [Environment and Climate Change Canada](https://www.indexdata.org/canada/environment-and-climate-change-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/environment-and-climate-change-canada/](https://www.indexdata.org/canada/environment-and-climate-change-canada/) | [RSS Feed](https://www.indexdata.org/canada/environment-and-climate-change-canada/feed/)
