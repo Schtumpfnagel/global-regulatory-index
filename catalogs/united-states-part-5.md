@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,222` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,226` across `231` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 16:01 UTC`
+**Last Automated Sync:** `2026-11-10 17:01 UTC`
 
 ---
 
@@ -102,6 +102,7 @@
 - **[Engineers Corps](https://www.indexdata.org/united-states/engineers-corps/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/engineers-corps/) | [RSS Feed](https://www.indexdata.org/united-states/engineers-corps/feed/)
 - **[Treasury Department](https://www.indexdata.org/united-states/treasury-department/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/treasury-department/) | [RSS Feed](https://www.indexdata.org/united-states/treasury-department/feed/)
 - **[U.S. Department of Transportation (USDOT)](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Census Bureau](https://www.indexdata.org/united-states/census-bureau/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
 - **[Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
 - **[Federal Railroad Administration (FRA)](https://www.indexdata.org/united-states/federal-railroad-administration-fra/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-railroad-administration-fra/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration-fra/feed/)
@@ -114,7 +115,6 @@
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
@@ -168,13 +168,13 @@
 - **[National Indian Gaming Commission](https://www.indexdata.org/united-states/national-indian-gaming-commission/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-indian-gaming-commission/) | [RSS Feed](https://www.indexdata.org/united-states/national-indian-gaming-commission/feed/)
 - **[National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
 - **[State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)
+- **[Executive Office of the President (The White House)](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/feed/)
 - **[Indian Health Service](https://www.indexdata.org/united-states/indian-health-service/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-health-service/) | [RSS Feed](https://www.indexdata.org/united-states/indian-health-service/feed/)
 - **[National Institute of Standards and Technology](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/feed/)
 - **[National Park Service (NPS)](https://www.indexdata.org/united-states/national-park-service-nps/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service-nps/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service-nps/feed/)
 - **[Office of the Attorney General](https://www.indexdata.org/united-states/office-of-the-attorney-general/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/office-of-the-attorney-general/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-attorney-general/feed/)
 - **[Committee for Purchase From People Who Are Blind or Severely Disabled](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/) | [RSS Feed](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/feed/)
 - **[Community Living Administration](https://www.indexdata.org/united-states/community-living-administration/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/community-living-administration/) | [RSS Feed](https://www.indexdata.org/united-states/community-living-administration/feed/)
-- **[Executive Office of the President (The White House)](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/feed/)
 - **[National Endowment for the Arts](https://www.indexdata.org/united-states/national-endowment-for-the-arts/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-endowment-for-the-arts/) | [RSS Feed](https://www.indexdata.org/united-states/national-endowment-for-the-arts/feed/)
 - **[National Energy Technology Laboratory (U.S. Department of Energy)](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/) | [RSS Feed](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/feed/)
 - **[Office of the Secretary of Labor](https://www.indexdata.org/united-states/office-of-the-secretary-of-labor/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/office-of-the-secretary-of-labor/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary-of-labor/feed/)
@@ -247,11 +247,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,222)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,226)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-12894`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-124/)** — `2025-07-10` | `3 Pages`
+- `[`2025-12893`]` **[Airworthiness Directives; Dassault Aviation Airplanes](https://www.indexdata.org/airworthiness-directives-dassault-aviation-airplanes-23/)** — `2025-07-10` | `3 Pages`
+- `[`2025-12885`]` **[Removal of Class E Airspace; Sunbury, PA](https://www.indexdata.org/removal-of-class-e-airspace-sunbury-pa/)** — `2025-07-10` | `2 Pages`
 - `[`2025-12875`]` **[Airworthiness Directives; DG Aviation GmbH (Type Certificate Previously Held by DG Flugzeugbau GmbH) Gliders](https://www.indexdata.org/airworthiness-directives-dg-aviation-gmbh-type-certificate-previously-held-by-dg-flugzeugbau-gmbh-gliders-3/)** — `2025-07-10` | `3 Pages`
 - `[`2025-12873`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-103/)** — `2025-07-10` | `3 Pages`
 - `[`2025-12860`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-125/)** — `2025-07-10` | `4 Pages`
@@ -666,8 +669,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-02668`]` **[Revocation of Class E Airspace; Pinecreek, MN](https://www.indexdata.org/revocation-of-class-e-airspace-pinecreek-mn-2/)** — `2025-02-18` | `2 Pages`
 - `[`2025-02633`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-177/)** — `2025-02-18` | `4 Pages`
 - `[`2025-02628`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-80/)** — `2025-02-18` | `2 Pages`
-- `[`2025-02627`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-81/)** — `2025-02-18` | `3 Pages`
-- `[`2025-02619`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-32/)** — `2025-02-18` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -847,7 +848,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-02996`]` **[Bacillus Thuringiensis Strain EX 297512 in Pesticide Formulations; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/bacillus-thuringiensis-strain-ex-297512-in-pesticide-formulations-exemption-from-the-requirement-of-a-tolerance/)** — `2025-02-25` | `5 Pages`
 - `[`2025-02913`]` **[Two Proposed Rules Published by the Environmental Protection Agency With Comment Periods That Close February 18, 2025, to February 20, 2025; Reopening of Comment Periods](https://www.indexdata.org/two-proposed-rules-published-by-the-environmental-protection-agency-with-comment-periods-that-close-february-18-2025-to-february-20-2025-reopening-of-comment-periods/)** — `2025-02-21` | `2 Pages`
 - `[`2025-02788`]` **[Chlorpyrifos; Tolerance Revocation; Reopening of the Comment Period](https://www.indexdata.org/chlorpyrifos-tolerance-revocation-reopening-of-the-comment-period/)** — `2025-02-20` | `2 Pages`
-- `[`2025-02677`]` **[Designation of Areas for Air Quality Planning Purposes](https://www.indexdata.org/designation-of-areas-for-air-quality-planning-purposes-2/)** — `2025-02-14` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1519,24 +1519,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 - `[`2025-03091`]` **[List of Approved Spent Fuel Storage Casks: NAC Multi-Purpose Canister (NAC-MPC) System, Certificate of Compliance No. 1025, Amendment No. 9, and Revision to Amendment Nos. 6, 7, and 8](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-multi-purpose-canister-nac-mpc-system-certificate-of-compliance-no-1025-amendment-no-9-and-revision-to-amendment-nos-6-7-and-8-2/)** — `2025-02-27` | `6 Pages`
 - `[`2025-02779`]` **[Fee Schedules; Fee Recovery for Fiscal Year 2025](https://www.indexdata.org/fee-schedules-fee-recovery-for-fiscal-year-2025-2/)** — `2025-02-19` | `29 Pages`
 
-### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-
-- `[`2025-12286`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-3/)** — `2025-07-01` | `3 Pages`
-- `[`2025-12016`]` **[Extension of Compliance Date for Required Daily Computation of Customer and Broker-Dealer Reserve Requirements Under the Broker-Dealer Customer Protection Rule](https://www.indexdata.org/extension-of-compliance-date-for-required-daily-computation-of-customer-and-broker-dealer-reserve-requirements-under-the-broker-dealer-customer-protection-rule/)** — `2025-07-01` | `3 Pages`
-- `[`2025-11332`]` **[Policy Statement Concerning Agency Referrals for Potential Criminal Enforcement](https://www.indexdata.org/policy-statement-concerning-agency-referrals-for-potential-criminal-enforcement/)** — `2025-06-20` | `2 Pages`
-- `[`2025-11110`]` **[Withdrawal of Proposed Regulatory Actions](https://www.indexdata.org/withdrawal-of-proposed-regulatory-actions-2/)** — `2025-06-17` | `3 Pages`
-- `[`2025-11057`]` **[Form PF; Reporting Requirements for All Filers and Large Hedge Fund Advisers; Further Extension of Compliance Date](https://www.indexdata.org/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers-further-extension-of-compliance-date-3/)** — `2025-06-16` | `4 Pages`
-- `[`2025-10428`]` **[Concept Release on Foreign Private Issuer Eligibility](https://www.indexdata.org/concept-release-on-foreign-private-issuer-eligibility/)** — `2025-06-09` | `25 Pages`
-- `[`2025-06920`]` **[Regulation SBSR (Reporting and Dissemination of Security-Based Swap Information) and Security-Based Swap Data Repository Rules; Extension](https://www.indexdata.org/regulation-sbsr-reporting-and-dissemination-of-security-based-swap-information-and-security-based-swap-data-repository-rules-extension/)** — `2025-04-24` | `2 Pages`
-- `[`2025-06861`]` **[Form N-PORT and Form N-CEN Reporting; Guidance on Open-End Fund Liquidity Risk Management Programs; Delay of Effective and Compliance Dates](https://www.indexdata.org/form-n-port-and-form-n-cen-reporting-guidance-on-open-end-fund-liquidity-risk-management-programs-delay-of-effective-and-compliance-dates/)** — `2025-04-22` | `3 Pages`
-- `[`2025-06698`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-4/)** — `2025-04-18` | `3 Pages`
-- `[`2025-05267`]` **[Form PF; Reporting Requirements for All Filers and Large Hedge Fund Advisers](https://www.indexdata.org/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers/)** — `2025-04-11` | `6 Pages`
-- `[`2025-04705`]` **[Investment Company Names; Extension of Compliance Date](https://www.indexdata.org/investment-company-names-extension-of-compliance-date/)** — `2025-03-20` | `5 Pages`
-- `[`2025-04064`]` **[Delegation of Authority to Director of the Division of Enforcement](https://www.indexdata.org/delegation-of-authority-to-director-of-the-division-of-enforcement/)** — `2025-03-14` | `2 Pages`
-- `[`2025-03351`]` **[Extension of Compliance Dates for Standards for Covered Clearing Agencies for U.S. Treasury Securities and Application of the Broker-Dealer Customer Protection Rule With Respect to U.S. Treasury Securities](https://www.indexdata.org/extension-of-compliance-dates-for-standards-for-covered-clearing-agencies-for-u-s-treasury-securities-and-application-of-the-broker-dealer-customer-protection-rule-with-respect-to-u-s-treasury-secur/)** — `2025-03-04` | `6 Pages`
-- `[`2025-02524`]` **[Technical Amendments to Commission Rules and Forms](https://www.indexdata.org/technical-amendments-to-commission-rules-and-forms-2/)** — `2025-02-18` | `8 Pages`
-
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
 
@@ -1553,6 +1535,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2025-03902`]` **[Securing Bundles of Flats](https://www.indexdata.org/securing-bundles-of-flats/)** — `2025-03-12` | `3 Pages`
 - `[`2025-03168`]` **[Service Standards for Market-Dominant Mail Products](https://www.indexdata.org/service-standards-for-market-dominant-mail-products/)** — `2025-02-28` | `16 Pages`
 - `[`2025-02544`]` **[Cremated Remains Packaging Requirements](https://www.indexdata.org/cremated-remains-packaging-requirements/)** — `2025-02-19` | `2 Pages`
+
+### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
+
+- `[`2025-12286`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-3/)** — `2025-07-01` | `3 Pages`
+- `[`2025-12016`]` **[Extension of Compliance Date for Required Daily Computation of Customer and Broker-Dealer Reserve Requirements Under the Broker-Dealer Customer Protection Rule](https://www.indexdata.org/extension-of-compliance-date-for-required-daily-computation-of-customer-and-broker-dealer-reserve-requirements-under-the-broker-dealer-customer-protection-rule/)** — `2025-07-01` | `3 Pages`
+- `[`2025-11332`]` **[Policy Statement Concerning Agency Referrals for Potential Criminal Enforcement](https://www.indexdata.org/policy-statement-concerning-agency-referrals-for-potential-criminal-enforcement/)** — `2025-06-20` | `2 Pages`
+- `[`2025-11110`]` **[Withdrawal of Proposed Regulatory Actions](https://www.indexdata.org/withdrawal-of-proposed-regulatory-actions-2/)** — `2025-06-17` | `3 Pages`
+- `[`2025-11057`]` **[Form PF; Reporting Requirements for All Filers and Large Hedge Fund Advisers; Further Extension of Compliance Date](https://www.indexdata.org/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers-further-extension-of-compliance-date-3/)** — `2025-06-16` | `4 Pages`
+- `[`2025-10428`]` **[Concept Release on Foreign Private Issuer Eligibility](https://www.indexdata.org/concept-release-on-foreign-private-issuer-eligibility/)** — `2025-06-09` | `25 Pages`
+- `[`2025-06920`]` **[Regulation SBSR (Reporting and Dissemination of Security-Based Swap Information) and Security-Based Swap Data Repository Rules; Extension](https://www.indexdata.org/regulation-sbsr-reporting-and-dissemination-of-security-based-swap-information-and-security-based-swap-data-repository-rules-extension/)** — `2025-04-24` | `2 Pages`
+- `[`2025-06861`]` **[Form N-PORT and Form N-CEN Reporting; Guidance on Open-End Fund Liquidity Risk Management Programs; Delay of Effective and Compliance Dates](https://www.indexdata.org/form-n-port-and-form-n-cen-reporting-guidance-on-open-end-fund-liquidity-risk-management-programs-delay-of-effective-and-compliance-dates/)** — `2025-04-22` | `3 Pages`
+- `[`2025-06698`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-4/)** — `2025-04-18` | `3 Pages`
+- `[`2025-05267`]` **[Form PF; Reporting Requirements for All Filers and Large Hedge Fund Advisers](https://www.indexdata.org/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers/)** — `2025-04-11` | `6 Pages`
+- `[`2025-04705`]` **[Investment Company Names; Extension of Compliance Date](https://www.indexdata.org/investment-company-names-extension-of-compliance-date/)** — `2025-03-20` | `5 Pages`
+- `[`2025-04064`]` **[Delegation of Authority to Director of the Division of Enforcement](https://www.indexdata.org/delegation-of-authority-to-director-of-the-division-of-enforcement/)** — `2025-03-14` | `2 Pages`
+- `[`2025-03351`]` **[Extension of Compliance Dates for Standards for Covered Clearing Agencies for U.S. Treasury Securities and Application of the Broker-Dealer Customer Protection Rule With Respect to U.S. Treasury Securities](https://www.indexdata.org/extension-of-compliance-dates-for-standards-for-covered-clearing-agencies-for-u-s-treasury-securities-and-application-of-the-broker-dealer-customer-protection-rule-with-respect-to-u-s-treasury-secur/)** — `2025-03-04` | `6 Pages`
 
 ### [Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-transit-administration/](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
@@ -2057,6 +2056,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/feed/)
 
 - `[`2025-12006`]` **[Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended](https://www.indexdata.org/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act-of-1974-as-amended-2/)** — `2025-07-01` | `9 Pages`
+
+### [Federal Crop Insurance Corporation](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-crop-insurance-corporation/](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/feed/)
+
+- `[`2025-12877`]` **[Removal of Unconstitutional Preferences Based on Race and Sex in Response to Court Ruling](https://www.indexdata.org/removal-of-unconstitutional-preferences-based-on-race-and-sex-in-response-to-court-ruling/)** — `2025-07-10` | `7 Pages`
 
 ### [Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-labor-relations-authority/](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)

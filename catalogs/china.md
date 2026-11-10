@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/china/feed/](https://www.indexdata.org/china/feed/)  
 **Wikidata Sovereign Entity:** [`Q148`](https://www.wikidata.org/wiki/Q148)  
 **Governing Open-Government Framework:** *Copyright Law of the PRC, Art. 5(1)*  
-**Total Indexed Dossiers in China:** `26` across `14` issuing authorities  
-**Last Automated Sync:** `2026-11-10 16:01 UTC`
+**Total Indexed Dossiers in China:** `27` across `14` issuing authorities  
+**Last Automated Sync:** `2026-11-10 17:01 UTC`
 
 ---
 
 ## Issuing Authorities in China (14 Authorities)
 
-- **[Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
+- **[Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
 - **[Government of the Hong Kong SAR — Intellectual Property Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/feed/)
 - **[Government of the Hong Kong SAR — Security Bureau](https://www.indexdata.org/china/government-of-the-hong-kong-sar-security-bureau/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-security-bureau/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-security-bureau/feed/)
 - **[Government of the Hong Kong SAR — Working Family and Student Financial Assistance Agency](https://www.indexdata.org/china/government-of-the-hong-kong-sar-working-family-and-student-financial-assistance-agency/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-working-family-and-student-financial-assistance-agency/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-working-family-and-student-financial-assistance-agency/feed/)
@@ -29,7 +29,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–26 of 26)
+## Indexed Statutory & Regulatory Dossiers (Records 1–27 of 27)
 
 ### [Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)
 Canonical Authority Archive: [https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
@@ -39,6 +39,7 @@ Canonical Authority Archive: [https://www.indexdata.org/china/government-of-the-
 - `[`CN-HK-DATAGOV-88fcaa67-a145-48f5-b560-9aeb0e33c5bb-spec`]` **[Hong Kong Population - Table 172-05007 : Population Census - Median weekly usual hours of work of all employment by occupation of main employment — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/hong-kong-population-table-172-05007-population-census-median-weekly-usual-hours-of-work-of-all-employment-by-occupation-of-main-employment-official-data-specification-census-and-stat/)** — `2026-10-28` | `4 Pages`
 - `[`CN-HK-DATAGOV-7bc91deb-0e60-4cb1-8277-a3214294e29b-spec`]` **[Hong Kong Population - Table 174-05001 : Population Census - Occupied quarters by type of quarters — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/hong-kong-population-table-174-05001-population-census-occupied-quarters-by-type-of-quarters-official-data-specification-census-and-statistics-department/)** — `2026-10-28` | `4 Pages`
 - `[`CN-HK-DATAGOV-59666d4d-2003-4a78-bf9f-048fb8940655-spec`]` **[Hong Kong Population - Table 172-05003 : Population Census - Working population by employment status — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/hong-kong-population-table-172-05003-population-census-working-population-by-employment-status-official-data-specification-census-and-statistics-department/)** — `2026-10-28` | `4 Pages`
+- `[`CN-HK-DATAGOV-5504eebf-b045-4323-84bd-a5bf4e4e7463-spec`]` **[Merchandise Trade Statistics - Table 410-50032 : External merchandise trade statistics by ten principal commodity divisions - total exports — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/merchandise-trade-statistics-table-410-50032-external-merchandise-trade-statistics-by-ten-principal-commodity-divisions-total-exports-official-data-specification-census-and-statistics/)** — `2026-10-28` | `4 Pages`
 - `[`CN-HK-DATAGOV-4e668ed8-8569-4e60-8b2e-2f817e985c2d-spec`]` **[Hong Kong Population - Table 172-05006 : Population Census - Working population by weekly usual hours of work of all employment — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/hong-kong-population-table-172-05006-population-census-working-population-by-weekly-usual-hours-of-work-of-all-employment-official-data-specification-census-and-statistics-department/)** — `2026-10-28` | `4 Pages`
 
 ### [Government of the Hong Kong SAR — Intellectual Property Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/)
