@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,512` across `61` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,513` across `61` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-10 12:39 UTC`
+**Last Automated Sync:** `2026-11-10 13:10 UTC`
 
 ---
 
@@ -29,8 +29,8 @@
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
+- **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
-- **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
@@ -77,7 +77,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,512)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,513)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -858,7 +858,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1111`]` **[The Organic Production (Amendment) Regulations 2025](https://www.indexdata.org/the-organic-production-amendment-regulations-2025/)** — `2025-10-21` | `4 Pages`
 - `[`UKSI-2025-1029`]` **[The Free-Range Poultrymeat Marketing Standards (Amendment) (England) Regulations 2025](https://www.indexdata.org/the-free-range-poultrymeat-marketing-standards-amendment-england-regulations-2025/)** — `2025-09-16` | `2 Pages`
 - `[`UKSI-2025-1000`]` **[The Heather and Grass etc. Burning (England) (Amendment) Regulations 2025](https://www.indexdata.org/the-heather-and-grass-etc-burning-england-amendment-regulations-2025/)** — `2025-09-08` | `4 Pages`
-- `[`UKSI-2025-991`]` **[The Response to the Committee on Climate Change Report (Extension of Period) Order 2025](https://www.indexdata.org/the-response-to-the-committee-on-climate-change-report-extension-of-period-order-2025/)** — `2025-09-03` | `2 Pages`
 
 ### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
@@ -1478,6 +1477,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/animal-an
 ### [Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-defence/](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 
+- `[`UK-GOV-a3107397-b4ba-4b54-a8a1-04a07ada0b30-1`]` **[Atomic Weapons Establishment (AWE) annual report and accounts 2025-26 — AWE annual report and accounts 2025-26](https://www.indexdata.org/atomic-weapons-establishment-awe-annual-report-and-accounts-2025-26-awe-annual-report-and-accounts-2025-26/)** — `2026-11-10` | `154 Pages`
 - `[`UK-GOV-b3c047ed-62e2-4e96-9c6b-7ee75586f944-1`]` **[JADTEU airportability information and design guide](https://www.indexdata.org/jadteu-airportability-information-and-design-guide/)** — `2026-11-09` | `122 Pages`
 - `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-9`]` **[Military Court Service sentencing remarks 2026 — Rex v Trooper Joeli Naikelekele Ratu](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-trooper-joeli-naikelekele-ratu/)** — `2026-11-06` | `4 Pages`
 - `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-8`]` **[Military Court Service sentencing remarks 2026 — Rex v Lance Corporal Michael Alan Ward](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-lance-corporal-michael-alan-ward/)** — `2026-11-06` | `6 Pages`
