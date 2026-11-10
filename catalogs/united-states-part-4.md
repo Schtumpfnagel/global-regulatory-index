@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,236` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,237` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 23:02 UTC`
+**Last Automated Sync:** `2026-11-10 23:57 UTC`
 
 ---
 
@@ -87,8 +87,8 @@
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,236)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,237)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -882,6 +882,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2025-23976`]` **[Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX](https://www.indexdata.org/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx-3/)** — `2025-12-30` | `2 Pages`
 - `[`2025-23860`]` **[Safety Zone; Beltway 8 Bridge Construction, Houston Ship Channel, Houston, TX](https://www.indexdata.org/safety-zone-beltway-8-bridge-construction-houston-ship-channel-houston-tx/)** — `2025-12-29` | `3 Pages`
 - `[`2025-23848`]` **[Safety Zone; Lake of the Ozarks Fireworks Display, MM 0.2, Lake of the Ozarks, MO](https://www.indexdata.org/safety-zone-lake-of-the-ozarks-fireworks-display-mm-0-2-lake-of-the-ozarks-mo/)** — `2025-12-29` | `2 Pages`
 - `[`2025-23808`]` **[Civil Monetary Penalty Adjustments for Inflation](https://www.indexdata.org/civil-monetary-penalty-adjustments-for-inflation/)** — `2025-12-29` | `6 Pages`
@@ -1424,26 +1425,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2025-15089`]` **[Defining Larger Participants of the Automobile Financing Market](https://www.indexdata.org/defining-larger-participants-of-the-automobile-financing-market/)** — `2025-08-08` | `4 Pages`
 - `[`2025-15088`]` **[Defining Larger Participants of the Consumer Reporting Market](https://www.indexdata.org/defining-larger-participants-of-the-consumer-reporting-market/)** — `2025-08-08` | `4 Pages`
 
-### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
-
-- `[`2025-22323`]` **[Rescinding Regulations Related to Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance](https://www.indexdata.org/rescinding-regulations-related-to-nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal-financial-assistance-3/)** — `2025-12-09` | `2 Pages`
-- `[`2025-22322`]` **[Rescinding Regulations Related to Nondiscrimination in Federally Assisted Programs or Activities (General Provisions)](https://www.indexdata.org/rescinding-regulations-related-to-nondiscrimination-in-federally-assisted-programs-or-activities-general-provisions/)** — `2025-12-09` | `2 Pages`
-- `[`2025-20788`]` **[Assistance to Foreign Atomic Energy Activities](https://www.indexdata.org/assistance-to-foreign-atomic-energy-activities-2/)** — `2025-11-24` | `3 Pages`
-- `[`2025-19675`]` **[Energy Dominance Financing Amendments](https://www.indexdata.org/energy-dominance-financing-amendments/)** — `2025-10-28` | `6 Pages`
-- `[`2025-17513`]` **[Application for Presidential Permit Authorizing the Construction, Connection, Operation, and Maintenance of Facilities for Transmission of Electric Energy at International Boundaries](https://www.indexdata.org/application-for-presidential-permit-authorizing-the-construction-connection-operation-and-maintenance-of-facilities-for-transmission-of-electric-energy-at-international-boundaries/)** — `2025-09-11` | `3 Pages`
-- `[`2025-17427`]` **[Rescinding Regulations Related to Nondiscrimination in Federally Assisted Programs or Activities (General Provisions)](https://www.indexdata.org/rescinding-regulations-related-to-nondiscrimination-in-federally-assisted-programs-or-activities-general-provisions-2/)** — `2025-09-10` | `2 Pages`
-- `[`2025-17262`]` **[Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment](https://www.indexdata.org/energy-conservation-program-for-appliance-standards-certification-requirements-labeling-requirements-and-enforcement-provisions-for-certain-consumer-products-and-commercial-equipment/)** — `2025-09-09` | `15 Pages`
-- `[`2025-17227`]` **[Energy Conservation Program: Test Procedure for Central Air Conditioners and Heat Pumps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-central-air-conditioners-and-heat-pumps/)** — `2025-09-09` | `5 Pages`
-- `[`2025-16881`]` **[Public Input on Energy Conservation Standards for Manufactured Housing](https://www.indexdata.org/public-input-on-energy-conservation-standards-for-manufactured-housing/)** — `2025-09-03` | `7 Pages`
-- `[`2025-16235`]` **[Implementing Voluntary Agreements Under the Defense Production Act](https://www.indexdata.org/implementing-voluntary-agreements-under-the-defense-production-act-3/)** — `2025-08-25` | `8 Pages`
-- `[`2025-13193`]` **[Amending the Administrative Procedures With Respect to the Import and Export of Natural Gas](https://www.indexdata.org/amending-the-administrative-procedures-with-respect-to-the-import-and-export-of-natural-gas/)** — `2025-07-14` | `2 Pages`
-- `[`2025-13136`]` **[Collection of Information Under the Energy Supply and Environmental Coordination Act of 1974](https://www.indexdata.org/collection-of-information-under-the-energy-supply-and-environmental-coordination-act-of-1974/)** — `2025-07-14` | `2 Pages`
-- `[`2025-13135`]` **[Rescinding Obsolete Transfer of Proceedings Regulations](https://www.indexdata.org/rescinding-obsolete-transfer-of-proceedings-regulations/)** — `2025-07-14` | `2 Pages`
-- `[`2025-13134`]` **[Revisions to the Office of Hearings and Appeals Procedural Regulations for the DOE Contractor Employee Protection Program](https://www.indexdata.org/revisions-to-the-office-of-hearings-and-appeals-procedural-regulations-for-the-doe-contractor-employee-protection-program-2/)** — `2025-07-14` | `2 Pages`
-- `[`2025-13132`]` **[Revisions to the Office of Hearings and Appeals Procedural Regulations](https://www.indexdata.org/revisions-to-the-office-of-hearings-and-appeals-procedural-regulations/)** — `2025-07-14` | `2 Pages`
-- `[`2025-13131`]` **[Procedures for Acquisition of Petroleum for the Strategic Petroleum Reserve](https://www.indexdata.org/procedures-for-acquisition-of-petroleum-for-the-strategic-petroleum-reserve/)** — `2025-07-14` | `3 Pages`
-
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
@@ -1462,6 +1443,25 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2025-17773`]` **[Pears Grown in Oregon and Washington; Increased Assessment Rate for Fresh Pears](https://www.indexdata.org/pears-grown-in-oregon-and-washington-increased-assessment-rate-for-fresh-pears/)** — `2025-09-15` | `4 Pages`
 - `[`2025-17700`]` **[Domestic Dates Produced or Packed in Riverside County, California; Decreased Assessment Rate](https://www.indexdata.org/domestic-dates-produced-or-packed-in-riverside-county-california-decreased-assessment-rate-2/)** — `2025-09-12` | `3 Pages`
 - `[`2025-16409`]` **[Oranges and Grapefruit Grown in Lower Rio Grande Valley in Texas; Increased Assessment Rate](https://www.indexdata.org/oranges-and-grapefruit-grown-in-lower-rio-grande-valley-in-texas-increased-assessment-rate-2/)** — `2025-08-27` | `4 Pages`
+
+### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
+
+- `[`2025-22323`]` **[Rescinding Regulations Related to Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance](https://www.indexdata.org/rescinding-regulations-related-to-nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal-financial-assistance-3/)** — `2025-12-09` | `2 Pages`
+- `[`2025-22322`]` **[Rescinding Regulations Related to Nondiscrimination in Federally Assisted Programs or Activities (General Provisions)](https://www.indexdata.org/rescinding-regulations-related-to-nondiscrimination-in-federally-assisted-programs-or-activities-general-provisions/)** — `2025-12-09` | `2 Pages`
+- `[`2025-20788`]` **[Assistance to Foreign Atomic Energy Activities](https://www.indexdata.org/assistance-to-foreign-atomic-energy-activities-2/)** — `2025-11-24` | `3 Pages`
+- `[`2025-19675`]` **[Energy Dominance Financing Amendments](https://www.indexdata.org/energy-dominance-financing-amendments/)** — `2025-10-28` | `6 Pages`
+- `[`2025-17513`]` **[Application for Presidential Permit Authorizing the Construction, Connection, Operation, and Maintenance of Facilities for Transmission of Electric Energy at International Boundaries](https://www.indexdata.org/application-for-presidential-permit-authorizing-the-construction-connection-operation-and-maintenance-of-facilities-for-transmission-of-electric-energy-at-international-boundaries/)** — `2025-09-11` | `3 Pages`
+- `[`2025-17427`]` **[Rescinding Regulations Related to Nondiscrimination in Federally Assisted Programs or Activities (General Provisions)](https://www.indexdata.org/rescinding-regulations-related-to-nondiscrimination-in-federally-assisted-programs-or-activities-general-provisions-2/)** — `2025-09-10` | `2 Pages`
+- `[`2025-17262`]` **[Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment](https://www.indexdata.org/energy-conservation-program-for-appliance-standards-certification-requirements-labeling-requirements-and-enforcement-provisions-for-certain-consumer-products-and-commercial-equipment/)** — `2025-09-09` | `15 Pages`
+- `[`2025-17227`]` **[Energy Conservation Program: Test Procedure for Central Air Conditioners and Heat Pumps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-central-air-conditioners-and-heat-pumps/)** — `2025-09-09` | `5 Pages`
+- `[`2025-16881`]` **[Public Input on Energy Conservation Standards for Manufactured Housing](https://www.indexdata.org/public-input-on-energy-conservation-standards-for-manufactured-housing/)** — `2025-09-03` | `7 Pages`
+- `[`2025-16235`]` **[Implementing Voluntary Agreements Under the Defense Production Act](https://www.indexdata.org/implementing-voluntary-agreements-under-the-defense-production-act-3/)** — `2025-08-25` | `8 Pages`
+- `[`2025-13193`]` **[Amending the Administrative Procedures With Respect to the Import and Export of Natural Gas](https://www.indexdata.org/amending-the-administrative-procedures-with-respect-to-the-import-and-export-of-natural-gas/)** — `2025-07-14` | `2 Pages`
+- `[`2025-13136`]` **[Collection of Information Under the Energy Supply and Environmental Coordination Act of 1974](https://www.indexdata.org/collection-of-information-under-the-energy-supply-and-environmental-coordination-act-of-1974/)** — `2025-07-14` | `2 Pages`
+- `[`2025-13135`]` **[Rescinding Obsolete Transfer of Proceedings Regulations](https://www.indexdata.org/rescinding-obsolete-transfer-of-proceedings-regulations/)** — `2025-07-14` | `2 Pages`
+- `[`2025-13134`]` **[Revisions to the Office of Hearings and Appeals Procedural Regulations for the DOE Contractor Employee Protection Program](https://www.indexdata.org/revisions-to-the-office-of-hearings-and-appeals-procedural-regulations-for-the-doe-contractor-employee-protection-program-2/)** — `2025-07-14` | `2 Pages`
+- `[`2025-13132`]` **[Revisions to the Office of Hearings and Appeals Procedural Regulations](https://www.indexdata.org/revisions-to-the-office-of-hearings-and-appeals-procedural-regulations/)** — `2025-07-14` | `2 Pages`
 
 ### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)

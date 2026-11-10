@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,236` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,237` across `232` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 23:02 UTC`
+**Last Automated Sync:** `2026-11-10 23:57 UTC`
 
 ---
 
@@ -87,8 +87,8 @@
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,236)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,237)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -780,7 +780,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-17627`]` **[Safety Zone; Hurricanes, Tropical Storms, and Severe Weather Events in the Sector Mobile Captain of the Port Zone](https://www.indexdata.org/safety-zone-hurricanes-tropical-storms-and-severe-weather-events-in-the-sector-mobile-captain-of-the-port-zone/)** — `2026-08-28` | `3 Pages`
 - `[`2026-17608`]` **[Special Local Regulation; Chickahominy River, Williamsburg, VA](https://www.indexdata.org/special-local-regulation-chickahominy-river-williamsburg-va/)** — `2026-08-28` | `3 Pages`
 - `[`2026-17588`]` **[Safety Zones; Annual Events Requiring Safety Zones in the Captain of the Port Lake Michigan Zone, Fireworks at Pier Wisconsin](https://www.indexdata.org/safety-zones-annual-events-requiring-safety-zones-in-the-captain-of-the-port-lake-michigan-zone-fireworks-at-pier-wisconsin/)** — `2026-08-28` | `2 Pages`
-- `[`2026-17522`]` **[Safety Zone; Aerial Displays, Upper Bay, New York, NY](https://www.indexdata.org/safety-zone-aerial-displays-upper-bay-new-york-ny/)** — `2026-08-27` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1217,6 +1216,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`US-NASA-NTRS-20260009602`]` **[Process Specification for the Heat Treatment of Aluminum Alloys](https://www.indexdata.org/process-specification-for-the-heat-treatment-of-aluminum-alloys/)** — `2026-11-02` | `11 Pages`
 - `[`US-NASA-NTRS-20260009580`]` **[Process Specification for the Manual Arc Welding of Carbon Steel and Nickel Alloy Hardware](https://www.indexdata.org/process-specification-for-the-manual-arc-welding-of-carbon-steel-and-nickel-alloy-hardware/)** — `2026-11-02` | `26 Pages`
 - `[`US-NASA-NTRS-20260008527`]` **[SEILER-Net: Statistical Estimation of Lightning From Environmental Predictors Using A Regression Neural Network](https://www.indexdata.org/seiler-net-statistical-estimation-of-lightning-from-environmental-predictors-using-a-regression-neural-network/)** — `2026-11-02` | `12 Pages`
+- `[`US-NASA-SCI-1510435`]` **[Mars Science Laboratory Science Team Papers — Nov. 2, 2026](https://www.indexdata.org/mars-science-laboratory-science-team-papers-nov-2-2026/)** — `2026-11-01` | `63 Pages`
 - `[`US-NASA-NTRS-20260010267`]` **[Long Duration MMOD Damage Survey of ISS S-Band Antenna (RFG S/N 003)](https://www.indexdata.org/long-duration-mmod-damage-survey-of-iss-s-band-antenna-rfg-s-n-003/)** — `2026-11-01` | `21 Pages`
 - `[`US-NASA-NTRS-20260009782`]` **[Prebiotic Organic Compounds in Asteroid Bennu and Ryugu Reflect Divergent Parent Body Histories](https://www.indexdata.org/prebiotic-organic-compounds-in-asteroid-bennu-and-ryugu-reflect-divergent-parent-body-histories/)** — `2026-11-01` | `12 Pages`
 - `[`US-NASA-NTRS-20260009452`]` **[The MISR Research Product Algorithm – Producing Global, Self-Consistent, Pixel-Level Aerosol Retrievals for the Multi-angle Imaging SpectroRadiometer](https://www.indexdata.org/the-misr-research-product-algorithm-producing-global-self-consistent-pixel-level-aerosol-retrievals-for-the-multi-angle-imaging-spectroradiometer/)** — `2026-11-01` | `19 Pages`
