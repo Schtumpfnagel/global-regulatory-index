@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,484` across `60` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,486` across `61` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-09 23:54 UTC`
+**Last Automated Sync:** `2026-11-10 00:55 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (60 Authorities)
+## Issuing Authorities in United Kingdom (61 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`183` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`168` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
-- **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`144` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
+- **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`145` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`123` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
@@ -63,6 +63,7 @@
 - **[His Majesty’s Treasury](https://www.indexdata.org/united-kingdom/his-majesty-s-treasury/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/his-majesty-s-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/his-majesty-s-treasury/feed/)
 - **[Local Government Boundary Commission for England](https://www.indexdata.org/united-kingdom/local-government-boundary-commission-for-england/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/local-government-boundary-commission-for-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/local-government-boundary-commission-for-england/feed/)
 - **[National Highways](https://www.indexdata.org/united-kingdom/national-highways/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-highways/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-highways/feed/)
+- **[Natural England](https://www.indexdata.org/united-kingdom/natural-england/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-england/feed/)
 - **[Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
 - **[Office of Communications (Ofcom)](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/feed/)
 - **[Registrar General for England and Wales](https://www.indexdata.org/united-kingdom/registrar-general-for-england-and-wales/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/registrar-general-for-england-and-wales/) | [RSS Feed](https://www.indexdata.org/united-kingdom/registrar-general-for-england-and-wales/feed/)
@@ -76,7 +77,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,484)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,486)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -341,7 +342,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKPGA-2025-21`]` **[Football Governance Act 2025](https://www.indexdata.org/football-governance-act-2025/)** — `2025-07-21` | `136 Pages`
 - `[`UKPGA-2025-20`]` **[Product Regulation and Metrology Act 2025](https://www.indexdata.org/product-regulation-and-metrology-act-2025/)** — `2025-07-21` | `20 Pages`
 - `[`UKPGA-2025-19`]` **[Supply and Appropriation (Main Estimates) Act 2025](https://www.indexdata.org/supply-and-appropriation-main-estimates-act-2025/)** — `2025-07-21` | `106 Pages`
-- `[`UKSI-2025-995`]` **[The Church Representation Rules (Amendment) (No. 2) Resolution 2025](https://www.indexdata.org/the-church-representation-rules-amendment-no-2-resolution-2025/)** — `2025-07-15` | `4 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -778,7 +778,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1178`]` **[The East Sussex County Council (Exceat Bridge Replacement – A259 Eastbourne Road) Bridge Scheme 2023 Confirmation Instrument 2025](https://www.indexdata.org/the-east-sussex-county-council-exceat-bridge-replacement-a259-eastbourne-road-bridge-scheme-2023-confirmation-instrument-2025/)** — `2025-10-07` | `8 Pages`
 - `[`UKSI-2025-1008`]` **[The Aviation Security (Amendment) (No. 2) Regulations 2025](https://www.indexdata.org/the-aviation-security-amendment-no-2-regulations-2025/)** — `2025-09-09` | `2 Pages`
 - `[`UKSI-2025-975`]` **[The Aldwark Bridge (Revision of Tolls and Traffic Classification) Order 2025](https://www.indexdata.org/the-aldwark-bridge-revision-of-tolls-and-traffic-classification-order-2025/)** — `2025-08-19` | `4 Pages`
-- `[`UKSI-2025-876`]` **[The Football (Offences) (Designation of Football Matches) (Amendment) Order 2025](https://www.indexdata.org/the-football-offences-designation-of-football-matches-amendment-order-2025/)** — `2025-07-15` | `2 Pages`
 
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
@@ -872,6 +871,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 
+- `[`UK-GOV-c05cca78-bef4-4262-a420-1f0ce17724bc-1`]` **[Parent, pupil and learner voice: omnibus surveys for 2025 to 2026 — Parent, pupil and learner voice technical report: 2025 to 2026 academic year](https://www.indexdata.org/parent-pupil-and-learner-voice-omnibus-surveys-for-2025-to-2026-parent-pupil-and-learner-voice-technical-report-2025-to-2026-academic-year/)** — `2026-11-10` | `92 Pages`
 - `[`UK-GOV-977db9af-94c4-4e55-94eb-72988dc7566b-3`]` **[School workforce census: guides — School workforce minimum notepad entries: guide](https://www.indexdata.org/school-workforce-census-guides-school-workforce-minimum-notepad-entries-guide/)** — `2026-11-06` | `20 Pages`
 - `[`UK-GOV-977db9af-94c4-4e55-94eb-72988dc7566b-2`]` **[School workforce census: guides — School workforce census 2026: guide for centrally employed staff](https://www.indexdata.org/school-workforce-census-guides-school-workforce-census-2026-guide-for-centrally-employed-staff/)** — `2026-11-06` | `54 Pages`
 - `[`UK-GOV-977db9af-94c4-4e55-94eb-72988dc7566b-1`]` **[School workforce census: guides — School workforce census guide 2026](https://www.indexdata.org/school-workforce-census-guides-school-workforce-census-guide-2026/)** — `2026-11-06` | `74 Pages`
@@ -1767,6 +1767,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/local-gov
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/national-highways/](https://www.indexdata.org/united-kingdom/national-highways/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-highways/feed/)
 
 - `[`UK-DGOV-64df0f9e-cb9-856aa535-e61`]` **[Highways England Pavement Management System Network Layer HAPMS — HAPMS Documentation](https://www.indexdata.org/highways-england-pavement-management-system-network-layer-hapms-hapms-documentation/)** — `2026-11-03` | `2 Pages`
+
+### [Natural England](https://www.indexdata.org/united-kingdom/natural-england/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/natural-england/](https://www.indexdata.org/united-kingdom/natural-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-england/feed/)
+
+- `[`UK-GOV-db6d6399-49b9-403d-8032-a278629285fd-1`]` **[King Charles III England Coast Path at Ferry Road, Isle of Sheppey: comment on proposals to change the approved route — Ferry Road, Isle of Sheppey variation report (VR39)](https://www.indexdata.org/king-charles-iii-england-coast-path-at-ferry-road-isle-of-sheppey-comment-on-proposals-to-change-the-approved-route-ferry-road-isle-of-sheppey-variation-report-vr39/)** — `2026-11-10` | `10 Pages`
 
 ### [Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/northern-ireland-office/](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)

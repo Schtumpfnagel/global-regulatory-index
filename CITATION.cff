@@ -26,8 +26,8 @@ identifiers:
 repository-code: "https://github.com/Schtumpfnagel/global-regulatory-index"
 url: "https://www.indexdata.org/"
 license: CC-BY-4.0
-version: "2026.11.09"
-date-released: "2026-11-09"
+version: "2026.11.10"
+date-released: "2026-11-10"
 keywords:
   - "legal"
   - "regulation"
