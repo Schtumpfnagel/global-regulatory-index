@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,226` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,227` across `231` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 17:01 UTC`
+**Last Automated Sync:** `2026-11-10 17:57 UTC`
 
 ---
 
@@ -86,7 +86,7 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
@@ -247,7 +247,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,226)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,227)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -850,7 +850,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-17502`]` **[Air Plan Approval; Kentucky; Cincinnati-Hamilton Area Limited Maintenance Plan for the 1997 8-Hour Ozone NAAQS](https://www.indexdata.org/air-plan-approval-kentucky-cincinnati-hamilton-area-limited-maintenance-plan-for-the-1997-8-hour-ozone-naaqs/)** — `2026-08-27` | `7 Pages`
 - `[`2026-17501`]` **[Air Plan Approval; Kentucky; Louisville Area Limited Maintenance Plan for the 1997 8-Hour Ozone NAAQS](https://www.indexdata.org/air-plan-approval-kentucky-louisville-area-limited-maintenance-plan-for-the-1997-8-hour-ozone-naaqs/)** — `2026-08-27` | `6 Pages`
 - `[`2026-17499`]` **[Air Plan Approval; Oklahoma; Regional Haze Plan for the First Implementation Revision; Revision to State Implementation Plan and Requirements](https://www.indexdata.org/air-plan-approval-oklahoma-regional-haze-plan-for-the-first-implementation-revision-revision-to-state-implementation-plan-and-requirements/)** — `2026-08-27` | `8 Pages`
-- `[`2026-17497`]` **[Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Allegheny County; Negative Declaration for Existing Large Municipal Waste Combustors](https://www.indexdata.org/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-allegheny-county-negative-declaration-for-existing-large-municipal-waste-combustors/)** — `2026-08-27` | `2 Pages`
 
 ### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
@@ -1184,6 +1183,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-energy-doe/](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 
 - `[`US-DOE-OSTI-3683732`]` **[Homogenization of radiation transport calculations for multi-physics simulations](https://www.indexdata.org/homogenization-of-radiation-transport-calculations-for-multi-physics-simulations/)** — `2026-11-10` | `25 Pages`
+- `[`US-DOE-OSTI-17427842`]` **[The Fission Matrix Method for Criticality Search in Heat-Pipe Micro Reactors](https://www.indexdata.org/the-fission-matrix-method-for-criticality-search-in-heat-pipe-micro-reactors/)** — `2026-11-10` | `14 Pages`
 - `[`US-DOE-OSTI-17427574`]` **[Simulation of Multistable Structures using Physics-Informed Machine Learning](https://www.indexdata.org/simulation-of-multistable-structures-using-physics-informed-machine-learning/)** — `2026-11-07` | `34 Pages`
 - `[`US-DOE-OSTI-17427462`]` **[Life Cycle Carbon, Energy, and Water Impacts of Isobutanol and Sustainable Aviation Fuel from Pea Starch](https://www.indexdata.org/life-cycle-carbon-energy-and-water-impacts-of-isobutanol-and-sustainable-aviation-fuel-from-pea-starch/)** — `2026-11-06` | `10 Pages`
 - `[`US-DOE-OSTI-17427428`]` **[A Quantum Mechanics Study of Competitive Interactions of a Polymer within Ca2+ Ion Hydration Shell in an Energy Storage Material](https://www.indexdata.org/a-quantum-mechanics-study-of-competitive-interactions-of-a-polymer-within-ca2-ion-hydration-shell-in-an-energy-storage-material/)** — `2026-11-06` | `23 Pages`

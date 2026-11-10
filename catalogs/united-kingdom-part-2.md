@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,557` across `64` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,564` across `65` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-10 17:01 UTC`
+**Last Automated Sync:** `2026-11-10 17:57 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (64 Authorities)
+## Issuing Authorities in United Kingdom (65 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -39,6 +39,7 @@
 - **[HM Land Registry](https://www.indexdata.org/united-kingdom/hm-land-registry/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-land-registry/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-land-registry/feed/)
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
+- **[HM Prison and Probation Service](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/feed/)
 - **[Veterinary Medicines Directorate](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/feed/)
 - **[Maritime and Coastguard Agency](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/feed/)
 - **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
@@ -80,11 +81,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,557 of 2,557)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,564 of 2,564)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2025-1097`]` **[The Portishead Branch Line (MetroWest Phase 1) (Correction) Order 2025](https://www.indexdata.org/the-portishead-branch-line-metrowest-phase-1-correction-order-2025/)** — `2025-10-16` | `2 Pages`
 - `[`UKSI-2025-1088`]` **[The Hovercraft (Fees) Regulations 2025](https://www.indexdata.org/the-hovercraft-fees-regulations-2025/)** — `2025-10-16` | `2 Pages`
 - `[`UKSI-2025-1094`]` **[The Hovercraft (Application of Enactments) (Amendment) Order 2025](https://www.indexdata.org/the-hovercraft-application-of-enactments-amendment-order-2025/)** — `2025-10-15` | `8 Pages`
 - `[`UKSI-2025-1105`]` **[The Tillbridge Solar Order 2025](https://www.indexdata.org/the-tillbridge-solar-order-2025/)** — `2025-10-14` | `212 Pages`
@@ -348,6 +350,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2025-1115`]` **[The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025](https://www.indexdata.org/the-public-service-civil-servants-and-others-pensions-remediable-service-amendment-regulations-2025/)** — `2025-10-20` | `16 Pages`
 - `[`UKSI-2025-1092`]` **[The Global Irregular Migration and Trafficking in Persons Sanctions (Overseas Territories) Order 2025](https://www.indexdata.org/the-global-irregular-migration-and-trafficking-in-persons-sanctions-overseas-territories-order-2025/)** — `2025-10-15` | `20 Pages`
 - `[`UKSI-2025-1080`]` **[The Designation of Special Tax Sites (Flintshire and Wrexham Investment Zone) Regulations 2025](https://www.indexdata.org/the-designation-of-special-tax-sites-flintshire-and-wrexham-investment-zone-regulations-2025/)** — `2025-10-14` | `2 Pages`
 - `[`UKSI-2025-1023`]` **[The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2023-capital-buffers-and-macro-prudential-measures-consequential-amendments-regulations-2025/)** — `2025-09-15` | `8 Pages`
@@ -608,6 +611,9 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 
+- `[`UKSI-2025-1110`]` **[The Road Vehicles (Type-Approval) (Amendment) (No. 3) Regulations 2025](https://www.indexdata.org/the-road-vehicles-type-approval-amendment-no-3-regulations-2025/)** — `2025-10-20` | `8 Pages`
+- `[`UKSI-2025-1106`]` **[The Unmanned Aircraft (Amendment) Regulations 2025](https://www.indexdata.org/the-unmanned-aircraft-amendment-regulations-2025/)** — `2025-10-20` | `20 Pages`
+- `[`UKSI-2025-1103`]` **[The Merchant Shipping (Fees) (Amendment) Regulations 2025](https://www.indexdata.org/the-merchant-shipping-fees-amendment-regulations-2025/)** — `2025-10-16` | `2 Pages`
 - `[`UKSI-2025-1102`]` **[The M32 Motorway (Junctions 1 to 3) (40 and 60 Miles Per Hour Speed Limits) Regulations 2025](https://www.indexdata.org/the-m32-motorway-junctions-1-to-3-40-and-60-miles-per-hour-speed-limits-regulations-2025/)** — `2025-10-15` | `4 Pages`
 - `[`UKSI-2025-1101`]` **[The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025](https://www.indexdata.org/the-vehicle-emissions-trading-schemes-amendment-no-2-order-2025/)** — `2025-10-15` | `32 Pages`
 - `[`UKSI-2025-1085`]` **[The Motor Vehicles (Driving Licences) (Amendment) (No. 5) Regulations 2025](https://www.indexdata.org/the-motor-vehicles-driving-licences-amendment-no-5-regulations-2025/)** — `2025-10-14` | `2 Pages`
@@ -775,6 +781,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 
+- `[`UKSI-2025-1108`]` **[The Immigration and Nationality (Fees) (Amendment) (No. 2) Regulations 2025](https://www.indexdata.org/the-immigration-and-nationality-fees-amendment-no-2-regulations-2025/)** — `2025-10-21` | `4 Pages`
+- `[`UKSI-2025-1104`]` **[PREVENTION AND SUPPRESSION OF TERRORISM](https://www.indexdata.org/prevention-and-suppression-of-terrorism/)** — `2025-10-17` | `2 Pages`
 - `[`UKSI-2025-1138`]` **[The Immigration (Guernsey) Order 2025](https://www.indexdata.org/the-immigration-guernsey-order-2025/)** — `2025-10-15` | `16 Pages`
 - `[`UKSI-2025-1112`]` **[The Immigration (Electronic Travel Authorisations) (Jersey) Order 2025](https://www.indexdata.org/the-immigration-electronic-travel-authorisations-jersey-order-2025/)** — `2025-10-15` | `8 Pages`
 - `[`UKSI-2025-1107`]` **[The Immigration (Isle of Man) (Amendment) Order 2025](https://www.indexdata.org/the-immigration-isle-of-man-amendment-order-2025/)** — `2025-10-15` | `8 Pages`
