@@ -5,17 +5,17 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,952` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,954` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-10 15:04 UTC`
+**Last Automated Sync:** `2026-11-10 16:01 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,016` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`504` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,952)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,954)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-OM-20-L.1`]` **[Continued non-cooperation of a State under review with the Universal Periodic Review Mechanism — draft decision](https://www.indexdata.org/a-hrc-om-20-l-1-continued-non-cooperation-of-a-state-under-review-with-the-universal-periodic-review-mechanism-draft-decision/)** — `2026-11-09` | `2 Pages`
 - `[`UN-A-C.3-81-L.18-Rev.1`]` **[Intensification of efforts to end obstetric fistula — revised draft resolution](https://www.indexdata.org/a-c-3-81-l-18-rev-1-intensification-of-efforts-to-end-obstetric-fistula-revised-draft-resolution/)** — `2026-11-06` | `10 Pages`
 - `[`UN-A-81-478`]` **[Letter dated 4 November 2026 from the President of the Security Council addressed to the President of the General Assembly](https://www.indexdata.org/a-81-478-letter-dated-4-november-2026-from-the-president-of-the-security-council-addressed-to-the-president-of-the-general-assembly/)** — `2026-11-05` | `2 Pages`
 - `[`UN-A-C.4-81-L.9`]` **[International cooperation in the peaceful uses of outer space — amendment to revised draft resolution A/C.4/81/L.7/Rev.1](https://www.indexdata.org/a-c-4-81-l-9-international-cooperation-in-the-peaceful-uses-of-outer-space-amendment-to-revised-draft-resolution-a-c-4-81-l-7-rev-1/)** — `2026-10-29` | `2 Pages`
@@ -1190,13 +1191,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-RES-80-273`]` **[Financing of the Regional Service Centre in Entebbe, Uganda — resolution](https://www.indexdata.org/a-res-80-273-financing-of-the-regional-service-centre-in-entebbe-uganda-resolution/)** — `2026-07-01` | `2 Pages`
 - `[`UN-A-RES-80-272`]` **[Rates of reimbursement to troop- and police-contributing countries — resolution](https://www.indexdata.org/a-res-80-272-rates-of-reimbursement-to-troop-and-police-contributing-countries-resolution/)** — `2026-07-01` | `2 Pages`
 - `[`UN-A-RES-80-270`]` **[Credit-return methodology — resolution](https://www.indexdata.org/a-res-80-270-credit-return-methodology-resolution/)** — `2026-07-01` | `3 Pages`
-- `[`UN-A-RES-80-240-B`]` **[Support account for peacekeeping operations — resolution](https://www.indexdata.org/a-res-80-240-b-support-account-for-peacekeeping-operations-resolution/)** — `2026-07-01` | `5 Pages`
-- `[`UN-A-HRC-63-32-Add.1`]` **[Visit to Germany — report of the Special Rapporteur on the Right to Development, Surya Deva](https://www.indexdata.org/a-hrc-63-32-add-1-visit-to-germany-report-of-the-special-rapporteur-on-the-right-to-development-surya-deva/)** — `2026-07-01` | `19 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
 - `[`UN-S-PV.10257`]` **[Security Council, 81st year — 10257th meeting, Friday, 30 October 2026, New York](https://www.indexdata.org/s-pv-10257-security-council-81st-year-10257th-meeting-friday-30-october-2026-new-york/)** — `2026-11-06` | `10 Pages`
+- `[`UN-S-PRST-2026-5`]` **[Statement](https://www.indexdata.org/s-prst-2026-5-statement/)** — `2026-11-05` | `2 Pages`
 - `[`UN-S-PV.10260`]` **[Security Council, 81st year — 10260th meeting, Friday, 30 October 2026, New York](https://www.indexdata.org/s-pv-10260-security-council-81st-year-10260th-meeting-friday-30-october-2026-new-york/)** — `2026-11-04` | `20 Pages`
 - `[`UN-S-RES-2835-2026`]` **[Resolution 2835 (2026)](https://www.indexdata.org/s-res-2835-2026-resolution-2835-2026/)** — `2026-10-30` | `7 Pages`
 - `[`UN-S-RES-2834-2026`]` **[Resolution 2834 (2026)](https://www.indexdata.org/s-res-2834-2026-resolution-2834-2026/)** — `2026-10-30` | `2 Pages`

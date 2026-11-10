@@ -5,17 +5,17 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,952` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,954` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-10 15:04 UTC`
+**Last Automated Sync:** `2026-11-10 16:01 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,016` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`504` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,952)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,954)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -628,7 +628,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-79-L.33`]` **[International cooperation on humanitarian assistance in the field of natural disasters, from relief to development — draft resolution](https://www.indexdata.org/a-79-l-33-international-cooperation-on-humanitarian-assistance-in-the-field-of-natural-disasters-from-relief-to-development-draft-resolution/)** — `2024-12-02` | `19 Pages`
 - `[`UN-A-79-L.32`]` **[Safety and security of humanitarian personnel and protection of United Nations personnel — draft resolution](https://www.indexdata.org/a-79-l-32-safety-and-security-of-humanitarian-personnel-and-protection-of-united-nations-personnel-draft-resolution/)** — `2024-12-02` | `14 Pages`
 - `[`UN-A-79-L.31`]` **[Cooperation between the United Nations and the Organisation for the Prohibition of Chemical Weapons — draft resolution](https://www.indexdata.org/a-79-l-31-cooperation-between-the-united-nations-and-the-organisation-for-the-prohibition-of-chemical-weapons-draft-resolution/)** — `2024-11-29` | `3 Pages`
-- `[`UN-A-79-L.27`]` **[World Meditation Day — draft resolution](https://www.indexdata.org/a-79-l-27-world-meditation-day-draft-resolution/)** — `2024-11-29` | `2 Pages`
 
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -952,7 +951,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-genera
 - `[`UN-A-RES-79-78`]` **[Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on Their Destruction](https://www.indexdata.org/a-res-79-78-convention-on-the-prohibition-of-the-development-production-and-stockpiling-of-bacteriological-biological-and-toxin-weapons-and-on-their-destruction/)** — `2024-12-10` | `6 Pages`
 - `[`UN-A-RES-79-77`]` **[Comprehensive Nuclear-Test-Ban Treaty](https://www.indexdata.org/a-res-79-77-comprehensive-nuclear-test-ban-treaty/)** — `2024-12-10` | `3 Pages`
 - `[`UN-A-C.5-79-27`]` **[Investigation into the conditions and circumstances resulting in the tragic death of Dag Hammarskjöld and of the members of the party accompanying him : programme budget implications of draft resolution A/79/L.26 — Statement](https://www.indexdata.org/a-c-5-79-27-investigation-into-the-conditions-and-circumstances-resulting-in-the-tragic-death-of-dag-hammarskjold-and-of-the-members-of-the-party-accompanying-him-programme-budget-implications-of/)** — `2024-11-29` | `4 Pages`
-- `[`UN-A-79-637`]` **[Identical letters dated 25 November 2024 from the Chargé d'affaires a.i. of the Permanent Mission of Lebanon to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/a-79-637-identical-letters-dated-25-november-2024-from-the-charge-daffaires-a-i-of-the-permanent-mission-of-lebanon-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-t/)** — `2024-11-29` | `2 Pages`
 
 ### [UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -1410,6 +1408,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-econom
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 
+- `[`UN-E-CN.6-2026-NGO-185`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-185-statement/)** — `2026-01-12` | `3 Pages`
+- `[`UN-E-CN.6-2026-NGO-184`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-184-statement/)** — `2026-01-12` | `3 Pages`
 - `[`UN-E-CN.6-2026-NGO-183`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-183-statement/)** — `2026-01-12` | `3 Pages`
 - `[`UN-E-CN.6-2026-NGO-182`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-182-statement/)** — `2026-01-12` | `2 Pages`
 - `[`UN-E-CN.6-2026-NGO-181`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-181-statement/)** — `2026-01-12` | `4 Pages`

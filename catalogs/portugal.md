@@ -5,22 +5,22 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/portugal/feed/](https://www.indexdata.org/portugal/feed/)  
 **Wikidata Sovereign Entity:** [`Q45`](https://www.wikidata.org/wiki/Q45)  
 **Governing Open-Government Framework:** *Lei n.º 68/2021*  
-**Total Indexed Dossiers in Portugal:** `22` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-10 15:04 UTC`
+**Total Indexed Dossiers in Portugal:** `23` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-10 16:01 UTC`
 
 ---
 
 ## Issuing Authorities in Portugal (5 Authorities)
 
 - **[Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
-- **[High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
+- **[High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
 - **[Regional Directorate for the Sea — Madeira (DRM)](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/) | [RSS Feed](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/feed/)
 - **[National Institute of Health Doutor Ricardo Jorge (INSA)](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/) | [RSS Feed](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/feed/)
 - **[National Laboratory of Energy and Geology (LNEG)](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/) | [RSS Feed](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–22 of 22)
+## Indexed Statutory & Regulatory Dossiers (Records 1–23 of 23)
 
 ### [Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
@@ -39,6 +39,7 @@ Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-m
 ### [High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
 
+- `[`PT-CSM-WP-54756`]` **[apresentação ética_ass](https://www.indexdata.org/apresentacao-etica_ass/)** — `2026-11-01` | `2 Pages`
 - `[`PT-CSM-WP-54718`]` **[20261105programa3](https://www.indexdata.org/20261105programa3/)** — `2026-11-01` | `2 Pages`
 - `[`PT-CSM-WP-54659`]` **[20261104_Listagem das Áreas Inspetivas – Serviços de Inspeção do CSM](https://www.indexdata.org/20261104_listagem-das-areas-inspetivas-servicos-de-inspecao-do-csm/)** — `2026-11-01` | `15 Pages`
 - `[`PT-CSM-WP-54648`]` **[202611_Base para diálogo aberto com novos Juíze(a)s](https://www.indexdata.org/202611_base-para-dialogo-aberto-com-novos-juizeas/)** — `2026-11-01` | `12 Pages`

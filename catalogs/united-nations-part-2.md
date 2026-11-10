@@ -5,17 +5,17 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,952` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,954` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-10 15:04 UTC`
+**Last Automated Sync:** `2026-11-10 16:01 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,016` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`504` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,11 +187,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,952)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,954)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-RES-80-240-B`]` **[Support account for peacekeeping operations — resolution](https://www.indexdata.org/a-res-80-240-b-support-account-for-peacekeeping-operations-resolution/)** — `2026-07-01` | `5 Pages`
+- `[`UN-A-HRC-63-32-Add.1`]` **[Visit to Germany — report of the Special Rapporteur on the Right to Development, Surya Deva](https://www.indexdata.org/a-hrc-63-32-add-1-visit-to-germany-report-of-the-special-rapporteur-on-the-right-to-development-surya-deva/)** — `2026-07-01` | `19 Pages`
 - `[`UN-A-HRC-62-L.25`]` **[Human rights implications of the obstruction and denial of humanitarian access and threats to the safety of humanitarian personnel in armed conflict — draft resolution](https://www.indexdata.org/a-hrc-62-l-25-human-rights-implications-of-the-obstruction-and-denial-of-humanitarian-access-and-threats-to-the-safety-of-humanitarian-personnel-in-armed-conflict-draft-resolution/)** — `2026-07-01` | `3 Pages`
 - `[`UN-A-HRC-62-L.13`]` **[Human rights and the civilian acquisition, possession and use of firearms — draft resolution](https://www.indexdata.org/a-hrc-62-l-13-human-rights-and-the-civilian-acquisition-possession-and-use-of-firearms-draft-resolution/)** — `2026-07-01` | `5 Pages`
 - `[`UN-A-C.5-80-INF-5`]` **[Recommendations contained in the report of the 5th Committee (A/80/568/Add.2) for consideration by the General Assembly — note](https://www.indexdata.org/a-c-5-80-inf-5-recommendations-contained-in-the-report-of-the-5th-committee-a-80-568-add-2-for-consideration-by-the-general-assembly-note/)** — `2026-07-01` | `3 Pages`
@@ -1130,8 +1132,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-ICEF-2026-AB-L.3`]` **[UNICEF Office of Internal Audit and Investigations 2025 annual report to the Executive Board](https://www.indexdata.org/e-icef-2026-ab-l-3-unicef-office-of-internal-audit-and-investigations-2025-annual-report-to-the-executive-board/)** — `2026-04-16` | `25 Pages`
 - `[`UN-E-ICEF-2026-23`]` **[Annual report on the risk profile of UNICEF](https://www.indexdata.org/e-icef-2026-23-annual-report-on-the-risk-profile-of-unicef/)** — `2026-04-16` | `13 Pages`
 - `[`UN-E-ICEF-2026-21`]` **[Report of the Ethics Office of UNICEF for 2025](https://www.indexdata.org/e-icef-2026-21-report-of-the-ethics-office-of-unicef-for-2025/)** — `2026-04-16` | `18 Pages`
-- `[`UN-E-ICEF-2026-15`]` **[Update on protection from sexual exploitation and abuse — United Nations Children's Fund](https://www.indexdata.org/e-icef-2026-15-update-on-protection-from-sexual-exploitation-and-abuse-united-nations-childrens-fund/)** — `2026-04-16` | `13 Pages`
-- `[`UN-E-ICEF-2026-10`]` **[Annual report for 2025 of the Executive Director of UNICEF](https://www.indexdata.org/e-icef-2026-10-annual-report-for-2025-of-the-executive-director-of-unicef/)** — `2026-04-16` | `17 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)

@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q884`](https://www.wikidata.org/wiki/Q884)  
 **Governing Open-Government Framework:** *Copyright Act Art. 7 & Art. 24-2 / KOGL Type 1*  
 **Total Indexed Dossiers in South Korea:** `66` across `7` issuing authorities  
-**Last Automated Sync:** `2026-11-10 15:04 UTC`
+**Last Automated Sync:** `2026-11-10 16:01 UTC`
 
 ---
 
