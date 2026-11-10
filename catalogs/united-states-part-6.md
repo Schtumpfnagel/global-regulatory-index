@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,178` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,184` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 04:32 UTC`
+**Last Automated Sync:** `2026-11-10 05:45 UTC`
 
 ---
 
@@ -71,8 +71,8 @@
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
@@ -105,6 +105,7 @@
 - **[Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
 - **[Federal Railroad Administration (FRA)](https://www.indexdata.org/united-states/federal-railroad-administration-fra/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-railroad-administration-fra/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration-fra/feed/)
 - **[Indian Affairs Bureau](https://www.indexdata.org/united-states/indian-affairs-bureau/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-affairs-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/indian-affairs-bureau/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Transportation Department](https://www.indexdata.org/united-states/transportation-department/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
 - **[Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
 - **[Safety and Environmental Enforcement Bureau](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/feed/)
@@ -119,7 +120,6 @@
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -245,11 +245,15 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,178)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,184)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-02381`]` **[Airworthiness Directives; Embraer S.A. (Type Certificate Previously Held by Yaborã Indústria Aeronáutica S.A.; Embraer S.A.) Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-type-certificate-previously-held-by-yabora-industria-aeronautica-s-a-embraer-s-a-airplanes-7/)** — `2025-02-10` | `5 Pages`
+- `[`2025-02376`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-156/)** — `2025-02-10` | `9 Pages`
+- `[`2025-02375`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-184/)** — `2025-02-10` | `3 Pages`
+- `[`2025-02374`]` **[Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc-airplanes-17/)** — `2025-02-10` | `3 Pages`
 - `[`2025-02323`]` **[Amendment of Class E Airspace; Marion, NC](https://www.indexdata.org/amendment-of-class-e-airspace-marion-nc/)** — `2025-02-07` | `2 Pages`
 - `[`2025-02244`]` **[Airworthiness Directives; Embraer S.A. (Type Certificate Previously Held by Yaborã Indústria Aeronáutica S.A.; Embraer S.A.) Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-type-certificate-previously-held-by-yabora-industria-aeronautica-s-a-embraer-s-a-airplanes-8/)** — `2025-02-07` | `4 Pages`
 - `[`2025-02281`]` **[Amendment of Jet Route J-96 in the Vicinity of Cimarron, NM](https://www.indexdata.org/amendment-of-jet-route-j-96-in-the-vicinity-of-cimarron-nm-2/)** — `2025-02-06` | `3 Pages`
@@ -566,7 +570,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-23497`]` **[Modification of Class D Airspace, Establishment of Class E Airspace; San Bernardino International Airport, San Bernardino, CA](https://www.indexdata.org/modification-of-class-d-airspace-establishment-of-class-e-airspace-san-bernardino-international-airport-san-bernardino-ca-3/)** — `2024-10-11` | `3 Pages`
 - `[`2024-23432`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-42/)** — `2024-10-10` | `4 Pages`
 - `[`2024-23201`]` **[Revocation of Colored Federal Airways Amber 3 (A-3), Amber 17 (A-17), and Green 16 (G-16) in Alaska](https://www.indexdata.org/revocation-of-colored-federal-airways-amber-3-a-3-amber-17-a-17-and-green-16-g-16-in-alaska/)** — `2024-10-10` | `2 Pages`
-- `[`2024-23248`]` **[Airworthiness Directives; Embraer S.A. Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-airplanes-12/)** — `2024-10-08` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -792,11 +795,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-23172`]` **[Approval and Promulgation of State Plans (Negative Declarations) for Designated Facilities and Pollutants: Maine and Massachusetts](https://www.indexdata.org/approval-and-promulgation-of-state-plans-negative-declarations-for-designated-facilities-and-pollutants-maine-and-massachusetts/)** — `2024-10-11` | `3 Pages`
 - `[`2024-21967`]` **[Phasedown of Hydrofluorocarbons: Management of Certain Hydrofluorocarbons and Substitutes Under the American Innovation and Manufacturing Act of 2020](https://www.indexdata.org/phasedown-of-hydrofluorocarbons-management-of-certain-hydrofluorocarbons-and-substitutes-under-the-american-innovation-and-manufacturing-act-of-2020/)** — `2024-10-11` | `191 Pages`
 - `[`2024-22380`]` **[Protection of Stratospheric Ozone: Updates Related to the Use of Ozone-Depleting Substances as Process Agents](https://www.indexdata.org/protection-of-stratospheric-ozone-updates-related-to-the-use-of-ozone-depleting-substances-as-process-agents/)** — `2024-10-10` | `38 Pages`
-- `[`2024-22013`]` **[Vessel Incidental Discharge National Standards of Performance](https://www.indexdata.org/vessel-incidental-discharge-national-standards-of-performance/)** — `2024-10-09` | `85 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2025-02368`]` **[Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL](https://www.indexdata.org/drawbridge-operation-regulation-okeechobee-waterway-stuart-fl-3/)** — `2025-02-07` | `3 Pages`
 - `[`2025-00693`]` **[Special Local Regulations & Safety Zones; USCG Sector Eastern Great Lakes](https://www.indexdata.org/special-local-regulations-uscg-sector-eastern-great-lakes-2/)** — `2025-01-21` | `8 Pages`
 - `[`2025-00708`]` **[Cybersecurity in the Marine Transportation System](https://www.indexdata.org/cybersecurity-in-the-marine-transportation-system/)** — `2025-01-17` | `156 Pages`
 - `[`2025-00573`]` **[Drawbridge Operation Regulation; Umpqua River, Reedsport, OR](https://www.indexdata.org/drawbridge-operation-regulation-umpqua-river-reedsport-or/)** — `2025-01-17` | `3 Pages`
@@ -949,7 +952,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-23318`]` **[Fisheries of the Northeastern United States; Atlantic Herring Fishery; Adjustment to the 2024 Specifications](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-herring-fishery-adjustment-to-the-2024-specifications/)** — `2024-10-09` | `2 Pages`
 - `[`2024-23317`]` **[Endangered and Threatened Wildlife and Plants; Technical Correction for the Coral Fimbriaphyllia paradivisa](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-technical-correction-for-the-coral-fimbriaphyllia-paradivisa/)** — `2024-10-09` | `3 Pages`
 - `[`2024-23262`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 34; Groundfish Exclusion Area for Coral Research and Restoration](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-pacific-coast-groundfish-fishery-management-plan-amendment-34-groundfish-exclusion-area-for-coral-3/)** — `2024-10-09` | `2 Pages`
-- `[`2024-23249`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Atka Mackerel in the Bering Sea and Aleutian Islands Management Area](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-atka-mackerel-in-the-bering-sea-and-aleutian-islands-management-area-2/)** — `2024-10-08` | `2 Pages`
 
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -1131,8 +1133,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2024-23907`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Furnace Fans](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-furnace-fans-2/)** — `2024-10-18` | `37 Pages`
 - `[`2024-23906`]` **[Energy Conservation Program: Energy Conservation Standards for Oil, Electric, and Weatherized Gas Consumer Furnaces](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-oil-electric-and-weatherized-gas-consumer-furnaces/)** — `2024-10-18` | `36 Pages`
 - `[`2024-23908`]` **[Energy Conservation Program: Energy Conservation Standards for Dishwashers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dishwashers/)** — `2024-10-17` | `7 Pages`
-- `[`2024-21950`]` **[Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment](https://www.indexdata.org/energy-conservation-program-for-appliance-standards-certification-requirements-labeling-requirements-and-enforcement-provisions-for-certain-consumer-products-and-commercial-equipment-2/)** — `2024-10-09` | `78 Pages`
-- `[`2024-23257`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-clothes-dryers/)** — `2024-10-08` | `11 Pages`
 
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
@@ -1414,24 +1414,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2024-27077`]` **[Modernization of Engagement With Mortgagors in Default: Partial Extension of Compliance Date](https://www.indexdata.org/modernization-of-engagement-with-mortgagors-in-default-partial-extension-of-compliance-date/)** — `2024-11-21` | `2 Pages`
 - `[`2024-25469`]` **[Public Housing Evaluation and Oversight: Changes to the Public Housing Assessment System (PHAS) and Determining and Remedying Performance Deficiencies](https://www.indexdata.org/public-housing-evaluation-and-oversight-changes-to-the-public-housing-assessment-system-phas-and-determining-and-remedying-performance-deficiencies/)** — `2024-11-04` | `15 Pages`
 
-### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
-
-- `[`2024-31367`]` **[Federal Motor Vehicle Safety Standards; Fuel System Integrity of Hydrogen Vehicles; Compressed Hydrogen Storage System Integrity; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fuel-system-integrity-of-hydrogen-vehicles-compressed-hydrogen-storage-system-integrity-incorporation-by-reference/)** — `2025-01-17` | `78 Pages`
-- `[`2024-30854`]` **[ADS-Equipped Vehicle Safety, Transparency, and Evaluation Program](https://www.indexdata.org/ads-equipped-vehicle-safety-transparency-and-evaluation-program/)** — `2025-01-15` | `61 Pages`
-- `[`2024-31011`]` **[Updated Means of Providing Recall Notification](https://www.indexdata.org/updated-means-of-providing-recall-notification/)** — `2025-01-10` | `14 Pages`
-- `[`2024-31142`]` **[Federal Motor Vehicle Safety Standards; Child Restraint Systems, Child Restraint Anchorage Systems, Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-child-restraint-systems-child-restraint-anchorage-systems-incorporation-by-reference/)** — `2025-01-07` | `66 Pages`
-- `[`2024-30985`]` **[Anthropomorphic Test Devices, HIII 5TH Percentile Female Test Dummy; Incorporation by Reference](https://www.indexdata.org/anthropomorphic-test-devices-hiii-5th-percentile-female-test-dummy-incorporation-by-reference-2/)** — `2025-01-03` | `16 Pages`
-- `[`2024-30340`]` **[Federal Motor Vehicle Safety Standards; Occupant Crash Protection, Seat Belt Reminder Systems, Controls and Displays](https://www.indexdata.org/federal-motor-vehicle-safety-standards-occupant-crash-protection-seat-belt-reminder-systems-controls-and-displays-2/)** — `2025-01-03` | `79 Pages`
-- `[`2024-31141`]` **[Federal Motor Vehicle Safety Standards; Lamps, Reflective Devices, and Associated Equipment, Adaptive Driving Beam Headlamps](https://www.indexdata.org/federal-motor-vehicle-safety-standards-lamps-reflective-devices-and-associated-equipment-adaptive-driving-beam-headlamps/)** — `2024-12-30` | `10 Pages`
-- `[`2024-28707`]` **[Federal Motor Vehicle Safety Standards; FMVSS No. 305a Electric-Powered Vehicles: Electric Powertrain Integrity Global Technical Regulation No. 20 Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fmvss-no-305a-electric-powered-vehicles-electric-powertrain-integrity-global-technical-regulation-no-20-incorporation-by-reference-2/)** — `2024-12-20` | `48 Pages`
-- `[`2024-29862`]` **[Event Data Recorders](https://www.indexdata.org/event-data-recorders-3/)** — `2024-12-18` | `25 Pages`
-- `[`2024-29268`]` **[Implementing the Whistleblower Provisions of the Vehicle Safety Act](https://www.indexdata.org/implementing-the-whistleblower-provisions-of-the-vehicle-safety-act-2/)** — `2024-12-17` | `42 Pages`
-- `[`2024-27349`]` **[Federal Motor Vehicle Safety Standards; Automatic Emergency Braking Systems for Light Vehicles](https://www.indexdata.org/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles/)** — `2024-11-26` | `22 Pages`
-- `[`2024-26985`]` **[Federal Motor Vehicle Safety Standards; Pedestrian Head Protection, Global Technical Regulation No. 9; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-pedestrian-head-protection-global-technical-regulation-no-9-incorporation-by-reference/)** — `2024-11-20` | `2 Pages`
-- `[`2024-24462`]` **[Federal Motor Vehicle Safety Standards; Anti-Ejection Glazing for Bus Portals; Bus Emergency Exits and Window Retention and Release](https://www.indexdata.org/federal-motor-vehicle-safety-standards-anti-ejection-glazing-for-bus-portals-bus-emergency-exits-and-window-retention-and-release/)** — `2024-10-30` | `31 Pages`
-- `[`2024-22448`]` **[Federal Motor Vehicle Safety Standards; FMVSS No. 213, “Child Restraint Systems,” FMVSS No. 213a, “Child Restraint Systems-Side Impact Protection,” and FMVSS No. 213b, “Child Restraint Systems”-Response to Petitions for Reconsideration](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fmvss-no-213-child-restraint-systems-fmvss-no-213a-child-restraint-systems-side-impact-protection-and-fmvss-no-213b/)** — `2024-10-09` | `13 Pages`
-
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
 
@@ -1465,6 +1447,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and
 - `[`2024-25722`]` **[Use of Federal Real Property To Assist the Homeless](https://www.indexdata.org/use-of-federal-real-property-to-assist-the-homeless/)** — `2024-11-13` | `36 Pages`
 - `[`2024-23032`]` **[Supporting the Head Start Workforce and Consistent Quality Programming; Announcement and Correction](https://www.indexdata.org/supporting-the-head-start-workforce-and-consistent-quality-programming-announcement-and-correction/)** — `2024-10-31` | `2 Pages`
 - `[`2024-24399`]` **[Department of Health and Human Services Policy for the Protection of Human Research Subjects: Update to the Additional Protections for Specific Populations](https://www.indexdata.org/department-of-health-and-human-services-policy-for-the-protection-of-human-research-subjects-update-to-the-additional-protections-for-specific-populations/)** — `2024-10-24` | `6 Pages`
+
+### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
+
+- `[`2024-31367`]` **[Federal Motor Vehicle Safety Standards; Fuel System Integrity of Hydrogen Vehicles; Compressed Hydrogen Storage System Integrity; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fuel-system-integrity-of-hydrogen-vehicles-compressed-hydrogen-storage-system-integrity-incorporation-by-reference/)** — `2025-01-17` | `78 Pages`
+- `[`2024-30854`]` **[ADS-Equipped Vehicle Safety, Transparency, and Evaluation Program](https://www.indexdata.org/ads-equipped-vehicle-safety-transparency-and-evaluation-program/)** — `2025-01-15` | `61 Pages`
+- `[`2024-31011`]` **[Updated Means of Providing Recall Notification](https://www.indexdata.org/updated-means-of-providing-recall-notification/)** — `2025-01-10` | `14 Pages`
+- `[`2024-31142`]` **[Federal Motor Vehicle Safety Standards; Child Restraint Systems, Child Restraint Anchorage Systems, Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-child-restraint-systems-child-restraint-anchorage-systems-incorporation-by-reference/)** — `2025-01-07` | `66 Pages`
+- `[`2024-30985`]` **[Anthropomorphic Test Devices, HIII 5TH Percentile Female Test Dummy; Incorporation by Reference](https://www.indexdata.org/anthropomorphic-test-devices-hiii-5th-percentile-female-test-dummy-incorporation-by-reference-2/)** — `2025-01-03` | `16 Pages`
+- `[`2024-30340`]` **[Federal Motor Vehicle Safety Standards; Occupant Crash Protection, Seat Belt Reminder Systems, Controls and Displays](https://www.indexdata.org/federal-motor-vehicle-safety-standards-occupant-crash-protection-seat-belt-reminder-systems-controls-and-displays-2/)** — `2025-01-03` | `79 Pages`
+- `[`2024-31141`]` **[Federal Motor Vehicle Safety Standards; Lamps, Reflective Devices, and Associated Equipment, Adaptive Driving Beam Headlamps](https://www.indexdata.org/federal-motor-vehicle-safety-standards-lamps-reflective-devices-and-associated-equipment-adaptive-driving-beam-headlamps/)** — `2024-12-30` | `10 Pages`
+- `[`2024-28707`]` **[Federal Motor Vehicle Safety Standards; FMVSS No. 305a Electric-Powered Vehicles: Electric Powertrain Integrity Global Technical Regulation No. 20 Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fmvss-no-305a-electric-powered-vehicles-electric-powertrain-integrity-global-technical-regulation-no-20-incorporation-by-reference-2/)** — `2024-12-20` | `48 Pages`
+- `[`2024-29862`]` **[Event Data Recorders](https://www.indexdata.org/event-data-recorders-3/)** — `2024-12-18` | `25 Pages`
+- `[`2024-29268`]` **[Implementing the Whistleblower Provisions of the Vehicle Safety Act](https://www.indexdata.org/implementing-the-whistleblower-provisions-of-the-vehicle-safety-act-2/)** — `2024-12-17` | `42 Pages`
+- `[`2024-27349`]` **[Federal Motor Vehicle Safety Standards; Automatic Emergency Braking Systems for Light Vehicles](https://www.indexdata.org/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles/)** — `2024-11-26` | `22 Pages`
+- `[`2024-26985`]` **[Federal Motor Vehicle Safety Standards; Pedestrian Head Protection, Global Technical Regulation No. 9; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-pedestrian-head-protection-global-technical-regulation-no-9-incorporation-by-reference/)** — `2024-11-20` | `2 Pages`
+- `[`2024-24462`]` **[Federal Motor Vehicle Safety Standards; Anti-Ejection Glazing for Bus Portals; Bus Emergency Exits and Window Retention and Release](https://www.indexdata.org/federal-motor-vehicle-safety-standards-anti-ejection-glazing-for-bus-portals-bus-emergency-exits-and-window-retention-and-release/)** — `2024-10-30` | `31 Pages`
 
 ### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
@@ -1544,6 +1543,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/](https://
 - `[`GDI-419534`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-33/)** — `2024-12-02` | `2 Pages`
 - `[`GDI-419529`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP)) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-airplanes/)** — `2024-12-02` | `2 Pages`
 
+### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
+
+- `[`2025-02338`]` **[Debt Collection Act Petitions Against Current Employees](https://www.indexdata.org/debt-collection-act-petitions-against-current-employees/)** — `2025-02-10` | `3 Pages`
+- `[`2025-02212`]` **[Optional 5-Digit/3-Digit/ADC Sortation](https://www.indexdata.org/optional-5-digit-3-digit-adc-sortation-2/)** — `2025-02-05` | `3 Pages`
+- `[`2025-01938`]` **[International Competitive Services and Price Changes](https://www.indexdata.org/international-competitive-services-and-price-changes/)** — `2025-01-30` | `3 Pages`
+- `[`2025-01618`]` **[New Mailing Standards for Hazardous Materials Outer Packaging and Nonregulated Toxic Materials](https://www.indexdata.org/new-mailing-standards-for-hazardous-materials-outer-packaging-and-nonregulated-toxic-materials/)** — `2025-01-27` | `6 Pages`
+- `[`2025-01062`]` **[Inspection Service Authority; Civil Monetary Penalty Inflation Adjustment](https://www.indexdata.org/inspection-service-authority-civil-monetary-penalty-inflation-adjustment/)** — `2025-01-17` | `3 Pages`
+- `[`2024-31517`]` **[International Return Receipt](https://www.indexdata.org/international-return-receipt/)** — `2025-01-03` | `2 Pages`
+- `[`2024-31225`]` **[Labeling List Updates](https://www.indexdata.org/labeling-list-updates/)** — `2024-12-31` | `10 Pages`
+- `[`2024-29435`]` **[Dual Shipping Labels Discontinued](https://www.indexdata.org/dual-shipping-labels-discontinued/)** — `2024-12-13` | `2 Pages`
+- `[`2024-27463`]` **[Domestic Competitive Products Pricing and Mailing Standards Changes](https://www.indexdata.org/domestic-competitive-products-pricing-and-mailing-standards-changes-4/)** — `2024-11-27` | `8 Pages`
+- `[`2024-27537`]` **[Cremated Remains Packaging Requirements](https://www.indexdata.org/cremated-remains-packaging-requirements-2/)** — `2024-11-26` | `2 Pages`
+- `[`2024-26434`]` **[Service Standards for Market-Dominant Mail Products](https://www.indexdata.org/service-standards-for-market-dominant-mail-products-2/)** — `2024-11-15` | `9 Pages`
+
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 
@@ -1585,20 +1599,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2024-26229`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 8K, 25G, 110, 111, and 112](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-8k-25g-110-111-and-112/)** — `2024-11-14` | `3 Pages`
 - `[`2024-26127`]` **[Burma Sanctions Regulations](https://www.indexdata.org/burma-sanctions-regulations/)** — `2024-11-13` | `13 Pages`
 - `[`2024-24524`]` **[Publication of Western Balkans Stabilization Regulations Web General Licenses 3A, 4, and 5](https://www.indexdata.org/publication-of-western-balkans-stabilization-regulations-web-general-licenses-3a-4-and-5/)** — `2024-10-23` | `3 Pages`
-
-### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
-
-- `[`2025-02212`]` **[Optional 5-Digit/3-Digit/ADC Sortation](https://www.indexdata.org/optional-5-digit-3-digit-adc-sortation-2/)** — `2025-02-05` | `3 Pages`
-- `[`2025-01938`]` **[International Competitive Services and Price Changes](https://www.indexdata.org/international-competitive-services-and-price-changes/)** — `2025-01-30` | `3 Pages`
-- `[`2025-01618`]` **[New Mailing Standards for Hazardous Materials Outer Packaging and Nonregulated Toxic Materials](https://www.indexdata.org/new-mailing-standards-for-hazardous-materials-outer-packaging-and-nonregulated-toxic-materials/)** — `2025-01-27` | `6 Pages`
-- `[`2025-01062`]` **[Inspection Service Authority; Civil Monetary Penalty Inflation Adjustment](https://www.indexdata.org/inspection-service-authority-civil-monetary-penalty-inflation-adjustment/)** — `2025-01-17` | `3 Pages`
-- `[`2024-31517`]` **[International Return Receipt](https://www.indexdata.org/international-return-receipt/)** — `2025-01-03` | `2 Pages`
-- `[`2024-31225`]` **[Labeling List Updates](https://www.indexdata.org/labeling-list-updates/)** — `2024-12-31` | `10 Pages`
-- `[`2024-29435`]` **[Dual Shipping Labels Discontinued](https://www.indexdata.org/dual-shipping-labels-discontinued/)** — `2024-12-13` | `2 Pages`
-- `[`2024-27463`]` **[Domestic Competitive Products Pricing and Mailing Standards Changes](https://www.indexdata.org/domestic-competitive-products-pricing-and-mailing-standards-changes-4/)** — `2024-11-27` | `8 Pages`
-- `[`2024-27537`]` **[Cremated Remains Packaging Requirements](https://www.indexdata.org/cremated-remains-packaging-requirements-2/)** — `2024-11-26` | `2 Pages`
-- `[`2024-26434`]` **[Service Standards for Market-Dominant Mail Products](https://www.indexdata.org/service-standards-for-market-dominant-mail-products-2/)** — `2024-11-15` | `9 Pages`
 
 ### [Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,178` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,184` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 04:32 UTC`
+**Last Automated Sync:** `2026-11-10 05:45 UTC`
 
 ---
 
@@ -71,8 +71,8 @@
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
@@ -105,6 +105,7 @@
 - **[Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
 - **[Federal Railroad Administration (FRA)](https://www.indexdata.org/united-states/federal-railroad-administration-fra/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-railroad-administration-fra/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration-fra/feed/)
 - **[Indian Affairs Bureau](https://www.indexdata.org/united-states/indian-affairs-bureau/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-affairs-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/indian-affairs-bureau/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Transportation Department](https://www.indexdata.org/united-states/transportation-department/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
 - **[Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
 - **[Safety and Environmental Enforcement Bureau](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/feed/)
@@ -119,7 +120,6 @@
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
@@ -245,11 +245,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,178)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,184)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-21673`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-267/)** — `2023-10-02` | `5 Pages`
 - `[`2023-21635`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-300/)** — `2023-10-02` | `3 Pages`
 - `[`2023-21634`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-301/)** — `2023-10-02` | `3 Pages`
 - `[`2023-21632`]` **[Airworthiness Directives; British Aerospace (Operations) Limited and British Aerospace Regional Aircraft Airplanes](https://www.indexdata.org/airworthiness-directives-british-aerospace-operations-limited-and-british-aerospace-regional-aircraft-airplanes/)** — `2023-10-02` | `4 Pages`
@@ -647,11 +648,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-12287`]` **[Airworthiness Directives; Engine Alliance Engines](https://www.indexdata.org/airworthiness-directives-engine-alliance-engines-2/)** — `2023-06-09` | `3 Pages`
 - `[`2023-12286`]` **[Airworthiness Directives; General Electric Company Engines](https://www.indexdata.org/airworthiness-directives-general-electric-company-engines-39/)** — `2023-06-09` | `4 Pages`
 - `[`2023-12278`]` **[Special Conditions: Airbus SAS Model A320 and A321 Series Airplanes; Rechargeable Lithium Batteries and Battery System Installations](https://www.indexdata.org/special-conditions-airbus-sas-model-a320-and-a321-series-airplanes-rechargeable-lithium-batteries-and-battery-system-installations/)** — `2023-06-08` | `3 Pages`
-- `[`2023-12156`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-57/)** — `2023-06-08` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-21700`]` **[Air Plan Approval; New Jersey; Redesignation of the Warren County 1971 Sulfur Dioxide Nonattainment Area to Attainment and Approval of the Area's Maintenance Plan](https://www.indexdata.org/air-plan-approval-new-jersey-redesignation-of-the-warren-county-1971-sulfur-dioxide-nonattainment-area-to-attainment-and-approval-of-the-areas-maintenance-plan/)** — `2023-10-02` | `4 Pages`
 - `[`2023-21267`]` **[Air Plan Approval; Washington; Southwest Clean Air Agency, General Air Quality Regulations](https://www.indexdata.org/air-plan-approval-washington-southwest-clean-air-agency-general-air-quality-regulations/)** — `2023-09-29` | `6 Pages`
 - `[`2023-21040`]` **[Federal “Good Neighbor Plan” for the 2015 Ozone National Ambient Air Quality Standards; Response to Additional Judicial Stays of SIP Disapproval Action for Certain States](https://www.indexdata.org/federal-good-neighbor-plan-for-the-2015-ozone-national-ambient-air-quality-standards-response-to-additional-judicial-stays-of-sip-disapproval-action-for-certain-states/)** — `2023-09-29` | `7 Pages`
 - `[`2023-21266`]` **[Air Plan Approval; Washington; Southwest Clean Air Agency; Emission Standards and Controls for Sources Emitting Gasoline Vapors](https://www.indexdata.org/air-plan-approval-washington-southwest-clean-air-agency-emission-standards-and-controls-for-sources-emitting-gasoline-vapors/)** — `2023-09-28` | `3 Pages`
@@ -987,12 +988,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2023-12418`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-9/)** — `2023-06-09` | `3 Pages`
 - `[`2023-12344`]` **[Safety Zone; Marysville Funfest Fireworks, St. Clair River; Marysville, MI](https://www.indexdata.org/safety-zone-marysville-funfest-fireworks-st-clair-river-marysville-mi/)** — `2023-06-09` | `3 Pages`
 - `[`2023-12270`]` **[Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL](https://www.indexdata.org/drawbridge-operation-regulation-okeechobee-waterway-stuart-fl-12/)** — `2023-06-08` | `2 Pages`
-- `[`2023-12266`]` **[Safety Zones; Fireworks Displays in the Fifth Coast Guard District-Philadelphia, PA](https://www.indexdata.org/safety-zones-fireworks-displays-in-the-fifth-coast-guard-district-philadelphia-pa/)** — `2023-06-08` | `2 Pages`
-- `[`2023-12263`]` **[Safety Zone; Fireworks Display, Delaware River, Philadelphia, PA](https://www.indexdata.org/safety-zone-fireworks-display-delaware-river-philadelphia-pa-2/)** — `2023-06-08` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2023-21738`]` **[Snapper-Grouper Fishery of the South Atlantic Region; Golden Crab Fishery of the South Atlantic Region; Dolphin and Wahoo Fishery of the Atlantic; Acceptable Biological Catch Control Rules](https://www.indexdata.org/snapper-grouper-fishery-of-the-south-atlantic-region-golden-crab-fishery-of-the-south-atlantic-region-dolphin-and-wahoo-fishery-of-the-atlantic-acceptable-biological-catch-control-rules-2/)** — `2023-10-02` | `6 Pages`
+- `[`2023-21710`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2023-2024 Biennial Specifications and Management Measures; Inseason Adjustments](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2023-2024-biennial-specifications-and-management-measures-inseason-adjustments-5/)** — `2023-10-02` | `11 Pages`
+- `[`2023-21707`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; General Category October Through November Time Period Quota Transfer](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-general-category-october-through-november-time-period-quota-transfer/)** — `2023-10-02` | `3 Pages`
 - `[`2023-21466`]` **[Fisheries of the Northeastern United States; Atlantic Coastal Fisheries Cooperative Management Act Provisions; American Lobster Fishery](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-coastal-fisheries-cooperative-management-act-provisions-american-lobster-fishery/)** — `2023-10-02` | `15 Pages`
 - `[`2023-21648`]` **[Designation of Wisconsin Shipwreck Coast National Marine Sanctuary; Delay of Effectiveness](https://www.indexdata.org/designation-of-wisconsin-shipwreck-coast-national-marine-sanctuary-delay-of-effectiveness/)** — `2023-09-29` | `3 Pages`
 - `[`2023-21410`]` **[Fisheries Off West Coast States; Coastal Pelagic Species Fisheries; Biennial Specifications; 2023-2024 and 2024-2025 Specifications for Pacific Mackerel](https://www.indexdata.org/fisheries-off-west-coast-states-coastal-pelagic-species-fisheries-biennial-specifications-2023-2024-and-2024-2025-specifications-for-pacific-mackerel-2/)** — `2023-09-29` | `3 Pages`
@@ -1099,8 +1101,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2023-12633`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Fishery of the Gulf of Mexico; Amendment 54](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-reef-fish-fishery-of-the-gulf-of-mexico-amendment-54/)** — `2023-06-15` | `9 Pages`
 - `[`2023-12411`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic; Amendment 53](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-snapper-grouper-fishery-of-the-south-atlantic-amendment-53-3/)** — `2023-06-12` | `4 Pages`
 - `[`2023-12388`]` **[Draft Conservation Plan for the Eastern Pacific Stock of Northern Fur Seal (Laaqudan)](https://www.indexdata.org/draft-conservation-plan-for-the-eastern-pacific-stock-of-northern-fur-seal-laaqudan/)** — `2023-06-12` | `2 Pages`
-- `[`2023-12243`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Fishery of the Gulf of Mexico; Red Snapper Harvest Levels](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-reef-fish-fishery-of-the-gulf-of-mexico-red-snapper-harvest-levels/)** — `2023-06-08` | `5 Pages`
-- `[`2023-12237`]` **[Fisheries Off West Coast States; Modification of the West Coast Salmon Fisheries; Inseason Actions #51-#52](https://www.indexdata.org/fisheries-off-west-coast-states-modification-of-the-west-coast-salmon-fisheries-inseason-actions-51-52/)** — `2023-06-08` | `2 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1334,6 +1334,28 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2023-13748`]` **[Medicare Program; End-Stage Renal Disease Prospective Payment System, Payment for Renal Dialysis Services Furnished to Individuals With Acute Kidney Injury, End-Stage Renal Disease Quality Incentive Program, and End-Stage Renal Disease Treatment Choices Model](https://www.indexdata.org/medicare-program-end-stage-renal-disease-prospective-payment-system-payment-for-renal-dialysis-services-furnished-to-individuals-with-acute-kidney-injury-end-stage-renal-disease-quality-incentive-p-4/)** — `2023-06-30` | `115 Pages`
 - `[`2023-12308`]` **[Medicare Program; Treatment of Medicare Part C Days in the Calculation of a Hospital's Medicare Disproportionate Patient Percentage](https://www.indexdata.org/medicare-program-treatment-of-medicare-part-c-days-in-the-calculation-of-a-hospitals-medicare-disproportionate-patient-percentage/)** — `2023-06-09` | `22 Pages`
 
+### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
+
+- `[`2023-21702`]` **[Marketing Order Regulations for Almonds Grown in California](https://www.indexdata.org/marketing-order-regulations-for-almonds-grown-in-california/)** — `2023-10-02` | `7 Pages`
+- `[`2023-18350`]` **[Nomenclature Change; Technical Amendment](https://www.indexdata.org/nomenclature-change-technical-amendment/)** — `2023-09-13` | `2 Pages`
+- `[`2023-19003`]` **[Potato Research and Promotion Plan; Changes to Board Membership and Administrative Committee](https://www.indexdata.org/potato-research-and-promotion-plan-changes-to-board-membership-and-administrative-committee-2/)** — `2023-09-05` | `5 Pages`
+- `[`2023-18148`]` **[Dairy Donation Program](https://www.indexdata.org/dairy-donation-program/)** — `2023-08-24` | `13 Pages`
+- `[`2023-17753`]` **[Walnuts Grown in California; Order Amending Marketing Order No. 984](https://www.indexdata.org/walnuts-grown-in-california-order-amending-marketing-order-no-984/)** — `2023-08-21` | `6 Pages`
+- `[`2023-17220`]` **[Cotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2023 Amendments)](https://www.indexdata.org/cotton-board-rules-and-regulations-adjusting-supplemental-assessment-on-imports-2023-amendments/)** — `2023-08-15` | `15 Pages`
+- `[`2023-17052`]` **[Plant Records To Include Grade Label Butterfat Testing](https://www.indexdata.org/plant-records-to-include-grade-label-butterfat-testing-2/)** — `2023-08-15` | `3 Pages`
+- `[`2023-16295`]` **[Redefining Bona Fide Cotton Spot Markets](https://www.indexdata.org/redefining-bona-fide-cotton-spot-markets/)** — `2023-08-01` | `2 Pages`
+- `[`2023-16196`]` **[Adjustments to Mango Board Representation; Withdrawal of Proposed Rule](https://www.indexdata.org/adjustments-to-mango-board-representation-withdrawal-of-proposed-rule/)** — `2023-07-31` | `2 Pages`
+- `[`2023-15826`]` **[Paper and Paper-Based Packaging Promotion, Research, and Information Order; Continuance Referendum](https://www.indexdata.org/paper-and-paper-based-packaging-promotion-research-and-information-order-continuance-referendum/)** — `2023-07-26` | `2 Pages`
+- `[`2023-15496`]` **[Milk in the Northeast and Other Marketing Areas; Notice of Hearing on Proposed Amendments to Marketing Agreements and Orders](https://www.indexdata.org/milk-in-the-northeast-and-other-marketing-areas-notice-of-hearing-on-proposed-amendments-to-marketing-agreements-and-orders/)** — `2023-07-24` | `4 Pages`
+- `[`2023-15086`]` **[Milk in the Appalachian, Florida, and Southeast Marketing Areas; Recommended Decision on Proposed Amendments to Marketing Agreements and to Orders](https://www.indexdata.org/milk-in-the-appalachian-florida-and-southeast-marketing-areas-recommended-decision-on-proposed-amendments-to-marketing-agreements-and-to-orders/)** — `2023-07-18` | `27 Pages`
+- `[`2023-14856`]` **[United States Standards for Soybeans](https://www.indexdata.org/united-states-standards-for-soybeans/)** — `2023-07-14` | `3 Pages`
+- `[`2023-13597`]` **[Washington Apricots; Termination of Marketing Order](https://www.indexdata.org/washington-apricots-termination-of-marketing-order/)** — `2023-06-27` | `3 Pages`
+- `[`2023-13418`]` **[Preserving Trust Benefits Under the Packers and Stockyards Act](https://www.indexdata.org/preserving-trust-benefits-under-the-packers-and-stockyards-act/)** — `2023-06-23` | `9 Pages`
+- `[`2023-12917`]` **[Sweet Onions Grown in the Walla Walla Valley of Southeast Washington and Northeast Oregon; Increased Assessment Rate](https://www.indexdata.org/sweet-onions-grown-in-the-walla-walla-valley-of-southeast-washington-and-northeast-oregon-increased-assessment-rate-2/)** — `2023-06-16` | `3 Pages`
+- `[`2023-12769`]` **[Olives Grown in California; Increased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-increased-assessment-rate-2/)** — `2023-06-16` | `4 Pages`
+- `[`2023-12770`]` **[Tart Cherries Grown in the States of Michigan, New York, Pennsylvania, Oregon, Utah, Washington, and Wisconsin; Assessment Rate Increase](https://www.indexdata.org/tart-cherries-grown-in-the-states-of-michigan-new-york-pennsylvania-oregon-utah-washington-and-wisconsin-assessment-rate-increase/)** — `2023-06-15` | `3 Pages`
+
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
 
@@ -1355,27 +1377,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 - `[`2023-14600`]` **[Health and Human Services Grants Regulation](https://www.indexdata.org/health-and-human-services-grants-regulation-2/)** — `2023-07-13` | `11 Pages`
 - `[`2023-13969`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-26/)** — `2023-06-30` | `4 Pages`
 - `[`2023-12845`]` **[Clarification of Formal Enforcement Procedures for Unfair and Deceptive Practices](https://www.indexdata.org/clarification-of-formal-enforcement-procedures-for-unfair-and-deceptive-practices/)** — `2023-06-16` | `2 Pages`
-
-### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
-
-- `[`2023-18350`]` **[Nomenclature Change; Technical Amendment](https://www.indexdata.org/nomenclature-change-technical-amendment/)** — `2023-09-13` | `2 Pages`
-- `[`2023-19003`]` **[Potato Research and Promotion Plan; Changes to Board Membership and Administrative Committee](https://www.indexdata.org/potato-research-and-promotion-plan-changes-to-board-membership-and-administrative-committee-2/)** — `2023-09-05` | `5 Pages`
-- `[`2023-18148`]` **[Dairy Donation Program](https://www.indexdata.org/dairy-donation-program/)** — `2023-08-24` | `13 Pages`
-- `[`2023-17753`]` **[Walnuts Grown in California; Order Amending Marketing Order No. 984](https://www.indexdata.org/walnuts-grown-in-california-order-amending-marketing-order-no-984/)** — `2023-08-21` | `6 Pages`
-- `[`2023-17220`]` **[Cotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2023 Amendments)](https://www.indexdata.org/cotton-board-rules-and-regulations-adjusting-supplemental-assessment-on-imports-2023-amendments/)** — `2023-08-15` | `15 Pages`
-- `[`2023-17052`]` **[Plant Records To Include Grade Label Butterfat Testing](https://www.indexdata.org/plant-records-to-include-grade-label-butterfat-testing-2/)** — `2023-08-15` | `3 Pages`
-- `[`2023-16295`]` **[Redefining Bona Fide Cotton Spot Markets](https://www.indexdata.org/redefining-bona-fide-cotton-spot-markets/)** — `2023-08-01` | `2 Pages`
-- `[`2023-16196`]` **[Adjustments to Mango Board Representation; Withdrawal of Proposed Rule](https://www.indexdata.org/adjustments-to-mango-board-representation-withdrawal-of-proposed-rule/)** — `2023-07-31` | `2 Pages`
-- `[`2023-15826`]` **[Paper and Paper-Based Packaging Promotion, Research, and Information Order; Continuance Referendum](https://www.indexdata.org/paper-and-paper-based-packaging-promotion-research-and-information-order-continuance-referendum/)** — `2023-07-26` | `2 Pages`
-- `[`2023-15496`]` **[Milk in the Northeast and Other Marketing Areas; Notice of Hearing on Proposed Amendments to Marketing Agreements and Orders](https://www.indexdata.org/milk-in-the-northeast-and-other-marketing-areas-notice-of-hearing-on-proposed-amendments-to-marketing-agreements-and-orders/)** — `2023-07-24` | `4 Pages`
-- `[`2023-15086`]` **[Milk in the Appalachian, Florida, and Southeast Marketing Areas; Recommended Decision on Proposed Amendments to Marketing Agreements and to Orders](https://www.indexdata.org/milk-in-the-appalachian-florida-and-southeast-marketing-areas-recommended-decision-on-proposed-amendments-to-marketing-agreements-and-to-orders/)** — `2023-07-18` | `27 Pages`
-- `[`2023-14856`]` **[United States Standards for Soybeans](https://www.indexdata.org/united-states-standards-for-soybeans/)** — `2023-07-14` | `3 Pages`
-- `[`2023-13597`]` **[Washington Apricots; Termination of Marketing Order](https://www.indexdata.org/washington-apricots-termination-of-marketing-order/)** — `2023-06-27` | `3 Pages`
-- `[`2023-13418`]` **[Preserving Trust Benefits Under the Packers and Stockyards Act](https://www.indexdata.org/preserving-trust-benefits-under-the-packers-and-stockyards-act/)** — `2023-06-23` | `9 Pages`
-- `[`2023-12917`]` **[Sweet Onions Grown in the Walla Walla Valley of Southeast Washington and Northeast Oregon; Increased Assessment Rate](https://www.indexdata.org/sweet-onions-grown-in-the-walla-walla-valley-of-southeast-washington-and-northeast-oregon-increased-assessment-rate-2/)** — `2023-06-16` | `3 Pages`
-- `[`2023-12769`]` **[Olives Grown in California; Increased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-increased-assessment-rate-2/)** — `2023-06-16` | `4 Pages`
-- `[`2023-12770`]` **[Tart Cherries Grown in the States of Michigan, New York, Pennsylvania, Oregon, Utah, Washington, and Wisconsin; Assessment Rate Increase](https://www.indexdata.org/tart-cherries-grown-in-the-states-of-michigan-new-york-pennsylvania-oregon-utah-washington-and-wisconsin-assessment-rate-increase/)** — `2023-06-15` | `3 Pages`
 
 ### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
@@ -1666,17 +1667,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2023-14538`]` **[Visas: Nonimmigrant Visas; Immigrant Visas](https://www.indexdata.org/visas-nonimmigrant-visas-immigrant-visas/)** — `2023-07-14` | `10 Pages`
 - `[`2023-13318`]` **[Passports: Consular Reports of Birth Abroad (CRBA)](https://www.indexdata.org/passports-consular-reports-of-birth-abroad-crba/)** — `2023-06-23` | `2 Pages`
 
-### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
-
-- `[`2023-20922`]` **[Termination Rights, Royalty Distributions, Ownership Transfers, Disputes, and the Music Modernization Act](https://www.indexdata.org/termination-rights-royalty-distributions-ownership-transfers-disputes-and-the-music-modernization-act-4/)** — `2023-09-26` | `20 Pages`
-- `[`2023-18609`]` **[Fees for Late Royalty Payments Under the Music Modernization Act](https://www.indexdata.org/fees-for-late-royalty-payments-under-the-music-modernization-act/)** — `2023-09-05` | `5 Pages`
-- `[`2023-18664`]` **[Access to Electronic Works](https://www.indexdata.org/access-to-electronic-works-2/)** — `2023-09-01` | `5 Pages`
-- `[`2023-17162`]` **[Ex Parte Communications](https://www.indexdata.org/ex-parte-communications/)** — `2023-08-11` | `5 Pages`
-- `[`2023-15941`]` **[Copyright Claims Board: District Court Referrals; Proof of Service Forms; Default Proceedings; Law Student Representation](https://www.indexdata.org/copyright-claims-board-district-court-referrals-proof-of-service-forms-default-proceedings-law-student-representation/)** — `2023-07-31` | `2 Pages`
-- `[`2023-15940`]` **[Copyright Claims Board: Agreement-Based Counterclaims](https://www.indexdata.org/copyright-claims-board-agreement-based-counterclaims/)** — `2023-07-27` | `2 Pages`
-- `[`2023-12250`]` **[Exemptions To Permit Circumvention of Access Controls on Copyrighted Works](https://www.indexdata.org/exemptions-to-permit-circumvention-of-access-controls-on-copyrighted-works-3/)** — `2023-06-08` | `4 Pages`
-
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
 
@@ -1697,6 +1687,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and
 - `[`2023-17045`]` **[User Fees for Agricultural Quarantine and Inspection Services](https://www.indexdata.org/user-fees-for-agricultural-quarantine-and-inspection-services-2/)** — `2023-08-11` | `32 Pages`
 - `[`2023-16278`]` **[Process for Establishing Rates for Veterinary Services User Fees](https://www.indexdata.org/process-for-establishing-rates-for-veterinary-services-user-fees/)** — `2023-08-01` | `9 Pages`
 - `[`2023-15462`]` **[Horse Protection; Licensing of Designated Qualified Persons and Other Amendments](https://www.indexdata.org/horse-protection-licensing-of-designated-qualified-persons-and-other-amendments/)** — `2023-07-21` | `4 Pages`
+
+### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
+
+- `[`2023-20922`]` **[Termination Rights, Royalty Distributions, Ownership Transfers, Disputes, and the Music Modernization Act](https://www.indexdata.org/termination-rights-royalty-distributions-ownership-transfers-disputes-and-the-music-modernization-act-4/)** — `2023-09-26` | `20 Pages`
+- `[`2023-18609`]` **[Fees for Late Royalty Payments Under the Music Modernization Act](https://www.indexdata.org/fees-for-late-royalty-payments-under-the-music-modernization-act/)** — `2023-09-05` | `5 Pages`
+- `[`2023-18664`]` **[Access to Electronic Works](https://www.indexdata.org/access-to-electronic-works-2/)** — `2023-09-01` | `5 Pages`
+- `[`2023-17162`]` **[Ex Parte Communications](https://www.indexdata.org/ex-parte-communications/)** — `2023-08-11` | `5 Pages`
+- `[`2023-15941`]` **[Copyright Claims Board: District Court Referrals; Proof of Service Forms; Default Proceedings; Law Student Representation](https://www.indexdata.org/copyright-claims-board-district-court-referrals-proof-of-service-forms-default-proceedings-law-student-representation/)** — `2023-07-31` | `2 Pages`
+- `[`2023-15940`]` **[Copyright Claims Board: Agreement-Based Counterclaims](https://www.indexdata.org/copyright-claims-board-agreement-based-counterclaims/)** — `2023-07-27` | `2 Pages`
 
 ### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
