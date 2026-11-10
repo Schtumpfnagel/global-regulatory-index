@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,233` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,234` across `232` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
-## Issuing Authorities in United States (231 Authorities)
+## Issuing Authorities in United States (232 Authorities)
 
 - **[Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)** (`3,442` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 - **[Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)** (`1,877` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -239,6 +239,7 @@
 - **[Procurement and Property Management, Office of](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/) | [RSS Feed](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/feed/)
 - **[Reclamation Bureau](https://www.indexdata.org/united-states/reclamation-bureau/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/reclamation-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/reclamation-bureau/feed/)
 - **[U.S. Citizenship and Immigration Services](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/feed/)
+- **[U.S. Department of Housing and Urban Development (HUD)](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/feed/)
 - **[U.S. Department of the Treasury](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/feed/)
 - **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Under-Secretary for Economic Affairs](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/) | [RSS Feed](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/feed/)
@@ -247,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,233)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,234)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -1598,19 +1599,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2026-17655`]` **[Passports: Expanding Online Passport Renewal Overseas](https://www.indexdata.org/passports-expanding-online-passport-renewal-overseas/)** — `2026-08-28` | `5 Pages`
 - `[`2026-17576`]` **[International Traffic in Arms Regulations: Extension of Temporary Modification of Category XI(b) of the U.S. Munitions List](https://www.indexdata.org/international-traffic-in-arms-regulations-extension-of-temporary-modification-of-category-xib-of-the-u-s-munitions-list/)** — `2026-08-28` | `2 Pages`
 
-### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
-
-- `[`2026-22826`]` **[Pecans Grown in the States of Alabama, Arkansas, Arizona, California, Florida, Georgia, Kansas, Louisiana, Missouri, Mississippi, North Carolina, New Mexico, Oklahoma, South Carolina, and Texas; Changes to Membership and Handling Requirements](https://www.indexdata.org/pecans-grown-in-the-states-of-alabama-arkansas-arizona-california-florida-georgia-kansas-louisiana-missouri-mississippi-north-carolina-new-mexico-oklahoma-south-carolina-and-texas-chang/)** — `2026-11-08` | `5 Pages`
-- `[`2026-20792`]` **[Raisins Produced From Grapes Grown in California; Order Amending Marketing Order No. 989](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-order-amending-marketing-order-no-989/)** — `2026-10-09` | `6 Pages`
-- `[`2026-20622`]` **[Almonds Grown in California; Amendment to the Marketing Order](https://www.indexdata.org/almonds-grown-in-california-amendment-to-the-marketing-order/)** — `2026-10-08` | `4 Pages`
-- `[`2026-19887`]` **[Almonds Grown in California; Extension of Inedible Disposition Obligation Deadline](https://www.indexdata.org/almonds-grown-in-california-extension-of-inedible-disposition-obligation-deadline/)** — `2026-09-29` | `3 Pages`
-- `[`2026-19389`]` **[Softwood Lumber Board Assessment Rate Clarification and Changes to Membership](https://www.indexdata.org/softwood-lumber-board-assessment-rate-clarification-and-changes-to-membership/)** — `2026-09-22` | `7 Pages`
-- `[`2026-17715`]` **[Honey Packers and Importers; Increased Assessment Rate](https://www.indexdata.org/honey-packers-and-importers-increased-assessment-rate/)** — `2026-08-31` | `3 Pages`
-- `[`2026-17512`]` **[Tart Cherries Grown in the States of Michigan, et al.; Free and Restricted Percentages for the 2024-2025 Crop Year](https://www.indexdata.org/tart-cherries-grown-in-the-states-of-michigan-et-al-free-and-restricted-percentages-for-the-2024-2025-crop-year/)** — `2026-08-27` | `6 Pages`
-- `[`2026-17511`]` **[Olives Grown in California; Decreased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-decreased-assessment-rate/)** — `2026-08-27` | `4 Pages`
-- `[`2026-17510`]` **[Sweet Cherries Grown in Designated Counties in Washington; Modification of Handling Regulations](https://www.indexdata.org/sweet-cherries-grown-in-designated-counties-in-washington-modification-of-handling-regulations/)** — `2026-08-27` | `4 Pages`
-
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 
@@ -1649,6 +1637,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2026-18380`]` **[Federal Motor Vehicle Safety Standard No. 213a; Child Restraint Systems-Side Impact Protection; Federal Motor Vehicle Safety Standard No. 213; Child Restraint Systems, Federal Motor Vehicle Safety Standard No. 213b; Child Restraint Systems; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standard-no-213a-child-restraint-systems-side-impact-protection-federal-motor-vehicle-safety-standard-no-213-child-restraint-systems-federal-motor-vehicle-safety-sta/)** — `2026-09-09` | `10 Pages`
 - `[`2026-17756`]` **[Resetting NHTSA's Fuel Economy Program: Commercial Medium- and Heavy-Duty On-Highway Vehicles and Work Trucks](https://www.indexdata.org/resetting-nhtsas-fuel-economy-program-commercial-medium-and-heavy-duty-on-highway-vehicles-and-work-trucks/)** — `2026-08-31` | `6 Pages`
 - `[`2026-17742`]` **[Temporary Exemption From Motor Vehicle Safety and Bumper Standards; Extension of Comment Period](https://www.indexdata.org/temporary-exemption-from-motor-vehicle-safety-and-bumper-standards-extension-of-comment-period/)** — `2026-08-31` | `2 Pages`
+
+### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
+
+- `[`2026-22826`]` **[Pecans Grown in the States of Alabama, Arkansas, Arizona, California, Florida, Georgia, Kansas, Louisiana, Missouri, Mississippi, North Carolina, New Mexico, Oklahoma, South Carolina, and Texas; Changes to Membership and Handling Requirements](https://www.indexdata.org/pecans-grown-in-the-states-of-alabama-arkansas-arizona-california-florida-georgia-kansas-louisiana-missouri-mississippi-north-carolina-new-mexico-oklahoma-south-carolina-and-texas-chang/)** — `2026-11-08` | `5 Pages`
+- `[`2026-20792`]` **[Raisins Produced From Grapes Grown in California; Order Amending Marketing Order No. 989](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-order-amending-marketing-order-no-989/)** — `2026-10-09` | `6 Pages`
+- `[`2026-20622`]` **[Almonds Grown in California; Amendment to the Marketing Order](https://www.indexdata.org/almonds-grown-in-california-amendment-to-the-marketing-order/)** — `2026-10-08` | `4 Pages`
+- `[`2026-19887`]` **[Almonds Grown in California; Extension of Inedible Disposition Obligation Deadline](https://www.indexdata.org/almonds-grown-in-california-extension-of-inedible-disposition-obligation-deadline/)** — `2026-09-29` | `3 Pages`
+- `[`2026-19389`]` **[Softwood Lumber Board Assessment Rate Clarification and Changes to Membership](https://www.indexdata.org/softwood-lumber-board-assessment-rate-clarification-and-changes-to-membership/)** — `2026-09-22` | `7 Pages`
+- `[`2026-17715`]` **[Honey Packers and Importers; Increased Assessment Rate](https://www.indexdata.org/honey-packers-and-importers-increased-assessment-rate/)** — `2026-08-31` | `3 Pages`
+- `[`2026-17512`]` **[Tart Cherries Grown in the States of Michigan, et al.; Free and Restricted Percentages for the 2024-2025 Crop Year](https://www.indexdata.org/tart-cherries-grown-in-the-states-of-michigan-et-al-free-and-restricted-percentages-for-the-2024-2025-crop-year/)** — `2026-08-27` | `6 Pages`
+- `[`2026-17511`]` **[Olives Grown in California; Decreased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-decreased-assessment-rate/)** — `2026-08-27` | `4 Pages`
 
 ### [Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-crimes-enforcement-network/](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
@@ -2229,6 +2229,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-tr
 Canonical Authority Archive: [https://www.indexdata.org/united-states/tennessee-valley-authority/](https://www.indexdata.org/united-states/tennessee-valley-authority/) | [RSS Feed](https://www.indexdata.org/united-states/tennessee-valley-authority/feed/)
 
 - `[`US-FRPI-2026-22900`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act/)** — `2026-11-08` | `2 Pages`
+
+### [U.S. Department of Housing and Urban Development (HUD)](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/feed/)
+
+- `[`US-FRPI-2026-23003`]` **[Housing and Community Development Act: Verification of Eligible Status](https://www.indexdata.org/housing-and-community-development-act-verification-of-eligible-status/)** — `2026-11-10` | `180 Pages`
 
 ### [U.S. Department of the Treasury](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-the-treasury/](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/feed/)

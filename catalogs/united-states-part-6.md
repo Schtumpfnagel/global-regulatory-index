@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,233` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,234` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
-## Issuing Authorities in United States (231 Authorities)
+## Issuing Authorities in United States (232 Authorities)
 
 - **[Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)** (`3,442` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 - **[Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)** (`1,877` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -239,6 +239,7 @@
 - **[Procurement and Property Management, Office of](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/) | [RSS Feed](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/feed/)
 - **[Reclamation Bureau](https://www.indexdata.org/united-states/reclamation-bureau/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/reclamation-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/reclamation-bureau/feed/)
 - **[U.S. Citizenship and Immigration Services](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/feed/)
+- **[U.S. Department of Housing and Urban Development (HUD)](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/feed/)
 - **[U.S. Department of the Treasury](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/feed/)
 - **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Under-Secretary for Economic Affairs](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/) | [RSS Feed](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/feed/)
@@ -247,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,233)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,234)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -900,6 +901,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2025-02722`]` **[Fisheries of the Northeastern United States; Atlantic Herring Fishery; 2025 Management Area 3 Possession Limit Adjustment](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-herring-fishery-2025-management-area-3-possession-limit-adjustment/)** — `2025-02-18` | `2 Pages`
 - `[`2025-00496`]` **[Regulations for the Florida Keys National Marine Sanctuary Management Review: Blueprint for Restoration](https://www.indexdata.org/regulations-for-the-florida-keys-national-marine-sanctuary-management-review-blueprint-for-restoration/)** — `2025-01-17` | `112 Pages`
 - `[`2024-31402`]` **[Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to the U.S. Navy Training and Testing Activities in the Hawaii-Southern California Training and Testing Study Area](https://www.indexdata.org/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-the-u-s-navy-training-and-testing-activities-in-the-hawaii-southern-california-training-and-testing-study-area/)** — `2025-01-16` | `86 Pages`
 - `[`2024-30576`]` **[Papahānaumokuākea National Marine Sanctuary; Final Regulations](https://www.indexdata.org/papahanaumokuakea-national-marine-sanctuary-final-regulations/)** — `2025-01-16` | `58 Pages`
@@ -1258,7 +1260,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2024-25079`]` **[Required Rulemaking on Personal Financial Data Rights](https://www.indexdata.org/required-rulemaking-on-personal-financial-data-rights/)** — `2024-11-18` | `161 Pages`
 - `[`2024-26099`]` **[Consumer Financial Protection Circular 2024-06: Background Dossiers and Algorithmic Scores for Hiring, Promotion, and Other Employment Decisions](https://www.indexdata.org/consumer-financial-protection-circular-2024-06-background-dossiers-and-algorithmic-scores-for-hiring-promotion-and-other-employment-decisions/)** — `2024-11-12` | `3 Pages`
 - `[`2024-23276`]` **[Consumer Leasing (Regulation M)](https://www.indexdata.org/consumer-leasing-regulation-m-2/)** — `2024-10-15` | `5 Pages`
-- `[`2024-23275`]` **[Truth in Lending (Regulation Z)](https://www.indexdata.org/truth-in-lending-regulation-z-2/)** — `2024-10-15` | `7 Pages`
 
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)

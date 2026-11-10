@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,372` across `26` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,373` across `27` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | **[Part 2 (Current)]** | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
-## Issuing Authorities in Canada (26 Authorities)
+## Issuing Authorities in Canada (27 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -36,17 +36,19 @@
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
 - **[Government of Ontario](https://www.indexdata.org/canada/government-of-ontario/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-ontario/) | [RSS Feed](https://www.indexdata.org/canada/government-of-ontario/feed/)
+- **[Canada Economic Development for Quebec Regions](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/) | [RSS Feed](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/feed/)
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,372)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,373)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`SOR-66-78`]` **[Canadian Forces Superannuation Special Election Regulations](https://www.indexdata.org/canadian-forces-superannuation-special-election-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-66-506`]` **[Foreign Claims (Bulgaria) Settlement Regulations](https://www.indexdata.org/foreign-claims-bulgaria-settlement-regulations/)** — `2026-09-30` | `7 Pages`
 - `[`SOR-65-410`]` **[Transitional Assistance Benefit Regulations](https://www.indexdata.org/transitional-assistance-benefit-regulations/)** — `2026-09-30` | `15 Pages`
 - `[`SOR-64-444`]` **[Canadian Forces Compulsory Early Superannuation Regulations](https://www.indexdata.org/canadian-forces-compulsory-early-superannuation-regulations/)** — `2026-09-30` | `5 Pages`
@@ -1020,7 +1022,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-2001-520`]` **[Canada Industrial Relations Board Regulations, 2012](https://www.indexdata.org/canada-industrial-relations-board-regulations-2012/)** — `2026-09-30` | `29 Pages`
 - `[`SOR-2001-493`]` **[Property Assessment and Taxation (Railway Right-of-Way) Regulations](https://www.indexdata.org/property-assessment-and-taxation-railway-right-of-way-regulations/)** — `2026-09-30` | `13 Pages`
 - `[`SOR-2001-484`]` **[Supervisory Information (Insurance Holding Companies) Regulations](https://www.indexdata.org/supervisory-information-insurance-holding-companies-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2001-480`]` **[Supervisory Information (Bank Holding Companies) Regulations](https://www.indexdata.org/supervisory-information-bank-holding-companies-regulations/)** — `2026-09-30` | `6 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)

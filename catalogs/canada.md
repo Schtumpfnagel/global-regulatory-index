@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,372` across `26` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,373` across `27` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
-## Issuing Authorities in Canada (26 Authorities)
+## Issuing Authorities in Canada (27 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -36,13 +36,14 @@
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
 - **[Government of Ontario](https://www.indexdata.org/canada/government-of-ontario/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-ontario/) | [RSS Feed](https://www.indexdata.org/canada/government-of-ontario/feed/)
+- **[Canada Economic Development for Quebec Regions](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/) | [RSS Feed](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/feed/)
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,372)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,373)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -965,7 +966,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-70-527`]` **[Foreign Claims (Hungary) Settlement Regulations](https://www.indexdata.org/foreign-claims-hungary-settlement-regulations/)** — `2026-09-30` | `10 Pages`
 - `[`SOR-67-619`]` **[Pay and Allowances Regulations (DSPCA)](https://www.indexdata.org/pay-and-allowances-regulations-dspca/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-67-346`]` **[Canadian Vickers Dry Dock Regulations](https://www.indexdata.org/canadian-vickers-dry-dock-regulations/)** — `2026-09-30` | `17 Pages`
-- `[`SOR-66-78`]` **[Canadian Forces Superannuation Special Election Regulations](https://www.indexdata.org/canadian-forces-superannuation-special-election-regulations/)** — `2026-09-30` | `6 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1614,6 +1614,11 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/immigration-refug
 
 - `[`SOR-93-246`]` **[Citizenship Regulations](https://www.indexdata.org/citizenship-regulations/)** — `2026-09-30` | `23 Pages`
 - `[`SOR-93-22`]` **[Federal Courts Citizenship, Immigration and Refugee Protection Rules](https://www.indexdata.org/federal-courts-citizenship-immigration-and-refugee-protection-rules/)** — `2026-09-30` | `28 Pages`
+
+### [Canada Economic Development for Quebec Regions](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/) | [RSS Feed](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/feed/)
+
+- `[`CA-OPEN-821026c3-a585-4fae-8b10`]` **[Report on the administration of the Access to Information Act 2025-2026](https://www.indexdata.org/report-on-the-administration-of-the-access-to-information-act-2025-2026/)** — `2026-11-06` | `24 Pages`
 
 ### [Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/governor-general-in-council/](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)

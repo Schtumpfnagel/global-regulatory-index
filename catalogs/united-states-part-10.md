@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,233` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,234` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
-## Issuing Authorities in United States (231 Authorities)
+## Issuing Authorities in United States (232 Authorities)
 
 - **[Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)** (`3,442` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 - **[Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)** (`1,877` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -239,6 +239,7 @@
 - **[Procurement and Property Management, Office of](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/) | [RSS Feed](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/feed/)
 - **[Reclamation Bureau](https://www.indexdata.org/united-states/reclamation-bureau/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/reclamation-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/reclamation-bureau/feed/)
 - **[U.S. Citizenship and Immigration Services](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/feed/)
+- **[U.S. Department of Housing and Urban Development (HUD)](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/feed/)
 - **[U.S. Department of the Treasury](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/feed/)
 - **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Under-Secretary for Economic Affairs](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/) | [RSS Feed](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/feed/)
@@ -247,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,233)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,234)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -650,6 +651,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-21976`]` **[New Source Performance Standards Review for Volatile Organic Liquid Storage Vessels (Including Petroleum Liquid Storage Vessels)](https://www.indexdata.org/new-source-performance-standards-review-for-volatile-organic-liquid-storage-vessels-including-petroleum-liquid-storage-vessels-2/)** — `2023-10-04` | `19 Pages`
 - `[`2023-21971`]` **[Approval of Air Quality Implementation Plans; New York; Emission Statement Program](https://www.indexdata.org/approval-of-air-quality-implementation-plans-new-york-emission-statement-program/)** — `2023-10-04` | `4 Pages`
 - `[`2023-21970`]` **[Air Plan Approval; Colorado; Serious Attainment Plan Elements and Related Revisions for the 2008 8-Hour Ozone Standard for the Denver Metro/North Front Range Nonattainment Area](https://www.indexdata.org/air-plan-approval-colorado-serious-attainment-plan-elements-and-related-revisions-for-the-2008-8-hour-ozone-standard-for-the-denver-metro-north-front-range-nonattainment-area/)** — `2023-10-04` | `3 Pages`
 - `[`2023-21821`]` **[Cypermethrin; Pesticide Tolerances](https://www.indexdata.org/cypermethrin-pesticide-tolerances-3/)** — `2023-10-04` | `7 Pages`
@@ -852,7 +854,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2023-12615`]` **[Air Plan Disapproval; Louisiana; Excess Emissions](https://www.indexdata.org/air-plan-disapproval-louisiana-excess-emissions-2/)** — `2023-06-13` | `8 Pages`
 - `[`2023-12614`]` **[Air Plan Approval; Oklahoma; Revisions to Air Pollution Control Rules](https://www.indexdata.org/air-plan-approval-oklahoma-revisions-to-air-pollution-control-rules-5/)** — `2023-06-13` | `4 Pages`
 - `[`2023-12601`]` **[Air Plan Approval; North Carolina; Bulk Gasoline Plant and Terminal Vapor Recovery Systems](https://www.indexdata.org/air-plan-approval-north-carolina-bulk-gasoline-plant-and-terminal-vapor-recovery-systems/)** — `2023-06-13` | `6 Pages`
-- `[`2023-12581`]` **[Air Plan Approval; North Carolina; Volatile Organic Compound Regulations](https://www.indexdata.org/air-plan-approval-north-carolina-volatile-organic-compound-regulations-2/)** — `2023-06-13` | `8 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)

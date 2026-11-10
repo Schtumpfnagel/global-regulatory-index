@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,233` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,234` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
-## Issuing Authorities in United States (231 Authorities)
+## Issuing Authorities in United States (232 Authorities)
 
 - **[Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)** (`3,442` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 - **[Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)** (`1,877` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -239,6 +239,7 @@
 - **[Procurement and Property Management, Office of](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/) | [RSS Feed](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/feed/)
 - **[Reclamation Bureau](https://www.indexdata.org/united-states/reclamation-bureau/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/reclamation-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/reclamation-bureau/feed/)
 - **[U.S. Citizenship and Immigration Services](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/feed/)
+- **[U.S. Department of Housing and Urban Development (HUD)](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/feed/)
 - **[U.S. Department of the Treasury](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/feed/)
 - **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Under-Secretary for Economic Affairs](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/) | [RSS Feed](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/feed/)
@@ -247,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,233)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,234)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1127,6 +1128,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 ### [Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 
+- `[`2026-09162`]` **[Firearm Activities in Foreign Trade Zones, Customs-Bonded Warehouses](https://www.indexdata.org/firearm-activities-in-foreign-trade-zones-customs-bonded-warehouses/)** — `2026-05-08` | `7 Pages`
 - `[`2026-09161`]` **[Interstate Transport and Temporary Export of National Firearms Act Firearms](https://www.indexdata.org/interstate-transport-and-temporary-export-of-national-firearms-act-firearms/)** — `2026-05-08` | `9 Pages`
 - `[`2026-09160`]` **[Implementing PATRIOT Act Improvements: Contraband Cigarettes and Smokeless Tobacco](https://www.indexdata.org/implementing-patriot-act-improvements-contraband-cigarettes-and-smokeless-tobacco/)** — `2026-05-08` | `16 Pages`
 - `[`2026-09159`]` **[Defining “Willfully” for Firearms Violations](https://www.indexdata.org/defining-willfully-for-firearms-violations/)** — `2026-05-08` | `9 Pages`
@@ -2183,11 +2185,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/maritime-a
 Canonical Authority Archive: [https://www.indexdata.org/united-states/merit-systems-protection-board/](https://www.indexdata.org/united-states/merit-systems-protection-board/) | [RSS Feed](https://www.indexdata.org/united-states/merit-systems-protection-board/feed/)
 
 - `[`2026-03594`]` **[Appellate Jurisdiction Update](https://www.indexdata.org/appellate-jurisdiction-update/)** — `2026-02-23` | `2 Pages`
-
-### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
-
-- `[`2025-23963`]` **[Implementation of the Administrative False Claims Act](https://www.indexdata.org/implementation-of-the-administrative-false-claims-act-4/)** — `2025-12-30` | `3 Pages`
 
 ### [National Labor Relations Board](https://www.indexdata.org/united-states/national-labor-relations-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-labor-relations-board/](https://www.indexdata.org/united-states/national-labor-relations-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-labor-relations-board/feed/)

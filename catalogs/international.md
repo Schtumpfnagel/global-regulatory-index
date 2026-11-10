@@ -4,15 +4,15 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `952` across `19` issuing authorities  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Total Indexed Dossiers in International:** `953` across `19` issuing authorities  
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
 ## Issuing Authorities in International (19 Authorities)
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`162` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
-- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`153` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
+- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`154` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
@@ -33,7 +33,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–952 of 952)
+## Indexed Statutory & Regulatory Dossiers (Records 1–953 of 953)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -204,6 +204,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-s
 ### [World Bank](https://www.indexdata.org/international/world-bank/)
 Canonical Authority Archive: [https://www.indexdata.org/international/world-bank/](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/)
 
+- `[`WB-WDS-217003`]` **[Childcare in Bangladesh : What Families Need, What Providers Deliver, and Where the Gaps Remain](https://www.indexdata.org/childcare-in-bangladesh-what-families-need-what-providers-deliver-and-where-the-gaps-remain/)** — `2026-11-10` | `9 Pages`
 - `[`WB-WDS-216999`]` **[Human Rights for Combatting Corruption - And Vice Versa](https://www.indexdata.org/human-rights-for-combatting-corruption-and-vice-versa/)** — `2026-11-10` | `70 Pages`
 - `[`WB-WDS-216998`]` **[Financial Inclusion in Jamaica : Unlocking the Potential of Digital Financial Services](https://www.indexdata.org/financial-inclusion-in-jamaica-unlocking-the-potential-of-digital-financial-services/)** — `2026-11-10` | `38 Pages`
 - `[`WB-WDS-216997`]` **[Strengthening Social Protection in Djibouti : Chapeau - Key Messages and Policy Recommendations](https://www.indexdata.org/strengthening-social-protection-in-djibouti-chapeau-key-messages-and-policy-recommendations/)** — `2026-11-10` | `7 Pages`

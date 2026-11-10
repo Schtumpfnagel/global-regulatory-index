@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,233` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,234` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
-## Issuing Authorities in United States (231 Authorities)
+## Issuing Authorities in United States (232 Authorities)
 
 - **[Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)** (`3,442` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 - **[Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)** (`1,877` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -239,6 +239,7 @@
 - **[Procurement and Property Management, Office of](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/) | [RSS Feed](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/feed/)
 - **[Reclamation Bureau](https://www.indexdata.org/united-states/reclamation-bureau/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/reclamation-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/reclamation-bureau/feed/)
 - **[U.S. Citizenship and Immigration Services](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/feed/)
+- **[U.S. Department of Housing and Urban Development (HUD)](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/feed/)
 - **[U.S. Department of the Treasury](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/feed/)
 - **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Under-Secretary for Economic Affairs](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/) | [RSS Feed](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/feed/)
@@ -247,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,233)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,234)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1054,7 +1055,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2025-03544`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Angling Category Southern Area Trophy Fishery for 2025](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category-southern-area-trophy-fishery-for-2025/)** — `2025-03-05` | `2 Pages`
 - `[`2025-03535`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Catcher Vessels Less Than 60 Feet (18.3 Meters) Length Overall Using Hook-and-Line or Pot Gear in the Bering Sea and Aleutian Islands Management Area](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcher-vessels-less-than-60-feet-18-3-meters-length-overall-using-hook-and-line-or-pot-gear-in-the-bering-sea-and-aleutian-island/)** — `2025-03-05` | `2 Pages`
 - `[`2025-02728`]` **[Endangered and Threatened Wildlife and Plants: Reclassification of Pillar Coral (Dendrogyra cylindrus) From Threatened to Endangered](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-reclassification-of-pillar-coral-dendrogyra-cylindrus-from-threatened-to-endangered/)** — `2025-02-18` | `2 Pages`
-- `[`2025-02722`]` **[Fisheries of the Northeastern United States; Atlantic Herring Fishery; 2025 Management Area 3 Possession Limit Adjustment](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-herring-fishery-2025-management-area-3-possession-limit-adjustment/)** — `2025-02-18` | `2 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -1125,6 +1125,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2025-13107`]` **[Cable Television Rate Regulations](https://www.indexdata.org/cable-television-rate-regulations/)** — `2025-07-14` | `13 Pages`
 - `[`2025-12696`]` **[Connect America Fund et al.](https://www.indexdata.org/connect-america-fund-et-al/)** — `2025-07-09` | `3 Pages`
 - `[`2025-12603`]` **[National Television Multiple Ownership Rule](https://www.indexdata.org/national-television-multiple-ownership-rule/)** — `2025-07-08` | `3 Pages`
 - `[`2025-12583`]` **[Wireline Competition Bureau Seeks To Refresh Record on Telephone Access Charges](https://www.indexdata.org/wireline-competition-bureau-seeks-to-refresh-record-on-telephone-access-charges/)** — `2025-07-07` | `2 Pages`

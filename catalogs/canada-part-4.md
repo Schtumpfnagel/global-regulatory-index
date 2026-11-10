@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,372` across `26` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,373` across `27` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
-## Issuing Authorities in Canada (26 Authorities)
+## Issuing Authorities in Canada (27 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -36,13 +36,14 @@
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
 - **[Government of Ontario](https://www.indexdata.org/canada/government-of-ontario/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-ontario/) | [RSS Feed](https://www.indexdata.org/canada/government-of-ontario/feed/)
+- **[Canada Economic Development for Quebec Regions](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/) | [RSS Feed](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/feed/)
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,372 of 5,372)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,373 of 5,373)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -878,6 +879,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/agriculture-and-a
 ### [Health Canada](https://www.indexdata.org/canada/health-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/health-canada/](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)
 
+- `[`Q-1`]` **[Quarantine Act](https://www.indexdata.org/quarantine-act/)** — `2026-09-30` | `3 Pages`
 - `[`P-9.01`]` **[Pest Control Products Act](https://www.indexdata.org/pest-control-products-act/)** — `2026-09-30` | `89 Pages`
 - `[`P-9`]` **[Pest Control Products Act](https://www.indexdata.org/pest-control-products-act-2/)** — `2026-09-30` | `3 Pages`
 - `[`P-29.71`]` **[Public Health Events of National Concern Payments Act](https://www.indexdata.org/public-health-events-of-national-concern-payments-act-2/)** — `2026-09-30` | `3 Pages`

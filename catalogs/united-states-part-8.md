@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,233` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,234` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
-## Issuing Authorities in United States (231 Authorities)
+## Issuing Authorities in United States (232 Authorities)
 
 - **[Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)** (`3,442` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 - **[Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)** (`1,877` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -239,6 +239,7 @@
 - **[Procurement and Property Management, Office of](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/) | [RSS Feed](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/feed/)
 - **[Reclamation Bureau](https://www.indexdata.org/united-states/reclamation-bureau/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/reclamation-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/reclamation-bureau/feed/)
 - **[U.S. Citizenship and Immigration Services](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/feed/)
+- **[U.S. Department of Housing and Urban Development (HUD)](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/feed/)
 - **[U.S. Department of the Treasury](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/feed/)
 - **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Under-Secretary for Economic Affairs](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/) | [RSS Feed](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/feed/)
@@ -247,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,233)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,234)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -931,6 +932,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-13140`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Fishery of the Gulf of Mexico; Lane Snapper Catch Limits](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-reef-fish-fishery-of-the-gulf-of-mexico-lane-snapper-catch-limits-2/)** — `2024-06-17` | `5 Pages`
 - `[`2024-13161`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic Region; Temporary Measures To Reduce Overfishing of Red Snapper](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-snapper-grouper-fishery-of-the-south-atlantic-region-temporary-measures-to-reduce-overfishing-of-red-snapper/)** — `2024-06-14` | `6 Pages`
 - `[`2024-13046`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; 2024 Commercial Trip Limit Reduction and Closure for Gulf of Mexico Greater Amberjack](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-2024-commercial-trip-limit-reduction-and-closure-for-gulf-of-mexico-greater-amberjack/)** — `2024-06-14` | `2 Pages`
 - `[`2024-12883`]` **[Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; 2024 and 2025 Summer Flounder and Scup, and 2024 Black Sea Bass Recreational Management Measures; Correction](https://www.indexdata.org/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern-united-states-2024-and-2025-summer-flounder-and-scup-and-2024-black-sea-bass-recreational-managemen/)** — `2024-06-12` | `2 Pages`
@@ -1083,7 +1085,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2024-03506`]` **[Mitigation of Orbital Debris in the New Space Age](https://www.indexdata.org/mitigation-of-orbital-debris-in-the-new-space-age/)** — `2024-02-22` | `7 Pages`
 - `[`2024-02864`]` **[Partitioning, Disaggregation, and Leasing of Spectrum](https://www.indexdata.org/partitioning-disaggregation-and-leasing-of-spectrum/)** — `2024-02-15` | `3 Pages`
 - `[`2024-02863`]` **[Partitioning, Disaggregation, and Leasing of Spectrum; Correction](https://www.indexdata.org/partitioning-disaggregation-and-leasing-of-spectrum-correction/)** — `2024-02-15` | `2 Pages`
-- `[`2024-02577`]` **[2018 Quadrennial Regulatory Review-Review of the Commission's Broadcast Ownership Rules](https://www.indexdata.org/2018-quadrennial-regulatory-review-review-of-the-commissions-broadcast-ownership-rules/)** — `2024-02-15` | `34 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,586` across `65` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,591` across `65` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
@@ -27,7 +27,7 @@
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
-- **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
+- **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
@@ -81,7 +81,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,586)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,591)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -317,9 +317,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2025-1161`]` **[The A122 (Lower Thames Crossing) Development Consent (Amendment) Order 2025](https://www.indexdata.org/the-a122-lower-thames-crossing-development-consent-amendment-order-2025/)** — `2025-11-04` | `4 Pages`
 - `[`UKSI-2025-1151`]` **[The Oxford Street Development Corporation (Establishment) Order 2025](https://www.indexdata.org/the-oxford-street-development-corporation-establishment-order-2025/)** — `2025-11-03` | `2 Pages`
 - `[`UKSI-2025-1149`]` **[The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) (No. 2) Regulations 2025](https://www.indexdata.org/the-wireless-telegraphy-mobile-spectrum-trading-amendment-no-2-regulations-2025/)** — `2025-10-30` | `2 Pages`
-- `[`UKSI-2025-1140`]` **[The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) (Amendment No. 2) Regulations 2025](https://www.indexdata.org/the-northern-ireland-troubles-legacy-and-reconciliation-act-2023-commencement-no-2-and-transitional-provisions-amendment-no-2-regulations-2025/)** — `2025-10-29` | `2 Pages`
-- `[`UKSI-2025-1136`]` **[The M5 Junction 10 Development Consent (Correction) Order 2025](https://www.indexdata.org/the-m5-junction-10-development-consent-correction-order-2025/)** — `2025-10-29` | `4 Pages`
-- `[`UKSI-2025-1143`]` **[The Net Zero Teesside (Amendment) Order 2025](https://www.indexdata.org/the-net-zero-teesside-amendment-order-2025/)** — `2025-10-28` | `8 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -751,7 +748,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1202`]` **[The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025](https://www.indexdata.org/the-european-registers-of-road-transport-undertakings-disclosure-of-information-amendment-regulations-2025/)** — `2025-11-17` | `24 Pages`
 - `[`UKSI-2025-1181`]` **[The Civil Enforcement of Parking Contraventions (County of East Sussex) (Amendment), Bus Lane Contraventions (Approved Local Authorities) (Amendment) and Moving Traffic Contraventions Designation Order 2025](https://www.indexdata.org/the-civil-enforcement-of-parking-contraventions-county-of-east-sussex-amendment-bus-lane-contraventions-approved-local-authorities-amendment-and-moving-traffic-contraventions-designation-orde/)** — `2025-11-11` | `4 Pages`
 - `[`UKSI-2025-1179`]` **[The Access to the Countryside (Coastal Margin) (Portsmouth to South Hayling) Order 2025](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-portsmouth-to-south-hayling-order-2025/)** — `2025-11-11` | `4 Pages`
-- `[`UKSI-2025-1150`]` **[The Aviation Safety (Amendment) Regulations 2025](https://www.indexdata.org/the-aviation-safety-amendment-regulations-2025/)** — `2025-10-28` | `8 Pages`
 
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
@@ -1196,6 +1192,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-17`]` **[Military Court Service sentencing remarks 2026 — Rex v Colour Sergeant Matthew Symes](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-colour-sergeant-matthew-symes/)** — `2026-11-10` | `3 Pages`
 - `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-16`]` **[Military Court Service sentencing remarks 2026 — Rex v Ex-Ranger Paul McCann](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-ex-ranger-paul-mccann/)** — `2026-11-10` | `5 Pages`
 - `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-15`]` **[Military Court Service sentencing remarks 2026 — Rex v Able Rate Curt McVeigh](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-able-rate-curt-mcveigh/)** — `2026-11-10` | `4 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-13`]` **[Military Court Service sentencing remarks 2026 — Rex v Craftsman Liam George Ashworth](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-craftsman-liam-george-ashworth/)** — `2026-11-10` | `4 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-12`]` **[Military Court Service sentencing remarks 2026 — Rex v Craftsman Donte Malachi Madourie](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-craftsman-donte-malachi-madourie/)** — `2026-11-10` | `6 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-11`]` **[Military Court Service sentencing remarks 2026 — Rex v Private Carl Edward Lewkowicz](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-private-carl-edward-lewkowicz/)** — `2026-11-10` | `3 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-10`]` **[Military Court Service sentencing remarks 2026 — Rex v Warrant Officer Class Two Kevin William James Harvey](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-warrant-officer-class-two-kevin-william-james-harvey/)** — `2026-11-10` | `3 Pages`
+- `[`UK-GOV-eadbdc66-6e36-4e35-83c9-0a87df6cacc8-1`]` **[Military Court Service sentencing remarks 2026 — Rex v Lance Corporal Dylan Aaron Mchardy](https://www.indexdata.org/military-court-service-sentencing-remarks-2026-rex-v-lance-corporal-dylan-aaron-mchardy/)** — `2026-11-10` | `4 Pages`
 - `[`UK-GOV-a3107397-b4ba-4b54-a8a1-04a07ada0b30-1`]` **[Atomic Weapons Establishment (AWE) annual report and accounts 2025-26 — AWE annual report and accounts 2025-26](https://www.indexdata.org/atomic-weapons-establishment-awe-annual-report-and-accounts-2025-26-awe-annual-report-and-accounts-2025-26/)** — `2026-11-10` | `154 Pages`
 - `[`UK-GOV-5c904541-7631-11e4-a3cb-005056011aef-9`]` **[Defence direction and guidance for training and education (JSP 822) — Chapter 7: Specific learning differences](https://www.indexdata.org/defence-direction-and-guidance-for-training-and-education-jsp-822-chapter-7-specific-learning-differences/)** — `2026-11-10` | `19 Pages`
 - `[`UK-GOV-5c904541-7631-11e4-a3cb-005056011aef-8`]` **[Defence direction and guidance for training and education (JSP 822) — Chapter 6: Functional skills (literacy and numeracy)](https://www.indexdata.org/defence-direction-and-guidance-for-training-and-education-jsp-822-chapter-6-functional-skills-literacy-and-numeracy/)** — `2026-11-10` | `16 Pages`
@@ -1384,7 +1385,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-6`]` **[The Universal Credit (Transitional Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-universal-credit-transitional-provisions-amendment-regulations-2026/)** — `2026-01-06` | `4 Pages`
 - `[`UKSI-2025-1220`]` **[The State Pension Debits and Credits (Revaluation) Order 2025](https://www.indexdata.org/the-state-pension-debits-and-credits-revaluation-order-2025/)** — `2025-11-25` | `4 Pages`
 - `[`UKSI-2025-1221`]` **[The Biocidal Products (Data Protection Periods) (Amendment) Regulations 2025](https://www.indexdata.org/the-biocidal-products-data-protection-periods-amendment-regulations-2025/)** — `2025-11-24` | `2 Pages`
-- `[`UKSI-2025-1148`]` **[The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) Order 2025](https://www.indexdata.org/the-welfare-reform-act-2012-commencement-no-35-abolition-of-benefits-order-2025/)** — `2025-10-29` | `16 Pages`
 
 ### [HM Government](https://www.indexdata.org/united-kingdom/hm-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government/](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,586` across `65` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,591` across `65` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
@@ -27,7 +27,7 @@
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
-- **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
+- **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
@@ -81,11 +81,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,586 of 2,586)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,591 of 2,591)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2025-1140`]` **[The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) (Amendment No. 2) Regulations 2025](https://www.indexdata.org/the-northern-ireland-troubles-legacy-and-reconciliation-act-2023-commencement-no-2-and-transitional-provisions-amendment-no-2-regulations-2025/)** — `2025-10-29` | `2 Pages`
+- `[`UKSI-2025-1136`]` **[The M5 Junction 10 Development Consent (Correction) Order 2025](https://www.indexdata.org/the-m5-junction-10-development-consent-correction-order-2025/)** — `2025-10-29` | `4 Pages`
+- `[`UKSI-2025-1143`]` **[The Net Zero Teesside (Amendment) Order 2025](https://www.indexdata.org/the-net-zero-teesside-amendment-order-2025/)** — `2025-10-28` | `8 Pages`
 - `[`UKSI-2025-1128`]` **[The Data Protection Act 2018 (Qualifying Competent Authorities) Regulations 2025](https://www.indexdata.org/the-data-protection-act-2018-qualifying-competent-authorities-regulations-2025/)** — `2025-10-27` | `4 Pages`
 - `[`UKPGA-2025-27`]` **[Absent Voting (Elections in Scotland and Wales) Act 2025](https://www.indexdata.org/absent-voting-elections-in-scotland-and-wales-act-2025/)** — `2025-10-27` | `12 Pages`
 - `[`UKPGA-2025-26`]` **[Renters’ Rights Act 2025](https://www.indexdata.org/renters-rights-act-2025/)** — `2025-10-27` | `270 Pages`
@@ -528,6 +531,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 
+- `[`UKSI-2025-1150`]` **[The Aviation Safety (Amendment) Regulations 2025](https://www.indexdata.org/the-aviation-safety-amendment-regulations-2025/)** — `2025-10-28` | `8 Pages`
 - `[`UKSI-2025-1134`]` **[The Football Governance Act 2025 (Commencement No. 1) Regulations 2025](https://www.indexdata.org/the-football-governance-act-2025-commencement-no-1-regulations-2025/)** — `2025-10-23` | `2 Pages`
 - `[`UKSI-2025-1110`]` **[The Road Vehicles (Type-Approval) (Amendment) (No. 3) Regulations 2025](https://www.indexdata.org/the-road-vehicles-type-approval-amendment-no-3-regulations-2025/)** — `2025-10-20` | `8 Pages`
 - `[`UKSI-2025-1106`]` **[The Unmanned Aircraft (Amendment) Regulations 2025](https://www.indexdata.org/the-unmanned-aircraft-amendment-regulations-2025/)** — `2025-10-20` | `20 Pages`
@@ -1126,6 +1130,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 
+- `[`UKSI-2025-1148`]` **[The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) Order 2025](https://www.indexdata.org/the-welfare-reform-act-2012-commencement-no-35-abolition-of-benefits-order-2025/)** — `2025-10-29` | `16 Pages`
 - `[`UKSI-2025-1132`]` **[The Social Security (Contributions) (Amendment No. 7) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-7-regulations-2025/)** — `2025-10-28` | `4 Pages`
 - `[`UKSI-2025-1089`]` **[The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025](https://www.indexdata.org/the-social-security-scotland-cross-border-consequential-amendment-and-transitional-provision-regulations-2025/)** — `2025-10-14` | `24 Pages`
 - `[`UKPGA-2025-22`]` **[Universal Credit Act 2025](https://www.indexdata.org/universal-credit-act-2025/)** — `2025-09-03` | `21 Pages`

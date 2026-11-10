@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,233` across `231` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,234` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 20:43 UTC`
+**Last Automated Sync:** `2026-11-10 21:51 UTC`
 
 ---
 
-## Issuing Authorities in United States (231 Authorities)
+## Issuing Authorities in United States (232 Authorities)
 
 - **[Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)** (`3,442` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 - **[Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)** (`1,877` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -239,6 +239,7 @@
 - **[Procurement and Property Management, Office of](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/) | [RSS Feed](https://www.indexdata.org/united-states/procurement-and-property-management-office-of/feed/)
 - **[Reclamation Bureau](https://www.indexdata.org/united-states/reclamation-bureau/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/reclamation-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/reclamation-bureau/feed/)
 - **[U.S. Citizenship and Immigration Services](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-citizenship-and-immigration-services/feed/)
+- **[U.S. Department of Housing and Urban Development (HUD)](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-housing-and-urban-development-hud/feed/)
 - **[U.S. Department of the Treasury](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-the-treasury/feed/)
 - **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Under-Secretary for Economic Affairs](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/) | [RSS Feed](https://www.indexdata.org/united-states/under-secretary-for-economic-affairs/feed/)
@@ -247,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,233)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,234)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1055,7 +1056,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-12085`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the New England Wind Project, Offshore Massachusetts](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-new-england-wind-project-offshore-massachusetts/)** — `2024-06-21` | `100 Pages`
 - `[`2024-13357`]` **[Fisheries of the Exclusive Economic Zone off Alaska; Cook Inlet; Final 2024 Harvest Specifications for Salmon](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-cook-inlet-final-2024-harvest-specifications-for-salmon/)** — `2024-06-18` | `12 Pages`
 - `[`2024-12669`]` **[Regulations Governing the Taking of Marine Mammals](https://www.indexdata.org/regulations-governing-the-taking-of-marine-mammals/)** — `2024-06-18` | `43 Pages`
-- `[`2024-13140`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Fishery of the Gulf of Mexico; Lane Snapper Catch Limits](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-reef-fish-fishery-of-the-gulf-of-mexico-lane-snapper-catch-limits-2/)** — `2024-06-17` | `5 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1455,6 +1455,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2024-16479`]` **[Notice of Reporting Instructions Under the Rebuilding Economic Prosperity and Opportunity for Ukrainians Act](https://www.indexdata.org/notice-of-reporting-instructions-under-the-rebuilding-economic-prosperity-and-opportunity-for-ukrainians-act/)** — `2024-07-26` | `2 Pages`
 - `[`2024-15709`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Determination](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-determination/)** — `2024-07-18` | `2 Pages`
 
+### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
+
+- `[`2024-23275`]` **[Truth in Lending (Regulation Z)](https://www.indexdata.org/truth-in-lending-regulation-z-2/)** — `2024-10-15` | `7 Pages`
+- `[`2024-22962`]` **[Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt](https://www.indexdata.org/debt-collection-practices-regulation-f-deceptive-and-unfair-collection-of-medical-debt/)** — `2024-10-04` | `10 Pages`
+- `[`2024-22551`]` **[Consumer Financial Protection Circular 2024-05: Improper Overdraft Opt-In Practices](https://www.indexdata.org/consumer-financial-protection-circular-2024-05-improper-overdraft-opt-in-practices/)** — `2024-10-02` | `3 Pages`
+- `[`2024-22004`]` **[Remittance Transfers Under the Electronic Fund Transfer Act (Regulation E)](https://www.indexdata.org/remittance-transfers-under-the-electronic-fund-transfer-act-regulation-e/)** — `2024-09-30` | `19 Pages`
+- `[`2024-18620`]` **[Truth in Lending (Regulation Z); Consumer Protections for Home Sales Financed Under Contracts for Deed](https://www.indexdata.org/truth-in-lending-regulation-z-consumer-protections-for-home-sales-financed-under-contracts-for-deed/)** — `2024-08-23` | `5 Pages`
+- `[`2024-16447`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-6/)** — `2024-08-16` | `2 Pages`
+- `[`2024-17539`]` **[Consumer Financial Protection Circular 2024-04: Whistleblower Protections Under CFPA Section 1057](https://www.indexdata.org/consumer-financial-protection-circular-2024-04-whistleblower-protections-under-cfpa-section-1057/)** — `2024-08-09` | `5 Pages`
+- `[`2024-16827`]` **[Truth in Lending (Regulation Z); Consumer Credit Offered to Borrowers in Advance of Expected Receipt of Compensation for Work](https://www.indexdata.org/truth-in-lending-regulation-z-consumer-credit-offered-to-borrowers-in-advance-of-expected-receipt-of-compensation-for-work-2/)** — `2024-07-31` | `6 Pages`
+- `[`2024-15475`]` **[Streamlining Mortgage Servicing for Borrowers Experiencing Payment Difficulties; Regulation X](https://www.indexdata.org/streamlining-mortgage-servicing-for-borrowers-experiencing-payment-difficulties-regulation-x/)** — `2024-07-24` | `51 Pages`
+- `[`2024-12689`]` **[Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders](https://www.indexdata.org/registry-of-nonbank-covered-persons-subject-to-certain-agency-and-court-orders/)** — `2024-07-08` | `129 Pages`
+- `[`2024-14396`]` **[Small Business Lending Under the Equal Credit Opportunity Act (Regulation B); Extension of Compliance Dates](https://www.indexdata.org/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-extension-of-compliance-dates-3/)** — `2024-07-03` | `10 Pages`
+- `[`2024-13581`]` **[Consumer Financial Protection Circular 2024-03: Unlawful and Unenforceable Contract Terms and Conditions](https://www.indexdata.org/consumer-financial-protection-circular-2024-03-unlawful-and-unenforceable-contract-terms-and-conditions/)** — `2024-06-21` | `3 Pages`
+- `[`2024-13208`]` **[Prohibition on Creditors and Consumer Reporting Agencies Concerning Medical Information (Regulation V)](https://www.indexdata.org/prohibition-on-creditors-and-consumer-reporting-agencies-concerning-medical-information-regulation-v-2/)** — `2024-06-18` | `55 Pages`
+
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 
@@ -1539,22 +1556,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mi
 - `[`2024-16540`]` **[Montana Regulatory Program; Reopening Comment Period](https://www.indexdata.org/montana-regulatory-program-reopening-comment-period/)** — `2024-07-30` | `2 Pages`
 - `[`2024-16539`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-6/)** — `2024-07-30` | `3 Pages`
 - `[`2024-16536`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-7/)** — `2024-07-30` | `3 Pages`
-
-### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
-
-- `[`2024-22962`]` **[Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt](https://www.indexdata.org/debt-collection-practices-regulation-f-deceptive-and-unfair-collection-of-medical-debt/)** — `2024-10-04` | `10 Pages`
-- `[`2024-22551`]` **[Consumer Financial Protection Circular 2024-05: Improper Overdraft Opt-In Practices](https://www.indexdata.org/consumer-financial-protection-circular-2024-05-improper-overdraft-opt-in-practices/)** — `2024-10-02` | `3 Pages`
-- `[`2024-22004`]` **[Remittance Transfers Under the Electronic Fund Transfer Act (Regulation E)](https://www.indexdata.org/remittance-transfers-under-the-electronic-fund-transfer-act-regulation-e/)** — `2024-09-30` | `19 Pages`
-- `[`2024-18620`]` **[Truth in Lending (Regulation Z); Consumer Protections for Home Sales Financed Under Contracts for Deed](https://www.indexdata.org/truth-in-lending-regulation-z-consumer-protections-for-home-sales-financed-under-contracts-for-deed/)** — `2024-08-23` | `5 Pages`
-- `[`2024-16447`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-6/)** — `2024-08-16` | `2 Pages`
-- `[`2024-17539`]` **[Consumer Financial Protection Circular 2024-04: Whistleblower Protections Under CFPA Section 1057](https://www.indexdata.org/consumer-financial-protection-circular-2024-04-whistleblower-protections-under-cfpa-section-1057/)** — `2024-08-09` | `5 Pages`
-- `[`2024-16827`]` **[Truth in Lending (Regulation Z); Consumer Credit Offered to Borrowers in Advance of Expected Receipt of Compensation for Work](https://www.indexdata.org/truth-in-lending-regulation-z-consumer-credit-offered-to-borrowers-in-advance-of-expected-receipt-of-compensation-for-work-2/)** — `2024-07-31` | `6 Pages`
-- `[`2024-15475`]` **[Streamlining Mortgage Servicing for Borrowers Experiencing Payment Difficulties; Regulation X](https://www.indexdata.org/streamlining-mortgage-servicing-for-borrowers-experiencing-payment-difficulties-regulation-x/)** — `2024-07-24` | `51 Pages`
-- `[`2024-12689`]` **[Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders](https://www.indexdata.org/registry-of-nonbank-covered-persons-subject-to-certain-agency-and-court-orders/)** — `2024-07-08` | `129 Pages`
-- `[`2024-14396`]` **[Small Business Lending Under the Equal Credit Opportunity Act (Regulation B); Extension of Compliance Dates](https://www.indexdata.org/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-extension-of-compliance-dates-3/)** — `2024-07-03` | `10 Pages`
-- `[`2024-13581`]` **[Consumer Financial Protection Circular 2024-03: Unlawful and Unenforceable Contract Terms and Conditions](https://www.indexdata.org/consumer-financial-protection-circular-2024-03-unlawful-and-unenforceable-contract-terms-and-conditions/)** — `2024-06-21` | `3 Pages`
-- `[`2024-13208`]` **[Prohibition on Creditors and Consumer Reporting Agencies Concerning Medical Information (Regulation V)](https://www.indexdata.org/prohibition-on-creditors-and-consumer-reporting-agencies-concerning-medical-information-regulation-v-2/)** — `2024-06-18` | `55 Pages`
 
 ### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
