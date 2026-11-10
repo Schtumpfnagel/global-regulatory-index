@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,184` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,185` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 05:45 UTC`
+**Last Automated Sync:** `2026-11-10 06:41 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`277` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -245,11 +245,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,184)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,185)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-08943`]` **[Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility](https://www.indexdata.org/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility/)** — `2026-05-06` | `55 Pages`
 - `[`2026-08938`]` **[Special Conditions: Skyryse, Robinson Helicopter Company Model R66 Helicopter; Static Longitudinal Stability](https://www.indexdata.org/special-conditions-skyryse-robinson-helicopter-company-model-r66-helicopter-static-longitudinal-stability/)** — `2026-05-06` | `3 Pages`
 - `[`2026-08903`]` **[Special Conditions: Xtreme Avionics, LLC, Airbus Defense and Space S.A. Model 212 Series Airplane; Rechargeable Lithium Battery and Battery System Installations](https://www.indexdata.org/special-conditions-xtreme-avionics-llc-airbus-defense-and-space-s-a-model-212-series-airplane-rechargeable-lithium-battery-and-battery-system-installations/)** — `2026-05-06` | `3 Pages`
 - `[`2026-08645`]` **[Establishment of Class D and Class E Airspace; Ceiba, PR](https://www.indexdata.org/establishment-of-class-d-and-class-e-airspace-ceiba-pr/)** — `2026-05-04` | `3 Pages`
@@ -2152,11 +2153,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internatio
 Canonical Authority Archive: [https://www.indexdata.org/united-states/investment-security-office/](https://www.indexdata.org/united-states/investment-security-office/) | [RSS Feed](https://www.indexdata.org/united-states/investment-security-office/feed/)
 
 - `[`2026-02481`]` **[Request for Information Pertaining to the CFIUS Known Investor Program and Streamlining the Foreign Investment Review Process](https://www.indexdata.org/request-for-information-pertaining-to-the-cfius-known-investor-program-and-streamlining-the-foreign-investment-review-process/)** — `2026-02-09` | `7 Pages`
-
-### [Labor Department](https://www.indexdata.org/united-states/labor-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/labor-department/](https://www.indexdata.org/united-states/labor-department/) | [RSS Feed](https://www.indexdata.org/united-states/labor-department/feed/)
-
-- `[`2025-23626`]` **[Nondisplacement of Qualified Workers Under Service Contracts; Rescission of Regulations](https://www.indexdata.org/nondisplacement-of-qualified-workers-under-service-contracts-rescission-of-regulations/)** — `2025-12-22` | `7 Pages`
 
 ### [Labor-Management Standards Office](https://www.indexdata.org/united-states/labor-management-standards-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/labor-management-standards-office/](https://www.indexdata.org/united-states/labor-management-standards-office/) | [RSS Feed](https://www.indexdata.org/united-states/labor-management-standards-office/feed/)

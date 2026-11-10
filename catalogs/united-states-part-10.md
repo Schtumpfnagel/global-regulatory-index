@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,184` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,185` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 05:45 UTC`
+**Last Automated Sync:** `2026-11-10 06:41 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`277` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,184)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,185)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1416,6 +1416,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2023-13773`]` **[Filing of Color Additive Petition From Environmental Defense Fund, et al.; Request To Revoke Color Additive Listing for Use of Titanium Dioxide in Food; Extension of Comment Period](https://www.indexdata.org/filing-of-color-additive-petition-from-environmental-defense-fund-et-al-request-to-revoke-color-additive-listing-for-use-of-titanium-dioxide-in-food-extension-of-comment-period/)** — `2023-06-28` | `2 Pages`
 - `[`2023-13120`]` **[PHM Brands; Filing of Food Additive Petition](https://www.indexdata.org/phm-brands-filing-of-food-additive-petition/)** — `2023-06-21` | `2 Pages`
 
+### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
+
+- `[`2023-21317`]` **[Federal Acquisition Regulation: Protests of Orders Set Aside for Small Business](https://www.indexdata.org/federal-acquisition-regulation-protests-of-orders-set-aside-for-small-business-2/)** — `2023-10-03` | `4 Pages`
+- `[`2023-21354`]` **[Federal Acquisition Regulation: Rerepresentation of Size and Socioeconomic Status](https://www.indexdata.org/federal-acquisition-regulation-rerepresentation-of-size-and-socioeconomic-status-2/)** — `2023-09-29` | `5 Pages`
+- `[`2023-17720`]` **[Federal Acquisition Regulation Supplement: Revision of the Definition of “Commercial Item” (NFS Case 2022-N003)](https://www.indexdata.org/federal-acquisition-regulation-supplement-revision-of-the-definition-of-commercial-item-nfs-case-2022-n003/)** — `2023-09-19` | `2 Pages`
+- `[`2023-16395`]` **[Federal Acquisition Regulation: Explanations to Unsuccessful Offerors on Certain Orders Under Task and Delivery Order Contracts](https://www.indexdata.org/federal-acquisition-regulation-explanations-to-unsuccessful-offerors-on-certain-orders-under-task-and-delivery-order-contracts/)** — `2023-08-09` | `3 Pages`
+- `[`2023-16662`]` **[Federal Acquisition Regulation; Federal Acquisition Circular 2023-05; Small Entity Compliance Guide](https://www.indexdata.org/federal-acquisition-regulation-federal-acquisition-circular-2023-05-small-entity-compliance-guide/)** — `2023-08-08` | `2 Pages`
+- `[`2023-16660`]` **[Federal Acquisition Regulation: Update to ASSIST Database References](https://www.indexdata.org/federal-acquisition-regulation-update-to-assist-database-references/)** — `2023-08-08` | `3 Pages`
+- `[`2023-16659`]` **[Federal Acquisition Regulation: Small Disadvantaged Business Threshold](https://www.indexdata.org/federal-acquisition-regulation-small-disadvantaged-business-threshold/)** — `2023-08-08` | `3 Pages`
+- `[`2023-16658`]` **[Federal Acquisition Regulation: Use of Acquisition 360 To Encourage Vendor Feedback](https://www.indexdata.org/federal-acquisition-regulation-use-of-acquisition-360-to-encourage-vendor-feedback/)** — `2023-08-08` | `4 Pages`
+- `[`2023-16385`]` **[Federal Acquisition Regulation: Training To Prevent Human Trafficking for Certain Air Carriers](https://www.indexdata.org/federal-acquisition-regulation-training-to-prevent-human-trafficking-for-certain-air-carriers-3/)** — `2023-08-07` | `6 Pages`
+- `[`2023-16012`]` **[Federal Acquisition Regulation: Sustainable Procurement](https://www.indexdata.org/federal-acquisition-regulation-sustainable-procurement-2/)** — `2023-08-03` | `23 Pages`
+- `[`2023-14553`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-14/)** — `2023-07-27` | `12 Pages`
+- `[`2023-15396`]` **[NASA Federal Acquisition Regulation Supplement: Accommodating the Incorporation, Transfer, and Reorganization of Defense Acquisition Statutes (NFS Case 2022-N002)](https://www.indexdata.org/nasa-federal-acquisition-regulation-supplement-accommodating-the-incorporation-transfer-and-reorganization-of-defense-acquisition-statutes-nfs-case-2022-n002/)** — `2023-07-25` | `2 Pages`
+- `[`2023-14042`]` **[Delegations and Designations](https://www.indexdata.org/delegations-and-designations-2/)** — `2023-07-05` | `3 Pages`
+
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 
@@ -1447,22 +1464,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2023-13736`]` **[Chemical Weapons Convention Regulations: Reducing the Concentration Level Above Which Mixtures Containing Schedule 2A Chemicals Are Subject to Declaration and Reporting Requirements](https://www.indexdata.org/chemical-weapons-convention-regulations-reducing-the-concentration-level-above-which-mixtures-containing-schedule-2a-chemicals-are-subject-to-declaration-and-reporting-requirements/)** — `2023-07-03` | `5 Pages`
 - `[`2023-13196`]` **[Additions of Entities to the Entity List and Removal of Entity From the Entity List; Correction](https://www.indexdata.org/additions-of-entities-to-the-entity-list-and-removal-of-entity-from-the-entity-list-correction/)** — `2023-06-21` | `3 Pages`
 - `[`2023-12726`]` **[Additions of Entities to the Entity List and Removal of Entity From the Entity List](https://www.indexdata.org/additions-of-entities-to-the-entity-list-and-removal-of-entity-from-the-entity-list/)** — `2023-06-14` | `10 Pages`
-
-### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
-
-- `[`2023-21354`]` **[Federal Acquisition Regulation: Rerepresentation of Size and Socioeconomic Status](https://www.indexdata.org/federal-acquisition-regulation-rerepresentation-of-size-and-socioeconomic-status-2/)** — `2023-09-29` | `5 Pages`
-- `[`2023-17720`]` **[Federal Acquisition Regulation Supplement: Revision of the Definition of “Commercial Item” (NFS Case 2022-N003)](https://www.indexdata.org/federal-acquisition-regulation-supplement-revision-of-the-definition-of-commercial-item-nfs-case-2022-n003/)** — `2023-09-19` | `2 Pages`
-- `[`2023-16395`]` **[Federal Acquisition Regulation: Explanations to Unsuccessful Offerors on Certain Orders Under Task and Delivery Order Contracts](https://www.indexdata.org/federal-acquisition-regulation-explanations-to-unsuccessful-offerors-on-certain-orders-under-task-and-delivery-order-contracts/)** — `2023-08-09` | `3 Pages`
-- `[`2023-16662`]` **[Federal Acquisition Regulation; Federal Acquisition Circular 2023-05; Small Entity Compliance Guide](https://www.indexdata.org/federal-acquisition-regulation-federal-acquisition-circular-2023-05-small-entity-compliance-guide/)** — `2023-08-08` | `2 Pages`
-- `[`2023-16660`]` **[Federal Acquisition Regulation: Update to ASSIST Database References](https://www.indexdata.org/federal-acquisition-regulation-update-to-assist-database-references/)** — `2023-08-08` | `3 Pages`
-- `[`2023-16659`]` **[Federal Acquisition Regulation: Small Disadvantaged Business Threshold](https://www.indexdata.org/federal-acquisition-regulation-small-disadvantaged-business-threshold/)** — `2023-08-08` | `3 Pages`
-- `[`2023-16658`]` **[Federal Acquisition Regulation: Use of Acquisition 360 To Encourage Vendor Feedback](https://www.indexdata.org/federal-acquisition-regulation-use-of-acquisition-360-to-encourage-vendor-feedback/)** — `2023-08-08` | `4 Pages`
-- `[`2023-16385`]` **[Federal Acquisition Regulation: Training To Prevent Human Trafficking for Certain Air Carriers](https://www.indexdata.org/federal-acquisition-regulation-training-to-prevent-human-trafficking-for-certain-air-carriers-3/)** — `2023-08-07` | `6 Pages`
-- `[`2023-16012`]` **[Federal Acquisition Regulation: Sustainable Procurement](https://www.indexdata.org/federal-acquisition-regulation-sustainable-procurement-2/)** — `2023-08-03` | `23 Pages`
-- `[`2023-14553`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-14/)** — `2023-07-27` | `12 Pages`
-- `[`2023-15396`]` **[NASA Federal Acquisition Regulation Supplement: Accommodating the Incorporation, Transfer, and Reorganization of Defense Acquisition Statutes (NFS Case 2022-N002)](https://www.indexdata.org/nasa-federal-acquisition-regulation-supplement-accommodating-the-incorporation-transfer-and-reorganization-of-defense-acquisition-statutes-nfs-case-2022-n002/)** — `2023-07-25` | `2 Pages`
-- `[`2023-14042`]` **[Delegations and Designations](https://www.indexdata.org/delegations-and-designations-2/)** — `2023-07-05` | `3 Pages`
 
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
@@ -1845,13 +1846,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2023-18240`]` **[Agency Contact Information; Technical Corrections](https://www.indexdata.org/agency-contact-information-technical-corrections/)** — `2023-08-25` | `7 Pages`
 - `[`2023-14564`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-13/)** — `2023-07-27` | `2 Pages`
 
-### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
-
-- `[`2023-21564`]` **[Special Uses; Land Use Fees; Temporary Land Use Fee Reductions for Recreation Residence Permits](https://www.indexdata.org/special-uses-land-use-fees-temporary-land-use-fee-reductions-for-recreation-residence-permits-2/)** — `2023-10-02` | `4 Pages`
-- `[`2023-11622`]` **[Minerals Cost Recovery](https://www.indexdata.org/minerals-cost-recovery/)** — `2023-06-13` | `15 Pages`
-- `[`2023-12267`]` **[Organization, Functions, and Procedures; Functions and Procedures; Forest Service Functions](https://www.indexdata.org/organization-functions-and-procedures-functions-and-procedures-forest-service-functions/)** — `2023-06-08` | `2 Pages`
-
 ### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
 
@@ -1994,6 +1988,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ra
 
 - `[`2023-18033`]` **[Certification of Dispatchers](https://www.indexdata.org/certification-of-dispatchers-2/)** — `2023-08-22` | `2 Pages`
 - `[`2023-14179`]` **[Certification of Signal Employees](https://www.indexdata.org/certification-of-signal-employees-3/)** — `2023-07-05` | `2 Pages`
+
+### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
+
+- `[`2023-21564`]` **[Special Uses; Land Use Fees; Temporary Land Use Fee Reductions for Recreation Residence Permits](https://www.indexdata.org/special-uses-land-use-fees-temporary-land-use-fee-reductions-for-recreation-residence-permits-2/)** — `2023-10-02` | `4 Pages`
+- `[`2023-11622`]` **[Minerals Cost Recovery](https://www.indexdata.org/minerals-cost-recovery/)** — `2023-06-13` | `15 Pages`
 
 ### [Investment Security Office](https://www.indexdata.org/united-states/investment-security-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/investment-security-office/](https://www.indexdata.org/united-states/investment-security-office/) | [RSS Feed](https://www.indexdata.org/united-states/investment-security-office/feed/)

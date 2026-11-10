@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/spain/feed/](https://www.indexdata.org/spain/feed/)  
 **Wikidata Sovereign Entity:** [`Q29`](https://www.wikidata.org/wiki/Q29)  
 **Governing Open-Government Framework:** *Art. 13 TRLPI (RDL 1/1996) & Law 37/2007 on Re-use of Public Sector Information (RD 1495/2011)*  
-**Total Indexed Dossiers in Spain:** `37` across `8` issuing authorities  
-**Last Automated Sync:** `2026-11-10 05:45 UTC`
+**Total Indexed Dossiers in Spain:** `38` across `8` issuing authorities  
+**Last Automated Sync:** `2026-11-10 06:41 UTC`
 
 ---
 
 ## Issuing Authorities in Spain (8 Authorities)
 
+- **[Government of Spain (Datos.gob.es)](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/) | [RSS Feed](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/feed/)
 - **[National Institute of Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
 - **[Center for Energy, Environmental and Technological Research (CIEMAT)](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/) | [RSS Feed](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/feed/)
-- **[Government of Spain (Datos.gob.es)](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/) | [RSS Feed](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/feed/)
 - **[Ombudsman of Spain (Defensor del Pueblo)](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/) | [RSS Feed](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/feed/)
 - **[Spanish National Research Council (CSIC)](https://www.indexdata.org/spain/spanish-national-research-council-csic/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/spain/spanish-national-research-council-csic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-research-council-csic/feed/)
 - **[Spanish National Center for Cardiovascular Research (CNIC)](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/feed/)
@@ -23,7 +23,19 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–37 of 37)
+## Indexed Statutory & Regulatory Dossiers (Records 1–38 of 38)
+
+### [Government of Spain (Datos.gob.es)](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/)
+Canonical Authority Archive: [https://www.indexdata.org/spain/government-of-spain-datos-gob-es/](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/) | [RSS Feed](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/feed/)
+
+- `[`ES-EUODP-https-datos-madrid-es-dataset-209426-0-templos-catolica`]` **[Catholic temples and churches](https://www.indexdata.org/catholic-temples-and-churches/)** — `2026-11-06` | `2 Pages`
+- `[`ES-EUODP-https-datos-madrid-es-dataset-300623-0-lista-espera-cen`]` **[Waiting list of day centres for the physically impaired elderly](https://www.indexdata.org/waiting-list-of-day-centres-for-the-physically-impaired-elderly/)** — `2026-10-24` | `2 Pages`
+- `[`ES-EUODP-https-datos-madrid-es-dataset-300622-0-lista-espera-cen`]` **[Waiting list of day centers for elderly people with Alzheimer's](https://www.indexdata.org/waiting-list-of-day-centers-for-elderly-people-with-alzheimers/)** — `2026-10-24` | `2 Pages`
+- `[`ES-EUODP-https-datos-madrid-es-dataset-300322-0-oficinas-contrib`]` **[Offices of Integral Attention to the Taxpayer (OAIC)](https://www.indexdata.org/offices-of-integral-attention-to-the-taxpayer-oaic/)** — `2026-10-24` | `4 Pages`
+- `[`ES-EUODP-https-datos-madrid-es-dataset-300261-0-agenda-proximas`]` **[Upcoming Urban Careers](https://www.indexdata.org/upcoming-urban-careers/)** — `2026-10-24` | `3 Pages`
+- `[`ES-EUODP-https-datos-madrid-es-dataset-217921-0-salas-estudio`]` **[Study and reading rooms](https://www.indexdata.org/study-and-reading-rooms/)** — `2026-10-24` | `2 Pages`
+- `[`ES-EUODP-https-datos-madrid-es-dataset-212904-0-centros-ensenanz`]` **[Headquarters. Schools](https://www.indexdata.org/headquarters-schools/)** — `2026-10-24` | `2 Pages`
+- `[`ES-EUODP-https-datos-madrid-es-dataset-232993-0-normativa-munici`]` **[Municipal regulations](https://www.indexdata.org/municipal-regulations/)** — `2026-10-17` | `3 Pages`
 
 ### [National Institute of Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)
 Canonical Authority Archive: [https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
@@ -47,17 +59,6 @@ Canonical Authority Archive: [https://www.indexdata.org/spain/center-for-energy-
 - `[`ES-CIEMAT-20.500.14855-5858`]` **[Integrated assessment of tire and rubber wear-derived compounds in wastewater treatment systems and receiving environments](https://www.indexdata.org/integrated-assessment-of-tire-and-rubber-wear-derived-compounds-in-wastewater-treatment-systems-and-receiving-environments/)** — `2026-07-30` | `9 Pages`
 - `[`ES-CIEMAT-20.500.14855-5876`]` **[Leaching and drying of herbaceous bales with different density to improve their combustion performance](https://www.indexdata.org/leaching-and-drying-of-herbaceous-bales-with-different-density-to-improve-their-combustion-performance/)** — `2026-07-22` | `9 Pages`
 - `[`ES-CIEMAT-20.500.14855-5875`]` **[Quality assessment of olive stones and nut shells for residential combustion applications](https://www.indexdata.org/quality-assessment-of-olive-stones-and-nut-shells-for-residential-combustion-applications/)** — `2026-06-25` | `12 Pages`
-
-### [Government of Spain (Datos.gob.es)](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/)
-Canonical Authority Archive: [https://www.indexdata.org/spain/government-of-spain-datos-gob-es/](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/) | [RSS Feed](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/feed/)
-
-- `[`ES-EUODP-https-datos-madrid-es-dataset-300623-0-lista-espera-cen`]` **[Waiting list of day centres for the physically impaired elderly](https://www.indexdata.org/waiting-list-of-day-centres-for-the-physically-impaired-elderly/)** — `2026-10-24` | `2 Pages`
-- `[`ES-EUODP-https-datos-madrid-es-dataset-300622-0-lista-espera-cen`]` **[Waiting list of day centers for elderly people with Alzheimer's](https://www.indexdata.org/waiting-list-of-day-centers-for-elderly-people-with-alzheimers/)** — `2026-10-24` | `2 Pages`
-- `[`ES-EUODP-https-datos-madrid-es-dataset-300322-0-oficinas-contrib`]` **[Offices of Integral Attention to the Taxpayer (OAIC)](https://www.indexdata.org/offices-of-integral-attention-to-the-taxpayer-oaic/)** — `2026-10-24` | `4 Pages`
-- `[`ES-EUODP-https-datos-madrid-es-dataset-300261-0-agenda-proximas`]` **[Upcoming Urban Careers](https://www.indexdata.org/upcoming-urban-careers/)** — `2026-10-24` | `3 Pages`
-- `[`ES-EUODP-https-datos-madrid-es-dataset-217921-0-salas-estudio`]` **[Study and reading rooms](https://www.indexdata.org/study-and-reading-rooms/)** — `2026-10-24` | `2 Pages`
-- `[`ES-EUODP-https-datos-madrid-es-dataset-212904-0-centros-ensenanz`]` **[Headquarters. Schools](https://www.indexdata.org/headquarters-schools/)** — `2026-10-24` | `2 Pages`
-- `[`ES-EUODP-https-datos-madrid-es-dataset-232993-0-normativa-munici`]` **[Municipal regulations](https://www.indexdata.org/municipal-regulations/)** — `2026-10-17` | `3 Pages`
 
 ### [Ombudsman of Spain (Defensor del Pueblo)](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/)
 Canonical Authority Archive: [https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/) | [RSS Feed](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/feed/)

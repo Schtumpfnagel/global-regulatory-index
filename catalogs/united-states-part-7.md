@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,184` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,185` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 05:45 UTC`
+**Last Automated Sync:** `2026-11-10 06:41 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`277` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,184)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,185)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -801,7 +801,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-12590`]` **[Multi-Pollutant Emissions Standards for Model Years 2027 and Later Light-Duty and Medium-Duty Vehicles; Correction](https://www.indexdata.org/multi-pollutant-emissions-standards-for-model-years-2027-and-later-light-duty-and-medium-duty-vehicles-correction/)** — `2024-06-13` | `2 Pages`
 - `[`2024-11690`]` **[Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Commercial and Industrial Refrigeration](https://www.indexdata.org/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives-policy-program-in-commercial-and-industrial-refrigeration/)** — `2024-06-13` | `88 Pages`
 - `[`2024-12786`]` **[Approval and Promulgation of Implementation Plans; State of California; Coachella Valley; Extreme Attainment Plan for 1997 8-Hour Ozone Standards](https://www.indexdata.org/approval-and-promulgation-of-implementation-plans-state-of-california-coachella-valley-extreme-attainment-plan-for-1997-8-hour-ozone-standards-2/)** — `2024-06-12` | `3 Pages`
-- `[`2024-12764`]` **[Significant New Use Rules on Certain Chemical Substances (22-4.5e)](https://www.indexdata.org/significant-new-use-rules-on-certain-chemical-substances-22-4-5e-2/)** — `2024-06-11` | `24 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1177,6 +1176,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
+- `[`2024-23142`]` **[Entities Wholly Owned by Indian Tribal Governments](https://www.indexdata.org/entities-wholly-owned-by-indian-tribal-governments-2/)** — `2024-10-09` | `8 Pages`
 - `[`2024-22963`]` **[Syndicated Conservation Easement Transactions as Listed Transactions](https://www.indexdata.org/syndicated-conservation-easement-transactions-as-listed-transactions/)** — `2024-10-08` | `18 Pages`
 - `[`2024-20612`]` **[Requirements Related to the Mental Health Parity and Addiction Equity Act](https://www.indexdata.org/requirements-related-to-the-mental-health-parity-and-addiction-equity-act/)** — `2024-09-23` | `166 Pages`
 - `[`2024-20748`]` **[Section 30C Alternative Fuel Vehicle Refueling Property Credit](https://www.indexdata.org/section-30c-alternative-fuel-vehicle-refueling-property-credit/)** — `2024-09-19` | `24 Pages`

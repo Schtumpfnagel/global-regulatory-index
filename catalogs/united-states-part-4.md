@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,184` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,185` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 05:45 UTC`
+**Last Automated Sync:** `2026-11-10 06:41 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`277` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,184)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,185)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1798,15 +1798,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2025-18182`]` **[Uniform Procedures for State Highway Safety Grant Programs](https://www.indexdata.org/uniform-procedures-for-state-highway-safety-grant-programs-2/)** — `2025-09-19` | `6 Pages`
 - `[`2025-13244`]` **[Technical Amendment to the Uniform Procedures for State Highway Safety Grant Programs](https://www.indexdata.org/technical-amendment-to-the-uniform-procedures-for-state-highway-safety-grant-programs/)** — `2025-07-15` | `4 Pages`
 
-### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
-
-- `[`2025-22055`]` **[Small Business Investment Company (SBIC) Accrual Regulatory Amendments](https://www.indexdata.org/small-business-investment-company-sbic-accrual-regulatory-amendments/)** — `2025-12-05` | `3 Pages`
-- `[`2025-18807`]` **[Tribal Consultation for SBA's Office of Manufacturing and Trade and Other Small Business Programs and Services Offered by the Agency, With a Focus on SBA's Ongoing Manufacturing, Onshoring and Export Initiatives To Encourage Small Businesses Going Global](https://www.indexdata.org/tribal-consultation-for-sbas-office-of-manufacturing-and-trade-and-other-small-business-programs-and-services-offered-by-the-agency-with-a-focus-on-sbas-ongoing-manufacturing-onshoring-and-expor/)** — `2025-09-29` | `2 Pages`
-- `[`2025-16142`]` **[Small Business Size Standards: Monetary-Based Industry Size Standards](https://www.indexdata.org/small-business-size-standards-monetary-based-industry-size-standards/)** — `2025-08-22` | `110 Pages`
-- `[`2025-15704`]` **[Tribal Consultation for SBA's Office of Capital Access and Access to All Agency Financial Assistance, Contracting, Business Counseling and Technical Assistance Programs, Identifying Issues and Best Practices](https://www.indexdata.org/tribal-consultation-for-sbas-office-of-capital-access-and-access-to-all-agency-financial-assistance-contracting-business-counseling-and-technical-assistance-programs-identifying-issues-and-best-p/)** — `2025-08-18` | `2 Pages`
-- `[`2025-12584`]` **[Small Business Investment Company (SBIC) Regulatory Amendments](https://www.indexdata.org/small-business-investment-company-sbic-regulatory-amendments-2/)** — `2025-07-07` | `9 Pages`
-
 ### [Federal Crop Insurance Corporation](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-crop-insurance-corporation/](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/feed/)
 
@@ -1846,6 +1837,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/safety-and
 - `[`2025-17607`]` **[Oil and Gas and Sulfur Operations on the Outer Continental Shelf-Civil Penalty Inflation Adjustment](https://www.indexdata.org/oil-and-gas-and-sulfur-operations-on-the-outer-continental-shelf-civil-penalty-inflation-adjustment/)** — `2025-09-12` | `3 Pages`
 - `[`2025-15327`]` **[Offshore Downhole Commingling Regulatory Updates](https://www.indexdata.org/offshore-downhole-commingling-regulatory-updates-2/)** — `2025-08-13` | `4 Pages`
 - `[`2025-14618`]` **[Remove Regulations for Sulphur Operations](https://www.indexdata.org/remove-regulations-for-sulphur-operations/)** — `2025-08-01` | `4 Pages`
+
+### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
+
+- `[`2025-22055`]` **[Small Business Investment Company (SBIC) Accrual Regulatory Amendments](https://www.indexdata.org/small-business-investment-company-sbic-accrual-regulatory-amendments/)** — `2025-12-05` | `3 Pages`
+- `[`2025-18807`]` **[Tribal Consultation for SBA's Office of Manufacturing and Trade and Other Small Business Programs and Services Offered by the Agency, With a Focus on SBA's Ongoing Manufacturing, Onshoring and Export Initiatives To Encourage Small Businesses Going Global](https://www.indexdata.org/tribal-consultation-for-sbas-office-of-manufacturing-and-trade-and-other-small-business-programs-and-services-offered-by-the-agency-with-a-focus-on-sbas-ongoing-manufacturing-onshoring-and-expor/)** — `2025-09-29` | `2 Pages`
+- `[`2025-16142`]` **[Small Business Size Standards: Monetary-Based Industry Size Standards](https://www.indexdata.org/small-business-size-standards-monetary-based-industry-size-standards/)** — `2025-08-22` | `110 Pages`
+- `[`2025-15704`]` **[Tribal Consultation for SBA's Office of Capital Access and Access to All Agency Financial Assistance, Contracting, Business Counseling and Technical Assistance Programs, Identifying Issues and Best Practices](https://www.indexdata.org/tribal-consultation-for-sbas-office-of-capital-access-and-access-to-all-agency-financial-assistance-contracting-business-counseling-and-technical-assistance-programs-identifying-issues-and-best-p/)** — `2025-08-18` | `2 Pages`
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -1994,6 +1993,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industrial
 - `[`US-TN-BLOUNT-8250`]` **[IDB-Title-VI-Complaint Procedures-2025](https://www.indexdata.org/idb-title-vi-complaint-procedures-2025/)** — `2025-08-01` | `2 Pages`
 - `[`US-TN-BLOUNT-8249`]` **[Blount IDB Title VI Complaint Form](https://www.indexdata.org/blount-idb-title-vi-complaint-form/)** — `2025-08-01` | `3 Pages`
 
+### [Labor Department](https://www.indexdata.org/united-states/labor-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/labor-department/](https://www.indexdata.org/united-states/labor-department/) | [RSS Feed](https://www.indexdata.org/united-states/labor-department/feed/)
+
+- `[`2025-23626`]` **[Nondisplacement of Qualified Workers Under Service Contracts; Rescission of Regulations](https://www.indexdata.org/nondisplacement-of-qualified-workers-under-service-contracts-rescission-of-regulations/)** — `2025-12-22` | `7 Pages`
+- `[`2025-15652`]` **[Obsolete Grant and Contract Regulations](https://www.indexdata.org/obsolete-grant-and-contract-regulations/)** — `2025-08-18` | `2 Pages`
+
 ### [Merit Systems Protection Board](https://www.indexdata.org/united-states/merit-systems-protection-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/merit-systems-protection-board/](https://www.indexdata.org/united-states/merit-systems-protection-board/) | [RSS Feed](https://www.indexdata.org/united-states/merit-systems-protection-board/feed/)
 
@@ -2113,11 +2118,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-ag
 Canonical Authority Archive: [https://www.indexdata.org/united-states/joint-board-for-enrollment-of-actuaries/](https://www.indexdata.org/united-states/joint-board-for-enrollment-of-actuaries/) | [RSS Feed](https://www.indexdata.org/united-states/joint-board-for-enrollment-of-actuaries/feed/)
 
 - `[`2025-15777`]` **[Continuing Professional Education Requirements of the Joint Board for the Enrollment of Actuaries](https://www.indexdata.org/continuing-professional-education-requirements-of-the-joint-board-for-the-enrollment-of-actuaries/)** — `2025-08-19` | `6 Pages`
-
-### [Labor Department](https://www.indexdata.org/united-states/labor-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/labor-department/](https://www.indexdata.org/united-states/labor-department/) | [RSS Feed](https://www.indexdata.org/united-states/labor-department/feed/)
-
-- `[`2025-15652`]` **[Obsolete Grant and Contract Regulations](https://www.indexdata.org/obsolete-grant-and-contract-regulations/)** — `2025-08-18` | `2 Pages`
 
 ### [Natural Resources Revenue Office](https://www.indexdata.org/united-states/natural-resources-revenue-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/natural-resources-revenue-office/](https://www.indexdata.org/united-states/natural-resources-revenue-office/) | [RSS Feed](https://www.indexdata.org/united-states/natural-resources-revenue-office/feed/)

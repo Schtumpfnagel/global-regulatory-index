@@ -4,15 +4,15 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `946` across `19` issuing authorities  
-**Last Automated Sync:** `2026-11-10 05:45 UTC`
+**Total Indexed Dossiers in International:** `947` across `19` issuing authorities  
+**Last Automated Sync:** `2026-11-10 06:41 UTC`
 
 ---
 
 ## Issuing Authorities in International (19 Authorities)
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`162` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
-- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`147` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
+- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`148` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
@@ -33,7 +33,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–946 of 946)
+## Indexed Statutory & Regulatory Dossiers (Records 1–947 of 947)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -205,6 +205,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-s
 Canonical Authority Archive: [https://www.indexdata.org/international/world-bank/](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/)
 
 - `[`WB-WDS-216971`]` **[Republic of Congo Economic Update, 13th Edition: Breaking the Debt Cycle : From Arrears to Fiscal Resilience](https://www.indexdata.org/republic-of-congo-economic-update-13th-edition-breaking-the-debt-cycle-from-arrears-to-fiscal-resilience/)** — `2026-11-10` | `86 Pages`
+- `[`WB-WDS-215505`]` **[Malaysia Economic Monitor : From Quantity to Quality - Financing Malaysia’s Productive SMEs](https://www.indexdata.org/malaysia-economic-monitor-from-quantity-to-quality-financing-malaysias-productive-smes/)** — `2026-11-10` | `68 Pages`
 - `[`WB-WDS-216972`]` **[Digital Public Infrastructure for Inclusive Growth : A Regional Assessment for the Middle East, North Africa, Afghanistan, and Pakistan](https://www.indexdata.org/digital-public-infrastructure-for-inclusive-growth-a-regional-assessment-for-the-middle-east-north-africa-afghanistan-and-pakistan/)** — `2026-11-09` | `126 Pages`
 - `[`WB-OKR-216972`]` **[Digital Public Infrastructure for Inclusive Growth: A Regional Assessment for the Middle East, North Africa, Afghanistan, and Pakistan](https://www.indexdata.org/digital-public-infrastructure-for-inclusive-growth-a-regional-assessment-for-the-middle-east-north-africa-afghanistan-and-pakistan-2/)** — `2026-11-09` | `126 Pages`
 - `[`WB-WPS-11498`]` **[Voices of the Coast : Spatial versus Household Heterogeneity in Adaptation Needs in Bangladesh](https://www.indexdata.org/voices-of-the-coast-spatial-versus-household-heterogeneity-in-adaptation-needs-in-bangladesh/)** — `2026-11-06` | `42 Pages`
