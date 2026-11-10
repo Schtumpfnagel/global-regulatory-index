@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,185` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,189` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 10:25 UTC`
+**Last Automated Sync:** `2026-11-10 11:31 UTC`
 
 ---
 
@@ -19,8 +19,8 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -245,7 +245,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,185)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,189)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -578,7 +578,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-12854`]` **[Revocation of Colored Federal Airway Amber 15 and Amendment of Alaskan Very High Frequency Omnidirectional Range Federal Airway V-428 in Alaska](https://www.indexdata.org/revocation-of-colored-federal-airway-amber-15-and-amendment-of-alaskan-very-high-frequency-omnidirectional-range-federal-airway-v-428-in-alaska/)** — `2024-06-13` | `2 Pages`
 - `[`2024-12551`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-46/)** — `2024-06-13` | `5 Pages`
 - `[`2024-08883`]` **[Amendment of Class E Airspace; Greenville, NC](https://www.indexdata.org/amendment-of-class-e-airspace-greenville-nc/)** — `2024-06-13` | `2 Pages`
-- `[`2024-12745`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-64/)** — `2024-06-12` | `5 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -951,11 +950,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-13146`]` **[Fixed and Moving Safety Zone; Vicinity of the M/V HAPPY DIAMOND; Houston Ship Channel and Seabrook, TX](https://www.indexdata.org/fixed-and-moving-safety-zone-vicinity-of-the-m-v-happy-diamond-houston-ship-channel-and-seabrook-tx/)** — `2024-06-17` | `4 Pages`
 - `[`2024-13139`]` **[Safety Zone; La Quinta and Corpus Christi Shipping Channel, Ingleside, TX](https://www.indexdata.org/safety-zone-la-quinta-and-corpus-christi-shipping-channel-ingleside-tx/)** — `2024-06-14` | `3 Pages`
 - `[`2024-12845`]` **[Special Local Regulation; Elizabeth River, Norfolk Harbor, Norfolk, VA](https://www.indexdata.org/special-local-regulation-elizabeth-river-norfolk-harbor-norfolk-va-3/)** — `2024-06-13` | `4 Pages`
-- `[`2024-10341`]` **[Updates to Marine Engineering Standards](https://www.indexdata.org/updates-to-marine-engineering-standards/)** — `2024-06-12` | `143 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-23317`]` **[Endangered and Threatened Wildlife and Plants; Technical Correction for the Coral Fimbriaphyllia paradivisa](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-technical-correction-for-the-coral-fimbriaphyllia-paradivisa/)** — `2024-10-09` | `3 Pages`
+- `[`2024-23262`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 34; Groundfish Exclusion Area for Coral Research and Restoration](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-pacific-coast-groundfish-fishery-management-plan-amendment-34-groundfish-exclusion-area-for-coral-3/)** — `2024-10-09` | `2 Pages`
 - `[`2024-23249`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Atka Mackerel in the Bering Sea and Aleutian Islands Management Area](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-atka-mackerel-in-the-bering-sea-and-aleutian-islands-management-area-2/)** — `2024-10-08` | `2 Pages`
 - `[`2024-23129`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; General Category October Through November Quota Transfer](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-general-category-october-through-november-quota-transfer/)** — `2024-10-07` | `3 Pages`
 - `[`2024-23086`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Catcher Vessels Using Trawl Gear in the Central Regulatory Area of the Gulf of Alaska](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcher-vessels-using-trawl-gear-in-the-central-regulatory-area-of-the-gulf-of-alaska-4/)** — `2024-10-07` | `2 Pages`
@@ -1555,6 +1555,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2024-13581`]` **[Consumer Financial Protection Circular 2024-03: Unlawful and Unenforceable Contract Terms and Conditions](https://www.indexdata.org/consumer-financial-protection-circular-2024-03-unlawful-and-unenforceable-contract-terms-and-conditions/)** — `2024-06-21` | `3 Pages`
 - `[`2024-13208`]` **[Prohibition on Creditors and Consumer Reporting Agencies Concerning Medical Information (Regulation V)](https://www.indexdata.org/prohibition-on-creditors-and-consumer-reporting-agencies-concerning-medical-information-regulation-v-2/)** — `2024-06-18` | `55 Pages`
 
+### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
+
+- `[`2024-23211`]` **[Safety Standard for Infant Bath Seats](https://www.indexdata.org/safety-standard-for-infant-bath-seats/)** — `2024-10-09` | `5 Pages`
+- `[`2024-22906`]` **[Notice of Availability and Request for Comment: Data Regarding Debris Penetration Hazards for Recreational Off-Highway Vehicles and Utility Task/Terrain Vehicles](https://www.indexdata.org/notice-of-availability-and-request-for-comment-data-regarding-debris-penetration-hazards-for-recreational-off-highway-vehicles-and-utility-task-terrain-vehicles/)** — `2024-10-04` | `3 Pages`
+- `[`2024-22062`]` **[Safety Standard for Infant and Infant/Toddler Rockers; Supplemental Information; Notice of Availability and Request for Comment; Reopening of Comment Period](https://www.indexdata.org/safety-standard-for-infant-and-infant-toddler-rockers-supplemental-information-notice-of-availability-and-request-for-comment-reopening-of-comment-period/)** — `2024-10-02` | `2 Pages`
+- `[`2024-22063`]` **[Notice of Proposed Rulemaking: Safety Standard for Toys: Requirements for Toys Containing Button Cell or Coin Cell Batteries; Extension of Comment Period](https://www.indexdata.org/notice-of-proposed-rulemaking-safety-standard-for-toys-requirements-for-toys-containing-button-cell-or-coin-cell-batteries-extension-of-comment-period/)** — `2024-09-30` | `2 Pages`
+- `[`2024-20066`]` **[Revision to the Voluntary Standard for Soft Infant and Toddler Carriers](https://www.indexdata.org/revision-to-the-voluntary-standard-for-soft-infant-and-toddler-carriers/)** — `2024-09-10` | `2 Pages`
+- `[`2024-19286`]` **[Safety Standard for Toys: Requirements for Water Beads](https://www.indexdata.org/safety-standard-for-toys-requirements-for-water-beads-2/)** — `2024-09-09` | `27 Pages`
+- `[`2024-18133`]` **[Safety Standard for Infant and Infant/Toddler Rockers; Supplemental Information; Notice of Availability and Request for Comment](https://www.indexdata.org/safety-standard-for-infant-and-infant-toddler-rockers-supplemental-information-notice-of-availability-and-request-for-comment/)** — `2024-08-22` | `3 Pages`
+- `[`2024-16466`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-2/)** — `2024-08-16` | `7 Pages`
+- `[`2024-17472`]` **[Safety Standard for Toys: Requirements for Toys Containing Button Cell or Coin Cell Batteries](https://www.indexdata.org/safety-standard-for-toys-requirements-for-toys-containing-button-cell-or-coin-cell-batteries/)** — `2024-08-13` | `25 Pages`
+- `[`2024-16716`]` **[Banned Hazardous Substances: Aerosol Duster Products Containing More Than 18 mg in Any Combination of HFC-152a and/or HFC-134a](https://www.indexdata.org/banned-hazardous-substances-aerosol-duster-products-containing-more-than-18-mg-in-any-combination-of-hfc-152a-and-or-hfc-134a/)** — `2024-07-31` | `19 Pages`
+- `[`2024-15843`]` **[Notice of Availability and Request for Comment: Revision to the Voluntary Standard for Infant Bath Seats](https://www.indexdata.org/notice-of-availability-and-request-for-comment-revision-to-the-voluntary-standard-for-infant-bath-seats/)** — `2024-07-18` | `2 Pages`
+- `[`2024-13330`]` **[Safety Standard for Bassinets and Cradles; Notice of Comment Period Extension](https://www.indexdata.org/safety-standard-for-bassinets-and-cradles-notice-of-comment-period-extension/)** — `2024-06-18` | `2 Pages`
+
 ### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
 
@@ -1569,22 +1585,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2024-15024`]` **[Federal Housing Administration (FHA): Single Family Sale Program](https://www.indexdata.org/federal-housing-administration-fha-single-family-sale-program-2/)** — `2024-07-16` | `13 Pages`
 - `[`2024-13124`]` **[Strengthening the Section 184 Indian Housing Loan Guarantee Program; Delay of Effective and Compliance Dates](https://www.indexdata.org/strengthening-the-section-184-indian-housing-loan-guarantee-program-delay-of-effective-and-compliance-dates/)** — `2024-06-14` | `2 Pages`
 - `[`2024-13070`]` **[HOME Investment Partnerships Program: Program Updates and Streamlining; Public Listening Sessions](https://www.indexdata.org/home-investment-partnerships-program-program-updates-and-streamlining-public-listening-sessions/)** — `2024-06-14` | `2 Pages`
-- `[`2024-12777`]` **[Certification of Tribal Housing Counselors](https://www.indexdata.org/certification-of-tribal-housing-counselors/)** — `2024-06-12` | `7 Pages`
-
-### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
-
-- `[`2024-22906`]` **[Notice of Availability and Request for Comment: Data Regarding Debris Penetration Hazards for Recreational Off-Highway Vehicles and Utility Task/Terrain Vehicles](https://www.indexdata.org/notice-of-availability-and-request-for-comment-data-regarding-debris-penetration-hazards-for-recreational-off-highway-vehicles-and-utility-task-terrain-vehicles/)** — `2024-10-04` | `3 Pages`
-- `[`2024-22062`]` **[Safety Standard for Infant and Infant/Toddler Rockers; Supplemental Information; Notice of Availability and Request for Comment; Reopening of Comment Period](https://www.indexdata.org/safety-standard-for-infant-and-infant-toddler-rockers-supplemental-information-notice-of-availability-and-request-for-comment-reopening-of-comment-period/)** — `2024-10-02` | `2 Pages`
-- `[`2024-22063`]` **[Notice of Proposed Rulemaking: Safety Standard for Toys: Requirements for Toys Containing Button Cell or Coin Cell Batteries; Extension of Comment Period](https://www.indexdata.org/notice-of-proposed-rulemaking-safety-standard-for-toys-requirements-for-toys-containing-button-cell-or-coin-cell-batteries-extension-of-comment-period/)** — `2024-09-30` | `2 Pages`
-- `[`2024-20066`]` **[Revision to the Voluntary Standard for Soft Infant and Toddler Carriers](https://www.indexdata.org/revision-to-the-voluntary-standard-for-soft-infant-and-toddler-carriers/)** — `2024-09-10` | `2 Pages`
-- `[`2024-19286`]` **[Safety Standard for Toys: Requirements for Water Beads](https://www.indexdata.org/safety-standard-for-toys-requirements-for-water-beads-2/)** — `2024-09-09` | `27 Pages`
-- `[`2024-18133`]` **[Safety Standard for Infant and Infant/Toddler Rockers; Supplemental Information; Notice of Availability and Request for Comment](https://www.indexdata.org/safety-standard-for-infant-and-infant-toddler-rockers-supplemental-information-notice-of-availability-and-request-for-comment/)** — `2024-08-22` | `3 Pages`
-- `[`2024-16466`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-2/)** — `2024-08-16` | `7 Pages`
-- `[`2024-17472`]` **[Safety Standard for Toys: Requirements for Toys Containing Button Cell or Coin Cell Batteries](https://www.indexdata.org/safety-standard-for-toys-requirements-for-toys-containing-button-cell-or-coin-cell-batteries/)** — `2024-08-13` | `25 Pages`
-- `[`2024-16716`]` **[Banned Hazardous Substances: Aerosol Duster Products Containing More Than 18 mg in Any Combination of HFC-152a and/or HFC-134a](https://www.indexdata.org/banned-hazardous-substances-aerosol-duster-products-containing-more-than-18-mg-in-any-combination-of-hfc-152a-and-or-hfc-134a/)** — `2024-07-31` | `19 Pages`
-- `[`2024-15843`]` **[Notice of Availability and Request for Comment: Revision to the Voluntary Standard for Infant Bath Seats](https://www.indexdata.org/notice-of-availability-and-request-for-comment-revision-to-the-voluntary-standard-for-infant-bath-seats/)** — `2024-07-18` | `2 Pages`
-- `[`2024-13330`]` **[Safety Standard for Bassinets and Cradles; Notice of Comment Period Extension](https://www.indexdata.org/safety-standard-for-bassinets-and-cradles-notice-of-comment-period-extension/)** — `2024-06-18` | `2 Pages`
 
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
@@ -1658,19 +1658,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 - `[`2024-14610`]` **[Event Contracts](https://www.indexdata.org/event-contracts/)** — `2024-07-05` | `2 Pages`
 - `[`2024-12685`]` **[Privacy Act Regulations](https://www.indexdata.org/privacy-act-regulations-3/)** — `2024-06-17` | `8 Pages`
 
-### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
-
-- `[`2024-19431`]` **[Telemarketing Sales Rule Fees](https://www.indexdata.org/telemarketing-sales-rule-fees-3/)** — `2024-08-29` | `2 Pages`
-- `[`2024-18519`]` **[Trade Regulation Rule on the Use of Consumer Reviews and Testimonials](https://www.indexdata.org/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials/)** — `2024-08-22` | `46 Pages`
-- `[`2024-17105`]` **[Energy Labeling Rule](https://www.indexdata.org/energy-labeling-rule/)** — `2024-08-20` | `2 Pages`
-- `[`2024-18245`]` **[Horseracing Integrity and Safety Authority Oversight](https://www.indexdata.org/horseracing-integrity-and-safety-authority-oversight/)** — `2024-08-16` | `7 Pages`
-- `[`2024-16468`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda/)** — `2024-08-16` | `2 Pages`
-- `[`2024-15620`]` **[Ophthalmic Practice Rules (Eyeglass Rule)](https://www.indexdata.org/ophthalmic-practice-rules-eyeglass-rule/)** — `2024-07-26` | `48 Pages`
-- `[`2024-15338`]` **[Disclosure Requirements and Prohibitions Concerning Franchising](https://www.indexdata.org/disclosure-requirements-and-prohibitions-concerning-franchising/)** — `2024-07-12` | `2 Pages`
-- `[`2024-15065`]` **[Petition for Rulemaking of The National HBPA, Inc.](https://www.indexdata.org/petition-for-rulemaking-of-the-national-hbpa-inc/)** — `2024-07-10` | `2 Pages`
-- `[`2024-12744`]` **[Trade Regulation Rule Relating to Power Output Claims for Amplifiers Utilized in Home Entertainment Products](https://www.indexdata.org/trade-regulation-rule-relating-to-power-output-claims-for-amplifiers-utilized-in-home-entertainment-products/)** — `2024-06-12` | `6 Pages`
-
 ### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 
@@ -1682,6 +1669,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-de
 - `[`2024-17351`]` **[Clarification of Deposit Insurance Coverage for Legacy Branches of U.S. Banks in the Federated States of Micronesia, the Marshall Islands, and Palau](https://www.indexdata.org/clarification-of-deposit-insurance-coverage-for-legacy-branches-of-u-s-banks-in-the-federated-states-of-micronesia-the-marshall-islands-and-palau/)** — `2024-08-09` | `5 Pages`
 - `[`2024-17327`]` **[Fair Hiring in Banking Act](https://www.indexdata.org/fair-hiring-in-banking-act/)** — `2024-08-07` | `15 Pages`
 - `[`2024-13982`]` **[Resolution Plans Required for Insured Depository Institutions With $100 Billion or More in Total Assets; Informational Filings Required for Insured Depository Institutions With at Least $50 Billion but Less Than $100 Billion in Total Assets](https://www.indexdata.org/resolution-plans-required-for-insured-depository-institutions-with-100-billion-or-more-in-total-assets-informational-filings-required-for-insured-depository-institutions-with-at-least-50-billion-bu/)** — `2024-07-09` | `38 Pages`
+
+### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
+
+- `[`2024-19431`]` **[Telemarketing Sales Rule Fees](https://www.indexdata.org/telemarketing-sales-rule-fees-3/)** — `2024-08-29` | `2 Pages`
+- `[`2024-18519`]` **[Trade Regulation Rule on the Use of Consumer Reviews and Testimonials](https://www.indexdata.org/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials/)** — `2024-08-22` | `46 Pages`
+- `[`2024-17105`]` **[Energy Labeling Rule](https://www.indexdata.org/energy-labeling-rule/)** — `2024-08-20` | `2 Pages`
+- `[`2024-18245`]` **[Horseracing Integrity and Safety Authority Oversight](https://www.indexdata.org/horseracing-integrity-and-safety-authority-oversight/)** — `2024-08-16` | `7 Pages`
+- `[`2024-16468`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda/)** — `2024-08-16` | `2 Pages`
+- `[`2024-15620`]` **[Ophthalmic Practice Rules (Eyeglass Rule)](https://www.indexdata.org/ophthalmic-practice-rules-eyeglass-rule/)** — `2024-07-26` | `48 Pages`
+- `[`2024-15338`]` **[Disclosure Requirements and Prohibitions Concerning Franchising](https://www.indexdata.org/disclosure-requirements-and-prohibitions-concerning-franchising/)** — `2024-07-12` | `2 Pages`
+- `[`2024-15065`]` **[Petition for Rulemaking of The National HBPA, Inc.](https://www.indexdata.org/petition-for-rulemaking-of-the-national-hbpa-inc/)** — `2024-07-10` | `2 Pages`
 
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
@@ -1905,6 +1904,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-c
 - `[`2024-21887`]` **[Fair Hiring in Banking](https://www.indexdata.org/fair-hiring-in-banking/)** — `2024-09-30` | `18 Pages`
 - `[`2024-16227`]` **[Succession Planning](https://www.indexdata.org/succession-planning-2/)** — `2024-07-25` | `8 Pages`
 
+### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
+
+- `[`2024-23144`]` **[Hazard Communication Standard](https://www.indexdata.org/hazard-communication-standard-2/)** — `2024-10-09` | `8 Pages`
+- `[`2024-14824`]` **[Heat Injury and Illness Prevention in Outdoor and Indoor Work Settings](https://www.indexdata.org/heat-injury-and-illness-prevention-in-outdoor-and-indoor-work-settings-3/)** — `2024-08-30` | `376 Pages`
+- `[`2024-16126`]` **[Emergency Response Standard](https://www.indexdata.org/emergency-response-standard/)** — `2024-07-23` | `3 Pages`
+
 ### [Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
 
@@ -1965,12 +1971,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-p
 
 - `[`2024-21032`]` **[Glen Canyon National Recreation Area; Motor Vehicles](https://www.indexdata.org/glen-canyon-national-recreation-area-motor-vehicles-2/)** — `2024-09-16` | `7 Pages`
 - `[`2024-14701`]` **[Alaska; Hunting and Trapping in National Preserves](https://www.indexdata.org/alaska-hunting-and-trapping-in-national-preserves-2/)** — `2024-07-03` | `14 Pages`
-
-### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
-
-- `[`2024-14824`]` **[Heat Injury and Illness Prevention in Outdoor and Indoor Work Settings](https://www.indexdata.org/heat-injury-and-illness-prevention-in-outdoor-and-indoor-work-settings-3/)** — `2024-08-30` | `376 Pages`
-- `[`2024-16126`]` **[Emergency Response Standard](https://www.indexdata.org/emergency-response-standard/)** — `2024-07-23` | `3 Pages`
 
 ### [Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/ocean-energy-management-bureau/](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)

@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/denmark/feed/](https://www.indexdata.org/denmark/feed/)  
 **Wikidata Sovereign Entity:** [`Q35`](https://www.wikidata.org/wiki/Q35)  
 **Governing Open-Government Framework:** *Ophavsretsloven § 9 (LBK nr 1144 af 23/10/2014) / PSI-loven (CC BY 4.0)*  
-**Total Indexed Dossiers in Denmark:** `38` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-10 10:25 UTC`
+**Total Indexed Dossiers in Denmark:** `39` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-10 11:31 UTC`
 
 ---
 
@@ -17,14 +17,14 @@
 - **[Ministry of Justice (Justitsministeriet)](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/feed/)
 - **[Open Data DK](https://www.indexdata.org/denmark/open-data-dk/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/open-data-dk/) | [RSS Feed](https://www.indexdata.org/denmark/open-data-dk/feed/)
 - **[Danish Institute for International Studies (DIIS)](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/) | [RSS Feed](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/feed/)
+- **[Ministry of Climate, Energy and Utilities (Klima-, Energi- og Forsyningsministeriet)](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/feed/)
 - **[The Danish Center for Social Science Research (VIVE)](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/) | [RSS Feed](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/feed/)
 - **[Danish Financial Supervisory Authority (Finanstilsynet)](https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/) | [RSS Feed](https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/feed/)
-- **[Ministry of Climate, Energy and Utilities (Klima-, Energi- og Forsyningsministeriet)](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/feed/)
 - **[Royal Danish Library (Det Kongelige Bibliotek)](https://www.indexdata.org/denmark/royal-danish-library-det-kongelige-bibliotek/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/royal-danish-library-det-kongelige-bibliotek/) | [RSS Feed](https://www.indexdata.org/denmark/royal-danish-library-det-kongelige-bibliotek/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–38 of 38)
+## Indexed Statutory & Regulatory Dossiers (Records 1–39 of 39)
 
 ### [Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
@@ -79,6 +79,12 @@ Canonical Authority Archive: [https://www.indexdata.org/denmark/danish-institute
 - `[`DK-DIIS-0d991b8e-05ed-4215-8163-4173275f`]` **[Community Policing in Sierra Leone](https://www.indexdata.org/community-policing-in-sierra-leone/)** — `2014-01-01` | `67 Pages`
 - `[`DK-DIIS-a64241a1-1bae-491b-8c5d-7d7c8075`]` **[Yemen's fragile state?](https://www.indexdata.org/yemens-fragile-state/)** — `2013-01-01` | `101 Pages`
 
+### [Ministry of Climate, Energy and Utilities (Klima-, Energi- og Forsyningsministeriet)](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/)
+Canonical Authority Archive: [https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/feed/)
+
+- `[`DK-KEFM-klimastatus-og-fremskrivning`]` **[Klimastatus og –fremskrivning 2024 &#124; Klima-, Energi- og Forsyningsministeriet](https://www.indexdata.org/klimastatus-og-fremskrivning-2024-klima-energi-og-forsyningsministeriet/)** — `2026-10-01` | `104 Pages`
+- `[`DK-KEFM-6971`]` **[Assessment of the Economic Value of Positioning Services in Denmark (London Economics Report for SDFE / KEFM)](https://www.indexdata.org/assessment-of-the-economic-value-of-positioning-services-in-denmark-london-economics-report-for-sdfe-kefm/)** — `2019-03-01` | `33 Pages`
+
 ### [The Danish Center for Social Science Research (VIVE)](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/) | [RSS Feed](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/feed/)
 
@@ -89,11 +95,6 @@ Canonical Authority Archive: [https://www.indexdata.org/denmark/the-danish-cente
 Canonical Authority Archive: [https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/](https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/) | [RSS Feed](https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/feed/)
 
 - `[`DK-FTIL-639220250315385569`]` **[Financial Supervisory Reporting Deadlines and EBA Schedule (COREP / FINREP / MREL)](https://www.indexdata.org/financial-supervisory-reporting-deadlines-and-eba-schedule-corep-finrep-mrel/)** — `2026-08-01` | `17 Pages`
-
-### [Ministry of Climate, Energy and Utilities (Klima-, Energi- og Forsyningsministeriet)](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/)
-Canonical Authority Archive: [https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/feed/)
-
-- `[`DK-KEFM-klimastatus-og-fremskrivning`]` **[Klimastatus og –fremskrivning 2024 &#124; Klima-, Energi- og Forsyningsministeriet](https://www.indexdata.org/klimastatus-og-fremskrivning-2024-klima-energi-og-forsyningsministeriet/)** — `2026-10-01` | `104 Pages`
 
 ### [Royal Danish Library (Det Kongelige Bibliotek)](https://www.indexdata.org/denmark/royal-danish-library-det-kongelige-bibliotek/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/royal-danish-library-det-kongelige-bibliotek/](https://www.indexdata.org/denmark/royal-danish-library-det-kongelige-bibliotek/) | [RSS Feed](https://www.indexdata.org/denmark/royal-danish-library-det-kongelige-bibliotek/feed/)

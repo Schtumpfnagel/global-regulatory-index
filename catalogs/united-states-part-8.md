@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,185` across `229` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,189` across `229` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-10 10:25 UTC`
+**Last Automated Sync:** `2026-11-10 11:31 UTC`
 
 ---
 
@@ -19,8 +19,8 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 - **[Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -245,11 +245,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,185)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,189)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-12745`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-64/)** — `2024-06-12` | `5 Pages`
 - `[`2024-12727`]` **[Amendment of Class E Airspace; Claremont, NH](https://www.indexdata.org/amendment-of-class-e-airspace-claremont-nh-3/)** — `2024-06-11` | `2 Pages`
 - `[`2024-12594`]` **[Airworthiness Directives; International Aero Engines, AG Engines](https://www.indexdata.org/airworthiness-directives-international-aero-engines-ag-engines-7/)** — `2024-06-11` | `6 Pages`
 - `[`2024-12588`]` **[Airworthiness Directives; GA8 Airvan (Pty) Ltd Airplanes](https://www.indexdata.org/airworthiness-directives-ga8-airvan-pty-ltd-airplanes/)** — `2024-06-11` | `4 Pages`
@@ -776,12 +777,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-02787`]` **[U1-AGTX-Ta1b-QA Protein; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/u1-agtx-ta1b-qa-protein-exemption-from-the-requirement-of-a-tolerance/)** — `2024-02-12` | `4 Pages`
 - `[`2024-02770`]` **[Air Plan Revisions; California; Feather River Air Quality Management District](https://www.indexdata.org/air-plan-revisions-california-feather-river-air-quality-management-district-3/)** — `2024-02-12` | `3 Pages`
 - `[`2024-02700`]` **[Air Plan Approval and Operating Permit Program Approval; Connecticut; Revision to Definitions](https://www.indexdata.org/air-plan-approval-and-operating-permit-program-approval-connecticut-revision-to-definitions/)** — `2024-02-12` | `3 Pages`
-- `[`2024-02805`]` **[Receipt of a Pesticide Petition Filed for Residues of Pesticide Chemicals in or on Various Commodities (December 2023)](https://www.indexdata.org/receipt-of-a-pesticide-petition-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-december-2023/)** — `2024-02-09` | `3 Pages`
-- `[`2024-02659`]` **[Air Plan Approval; California; California Air Resources Board; Volatile Organic Compounds](https://www.indexdata.org/air-plan-approval-california-california-air-resources-board-volatile-organic-compounds/)** — `2024-02-09` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-10341`]` **[Updates to Marine Engineering Standards](https://www.indexdata.org/updates-to-marine-engineering-standards/)** — `2024-06-12` | `143 Pages`
 - `[`2024-12642`]` **[Safety Zone; Washington Channel, Upper Potomac River, Washington, DC](https://www.indexdata.org/safety-zone-washington-channel-upper-potomac-river-washington-dc/)** — `2024-06-10` | `2 Pages`
 - `[`2024-12627`]` **[Safety Zone; Narragansett Bay, Newport, RI](https://www.indexdata.org/safety-zone-narragansett-bay-newport-ri/)** — `2024-06-10` | `3 Pages`
 - `[`2024-12619`]` **[Safety Zone; Chesapeake Bay, Approaches to Baltimore Harbor, MD](https://www.indexdata.org/safety-zone-chesapeake-bay-approaches-to-baltimore-harbor-md/)** — `2024-06-10` | `3 Pages`
@@ -912,7 +912,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-03235`]` **[Special Local Regulations; Sector Ohio Valley Annual and Recurring Special Local Regulations](https://www.indexdata.org/special-local-regulations-sector-ohio-valley-annual-and-recurring-special-local-regulations/)** — `2024-02-16` | `5 Pages`
 - `[`2024-02703`]` **[Safety Zone; Biscayne Bay, Homestead, FL](https://www.indexdata.org/safety-zone-biscayne-bay-homestead-fl/)** — `2024-02-12` | `4 Pages`
 - `[`2024-02701`]` **[Safety Zone; Fireworks Scattering; San Francisco Bay, San Francisco, CA](https://www.indexdata.org/safety-zone-fireworks-scattering-san-francisco-bay-san-francisco-ca/)** — `2024-02-12` | `3 Pages`
-- `[`2024-02704`]` **[Safety Zones; Delaware River Dredging, Marcus Hook, PA](https://www.indexdata.org/safety-zones-delaware-river-dredging-marcus-hook-pa-4/)** — `2024-02-09` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1018,7 +1017,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-02888`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Vessels Using Pot Gear in the Central Regulatory Area of the Gulf of Alaska](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-vessels-using-pot-gear-in-the-central-regulatory-area-of-the-gulf-of-alaska-3/)** — `2024-02-13` | `2 Pages`
 - `[`2024-02795`]` **[Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Virginia](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north-carolina-to-virginia-5/)** — `2024-02-12` | `2 Pages`
 - `[`2024-02236`]` **[Fisheries of the Northeastern United States; Framework Adjustment 38 to the Atlantic Sea Scallop Fishery Management Plan](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-framework-adjustment-38-to-the-atlantic-sea-scallop-fishery-management-plan-2/)** — `2024-02-12` | `15 Pages`
-- `[`2024-02677`]` **[Fisheries of the Northeastern United States; Monkfish Fishery; 2024 Monkfish Specifications](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-monkfish-fishery-2024-monkfish-specifications/)** — `2024-02-09` | `2 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1427,6 +1425,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 ### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
 
+- `[`2024-12777`]` **[Certification of Tribal Housing Counselors](https://www.indexdata.org/certification-of-tribal-housing-counselors/)** — `2024-06-12` | `7 Pages`
 - `[`2024-12702`]` **[Removal of Obsolete Regulations for Section 236 of the National Housing Act; Correction](https://www.indexdata.org/removal-of-obsolete-regulations-for-section-236-of-the-national-housing-act-correction/)** — `2024-06-11` | `2 Pages`
 - `[`2024-12199`]` **[Removal of Obsolete Regulations for Section 236 of the National Housing Act](https://www.indexdata.org/removal-of-obsolete-regulations-for-section-236-of-the-national-housing-act/)** — `2024-06-04` | `2 Pages`
 - `[`2024-10975`]` **[HOME Investment Partnerships Program: Program Updates and Streamlining](https://www.indexdata.org/home-investment-partnerships-program-program-updates-and-streamlining-2/)** — `2024-05-29` | `63 Pages`
@@ -1523,6 +1522,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-en
 - `[`2024-04726`]` **[Natural Gas Pipelines; Project Cost and Annual Limits](https://www.indexdata.org/natural-gas-pipelines-project-cost-and-annual-limits/)** — `2024-03-08` | `3 Pages`
 - `[`2024-03609`]` **[Enforcement of Statutes, Orders, Rules, and Regulations](https://www.indexdata.org/enforcement-of-statutes-orders-rules-and-regulations/)** — `2024-02-26` | `5 Pages`
 
+### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
+
+- `[`2024-12744`]` **[Trade Regulation Rule Relating to Power Output Claims for Amplifiers Utilized in Home Entertainment Products](https://www.indexdata.org/trade-regulation-rule-relating-to-power-output-claims-for-amplifiers-utilized-in-home-entertainment-products/)** — `2024-06-12` | `6 Pages`
+- `[`2024-10855`]` **[Health Breach Notification Rule](https://www.indexdata.org/health-breach-notification-rule/)** — `2024-05-30` | `37 Pages`
+- `[`2024-09171`]` **[Non-Compete Clause Rule](https://www.indexdata.org/non-compete-clause-rule/)** — `2024-05-07` | `165 Pages`
+- `[`2024-07182`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-2/)** — `2024-04-16` | `10 Pages`
+- `[`2024-07180`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-3/)** — `2024-04-16` | `27 Pages`
+- `[`2024-07077`]` **[Energy Labeling Rule; Extension of Comment Period](https://www.indexdata.org/energy-labeling-rule-extension-of-comment-period/)** — `2024-04-02` | `2 Pages`
+- `[`2024-06468`]` **[Trade Regulation Rule on Unfair or Deceptive Fees](https://www.indexdata.org/trade-regulation-rule-on-unfair-or-deceptive-fees-2/)** — `2024-03-27` | `7 Pages`
+- `[`2024-04335`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-2/)** — `2024-03-01` | `15 Pages`
+- `[`2024-03793`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-3/)** — `2024-03-01` | `12 Pages`
+- `[`2024-03559`]` **[Combating Auto Retail Scams Trade Regulation Rule](https://www.indexdata.org/combating-auto-retail-scams-trade-regulation-rule/)** — `2024-02-22` | `2 Pages`
+
 ### [Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 
@@ -1563,19 +1576,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2024-05141`]` **[Consumer Financial Protection Circular 2024-01: Preferencing and Steering Practices by Digital Intermediaries for Consumer Financial Products or Services](https://www.indexdata.org/consumer-financial-protection-circular-2024-01-preferencing-and-steering-practices-by-digital-intermediaries-for-consumer-financial-products-or-services/)** — `2024-03-12` | `5 Pages`
 - `[`2024-01095`]` **[Overdraft Lending: Very Large Financial Institutions](https://www.indexdata.org/overdraft-lending-very-large-financial-institutions-2/)** — `2024-02-23` | `57 Pages`
 - `[`2024-03615`]` **[Supervisory Appeals Process](https://www.indexdata.org/supervisory-appeals-process/)** — `2024-02-22` | `3 Pages`
-
-### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
-
-- `[`2024-10855`]` **[Health Breach Notification Rule](https://www.indexdata.org/health-breach-notification-rule/)** — `2024-05-30` | `37 Pages`
-- `[`2024-09171`]` **[Non-Compete Clause Rule](https://www.indexdata.org/non-compete-clause-rule/)** — `2024-05-07` | `165 Pages`
-- `[`2024-07182`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-2/)** — `2024-04-16` | `10 Pages`
-- `[`2024-07180`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-3/)** — `2024-04-16` | `27 Pages`
-- `[`2024-07077`]` **[Energy Labeling Rule; Extension of Comment Period](https://www.indexdata.org/energy-labeling-rule-extension-of-comment-period/)** — `2024-04-02` | `2 Pages`
-- `[`2024-06468`]` **[Trade Regulation Rule on Unfair or Deceptive Fees](https://www.indexdata.org/trade-regulation-rule-on-unfair-or-deceptive-fees-2/)** — `2024-03-27` | `7 Pages`
-- `[`2024-04335`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-2/)** — `2024-03-01` | `15 Pages`
-- `[`2024-03793`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-3/)** — `2024-03-01` | `12 Pages`
-- `[`2024-03559`]` **[Combating Auto Retail Scams Trade Regulation Rule](https://www.indexdata.org/combating-auto-retail-scams-trade-regulation-rule/)** — `2024-02-22` | `2 Pages`
 
 ### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
