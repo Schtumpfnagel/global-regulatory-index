@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `306` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-10 02:54 UTC`
+**Total Indexed Dossiers in Philippines:** `309` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-10 04:02 UTC`
 
 ---
 
@@ -18,15 +18,15 @@
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
+- **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 - **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
-- **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
 - **[Food and Nutrition Research Institute](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/feed/)
 - **[Science Education Institute](https://www.indexdata.org/philippines/science-education-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/science-education-institute/) | [RSS Feed](https://www.indexdata.org/philippines/science-education-institute/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–306 of 306)
+## Indexed Statutory & Regulatory Dossiers (Records 1–309 of 309)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -347,6 +347,15 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-dru
 - `[`PH-FDA-123008`]` **[Draft Administraive Order for comments](https://www.indexdata.org/draft-administraive-order-for-comments/)** — `2026-11-03` | `12 Pages`
 - `[`PH-FDA-122967`]` **[ITB NO. 2026-0105-AFO SBB No. 3](https://www.indexdata.org/itb-no-2026-0105-afo-sbb-no-3/)** — `2026-10-30` | `2 Pages`
 
+### [Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)
+Canonical Authority Archive: [https://www.indexdata.org/philippines/commission-on-human-rights/](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
+
+- `[`PH-CHR-88161`]` **[2026-10-144 – RFQ Supply and Delivery of gender mainstreaming guidebook HRPCO-CGEWHR](https://www.indexdata.org/2026-10-144-rfq-supply-and-delivery-of-gender-mainstreaming-guidebook-hrpco-cgewhr/)** — `2026-11-03` | `7 Pages`
+- `[`PH-CHR-88112`]` **[Media Statement No. 71-2026 SEANF Disqualifies MNHRC From Continued Membership in SEANF](https://www.indexdata.org/media-statement-no-71-2026-seanf-disqualifies-mnhrc-from-continued-membership-in-seanf/)** — `2026-10-21` | `2 Pages`
+- `[`PH-CHR-88109`]` **[Updated Checklist of Eligibility Requirements for CHROMES](https://www.indexdata.org/updated-checklist-of-eligibility-requirements-for-chromes/)** — `2026-10-21` | `2 Pages`
+- `[`PH-CHR-88103`]` **[CHROMES – RFEI](https://www.indexdata.org/chromes-rfei/)** — `2026-10-21` | `29 Pages`
+- `[`PH-CHR-88099`]` **[DTMS – RFEI](https://www.indexdata.org/dtms-rfei/)** — `2026-10-21` | `30 Pages`
+
 ### [Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/philippine-carabao-center/](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 
@@ -361,12 +370,6 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/government-p
 - `[`PH-GPPB-16071`]` **[APP FY 2026 – 18th Update](https://www.indexdata.org/app-fy-2026-18th-update/)** — `2026-11-09` | `6 Pages`
 - `[`PH-GPPB-16054`]` **[NPM 033-2026](https://www.indexdata.org/npm-033-2026/)** — `2026-11-06` | `6 Pages`
 - `[`PH-GPPB-16044`]` **[Bid-Bulletin-2026-01 – One Unit Motor Vehicle 2](https://www.indexdata.org/bid-bulletin-2026-01-one-unit-motor-vehicle-2/)** — `2026-11-04` | `3 Pages`
-
-### [Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)
-Canonical Authority Archive: [https://www.indexdata.org/philippines/commission-on-human-rights/](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
-
-- `[`PH-CHR-88161`]` **[2026-10-144 – RFQ Supply and Delivery of gender mainstreaming guidebook HRPCO-CGEWHR](https://www.indexdata.org/2026-10-144-rfq-supply-and-delivery-of-gender-mainstreaming-guidebook-hrpco-cgewhr/)** — `2026-11-03` | `7 Pages`
-- `[`PH-CHR-88112`]` **[Media Statement No. 71-2026 SEANF Disqualifies MNHRC From Continued Membership in SEANF](https://www.indexdata.org/media-statement-no-71-2026-seanf-disqualifies-mnhrc-from-continued-membership-in-seanf/)** — `2026-10-21` | `2 Pages`
 
 ### [Food and Nutrition Research Institute](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-nutrition-research-institute/](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/feed/)

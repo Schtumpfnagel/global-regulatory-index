@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/iceland/feed/](https://www.indexdata.org/iceland/feed/)  
 **Wikidata Sovereign Entity:** [`Q189`](https://www.wikidata.org/wiki/Q189)  
 **Governing Open-Government Framework:** *Lög nr. 45/2018*  
-**Total Indexed Dossiers in Iceland:** `9` across `2` issuing authorities  
-**Last Automated Sync:** `2026-11-10 02:54 UTC`
+**Total Indexed Dossiers in Iceland:** `14` across `2` issuing authorities  
+**Last Automated Sync:** `2026-11-10 04:02 UTC`
 
 ---
 
 ## Issuing Authorities in Iceland (2 Authorities)
 
-- **[Icelandic Competition Authority (Samkeppniseftirlitið)](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/) | [RSS Feed](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/feed/)
+- **[Icelandic Competition Authority (Samkeppniseftirlitið)](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/) | [RSS Feed](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/feed/)
 - **[Iceland GeoSurvey (Íslenskar orkurannsóknir)](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/) | [RSS Feed](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–9 of 9)
+## Indexed Statutory & Regulatory Dossiers (Records 1–14 of 14)
 
 ### [Icelandic Competition Authority (Samkeppniseftirlitið)](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/)
 Canonical Authority Archive: [https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/) | [RSS Feed](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/feed/)
@@ -30,6 +30,11 @@ Canonical Authority Archive: [https://www.indexdata.org/iceland/icelandic-compet
 - `[`IS-SAMKEPPNI-187868`]` **[A ehf. gegn Samkeppniseftirlitinu í máli nr. 7274:2012](https://www.indexdata.org/a-ehf-gegn-samkeppniseftirlitinu-i-mali-nr-72742012/)** — `2026-10-28` | `2 Pages`
 - `[`IS-SAMKEPPNI-187860`]` **[A ehf. gegn Samkeppniseftirlitinu í máli nr. 6695:2011](https://www.indexdata.org/a-ehf-gegn-samkeppniseftirlitinu-i-mali-nr-66952011/)** — `2026-10-28` | `2 Pages`
 - `[`IS-SAMKEPPNI-187855`]` **[A ehf. gegn Samkeppniseftirlitinu í máli nr. 6696:2011](https://www.indexdata.org/a-ehf-gegn-samkeppniseftirlitinu-i-mali-nr-66962011/)** — `2026-10-28` | `2 Pages`
+- `[`IS-SAMKEPPNI-187851`]` **[A ehf. gegn Samkeppniseftirlitinu í máli nr. 6622:2011](https://www.indexdata.org/a-ehf-gegn-samkeppniseftirlitinu-i-mali-nr-66222011/)** — `2026-10-28` | `2 Pages`
+- `[`IS-SAMKEPPNI-187847`]` **[A ehf. gegn Samkeppniseftirlitinu í máli nr. 6508:2011](https://www.indexdata.org/a-ehf-gegn-samkeppniseftirlitinu-i-mali-nr-65082011/)** — `2026-10-28` | `2 Pages`
+- `[`IS-SAMKEPPNI-187843`]` **[A ehf. gegn Samkeppniseftirlitinu í máli nr. 6432:2011](https://www.indexdata.org/a-ehf-gegn-samkeppniseftirlitinu-i-mali-nr-64322011/)** — `2026-10-28` | `2 Pages`
+- `[`IS-SAMKEPPNI-187824`]` **[Síminn hf. gegn Samkeppniseftirlitinu í máli nr. 611:2024](https://www.indexdata.org/siminn-hf-gegn-samkeppniseftirlitinu-i-mali-nr-6112024/)** — `2026-10-28` | `36 Pages`
+- `[`IS-SAMKEPPNI-187789`]` **[Síminn hf. gegn Samkeppniseftirlitinu í máli nr. 674:2022](https://www.indexdata.org/siminn-hf-gegn-samkeppniseftirlitinu-i-mali-nr-6742022/)** — `2026-10-28` | `45 Pages`
 
 ### [Iceland GeoSurvey (Íslenskar orkurannsóknir)](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/)
 Canonical Authority Archive: [https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/) | [RSS Feed](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/feed/)

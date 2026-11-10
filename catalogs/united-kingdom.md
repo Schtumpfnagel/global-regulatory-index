@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,486` across `61` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,487` across `61` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-10 02:54 UTC`
+**Last Automated Sync:** `2026-11-10 04:02 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`183` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
-- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`168` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
+- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`169` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`145` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
@@ -77,7 +77,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,486)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,487)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -585,7 +585,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2025-1026`]` **[The Local Audit (Amendment of Definition of Smaller Authority) Regulations 2025](https://www.indexdata.org/the-local-audit-amendment-of-definition-of-smaller-authority-regulations-2025/)** — `2025-09-16` | `2 Pages`
 - `[`UKSI-2025-1017`]` **[The Building Regulations etc. (Amendment) (England) Regulations 2025](https://www.indexdata.org/the-building-regulations-etc-amendment-england-regulations-2025/)** — `2025-09-15` | `8 Pages`
 - `[`UKSI-2025-988`]` **[The Housing Benefit (Habitual Residence) (Amendment) Regulations 2025](https://www.indexdata.org/the-housing-benefit-habitual-residence-amendment-regulations-2025/)** — `2025-09-01` | `2 Pages`
-- `[`UKSI-2025-879`]` **[The Combined Authorities (Adult Education Functions) (Amendment) Order 2025 (revoked)](https://www.indexdata.org/the-combined-authorities-adult-education-functions-amendment-order-2025-revoked/)** — `2025-07-16` | `12 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -689,6 +688,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 
+- `[`UKSI-2026-1170`]` **[The Air Navigation (Restriction of Flying) (Tilbury Docks, Essex) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-tilbury-docks-essex-regulations-2026/)** — `2026-11-10` | `2 Pages`
 - `[`UKSI-2026-1169`]` **[The Air Navigation (Restriction of Flying) (Hampstead) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-hampstead-regulations-2026/)** — `2026-11-05` | `2 Pages`
 - `[`UKSI-2026-1159`]` **[The Air Navigation (Restriction of Flying) (Birmingham Christmas Market) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-birmingham-christmas-market-regulations-2026/)** — `2026-11-04` | `3 Pages`
 - `[`UKSI-2026-1145`]` **[The Bus Franchising Assessment (Approved Persons) (England) Regulations 2026](https://www.indexdata.org/the-bus-franchising-assessment-approved-persons-england-regulations-2026/)** — `2026-10-29` | `2 Pages`

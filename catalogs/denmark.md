@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/denmark/feed/](https://www.indexdata.org/denmark/feed/)  
 **Wikidata Sovereign Entity:** [`Q35`](https://www.wikidata.org/wiki/Q35)  
 **Governing Open-Government Framework:** *Ophavsretsloven § 9 (LBK nr 1144 af 23/10/2014) / PSI-loven (CC BY 4.0)*  
-**Total Indexed Dossiers in Denmark:** `36` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-10 02:54 UTC`
+**Total Indexed Dossiers in Denmark:** `37` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-10 04:02 UTC`
 
 ---
 
 ## Issuing Authorities in Denmark (9 Authorities)
 
-- **[Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
+- **[Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
 - **[Rigsrevisionen (National Audit Office of Denmark)](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/) | [RSS Feed](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/feed/)
 - **[Open Data DK](https://www.indexdata.org/denmark/open-data-dk/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/open-data-dk/) | [RSS Feed](https://www.indexdata.org/denmark/open-data-dk/feed/)
 - **[Danish Institute for International Studies (DIIS)](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/) | [RSS Feed](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/feed/)
@@ -24,11 +24,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–36 of 36)
+## Indexed Statutory & Regulatory Dossiers (Records 1–37 of 37)
 
 ### [Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
 
+- `[`DK-GEUS-120134`]` **[PROMICE and GC-Net automated weather station data in Greenland — AWS data readme](https://www.indexdata.org/promice-and-gc-net-automated-weather-station-data-in-greenland-aws-data-readme/)** — `2026-11-01` | `12 Pages`
 - `[`DK-GEUS-92147`]` **[Magnetic and FTG airborne survey at Jameson Land, Central East Greenland — Greenland Lidar Processing Report](https://www.indexdata.org/magnetic-and-ftg-airborne-survey-at-jameson-land-central-east-greenland-greenland-lidar-processing-report/)** — `2025-08-20` | `8 Pages`
 - `[`DK-GEUS-92144`]` **[Magnetic and FTG airborne survey at Jameson Land, Central East Greenland — Greenland FTG and GMA Processing Report v2 2018](https://www.indexdata.org/magnetic-and-ftg-airborne-survey-at-jameson-land-central-east-greenland-greenland-ftg-and-gma-processing-report-v2-2018/)** — `2025-08-20` | `21 Pages`
 - `[`DK-GEUS-92135`]` **[Magnetic and FTG airborne survey at Jameson Land, Central East Greenland — ABI Final Acquisition Report](https://www.indexdata.org/magnetic-and-ftg-airborne-survey-at-jameson-land-central-east-greenland-abi-final-acquisition-report/)** — `2025-08-20` | `31 Pages`
