@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/denmark/feed/](https://www.indexdata.org/denmark/feed/)  
 **Wikidata Sovereign Entity:** [`Q35`](https://www.wikidata.org/wiki/Q35)  
 **Governing Open-Government Framework:** *Ophavsretsloven § 9 (LBK nr 1144 af 23/10/2014) / PSI-loven (CC BY 4.0)*  
-**Total Indexed Dossiers in Denmark:** `37` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-10 06:41 UTC`
+**Total Indexed Dossiers in Denmark:** `38` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-10 10:25 UTC`
 
 ---
 
@@ -14,9 +14,9 @@
 
 - **[Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
 - **[Rigsrevisionen (National Audit Office of Denmark)](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/) | [RSS Feed](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/feed/)
+- **[Ministry of Justice (Justitsministeriet)](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/feed/)
 - **[Open Data DK](https://www.indexdata.org/denmark/open-data-dk/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/open-data-dk/) | [RSS Feed](https://www.indexdata.org/denmark/open-data-dk/feed/)
 - **[Danish Institute for International Studies (DIIS)](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/) | [RSS Feed](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/feed/)
-- **[Ministry of Justice (Justitsministeriet)](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/feed/)
 - **[The Danish Center for Social Science Research (VIVE)](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/) | [RSS Feed](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/feed/)
 - **[Danish Financial Supervisory Authority (Finanstilsynet)](https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/) | [RSS Feed](https://www.indexdata.org/denmark/danish-financial-supervisory-authority-finanstilsynet/feed/)
 - **[Ministry of Climate, Energy and Utilities (Klima-, Energi- og Forsyningsministeriet)](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/feed/)
@@ -24,7 +24,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–37 of 37)
+## Indexed Statutory & Regulatory Dossiers (Records 1–38 of 38)
 
 ### [Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
@@ -59,6 +59,13 @@ Canonical Authority Archive: [https://www.indexdata.org/denmark/rigsrevisionen-n
 - `[`DK-RR-beretning-om-revisionen-af-s`]` **[Beretning om revisionen af statens forvaltning i 2025 &#124; Rigsrevisionen](https://www.indexdata.org/beretning-om-revisionen-af-statens-forvaltning-i-2025-rigsrevisionen/)** — `2026-11-01` | `3 Pages`
 - `[`DK-RR-beretning-om-forsvarets-saer`]` **[Beretning om Forsvarets særligt væsentlige materiel &#124; Rigsrevisionen](https://www.indexdata.org/beretning-om-forsvarets-saerligt-vaesentlige-materiel-rigsrevisionen/)** — `2026-11-01` | `3 Pages`
 
+### [Ministry of Justice (Justitsministeriet)](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/)
+Canonical Authority Archive: [https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/feed/)
+
+- `[`DK-JM-28419`]` **[lovgivning-folketingsaaret-2026-2027](https://www.indexdata.org/lovgivning-folketingsaaret-2026-2027/)** — `2026-11-01` | `66 Pages`
+- `[`DK-JM-28399`]` **[Liste over auktionledere](https://www.indexdata.org/liste-over-auktionledere/)** — `2026-10-01` | `9 Pages`
+- `[`DK-JM-28364`]` **[Effekten af Ungdomskriminalitetsnævnet med fokus på recidiv og skoletilknytning – en delevaluering af Ungdomskriminalitetsnævnet](https://www.indexdata.org/effekten-af-ungdomskriminalitetsnaevnet-med-fokus-pa-recidiv-og-skoletilknytning-en-delevaluering-af-ungdomskriminalitetsnaevnet/)** — `2026-10-01` | `72 Pages`
+
 ### [Open Data DK](https://www.indexdata.org/denmark/open-data-dk/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/open-data-dk/](https://www.indexdata.org/denmark/open-data-dk/) | [RSS Feed](https://www.indexdata.org/denmark/open-data-dk/feed/)
 
@@ -71,12 +78,6 @@ Canonical Authority Archive: [https://www.indexdata.org/denmark/danish-institute
 
 - `[`DK-DIIS-0d991b8e-05ed-4215-8163-4173275f`]` **[Community Policing in Sierra Leone](https://www.indexdata.org/community-policing-in-sierra-leone/)** — `2014-01-01` | `67 Pages`
 - `[`DK-DIIS-a64241a1-1bae-491b-8c5d-7d7c8075`]` **[Yemen's fragile state?](https://www.indexdata.org/yemens-fragile-state/)** — `2013-01-01` | `101 Pages`
-
-### [Ministry of Justice (Justitsministeriet)](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/)
-Canonical Authority Archive: [https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/feed/)
-
-- `[`DK-JM-28399`]` **[Liste over auktionledere](https://www.indexdata.org/liste-over-auktionledere/)** — `2026-10-01` | `9 Pages`
-- `[`DK-JM-28364`]` **[Effekten af Ungdomskriminalitetsnævnet med fokus på recidiv og skoletilknytning – en delevaluering af Ungdomskriminalitetsnævnet](https://www.indexdata.org/effekten-af-ungdomskriminalitetsnaevnet-med-fokus-pa-recidiv-og-skoletilknytning-en-delevaluering-af-ungdomskriminalitetsnaevnet/)** — `2026-10-01` | `72 Pages`
 
 ### [The Danish Center for Social Science Research (VIVE)](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/) | [RSS Feed](https://www.indexdata.org/denmark/the-danish-center-for-social-science-research-vive/feed/)

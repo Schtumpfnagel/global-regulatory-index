@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,949` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,950` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-10 06:41 UTC`
+**Last Automated Sync:** `2026-11-10 10:25 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,015` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,016` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`504` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,949)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,950)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-62-L.25`]` **[Human rights implications of the obstruction and denial of humanitarian access and threats to the safety of humanitarian personnel in armed conflict — draft resolution](https://www.indexdata.org/a-hrc-62-l-25-human-rights-implications-of-the-obstruction-and-denial-of-humanitarian-access-and-threats-to-the-safety-of-humanitarian-personnel-in-armed-conflict-draft-resolution/)** — `2026-07-01` | `3 Pages`
 - `[`UN-A-HRC-62-L.13`]` **[Human rights and the civilian acquisition, possession and use of firearms — draft resolution](https://www.indexdata.org/a-hrc-62-l-13-human-rights-and-the-civilian-acquisition-possession-and-use-of-firearms-draft-resolution/)** — `2026-07-01` | `5 Pages`
 - `[`UN-A-C.5-80-INF-5`]` **[Recommendations contained in the report of the 5th Committee (A/80/568/Add.2) for consideration by the General Assembly — note](https://www.indexdata.org/a-c-5-80-inf-5-recommendations-contained-in-the-report-of-the-5th-committee-a-80-568-add-2-for-consideration-by-the-general-assembly-note/)** — `2026-07-01` | `3 Pages`
 - `[`UN-A-81-127`]` **[Effects of the use of armaments and ammunitions containing depleted uranium — report of the Secretary-General](https://www.indexdata.org/a-81-127-effects-of-the-use-of-armaments-and-ammunitions-containing-depleted-uranium-report-of-the-secretary-general/)** — `2026-07-01` | `7 Pages`
@@ -981,7 +982,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 - `[`UN-CED-C-30-2`]` **[Report on requests for urgent action submitted under article 30 of the Convention — Committee on Enforced Disappearances](https://www.indexdata.org/ced-c-30-2-report-on-requests-for-urgent-action-submitted-under-article-30-of-the-convention-committee-on-enforced-disappearances/)** — `2026-04-20` | `20 Pages`
 - `[`UN-CRPD-C-PAN-Q-2-4`]` **[List of issues in relation to the combined 2nd to 4th periodic reports of Panama — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-pan-q-2-4-list-of-issues-in-relation-to-the-combined-2nd-to-4th-periodic-reports-of-panama-committee-on-the-rights-of-persons-with-disabilities/)** — `2026-04-17` | `9 Pages`
 - `[`UN-CED-C-MEX-A.34-D-1`]` **[Decision adopted by the Committee under article 34 of the Convention, concerning Mexico — Committee on Enforced Disappearances](https://www.indexdata.org/ced-c-mex-a-34-d-1-decision-adopted-by-the-committee-under-article-34-of-the-convention-concerning-mexico-committee-on-enforced-disappearances/)** — `2026-04-17` | `26 Pages`
-- `[`UN-CRPD-C-34-D-99-2022`]` **[Decision adopted by the Committee under the Optional Protocol, regarding communication No. 99/2022 — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-34-d-99-2022-decision-adopted-by-the-committee-under-the-optional-protocol-regarding-communication-no-99-2022-committee-on-the-rights-of-persons-with-disabilities/)** — `2026-04-16` | `2 Pages`
 
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)

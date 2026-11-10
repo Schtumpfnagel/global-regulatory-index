@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,487` across `61` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,493` across `61` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-10 06:41 UTC`
+**Last Automated Sync:** `2026-11-10 10:25 UTC`
 
 ---
 
@@ -22,8 +22,8 @@
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`123` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
-- **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`92` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`93` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
@@ -31,7 +31,7 @@
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
-- **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
+- **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
 - **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
@@ -77,11 +77,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,487 of 2,487)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,493 of 2,493)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKPGA-2025-21`]` **[Football Governance Act 2025](https://www.indexdata.org/football-governance-act-2025/)** — `2025-07-21` | `136 Pages`
+- `[`UKPGA-2025-20`]` **[Product Regulation and Metrology Act 2025](https://www.indexdata.org/product-regulation-and-metrology-act-2025/)** — `2025-07-21` | `20 Pages`
+- `[`UKPGA-2025-19`]` **[Supply and Appropriation (Main Estimates) Act 2025](https://www.indexdata.org/supply-and-appropriation-main-estimates-act-2025/)** — `2025-07-21` | `106 Pages`
 - `[`UKSI-2025-995`]` **[The Church Representation Rules (Amendment) (No. 2) Resolution 2025](https://www.indexdata.org/the-church-representation-rules-amendment-no-2-resolution-2025/)** — `2025-07-15` | `4 Pages`
 - `[`UKSI-2025-994`]` **[The Church Representation Rules (Amendment) (No. 1) Resolution 2025](https://www.indexdata.org/the-church-representation-rules-amendment-no-1-resolution-2025/)** — `2025-07-14` | `4 Pages`
 - `[`UKSI-2025-857`]` **[The Childcare Payments (Eligibility) (Amendment and Transitional Provisions) Regulations 2025](https://www.indexdata.org/the-childcare-payments-eligibility-amendment-and-transitional-provisions-regulations-2025/)** — `2025-07-14` | `8 Pages`
@@ -327,6 +330,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2025-948`]` **[The Finance Act 2009 (Section 101) (Alcohol Duty) (Appointed Day) Order 2025](https://www.indexdata.org/the-finance-act-2009-section-101-alcohol-duty-appointed-day-order-2025/)** — `2025-08-04` | `2 Pages`
+- `[`UKSI-2025-947`]` **[The Alcoholic Products (Repayment Interest Rate) (Alcohol Duty) Regulations 2025](https://www.indexdata.org/the-alcoholic-products-repayment-interest-rate-alcohol-duty-regulations-2025/)** — `2025-08-04` | `4 Pages`
 - `[`UKSI-2025-867`]` **[The Horizon Convictions Redress Scheme (Amendment) and Grenfell Support (Restorative Justice) Programme (Income Tax Exemption) Regulations 2025](https://www.indexdata.org/the-horizon-convictions-redress-scheme-amendment-and-grenfell-support-restorative-justice-programme-income-tax-exemption-regulations-2025/)** — `2025-07-15` | `4 Pages`
 - `[`UKSI-2025-873`]` **[The Financial Services and Markets Act 2023 (Commencement No. 10 and Saving Provisions) Regulations 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2023-commencement-no-10-and-saving-provisions-regulations-2025/)** — `2025-07-14` | `12 Pages`
 - `[`UKSI-2025-872`]` **[The Bank Resolution (Recapitalisation) Act 2025 (Commencement) Regulations 2025](https://www.indexdata.org/the-bank-resolution-recapitalisation-act-2025-commencement-regulations-2025/)** — `2025-07-14` | `2 Pages`
@@ -1034,6 +1039,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 
+- `[`UKSI-2025-884`]` **[The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025](https://www.indexdata.org/the-social-security-habitual-residence-past-presence-and-temporary-absence-amendment-regulations-2025/)** — `2025-07-17` | `20 Pages`
 - `[`UKSI-2025-865`]` **[The Social Security (Contributions) (Amendment No. 6) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-6-regulations-2025/)** — `2025-07-15` | `4 Pages`
 - `[`UKSI-2025-580`]` **[The Retained EU Law (Revocation and Reform) Act 2023 (Social Security Co-ordination) (Compatibility) Regulations 2025](https://www.indexdata.org/the-retained-eu-law-revocation-and-reform-act-2023-social-security-co-ordination-compatibility-regulations-2025/)** — `2025-05-13` | `4 Pages`
 - `[`UKSI-2025-352`]` **[The Social Security Benefits Up-rating Regulations 2025 (revoked)](https://www.indexdata.org/the-social-security-benefits-up-rating-regulations-2025-revoked/)** — `2025-03-14` | `4 Pages`

@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,949` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,950` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-10 06:41 UTC`
+**Last Automated Sync:** `2026-11-10 10:25 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,015` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,016` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`504` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,949 of 6,949)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,950 of 6,950)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -945,6 +945,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretari
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 
+- `[`UN-A-79-459`]` **[Crime prevention and criminal justice — Report of the 3rd Committee : General Assembly, 79th session](https://www.indexdata.org/a-79-459-crime-prevention-and-criminal-justice-report-of-the-3rd-committee-general-assembly-79th-session/)** — `2024-11-29` | `53 Pages`
 - `[`UN-A-C.5-79-26`]` **[Programme of Action for Landlocked Developing Countries for the Decade 2024-2034 : programme budget implications of draft resolution A/79/L.21 — Statement](https://www.indexdata.org/a-c-5-79-26-programme-of-action-for-landlocked-developing-countries-for-the-decade-2024-2034-programme-budget-implications-of-draft-resolution-a-79-l-21-statement/)** — `2024-11-27` | `5 Pages`
 - `[`UN-A-C.5-79-25`]` **[Promotion of inclusive and effective international tax cooperation at the United Nations : programme budget implications of draft resolution A/C.2/79/L.8/Rev.1 — Statement](https://www.indexdata.org/a-c-5-79-25-promotion-of-inclusive-and-effective-international-tax-cooperation-at-the-united-nations-programme-budget-implications-of-draft-resolution-a-c-2-79-l-8-rev-1-statement/)** — `2024-11-27` | `12 Pages`
 - `[`UN-A-C.5-79-24`]` **[Promotion of international cooperation to combat illicit financial flows and strengthen good practices on assets return to foster sustainable development : programme budget implications of draft resolution A/C.2/79/L.6/Rev.1 — Statement](https://www.indexdata.org/a-c-5-79-24-promotion-of-international-cooperation-to-combat-illicit-financial-flows-and-strengthen-good-practices-on-assets-return-to-foster-sustainable-development-programme-budget-implications/)** — `2024-11-27` | `10 Pages`
