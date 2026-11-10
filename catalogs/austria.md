@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/austria/feed/](https://www.indexdata.org/austria/feed/)  
 **Wikidata Sovereign Entity:** [`Q40`](https://www.wikidata.org/wiki/Q40)  
 **Governing Open-Government Framework:** *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0*  
-**Total Indexed Dossiers in Austria:** `158` across `17` issuing authorities  
-**Last Automated Sync:** `2026-11-10 11:31 UTC`
+**Total Indexed Dossiers in Austria:** `159` across `17` issuing authorities  
+**Last Automated Sync:** `2026-11-10 12:39 UTC`
 
 ---
 
@@ -14,7 +14,7 @@
 
 - **[Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
 - **[Austrian National Public Health Institute (Gesundheit Österreich GmbH - GÖG)](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/) | [RSS Feed](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/feed/)
-- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
+- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
 - **[Oesterreichische Nationalbank (OeNB)](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/) | [RSS Feed](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/feed/)
 - **[Austrian Energy Regulatory Authority (E-Control)](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/) | [RSS Feed](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/feed/)
 - **[Federal Ministry of Education, Science and Research of Austria](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/feed/)
@@ -32,7 +32,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–158 of 158)
+## Indexed Statutory & Regulatory Dossiers (Records 1–159 of 159)
 
 ### [Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
@@ -125,6 +125,7 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-academy
 
 - `[`AT-STAT-OEAW-W7225267906`]` **[Chromosome folding encodes mechanisms of cohesion maintenance](https://www.indexdata.org/chromosome-folding-encodes-mechanisms-of-cohesion-maintenance/)** — `2026-11-04` | `50 Pages`
 - `[`AT-STAT-OEAW-W7155380314`]` **[Intense Magnetopause Erosion at Earth During the May 2024 Solar Storm](https://www.indexdata.org/intense-magnetopause-erosion-at-earth-during-the-may-2024-solar-storm/)** — `2026-11-04` | `16 Pages`
+- `[`AT-STAT-OEAW-W4414945788`]` **[WNK kinases control RNF43 plasma membrane levels to fine-tune WNT signaling](https://www.indexdata.org/wnk-kinases-control-rnf43-plasma-membrane-levels-to-fine-tune-wnt-signaling/)** — `2026-11-04` | `14 Pages`
 - `[`AT-STAT-OEAW-W7225147111`]` **[Musical capacity was present in Homo sapiens 135 thousand years ago: genomic lower bounds and the emergence of human musicality](https://www.indexdata.org/musical-capacity-was-present-in-homo-sapiens-135-thousand-years-ago-genomic-lower-bounds-and-the-emergence-of-human-musicality/)** — `2026-11-03` | `4 Pages`
 - `[`AT-STAT-OEAW-W4402963205`]` **[Convergence of Machine Learning Methods for Feedback Control Laws: Averaged Feedback Learning Scheme and Data-Driven Methods](https://www.indexdata.org/convergence-of-machine-learning-methods-for-feedback-control-laws-averaged-feedback-learning-scheme-and-data-driven-methods/)** — `2026-11-03` | `27 Pages`
 - `[`AT-STAT-OEAW-W7155071997`]` **[On the Curlometer Measurement of Field‐Aligned and Perpendicular Currents in Low Earth Orbit: Swarm Observations and Whole Geospace Simulations](https://www.indexdata.org/on-the-curlometer-measurement-of-field%e2%80%90aligned-and-perpendicular-currents-in-low-earth-orbit-swarm-observations-and-whole-geospace-simulations/)** — `2026-11-01` | `19 Pages`
