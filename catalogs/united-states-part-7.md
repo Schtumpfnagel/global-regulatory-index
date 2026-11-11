@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,269` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 11:57 UTC`
+**Last Automated Sync:** `2026-11-11 12:56 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,268)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,269)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1228,7 +1228,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 - `[`2024-13984`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM 100 Cask System, Certificate of Compliance No. 1014, Renewed Amendment No. 16](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-100-cask-system-certificate-of-compliance-no-1014-renewed-amendment-no-16/)** — `2024-06-25` | `6 Pages`
 - `[`2024-13734`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM 100 Cask System, Certificate of Compliance No. 1014, Renewed Amendment No. 16](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-100-cask-system-certificate-of-compliance-no-1014-renewed-amendment-no-16-2/)** — `2024-06-25` | `3 Pages`
 - `[`2024-13230`]` **[Fee Schedules; Fee Recovery for Fiscal Year 2024](https://www.indexdata.org/fee-schedules-fee-recovery-for-fiscal-year-2024/)** — `2024-06-20` | `34 Pages`
-- `[`2024-13356`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS Universal Storage System, Certificate of Compliance No. 1015, Renewal of Initial Certificate and Amendment Nos. 1 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewal-of-initial-certificate-and-amendment-nos-1-through-9/)** — `2024-06-18` | `2 Pages`
 
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
@@ -2035,6 +2034,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and
 Canonical Authority Archive: [https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/](https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/) | [RSS Feed](https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/feed/)
 
 - `[`2024-17413`]` **[Federal Government Participation in the Automated Clearing House](https://www.indexdata.org/federal-government-participation-in-the-automated-clearing-house/)** — `2024-08-09` | `6 Pages`
+
+### [Committee for Purchase From People Who Are Blind or Severely Disabled](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/) | [RSS Feed](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/feed/)
+
+- `[`2024-24087`]` **[Office of Inspector General Exemptions to the Privacy Act](https://www.indexdata.org/office-of-inspector-general-exemptions-to-the-privacy-act/)** — `2024-10-18` | `2 Pages`
 
 ### [Commodity Credit Corporation](https://www.indexdata.org/united-states/commodity-credit-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-credit-corporation/](https://www.indexdata.org/united-states/commodity-credit-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-credit-corporation/feed/)

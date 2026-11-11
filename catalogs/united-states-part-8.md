@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,269` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 11:57 UTC`
+**Last Automated Sync:** `2026-11-11 12:56 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,268)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,269)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -796,7 +796,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-03324`]` **[Approval and Promulgation of Plans for Designated Facilities; New Jersey; Delegation of Authority](https://www.indexdata.org/approval-and-promulgation-of-plans-for-designated-facilities-new-jersey-delegation-of-authority-2/)** — `2024-02-20` | `3 Pages`
 - `[`2024-03299`]` **[Approval of State Plans for Designated Facilities and Pollutants; MO; Approval and Promulgation of Implementation Plans; Control of Emissions From Existing Municipal Solid Waste Landfills](https://www.indexdata.org/approval-of-state-plans-for-designated-facilities-and-pollutants-mo-approval-and-promulgation-of-implementation-plans-control-of-emissions-from-existing-municipal-solid-waste-landfills-3/)** — `2024-02-16` | `3 Pages`
 - `[`2024-03295`]` **[Air Plan Approval; Iowa; State Implementation Plan and State Operating Permits Program](https://www.indexdata.org/air-plan-approval-iowa-state-implementation-plan-and-state-operating-permits-program-2/)** — `2024-02-16` | `3 Pages`
-- `[`2024-03064`]` **[Toxic Substances Control Act (TSCA) Requirements for Polymer Exemption Reports and Accompanying Claims; Extension of the Reporting Deadline for 2024](https://www.indexdata.org/toxic-substances-control-act-tsca-requirements-for-polymer-exemption-reports-and-accompanying-claims-extension-of-the-reporting-deadline-for-2024/)** — `2024-02-16` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1335,6 +1334,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
 
+- `[`2024-13356`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS Universal Storage System, Certificate of Compliance No. 1015, Renewal of Initial Certificate and Amendment Nos. 1 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewal-of-initial-certificate-and-amendment-nos-1-through-9/)** — `2024-06-18` | `2 Pages`
 - `[`2024-12761`]` **[Regulatory Guide: Qualification of Class 1E Battery Chargers, Inverters, and Uninterruptible Power Supply Systems for Production and Utilization Facilities](https://www.indexdata.org/regulatory-guide-qualification-of-class-1e-battery-chargers-inverters-and-uninterruptible-power-supply-systems-for-production-and-utilization-facilities/)** — `2024-06-11` | `2 Pages`
 - `[`2024-10732`]` **[Regulatory Guide: Suspicious Activity Reports](https://www.indexdata.org/regulatory-guide-suspicious-activity-reports/)** — `2024-05-16` | `2 Pages`
 - `[`2024-10480`]` **[Independent Spent Fuel Storage Installation Security Requirements](https://www.indexdata.org/independent-spent-fuel-storage-installation-security-requirements/)** — `2024-05-14` | `3 Pages`

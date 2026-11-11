@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,269` across `232` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 11:57 UTC`
+**Last Automated Sync:** `2026-11-11 12:56 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,268)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,269)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -318,6 +318,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CHRG-119hhrg65540`]` **[Serial No. 119-44 - BUILDING AN AI-READY AMERICA: ADOPTING AI AT WORK](https://www.indexdata.org/serial-no-119-44-building-an-ai-ready-america-adopting-ai-at-work/)** — `2026-11-02` | `98 Pages`
 - `[`US-CRPT-119hrpt878`]` **[H. Rept. 119-878](https://www.indexdata.org/h-rept-119-878/)** — `2026-11-01` | `2 Pages`
 - `[`US-CHRG-119hhrg64505`]` **[Serial No. 119-47 - TSA MODERNIZATION: INDUSTRY PERSPECTIVES ON KEY SECURITY AND TRAVEL REFORMS 25 YEARS AFTER 9/11](https://www.indexdata.org/serial-no-119-47-tsa-modernization-industry-perspectives-on-key-security-and-travel-reforms-25-years-after-9-11/)** — `2026-11-01` | `68 Pages`
+- `[`US-CHRG-119hhrg63913`]` **[House Hearing, 119th Congress - OVERSIGHT OF THE ARCHITECT OF THE CAPITOL: ADDRESSING PAST LESSONS, PRESENT PROJECTS, AND FUTURE CHALLENGES](https://www.indexdata.org/house-hearing-119th-congress-oversight-of-the-architect-of-the-capitol-addressing-past-lessons-present-projects-and-future-challenges/)** — `2026-11-01` | `32 Pages`
 - `[`US-BILLS-119hres1656ih`]` **[H. Res. 1656 (IH) - Providing for consideration of the bill (H.R. 6731) to amend chapter 131 of title 5 to prohibit Members of Congress, the President, Vice President, and their spouses and dependents from owning or trading stocks, and for other purposes.](https://www.indexdata.org/h-res-1656-ih-providing-for-consideration-of-the-bill-h-r-6731-to-amend-chapter-131-of-title-5-to-prohibit-members-of-congress-the-president-vice-president-and-their-spouses-and-dependents/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hres1654ih`]` **[H. Res. 1654 (IH) - Congratulating the Milwaukee Brewers, and the fans of the Milwaukee Brewers, on winning Major League Baseball’s 2026 World Championship Series.](https://www.indexdata.org/h-res-1654-ih-congratulating-the-milwaukee-brewers-and-the-fans-of-the-milwaukee-brewers-on-winning-major-league-baseballs-2026-world-championship-series/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hres1653ih`]` **[H. Res. 1653 (IH) - Honoring the service and sacrifice of America’s veterans on Veterans Day, 2026.](https://www.indexdata.org/h-res-1653-ih-honoring-the-service-and-sacrifice-of-americas-veterans-on-veterans-day-2026/)** — `2026-11-01` | `3 Pages`
@@ -1946,13 +1947,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-20262`]` **[Commission Quorum Requirement](https://www.indexdata.org/commission-quorum-requirement/)** — `2026-10-02` | `2 Pages`
 - `[`2026-18104`]` **[Form PF; Reporting Requirements for All Filers and Large Hedge Fund Advisers; Further Extension of Compliance Date](https://www.indexdata.org/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers-further-extension-of-compliance-date/)** — `2026-09-03` | `4 Pages`
 
-### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
-
-- `[`2026-19878`]` **[Removing Constitutional Concerns From SBA Programs](https://www.indexdata.org/removing-constitutional-concerns-from-sba-programs/)** — `2026-09-29` | `8 Pages`
-- `[`2026-19546`]` **[Small Business Size Standards](https://www.indexdata.org/small-business-size-standards/)** — `2026-09-24` | `2 Pages`
-- `[`2026-17731`]` **[Rescinding Unnecessary Notice and Comment Procedures](https://www.indexdata.org/rescinding-unnecessary-notice-and-comment-procedures/)** — `2026-08-31` | `2 Pages`
-
 ### [Supreme Court of the United States](https://www.indexdata.org/united-states/supreme-court-of-the-united-states/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/supreme-court-of-the-united-states/](https://www.indexdata.org/united-states/supreme-court-of-the-united-states/) | [RSS Feed](https://www.indexdata.org/united-states/supreme-court-of-the-united-states/feed/)
 
@@ -2064,6 +2058,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 
 - `[`2026-22165`]` **[Electronic Payments for FOIA Requests](https://www.indexdata.org/electronic-payments-for-foia-requests/)** — `2026-10-30` | `2 Pages`
 - `[`2026-21943`]` **[Health Data, Technology, and Interoperability: ONC Deregulatory Actions To Unleash Prosperity](https://www.indexdata.org/health-data-technology-and-interoperability-onc-deregulatory-actions-to-unleash-prosperity/)** — `2026-10-28` | `83 Pages`
+
+### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
+
+- `[`2026-19878`]` **[Removing Constitutional Concerns From SBA Programs](https://www.indexdata.org/removing-constitutional-concerns-from-sba-programs/)** — `2026-09-29` | `8 Pages`
+- `[`2026-19546`]` **[Small Business Size Standards](https://www.indexdata.org/small-business-size-standards/)** — `2026-09-24` | `2 Pages`
 
 ### [U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)

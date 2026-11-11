@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,269` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 11:57 UTC`
+**Last Automated Sync:** `2026-11-11 12:56 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,268)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,269)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -609,6 +609,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-24202`]` **[Congressional Review Act Revocation of 2024 Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act](https://www.indexdata.org/congressional-review-act-revocation-of-2024-review-of-final-rule-reclassification-of-major-sources-as-area-sources-under-section-112-of-the-clean-air-act/)** — `2026-01-02` | `4 Pages`
 - `[`2025-24200`]` **[Proposed Revisions of the Nonattainment Designation for the 2008 and 2015 Ozone Standards and Clean Data Determinations for the 2008 and 2015 Ozone Standards: Cecil County, MD and New Castle County, DE](https://www.indexdata.org/proposed-revisions-of-the-nonattainment-designation-for-the-2008-and-2015-ozone-standards-and-clean-data-determinations-for-the-2008-and-2015-ozone-standards-cecil-county-md-and-new-castle-county-d-2/)** — `2026-01-02` | `7 Pages`
 - `[`2025-24149`]` **[National Emission Standards for Hazardous Air Pollutants; Delegation of Authority to Oklahoma](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-delegation-of-authority-to-oklahoma/)** — `2026-01-02` | `7 Pages`
 - `[`2025-24141`]` **[Air Plan Approval; Colorado; Revisions to Colorado Procedural Rules and Common Provisions Regulation](https://www.indexdata.org/air-plan-approval-colorado-revisions-to-colorado-procedural-rules-and-common-provisions-regulation/)** — `2026-01-02` | `3 Pages`
@@ -878,7 +879,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-13339`]` **[Determination of Attainment by the Attainment Date and Clean Data Determination; California, San Joaquin Valley 1997 Annual PM2.5 Fine Particulate Matter Nonattainment Area](https://www.indexdata.org/determination-of-attainment-by-the-attainment-date-and-clean-data-determination-california-san-joaquin-valley-1997-annual-pm2-5-fine-particulate-matter-nonattainment-area-2/)** — `2025-07-16` | `6 Pages`
 - `[`2025-13337`]` **[Air Plan Approval; State of Utah; Utah PM2.5 State Implementation Plan Revisions](https://www.indexdata.org/air-plan-approval-state-of-utah-utah-pm2-5-state-implementation-plan-revisions/)** — `2025-07-16` | `6 Pages`
 - `[`2025-13333`]` **[Air Plan Approval; New Jersey; Update to Materials Incorporated by Reference](https://www.indexdata.org/air-plan-approval-new-jersey-update-to-materials-incorporated-by-reference/)** — `2025-07-16` | `9 Pages`
-- `[`2025-13331`]` **[Air Plan Approval; Connecticut; 2017 Base Year Emissions Inventory for the 2015 8-Hour Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-plan-approval-connecticut-2017-base-year-emissions-inventory-for-the-2015-8-hour-ozone-national-ambient-air-quality-standards/)** — `2025-07-16` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)

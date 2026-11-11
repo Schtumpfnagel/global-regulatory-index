@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,269` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 11:57 UTC`
+**Last Automated Sync:** `2026-11-11 12:56 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,268)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,269)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1790,6 +1790,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-be
 - `[`2026-13124`]` **[Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits-2/)** — `2026-06-30` | `3 Pages`
 - `[`2026-12100`]` **[Technical Amendments: Special Financial Assistance](https://www.indexdata.org/technical-amendments-special-financial-assistance/)** — `2026-06-16` | `6 Pages`
 
+### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
+
+- `[`2026-17731`]` **[Rescinding Unnecessary Notice and Comment Procedures](https://www.indexdata.org/rescinding-unnecessary-notice-and-comment-procedures/)** — `2026-08-31` | `2 Pages`
+- `[`2026-17042`]` **[Small Business Size Standards](https://www.indexdata.org/small-business-size-standards-2/)** — `2026-08-20` | `44 Pages`
+- `[`2026-17039`]` **[Small Business Size Standards: Revised Size Standards Methodology](https://www.indexdata.org/small-business-size-standards-revised-size-standards-methodology/)** — `2026-08-20` | `115 Pages`
+- `[`2026-16370`]` **[Reforms to 13 CFR 124.103 To Remove SBA's 8(a) Program's Rebuttable Presumption of Social Disadvantage for Individually Owned Firms Only. Reforms Do Not Impact Entity-Owned Firms](https://www.indexdata.org/reforms-to-13-cfr-124-103-to-remove-sbas-8a-programs-rebuttable-presumption-of-social-disadvantage-for-individually-owned-firms-only-reforms-do-not-impact-entity-owned-firms/)** — `2026-08-11` | `6 Pages`
+- `[`2026-11765`]` **[Reforms To Remove SBA's 8(a) Program's Rebuttable Presumption of Social Disadvantage for Individually Owned Firms Only; Reforms Do Not Impact Entity-Owned Firms](https://www.indexdata.org/reforms-to-remove-sbas-8a-programs-rebuttable-presumption-of-social-disadvantage-for-individually-owned-firms-only-reforms-do-not-impact-entity-owned-firms/)** — `2026-06-11` | `5 Pages`
+
 ### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
 
@@ -1847,14 +1856,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2026-14942`]` **[Implementation of EAR Export Controls on Silencers, Mufflers, and Sound Suppressors; and Other Firearms Related Changes](https://www.indexdata.org/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms-related-changes/)** — `2026-07-23` | `13 Pages`
 - `[`2026-14132`]` **[Enhanced Favorable Treatment for the United Arab Emirates Under the Export Administration Regulations](https://www.indexdata.org/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration-regulations/)** — `2026-07-14` | `6 Pages`
 
-### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
-
-- `[`2026-12738`]` **[Royalty for Oil and Gas Lost From Onshore Federal and Indian Leases](https://www.indexdata.org/royalty-for-oil-and-gas-lost-from-onshore-federal-and-indian-leases/)** — `2026-06-24` | `23 Pages`
-- `[`2026-12734`]` **[Oil and Gas Leasing](https://www.indexdata.org/oil-and-gas-leasing/)** — `2026-06-24` | `39 Pages`
-- `[`2026-09387`]` **[Revision of Regulations for Grazing Administration, Exclusive of Alaska](https://www.indexdata.org/revision-of-regulations-for-grazing-administration-exclusive-of-alaska/)** — `2026-05-12` | `34 Pages`
-- `[`2026-09386`]` **[Rescission of Conservation and Landscape Health Rule](https://www.indexdata.org/rescission-of-conservation-and-landscape-health-rule/)** — `2026-05-12` | `10 Pages`
-
 ### [National Park Service](https://www.indexdata.org/united-states/national-park-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-park-service/](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 
@@ -1870,14 +1871,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and
 - `[`2026-14793`]` **[Requirement To Identify All Real Parties in Interest to a Third Party Request for an Ex Parte Reexamination](https://www.indexdata.org/requirement-to-identify-all-real-parties-in-interest-to-a-third-party-request-for-an-ex-parte-reexamination/)** — `2026-07-22` | `5 Pages`
 - `[`2026-14240`]` **[References to Electronic Filing Systems in Rules of Practice in Filings Pursuant to the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks](https://www.indexdata.org/references-to-electronic-filing-systems-in-rules-of-practice-in-filings-pursuant-to-the-protocol-relating-to-the-madrid-agreement-concerning-the-international-registration-of-marks/)** — `2026-07-15` | `4 Pages`
 - `[`2026-12717`]` **[Conditions for Additional Information and Fee in Petitions Filed in Patent Applications and Patents Based on Unintentional Delay](https://www.indexdata.org/conditions-for-additional-information-and-fee-in-petitions-filed-in-patent-applications-and-patents-based-on-unintentional-delay/)** — `2026-06-24` | `5 Pages`
-
-### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
-
-- `[`2026-17042`]` **[Small Business Size Standards](https://www.indexdata.org/small-business-size-standards-2/)** — `2026-08-20` | `44 Pages`
-- `[`2026-17039`]` **[Small Business Size Standards: Revised Size Standards Methodology](https://www.indexdata.org/small-business-size-standards-revised-size-standards-methodology/)** — `2026-08-20` | `115 Pages`
-- `[`2026-16370`]` **[Reforms to 13 CFR 124.103 To Remove SBA's 8(a) Program's Rebuttable Presumption of Social Disadvantage for Individually Owned Firms Only. Reforms Do Not Impact Entity-Owned Firms](https://www.indexdata.org/reforms-to-13-cfr-124-103-to-remove-sbas-8a-programs-rebuttable-presumption-of-social-disadvantage-for-individually-owned-firms-only-reforms-do-not-impact-entity-owned-firms/)** — `2026-08-11` | `6 Pages`
-- `[`2026-11765`]` **[Reforms To Remove SBA's 8(a) Program's Rebuttable Presumption of Social Disadvantage for Individually Owned Firms Only; Reforms Do Not Impact Entity-Owned Firms](https://www.indexdata.org/reforms-to-remove-sbas-8a-programs-rebuttable-presumption-of-social-disadvantage-for-individually-owned-firms-only-reforms-do-not-impact-entity-owned-firms/)** — `2026-06-11` | `5 Pages`
 
 ### [Treasury Department](https://www.indexdata.org/united-states/treasury-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/treasury-department/](https://www.indexdata.org/united-states/treasury-department/) | [RSS Feed](https://www.indexdata.org/united-states/treasury-department/feed/)
@@ -1950,6 +1943,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/general-se
 - `[`2026-16584`]` **[General Services Administration Property Management Regulation (GSPMR): Nondiscrimination in Programs Receiving Federal Financial Assistance](https://www.indexdata.org/general-services-administration-property-management-regulation-gspmr-nondiscrimination-in-programs-receiving-federal-financial-assistance/)** — `2026-08-14` | `14 Pages`
 - `[`2026-15368`]` **[General Services Administration Property Management Regulation (GSPMR); Nondiscrimination on the Basis of the Age Act Regulation for Programs or Activities Receiving Federal Financial Assistance; Technical Amendment](https://www.indexdata.org/general-services-administration-property-management-regulation-gspmr-nondiscrimination-on-the-basis-of-the-age-act-regulation-for-programs-or-activities-receiving-federal-financial-assistance-tech/)** — `2026-07-30` | `7 Pages`
 - `[`2026-12205`]` **[General Services Acquisition Regulation; Acquisition of Information and Communication Technology; Notice of Listening Sessions and Request for Comments](https://www.indexdata.org/general-services-acquisition-regulation-acquisition-of-information-and-communication-technology-notice-of-listening-sessions-and-request-for-comments/)** — `2026-06-17` | `8 Pages`
+
+### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
+
+- `[`2026-12738`]` **[Royalty for Oil and Gas Lost From Onshore Federal and Indian Leases](https://www.indexdata.org/royalty-for-oil-and-gas-lost-from-onshore-federal-and-indian-leases/)** — `2026-06-24` | `23 Pages`
+- `[`2026-12734`]` **[Oil and Gas Leasing](https://www.indexdata.org/oil-and-gas-leasing/)** — `2026-06-24` | `39 Pages`
+- `[`2026-09387`]` **[Revision of Regulations for Grazing Administration, Exclusive of Alaska](https://www.indexdata.org/revision-of-regulations-for-grazing-administration-exclusive-of-alaska/)** — `2026-05-12` | `34 Pages`
 
 ### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)

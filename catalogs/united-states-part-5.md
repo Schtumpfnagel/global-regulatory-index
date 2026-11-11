@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,269` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 11:57 UTC`
+**Last Automated Sync:** `2026-11-11 12:56 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,268)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,269)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -662,11 +662,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-03081`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-149/)** — `2025-02-26` | `3 Pages`
 - `[`2025-03013`]` **[Airworthiness Directives; Safran Helicopter Engines, S.A. (Type Certificate Previously Held by Turbomeca, S.A.) Engines](https://www.indexdata.org/airworthiness-directives-safran-helicopter-engines-s-a-type-certificate-previously-held-by-turbomeca-s-a-engines-7/)** — `2025-02-25` | `3 Pages`
 - `[`2025-03012`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-139/)** — `2025-02-25` | `4 Pages`
-- `[`2025-03010`]` **[Airworthiness Directives; Austro Engine GmbH Engines](https://www.indexdata.org/airworthiness-directives-austro-engine-gmbh-engines/)** — `2025-02-25` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-13331`]` **[Air Plan Approval; Connecticut; 2017 Base Year Emissions Inventory for the 2015 8-Hour Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-plan-approval-connecticut-2017-base-year-emissions-inventory-for-the-2015-8-hour-ozone-national-ambient-air-quality-standards/)** — `2025-07-16` | `2 Pages`
 - `[`2025-13328`]` **[Air Plan Approval; Guam; Base Year Emissions Inventory for the 2010 1-Hour Sulfur Dioxide National Ambient Air Quality Standard for the Piti-Cabras Nonattainment Area](https://www.indexdata.org/air-plan-approval-guam-base-year-emissions-inventory-for-the-2010-1-hour-sulfur-dioxide-national-ambient-air-quality-standard-for-the-piti-cabras-nonattainment-area/)** — `2025-07-16` | `5 Pages`
 - `[`2025-13327`]` **[Air Plan Approval; Minnesota; Exempt Source SIP Revision](https://www.indexdata.org/air-plan-approval-minnesota-exempt-source-sip-revision-2/)** — `2025-07-16` | `6 Pages`
 - `[`2025-13325`]` **[Air Plan Approval; Indiana; Regional Haze Plan for the Second Implementation Period; Extension of Comment Period](https://www.indexdata.org/air-plan-approval-indiana-regional-haze-plan-for-the-second-implementation-period-extension-of-comment-period/)** — `2025-07-16` | `2 Pages`

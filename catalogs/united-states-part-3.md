@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,269` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 11:57 UTC`
+**Last Automated Sync:** `2026-11-11 12:56 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,268)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,269)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -804,7 +804,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-00004`]` **[Air Plan Approval; Michigan; Infrastructure SIP Requirements for the 2015 Ozone NAAQS; Michigan State Board Requirements; Withdrawal of Direct Final Rule](https://www.indexdata.org/air-plan-approval-michigan-infrastructure-sip-requirements-for-the-2015-ozone-naaqs-michigan-state-board-requirements-withdrawal-of-direct-final-rule/)** — `2026-01-06` | `2 Pages`
 - `[`2026-00003`]` **[Extension of the State Implementation Plan Due Date for the Regional Haze Third Implementation Period](https://www.indexdata.org/extension-of-the-state-implementation-plan-due-date-for-the-regional-haze-third-implementation-period/)** — `2026-01-06` | `5 Pages`
 - `[`2025-24207`]` **[Air Plan Approval; Michigan and Minnesota; Revision to Taconite Federal Implementation Plan](https://www.indexdata.org/air-plan-approval-michigan-and-minnesota-revision-to-taconite-federal-implementation-plan/)** — `2026-01-02` | `10 Pages`
-- `[`2025-24202`]` **[Congressional Review Act Revocation of 2024 Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act](https://www.indexdata.org/congressional-review-act-revocation-of-2024-review-of-final-rule-reclassification-of-major-sources-as-area-sources-under-section-112-of-the-clean-air-act/)** — `2026-01-02` | `4 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1829,6 +1828,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-re
 - `[`2026-04373`]` **[Rules Regarding Delegation of Authority; Correction](https://www.indexdata.org/rules-regarding-delegation-of-authority-correction/)** — `2026-03-05` | `2 Pages`
 - `[`2026-03818`]` **[Prohibition on Use of Reputation Risk or Other Supervisory Tools To Encourage or Compel Banking Organizations To Engage in Politicized or Unlawful Discrimination](https://www.indexdata.org/prohibition-on-use-of-reputation-risk-or-other-supervisory-tools-to-encourage-or-compel-banking-organizations-to-engage-in-politicized-or-unlawful-discrimination/)** — `2026-02-26` | `6 Pages`
 
+### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
+
+- `[`2026-09386`]` **[Rescission of Conservation and Landscape Health Rule](https://www.indexdata.org/rescission-of-conservation-and-landscape-health-rule/)** — `2026-05-12` | `10 Pages`
+- `[`2026-08386`]` **[Waste Prevention, Production Subject to Royalties, and Resource Conservation; Extension of Phase-In Requirements](https://www.indexdata.org/waste-prevention-production-subject-to-royalties-and-resource-conservation-extension-of-phase-in-requirements/)** — `2026-04-30` | `2 Pages`
+- `[`2026-08280`]` **[Revisions to Regulations Regarding Oil and Gas Leasing; Fees, Rentals, and Royalties](https://www.indexdata.org/revisions-to-regulations-regarding-oil-and-gas-leasing-fees-rentals-and-royalties/)** — `2026-04-29` | `4 Pages`
+- `[`2026-03283`]` **[Rescission of Regulations Regarding Leasing of Solid Minerals Other Than Coal and Oil Shale](https://www.indexdata.org/rescission-of-regulations-regarding-leasing-of-solid-minerals-other-than-coal-and-oil-shale/)** — `2026-02-19` | `2 Pages`
+- `[`2026-01926`]` **[Requirements for Site Security and Production Handling; Applying for Commingling and Allocation Approval](https://www.indexdata.org/requirements-for-site-security-and-production-handling-applying-for-commingling-and-allocation-approval/)** — `2026-01-30` | `10 Pages`
+
 ### [U S Customs And Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 
@@ -1869,14 +1877,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-safet
 - `[`2026-05746`]` **[Revising Establishment Size Definitions](https://www.indexdata.org/revising-establishment-size-definitions/)** — `2026-03-24` | `4 Pages`
 - `[`2026-03228`]` **[Maximum Line Speed Under the New Swine Slaughter Inspection System (NSIS)](https://www.indexdata.org/maximum-line-speed-under-the-new-swine-slaughter-inspection-system-nsis/)** — `2026-02-19` | `22 Pages`
 - `[`2026-03227`]` **[Maximum Line Speed Rates for Young Chicken and Turkey Establishments Operating Under the New Poultry Inspection System](https://www.indexdata.org/maximum-line-speed-rates-for-young-chicken-and-turkey-establishments-operating-under-the-new-poultry-inspection-system/)** — `2026-02-19` | `23 Pages`
-
-### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
-
-- `[`2026-08386`]` **[Waste Prevention, Production Subject to Royalties, and Resource Conservation; Extension of Phase-In Requirements](https://www.indexdata.org/waste-prevention-production-subject-to-royalties-and-resource-conservation-extension-of-phase-in-requirements/)** — `2026-04-30` | `2 Pages`
-- `[`2026-08280`]` **[Revisions to Regulations Regarding Oil and Gas Leasing; Fees, Rentals, and Royalties](https://www.indexdata.org/revisions-to-regulations-regarding-oil-and-gas-leasing-fees-rentals-and-royalties/)** — `2026-04-29` | `4 Pages`
-- `[`2026-03283`]` **[Rescission of Regulations Regarding Leasing of Solid Minerals Other Than Coal and Oil Shale](https://www.indexdata.org/rescission-of-regulations-regarding-leasing-of-solid-minerals-other-than-coal-and-oil-shale/)** — `2026-02-19` | `2 Pages`
-- `[`2026-01926`]` **[Requirements for Site Security and Production Handling; Applying for Commingling and Allocation Approval](https://www.indexdata.org/requirements-for-site-security-and-production-handling-applying-for-commingling-and-allocation-approval/)** — `2026-01-30` | `10 Pages`
 
 ### [Supreme Court of the United States](https://www.indexdata.org/united-states/supreme-court-of-the-united-states/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/supreme-court-of-the-united-states/](https://www.indexdata.org/united-states/supreme-court-of-the-united-states/) | [RSS Feed](https://www.indexdata.org/united-states/supreme-court-of-the-united-states/feed/)
