@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,266` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 10:02 UTC`
+**Last Automated Sync:** `2026-11-11 10:48 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,266)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,268)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1476,6 +1476,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 - `[`2026-10620`]` **[Proposed Waiver and Extension of the Project Period With Funding for Arts in Education National Program](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program/)** — `2026-05-28` | `2 Pages`
 - `[`2026-10013`]` **[Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Pell Grant Exclusion Relating to Other Grant Aid; and Workforce Pell Grants](https://www.indexdata.org/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant-exclusion-relating-to-other-grant-aid-and-workforce-pell-grants/)** — `2026-05-19` | `85 Pages`
 
+### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
+
+- `[`2026-17715`]` **[Honey Packers and Importers; Increased Assessment Rate](https://www.indexdata.org/honey-packers-and-importers-increased-assessment-rate/)** — `2026-08-31` | `3 Pages`
+- `[`2026-17512`]` **[Tart Cherries Grown in the States of Michigan, et al.; Free and Restricted Percentages for the 2024-2025 Crop Year](https://www.indexdata.org/tart-cherries-grown-in-the-states-of-michigan-et-al-free-and-restricted-percentages-for-the-2024-2025-crop-year/)** — `2026-08-27` | `6 Pages`
+- `[`2026-17511`]` **[Olives Grown in California; Decreased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-decreased-assessment-rate/)** — `2026-08-27` | `4 Pages`
+- `[`2026-17510`]` **[Sweet Cherries Grown in Designated Counties in Washington; Modification of Handling Regulations](https://www.indexdata.org/sweet-cherries-grown-in-designated-counties-in-washington-modification-of-handling-regulations/)** — `2026-08-27` | `4 Pages`
+- `[`2026-17296`]` **[Membership Adjustment of the Mushroom Council](https://www.indexdata.org/membership-adjustment-of-the-mushroom-council/)** — `2026-08-25` | `4 Pages`
+- `[`2026-16723`]` **[Walnuts Grown in California; Changes to Administrative Requirements](https://www.indexdata.org/walnuts-grown-in-california-changes-to-administrative-requirements/)** — `2026-08-17` | `4 Pages`
+- `[`2026-15525`]` **[Clingstone Peach Diversion Program; Amendment of Program Regulations](https://www.indexdata.org/clingstone-peach-diversion-program-amendment-of-program-regulations/)** — `2026-07-31` | `10 Pages`
+- `[`2026-14927`]` **[Spearmint Oil Produced in the Far West; Salable Quantities and Allotment Percentages for the 2026-2027 Marketing Year](https://www.indexdata.org/spearmint-oil-produced-in-the-far-west-salable-quantities-and-allotment-percentages-for-the-2026-2027-marketing-year/)** — `2026-07-23` | `7 Pages`
+- `[`2026-14918`]` **[Grapes Grown in a Designated Area of Southeastern California; Decreased Assessment Rate](https://www.indexdata.org/grapes-grown-in-a-designated-area-of-southeastern-california-decreased-assessment-rate/)** — `2026-07-23` | `3 Pages`
+- `[`2026-12563`]` **[Cotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2025 Amendments)](https://www.indexdata.org/cotton-board-rules-and-regulations-adjusting-supplemental-assessment-on-imports-2025-amendments/)** — `2026-06-23` | `16 Pages`
+- `[`2026-12341`]` **[Domestic Dates Produced or Packed in Riverside County, California; Increased Assessment Rate](https://www.indexdata.org/domestic-dates-produced-or-packed-in-riverside-county-california-increased-assessment-rate/)** — `2026-06-18` | `3 Pages`
+- `[`2026-10880`]` **[Poultry Grower Payment Systems and Capital Improvement Systems; Delay of Effective Date](https://www.indexdata.org/poultry-grower-payment-systems-and-capital-improvement-systems-delay-of-effective-date/)** — `2026-06-01` | `10 Pages`
+- `[`2026-10378`]` **[Onions Grown in South Texas; Temporary Suspension of Continuance Referendum](https://www.indexdata.org/onions-grown-in-south-texas-temporary-suspension-of-continuance-referendum/)** — `2026-05-26` | `3 Pages`
+- `[`2026-09502`]` **[Domestic Dates Produced or Packed in Riverside County, California; Decreased Assessment Rate](https://www.indexdata.org/domestic-dates-produced-or-packed-in-riverside-county-california-decreased-assessment-rate/)** — `2026-05-13` | `3 Pages`
+
 ### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 
@@ -1492,24 +1510,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2026-11531`]` **[Reducing Bureaucracy and Burden for Community Services Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-community-services-programs/)** — `2026-06-09` | `5 Pages`
 - `[`2026-11530`]` **[Employment and Training Services for Noncustodial Parents in the Child Support Program; Rescission](https://www.indexdata.org/employment-and-training-services-for-noncustodial-parents-in-the-child-support-program-rescission/)** — `2026-06-09` | `8 Pages`
 - `[`2026-10401`]` **[Reducing Bureaucracy and Burden for Family Assistance Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-family-assistance-programs-2/)** — `2026-05-26` | `20 Pages`
-- `[`2026-09383`]` **[Restoring Flexibility To Support Head Start Program Access](https://www.indexdata.org/restoring-flexibility-to-support-head-start-program-access/)** — `2026-05-12` | `8 Pages`
-
-### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
-
-- `[`2026-17512`]` **[Tart Cherries Grown in the States of Michigan, et al.; Free and Restricted Percentages for the 2024-2025 Crop Year](https://www.indexdata.org/tart-cherries-grown-in-the-states-of-michigan-et-al-free-and-restricted-percentages-for-the-2024-2025-crop-year/)** — `2026-08-27` | `6 Pages`
-- `[`2026-17511`]` **[Olives Grown in California; Decreased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-decreased-assessment-rate/)** — `2026-08-27` | `4 Pages`
-- `[`2026-17510`]` **[Sweet Cherries Grown in Designated Counties in Washington; Modification of Handling Regulations](https://www.indexdata.org/sweet-cherries-grown-in-designated-counties-in-washington-modification-of-handling-regulations/)** — `2026-08-27` | `4 Pages`
-- `[`2026-17296`]` **[Membership Adjustment of the Mushroom Council](https://www.indexdata.org/membership-adjustment-of-the-mushroom-council/)** — `2026-08-25` | `4 Pages`
-- `[`2026-16723`]` **[Walnuts Grown in California; Changes to Administrative Requirements](https://www.indexdata.org/walnuts-grown-in-california-changes-to-administrative-requirements/)** — `2026-08-17` | `4 Pages`
-- `[`2026-15525`]` **[Clingstone Peach Diversion Program; Amendment of Program Regulations](https://www.indexdata.org/clingstone-peach-diversion-program-amendment-of-program-regulations/)** — `2026-07-31` | `10 Pages`
-- `[`2026-14927`]` **[Spearmint Oil Produced in the Far West; Salable Quantities and Allotment Percentages for the 2026-2027 Marketing Year](https://www.indexdata.org/spearmint-oil-produced-in-the-far-west-salable-quantities-and-allotment-percentages-for-the-2026-2027-marketing-year/)** — `2026-07-23` | `7 Pages`
-- `[`2026-14918`]` **[Grapes Grown in a Designated Area of Southeastern California; Decreased Assessment Rate](https://www.indexdata.org/grapes-grown-in-a-designated-area-of-southeastern-california-decreased-assessment-rate/)** — `2026-07-23` | `3 Pages`
-- `[`2026-12563`]` **[Cotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2025 Amendments)](https://www.indexdata.org/cotton-board-rules-and-regulations-adjusting-supplemental-assessment-on-imports-2025-amendments/)** — `2026-06-23` | `16 Pages`
-- `[`2026-12341`]` **[Domestic Dates Produced or Packed in Riverside County, California; Increased Assessment Rate](https://www.indexdata.org/domestic-dates-produced-or-packed-in-riverside-county-california-increased-assessment-rate/)** — `2026-06-18` | `3 Pages`
-- `[`2026-10880`]` **[Poultry Grower Payment Systems and Capital Improvement Systems; Delay of Effective Date](https://www.indexdata.org/poultry-grower-payment-systems-and-capital-improvement-systems-delay-of-effective-date/)** — `2026-06-01` | `10 Pages`
-- `[`2026-10378`]` **[Onions Grown in South Texas; Temporary Suspension of Continuance Referendum](https://www.indexdata.org/onions-grown-in-south-texas-temporary-suspension-of-continuance-referendum/)** — `2026-05-26` | `3 Pages`
-- `[`2026-09502`]` **[Domestic Dates Produced or Packed in Riverside County, California; Decreased Assessment Rate](https://www.indexdata.org/domestic-dates-produced-or-packed-in-riverside-county-california-decreased-assessment-rate/)** — `2026-05-13` | `3 Pages`
 
 ### [Occupational Safety And Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
@@ -1745,15 +1745,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-re
 - `[`2026-10377`]` **[Regulation D: Reserve Requirements of Depository Institutions](https://www.indexdata.org/regulation-d-reserve-requirements-of-depository-institutions-2/)** — `2026-05-26` | `9 Pages`
 - `[`2026-10376`]` **[Regulation A: Extensions of Credit by Federal Reserve Banks](https://www.indexdata.org/regulation-a-extensions-of-credit-by-federal-reserve-banks-2/)** — `2026-05-26` | `6 Pages`
 
-### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-
-- `[`2026-15000`]` **[Rescinding Portions of the U.S. Department of Health and Human Services Title VI Regulations To Align With the Statutory Text and Conform to Executive Order 14281](https://www.indexdata.org/rescinding-portions-of-the-u-s-department-of-health-and-human-services-title-vi-regulations-to-align-with-the-statutory-text-and-conform-to-executive-order-14281/)** — `2026-07-24` | `11 Pages`
-- `[`2026-13711`]` **[Recission of the National Cancer Institute Clinical Cancer Education Program Regulation](https://www.indexdata.org/recission-of-the-national-cancer-institute-clinical-cancer-education-program-regulation/)** — `2026-07-07` | `3 Pages`
-- `[`2026-11994`]` **[Request for Information; Comprehensive Review of the Essential Health Benefits Framework and Typical Employer Plan Standard](https://www.indexdata.org/request-for-information-comprehensive-review-of-the-essential-health-benefits-framework-and-typical-employer-plan-standard/)** — `2026-06-15` | `7 Pages`
-- `[`2026-10543`]` **[Control of Communicable Diseases; Foreign Quarantine](https://www.indexdata.org/control-of-communicable-diseases-foreign-quarantine/)** — `2026-05-27` | `7 Pages`
-- `[`2026-09382`]` **[Restoring Flexibility in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/restoring-flexibility-in-the-child-care-and-development-fund-ccdf/)** — `2026-05-12` | `13 Pages`
-
 ### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 
@@ -1839,6 +1830,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-
 - `[`2026-16365`]` **[Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Financial Institutions in Minnesota](https://www.indexdata.org/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-financial-institutions-in-minnesota/)** — `2026-08-11` | `3 Pages`
 - `[`2026-12794`]` **[Definition of Huione Group, a Financial Institution Operating Outside the United States of Primary Money Laundering Concern](https://www.indexdata.org/definition-of-huione-group-a-financial-institution-operating-outside-the-united-states-of-primary-money-laundering-concern/)** — `2026-06-25` | `11 Pages`
 - `[`2026-12460`]` **[Permitted Payment Stablecoin Issuer Customer Identification Program](https://www.indexdata.org/permitted-payment-stablecoin-issuer-customer-identification-program/)** — `2026-06-22` | `39 Pages`
+
+### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+
+- `[`2026-15000`]` **[Rescinding Portions of the U.S. Department of Health and Human Services Title VI Regulations To Align With the Statutory Text and Conform to Executive Order 14281](https://www.indexdata.org/rescinding-portions-of-the-u-s-department-of-health-and-human-services-title-vi-regulations-to-align-with-the-statutory-text-and-conform-to-executive-order-14281/)** — `2026-07-24` | `11 Pages`
+- `[`2026-13711`]` **[Recission of the National Cancer Institute Clinical Cancer Education Program Regulation](https://www.indexdata.org/recission-of-the-national-cancer-institute-clinical-cancer-education-program-regulation/)** — `2026-07-07` | `3 Pages`
+- `[`2026-11994`]` **[Request for Information; Comprehensive Review of the Essential Health Benefits Framework and Typical Employer Plan Standard](https://www.indexdata.org/request-for-information-comprehensive-review-of-the-essential-health-benefits-framework-and-typical-employer-plan-standard/)** — `2026-06-15` | `7 Pages`
+- `[`2026-10543`]` **[Control of Communicable Diseases; Foreign Quarantine](https://www.indexdata.org/control-of-communicable-diseases-foreign-quarantine/)** — `2026-05-27` | `7 Pages`
 
 ### [Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
@@ -2009,6 +2008,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-ac
 - `[`2026-12826`]` **[Defense Federal Acquisition Regulation Supplement: Certification Requirement for Military Recruitment Advertising (DFARS Case 2024-D022)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-certification-requirement-for-military-recruitment-advertising-dfars-case-2024-d022/)** — `2026-06-25` | `5 Pages`
 - `[`2026-12825`]` **[Defense Federal Acquisition Regulation Supplement: Small Purchase Exception for the Acquisition of U.S. Flags (DFARS Case 2024-D013)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-small-purchase-exception-for-the-acquisition-of-u-s-flags-dfars-case-2024-d013/)** — `2026-06-25` | `5 Pages`
 
+### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
+
+- `[`2026-17726`]` **[Rescission of Coordinated Enforcement Regulations](https://www.indexdata.org/rescission-of-coordinated-enforcement-regulations/)** — `2026-08-31` | `5 Pages`
+- `[`2026-16982`]` **[Wagner-Peyser Act Employment Service Staffing](https://www.indexdata.org/wagner-peyser-act-employment-service-staffing/)** — `2026-08-20` | `29 Pages`
+
 ### [Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-maritime-commission/](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
 
@@ -2127,11 +2132,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/economic-d
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-benefits-security-administration/](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 
 - `[`2026-14917`]` **[Electronic Disclosure by Group Health Plans Under ERISA](https://www.indexdata.org/electronic-disclosure-by-group-health-plans-under-erisa/)** — `2026-07-23` | `31 Pages`
-
-### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-
-- `[`2026-16982`]` **[Wagner-Peyser Act Employment Service Staffing](https://www.indexdata.org/wagner-peyser-act-employment-service-staffing/)** — `2026-08-20` | `29 Pages`
 
 ### [Energy and Environmental Policy Office](https://www.indexdata.org/united-states/energy-and-environmental-policy-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-and-environmental-policy-office/](https://www.indexdata.org/united-states/energy-and-environmental-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/energy-and-environmental-policy-office/feed/)

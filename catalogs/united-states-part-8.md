@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,266` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 10:02 UTC`
+**Last Automated Sync:** `2026-11-11 10:48 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,266)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,268)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-13348`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-159/)** — `2024-06-18` | `3 Pages`
+- `[`2024-13342`]` **[IFR Altitudes; Miscellaneous Amendments](https://www.indexdata.org/ifr-altitudes-miscellaneous-amendments-13/)** — `2024-06-18` | `9 Pages`
 - `[`2024-13313`]` **[Modification of Restricted Areas R-4201A and R-4201B; Camp Grayling, MI](https://www.indexdata.org/modification-of-restricted-areas-r-4201a-and-r-4201b-camp-grayling-mi/)** — `2024-06-18` | `2 Pages`
 - `[`2024-13222`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-160/)** — `2024-06-18` | `4 Pages`
 - `[`2024-13209`]` **[Amendment of Jet Route J-89 and VOR Federal Airway V-161, and Establishment of Canadian RNAV Route Q-834; Northcentral United States](https://www.indexdata.org/amendment-of-jet-route-j-89-and-vor-federal-airway-v-161-and-establishment-of-canadian-rnav-route-q-834-northcentral-united-states/)** — `2024-06-18` | `3 Pages`
@@ -795,7 +797,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-03299`]` **[Approval of State Plans for Designated Facilities and Pollutants; MO; Approval and Promulgation of Implementation Plans; Control of Emissions From Existing Municipal Solid Waste Landfills](https://www.indexdata.org/approval-of-state-plans-for-designated-facilities-and-pollutants-mo-approval-and-promulgation-of-implementation-plans-control-of-emissions-from-existing-municipal-solid-waste-landfills-3/)** — `2024-02-16` | `3 Pages`
 - `[`2024-03295`]` **[Air Plan Approval; Iowa; State Implementation Plan and State Operating Permits Program](https://www.indexdata.org/air-plan-approval-iowa-state-implementation-plan-and-state-operating-permits-program-2/)** — `2024-02-16` | `3 Pages`
 - `[`2024-03064`]` **[Toxic Substances Control Act (TSCA) Requirements for Polymer Exemption Reports and Accompanying Claims; Extension of the Reporting Deadline for 2024](https://www.indexdata.org/toxic-substances-control-act-tsca-requirements-for-polymer-exemption-reports-and-accompanying-claims-extension-of-the-reporting-deadline-for-2024/)** — `2024-02-16` | `3 Pages`
-- `[`2024-03004`]` **[Proposed Deletion From the National Priorities List](https://www.indexdata.org/proposed-deletion-from-the-national-priorities-list-5/)** — `2024-02-16` | `4 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1040,7 +1041,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-03396`]` **[Fisheries Off West Coast States; Coastal Pelagic Species Fisheries; Amendment 21 to the Coastal Pelagic Species Fishery Management Plan](https://www.indexdata.org/fisheries-off-west-coast-states-coastal-pelagic-species-fisheries-amendment-21-to-the-coastal-pelagic-species-fishery-management-plan/)** — `2024-02-20` | `2 Pages`
 - `[`2024-03370`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod in the Central Regulatory Area of the Gulf of Alaska](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-in-the-central-regulatory-area-of-the-gulf-of-alaska/)** — `2024-02-20` | `2 Pages`
 - `[`2024-03247`]` **[Magnuson-Stevens Act Provisions; Prohibition of Commercial Fishing in the Northeast Canyons and Seamounts Marine National Monument](https://www.indexdata.org/magnuson-stevens-act-provisions-prohibition-of-commercial-fishing-in-the-northeast-canyons-and-seamounts-marine-national-monument/)** — `2024-02-16` | `5 Pages`
-- `[`2024-03013`]` **[List of Fisheries for 2024](https://www.indexdata.org/list-of-fisheries-for-2024/)** — `2024-02-16` | `26 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)

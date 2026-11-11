@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,266` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-11 10:02 UTC`
+**Last Automated Sync:** `2026-11-11 10:48 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,266 of 15,266)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,268 of 15,268)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-12746`]` **[Amendment of Very High Frequency (VHF) Omnidirectional Range (VOR) Federal Airway V-469 and Revocation of VOR Federal Airways V-164, V-423, and V-576; Eastern United States](https://www.indexdata.org/amendment-of-very-high-frequency-vhf-omnidirectional-range-vor-federal-airway-v-469-and-revocation-of-vor-federal-airways-v-164-v-423-and-v-576-eastern-united-states-2/)** — `2023-06-15` | `2 Pages`
 - `[`2023-12454`]` **[High Elevation Airport Operations](https://www.indexdata.org/high-elevation-airport-operations/)** — `2023-06-15` | `10 Pages`
 - `[`2023-12698`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd. & Co. KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-65/)** — `2023-06-14` | `4 Pages`
 - `[`2023-12697`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-66/)** — `2023-06-14` | `4 Pages`
@@ -325,6 +326,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2023-12749`]` **[Special Local Regulation; Back River, Baltimore County, MD](https://www.indexdata.org/special-local-regulation-back-river-baltimore-county-md-5/)** — `2023-06-15` | `5 Pages`
 - `[`2023-12716`]` **[Safety Zone; Delaware Bay, Lower Township, NJ](https://www.indexdata.org/safety-zone-delaware-bay-lower-township-nj/)** — `2023-06-14` | `2 Pages`
 - `[`2023-12707`]` **[Security Zone, Baltimore Harbor, MD.](https://www.indexdata.org/security-zone-baltimore-harbor-md/)** — `2023-06-14` | `3 Pages`
 - `[`2023-12652`]` **[Safety Zone; Annual Fireworks Displays and Other Events in the Eighth Coast Guard District Requiring Safety Zones-Go 4th New Orleans Independence Day Celebration](https://www.indexdata.org/safety-zone-annual-fireworks-displays-and-other-events-in-the-eighth-coast-guard-district-requiring-safety-zones-go-4th-new-orleans-independence-day-celebration/)** — `2023-06-14` | `2 Pages`

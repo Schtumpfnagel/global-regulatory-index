@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,266` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 10:02 UTC`
+**Last Automated Sync:** `2026-11-11 10:48 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,266)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,268)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -609,6 +609,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-24200`]` **[Proposed Revisions of the Nonattainment Designation for the 2008 and 2015 Ozone Standards and Clean Data Determinations for the 2008 and 2015 Ozone Standards: Cecil County, MD and New Castle County, DE](https://www.indexdata.org/proposed-revisions-of-the-nonattainment-designation-for-the-2008-and-2015-ozone-standards-and-clean-data-determinations-for-the-2008-and-2015-ozone-standards-cecil-county-md-and-new-castle-county-d-2/)** — `2026-01-02` | `7 Pages`
 - `[`2025-24149`]` **[National Emission Standards for Hazardous Air Pollutants; Delegation of Authority to Oklahoma](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-delegation-of-authority-to-oklahoma/)** — `2026-01-02` | `7 Pages`
 - `[`2025-24141`]` **[Air Plan Approval; Colorado; Revisions to Colorado Procedural Rules and Common Provisions Regulation](https://www.indexdata.org/air-plan-approval-colorado-revisions-to-colorado-procedural-rules-and-common-provisions-regulation/)** — `2026-01-02` | `3 Pages`
 - `[`2025-24140`]` **[Air Plan Approval; CO; Revisions to Colorado Procedural Rules and Common Provisions Regulation](https://www.indexdata.org/air-plan-approval-co-revisions-to-colorado-procedural-rules-and-common-provisions-regulation/)** — `2026-01-02` | `2 Pages`
@@ -878,8 +879,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-13337`]` **[Air Plan Approval; State of Utah; Utah PM2.5 State Implementation Plan Revisions](https://www.indexdata.org/air-plan-approval-state-of-utah-utah-pm2-5-state-implementation-plan-revisions/)** — `2025-07-16` | `6 Pages`
 - `[`2025-13333`]` **[Air Plan Approval; New Jersey; Update to Materials Incorporated by Reference](https://www.indexdata.org/air-plan-approval-new-jersey-update-to-materials-incorporated-by-reference/)** — `2025-07-16` | `9 Pages`
 - `[`2025-13331`]` **[Air Plan Approval; Connecticut; 2017 Base Year Emissions Inventory for the 2015 8-Hour Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-plan-approval-connecticut-2017-base-year-emissions-inventory-for-the-2015-8-hour-ozone-national-ambient-air-quality-standards/)** — `2025-07-16` | `2 Pages`
-- `[`2025-13328`]` **[Air Plan Approval; Guam; Base Year Emissions Inventory for the 2010 1-Hour Sulfur Dioxide National Ambient Air Quality Standard for the Piti-Cabras Nonattainment Area](https://www.indexdata.org/air-plan-approval-guam-base-year-emissions-inventory-for-the-2010-1-hour-sulfur-dioxide-national-ambient-air-quality-standard-for-the-piti-cabras-nonattainment-area/)** — `2025-07-16` | `5 Pages`
-- `[`2025-13327`]` **[Air Plan Approval; Minnesota; Exempt Source SIP Revision](https://www.indexdata.org/air-plan-approval-minnesota-exempt-source-sip-revision-2/)** — `2025-07-16` | `6 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1781,6 +1780,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mo
 - `[`2025-17939`]` **[Hours of Service of Drivers; Pilot Program To Allow Commercial Drivers To Split Sleeper Berth Time](https://www.indexdata.org/hours-of-service-of-drivers-pilot-program-to-allow-commercial-drivers-to-split-sleeper-berth-time/)** — `2025-09-17` | `9 Pages`
 - `[`2025-13928`]` **[Federal Motor Vehicle Safety Standards; Federal Motor Carrier Safety Regulations; Parts and Accessories Necessary for Safe Operation; Speed Limiting Devices; Withdrawal](https://www.indexdata.org/federal-motor-vehicle-safety-standards-federal-motor-carrier-safety-regulations-parts-and-accessories-necessary-for-safe-operation-speed-limiting-devices-withdrawal/)** — `2025-07-24` | `5 Pages`
 
+### [Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-crimes-enforcement-network/](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
+
+- `[`2025-24184`]` **[Delaying the Effective Date of the Anti-Money Laundering/Countering the Financing of Terrorism Program and Suspicious Activity Report Filing Requirements for Registered Investment Advisers and Exempt Reporting Advisers](https://www.indexdata.org/delaying-the-effective-date-of-the-anti-money-laundering-countering-the-financing-of-terrorism-program-and-suspicious-activity-report-filing-requirements-for-registered-investment-advisers-and-exemp-2/)** — `2026-01-02` | `6 Pages`
+- `[`2025-19927`]` **[Proposal of Special Measure Regarding Transactions Involving Ten Mexican Gambling Establishments as a Class of Transactions of Primary Money Laundering Concern](https://www.indexdata.org/proposal-of-special-measure-regarding-transactions-involving-ten-mexican-gambling-establishments-as-a-class-of-transactions-of-primary-money-laundering-concern/)** — `2025-11-17` | `14 Pages`
+- `[`2025-19571`]` **[Imposition of Special Measure Regarding Huione Group, as a Foreign Financial Institution of Primary Money Laundering Concern](https://www.indexdata.org/imposition-of-special-measure-regarding-huione-group-as-a-foreign-financial-institution-of-primary-money-laundering-concern/)** — `2025-10-16` | `18 Pages`
+- `[`2025-18271`]` **[Delaying the Effective Date of the Anti-Money Laundering/Countering the Financing of Terrorism Program and Suspicious Activity Report Filing Requirements for Registered Investment Advisers and Exempt Reporting Advisers](https://www.indexdata.org/delaying-the-effective-date-of-the-anti-money-laundering-countering-the-financing-of-terrorism-program-and-suspicious-activity-report-filing-requirements-for-registered-investment-advisers-and-exempt/)** — `2025-09-22` | `5 Pages`
+- `[`2025-17371`]` **[Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border](https://www.indexdata.org/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money-services-businesses-along-the-southwest-border-3/)** — `2025-09-10` | `3 Pages`
+
 ### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
 
@@ -1805,14 +1813,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ho
 - `[`2025-19429`]` **[Enterprise Liquidity Requirements; Federal Home Loan Bank System Boards of Directors and Executive Management; Federal Home Loan Bank Unsecured Credit Limits; Withdrawal](https://www.indexdata.org/enterprise-liquidity-requirements-federal-home-loan-bank-system-boards-of-directors-and-executive-management-federal-home-loan-bank-unsecured-credit-limits-withdrawal/)** — `2025-10-02` | `2 Pages`
 - `[`2025-19428`]` **[2026-2028 Enterprise Housing Goals](https://www.indexdata.org/2026-2028-enterprise-housing-goals-2/)** — `2025-10-02` | `31 Pages`
 - `[`2025-14183`]` **[Fair Lending, Fair Housing, and Equitable Housing Finance Plans](https://www.indexdata.org/fair-lending-fair-housing-and-equitable-housing-finance-plans-2/)** — `2025-07-28` | `9 Pages`
-
-### [Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-crimes-enforcement-network/](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
-
-- `[`2025-19927`]` **[Proposal of Special Measure Regarding Transactions Involving Ten Mexican Gambling Establishments as a Class of Transactions of Primary Money Laundering Concern](https://www.indexdata.org/proposal-of-special-measure-regarding-transactions-involving-ten-mexican-gambling-establishments-as-a-class-of-transactions-of-primary-money-laundering-concern/)** — `2025-11-17` | `14 Pages`
-- `[`2025-19571`]` **[Imposition of Special Measure Regarding Huione Group, as a Foreign Financial Institution of Primary Money Laundering Concern](https://www.indexdata.org/imposition-of-special-measure-regarding-huione-group-as-a-foreign-financial-institution-of-primary-money-laundering-concern/)** — `2025-10-16` | `18 Pages`
-- `[`2025-18271`]` **[Delaying the Effective Date of the Anti-Money Laundering/Countering the Financing of Terrorism Program and Suspicious Activity Report Filing Requirements for Registered Investment Advisers and Exempt Reporting Advisers](https://www.indexdata.org/delaying-the-effective-date-of-the-anti-money-laundering-countering-the-financing-of-terrorism-program-and-suspicious-activity-report-filing-requirements-for-registered-investment-advisers-and-exempt/)** — `2025-09-22` | `5 Pages`
-- `[`2025-17371`]` **[Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border](https://www.indexdata.org/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money-services-businesses-along-the-southwest-border-3/)** — `2025-09-10` | `3 Pages`
 
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)

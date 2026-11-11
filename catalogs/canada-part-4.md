@@ -7,7 +7,7 @@
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
 **Total Indexed Dossiers in Canada:** `5,374` across `27` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-11 10:02 UTC`
+**Last Automated Sync:** `2026-11-11 10:48 UTC`
 
 ---
 

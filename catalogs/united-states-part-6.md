@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,266` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 10:02 UTC`
+**Last Automated Sync:** `2026-11-11 10:48 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,266)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,268)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-03009`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-30/)** — `2025-02-25` | `3 Pages`
 - `[`2025-02976`]` **[Establishment of Class E Airspace; Mott, ND](https://www.indexdata.org/establishment-of-class-e-airspace-mott-nd/)** — `2025-02-24` | `2 Pages`
 - `[`2025-02975`]` **[Amendment of Class E Airspace; Austin, TX; Establishment of Class E Airspace; Austin, Lago Vista, and Lakeway, TX](https://www.indexdata.org/amendment-of-class-e-airspace-austin-tx-establishment-of-class-e-airspace-austin-lago-vista-and-lakeway-tx/)** — `2025-02-24` | `3 Pages`
 - `[`2025-02947`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-31/)** — `2025-02-24` | `3 Pages`
@@ -600,11 +601,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-24339`]` **[Amendment of Class E Airspace; Smith Center, KS](https://www.indexdata.org/amendment-of-class-e-airspace-smith-center-ks-2/)** — `2024-10-22` | `2 Pages`
 - `[`2024-24317`]` **[Amendment of Class E Airspace; Marion, NC](https://www.indexdata.org/amendment-of-class-e-airspace-marion-nc-2/)** — `2024-10-22` | `3 Pages`
 - `[`2024-23538`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-208/)** — `2024-10-21` | `3 Pages`
-- `[`2024-23962`]` **[Amendment of Class E Airspace; Highlands, NC](https://www.indexdata.org/amendment-of-class-e-airspace-highlands-nc/)** — `2024-10-18` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-03000`]` **[Fludioxonil; Pesticide Tolerances](https://www.indexdata.org/fludioxonil-pesticide-tolerances/)** — `2025-02-25` | `4 Pages`
 - `[`2025-02999`]` **[Inactivated Burkholderia Rinojensis Strain A396 Cells and Spent Fermentation Media; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/inactivated-burkholderia-rinojensis-strain-a396-cells-and-spent-fermentation-media-exemption-from-the-requirement-of-a-tolerance/)** — `2025-02-25` | `3 Pages`
 - `[`2025-02998`]` **[Beauveria Bassiana Strain BW149; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/beauveria-bassiana-strain-bw149-exemption-from-the-requirement-of-a-tolerance/)** — `2025-02-25` | `3 Pages`
 - `[`2025-02997`]` **[Bacillus Thuringiensis Cry1B.34 Protein; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/bacillus-thuringiensis-cry1b-34-protein-exemption-from-the-requirement-of-a-tolerance/)** — `2025-02-25` | `3 Pages`
@@ -1352,27 +1353,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-a
 - `[`2024-24912`]` **[Determining Eligibility for Domiciliary Care](https://www.indexdata.org/determining-eligibility-for-domiciliary-care/)** — `2024-10-30` | `6 Pages`
 - `[`2024-24708`]` **[Fee Reasonableness Reviews; Effect of Loss of Accreditation on Direct Payment](https://www.indexdata.org/fee-reasonableness-reviews-effect-of-loss-of-accreditation-on-direct-payment/)** — `2024-10-25` | `10 Pages`
 
-### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
-
-- `[`2025-02779`]` **[Fee Schedules; Fee Recovery for Fiscal Year 2025](https://www.indexdata.org/fee-schedules-fee-recovery-for-fiscal-year-2025-2/)** — `2025-02-19` | `29 Pages`
-- `[`2025-02591`]` **[Regulatory Guide: Acceptable ASME Section XI Inservice Inspection Code Cases](https://www.indexdata.org/regulatory-guide-acceptable-asme-section-xi-inservice-inspection-code-cases/)** — `2025-02-14` | `2 Pages`
-- `[`2025-02209`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM UMAX Canister Storage System, Certificate of Compliance No. 1040, Revision 1 to Amendment Nos. 0 Through 2](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-umax-canister-storage-system-certificate-of-compliance-no-1040-revision-1-to-amendment-nos-0-through-2/)** — `2025-02-04` | `3 Pages`
-- `[`2025-02208`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM UMAX Canister Storage System, Certificate of Compliance No. 1040, Revision 1 to Amendment Nos. 0 Through 2](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-umax-canister-storage-system-certificate-of-compliance-no-1040-revision-1-to-amendment-nos-0-through-2-2/)** — `2025-02-04` | `5 Pages`
-- `[`2025-02036`]` **[Draft Regulatory Guide: Acceptability of ASME Code, Section III, Division 5, “High Temperature Reactors”](https://www.indexdata.org/draft-regulatory-guide-acceptability-of-asme-code-section-iii-division-5-high-temperature-reactors/)** — `2025-02-03` | `2 Pages`
-- `[`2025-02065`]` **[Regulatory Guides: Criteria for Power Systems for Nuclear Power Plants and Criteria for the Protection of Class 1E Power Systems and Equipment for Nuclear Power Plants](https://www.indexdata.org/regulatory-guides-criteria-for-power-systems-for-nuclear-power-plants-and-criteria-for-the-protection-of-class-1e-power-systems-and-equipment-for-nuclear-power-plants/)** — `2025-01-31` | `2 Pages`
-- `[`2025-00974`]` **[Law Enforcement Response in Power Reactor Physical Protection Programs](https://www.indexdata.org/law-enforcement-response-in-power-reactor-physical-protection-programs/)** — `2025-01-17` | `4 Pages`
-- `[`2024-31471`]` **[Adjustment of Civil Penalties for Inflation for Fiscal Year 2025](https://www.indexdata.org/adjustment-of-civil-penalties-for-inflation-for-fiscal-year-2025/)** — `2025-01-15` | `3 Pages`
-- `[`2024-31096`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc. MAGNASTOR® Storage System, Certificate of Compliance No. 1031, Amendment No. 14 and Revisions to Amendment Nos. 0 Through 13](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-magnastor-storage-system-certificate-of-compliance-no-1031-amendment-no-14-and-revisions-to-amendment-nos-0-through-13/)** — `2025-01-03` | `4 Pages`
-- `[`2024-31095`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc. MAGNASTOR® Storage System, Certificate of Compliance No. 1031, Amendment No. 14 and Revisions to Amendment Nos. 0 Through 13](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-magnastor-storage-system-certificate-of-compliance-no-1031-amendment-no-14-and-revisions-to-amendment-nos-0-through-13-2/)** — `2025-01-03` | `7 Pages`
-- `[`2024-30721`]` **[Non-Power Production or Utilization Facility License Renewal](https://www.indexdata.org/non-power-production-or-utilization-facility-license-renewal/)** — `2024-12-30` | `20 Pages`
-- `[`2024-29418`]` **[Draft Regulatory Guide: Acceptability of ASME Code, Section III, Division 5, “High Temperature Reactors”](https://www.indexdata.org/draft-regulatory-guide-acceptability-of-asme-code-section-iii-division-5-high-temperature-reactors-2/)** — `2024-12-13` | `2 Pages`
-- `[`2024-27422`]` **[Technical Specifications for Nuclear Power Reactors](https://www.indexdata.org/technical-specifications-for-nuclear-power-reactors/)** — `2024-11-25` | `3 Pages`
-- `[`2024-26937`]` **[Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors](https://www.indexdata.org/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors-2/)** — `2024-11-22` | `2 Pages`
-- `[`2024-23434`]` **[Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors](https://www.indexdata.org/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors-3/)** — `2024-10-31` | `211 Pages`
-- `[`2024-25038`]` **[Draft Regulatory Guide: Qualification of Fiber-Optic Cables, Connections, and Optical Fiber Splices for Use in Safety Systems for Production and Utilization Facilities](https://www.indexdata.org/draft-regulatory-guide-qualification-of-fiber-optic-cables-connections-and-optical-fiber-splices-for-use-in-safety-systems-for-production-and-utilization-facilities/)** — `2024-10-29` | `2 Pages`
-- `[`2024-24059`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc. MAGNASTOR® Storage System, Certificate of Compliance No. 1031, Amendment No. 13](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-magnastor-storage-system-certificate-of-compliance-no-1031-amendment-no-13/)** — `2024-10-18` | `2 Pages`
-
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
 
@@ -1392,6 +1372,26 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2024-27349`]` **[Federal Motor Vehicle Safety Standards; Automatic Emergency Braking Systems for Light Vehicles](https://www.indexdata.org/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles/)** — `2024-11-26` | `22 Pages`
 - `[`2024-26985`]` **[Federal Motor Vehicle Safety Standards; Pedestrian Head Protection, Global Technical Regulation No. 9; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-pedestrian-head-protection-global-technical-regulation-no-9-incorporation-by-reference/)** — `2024-11-20` | `2 Pages`
 - `[`2024-24462`]` **[Federal Motor Vehicle Safety Standards; Anti-Ejection Glazing for Bus Portals; Bus Emergency Exits and Window Retention and Release](https://www.indexdata.org/federal-motor-vehicle-safety-standards-anti-ejection-glazing-for-bus-portals-bus-emergency-exits-and-window-retention-and-release/)** — `2024-10-30` | `31 Pages`
+
+### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
+
+- `[`2025-02779`]` **[Fee Schedules; Fee Recovery for Fiscal Year 2025](https://www.indexdata.org/fee-schedules-fee-recovery-for-fiscal-year-2025-2/)** — `2025-02-19` | `29 Pages`
+- `[`2025-02591`]` **[Regulatory Guide: Acceptable ASME Section XI Inservice Inspection Code Cases](https://www.indexdata.org/regulatory-guide-acceptable-asme-section-xi-inservice-inspection-code-cases/)** — `2025-02-14` | `2 Pages`
+- `[`2025-02209`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM UMAX Canister Storage System, Certificate of Compliance No. 1040, Revision 1 to Amendment Nos. 0 Through 2](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-umax-canister-storage-system-certificate-of-compliance-no-1040-revision-1-to-amendment-nos-0-through-2/)** — `2025-02-04` | `3 Pages`
+- `[`2025-02208`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM UMAX Canister Storage System, Certificate of Compliance No. 1040, Revision 1 to Amendment Nos. 0 Through 2](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-umax-canister-storage-system-certificate-of-compliance-no-1040-revision-1-to-amendment-nos-0-through-2-2/)** — `2025-02-04` | `5 Pages`
+- `[`2025-02036`]` **[Draft Regulatory Guide: Acceptability of ASME Code, Section III, Division 5, “High Temperature Reactors”](https://www.indexdata.org/draft-regulatory-guide-acceptability-of-asme-code-section-iii-division-5-high-temperature-reactors/)** — `2025-02-03` | `2 Pages`
+- `[`2025-02065`]` **[Regulatory Guides: Criteria for Power Systems for Nuclear Power Plants and Criteria for the Protection of Class 1E Power Systems and Equipment for Nuclear Power Plants](https://www.indexdata.org/regulatory-guides-criteria-for-power-systems-for-nuclear-power-plants-and-criteria-for-the-protection-of-class-1e-power-systems-and-equipment-for-nuclear-power-plants/)** — `2025-01-31` | `2 Pages`
+- `[`2025-00974`]` **[Law Enforcement Response in Power Reactor Physical Protection Programs](https://www.indexdata.org/law-enforcement-response-in-power-reactor-physical-protection-programs/)** — `2025-01-17` | `4 Pages`
+- `[`2024-31471`]` **[Adjustment of Civil Penalties for Inflation for Fiscal Year 2025](https://www.indexdata.org/adjustment-of-civil-penalties-for-inflation-for-fiscal-year-2025/)** — `2025-01-15` | `3 Pages`
+- `[`2024-31096`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc. MAGNASTOR® Storage System, Certificate of Compliance No. 1031, Amendment No. 14 and Revisions to Amendment Nos. 0 Through 13](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-magnastor-storage-system-certificate-of-compliance-no-1031-amendment-no-14-and-revisions-to-amendment-nos-0-through-13/)** — `2025-01-03` | `4 Pages`
+- `[`2024-31095`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc. MAGNASTOR® Storage System, Certificate of Compliance No. 1031, Amendment No. 14 and Revisions to Amendment Nos. 0 Through 13](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-magnastor-storage-system-certificate-of-compliance-no-1031-amendment-no-14-and-revisions-to-amendment-nos-0-through-13-2/)** — `2025-01-03` | `7 Pages`
+- `[`2024-30721`]` **[Non-Power Production or Utilization Facility License Renewal](https://www.indexdata.org/non-power-production-or-utilization-facility-license-renewal/)** — `2024-12-30` | `20 Pages`
+- `[`2024-29418`]` **[Draft Regulatory Guide: Acceptability of ASME Code, Section III, Division 5, “High Temperature Reactors”](https://www.indexdata.org/draft-regulatory-guide-acceptability-of-asme-code-section-iii-division-5-high-temperature-reactors-2/)** — `2024-12-13` | `2 Pages`
+- `[`2024-27422`]` **[Technical Specifications for Nuclear Power Reactors](https://www.indexdata.org/technical-specifications-for-nuclear-power-reactors/)** — `2024-11-25` | `3 Pages`
+- `[`2024-26937`]` **[Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors](https://www.indexdata.org/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors-2/)** — `2024-11-22` | `2 Pages`
+- `[`2024-23434`]` **[Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors](https://www.indexdata.org/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors-3/)** — `2024-10-31` | `211 Pages`
+- `[`2024-25038`]` **[Draft Regulatory Guide: Qualification of Fiber-Optic Cables, Connections, and Optical Fiber Splices for Use in Safety Systems for Production and Utilization Facilities](https://www.indexdata.org/draft-regulatory-guide-qualification-of-fiber-optic-cables-connections-and-optical-fiber-splices-for-use-in-safety-systems-for-production-and-utilization-facilities/)** — `2024-10-29` | `2 Pages`
 
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)

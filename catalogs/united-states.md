@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,266` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 10:02 UTC`
+**Last Automated Sync:** `2026-11-11 10:48 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,266)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,268)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -330,6 +330,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr9612eh`]` **[H.R. 9612 (EH) - American Enrichment Deployment Act](https://www.indexdata.org/h-r-9612-eh-american-enrichment-deployment-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr3978eh`]` **[H.R. 3978 (EH) - Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act](https://www.indexdata.org/h-r-3978-eh-nuclear-refuel-recycling-efficient-fuels-utilizing-expedited-licensing-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr10990ih`]` **[H.R. 10990 (IH) - For the relief of Paula Valentina Albornoz Hernández, Eliana Karina Hernández Peranquive, Nicole Alejandra Albornoz Hernández, and Leonardo Albornoz Rodríguez.](https://www.indexdata.org/h-r-10990-ih-for-the-relief-of-paula-valentina-albornoz-hernandez-eliana-karina-hernandez-peranquive-nicole-alejandra-albornoz-hernandez-and-leonardo-albornoz-rodriguez/)** — `2026-11-01` | `5 Pages`
+- `[`US-BILLS-119hr10986ih`]` **[H.R. 10986 (IH) - Lebanon TPS Act](https://www.indexdata.org/h-r-10986-ih-lebanon-tps-act/)** — `2026-11-01` | `2 Pages`
+- `[`US-BILLS-119hr10980ih`]` **[H.R. 10980 (IH) - Promoting Resilient Buildings Act](https://www.indexdata.org/h-r-10980-ih-promoting-resilient-buildings-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10975ih`]` **[H.R. 10975 (IH) - Fair Manufactured Housing Lending Act](https://www.indexdata.org/h-r-10975-ih-fair-manufactured-housing-lending-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10973ih`]` **[H.R. 10973 (IH) - Master Sergeant Roy P. Benavidez VA Clinic Act of 2026](https://www.indexdata.org/h-r-10973-ih-master-sergeant-roy-p-benavidez-va-clinic-act-of-2026/)** — `2026-11-01` | `9 Pages`
 - `[`US-BILLS-119hr10971ih`]` **[H.R. 10971 (IH) - Gulf Maritime Restoration Act](https://www.indexdata.org/h-r-10971-ih-gulf-maritime-restoration-act/)** — `2026-11-01` | `2 Pages`
@@ -1728,16 +1730,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2026-19161`]` **[International Traffic in Arms Regulations: Clarifying Policies of Denial, Updating the Major Non-NATO Ally List, and Minor Corrections](https://www.indexdata.org/international-traffic-in-arms-regulations-clarifying-policies-of-denial-updating-the-major-non-nato-ally-list-and-minor-corrections/)** — `2026-09-18` | `5 Pages`
 - `[`2026-18630`]` **[Amendment to the International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus/)** — `2026-09-11` | `3 Pages`
 
-### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
-
-- `[`2026-22826`]` **[Pecans Grown in the States of Alabama, Arkansas, Arizona, California, Florida, Georgia, Kansas, Louisiana, Missouri, Mississippi, North Carolina, New Mexico, Oklahoma, South Carolina, and Texas; Changes to Membership and Handling Requirements](https://www.indexdata.org/pecans-grown-in-the-states-of-alabama-arkansas-arizona-california-florida-georgia-kansas-louisiana-missouri-mississippi-north-carolina-new-mexico-oklahoma-south-carolina-and-texas-chang/)** — `2026-11-08` | `5 Pages`
-- `[`2026-20792`]` **[Raisins Produced From Grapes Grown in California; Order Amending Marketing Order No. 989](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-order-amending-marketing-order-no-989/)** — `2026-10-09` | `6 Pages`
-- `[`2026-20622`]` **[Almonds Grown in California; Amendment to the Marketing Order](https://www.indexdata.org/almonds-grown-in-california-amendment-to-the-marketing-order/)** — `2026-10-08` | `4 Pages`
-- `[`2026-19887`]` **[Almonds Grown in California; Extension of Inedible Disposition Obligation Deadline](https://www.indexdata.org/almonds-grown-in-california-extension-of-inedible-disposition-obligation-deadline/)** — `2026-09-29` | `3 Pages`
-- `[`2026-19389`]` **[Softwood Lumber Board Assessment Rate Clarification and Changes to Membership](https://www.indexdata.org/softwood-lumber-board-assessment-rate-clarification-and-changes-to-membership/)** — `2026-09-22` | `7 Pages`
-- `[`2026-17715`]` **[Honey Packers and Importers; Increased Assessment Rate](https://www.indexdata.org/honey-packers-and-importers-increased-assessment-rate/)** — `2026-08-31` | `3 Pages`
-
 ### [Executive Office of the President (The White House)](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/feed/)
 
@@ -1777,6 +1769,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-h
 - `[`US-HI-HISC-12126`]` **[DRAFT-Minutes-–-September-29-2026-Copy-1](https://www.indexdata.org/draft-minutes-september-29-2026-copy-1/)** — `2026-11-01` | `9 Pages`
 - `[`US-HI-HISC-12105`]` **[HISC 9.29.26 meeting](https://www.indexdata.org/hisc-9-29-26-meeting/)** — `2026-10-01` | `3 Pages`
 - `[`US-HI-HISC-12094`]` **[Agenda – HISC Meeting_09292026](https://www.indexdata.org/agenda-hisc-meeting_09292026/)** — `2026-09-01` | `5 Pages`
+
+### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
+
+- `[`2026-22826`]` **[Pecans Grown in the States of Alabama, Arkansas, Arizona, California, Florida, Georgia, Kansas, Louisiana, Missouri, Mississippi, North Carolina, New Mexico, Oklahoma, South Carolina, and Texas; Changes to Membership and Handling Requirements](https://www.indexdata.org/pecans-grown-in-the-states-of-alabama-arkansas-arizona-california-florida-georgia-kansas-louisiana-missouri-mississippi-north-carolina-new-mexico-oklahoma-south-carolina-and-texas-chang/)** — `2026-11-08` | `5 Pages`
+- `[`2026-20792`]` **[Raisins Produced From Grapes Grown in California; Order Amending Marketing Order No. 989](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-order-amending-marketing-order-no-989/)** — `2026-10-09` | `6 Pages`
+- `[`2026-20622`]` **[Almonds Grown in California; Amendment to the Marketing Order](https://www.indexdata.org/almonds-grown-in-california-amendment-to-the-marketing-order/)** — `2026-10-08` | `4 Pages`
+- `[`2026-19887`]` **[Almonds Grown in California; Extension of Inedible Disposition Obligation Deadline](https://www.indexdata.org/almonds-grown-in-california-extension-of-inedible-disposition-obligation-deadline/)** — `2026-09-29` | `3 Pages`
+- `[`2026-19389`]` **[Softwood Lumber Board Assessment Rate Clarification and Changes to Membership](https://www.indexdata.org/softwood-lumber-board-assessment-rate-clarification-and-changes-to-membership/)** — `2026-09-22` | `7 Pages`
 
 ### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
@@ -1917,13 +1918,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commerce-d
 - `[`2026-21764`]` **[Streamlining the Regulations Governing Testimony by Employees and the Production of Documents in Legal Proceedings; Correction](https://www.indexdata.org/streamlining-the-regulations-governing-testimony-by-employees-and-the-production-of-documents-in-legal-proceedings-correction/)** — `2026-10-24` | `2 Pages`
 - `[`2026-21272`]` **[Streamlining the Regulations Governing Testimony by Employees and the Production of Documents in Legal Proceedings](https://www.indexdata.org/streamlining-the-regulations-governing-testimony-by-employees-and-the-production-of-documents-in-legal-proceedings/)** — `2026-10-19` | `4 Pages`
 
-### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-
-- `[`2026-22903`]` **[Unemployment Insurance Program National Minimum Weekly Work Search Requirements](https://www.indexdata.org/unemployment-insurance-program-national-minimum-weekly-work-search-requirements/)** — `2026-11-10` | `22 Pages`
-- `[`2026-18978`]` **[Federal-State Unemployment Compensation (UC) Program; Data Availability](https://www.indexdata.org/federal-state-unemployment-compensation-uc-program-data-availability/)** — `2026-09-16` | `18 Pages`
-- `[`2026-17726`]` **[Rescission of Coordinated Enforcement Regulations](https://www.indexdata.org/rescission-of-coordinated-enforcement-regulations/)** — `2026-08-31` | `5 Pages`
-
 ### [Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/mine-safety-and-health-administration/](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 
@@ -1986,6 +1980,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-depart
 - `[`US-VA-VHA-3182`]` **[VHA-NRM-Project-Awards-FY2026-Q4](https://www.indexdata.org/vha-nrm-project-awards-fy2026-q4/)** — `2026-10-01` | `13 Pages`
 - `[`US-VA-VHA-3150`]` **[RIO Contact List](https://www.indexdata.org/rio-contact-list/)** — `2026-10-01` | `28 Pages`
 - `[`US-VA-VHA-3145`]` **[CBIAR-Direct-Post-FY27-508 FINAL](https://www.indexdata.org/cbiar-direct-post-fy27-508-final/)** — `2026-09-01` | `2 Pages`
+
+### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
+
+- `[`2026-22903`]` **[Unemployment Insurance Program National Minimum Weekly Work Search Requirements](https://www.indexdata.org/unemployment-insurance-program-national-minimum-weekly-work-search-requirements/)** — `2026-11-10` | `22 Pages`
+- `[`2026-18978`]` **[Federal-State Unemployment Compensation (UC) Program; Data Availability](https://www.indexdata.org/federal-state-unemployment-compensation-uc-program-data-availability/)** — `2026-09-16` | `18 Pages`
 
 ### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)

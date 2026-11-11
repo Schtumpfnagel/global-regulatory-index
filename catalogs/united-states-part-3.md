@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,266` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 10:02 UTC`
+**Last Automated Sync:** `2026-11-11 10:48 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,266)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,268)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -805,7 +805,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-00003`]` **[Extension of the State Implementation Plan Due Date for the Regional Haze Third Implementation Period](https://www.indexdata.org/extension-of-the-state-implementation-plan-due-date-for-the-regional-haze-third-implementation-period/)** — `2026-01-06` | `5 Pages`
 - `[`2025-24207`]` **[Air Plan Approval; Michigan and Minnesota; Revision to Taconite Federal Implementation Plan](https://www.indexdata.org/air-plan-approval-michigan-and-minnesota-revision-to-taconite-federal-implementation-plan/)** — `2026-01-02` | `10 Pages`
 - `[`2025-24202`]` **[Congressional Review Act Revocation of 2024 Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act](https://www.indexdata.org/congressional-review-act-revocation-of-2024-review-of-final-rule-reclassification-of-major-sources-as-area-sources-under-section-112-of-the-clean-air-act/)** — `2026-01-02` | `4 Pages`
-- `[`2025-24200`]` **[Proposed Revisions of the Nonattainment Designation for the 2008 and 2015 Ozone Standards and Clean Data Determinations for the 2008 and 2015 Ozone Standards: Cecil County, MD and New Castle County, DE](https://www.indexdata.org/proposed-revisions-of-the-nonattainment-designation-for-the-2008-and-2015-ozone-standards-and-clean-data-determinations-for-the-2008-and-2015-ozone-standards-cecil-county-md-and-new-castle-county-d-2/)** — `2026-01-02` | `7 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1636,6 +1635,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-a
 - `[`2026-00634`]` **[Edith Nourse Rogers STEM Scholarship](https://www.indexdata.org/edith-nourse-rogers-stem-scholarship/)** — `2026-01-15` | `7 Pages`
 - `[`2026-00237`]` **[Apportionments](https://www.indexdata.org/apportionments/)** — `2026-01-09` | `9 Pages`
 
+### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+
+- `[`2026-09383`]` **[Restoring Flexibility To Support Head Start Program Access](https://www.indexdata.org/restoring-flexibility-to-support-head-start-program-access/)** — `2026-05-12` | `8 Pages`
+- `[`2026-06760`]` **[Reducing Bureaucracy and Burden for Community Services Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-community-services-programs-2/)** — `2026-04-08` | `4 Pages`
+- `[`2026-06646`]` **[Reducing Bureaucracy and Burden for Children, Youth, and Family Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-children-youth-and-family-programs-2/)** — `2026-04-06` | `5 Pages`
+- `[`2026-06633`]` **[Reducing Bureaucracy and Burden in Family Violence and Prevention Services](https://www.indexdata.org/reducing-bureaucracy-and-burden-in-family-violence-and-prevention-services-2/)** — `2026-04-06` | `4 Pages`
+- `[`2026-06632`]` **[Work Participation Rate Calculation Changes: Recalibration of the Caseload Reduction Credit and Prohibition of Small Checks in Work Participation Rate Calculation](https://www.indexdata.org/work-participation-rate-calculation-changes-recalibration-of-the-caseload-reduction-credit-and-prohibition-of-small-checks-in-work-participation-rate-calculation/)** — `2026-04-06` | `6 Pages`
+- `[`2026-06027`]` **[Reducing Bureaucracy and Burden for Refugee Resettlement Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-refugee-resettlement-programs/)** — `2026-03-27` | `3 Pages`
+- `[`2026-05997`]` **[Reducing Bureaucracy and Burden for Human Services and Emergency Response Programs-Repatriation Program](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation-program-2/)** — `2026-03-27` | `4 Pages`
+- `[`2026-05994`]` **[Reducing Bureaucracy and Burden for Native American Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-native-american-programs-2/)** — `2026-03-27` | `4 Pages`
+
 ### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
 
@@ -1647,28 +1658,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-ser
 - `[`2026-02853`]` **[Subsistence Management Regulations for Public Lands in Alaska-2027-28 and 2028-29 Subsistence Taking of Fish and Shellfish Regulations](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-2027-28-and-2028-29-subsistence-taking-of-fish-and-shellfish-regulations/)** — `2026-02-12` | `6 Pages`
 - `[`2026-02392`]` **[Project-Level Predecisional Administrative Review Process](https://www.indexdata.org/project-level-predecisional-administrative-review-process-2/)** — `2026-02-06` | `12 Pages`
 - `[`2026-01655`]` **[Oil and Gas Resources](https://www.indexdata.org/oil-and-gas-resources/)** — `2026-01-28` | `23 Pages`
-
-### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-
-- `[`2026-06760`]` **[Reducing Bureaucracy and Burden for Community Services Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-community-services-programs-2/)** — `2026-04-08` | `4 Pages`
-- `[`2026-06646`]` **[Reducing Bureaucracy and Burden for Children, Youth, and Family Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-children-youth-and-family-programs-2/)** — `2026-04-06` | `5 Pages`
-- `[`2026-06633`]` **[Reducing Bureaucracy and Burden in Family Violence and Prevention Services](https://www.indexdata.org/reducing-bureaucracy-and-burden-in-family-violence-and-prevention-services-2/)** — `2026-04-06` | `4 Pages`
-- `[`2026-06632`]` **[Work Participation Rate Calculation Changes: Recalibration of the Caseload Reduction Credit and Prohibition of Small Checks in Work Participation Rate Calculation](https://www.indexdata.org/work-participation-rate-calculation-changes-recalibration-of-the-caseload-reduction-credit-and-prohibition-of-small-checks-in-work-participation-rate-calculation/)** — `2026-04-06` | `6 Pages`
-- `[`2026-06027`]` **[Reducing Bureaucracy and Burden for Refugee Resettlement Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-refugee-resettlement-programs/)** — `2026-03-27` | `3 Pages`
-- `[`2026-05997`]` **[Reducing Bureaucracy and Burden for Human Services and Emergency Response Programs-Repatriation Program](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation-program-2/)** — `2026-03-27` | `4 Pages`
-- `[`2026-05994`]` **[Reducing Bureaucracy and Burden for Native American Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-native-american-programs-2/)** — `2026-03-27` | `4 Pages`
-
-### [Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-crimes-enforcement-network/](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
-
-- `[`2026-07416`]` **[Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving CIBanco S.A., Institución de Banca Multiple; Amendment](https://www.indexdata.org/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-cibanco-s-a-institucion-de-banca-multiple-amendment/)** — `2026-04-16` | `2 Pages`
-- `[`2026-07033`]` **[Anti-Money Laundering and Countering the Financing of Terrorism Programs](https://www.indexdata.org/anti-money-laundering-and-countering-the-financing-of-terrorism-programs-2/)** — `2026-04-10` | `58 Pages`
-- `[`2026-06271`]` **[Whistleblower Incentives and Protections](https://www.indexdata.org/whistleblower-incentives-and-protections/)** — `2026-04-01` | `59 Pages`
-- `[`2026-04641`]` **[Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border](https://www.indexdata.org/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money-services-businesses-along-the-southwest-border-2/)** — `2026-03-10` | `2 Pages`
-- `[`2026-04033`]` **[Proposal of Special Measure Regarding MBaer Merchant Bank AG as a Financial Institution Operating Outside of the United States of Primary Money Laundering Concern](https://www.indexdata.org/proposal-of-special-measure-regarding-mbaer-merchant-bank-ag-as-a-financial-institution-operating-outside-of-the-united-states-of-primary-money-laundering-concern/)** — `2026-03-02` | `15 Pages`
-- `[`2026-00449`]` **[Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Financial Institutions in Minnesota](https://www.indexdata.org/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-financial-institutions-in-minnesota-2/)** — `2026-01-13` | `3 Pages`
-- `[`2025-24184`]` **[Delaying the Effective Date of the Anti-Money Laundering/Countering the Financing of Terrorism Program and Suspicious Activity Report Filing Requirements for Registered Investment Advisers and Exempt Reporting Advisers](https://www.indexdata.org/delaying-the-effective-date-of-the-anti-money-laundering-countering-the-financing-of-terrorism-program-and-suspicious-activity-report-filing-requirements-for-registered-investment-advisers-and-exemp-2/)** — `2026-01-02` | `6 Pages`
 
 ### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
@@ -1744,6 +1733,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2026-02866`]` **[Revision of the Negative Option Rule, Withdrawal of the CARS Rule, Removal of the Non-Compete Rule To Conform These Rules to Federal Court Decisions](https://www.indexdata.org/revision-of-the-negative-option-rule-withdrawal-of-the-cars-rule-removal-of-the-non-compete-rule-to-conform-these-rules-to-federal-court-decisions/)** — `2026-02-12` | `4 Pages`
 - `[`2026-01230`]` **[Petition for Rulemaking of Andrew Gonzalez](https://www.indexdata.org/petition-for-rulemaking-of-andrew-gonzalez-2/)** — `2026-01-23` | `2 Pages`
 
+### [Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-crimes-enforcement-network/](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
+
+- `[`2026-07416`]` **[Imposition of Special Measure Prohibiting Certain Transmittals of Funds Involving CIBanco S.A., Institución de Banca Multiple; Amendment](https://www.indexdata.org/imposition-of-special-measure-prohibiting-certain-transmittals-of-funds-involving-cibanco-s-a-institucion-de-banca-multiple-amendment/)** — `2026-04-16` | `2 Pages`
+- `[`2026-07033`]` **[Anti-Money Laundering and Countering the Financing of Terrorism Programs](https://www.indexdata.org/anti-money-laundering-and-countering-the-financing-of-terrorism-programs-2/)** — `2026-04-10` | `58 Pages`
+- `[`2026-06271`]` **[Whistleblower Incentives and Protections](https://www.indexdata.org/whistleblower-incentives-and-protections/)** — `2026-04-01` | `59 Pages`
+- `[`2026-04641`]` **[Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border](https://www.indexdata.org/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money-services-businesses-along-the-southwest-border-2/)** — `2026-03-10` | `2 Pages`
+- `[`2026-04033`]` **[Proposal of Special Measure Regarding MBaer Merchant Bank AG as a Financial Institution Operating Outside of the United States of Primary Money Laundering Concern](https://www.indexdata.org/proposal-of-special-measure-regarding-mbaer-merchant-bank-ag-as-a-financial-institution-operating-outside-of-the-united-states-of-primary-money-laundering-concern/)** — `2026-03-02` | `15 Pages`
+- `[`2026-00449`]` **[Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Financial Institutions in Minnesota](https://www.indexdata.org/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-financial-institutions-in-minnesota-2/)** — `2026-01-13` | `3 Pages`
+
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 
@@ -1753,6 +1752,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/general-se
 - `[`2026-00929`]` **[Federal Travel Regulation; Reorganizing and Streamlining the Federal Travel Regulation To Improve Operational Efficiency](https://www.indexdata.org/federal-travel-regulation-reorganizing-and-streamlining-the-federal-travel-regulation-to-improve-operational-efficiency/)** — `2026-01-20` | `2 Pages`
 - `[`2026-00928`]` **[Federal Management Regulation; Updating the FMR To Align With the Administration's Deregulatory Priorities](https://www.indexdata.org/federal-management-regulation-updating-the-fmr-to-align-with-the-administrations-deregulatory-priorities/)** — `2026-01-20` | `2 Pages`
 - `[`2026-00927`]` **[Federal Management Regulation; Conduct on Federal Property](https://www.indexdata.org/federal-management-regulation-conduct-on-federal-property/)** — `2026-01-20` | `2 Pages`
+
+### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+
+- `[`2026-09382`]` **[Restoring Flexibility in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/restoring-flexibility-in-the-child-care-and-development-fund-ccdf/)** — `2026-05-12` | `13 Pages`
+- `[`2026-09266`]` **[Extension of Compliance Dates for Nondiscrimination on the Basis of Disability; Accessibility of Web Content and Mobile Applications of Recipients of Departmental Financial Assistance](https://www.indexdata.org/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web-content-and-mobile-applications-of-recipients-of-departmental-financial-assistance/)** — `2026-05-11` | `12 Pages`
+- `[`2026-04981`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs-Authorized Testing Panels](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs-authorized-testing-panels/)** — `2026-03-13` | `4 Pages`
+- `[`2026-04515`]` **[Designated Placement Requirements Under Titles IV-E and IV-B for LGBTQI+ Children; Rescission](https://www.indexdata.org/designated-placement-requirements-under-titles-iv-e-and-iv-b-for-lgbtqi-children-rescission-2/)** — `2026-03-06` | `3 Pages`
+- `[`2026-01688`]` **[Annual Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/annual-civil-monetary-penalties-inflation-adjustment/)** — `2026-01-28` | `18 Pages`
+- `[`2025-24272`]` **[Restoring Flexibility in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/restoring-flexibility-in-the-child-care-and-development-fund-ccdf-2/)** — `2026-01-05` | `9 Pages`
 
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -1819,15 +1828,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-re
 - `[`2026-05544`]` **[Rules of Procedure; Correction](https://www.indexdata.org/rules-of-procedure-correction/)** — `2026-03-20` | `2 Pages`
 - `[`2026-04373`]` **[Rules Regarding Delegation of Authority; Correction](https://www.indexdata.org/rules-regarding-delegation-of-authority-correction/)** — `2026-03-05` | `2 Pages`
 - `[`2026-03818`]` **[Prohibition on Use of Reputation Risk or Other Supervisory Tools To Encourage or Compel Banking Organizations To Engage in Politicized or Unlawful Discrimination](https://www.indexdata.org/prohibition-on-use-of-reputation-risk-or-other-supervisory-tools-to-encourage-or-compel-banking-organizations-to-engage-in-politicized-or-unlawful-discrimination/)** — `2026-02-26` | `6 Pages`
-
-### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-
-- `[`2026-09266`]` **[Extension of Compliance Dates for Nondiscrimination on the Basis of Disability; Accessibility of Web Content and Mobile Applications of Recipients of Departmental Financial Assistance](https://www.indexdata.org/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web-content-and-mobile-applications-of-recipients-of-departmental-financial-assistance/)** — `2026-05-11` | `12 Pages`
-- `[`2026-04981`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs-Authorized Testing Panels](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs-authorized-testing-panels/)** — `2026-03-13` | `4 Pages`
-- `[`2026-04515`]` **[Designated Placement Requirements Under Titles IV-E and IV-B for LGBTQI+ Children; Rescission](https://www.indexdata.org/designated-placement-requirements-under-titles-iv-e-and-iv-b-for-lgbtqi-children-rescission-2/)** — `2026-03-06` | `3 Pages`
-- `[`2026-01688`]` **[Annual Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/annual-civil-monetary-penalties-inflation-adjustment/)** — `2026-01-28` | `18 Pages`
-- `[`2025-24272`]` **[Restoring Flexibility in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/restoring-flexibility-in-the-child-care-and-development-fund-ccdf-2/)** — `2026-01-05` | `9 Pages`
 
 ### [U S Customs And Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)

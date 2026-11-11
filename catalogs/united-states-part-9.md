@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,266` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,268` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 10:02 UTC`
+**Last Automated Sync:** `2026-11-11 10:48 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`297` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,266)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,268)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -599,12 +599,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-22162`]` **[Amendment of Class D and Class E Airspace; Philadelphia, PA](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-philadelphia-pa/)** — `2023-10-05` | `2 Pages`
 - `[`2023-22144`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-295/)** — `2023-10-05` | `3 Pages`
 - `[`2023-22086`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-77/)** — `2023-10-05` | `3 Pages`
-- `[`2023-22085`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-296/)** — `2023-10-05` | `4 Pages`
-- `[`2023-22083`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-53/)** — `2023-10-05` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-03004`]` **[Proposed Deletion From the National Priorities List](https://www.indexdata.org/proposed-deletion-from-the-national-priorities-list-5/)** — `2024-02-16` | `4 Pages`
 - `[`2024-03003`]` **[Deletion From the National Priorities List](https://www.indexdata.org/deletion-from-the-national-priorities-list-5/)** — `2024-02-16` | `3 Pages`
 - `[`2024-01064`]` **[Supplemental Air Plan Actions: Interstate Transport of Air Pollution for the 2015 8-Hour Ozone National Ambient Air Quality Standards and Supplemental Federal “Good Neighbor Plan” Requirements for the 2015 8-Hour Ozone National Ambient Air Quality Standards](https://www.indexdata.org/supplemental-air-plan-actions-interstate-transport-of-air-pollution-for-the-2015-8-hour-ozone-national-ambient-air-quality-standards-and-supplemental-federal-good-neighbor-plan-requ/)** — `2024-02-16` | `76 Pages`
 - `[`2024-02634`]` **[New Source Performance Standards Review for Steel Plants: Electric Arc Furnaces and Argon-Oxygen Decarburization Vessels; Corrections](https://www.indexdata.org/new-source-performance-standards-review-for-steel-plants-electric-arc-furnaces-and-argon-oxygen-decarburization-vessels-corrections/)** — `2024-02-14` | `11 Pages`
@@ -871,6 +870,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-03013`]` **[List of Fisheries for 2024](https://www.indexdata.org/list-of-fisheries-for-2024/)** — `2024-02-16` | `26 Pages`
 - `[`2024-02966`]` **[Endangered and Threatened Wildlife and Plants: Listing the Queen Conch as Threatened Under the Endangered Species Act (ESA)](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-listing-the-queen-conch-as-threatened-under-the-endangered-species-act-esa/)** — `2024-02-14` | `19 Pages`
 - `[`2024-01363`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Empire Wind Project, Offshore New York](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-empire-wind-project-offshore-new-york/)** — `2024-02-14` | `90 Pages`
 - `[`2024-02910`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Angling Category Southern Area Trophy Fishery for 2024](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category-southern-area-trophy-fishery-for-2024/)** — `2024-02-13` | `2 Pages`
