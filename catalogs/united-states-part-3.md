@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,243` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,245` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 04:56 UTC`
+**Last Automated Sync:** `2026-11-11 05:56 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`287` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`289` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,243)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,245)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-09178`]` **[Amendment of Class E Airspace Over Honesdale, PA](https://www.indexdata.org/amendment-of-class-e-airspace-over-honesdale-pa/)** — `2026-05-08` | `2 Pages`
 - `[`2026-09172`]` **[Airworthiness Directives; Embraer S.A. Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-airplanes-4/)** — `2026-05-08` | `4 Pages`
 - `[`2026-09171`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-49/)** — `2026-05-08` | `4 Pages`
 - `[`2026-09170`]` **[Airworthiness Directives; Gulfstream Aerospace LP Airplanes](https://www.indexdata.org/airworthiness-directives-gulfstream-aerospace-lp-airplanes/)** — `2026-05-08` | `3 Pages`
@@ -608,11 +609,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-24173`]` **[Airworthiness Directives; General Electric Company Engines](https://www.indexdata.org/airworthiness-directives-general-electric-company-engines-6/)** — `2026-01-02` | `3 Pages`
 - `[`2025-24026`]` **[Modification of Class E Airspace; Denver International Airport, Denver, CO](https://www.indexdata.org/modification-of-class-e-airspace-denver-international-airport-denver-co-2/)** — `2025-12-30` | `3 Pages`
 - `[`2025-24022`]` **[Modification of Class E Airspace; Ketchikan International Airport, Ketchikan, AK](https://www.indexdata.org/modification-of-class-e-airspace-ketchikan-international-airport-ketchikan-ak-2/)** — `2025-12-30` | `3 Pages`
-- `[`2025-24014`]` **[Airworthiness Directives; Aerospace & Defense Oxygen Systems SaS (Part of Safran Aerosystems) (Formerly Known as Air Liquide)](https://www.indexdata.org/airworthiness-directives-aerospace-defense-oxygen-systems-sas-part-of-safran-aerosystems-formerly-known-as-air-liquide/)** — `2025-12-30` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-09179`]` **[Definition of Hazardous Waste Applicable to Corrective Action for Releases From Solid Waste Management Units; Withdrawal](https://www.indexdata.org/definition-of-hazardous-waste-applicable-to-corrective-action-for-releases-from-solid-waste-management-units-withdrawal/)** — `2026-05-08` | `3 Pages`
 - `[`2026-09146`]` **[Air Plan Approval; NC; Removal of the State's Vehicle Inspection and Maintenance Program](https://www.indexdata.org/air-plan-approval-nc-removal-of-the-states-vehicle-inspection-and-maintenance-program/)** — `2026-05-08` | `10 Pages`
 - `[`2026-09055`]` **[Air Quality Plan; California; San Diego County Air Pollution Control District; Landfill Flares](https://www.indexdata.org/air-quality-plan-california-san-diego-county-air-pollution-control-district-landfill-flares/)** — `2026-05-07` | `3 Pages`
 - `[`2026-09054`]` **[Air Plan Approval; Missouri; Attainment Plan for the New Madrid Nonattainment Area for the 2010 1-Hour Sulfur Dioxide National Ambient Air Quality Standard](https://www.indexdata.org/air-plan-approval-missouri-attainment-plan-for-the-new-madrid-nonattainment-area-for-the-2010-1-hour-sulfur-dioxide-national-ambient-air-quality-standard/)** — `2026-05-07` | `15 Pages`
@@ -918,7 +919,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2025-24264`]` **[Atlantic Highly Migratory Species; Revisions to Commercial Atlantic Blacknose and Recreational Atlantic Shark Fisheries Management Measures](https://www.indexdata.org/atlantic-highly-migratory-species-revisions-to-commercial-atlantic-blacknose-and-recreational-atlantic-shark-fisheries-management-measures/)** — `2026-01-05` | `13 Pages`
 - `[`2025-24203`]` **[Taking of Marine Mammals Incidental to Commercial Fishing Operations; Harbor Porpoise Take Reduction Plan; Change to Gillnet Gear Requirements](https://www.indexdata.org/taking-of-marine-mammals-incidental-to-commercial-fishing-operations-harbor-porpoise-take-reduction-plan-change-to-gillnet-gear-requirements/)** — `2026-01-02` | `6 Pages`
 - `[`2025-24028`]` **[Coastal Migratory Pelagic Resources of the Gulf of America and Atlantic Region; 2025-2026 Commercial Accountability Measure for the King Mackerel Run-Around Gillnet Fishery](https://www.indexdata.org/coastal-migratory-pelagic-resources-of-the-gulf-of-america-and-atlantic-region-2025-2026-commercial-accountability-measure-for-the-king-mackerel-run-around-gillnet-fishery/)** — `2025-12-30` | `2 Pages`
-- `[`2025-24016`]` **[Fisheries of the Northeastern United States; Atlantic Bluefish Fishery; Quota Transfer From New Jersey to North Carolina](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-jersey-to-north-carolina-2/)** — `2025-12-30` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)

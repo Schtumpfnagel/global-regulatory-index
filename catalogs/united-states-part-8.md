@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,243` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,245` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 04:56 UTC`
+**Last Automated Sync:** `2026-11-11 05:56 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`287` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`289` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,243)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,245)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -800,6 +800,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-13253`]` **[Safety Zone; Trenton DTE Boiler Demolition, Trenton, MI](https://www.indexdata.org/safety-zone-trenton-dte-boiler-demolition-trenton-mi/)** — `2024-06-17` | `2 Pages`
 - `[`2024-13233`]` **[Safety Zone; Key West July 4th Fireworks, Key West, FL](https://www.indexdata.org/safety-zone-key-west-july-4th-fireworks-key-west-fl/)** — `2024-06-17` | `3 Pages`
 - `[`2024-13231`]` **[Safety Zone; Atlantic Ocean, Key West, FL](https://www.indexdata.org/safety-zone-atlantic-ocean-key-west-fl/)** — `2024-06-17` | `2 Pages`
 - `[`2024-13146`]` **[Fixed and Moving Safety Zone; Vicinity of the M/V HAPPY DIAMOND; Houston Ship Channel and Seabrook, TX](https://www.indexdata.org/fixed-and-moving-safety-zone-vicinity-of-the-m-v-happy-diamond-houston-ship-channel-and-seabrook-tx/)** — `2024-06-17` | `4 Pages`
@@ -1165,6 +1166,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
+- `[`2024-13236`]` **[Requirements for Additional Traceability Records for Certain Foods; Proposed Exemption for Cottage Cheese Regulated by the National Conference on Interstate Milk Shipments Grade “A” Pasteurized Milk Ordinance](https://www.indexdata.org/requirements-for-additional-traceability-records-for-certain-foods-proposed-exemption-for-cottage-cheese-regulated-by-the-national-conference-on-interstate-milk-shipments-grade-a-pa/)** — `2024-06-17` | `4 Pages`
 - `[`2024-12533`]` **[Food Additives Permitted in Feed and Drinking Water of Animals; Ethyl Cellulose](https://www.indexdata.org/food-additives-permitted-in-feed-and-drinking-water-of-animals-ethyl-cellulose/)** — `2024-06-07` | `2 Pages`
 - `[`2024-12027`]` **[Laboratory Accreditation for Analyses of Foods; Program Implementation; Determination of Sufficient Laboratory Capacity for Import-Related Food Testing Covered by the Regulation](https://www.indexdata.org/laboratory-accreditation-for-analyses-of-foods-program-implementation-determination-of-sufficient-laboratory-capacity-for-import-related-food-testing-covered-by-the-regulation/)** — `2024-06-03` | `2 Pages`
 - `[`2024-11987`]` **[Hazard Analysis and Risk-Based Preventive Controls for Human Food; Draft Guidance for Industry; Appendix 1; Extension of Comment Period](https://www.indexdata.org/hazard-analysis-and-risk-based-preventive-controls-for-human-food-draft-guidance-for-industry-appendix-1-extension-of-comment-period/)** — `2024-05-31` | `2 Pages`
@@ -1501,21 +1503,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-s
 - `[`2024-06851`]` **[Harmonization of the Fees and Application Procedures for the Global Entry and SENTRI Programs and Other Changes](https://www.indexdata.org/harmonization-of-the-fees-and-application-procedures-for-the-global-entry-and-sentri-programs-and-other-changes/)** — `2024-04-02` | `24 Pages`
 - `[`2024-05935`]` **[U.S. Citizenship and Immigration Services Fee Schedule and Changes to Certain Other Immigration Benefit Request Requirements; Correction](https://www.indexdata.org/u-s-citizenship-and-immigration-services-fee-schedule-and-changes-to-certain-other-immigration-benefit-request-requirements-correction/)** — `2024-03-21` | `5 Pages`
 
-### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
-
-- `[`2024-12192`]` **[General Services Administration Acquisition Regulation; Reduction of Single-Use Plastic Packaging](https://www.indexdata.org/general-services-administration-acquisition-regulation-reduction-of-single-use-plastic-packaging/)** — `2024-06-06` | `8 Pages`
-- `[`2024-09485`]` **[Federal Travel Regulation (FTR); Relocation Allowance-Temporary Quarters Subsistence Expenses (TQSE)](https://www.indexdata.org/federal-travel-regulation-ftr-relocation-allowance-temporary-quarters-subsistence-expenses-tqse/)** — `2024-05-07` | `10 Pages`
-- `[`2024-08452`]` **[Federal Management Regulation; Designation of Authority and Sustainable Siting](https://www.indexdata.org/federal-management-regulation-designation-of-authority-and-sustainable-siting/)** — `2024-04-22` | `13 Pages`
-- `[`2024-08215`]` **[Federal Management Regulation; Federal Advisory Committee Management](https://www.indexdata.org/federal-management-regulation-federal-advisory-committee-management/)** — `2024-04-18` | `17 Pages`
-- `[`2024-06825`]` **[General Services Administration Acquisition Regulation; Reformatting Clause for Direct 8(a) Contracting](https://www.indexdata.org/general-services-administration-acquisition-regulation-reformatting-clause-for-direct-8a-contracting/)** — `2024-04-02` | `2 Pages`
-- `[`2024-06442`]` **[General Services Administration Acquisition Regulation; SAM Representation for Leases](https://www.indexdata.org/general-services-administration-acquisition-regulation-sam-representation-for-leases-2/)** — `2024-03-27` | `3 Pages`
-- `[`2024-06352`]` **[Federal Travel Regulation; Alternative Fuel Vehicle Usage During Relocations](https://www.indexdata.org/federal-travel-regulation-alternative-fuel-vehicle-usage-during-relocations/)** — `2024-03-26` | `4 Pages`
-- `[`2024-03605`]` **[General Services Administration Acquisition Regulation; Updated Guidance for Non-Federal Entities Access to Federal Supply Schedules](https://www.indexdata.org/general-services-administration-acquisition-regulation-updated-guidance-for-non-federal-entities-access-to-federal-supply-schedules/)** — `2024-02-22` | `6 Pages`
-- `[`2024-02852`]` **[Federal Travel Regulation; Updating the FTR With Diversity, Equity, Inclusion, and Accessibility Language](https://www.indexdata.org/federal-travel-regulation-updating-the-ftr-with-diversity-equity-inclusion-and-accessibility-language/)** — `2024-02-16` | `8 Pages`
-- `[`2024-02791`]` **[Federal Management Regulation; Transportation Payment and Audit Regulations](https://www.indexdata.org/federal-management-regulation-transportation-payment-and-audit-regulations-2/)** — `2024-02-16` | `6 Pages`
-- `[`2024-02917`]` **[General Services Administration Acquisition Regulation; Removing Small Disadvantaged Business Program Requirements To Align With the FAR](https://www.indexdata.org/general-services-administration-acquisition-regulation-removing-small-disadvantaged-business-program-requirements-to-align-with-the-far/)** — `2024-02-15` | `2 Pages`
-
 ### [Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 
@@ -1558,6 +1545,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2024-04335`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-2/)** — `2024-03-01` | `15 Pages`
 - `[`2024-03793`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-3/)** — `2024-03-01` | `12 Pages`
 - `[`2024-03559`]` **[Combating Auto Retail Scams Trade Regulation Rule](https://www.indexdata.org/combating-auto-retail-scams-trade-regulation-rule/)** — `2024-02-22` | `2 Pages`
+
+### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
+
+- `[`2024-12192`]` **[General Services Administration Acquisition Regulation; Reduction of Single-Use Plastic Packaging](https://www.indexdata.org/general-services-administration-acquisition-regulation-reduction-of-single-use-plastic-packaging/)** — `2024-06-06` | `8 Pages`
+- `[`2024-09485`]` **[Federal Travel Regulation (FTR); Relocation Allowance-Temporary Quarters Subsistence Expenses (TQSE)](https://www.indexdata.org/federal-travel-regulation-ftr-relocation-allowance-temporary-quarters-subsistence-expenses-tqse/)** — `2024-05-07` | `10 Pages`
+- `[`2024-08452`]` **[Federal Management Regulation; Designation of Authority and Sustainable Siting](https://www.indexdata.org/federal-management-regulation-designation-of-authority-and-sustainable-siting/)** — `2024-04-22` | `13 Pages`
+- `[`2024-08215`]` **[Federal Management Regulation; Federal Advisory Committee Management](https://www.indexdata.org/federal-management-regulation-federal-advisory-committee-management/)** — `2024-04-18` | `17 Pages`
+- `[`2024-06825`]` **[General Services Administration Acquisition Regulation; Reformatting Clause for Direct 8(a) Contracting](https://www.indexdata.org/general-services-administration-acquisition-regulation-reformatting-clause-for-direct-8a-contracting/)** — `2024-04-02` | `2 Pages`
+- `[`2024-06442`]` **[General Services Administration Acquisition Regulation; SAM Representation for Leases](https://www.indexdata.org/general-services-administration-acquisition-regulation-sam-representation-for-leases-2/)** — `2024-03-27` | `3 Pages`
+- `[`2024-06352`]` **[Federal Travel Regulation; Alternative Fuel Vehicle Usage During Relocations](https://www.indexdata.org/federal-travel-regulation-alternative-fuel-vehicle-usage-during-relocations/)** — `2024-03-26` | `4 Pages`
+- `[`2024-03605`]` **[General Services Administration Acquisition Regulation; Updated Guidance for Non-Federal Entities Access to Federal Supply Schedules](https://www.indexdata.org/general-services-administration-acquisition-regulation-updated-guidance-for-non-federal-entities-access-to-federal-supply-schedules/)** — `2024-02-22` | `6 Pages`
+- `[`2024-02852`]` **[Federal Travel Regulation; Updating the FTR With Diversity, Equity, Inclusion, and Accessibility Language](https://www.indexdata.org/federal-travel-regulation-updating-the-ftr-with-diversity-equity-inclusion-and-accessibility-language/)** — `2024-02-16` | `8 Pages`
+- `[`2024-02791`]` **[Federal Management Regulation; Transportation Payment and Audit Regulations](https://www.indexdata.org/federal-management-regulation-transportation-payment-and-audit-regulations-2/)** — `2024-02-16` | `6 Pages`
 
 ### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
@@ -1821,15 +1822,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-reg
 - `[`2024-03270`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-17/)** — `2024-02-16` | `3 Pages`
 - `[`2024-03060`]` **[Update to Product Lists](https://www.indexdata.org/update-to-product-lists/)** — `2024-02-15` | `11 Pages`
 
-### [Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/social-security-administration/](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)
-
-- `[`2024-08364`]` **[Expand the Definition of a Public Assistance Household](https://www.indexdata.org/expand-the-definition-of-a-public-assistance-household/)** — `2024-04-19` | `15 Pages`
-- `[`2024-08150`]` **[Intermediate Improvement to the Disability Adjudication Process, Including How We Consider Past Work](https://www.indexdata.org/intermediate-improvement-to-the-disability-adjudication-process-including-how-we-consider-past-work/)** — `2024-04-18` | `16 Pages`
-- `[`2024-07675`]` **[Expansion of the Rental Subsidy Policy for Supplemental Security Income (SSI) Applicants and Recipients](https://www.indexdata.org/expansion-of-the-rental-subsidy-policy-for-supplemental-security-income-ssi-applicants-and-recipients/)** — `2024-04-11` | `8 Pages`
-- `[`2024-06464`]` **[Omitting Food From In-Kind Support and Maintenance Calculations](https://www.indexdata.org/omitting-food-from-in-kind-support-and-maintenance-calculations/)** — `2024-03-27` | `13 Pages`
-- `[`2024-02961`]` **[Use of Electronic Payroll Data To Improve Program Administration](https://www.indexdata.org/use-of-electronic-payroll-data-to-improve-program-administration-2/)** — `2024-02-15` | `16 Pages`
-
 ### [Agency for International Development](https://www.indexdata.org/united-states/agency-for-international-development/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agency-for-international-development/](https://www.indexdata.org/united-states/agency-for-international-development/) | [RSS Feed](https://www.indexdata.org/united-states/agency-for-international-development/feed/)
 
@@ -1869,6 +1861,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/occupation
 - `[`2024-08568`]` **[Hazard Communication Standard](https://www.indexdata.org/hazard-communication-standard-3/)** — `2024-05-20` | `318 Pages`
 - `[`2024-06572`]` **[Worker Walkaround Representative Designation Process](https://www.indexdata.org/worker-walkaround-representative-designation-process/)** — `2024-04-01` | `44 Pages`
 - `[`2024-06610`]` **[Emergency Response Standard](https://www.indexdata.org/emergency-response-standard-3/)** — `2024-03-28` | `2 Pages`
+
+### [Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/social-security-administration/](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)
+
+- `[`2024-08364`]` **[Expand the Definition of a Public Assistance Household](https://www.indexdata.org/expand-the-definition-of-a-public-assistance-household/)** — `2024-04-19` | `15 Pages`
+- `[`2024-08150`]` **[Intermediate Improvement to the Disability Adjudication Process, Including How We Consider Past Work](https://www.indexdata.org/intermediate-improvement-to-the-disability-adjudication-process-including-how-we-consider-past-work/)** — `2024-04-18` | `16 Pages`
+- `[`2024-07675`]` **[Expansion of the Rental Subsidy Policy for Supplemental Security Income (SSI) Applicants and Recipients](https://www.indexdata.org/expansion-of-the-rental-subsidy-policy-for-supplemental-security-income-ssi-applicants-and-recipients/)** — `2024-04-11` | `8 Pages`
+- `[`2024-06464`]` **[Omitting Food From In-Kind Support and Maintenance Calculations](https://www.indexdata.org/omitting-food-from-in-kind-support-and-maintenance-calculations/)** — `2024-03-27` | `13 Pages`
 
 ### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)

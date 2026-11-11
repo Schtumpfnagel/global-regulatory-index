@@ -4,12 +4,12 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `965` across `19` issuing authorities  
-**Last Automated Sync:** `2026-11-11 04:56 UTC`
+**Total Indexed Dossiers in International:** `966` across `20` issuing authorities  
+**Last Automated Sync:** `2026-11-11 05:56 UTC`
 
 ---
 
-## Issuing Authorities in International (19 Authorities)
+## Issuing Authorities in International (20 Authorities)
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`162` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`155` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
@@ -30,10 +30,11 @@
 - **[Food and Agriculture Organization (FAO) — FAO Council](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/feed/)
 - **[Food and Agriculture Organization (FAO) — Regional Office for Africa (RAF)](https://www.indexdata.org/international/food-and-agriculture-organization-fao-regional-office-for-africa-raf/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-regional-office-for-africa-raf/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-regional-office-for-africa-raf/feed/)
 - **[International Labour Organization (ILO) — Research Department](https://www.indexdata.org/international/international-labour-organization-ilo-research-department/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/international/international-labour-organization-ilo-research-department/) | [RSS Feed](https://www.indexdata.org/international/international-labour-organization-ilo-research-department/feed/)
+- **[World Bank — International Finance Corporation (IFC)](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/) | [RSS Feed](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–965 of 965)
+## Indexed Statutory & Regulatory Dossiers (Records 1–966 of 966)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -1075,6 +1076,11 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 Canonical Authority Archive: [https://www.indexdata.org/international/international-labour-organization-ilo-research-department/](https://www.indexdata.org/international/international-labour-organization-ilo-research-department/) | [RSS Feed](https://www.indexdata.org/international/international-labour-organization-ilo-research-department/feed/)
 
 - `[`ILO-CRW-10.54394-00033457`]` **[Labour market concentration and wage inequality: a cross-country descriptive analysis](https://www.indexdata.org/labour-market-concentration-and-wage-inequality-a-cross-country-descriptive-analysis/)** — `2026-01-01` | `33 Pages`
+
+### [World Bank — International Finance Corporation (IFC)](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/)
+Canonical Authority Archive: [https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/) | [RSS Feed](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/feed/)
+
+- `[`WB-WDS-217009`]` **[The Importance of Quality for Scaling Up Early Childhood Development Services : Experimental Evidence from Nicaragua](https://www.indexdata.org/the-importance-of-quality-for-scaling-up-early-childhood-development-services-experimental-evidence-from-nicaragua/)** — `2026-11-11` | `22 Pages`
 
 ---
 

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,243` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,245` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 04:56 UTC`
+**Last Automated Sync:** `2026-11-11 05:56 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`287` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`289` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,243)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,245)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1210,7 +1210,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2024-23958`]` **[Export Administration Regulations: Revisions to Space-Related Export Controls](https://www.indexdata.org/export-administration-regulations-revisions-to-space-related-export-controls/)** — `2024-10-23` | `14 Pages`
 - `[`2024-23932`]` **[Export Administration Regulations: Removal of License Requirements for Certain Spacecraft and Related Items for Australia, Canada, and the United Kingdom](https://www.indexdata.org/export-administration-regulations-removal-of-license-requirements-for-certain-spacecraft-and-related-items-for-australia-canada-and-the-united-kingdom/)** — `2024-10-23` | `5 Pages`
 - `[`2024-23814`]` **[Updated License Exception Implemented Export Controls (IEC) Eligible Items and Destinations](https://www.indexdata.org/updated-license-exception-implemented-export-controls-iec-eligible-items-and-destinations/)** — `2024-10-16` | `2 Pages`
-- `[`2024-23638`]` **[Revisions to the Unverified List](https://www.indexdata.org/revisions-to-the-unverified-list-2/)** — `2024-10-16` | `4 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
@@ -1393,6 +1392,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2024-26985`]` **[Federal Motor Vehicle Safety Standards; Pedestrian Head Protection, Global Technical Regulation No. 9; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-pedestrian-head-protection-global-technical-regulation-no-9-incorporation-by-reference/)** — `2024-11-20` | `2 Pages`
 - `[`2024-24462`]` **[Federal Motor Vehicle Safety Standards; Anti-Ejection Glazing for Bus Portals; Bus Emergency Exits and Window Retention and Release](https://www.indexdata.org/federal-motor-vehicle-safety-standards-anti-ejection-glazing-for-bus-portals-bus-emergency-exits-and-window-retention-and-release/)** — `2024-10-30` | `31 Pages`
 
+### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+
+- `[`2025-02810`]` **[Privacy Act; Implementation](https://www.indexdata.org/privacy-act-implementation/)** — `2025-02-19` | `2 Pages`
+- `[`2025-00670`]` **[Privacy Act; Implementation](https://www.indexdata.org/privacy-act-implementation-2/)** — `2025-01-16` | `5 Pages`
+- `[`2025-00425`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs-Authorized Testing Panels](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs-authorized-testing-panels-2/)** — `2025-01-16` | `7 Pages`
+- `[`2024-30568`]` **[Select Agent: Modified Junín Virus Vaccine Strain](https://www.indexdata.org/select-agent-modified-junin-virus-vaccine-strain/)** — `2024-12-26` | `2 Pages`
+- `[`2024-30311`]` **[Privacy Act; Implementation](https://www.indexdata.org/privacy-act-implementation-3/)** — `2024-12-23` | `4 Pages`
+- `[`2024-29583`]` **[Possession, Use, and Transfer of Select Agents and Toxins; Biennial Review of the List of Select Agents and Toxins](https://www.indexdata.org/possession-use-and-transfer-of-select-agents-and-toxins-biennial-review-of-the-list-of-select-agents-and-toxins/)** — `2024-12-17` | `12 Pages`
+- `[`2024-28475`]` **[Clinical Trials Registration and Results Information Submission](https://www.indexdata.org/clinical-trials-registration-and-results-information-submission/)** — `2024-12-09` | `2 Pages`
+- `[`2024-28082`]` **[National Institute on Minority Health and Health Disparities Research Endowment Programs](https://www.indexdata.org/national-institute-on-minority-health-and-health-disparities-research-endowment-programs/)** — `2024-12-04` | `5 Pages`
+- `[`2024-27410`]` **[Organ Procurement and Transplantation: Implementation of the HIV Organ Policy Equity (HOPE) Act](https://www.indexdata.org/organ-procurement-and-transplantation-implementation-of-the-hiv-organ-policy-equity-hope-act/)** — `2024-11-27` | `15 Pages`
+- `[`2024-25810`]` **[Final Scientific Integrity Policy](https://www.indexdata.org/final-scientific-integrity-policy/)** — `2024-11-25` | `11 Pages`
+- `[`2024-26909`]` **[Increase Flexibility for Tribes in Child Care and Development Fund (CCDF) Eligibility](https://www.indexdata.org/increase-flexibility-for-tribes-in-child-care-and-development-fund-ccdf-eligibility/)** — `2024-11-18` | `4 Pages`
+- `[`2024-25722`]` **[Use of Federal Real Property To Assist the Homeless](https://www.indexdata.org/use-of-federal-real-property-to-assist-the-homeless/)** — `2024-11-13` | `36 Pages`
+- `[`2024-23032`]` **[Supporting the Head Start Workforce and Consistent Quality Programming; Announcement and Correction](https://www.indexdata.org/supporting-the-head-start-workforce-and-consistent-quality-programming-announcement-and-correction/)** — `2024-10-31` | `2 Pages`
+- `[`2024-24399`]` **[Department of Health and Human Services Policy for the Protection of Human Research Subjects: Update to the Additional Protections for Specific Populations](https://www.indexdata.org/department-of-health-and-human-services-policy-for-the-protection-of-human-research-subjects-update-to-the-additional-protections-for-specific-populations/)** — `2024-10-24` | `6 Pages`
+
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 
@@ -1428,23 +1445,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2024-28297`]` **[Updated Terminology for State Housing Agency Housing Assistance Payments Contracts](https://www.indexdata.org/updated-terminology-for-state-housing-agency-housing-assistance-payments-contracts/)** — `2024-12-04` | `3 Pages`
 - `[`2024-27077`]` **[Modernization of Engagement With Mortgagors in Default: Partial Extension of Compliance Date](https://www.indexdata.org/modernization-of-engagement-with-mortgagors-in-default-partial-extension-of-compliance-date/)** — `2024-11-21` | `2 Pages`
 - `[`2024-25469`]` **[Public Housing Evaluation and Oversight: Changes to the Public Housing Assessment System (PHAS) and Determining and Remedying Performance Deficiencies](https://www.indexdata.org/public-housing-evaluation-and-oversight-changes-to-the-public-housing-assessment-system-phas-and-determining-and-remedying-performance-deficiencies/)** — `2024-11-04` | `15 Pages`
-
-### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-
-- `[`2025-00670`]` **[Privacy Act; Implementation](https://www.indexdata.org/privacy-act-implementation-2/)** — `2025-01-16` | `5 Pages`
-- `[`2025-00425`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs-Authorized Testing Panels](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs-authorized-testing-panels-2/)** — `2025-01-16` | `7 Pages`
-- `[`2024-30568`]` **[Select Agent: Modified Junín Virus Vaccine Strain](https://www.indexdata.org/select-agent-modified-junin-virus-vaccine-strain/)** — `2024-12-26` | `2 Pages`
-- `[`2024-30311`]` **[Privacy Act; Implementation](https://www.indexdata.org/privacy-act-implementation-3/)** — `2024-12-23` | `4 Pages`
-- `[`2024-29583`]` **[Possession, Use, and Transfer of Select Agents and Toxins; Biennial Review of the List of Select Agents and Toxins](https://www.indexdata.org/possession-use-and-transfer-of-select-agents-and-toxins-biennial-review-of-the-list-of-select-agents-and-toxins/)** — `2024-12-17` | `12 Pages`
-- `[`2024-28475`]` **[Clinical Trials Registration and Results Information Submission](https://www.indexdata.org/clinical-trials-registration-and-results-information-submission/)** — `2024-12-09` | `2 Pages`
-- `[`2024-28082`]` **[National Institute on Minority Health and Health Disparities Research Endowment Programs](https://www.indexdata.org/national-institute-on-minority-health-and-health-disparities-research-endowment-programs/)** — `2024-12-04` | `5 Pages`
-- `[`2024-27410`]` **[Organ Procurement and Transplantation: Implementation of the HIV Organ Policy Equity (HOPE) Act](https://www.indexdata.org/organ-procurement-and-transplantation-implementation-of-the-hiv-organ-policy-equity-hope-act/)** — `2024-11-27` | `15 Pages`
-- `[`2024-25810`]` **[Final Scientific Integrity Policy](https://www.indexdata.org/final-scientific-integrity-policy/)** — `2024-11-25` | `11 Pages`
-- `[`2024-26909`]` **[Increase Flexibility for Tribes in Child Care and Development Fund (CCDF) Eligibility](https://www.indexdata.org/increase-flexibility-for-tribes-in-child-care-and-development-fund-ccdf-eligibility/)** — `2024-11-18` | `4 Pages`
-- `[`2024-25722`]` **[Use of Federal Real Property To Assist the Homeless](https://www.indexdata.org/use-of-federal-real-property-to-assist-the-homeless/)** — `2024-11-13` | `36 Pages`
-- `[`2024-23032`]` **[Supporting the Head Start Workforce and Consistent Quality Programming; Announcement and Correction](https://www.indexdata.org/supporting-the-head-start-workforce-and-consistent-quality-programming-announcement-and-correction/)** — `2024-10-31` | `2 Pages`
-- `[`2024-24399`]` **[Department of Health and Human Services Policy for the Protection of Human Research Subjects: Update to the Additional Protections for Specific Populations](https://www.indexdata.org/department-of-health-and-human-services-policy-for-the-protection-of-human-research-subjects-update-to-the-additional-protections-for-specific-populations/)** — `2024-10-24` | `6 Pages`
 
 ### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
@@ -1508,6 +1508,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-p
 - `[`2024-25181`]` **[Safety Standard for Infant Support Cushions](https://www.indexdata.org/safety-standard-for-infant-support-cushions/)** — `2024-11-04` | `32 Pages`
 - `[`2024-24403`]` **[Safety Standard for Nursing Pillows](https://www.indexdata.org/safety-standard-for-nursing-pillows/)** — `2024-10-25` | `33 Pages`
 - `[`2024-24130`]` **[Revision to the Voluntary Standard for Non-Full-Size Baby Cribs and Play Yards](https://www.indexdata.org/revision-to-the-voluntary-standard-for-non-full-size-baby-cribs-and-play-yards/)** — `2024-10-25` | `2 Pages`
+
+### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+
+- `[`2025-02793`]` **[Expansion of Buprenorphine Treatment via Telemedicine Encounter and Continuity of Care via Telemedicine for Veterans Affairs Patients](https://www.indexdata.org/expansion-of-buprenorphine-treatment-via-telemedicine-encounter-and-continuity-of-care-via-telemedicine-for-veterans-affairs-patients-2/)** — `2025-02-19` | `3 Pages`
+- `[`2025-01099`]` **[Special Registrations for Telemedicine and Limited State Telemedicine Registrations](https://www.indexdata.org/special-registrations-for-telemedicine-and-limited-state-telemedicine-registrations/)** — `2025-01-17` | `58 Pages`
+- `[`2025-01049`]` **[Expansion of Buprenorphine Treatment via Telemedicine Encounter](https://www.indexdata.org/expansion-of-buprenorphine-treatment-via-telemedicine-encounter/)** — `2025-01-17` | `20 Pages`
+- `[`2025-01044`]` **[Continuity of Care via Telemedicine for Veterans Affairs Patients](https://www.indexdata.org/continuity-of-care-via-telemedicine-for-veterans-affairs-patients/)** — `2025-01-17` | `18 Pages`
+- `[`2024-31130`]` **[Schedules of Controlled Substances: Extension of Temporary Placement of Seven Specific Fentanyl-Related Substances in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-extension-of-temporary-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-of-the-controlled-substances-act/)** — `2024-12-30` | `5 Pages`
+- `[`2024-30798`]` **[Schedules of Controlled Substances: Placement of Seven Specific Fentanyl-Related Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-2/)** — `2024-12-30` | `10 Pages`
+- `[`2024-30359`]` **[Schedules of Controlled Substances: Placement of 4-Chloromethcathinone in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-chloromethcathinone-in-schedule-i-2/)** — `2024-12-30` | `9 Pages`
+- `[`2024-27018`]` **[Third Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/third-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2024-11-19` | `5 Pages`
+- `[`2024-24616`]` **[Possible Control of Phenethyl Bromide as a List I Chemical](https://www.indexdata.org/possible-control-of-phenethyl-bromide-as-a-list-i-chemical/)** — `2024-10-28` | `4 Pages`
+- `[`2024-24635`]` **[Schedules of Controlled Substances: Placement of Butonitazene, Flunitazene, and Metodesnitazene Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-butonitazene-flunitazene-and-metodesnitazene-substances-in-schedule-i/)** — `2024-10-25` | `4 Pages`
+- `[`2024-24083`]` **[Schedules of Controlled Substances: Placement of Ethylphenidate in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-ethylphenidate-in-schedule-i/)** — `2024-10-22` | `6 Pages`
 
 ### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
@@ -1583,20 +1598,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-ac
 - `[`2024-26055`]` **[Defense Federal Acquisition Regulation: Past Performance of Affiliate Companies of Small Business Concerns (DFARS Case 2024-D016)](https://www.indexdata.org/defense-federal-acquisition-regulation-past-performance-of-affiliate-companies-of-small-business-concerns-dfars-case-2024-d016/)** — `2024-11-15` | `2 Pages`
 - `[`2024-26054`]` **[Defense Federal Acquisition Regulation Supplement: Inapplicability of Additional Defense-Unique Laws and Certain Non-Statutory DFARS Clauses to Commercial Item Contracts (DFARS Case 2018-D074)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-inapplicability-of-additional-defense-unique-laws-and-certain-non-statutory-dfars-clauses-to-commercial-item-contracts-dfars-case-2018-d074/)** — `2024-11-15` | `5 Pages`
 
-### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
-
-- `[`2025-01099`]` **[Special Registrations for Telemedicine and Limited State Telemedicine Registrations](https://www.indexdata.org/special-registrations-for-telemedicine-and-limited-state-telemedicine-registrations/)** — `2025-01-17` | `58 Pages`
-- `[`2025-01049`]` **[Expansion of Buprenorphine Treatment via Telemedicine Encounter](https://www.indexdata.org/expansion-of-buprenorphine-treatment-via-telemedicine-encounter/)** — `2025-01-17` | `20 Pages`
-- `[`2025-01044`]` **[Continuity of Care via Telemedicine for Veterans Affairs Patients](https://www.indexdata.org/continuity-of-care-via-telemedicine-for-veterans-affairs-patients/)** — `2025-01-17` | `18 Pages`
-- `[`2024-31130`]` **[Schedules of Controlled Substances: Extension of Temporary Placement of Seven Specific Fentanyl-Related Substances in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-extension-of-temporary-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-of-the-controlled-substances-act/)** — `2024-12-30` | `5 Pages`
-- `[`2024-30798`]` **[Schedules of Controlled Substances: Placement of Seven Specific Fentanyl-Related Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-2/)** — `2024-12-30` | `10 Pages`
-- `[`2024-30359`]` **[Schedules of Controlled Substances: Placement of 4-Chloromethcathinone in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-chloromethcathinone-in-schedule-i-2/)** — `2024-12-30` | `9 Pages`
-- `[`2024-27018`]` **[Third Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/third-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2024-11-19` | `5 Pages`
-- `[`2024-24616`]` **[Possible Control of Phenethyl Bromide as a List I Chemical](https://www.indexdata.org/possible-control-of-phenethyl-bromide-as-a-list-i-chemical/)** — `2024-10-28` | `4 Pages`
-- `[`2024-24635`]` **[Schedules of Controlled Substances: Placement of Butonitazene, Flunitazene, and Metodesnitazene Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-butonitazene-flunitazene-and-metodesnitazene-substances-in-schedule-i/)** — `2024-10-25` | `4 Pages`
-- `[`2024-24083`]` **[Schedules of Controlled Substances: Placement of Ethylphenidate in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-ethylphenidate-in-schedule-i/)** — `2024-10-22` | `6 Pages`
-
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 
@@ -1625,19 +1626,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-p
 - `[`2024-27373`]` **[World Heritage Convention](https://www.indexdata.org/world-heritage-convention/)** — `2024-12-04` | `9 Pages`
 - `[`2024-27571`]` **[Hot Springs National Park; Use of Thermal Water and Commercial Passenger-Carrying Vehicles](https://www.indexdata.org/hot-springs-national-park-use-of-thermal-water-and-commercial-passenger-carrying-vehicles/)** — `2024-11-27` | `8 Pages`
 
-### [Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
-
-- `[`2025-00957`]` **[Alcohol Facts Statements in the Labeling of Wines, Distilled Spirits, and Malt Beverages](https://www.indexdata.org/alcohol-facts-statements-in-the-labeling-of-wines-distilled-spirits-and-malt-beverages/)** — `2025-01-17` | `53 Pages`
-- `[`2025-00955`]` **[Major Food Allergen Labeling for Wines, Distilled Spirits, and Malt Beverages](https://www.indexdata.org/major-food-allergen-labeling-for-wines-distilled-spirits-and-malt-beverages/)** — `2025-01-17` | `16 Pages`
-- `[`2025-00912`]` **[Civil Monetary Penalty Inflation Adjustment-Alcoholic Beverage Labeling Act](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustment-alcoholic-beverage-labeling-act/)** — `2025-01-16` | `2 Pages`
-- `[`2025-00271`]` **[Standards of Fill for Wine and Distilled Spirits](https://www.indexdata.org/standards-of-fill-for-wine-and-distilled-spirits/)** — `2025-01-10` | `9 Pages`
-- `[`2024-29938`]` **[Addition of American Single Malt Whisky to the Standards of Identity for Distilled Spirits](https://www.indexdata.org/addition-of-american-single-malt-whisky-to-the-standards-of-identity-for-distilled-spirits/)** — `2024-12-18` | `10 Pages`
-- `[`2024-28438`]` **[Proposed Establishment of the Columbia Hills Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-columbia-hills-viticultural-area/)** — `2024-12-05` | `5 Pages`
-- `[`2024-23662`]` **[Technical Corrections to the TTB Regulations](https://www.indexdata.org/technical-corrections-to-the-ttb-regulations/)** — `2024-11-06` | `23 Pages`
-- `[`2024-25076`]` **[Establishment of the Beverly, Washington Viticultural Area](https://www.indexdata.org/establishment-of-the-beverly-washington-viticultural-area/)** — `2024-10-29` | `3 Pages`
-- `[`2024-23655`]` **[Establishment of the Crystal Springs of Napa Valley Viticultural Area; Modification of the Calistoga Viticultural Area](https://www.indexdata.org/establishment-of-the-crystal-springs-of-napa-valley-viticultural-area-modification-of-the-calistoga-viticultural-area/)** — `2024-10-16` | `5 Pages`
-
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 
@@ -1650,6 +1638,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2024-26831`]` **[Surety Bond Guarantee Program: Streamlining and Modernizing](https://www.indexdata.org/surety-bond-guarantee-program-streamlining-and-modernizing/)** — `2024-11-19` | `8 Pages`
 - `[`2024-24716`]` **[Small Business Contracting: Increasing Small Business Participation on Multiple Award Contracts](https://www.indexdata.org/small-business-contracting-increasing-small-business-participation-on-multiple-award-contracts/)** — `2024-10-25` | `6 Pages`
 - `[`2024-24753`]` **[ALP Express Pilot to Permanent Status](https://www.indexdata.org/alp-express-pilot-to-permanent-status-2/)** — `2024-10-24` | `6 Pages`
+
+### [Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
+
+- `[`2025-00957`]` **[Alcohol Facts Statements in the Labeling of Wines, Distilled Spirits, and Malt Beverages](https://www.indexdata.org/alcohol-facts-statements-in-the-labeling-of-wines-distilled-spirits-and-malt-beverages/)** — `2025-01-17` | `53 Pages`
+- `[`2025-00955`]` **[Major Food Allergen Labeling for Wines, Distilled Spirits, and Malt Beverages](https://www.indexdata.org/major-food-allergen-labeling-for-wines-distilled-spirits-and-malt-beverages/)** — `2025-01-17` | `16 Pages`
+- `[`2025-00912`]` **[Civil Monetary Penalty Inflation Adjustment-Alcoholic Beverage Labeling Act](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustment-alcoholic-beverage-labeling-act/)** — `2025-01-16` | `2 Pages`
+- `[`2025-00271`]` **[Standards of Fill for Wine and Distilled Spirits](https://www.indexdata.org/standards-of-fill-for-wine-and-distilled-spirits/)** — `2025-01-10` | `9 Pages`
+- `[`2024-29938`]` **[Addition of American Single Malt Whisky to the Standards of Identity for Distilled Spirits](https://www.indexdata.org/addition-of-american-single-malt-whisky-to-the-standards-of-identity-for-distilled-spirits/)** — `2024-12-18` | `10 Pages`
+- `[`2024-28438`]` **[Proposed Establishment of the Columbia Hills Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-columbia-hills-viticultural-area/)** — `2024-12-05` | `5 Pages`
+- `[`2024-23662`]` **[Technical Corrections to the TTB Regulations](https://www.indexdata.org/technical-corrections-to-the-ttb-regulations/)** — `2024-11-06` | `23 Pages`
+- `[`2024-25076`]` **[Establishment of the Beverly, Washington Viticultural Area](https://www.indexdata.org/establishment-of-the-beverly-washington-viticultural-area/)** — `2024-10-29` | `3 Pages`
 
 ### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
