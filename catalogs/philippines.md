@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `329` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-11 17:52 UTC`
+**Total Indexed Dossiers in Philippines:** `331` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-11 18:55 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (11 Authorities)
 
-- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`85` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
+- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
@@ -26,13 +26,15 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–329 of 329)
+## Indexed Statutory & Regulatory Dossiers (Records 1–331 of 331)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 
 - `[`PH-DA-114033`]` **[November 11, 2026 DPI AFC](https://www.indexdata.org/november-11-2026-dpi-afc/)** — `2026-11-11` | `12 Pages`
 - `[`PH-DA-114031`]` **[November-11-2026-Cigarette-Prevailing-Retail-Prices-in-NCR](https://www.indexdata.org/november-11-2026-cigarette-prevailing-retail-prices-in-ncr/)** — `2026-11-11` | `15 Pages`
+- `[`PH-DA-114004`]` **[Clippings for November 11, 2026](https://www.indexdata.org/clippings-for-november-11-2026/)** — `2026-11-11` | `46 Pages`
+- `[`PH-DA-114000`]` **[Price Monitoring November 10, 2026](https://www.indexdata.org/price-monitoring-november-10-2026/)** — `2026-11-11` | `6 Pages`
 - `[`PH-DA-113979`]` **[November-10-2026-Cigarette-Prevailing-Retail-Prices-in-NCR](https://www.indexdata.org/november-10-2026-cigarette-prevailing-retail-prices-in-ncr/)** — `2026-11-10` | `15 Pages`
 - `[`PH-DA-113976`]` **[November 10, 2026 DPI AFC](https://www.indexdata.org/november-10-2026-dpi-afc/)** — `2026-11-10` | `12 Pages`
 - `[`PH-DA-113939`]` **[Clippings for November 10, 2026](https://www.indexdata.org/clippings-for-november-10-2026/)** — `2026-11-10` | `47 Pages`

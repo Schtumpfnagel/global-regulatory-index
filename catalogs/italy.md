@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q38`](https://www.wikidata.org/wiki/Q38)  
 **Governing Open-Government Framework:** *Decreto Legislativo n. 36/2006 & Legge n. 633/1941 art. 5*  
 **Total Indexed Dossiers in Italy:** `76` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-11 17:52 UTC`
+**Last Automated Sync:** `2026-11-11 18:55 UTC`
 
 ---
 
