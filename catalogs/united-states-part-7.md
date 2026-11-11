@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,245` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,249` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 05:56 UTC`
+**Last Automated Sync:** `2026-11-11 06:57 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`289` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,245)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,249)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-23796`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-152/)** — `2024-10-16` | `4 Pages`
+- `[`2024-23785`]` **[Extension of the Prohibition Against Certain Flights in the Baghdad Flight Information Region (FIR) (ORBB)](https://www.indexdata.org/extension-of-the-prohibition-against-certain-flights-in-the-baghdad-flight-information-region-fir-orbb/)** — `2024-10-16` | `7 Pages`
 - `[`2024-23612`]` **[Amendment of Jet Route J-211 and Revocation of VOR Federal Airway V-41; Youngstown, OH](https://www.indexdata.org/amendment-of-jet-route-j-211-and-revocation-of-vor-federal-airway-v-41-youngstown-oh/)** — `2024-10-15` | `2 Pages`
 - `[`2024-23547`]` **[Airworthiness Directives; Columbia Helicopters, Inc., and Restricted Category Model CH-47D Helicopters](https://www.indexdata.org/airworthiness-directives-columbia-helicopters-inc-and-restricted-category-model-ch-47d-helicopters-2/)** — `2024-10-11` | `3 Pages`
 - `[`2024-23541`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-183/)** — `2024-10-11` | `4 Pages`
@@ -570,7 +572,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-13178`]` **[Amendment of VOR Federal Airways V-13, V-133, and V-300, and United States RNAV Route T-331; Establishment of Canadian RNAV Routes Q-924, T-765, T-776, and T-810; and Revocation of Jet Route J-533 and VOR Federal Airway V-348; Northcentral United States](https://www.indexdata.org/amendment-of-vor-federal-airways-v-13-v-133-and-v-300-and-united-states-rnav-route-t-331-establishment-of-canadian-rnav-routes-q-924-t-765-t-776-and-t-810-and-revocation-of-jet-route-j-533-and/)** — `2024-06-18` | `4 Pages`
 - `[`2024-13177`]` **[Establishment of Class E Airspace; Lincoln Airport, Lincoln MT](https://www.indexdata.org/establishment-of-class-e-airspace-lincoln-airport-lincoln-mt/)** — `2024-06-18` | `2 Pages`
 - `[`2024-13150`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-238/)** — `2024-06-18` | `5 Pages`
-- `[`2024-12621`]` **[Removal of Check Pilot Medical Certificate Requirement](https://www.indexdata.org/removal-of-check-pilot-medical-certificate-requirement/)** — `2024-06-18` | `18 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -801,6 +802,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-23738`]` **[Drawbridge Operation Regulation; Townsend Gut, Southport, ME](https://www.indexdata.org/drawbridge-operation-regulation-townsend-gut-southport-me/)** — `2024-10-16` | `2 Pages`
 - `[`2024-23769`]` **[Drawbridge Operation Regulation; Wappinger Creek, New Hamburg, New York](https://www.indexdata.org/drawbridge-operation-regulation-wappinger-creek-new-hamburg-new-york/)** — `2024-10-15` | `3 Pages`
 - `[`2024-23587`]` **[Special Local Regulation; Elizabeth River, Norfolk Harbor, Norfolk, VA](https://www.indexdata.org/special-local-regulation-elizabeth-river-norfolk-harbor-norfolk-va/)** — `2024-10-11` | `3 Pages`
 - `[`2024-23469`]` **[Security Zone; Corpus Christi Ship Channel, Corpus Christi, TX](https://www.indexdata.org/security-zone-corpus-christi-ship-channel-corpus-christi-tx-7/)** — `2024-10-10` | `3 Pages`
@@ -943,7 +945,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-13455`]` **[Implementation of Training Requirements for Personnel Serving on U.S.-Flagged Passenger Ships That Carry More Than 12 Passengers on International Voyages](https://www.indexdata.org/implementation-of-training-requirements-for-personnel-serving-on-u-s-flagged-passenger-ships-that-carry-more-than-12-passengers-on-international-voyages-2/)** — `2024-06-21` | `31 Pages`
 - `[`2024-13411`]` **[Safety Zone; Kemah Fireworks; Sector Houston-Galveston Captain of the Port](https://www.indexdata.org/safety-zone-kemah-fireworks-sector-houston-galveston-captain-of-the-port/)** — `2024-06-20` | `2 Pages`
 - `[`2024-13341`]` **[Safety Zones; Fourth of July Events for the Los Angles Long Beach Captain of the Port Zone.](https://www.indexdata.org/safety-zones-fourth-of-july-events-for-the-los-angles-long-beach-captain-of-the-port-zone/)** — `2024-06-18` | `3 Pages`
-- `[`2024-13301`]` **[Safety Zone; Upper Mississippi River, Prairie du Chien, WI](https://www.indexdata.org/safety-zone-upper-mississippi-river-prairie-du-chien-wi/)** — `2024-06-17` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1054,7 +1055,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-13530`]` **[Fisheries Off West Coast States; Coastal Pelagic Species Fisheries; Annual Specifications; 2024-2025 Annual Specifications and Management Measures for Pacific Sardine](https://www.indexdata.org/fisheries-off-west-coast-states-coastal-pelagic-species-fisheries-annual-specifications-2024-2025-annual-specifications-and-management-measures-for-pacific-sardine-2/)** — `2024-06-21` | `5 Pages`
 - `[`2024-12085`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the New England Wind Project, Offshore Massachusetts](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-new-england-wind-project-offshore-massachusetts/)** — `2024-06-21` | `100 Pages`
 - `[`2024-13357`]` **[Fisheries of the Exclusive Economic Zone off Alaska; Cook Inlet; Final 2024 Harvest Specifications for Salmon](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-cook-inlet-final-2024-harvest-specifications-for-salmon/)** — `2024-06-18` | `12 Pages`
-- `[`2024-12669`]` **[Regulations Governing the Taking of Marine Mammals](https://www.indexdata.org/regulations-governing-the-taking-of-marine-mammals/)** — `2024-06-18` | `43 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1118,7 +1118,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2024-13641`]` **[Single Network Future: Supplemental Coverage From Space; Space Innovation; Correction](https://www.indexdata.org/single-network-future-supplemental-coverage-from-space-space-innovation-correction/)** — `2024-06-25` | `7 Pages`
 - `[`2024-13693`]` **[Television Broadcasting Services Augusta, Georgia](https://www.indexdata.org/television-broadcasting-services-augusta-georgia-2/)** — `2024-06-24` | `2 Pages`
 - `[`2024-13692`]` **[Television Broadcasting Services Boise, Idaho](https://www.indexdata.org/television-broadcasting-services-boise-idaho/)** — `2024-06-24` | `2 Pages`
-- `[`2024-13266`]` **[Use of the 5.850-5.925 GHz Band](https://www.indexdata.org/use-of-the-5-850-5-925-ghz-band-2/)** — `2024-06-17` | `3 Pages`
 
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
@@ -1362,6 +1361,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 ### [Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 
+- `[`2024-23814`]` **[Updated License Exception Implemented Export Controls (IEC) Eligible Items and Destinations](https://www.indexdata.org/updated-license-exception-implemented-export-controls-iec-eligible-items-and-destinations/)** — `2024-10-16` | `2 Pages`
 - `[`2024-23638`]` **[Revisions to the Unverified List](https://www.indexdata.org/revisions-to-the-unverified-list-2/)** — `2024-10-16` | `4 Pages`
 - `[`2024-22587`]` **[Expansion of Validated End User Authorization: Data Center Validated End User Authorization](https://www.indexdata.org/expansion-of-validated-end-user-authorization-data-center-validated-end-user-authorization/)** — `2024-10-02` | `14 Pages`
 - `[`2024-22146`]` **[Proposed Amendments to End-Use and End-User Based Export Controls, Including U.S. Persons Activities Controls: Military and Intelligence End Uses and End Users; Extension of Comment Period](https://www.indexdata.org/proposed-amendments-to-end-use-and-end-user-based-export-controls-including-u-s-persons-activities-controls-military-and-intelligence-end-uses-and-end-users-extension-of-comment-period/)** — `2024-09-26` | `2 Pages`

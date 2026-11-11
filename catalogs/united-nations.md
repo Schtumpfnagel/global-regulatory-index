@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,955` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,956` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-11 05:56 UTC`
+**Last Automated Sync:** `2026-11-11 06:57 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`480` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,955)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,956)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1189,7 +1189,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-RES-80-275`]` **[Financing of the United Nations Interim Security Force for Abyei — resolution](https://www.indexdata.org/a-res-80-275-financing-of-the-united-nations-interim-security-force-for-abyei-resolution/)** — `2026-07-01` | `5 Pages`
 - `[`UN-A-RES-80-274`]` **[Financing of the United Nations Logistics Base at Brindisi, Italy — resolution](https://www.indexdata.org/a-res-80-274-financing-of-the-united-nations-logistics-base-at-brindisi-italy-resolution/)** — `2026-07-01` | `2 Pages`
 - `[`UN-A-RES-80-273`]` **[Financing of the Regional Service Centre in Entebbe, Uganda — resolution](https://www.indexdata.org/a-res-80-273-financing-of-the-regional-service-centre-in-entebbe-uganda-resolution/)** — `2026-07-01` | `2 Pages`
-- `[`UN-A-RES-80-272`]` **[Rates of reimbursement to troop- and police-contributing countries — resolution](https://www.indexdata.org/a-res-80-272-rates-of-reimbursement-to-troop-and-police-contributing-countries-resolution/)** — `2026-07-01` | `2 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
@@ -1372,6 +1371,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 
+- `[`UN-CRC-C-TTO-QPR-3-4`]` **[List of issues prior to submission of the combined 3rd and 4th periodic reports of Trinidad and Tobago — Committee on the Rights of the Child](https://www.indexdata.org/crc-c-tto-qpr-3-4-list-of-issues-prior-to-submission-of-the-combined-3rd-and-4th-periodic-reports-of-trinidad-and-tobago-committee-on-the-rights-of-the-child/)** — `2026-11-10` | `11 Pages`
 - `[`UN-CRC-C-BRB-QPR-3-7`]` **[List of issues prior to submission of the combined 3rd to 7th periodic reports of Barbados — Committee on the Rights of the Child](https://www.indexdata.org/crc-c-brb-qpr-3-7-list-of-issues-prior-to-submission-of-the-combined-3rd-to-7th-periodic-reports-of-barbados-committee-on-the-rights-of-the-child/)** — `2026-11-06` | `10 Pages`
 - `[`UN-CCPR-C-GEO-FCO-5`]` **[Information received from Georgia on follow-up to the concluding observations on its 5th periodic report — Human Rights Committee](https://www.indexdata.org/ccpr-c-geo-fco-5-information-received-from-georgia-on-follow-up-to-the-concluding-observations-on-its-5th-periodic-report-human-rights-committee/)** — `2026-11-05` | `8 Pages`
 - `[`UN-CRPD-C-ETH-Q-2-3`]` **[List of issues in relation to the combined 2nd and 3rd periodic reports of Ethiopia — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-eth-q-2-3-list-of-issues-in-relation-to-the-combined-2nd-and-3rd-periodic-reports-of-ethiopia-committee-on-the-rights-of-persons-with-disabilities/)** — `2026-11-04` | `10 Pages`

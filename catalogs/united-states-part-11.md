@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,245` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,249` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-11 05:56 UTC`
+**Last Automated Sync:** `2026-11-11 06:57 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`289` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,245 of 15,245)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,249 of 15,249)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-12697`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-66/)** — `2023-06-14` | `4 Pages`
+- `[`2023-12695`]` **[Airworthiness Directives; General Electric Company Turbofan Engines](https://www.indexdata.org/airworthiness-directives-general-electric-company-turbofan-engines/)** — `2023-06-14` | `2 Pages`
 - `[`2023-11497`]` **[Integration of Powered-Lift: Pilot Certification and Operations; Miscellaneous Amendments Related to Rotorcraft and Airplanes](https://www.indexdata.org/integration-of-powered-lift-pilot-certification-and-operations-miscellaneous-amendments-related-to-rotorcraft-and-airplanes-2/)** — `2023-06-14` | `160 Pages`
 - `[`2023-12610`]` **[Amendment of Class D and Class E Airspace; Lakeland, FL](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-lakeland-fl/)** — `2023-06-13` | `2 Pages`
 - `[`2023-12582`]` **[Amendment of Class E Airspace; Van Horn, TX](https://www.indexdata.org/amendment-of-class-e-airspace-van-horn-tx/)** — `2023-06-13` | `2 Pages`
@@ -321,6 +323,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2023-12652`]` **[Safety Zone; Annual Fireworks Displays and Other Events in the Eighth Coast Guard District Requiring Safety Zones-Go 4th New Orleans Independence Day Celebration](https://www.indexdata.org/safety-zone-annual-fireworks-displays-and-other-events-in-the-eighth-coast-guard-district-requiring-safety-zones-go-4th-new-orleans-independence-day-celebration/)** — `2023-06-14` | `2 Pages`
 - `[`2023-12513`]` **[Marine Casualty Reporting on the Outer Continental Shelf](https://www.indexdata.org/marine-casualty-reporting-on-the-outer-continental-shelf-3/)** — `2023-06-14` | `25 Pages`
 - `[`2023-12642`]` **[Safety Zone; Heavy Weather and Natural or Other Disasters in San Juan Captain of the Port Zone, San Juan, Puerto Rico](https://www.indexdata.org/safety-zone-heavy-weather-and-natural-or-other-disasters-in-san-juan-captain-of-the-port-zone-san-juan-puerto-rico/)** — `2023-06-13` | `4 Pages`
 - `[`2023-12558`]` **[Special Local Regulations and Safety Zones; Recurring Marine Events, Fireworks Displays, and Swim Events Held in the Coast Guard Sector Long Island Sound Zone](https://www.indexdata.org/special-local-regulations-and-safety-zones-recurring-marine-events-fireworks-displays-and-swim-events-held-in-the-coast-guard-sector-long-island-sound-zone/)** — `2023-06-13` | `9 Pages`
@@ -511,6 +514,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and
 - `[`2023-11759`]` **[Reducing Patent Fees for Small Entities and Micro Entities Under the Unleashing American Innovators Act of 2022; Correction](https://www.indexdata.org/reducing-patent-fees-for-small-entities-and-micro-entities-under-the-unleashing-american-innovators-act-of-2022-correction/)** — `2023-06-02` | `3 Pages`
 - `[`2023-11365`]` **[Adoption of Updated WIPO Standard ST.26; Revision to Incorporation by Reference](https://www.indexdata.org/adoption-of-updated-wipo-standard-st-26-revision-to-incorporation-by-reference-2/)** — `2023-05-26` | `3 Pages`
 
+### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
+
+- `[`2023-12668`]` **[International Mailing Services: Price Changes](https://www.indexdata.org/international-mailing-services-price-changes-5/)** — `2023-06-14` | `2 Pages`
+- `[`2023-11896`]` **[Relocating Retail Services; Adding New Retail Service Facilities](https://www.indexdata.org/relocating-retail-services-adding-new-retail-service-facilities/)** — `2023-06-06` | `3 Pages`
+- `[`2023-11892`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products-9/)** — `2023-06-06` | `3 Pages`
+
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 
@@ -577,12 +587,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-reg
 
 - `[`2023-12109`]` **[Non-Public Materials](https://www.indexdata.org/non-public-materials/)** — `2023-06-07` | `4 Pages`
 - `[`2023-11935`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-25/)** — `2023-06-06` | `2 Pages`
-
-### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
-
-- `[`2023-11896`]` **[Relocating Retail Services; Adding New Retail Service Facilities](https://www.indexdata.org/relocating-retail-services-adding-new-retail-service-facilities/)** — `2023-06-06` | `3 Pages`
-- `[`2023-11892`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products-9/)** — `2023-06-06` | `3 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,245` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,249` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 05:56 UTC`
+**Last Automated Sync:** `2026-11-11 06:57 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`289` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,245)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,249)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-12621`]` **[Removal of Check Pilot Medical Certificate Requirement](https://www.indexdata.org/removal-of-check-pilot-medical-certificate-requirement/)** — `2024-06-18` | `18 Pages`
 - `[`2024-13163`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-41/)** — `2024-06-17` | `3 Pages`
 - `[`2024-13141`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-55/)** — `2024-06-17` | `4 Pages`
 - `[`2024-12977`]` **[Amendment of Class D Airspace; Martinsburg, WV](https://www.indexdata.org/amendment-of-class-d-airspace-martinsburg-wv/)** — `2024-06-17` | `2 Pages`
@@ -612,7 +613,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-03082`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-241/)** — `2024-02-15` | `4 Pages`
 - `[`2024-03081`]` **[Airworthiness Directives; De Havilland Aircraft of Canada Limited (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-de-havilland-aircraft-of-canada-limited-type-certificate-previously-held-by-bombardier-inc-airplanes-16/)** — `2024-02-15` | `3 Pages`
 - `[`2024-03080`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-263/)** — `2024-02-15` | `3 Pages`
-- `[`2024-03047`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-79/)** — `2024-02-15` | `5 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -800,6 +800,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-13301`]` **[Safety Zone; Upper Mississippi River, Prairie du Chien, WI](https://www.indexdata.org/safety-zone-upper-mississippi-river-prairie-du-chien-wi/)** — `2024-06-17` | `3 Pages`
 - `[`2024-13253`]` **[Safety Zone; Trenton DTE Boiler Demolition, Trenton, MI](https://www.indexdata.org/safety-zone-trenton-dte-boiler-demolition-trenton-mi/)** — `2024-06-17` | `2 Pages`
 - `[`2024-13233`]` **[Safety Zone; Key West July 4th Fireworks, Key West, FL](https://www.indexdata.org/safety-zone-key-west-july-4th-fireworks-key-west-fl/)** — `2024-06-17` | `3 Pages`
 - `[`2024-13231`]` **[Safety Zone; Atlantic Ocean, Key West, FL](https://www.indexdata.org/safety-zone-atlantic-ocean-key-west-fl/)** — `2024-06-17` | `2 Pages`
@@ -939,6 +940,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-12669`]` **[Regulations Governing the Taking of Marine Mammals](https://www.indexdata.org/regulations-governing-the-taking-of-marine-mammals/)** — `2024-06-18` | `43 Pages`
 - `[`2024-13140`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Fishery of the Gulf of Mexico; Lane Snapper Catch Limits](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-reef-fish-fishery-of-the-gulf-of-mexico-lane-snapper-catch-limits-2/)** — `2024-06-17` | `5 Pages`
 - `[`2024-13161`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic Region; Temporary Measures To Reduce Overfishing of Red Snapper](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-snapper-grouper-fishery-of-the-south-atlantic-region-temporary-measures-to-reduce-overfishing-of-red-snapper/)** — `2024-06-14` | `6 Pages`
 - `[`2024-13046`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; 2024 Commercial Trip Limit Reduction and Closure for Gulf of Mexico Greater Amberjack](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-2024-commercial-trip-limit-reduction-and-closure-for-gulf-of-mexico-greater-amberjack/)** — `2024-06-14` | `2 Pages`
@@ -1042,6 +1044,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2024-13266`]` **[Use of the 5.850-5.925 GHz Band](https://www.indexdata.org/use-of-the-5-850-5-925-ghz-band-2/)** — `2024-06-17` | `3 Pages`
 - `[`2024-13194`]` **[Emergency Alert System; Wireless Emergency Alerts](https://www.indexdata.org/emergency-alert-system-wireless-emergency-alerts/)** — `2024-06-17` | `2 Pages`
 - `[`2024-13048`]` **[Reporting on Border Gateway Protocol Risk Mitigation Progress; Secure Internet Routing](https://www.indexdata.org/reporting-on-border-gateway-protocol-risk-mitigation-progress-secure-internet-routing/)** — `2024-06-17` | `10 Pages`
 - `[`2024-12220`]` **[Supporting Survivors of Domestic and Sexual Violence; Lifeline and Link Up Reform Modernization](https://www.indexdata.org/supporting-survivors-of-domestic-and-sexual-violence-lifeline-and-link-up-reform-modernization-3/)** — `2024-06-04` | `3 Pages`
@@ -1132,37 +1135,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2024-04772`]` **[Energy Conservation Program: Energy Conservation Standards for Dishwashers, Residential Clothes Washers, and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dishwashers-residential-clothes-washers-and-consumer-clothes-dryers-3/)** — `2024-03-11` | `6 Pages`
 - `[`2024-03876`]` **[Clean Energy for New Federal Buildings and Major Renovations of Federal Buildings; Correction](https://www.indexdata.org/clean-energy-for-new-federal-buildings-and-major-renovations-of-federal-buildings-correction/)** — `2024-02-26` | `2 Pages`
 
-### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-
-- `[`2024-11645`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status With Critical Habitat for Guadalupe Fatmucket, Texas Fatmucket, Guadalupe Orb, Texas Pimpleback, Balcones Spike, and False Spike, and Threatened Species Status With Section 4(d) Rule and Critical Habitat for Texas Fawnsfoot](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-with-critical-habitat-for-guadalupe-fatmucket-texas-fatmucket-guadalupe-orb-texas-pimpleback-balcones-spike-and-false-spik/)** — `2024-06-04` | `97 Pages`
-- `[`2024-11847`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for the Dixie Valley Toad](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-dixie-valley-toad/)** — `2024-05-30` | `15 Pages`
-- `[`2024-11758`]` **[Endangered and Threatened Wildlife and Plants; Revision of the Critical Habitat Designation for the Jaguar in Compliance With a Court Order](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-revision-of-the-critical-habitat-designation-for-the-jaguar-in-compliance-with-a-court-order/)** — `2024-05-30` | `3 Pages`
-- `[`2024-11254`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for the Coastal Distinct Population Segment of the Pacific Marten](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-coastal-distinct-population-segment-of-the-pacific-marten/)** — `2024-05-29` | `41 Pages`
-- `[`2024-11025`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Dunes Sagebrush Lizard](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-dunes-sagebrush-lizard/)** — `2024-05-20` | `22 Pages`
-- `[`2024-10242`]` **[National Wildlife Refuge System; Drain Tile Setbacks](https://www.indexdata.org/national-wildlife-refuge-system-drain-tile-setbacks/)** — `2024-05-13` | `11 Pages`
-- `[`2024-09965`]` **[Migratory Bird Hunting; Proposed 2024-25 Frameworks for Migratory Bird Hunting Regulations](https://www.indexdata.org/migratory-bird-hunting-proposed-2024-25-frameworks-for-migratory-bird-hunting-regulations/)** — `2024-05-13` | `34 Pages`
-- `[`2024-09136`]` **[Endangered and Threatened Wildlife and Plants; Establishment of a Nonessential Experimental Population of Grizzly Bear in the North Cascades Ecosystem, Washington State](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-establishment-of-a-nonessential-experimental-population-of-grizzly-bear-in-the-north-cascades-ecosystem-washington-state/)** — `2024-05-03` | `44 Pages`
-- `[`2024-09430`]` **[Migratory Bird Subsistence Harvest in Alaska](https://www.indexdata.org/migratory-bird-subsistence-harvest-in-alaska-5/)** — `2024-05-01` | `2 Pages`
-- `[`2024-08567`]` **[Endangered and Threatened Wildlife and Plants; 12-Month Finding for Lake Sturgeon](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-12-month-finding-for-lake-sturgeon/)** — `2024-04-23` | `4 Pages`
-- `[`2024-07265`]` **[National Wildlife Refuge System Planning Policies (602 FW 1-4) for the U.S. Fish and Wildlife Service](https://www.indexdata.org/national-wildlife-refuge-system-planning-policies-602-fw-1-4-for-the-u-s-fish-and-wildlife-service/)** — `2024-04-18` | `2 Pages`
-- `[`2024-07602`]` **[Endangered and Threatened Wildlife and Plants; Enhancement of Survival and Incidental Take Permits](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-enhancement-of-survival-and-incidental-take-permits/)** — `2024-04-12` | `33 Pages`
-- `[`2024-07331`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status for Coal Darter With Section 4(d) Rule](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-coal-darter-with-section-4d-rule/)** — `2024-04-08` | `2 Pages`
-- `[`2024-06902`]` **[Endangered and Threatened Wildlife and Plants; Regulations for Interagency Cooperation](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-for-interagency-cooperation/)** — `2024-04-05` | `31 Pages`
-- `[`2024-06901`]` **[Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened-wildlife-and-plants-3/)** — `2024-04-05` | `23 Pages`
-- `[`2024-06899`]` **[Endangered and Threatened Wildlife and Plants; Listing Endangered and Threatened Species and Designating Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-listing-endangered-and-threatened-species-and-designating-critical-habitat-2/)** — `2024-04-05` | `36 Pages`
-- `[`2024-06795`]` **[Endangered and Threatened Wildlife and Plants; Removal of Roanoke Logperch From the List of Endangered and Threatened Wildlife](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-roanoke-logperch-from-the-list-of-endangered-and-threatened-wildlife-2/)** — `2024-04-02` | `14 Pages`
-- `[`2024-06417`]` **[Endangered and Threatened Wildlife and Plants; Revision to the Section 4(d) Rule for the African Elephant](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-revision-to-the-section-4d-rule-for-the-african-elephant/)** — `2024-04-01` | `34 Pages`
-- `[`2024-06221`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Pyramid Pigtoe](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-pyramid-pigtoe/)** — `2024-03-26` | `2 Pages`
-- `[`2024-05724`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Pygmy Three-Toed Sloth](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-pygmy-three-toed-sloth/)** — `2024-03-26` | `12 Pages`
-- `[`2024-05700`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Bushy Whitlow-Wort and Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-bushy-whitlow-wort-and-designation-of-critical-habitat/)** — `2024-03-19` | `21 Pages`
-- `[`2024-05674`]` **[Endangered and Threatened Wildlife and Plants; Removal of the North Park Phacelia From the List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-the-north-park-phacelia-from-the-list-of-endangered-and-threatened-plants-2/)** — `2024-03-19` | `21 Pages`
-- `[`2024-04588`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for 12 Species on Hawai`i Island](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-12-species-on-hawaii-island/)** — `2024-03-12` | `80 Pages`
-- `[`2024-04053`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for Endangered Florida Bonneted Bat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-endangered-florida-bonneted-bat/)** — `2024-03-07` | `58 Pages`
-- `[`2024-04583`]` **[National Wildlife Refuge System; Biological Integrity, Diversity, and Environmental Health; Extension of Comment Period](https://www.indexdata.org/national-wildlife-refuge-system-biological-integrity-diversity-and-environmental-health-extension-of-comment-period/)** — `2024-03-05` | `2 Pages`
-- `[`2024-04278`]` **[Endangered and Threatened Wildlife and Plants; Removal of Chrysopsis floridana (Florida Golden Aster) From the Federal List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-chrysopsis-floridana-florida-golden-aster-from-the-federal-list-of-endangered-and-threatened-plants/)** — `2024-03-05` | `17 Pages`
-- `[`2024-03042`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Silverspot Butterfly](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-the-silverspot-butterfly/)** — `2024-02-15` | `23 Pages`
-
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
@@ -1193,6 +1165,36 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2024-03765`]` **[New Animal Drugs; Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Applications, Change of Sponsor, Change of Sponsor Address](https://www.indexdata.org/new-animal-drugs-approval-of-new-animal-drug-applications-withdrawal-of-approval-of-new-animal-drug-applications-change-of-sponsor-change-of-sponsor-address-4/)** — `2024-02-27` | `6 Pages`
 - `[`2024-03777`]` **[User Fees; Technical Amendment](https://www.indexdata.org/user-fees-technical-amendment/)** — `2024-02-26` | `2 Pages`
 - `[`2024-03618`]` **[Advisory Committee; Digital Health Advisory Committee; Addition to List of Standing Committees](https://www.indexdata.org/advisory-committee-digital-health-advisory-committee-addition-to-list-of-standing-committees/)** — `2024-02-22` | `2 Pages`
+
+### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
+
+- `[`2024-11645`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status With Critical Habitat for Guadalupe Fatmucket, Texas Fatmucket, Guadalupe Orb, Texas Pimpleback, Balcones Spike, and False Spike, and Threatened Species Status With Section 4(d) Rule and Critical Habitat for Texas Fawnsfoot](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-with-critical-habitat-for-guadalupe-fatmucket-texas-fatmucket-guadalupe-orb-texas-pimpleback-balcones-spike-and-false-spik/)** — `2024-06-04` | `97 Pages`
+- `[`2024-11847`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for the Dixie Valley Toad](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-dixie-valley-toad/)** — `2024-05-30` | `15 Pages`
+- `[`2024-11758`]` **[Endangered and Threatened Wildlife and Plants; Revision of the Critical Habitat Designation for the Jaguar in Compliance With a Court Order](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-revision-of-the-critical-habitat-designation-for-the-jaguar-in-compliance-with-a-court-order/)** — `2024-05-30` | `3 Pages`
+- `[`2024-11254`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for the Coastal Distinct Population Segment of the Pacific Marten](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-coastal-distinct-population-segment-of-the-pacific-marten/)** — `2024-05-29` | `41 Pages`
+- `[`2024-11025`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Dunes Sagebrush Lizard](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-dunes-sagebrush-lizard/)** — `2024-05-20` | `22 Pages`
+- `[`2024-10242`]` **[National Wildlife Refuge System; Drain Tile Setbacks](https://www.indexdata.org/national-wildlife-refuge-system-drain-tile-setbacks/)** — `2024-05-13` | `11 Pages`
+- `[`2024-09965`]` **[Migratory Bird Hunting; Proposed 2024-25 Frameworks for Migratory Bird Hunting Regulations](https://www.indexdata.org/migratory-bird-hunting-proposed-2024-25-frameworks-for-migratory-bird-hunting-regulations/)** — `2024-05-13` | `34 Pages`
+- `[`2024-09136`]` **[Endangered and Threatened Wildlife and Plants; Establishment of a Nonessential Experimental Population of Grizzly Bear in the North Cascades Ecosystem, Washington State](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-establishment-of-a-nonessential-experimental-population-of-grizzly-bear-in-the-north-cascades-ecosystem-washington-state/)** — `2024-05-03` | `44 Pages`
+- `[`2024-09430`]` **[Migratory Bird Subsistence Harvest in Alaska](https://www.indexdata.org/migratory-bird-subsistence-harvest-in-alaska-5/)** — `2024-05-01` | `2 Pages`
+- `[`2024-08567`]` **[Endangered and Threatened Wildlife and Plants; 12-Month Finding for Lake Sturgeon](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-12-month-finding-for-lake-sturgeon/)** — `2024-04-23` | `4 Pages`
+- `[`2024-07265`]` **[National Wildlife Refuge System Planning Policies (602 FW 1-4) for the U.S. Fish and Wildlife Service](https://www.indexdata.org/national-wildlife-refuge-system-planning-policies-602-fw-1-4-for-the-u-s-fish-and-wildlife-service/)** — `2024-04-18` | `2 Pages`
+- `[`2024-07602`]` **[Endangered and Threatened Wildlife and Plants; Enhancement of Survival and Incidental Take Permits](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-enhancement-of-survival-and-incidental-take-permits/)** — `2024-04-12` | `33 Pages`
+- `[`2024-07331`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status for Coal Darter With Section 4(d) Rule](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-coal-darter-with-section-4d-rule/)** — `2024-04-08` | `2 Pages`
+- `[`2024-06902`]` **[Endangered and Threatened Wildlife and Plants; Regulations for Interagency Cooperation](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-for-interagency-cooperation/)** — `2024-04-05` | `31 Pages`
+- `[`2024-06901`]` **[Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened-wildlife-and-plants-3/)** — `2024-04-05` | `23 Pages`
+- `[`2024-06899`]` **[Endangered and Threatened Wildlife and Plants; Listing Endangered and Threatened Species and Designating Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-listing-endangered-and-threatened-species-and-designating-critical-habitat-2/)** — `2024-04-05` | `36 Pages`
+- `[`2024-06795`]` **[Endangered and Threatened Wildlife and Plants; Removal of Roanoke Logperch From the List of Endangered and Threatened Wildlife](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-roanoke-logperch-from-the-list-of-endangered-and-threatened-wildlife-2/)** — `2024-04-02` | `14 Pages`
+- `[`2024-06417`]` **[Endangered and Threatened Wildlife and Plants; Revision to the Section 4(d) Rule for the African Elephant](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-revision-to-the-section-4d-rule-for-the-african-elephant/)** — `2024-04-01` | `34 Pages`
+- `[`2024-06221`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Pyramid Pigtoe](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-pyramid-pigtoe/)** — `2024-03-26` | `2 Pages`
+- `[`2024-05724`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Pygmy Three-Toed Sloth](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-pygmy-three-toed-sloth/)** — `2024-03-26` | `12 Pages`
+- `[`2024-05700`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Bushy Whitlow-Wort and Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-bushy-whitlow-wort-and-designation-of-critical-habitat/)** — `2024-03-19` | `21 Pages`
+- `[`2024-05674`]` **[Endangered and Threatened Wildlife and Plants; Removal of the North Park Phacelia From the List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-the-north-park-phacelia-from-the-list-of-endangered-and-threatened-plants-2/)** — `2024-03-19` | `21 Pages`
+- `[`2024-04588`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for 12 Species on Hawai`i Island](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-12-species-on-hawaii-island/)** — `2024-03-12` | `80 Pages`
+- `[`2024-04053`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for Endangered Florida Bonneted Bat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-endangered-florida-bonneted-bat/)** — `2024-03-07` | `58 Pages`
+- `[`2024-04583`]` **[National Wildlife Refuge System; Biological Integrity, Diversity, and Environmental Health; Extension of Comment Period](https://www.indexdata.org/national-wildlife-refuge-system-biological-integrity-diversity-and-environmental-health-extension-of-comment-period/)** — `2024-03-05` | `2 Pages`
+- `[`2024-04278`]` **[Endangered and Threatened Wildlife and Plants; Removal of Chrysopsis floridana (Florida Golden Aster) From the Federal List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-chrysopsis-floridana-florida-golden-aster-from-the-federal-list-of-endangered-and-threatened-plants/)** — `2024-03-05` | `17 Pages`
 
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -1303,7 +1305,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 - `[`2024-04729`]` **[Ensuring Safe Accommodations for Air Travelers With Disabilities Using Wheelchairs](https://www.indexdata.org/ensuring-safe-accommodations-for-air-travelers-with-disabilities-using-wheelchairs-5/)** — `2024-03-12` | `24 Pages`
 - `[`2024-03936`]` **[Privacy Act of 1974](https://www.indexdata.org/privacy-act-of-1974-2/)** — `2024-02-27` | `4 Pages`
 - `[`2024-02544`]` **[Confidentiality of Substance Use Disorder (SUD) Patient Records](https://www.indexdata.org/confidentiality-of-substance-use-disorder-sud-patient-records/)** — `2024-02-16` | `160 Pages`
-- `[`2024-02964`]` **[Civil Penalties Inflation Adjustments](https://www.indexdata.org/civil-penalties-inflation-adjustments-2/)** — `2024-02-15` | `3 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1813,15 +1814,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`2024-06406`]` **[Federal Records Management: Digital Photographs](https://www.indexdata.org/federal-records-management-digital-photographs/)** — `2024-03-28` | `2 Pages`
 - `[`2024-04939`]` **[Making a Privacy Act Request](https://www.indexdata.org/making-a-privacy-act-request/)** — `2024-03-08` | `2 Pages`
 
-### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-
-- `[`2024-11566`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-15/)** — `2024-05-28` | `4 Pages`
-- `[`2024-11105`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-16/)** — `2024-05-22` | `3 Pages`
-- `[`2024-08715`]` **[Freedom of Information Act](https://www.indexdata.org/freedom-of-information-act-4/)** — `2024-04-25` | `8 Pages`
-- `[`2024-03270`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-17/)** — `2024-02-16` | `3 Pages`
-- `[`2024-03060`]` **[Update to Product Lists](https://www.indexdata.org/update-to-product-lists/)** — `2024-02-15` | `11 Pages`
-
 ### [Agency for International Development](https://www.indexdata.org/united-states/agency-for-international-development/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agency-for-international-development/](https://www.indexdata.org/united-states/agency-for-international-development/) | [RSS Feed](https://www.indexdata.org/united-states/agency-for-international-development/feed/)
 
@@ -1861,6 +1853,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/occupation
 - `[`2024-08568`]` **[Hazard Communication Standard](https://www.indexdata.org/hazard-communication-standard-3/)** — `2024-05-20` | `318 Pages`
 - `[`2024-06572`]` **[Worker Walkaround Representative Designation Process](https://www.indexdata.org/worker-walkaround-representative-designation-process/)** — `2024-04-01` | `44 Pages`
 - `[`2024-06610`]` **[Emergency Response Standard](https://www.indexdata.org/emergency-response-standard-3/)** — `2024-03-28` | `2 Pages`
+
+### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+
+- `[`2024-11566`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-15/)** — `2024-05-28` | `4 Pages`
+- `[`2024-11105`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-16/)** — `2024-05-22` | `3 Pages`
+- `[`2024-08715`]` **[Freedom of Information Act](https://www.indexdata.org/freedom-of-information-act-4/)** — `2024-04-25` | `8 Pages`
+- `[`2024-03270`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-17/)** — `2024-02-16` | `3 Pages`
 
 ### [Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/social-security-administration/](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,955` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,956` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-11 05:56 UTC`
+**Last Automated Sync:** `2026-11-11 06:57 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`480` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,955)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,956)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1063,6 +1063,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 
+- `[`UN-E-ICEF-2026-23`]` **[Annual report on the risk profile of UNICEF](https://www.indexdata.org/e-icef-2026-23-annual-report-on-the-risk-profile-of-unicef/)** — `2026-04-16` | `13 Pages`
 - `[`UN-E-ICEF-2026-21`]` **[Report of the Ethics Office of UNICEF for 2025](https://www.indexdata.org/e-icef-2026-21-report-of-the-ethics-office-of-unicef-for-2025/)** — `2026-04-16` | `18 Pages`
 - `[`UN-E-ICEF-2026-15`]` **[Update on protection from sexual exploitation and abuse — United Nations Children's Fund](https://www.indexdata.org/e-icef-2026-15-update-on-protection-from-sexual-exploitation-and-abuse-united-nations-childrens-fund/)** — `2026-04-16` | `13 Pages`
 - `[`UN-E-ICEF-2026-10`]` **[Annual report for 2025 of the Executive Director of UNICEF](https://www.indexdata.org/e-icef-2026-10-annual-report-for-2025-of-the-executive-director-of-unicef/)** — `2026-04-16` | `17 Pages`
@@ -1222,7 +1223,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-CN.6-2026-3`]` **[Ensuring and strengthening access to justice for all women and girls, including by promoting inclusive and equitable legal systems, eliminating discriminatory laws, policies and practices, and addressing structural barriers — report of the Secretary-General](https://www.indexdata.org/e-cn-6-2026-3-ensuring-and-strengthening-access-to-justice-for-all-women-and-girls-including-by-promoting-inclusive-and-equitable-legal-systems-eliminating-discriminatory-laws-policies-and-practi/)** — `2026-01-15` | `19 Pages`
 - `[`UN-E-C.12-AGO-RQ-6`]` **[Replies of Angola to the list of issues in relation to its 6th periodic report — Committee on Economic, Social and Cultural Rights](https://www.indexdata.org/e-c-12-ago-rq-6-replies-of-angola-to-the-list-of-issues-in-relation-to-its-6th-periodic-report-committee-on-economic-social-and-cultural-rights/)** — `2026-01-15` | `18 Pages`
 - `[`UN-E-CN.9-2026-NGO-1`]` **[Statement](https://www.indexdata.org/e-cn-9-2026-ngo-1-statement/)** — `2026-01-12` | `5 Pages`
-- `[`UN-E-CN.6-2026-NGO-187`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-187-statement/)** — `2026-01-12` | `3 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)

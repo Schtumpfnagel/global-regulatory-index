@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,267` across `34` issuing authorities  
-**Last Automated Sync:** `2026-11-11 05:56 UTC`
+**Total Indexed Dossiers in Australia:** `1,268` across `35` issuing authorities  
+**Last Automated Sync:** `2026-11-11 06:57 UTC`
 
 ---
 
-## Issuing Authorities in Australia (34 Authorities)
+## Issuing Authorities in Australia (35 Authorities)
 
 - **[Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)** (`376` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
 - **[Attorney-General's Department](https://www.indexdata.org/australia/attorney-general-s-department/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.indexdata.org/australia/attorney-general-s-department/feed/)
@@ -46,10 +46,11 @@
 - **[Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
 - **[Australian Business Register](https://www.indexdata.org/australia/australian-business-register/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
 - **[Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
+- **[SIP Register - OptiComm](https://www.indexdata.org/australia/sip-register-opticomm/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/sip-register-opticomm/) | [RSS Feed](https://www.indexdata.org/australia/sip-register-opticomm/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,267 of 1,267)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,268 of 1,268)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1453,6 +1454,11 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-bus
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
 
 - `[`AU-NT-06056af4-d8b9-46e1-994d`]` **[NT Parks and Reserves Land Holdings List 2024 — Data Quality Statement](https://www.indexdata.org/nt-parks-and-reserves-land-holdings-list-2024-data-quality-statement/)** — `2025-11-05` | `2 Pages`
+
+### [SIP Register - OptiComm](https://www.indexdata.org/australia/sip-register-opticomm/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/sip-register-opticomm/](https://www.indexdata.org/australia/sip-register-opticomm/) | [RSS Feed](https://www.indexdata.org/australia/sip-register-opticomm/feed/)
+
+- `[`AU-DATA-c8cad624-0591-47d5-ad0e`]` **[Opticomm Pty Ltd - Declaration - Multiple - 5 November 2026 — 2026-11-05 Nominated Service Area Declaration](https://www.indexdata.org/opticomm-pty-ltd-declaration-multiple-5-november-2026-2026-11-05-nominated-service-area-declaration/)** — `2026-11-11` | `2 Pages`
 
 ---
 

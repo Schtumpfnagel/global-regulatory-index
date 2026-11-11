@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,955` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,956` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-11 05:56 UTC`
+**Last Automated Sync:** `2026-11-11 06:57 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`479` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`480` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,955 of 6,955)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,956 of 6,956)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -948,6 +948,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretari
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 
+- `[`UN-A-C.5-79-27`]` **[Investigation into the conditions and circumstances resulting in the tragic death of Dag Hammarskjöld and of the members of the party accompanying him : programme budget implications of draft resolution A/79/L.26 — Statement](https://www.indexdata.org/a-c-5-79-27-investigation-into-the-conditions-and-circumstances-resulting-in-the-tragic-death-of-dag-hammarskjold-and-of-the-members-of-the-party-accompanying-him-programme-budget-implications-of/)** — `2024-11-29` | `4 Pages`
 - `[`UN-A-79-637`]` **[Identical letters dated 25 November 2024 from the Chargé d'affaires a.i. of the Permanent Mission of Lebanon to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/a-79-637-identical-letters-dated-25-november-2024-from-the-charge-daffaires-a-i-of-the-permanent-mission-of-lebanon-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-t/)** — `2024-11-29` | `2 Pages`
 - `[`UN-A-79-632`]` **[Letter dated 27 November 2024 from the Permanent Representative of Türkiye to the United Nations addressed to the Secretary-General](https://www.indexdata.org/a-79-632-letter-dated-27-november-2024-from-the-permanent-representative-of-turkiye-to-the-united-nations-addressed-to-the-secretary-general/)** — `2024-11-29` | `4 Pages`
 - `[`UN-A-79-459`]` **[Crime prevention and criminal justice — Report of the 3rd Committee : General Assembly, 79th session](https://www.indexdata.org/a-79-459-crime-prevention-and-criminal-justice-report-of-the-3rd-committee-general-assembly-79th-session/)** — `2024-11-29` | `53 Pages`

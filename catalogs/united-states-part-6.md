@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,245` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,249` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 05:56 UTC`
+**Last Automated Sync:** `2026-11-11 06:57 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`289` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,245)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,249)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-02828`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-175/)** — `2025-02-20` | `3 Pages`
 - `[`2025-02774`]` **[Amendment of Jet Route J-146 and Establishment of United States RNAV Route Q-186 in the Vicinity of Chardon, OH](https://www.indexdata.org/amendment-of-jet-route-j-146-and-establishment-of-united-states-rnav-route-q-186-in-the-vicinity-of-chardon-oh-2/)** — `2025-02-19` | `3 Pages`
 - `[`2025-02748`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-39/)** — `2025-02-19` | `3 Pages`
 - `[`2025-02746`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-176/)** — `2025-02-19` | `4 Pages`
@@ -599,12 +600,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-23955`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-98/)** — `2024-10-18` | `3 Pages`
 - `[`2024-23953`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-99/)** — `2024-10-18` | `2 Pages`
 - `[`2024-23936`]` **[Special Conditions: Northwest Aerospace Technologies, Inc (NAT), Boeing Model 787-9 Airplane; Installation of High Wall Suites](https://www.indexdata.org/special-conditions-northwest-aerospace-technologies-inc-nat-boeing-model-787-9-airplane-installation-of-high-wall-suites/)** — `2024-10-17` | `3 Pages`
-- `[`2024-23796`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-152/)** — `2024-10-16` | `4 Pages`
-- `[`2024-23785`]` **[Extension of the Prohibition Against Certain Flights in the Baghdad Flight Information Region (FIR) (ORBB)](https://www.indexdata.org/extension-of-the-prohibition-against-certain-flights-in-the-baghdad-flight-information-region-fir-orbb/)** — `2024-10-16` | `7 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-02788`]` **[Chlorpyrifos; Tolerance Revocation; Reopening of the Comment Period](https://www.indexdata.org/chlorpyrifos-tolerance-revocation-reopening-of-the-comment-period/)** — `2025-02-20` | `2 Pages`
 - `[`2025-02677`]` **[Designation of Areas for Air Quality Planning Purposes](https://www.indexdata.org/designation-of-areas-for-air-quality-planning-purposes-2/)** — `2025-02-14` | `2 Pages`
 - `[`2025-01866`]` **[Delay of Effective Date for 4 Final Regulations Published by the Environmental Protection Agency Between November 29, 2024, and December 31, 2024](https://www.indexdata.org/delay-of-effective-date-for-4-final-regulations-published-by-the-environmental-protection-agency-between-november-29-2024-and-december-31-2024/)** — `2025-01-28` | `2 Pages`
 - `[`2025-00685`]` **[National Emission Standards for Hazardous Air Pollutants: Chemical Manufacturing Area Sources Technology Review](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-chemical-manufacturing-area-sources-technology-review-2/)** — `2025-01-22` | `50 Pages`
@@ -895,7 +895,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-24393`]` **[Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0512, Offshore New York and New Jersey, Atlantic Ocean](https://www.indexdata.org/safety-zone-empire-wind-1-wind-farm-project-area-outer-continental-shelf-lease-ocs-a-0512-offshore-new-york-and-new-jersey-atlantic-ocean-2/)** — `2024-10-22` | `7 Pages`
 - `[`2024-24283`]` **[Safety Zone; Gallagher Station, Ohio River, New Albany, IN](https://www.indexdata.org/safety-zone-gallagher-station-ohio-river-new-albany-in/)** — `2024-10-18` | `3 Pages`
 - `[`2024-24246`]` **[Safety Zone; NAS Jax Air Show; St. John's River, Jacksonville, FL](https://www.indexdata.org/safety-zone-nas-jax-air-show-st-johns-river-jacksonville-fl/)** — `2024-10-18` | `3 Pages`
-- `[`2024-23738`]` **[Drawbridge Operation Regulation; Townsend Gut, Southport, ME](https://www.indexdata.org/drawbridge-operation-regulation-townsend-gut-southport-me/)** — `2024-10-16` | `2 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1209,7 +1208,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2024-23975`]` **[Export Administration Regulations: Revisions to Space-Related Export Controls, Including Addition of License Exception Commercial Space Activities (CSA)](https://www.indexdata.org/export-administration-regulations-revisions-to-space-related-export-controls-including-addition-of-license-exception-commercial-space-activities-csa/)** — `2024-10-23` | `15 Pages`
 - `[`2024-23958`]` **[Export Administration Regulations: Revisions to Space-Related Export Controls](https://www.indexdata.org/export-administration-regulations-revisions-to-space-related-export-controls/)** — `2024-10-23` | `14 Pages`
 - `[`2024-23932`]` **[Export Administration Regulations: Removal of License Requirements for Certain Spacecraft and Related Items for Australia, Canada, and the United Kingdom](https://www.indexdata.org/export-administration-regulations-removal-of-license-requirements-for-certain-spacecraft-and-related-items-for-australia-canada-and-the-united-kingdom/)** — `2024-10-23` | `5 Pages`
-- `[`2024-23814`]` **[Updated License Exception Implemented Export Controls (IEC) Eligible Items and Destinations](https://www.indexdata.org/updated-license-exception-implemented-export-controls-iec-eligible-items-and-destinations/)** — `2024-10-16` | `2 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
@@ -2060,6 +2058,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/safety-and
 
 - `[`2024-26504`]` **[Bonding Requirements When Filing an Appeal of a Bureau of Safety and Environmental Enforcement Civil Penalty](https://www.indexdata.org/bonding-requirements-when-filing-an-appeal-of-a-bureau-of-safety-and-environmental-enforcement-civil-penalty/)** — `2024-11-14` | `5 Pages`
 - `[`2024-24783`]` **[Oil and Gas and Sulfur Operations in the Outer Continental Shelf-High Pressure High Temperature Updates; Correction](https://www.indexdata.org/oil-and-gas-and-sulfur-operations-in-the-outer-continental-shelf-high-pressure-high-temperature-updates-correction/)** — `2024-10-25` | `2 Pages`
+
+### [Transportation Department](https://www.indexdata.org/united-states/transportation-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/transportation-department/](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
+
+- `[`2025-02814`]` **[Periodic Revisions to Denied Boarding Compensation and Domestic Baggage Liability Limits](https://www.indexdata.org/periodic-revisions-to-denied-boarding-compensation-and-domestic-baggage-liability-limits/)** — `2025-02-20` | `2 Pages`
+- `[`2025-02811`]` **[Transportation for Individuals With Disabilities; Adoption of Accessibility Standards for Pedestrian Facilities in the Public Right-of-Way](https://www.indexdata.org/transportation-for-individuals-with-disabilities-adoption-of-accessibility-standards-for-pedestrian-facilities-in-the-public-right-of-way/)** — `2025-02-19` | `2 Pages`
 
 ### [Wage and Hour Division](https://www.indexdata.org/united-states/wage-and-hour-division/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/wage-and-hour-division/](https://www.indexdata.org/united-states/wage-and-hour-division/) | [RSS Feed](https://www.indexdata.org/united-states/wage-and-hour-division/feed/)
