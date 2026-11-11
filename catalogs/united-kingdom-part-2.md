@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,623` across `67` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,630` across `67` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-11 12:56 UTC`
+**Last Automated Sync:** `2026-11-11 13:57 UTC`
 
 ---
 
@@ -27,7 +27,7 @@
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
-- **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
+- **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
@@ -83,11 +83,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,623 of 2,623)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,630 of 2,630)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2025-1204`]` **[The Online Safety Act 2023 (Fees) (Threshold Figure) Regulations 2025](https://www.indexdata.org/the-online-safety-act-2023-fees-threshold-figure-regulations-2025/)** — `2025-11-18` | `4 Pages`
+- `[`UKSI-2025-1200`]` **[The Procurement Act 2023 (Threshold Amounts) (Amendment) Regulations 2025](https://www.indexdata.org/the-procurement-act-2023-threshold-amounts-amendment-regulations-2025/)** — `2025-11-18` | `4 Pages`
 - `[`UKSI-2025-1191`]` **[The Charities Act 2022 (Commencement No. 4 and Saving Provision) Regulations 2025](https://www.indexdata.org/the-charities-act-2022-commencement-no-4-and-saving-provision-regulations-2025/)** — `2025-11-14` | `8 Pages`
 - `[`UKSI-2025-1201`]` **[The Private International Law (Implementation of Agreements) Act 2020 (Extension of Operative Period) Regulations 2025](https://www.indexdata.org/the-private-international-law-implementation-of-agreements-act-2020-extension-of-operative-period-regulations-2025/)** — `2025-11-13` | `2 Pages`
 - `[`UKSI-2025-1190`]` **[The Trade Act 2021 (Power to Implement International Trade Agreements) (Extension to Expiry) Regulations 2025](https://www.indexdata.org/the-trade-act-2021-power-to-implement-international-trade-agreements-extension-to-expiry-regulations-2025/)** — `2025-11-13` | `2 Pages`
@@ -370,6 +372,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2025-1205`]` **[The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2000-regulated-activities-amendment-order-2025/)** — `2025-11-17` | `8 Pages`
+- `[`UKSI-2025-1199`]` **[CUSTOMS](https://www.indexdata.org/customs/)** — `2025-11-17` | `2 Pages`
 - `[`UKSI-2025-1182`]` **[The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2025](https://www.indexdata.org/the-financial-services-gibraltar-amendment-eu-exit-regulations-2025/)** — `2025-11-11` | `2 Pages`
 - `[`UKSI-2025-1158`]` **[The Customs Tariff (Preferential Trade Arrangements) (Amendment) Regulations 2025](https://www.indexdata.org/the-customs-tariff-preferential-trade-arrangements-amendment-regulations-2025/)** — `2025-11-04` | `4 Pages`
 - `[`UKSI-2025-1154`]` **[The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2000-regulated-activities-etc-amendment-no-2-order-2025/)** — `2025-11-03` | `4 Pages`
@@ -548,6 +552,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 
+- `[`UKSI-2025-1203`]` **[The Crediting of Third Country and Military Certification for Air Traffic Controllers Regulations 2025](https://www.indexdata.org/the-crediting-of-third-country-and-military-certification-for-air-traffic-controllers-regulations-2025/)** — `2025-11-17` | `4 Pages`
+- `[`UKSI-2025-1202`]` **[The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025](https://www.indexdata.org/the-european-registers-of-road-transport-undertakings-disclosure-of-information-amendment-regulations-2025/)** — `2025-11-17` | `24 Pages`
 - `[`UKSI-2025-1181`]` **[The Civil Enforcement of Parking Contraventions (County of East Sussex) (Amendment), Bus Lane Contraventions (Approved Local Authorities) (Amendment) and Moving Traffic Contraventions Designation Order 2025](https://www.indexdata.org/the-civil-enforcement-of-parking-contraventions-county-of-east-sussex-amendment-bus-lane-contraventions-approved-local-authorities-amendment-and-moving-traffic-contraventions-designation-orde/)** — `2025-11-11` | `4 Pages`
 - `[`UKSI-2025-1179`]` **[The Access to the Countryside (Coastal Margin) (Portsmouth to South Hayling) Order 2025](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-portsmouth-to-south-hayling-order-2025/)** — `2025-11-11` | `4 Pages`
 - `[`UKSI-2025-1150`]` **[The Aviation Safety (Amendment) Regulations 2025](https://www.indexdata.org/the-aviation-safety-amendment-regulations-2025/)** — `2025-10-28` | `8 Pages`
@@ -1102,6 +1108,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 
+- `[`UKSI-2025-1212`]` **[The National Health Service (Procurement, Slavery and Human Trafficking) Regulations 2025](https://www.indexdata.org/the-national-health-service-procurement-slavery-and-human-trafficking-regulations-2025/)** — `2025-11-17` | `8 Pages`
 - `[`UKSI-2025-1165`]` **[The National Health Service (Help with Health Costs) (Miscellaneous Amendments) Regulations 2025](https://www.indexdata.org/the-national-health-service-help-with-health-costs-miscellaneous-amendments-regulations-2025/)** — `2025-11-05` | `4 Pages`
 - `[`UKSI-2025-1162`]` **[The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (England) Regulations 2025](https://www.indexdata.org/the-official-controls-import-of-high-risk-food-and-feed-of-non-animal-origin-amendment-of-commission-implementing-regulation-eu-2019-1793-england-regulations-2025/)** — `2025-11-03` | `36 Pages`
 - `[`UKSI-2025-1022`]` **[The Kent and Medway National Health Service and Social Care Partnership Trust (Establishment) and the West Kent National Health Service and Social Care Trust and the East Kent National Health Service and Social Care Partnership Trust (Dissolution) (Amendment) Order 2025](https://www.indexdata.org/the-kent-and-medway-national-health-service-and-social-care-partnership-trust-establishment-and-the-west-kent-national-health-service-and-social-care-trust-and-the-east-kent-national-health-service/)** — `2025-09-11` | `4 Pages`
