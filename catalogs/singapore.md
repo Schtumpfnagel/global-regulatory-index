@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q334`](https://www.wikidata.org/wiki/Q334)  
 **Governing Open-Government Framework:** *SG Open Data Licence v1.0 / Copyright Act 2021*  
 **Total Indexed Dossiers in Singapore:** `82` across `10` issuing authorities  
-**Last Automated Sync:** `2026-11-11 01:06 UTC`
+**Last Automated Sync:** `2026-11-11 01:59 UTC`
 
 ---
 
