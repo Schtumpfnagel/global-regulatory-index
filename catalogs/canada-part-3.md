@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,375` across `28` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,376` across `28` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | **[Part 3 (Current)]** | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-11 18:55 UTC`
+**Last Automated Sync:** `2026-11-11 19:55 UTC`
 
 ---
 
@@ -35,16 +35,16 @@
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
+- **[Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
 - **[Government of Ontario](https://www.indexdata.org/canada/government-of-ontario/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-ontario/) | [RSS Feed](https://www.indexdata.org/canada/government-of-ontario/feed/)
 - **[Canada Economic Development for Quebec Regions](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/) | [RSS Feed](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/feed/)
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
-- **[Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
 - **[Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,375)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,376)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -1049,7 +1049,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`R-12.1`]` **[Royal Style and Titles Act, 2023](https://www.indexdata.org/royal-style-and-titles-act-2023/)** — `2026-09-30` | `4 Pages`
 - `[`R-12`]` **[Royal Style and Titles Act](https://www.indexdata.org/royal-style-and-titles-act/)** — `2026-09-30` | `5 Pages`
 - `[`R-1`]` **[Radiation Emitting Devices Act](https://www.indexdata.org/radiation-emitting-devices-act/)** — `2026-09-30` | `18 Pages`
-- `[`Q-1.8`]` **[Queen Elizabeth II Canadian Research Fund Act](https://www.indexdata.org/queen-elizabeth-ii-canadian-research-fund-act/)** — `2026-09-30` | `6 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1227,6 +1226,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 
+- `[`SOR-2001-496`]` **[Special Duty Area Pension Order](https://www.indexdata.org/special-duty-area-pension-order/)** — `2026-09-30` | `9 Pages`
 - `[`SOR-2001-474`]` **[Financial Consumer Agency of Canada Assessment of Financial Institutions Regulations](https://www.indexdata.org/financial-consumer-agency-of-canada-assessment-of-financial-institutions-regulations/)** — `2026-09-30` | `12 Pages`
 - `[`SOR-2001-473`]` **[Disclosure on Account Opening by Telephone Request (Trust and Loan Companies) Regulations](https://www.indexdata.org/disclosure-on-account-opening-by-telephone-request-trust-and-loan-companies-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-2001-437`]` **[Total Assets for Supervisability and Public Holding Requirements (Insurance Companies and Insurance Holding Companies) Regulations](https://www.indexdata.org/total-assets-for-supervisability-and-public-holding-requirements-insurance-companies-and-insurance-holding-companies-regulations/)** — `2026-09-30` | `5 Pages`
