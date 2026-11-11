@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,251` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,254` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 07:59 UTC`
+**Last Automated Sync:** `2026-11-11 08:33 UTC`
 
 ---
 
@@ -67,8 +67,8 @@
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`43` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
@@ -248,11 +248,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,251)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,254)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-13178`]` **[Amendment of VOR Federal Airways V-13, V-133, and V-300, and United States RNAV Route T-331; Establishment of Canadian RNAV Routes Q-924, T-765, T-776, and T-810; and Revocation of Jet Route J-533 and VOR Federal Airway V-348; Northcentral United States](https://www.indexdata.org/amendment-of-vor-federal-airways-v-13-v-133-and-v-300-and-united-states-rnav-route-t-331-establishment-of-canadian-rnav-routes-q-924-t-765-t-776-and-t-810-and-revocation-of-jet-route-j-533-and/)** — `2024-06-18` | `4 Pages`
+- `[`2024-13177`]` **[Establishment of Class E Airspace; Lincoln Airport, Lincoln MT](https://www.indexdata.org/establishment-of-class-e-airspace-lincoln-airport-lincoln-mt/)** — `2024-06-18` | `2 Pages`
+- `[`2024-13150`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-238/)** — `2024-06-18` | `5 Pages`
 - `[`2024-12621`]` **[Removal of Check Pilot Medical Certificate Requirement](https://www.indexdata.org/removal-of-check-pilot-medical-certificate-requirement/)** — `2024-06-18` | `18 Pages`
 - `[`2024-13163`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-41/)** — `2024-06-17` | `3 Pages`
 - `[`2024-13141`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-55/)** — `2024-06-17` | `4 Pages`
@@ -610,8 +613,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-03137`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-165/)** — `2024-02-15` | `3 Pages`
 - `[`2024-03135`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-131/)** — `2024-02-15` | `2 Pages`
 - `[`2024-03134`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-132/)** — `2024-02-15` | `3 Pages`
-- `[`2024-03082`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-241/)** — `2024-02-15` | `4 Pages`
-- `[`2024-03081`]` **[Airworthiness Directives; De Havilland Aircraft of Canada Limited (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-de-havilland-aircraft-of-canada-limited-type-certificate-previously-held-by-bombardier-inc-airplanes-16/)** — `2024-02-15` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1394,7 +1395,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-a
 - `[`2024-04202`]` **[Processing Applications for Health Care, Sergeant First Class Heath Robinson Honoring Our Promise To Address Comprehensive Toxics Act of 2022, or the Honoring Our PACT Act of 2022](https://www.indexdata.org/processing-applications-for-health-care-sergeant-first-class-heath-robinson-honoring-our-promise-to-address-comprehensive-toxics-act-of-2022-or-the-honoring-our-pact-act-of-2022/)** — `2024-03-05` | `2 Pages`
 - `[`2024-04442`]` **[Agency Ethics Officials](https://www.indexdata.org/agency-ethics-officials/)** — `2024-03-04` | `2 Pages`
 - `[`2024-04275`]` **[Reproductive Health Services](https://www.indexdata.org/reproductive-health-services-3/)** — `2024-03-04` | `24 Pages`
-- `[`2024-03127`]` **[Beneficiary Travel and Special Mode Transportation Under 38 U.S.C. 111 Within the United States](https://www.indexdata.org/beneficiary-travel-and-special-mode-transportation-under-38-u-s-c-111-within-the-united-states/)** — `2024-02-15` | `2 Pages`
 
 ### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)

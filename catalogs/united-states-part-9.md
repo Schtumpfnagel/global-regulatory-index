@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,251` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,254` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 07:59 UTC`
+**Last Automated Sync:** `2026-11-11 08:33 UTC`
 
 ---
 
@@ -67,8 +67,8 @@
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`43` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
@@ -248,11 +248,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,251)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,254)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-03082`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-241/)** — `2024-02-15` | `4 Pages`
+- `[`2024-03081`]` **[Airworthiness Directives; De Havilland Aircraft of Canada Limited (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-de-havilland-aircraft-of-canada-limited-type-certificate-previously-held-by-bombardier-inc-airplanes-16/)** — `2024-02-15` | `3 Pages`
 - `[`2024-03080`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-263/)** — `2024-02-15` | `3 Pages`
 - `[`2024-03047`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-79/)** — `2024-02-15` | `5 Pages`
 - `[`2024-02998`]` **[Airworthiness Directives; Bombardier, Inc. Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-80/)** — `2024-02-14` | `4 Pages`
@@ -1306,31 +1308,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2023-22873`]` **[Existing Validated End-User Authorizations in the People's Republic of China: Samsung China Semiconductor Co. Ltd. and SK Hynix Semiconductor (China) Ltd.](https://www.indexdata.org/existing-validated-end-user-authorizations-in-the-peoples-republic-of-china-samsung-china-semiconductor-co-ltd-and-sk-hynix-semiconductor-china-ltd/)** — `2023-10-17` | `4 Pages`
 - `[`2023-22536`]` **[Addition of Entities to the Entity List](https://www.indexdata.org/addition-of-entities-to-the-entity-list-3/)** — `2023-10-11` | `9 Pages`
 
-### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
-
-- `[`2024-00461`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-9/)** — `2024-02-09` | `12 Pages`
-- `[`2024-01124`]` **[NASA Federal Acquisition Regulation Supplement (NFS): Removal of Total Compensation Plan Language (NFS Case 2023-N002)](https://www.indexdata.org/nasa-federal-acquisition-regulation-supplement-nfs-removal-of-total-compensation-plan-language-nfs-case-2023-n002/)** — `2024-01-24` | `2 Pages`
-- `[`2024-00728`]` **[Federal Acquisition Regulation: Limitations on Subcontracting Revisions](https://www.indexdata.org/federal-acquisition-regulation-limitations-on-subcontracting-revisions/)** — `2024-01-17` | `4 Pages`
-- `[`2024-00172`]` **[Federal Acquisition Regulation: Improving Consistency Between Procurement and Nonprocurement Procedures on Suspension and Debarment](https://www.indexdata.org/federal-acquisition-regulation-improving-consistency-between-procurement-and-nonprocurement-procedures-on-suspension-and-debarment-2/)** — `2024-01-09` | `11 Pages`
-- `[`2023-27737`]` **[Federal Acquisition Regulation; Federal Acquisition Circular 2024-02; Small Entity Compliance Guide](https://www.indexdata.org/federal-acquisition-regulation-federal-acquisition-circular-2024-02-small-entity-compliance-guide/)** — `2023-12-22` | `2 Pages`
-- `[`2023-27736`]` **[Federal Acquisition Regulation: Use of Project Labor Agreements for Federal Construction Projects](https://www.indexdata.org/federal-acquisition-regulation-use-of-project-labor-agreements-for-federal-construction-projects/)** — `2023-12-22` | `22 Pages`
-- `[`2023-26046`]` **[Federal Acquisition Regulation: Implementation of Federal Acquisition Supply Chain Security Act (FASCSA) Orders](https://www.indexdata.org/federal-acquisition-regulation-implementation-of-federal-acquisition-supply-chain-security-act-fascsa-orders/)** — `2023-11-28` | `2 Pages`
-- `[`2023-25761`]` **[Federal Acquisition Regulation Supplement: Revision of the Definition of “Commercial Item” (NFS Case 2022-N003); Corrections](https://www.indexdata.org/federal-acquisition-regulation-supplement-revision-of-the-definition-of-commercial-item-nfs-case-2022-n003-corrections/)** — `2023-11-24` | `2 Pages`
-- `[`2023-25581`]` **[NASA Federal Acquisition Regulation Supplement: NASA FAR Supplement-NASA Ombudsman Program (NFS Case 2023-N022)](https://www.indexdata.org/nasa-federal-acquisition-regulation-supplement-nasa-far-supplement-nasa-ombudsman-program-nfs-case-2023-n022/)** — `2023-11-20` | `2 Pages`
-- `[`2023-24934`]` **[Federal Acquisition Regulation; Federal Acquisition Circular 2024-01; Small Entity Compliance Guide](https://www.indexdata.org/federal-acquisition-regulation-federal-acquisition-circular-2024-01-small-entity-compliance-guide/)** — `2023-11-14` | `2 Pages`
-- `[`2023-24933`]` **[Federal Acquisition Regulation; Technical Amendments](https://www.indexdata.org/federal-acquisition-regulation-technical-amendments-7/)** — `2023-11-14` | `2 Pages`
-- `[`2023-24932`]` **[Federal Acquisition Regulation: New Designated Country-North Macedonia](https://www.indexdata.org/federal-acquisition-regulation-new-designated-country-north-macedonia/)** — `2023-11-14` | `3 Pages`
-- `[`2023-24275`]` **[Federal Acquisition Regulation: Implementation of Federal Acquisition Supply Chain Security Act (FASCSA) Orders; Correction](https://www.indexdata.org/federal-acquisition-regulation-implementation-of-federal-acquisition-supply-chain-security-act-fascsa-orders-correction/)** — `2023-11-09` | `2 Pages`
-- `[`2023-24025`]` **[Federal Acquisition Regulation: Cyber Threat and Incident Reporting and Information Sharing; Extension of Comment Period](https://www.indexdata.org/federal-acquisition-regulation-cyber-threat-and-incident-reporting-and-information-sharing-extension-of-comment-period/)** — `2023-11-01` | `2 Pages`
-- `[`2023-21983`]` **[NASA Federal Acquisition Regulation Supplement: NASA Mentor-Protégé Program](https://www.indexdata.org/nasa-federal-acquisition-regulation-supplement-nasa-mentor-protege-program/)** — `2023-10-10` | `5 Pages`
-- `[`2023-21324`]` **[Federal Acquisition Regulation; Federal Acquisition Circular 2023-06; Small Entity Compliance Guide](https://www.indexdata.org/federal-acquisition-regulation-federal-acquisition-circular-2023-06-small-entity-compliance-guide/)** — `2023-10-05` | `2 Pages`
-- `[`2023-21323`]` **[Federal Acquisition Regulation; Technical Amendments](https://www.indexdata.org/federal-acquisition-regulation-technical-amendments-8/)** — `2023-10-05` | `2 Pages`
-- `[`2023-21322`]` **[Federal Acquisition Regulation: 8(a) Program](https://www.indexdata.org/federal-acquisition-regulation-8a-program/)** — `2023-10-05` | `3 Pages`
-- `[`2023-21321`]` **[Federal Acquisition Regulation: Whistleblower Protection for Contractor Employees](https://www.indexdata.org/federal-acquisition-regulation-whistleblower-protection-for-contractor-employees/)** — `2023-10-05` | `7 Pages`
-- `[`2023-21320`]` **[Federal Acquisition Regulation: Implementation of Federal Acquisition Supply Chain Security Act (FASCSA) Orders](https://www.indexdata.org/federal-acquisition-regulation-implementation-of-federal-acquisition-supply-chain-security-act-fascsa-orders-2/)** — `2023-10-05` | `15 Pages`
-- `[`2023-21319`]` **[Federal Acquisition Regulation; Federal Acquisition Circular 2023-06; Introduction](https://www.indexdata.org/federal-acquisition-regulation-federal-acquisition-circular-2023-06-introduction/)** — `2023-10-05` | `2 Pages`
-
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
 
@@ -1352,6 +1329,28 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2023-23915`]` **[Medicare Program; End-Stage Renal Disease Prospective Payment System, Payment for Renal Dialysis Services Furnished to Individuals With Acute Kidney Injury, End-Stage Renal Disease Quality Incentive Program, and End-Stage Renal Disease Treatment Choices Model](https://www.indexdata.org/medicare-program-end-stage-renal-disease-prospective-payment-system-payment-for-renal-dialysis-services-furnished-to-individuals-with-acute-kidney-injury-end-stage-renal-disease-quality-incentive-p-3/)** — `2023-11-06` | `164 Pages`
 - `[`2023-24068`]` **[21st Century Cures Act: Establishment of Disincentives for Health Care Providers That Have Committed Information Blocking](https://www.indexdata.org/21st-century-cures-act-establishment-of-disincentives-for-health-care-providers-that-have-committed-information-blocking-2/)** — `2023-11-01` | `24 Pages`
 - `[`2023-22282`]` **[Medicare Program; Medicare Secondary Payer and Certain Civil Money Penalties](https://www.indexdata.org/medicare-program-medicare-secondary-payer-and-certain-civil-money-penalties/)** — `2023-10-11` | `11 Pages`
+
+### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
+
+- `[`2024-00461`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-9/)** — `2024-02-09` | `12 Pages`
+- `[`2024-01124`]` **[NASA Federal Acquisition Regulation Supplement (NFS): Removal of Total Compensation Plan Language (NFS Case 2023-N002)](https://www.indexdata.org/nasa-federal-acquisition-regulation-supplement-nfs-removal-of-total-compensation-plan-language-nfs-case-2023-n002/)** — `2024-01-24` | `2 Pages`
+- `[`2024-00728`]` **[Federal Acquisition Regulation: Limitations on Subcontracting Revisions](https://www.indexdata.org/federal-acquisition-regulation-limitations-on-subcontracting-revisions/)** — `2024-01-17` | `4 Pages`
+- `[`2024-00172`]` **[Federal Acquisition Regulation: Improving Consistency Between Procurement and Nonprocurement Procedures on Suspension and Debarment](https://www.indexdata.org/federal-acquisition-regulation-improving-consistency-between-procurement-and-nonprocurement-procedures-on-suspension-and-debarment-2/)** — `2024-01-09` | `11 Pages`
+- `[`2023-27737`]` **[Federal Acquisition Regulation; Federal Acquisition Circular 2024-02; Small Entity Compliance Guide](https://www.indexdata.org/federal-acquisition-regulation-federal-acquisition-circular-2024-02-small-entity-compliance-guide/)** — `2023-12-22` | `2 Pages`
+- `[`2023-27736`]` **[Federal Acquisition Regulation: Use of Project Labor Agreements for Federal Construction Projects](https://www.indexdata.org/federal-acquisition-regulation-use-of-project-labor-agreements-for-federal-construction-projects/)** — `2023-12-22` | `22 Pages`
+- `[`2023-26046`]` **[Federal Acquisition Regulation: Implementation of Federal Acquisition Supply Chain Security Act (FASCSA) Orders](https://www.indexdata.org/federal-acquisition-regulation-implementation-of-federal-acquisition-supply-chain-security-act-fascsa-orders/)** — `2023-11-28` | `2 Pages`
+- `[`2023-25761`]` **[Federal Acquisition Regulation Supplement: Revision of the Definition of “Commercial Item” (NFS Case 2022-N003); Corrections](https://www.indexdata.org/federal-acquisition-regulation-supplement-revision-of-the-definition-of-commercial-item-nfs-case-2022-n003-corrections/)** — `2023-11-24` | `2 Pages`
+- `[`2023-25581`]` **[NASA Federal Acquisition Regulation Supplement: NASA FAR Supplement-NASA Ombudsman Program (NFS Case 2023-N022)](https://www.indexdata.org/nasa-federal-acquisition-regulation-supplement-nasa-far-supplement-nasa-ombudsman-program-nfs-case-2023-n022/)** — `2023-11-20` | `2 Pages`
+- `[`2023-24934`]` **[Federal Acquisition Regulation; Federal Acquisition Circular 2024-01; Small Entity Compliance Guide](https://www.indexdata.org/federal-acquisition-regulation-federal-acquisition-circular-2024-01-small-entity-compliance-guide/)** — `2023-11-14` | `2 Pages`
+- `[`2023-24933`]` **[Federal Acquisition Regulation; Technical Amendments](https://www.indexdata.org/federal-acquisition-regulation-technical-amendments-7/)** — `2023-11-14` | `2 Pages`
+- `[`2023-24932`]` **[Federal Acquisition Regulation: New Designated Country-North Macedonia](https://www.indexdata.org/federal-acquisition-regulation-new-designated-country-north-macedonia/)** — `2023-11-14` | `3 Pages`
+- `[`2023-24275`]` **[Federal Acquisition Regulation: Implementation of Federal Acquisition Supply Chain Security Act (FASCSA) Orders; Correction](https://www.indexdata.org/federal-acquisition-regulation-implementation-of-federal-acquisition-supply-chain-security-act-fascsa-orders-correction/)** — `2023-11-09` | `2 Pages`
+- `[`2023-24025`]` **[Federal Acquisition Regulation: Cyber Threat and Incident Reporting and Information Sharing; Extension of Comment Period](https://www.indexdata.org/federal-acquisition-regulation-cyber-threat-and-incident-reporting-and-information-sharing-extension-of-comment-period/)** — `2023-11-01` | `2 Pages`
+- `[`2023-21983`]` **[NASA Federal Acquisition Regulation Supplement: NASA Mentor-Protégé Program](https://www.indexdata.org/nasa-federal-acquisition-regulation-supplement-nasa-mentor-protege-program/)** — `2023-10-10` | `5 Pages`
+- `[`2023-21324`]` **[Federal Acquisition Regulation; Federal Acquisition Circular 2023-06; Small Entity Compliance Guide](https://www.indexdata.org/federal-acquisition-regulation-federal-acquisition-circular-2023-06-small-entity-compliance-guide/)** — `2023-10-05` | `2 Pages`
+- `[`2023-21323`]` **[Federal Acquisition Regulation; Technical Amendments](https://www.indexdata.org/federal-acquisition-regulation-technical-amendments-8/)** — `2023-10-05` | `2 Pages`
+- `[`2023-21322`]` **[Federal Acquisition Regulation: 8(a) Program](https://www.indexdata.org/federal-acquisition-regulation-8a-program/)** — `2023-10-05` | `3 Pages`
 
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
@@ -1417,6 +1416,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 
+- `[`2024-03127`]` **[Beneficiary Travel and Special Mode Transportation Under 38 U.S.C. 111 Within the United States](https://www.indexdata.org/beneficiary-travel-and-special-mode-transportation-under-38-u-s-c-111-within-the-united-states/)** — `2024-02-15` | `2 Pages`
 - `[`2024-02590`]` **[Updating VA Adjudication Regulations for Disability or Death Benefit Claims Related to Exposure to Certain Herbicide Agents](https://www.indexdata.org/updating-va-adjudication-regulations-for-disability-or-death-benefit-claims-related-to-exposure-to-certain-herbicide-agents/)** — `2024-02-12` | `11 Pages`
 - `[`2024-02183`]` **[Outer Burial Receptacles](https://www.indexdata.org/outer-burial-receptacles-2/)** — `2024-02-06` | `6 Pages`
 - `[`2024-00629`]` **[85/15 Rule Calculations, Waiver Criteria, and Reports](https://www.indexdata.org/85-15-rule-calculations-waiver-criteria-and-reports/)** — `2024-01-16` | `10 Pages`

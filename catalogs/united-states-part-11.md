@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,251` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,254` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-11 07:59 UTC`
+**Last Automated Sync:** `2026-11-11 08:33 UTC`
 
 ---
 
@@ -67,8 +67,8 @@
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`43` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,251 of 15,251)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,254 of 15,254)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -324,6 +324,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2023-12716`]` **[Safety Zone; Delaware Bay, Lower Township, NJ](https://www.indexdata.org/safety-zone-delaware-bay-lower-township-nj/)** — `2023-06-14` | `2 Pages`
 - `[`2023-12707`]` **[Security Zone, Baltimore Harbor, MD.](https://www.indexdata.org/security-zone-baltimore-harbor-md/)** — `2023-06-14` | `3 Pages`
 - `[`2023-12652`]` **[Safety Zone; Annual Fireworks Displays and Other Events in the Eighth Coast Guard District Requiring Safety Zones-Go 4th New Orleans Independence Day Celebration](https://www.indexdata.org/safety-zone-annual-fireworks-displays-and-other-events-in-the-eighth-coast-guard-district-requiring-safety-zones-go-4th-new-orleans-independence-day-celebration/)** — `2023-06-14` | `2 Pages`
 - `[`2023-12513`]` **[Marine Casualty Reporting on the Outer Continental Shelf](https://www.indexdata.org/marine-casualty-reporting-on-the-outer-continental-shelf-3/)** — `2023-06-14` | `25 Pages`
@@ -630,6 +631,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-hi
 
 - `[`2023-11758`]` **[Uniform Procedures for State Highway Safety Grant Programs](https://www.indexdata.org/uniform-procedures-for-state-highway-safety-grant-programs-4/)** — `2023-06-05` | `4 Pages`
 
+### [Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-maritime-commission/](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
+
+- `[`2023-12744`]` **[Definition of Unreasonable Refusal To Deal or Negotiate With Respect to Vessel Space Accommodations Provided by an Ocean Common Carrier](https://www.indexdata.org/definition-of-unreasonable-refusal-to-deal-or-negotiate-with-respect-to-vessel-space-accommodations-provided-by-an-ocean-common-carrier-2/)** — `2023-06-14` | `20 Pages`
+
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
 
@@ -639,6 +645,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
 - `[`2023-11354`]` **[Medication Guides: Patient Medication Information](https://www.indexdata.org/medication-guides-patient-medication-information/)** — `2023-05-31` | `35 Pages`
+
+### [Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
+
+- `[`2023-12726`]` **[Additions of Entities to the Entity List and Removal of Entity From the Entity List](https://www.indexdata.org/additions-of-entities-to-the-entity-list-and-removal-of-entity-from-the-entity-list/)** — `2023-06-14` | `10 Pages`
 
 ### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)

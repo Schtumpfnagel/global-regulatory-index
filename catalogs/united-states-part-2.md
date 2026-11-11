@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,251` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,254` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 07:59 UTC`
+**Last Automated Sync:** `2026-11-11 08:33 UTC`
 
 ---
 
@@ -67,8 +67,8 @@
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`43` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
@@ -248,11 +248,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,251)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,254)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-17615`]` **[Airworthiness Directives; Bell Textron Canada Limited Helicopters](https://www.indexdata.org/airworthiness-directives-bell-textron-canada-limited-helicopters-6/)** — `2026-08-28` | `4 Pages`
 - `[`2026-17609`]` **[Airworthiness Directives; Embraer S.A. Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-airplanes-2/)** — `2026-08-28` | `3 Pages`
 - `[`2026-17584`]` **[Airworthiness Directives; Lycoming Engines](https://www.indexdata.org/airworthiness-directives-lycoming-engines/)** — `2026-08-28` | `4 Pages`
 - `[`2026-17583`]` **[Airworthiness Directives; Various Helicopters](https://www.indexdata.org/airworthiness-directives-various-helicopters-2/)** — `2026-08-28` | `6 Pages`
@@ -557,8 +558,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-09488`]` **[Standard Instrument Approach Procedures and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-21/)** — `2026-05-13` | `2 Pages`
 - `[`2026-09487`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-22/)** — `2026-05-13` | `2 Pages`
 - `[`2026-09381`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-9/)** — `2026-05-12` | `4 Pages`
-- `[`2026-09225`]` **[Establishment of Canadian Area Navigation Route Q-838 and Revocation of Jet Route J-539 in the Vicinity of Glasgow, MT](https://www.indexdata.org/establishment-of-canadian-area-navigation-route-q-838-and-revocation-of-jet-route-j-539-in-the-vicinity-of-glasgow-mt/)** — `2026-05-08` | `3 Pages`
-- `[`2026-09224`]` **[Establishment of Canadian Area Navigation Route Q-855 and Revocation of Jet Route J-549 in the Vicinity of Williston, North Dakota](https://www.indexdata.org/establishment-of-canadian-area-navigation-route-q-855-and-revocation-of-jet-route-j-549-in-the-vicinity-of-williston-north-dakota/)** — `2026-05-08` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -956,6 +955,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2026-17616`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Bering Sea and Aleutian Islands Management Area](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-bering-sea-and-aleutian-islands-management-area-2/)** — `2026-08-28` | `2 Pages`
 - `[`2026-17500`]` **[Fisheries of the Northeastern United States; Monkfish; Framework Adjustment 17](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-monkfish-framework-adjustment-17/)** — `2026-08-27` | `3 Pages`
 - `[`2026-17391`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Duckabush Estuary Restoration Project in Washington](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-duckabush-estuary-restoration-project-in-washington/)** — `2026-08-26` | `13 Pages`
 - `[`2026-17300`]` **[Fisheries of the Caribbean, Gulf of America, and South Atlantic; Extension of the Commercial Shrimp Permit Moratorium in the Gulf of America](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-extension-of-the-commercial-shrimp-permit-moratorium-in-the-gulf-of-america/)** — `2026-08-25` | `4 Pages`
@@ -1234,6 +1234,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
+- `[`2026-17622`]` **[Federal Independent Dispute Resolution Operations; Correction](https://www.indexdata.org/federal-independent-dispute-resolution-operations-correction/)** — `2026-08-28` | `12 Pages`
 - `[`2026-17365`]` **[Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss](https://www.indexdata.org/pro-rata-share-of-subpart-f-income-tested-income-or-tested-loss/)** — `2026-08-26` | `26 Pages`
 - `[`2026-17154`]` **[Income Taxes](https://www.indexdata.org/income-taxes/)** — `2026-08-21` | `3 Pages`
 - `[`2026-17123`]` **[Guidance on Eligible Investments for Trump Accounts](https://www.indexdata.org/guidance-on-eligible-investments-for-trump-accounts/)** — `2026-08-21` | `16 Pages`
@@ -2165,11 +2166,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-me
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-safety-and-inspection-service/](https://www.indexdata.org/united-states/food-safety-and-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-safety-and-inspection-service/feed/)
 
 - `[`2026-10186`]` **[Visual Post-Mortem Inspection in Swine Slaughter Establishments](https://www.indexdata.org/visual-post-mortem-inspection-in-swine-slaughter-establishments/)** — `2026-05-21` | `10 Pages`
-
-### [Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-nutrition-service/](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
-
-- `[`2026-09212`]` **[Expanding Fluid Milk Options in Child Nutrition Programs](https://www.indexdata.org/expanding-fluid-milk-options-in-child-nutrition-programs/)** — `2026-05-08` | `9 Pages`
 
 ### [Government Accountability Office](https://www.indexdata.org/united-states/government-accountability-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/government-accountability-office/](https://www.indexdata.org/united-states/government-accountability-office/) | [RSS Feed](https://www.indexdata.org/united-states/government-accountability-office/feed/)

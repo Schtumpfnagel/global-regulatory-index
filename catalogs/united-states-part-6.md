@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,251` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,254` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 07:59 UTC`
+**Last Automated Sync:** `2026-11-11 08:33 UTC`
 
 ---
 
@@ -67,8 +67,8 @@
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`43` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,251)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,254)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -600,7 +600,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-23957`]` **[Amendment of Class E Airspace; Tallahassee, FL](https://www.indexdata.org/amendment-of-class-e-airspace-tallahassee-fl/)** — `2024-10-18` | `2 Pages`
 - `[`2024-23955`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-98/)** — `2024-10-18` | `3 Pages`
 - `[`2024-23953`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-99/)** — `2024-10-18` | `2 Pages`
-- `[`2024-23936`]` **[Special Conditions: Northwest Aerospace Technologies, Inc (NAT), Boeing Model 787-9 Airplane; Installation of High Wall Suites](https://www.indexdata.org/special-conditions-northwest-aerospace-technologies-inc-nat-boeing-model-787-9-airplane-installation-of-high-wall-suites/)** — `2024-10-17` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1071,6 +1070,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2025-02869`]` **[Television Broadcasting Stations, Silver City and Truth or Consequences, New Mexico](https://www.indexdata.org/television-broadcasting-stations-silver-city-and-truth-or-consequences-new-mexico/)** — `2025-02-21` | `2 Pages`
+- `[`2025-02816`]` **[Accessibility of User Interfaces, and Video Programming Guides and Menus](https://www.indexdata.org/accessibility-of-user-interfaces-and-video-programming-guides-and-menus/)** — `2025-02-21` | `2 Pages`
 - `[`2025-02756`]` **[Radio Broadcasting Services; Various Locations](https://www.indexdata.org/radio-broadcasting-services-various-locations-6/)** — `2025-02-19` | `2 Pages`
 - `[`2025-01535`]` **[Wireless Telecommunications Bureau Seeks To Supplement the Record on Proposed Rules To Re-Allocate 1675-1680 MHz Band](https://www.indexdata.org/wireless-telecommunications-bureau-seeks-to-supplement-the-record-on-proposed-rules-to-re-allocate-1675-1680-mhz-band/)** — `2025-01-29` | `2 Pages`
 - `[`2025-01115`]` **[Spectrum Sharing Rules for NGSO Fixed-Satellite Service Systems; Correction](https://www.indexdata.org/spectrum-sharing-rules-for-ngso-fixed-satellite-service-systems-correction/)** — `2025-01-22` | `2 Pages`
@@ -1109,7 +1110,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2024-24105`]` **[Rules for FM Terrestrial Digital Audio Broadcasting Systems](https://www.indexdata.org/rules-for-fm-terrestrial-digital-audio-broadcasting-systems/)** — `2024-10-21` | `10 Pages`
 - `[`2024-23844`]` **[Public Safety and Homeland Security Bureau Announces 15-Business Day Filing Window for Cybersecurity Labeling Administrator and Lead Administrator Applications](https://www.indexdata.org/public-safety-and-homeland-security-bureau-announces-15-business-day-filing-window-for-cybersecurity-labeling-administrator-and-lead-administrator-applications/)** — `2024-10-21` | `11 Pages`
 - `[`2024-23959`]` **[Wireless Microphones in the TV Bands, 600 MHz Guard Band, 600 MHz Duplex Gap, and the 941.5-944 MHz, 944-952 MHz, 952.850-956.250 MHz, 956.45-959.85 MHz, 1435-1525 MHz, 6875-6900 MHz and 7100-7125 MHz Bands](https://www.indexdata.org/wireless-microphones-in-the-tv-bands-600-mhz-guard-band-600-mhz-duplex-gap-and-the-941-5-944-mhz-944-952-mhz-952-850-956-250-mhz-956-45-959-85-mhz-1435-1525-mhz-6875-6900-mhz-and-7100-7125-mhz/)** — `2024-10-18` | `12 Pages`
-- `[`2024-23894`]` **[Facilitating Implementation of Next Generation 911 Services (NG911); Location-Based Routing for Wireless 911 Calls; Correction](https://www.indexdata.org/facilitating-implementation-of-next-generation-911-services-ng911-location-based-routing-for-wireless-911-calls-correction/)** — `2024-10-17` | `2 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -1145,7 +1145,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2024-24154`]` **[Energy Conservation Program: Energy Conservation Standards for Residential Clothes Washers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-residential-clothes-washers-2/)** — `2024-10-21` | `12 Pages`
 - `[`2024-23907`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Furnace Fans](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-furnace-fans-2/)** — `2024-10-18` | `37 Pages`
 - `[`2024-23906`]` **[Energy Conservation Program: Energy Conservation Standards for Oil, Electric, and Weatherized Gas Consumer Furnaces](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-oil-electric-and-weatherized-gas-consumer-furnaces/)** — `2024-10-18` | `36 Pages`
-- `[`2024-23908`]` **[Energy Conservation Program: Energy Conservation Standards for Dishwashers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dishwashers/)** — `2024-10-17` | `7 Pages`
 
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
@@ -1568,6 +1567,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/](https://
 - `[`GDI-419534`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-33/)** — `2024-12-02` | `2 Pages`
 - `[`GDI-419529`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP)) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-airplanes/)** — `2024-12-02` | `2 Pages`
 
+### [National Park Service](https://www.indexdata.org/united-states/national-park-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-park-service/](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
+
+- `[`2025-02868`]` **[Visitor Experience Improvements Authority Contracts; Delay of Effective Date](https://www.indexdata.org/visitor-experience-improvements-authority-contracts-delay-of-effective-date/)** — `2025-02-20` | `2 Pages`
+- `[`2025-02659`]` **[Glen Canyon National Recreation Area; Motor Vehicles; Delay of Effective Date](https://www.indexdata.org/glen-canyon-national-recreation-area-motor-vehicles-delay-of-effective-date/)** — `2025-02-13` | `2 Pages`
+- `[`2025-01210`]` **[Assateague Island National Seashore; Oversand Vehicles](https://www.indexdata.org/assateague-island-national-seashore-oversand-vehicles-2/)** — `2025-01-17` | `5 Pages`
+- `[`2025-01206`]` **[Visitor Experience Improvements Authority Contracts](https://www.indexdata.org/visitor-experience-improvements-authority-contracts/)** — `2025-01-17` | `11 Pages`
+- `[`2024-31578`]` **[Powered Micromobility Devices](https://www.indexdata.org/powered-micromobility-devices-2/)** — `2025-01-16` | `7 Pages`
+- `[`2025-00509`]` **[Glen Canyon National Recreation Area; Motor Vehicles](https://www.indexdata.org/glen-canyon-national-recreation-area-motor-vehicles/)** — `2025-01-13` | `11 Pages`
+- `[`2024-31207`]` **[Whiskeytown Unit, Whiskeytown-Shasta-Trinity National Recreation Area; Bicycling](https://www.indexdata.org/whiskeytown-unit-whiskeytown-shasta-trinity-national-recreation-area-bicycling-2/)** — `2024-12-30` | `6 Pages`
+- `[`2024-30540`]` **[Chattahoochee River National Recreation Area; Bicycling](https://www.indexdata.org/chattahoochee-river-national-recreation-area-bicycling/)** — `2024-12-23` | `4 Pages`
+- `[`2024-28348`]` **[Rights of Way](https://www.indexdata.org/rights-of-way/)** — `2024-12-05` | `20 Pages`
+- `[`2024-27373`]` **[World Heritage Convention](https://www.indexdata.org/world-heritage-convention/)** — `2024-12-04` | `9 Pages`
+- `[`2024-27571`]` **[Hot Springs National Park; Use of Thermal Water and Commercial Passenger-Carrying Vehicles](https://www.indexdata.org/hot-springs-national-park-use-of-thermal-water-and-commercial-passenger-carrying-vehicles/)** — `2024-11-27` | `8 Pages`
+
 ### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 
@@ -1610,20 +1624,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2024-26229`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 8K, 25G, 110, 111, and 112](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-8k-25g-110-111-and-112/)** — `2024-11-14` | `3 Pages`
 - `[`2024-26127`]` **[Burma Sanctions Regulations](https://www.indexdata.org/burma-sanctions-regulations/)** — `2024-11-13` | `13 Pages`
 - `[`2024-24524`]` **[Publication of Western Balkans Stabilization Regulations Web General Licenses 3A, 4, and 5](https://www.indexdata.org/publication-of-western-balkans-stabilization-regulations-web-general-licenses-3a-4-and-5/)** — `2024-10-23` | `3 Pages`
-
-### [National Park Service](https://www.indexdata.org/united-states/national-park-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-park-service/](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
-
-- `[`2025-02659`]` **[Glen Canyon National Recreation Area; Motor Vehicles; Delay of Effective Date](https://www.indexdata.org/glen-canyon-national-recreation-area-motor-vehicles-delay-of-effective-date/)** — `2025-02-13` | `2 Pages`
-- `[`2025-01210`]` **[Assateague Island National Seashore; Oversand Vehicles](https://www.indexdata.org/assateague-island-national-seashore-oversand-vehicles-2/)** — `2025-01-17` | `5 Pages`
-- `[`2025-01206`]` **[Visitor Experience Improvements Authority Contracts](https://www.indexdata.org/visitor-experience-improvements-authority-contracts/)** — `2025-01-17` | `11 Pages`
-- `[`2024-31578`]` **[Powered Micromobility Devices](https://www.indexdata.org/powered-micromobility-devices-2/)** — `2025-01-16` | `7 Pages`
-- `[`2025-00509`]` **[Glen Canyon National Recreation Area; Motor Vehicles](https://www.indexdata.org/glen-canyon-national-recreation-area-motor-vehicles/)** — `2025-01-13` | `11 Pages`
-- `[`2024-31207`]` **[Whiskeytown Unit, Whiskeytown-Shasta-Trinity National Recreation Area; Bicycling](https://www.indexdata.org/whiskeytown-unit-whiskeytown-shasta-trinity-national-recreation-area-bicycling-2/)** — `2024-12-30` | `6 Pages`
-- `[`2024-30540`]` **[Chattahoochee River National Recreation Area; Bicycling](https://www.indexdata.org/chattahoochee-river-national-recreation-area-bicycling/)** — `2024-12-23` | `4 Pages`
-- `[`2024-28348`]` **[Rights of Way](https://www.indexdata.org/rights-of-way/)** — `2024-12-05` | `20 Pages`
-- `[`2024-27373`]` **[World Heritage Convention](https://www.indexdata.org/world-heritage-convention/)** — `2024-12-04` | `9 Pages`
-- `[`2024-27571`]` **[Hot Springs National Park; Use of Thermal Water and Commercial Passenger-Carrying Vehicles](https://www.indexdata.org/hot-springs-national-park-use-of-thermal-water-and-commercial-passenger-carrying-vehicles/)** — `2024-11-27` | `8 Pages`
 
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
