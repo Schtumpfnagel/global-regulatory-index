@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,591` across `65` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,593` across `65` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-11 06:57 UTC`
+**Last Automated Sync:** `2026-11-11 07:59 UTC`
 
 ---
 
@@ -49,6 +49,7 @@
 - **[Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
 - **[Office of the Schools Adjudicator](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/feed/)
 - **[Regulator of Social Housing](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/) | [RSS Feed](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/feed/)
+- **[Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
 - **[HM Revenue & Customs](https://www.indexdata.org/united-kingdom/hm-revenue-customs/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-revenue-customs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-revenue-customs/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
@@ -60,7 +61,6 @@
 - **[Secretary of State](https://www.indexdata.org/united-kingdom/secretary-of-state/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/secretary-of-state/) | [RSS Feed](https://www.indexdata.org/united-kingdom/secretary-of-state/feed/)
 - **[UK Defence Innovation](https://www.indexdata.org/united-kingdom/uk-defence-innovation/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-defence-innovation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-defence-innovation/feed/)
 - **[Commissioners for His Majesty’s Revenue and Customs](https://www.indexdata.org/united-kingdom/commissioners-for-his-majesty-s-revenue-and-customs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/commissioners-for-his-majesty-s-revenue-and-customs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/commissioners-for-his-majesty-s-revenue-and-customs/feed/)
-- **[Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
 - **[Family Procedure Rule Committee](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/feed/)
 - **[Government Chemist](https://www.indexdata.org/united-kingdom/government-chemist/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-chemist/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-chemist/feed/)
 - **[His Majesty’s Treasury](https://www.indexdata.org/united-kingdom/his-majesty-s-treasury/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/his-majesty-s-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/his-majesty-s-treasury/feed/)
@@ -81,7 +81,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,591)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,593)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -447,8 +447,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2025-1154`]` **[The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2000-regulated-activities-etc-amendment-no-2-order-2025/)** — `2025-11-03` | `4 Pages`
 - `[`UKSI-2025-1147`]` **[The Financial Services (Overseas Recognition Regime Designations) Regulations 2025](https://www.indexdata.org/the-financial-services-overseas-recognition-regime-designations-regulations-2025/)** — `2025-10-30` | `8 Pages`
 - `[`UKSI-2025-1146`]` **[The Economic Crime (Anti-Money Laundering) Levy (Amendment) Regulations 2025](https://www.indexdata.org/the-economic-crime-anti-money-laundering-levy-amendment-regulations-2025/)** — `2025-10-30` | `2 Pages`
-- `[`UKSI-2025-1145`]` **[The Financial Services and Markets Act 2023 (Mutual Recognition Agreement) (Switzerland) Regulations 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2023-mutual-recognition-agreement-switzerland-regulations-2025/)** — `2025-10-30` | `32 Pages`
-- `[`UKSI-2025-1144`]` **[The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2025](https://www.indexdata.org/the-income-tax-pay-as-you-earn-amendment-no-2-regulations-2025/)** — `2025-10-30` | `2 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -1685,6 +1683,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/regulator
 - `[`UK-GOV-61d59761-5baf-46be-b4d9-9b2f12076911-7`]` **[RSH Board minutes 2026 — RSH Board minutes - 17 March 2026 (PDF)](https://www.indexdata.org/rsh-board-minutes-2026-rsh-board-minutes-17-march-2026-pdf/)** — `2026-11-06` | `4 Pages`
 - `[`UK-GOV-61d59761-5baf-46be-b4d9-9b2f12076911-6`]` **[RSH Board minutes 2026 — RSH Board minutes - 21 April 2026 (PDF)](https://www.indexdata.org/rsh-board-minutes-2026-rsh-board-minutes-21-april-2026-pdf/)** — `2026-11-06` | `4 Pages`
 
+### [Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/competition-and-markets-authority/](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
+
+- `[`UK-GOV-96593b97-6271-412f-a19c-b0fa734a38ab-2`]` **[McCormick / Unilever merger inquiry — Summary of phase 1 decision (PDF, 116KB)](https://www.indexdata.org/mccormick-unilever-merger-inquiry-summary-of-phase-1-decision-pdf-116kb/)** — `2026-11-11` | `3 Pages`
+- `[`UK-GOV-8abf70db-eaf6-4ac8-a655-12815b0df1d3-2`]` **[AkzoNobel / Axalta merger inquiry — Summary of phase 1 decision (PDF, 115KB)](https://www.indexdata.org/akzonobel-axalta-merger-inquiry-summary-of-phase-1-decision-pdf-115kb/)** — `2026-11-11` | `3 Pages`
+- `[`UK-GOV-ead4f699-cf77-4b38-98db-26e47a3a70a8-9`]` **[Google's general search and search advertising services — Roadmap (PDF, 353KB)](https://www.indexdata.org/googles-general-search-and-search-advertising-services-roadmap-pdf-353kb/)** — `2026-11-05` | `27 Pages`
+
 ### [Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/government-commercial-function/](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
 
@@ -1752,11 +1757,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/uk-defenc
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/commissioners-for-his-majesty-s-revenue-and-customs/](https://www.indexdata.org/united-kingdom/commissioners-for-his-majesty-s-revenue-and-customs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/commissioners-for-his-majesty-s-revenue-and-customs/feed/)
 
 - `[`UKSI-2026-1156`]` **[The International Controlled Transaction Reporting Regulations 2026](https://www.indexdata.org/the-international-controlled-transaction-reporting-regulations-2026/)** — `2026-10-30` | `16 Pages`
-
-### [Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/competition-and-markets-authority/](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
-
-- `[`UK-GOV-ead4f699-cf77-4b38-98db-26e47a3a70a8-9`]` **[Google's general search and search advertising services — Roadmap (PDF, 353KB)](https://www.indexdata.org/googles-general-search-and-search-advertising-services-roadmap-pdf-353kb/)** — `2026-11-05` | `27 Pages`
 
 ### [Family Procedure Rule Committee](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,249` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,251` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 06:57 UTC`
+**Last Automated Sync:** `2026-11-11 07:59 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,249)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,251)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -949,6 +949,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-23841`]` **[Fisheries of the Northeastern United States; 2025 Specifications for the Summer Flounder, Scup, Black Sea Bass, and Bluefish Fisheries](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-2025-specifications-for-the-summer-flounder-scup-black-sea-bass-and-bluefish-fisheries-2/)** — `2024-10-16` | `6 Pages`
 - `[`2024-23607`]` **[Chumash Heritage National Marine Sanctuary](https://www.indexdata.org/chumash-heritage-national-marine-sanctuary/)** — `2024-10-16` | `47 Pages`
 - `[`2024-23392`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to U.S. Navy Repair and Replacement of the Q8 Bulkhead at Naval Station Norfolk](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-u-s-navy-repair-and-replacement-of-the-q8-bulkhead-at-naval-station-norfolk/)** — `2024-10-09` | `20 Pages`
 - `[`2024-23318`]` **[Fisheries of the Northeastern United States; Atlantic Herring Fishery; Adjustment to the 2024 Specifications](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-herring-fishery-adjustment-to-the-2024-specifications/)** — `2024-10-09` | `2 Pages`
@@ -1382,7 +1383,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2024-14642`]` **[The Unverified List; Additions and Removals](https://www.indexdata.org/the-unverified-list-additions-and-removals/)** — `2024-07-03` | `5 Pages`
 - `[`2024-14635`]` **[Addition of Entities and Revision of Entries on the Entity List](https://www.indexdata.org/addition-of-entities-and-revision-of-entries-on-the-entity-list/)** — `2024-07-03` | `4 Pages`
 - `[`2024-13695`]` **[Additions to the Entity List](https://www.indexdata.org/additions-to-the-entity-list-5/)** — `2024-06-24` | `3 Pages`
-- `[`2024-13148`]` **[Implementation of Additional Sanctions Against Russia and Belarus Under the Export Administration Regulations (EAR) and Refinements to Existing Controls](https://www.indexdata.org/implementation-of-additional-sanctions-against-russia-and-belarus-under-the-export-administration-regulations-ear-and-refinements-to-existing-controls/)** — `2024-06-18` | `37 Pages`
 
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
@@ -1714,6 +1714,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-
 - `[`2024-14415`]` **[Imposition of Special Measure Regarding Al-Huda Bank as a Financial Institution of Primary Money Laundering Concern](https://www.indexdata.org/imposition-of-special-measure-regarding-al-huda-bank-as-a-financial-institution-of-primary-money-laundering-concern/)** — `2024-07-03` | `9 Pages`
 - `[`2024-14414`]` **[Anti-Money Laundering and Countering the Financing of Terrorism Programs](https://www.indexdata.org/anti-money-laundering-and-countering-the-financing-of-terrorism-programs-4/)** — `2024-07-03` | `66 Pages`
 
+### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+
+- `[`2024-23861`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-12/)** — `2024-10-17` | `2 Pages`
+- `[`2024-22125`]` **[Market Dominant Postal Products](https://www.indexdata.org/market-dominant-postal-products-2/)** — `2024-09-30` | `3 Pages`
+- `[`2024-18270`]` **[Competitive Postal Products](https://www.indexdata.org/competitive-postal-products/)** — `2024-08-20` | `10 Pages`
+- `[`2024-17498`]` **[Freedom of Information Act](https://www.indexdata.org/freedom-of-information-act-3/)** — `2024-08-09` | `8 Pages`
+- `[`2024-17156`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-13/)** — `2024-08-09` | `2 Pages`
+- `[`2024-16787`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-14/)** — `2024-08-09` | `2 Pages`
+
 ### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 
@@ -1778,15 +1788,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 - `[`2024-14116`]` **[Pipeline Safety: Requirement of Valve Installation and Minimum Rupture Detection Standards: Response to Petition for Reconsideration; Additional Technical Corrections](https://www.indexdata.org/pipeline-safety-requirement-of-valve-installation-and-minimum-rupture-detection-standards-response-to-petition-for-reconsideration-additional-technical-corrections/)** — `2024-06-28` | `4 Pages`
 - `[`2024-14115`]` **[Pipeline Safety: Periodic Updates of Regulatory References to Technical Standards and Miscellaneous Amendments; Technical Correction](https://www.indexdata.org/pipeline-safety-periodic-updates-of-regulatory-references-to-technical-standards-and-miscellaneous-amendments-technical-correction/)** — `2024-06-28` | `3 Pages`
 - `[`2024-13474`]` **[Hazardous Materials: FAST Act Requirements for Real-Time Train Consist Information](https://www.indexdata.org/hazardous-materials-fast-act-requirements-for-real-time-train-consist-information/)** — `2024-06-24` | `39 Pages`
-
-### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-
-- `[`2024-22125`]` **[Market Dominant Postal Products](https://www.indexdata.org/market-dominant-postal-products-2/)** — `2024-09-30` | `3 Pages`
-- `[`2024-18270`]` **[Competitive Postal Products](https://www.indexdata.org/competitive-postal-products/)** — `2024-08-20` | `10 Pages`
-- `[`2024-17498`]` **[Freedom of Information Act](https://www.indexdata.org/freedom-of-information-act-3/)** — `2024-08-09` | `8 Pages`
-- `[`2024-17156`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-13/)** — `2024-08-09` | `2 Pages`
-- `[`2024-16787`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-14/)** — `2024-08-09` | `2 Pages`
 
 ### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
@@ -2104,11 +2105,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-nutrition-service/](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 
 - `[`2024-22096`]` **[Supplemental Nutrition Assistance Program (SNAP): Disaster Supplemental Nutrition Assistance Program (D-SNAP); Withdrawal](https://www.indexdata.org/supplemental-nutrition-assistance-program-snap-disaster-supplemental-nutrition-assistance-program-d-snap-withdrawal/)** — `2024-09-27` | `2 Pages`
-
-### [Government Accountability Office](https://www.indexdata.org/united-states/government-accountability-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/government-accountability-office/](https://www.indexdata.org/united-states/government-accountability-office/) | [RSS Feed](https://www.indexdata.org/united-states/government-accountability-office/feed/)
-
-- `[`2024-13064`]` **[Personnel Appeals Board; Procedural Rules](https://www.indexdata.org/personnel-appeals-board-procedural-rules-2/)** — `2024-06-18` | `6 Pages`
 
 ### [Government Ethics Office](https://www.indexdata.org/united-states/government-ethics-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/government-ethics-office/](https://www.indexdata.org/united-states/government-ethics-office/) | [RSS Feed](https://www.indexdata.org/united-states/government-ethics-office/feed/)

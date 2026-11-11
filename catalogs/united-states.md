@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,249` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,251` across `232` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 06:57 UTC`
+**Last Automated Sync:** `2026-11-11 07:59 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,249)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,251)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -329,12 +329,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr9613eh`]` **[H.R. 9613 (EH) - Nuclear Advisory Committee Reform Act](https://www.indexdata.org/h-r-9613-eh-nuclear-advisory-committee-reform-act/)** — `2026-11-01` | `8 Pages`
 - `[`US-BILLS-119hr9612eh`]` **[H.R. 9612 (EH) - American Enrichment Deployment Act](https://www.indexdata.org/h-r-9612-eh-american-enrichment-deployment-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr3978eh`]` **[H.R. 3978 (EH) - Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act](https://www.indexdata.org/h-r-3978-eh-nuclear-refuel-recycling-efficient-fuels-utilizing-expedited-licensing-act/)** — `2026-11-01` | `4 Pages`
+- `[`US-BILLS-119hr10990ih`]` **[H.R. 10990 (IH) - For the relief of Paula Valentina Albornoz Hernández, Eliana Karina Hernández Peranquive, Nicole Alejandra Albornoz Hernández, and Leonardo Albornoz Rodríguez.](https://www.indexdata.org/h-r-10990-ih-for-the-relief-of-paula-valentina-albornoz-hernandez-eliana-karina-hernandez-peranquive-nicole-alejandra-albornoz-hernandez-and-leonardo-albornoz-rodriguez/)** — `2026-11-01` | `5 Pages`
 - `[`US-BILLS-119hr10975ih`]` **[H.R. 10975 (IH) - Fair Manufactured Housing Lending Act](https://www.indexdata.org/h-r-10975-ih-fair-manufactured-housing-lending-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10973ih`]` **[H.R. 10973 (IH) - Master Sergeant Roy P. Benavidez VA Clinic Act of 2026](https://www.indexdata.org/h-r-10973-ih-master-sergeant-roy-p-benavidez-va-clinic-act-of-2026/)** — `2026-11-01` | `9 Pages`
 - `[`US-BILLS-119hr10971ih`]` **[H.R. 10971 (IH) - Gulf Maritime Restoration Act](https://www.indexdata.org/h-r-10971-ih-gulf-maritime-restoration-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10967ih`]` **[H.R. 10967 (IH) - Diwali Day Act](https://www.indexdata.org/h-r-10967-ih-diwali-day-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10962ih`]` **[H.R. 10962 (IH) - Justification Oversight and Opportunities for Main Street Act of 2026](https://www.indexdata.org/h-r-10962-ih-justification-oversight-and-opportunities-for-main-street-act-of-2026/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr10954ih`]` **[H.R. 10954 (IH) - Don’t Flush Babies Act](https://www.indexdata.org/h-r-10954-ih-dont-flush-babies-act/)** — `2026-11-01` | `9 Pages`
+- `[`US-BILLS-119hconres126ih`]` **[H. Con. Res. 126 (IH) - Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.](https://www.indexdata.org/h-con-res-126-ih-directing-the-president-pursuant-to-section-5c-of-the-war-powers-resolution-to-remove-united-states-armed-forces-from-hostilities-with-iran/)** — `2026-11-01` | `2 Pages`
 - `[`US-CRPT-119hrpt856`]` **[H. Rept. 119-856](https://www.indexdata.org/h-rept-119-856/)** — `2026-10-31` | `4 Pages`
 - `[`US-BILLS-119hr10933ih`]` **[H.R. 10933 (IH) - EMS Supporting Personnel, Operations, Upgrades, Resources, and Training Act of 2026](https://www.indexdata.org/h-r-10933-ih-ems-supporting-personnel-operations-upgrades-resources-and-training-act-of-2026/)** — `2026-10-31` | `12 Pages`
 - `[`US-BILLS-119hr10931ih`]` **[H.R. 10931 (IH) - Library Construction and Modernization Act of 2026](https://www.indexdata.org/h-r-10931-ih-library-construction-and-modernization-act-of-2026/)** — `2026-10-31` | `4 Pages`
@@ -711,7 +713,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-17661`]` **[Special Conditions: Skyryse, Robinson Helicopter Company Model R66 Helicopter; Control Margin Awareness](https://www.indexdata.org/special-conditions-skyryse-robinson-helicopter-company-model-r66-helicopter-control-margin-awareness/)** — `2026-08-28` | `3 Pages`
 - `[`2026-17639`]` **[Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes](https://www.indexdata.org/airworthiness-directives-pilatus-aircraft-ltd-airplanes-2/)** — `2026-08-28` | `3 Pages`
 - `[`2026-17615`]` **[Airworthiness Directives; Bell Textron Canada Limited Helicopters](https://www.indexdata.org/airworthiness-directives-bell-textron-canada-limited-helicopters-6/)** — `2026-08-28` | `4 Pages`
-- `[`2026-17609`]` **[Airworthiness Directives; Embraer S.A. Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-airplanes-2/)** — `2026-08-28` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -780,7 +781,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-17940`]` **[Safety Zone; Maumee River, Toledo, OH](https://www.indexdata.org/safety-zone-maumee-river-toledo-oh/)** — `2026-09-02` | `2 Pages`
 - `[`2026-17874`]` **[Safety Zone; Fort Myers Beach, FL](https://www.indexdata.org/safety-zone-fort-myers-beach-fl/)** — `2026-09-01` | `2 Pages`
 - `[`2026-17627`]` **[Safety Zone; Hurricanes, Tropical Storms, and Severe Weather Events in the Sector Mobile Captain of the Port Zone](https://www.indexdata.org/safety-zone-hurricanes-tropical-storms-and-severe-weather-events-in-the-sector-mobile-captain-of-the-port-zone/)** — `2026-08-28` | `3 Pages`
-- `[`2026-17608`]` **[Special Local Regulation; Chickahominy River, Williamsburg, VA](https://www.indexdata.org/special-local-regulation-chickahominy-river-williamsburg-va/)** — `2026-08-28` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)

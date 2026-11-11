@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,249` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,251` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 06:57 UTC`
+**Last Automated Sync:** `2026-11-11 07:59 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`293` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,249)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,251)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -663,7 +663,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-02975`]` **[Amendment of Class E Airspace; Austin, TX; Establishment of Class E Airspace; Austin, Lago Vista, and Lakeway, TX](https://www.indexdata.org/amendment-of-class-e-airspace-austin-tx-establishment-of-class-e-airspace-austin-lago-vista-and-lakeway-tx/)** — `2025-02-24` | `3 Pages`
 - `[`2025-02947`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-31/)** — `2025-02-24` | `3 Pages`
 - `[`2025-02932`]` **[Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes](https://www.indexdata.org/airworthiness-directives-pilatus-aircraft-ltd-airplanes-17/)** — `2025-02-24` | `4 Pages`
-- `[`2025-02845`]` **[Notice of Public Meetings and Request for Comment on the Modernization of Pilot Schools](https://www.indexdata.org/notice-of-public-meetings-and-request-for-comment-on-the-modernization-of-pilot-schools-4/)** — `2025-02-20` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1124,7 +1123,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2025-03839`]` **[Energy Conservation Program: Proposed Withdrawal of Determination of Miscellaneous Gas Products as a Covered Consumer Product](https://www.indexdata.org/energy-conservation-program-proposed-withdrawal-of-determination-of-miscellaneous-gas-products-as-a-covered-consumer-product/)** — `2025-03-13` | `6 Pages`
 - `[`2025-03465`]` **[Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and-refrigerator-freezers/)** — `2025-03-07` | `3 Pages`
 - `[`2025-03464`]` **[Energy Conservation Program: Test Procedures for Compressors](https://www.indexdata.org/energy-conservation-program-test-procedures-for-compressors/)** — `2025-03-07` | `2 Pages`
-- `[`2025-02851`]` **[Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-walk-in-coolers-and-walk-in-freezers-3/)** — `2025-02-20` | `2 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1403,34 +1401,10 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mo
 - `[`2025-09703`]` **[Civil Penalties Schedule Update](https://www.indexdata.org/civil-penalties-schedule-update/)** — `2025-05-30` | `4 Pages`
 - `[`2025-02968`]` **[Federal Motor Carrier Safety Regulations; Correction](https://www.indexdata.org/federal-motor-carrier-safety-regulations-correction/)** — `2025-02-24` | `2 Pages`
 
-### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
-
-- `[`2025-12364`]` **[Revision of National Environmental Policy Act Regulations](https://www.indexdata.org/revision-of-national-environmental-policy-act-regulations/)** — `2025-07-03` | `20 Pages`
-- `[`2025-09888`]` **[Incorporating Safety Into Federal-Aid Programs and Projects](https://www.indexdata.org/incorporating-safety-into-federal-aid-programs-and-projects/)** — `2025-06-03` | `2 Pages`
-- `[`2025-09887`]` **[Update of 23 CFR Part 630, Subparts A and G](https://www.indexdata.org/update-of-23-cfr-part-630-subparts-a-and-g/)** — `2025-06-03` | `2 Pages`
-- `[`2025-09886`]` **[Statewide and Nonmetropolitan Planning; Metropolitan Transportation Planning](https://www.indexdata.org/statewide-and-nonmetropolitan-planning-metropolitan-transportation-planning-2/)** — `2025-06-03` | `2 Pages`
-- `[`2025-09754`]` **[Rescinding Requirements Regarding Geodetic Markers](https://www.indexdata.org/rescinding-requirements-regarding-geodetic-markers/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09753`]` **[State Highway Agency Equal Employment Opportunity Programs](https://www.indexdata.org/state-highway-agency-equal-employment-opportunity-programs/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09737`]` **[Rescinding Regulations on Procedures for Advance Construction of Federal-aid Projects](https://www.indexdata.org/rescinding-regulations-on-procedures-for-advance-construction-of-federal-aid-projects-2/)** — `2025-05-30` | `2 Pages`
-- `[`2025-09736`]` **[Rescinding Preliminary Engineering Project 10-Year Repayment Provision](https://www.indexdata.org/rescinding-preliminary-engineering-project-10-year-repayment-provision/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09735`]` **[Rescinding Regulations Regarding Management Systems Pertaining to the Forest Service and the Forest Highway Program](https://www.indexdata.org/rescinding-regulations-regarding-management-systems-pertaining-to-the-forest-service-and-the-forest-highway-program-2/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09729`]` **[Rescinding Regulations Regarding Management Systems Pertaining to the National Park Service and the Park Roads and Parkways Program](https://www.indexdata.org/rescinding-regulations-regarding-management-systems-pertaining-to-the-national-park-service-and-the-park-roads-and-parkways-program-2/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09728`]` **[Rescinding Requirements Regarding Required Contract Provisions for Federal-Aid Construction Contracts (Other Than Appalachian Contracts)](https://www.indexdata.org/rescinding-requirements-regarding-required-contract-provisions-for-federal-aid-construction-contracts-other-than-appalachian-contracts-2/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09725`]` **[National Performance Management Measures; Rescinding Requirements for the First Performance Period](https://www.indexdata.org/national-performance-management-measures-rescinding-requirements-for-the-first-performance-period/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09724`]` **[Rescinding Regulations Regarding Management Systems Pertaining to the Bureau of Indian Affairs and the Indian Reservation Roads Program](https://www.indexdata.org/rescinding-regulations-regarding-management-systems-pertaining-to-the-bureau-of-indian-affairs-and-the-indian-reservation-roads-program-2/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09723`]` **[Rescinding Regulations Regarding Management Systems Pertaining to the Fish and Wildlife Service and the Refuge Roads Program](https://www.indexdata.org/rescinding-regulations-regarding-management-systems-pertaining-to-the-fish-and-wildlife-service-and-the-refuge-roads-program-2/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09722`]` **[Rescinding Requirements Regarding the Forest Highway Program](https://www.indexdata.org/rescinding-requirements-regarding-the-forest-highway-program-2/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09721`]` **[Rescinding Requirements Regarding Federal-Aid Contracts for Appalachian Contracts](https://www.indexdata.org/rescinding-requirements-regarding-federal-aid-contracts-for-appalachian-contracts-2/)** — `2025-05-30` | `4 Pages`
-- `[`2025-09715`]` **[Rescinding Requirements Regarding Bridges on Federal Dams](https://www.indexdata.org/rescinding-requirements-regarding-bridges-on-federal-dams-2/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09714`]` **[Rescinding Regulations on Projects of National and Regional Significance Evaluation and Rating](https://www.indexdata.org/rescinding-regulations-on-projects-of-national-and-regional-significance-evaluation-and-rating/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09708`]` **[Rescinding Requirements Regarding Management and Monitoring Systems](https://www.indexdata.org/rescinding-requirements-regarding-management-and-monitoring-systems/)** — `2025-05-30` | `3 Pages`
-- `[`2025-08352`]` **[National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure; Correction](https://www.indexdata.org/national-performance-management-measures-assessing-performance-of-the-national-highway-system-greenhouse-gas-emissions-measure-correction/)** — `2025-05-13` | `2 Pages`
-- `[`2025-06664`]` **[National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure](https://www.indexdata.org/national-performance-management-measures-assessing-performance-of-the-national-highway-system-greenhouse-gas-emissions-measure/)** — `2025-04-18` | `4 Pages`
-
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 
+- `[`2025-11539`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Blue Tree Monitor](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-blue-tree-monitor/)** — `2025-07-16` | `3 Pages`
 - `[`2025-12196`]` **[Endangered and Threatened Wildlife and Plants; Removal of the Dwarf-flowered Heartleaf From the List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-the-dwarf-flowered-heartleaf-from-the-list-of-endangered-and-threatened-plants/)** — `2025-07-08` | `15 Pages`
 - `[`2025-12009`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Barrens Darter](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-barrens-darter/)** — `2025-07-01` | `15 Pages`
 - `[`2025-11778`]` **[Marine Mammals; Incidental Take of Polar Bears During Specified Activities; North Slope, Alaska](https://www.indexdata.org/marine-mammals-incidental-take-of-polar-bears-during-specified-activities-north-slope-alaska/)** — `2025-06-26` | `35 Pages`
@@ -1456,6 +1430,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
 
+- `[`2025-13244`]` **[Technical Amendment to the Uniform Procedures for State Highway Safety Grant Programs](https://www.indexdata.org/technical-amendment-to-the-uniform-procedures-for-state-highway-safety-grant-programs/)** — `2025-07-15` | `4 Pages`
 - `[`2025-12363`]` **[Recission of NHTSA's 1975 Procedures for Considering Environmental Impacts](https://www.indexdata.org/recission-of-nhtsas-1975-procedures-for-considering-environmental-impacts/)** — `2025-07-03` | `5 Pages`
 - `[`2025-12311`]` **[Federal Motor Vehicle Safety Standard No. 213a; Child Restraint Systems-Side Impact Protection; Federal Motor Vehicle Safety Standard No. 213; Child Restraint Systems, Federal Motor Vehicle Safety Standard No. 213b; Child Restraint Systems](https://www.indexdata.org/federal-motor-vehicle-safety-standard-no-213a-child-restraint-systems-side-impact-protection-federal-motor-vehicle-safety-standard-no-213-child-restraint-systems-federal-motor-vehicle-safety-sta-2/)** — `2025-07-02` | `2 Pages`
 - `[`2025-10586`]` **[Resetting the Corporate Average Fuel Economy Program](https://www.indexdata.org/resetting-the-corporate-average-fuel-economy-program/)** — `2025-06-11` | `10 Pages`
@@ -1477,6 +1452,31 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2025-09712`]` **[Federal Motor Vehicle Safety Standards No. 218; Motorcycle Helmets; Withdrawal](https://www.indexdata.org/federal-motor-vehicle-safety-standards-no-218-motorcycle-helmets-withdrawal/)** — `2025-05-30` | `2 Pages`
 - `[`2025-03355`]` **[Implementing the Whistleblower Provisions of the Vehicle Safety Act](https://www.indexdata.org/implementing-the-whistleblower-provisions-of-the-vehicle-safety-act/)** — `2025-03-03` | `2 Pages`
 - `[`2025-03348`]` **[Federal Motor Vehicle Safety Standards; Child Restraint Systems, Child Restraint Anchorage Systems, Incorporation by Reference; Correction](https://www.indexdata.org/federal-motor-vehicle-safety-standards-child-restraint-systems-child-restraint-anchorage-systems-incorporation-by-reference-correction/)** — `2025-03-03` | `2 Pages`
+
+### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
+
+- `[`2025-12364`]` **[Revision of National Environmental Policy Act Regulations](https://www.indexdata.org/revision-of-national-environmental-policy-act-regulations/)** — `2025-07-03` | `20 Pages`
+- `[`2025-09888`]` **[Incorporating Safety Into Federal-Aid Programs and Projects](https://www.indexdata.org/incorporating-safety-into-federal-aid-programs-and-projects/)** — `2025-06-03` | `2 Pages`
+- `[`2025-09887`]` **[Update of 23 CFR Part 630, Subparts A and G](https://www.indexdata.org/update-of-23-cfr-part-630-subparts-a-and-g/)** — `2025-06-03` | `2 Pages`
+- `[`2025-09886`]` **[Statewide and Nonmetropolitan Planning; Metropolitan Transportation Planning](https://www.indexdata.org/statewide-and-nonmetropolitan-planning-metropolitan-transportation-planning-2/)** — `2025-06-03` | `2 Pages`
+- `[`2025-09754`]` **[Rescinding Requirements Regarding Geodetic Markers](https://www.indexdata.org/rescinding-requirements-regarding-geodetic-markers/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09753`]` **[State Highway Agency Equal Employment Opportunity Programs](https://www.indexdata.org/state-highway-agency-equal-employment-opportunity-programs/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09737`]` **[Rescinding Regulations on Procedures for Advance Construction of Federal-aid Projects](https://www.indexdata.org/rescinding-regulations-on-procedures-for-advance-construction-of-federal-aid-projects-2/)** — `2025-05-30` | `2 Pages`
+- `[`2025-09736`]` **[Rescinding Preliminary Engineering Project 10-Year Repayment Provision](https://www.indexdata.org/rescinding-preliminary-engineering-project-10-year-repayment-provision/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09735`]` **[Rescinding Regulations Regarding Management Systems Pertaining to the Forest Service and the Forest Highway Program](https://www.indexdata.org/rescinding-regulations-regarding-management-systems-pertaining-to-the-forest-service-and-the-forest-highway-program-2/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09729`]` **[Rescinding Regulations Regarding Management Systems Pertaining to the National Park Service and the Park Roads and Parkways Program](https://www.indexdata.org/rescinding-regulations-regarding-management-systems-pertaining-to-the-national-park-service-and-the-park-roads-and-parkways-program-2/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09728`]` **[Rescinding Requirements Regarding Required Contract Provisions for Federal-Aid Construction Contracts (Other Than Appalachian Contracts)](https://www.indexdata.org/rescinding-requirements-regarding-required-contract-provisions-for-federal-aid-construction-contracts-other-than-appalachian-contracts-2/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09725`]` **[National Performance Management Measures; Rescinding Requirements for the First Performance Period](https://www.indexdata.org/national-performance-management-measures-rescinding-requirements-for-the-first-performance-period/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09724`]` **[Rescinding Regulations Regarding Management Systems Pertaining to the Bureau of Indian Affairs and the Indian Reservation Roads Program](https://www.indexdata.org/rescinding-regulations-regarding-management-systems-pertaining-to-the-bureau-of-indian-affairs-and-the-indian-reservation-roads-program-2/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09723`]` **[Rescinding Regulations Regarding Management Systems Pertaining to the Fish and Wildlife Service and the Refuge Roads Program](https://www.indexdata.org/rescinding-regulations-regarding-management-systems-pertaining-to-the-fish-and-wildlife-service-and-the-refuge-roads-program-2/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09722`]` **[Rescinding Requirements Regarding the Forest Highway Program](https://www.indexdata.org/rescinding-requirements-regarding-the-forest-highway-program-2/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09721`]` **[Rescinding Requirements Regarding Federal-Aid Contracts for Appalachian Contracts](https://www.indexdata.org/rescinding-requirements-regarding-federal-aid-contracts-for-appalachian-contracts-2/)** — `2025-05-30` | `4 Pages`
+- `[`2025-09715`]` **[Rescinding Requirements Regarding Bridges on Federal Dams](https://www.indexdata.org/rescinding-requirements-regarding-bridges-on-federal-dams-2/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09714`]` **[Rescinding Regulations on Projects of National and Regional Significance Evaluation and Rating](https://www.indexdata.org/rescinding-regulations-on-projects-of-national-and-regional-significance-evaluation-and-rating/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09708`]` **[Rescinding Requirements Regarding Management and Monitoring Systems](https://www.indexdata.org/rescinding-requirements-regarding-management-and-monitoring-systems/)** — `2025-05-30` | `3 Pages`
+- `[`2025-08352`]` **[National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure; Correction](https://www.indexdata.org/national-performance-management-measures-assessing-performance-of-the-national-highway-system-greenhouse-gas-emissions-measure-correction/)** — `2025-05-13` | `2 Pages`
+- `[`2025-06664`]` **[National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure](https://www.indexdata.org/national-performance-management-measures-assessing-performance-of-the-national-highway-system-greenhouse-gas-emissions-measure/)** — `2025-04-18` | `4 Pages`
 
 ### [Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/mine-safety-and-health-administration/](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
