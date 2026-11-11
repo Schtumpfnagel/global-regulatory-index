@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,376` across `28` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,377` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | **[Part 2 (Current)]** | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-11 19:55 UTC`
+**Last Automated Sync:** `2026-11-11 21:47 UTC`
 
 ---
 
-## Issuing Authorities in Canada (28 Authorities)
+## Issuing Authorities in Canada (29 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -41,14 +41,16 @@
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
+- **[Government of Quebec — Ministry of Ministère des Ressources naturelles et des Forêts](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/) | [RSS Feed](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,376)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,377)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`SOR-70-527`]` **[Foreign Claims (Hungary) Settlement Regulations](https://www.indexdata.org/foreign-claims-hungary-settlement-regulations/)** — `2026-09-30` | `10 Pages`
 - `[`SOR-67-619`]` **[Pay and Allowances Regulations (DSPCA)](https://www.indexdata.org/pay-and-allowances-regulations-dspca/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-67-346`]` **[Canadian Vickers Dry Dock Regulations](https://www.indexdata.org/canadian-vickers-dry-dock-regulations/)** — `2026-09-30` | `17 Pages`
 - `[`SOR-66-78`]` **[Canadian Forces Superannuation Special Election Regulations](https://www.indexdata.org/canadian-forces-superannuation-special-election-regulations/)** — `2026-09-30` | `6 Pages`
@@ -1389,7 +1391,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/innovation-scienc
 - `[`SOR-2002-223`]` **[Radiocommunication Act (Subsection 4(1) and Paragraph 9(1)(b)) Exemption Order (Security and Safety, International Relations and National Defence), No. 2002-1](https://www.indexdata.org/radiocommunication-act-subsection-41-and-paragraph-91b-exemption-order-security-and-safety-international-relations-and-national-defence-no-2002-1/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-2002-16`]` **[Radiocommunication Act (Paragraph 9(1)(c)) Exemption Order (National Defence and Security)](https://www.indexdata.org/radiocommunication-act-paragraph-91c-exemption-order-national-defence-and-security/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-2001-532`]` **[Telecommunications Apparatus Regulations](https://www.indexdata.org/telecommunications-apparatus-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2001-512`]` **[Canada Business Corporations Regulations, 2001](https://www.indexdata.org/canada-business-corporations-regulations-2001/)** — `2026-09-30` | `66 Pages`
 
 ### [Health Canada](https://www.indexdata.org/canada/health-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/health-canada/](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)

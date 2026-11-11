@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,376` across `28` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,377` across `29` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-11 19:55 UTC`
+**Last Automated Sync:** `2026-11-11 21:47 UTC`
 
 ---
 
-## Issuing Authorities in Canada (28 Authorities)
+## Issuing Authorities in Canada (29 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -41,10 +41,11 @@
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
+- **[Government of Quebec — Ministry of Ministère des Ressources naturelles et des Forêts](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/) | [RSS Feed](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,376)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,377)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -964,7 +965,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-72-91`]` **[Romania Claims Fund Regulations](https://www.indexdata.org/romania-claims-fund-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-72-90`]` **[Foreign Claims (Romania) Settlement Regulations](https://www.indexdata.org/foreign-claims-romania-settlement-regulations/)** — `2026-09-30` | `10 Pages`
 - `[`SOR-72-395`]` **[Foreign Claims (Poland) Settlement Regulations](https://www.indexdata.org/foreign-claims-poland-settlement-regulations/)** — `2026-09-30` | `9 Pages`
-- `[`SOR-70-527`]` **[Foreign Claims (Hungary) Settlement Regulations](https://www.indexdata.org/foreign-claims-hungary-settlement-regulations/)** — `2026-09-30` | `10 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1628,6 +1628,11 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-bri
 Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-nova-scotia/](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
 
 - `[`CA-OPEN-b3a5f227-b9b3-4bb9-daeb`]` **[Industry Specialization based on Business Locations by Functional Economic Regions — Cape Breton Regional Municipality Profile PRINT WEB.pdf](https://www.indexdata.org/industry-specialization-based-on-business-locations-by-functional-economic-regions-cape-breton-regional-municipality-profile-print-web-pdf/)** — `2026-11-01` | `46 Pages`
+
+### [Government of Quebec — Ministry of Ministère des Ressources naturelles et des Forêts](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/) | [RSS Feed](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/feed/)
+
+- `[`CA-QC-cad5639a-437e-4cc2-adaf`]` **[Mosaïques d'images satellite — Interpretation Guide Quebec Landsat Satellite Image Mosaics](https://www.indexdata.org/mosaiques-dimages-satellite-interpretation-guide-quebec-landsat-satellite-image-mosaics/)** — `2026-11-01` | `22 Pages`
 
 ### [Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/governor-general-in-council/](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)

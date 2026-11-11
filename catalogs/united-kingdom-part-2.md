@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,667` across `69` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,670` across `69` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-11 19:55 UTC`
+**Last Automated Sync:** `2026-11-11 21:47 UTC`
 
 ---
 
@@ -32,8 +32,8 @@
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
+- **[Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
-- **[Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
 - **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[Medicines and Healthcare products Regulatory Agency](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/feed/)
 - **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
@@ -85,11 +85,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,667 of 2,667)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,670 of 2,670)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2025-1262`]` **[The Levelling-up and Regeneration Act 2023 (Commencement No. 8 and Transitional Provision) Regulations 2025](https://www.indexdata.org/the-levelling-up-and-regeneration-act-2023-commencement-no-8-and-transitional-provision-regulations-2025/)** — `2025-12-01` | `8 Pages`
+- `[`UKSI-2025-1261`]` **[The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025](https://www.indexdata.org/the-childcare-miscellaneous-amendments-inspection-outcomes-england-regulations-2025/)** — `2025-12-01` | `12 Pages`
 - `[`UKSI-2025-1243`]` **[The Public Record Office (Fees) Regulations 2025](https://www.indexdata.org/the-public-record-office-fees-regulations-2025/)** — `2025-11-26` | `8 Pages`
 - `[`UKSI-2025-1238`]` **[The Greater London Authority (Consolidated Council Tax Requirement Procedure) Regulations 2025](https://www.indexdata.org/the-greater-london-authority-consolidated-council-tax-requirement-procedure-regulations-2025/)** — `2025-11-24` | `2 Pages`
 - `[`UKSI-2025-1235`]` **[The Broadcasting (Independent Productions) Regulations 2025](https://www.indexdata.org/the-broadcasting-independent-productions-regulations-2025/)** — `2025-11-20` | `12 Pages`
@@ -850,6 +852,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 
+- `[`UKSI-2025-1263`]` **[The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2025](https://www.indexdata.org/the-ministry-of-defence-police-conduct-performance-and-appeals-tribunals-amendment-regulations-2025/)** — `2025-12-01` | `32 Pages`
 - `[`UKSI-2025-1240`]` **[The Police Act 1997 (Criminal Records) (Amendment) Regulations 2025](https://www.indexdata.org/the-police-act-1997-criminal-records-amendment-regulations-2025/)** — `2025-11-25` | `4 Pages`
 - `[`UKSI-2025-1239`]` **[The Safeguarding Vulnerable Groups Act 2006 (Prescribed Purposes) Regulations 2025](https://www.indexdata.org/the-safeguarding-vulnerable-groups-act-2006-prescribed-purposes-regulations-2025/)** — `2025-11-25` | `2 Pages`
 - `[`UKSI-2025-1214`]` **[The Extradition Act 2003 (Amendment to Designations) Order 2025](https://www.indexdata.org/the-extradition-act-2003-amendment-to-designations-order-2025/)** — `2025-11-19` | `4 Pages`

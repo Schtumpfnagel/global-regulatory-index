@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,376` across `28` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,377` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-11 19:55 UTC`
+**Last Automated Sync:** `2026-11-11 21:47 UTC`
 
 ---
 
-## Issuing Authorities in Canada (28 Authorities)
+## Issuing Authorities in Canada (29 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -41,14 +41,16 @@
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
+- **[Government of Quebec — Ministry of Ministère des Ressources naturelles et des Forêts](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/) | [RSS Feed](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,376 of 5,376)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,377 of 5,377)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`R-1`]` **[Radiation Emitting Devices Act](https://www.indexdata.org/radiation-emitting-devices-act/)** — `2026-09-30` | `18 Pages`
 - `[`Q-1.8`]` **[Queen Elizabeth II Canadian Research Fund Act](https://www.indexdata.org/queen-elizabeth-ii-canadian-research-fund-act/)** — `2026-09-30` | `6 Pages`
 - `[`Q-0.5`]` **[Qalipu Mi’kmaq First Nation Act](https://www.indexdata.org/qalipu-mikmaq-first-nation-act/)** — `2026-09-30` | `5 Pages`
 - `[`P-8.6`]` **[Personal Information Protection and Electronic Documents Act](https://www.indexdata.org/personal-information-protection-and-electronic-documents-act/)** — `2026-09-30` | `71 Pages`
