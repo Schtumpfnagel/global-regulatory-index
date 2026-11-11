@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,374` across `27` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,375` across `28` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | **[Part 2 (Current)]** | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-11 15:59 UTC`
+**Last Automated Sync:** `2026-11-11 16:44 UTC`
 
 ---
 
-## Issuing Authorities in Canada (27 Authorities)
+## Issuing Authorities in Canada (28 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -40,10 +40,11 @@
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
+- **[Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,374)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,375)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -1021,7 +1022,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-2001-57`]` **[Supervisory Information (Cooperative Credit Associations) Regulations](https://www.indexdata.org/supervisory-information-cooperative-credit-associations-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-2001-527`]` **[Canada Small Business Financing (Establishment and Operation of Capital Leasing Pilot Project) Regulations](https://www.indexdata.org/canada-small-business-financing-establishment-and-operation-of-capital-leasing-pilot-project-regulations/)** — `2026-09-30` | `33 Pages`
 - `[`SOR-2001-520`]` **[Canada Industrial Relations Board Regulations, 2012](https://www.indexdata.org/canada-industrial-relations-board-regulations-2012/)** — `2026-09-30` | `29 Pages`
-- `[`SOR-2001-493`]` **[Property Assessment and Taxation (Railway Right-of-Way) Regulations](https://www.indexdata.org/property-assessment-and-taxation-railway-right-of-way-regulations/)** — `2026-09-30` | `13 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1190,6 +1190,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 
+- `[`SOR-67-56`]` **[Sydney Pilots’ Pension Regulations](https://www.indexdata.org/sydney-pilots-pension-regulations/)** — `2026-09-30` | `7 Pages`
 - `[`SOR-65-262`]` **[Pensionable Service Order](https://www.indexdata.org/pensionable-service-order/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-61-507`]` **[Canadian Arsenals Pension Regulations](https://www.indexdata.org/canadian-arsenals-pension-regulations/)** — `2026-09-30` | `7 Pages`
 - `[`SOR-61-472`]` **[C.O.T.C. Pension Regulations](https://www.indexdata.org/c-o-t-c-pension-regulations/)** — `2026-09-30` | `10 Pages`

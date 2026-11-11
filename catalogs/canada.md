@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,374` across `27` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,375` across `28` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-11 15:59 UTC`
+**Last Automated Sync:** `2026-11-11 16:44 UTC`
 
 ---
 
-## Issuing Authorities in Canada (27 Authorities)
+## Issuing Authorities in Canada (28 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -40,10 +40,11 @@
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
+- **[Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,374)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,375)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -1332,7 +1333,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-fin
 - `[`SOR-83-680`]` **[Excise Duty Indexing Ratio Regulations](https://www.indexdata.org/excise-duty-indexing-ratio-regulations/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-83-196`]` **[Customs and Excise Human Rights Investigation Regulations](https://www.indexdata.org/customs-and-excise-human-rights-investigation-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-73-71`]` **[Yukon Territory Pension Regulations](https://www.indexdata.org/yukon-territory-pension-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-67-56`]` **[Sydney Pilots’ Pension Regulations](https://www.indexdata.org/sydney-pilots-pension-regulations/)** — `2026-09-30` | `7 Pages`
 
 ### [Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/natural-resources-canada/](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
@@ -1619,6 +1619,11 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/immigration-refug
 Canonical Authority Archive: [https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/) | [RSS Feed](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/feed/)
 
 - `[`CA-OPEN-821026c3-a585-4fae-8b10`]` **[Report on the administration of the Access to Information Act 2025-2026](https://www.indexdata.org/report-on-the-administration-of-the-access-to-information-act-2025-2026/)** — `2026-11-06` | `24 Pages`
+
+### [Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-nova-scotia/](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
+
+- `[`CA-OPEN-b3a5f227-b9b3-4bb9-daeb`]` **[Industry Specialization based on Business Locations by Functional Economic Regions — Cape Breton Regional Municipality Profile PRINT WEB.pdf](https://www.indexdata.org/industry-specialization-based-on-business-locations-by-functional-economic-regions-cape-breton-regional-municipality-profile-print-web-pdf/)** — `2026-11-01` | `46 Pages`
 
 ### [Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/governor-general-in-council/](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)
