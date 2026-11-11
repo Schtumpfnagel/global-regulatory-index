@@ -5,22 +5,23 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/portugal/feed/](https://www.indexdata.org/portugal/feed/)  
 **Wikidata Sovereign Entity:** [`Q45`](https://www.wikidata.org/wiki/Q45)  
 **Governing Open-Government Framework:** *Lei n.º 68/2021*  
-**Total Indexed Dossiers in Portugal:** `23` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-11 02:57 UTC`
+**Total Indexed Dossiers in Portugal:** `24` across `6` issuing authorities  
+**Last Automated Sync:** `2026-11-11 04:01 UTC`
 
 ---
 
-## Issuing Authorities in Portugal (5 Authorities)
+## Issuing Authorities in Portugal (6 Authorities)
 
 - **[Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
 - **[High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
 - **[Regional Directorate for the Sea — Madeira (DRM)](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/) | [RSS Feed](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/feed/)
 - **[National Institute of Health Doutor Ricardo Jorge (INSA)](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/) | [RSS Feed](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/feed/)
 - **[National Laboratory of Energy and Geology (LNEG)](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/) | [RSS Feed](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/feed/)
+- **[Agency for Administrative Modernization (AMA)](https://www.indexdata.org/portugal/agency-for-administrative-modernization-ama/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/agency-for-administrative-modernization-ama/) | [RSS Feed](https://www.indexdata.org/portugal/agency-for-administrative-modernization-ama/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–23 of 23)
+## Indexed Statutory & Regulatory Dossiers (Records 1–24 of 24)
 
 ### [Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
@@ -64,6 +65,11 @@ Canonical Authority Archive: [https://www.indexdata.org/portugal/national-labora
 
 - `[`PT-LNEG-WP-39791`]` **[STW40_LGC and LNEG_2026_Dissemination](https://www.indexdata.org/stw40_lgc-and-lneg_2026_dissemination-2/)** — `2026-10-01` | `2 Pages`
 - `[`PT-LNEG-WP-39780`]` **[STW40_LGC and LNEG_2026_Dissemination](https://www.indexdata.org/stw40_lgc-and-lneg_2026_dissemination/)** — `2026-10-01` | `2 Pages`
+
+### [Agency for Administrative Modernization (AMA)](https://www.indexdata.org/portugal/agency-for-administrative-modernization-ama/)
+Canonical Authority Archive: [https://www.indexdata.org/portugal/agency-for-administrative-modernization-ama/](https://www.indexdata.org/portugal/agency-for-administrative-modernization-ama/) | [RSS Feed](https://www.indexdata.org/portugal/agency-for-administrative-modernization-ama/feed/)
+
+- `[`PT-EUODP-69319f8b99d9ddb3b27631f5`]` **[Prevention Plan for Corruption Risks and Related Offences 2025-2029](https://www.indexdata.org/prevention-plan-for-corruption-risks-and-related-offences-2025-2029/)** — `2025-12-01` | `41 Pages`
 
 ---
 

@@ -5,24 +5,25 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/brazil/feed/](https://www.indexdata.org/brazil/feed/)  
 **Wikidata Sovereign Entity:** [`Q155`](https://www.wikidata.org/wiki/Q155)  
 **Governing Open-Government Framework:** *Lei nº 9.610/1998 Art. 8º, IV; Lei nº 12.527/2011 (LAI); Decreto nº 8.777/2016 (CC BY 4.0 / ODbL)*  
-**Total Indexed Dossiers in Brazil:** `84` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-11 02:57 UTC`
+**Total Indexed Dossiers in Brazil:** `85` across `3` issuing authorities  
+**Last Automated Sync:** `2026-11-11 04:01 UTC`
 
 ---
 
 ## Issuing Authorities in Brazil (3 Authorities)
 
-- **[Central Bank of Brazil (Banco Central do Brasil)](https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/)** (`80` dossiers) — [Authority Archive](https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/) | [RSS Feed](https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/feed/)
+- **[Central Bank of Brazil (Banco Central do Brasil)](https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/)** (`81` dossiers) — [Authority Archive](https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/) | [RSS Feed](https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/feed/)
 - **[Chamber of Deputies of Brazil (Câmara dos Deputados)](https://www.indexdata.org/brazil/chamber-of-deputies-of-brazil-c-mara-dos-deputados/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/brazil/chamber-of-deputies-of-brazil-c-mara-dos-deputados/) | [RSS Feed](https://www.indexdata.org/brazil/chamber-of-deputies-of-brazil-c-mara-dos-deputados/feed/)
 - **[National Institute for Space Research (INPE)](https://www.indexdata.org/brazil/national-institute-for-space-research-inpe/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/brazil/national-institute-for-space-research-inpe/) | [RSS Feed](https://www.indexdata.org/brazil/national-institute-for-space-research-inpe/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–84 of 84)
+## Indexed Statutory & Regulatory Dossiers (Records 1–85 of 85)
 
 ### [Central Bank of Brazil (Banco Central do Brasil)](https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/)
 Canonical Authority Archive: [https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/](https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/) | [RSS Feed](https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/feed/)
 
+- `[`BR-BCB-COPOM-282`]` **[COPOM Monetary Policy Minutes — 282nd Meeting - November 3-4, 2026](https://www.indexdata.org/copom-monetary-policy-minutes-282nd-meeting-november-3-4-2026/)** — `2026-11-04` | `6 Pages`
 - `[`BR-BCB-COPOM-281`]` **[COPOM Monetary Policy Minutes — 281st Meeting - September 15-16, 2026](https://www.indexdata.org/copom-monetary-policy-minutes-281st-meeting-september-15-16-2026/)** — `2026-09-16` | `5 Pages`
 - `[`BR-BCB-COPOM-280`]` **[COPOM Monetary Policy Minutes — 280th Meeting - August 4-5, 2026](https://www.indexdata.org/copom-monetary-policy-minutes-280th-meeting-august-4-5-2026/)** — `2026-08-05` | `5 Pages`
 - `[`BR-BCB-COPOM-279`]` **[COPOM Monetary Policy Minutes — 279th Meeting - June 16-17, 2026](https://www.indexdata.org/copom-monetary-policy-minutes-279th-meeting-june-16-17-2026/)** — `2026-06-17` | `6 Pages`
