@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,633` across `67` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,635` across `67` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-11 14:57 UTC`
+**Last Automated Sync:** `2026-11-11 15:59 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`145` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`124` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`123` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`93` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
@@ -83,7 +83,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,633)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,635)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -314,6 +314,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 
 - `[`UK-GOV-ffac9ea3-96f8-4e45-ba99-6f14a5b6875c-1`]` **[S Main v Rebel Energy Supply Ltd (in administration): 3303476/2025 — S Main v Rebel Energy Supply Ltd (in administration): 3303476/2025 - Judgment](https://www.indexdata.org/s-main-v-rebel-energy-supply-ltd-in-administration-3303476-2025-s-main-v-rebel-energy-supply-ltd-in-administration-3303476-2025-judgment/)** — `2026-11-11` | `2 Pages`
+- `[`UK-GOV-f5046cec-4552-4f59-8915-62c101f6ac77-5`]` **[M Da Silva v Staffline and BMW: 6009502/2025 — M Da Silva v Staffline Recruitment Ltd and BMW (UK) Manufacturing Ltd: 6009502/2025 - Full Reasons](https://www.indexdata.org/m-da-silva-v-staffline-and-bmw-6009502-2025-m-da-silva-v-staffline-recruitment-ltd-and-bmw-uk-manufacturing-ltd-6009502-2025-full-reasons/)** — `2026-11-11` | `8 Pages`
+- `[`UK-GOV-f5046cec-4552-4f59-8915-62c101f6ac77-4`]` **[M Da Silva v Staffline and BMW: 6009502/2025 — M Da Silva v Staffline Recruitment Ltd and BMW (UK) Manufacturing Ltd: 6009502/2025 - Strike Out](https://www.indexdata.org/m-da-silva-v-staffline-and-bmw-6009502-2025-m-da-silva-v-staffline-recruitment-ltd-and-bmw-uk-manufacturing-ltd-6009502-2025-strike-out/)** — `2026-11-11` | `2 Pages`
 - `[`UK-GOV-f28099a0-f522-40b9-b591-512f77c807aa-1`]` **[M Coulson v Rebel Energy Supply Ltd (in administration): 3304032/2025 — M Coulson v Rebel Energy Supply Ltd (in administration): 3304032/2025 - Judgment](https://www.indexdata.org/m-coulson-v-rebel-energy-supply-ltd-in-administration-3304032-2025-m-coulson-v-rebel-energy-supply-ltd-in-administration-3304032-2025-judgment/)** — `2026-11-11` | `2 Pages`
 - `[`UK-GOV-df009e3d-0894-444c-8cac-d68bc1eb9dba-1`]` **[Barlow v The Commissioners of His Majesty's Revenue and Customs &#91;2026&#93; UKUT 00442 (TCC) — Barlow v HMRC - PTA Oral Decision](https://www.indexdata.org/barlow-v-the-commissioners-of-his-majestys-revenue-and-customs-2026-ukut-00442-tcc-barlow-v-hmrc-pta-oral-decision/)** — `2026-11-11` | `6 Pages`
 - `[`UK-GOV-da1be0b6-4f5f-4b8e-ae94-5bf9c4e43b5b-3`]` **[Mr R Percy v West End Farm MOT Ltd: 3303871/2024 — Mr R Percy v West End Farm MOT Ltd: 3303871/2024 - Reconsideration](https://www.indexdata.org/mr-r-percy-v-west-end-farm-mot-ltd-3303871-2024-mr-r-percy-v-west-end-farm-mot-ltd-3303871-2024-reconsideration/)** — `2026-11-11` | `2 Pages`
@@ -659,7 +661,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2025-1344`]` **[The Sandwell (Electoral Changes) Order 2025](https://www.indexdata.org/the-sandwell-electoral-changes-order-2025/)** — `2025-12-11` | `8 Pages`
 - `[`UKSI-2025-1315`]` **[The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development Order 2025 (revoked)](https://www.indexdata.org/the-town-and-country-planning-entertainment-resort-complex-bedford-special-development-order-2025-revoked/)** — `2025-12-10` | `94 Pages`
 - `[`UKSI-2025-1236`]` **[The Building Safety Levy (England) Regulations 2025](https://www.indexdata.org/the-building-safety-levy-england-regulations-2025/)** — `2025-11-19` | `120 Pages`
-- `[`UKSI-2025-1237`]` **[The Milton Keynes (Electoral Changes) Order 2025](https://www.indexdata.org/the-milton-keynes-electoral-changes-order-2025/)** — `2025-11-18` | `12 Pages`
 
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
@@ -741,7 +742,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1247`]` **[The Competition Act 1998 (Public Transport Ticketing Schemes Block Exemption) (Amendment) Order 2025](https://www.indexdata.org/the-competition-act-1998-public-transport-ticketing-schemes-block-exemption-amendment-order-2025/)** — `2025-11-25` | `4 Pages`
 - `[`UKSI-2025-1223`]` **[The Portsmouth International Port and Camber Harbour Revision Order 2025](https://www.indexdata.org/the-portsmouth-international-port-and-camber-harbour-revision-order-2025/)** — `2025-11-20` | `40 Pages`
 - `[`UKSI-2025-1216`]` **[The Football Governance Act 2025 (Specified Competitions) Regulations 2025](https://www.indexdata.org/the-football-governance-act-2025-specified-competitions-regulations-2025/)** — `2025-11-20` | `2 Pages`
-- `[`UKSI-2025-1233`]` **[The Borough Council of Calderdale (Elland Station and West Vale Access Package) (West Yorkshire Plus Transport Fund, Transforming Cities Fund) (Calder and Hebble Navigation Bridge) Scheme 2022 Confirmation Instrument 2025](https://www.indexdata.org/the-borough-council-of-calderdale-elland-station-and-west-vale-access-package-west-yorkshire-plus-transport-fund-transforming-cities-fund-calder-and-hebble-navigation-bridge-scheme-2022-confirm/)** — `2025-11-18` | `4 Pages`
 
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)

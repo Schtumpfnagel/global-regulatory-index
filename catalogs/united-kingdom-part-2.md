@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,633` across `67` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,635` across `67` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-11 14:57 UTC`
+**Last Automated Sync:** `2026-11-11 15:59 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`145` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`124` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`123` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`93` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
@@ -83,7 +83,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,633 of 2,633)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,635 of 2,635)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -552,6 +552,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 
+- `[`UKSI-2025-1233`]` **[The Borough Council of Calderdale (Elland Station and West Vale Access Package) (West Yorkshire Plus Transport Fund, Transforming Cities Fund) (Calder and Hebble Navigation Bridge) Scheme 2022 Confirmation Instrument 2025](https://www.indexdata.org/the-borough-council-of-calderdale-elland-station-and-west-vale-access-package-west-yorkshire-plus-transport-fund-transforming-cities-fund-calder-and-hebble-navigation-bridge-scheme-2022-confirm/)** — `2025-11-18` | `4 Pages`
 - `[`UKSI-2025-1203`]` **[The Crediting of Third Country and Military Certification for Air Traffic Controllers Regulations 2025](https://www.indexdata.org/the-crediting-of-third-country-and-military-certification-for-air-traffic-controllers-regulations-2025/)** — `2025-11-17` | `4 Pages`
 - `[`UKSI-2025-1202`]` **[The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025](https://www.indexdata.org/the-european-registers-of-road-transport-undertakings-disclosure-of-information-amendment-regulations-2025/)** — `2025-11-17` | `24 Pages`
 - `[`UKSI-2025-1181`]` **[The Civil Enforcement of Parking Contraventions (County of East Sussex) (Amendment), Bus Lane Contraventions (Approved Local Authorities) (Amendment) and Moving Traffic Contraventions Designation Order 2025](https://www.indexdata.org/the-civil-enforcement-of-parking-contraventions-county-of-east-sussex-amendment-bus-lane-contraventions-approved-local-authorities-amendment-and-moving-traffic-contraventions-designation-orde/)** — `2025-11-11` | `4 Pages`
@@ -650,6 +651,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 
+- `[`UKSI-2025-1237`]` **[The Milton Keynes (Electoral Changes) Order 2025](https://www.indexdata.org/the-milton-keynes-electoral-changes-order-2025/)** — `2025-11-18` | `12 Pages`
 - `[`UKSI-2025-1172`]` **[The Construction Products (Amendment) Regulations 2025](https://www.indexdata.org/the-construction-products-amendment-regulations-2025/)** — `2025-11-06` | `8 Pages`
 - `[`UKSI-2025-1093`]` **[The Non-Domestic Rating (Definition of Qualifying Retail, Hospitality or Leisure Hereditament) Regulations 2025](https://www.indexdata.org/the-non-domestic-rating-definition-of-qualifying-retail-hospitality-or-leisure-hereditament-regulations-2025/)** — `2025-10-14` | `8 Pages`
 - `[`UKSI-2025-1026`]` **[The Local Audit (Amendment of Definition of Smaller Authority) Regulations 2025](https://www.indexdata.org/the-local-audit-amendment-of-definition-of-smaller-authority-regulations-2025/)** — `2025-09-16` | `2 Pages`
