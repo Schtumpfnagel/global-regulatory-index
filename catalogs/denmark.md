@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q35`](https://www.wikidata.org/wiki/Q35)  
 **Governing Open-Government Framework:** *Ophavsretsloven § 9 (LBK nr 1144 af 23/10/2014) / PSI-loven (CC BY 4.0)*  
 **Total Indexed Dossiers in Denmark:** `39` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-11 00:58 UTC`
+**Last Automated Sync:** `2026-11-11 01:06 UTC`
 
 ---
 
