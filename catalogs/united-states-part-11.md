@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,237` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,239` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-11 01:59 UTC`
+**Last Automated Sync:** `2026-11-11 02:57 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -248,11 +248,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,237 of 15,237)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,239 of 15,239)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-12610`]` **[Amendment of Class D and Class E Airspace; Lakeland, FL](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-lakeland-fl/)** — `2023-06-13` | `2 Pages`
 - `[`2023-12582`]` **[Amendment of Class E Airspace; Van Horn, TX](https://www.indexdata.org/amendment-of-class-e-airspace-van-horn-tx/)** — `2023-06-13` | `2 Pages`
 - `[`2023-12572`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-67/)** — `2023-06-13` | `3 Pages`
 - `[`2023-12497`]` **[Modification of Class E Airspace; Northeast Wyoming Regional Airport, Gillette, WY](https://www.indexdata.org/modification-of-class-e-airspace-northeast-wyoming-regional-airport-gillette-wy-2/)** — `2023-06-13` | `2 Pages`
@@ -356,6 +357,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-12614`]` **[Air Plan Approval; Oklahoma; Revisions to Air Pollution Control Rules](https://www.indexdata.org/air-plan-approval-oklahoma-revisions-to-air-pollution-control-rules-5/)** — `2023-06-13` | `4 Pages`
 - `[`2023-12601`]` **[Air Plan Approval; North Carolina; Bulk Gasoline Plant and Terminal Vapor Recovery Systems](https://www.indexdata.org/air-plan-approval-north-carolina-bulk-gasoline-plant-and-terminal-vapor-recovery-systems/)** — `2023-06-13` | `6 Pages`
 - `[`2023-12581`]` **[Air Plan Approval; North Carolina; Volatile Organic Compound Regulations](https://www.indexdata.org/air-plan-approval-north-carolina-volatile-organic-compound-regulations-2/)** — `2023-06-13` | `8 Pages`
 - `[`2023-12580`]` **[Air Plan Approval; Georgia; Miscellaneous Rule Revisions to Gasoline Dispensing Facility-Stage I](https://www.indexdata.org/air-plan-approval-georgia-miscellaneous-rule-revisions-to-gasoline-dispensing-facility-stage-i/)** — `2023-06-13` | `4 Pages`

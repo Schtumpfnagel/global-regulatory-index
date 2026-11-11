@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,237` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,239` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 01:59 UTC`
+**Last Automated Sync:** `2026-11-11 02:57 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -248,11 +248,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,237)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,239)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-02746`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-176/)** — `2025-02-19` | `4 Pages`
+- `[`2025-02727`]` **[Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc-airplanes-16/)** — `2025-02-19` | `3 Pages`
 - `[`2025-02703`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-140/)** — `2025-02-18` | `4 Pages`
 - `[`2025-02699`]` **[Modification of Class D Airspace and Modification of Class E Airspace; Jack Northrop Field/Hawthorne Municipal Airport, Hawthorne, CA](https://www.indexdata.org/modification-of-class-d-airspace-and-modification-of-class-e-airspace-jack-northrop-field-hawthorne-municipal-airport-hawthorne-ca/)** — `2025-02-18` | `3 Pages`
 - `[`2025-02698`]` **[Modification of Class D Airspace; Torrance Airport, Torrance, CA](https://www.indexdata.org/modification-of-class-d-airspace-torrance-airport-torrance-ca/)** — `2025-02-18` | `2 Pages`
@@ -812,7 +814,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-24219`]` **[Air Plan Approval; California; South Coast Air Quality Management District](https://www.indexdata.org/air-plan-approval-california-south-coast-air-quality-management-district-3/)** — `2024-10-21` | `2 Pages`
 - `[`2024-23809`]` **[Hazardous Waste Management System; Identification and Listing of Hazardous Waste](https://www.indexdata.org/hazardous-waste-management-system-identification-and-listing-of-hazardous-waste-3/)** — `2024-10-18` | `2 Pages`
 - `[`2024-23589`]` **[Air Plan Approval; Montana; Missoula, Montana Oxygenated Fuels Program Removal, Carbon Monoxide, Limited Maintenance Plan](https://www.indexdata.org/air-plan-approval-montana-missoula-montana-oxygenated-fuels-program-removal-carbon-monoxide-limited-maintenance-plan-2/)** — `2024-10-15` | `5 Pages`
-- `[`2024-23568`]` **[Revisions to the Federal Implementation Plan for the Billings/Laurel, Montana, Sulfur Dioxide Area](https://www.indexdata.org/revisions-to-the-federal-implementation-plan-for-the-billings-laurel-montana-sulfur-dioxide-area-2/)** — `2024-10-15` | `6 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1878,14 +1879,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/occupation
 - `[`2024-29220`]` **[Personal Protective Equipment in Construction](https://www.indexdata.org/personal-protective-equipment-in-construction/)** — `2024-12-12` | `26 Pages`
 - `[`2024-27897`]` **[Heat Injury and Illness Prevention in Outdoor and Indoor Work Settings](https://www.indexdata.org/heat-injury-and-illness-prevention-in-outdoor-and-indoor-work-settings-2/)** — `2024-11-29` | `2 Pages`
 
-### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
-
-- `[`2025-00073`]` **[Pipeline Safety: Safety of Gas Transmission Pipelines: Repair Criteria, Integrity Management Improvements, Cathodic Protection, Management of Change, and Other Related Amendments: Corrections To Conform to Judicial Review](https://www.indexdata.org/pipeline-safety-safety-of-gas-transmission-pipelines-repair-criteria-integrity-management-improvements-cathodic-protection-management-of-change-and-other-related-amendments-corrections-to-confo/)** — `2025-01-15` | `4 Pages`
-- `[`2024-31077`]` **[Hazardous Materials: Advancing Safety of Highway, Rail, and Vessel Transportation; Extension of Comment Period](https://www.indexdata.org/hazardous-materials-advancing-safety-of-highway-rail-and-vessel-transportation-extension-of-comment-period/)** — `2025-01-08` | `2 Pages`
-- `[`2024-23421`]` **[Hazardous Materials: Advancing Safety of Highway, Rail, and Vessel Transportation](https://www.indexdata.org/hazardous-materials-advancing-safety-of-highway-rail-and-vessel-transportation/)** — `2024-10-28` | `94 Pages`
-- `[`2024-23427`]` **[Electronic Signatures, Forms and Storage for Drug and Alcohol Testing Records](https://www.indexdata.org/electronic-signatures-forms-and-storage-for-drug-and-alcohol-testing-records/)** — `2024-10-15` | `12 Pages`
-
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
 
@@ -1949,6 +1942,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 - `[`2025-01339`]` **[Office of Legal Policy](https://www.indexdata.org/office-of-legal-policy/)** — `2025-01-17` | `2 Pages`
 - `[`2025-01338`]` **[Office of the Executive Secretariat](https://www.indexdata.org/office-of-the-executive-secretariat/)** — `2025-01-17` | `3 Pages`
 - `[`2024-28866`]` **[Guidelines and Limitations for Settlement Agreements Involving Payments to Non-Governmental Third Parties](https://www.indexdata.org/guidelines-and-limitations-for-settlement-agreements-involving-payments-to-non-governmental-third-parties/)** — `2024-12-09` | `14 Pages`
+
+### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
+
+- `[`2025-00073`]` **[Pipeline Safety: Safety of Gas Transmission Pipelines: Repair Criteria, Integrity Management Improvements, Cathodic Protection, Management of Change, and Other Related Amendments: Corrections To Conform to Judicial Review](https://www.indexdata.org/pipeline-safety-safety-of-gas-transmission-pipelines-repair-criteria-integrity-management-improvements-cathodic-protection-management-of-change-and-other-related-amendments-corrections-to-confo/)** — `2025-01-15` | `4 Pages`
+- `[`2024-31077`]` **[Hazardous Materials: Advancing Safety of Highway, Rail, and Vessel Transportation; Extension of Comment Period](https://www.indexdata.org/hazardous-materials-advancing-safety-of-highway-rail-and-vessel-transportation-extension-of-comment-period/)** — `2025-01-08` | `2 Pages`
+- `[`2024-23421`]` **[Hazardous Materials: Advancing Safety of Highway, Rail, and Vessel Transportation](https://www.indexdata.org/hazardous-materials-advancing-safety-of-highway-rail-and-vessel-transportation/)** — `2024-10-28` | `94 Pages`
 
 ### [Prisons Bureau](https://www.indexdata.org/united-states/prisons-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/prisons-bureau/](https://www.indexdata.org/united-states/prisons-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/prisons-bureau/feed/)

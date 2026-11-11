@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,237` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,239` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 01:59 UTC`
+**Last Automated Sync:** `2026-11-11 02:57 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,237)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,239)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -919,6 +919,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2026-09168`]` **[Safety Zone; Inner Harbor, Baltimore, MD](https://www.indexdata.org/safety-zone-inner-harbor-baltimore-md/)** — `2026-05-08` | `3 Pages`
+- `[`2026-09166`]` **[Special Local Regulations; Marine Events Within the USCG East District](https://www.indexdata.org/special-local-regulations-marine-events-within-the-uscg-east-district-2/)** — `2026-05-08` | `3 Pages`
 - `[`2026-09145`]` **[Safety Zone; Hudson River, Manhattan, NY](https://www.indexdata.org/safety-zone-hudson-river-manhattan-ny/)** — `2026-05-08` | `3 Pages`
 - `[`2026-09140`]` **[Safety Zone; Fireworks Displays, Willamette River, Portland, OR](https://www.indexdata.org/safety-zone-fireworks-displays-willamette-river-portland-or/)** — `2026-05-08` | `3 Pages`
 - `[`2026-09073`]` **[Special Local Regulation; Lake Erie, Cleveland, OH](https://www.indexdata.org/special-local-regulation-lake-erie-cleveland-oh/)** — `2026-05-07` | `3 Pages`
@@ -1705,16 +1707,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-hous
 - `[`2026-05387`]` **[Single Family Housing Guaranteed Loan Program](https://www.indexdata.org/single-family-housing-guaranteed-loan-program/)** — `2026-03-19` | `7 Pages`
 - `[`2026-03716`]` **[Rescinding 30-Day Notification Requirements Related to Eviction Based on Nonpayment of Rent in Multi-Family Housing Direct Properties](https://www.indexdata.org/rescinding-30-day-notification-requirements-related-to-eviction-based-on-nonpayment-of-rent-in-multi-family-housing-direct-properties/)** — `2026-02-25` | `3 Pages`
 
-### [Comptroller Of The Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
-
-- `[`2026-04089`]` **[Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency](https://www.indexdata.org/implementing-the-guiding-and-establishing-national-innovation-for-u-s-stablecoins-act-for-the-issuance-of-stablecoins-by-entities-subject-to-the-jurisdiction-of-the-office-of-the-comptroller-of-the-c/)** — `2026-03-02` | `102 Pages`
-- `[`2026-04088`]` **[National Bank Chartering](https://www.indexdata.org/national-bank-chartering/)** — `2026-03-02` | `6 Pages`
-- `[`2026-03086`]` **[Bank Appeals Process](https://www.indexdata.org/bank-appeals-process/)** — `2026-02-17` | `18 Pages`
-- `[`2025-23988`]` **[Real Estate Lending Escrow Accounts](https://www.indexdata.org/real-estate-lending-escrow-accounts/)** — `2025-12-30` | `7 Pages`
-- `[`2025-23987`]` **[Preemption Determination: State Interest-on-Escrow Laws](https://www.indexdata.org/preemption-determination-state-interest-on-escrow-laws/)** — `2025-12-30` | `7 Pages`
-- `[`2025-23986`]` **[OCC Guidelines Establishing Heightened Standards for Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches; Technical Amendments](https://www.indexdata.org/occ-guidelines-establishing-heightened-standards-for-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches-technical-amendments/)** — `2025-12-30` | `10 Pages`
-
 ### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 
@@ -1847,6 +1839,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and
 - `[`2026-05684`]` **[Standards for the Care of Breeding Female Dogs and Exercise and Socialization of Dogs](https://www.indexdata.org/standards-for-the-care-of-breeding-female-dogs-and-exercise-and-socialization-of-dogs/)** — `2026-03-24` | `2 Pages`
 - `[`2026-03077`]` **[Standards for the Care of Breeding Female Dogs and Exercise and Socialization of Dogs](https://www.indexdata.org/standards-for-the-care-of-breeding-female-dogs-and-exercise-and-socialization-of-dogs-2/)** — `2026-02-17` | `2 Pages`
 - `[`2026-01648`]` **[Horse Protection Amendments; Further Postponement of Regulations](https://www.indexdata.org/horse-protection-amendments-further-postponement-of-regulations/)** — `2026-01-28` | `3 Pages`
+
+### [Comptroller Of The Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+
+- `[`2026-04089`]` **[Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency](https://www.indexdata.org/implementing-the-guiding-and-establishing-national-innovation-for-u-s-stablecoins-act-for-the-issuance-of-stablecoins-by-entities-subject-to-the-jurisdiction-of-the-office-of-the-comptroller-of-the-c/)** — `2026-03-02` | `102 Pages`
+- `[`2026-04088`]` **[National Bank Chartering](https://www.indexdata.org/national-bank-chartering/)** — `2026-03-02` | `6 Pages`
+- `[`2026-03086`]` **[Bank Appeals Process](https://www.indexdata.org/bank-appeals-process/)** — `2026-02-17` | `18 Pages`
+- `[`2025-23988`]` **[Real Estate Lending Escrow Accounts](https://www.indexdata.org/real-estate-lending-escrow-accounts/)** — `2025-12-30` | `7 Pages`
 
 ### [Farm Credit Administration](https://www.indexdata.org/united-states/farm-credit-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-credit-administration/](https://www.indexdata.org/united-states/farm-credit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/farm-credit-administration/feed/)

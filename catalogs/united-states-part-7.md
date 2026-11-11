@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,237` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,239` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 01:59 UTC`
+**Last Automated Sync:** `2026-11-11 02:57 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,237)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,239)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -574,6 +574,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-23568`]` **[Revisions to the Federal Implementation Plan for the Billings/Laurel, Montana, Sulfur Dioxide Area](https://www.indexdata.org/revisions-to-the-federal-implementation-plan-for-the-billings-laurel-montana-sulfur-dioxide-area-2/)** — `2024-10-15` | `6 Pages`
 - `[`2024-23341`]` **[Air Quality State Implementation Plans; Partial Approval, Partial Disapproval and Promulgation; Texas; Regional Haze](https://www.indexdata.org/air-quality-state-implementation-plans-partial-approval-partial-disapproval-and-promulgation-texas-regional-haze/)** — `2024-10-15` | `38 Pages`
 - `[`2024-22823`]` **[New Source Performance Standards Review for Volatile Organic Liquid Storage Vessels (Including Petroleum Liquid Storage Vessels)](https://www.indexdata.org/new-source-performance-standards-review-for-volatile-organic-liquid-storage-vessels-including-petroleum-liquid-storage-vessels/)** — `2024-10-15` | `41 Pages`
 - `[`2024-23423`]` **[Air Plan Approvals; Arizona; California; Correcting Amendments](https://www.indexdata.org/air-plan-approvals-arizona-california-correcting-amendments/)** — `2024-10-11` | `4 Pages`
@@ -1118,7 +1119,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2024-13693`]` **[Television Broadcasting Services Augusta, Georgia](https://www.indexdata.org/television-broadcasting-services-augusta-georgia-2/)** — `2024-06-24` | `2 Pages`
 - `[`2024-13692`]` **[Television Broadcasting Services Boise, Idaho](https://www.indexdata.org/television-broadcasting-services-boise-idaho/)** — `2024-06-24` | `2 Pages`
 - `[`2024-13266`]` **[Use of the 5.850-5.925 GHz Band](https://www.indexdata.org/use-of-the-5-850-5-925-ghz-band-2/)** — `2024-06-17` | `3 Pages`
-- `[`2024-13194`]` **[Emergency Alert System; Wireless Emergency Alerts](https://www.indexdata.org/emergency-alert-system-wireless-emergency-alerts/)** — `2024-06-17` | `2 Pages`
 
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
@@ -1762,6 +1762,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 - `[`2024-18739`]` **[Prevailing Rate Systems; Redefinition of the Arapahoe-Denver, Colorado, Nonappropriated Fund Federal Wage System Wage Area](https://www.indexdata.org/prevailing-rate-systems-redefinition-of-the-arapahoe-denver-colorado-nonappropriated-fund-federal-wage-system-wage-area/)** — `2024-08-21` | `2 Pages`
 - `[`2024-16030`]` **[Time-Limited Promotions](https://www.indexdata.org/time-limited-promotions/)** — `2024-07-25` | `10 Pages`
 
+### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
+
+- `[`2024-23427`]` **[Electronic Signatures, Forms and Storage for Drug and Alcohol Testing Records](https://www.indexdata.org/electronic-signatures-forms-and-storage-for-drug-and-alcohol-testing-records/)** — `2024-10-15` | `12 Pages`
+- `[`2024-18138`]` **[Pipeline Safety: Cost Recovery for Siting Reviews for LNG Facilities](https://www.indexdata.org/pipeline-safety-cost-recovery-for-siting-reviews-for-lng-facilities/)** — `2024-08-19` | `17 Pages`
+- `[`2024-14116`]` **[Pipeline Safety: Requirement of Valve Installation and Minimum Rupture Detection Standards: Response to Petition for Reconsideration; Additional Technical Corrections](https://www.indexdata.org/pipeline-safety-requirement-of-valve-installation-and-minimum-rupture-detection-standards-response-to-petition-for-reconsideration-additional-technical-corrections/)** — `2024-06-28` | `4 Pages`
+- `[`2024-14115`]` **[Pipeline Safety: Periodic Updates of Regulatory References to Technical Standards and Miscellaneous Amendments; Technical Correction](https://www.indexdata.org/pipeline-safety-periodic-updates-of-regulatory-references-to-technical-standards-and-miscellaneous-amendments-technical-correction/)** — `2024-06-28` | `3 Pages`
+- `[`2024-13474`]` **[Hazardous Materials: FAST Act Requirements for Real-Time Train Consist Information](https://www.indexdata.org/hazardous-materials-fast-act-requirements-for-real-time-train-consist-information/)** — `2024-06-24` | `39 Pages`
+
 ### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
 
@@ -1835,14 +1844,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and
 - `[`2024-22194`]` **[Rules Governing Director Review of Patent Trial and Appeal Board Decisions](https://www.indexdata.org/rules-governing-director-review-of-patent-trial-and-appeal-board-decisions/)** — `2024-10-01` | `9 Pages`
 - `[`2024-21134`]` **[Rules Governing Motion To Amend Practice and Procedures in Trial Proceedings Under the America Invents Act Before the Patent Trial and Appeal Board](https://www.indexdata.org/rules-governing-motion-to-amend-practice-and-procedures-in-trial-proceedings-under-the-america-invents-act-before-the-patent-trial-and-appeal-board/)** — `2024-09-18` | `11 Pages`
 - `[`2024-15472`]` **[Withdrawal of Changes to Post Registration Response Deadlines](https://www.indexdata.org/withdrawal-of-changes-to-post-registration-response-deadlines/)** — `2024-07-19` | `4 Pages`
-
-### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
-
-- `[`2024-18138`]` **[Pipeline Safety: Cost Recovery for Siting Reviews for LNG Facilities](https://www.indexdata.org/pipeline-safety-cost-recovery-for-siting-reviews-for-lng-facilities/)** — `2024-08-19` | `17 Pages`
-- `[`2024-14116`]` **[Pipeline Safety: Requirement of Valve Installation and Minimum Rupture Detection Standards: Response to Petition for Reconsideration; Additional Technical Corrections](https://www.indexdata.org/pipeline-safety-requirement-of-valve-installation-and-minimum-rupture-detection-standards-response-to-petition-for-reconsideration-additional-technical-corrections/)** — `2024-06-28` | `4 Pages`
-- `[`2024-14115`]` **[Pipeline Safety: Periodic Updates of Regulatory References to Technical Standards and Miscellaneous Amendments; Technical Correction](https://www.indexdata.org/pipeline-safety-periodic-updates-of-regulatory-references-to-technical-standards-and-miscellaneous-amendments-technical-correction/)** — `2024-06-28` | `3 Pages`
-- `[`2024-13474`]` **[Hazardous Materials: FAST Act Requirements for Real-Time Train Consist Information](https://www.indexdata.org/hazardous-materials-fast-act-requirements-for-real-time-train-consist-information/)** — `2024-06-24` | `39 Pages`
 
 ### [Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/corporation-for-national-and-community-service/](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
@@ -1931,12 +1932,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 
 - `[`2024-13865`]` **[Temporary Assistance for Needy Families Work Outcomes Measures](https://www.indexdata.org/temporary-assistance-for-needy-families-work-outcomes-measures/)** — `2024-06-28` | `8 Pages`
 - `[`2024-13560`]` **[Unaccompanied Children Program Foundational Rule; Correction](https://www.indexdata.org/unaccompanied-children-program-foundational-rule-correction/)** — `2024-06-26` | `3 Pages`
-
-### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
-
-- `[`2024-18749`]` **[Incorporation by Reference; North American Standard Out-of-Service Criteria; Hazardous Materials Safety Permits](https://www.indexdata.org/incorporation-by-reference-north-american-standard-out-of-service-criteria-hazardous-materials-safety-permits/)** — `2024-08-21` | `3 Pages`
-- `[`2024-13192`]` **[Fees for the Unified Carrier Registration Plan and Agreement](https://www.indexdata.org/fees-for-the-unified-carrier-registration-plan-and-agreement-4/)** — `2024-06-17` | `11 Pages`
 
 ### [Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-procurement-policy-office/](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
@@ -2089,6 +2084,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-cr
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 
 - `[`2024-14933`]` **[Tribal Transportation Facility Bridge Program](https://www.indexdata.org/tribal-transportation-facility-bridge-program/)** — `2024-07-12` | `8 Pages`
+
+### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
+
+- `[`2024-18749`]` **[Incorporation by Reference; North American Standard Out-of-Service Criteria; Hazardous Materials Safety Permits](https://www.indexdata.org/incorporation-by-reference-north-american-standard-out-of-service-criteria-hazardous-materials-safety-permits/)** — `2024-08-21` | `3 Pages`
 
 ### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,237` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,239` across `232` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 01:59 UTC`
+**Last Automated Sync:** `2026-11-11 02:57 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,237)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,239)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -1238,6 +1238,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 ### [State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 
+- `[`US-HI-DLNR-40624`]` **[D-6T-11-10-26](https://www.indexdata.org/d-6t-11-10-26/)** — `2026-11-01` | `65 Pages`
+- `[`US-HI-DLNR-40622`]` **[Agenda-261113a](https://www.indexdata.org/agenda-261113a/)** — `2026-11-01` | `8 Pages`
 - `[`US-HI-DLNR-40597`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-10a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-10a/)** — `2026-11-01` | `5 Pages`
 - `[`US-HI-DLNR-40596`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-9a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-9a/)** — `2026-11-01` | `10 Pages`
 - `[`US-HI-DLNR-40595`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-8a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-8a/)** — `2026-11-01` | `4 Pages`
@@ -1466,23 +1468,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-hi
 - `[`US-DOT-ROSAP-94162`]` **[Bridge Formula Weights &#91;Brochure&#93;](https://www.indexdata.org/bridge-formula-weights-brochure/)** — `2026-10-26` | `6 Pages`
 - `[`US-DOT-ROSAP-94161`]` **[Parking Stress in DC: A Research Study of DC's Residential Parking Permit Program](https://www.indexdata.org/parking-stress-in-dc-a-research-study-of-dcs-residential-parking-permit-program/)** — `2026-10-26` | `32 Pages`
 
-### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
-
-- `[`US-FRPI-2026-23075`]` **[Schedules of Controlled Substances: Placement of Oveporexton in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-oveporexton-in-schedule-iv/)** — `2026-11-09` | `20 Pages`
-- `[`2026-22717`]` **[Specific Listing for 3-Chloromethcathinone, A Currently Controlled Schedule I Substance](https://www.indexdata.org/specific-listing-for-3-chloromethcathinone-a-currently-controlled-schedule-i-substance/)** — `2026-11-06` | `3 Pages`
-- `[`2026-22484`]` **[Technical Amendment to the Regulation Regarding Amendments to Applications](https://www.indexdata.org/technical-amendment-to-the-regulation-regarding-amendments-to-applications/)** — `2026-11-04` | `2 Pages`
-- `[`2026-22208`]` **[Schedules of Controlled Substances: Placement of Centanafadine in Schedule III](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-centanafadine-in-schedule-iii/)** — `2026-10-30` | `8 Pages`
-- `[`2026-20943`]` **[Schedules of Controlled Substances: Temporary Placement of 7- Hydroxymitragynine and Mitragynine Pseudoindoxyl Above a Specified Threshold in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-7-hydroxymitragynine-and-mitragynine-pseudoindoxyl-above-a-specified-threshold-in-schedule-i/)** — `2026-10-14` | `12 Pages`
-- `[`2026-20942`]` **[Schedules of Controlled Substances: Temporary Placement of MGM-15 and MGM-16 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mgm-15-and-mgm-16-in-schedule-i/)** — `2026-10-14` | `7 Pages`
-- `[`2026-20757`]` **[Schedules of Controlled Substances; Removal of Exemption Status for Inactive Butalbital Products](https://www.indexdata.org/schedules-of-controlled-substances-removal-of-exemption-status-for-inactive-butalbital-products/)** — `2026-10-09` | `6 Pages`
-- `[`2026-20748`]` **[Schedules of Controlled Substances: Placement of O-Desmethyltramadol in Schedule I; Correction](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-o-desmethyltramadol-in-schedule-i-correction/)** — `2026-10-09` | `2 Pages`
-- `[`2026-20084`]` **[Extension of Reexportation Period.](https://www.indexdata.org/extension-of-reexportation-period/)** — `2026-10-01` | `5 Pages`
-- `[`2026-19400`]` **[Schedules of Controlled Substances: Placement of 4-Hydroxy-N,N-Diisopropyltryptamine (4-OH-DiPT), 5-Methoxy-alpha-Methyltryptamine (5-MeO-AMT), 5-Methoxy-N-Methyl-N-Isopropyltryptamine (5-MeO-MiPT), 5-Methoxy-N,N-Diethyltryptamine (5-MeO-DET), and N,N-Diisopropyltryptamine (DiPT) Into Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-hydroxy-nn-diisopropyltryptamine-4-oh-dipt-5-methoxy-alpha-methyltryptamine-5-meo-amt-5-methoxy-n-methyl-n-isopropyltryptamine-5-meo-mipt-5/)** — `2026-09-23` | `10 Pages`
-- `[`2026-19231`]` **[Schedules of Controlled Substances: Placement of Diphenidine in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-diphenidine-in-schedule-i/)** — `2026-09-21` | `4 Pages`
-- `[`2026-17536`]` **[Schedules of Controlled Substances: Placement of Cipepofol in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-cipepofol-in-schedule-iv/)** — `2026-08-27` | `7 Pages`
-- `[`2026-17531`]` **[Schedules of Controlled Substances: Temporary Placement of 5,6-Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-56-dichloro-brorphine-56-dichloro-desmethylchlorphine-n-propionitrile-chlorphine-and-spirochlorphine-in-schedule-i-of-the-controlled-sub/)** — `2026-08-27` | `7 Pages`
-
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
 
@@ -1515,6 +1500,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2026-19959`]` **[Medicare Program; Prospective Payment System and Consolidated Billing for Skilled Nursing Facilities; Updates to the Quality Reporting Program for Federal Fiscal Year 2027; Correction](https://www.indexdata.org/medicare-program-prospective-payment-system-and-consolidated-billing-for-skilled-nursing-facilities-updates-to-the-quality-reporting-program-for-federal-fiscal-year-2027-correction/)** — `2026-09-30` | `10 Pages`
 - `[`2026-19946`]` **[Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of Certain Health Information Technology Standards; Correction](https://www.indexdata.org/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and-the-long-term-care-hospital-prospective-payment-system-and-policy-changes-and-fiscal-year-fy-2027-2/)** — `2026-09-29` | `16 Pages`
 - `[`2026-19535`]` **[Request for Information; Medicare Part D Reasonable and Relevant Pharmacy Contracting Standards](https://www.indexdata.org/request-for-information-medicare-part-d-reasonable-and-relevant-pharmacy-contracting-standards/)** — `2026-09-24` | `5 Pages`
+
+### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+
+- `[`US-FRPI-2026-23075`]` **[Schedules of Controlled Substances: Placement of Oveporexton in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-oveporexton-in-schedule-iv/)** — `2026-11-09` | `20 Pages`
+- `[`2026-22717`]` **[Specific Listing for 3-Chloromethcathinone, A Currently Controlled Schedule I Substance](https://www.indexdata.org/specific-listing-for-3-chloromethcathinone-a-currently-controlled-schedule-i-substance/)** — `2026-11-06` | `3 Pages`
+- `[`2026-22484`]` **[Technical Amendment to the Regulation Regarding Amendments to Applications](https://www.indexdata.org/technical-amendment-to-the-regulation-regarding-amendments-to-applications/)** — `2026-11-04` | `2 Pages`
+- `[`2026-22208`]` **[Schedules of Controlled Substances: Placement of Centanafadine in Schedule III](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-centanafadine-in-schedule-iii/)** — `2026-10-30` | `8 Pages`
+- `[`2026-20943`]` **[Schedules of Controlled Substances: Temporary Placement of 7- Hydroxymitragynine and Mitragynine Pseudoindoxyl Above a Specified Threshold in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-7-hydroxymitragynine-and-mitragynine-pseudoindoxyl-above-a-specified-threshold-in-schedule-i/)** — `2026-10-14` | `12 Pages`
+- `[`2026-20942`]` **[Schedules of Controlled Substances: Temporary Placement of MGM-15 and MGM-16 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mgm-15-and-mgm-16-in-schedule-i/)** — `2026-10-14` | `7 Pages`
+- `[`2026-20757`]` **[Schedules of Controlled Substances; Removal of Exemption Status for Inactive Butalbital Products](https://www.indexdata.org/schedules-of-controlled-substances-removal-of-exemption-status-for-inactive-butalbital-products/)** — `2026-10-09` | `6 Pages`
+- `[`2026-20748`]` **[Schedules of Controlled Substances: Placement of O-Desmethyltramadol in Schedule I; Correction](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-o-desmethyltramadol-in-schedule-i-correction/)** — `2026-10-09` | `2 Pages`
+- `[`2026-20084`]` **[Extension of Reexportation Period.](https://www.indexdata.org/extension-of-reexportation-period/)** — `2026-10-01` | `5 Pages`
+- `[`2026-19400`]` **[Schedules of Controlled Substances: Placement of 4-Hydroxy-N,N-Diisopropyltryptamine (4-OH-DiPT), 5-Methoxy-alpha-Methyltryptamine (5-MeO-AMT), 5-Methoxy-N-Methyl-N-Isopropyltryptamine (5-MeO-MiPT), 5-Methoxy-N,N-Diethyltryptamine (5-MeO-DET), and N,N-Diisopropyltryptamine (DiPT) Into Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-hydroxy-nn-diisopropyltryptamine-4-oh-dipt-5-methoxy-alpha-methyltryptamine-5-meo-amt-5-methoxy-n-methyl-n-isopropyltryptamine-5-meo-mipt-5/)** — `2026-09-23` | `10 Pages`
+- `[`2026-19231`]` **[Schedules of Controlled Substances: Placement of Diphenidine in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-diphenidine-in-schedule-i/)** — `2026-09-21` | `4 Pages`
 
 ### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)

@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `958` across `19` issuing authorities  
-**Last Automated Sync:** `2026-11-11 01:59 UTC`
+**Total Indexed Dossiers in International:** `963` across `19` issuing authorities  
+**Last Automated Sync:** `2026-11-11 02:57 UTC`
 
 ---
 
@@ -13,7 +13,7 @@
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`162` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`155` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
-- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`130` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
+- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`135` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
@@ -33,7 +33,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–958 of 958)
+## Indexed Statutory & Regulatory Dossiers (Records 1–963 of 963)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -363,6 +363,11 @@ Canonical Authority Archive: [https://www.indexdata.org/international/world-bank
 ### [Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)
 Canonical Authority Archive: [https://www.indexdata.org/international/food-and-agriculture-organization-fao/](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/)
 
+- `[`FAO-CE2125EN`]` **[Green Jobs for Youth in Resilient Agrifood Systems in Nigeria, Sierra Leone and Liberia](https://www.indexdata.org/green-jobs-for-youth-in-resilient-agrifood-systems-in-nigeria-sierra-leone-and-liberia/)** — `2026-11-10` | `196 Pages`
+- `[`FAO-CE1876EN`]` **[Climate Resilient Agri-Food Systems Transformation Program (Craft-1)](https://www.indexdata.org/climate-resilient-agri-food-systems-transformation-program-craft-1/)** — `2026-11-10` | `73 Pages`
+- `[`FAO-CE0281EN`]` **[Evaluation of the project "Climate Resilient Livelihood Opportunities for Women Economic Empowerment in Karamoja and West Nile Regions of Uganda"](https://www.indexdata.org/evaluation-of-the-project-climate-resilient-livelihood-opportunities-for-women-economic-empowerment-in-karamoja-and-west-nile-regions-of-uganda/)** — `2026-11-10` | `56 Pages`
+- `[`FAO-CD9780EN`]` **[Evaluation of FAO's support to small-scale producers’ equitable access to resources (BP4)](https://www.indexdata.org/evaluation-of-faos-support-to-small-scale-producers-equitable-access-to-resources-bp4/)** — `2026-11-10` | `58 Pages`
+- `[`FAO-CD4425EN`]` **[Terminal evaluation of the project “Towards sustainable management of the Canary Current Large Marine Ecosystem - Initial support to the strategic action programme implementation”](https://www.indexdata.org/terminal-evaluation-of-the-project-towards-sustainable-management-of-the-canary-current-large-marine-ecosystem-initial-support-to-the-strategic-action-programme-implementation/)** — `2026-11-10` | `76 Pages`
 - `[`FAO-CE2482EN`]` **[Draft revised Second Global Plan of Action for Plant Genetic Resources for Food and Agriculture – revised text (9 November 2026)](https://www.indexdata.org/draft-revised-second-global-plan-of-action-for-plant-genetic-resources-for-food-and-agriculture-revised-text-9-november-2026/)** — `2026-11-09` | `12 Pages`
 - `[`FAO-CE2203EN`]` **[Draft study on genomic assessment of genetic variation and the future of the breed concept](https://www.indexdata.org/draft-study-on-genomic-assessment-of-genetic-variation-and-the-future-of-the-breed-concept/)** — `2026-11-09` | `49 Pages`
 - `[`FAO-CE1614EN`]` **[Ecosystem-based Adaptation for resilient Watersheds and Communities in Malawi (EbAM) project](https://www.indexdata.org/ecosystem-based-adaptation-for-resilient-watersheds-and-communities-in-malawi-ebam-project/)** — `2026-11-09` | `8 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,237` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,239` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-11 01:59 UTC`
+**Last Automated Sync:** `2026-11-11 02:57 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,237)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,239)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -666,8 +666,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-02828`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-175/)** — `2025-02-20` | `3 Pages`
 - `[`2025-02774`]` **[Amendment of Jet Route J-146 and Establishment of United States RNAV Route Q-186 in the Vicinity of Chardon, OH](https://www.indexdata.org/amendment-of-jet-route-j-146-and-establishment-of-united-states-rnav-route-q-186-in-the-vicinity-of-chardon-oh-2/)** — `2025-02-19` | `3 Pages`
 - `[`2025-02748`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-39/)** — `2025-02-19` | `3 Pages`
-- `[`2025-02746`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-176/)** — `2025-02-19` | `4 Pages`
-- `[`2025-02727`]` **[Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc-airplanes-16/)** — `2025-02-19` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1059,6 +1057,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 
+- `[`2025-13134`]` **[Revisions to the Office of Hearings and Appeals Procedural Regulations for the DOE Contractor Employee Protection Program](https://www.indexdata.org/revisions-to-the-office-of-hearings-and-appeals-procedural-regulations-for-the-doe-contractor-employee-protection-program-2/)** — `2025-07-14` | `2 Pages`
+- `[`2025-13132`]` **[Revisions to the Office of Hearings and Appeals Procedural Regulations](https://www.indexdata.org/revisions-to-the-office-of-hearings-and-appeals-procedural-regulations/)** — `2025-07-14` | `2 Pages`
 - `[`2025-13131`]` **[Procedures for Acquisition of Petroleum for the Strategic Petroleum Reserve](https://www.indexdata.org/procedures-for-acquisition-of-petroleum-for-the-strategic-petroleum-reserve/)** — `2025-07-14` | `3 Pages`
 - `[`2025-13130`]` **[Rescinding Obsolete Financial Assistance Rules](https://www.indexdata.org/rescinding-obsolete-financial-assistance-rules/)** — `2025-07-14` | `2 Pages`
 - `[`2025-12557`]` **[Department of Energy Acquisition Regulation](https://www.indexdata.org/department-of-energy-acquisition-regulation/)** — `2025-07-07` | `2 Pages`
