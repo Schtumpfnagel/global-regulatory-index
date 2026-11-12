@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,291` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,293` across `235` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 14:45 UTC`
+**Last Automated Sync:** `2026-11-12 16:38 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`308` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`309` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -185,6 +185,7 @@
 - **[Regulatory Information Service Center](https://www.indexdata.org/united-states/regulatory-information-service-center/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/regulatory-information-service-center/) | [RSS Feed](https://www.indexdata.org/united-states/regulatory-information-service-center/feed/)
 - **[U.S. Department of Veterans Affairs (VA)](https://www.indexdata.org/united-states/u-s-department-of-veterans-affairs-va/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-veterans-affairs-va/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-veterans-affairs-va/feed/)
 - **[U.S. Immigration and Customs Enforcement](https://www.indexdata.org/united-states/u-s-immigration-and-customs-enforcement/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-immigration-and-customs-enforcement/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-immigration-and-customs-enforcement/feed/)
+- **[U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
 - **[Advisory Council on Historic Preservation](https://www.indexdata.org/united-states/advisory-council-on-historic-preservation/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/advisory-council-on-historic-preservation/) | [RSS Feed](https://www.indexdata.org/united-states/advisory-council-on-historic-preservation/feed/)
 - **[Army Department](https://www.indexdata.org/united-states/army-department/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/army-department/) | [RSS Feed](https://www.indexdata.org/united-states/army-department/feed/)
 - **[Bureau of Transportation Statistics (BTS)](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/) | [RSS Feed](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/feed/)
@@ -206,7 +207,6 @@
 - **[Office of the Secretary of the Treasury](https://www.indexdata.org/united-states/office-of-the-secretary-of-the-treasury/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/office-of-the-secretary-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary-of-the-treasury/feed/)
 - **[Susquehanna River Basin Commission](https://www.indexdata.org/united-states/susquehanna-river-basin-commission/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/susquehanna-river-basin-commission/) | [RSS Feed](https://www.indexdata.org/united-states/susquehanna-river-basin-commission/feed/)
 - **[U.S. International Development Finance Corporation](https://www.indexdata.org/united-states/u-s-international-development-finance-corporation/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-international-development-finance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-international-development-finance-corporation/feed/)
-- **[U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
 - **[United States Mint](https://www.indexdata.org/united-states/united-states-mint/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-mint/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-mint/feed/)
 - **[Air Force Department](https://www.indexdata.org/united-states/air-force-department/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/air-force-department/) | [RSS Feed](https://www.indexdata.org/united-states/air-force-department/feed/)
 - **[Centers for Medicare & Medicaid Services (CMS)](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,291)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,293)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -320,6 +320,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CRPT-119hrpt853`]` **[H. Rept. 119-853](https://www.indexdata.org/h-rept-119-853/)** — `2026-11-02` | `11 Pages`
 - `[`US-CHRG-119hhrg65540`]` **[Serial No. 119-44 - BUILDING AN AI-READY AMERICA: ADOPTING AI AT WORK](https://www.indexdata.org/serial-no-119-44-building-an-ai-ready-america-adopting-ai-at-work/)** — `2026-11-02` | `98 Pages`
 - `[`US-CRPT-119hrpt878`]` **[H. Rept. 119-878](https://www.indexdata.org/h-rept-119-878/)** — `2026-11-01` | `2 Pages`
+- `[`US-CHRG-119hhrg64516`]` **[Small Business Committee Document Number 119-43 - FUELING THE GOLDEN AGE: FUTURE RESOURCE NEEDS AND SMALL BUSINESS OPPORTUNITY](https://www.indexdata.org/small-business-committee-document-number-119-43-fueling-the-golden-age-future-resource-needs-and-small-business-opportunity/)** — `2026-11-01` | `69 Pages`
 - `[`US-CHRG-119hhrg64505`]` **[Serial No. 119-47 - TSA MODERNIZATION: INDUSTRY PERSPECTIVES ON KEY SECURITY AND TRAVEL REFORMS 25 YEARS AFTER 9/11](https://www.indexdata.org/serial-no-119-47-tsa-modernization-industry-perspectives-on-key-security-and-travel-reforms-25-years-after-9-11/)** — `2026-11-01` | `68 Pages`
 - `[`US-CHRG-119hhrg63913`]` **[House Hearing, 119th Congress - OVERSIGHT OF THE ARCHITECT OF THE CAPITOL: ADDRESSING PAST LESSONS, PRESENT PROJECTS, AND FUTURE CHALLENGES](https://www.indexdata.org/house-hearing-119th-congress-oversight-of-the-architect-of-the-capitol-addressing-past-lessons-present-projects-and-future-challenges/)** — `2026-11-01` | `32 Pages`
 - `[`US-BILLS-119hres1656ih`]` **[H. Res. 1656 (IH) - Providing for consideration of the bill (H.R. 6731) to amend chapter 131 of title 5 to prohibit Members of Congress, the President, Vice President, and their spouses and dependents from owning or trading stocks, and for other purposes.](https://www.indexdata.org/h-res-1656-ih-providing-for-consideration-of-the-bill-h-r-6731-to-amend-chapter-131-of-title-5-to-prohibit-members-of-congress-the-president-vice-president-and-their-spouses-and-dependents/)** — `2026-11-01` | `2 Pages`
@@ -726,7 +727,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-17967`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes/)** — `2026-09-02` | `4 Pages`
 - `[`2026-17957`]` **[Establishment of Special Air Traffic Rules in the Vicinity of President Donald J. Trump International Airport (DJT)](https://www.indexdata.org/establishment-of-special-air-traffic-rules-in-the-vicinity-of-president-donald-j-trump-international-airport-djt/)** — `2026-09-02` | `8 Pages`
 - `[`2026-17867`]` **[Amendment of Class D Airspace and Class E Airspace Over New Haven, CT](https://www.indexdata.org/amendment-of-class-d-airspace-and-class-e-airspace-over-new-haven-ct/)** — `2026-09-01` | `3 Pages`
-- `[`2026-17840`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-15/)** — `2026-09-01` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1910,13 +1910,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commerce-d
 - `[`2026-21764`]` **[Streamlining the Regulations Governing Testimony by Employees and the Production of Documents in Legal Proceedings; Correction](https://www.indexdata.org/streamlining-the-regulations-governing-testimony-by-employees-and-the-production-of-documents-in-legal-proceedings-correction/)** — `2026-10-24` | `2 Pages`
 - `[`2026-21272`]` **[Streamlining the Regulations Governing Testimony by Employees and the Production of Documents in Legal Proceedings](https://www.indexdata.org/streamlining-the-regulations-governing-testimony-by-employees-and-the-production-of-documents-in-legal-proceedings/)** — `2026-10-19` | `4 Pages`
 
-### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
-
-- `[`2026-21706`]` **[Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency](https://www.indexdata.org/implementing-the-guiding-and-establishing-national-innovation-for-u-s-stablecoins-act-for-the-issuance-of-stablecoins-by-entities-subject-to-the-jurisdiction-of-the-office-of-the-comptroller-of-the-2/)** — `2026-10-23` | `195 Pages`
-- `[`2026-18766`]` **[Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks](https://www.indexdata.org/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-u-s-branches-and-agencies-of-foreign-banks/)** — `2026-09-14` | `6 Pages`
-- `[`2026-17823`]` **[Unsafe or Unsound Practices, Matters Requiring Attention](https://www.indexdata.org/unsafe-or-unsound-practices-matters-requiring-attention/)** — `2026-09-01` | `19 Pages`
-
 ### [Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/mine-safety-and-health-administration/](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 
@@ -1966,11 +1959,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-depart
 - `[`US-VA-VHA-3150`]` **[RIO Contact List](https://www.indexdata.org/rio-contact-list/)** — `2026-10-01` | `28 Pages`
 - `[`US-VA-VHA-3145`]` **[CBIAR-Direct-Post-FY27-508 FINAL](https://www.indexdata.org/cbiar-direct-post-fy27-508-final/)** — `2026-09-01` | `2 Pages`
 
+### [U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
+
+- `[`US-FRPI-2026-23236`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act-4/)** — `2026-11-12` | `2 Pages`
+- `[`US-FRPI-2026-22869`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act-3/)** — `2026-11-08` | `2 Pages`
+- `[`US-FRPI-2026-22858`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act-2/)** — `2026-11-08` | `3 Pages`
+
 ### [Bureau of Transportation Statistics (BTS)](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/) | [RSS Feed](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/feed/)
 
 - `[`US-DOT-ROSAP-94340`]` **[FLOW Report: A Summary of Program Development and Supply Chain Insights](https://www.indexdata.org/flow-report-a-summary-of-program-development-and-supply-chain-insights/)** — `2026-11-10` | `16 Pages`
 - `[`US-DOT-ROSAP-88515`]` **[Transportation Statistics Annual Report 2025](https://www.indexdata.org/transportation-statistics-annual-report-2025/)** — `2026-11-06` | `90 Pages`
+
+### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+
+- `[`2026-21706`]` **[Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency](https://www.indexdata.org/implementing-the-guiding-and-establishing-national-innovation-for-u-s-stablecoins-act-for-the-issuance-of-stablecoins-by-entities-subject-to-the-jurisdiction-of-the-office-of-the-comptroller-of-the-2/)** — `2026-10-23` | `195 Pages`
+- `[`2026-18766`]` **[Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks](https://www.indexdata.org/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-u-s-branches-and-agencies-of-foreign-banks/)** — `2026-09-14` | `6 Pages`
 
 ### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
@@ -2067,12 +2073,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mi
 
 - `[`2026-21835`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-5/)** — `2026-10-24` | `4 Pages`
 - `[`2026-21807`]` **[Ohio Regulatory Program](https://www.indexdata.org/ohio-regulatory-program-3/)** — `2026-10-24` | `10 Pages`
-
-### [U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
-
-- `[`US-FRPI-2026-22869`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act-3/)** — `2026-11-08` | `2 Pages`
-- `[`US-FRPI-2026-22858`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act-2/)** — `2026-11-08` | `3 Pages`
 
 ### [Agriculture Department](https://www.indexdata.org/united-states/agriculture-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agriculture-department/](https://www.indexdata.org/united-states/agriculture-department/) | [RSS Feed](https://www.indexdata.org/united-states/agriculture-department/feed/)

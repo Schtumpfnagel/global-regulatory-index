@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,291` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,293` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 14:45 UTC`
+**Last Automated Sync:** `2026-11-12 16:38 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`308` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`309` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -185,6 +185,7 @@
 - **[Regulatory Information Service Center](https://www.indexdata.org/united-states/regulatory-information-service-center/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/regulatory-information-service-center/) | [RSS Feed](https://www.indexdata.org/united-states/regulatory-information-service-center/feed/)
 - **[U.S. Department of Veterans Affairs (VA)](https://www.indexdata.org/united-states/u-s-department-of-veterans-affairs-va/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-veterans-affairs-va/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-veterans-affairs-va/feed/)
 - **[U.S. Immigration and Customs Enforcement](https://www.indexdata.org/united-states/u-s-immigration-and-customs-enforcement/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-immigration-and-customs-enforcement/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-immigration-and-customs-enforcement/feed/)
+- **[U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
 - **[Advisory Council on Historic Preservation](https://www.indexdata.org/united-states/advisory-council-on-historic-preservation/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/advisory-council-on-historic-preservation/) | [RSS Feed](https://www.indexdata.org/united-states/advisory-council-on-historic-preservation/feed/)
 - **[Army Department](https://www.indexdata.org/united-states/army-department/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/army-department/) | [RSS Feed](https://www.indexdata.org/united-states/army-department/feed/)
 - **[Bureau of Transportation Statistics (BTS)](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/) | [RSS Feed](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/feed/)
@@ -206,7 +207,6 @@
 - **[Office of the Secretary of the Treasury](https://www.indexdata.org/united-states/office-of-the-secretary-of-the-treasury/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/office-of-the-secretary-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary-of-the-treasury/feed/)
 - **[Susquehanna River Basin Commission](https://www.indexdata.org/united-states/susquehanna-river-basin-commission/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/susquehanna-river-basin-commission/) | [RSS Feed](https://www.indexdata.org/united-states/susquehanna-river-basin-commission/feed/)
 - **[U.S. International Development Finance Corporation](https://www.indexdata.org/united-states/u-s-international-development-finance-corporation/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-international-development-finance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-international-development-finance-corporation/feed/)
-- **[U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
 - **[United States Mint](https://www.indexdata.org/united-states/united-states-mint/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-mint/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-mint/feed/)
 - **[Air Force Department](https://www.indexdata.org/united-states/air-force-department/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/air-force-department/) | [RSS Feed](https://www.indexdata.org/united-states/air-force-department/feed/)
 - **[Centers for Medicare & Medicaid Services (CMS)](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,291)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,293)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -606,12 +606,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-24365`]` **[Airworthiness Directives; Safran Helicopter Engines, S.A. (Type Certificate Previously Held by Turbomeca, S.A.) Engines](https://www.indexdata.org/airworthiness-directives-safran-helicopter-engines-s-a-type-certificate-previously-held-by-turbomeca-s-a-engines-8/)** — `2024-10-22` | `3 Pages`
 - `[`2024-24346`]` **[Amendment of Class E Airspace; Gaylord, MI](https://www.indexdata.org/amendment-of-class-e-airspace-gaylord-mi-2/)** — `2024-10-22` | `2 Pages`
 - `[`2024-24345`]` **[Revocation of Class E Airspace; Follett, TX](https://www.indexdata.org/revocation-of-class-e-airspace-follett-tx-2/)** — `2024-10-22` | `2 Pages`
-- `[`2024-24344`]` **[Amendment of Class E Airspace; El Dorado, AR](https://www.indexdata.org/amendment-of-class-e-airspace-el-dorado-ar-2/)** — `2024-10-22` | `3 Pages`
-- `[`2024-24342`]` **[Amendment of Class E Airspace; Giddings, TX](https://www.indexdata.org/amendment-of-class-e-airspace-giddings-tx-2/)** — `2024-10-22` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-03205`]` **[Air Plan Approval; New Jersey; Permits and Certificates for Minor Facilities (and Major Facilities Without an Operating Permit), and Air Emission Control and Permitting Exemptions](https://www.indexdata.org/air-plan-approval-new-jersey-permits-and-certificates-for-minor-facilities-and-major-facilities-without-an-operating-permit-and-air-emission-control-and-permitting-exemptions/)** — `2025-02-28` | `3 Pages`
+- `[`2025-03196`]` **[Air Plan Approval; Ohio; Regional Haze Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-approval-ohio-regional-haze-plan-for-the-second-implementation-period-2/)** — `2025-02-28` | `2 Pages`
 - `[`2025-03144`]` **[Review of National Emission Standards for Hazardous Air Pollutants for Polyether Polyols Production Industry; Extension of Comment Period](https://www.indexdata.org/review-of-national-emission-standards-for-hazardous-air-pollutants-for-polyether-polyols-production-industry-extension-of-comment-period/)** — `2025-02-26` | `2 Pages`
 - `[`2025-03001`]` **[Cyprodinil; Pesticide Tolerances](https://www.indexdata.org/cyprodinil-pesticide-tolerances/)** — `2025-02-26` | `6 Pages`
 - `[`2025-02974`]` **[West Virginia Underground Injection Control (UIC) Program; Class VI Primacy](https://www.indexdata.org/west-virginia-underground-injection-control-uic-program-class-vi-primacy/)** — `2025-02-26` | `7 Pages`
