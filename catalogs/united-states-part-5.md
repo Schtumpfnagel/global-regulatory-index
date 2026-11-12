@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,273` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,275` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 01:53 UTC`
+**Last Automated Sync:** `2026-11-12 02:54 UTC`
 
 ---
 
@@ -87,9 +87,9 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,273)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,275)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -664,6 +664,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-13344`]` **[Air Plan Approval; Ohio; Second Maintenance Plan for the Ohio Portion of the Campbell-Clermont, KY-OH SO2 Maintenance Area](https://www.indexdata.org/air-plan-approval-ohio-second-maintenance-plan-for-the-ohio-portion-of-the-campbell-clermont-ky-oh-so2-maintenance-area/)** — `2025-07-16` | `6 Pages`
+- `[`2025-13342`]` **[Air Plan Partial Approval and Partial Disapproval; Colorado; Regional Haze Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-colorado-regional-haze-plan-for-the-second-implementation-period/)** — `2025-07-16` | `20 Pages`
 - `[`2025-13341`]` **[Air Quality State Implementation Plans; Approval and Promulgations: Montana: Infrastructure Requirements for the 2015 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-quality-state-implementation-plans-approval-and-promulgations-montana-infrastructure-requirements-for-the-2015-ozone-national-ambient-air-quality-standards/)** — `2025-07-16` | `8 Pages`
 - `[`2025-13339`]` **[Determination of Attainment by the Attainment Date and Clean Data Determination; California, San Joaquin Valley 1997 Annual PM2.5 Fine Particulate Matter Nonattainment Area](https://www.indexdata.org/determination-of-attainment-by-the-attainment-date-and-clean-data-determination-california-san-joaquin-valley-1997-annual-pm2-5-fine-particulate-matter-nonattainment-area-2/)** — `2025-07-16` | `6 Pages`
 - `[`2025-13337`]` **[Air Plan Approval; State of Utah; Utah PM2.5 State Implementation Plan Revisions](https://www.indexdata.org/air-plan-approval-state-of-utah-utah-pm2-5-state-implementation-plan-revisions/)** — `2025-07-16` | `6 Pages`
@@ -1346,7 +1348,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2025-08143`]` **[Medical Devices; Immunology and Microbiology Devices; Classification of the DNA-Based Test To Measure Minimal Residual Disease in Hematological Malignancies](https://www.indexdata.org/medical-devices-immunology-and-microbiology-devices-classification-of-the-dna-based-test-to-measure-minimal-residual-disease-in-hematological-malignancies/)** — `2025-05-09` | `4 Pages`
 - `[`2025-08137`]` **[New Animal Drugs; Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Application; Change of Sponsor](https://www.indexdata.org/new-animal-drugs-approval-of-new-animal-drug-applications-withdrawal-of-approval-of-new-animal-drug-application-change-of-sponsor-2/)** — `2025-05-09` | `3 Pages`
 - `[`2025-04978`]` **[Nonprescription Drug Product With an Additional Condition for Nonprescription Use](https://www.indexdata.org/nonprescription-drug-product-with-an-additional-condition-for-nonprescription-use/)** — `2025-03-25` | `2 Pages`
-- `[`2025-03118`]` **[Food Labeling: Nutrient Content Claims; Definition of Term “Healthy”](https://www.indexdata.org/food-labeling-nutrient-content-claims-definition-of-term-healthy/)** — `2025-02-25` | `2 Pages`
 
 ### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
@@ -1700,16 +1701,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-en
 - `[`2025-06941`]` **[Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.indexdata.org/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation/)** — `2025-04-28` | `37 Pages`
 - `[`2025-03085`]` **[Standards for Business Practices and Communication Protocols for Public Utilities](https://www.indexdata.org/standards-for-business-practices-and-communication-protocols-for-public-utilities/)** — `2025-02-27` | `11 Pages`
 
-### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
-
-- `[`2025-10519`]` **[Adjustment of Civil Monetary Penalty Amounts for 2025](https://www.indexdata.org/adjustment-of-civil-monetary-penalty-amounts-for-2025/)** — `2025-06-12` | `5 Pages`
-- `[`2025-09991`]` **[Rescission of Affirmative Fair Housing Marketing Regulations](https://www.indexdata.org/rescission-of-affirmative-fair-housing-marketing-regulations/)** — `2025-06-03` | `4 Pages`
-- `[`2025-07961`]` **[Affirmatively Furthering Fair Housing Revisions; Extension of Comment Period](https://www.indexdata.org/affirmatively-furthering-fair-housing-revisions-extension-of-comment-period/)** — `2025-05-07` | `2 Pages`
-- `[`2025-06492`]` **[HOME Investment Partnerships Program: Program Updates and Streamlining-Delay of Effective Date, Withdrawal, and Correction](https://www.indexdata.org/home-investment-partnerships-program-program-updates-and-streamlining-delay-of-effective-date-withdrawal-and-correction/)** — `2025-04-17` | `3 Pages`
-- `[`2025-03360`]` **[Affirmatively Furthering Fair Housing Revisions](https://www.indexdata.org/affirmatively-furthering-fair-housing-revisions/)** — `2025-03-03` | `6 Pages`
-- `[`2025-03038`]` **[Manufactured Home Construction and Safety Standards; Postponing Effective Date](https://www.indexdata.org/manufactured-home-construction-and-safety-standards-postponing-effective-date/)** — `2025-02-25` | `2 Pages`
-
 ### [Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/maritime-administration/](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
 
@@ -1764,6 +1755,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/general-se
 - `[`2025-06279`]` **[Federal Management Regulation; Updating Transportation Management, With Diversity, Equity, Inclusion, and Accessibility Language; Planned Rescission](https://www.indexdata.org/federal-management-regulation-updating-transportation-management-with-diversity-equity-inclusion-and-accessibility-language-planned-rescission/)** — `2025-04-16` | `2 Pages`
 - `[`2025-06181`]` **[Federal Management Regulation; Soliciting Union Memberships Among Contractors in GSA-Controlled Buildings; Planned Rescission](https://www.indexdata.org/federal-management-regulation-soliciting-union-memberships-among-contractors-in-gsa-controlled-buildings-planned-rescission/)** — `2025-04-16` | `2 Pages`
 - `[`2025-06180`]` **[Federal Management Regulation; Federal Advisory Committee Management; Planned Revision](https://www.indexdata.org/federal-management-regulation-federal-advisory-committee-management-planned-revision/)** — `2025-04-16` | `2 Pages`
+
+### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
+
+- `[`2025-10519`]` **[Adjustment of Civil Monetary Penalty Amounts for 2025](https://www.indexdata.org/adjustment-of-civil-monetary-penalty-amounts-for-2025/)** — `2025-06-12` | `5 Pages`
+- `[`2025-09991`]` **[Rescission of Affirmative Fair Housing Marketing Regulations](https://www.indexdata.org/rescission-of-affirmative-fair-housing-marketing-regulations/)** — `2025-06-03` | `4 Pages`
+- `[`2025-07961`]` **[Affirmatively Furthering Fair Housing Revisions; Extension of Comment Period](https://www.indexdata.org/affirmatively-furthering-fair-housing-revisions-extension-of-comment-period/)** — `2025-05-07` | `2 Pages`
+- `[`2025-06492`]` **[HOME Investment Partnerships Program: Program Updates and Streamlining-Delay of Effective Date, Withdrawal, and Correction](https://www.indexdata.org/home-investment-partnerships-program-program-updates-and-streamlining-delay-of-effective-date-withdrawal-and-correction/)** — `2025-04-17` | `3 Pages`
+- `[`2025-03360`]` **[Affirmatively Furthering Fair Housing Revisions](https://www.indexdata.org/affirmatively-furthering-fair-housing-revisions/)** — `2025-03-03` | `6 Pages`
 
 ### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)

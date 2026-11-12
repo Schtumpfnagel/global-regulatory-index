@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,273` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,275` across `232` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 01:53 UTC`
+**Last Automated Sync:** `2026-11-12 02:54 UTC`
 
 ---
 
@@ -87,9 +87,9 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,273)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,275)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -1173,7 +1173,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2026-18015`]` **[Television Broadcasting Services Colusa, California](https://www.indexdata.org/television-broadcasting-services-colusa-california/)** — `2026-09-03` | `2 Pages`
 - `[`2026-17774`]` **[Consumer and Governmental Affairs Bureau Seeks To Dismiss Twenty-Four Mooted or Outdated Petitions](https://www.indexdata.org/consumer-and-governmental-affairs-bureau-seeks-to-dismiss-twenty-four-mooted-or-outdated-petitions/)** — `2026-08-31` | `2 Pages`
 - `[`2026-17767`]` **[Promoting Telehealth in Rural America](https://www.indexdata.org/promoting-telehealth-in-rural-america/)** — `2026-08-31` | `10 Pages`
-- `[`2026-17761`]` **[Maximizing Efficiencies in Universal Service Administration](https://www.indexdata.org/maximizing-efficiencies-in-universal-service-administration/)** — `2026-08-31` | `10 Pages`
 
 ### [U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-energy-doe/](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
@@ -1208,6 +1207,37 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-depart
 - `[`US-DOE-OSTI-17136588`]` **[Investigation of the high-spin S2 states in photosystem II using Mn X-ray absorption spectroscopy with insights from XFEL crystallography](https://www.indexdata.org/investigation-of-the-high-spin-s2-states-in-photosystem-ii-using-mn-x-ray-absorption-spectroscopy-with-insights-from-xfel-crystallography/)** — `2026-11-01` | `13 Pages`
 - `[`US-DOE-OSTI-17132846`]` **[Unlocking durable and active non-oxidative dehydrogenation of light alkanes on protonic ceramic electrochemical cells](https://www.indexdata.org/unlocking-durable-and-active-non-oxidative-dehydrogenation-of-light-alkanes-on-protonic-ceramic-electrochemical-cells/)** — `2026-11-01` | `22 Pages`
 
+### [State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
+
+- `[`US-HI-DLNR-40629`]` **[J-1T-11-11-26](https://www.indexdata.org/j-1t-11-11-26/)** — `2026-11-01` | `9 Pages`
+- `[`US-HI-DLNR-40627`]` **[D-6T-11-11-26](https://www.indexdata.org/d-6t-11-11-26/)** — `2026-11-01` | `101 Pages`
+- `[`US-HI-DLNR-40624`]` **[D-6T-11-10-26](https://www.indexdata.org/d-6t-11-10-26/)** — `2026-11-01` | `65 Pages`
+- `[`US-HI-DLNR-40622`]` **[Agenda-261113a](https://www.indexdata.org/agenda-261113a/)** — `2026-11-01` | `8 Pages`
+- `[`US-HI-DLNR-40597`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-10a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-10a/)** — `2026-11-01` | `5 Pages`
+- `[`US-HI-DLNR-40596`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-9a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-9a/)** — `2026-11-01` | `10 Pages`
+- `[`US-HI-DLNR-40595`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-8a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-8a/)** — `2026-11-01` | `4 Pages`
+- `[`US-HI-DLNR-40594`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-6a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-6a/)** — `2026-11-01` | `11 Pages`
+- `[`US-HI-DLNR-40593`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-5a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-5a/)** — `2026-11-01` | `5 Pages`
+- `[`US-HI-DLNR-40592`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-4a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-4a/)** — `2026-11-01` | `12 Pages`
+- `[`US-HI-DLNR-40582`]` **[D-4T-11-09-26](https://www.indexdata.org/d-4t-11-09-26/)** — `2026-11-01` | `6 Pages`
+- `[`US-HI-DLNR-40581`]` **[D-6T-11-09-26](https://www.indexdata.org/d-6t-11-09-26/)** — `2026-11-01` | `12 Pages`
+- `[`US-HI-DLNR-40580`]` **[D-9T-11-09-26](https://www.indexdata.org/d-9t-11-09-26/)** — `2026-11-01` | `6 Pages`
+- `[`US-HI-DLNR-40578`]` **[C-1T-11-09-26](https://www.indexdata.org/c-1t-11-09-26/)** — `2026-11-01` | `2 Pages`
+- `[`US-HI-DLNR-40577`]` **[D-3T-11-09-26](https://www.indexdata.org/d-3t-11-09-26/)** — `2026-11-01` | `2 Pages`
+- `[`US-HI-DLNR-40552`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-9](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-9/)** — `2026-11-01` | `10 Pages`
+- `[`US-HI-DLNR-40551`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-8](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-8/)** — `2026-11-01` | `4 Pages`
+- `[`US-HI-DLNR-40550`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-6](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-6/)** — `2026-11-01` | `11 Pages`
+- `[`US-HI-DLNR-40549`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-5](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-5/)** — `2026-11-01` | `5 Pages`
+- `[`US-HI-DLNR-40548`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-4](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-4/)** — `2026-11-01` | `12 Pages`
+- `[`US-HI-DLNR-40547`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-3](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-3/)** — `2026-11-01` | `6 Pages`
+- `[`US-HI-DLNR-40525`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — A-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-a-1/)** — `2026-11-01` | `8 Pages`
+- `[`US-HI-DLNR-40521`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — L-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-l-1/)** — `2026-11-01` | `76 Pages`
+- `[`US-HI-DLNR-40520`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-2/)** — `2026-11-01` | `25 Pages`
+- `[`US-HI-DLNR-40519`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-1/)** — `2026-11-01` | `28 Pages`
+- `[`US-HI-DLNR-40518`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-3](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-3/)** — `2026-11-01` | `41 Pages`
+- `[`US-HI-DLNR-40517`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — J-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-j-2/)** — `2026-11-01` | `6 Pages`
+
 ### [National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 
@@ -1237,35 +1267,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`US-NASA-NTRS-20250006532`]` **[Experimental Protocol for Phase 1 of the APARC QUOCA (QUasibiennial oscillation and Ozone Chemistry interactions in the Atmosphere) Working Group](https://www.indexdata.org/experimental-protocol-for-phase-1-of-the-aparc-quoca-quasibiennial-oscillation-and-ozone-chemistry-interactions-in-the-atmosphere-working-group/)** — `2026-11-01` | `36 Pages`
 - `[`US-NASA-NTRS-20250006500`]` **[The Tipping Points Modelling Intercomparison Project (TIPMIP): Assessing Tipping Point Risks in the Earth System](https://www.indexdata.org/the-tipping-points-modelling-intercomparison-project-tipmip-assessing-tipping-point-risks-in-the-earth-system/)** — `2026-11-01` | `52 Pages`
 - `[`US-NASA-NTRS-20250006457`]` **[A Fire-Driven Shift in Canadian Air Quality Concerns Mirrors Trends in the US](https://www.indexdata.org/a-fire-driven-shift-in-canadian-air-quality-concerns-mirrors-trends-in-the-us/)** — `2026-11-01` | `29 Pages`
-
-### [State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
-
-- `[`US-HI-DLNR-40624`]` **[D-6T-11-10-26](https://www.indexdata.org/d-6t-11-10-26/)** — `2026-11-01` | `65 Pages`
-- `[`US-HI-DLNR-40622`]` **[Agenda-261113a](https://www.indexdata.org/agenda-261113a/)** — `2026-11-01` | `8 Pages`
-- `[`US-HI-DLNR-40597`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-10a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-10a/)** — `2026-11-01` | `5 Pages`
-- `[`US-HI-DLNR-40596`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-9a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-9a/)** — `2026-11-01` | `10 Pages`
-- `[`US-HI-DLNR-40595`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-8a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-8a/)** — `2026-11-01` | `4 Pages`
-- `[`US-HI-DLNR-40594`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-6a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-6a/)** — `2026-11-01` | `11 Pages`
-- `[`US-HI-DLNR-40593`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-5a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-5a/)** — `2026-11-01` | `5 Pages`
-- `[`US-HI-DLNR-40592`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-4a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-4a/)** — `2026-11-01` | `12 Pages`
-- `[`US-HI-DLNR-40582`]` **[D-4T-11-09-26](https://www.indexdata.org/d-4t-11-09-26/)** — `2026-11-01` | `6 Pages`
-- `[`US-HI-DLNR-40581`]` **[D-6T-11-09-26](https://www.indexdata.org/d-6t-11-09-26/)** — `2026-11-01` | `12 Pages`
-- `[`US-HI-DLNR-40580`]` **[D-9T-11-09-26](https://www.indexdata.org/d-9t-11-09-26/)** — `2026-11-01` | `6 Pages`
-- `[`US-HI-DLNR-40578`]` **[C-1T-11-09-26](https://www.indexdata.org/c-1t-11-09-26/)** — `2026-11-01` | `2 Pages`
-- `[`US-HI-DLNR-40577`]` **[D-3T-11-09-26](https://www.indexdata.org/d-3t-11-09-26/)** — `2026-11-01` | `2 Pages`
-- `[`US-HI-DLNR-40552`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-9](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-9/)** — `2026-11-01` | `10 Pages`
-- `[`US-HI-DLNR-40551`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-8](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-8/)** — `2026-11-01` | `4 Pages`
-- `[`US-HI-DLNR-40550`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-6](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-6/)** — `2026-11-01` | `11 Pages`
-- `[`US-HI-DLNR-40549`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-5](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-5/)** — `2026-11-01` | `5 Pages`
-- `[`US-HI-DLNR-40548`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-4](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-4/)** — `2026-11-01` | `12 Pages`
-- `[`US-HI-DLNR-40547`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-3](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-3/)** — `2026-11-01` | `6 Pages`
-- `[`US-HI-DLNR-40525`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — A-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-a-1/)** — `2026-11-01` | `8 Pages`
-- `[`US-HI-DLNR-40521`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — L-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-l-1/)** — `2026-11-01` | `76 Pages`
-- `[`US-HI-DLNR-40520`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-2/)** — `2026-11-01` | `25 Pages`
-- `[`US-HI-DLNR-40519`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-1/)** — `2026-11-01` | `28 Pages`
-- `[`US-HI-DLNR-40518`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-3](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-3/)** — `2026-11-01` | `41 Pages`
-- `[`US-HI-DLNR-40517`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — J-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-j-2/)** — `2026-11-01` | `6 Pages`
 
 ### [Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration-faa/](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
@@ -2126,11 +2127,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-service-agency/](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 
 - `[`2026-18164`]` **[Driving Efficiency in Farm Loan Delivery](https://www.indexdata.org/driving-efficiency-in-farm-loan-delivery/)** — `2026-09-04` | `35 Pages`
-
-### [Federal Contract Compliance Programs Office](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/feed/)
-
-- `[`2026-17757`]` **[Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended; Correction](https://www.indexdata.org/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act-of-1974-as-amended-correction/)** — `2026-08-31` | `2 Pages`
 
 ### [Federal Mediation and Conciliation Service](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/) | [RSS Feed](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/feed/)

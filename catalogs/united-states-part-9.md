@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,273` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,275` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 01:53 UTC`
+**Last Automated Sync:** `2026-11-12 02:54 UTC`
 
 ---
 
@@ -87,9 +87,9 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,273)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,275)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -595,7 +595,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-22352`]` **[Airworthiness Directives; Various Airplanes](https://www.indexdata.org/airworthiness-directives-various-airplanes-6/)** — `2023-10-10` | `3 Pages`
 - `[`2023-22325`]` **[Establishment of Class E Airspace; Lajitas, TX](https://www.indexdata.org/establishment-of-class-e-airspace-lajitas-tx-2/)** — `2023-10-10` | `2 Pages`
 - `[`2023-22259`]` **[Airworthiness Directives; FS 2001 Corp, FS 2002 Corporation, FS 2003 Corporation, Piper, and Piper Aircraft, Inc. Airplanes](https://www.indexdata.org/airworthiness-directives-fs-2001-corp-fs-2002-corporation-fs-2003-corporation-piper-and-piper-aircraft-inc-airplanes-3/)** — `2023-10-06` | `3 Pages`
-- `[`2023-22174`]` **[Airworthiness Directives; International Aero Engines, LLC Engines](https://www.indexdata.org/airworthiness-directives-international-aero-engines-llc-engines-10/)** — `2023-10-05` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -868,6 +867,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-03247`]` **[Magnuson-Stevens Act Provisions; Prohibition of Commercial Fishing in the Northeast Canyons and Seamounts Marine National Monument](https://www.indexdata.org/magnuson-stevens-act-provisions-prohibition-of-commercial-fishing-in-the-northeast-canyons-and-seamounts-marine-national-monument/)** — `2024-02-16` | `5 Pages`
 - `[`2024-03013`]` **[List of Fisheries for 2024](https://www.indexdata.org/list-of-fisheries-for-2024/)** — `2024-02-16` | `26 Pages`
 - `[`2024-02966`]` **[Endangered and Threatened Wildlife and Plants: Listing the Queen Conch as Threatened Under the Endangered Species Act (ESA)](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-listing-the-queen-conch-as-threatened-under-the-endangered-species-act-esa/)** — `2024-02-14` | `19 Pages`
 - `[`2024-01363`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Empire Wind Project, Offshore New York](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-empire-wind-project-offshore-new-york/)** — `2024-02-14` | `90 Pages`
@@ -1556,6 +1556,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2023-23665`]` **[Section 108 Loan Guarantee Program: Announcement of Fee To Cover Credit Subsidy Costs for FY 2024](https://www.indexdata.org/section-108-loan-guarantee-program-announcement-of-fee-to-cover-credit-subsidy-costs-for-fy-2024/)** — `2023-10-26` | `3 Pages`
 - `[`2023-23332`]` **[Modernizing the Delivery of Housing Counseling Services](https://www.indexdata.org/modernizing-the-delivery-of-housing-counseling-services-2/)** — `2023-10-25` | `3 Pages`
 
+### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
+
+- `[`2024-03255`]` **[North Korea Sanctions Regulations](https://www.indexdata.org/north-korea-sanctions-regulations/)** — `2024-02-16` | `4 Pages`
+- `[`2024-00879`]` **[Publication of Venezuela Sanctions Regulations Web General License 45A](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-license-45a/)** — `2024-01-18` | `2 Pages`
+- `[`2024-00734`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 81, 82, 83, 84, and 85](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-81-82-83-84-and-85/)** — `2024-01-17` | `3 Pages`
+- `[`2024-00594`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-7/)** — `2024-01-12` | `6 Pages`
+- `[`2023-27693`]` **[Publication of Burma Sanctions Regulations Web General Licenses 3 and 4](https://www.indexdata.org/publication-of-burma-sanctions-regulations-web-general-licenses-3-and-4/)** — `2023-12-19` | `2 Pages`
+- `[`2023-27692`]` **[Publication of Syria-Related Sanctions Regulations Web General Licenses 1, 2, and 3](https://www.indexdata.org/publication-of-syria-related-sanctions-regulations-web-general-licenses-1-2-and-3/)** — `2023-12-19` | `2 Pages`
+- `[`2023-25642`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 13G, 74, 75, and 76.](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-13g-74-75-and-76/)** — `2023-11-21` | `3 Pages`
+- `[`2023-24831`]` **[Publication of Venezuela Sanctions Regulations Web General Licenses 3I, 5M, 9H, 43, 44, and 45](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-licenses-3i-5m-9h-43-44-and-45/)** — `2023-11-08` | `4 Pages`
+- `[`2023-23918`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General License 73](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-license-73/)** — `2023-11-07` | `2 Pages`
+- `[`2023-24332`]` **[Publication of Nicaragua Sanctions Regulations Web General Licenses 1, 2, and 2A](https://www.indexdata.org/publication-of-nicaragua-sanctions-regulations-web-general-licenses-1-2-and-2a/)** — `2023-11-03` | `2 Pages`
+
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 
@@ -1595,19 +1609,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mo
 - `[`2023-24448`]` **[Incorporation by Reference; North American Standard Out-of-Service Criteria; Hazardous Materials Safety Permits](https://www.indexdata.org/incorporation-by-reference-north-american-standard-out-of-service-criteria-hazardous-materials-safety-permits-3/)** — `2023-11-08` | `5 Pages`
 - `[`2023-23303`]` **[Safety Fitness Determinations](https://www.indexdata.org/safety-fitness-determinations-2/)** — `2023-10-23` | `2 Pages`
 - `[`2023-22538`]` **[Clarification to the Applicability of Emergency Exemptions](https://www.indexdata.org/clarification-to-the-applicability-of-emergency-exemptions/)** — `2023-10-13` | `13 Pages`
-
-### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
-
-- `[`2024-00879`]` **[Publication of Venezuela Sanctions Regulations Web General License 45A](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-license-45a/)** — `2024-01-18` | `2 Pages`
-- `[`2024-00734`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 81, 82, 83, 84, and 85](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-81-82-83-84-and-85/)** — `2024-01-17` | `3 Pages`
-- `[`2024-00594`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-7/)** — `2024-01-12` | `6 Pages`
-- `[`2023-27693`]` **[Publication of Burma Sanctions Regulations Web General Licenses 3 and 4](https://www.indexdata.org/publication-of-burma-sanctions-regulations-web-general-licenses-3-and-4/)** — `2023-12-19` | `2 Pages`
-- `[`2023-27692`]` **[Publication of Syria-Related Sanctions Regulations Web General Licenses 1, 2, and 3](https://www.indexdata.org/publication-of-syria-related-sanctions-regulations-web-general-licenses-1-2-and-3/)** — `2023-12-19` | `2 Pages`
-- `[`2023-25642`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 13G, 74, 75, and 76.](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-13g-74-75-and-76/)** — `2023-11-21` | `3 Pages`
-- `[`2023-24831`]` **[Publication of Venezuela Sanctions Regulations Web General Licenses 3I, 5M, 9H, 43, 44, and 45](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-licenses-3i-5m-9h-43-44-and-45/)** — `2023-11-08` | `4 Pages`
-- `[`2023-23918`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General License 73](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-license-73/)** — `2023-11-07` | `2 Pages`
-- `[`2023-24332`]` **[Publication of Nicaragua Sanctions Regulations Web General Licenses 1, 2, and 2A](https://www.indexdata.org/publication-of-nicaragua-sanctions-regulations-web-general-licenses-1-2-and-2a/)** — `2023-11-03` | `2 Pages`
 
 ### [State Department](https://www.indexdata.org/united-states/state-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
@@ -1730,15 +1731,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mi
 - `[`2023-24272`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-9/)** — `2023-11-03` | `3 Pages`
 - `[`2023-23034`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-14/)** — `2023-10-23` | `3 Pages`
 
-### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-
-- `[`2023-28421`]` **[Determination of Royalty Rates and Terms for Making Ephemeral Copies of Sound Recordings for Transmission to Business Establishments (Business Establishments IV)](https://www.indexdata.org/determination-of-royalty-rates-and-terms-for-making-ephemeral-copies-of-sound-recordings-for-transmission-to-business-establishments-business-establishments-iv/)** — `2024-01-03` | `3 Pages`
-- `[`2023-28075`]` **[Cost of Living Adjustment to Royalty Rates and Terms for Making and Distributing Phonorecords; Correction](https://www.indexdata.org/cost-of-living-adjustment-to-royalty-rates-and-terms-for-making-and-distributing-phonorecords-correction/)** — `2023-12-21` | `2 Pages`
-- `[`2023-26223`]` **[Cost of Living Adjustment to Public Broadcasters Compulsory License Royalty Rate](https://www.indexdata.org/cost-of-living-adjustment-to-public-broadcasters-compulsory-license-royalty-rate-3/)** — `2023-11-30` | `2 Pages`
-- `[`2023-26221`]` **[Cost of Living Adjustment to Royalty Rates for Webcaster Statutory License](https://www.indexdata.org/cost-of-living-adjustment-to-royalty-rates-for-webcaster-statutory-license/)** — `2023-11-30` | `2 Pages`
-- `[`2023-22179`]` **[Determination of Adjustment to Administrative Assessment to Fund Mechanical Licensing Collective](https://www.indexdata.org/determination-of-adjustment-to-administrative-assessment-to-fund-mechanical-licensing-collective/)** — `2023-10-05` | `2 Pages`
-
 ### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 
@@ -1827,6 +1819,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and
 - `[`2023-27034`]` **[Citrus Canker; Designating Alabama a Commercial Citrus-Producing Area](https://www.indexdata.org/citrus-canker-designating-alabama-a-commercial-citrus-producing-area/)** — `2023-12-08` | `2 Pages`
 - `[`2023-24782`]` **[Importation of Fresh Beef From Paraguay](https://www.indexdata.org/importation-of-fresh-beef-from-paraguay/)** — `2023-11-14` | `6 Pages`
 - `[`2023-23938`]` **[Horse Protection; Licensing of Designated Qualified Persons and Other Amendments; Withdrawal](https://www.indexdata.org/horse-protection-licensing-of-designated-qualified-persons-and-other-amendments-withdrawal/)** — `2023-10-31` | `6 Pages`
+
+### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
+
+- `[`2023-28421`]` **[Determination of Royalty Rates and Terms for Making Ephemeral Copies of Sound Recordings for Transmission to Business Establishments (Business Establishments IV)](https://www.indexdata.org/determination-of-royalty-rates-and-terms-for-making-ephemeral-copies-of-sound-recordings-for-transmission-to-business-establishments-business-establishments-iv/)** — `2024-01-03` | `3 Pages`
+- `[`2023-28075`]` **[Cost of Living Adjustment to Royalty Rates and Terms for Making and Distributing Phonorecords; Correction](https://www.indexdata.org/cost-of-living-adjustment-to-royalty-rates-and-terms-for-making-and-distributing-phonorecords-correction/)** — `2023-12-21` | `2 Pages`
+- `[`2023-26223`]` **[Cost of Living Adjustment to Public Broadcasters Compulsory License Royalty Rate](https://www.indexdata.org/cost-of-living-adjustment-to-public-broadcasters-compulsory-license-royalty-rate-3/)** — `2023-11-30` | `2 Pages`
+- `[`2023-26221`]` **[Cost of Living Adjustment to Royalty Rates for Webcaster Statutory License](https://www.indexdata.org/cost-of-living-adjustment-to-royalty-rates-for-webcaster-statutory-license/)** — `2023-11-30` | `2 Pages`
 
 ### [Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/corporation-for-national-and-community-service/](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,273` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,275` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 01:53 UTC`
+**Last Automated Sync:** `2026-11-12 02:54 UTC`
 
 ---
 
@@ -87,9 +87,9 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
@@ -248,11 +248,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,273)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,275)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-24233`]` **[Airworthiness Directives; General Atomics AeroTec Systems GmbH (Type Certificate Previously Held by RUAG Aerospace Services GmbH) Airplanes](https://www.indexdata.org/airworthiness-directives-general-atomics-aerotec-systems-gmbh-type-certificate-previously-held-by-ruag-aerospace-services-gmbh-airplanes/)** — `2026-01-05` | `3 Pages`
 - `[`2025-24218`]` **[Establishment of United States Area Navigation (RNAV) Routes Q-190 and T-497, and Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-1, V-70, and V-194; Eastern United States](https://www.indexdata.org/establishment-of-united-states-area-navigation-rnav-routes-q-190-and-t-497-and-amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-v-1-v-70-and-v-194-eastern-un-2/)** — `2026-01-02` | `3 Pages`
 - `[`2025-24182`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-64/)** — `2026-01-02` | `3 Pages`
 - `[`2025-24181`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-helicopters-3/)** — `2026-01-02` | `4 Pages`
@@ -875,8 +876,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-13598`]` **[Prevention of Significant Deterioration (PSD) and Nonattainment New Source Review (NNSR): Regulations Related To Project Emissions Accounting; Withdrawal of Proposed Rule](https://www.indexdata.org/prevention-of-significant-deterioration-psd-and-nonattainment-new-source-review-nnsr-regulations-related-to-project-emissions-accounting-withdrawal-of-proposed-rule/)** — `2025-07-21` | `3 Pages`
 - `[`2025-13363`]` **[Significant New Use Rules on Certain Chemical Substances (24-3.5e)](https://www.indexdata.org/significant-new-use-rules-on-certain-chemical-substances-24-3-5e/)** — `2025-07-17` | `17 Pages`
 - `[`2025-13355`]` **[Cypermethrin; Pesticide Tolerances](https://www.indexdata.org/cypermethrin-pesticide-tolerances-2/)** — `2025-07-17` | `7 Pages`
-- `[`2025-13344`]` **[Air Plan Approval; Ohio; Second Maintenance Plan for the Ohio Portion of the Campbell-Clermont, KY-OH SO2 Maintenance Area](https://www.indexdata.org/air-plan-approval-ohio-second-maintenance-plan-for-the-ohio-portion-of-the-campbell-clermont-ky-oh-so2-maintenance-area/)** — `2025-07-16` | `6 Pages`
-- `[`2025-13342`]` **[Air Plan Partial Approval and Partial Disapproval; Colorado; Regional Haze Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-colorado-regional-haze-plan-for-the-second-implementation-period/)** — `2025-07-16` | `20 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1798,6 +1797,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2025-20345`]` **[Section 108 Loan Guarantee Program: Announcement of Fee To Cover Credit Subsidy Costs for FY 2026](https://www.indexdata.org/section-108-loan-guarantee-program-announcement-of-fee-to-cover-credit-subsidy-costs-for-fy-2026/)** — `2025-11-19` | `3 Pages`
 - `[`2025-16979`]` **[Revising Residency Requirements for the Section 184 Indian Housing Loan Guarantee Program](https://www.indexdata.org/revising-residency-requirements-for-the-section-184-indian-housing-loan-guarantee-program/)** — `2025-09-04` | `3 Pages`
 
+### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
+
+- `[`2025-24232`]` **[Small Business Investment Company (SBIC) Regulatory Amendments](https://www.indexdata.org/small-business-investment-company-sbic-regulatory-amendments/)** — `2026-01-02` | `9 Pages`
+- `[`2025-22055`]` **[Small Business Investment Company (SBIC) Accrual Regulatory Amendments](https://www.indexdata.org/small-business-investment-company-sbic-accrual-regulatory-amendments/)** — `2025-12-05` | `3 Pages`
+- `[`2025-18807`]` **[Tribal Consultation for SBA's Office of Manufacturing and Trade and Other Small Business Programs and Services Offered by the Agency, With a Focus on SBA's Ongoing Manufacturing, Onshoring and Export Initiatives To Encourage Small Businesses Going Global](https://www.indexdata.org/tribal-consultation-for-sbas-office-of-manufacturing-and-trade-and-other-small-business-programs-and-services-offered-by-the-agency-with-a-focus-on-sbas-ongoing-manufacturing-onshoring-and-expor/)** — `2025-09-29` | `2 Pages`
+- `[`2025-16142`]` **[Small Business Size Standards: Monetary-Based Industry Size Standards](https://www.indexdata.org/small-business-size-standards-monetary-based-industry-size-standards/)** — `2025-08-22` | `110 Pages`
+- `[`2025-15704`]` **[Tribal Consultation for SBA's Office of Capital Access and Access to All Agency Financial Assistance, Contracting, Business Counseling and Technical Assistance Programs, Identifying Issues and Best Practices](https://www.indexdata.org/tribal-consultation-for-sbas-office-of-capital-access-and-access-to-all-agency-financial-assistance-contracting-business-counseling-and-technical-assistance-programs-identifying-issues-and-best-p/)** — `2025-08-18` | `2 Pages`
+
 ### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 
@@ -1853,14 +1861,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/safety-and
 - `[`2025-17607`]` **[Oil and Gas and Sulfur Operations on the Outer Continental Shelf-Civil Penalty Inflation Adjustment](https://www.indexdata.org/oil-and-gas-and-sulfur-operations-on-the-outer-continental-shelf-civil-penalty-inflation-adjustment/)** — `2025-09-12` | `3 Pages`
 - `[`2025-15327`]` **[Offshore Downhole Commingling Regulatory Updates](https://www.indexdata.org/offshore-downhole-commingling-regulatory-updates-2/)** — `2025-08-13` | `4 Pages`
 - `[`2025-14618`]` **[Remove Regulations for Sulphur Operations](https://www.indexdata.org/remove-regulations-for-sulphur-operations/)** — `2025-08-01` | `4 Pages`
-
-### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
-
-- `[`2025-22055`]` **[Small Business Investment Company (SBIC) Accrual Regulatory Amendments](https://www.indexdata.org/small-business-investment-company-sbic-accrual-regulatory-amendments/)** — `2025-12-05` | `3 Pages`
-- `[`2025-18807`]` **[Tribal Consultation for SBA's Office of Manufacturing and Trade and Other Small Business Programs and Services Offered by the Agency, With a Focus on SBA's Ongoing Manufacturing, Onshoring and Export Initiatives To Encourage Small Businesses Going Global](https://www.indexdata.org/tribal-consultation-for-sbas-office-of-manufacturing-and-trade-and-other-small-business-programs-and-services-offered-by-the-agency-with-a-focus-on-sbas-ongoing-manufacturing-onshoring-and-expor/)** — `2025-09-29` | `2 Pages`
-- `[`2025-16142`]` **[Small Business Size Standards: Monetary-Based Industry Size Standards](https://www.indexdata.org/small-business-size-standards-monetary-based-industry-size-standards/)** — `2025-08-22` | `110 Pages`
-- `[`2025-15704`]` **[Tribal Consultation for SBA's Office of Capital Access and Access to All Agency Financial Assistance, Contracting, Business Counseling and Technical Assistance Programs, Identifying Issues and Best Practices](https://www.indexdata.org/tribal-consultation-for-sbas-office-of-capital-access-and-access-to-all-agency-financial-assistance-contracting-business-counseling-and-technical-assistance-programs-identifying-issues-and-best-p/)** — `2025-08-18` | `2 Pages`
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
