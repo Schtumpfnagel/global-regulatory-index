@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,275` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,279` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 04:27 UTC`
+**Last Automated Sync:** `2026-11-12 05:34 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,275)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,279)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-03081`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-149/)** — `2025-02-26` | `3 Pages`
 - `[`2025-03013`]` **[Airworthiness Directives; Safran Helicopter Engines, S.A. (Type Certificate Previously Held by Turbomeca, S.A.) Engines](https://www.indexdata.org/airworthiness-directives-safran-helicopter-engines-s-a-type-certificate-previously-held-by-turbomeca-s-a-engines-7/)** — `2025-02-25` | `3 Pages`
 - `[`2025-03012`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-139/)** — `2025-02-25` | `4 Pages`
 - `[`2025-03010`]` **[Airworthiness Directives; Austro Engine GmbH Engines](https://www.indexdata.org/airworthiness-directives-austro-engine-gmbh-engines/)** — `2025-02-25` | `4 Pages`
@@ -607,6 +608,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-03001`]` **[Cyprodinil; Pesticide Tolerances](https://www.indexdata.org/cyprodinil-pesticide-tolerances/)** — `2025-02-26` | `6 Pages`
+- `[`2025-02974`]` **[West Virginia Underground Injection Control (UIC) Program; Class VI Primacy](https://www.indexdata.org/west-virginia-underground-injection-control-uic-program-class-vi-primacy/)** — `2025-02-26` | `7 Pages`
 - `[`2025-03000`]` **[Fludioxonil; Pesticide Tolerances](https://www.indexdata.org/fludioxonil-pesticide-tolerances/)** — `2025-02-25` | `4 Pages`
 - `[`2025-02999`]` **[Inactivated Burkholderia Rinojensis Strain A396 Cells and Spent Fermentation Media; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/inactivated-burkholderia-rinojensis-strain-a396-cells-and-spent-fermentation-media-exemption-from-the-requirement-of-a-tolerance/)** — `2025-02-25` | `3 Pages`
 - `[`2025-02998`]` **[Beauveria Bassiana Strain BW149; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/beauveria-bassiana-strain-bw149-exemption-from-the-requirement-of-a-tolerance/)** — `2025-02-25` | `3 Pages`
@@ -820,8 +823,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-24281`]` **[Prevention of Significant Deterioration (PSD): Paragraph Designation Corrections](https://www.indexdata.org/prevention-of-significant-deterioration-psd-paragraph-designation-corrections/)** — `2024-10-22` | `3 Pages`
 - `[`2024-24211`]` **[Air Plan Approval; WA; Excess Emissions, Startup, Shutdown, and Malfunction Revisions, Energy Facility Site Evaluation Council](https://www.indexdata.org/air-plan-approval-wa-excess-emissions-startup-shutdown-and-malfunction-revisions-energy-facility-site-evaluation-council-2/)** — `2024-10-22` | `6 Pages`
 - `[`2024-24196`]` **[Approval and Promulgation of Air Quality Implementation Plan; Delaware; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/approval-and-promulgation-of-air-quality-implementation-plan-delaware-regional-haze-state-implementation-plan-for-the-second-implementation-period/)** — `2024-10-22` | `4 Pages`
-- `[`2024-24223`]` **[Air Quality Plans; California; San Diego County Air Pollution Control District; Permit Program](https://www.indexdata.org/air-quality-plans-california-san-diego-county-air-pollution-control-district-permit-program/)** — `2024-10-21` | `2 Pages`
-- `[`2024-24219`]` **[Air Plan Approval; California; South Coast Air Quality Management District](https://www.indexdata.org/air-plan-approval-california-south-coast-air-quality-management-district-3/)** — `2024-10-21` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1116,39 +1117,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2024-24908`]` **[Rules and Regulations Implementing the Telephone Consumer Protection Act of 1991](https://www.indexdata.org/rules-and-regulations-implementing-the-telephone-consumer-protection-act-of-1991/)** — `2024-11-06` | `2 Pages`
 - `[`2024-25531`]` **[Supporting Survivors of Domestic and Sexual Violence; Lifeline and Link Up Reform Modernization](https://www.indexdata.org/supporting-survivors-of-domestic-and-sexual-violence-lifeline-and-link-up-reform-modernization/)** — `2024-11-04` | `2 Pages`
 
-### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
-
-- `[`2025-02851`]` **[Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-walk-in-coolers-and-walk-in-freezers-3/)** — `2025-02-20` | `2 Pages`
-- `[`2025-02237`]` **[Energy Conservation Program: Test Procedures for Residential and Commercial Clothes Washers and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-test-procedures-for-residential-and-commercial-clothes-washers-and-consumer-clothes-dryers/)** — `2025-02-05` | `2 Pages`
-- `[`2025-02235`]` **[Energy Conservation Program: Test Procedure for General Service Lamps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-general-service-lamps/)** — `2025-02-05` | `2 Pages`
-- `[`2025-00987`]` **[Energy Conservation Program: Energy Conservation Standards and Test Procedures for Certain Consumer Products and Commercial Equipment; Corrections](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-and-test-procedures-for-certain-consumer-products-and-commercial-equipment-corrections/)** — `2025-01-21` | `12 Pages`
-- `[`2024-31214`]` **[Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and-refrigerator-freezers-2/)** — `2025-01-21` | `185 Pages`
-- `[`2025-01082`]` **[Energy Conservation Program: Commercial Warm Air Furnaces; Final Determination](https://www.indexdata.org/energy-conservation-program-commercial-warm-air-furnaces-final-determination/)** — `2025-01-17` | `7 Pages`
-- `[`2025-01002`]` **[Energy Conservation Program: Test Procedure for Compressors](https://www.indexdata.org/energy-conservation-program-test-procedure-for-compressors/)** — `2025-01-17` | `23 Pages`
-- `[`2025-00986`]` **[Energy Conservation Program: Test Procedures for Residential and Commercial Clothes Washers and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-test-procedures-for-residential-and-commercial-clothes-washers-and-consumer-clothes-dryers-2/)** — `2025-01-17` | `20 Pages`
-- `[`2025-00966`]` **[Energy Conservation Program: Energy Conservation Standards for Battery Chargers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-battery-chargers/)** — `2025-01-17` | `2 Pages`
-- `[`2025-00964`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Boilers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-boilers/)** — `2025-01-17` | `2 Pages`
-- `[`2025-00821`]` **[Energy Conservation Program: Test Procedure for General Service Lamps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-general-service-lamps-2/)** — `2025-01-16` | `17 Pages`
-- `[`2025-00816`]` **[Energy Conservation Program: Energy Conservation Standards for Portable Electric Spas](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-portable-electric-spas/)** — `2025-01-16` | `3 Pages`
-- `[`2024-30852`]` **[Energy Conservation Program: Test Procedure for Central Air Conditioners and Heat Pumps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-central-air-conditioners-and-heat-pumps-3/)** — `2025-01-07` | `62 Pages`
-- `[`2024-30636`]` **[Update and Relocation of the Department of Energy Technology Investment Agreement Regulations](https://www.indexdata.org/update-and-relocation-of-the-department-of-energy-technology-investment-agreement-regulations/)** — `2025-01-03` | `11 Pages`
-- `[`2024-30797`]` **[Energy Conservation Program: Energy Conservation Standards for Dishwashers, Residential Clothes Washers, and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dishwashers-residential-clothes-washers-and-consumer-clothes-dryers/)** — `2024-12-27` | `22 Pages`
-- `[`2024-30697`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-5/)** — `2024-12-27` | `6 Pages`
-- `[`2024-30369`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-gas-fired-instantaneous-water-heaters-2/)** — `2024-12-26` | `98 Pages`
-- `[`2024-30274`]` **[Energy Conservation Program: Commercial Warm Air Furnaces; Notification of Tentative Determination and Request for Comment](https://www.indexdata.org/energy-conservation-program-commercial-warm-air-furnaces-notification-of-tentative-determination-and-request-for-comment/)** — `2024-12-26` | `7 Pages`
-- `[`2024-28474`]` **[Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-walk-in-coolers-and-walk-in-freezers-4/)** — `2024-12-23` | `240 Pages`
-- `[`2024-29666`]` **[Privacy Act of 1974: Implementation of Exemptions](https://www.indexdata.org/privacy-act-of-1974-implementation-of-exemptions/)** — `2024-12-17` | `5 Pages`
-- `[`2024-29664`]` **[Privacy Act of 1974: Implementation of Exemptions](https://www.indexdata.org/privacy-act-of-1974-implementation-of-exemptions-2/)** — `2024-12-17` | `5 Pages`
-- `[`2024-29566`]` **[Energy Conservation Program for Consumer Products](https://www.indexdata.org/energy-conservation-program-for-consumer-products/)** — `2024-12-13` | `2 Pages`
-- `[`2024-29062`]` **[Mandatory Transmission and Distribution Planning Support Activities](https://www.indexdata.org/mandatory-transmission-and-distribution-planning-support-activities/)** — `2024-12-12` | `2 Pages`
-- `[`2024-26693`]` **[Energy Conservation Program: Test Procedure for General Service Lamps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-general-service-lamps-3/)** — `2024-11-25` | `14 Pages`
-- `[`2024-23817`]` **[Department of Energy Acquisition Regulation (DEAR)](https://www.indexdata.org/department-of-energy-acquisition-regulation-dear/)** — `2024-11-13` | `111 Pages`
-- `[`2024-25617`]` **[Energy Conservation Program: Energy Conservation Standards for Dishwashers, Residential Clothes Washers, and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dishwashers-residential-clothes-washers-and-consumer-clothes-dryers-2/)** — `2024-11-08` | `20 Pages`
-- `[`2024-25480`]` **[Energy Conservation Program: Test Procedures for Residential and Commercial Clothes Washers and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-test-procedures-for-residential-and-commercial-clothes-washers-and-consumer-clothes-dryers-3/)** — `2024-11-05` | `19 Pages`
-- `[`2024-24158`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products/)** — `2024-10-21` | `2 Pages`
-- `[`2024-24154`]` **[Energy Conservation Program: Energy Conservation Standards for Residential Clothes Washers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-residential-clothes-washers-2/)** — `2024-10-21` | `12 Pages`
-
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
 
@@ -1181,6 +1149,37 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 - `[`2024-25403`]` **[Procedures for Transportation Workplace Drug and Alcohol Testing Programs](https://www.indexdata.org/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-4/)** — `2024-11-05` | `7 Pages`
 - `[`2024-25035`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-15/)** — `2024-10-29` | `4 Pages`
 - `[`2024-23588`]` **[Periodic Revisions to Denied Boarding Compensation and Domestic Baggage Liability Limits](https://www.indexdata.org/periodic-revisions-to-denied-boarding-compensation-and-domestic-baggage-liability-limits-2/)** — `2024-10-24` | `5 Pages`
+
+### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
+
+- `[`2025-02851`]` **[Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-walk-in-coolers-and-walk-in-freezers-3/)** — `2025-02-20` | `2 Pages`
+- `[`2025-02237`]` **[Energy Conservation Program: Test Procedures for Residential and Commercial Clothes Washers and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-test-procedures-for-residential-and-commercial-clothes-washers-and-consumer-clothes-dryers/)** — `2025-02-05` | `2 Pages`
+- `[`2025-02235`]` **[Energy Conservation Program: Test Procedure for General Service Lamps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-general-service-lamps/)** — `2025-02-05` | `2 Pages`
+- `[`2025-00987`]` **[Energy Conservation Program: Energy Conservation Standards and Test Procedures for Certain Consumer Products and Commercial Equipment; Corrections](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-and-test-procedures-for-certain-consumer-products-and-commercial-equipment-corrections/)** — `2025-01-21` | `12 Pages`
+- `[`2024-31214`]` **[Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and-refrigerator-freezers-2/)** — `2025-01-21` | `185 Pages`
+- `[`2025-01082`]` **[Energy Conservation Program: Commercial Warm Air Furnaces; Final Determination](https://www.indexdata.org/energy-conservation-program-commercial-warm-air-furnaces-final-determination/)** — `2025-01-17` | `7 Pages`
+- `[`2025-01002`]` **[Energy Conservation Program: Test Procedure for Compressors](https://www.indexdata.org/energy-conservation-program-test-procedure-for-compressors/)** — `2025-01-17` | `23 Pages`
+- `[`2025-00986`]` **[Energy Conservation Program: Test Procedures for Residential and Commercial Clothes Washers and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-test-procedures-for-residential-and-commercial-clothes-washers-and-consumer-clothes-dryers-2/)** — `2025-01-17` | `20 Pages`
+- `[`2025-00966`]` **[Energy Conservation Program: Energy Conservation Standards for Battery Chargers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-battery-chargers/)** — `2025-01-17` | `2 Pages`
+- `[`2025-00964`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Boilers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-boilers/)** — `2025-01-17` | `2 Pages`
+- `[`2025-00821`]` **[Energy Conservation Program: Test Procedure for General Service Lamps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-general-service-lamps-2/)** — `2025-01-16` | `17 Pages`
+- `[`2025-00816`]` **[Energy Conservation Program: Energy Conservation Standards for Portable Electric Spas](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-portable-electric-spas/)** — `2025-01-16` | `3 Pages`
+- `[`2024-30852`]` **[Energy Conservation Program: Test Procedure for Central Air Conditioners and Heat Pumps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-central-air-conditioners-and-heat-pumps-3/)** — `2025-01-07` | `62 Pages`
+- `[`2024-30636`]` **[Update and Relocation of the Department of Energy Technology Investment Agreement Regulations](https://www.indexdata.org/update-and-relocation-of-the-department-of-energy-technology-investment-agreement-regulations/)** — `2025-01-03` | `11 Pages`
+- `[`2024-30797`]` **[Energy Conservation Program: Energy Conservation Standards for Dishwashers, Residential Clothes Washers, and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dishwashers-residential-clothes-washers-and-consumer-clothes-dryers/)** — `2024-12-27` | `22 Pages`
+- `[`2024-30697`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-5/)** — `2024-12-27` | `6 Pages`
+- `[`2024-30369`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-gas-fired-instantaneous-water-heaters-2/)** — `2024-12-26` | `98 Pages`
+- `[`2024-30274`]` **[Energy Conservation Program: Commercial Warm Air Furnaces; Notification of Tentative Determination and Request for Comment](https://www.indexdata.org/energy-conservation-program-commercial-warm-air-furnaces-notification-of-tentative-determination-and-request-for-comment/)** — `2024-12-26` | `7 Pages`
+- `[`2024-28474`]` **[Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-walk-in-coolers-and-walk-in-freezers-4/)** — `2024-12-23` | `240 Pages`
+- `[`2024-29666`]` **[Privacy Act of 1974: Implementation of Exemptions](https://www.indexdata.org/privacy-act-of-1974-implementation-of-exemptions/)** — `2024-12-17` | `5 Pages`
+- `[`2024-29664`]` **[Privacy Act of 1974: Implementation of Exemptions](https://www.indexdata.org/privacy-act-of-1974-implementation-of-exemptions-2/)** — `2024-12-17` | `5 Pages`
+- `[`2024-29566`]` **[Energy Conservation Program for Consumer Products](https://www.indexdata.org/energy-conservation-program-for-consumer-products/)** — `2024-12-13` | `2 Pages`
+- `[`2024-29062`]` **[Mandatory Transmission and Distribution Planning Support Activities](https://www.indexdata.org/mandatory-transmission-and-distribution-planning-support-activities/)** — `2024-12-12` | `2 Pages`
+- `[`2024-26693`]` **[Energy Conservation Program: Test Procedure for General Service Lamps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-general-service-lamps-3/)** — `2024-11-25` | `14 Pages`
+- `[`2024-23817`]` **[Department of Energy Acquisition Regulation (DEAR)](https://www.indexdata.org/department-of-energy-acquisition-regulation-dear/)** — `2024-11-13` | `111 Pages`
+- `[`2024-25617`]` **[Energy Conservation Program: Energy Conservation Standards for Dishwashers, Residential Clothes Washers, and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dishwashers-residential-clothes-washers-and-consumer-clothes-dryers-2/)** — `2024-11-08` | `20 Pages`
+- `[`2024-25480`]` **[Energy Conservation Program: Test Procedures for Residential and Commercial Clothes Washers and Consumer Clothes Dryers](https://www.indexdata.org/energy-conservation-program-test-procedures-for-residential-and-commercial-clothes-washers-and-consumer-clothes-dryers-3/)** — `2024-11-05` | `19 Pages`
 
 ### [Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
@@ -1823,6 +1822,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and
 - `[`2024-26644`]` **[Setting and Adjusting Trademark Fees During Fiscal Year 2025](https://www.indexdata.org/setting-and-adjusting-trademark-fees-during-fiscal-year-2025-2/)** — `2024-11-18` | `30 Pages`
 - `[`2024-24755`]` **[Changes in Post-Registration Audit Selection for Affidavits or Declarations of Use, Continued Use, or Excusable Nonuse in Trademark Cases](https://www.indexdata.org/changes-in-post-registration-audit-selection-for-affidavits-or-declarations-of-use-continued-use-or-excusable-nonuse-in-trademark-cases/)** — `2024-10-28` | `3 Pages`
 
+### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+
+- `[`2025-03042`]` **[Market Dominant Postal Products](https://www.indexdata.org/market-dominant-postal-products/)** — `2025-02-26` | `3 Pages`
+- `[`2025-00153`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-9/)** — `2025-01-21` | `2 Pages`
+- `[`2024-29090`]` **[Streamlined Negotiated Service Agreement Review and New Postal Product](https://www.indexdata.org/streamlined-negotiated-service-agreement-review-and-new-postal-product/)** — `2024-12-12` | `3 Pages`
+- `[`2024-27284`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-10/)** — `2024-11-22` | `3 Pages`
+- `[`2024-25401`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-11/)** — `2024-11-01` | `2 Pages`
+
 ### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 
@@ -1871,14 +1879,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/occupation
 - `[`2025-00539`]` **[Procedures for the Handling of Retaliation Complaints Under the Anti-Money Laundering Act of 2020 (AMLA)](https://www.indexdata.org/procedures-for-the-handling-of-retaliation-complaints-under-the-anti-money-laundering-act-of-2020-amla/)** — `2025-01-14` | `15 Pages`
 - `[`2024-29220`]` **[Personal Protective Equipment in Construction](https://www.indexdata.org/personal-protective-equipment-in-construction/)** — `2024-12-12` | `26 Pages`
 - `[`2024-27897`]` **[Heat Injury and Illness Prevention in Outdoor and Indoor Work Settings](https://www.indexdata.org/heat-injury-and-illness-prevention-in-outdoor-and-indoor-work-settings-2/)** — `2024-11-29` | `2 Pages`
-
-### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-
-- `[`2025-00153`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-9/)** — `2025-01-21` | `2 Pages`
-- `[`2024-29090`]` **[Streamlined Negotiated Service Agreement Review and New Postal Product](https://www.indexdata.org/streamlined-negotiated-service-agreement-review-and-new-postal-product/)** — `2024-12-12` | `3 Pages`
-- `[`2024-27284`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-10/)** — `2024-11-22` | `3 Pages`
-- `[`2024-25401`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-11/)** — `2024-11-01` | `2 Pages`
 
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)

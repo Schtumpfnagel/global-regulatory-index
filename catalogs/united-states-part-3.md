@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,275` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,279` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 04:27 UTC`
+**Last Automated Sync:** `2026-11-12 05:34 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,275)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,279)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-09488`]` **[Standard Instrument Approach Procedures and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-21/)** — `2026-05-13` | `2 Pages`
 - `[`2026-09487`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-22/)** — `2026-05-13` | `2 Pages`
 - `[`2026-09381`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-9/)** — `2026-05-12` | `4 Pages`
 - `[`2026-09225`]` **[Establishment of Canadian Area Navigation Route Q-838 and Revocation of Jet Route J-539 in the Vicinity of Glasgow, MT](https://www.indexdata.org/establishment-of-canadian-area-navigation-route-q-838-and-revocation-of-jet-route-j-539-in-the-vicinity-of-glasgow-mt/)** — `2026-05-08` | `3 Pages`
@@ -602,14 +603,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-00119`]` **[Airworthiness Directives; Gulfstream Aerospace LP Airplanes](https://www.indexdata.org/airworthiness-directives-gulfstream-aerospace-lp-airplanes-2/)** — `2026-01-07` | `3 Pages`
 - `[`2026-00117`]` **[Airworthiness Directives; De Havilland Aircraft of Canada Limited (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-de-havilland-aircraft-of-canada-limited-type-certificate-previously-held-by-bombardier-inc-airplanes-4/)** — `2026-01-07` | `4 Pages`
 - `[`2026-00051`]` **[Requirements for Interference-Tolerant Radio Altimeter Systems](https://www.indexdata.org/requirements-for-interference-tolerant-radio-altimeter-systems-2/)** — `2026-01-07` | `32 Pages`
-- `[`2025-24245`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-10/)** — `2026-01-05` | `3 Pages`
-- `[`2025-24242`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-78/)** — `2026-01-05` | `4 Pages`
-- `[`2025-24241`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-79/)** — `2026-01-05` | `3 Pages`
-- `[`2025-24240`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-11/)** — `2026-01-05` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-09490`]` **[Oxirane, 2-phenyl-, polymer With oxirane, mono(hydrogen 2-sulfobutanedioate), octyl ether, sodium salt (1:2) in Pesticide Formulations; Exemption From the Requirement for a Tolerance](https://www.indexdata.org/oxirane-2-phenyl-polymer-with-oxirane-monohydrogen-2-sulfobutanedioate-octyl-ether-sodium-salt-12-in-pesticide-formulations-exemption-from-the-requirement-for-a-tolerance/)** — `2026-05-13` | `5 Pages`
 - `[`2026-09179`]` **[Definition of Hazardous Waste Applicable to Corrective Action for Releases From Solid Waste Management Units; Withdrawal](https://www.indexdata.org/definition-of-hazardous-waste-applicable-to-corrective-action-for-releases-from-solid-waste-management-units-withdrawal/)** — `2026-05-08` | `3 Pages`
 - `[`2026-09146`]` **[Air Plan Approval; NC; Removal of the State's Vehicle Inspection and Maintenance Program](https://www.indexdata.org/air-plan-approval-nc-removal-of-the-states-vehicle-inspection-and-maintenance-program/)** — `2026-05-08` | `10 Pages`
 - `[`2026-09055`]` **[Air Quality Plan; California; San Diego County Air Pollution Control District; Landfill Flares](https://www.indexdata.org/air-quality-plan-california-san-diego-county-air-pollution-control-district-landfill-flares/)** — `2026-05-07` | `3 Pages`
@@ -911,6 +909,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2026-09492`]` **[Safety Zones; Fireworks Displays in the USCG East District](https://www.indexdata.org/safety-zones-fireworks-displays-in-the-uscg-east-district-2/)** — `2026-05-13` | `4 Pages`
+- `[`2026-09491`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-2/)** — `2026-05-13` | `2 Pages`
 - `[`2026-09391`]` **[Safety Zones; Fireworks Displays in the USCG East District; Philadelphia, PA](https://www.indexdata.org/safety-zones-fireworks-displays-in-the-uscg-east-district-philadelphia-pa/)** — `2026-05-12` | `2 Pages`
 - `[`2026-09377`]` **[Safety Zone; James River, Richmond, VA](https://www.indexdata.org/safety-zone-james-river-richmond-va-2/)** — `2026-05-12` | `3 Pages`
 - `[`2026-09375`]` **[Safety Zone; Seddon Channel, Tampa, FL](https://www.indexdata.org/safety-zone-seddon-channel-tampa-fl/)** — `2026-05-12` | `2 Pages`

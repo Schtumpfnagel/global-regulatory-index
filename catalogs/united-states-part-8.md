@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,275` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,279` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 04:27 UTC`
+**Last Automated Sync:** `2026-11-12 05:34 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,275)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,279)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-13334`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-217/)** — `2024-06-20` | `3 Pages`
+- `[`2024-13317`]` **[Establishment of Class E Airspace; Fort Yates, ND](https://www.indexdata.org/establishment-of-class-e-airspace-fort-yates-nd/)** — `2024-06-20` | `2 Pages`
+- `[`2024-13278`]` **[Airworthiness Directives; Embraer S.A. Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-airplanes-16/)** — `2024-06-20` | `4 Pages`
 - `[`2024-13348`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-159/)** — `2024-06-18` | `3 Pages`
 - `[`2024-13342`]` **[IFR Altitudes; Miscellaneous Amendments](https://www.indexdata.org/ifr-altitudes-miscellaneous-amendments-13/)** — `2024-06-18` | `9 Pages`
 - `[`2024-13313`]` **[Modification of Restricted Areas R-4201A and R-4201B; Camp Grayling, MI](https://www.indexdata.org/modification-of-restricted-areas-r-4201a-and-r-4201b-camp-grayling-mi/)** — `2024-06-18` | `2 Pages`
@@ -795,8 +798,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-02735`]` **[Fees for the Administration of the Toxic Substances Control Act (TSCA)](https://www.indexdata.org/fees-for-the-administration-of-the-toxic-substances-control-act-tsca/)** — `2024-02-21` | `19 Pages`
 - `[`2024-03349`]` **[Waste Emissions Charge for Petroleum and Natural Gas Systems; Extension of Comment Period](https://www.indexdata.org/waste-emissions-charge-for-petroleum-and-natural-gas-systems-extension-of-comment-period/)** — `2024-02-20` | `2 Pages`
 - `[`2024-03324`]` **[Approval and Promulgation of Plans for Designated Facilities; New Jersey; Delegation of Authority](https://www.indexdata.org/approval-and-promulgation-of-plans-for-designated-facilities-new-jersey-delegation-of-authority-2/)** — `2024-02-20` | `3 Pages`
-- `[`2024-03299`]` **[Approval of State Plans for Designated Facilities and Pollutants; MO; Approval and Promulgation of Implementation Plans; Control of Emissions From Existing Municipal Solid Waste Landfills](https://www.indexdata.org/approval-of-state-plans-for-designated-facilities-and-pollutants-mo-approval-and-promulgation-of-implementation-plans-control-of-emissions-from-existing-municipal-solid-waste-landfills-3/)** — `2024-02-16` | `3 Pages`
-- `[`2024-03295`]` **[Air Plan Approval; Iowa; State Implementation Plan and State Operating Permits Program](https://www.indexdata.org/air-plan-approval-iowa-state-implementation-plan-and-state-operating-permits-program-2/)** — `2024-02-16` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1421,25 +1422,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2024-04081`]` **[Rent Adjustments in the Mark-to-Market Program](https://www.indexdata.org/rent-adjustments-in-the-mark-to-market-program/)** — `2024-02-28` | `3 Pages`
 - `[`2024-03736`]` **[Adjustment of Civil Monetary Penalty Amounts for 2024](https://www.indexdata.org/adjustment-of-civil-monetary-penalty-amounts-for-2024/)** — `2024-02-23` | `4 Pages`
 
-### [Education Department](https://www.indexdata.org/united-states/education-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
-
-- `[`2024-12502`]` **[Postsecondary Student Success Grant](https://www.indexdata.org/postsecondary-student-success-grant-2/)** — `2024-06-07` | `7 Pages`
-- `[`2024-12445`]` **[Transitioning Gang-Involved Youth to Higher Education Program](https://www.indexdata.org/transitioning-gang-involved-youth-to-higher-education-program-2/)** — `2024-06-06` | `4 Pages`
-- `[`2024-11300`]` **[Improving Income Driven Repayment for the William D. Ford Federal Direct Loan Program and the Federal Family Education Loan (FFEL) Program; Correction](https://www.indexdata.org/improving-income-driven-repayment-for-the-william-d-ford-federal-direct-loan-program-and-the-federal-family-education-loan-ffel-program-correction-2/)** — `2024-05-29` | `2 Pages`
-- `[`2024-10870`]` **[Research and Development Infrastructure Grant](https://www.indexdata.org/research-and-development-infrastructure-grant-2/)** — `2024-05-17` | `6 Pages`
-- `[`2024-10733`]` **[Final Waiver and Extension of the Project Period for the Tribally Controlled Postsecondary Career and Technical Institutions Program](https://www.indexdata.org/final-waiver-and-extension-of-the-project-period-for-the-tribally-controlled-postsecondary-career-and-technical-institutions-program/)** — `2024-05-16` | `3 Pages`
-- `[`2024-09877`]` **[Comprehensive Centers Program](https://www.indexdata.org/comprehensive-centers-program/)** — `2024-05-13` | `23 Pages`
-- `[`2024-07915`]` **[Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance](https://www.indexdata.org/nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal-financial-assistance/)** — `2024-04-29` | `423 Pages`
-- `[`2024-07726`]` **[Student Debt Relief for the William D. Ford Federal Direct Loan Program (Direct Loans), the Federal Family Education Loan (FFEL) Program, the Federal Perkins Loan (Perkins) Program, and the Health Education Assistance Loan (HEAL) Program](https://www.indexdata.org/student-debt-relief-for-the-william-d-ford-federal-direct-loan-program-direct-loans-the-federal-family-education-loan-ffel-program-the-federal-perkins-loan-perkins-program-and-the-health-edu-2/)** — `2024-04-17` | `54 Pages`
-- `[`2024-07131`]` **[Augustus F. Hawkins Centers of Excellence Program](https://www.indexdata.org/augustus-f-hawkins-centers-of-excellence-program/)** — `2024-04-04` | `5 Pages`
-- `[`2024-06656`]` **[State Personnel Development Grants](https://www.indexdata.org/state-personnel-development-grants-2/)** — `2024-03-28` | `9 Pages`
-- `[`2024-05202`]` **[Final Priorities, Requirements, and Definitions-National Professional Development Program](https://www.indexdata.org/final-priorities-requirements-and-definitions-national-professional-development-program/)** — `2024-03-12` | `7 Pages`
-- `[`2024-04437`]` **[Proposed Priority and Requirements-Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate IDEA Part B Data](https://www.indexdata.org/proposed-priority-and-requirements-technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state-capacity-to-collect-report-analyze-and-use-accurate-idea-part/)** — `2024-03-04` | `7 Pages`
-- `[`2024-03631`]` **[Proposed Priorities and Requirements-Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate Early Childhood IDEA Data](https://www.indexdata.org/proposed-priorities-and-requirements-technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state-capacity-to-collect-report-analyze-and-use-accurate-early-ch/)** — `2024-02-22` | `9 Pages`
-- `[`2024-03149`]` **[National Resource Centers Program and Foreign Language and Area Studies Fellowships Program](https://www.indexdata.org/national-resource-centers-program-and-foreign-language-and-area-studies-fellowships-program-2/)** — `2024-02-22` | `30 Pages`
-- `[`2024-03267`]` **[Availability of Information to the Public; Correction](https://www.indexdata.org/availability-of-information-to-the-public-correction/)** — `2024-02-16` | `2 Pages`
-
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
 
@@ -1457,6 +1439,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-ac
 - `[`2024-06005`]` **[Defense Federal Acquisition Regulation Supplement: DoD Mentor-Protégé Program (DFARS Case 2023-D011)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-dod-mentor-protege-program-dfars-case-2023-d011/)** — `2024-03-26` | `4 Pages`
 - `[`2024-06004`]` **[Defense Federal Acquisition Regulation Supplement: Modification of Notification of Intent To Transport Supplies by Sea (DFARS Case 2020-D026)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-modification-of-notification-of-intent-to-transport-supplies-by-sea-dfars-case-2020-d026-2/)** — `2024-03-26` | `4 Pages`
 - `[`2024-06003`]` **[Defense Federal Acquisition Regulation Supplement: Replacement of Fluorinated Aqueous Film-Forming Foam (DFARS Case 2020-D011)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-replacement-of-fluorinated-aqueous-film-forming-foam-dfars-case-2020-d011/)** — `2024-03-26` | `3 Pages`
+
+### [Education Department](https://www.indexdata.org/united-states/education-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
+
+- `[`2024-12502`]` **[Postsecondary Student Success Grant](https://www.indexdata.org/postsecondary-student-success-grant-2/)** — `2024-06-07` | `7 Pages`
+- `[`2024-12445`]` **[Transitioning Gang-Involved Youth to Higher Education Program](https://www.indexdata.org/transitioning-gang-involved-youth-to-higher-education-program-2/)** — `2024-06-06` | `4 Pages`
+- `[`2024-11300`]` **[Improving Income Driven Repayment for the William D. Ford Federal Direct Loan Program and the Federal Family Education Loan (FFEL) Program; Correction](https://www.indexdata.org/improving-income-driven-repayment-for-the-william-d-ford-federal-direct-loan-program-and-the-federal-family-education-loan-ffel-program-correction-2/)** — `2024-05-29` | `2 Pages`
+- `[`2024-10870`]` **[Research and Development Infrastructure Grant](https://www.indexdata.org/research-and-development-infrastructure-grant-2/)** — `2024-05-17` | `6 Pages`
+- `[`2024-10733`]` **[Final Waiver and Extension of the Project Period for the Tribally Controlled Postsecondary Career and Technical Institutions Program](https://www.indexdata.org/final-waiver-and-extension-of-the-project-period-for-the-tribally-controlled-postsecondary-career-and-technical-institutions-program/)** — `2024-05-16` | `3 Pages`
+- `[`2024-09877`]` **[Comprehensive Centers Program](https://www.indexdata.org/comprehensive-centers-program/)** — `2024-05-13` | `23 Pages`
+- `[`2024-07915`]` **[Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance](https://www.indexdata.org/nondiscrimination-on-the-basis-of-sex-in-education-programs-or-activities-receiving-federal-financial-assistance/)** — `2024-04-29` | `423 Pages`
+- `[`2024-07726`]` **[Student Debt Relief for the William D. Ford Federal Direct Loan Program (Direct Loans), the Federal Family Education Loan (FFEL) Program, the Federal Perkins Loan (Perkins) Program, and the Health Education Assistance Loan (HEAL) Program](https://www.indexdata.org/student-debt-relief-for-the-william-d-ford-federal-direct-loan-program-direct-loans-the-federal-family-education-loan-ffel-program-the-federal-perkins-loan-perkins-program-and-the-health-edu-2/)** — `2024-04-17` | `54 Pages`
+- `[`2024-07131`]` **[Augustus F. Hawkins Centers of Excellence Program](https://www.indexdata.org/augustus-f-hawkins-centers-of-excellence-program/)** — `2024-04-04` | `5 Pages`
+- `[`2024-06656`]` **[State Personnel Development Grants](https://www.indexdata.org/state-personnel-development-grants-2/)** — `2024-03-28` | `9 Pages`
+- `[`2024-05202`]` **[Final Priorities, Requirements, and Definitions-National Professional Development Program](https://www.indexdata.org/final-priorities-requirements-and-definitions-national-professional-development-program/)** — `2024-03-12` | `7 Pages`
+- `[`2024-04437`]` **[Proposed Priority and Requirements-Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate IDEA Part B Data](https://www.indexdata.org/proposed-priority-and-requirements-technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state-capacity-to-collect-report-analyze-and-use-accurate-idea-part/)** — `2024-03-04` | `7 Pages`
+- `[`2024-03631`]` **[Proposed Priorities and Requirements-Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate Early Childhood IDEA Data](https://www.indexdata.org/proposed-priorities-and-requirements-technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state-capacity-to-collect-report-analyze-and-use-accurate-early-ch/)** — `2024-02-22` | `9 Pages`
+- `[`2024-03149`]` **[National Resource Centers Program and Foreign Language and Area Studies Fellowships Program](https://www.indexdata.org/national-resource-centers-program-and-foreign-language-and-area-studies-fellowships-program-2/)** — `2024-02-22` | `30 Pages`
 
 ### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
@@ -1849,14 +1849,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/occupation
 - `[`2024-06572`]` **[Worker Walkaround Representative Designation Process](https://www.indexdata.org/worker-walkaround-representative-designation-process/)** — `2024-04-01` | `44 Pages`
 - `[`2024-06610`]` **[Emergency Response Standard](https://www.indexdata.org/emergency-response-standard-3/)** — `2024-03-28` | `2 Pages`
 
-### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-
-- `[`2024-11566`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-15/)** — `2024-05-28` | `4 Pages`
-- `[`2024-11105`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-16/)** — `2024-05-22` | `3 Pages`
-- `[`2024-08715`]` **[Freedom of Information Act](https://www.indexdata.org/freedom-of-information-act-4/)** — `2024-04-25` | `8 Pages`
-- `[`2024-03270`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-17/)** — `2024-02-16` | `3 Pages`
-
 ### [Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/social-security-administration/](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)
 
@@ -1956,6 +1948,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-be
 - `[`2024-11819`]` **[Valuation Assumptions and Methods](https://www.indexdata.org/valuation-assumptions-and-methods/)** — `2024-06-06` | `19 Pages`
 - `[`2024-05249`]` **[Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits-13/)** — `2024-03-13` | `2 Pages`
 
+### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+
+- `[`2024-11566`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-15/)** — `2024-05-28` | `4 Pages`
+- `[`2024-11105`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-16/)** — `2024-05-22` | `3 Pages`
+- `[`2024-08715`]` **[Freedom of Information Act](https://www.indexdata.org/freedom-of-information-act-4/)** — `2024-04-25` | `8 Pages`
+
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
 
@@ -1980,6 +1979,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 
 - `[`2024-10162`]` **[Dairy Margin Coverage Production History Adjustment and Program Extension; Correction](https://www.indexdata.org/dairy-margin-coverage-production-history-adjustment-and-program-extension-correction/)** — `2024-05-09` | `2 Pages`
 - `[`2024-03991`]` **[Dairy Margin Coverage Production History Adjustment and Program Extension](https://www.indexdata.org/dairy-margin-coverage-production-history-adjustment-and-program-extension/)** — `2024-02-27` | `5 Pages`
+
+### [Delaware River Basin Commission](https://www.indexdata.org/united-states/delaware-river-basin-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/delaware-river-basin-commission/](https://www.indexdata.org/united-states/delaware-river-basin-commission/) | [RSS Feed](https://www.indexdata.org/united-states/delaware-river-basin-commission/feed/)
+
+- `[`2024-13308`]` **[Rules of Practice and Procedure](https://www.indexdata.org/rules-of-practice-and-procedure/)** — `2024-06-20` | `6 Pages`
+- `[`2024-11661`]` **[Regulatory Program Fees and Water Charges Rates](https://www.indexdata.org/regulatory-program-fees-and-water-charges-rates-3/)** — `2024-05-29` | `2 Pages`
 
 ### [Engineers Corps](https://www.indexdata.org/united-states/engineers-corps/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/engineers-corps/](https://www.indexdata.org/united-states/engineers-corps/) | [RSS Feed](https://www.indexdata.org/united-states/engineers-corps/feed/)
@@ -2077,11 +2082,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/corporatio
 Canonical Authority Archive: [https://www.indexdata.org/united-states/council-on-environmental-quality/](https://www.indexdata.org/united-states/council-on-environmental-quality/) | [RSS Feed](https://www.indexdata.org/united-states/council-on-environmental-quality/feed/)
 
 - `[`2024-08792`]` **[National Environmental Policy Act Implementing Regulations Revisions Phase 2](https://www.indexdata.org/national-environmental-policy-act-implementing-regulations-revisions-phase-2/)** — `2024-05-01` | `136 Pages`
-
-### [Delaware River Basin Commission](https://www.indexdata.org/united-states/delaware-river-basin-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/delaware-river-basin-commission/](https://www.indexdata.org/united-states/delaware-river-basin-commission/) | [RSS Feed](https://www.indexdata.org/united-states/delaware-river-basin-commission/feed/)
-
-- `[`2024-11661`]` **[Regulatory Program Fees and Water Charges Rates](https://www.indexdata.org/regulatory-program-fees-and-water-charges-rates-3/)** — `2024-05-29` | `2 Pages`
 
 ### [FEDERAL COMMUICATIONS COMMISSION](https://www.indexdata.org/united-states/federal-commuications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-commuications-commission/](https://www.indexdata.org/united-states/federal-commuications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-commuications-commission/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,275` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,279` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 04:27 UTC`
+**Last Automated Sync:** `2026-11-12 05:34 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,275)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,279)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -558,7 +558,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-09521`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters-8/)** — `2026-05-13` | `3 Pages`
 - `[`2026-09520`]` **[Airworthiness Directives; Leonardo S.p.A. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-11/)** — `2026-05-13` | `3 Pages`
 - `[`2026-09516`]` **[Airworthiness Directives; Leonardo S.p.A. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-12/)** — `2026-05-13` | `6 Pages`
-- `[`2026-09488`]` **[Standard Instrument Approach Procedures and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-21/)** — `2026-05-13` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -761,8 +760,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-09625`]` **[Safety Zone; Gulf Intracoastal Waterway; Florida Avenue Bridge; Temporary Waterway Closure](https://www.indexdata.org/safety-zone-gulf-intracoastal-waterway-florida-avenue-bridge-temporary-waterway-closure/)** — `2026-05-14` | `2 Pages`
 - `[`2026-09494`]` **[Special Local Regulation; St. Mary's River, St. George's Creek, Piney Point, MD](https://www.indexdata.org/special-local-regulation-st-marys-river-st-georges-creek-piney-point-md/)** — `2026-05-13` | `3 Pages`
 - `[`2026-09493`]` **[Special Local Regulation; Marine Events Within the USCG East District](https://www.indexdata.org/special-local-regulation-marine-events-within-the-uscg-east-district-5/)** — `2026-05-13` | `3 Pages`
-- `[`2026-09492`]` **[Safety Zones; Fireworks Displays in the USCG East District](https://www.indexdata.org/safety-zones-fireworks-displays-in-the-uscg-east-district-2/)** — `2026-05-13` | `4 Pages`
-- `[`2026-09491`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-2/)** — `2026-05-13` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -947,7 +944,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-09604`]` **[Determination of Attainment by the Attainment Date and Clean Data Determination for the 2012 Annual Fine Particulate Standard; Plumas County, California](https://www.indexdata.org/determination-of-attainment-by-the-attainment-date-and-clean-data-determination-for-the-2012-annual-fine-particulate-standard-plumas-county-california-2/)** — `2026-05-14` | `6 Pages`
 - `[`2026-09603`]` **[Alaska: Tentative Determination on Final Authorization of State Hazardous Waste Management Program](https://www.indexdata.org/alaska-tentative-determination-on-final-authorization-of-state-hazardous-waste-management-program/)** — `2026-05-14` | `6 Pages`
 - `[`2026-09524`]` **[Begin Actual Construction in the New Source Review (NSR) Preconstruction Permitting Program](https://www.indexdata.org/begin-actual-construction-in-the-new-source-review-nsr-preconstruction-permitting-program/)** — `2026-05-13` | `19 Pages`
-- `[`2026-09490`]` **[Oxirane, 2-phenyl-, polymer With oxirane, mono(hydrogen 2-sulfobutanedioate), octyl ether, sodium salt (1:2) in Pesticide Formulations; Exemption From the Requirement for a Tolerance](https://www.indexdata.org/oxirane-2-phenyl-polymer-with-oxirane-monohydrogen-2-sulfobutanedioate-octyl-ether-sodium-salt-12-in-pesticide-formulations-exemption-from-the-requirement-for-a-tolerance/)** — `2026-05-13` | `5 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1098,6 +1094,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2026-17774`]` **[Consumer and Governmental Affairs Bureau Seeks To Dismiss Twenty-Four Mooted or Outdated Petitions](https://www.indexdata.org/consumer-and-governmental-affairs-bureau-seeks-to-dismiss-twenty-four-mooted-or-outdated-petitions/)** — `2026-08-31` | `2 Pages`
+- `[`2026-17767`]` **[Promoting Telehealth in Rural America](https://www.indexdata.org/promoting-telehealth-in-rural-america/)** — `2026-08-31` | `10 Pages`
 - `[`2026-17761`]` **[Maximizing Efficiencies in Universal Service Administration](https://www.indexdata.org/maximizing-efficiencies-in-universal-service-administration/)** — `2026-08-31` | `10 Pages`
 - `[`2026-17508`]` **[Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band; Correction](https://www.indexdata.org/upper-c-band-3-98-4-2-ghz-expanding-flexible-use-of-the-3-7-to-4-2-ghz-band-correction/)** — `2026-08-27` | `2 Pages`
 - `[`2026-16590`]` **[FCC To Review E-Rate Program To Ensure Congress's Vision](https://www.indexdata.org/fcc-to-review-e-rate-program-to-ensure-congresss-vision/)** — `2026-08-14` | `28 Pages`
@@ -1565,6 +1563,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mi
 - `[`2026-10722`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-6/)** — `2026-05-29` | `12 Pages`
 - `[`2026-10202`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program/)** — `2026-05-21` | `5 Pages`
 
+### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
+
+- `[`2026-17783`]` **[Regulatory Relief From Locomotive Horn Sounding Pattern at Public Highway-Rail Grade Crossings](https://www.indexdata.org/regulatory-relief-from-locomotive-horn-sounding-pattern-at-public-highway-rail-grade-crossings/)** — `2026-08-31` | `4 Pages`
+- `[`2026-17782`]` **[Regulatory Relief for End of Car Cushioning Units](https://www.indexdata.org/regulatory-relief-for-end-of-car-cushioning-units/)** — `2026-08-31` | `4 Pages`
+- `[`2026-15724`]` **[High-Speed Train Noise Emission Standards](https://www.indexdata.org/high-speed-train-noise-emission-standards/)** — `2026-08-03` | `18 Pages`
+- `[`2026-15605`]` **[Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements](https://www.indexdata.org/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency-and-other-requirements/)** — `2026-07-31` | `19 Pages`
+- `[`2026-14160`]` **[Certification of Dispatchers; Extension of Comment Period](https://www.indexdata.org/certification-of-dispatchers-extension-of-comment-period/)** — `2026-07-14` | `2 Pages`
+- `[`2026-09792`]` **[Certification of Signal Employees](https://www.indexdata.org/certification-of-signal-employees/)** — `2026-05-15` | `4 Pages`
+- `[`2026-09791`]` **[Certification of Dispatchers](https://www.indexdata.org/certification-of-dispatchers/)** — `2026-05-15` | `4 Pages`
+- `[`2026-09790`]` **[Training, Qualification, and Oversight for Safety-Related Railroad Employees](https://www.indexdata.org/training-qualification-and-oversight-for-safety-related-railroad-employees/)** — `2026-05-15` | `19 Pages`
+
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
 
@@ -1630,16 +1640,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mo
 - `[`2026-12449`]` **[Removal of Self-Reporting Requirement](https://www.indexdata.org/removal-of-self-reporting-requirement/)** — `2026-06-22` | `4 Pages`
 - `[`2026-12448`]` **[Rescinding the Requirement for Electronic Logging Device Operator's Manual Located in Commercial Motor Vehicles](https://www.indexdata.org/rescinding-the-requirement-for-electronic-logging-device-operators-manual-located-in-commercial-motor-vehicles/)** — `2026-06-22` | `4 Pages`
 - `[`2026-09943`]` **[Fees for Commercial Driver's License Information System](https://www.indexdata.org/fees-for-commercial-drivers-license-information-system/)** — `2026-05-18` | `7 Pages`
-
-### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
-
-- `[`2026-15724`]` **[High-Speed Train Noise Emission Standards](https://www.indexdata.org/high-speed-train-noise-emission-standards/)** — `2026-08-03` | `18 Pages`
-- `[`2026-15605`]` **[Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements](https://www.indexdata.org/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency-and-other-requirements/)** — `2026-07-31` | `19 Pages`
-- `[`2026-14160`]` **[Certification of Dispatchers; Extension of Comment Period](https://www.indexdata.org/certification-of-dispatchers-extension-of-comment-period/)** — `2026-07-14` | `2 Pages`
-- `[`2026-09792`]` **[Certification of Signal Employees](https://www.indexdata.org/certification-of-signal-employees/)** — `2026-05-15` | `4 Pages`
-- `[`2026-09791`]` **[Certification of Dispatchers](https://www.indexdata.org/certification-of-dispatchers/)** — `2026-05-15` | `4 Pages`
-- `[`2026-09790`]` **[Training, Qualification, and Oversight for Safety-Related Railroad Employees](https://www.indexdata.org/training-qualification-and-oversight-for-safety-related-railroad-employees/)** — `2026-05-15` | `19 Pages`
 
 ### [Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-transit-administration/](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)

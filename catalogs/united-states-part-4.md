@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,275` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,279` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 04:27 UTC`
+**Last Automated Sync:** `2026-11-12 05:34 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,15 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,275)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,279)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-24245`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-10/)** — `2026-01-05` | `3 Pages`
+- `[`2025-24242`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-78/)** — `2026-01-05` | `4 Pages`
+- `[`2025-24241`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-79/)** — `2026-01-05` | `3 Pages`
+- `[`2025-24240`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-11/)** — `2026-01-05` | `3 Pages`
 - `[`2025-24233`]` **[Airworthiness Directives; General Atomics AeroTec Systems GmbH (Type Certificate Previously Held by RUAG Aerospace Services GmbH) Airplanes](https://www.indexdata.org/airworthiness-directives-general-atomics-aerotec-systems-gmbh-type-certificate-previously-held-by-ruag-aerospace-services-gmbh-airplanes/)** — `2026-01-05` | `3 Pages`
 - `[`2025-24218`]` **[Establishment of United States Area Navigation (RNAV) Routes Q-190 and T-497, and Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-1, V-70, and V-194; Eastern United States](https://www.indexdata.org/establishment-of-united-states-area-navigation-rnav-routes-q-190-and-t-497-and-amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-v-1-v-70-and-v-194-eastern-un-2/)** — `2026-01-02` | `3 Pages`
 - `[`2025-24182`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-64/)** — `2026-01-02` | `3 Pages`
@@ -606,7 +610,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-13595`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-110/)** — `2025-07-21` | `3 Pages`
 - `[`2025-13594`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-122/)** — `2025-07-21` | `3 Pages`
 - `[`2025-13593`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-123/)** — `2025-07-21` | `3 Pages`
-- `[`2025-13382`]` **[Amendment of Class D, Amendment of Class E4, and Amendment of Class E5 Airspace; Nantucket, MA](https://www.indexdata.org/amendment-of-class-d-amendment-of-class-e4-and-amendment-of-class-e5-airspace-nantucket-ma/)** — `2025-07-17` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -874,8 +877,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-13697`]` **[Hazardous and Solid Waste Management System: Disposal of Coal Combustion Residuals From Electric Utilities; CCR Management Unit Deadline Extension Rule](https://www.indexdata.org/hazardous-and-solid-waste-management-system-disposal-of-coal-combustion-residuals-from-electric-utilities-ccr-management-unit-deadline-extension-rule-2/)** — `2025-07-22` | `3 Pages`
 - `[`2025-13677`]` **[Significant New Use Rules on Certain Chemical Substances (23-3.5e); Correction](https://www.indexdata.org/significant-new-use-rules-on-certain-chemical-substances-23-3-5e-correction/)** — `2025-07-21` | `2 Pages`
 - `[`2025-13598`]` **[Prevention of Significant Deterioration (PSD) and Nonattainment New Source Review (NNSR): Regulations Related To Project Emissions Accounting; Withdrawal of Proposed Rule](https://www.indexdata.org/prevention-of-significant-deterioration-psd-and-nonattainment-new-source-review-nnsr-regulations-related-to-project-emissions-accounting-withdrawal-of-proposed-rule/)** — `2025-07-21` | `3 Pages`
-- `[`2025-13363`]` **[Significant New Use Rules on Certain Chemical Substances (24-3.5e)](https://www.indexdata.org/significant-new-use-rules-on-certain-chemical-substances-24-3-5e/)** — `2025-07-17` | `17 Pages`
-- `[`2025-13355`]` **[Cypermethrin; Pesticide Tolerances](https://www.indexdata.org/cypermethrin-pesticide-tolerances-2/)** — `2025-07-17` | `7 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1302,7 +1303,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2025-14780`]` **[Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2026 and Updates to the IRF Quality Reporting Program](https://www.indexdata.org/medicare-program-inpatient-rehabilitation-facility-prospective-payment-system-for-federal-fiscal-year-2026-and-updates-to-the-irf-quality-reporting-program/)** — `2025-08-05` | `47 Pages`
 - `[`2025-14681`]` **[Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2026 Rates; Changes to the FY 2025 IPPS Rates Due to Court Decision; Requirements for Quality Programs; and Other Policy Changes; Health Data, Technology, and Interoperability: Electronic Prescribing, Real-Time Prescription Benefit and Electronic Prior Authorization](https://www.indexdata.org/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and-the-long-term-care-hospital-prospective-payment-system-and-policy-changes-and-fiscal-year-fy-2026/)** — `2025-08-04` | `773 Pages`
 - `[`2025-14679`]` **[Medicare Program; Prospective Payment System and Consolidated Billing for Skilled Nursing Facilities; Updates to the Quality Reporting Program for Federal Fiscal Year 2026](https://www.indexdata.org/medicare-program-prospective-payment-system-and-consolidated-billing-for-skilled-nursing-facilities-updates-to-the-quality-reporting-program-for-federal-fiscal-year-2026/)** — `2025-08-04` | `58 Pages`
-- `[`2025-13360`]` **[Medicare and Medicaid Programs: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Overall Hospital Quality Star Ratings; and Hospital Price Transparency](https://www.indexdata.org/medicare-and-medicaid-programs-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment-systems-quality-reporting-programs-overall-hospital-quality-star-ratings-and-hospital/)** — `2025-07-17` | `390 Pages`
 
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)

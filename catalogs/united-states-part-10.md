@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,275` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,279` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 04:27 UTC`
+**Last Automated Sync:** `2026-11-12 05:34 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,275)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,279)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -646,13 +646,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-12866`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-337/)** — `2023-06-16` | `4 Pages`
 - `[`2023-12858`]` **[Amendment of Class C Airspace; Dane County Regional Airport-Truax Field, Madison, WI](https://www.indexdata.org/amendment-of-class-c-airspace-dane-county-regional-airport-truax-field-madison-wi/)** — `2023-06-16` | `3 Pages`
 - `[`2023-12852`]` **[Proposed Establishment of United States Area Navigation (RNAV) Route T-401 in the Vicinity of Paynesville, CA](https://www.indexdata.org/proposed-establishment-of-united-states-area-navigation-rnav-route-t-401-in-the-vicinity-of-paynesville-ca/)** — `2023-06-16` | `3 Pages`
-- `[`2023-12816`]` **[Amendment of Class E Airspace; Elberton, GA](https://www.indexdata.org/amendment-of-class-e-airspace-elberton-ga/)** — `2023-06-15` | `2 Pages`
-- `[`2023-12809`]` **[Revocation of Class E Airspace; A.P. Hill, VA](https://www.indexdata.org/revocation-of-class-e-airspace-a-p-hill-va/)** — `2023-06-15` | `2 Pages`
-- `[`2023-12795`]` **[Establishment of Class E Airspace; Williams, AZ](https://www.indexdata.org/establishment-of-class-e-airspace-williams-az/)** — `2023-06-15` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-22199`]` **[Ledprona Double-Stranded RNA; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/ledprona-double-stranded-rna-exemption-from-the-requirement-of-a-tolerance/)** — `2023-10-05` | `5 Pages`
 - `[`2023-22088`]` **[Air Plan Approval; MO; Control of Emissions From Volatile Organic Liquid Storage](https://www.indexdata.org/air-plan-approval-mo-control-of-emissions-from-volatile-organic-liquid-storage/)** — `2023-10-04` | `3 Pages`
 - `[`2023-21976`]` **[New Source Performance Standards Review for Volatile Organic Liquid Storage Vessels (Including Petroleum Liquid Storage Vessels)](https://www.indexdata.org/new-source-performance-standards-review-for-volatile-organic-liquid-storage-vessels-including-petroleum-liquid-storage-vessels-2/)** — `2023-10-04` | `19 Pages`
 - `[`2023-21971`]` **[Approval of Air Quality Implementation Plans; New York; Emission Statement Program](https://www.indexdata.org/approval-of-air-quality-implementation-plans-new-york-emission-statement-program/)** — `2023-10-04` | `4 Pages`
@@ -1092,7 +1090,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2023-13416`]` **[Fisheries Off West Coast States; Coastal Pelagic Species Fisheries; Annual Specifications; 2023-2024 Annual Specifications and Management Measures for Pacific Sardine](https://www.indexdata.org/fisheries-off-west-coast-states-coastal-pelagic-species-fisheries-annual-specifications-2023-2024-annual-specifications-and-management-measures-for-pacific-sardine/)** — `2023-06-23` | `4 Pages`
 - `[`2023-13391`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Amendment 124 to the BSAI FMP for Groundfish and Amendment 112 to the GOA FMP for Groundfish To Revise IFQ Program Regulations; Correction](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-amendment-124-to-the-bsai-fmp-for-groundfish-and-amendment-112-to-the-goa-fmp-for-groundfish-to-revise-ifq-program-regulations-correction/)** — `2023-06-23` | `2 Pages`
 - `[`2023-13049`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic Region; Amendment 49](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-snapper-grouper-fishery-of-the-south-atlantic-region-amendment-49-3/)** — `2023-06-21` | `3 Pages`
-- `[`2023-12825`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Snow Crab Rebuilding Plan in the Bering Sea and Aleutian Islands](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-snow-crab-rebuilding-plan-in-the-bering-sea-and-aleutian-islands-2/)** — `2023-06-15` | `3 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1586,6 +1583,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enfor
 - `[`2023-15508`]` **[Partial Filling of Prescriptions for Schedule II Controlled Substances](https://www.indexdata.org/partial-filling-of-prescriptions-for-schedule-ii-controlled-substances/)** — `2023-07-21` | `20 Pages`
 - `[`2023-13085`]` **[Reporting Theft or Significant Loss of Controlled Substances](https://www.indexdata.org/reporting-theft-or-significant-loss-of-controlled-substances/)** — `2023-06-22` | `7 Pages`
 
+### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
+
+- `[`2023-22185`]` **[Community Advantage Pilot Program](https://www.indexdata.org/community-advantage-pilot-program/)** — `2023-10-05` | `6 Pages`
+- `[`2023-19183`]` **[Criminal Justice Reviews for the SBA Business Loan Programs and Surety Bond Guaranty Program](https://www.indexdata.org/criminal-justice-reviews-for-the-sba-business-loan-programs-and-surety-bond-guaranty-program/)** — `2023-09-15` | `6 Pages`
+- `[`2023-16217`]` **[Civil Monetary Penalties Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustments-3/)** — `2023-08-01` | `3 Pages`
+- `[`2023-15899`]` **[Small Business Size Standards: Adjustment of Alternative Size Standard for SBA's 7(a) and CDC/504 Loan Programs for Inflation; and Surety Bond Limits: Adjustments for Inflation](https://www.indexdata.org/small-business-size-standards-adjustment-of-alternative-size-standard-for-sbas-7a-and-cdc-504-loan-programs-for-inflation-and-surety-bond-limits-adjustments-for-inflation-2/)** — `2023-07-28` | `22 Pages`
+- `[`2023-14552`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-15/)** — `2023-07-27` | `3 Pages`
+- `[`2023-15078`]` **[Small Business Size Standards: Adjustment of Monetary-Based Size Standards, Disadvantage Thresholds, and 8(a) Eligibility Thresholds for Inflation](https://www.indexdata.org/small-business-size-standards-adjustment-of-monetary-based-size-standards-disadvantage-thresholds-and-8a-eligibility-thresholds-for-inflation/)** — `2023-07-19` | `8 Pages`
+- `[`2023-13981`]` **[Small Business Investment Company Investment Diversification and Growth](https://www.indexdata.org/small-business-investment-company-investment-diversification-and-growth/)** — `2023-07-18` | `33 Pages`
+- `[`2023-13439`]` **[Veteran-Owned Small Business and Service-Disabled, Veteran-Owned Small Business-Certification; Correction](https://www.indexdata.org/veteran-owned-small-business-and-service-disabled-veteran-owned-small-business-certification-correction/)** — `2023-07-03` | `2 Pages`
+- `[`2023-12779`]` **[Disaster Assistance Loan Program Changes to Maximum Loan Amounts and Miscellaneous Updates](https://www.indexdata.org/disaster-assistance-loan-program-changes-to-maximum-loan-amounts-and-miscellaneous-updates/)** — `2023-06-16` | `7 Pages`
+
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
 
@@ -1635,18 +1645,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 - `[`2023-13900`]` **[Pipeline Safety: Gas Pipeline Leak Detection and Repair](https://www.indexdata.org/pipeline-safety-gas-pipeline-leak-detection-and-repair/)** — `2023-06-30` | `2 Pages`
 - `[`2023-13467`]` **[Hazardous Materials: FAST Act Requirements for Real-Time Train Consist Information](https://www.indexdata.org/hazardous-materials-fast-act-requirements-for-real-time-train-consist-information-3/)** — `2023-06-27` | `20 Pages`
 
-### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
-
-- `[`2023-19183`]` **[Criminal Justice Reviews for the SBA Business Loan Programs and Surety Bond Guaranty Program](https://www.indexdata.org/criminal-justice-reviews-for-the-sba-business-loan-programs-and-surety-bond-guaranty-program/)** — `2023-09-15` | `6 Pages`
-- `[`2023-16217`]` **[Civil Monetary Penalties Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustments-3/)** — `2023-08-01` | `3 Pages`
-- `[`2023-15899`]` **[Small Business Size Standards: Adjustment of Alternative Size Standard for SBA's 7(a) and CDC/504 Loan Programs for Inflation; and Surety Bond Limits: Adjustments for Inflation](https://www.indexdata.org/small-business-size-standards-adjustment-of-alternative-size-standard-for-sbas-7a-and-cdc-504-loan-programs-for-inflation-and-surety-bond-limits-adjustments-for-inflation-2/)** — `2023-07-28` | `22 Pages`
-- `[`2023-14552`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-15/)** — `2023-07-27` | `3 Pages`
-- `[`2023-15078`]` **[Small Business Size Standards: Adjustment of Monetary-Based Size Standards, Disadvantage Thresholds, and 8(a) Eligibility Thresholds for Inflation](https://www.indexdata.org/small-business-size-standards-adjustment-of-monetary-based-size-standards-disadvantage-thresholds-and-8a-eligibility-thresholds-for-inflation/)** — `2023-07-19` | `8 Pages`
-- `[`2023-13981`]` **[Small Business Investment Company Investment Diversification and Growth](https://www.indexdata.org/small-business-investment-company-investment-diversification-and-growth/)** — `2023-07-18` | `33 Pages`
-- `[`2023-13439`]` **[Veteran-Owned Small Business and Service-Disabled, Veteran-Owned Small Business-Certification; Correction](https://www.indexdata.org/veteran-owned-small-business-and-service-disabled-veteran-owned-small-business-certification-correction/)** — `2023-07-03` | `2 Pages`
-- `[`2023-12779`]` **[Disaster Assistance Loan Program Changes to Maximum Loan Amounts and Miscellaneous Updates](https://www.indexdata.org/disaster-assistance-loan-program-changes-to-maximum-loan-amounts-and-miscellaneous-updates/)** — `2023-06-16` | `7 Pages`
-
 ### [State Department](https://www.indexdata.org/united-states/state-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
 
@@ -1680,6 +1678,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2023-18309`]` **[Public Hearing for Corporate Average Fuel Economy Standards for Passenger Cars and Light Trucks for Model Years 2027-2032 and Fuel Efficiency Standards for Heavy-Duty Pickup Trucks and Vans for Model Years 2030-2035](https://www.indexdata.org/public-hearing-for-corporate-average-fuel-economy-standards-for-passenger-cars-and-light-trucks-for-model-years-2027-2032-and-fuel-efficiency-standards-for-heavy-duty-pickup-trucks-and-vans-for-model/)** — `2023-08-25` | `2 Pages`
 - `[`2023-16515`]` **[Corporate Average Fuel Economy Standards for Passenger Cars and Light Trucks for Model Years 2027-2032 and Fuel Efficiency Standards for Heavy-Duty Pickup Trucks and Vans for Model Years 2030-2035](https://www.indexdata.org/corporate-average-fuel-economy-standards-for-passenger-cars-and-light-trucks-for-model-years-2027-2032-and-fuel-efficiency-standards-for-heavy-duty-pickup-trucks-and-vans-for-model-years-2030-2035/)** — `2023-08-17` | `263 Pages`
 - `[`2023-13622`]` **[Heavy Vehicle Automatic Emergency Braking; AEB Test Devices](https://www.indexdata.org/heavy-vehicle-automatic-emergency-braking-aeb-test-devices/)** — `2023-07-06` | `73 Pages`
+
+### [Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
+
+- `[`2023-22213`]` **[Proposed Establishment of the Wanapum Village Viticultural Area; Proposed Name Change to Beverly, Washington](https://www.indexdata.org/proposed-establishment-of-the-wanapum-village-viticultural-area-proposed-name-change-to-beverly-washington/)** — `2023-10-05` | `2 Pages`
+- `[`2023-20346`]` **[Proposed Establishment of the Nine Lakes of East Tennessee Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-nine-lakes-of-east-tennessee-viticultural-area/)** — `2023-09-20` | `8 Pages`
+- `[`2023-18587`]` **[Proposed Establishment of the San Luis Rey Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-san-luis-rey-viticultural-area/)** — `2023-08-30` | `6 Pages`
+- `[`2023-18590`]` **[Proposed Establishment of the Upper Cumberland Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-upper-cumberland-viticultural-area/)** — `2023-08-29` | `8 Pages`
+- `[`2023-18588`]` **[Establishment of the Winters Highlands Viticultural Area](https://www.indexdata.org/establishment-of-the-winters-highlands-viticultural-area/)** — `2023-08-29` | `4 Pages`
+- `[`2023-14119`]` **[Establishment of the Long Valley-Lake County Viticultural Area and Modification of the High Valley and North Coast Viticultural Areas](https://www.indexdata.org/establishment-of-the-long-valley-lake-county-viticultural-area-and-modification-of-the-high-valley-and-north-coast-viticultural-areas/)** — `2023-07-05` | `5 Pages`
 
 ### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
@@ -1730,15 +1738,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2023-15449`]` **[Circulars and Rewards](https://www.indexdata.org/circulars-and-rewards/)** — `2023-07-21` | `3 Pages`
 - `[`2023-13942`]` **[Priority Mail Express Refunds](https://www.indexdata.org/priority-mail-express-refunds/)** — `2023-06-30` | `2 Pages`
 - `[`2023-13440`]` **[Intelligent Mail Package Barcode Compliance Quality](https://www.indexdata.org/intelligent-mail-package-barcode-compliance-quality-2/)** — `2023-06-28` | `2 Pages`
-
-### [Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
-
-- `[`2023-20346`]` **[Proposed Establishment of the Nine Lakes of East Tennessee Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-nine-lakes-of-east-tennessee-viticultural-area/)** — `2023-09-20` | `8 Pages`
-- `[`2023-18587`]` **[Proposed Establishment of the San Luis Rey Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-san-luis-rey-viticultural-area/)** — `2023-08-30` | `6 Pages`
-- `[`2023-18590`]` **[Proposed Establishment of the Upper Cumberland Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-upper-cumberland-viticultural-area/)** — `2023-08-29` | `8 Pages`
-- `[`2023-18588`]` **[Establishment of the Winters Highlands Viticultural Area](https://www.indexdata.org/establishment-of-the-winters-highlands-viticultural-area/)** — `2023-08-29` | `4 Pages`
-- `[`2023-14119`]` **[Establishment of the Long Valley-Lake County Viticultural Area and Modification of the High Valley and North Coast Viticultural Areas](https://www.indexdata.org/establishment-of-the-long-valley-lake-county-viticultural-area-and-modification-of-the-high-valley-and-north-coast-viticultural-areas/)** — `2023-07-05` | `5 Pages`
 
 ### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -1827,6 +1826,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-n
 - `[`2023-17992`]` **[Child Nutrition Program Integrity](https://www.indexdata.org/child-nutrition-program-integrity/)** — `2023-08-23` | `68 Pages`
 - `[`2023-17467`]` **[Food Distribution Programs: Improving Access and Parity](https://www.indexdata.org/food-distribution-programs-improving-access-and-parity-3/)** — `2023-08-14` | `26 Pages`
 
+### [National Transportation Safety Board](https://www.indexdata.org/united-states/national-transportation-safety-board/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-transportation-safety-board/](https://www.indexdata.org/united-states/national-transportation-safety-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-transportation-safety-board/feed/)
+
+- `[`2023-22193`]` **[Official Seal Description](https://www.indexdata.org/official-seal-description/)** — `2023-10-05` | `3 Pages`
+- `[`2023-18842`]` **[Authority of NTSB in Railroad, Pipeline, and Hazardous Materials Investigations](https://www.indexdata.org/authority-of-ntsb-in-railroad-pipeline-and-hazardous-materials-investigations/)** — `2023-08-31` | `2 Pages`
+- `[`2023-18840`]` **[Authority of NTSB in Railroad, Pipeline, and Hazardous Materials Investigations](https://www.indexdata.org/authority-of-ntsb-in-railroad-pipeline-and-hazardous-materials-investigations-2/)** — `2023-08-31` | `2 Pages`
+- `[`2023-14209`]` **[Official Seal Description](https://www.indexdata.org/official-seal-description-2/)** — `2023-07-06` | `3 Pages`
+
 ### [Natural Resources Revenue Office](https://www.indexdata.org/united-states/natural-resources-revenue-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/natural-resources-revenue-office/](https://www.indexdata.org/united-states/natural-resources-revenue-office/) | [RSS Feed](https://www.indexdata.org/united-states/natural-resources-revenue-office/feed/)
 
@@ -1878,13 +1885,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/management
 - `[`2023-21078`]` **[Guidance for Grants and Agreements](https://www.indexdata.org/guidance-for-grants-and-agreements/)** — `2023-10-05` | `111 Pages`
 - `[`2023-17724`]` **[Guidance for Grants and Agreements](https://www.indexdata.org/guidance-for-grants-and-agreements-2/)** — `2023-08-23` | `41 Pages`
 - `[`2023-17664`]` **[Fundamental Responsibilities of Recognized Statistical Agencies and Units](https://www.indexdata.org/fundamental-responsibilities-of-recognized-statistical-agencies-and-units-2/)** — `2023-08-18` | `37 Pages`
-
-### [National Transportation Safety Board](https://www.indexdata.org/united-states/national-transportation-safety-board/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-transportation-safety-board/](https://www.indexdata.org/united-states/national-transportation-safety-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-transportation-safety-board/feed/)
-
-- `[`2023-18842`]` **[Authority of NTSB in Railroad, Pipeline, and Hazardous Materials Investigations](https://www.indexdata.org/authority-of-ntsb-in-railroad-pipeline-and-hazardous-materials-investigations/)** — `2023-08-31` | `2 Pages`
-- `[`2023-18840`]` **[Authority of NTSB in Railroad, Pipeline, and Hazardous Materials Investigations](https://www.indexdata.org/authority-of-ntsb-in-railroad-pipeline-and-hazardous-materials-investigations-2/)** — `2023-08-31` | `2 Pages`
-- `[`2023-14209`]` **[Official Seal Description](https://www.indexdata.org/official-seal-description-2/)** — `2023-07-06` | `3 Pages`
 
 ### [Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/ocean-energy-management-bureau/](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)

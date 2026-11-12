@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,275` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,279` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-12 04:27 UTC`
+**Last Automated Sync:** `2026-11-12 05:34 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,275 of 15,275)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,279 of 15,279)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-12816`]` **[Amendment of Class E Airspace; Elberton, GA](https://www.indexdata.org/amendment-of-class-e-airspace-elberton-ga/)** — `2023-06-15` | `2 Pages`
+- `[`2023-12809`]` **[Revocation of Class E Airspace; A.P. Hill, VA](https://www.indexdata.org/revocation-of-class-e-airspace-a-p-hill-va/)** — `2023-06-15` | `2 Pages`
+- `[`2023-12795`]` **[Establishment of Class E Airspace; Williams, AZ](https://www.indexdata.org/establishment-of-class-e-airspace-williams-az/)** — `2023-06-15` | `2 Pages`
 - `[`2023-12784`]` **[Amendment of Class E Airspace; Carthage, TX](https://www.indexdata.org/amendment-of-class-e-airspace-carthage-tx/)** — `2023-06-15` | `2 Pages`
 - `[`2023-12783`]` **[Establishment of Class E Airspace; Berclair, TX](https://www.indexdata.org/establishment-of-class-e-airspace-berclair-tx/)** — `2023-06-15` | `2 Pages`
 - `[`2023-12782`]` **[Amendment of Class E Airspace; Madison Dane County Regional Airport-Truax Field, WI](https://www.indexdata.org/amendment-of-class-e-airspace-madison-dane-county-regional-airport-truax-field-wi/)** — `2023-06-15` | `3 Pages`
@@ -412,6 +415,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2023-12825`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Snow Crab Rebuilding Plan in the Bering Sea and Aleutian Islands](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-snow-crab-rebuilding-plan-in-the-bering-sea-and-aleutian-islands-2/)** — `2023-06-15` | `3 Pages`
 - `[`2023-12711`]` **[Pacific Island Pelagic Fisheries; 2023 U.S. Territorial Longline Bigeye Tuna Catch Limits](https://www.indexdata.org/pacific-island-pelagic-fisheries-2023-u-s-territorial-longline-bigeye-tuna-catch-limits/)** — `2023-06-15` | `2 Pages`
 - `[`2023-12633`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Fishery of the Gulf of Mexico; Amendment 54](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-reef-fish-fishery-of-the-gulf-of-mexico-amendment-54/)** — `2023-06-15` | `9 Pages`
 - `[`2023-12411`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic; Amendment 53](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-snapper-grouper-fishery-of-the-south-atlantic-amendment-53-3/)** — `2023-06-12` | `4 Pages`
