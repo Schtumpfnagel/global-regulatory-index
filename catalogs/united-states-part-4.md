@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,279` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,283` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 05:34 UTC`
+**Last Automated Sync:** `2026-11-12 06:42 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`306` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,279)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,283)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -614,6 +614,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-00004`]` **[Air Plan Approval; Michigan; Infrastructure SIP Requirements for the 2015 Ozone NAAQS; Michigan State Board Requirements; Withdrawal of Direct Final Rule](https://www.indexdata.org/air-plan-approval-michigan-infrastructure-sip-requirements-for-the-2015-ozone-naaqs-michigan-state-board-requirements-withdrawal-of-direct-final-rule/)** — `2026-01-06` | `2 Pages`
+- `[`2026-00003`]` **[Extension of the State Implementation Plan Due Date for the Regional Haze Third Implementation Period](https://www.indexdata.org/extension-of-the-state-implementation-plan-due-date-for-the-regional-haze-third-implementation-period/)** — `2026-01-06` | `5 Pages`
 - `[`2025-24207`]` **[Air Plan Approval; Michigan and Minnesota; Revision to Taconite Federal Implementation Plan](https://www.indexdata.org/air-plan-approval-michigan-and-minnesota-revision-to-taconite-federal-implementation-plan/)** — `2026-01-02` | `10 Pages`
 - `[`2025-24202`]` **[Congressional Review Act Revocation of 2024 Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act](https://www.indexdata.org/congressional-review-act-revocation-of-2024-review-of-final-rule-reclassification-of-major-sources-as-area-sources-under-section-112-of-the-clean-air-act/)** — `2026-01-02` | `4 Pages`
 - `[`2025-24200`]` **[Proposed Revisions of the Nonattainment Designation for the 2008 and 2015 Ozone Standards and Clean Data Determinations for the 2008 and 2015 Ozone Standards: Cecil County, MD and New Castle County, DE](https://www.indexdata.org/proposed-revisions-of-the-nonattainment-designation-for-the-2008-and-2015-ozone-standards-and-clean-data-determinations-for-the-2008-and-2015-ozone-standards-cecil-county-md-and-new-castle-county-d-2/)** — `2026-01-02` | `7 Pages`
@@ -985,6 +987,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2025-24264`]` **[Atlantic Highly Migratory Species; Revisions to Commercial Atlantic Blacknose and Recreational Atlantic Shark Fisheries Management Measures](https://www.indexdata.org/atlantic-highly-migratory-species-revisions-to-commercial-atlantic-blacknose-and-recreational-atlantic-shark-fisheries-management-measures/)** — `2026-01-05` | `13 Pages`
 - `[`2025-24203`]` **[Taking of Marine Mammals Incidental to Commercial Fishing Operations; Harbor Porpoise Take Reduction Plan; Change to Gillnet Gear Requirements](https://www.indexdata.org/taking-of-marine-mammals-incidental-to-commercial-fishing-operations-harbor-porpoise-take-reduction-plan-change-to-gillnet-gear-requirements/)** — `2026-01-02` | `6 Pages`
 - `[`2025-24028`]` **[Coastal Migratory Pelagic Resources of the Gulf of America and Atlantic Region; 2025-2026 Commercial Accountability Measure for the King Mackerel Run-Around Gillnet Fishery](https://www.indexdata.org/coastal-migratory-pelagic-resources-of-the-gulf-of-america-and-atlantic-region-2025-2026-commercial-accountability-measure-for-the-king-mackerel-run-around-gillnet-fishery/)** — `2025-12-30` | `2 Pages`
 - `[`2025-24016`]` **[Fisheries of the Northeastern United States; Atlantic Bluefish Fishery; Quota Transfer From New Jersey to North Carolina](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-jersey-to-north-carolina-2/)** — `2025-12-30` | `2 Pages`
@@ -1143,46 +1146,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2025-14013`]` **[Program Originating FM Broadcast Booster Stations](https://www.indexdata.org/program-originating-fm-broadcast-booster-stations/)** — `2025-07-25` | `3 Pages`
 - `[`2025-13628`]` **[Television Broadcasting Services Las Vegas, Nevada](https://www.indexdata.org/television-broadcasting-services-las-vegas-nevada/)** — `2025-07-21` | `2 Pages`
 
-### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
-
-- `[`2025-23228`]` **[Federal Onshore Oil and Gas Statewide Bonds; Extension of Phase-In Deadline](https://www.indexdata.org/federal-onshore-oil-and-gas-statewide-bonds-extension-of-phase-in-deadline/)** — `2025-12-18` | `3 Pages`
-- `[`2025-22820`]` **[Waste Prevention, Production Subject to Royalties, and Resource Conservation; Extension of Phase-In Requirements](https://www.indexdata.org/waste-prevention-production-subject-to-royalties-and-resource-conservation-extension-of-phase-in-requirements-2/)** — `2025-12-15` | `3 Pages`
-- `[`2025-19982`]` **[Rescission of the Management and Protection of the National Petroleum Reserve in Alaska Regulations, Issued May 7, 2024](https://www.indexdata.org/rescission-of-the-management-and-protection-of-the-national-petroleum-reserve-in-alaska-regulations-issued-may-7-2024/)** — `2025-11-17` | `31 Pages`
-- `[`2025-18595`]` **[Rescission of Regulations Regarding Operations Conducted Under Notices for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-operations-conducted-under-notices-for-mining-claims/)** — `2025-09-25` | `2 Pages`
-- `[`2025-17537`]` **[Rescission of Conservation and Landscape Health Rule](https://www.indexdata.org/rescission-of-conservation-and-landscape-health-rule-2/)** — `2025-09-11` | `5 Pages`
-- `[`2025-16757`]` **[Rescission of Regulations Regarding Mining Claim Payments; Withdrawal](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-payments-withdrawal/)** — `2025-09-02` | `2 Pages`
-- `[`2025-16756`]` **[Rescission of Regulations Regarding Plans of Operations for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-plans-of-operations-for-mining-claims/)** — `2025-09-02` | `2 Pages`
-- `[`2025-16755`]` **[Revisions to Regulations Regarding Locating, Recording, and Maintaining Mining Claims or Sites-Fees](https://www.indexdata.org/revisions-to-regulations-regarding-locating-recording-and-maintaining-mining-claims-or-sites-fees/)** — `2025-09-02` | `3 Pages`
-- `[`2025-16754`]` **[Revisions to Regulations Regarding Locating, Recording, and Maintaining Mining Claims or Sites-Introduction](https://www.indexdata.org/revisions-to-regulations-regarding-locating-recording-and-maintaining-mining-claims-or-sites-introduction/)** — `2025-09-02` | `3 Pages`
-- `[`2025-16753`]` **[Revisions to Regulations Regarding Locating, Recording, and Maintaining Mining Claims or Sites-Failure To Comply](https://www.indexdata.org/revisions-to-regulations-regarding-locating-recording-and-maintaining-mining-claims-or-sites-failure-to-comply/)** — `2025-09-02` | `4 Pages`
-- `[`2025-14642`]` **[Revision to Regulations Regarding Approval of Operations; Valid Period of Approved Application for Permit To Drill](https://www.indexdata.org/revision-to-regulations-regarding-approval-of-operations-valid-period-of-approved-application-for-permit-to-drill/)** — `2025-08-01` | `3 Pages`
-- `[`2025-14627`]` **[Revisions to the Regulations Regarding Intermittent Energy](https://www.indexdata.org/revisions-to-the-regulations-regarding-intermittent-energy/)** — `2025-08-01` | `4 Pages`
-- `[`2025-14626`]` **[Revision to Regulations Regarding Onshore Oil and Gas Leasing; General](https://www.indexdata.org/revision-to-regulations-regarding-onshore-oil-and-gas-leasing-general/)** — `2025-08-01` | `2 Pages`
-- `[`2025-14625`]` **[Revision to Regulations Regarding Oil and Gas Leasing; Stipulations and Information Notices](https://www.indexdata.org/revision-to-regulations-regarding-oil-and-gas-leasing-stipulations-and-information-notices/)** — `2025-08-01` | `3 Pages`
-- `[`2025-14623`]` **[Revision to Regulations Regarding Coal Management Provisions and Limitations; Fees, Rentals, and Royalties](https://www.indexdata.org/revision-to-regulations-regarding-coal-management-provisions-and-limitations-fees-rentals-and-royalties/)** — `2025-08-01` | `3 Pages`
-- `[`2025-14621`]` **[Revision to Regulations Regarding Competitive Leases; Expression of Interest Process](https://www.indexdata.org/revision-to-regulations-regarding-competitive-leases-expression-of-interest-process/)** — `2025-08-01` | `3 Pages`
-- `[`2025-13777`]` **[Rescission of Regulations Regarding Prospecting Within National Forest Wilderness for the Purpose of Gathering Information About Mineral Resources](https://www.indexdata.org/rescission-of-regulations-regarding-prospecting-within-national-forest-wilderness-for-the-purpose-of-gathering-information-about-mineral-resources/)** — `2025-07-22` | `3 Pages`
-- `[`2025-13753`]` **[Rescission of Regulations Regarding Surface Protection Requirements](https://www.indexdata.org/rescission-of-regulations-regarding-surface-protection-requirements/)** — `2025-07-22` | `3 Pages`
-- `[`2025-13414`]` **[Rescission of Regulations Regarding Requirement for Filing Statement of Assessment Work](https://www.indexdata.org/rescission-of-regulations-regarding-requirement-for-filing-statement-of-assessment-work/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13413`]` **[Rescission of Regulations Regarding FLPMA Documents](https://www.indexdata.org/rescission-of-regulations-regarding-flpma-documents/)** — `2025-07-17` | `2 Pages`
-- `[`2025-13412`]` **[Rescission of Regulations Regarding Existing Use and Occupancy Under the Mining Laws](https://www.indexdata.org/rescission-of-regulations-regarding-existing-use-and-occupancy-under-the-mining-laws/)** — `2025-07-17` | `2 Pages`
-- `[`2025-13411`]` **[Rescission of Regulations Regarding Mineral Locations Within National Forest Wilderness](https://www.indexdata.org/rescission-of-regulations-regarding-mineral-locations-within-national-forest-wilderness/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13405`]` **[Rescission of Regulations Regarding Production Incentives for Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-production-incentives-for-geothermal-leases/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13404`]` **[Rescission of Regulations Regarding Competitive and Non-Competitive Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-competitive-and-non-competitive-geothermal-leases/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13403`]` **[Rescission of Regulations Regarding Leasing of Solid Minerals Other Than Coal and Oil Shale](https://www.indexdata.org/rescission-of-regulations-regarding-leasing-of-solid-minerals-other-than-coal-and-oil-shale-2/)** — `2025-07-17` | `4 Pages`
-- `[`2025-13402`]` **[Rescission of Regulations Regarding Hearings Procedures](https://www.indexdata.org/rescission-of-regulations-regarding-hearings-procedures/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13401`]` **[Rescission of Regulations Regarding the Disposal of Reserved Minerals Under the Stockraising Homestead Act](https://www.indexdata.org/rescission-of-regulations-regarding-the-disposal-of-reserved-minerals-under-the-stockraising-homestead-act/)** — `2025-07-17` | `2 Pages`
-- `[`2025-13400`]` **[Rescission of Regulations Regarding Mining Claim Payments](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-payments/)** — `2025-07-17` | `2 Pages`
-- `[`2025-13399`]` **[Rescission of Regulations Regarding Plans of Operations for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-plans-of-operations-for-mining-claims-2/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13398`]` **[Rescission of Regulations Regarding Mining Claim and Millsite Use](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-and-millsite-use/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13397`]` **[Rescission of Regulations Regarding Mining Claim Payments](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-payments-2/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13396`]` **[Rescission of Regulations Regarding Plans of Operations for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-plans-of-operations-for-mining-claims-3/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13394`]` **[Rescission of Regulations Regarding Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-geothermal-leases/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13393`]` **[Rescission of Regulations Regarding Geothermal Lease Royalty Rate Terms](https://www.indexdata.org/rescission-of-regulations-regarding-geothermal-lease-royalty-rate-terms/)** — `2025-07-17` | `2 Pages`
-- `[`2025-13392`]` **[Rescission of Regulations Regarding Geothermal Operations Plans and Drilling Permits](https://www.indexdata.org/rescission-of-regulations-regarding-geothermal-operations-plans-and-drilling-permits/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13391`]` **[Rescission of Regulations Regarding Annual Fees for Oil Shale Placer Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-annual-fees-for-oil-shale-placer-mining-claims/)** — `2025-07-17` | `3 Pages`
-
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
@@ -1221,6 +1184,44 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2025-13423`]` **[Revocation of Food Standards for 11 Products Not Currently Sold](https://www.indexdata.org/revocation-of-food-standards-for-11-products-not-currently-sold/)** — `2025-07-17` | `4 Pages`
 - `[`2025-13421`]` **[Revocation of Food Standards for 11 Products Not Currently Sold](https://www.indexdata.org/revocation-of-food-standards-for-11-products-not-currently-sold-2/)** — `2025-07-17` | `5 Pages`
 - `[`2025-13420`]` **[Proposal To Revoke 23 Standards of Identity for Foods](https://www.indexdata.org/proposal-to-revoke-23-standards-of-identity-for-foods/)** — `2025-07-17` | `8 Pages`
+
+### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
+
+- `[`2025-23228`]` **[Federal Onshore Oil and Gas Statewide Bonds; Extension of Phase-In Deadline](https://www.indexdata.org/federal-onshore-oil-and-gas-statewide-bonds-extension-of-phase-in-deadline/)** — `2025-12-18` | `3 Pages`
+- `[`2025-22820`]` **[Waste Prevention, Production Subject to Royalties, and Resource Conservation; Extension of Phase-In Requirements](https://www.indexdata.org/waste-prevention-production-subject-to-royalties-and-resource-conservation-extension-of-phase-in-requirements-2/)** — `2025-12-15` | `3 Pages`
+- `[`2025-19982`]` **[Rescission of the Management and Protection of the National Petroleum Reserve in Alaska Regulations, Issued May 7, 2024](https://www.indexdata.org/rescission-of-the-management-and-protection-of-the-national-petroleum-reserve-in-alaska-regulations-issued-may-7-2024/)** — `2025-11-17` | `31 Pages`
+- `[`2025-18595`]` **[Rescission of Regulations Regarding Operations Conducted Under Notices for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-operations-conducted-under-notices-for-mining-claims/)** — `2025-09-25` | `2 Pages`
+- `[`2025-17537`]` **[Rescission of Conservation and Landscape Health Rule](https://www.indexdata.org/rescission-of-conservation-and-landscape-health-rule-2/)** — `2025-09-11` | `5 Pages`
+- `[`2025-16757`]` **[Rescission of Regulations Regarding Mining Claim Payments; Withdrawal](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-payments-withdrawal/)** — `2025-09-02` | `2 Pages`
+- `[`2025-16756`]` **[Rescission of Regulations Regarding Plans of Operations for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-plans-of-operations-for-mining-claims/)** — `2025-09-02` | `2 Pages`
+- `[`2025-16755`]` **[Revisions to Regulations Regarding Locating, Recording, and Maintaining Mining Claims or Sites-Fees](https://www.indexdata.org/revisions-to-regulations-regarding-locating-recording-and-maintaining-mining-claims-or-sites-fees/)** — `2025-09-02` | `3 Pages`
+- `[`2025-16754`]` **[Revisions to Regulations Regarding Locating, Recording, and Maintaining Mining Claims or Sites-Introduction](https://www.indexdata.org/revisions-to-regulations-regarding-locating-recording-and-maintaining-mining-claims-or-sites-introduction/)** — `2025-09-02` | `3 Pages`
+- `[`2025-16753`]` **[Revisions to Regulations Regarding Locating, Recording, and Maintaining Mining Claims or Sites-Failure To Comply](https://www.indexdata.org/revisions-to-regulations-regarding-locating-recording-and-maintaining-mining-claims-or-sites-failure-to-comply/)** — `2025-09-02` | `4 Pages`
+- `[`2025-14642`]` **[Revision to Regulations Regarding Approval of Operations; Valid Period of Approved Application for Permit To Drill](https://www.indexdata.org/revision-to-regulations-regarding-approval-of-operations-valid-period-of-approved-application-for-permit-to-drill/)** — `2025-08-01` | `3 Pages`
+- `[`2025-14627`]` **[Revisions to the Regulations Regarding Intermittent Energy](https://www.indexdata.org/revisions-to-the-regulations-regarding-intermittent-energy/)** — `2025-08-01` | `4 Pages`
+- `[`2025-14626`]` **[Revision to Regulations Regarding Onshore Oil and Gas Leasing; General](https://www.indexdata.org/revision-to-regulations-regarding-onshore-oil-and-gas-leasing-general/)** — `2025-08-01` | `2 Pages`
+- `[`2025-14625`]` **[Revision to Regulations Regarding Oil and Gas Leasing; Stipulations and Information Notices](https://www.indexdata.org/revision-to-regulations-regarding-oil-and-gas-leasing-stipulations-and-information-notices/)** — `2025-08-01` | `3 Pages`
+- `[`2025-14623`]` **[Revision to Regulations Regarding Coal Management Provisions and Limitations; Fees, Rentals, and Royalties](https://www.indexdata.org/revision-to-regulations-regarding-coal-management-provisions-and-limitations-fees-rentals-and-royalties/)** — `2025-08-01` | `3 Pages`
+- `[`2025-14621`]` **[Revision to Regulations Regarding Competitive Leases; Expression of Interest Process](https://www.indexdata.org/revision-to-regulations-regarding-competitive-leases-expression-of-interest-process/)** — `2025-08-01` | `3 Pages`
+- `[`2025-13777`]` **[Rescission of Regulations Regarding Prospecting Within National Forest Wilderness for the Purpose of Gathering Information About Mineral Resources](https://www.indexdata.org/rescission-of-regulations-regarding-prospecting-within-national-forest-wilderness-for-the-purpose-of-gathering-information-about-mineral-resources/)** — `2025-07-22` | `3 Pages`
+- `[`2025-13753`]` **[Rescission of Regulations Regarding Surface Protection Requirements](https://www.indexdata.org/rescission-of-regulations-regarding-surface-protection-requirements/)** — `2025-07-22` | `3 Pages`
+- `[`2025-13414`]` **[Rescission of Regulations Regarding Requirement for Filing Statement of Assessment Work](https://www.indexdata.org/rescission-of-regulations-regarding-requirement-for-filing-statement-of-assessment-work/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13413`]` **[Rescission of Regulations Regarding FLPMA Documents](https://www.indexdata.org/rescission-of-regulations-regarding-flpma-documents/)** — `2025-07-17` | `2 Pages`
+- `[`2025-13412`]` **[Rescission of Regulations Regarding Existing Use and Occupancy Under the Mining Laws](https://www.indexdata.org/rescission-of-regulations-regarding-existing-use-and-occupancy-under-the-mining-laws/)** — `2025-07-17` | `2 Pages`
+- `[`2025-13411`]` **[Rescission of Regulations Regarding Mineral Locations Within National Forest Wilderness](https://www.indexdata.org/rescission-of-regulations-regarding-mineral-locations-within-national-forest-wilderness/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13405`]` **[Rescission of Regulations Regarding Production Incentives for Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-production-incentives-for-geothermal-leases/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13404`]` **[Rescission of Regulations Regarding Competitive and Non-Competitive Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-competitive-and-non-competitive-geothermal-leases/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13403`]` **[Rescission of Regulations Regarding Leasing of Solid Minerals Other Than Coal and Oil Shale](https://www.indexdata.org/rescission-of-regulations-regarding-leasing-of-solid-minerals-other-than-coal-and-oil-shale-2/)** — `2025-07-17` | `4 Pages`
+- `[`2025-13402`]` **[Rescission of Regulations Regarding Hearings Procedures](https://www.indexdata.org/rescission-of-regulations-regarding-hearings-procedures/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13401`]` **[Rescission of Regulations Regarding the Disposal of Reserved Minerals Under the Stockraising Homestead Act](https://www.indexdata.org/rescission-of-regulations-regarding-the-disposal-of-reserved-minerals-under-the-stockraising-homestead-act/)** — `2025-07-17` | `2 Pages`
+- `[`2025-13400`]` **[Rescission of Regulations Regarding Mining Claim Payments](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-payments/)** — `2025-07-17` | `2 Pages`
+- `[`2025-13399`]` **[Rescission of Regulations Regarding Plans of Operations for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-plans-of-operations-for-mining-claims-2/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13398`]` **[Rescission of Regulations Regarding Mining Claim and Millsite Use](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-and-millsite-use/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13397`]` **[Rescission of Regulations Regarding Mining Claim Payments](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-payments-2/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13396`]` **[Rescission of Regulations Regarding Plans of Operations for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-plans-of-operations-for-mining-claims-3/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13394`]` **[Rescission of Regulations Regarding Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-geothermal-leases/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13393`]` **[Rescission of Regulations Regarding Geothermal Lease Royalty Rate Terms](https://www.indexdata.org/rescission-of-regulations-regarding-geothermal-lease-royalty-rate-terms/)** — `2025-07-17` | `2 Pages`
 
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
@@ -1531,22 +1532,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2025-15266`]` **[Postmarks and Postal Possession](https://www.indexdata.org/postmarks-and-postal-possession-2/)** — `2025-08-12` | `7 Pages`
 - `[`2025-13415`]` **[Administrative False Claims Act](https://www.indexdata.org/administrative-false-claims-act/)** — `2025-07-17` | `6 Pages`
 
-### [Education Department](https://www.indexdata.org/united-states/education-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
-
-- `[`2025-19729`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program/)** — `2025-10-31` | `37 Pages`
-- `[`2025-19019`]` **[Contingent Additional Meeting Dates for Negotiated Rulemaking Committee](https://www.indexdata.org/contingent-additional-meeting-dates-for-negotiated-rulemaking-committee/)** — `2025-09-30` | `2 Pages`
-- `[`2025-18640`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Meaningful Learning Opportunities](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-meaningful-learning-opportunities/)** — `2025-09-25` | `4 Pages`
-- `[`2025-18639`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-career-pathways-and-workforce-readiness/)** — `2025-09-25` | `4 Pages`
-- `[`2025-17960`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Promoting Patriotic Education](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-promoting-patriotic-education/)** — `2025-09-17` | `3 Pages`
-- `[`2025-17310`]` **[Final Priorities and Definitions-Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States](https://www.indexdata.org/final-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions-on-evidence-based-literacy-education-choice-and-returning-education-to-the-states/)** — `2025-09-09` | `19 Pages`
-- `[`2025-15665`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program-2/)** — `2025-08-18` | `23 Pages`
-- `[`2025-14188`]` **[Final Waiver and Extension of the Project Period With Funding for Arts in Education National Program](https://www.indexdata.org/final-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program-2/)** — `2025-07-28` | `2 Pages`
-- `[`2025-13998`]` **[Public Hearing; Negotiated Rulemaking Committees](https://www.indexdata.org/public-hearing-negotiated-rulemaking-committees/)** — `2025-07-25` | `4 Pages`
-- `[`2025-13650`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing-artificial-intelligence-in-education/)** — `2025-07-21` | `4 Pages`
-- `[`2025-13385`]` **[Mental Health Service Professional Demonstration Grant Program](https://www.indexdata.org/mental-health-service-professional-demonstration-grant-program/)** — `2025-07-17` | `5 Pages`
-- `[`2025-13384`]` **[School-Based Mental Health Services Grant Program](https://www.indexdata.org/school-based-mental-health-services-grant-program/)** — `2025-07-17` | `5 Pages`
-
 ### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 
@@ -1591,6 +1576,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2025-13846`]` **[Publication of Venezuela Sanctions Regulations Web General Licenses 41A, 5R, and 41B](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-licenses-41a-5r-and-41b/)** — `2025-07-23` | `3 Pages`
 - `[`2025-13841`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General License 13N](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-license-13n/)** — `2025-07-23` | `2 Pages`
 - `[`2025-13836`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 55D and 115B](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55d-and-115b/)** — `2025-07-23` | `2 Pages`
+
+### [Education Department](https://www.indexdata.org/united-states/education-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
+
+- `[`2025-19729`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program/)** — `2025-10-31` | `37 Pages`
+- `[`2025-19019`]` **[Contingent Additional Meeting Dates for Negotiated Rulemaking Committee](https://www.indexdata.org/contingent-additional-meeting-dates-for-negotiated-rulemaking-committee/)** — `2025-09-30` | `2 Pages`
+- `[`2025-18640`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Meaningful Learning Opportunities](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-meaningful-learning-opportunities/)** — `2025-09-25` | `4 Pages`
+- `[`2025-18639`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-career-pathways-and-workforce-readiness/)** — `2025-09-25` | `4 Pages`
+- `[`2025-17960`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Promoting Patriotic Education](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-promoting-patriotic-education/)** — `2025-09-17` | `3 Pages`
+- `[`2025-17310`]` **[Final Priorities and Definitions-Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States](https://www.indexdata.org/final-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions-on-evidence-based-literacy-education-choice-and-returning-education-to-the-states/)** — `2025-09-09` | `19 Pages`
+- `[`2025-15665`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program-2/)** — `2025-08-18` | `23 Pages`
+- `[`2025-14188`]` **[Final Waiver and Extension of the Project Period With Funding for Arts in Education National Program](https://www.indexdata.org/final-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program-2/)** — `2025-07-28` | `2 Pages`
+- `[`2025-13998`]` **[Public Hearing; Negotiated Rulemaking Committees](https://www.indexdata.org/public-hearing-negotiated-rulemaking-committees/)** — `2025-07-25` | `4 Pages`
+- `[`2025-13650`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing-artificial-intelligence-in-education/)** — `2025-07-21` | `4 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -1822,6 +1821,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ho
 - `[`2025-19428`]` **[2026-2028 Enterprise Housing Goals](https://www.indexdata.org/2026-2028-enterprise-housing-goals-2/)** — `2025-10-02` | `31 Pages`
 - `[`2025-14183`]` **[Fair Lending, Fair Housing, and Equitable Housing Finance Plans](https://www.indexdata.org/fair-lending-fair-housing-and-equitable-housing-finance-plans-2/)** — `2025-07-28` | `9 Pages`
 
+### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+
+- `[`2025-24272`]` **[Restoring Flexibility in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/restoring-flexibility-in-the-child-care-and-development-fund-ccdf-2/)** — `2026-01-05` | `9 Pages`
+- `[`2025-22327`]` **[Solicitation of Proposals for New and Modified Safe Harbors and Special Fraud Alerts](https://www.indexdata.org/solicitation-of-proposals-for-new-and-modified-safe-harbors-and-special-fraud-alerts/)** — `2025-12-09` | `3 Pages`
+- `[`2025-21962`]` **[Expiration of Interim Final Rule: Control of Communicable Diseases; Foreign Quarantine](https://www.indexdata.org/expiration-of-interim-final-rule-control-of-communicable-diseases-foreign-quarantine/)** — `2025-12-04` | `2 Pages`
+- `[`2025-16321`]` **[Terminating National Institutes of Health Minority Biomedical Research Support Program and Rescinding the Program's Related Regulation](https://www.indexdata.org/terminating-national-institutes-of-health-minority-biomedical-research-support-program-and-rescinding-the-programs-related-regulation/)** — `2025-08-26` | `2 Pages`
+
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
 
@@ -1904,13 +1911,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-ser
 - `[`2025-22837`]` **[Program Review-Subsistence Management for Public Lands in Alaska](https://www.indexdata.org/program-review-subsistence-management-for-public-lands-in-alaska-2/)** — `2025-12-15` | `4 Pages`
 - `[`2025-13516`]` **[Subsistence Management Regulations for Public Lands in Alaska-2025-26 and 2026-27 Subsistence Taking of Fish and Shellfish Regulations](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-2025-26-and-2026-27-subsistence-taking-of-fish-and-shellfish-regulations/)** — `2025-07-18` | `13 Pages`
 - `[`2025-13497`]` **[Federal Subsistence Management Program; Transfer of Regulations](https://www.indexdata.org/federal-subsistence-management-program-transfer-of-regulations/)** — `2025-07-18` | `8 Pages`
-
-### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-
-- `[`2025-22327`]` **[Solicitation of Proposals for New and Modified Safe Harbors and Special Fraud Alerts](https://www.indexdata.org/solicitation-of-proposals-for-new-and-modified-safe-harbors-and-special-fraud-alerts/)** — `2025-12-09` | `3 Pages`
-- `[`2025-21962`]` **[Expiration of Interim Final Rule: Control of Communicable Diseases; Foreign Quarantine](https://www.indexdata.org/expiration-of-interim-final-rule-control-of-communicable-diseases-foreign-quarantine/)** — `2025-12-04` | `2 Pages`
-- `[`2025-16321`]` **[Terminating National Institutes of Health Minority Biomedical Research Support Program and Rescinding the Program's Related Regulation](https://www.indexdata.org/terminating-national-institutes-of-health-minority-biomedical-research-support-program-and-rescinding-the-programs-related-regulation/)** — `2025-08-26` | `2 Pages`
 
 ### [Industry And Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)

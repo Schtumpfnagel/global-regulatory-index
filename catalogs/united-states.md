@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,279` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,283` across `232` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 05:34 UTC`
+**Last Automated Sync:** `2026-11-12 06:42 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`306` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,279)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,283)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -331,8 +331,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr9612eh`]` **[H.R. 9612 (EH) - American Enrichment Deployment Act](https://www.indexdata.org/h-r-9612-eh-american-enrichment-deployment-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr3978eh`]` **[H.R. 3978 (EH) - Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act](https://www.indexdata.org/h-r-3978-eh-nuclear-refuel-recycling-efficient-fuels-utilizing-expedited-licensing-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr10990ih`]` **[H.R. 10990 (IH) - For the relief of Paula Valentina Albornoz Hernández, Eliana Karina Hernández Peranquive, Nicole Alejandra Albornoz Hernández, and Leonardo Albornoz Rodríguez.](https://www.indexdata.org/h-r-10990-ih-for-the-relief-of-paula-valentina-albornoz-hernandez-eliana-karina-hernandez-peranquive-nicole-alejandra-albornoz-hernandez-and-leonardo-albornoz-rodriguez/)** — `2026-11-01` | `5 Pages`
+- `[`US-BILLS-119hr10989ih`]` **[H.R. 10989 (IH) - Smart Transmission Line Placement Act](https://www.indexdata.org/h-r-10989-ih-smart-transmission-line-placement-act/)** — `2026-11-01` | `6 Pages`
+- `[`US-BILLS-119hr10988ih`]` **[H.R. 10988 (IH) - Lower Electricity Bills Act](https://www.indexdata.org/h-r-10988-ih-lower-electricity-bills-act/)** — `2026-11-01` | `7 Pages`
+- `[`US-BILLS-119hr10987ih`]` **[H.R. 10987 (IH) - Local Transmission Accountability Act](https://www.indexdata.org/h-r-10987-ih-local-transmission-accountability-act/)** — `2026-11-01` | `7 Pages`
 - `[`US-BILLS-119hr10986ih`]` **[H.R. 10986 (IH) - Lebanon TPS Act](https://www.indexdata.org/h-r-10986-ih-lebanon-tps-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10983ih`]` **[H.R. 10983 (IH) - No Gambling for Medicaid Act](https://www.indexdata.org/h-r-10983-ih-no-gambling-for-medicaid-act/)** — `2026-11-01` | `3 Pages`
+- `[`US-BILLS-119hr10981ih`]` **[H.R. 10981 (IH) - American AI Security Act](https://www.indexdata.org/h-r-10981-ih-american-ai-security-act/)** — `2026-11-01` | `18 Pages`
 - `[`US-BILLS-119hr10980ih`]` **[H.R. 10980 (IH) - Promoting Resilient Buildings Act](https://www.indexdata.org/h-r-10980-ih-promoting-resilient-buildings-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10979ih`]` **[H.R. 10979 (IH) - Defend American Manufacturing Act 2.0](https://www.indexdata.org/h-r-10979-ih-defend-american-manufacturing-act-2-0/)** — `2026-11-01` | `5 Pages`
 - `[`US-BILLS-119hr10978ih`]` **[H.R. 10978 (IH) - Cutting Red Tape for Small Businesses Act](https://www.indexdata.org/h-r-10978-ih-cutting-red-tape-for-small-businesses-act/)** — `2026-11-01` | `2 Pages`
@@ -1595,18 +1599,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-c
 - `[`2026-21088`]` **[Powers of Federal Credit Unions](https://www.indexdata.org/powers-of-federal-credit-unions/)** — `2026-10-15` | `3 Pages`
 - `[`2026-21087`]` **[Corporate Credit Unions; Fidelity Bond and Insurance Coverage for Federally Insured Credit Unions](https://www.indexdata.org/corporate-credit-unions-fidelity-bond-and-insurance-coverage-for-federally-insured-credit-unions/)** — `2026-10-15` | `4 Pages`
 
-### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
-
-- `[`2026-17792`]` **[Permitting Use of Computer-Based, Three-Dimensional Simulation for Periodic Refresher Training on Brake Systems](https://www.indexdata.org/permitting-use-of-computer-based-three-dimensional-simulation-for-periodic-refresher-training-on-brake-systems/)** — `2026-08-31` | `5 Pages`
-- `[`2026-17791`]` **[Miscellaneous Amendments to FRA's Accident Reporting Regulations](https://www.indexdata.org/miscellaneous-amendments-to-fras-accident-reporting-regulations/)** — `2026-08-31` | `5 Pages`
-- `[`2026-17790`]` **[Retiring Form FRA F 6180.107 and Form FRA F 6180.150](https://www.indexdata.org/retiring-form-fra-f-6180-107-and-form-fra-f-6180-150/)** — `2026-08-31` | `5 Pages`
-- `[`2026-17789`]` **[Repealing Outdated Railroad Workplace Safety Requirements and Making Other Improvements](https://www.indexdata.org/repealing-outdated-railroad-workplace-safety-requirements-and-making-other-improvements/)** — `2026-08-31` | `5 Pages`
-- `[`2026-17788`]` **[Expanding Certain Locomotive Wheel Set Diameter Variations](https://www.indexdata.org/expanding-certain-locomotive-wheel-set-diameter-variations/)** — `2026-08-31` | `4 Pages`
-- `[`2026-17787`]` **[Repealing Special Approval Requirement for Freight Cars More Than 50 Years Old](https://www.indexdata.org/repealing-special-approval-requirement-for-freight-cars-more-than-50-years-old/)** — `2026-08-31` | `7 Pages`
-- `[`2026-17786`]` **[Enhancing Railroad Discretion in Sounding Locomotive Horns at Passenger Stations](https://www.indexdata.org/enhancing-railroad-discretion-in-sounding-locomotive-horns-at-passenger-stations/)** — `2026-08-31` | `3 Pages`
-- `[`2026-17784`]` **[Amendments to Brake System Maintenance and Inspection Requirements](https://www.indexdata.org/amendments-to-brake-system-maintenance-and-inspection-requirements/)** — `2026-08-31` | `6 Pages`
-
 ### [Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-crimes-enforcement-network/](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
 
@@ -1873,6 +1865,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-de
 - `[`2026-19310`]` **[State Bank Parity](https://www.indexdata.org/state-bank-parity/)** — `2026-09-22` | `9 Pages`
 - `[`2026-19308`]` **[Merger Transactions](https://www.indexdata.org/merger-transactions/)** — `2026-09-22` | `40 Pages`
 - `[`2026-17865`]` **[Reciprocal Deposits: Implementing the 21st Century ROAD to Housing Act](https://www.indexdata.org/reciprocal-deposits-implementing-the-21st-century-road-to-housing-act/)** — `2026-09-01` | `8 Pages`
+
+### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
+
+- `[`2026-17792`]` **[Permitting Use of Computer-Based, Three-Dimensional Simulation for Periodic Refresher Training on Brake Systems](https://www.indexdata.org/permitting-use-of-computer-based-three-dimensional-simulation-for-periodic-refresher-training-on-brake-systems/)** — `2026-08-31` | `5 Pages`
+- `[`2026-17791`]` **[Miscellaneous Amendments to FRA's Accident Reporting Regulations](https://www.indexdata.org/miscellaneous-amendments-to-fras-accident-reporting-regulations/)** — `2026-08-31` | `5 Pages`
+- `[`2026-17790`]` **[Retiring Form FRA F 6180.107 and Form FRA F 6180.150](https://www.indexdata.org/retiring-form-fra-f-6180-107-and-form-fra-f-6180-150/)** — `2026-08-31` | `5 Pages`
+- `[`2026-17789`]` **[Repealing Outdated Railroad Workplace Safety Requirements and Making Other Improvements](https://www.indexdata.org/repealing-outdated-railroad-workplace-safety-requirements-and-making-other-improvements/)** — `2026-08-31` | `5 Pages`
 
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)

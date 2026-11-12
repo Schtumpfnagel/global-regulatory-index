@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,279` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,283` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 05:34 UTC`
+**Last Automated Sync:** `2026-11-12 06:42 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`306` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,7 +248,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,279)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,283)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -759,6 +759,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-03369`]` **[Emergency Safety Zone; Pacific Ocean, Bodega Bay, CA](https://www.indexdata.org/emergency-safety-zone-pacific-ocean-bodega-bay-ca/)** — `2024-02-16` | `3 Pages`
 - `[`2024-03235`]` **[Special Local Regulations; Sector Ohio Valley Annual and Recurring Special Local Regulations](https://www.indexdata.org/special-local-regulations-sector-ohio-valley-annual-and-recurring-special-local-regulations/)** — `2024-02-16` | `5 Pages`
 - `[`2024-02703`]` **[Safety Zone; Biscayne Bay, Homestead, FL](https://www.indexdata.org/safety-zone-biscayne-bay-homestead-fl/)** — `2024-02-12` | `4 Pages`
 - `[`2024-02701`]` **[Safety Zone; Fireworks Scattering; San Francisco Bay, San Francisco, CA](https://www.indexdata.org/safety-zone-fireworks-scattering-san-francisco-bay-san-francisco-ca/)** — `2024-02-12` | `3 Pages`
@@ -1091,41 +1092,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2023-22332`]` **[Olives Grown in California; Increased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-increased-assessment-rate/)** — `2023-10-10` | `4 Pages`
 - `[`2023-22331`]` **[Sweet Onions Grown in the Walla Walla Valley of Southeast Washington and Northeast Oregon; Increased Assessment Rate](https://www.indexdata.org/sweet-onions-grown-in-the-walla-walla-valley-of-southeast-washington-and-northeast-oregon-increased-assessment-rate/)** — `2023-10-10` | `4 Pages`
 
-### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
-
-- `[`2024-01378`]` **[Federal Independent Dispute Resolution (IDR) Process Administrative Fee and Certified IDR Entity Fee Ranges; Correction](https://www.indexdata.org/federal-independent-dispute-resolution-idr-process-administrative-fee-and-certified-idr-entity-fee-ranges-correction/)** — `2024-01-24` | `2 Pages`
-- `[`2024-01077`]` **[Request for Information-SECURE 2.0 Section 319-Effectiveness of Reporting and Disclosure Requirements](https://www.indexdata.org/request-for-information-secure-2-0-section-319-effectiveness-of-reporting-and-disclosure-requirements-2/)** — `2024-01-23` | `7 Pages`
-- `[`2024-01072`]` **[Federal Independent Dispute Resolution Operations; Reopening of Comment Period](https://www.indexdata.org/federal-independent-dispute-resolution-operations-reopening-of-comment-period/)** — `2024-01-22` | `2 Pages`
-- `[`2024-00978`]` **[Update to Minimum Present Value Requirements for Defined Benefit Plan Distributions](https://www.indexdata.org/update-to-minimum-present-value-requirements-for-defined-benefit-plan-distributions/)** — `2024-01-19` | `11 Pages`
-- `[`2024-00552`]` **[Corporate Bond Yield Curve for Determining Present Value](https://www.indexdata.org/corporate-bond-yield-curve-for-determining-present-value/)** — `2024-01-12` | `6 Pages`
-- `[`2024-00496`]` **[Definition of Energy Property and Rules Applicable to the Energy Credit; Correction](https://www.indexdata.org/definition-of-energy-property-and-rules-applicable-to-the-energy-credit-correction-2/)** — `2024-01-12` | `2 Pages`
-- `[`2024-00375`]` **[Section 30D Excluded Entities; Transfer of Clean Vehicle Credits Under Section 25E and Section 30D; Section 30D New Clean Vehicle Credit; Hearing](https://www.indexdata.org/section-30d-excluded-entities-transfer-of-clean-vehicle-credits-under-section-25e-and-section-30d-section-30d-new-clean-vehicle-credit-hearing/)** — `2024-01-11` | `2 Pages`
-- `[`2024-00260`]` **[Taxes on Taxable Distributions From Donor Advised Funds Under Section 4966](https://www.indexdata.org/taxes-on-taxable-distributions-from-donor-advised-funds-under-section-4966/)** — `2024-01-09` | `2 Pages`
-- `[`2023-28589`]` **[Bad Debt Deductions for Regulated Financial Companies and Members of Regulated Financial Groups](https://www.indexdata.org/bad-debt-deductions-for-regulated-financial-companies-and-members-of-regulated-financial-groups/)** — `2023-12-28` | `9 Pages`
-- `[`2023-28359`]` **[Section 45V Credit for Production of Clean Hydrogen; Section 48(a)(15) Election To Treat Clean Hydrogen Production Facilities as Energy Property](https://www.indexdata.org/section-45v-credit-for-production-of-clean-hydrogen-section-48a15-election-to-treat-clean-hydrogen-production-facilities-as-energy-property-2/)** — `2023-12-26` | `36 Pages`
-- `[`2023-27931`]` **[Federal Independent Dispute Resolution (IDR) Process Administrative Fee and Certified IDR Entity Fee Ranges](https://www.indexdata.org/federal-independent-dispute-resolution-idr-process-administrative-fee-and-certified-idr-entity-fee-ranges/)** — `2023-12-21` | `32 Pages`
-- `[`2023-27283`]` **[De Minimis Error Safe Harbor Exceptions to Penalties for Failure To File Correct Information Returns or Furnish Correct Payee Statements](https://www.indexdata.org/de-minimis-error-safe-harbor-exceptions-to-penalties-for-failure-to-file-correct-information-returns-or-furnish-correct-payee-statements/)** — `2023-12-19` | `19 Pages`
-- `[`2023-27498`]` **[Section 45X Advanced Manufacturing Production Credit](https://www.indexdata.org/section-45x-advanced-manufacturing-production-credit/)** — `2023-12-15` | `25 Pages`
-- `[`2023-26601`]` **[Revising Consolidated Return Regulations To Reflect Statutory Changes, Modernize Language, and Enhance Clarity; Correction](https://www.indexdata.org/revising-consolidated-return-regulations-to-reflect-statutory-changes-modernize-language-and-enhance-clarity-correction/)** — `2023-12-06` | `2 Pages`
-- `[`2023-26513`]` **[Section 30D Excluded Entities](https://www.indexdata.org/section-30d-excluded-entities/)** — `2023-12-04` | `19 Pages`
-- `[`2023-25987`]` **[Long-Term, Part-Time Employee Rules for Cash or Deferred Arrangements Under Section 401(k)](https://www.indexdata.org/long-term-part-time-employee-rules-for-cash-or-deferred-arrangements-under-section-401k/)** — `2023-11-27` | `22 Pages`
-- `[`2023-25715`]` **[Transactions Between Related Persons and Partnerships](https://www.indexdata.org/transactions-between-related-persons-and-partnerships/)** — `2023-11-27` | `5 Pages`
-- `[`2023-25539`]` **[Definition of Energy Property and Rules Applicable to the Energy Credit](https://www.indexdata.org/definition-of-energy-property-and-rules-applicable-to-the-energy-credit-2/)** — `2023-11-22` | `36 Pages`
-- `[`2023-24982`]` **[Taxes on Taxable Distributions From Donor Advised Funds Under Section 4966](https://www.indexdata.org/taxes-on-taxable-distributions-from-donor-advised-funds-under-section-4966-2/)** — `2023-11-14` | `20 Pages`
-- `[`2023-24650`]` **[Recognition and Deferral of Section 987 Gain or Loss; Comment Period Reopening](https://www.indexdata.org/recognition-and-deferral-of-section-987-gain-or-loss-comment-period-reopening/)** — `2023-11-14` | `2 Pages`
-- `[`2023-24649`]` **[Income and Currency Gain or Loss With Respect to a Qualified Business Unit](https://www.indexdata.org/income-and-currency-gain-or-loss-with-respect-to-a-qualified-business-unit/)** — `2023-11-14` | `77 Pages`
-- `[`2023-24608`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-2/)** — `2023-11-07` | `2 Pages`
-- `[`2023-23716`]` **[Federal Independent Dispute Resolution Operations](https://www.indexdata.org/federal-independent-dispute-resolution-operations-2/)** — `2023-11-03` | `145 Pages`
-- `[`2023-23624`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-3/)** — `2023-10-25` | `2 Pages`
-- `[`2023-23301`]` **[User Fees Relating to Enrolled Actuaries](https://www.indexdata.org/user-fees-relating-to-enrolled-actuaries/)** — `2023-10-20` | `5 Pages`
-- `[`2023-23268`]` **[Plan-Specific Substitute Mortality Tables for Determining Present Value](https://www.indexdata.org/plan-specific-substitute-mortality-tables-for-determining-present-value-2/)** — `2023-10-20` | `3 Pages`
-- `[`2023-23267`]` **[Mortality Tables for Determining Present Value Under Defined Benefit Pension Plans](https://www.indexdata.org/mortality-tables-for-determining-present-value-under-defined-benefit-pension-plans/)** — `2023-10-20` | `10 Pages`
-- `[`2023-22621`]` **[Modernizing Regulations on Sales of Seized Property](https://www.indexdata.org/modernizing-regulations-on-sales-of-seized-property-2/)** — `2023-10-16` | `7 Pages`
-- `[`2023-22286`]` **[Requirements for Type I and Type III Supporting Organizations](https://www.indexdata.org/requirements-for-type-i-and-type-iii-supporting-organizations/)** — `2023-10-16` | `15 Pages`
-- `[`2023-22353`]` **[Transfer of Clean Vehicle Credits Under Section 25E and Section 30D](https://www.indexdata.org/transfer-of-clean-vehicle-credits-under-section-25e-and-section-30d/)** — `2023-10-10` | `26 Pages`
-- `[`2023-22061`]` **[Guidance Under Section 367(b) Related to Certain Triangular Reorganizations and Inbound Nonrecognition Transactions](https://www.indexdata.org/guidance-under-section-367b-related-to-certain-triangular-reorganizations-and-inbound-nonrecognition-transactions-2/)** — `2023-10-06` | `20 Pages`
-
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
 
@@ -1160,6 +1126,40 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 - `[`2023-23299`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-21/)** — `2023-10-25` | `3 Pages`
 - `[`2023-23013`]` **[Medical Malpractice Claims by Members of the Uniformed Services](https://www.indexdata.org/medical-malpractice-claims-by-members-of-the-uniformed-services-2/)** — `2023-10-20` | `4 Pages`
 - `[`2023-22524`]` **[Delegations of Authority](https://www.indexdata.org/delegations-of-authority-4/)** — `2023-10-12` | `2 Pages`
+
+### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
+
+- `[`2024-01378`]` **[Federal Independent Dispute Resolution (IDR) Process Administrative Fee and Certified IDR Entity Fee Ranges; Correction](https://www.indexdata.org/federal-independent-dispute-resolution-idr-process-administrative-fee-and-certified-idr-entity-fee-ranges-correction/)** — `2024-01-24` | `2 Pages`
+- `[`2024-01077`]` **[Request for Information-SECURE 2.0 Section 319-Effectiveness of Reporting and Disclosure Requirements](https://www.indexdata.org/request-for-information-secure-2-0-section-319-effectiveness-of-reporting-and-disclosure-requirements-2/)** — `2024-01-23` | `7 Pages`
+- `[`2024-01072`]` **[Federal Independent Dispute Resolution Operations; Reopening of Comment Period](https://www.indexdata.org/federal-independent-dispute-resolution-operations-reopening-of-comment-period/)** — `2024-01-22` | `2 Pages`
+- `[`2024-00978`]` **[Update to Minimum Present Value Requirements for Defined Benefit Plan Distributions](https://www.indexdata.org/update-to-minimum-present-value-requirements-for-defined-benefit-plan-distributions/)** — `2024-01-19` | `11 Pages`
+- `[`2024-00552`]` **[Corporate Bond Yield Curve for Determining Present Value](https://www.indexdata.org/corporate-bond-yield-curve-for-determining-present-value/)** — `2024-01-12` | `6 Pages`
+- `[`2024-00496`]` **[Definition of Energy Property and Rules Applicable to the Energy Credit; Correction](https://www.indexdata.org/definition-of-energy-property-and-rules-applicable-to-the-energy-credit-correction-2/)** — `2024-01-12` | `2 Pages`
+- `[`2024-00375`]` **[Section 30D Excluded Entities; Transfer of Clean Vehicle Credits Under Section 25E and Section 30D; Section 30D New Clean Vehicle Credit; Hearing](https://www.indexdata.org/section-30d-excluded-entities-transfer-of-clean-vehicle-credits-under-section-25e-and-section-30d-section-30d-new-clean-vehicle-credit-hearing/)** — `2024-01-11` | `2 Pages`
+- `[`2024-00260`]` **[Taxes on Taxable Distributions From Donor Advised Funds Under Section 4966](https://www.indexdata.org/taxes-on-taxable-distributions-from-donor-advised-funds-under-section-4966/)** — `2024-01-09` | `2 Pages`
+- `[`2023-28589`]` **[Bad Debt Deductions for Regulated Financial Companies and Members of Regulated Financial Groups](https://www.indexdata.org/bad-debt-deductions-for-regulated-financial-companies-and-members-of-regulated-financial-groups/)** — `2023-12-28` | `9 Pages`
+- `[`2023-28359`]` **[Section 45V Credit for Production of Clean Hydrogen; Section 48(a)(15) Election To Treat Clean Hydrogen Production Facilities as Energy Property](https://www.indexdata.org/section-45v-credit-for-production-of-clean-hydrogen-section-48a15-election-to-treat-clean-hydrogen-production-facilities-as-energy-property-2/)** — `2023-12-26` | `36 Pages`
+- `[`2023-27931`]` **[Federal Independent Dispute Resolution (IDR) Process Administrative Fee and Certified IDR Entity Fee Ranges](https://www.indexdata.org/federal-independent-dispute-resolution-idr-process-administrative-fee-and-certified-idr-entity-fee-ranges/)** — `2023-12-21` | `32 Pages`
+- `[`2023-27283`]` **[De Minimis Error Safe Harbor Exceptions to Penalties for Failure To File Correct Information Returns or Furnish Correct Payee Statements](https://www.indexdata.org/de-minimis-error-safe-harbor-exceptions-to-penalties-for-failure-to-file-correct-information-returns-or-furnish-correct-payee-statements/)** — `2023-12-19` | `19 Pages`
+- `[`2023-27498`]` **[Section 45X Advanced Manufacturing Production Credit](https://www.indexdata.org/section-45x-advanced-manufacturing-production-credit/)** — `2023-12-15` | `25 Pages`
+- `[`2023-26601`]` **[Revising Consolidated Return Regulations To Reflect Statutory Changes, Modernize Language, and Enhance Clarity; Correction](https://www.indexdata.org/revising-consolidated-return-regulations-to-reflect-statutory-changes-modernize-language-and-enhance-clarity-correction/)** — `2023-12-06` | `2 Pages`
+- `[`2023-26513`]` **[Section 30D Excluded Entities](https://www.indexdata.org/section-30d-excluded-entities/)** — `2023-12-04` | `19 Pages`
+- `[`2023-25987`]` **[Long-Term, Part-Time Employee Rules for Cash or Deferred Arrangements Under Section 401(k)](https://www.indexdata.org/long-term-part-time-employee-rules-for-cash-or-deferred-arrangements-under-section-401k/)** — `2023-11-27` | `22 Pages`
+- `[`2023-25715`]` **[Transactions Between Related Persons and Partnerships](https://www.indexdata.org/transactions-between-related-persons-and-partnerships/)** — `2023-11-27` | `5 Pages`
+- `[`2023-25539`]` **[Definition of Energy Property and Rules Applicable to the Energy Credit](https://www.indexdata.org/definition-of-energy-property-and-rules-applicable-to-the-energy-credit-2/)** — `2023-11-22` | `36 Pages`
+- `[`2023-24982`]` **[Taxes on Taxable Distributions From Donor Advised Funds Under Section 4966](https://www.indexdata.org/taxes-on-taxable-distributions-from-donor-advised-funds-under-section-4966-2/)** — `2023-11-14` | `20 Pages`
+- `[`2023-24650`]` **[Recognition and Deferral of Section 987 Gain or Loss; Comment Period Reopening](https://www.indexdata.org/recognition-and-deferral-of-section-987-gain-or-loss-comment-period-reopening/)** — `2023-11-14` | `2 Pages`
+- `[`2023-24649`]` **[Income and Currency Gain or Loss With Respect to a Qualified Business Unit](https://www.indexdata.org/income-and-currency-gain-or-loss-with-respect-to-a-qualified-business-unit/)** — `2023-11-14` | `77 Pages`
+- `[`2023-24608`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-2/)** — `2023-11-07` | `2 Pages`
+- `[`2023-23716`]` **[Federal Independent Dispute Resolution Operations](https://www.indexdata.org/federal-independent-dispute-resolution-operations-2/)** — `2023-11-03` | `145 Pages`
+- `[`2023-23624`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-3/)** — `2023-10-25` | `2 Pages`
+- `[`2023-23301`]` **[User Fees Relating to Enrolled Actuaries](https://www.indexdata.org/user-fees-relating-to-enrolled-actuaries/)** — `2023-10-20` | `5 Pages`
+- `[`2023-23268`]` **[Plan-Specific Substitute Mortality Tables for Determining Present Value](https://www.indexdata.org/plan-specific-substitute-mortality-tables-for-determining-present-value-2/)** — `2023-10-20` | `3 Pages`
+- `[`2023-23267`]` **[Mortality Tables for Determining Present Value Under Defined Benefit Pension Plans](https://www.indexdata.org/mortality-tables-for-determining-present-value-under-defined-benefit-pension-plans/)** — `2023-10-20` | `10 Pages`
+- `[`2023-22621`]` **[Modernizing Regulations on Sales of Seized Property](https://www.indexdata.org/modernizing-regulations-on-sales-of-seized-property-2/)** — `2023-10-16` | `7 Pages`
+- `[`2023-22286`]` **[Requirements for Type I and Type III Supporting Organizations](https://www.indexdata.org/requirements-for-type-i-and-type-iii-supporting-organizations/)** — `2023-10-16` | `15 Pages`
+- `[`2023-22353`]` **[Transfer of Clean Vehicle Credits Under Section 25E and Section 30D](https://www.indexdata.org/transfer-of-clean-vehicle-credits-under-section-25e-and-section-30d/)** — `2023-10-10` | `26 Pages`
 
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
@@ -1222,12 +1222,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2023-18531`]` **[Energy Conservation Program: Test Procedure for Walk-In Coolers and Walk-In Freezers; Correction](https://www.indexdata.org/energy-conservation-program-test-procedure-for-walk-in-coolers-and-walk-in-freezers-correction/)** — `2023-10-25` | `5 Pages`
 - `[`2023-23204`]` **[Energy Conservation Program: Energy Conservation Standards for Electric Motors](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-electric-motors/)** — `2023-10-20` | `9 Pages`
 - `[`2023-21987`]` **[Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and-refrigerator-freezers-4/)** — `2023-10-10` | `112 Pages`
-- `[`2023-22149`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Furnace Fans](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-furnace-fans-3/)** — `2023-10-06` | `46 Pages`
-- `[`2023-20392`]` **[Energy Conservation Program: Energy Conservation Standards for Commercial Water Heating Equipment](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-commercial-water-heating-equipment/)** — `2023-10-06` | `139 Pages`
 
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
 
+- `[`2024-03231`]` **[Fee Schedules; Fee Recovery for Fiscal Year 2024](https://www.indexdata.org/fee-schedules-fee-recovery-for-fiscal-year-2024-2/)** — `2024-02-20` | `27 Pages`
 - `[`2024-00468`]` **[Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/unified-agenda-of-federal-regulatory-and-deregulatory-actions-7/)** — `2024-02-09` | `3 Pages`
 - `[`2024-02407`]` **[Regulatory Guide: Guidelines for Lightning Protection for Production and Utilization Facilities](https://www.indexdata.org/regulatory-guide-guidelines-for-lightning-protection-for-production-and-utilization-facilities/)** — `2024-02-07` | `2 Pages`
 - `[`2024-02286`]` **[Interim Staff Guidance: Material Compatibility for Non-Light Water Reactors](https://www.indexdata.org/interim-staff-guidance-material-compatibility-for-non-light-water-reactors/)** — `2024-02-06` | `2 Pages`
@@ -1558,6 +1557,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2023-23665`]` **[Section 108 Loan Guarantee Program: Announcement of Fee To Cover Credit Subsidy Costs for FY 2024](https://www.indexdata.org/section-108-loan-guarantee-program-announcement-of-fee-to-cover-credit-subsidy-costs-for-fy-2024/)** — `2023-10-26` | `3 Pages`
 - `[`2023-23332`]` **[Modernizing the Delivery of Housing Counseling Services](https://www.indexdata.org/modernizing-the-delivery-of-housing-counseling-services-2/)** — `2023-10-25` | `3 Pages`
 
+### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
+
+- `[`2024-03191`]` **[Commercial Driver's License (CDL) Standards; Incorporation by Reference of a New State Procedures Manual (SPM)](https://www.indexdata.org/commercial-drivers-license-cdl-standards-incorporation-by-reference-of-a-new-state-procedures-manual-spm-2/)** — `2024-02-20` | `11 Pages`
+- `[`2024-01710`]` **[Amendments to the Commercial Driver's License Requirements; Increased Flexibility for Testing and for Drivers After Passing the Skills Test](https://www.indexdata.org/amendments-to-the-commercial-drivers-license-requirements-increased-flexibility-for-testing-and-for-drivers-after-passing-the-skills-test/)** — `2024-02-02` | `19 Pages`
+- `[`2024-01056`]` **[Qualifications of Drivers: Medical Examiner's Handbook Regulatory Guidance](https://www.indexdata.org/qualifications-of-drivers-medical-examiners-handbook-regulatory-guidance/)** — `2024-01-22` | `4 Pages`
+- `[`2024-00980`]` **[Qualifications of Drivers: Medical Advisory Criteria](https://www.indexdata.org/qualifications-of-drivers-medical-advisory-criteria/)** — `2024-01-19` | `5 Pages`
+- `[`2024-00522`]` **[Safety Fitness Determinations](https://www.indexdata.org/safety-fitness-determinations/)** — `2024-01-12` | `3 Pages`
+- `[`2024-00262`]` **[Fees for the Unified Carrier Registration Plan and Agreement](https://www.indexdata.org/fees-for-the-unified-carrier-registration-plan-and-agreement-5/)** — `2024-01-09` | `7 Pages`
+- `[`2024-00016`]` **[General Technical, Organizational, Conforming, and Correcting Amendments to the Federal Motor Carrier Safety Regulations; Correction](https://www.indexdata.org/general-technical-organizational-conforming-and-correcting-amendments-to-the-federal-motor-carrier-safety-regulations-correction/)** — `2024-01-05` | `2 Pages`
+- `[`2023-24448`]` **[Incorporation by Reference; North American Standard Out-of-Service Criteria; Hazardous Materials Safety Permits](https://www.indexdata.org/incorporation-by-reference-north-american-standard-out-of-service-criteria-hazardous-materials-safety-permits-3/)** — `2023-11-08` | `5 Pages`
+- `[`2023-23303`]` **[Safety Fitness Determinations](https://www.indexdata.org/safety-fitness-determinations-2/)** — `2023-10-23` | `2 Pages`
+- `[`2023-22538`]` **[Clarification to the Applicability of Emergency Exemptions](https://www.indexdata.org/clarification-to-the-applicability-of-emergency-exemptions/)** — `2023-10-13` | `13 Pages`
+
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 
@@ -1584,19 +1597,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-en
 - `[`2023-23587`]` **[Requests for Commission Records Available in the Public Reference Room](https://www.indexdata.org/requests-for-commission-records-available-in-the-public-reference-room/)** — `2023-10-30` | `6 Pages`
 - `[`2023-23581`]` **[Reliability Standards To Address Inverter-Based Resources](https://www.indexdata.org/reliability-standards-to-address-inverter-based-resources/)** — `2023-10-30` | `40 Pages`
 - `[`2023-23592`]` **[Filing Process and Data Collection for the Electric Quarterly Report](https://www.indexdata.org/filing-process-and-data-collection-for-the-electric-quarterly-report/)** — `2023-10-27` | `24 Pages`
-
-### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
-
-- `[`2024-01710`]` **[Amendments to the Commercial Driver's License Requirements; Increased Flexibility for Testing and for Drivers After Passing the Skills Test](https://www.indexdata.org/amendments-to-the-commercial-drivers-license-requirements-increased-flexibility-for-testing-and-for-drivers-after-passing-the-skills-test/)** — `2024-02-02` | `19 Pages`
-- `[`2024-01056`]` **[Qualifications of Drivers: Medical Examiner's Handbook Regulatory Guidance](https://www.indexdata.org/qualifications-of-drivers-medical-examiners-handbook-regulatory-guidance/)** — `2024-01-22` | `4 Pages`
-- `[`2024-00980`]` **[Qualifications of Drivers: Medical Advisory Criteria](https://www.indexdata.org/qualifications-of-drivers-medical-advisory-criteria/)** — `2024-01-19` | `5 Pages`
-- `[`2024-00522`]` **[Safety Fitness Determinations](https://www.indexdata.org/safety-fitness-determinations/)** — `2024-01-12` | `3 Pages`
-- `[`2024-00262`]` **[Fees for the Unified Carrier Registration Plan and Agreement](https://www.indexdata.org/fees-for-the-unified-carrier-registration-plan-and-agreement-5/)** — `2024-01-09` | `7 Pages`
-- `[`2024-00016`]` **[General Technical, Organizational, Conforming, and Correcting Amendments to the Federal Motor Carrier Safety Regulations; Correction](https://www.indexdata.org/general-technical-organizational-conforming-and-correcting-amendments-to-the-federal-motor-carrier-safety-regulations-correction/)** — `2024-01-05` | `2 Pages`
-- `[`2023-24448`]` **[Incorporation by Reference; North American Standard Out-of-Service Criteria; Hazardous Materials Safety Permits](https://www.indexdata.org/incorporation-by-reference-north-american-standard-out-of-service-criteria-hazardous-materials-safety-permits-3/)** — `2023-11-08` | `5 Pages`
-- `[`2023-23303`]` **[Safety Fitness Determinations](https://www.indexdata.org/safety-fitness-determinations-2/)** — `2023-10-23` | `2 Pages`
-- `[`2023-22538`]` **[Clarification to the Applicability of Emergency Exemptions](https://www.indexdata.org/clarification-to-the-applicability-of-emergency-exemptions/)** — `2023-10-13` | `13 Pages`
 
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
@@ -1711,15 +1711,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-el
 - `[`2023-23124`]` **[Advisory Opinion Comment Procedures](https://www.indexdata.org/advisory-opinion-comment-procedures/)** — `2023-10-20` | `2 Pages`
 - `[`2023-23122`]` **[Size of Letters in Disclaimers](https://www.indexdata.org/size-of-letters-in-disclaimers/)** — `2023-10-20` | `2 Pages`
 
-### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
 
-- `[`2024-01947`]` **[Health Resources Priorities and Allocations System (HRPAS)](https://www.indexdata.org/health-resources-priorities-and-allocations-system-hrpas/)** — `2024-02-09` | `17 Pages`
-- `[`2024-01513`]` **[Possession, Use, and Transfer of Select Agents and Toxins; Biennial Review of the List of Select Agents and Toxins](https://www.indexdata.org/possession-use-and-transfer-of-select-agents-and-toxins-biennial-review-of-the-list-of-select-agents-and-toxins-2/)** — `2024-01-30` | `20 Pages`
-- `[`2023-21735`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs-2/)** — `2023-10-12` | `37 Pages`
-- `[`2023-21734`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs/)** — `2023-10-12` | `44 Pages`
-- `[`2023-22264`]` **[Annual Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/annual-civil-monetary-penalties-inflation-adjustment-5/)** — `2023-10-06` | `23 Pages`
-- `[`2023-21746`]` **[Public Health Service Policies on Research Misconduct](https://www.indexdata.org/public-health-service-policies-on-research-misconduct-2/)** — `2023-10-06` | `22 Pages`
+- `[`2024-03119`]` **[Exemptions From Average Fuel Economy Standards; Passenger Automobile Average Fuel Economy Standards](https://www.indexdata.org/exemptions-from-average-fuel-economy-standards-passenger-automobile-average-fuel-economy-standards/)** — `2024-02-20` | `8 Pages`
+- `[`2023-27665`]` **[Advanced Impaired Driving Prevention Technology](https://www.indexdata.org/advanced-impaired-driving-prevention-technology/)** — `2024-01-05` | `28 Pages`
+- `[`2023-26082`]` **[Federal Motor Vehicle Safety Standards: Child Restraint Systems](https://www.indexdata.org/federal-motor-vehicle-safety-standards-child-restraint-systems/)** — `2023-12-05` | `110 Pages`
+- `[`2023-25519`]` **[Federal Motor Vehicle Safety Standards; V2V Communications](https://www.indexdata.org/federal-motor-vehicle-safety-standards-v2v-communications/)** — `2023-11-20` | `2 Pages`
+- `[`2023-24381`]` **[Federal Motor Vehicle Safety Standards; Bus Rollover Structural Integrity](https://www.indexdata.org/federal-motor-vehicle-safety-standards-bus-rollover-structural-integrity/)** — `2023-11-13` | `10 Pages`
+- `[`2023-24611`]` **[Federal Motor Vehicle Theft Prevention Standard; Final Listing of 2021 Light Duty Truck Lines Subject to the Requirements of This Standard and Exempted Vehicle Lines for Model Year 2021](https://www.indexdata.org/federal-motor-vehicle-theft-prevention-standard-final-listing-of-2021-light-duty-truck-lines-subject-to-the-requirements-of-this-standard-and-exempted-vehicle-lines-for-model-year-2021/)** — `2023-11-09` | `3 Pages`
 
 ### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
@@ -1777,6 +1777,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-la
 - `[`2023-25300`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-2/)** — `2023-11-17` | `2 Pages`
 - `[`2023-22439`]` **[Privacy](https://www.indexdata.org/privacy-2/)** — `2023-10-11` | `6 Pages`
 
+### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+
+- `[`2024-01947`]` **[Health Resources Priorities and Allocations System (HRPAS)](https://www.indexdata.org/health-resources-priorities-and-allocations-system-hrpas/)** — `2024-02-09` | `17 Pages`
+- `[`2024-01513`]` **[Possession, Use, and Transfer of Select Agents and Toxins; Biennial Review of the List of Select Agents and Toxins](https://www.indexdata.org/possession-use-and-transfer-of-select-agents-and-toxins-biennial-review-of-the-list-of-select-agents-and-toxins-2/)** — `2024-01-30` | `20 Pages`
+- `[`2023-21735`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs-2/)** — `2023-10-12` | `37 Pages`
+- `[`2023-21734`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs/)** — `2023-10-12` | `44 Pages`
+- `[`2023-22264`]` **[Annual Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/annual-civil-monetary-penalties-inflation-adjustment-5/)** — `2023-10-06` | `23 Pages`
+
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 
@@ -1794,15 +1803,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2024-00553`]` **[Nondiscrimination on the Basis of Disability; Accessibility of Medical Diagnostic Equipment of State and Local Government Entities](https://www.indexdata.org/nondiscrimination-on-the-basis-of-disability-accessibility-of-medical-diagnostic-equipment-of-state-and-local-government-entities-2/)** — `2024-01-12` | `13 Pages`
 - `[`2024-00282`]` **[Privacy Act Regulations](https://www.indexdata.org/privacy-act-regulations-5/)** — `2024-01-10` | `11 Pages`
 - `[`2023-22206`]` **[Office of the Chief Administrative Hearing Officer, Review Procedures](https://www.indexdata.org/office-of-the-chief-administrative-hearing-officer-review-procedures/)** — `2023-10-12` | `6 Pages`
-
-### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
-
-- `[`2023-27665`]` **[Advanced Impaired Driving Prevention Technology](https://www.indexdata.org/advanced-impaired-driving-prevention-technology/)** — `2024-01-05` | `28 Pages`
-- `[`2023-26082`]` **[Federal Motor Vehicle Safety Standards: Child Restraint Systems](https://www.indexdata.org/federal-motor-vehicle-safety-standards-child-restraint-systems/)** — `2023-12-05` | `110 Pages`
-- `[`2023-25519`]` **[Federal Motor Vehicle Safety Standards; V2V Communications](https://www.indexdata.org/federal-motor-vehicle-safety-standards-v2v-communications/)** — `2023-11-20` | `2 Pages`
-- `[`2023-24381`]` **[Federal Motor Vehicle Safety Standards; Bus Rollover Structural Integrity](https://www.indexdata.org/federal-motor-vehicle-safety-standards-bus-rollover-structural-integrity/)** — `2023-11-13` | `10 Pages`
-- `[`2023-24611`]` **[Federal Motor Vehicle Theft Prevention Standard; Final Listing of 2021 Light Duty Truck Lines Subject to the Requirements of This Standard and Exempted Vehicle Lines for Model Year 2021](https://www.indexdata.org/federal-motor-vehicle-theft-prevention-standard-final-listing-of-2021-light-duty-truck-lines-subject-to-the-requirements-of-this-standard-and-exempted-vehicle-lines-for-model-year-2021/)** — `2023-11-09` | `3 Pages`
 
 ### [Prisons Bureau](https://www.indexdata.org/united-states/prisons-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/prisons-bureau/](https://www.indexdata.org/united-states/prisons-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/prisons-bureau/feed/)
