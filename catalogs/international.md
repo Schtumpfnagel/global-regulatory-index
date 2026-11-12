@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `978` across `20` issuing authorities  
-**Last Automated Sync:** `2026-11-11 23:10 UTC`
+**Total Indexed Dossiers in International:** `982` across `20` issuing authorities  
+**Last Automated Sync:** `2026-11-12 00:04 UTC`
 
 ---
 
@@ -13,7 +13,7 @@
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`172` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`157` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
-- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`137` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
+- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`141` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
@@ -34,7 +34,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–978 of 978)
+## Indexed Statutory & Regulatory Dossiers (Records 1–982 of 982)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -411,6 +411,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 - `[`FAO-CE1981EN`]` **[Coastal hazards and adaptation in Small Island Developing States based on the Coastal Hazard Wheel framework](https://www.indexdata.org/coastal-hazards-and-adaptation-in-small-island-developing-states-based-on-the-coastal-hazard-wheel-framework-5/)** — `2026-11-07` | `25 Pages`
 - `[`FAO-CE1964EN`]` **[Coastal hazards and adaptation in Small Island Developing States based on the Coastal Hazard Wheel framework](https://www.indexdata.org/coastal-hazards-and-adaptation-in-small-island-developing-states-based-on-the-coastal-hazard-wheel-framework-4/)** — `2026-11-07` | `25 Pages`
 - `[`FAO-CE2462EN`]` **[Strengthening UN-Nutrition coordination country mechanism towards delivering as one - GCP/GLO/1318/IRE](https://www.indexdata.org/strengthening-un-nutrition-coordination-country-mechanism-towards-delivering-as-one-gcp-glo-1318-ire/)** — `2026-11-06` | `2 Pages`
+- `[`FAO-CE2461EN`]` **[The Coastal Fisheries Initiatives Global Partnership - GCP/GLO/838/GFF](https://www.indexdata.org/the-coastal-fisheries-initiatives-global-partnership-gcp-glo-838-gff/)** — `2026-11-06` | `2 Pages`
 - `[`FAO-CE2460EN`]` **[Improved rural livelihoods through support to Moringa Value Chain development in SNNPR-Ethiopia - GCP/ETH/104/ITA](https://www.indexdata.org/improved-rural-livelihoods-through-support-to-moringa-value-chain-development-in-snnpr-ethiopia-gcp-eth-104-ita/)** — `2026-11-06` | `2 Pages`
 - `[`FAO-CE2459EN`]` **[FAO Complementary Support to the Cambodia Programme for Sustainable and Inclusive Growth in the Fisheries Sector: Capture component (CAPFISH Capture) - GCP/CMB/043/EC](https://www.indexdata.org/fao-complementary-support-to-the-cambodia-programme-for-sustainable-and-inclusive-growth-in-the-fisheries-sector-capture-component-capfish-capture-gcp-cmb-043-ec/)** — `2026-11-06` | `2 Pages`
 - `[`FAO-CE2458EN`]` **[Creating the enabling environment for enhanced climate ambition and action through institutional capacity building - EP/INT/431/UEP](https://www.indexdata.org/creating-the-enabling-environment-for-enhanced-climate-ambition-and-action-through-institutional-capacity-building-ep-int-431-uep/)** — `2026-11-06` | `2 Pages`
@@ -440,10 +441,13 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 - `[`FAO-CA1348EN`]` **[FAO NSHR Contract Regulations](https://www.indexdata.org/fao-nshr-contract-regulations/)** — `2026-11-03` | `154 Pages`
 - `[`FAO-CE0684EN`]` **[Sri Lanka: Red Rice](https://www.indexdata.org/sri-lanka-red-rice/)** — `2026-11-01` | `4 Pages`
 - `[`FAO-NV240EN`]` **[Intergovernmental Technical Working Group on Animal Genetic Resources for Food and Agriculture - Annotated provisional agenda and timetable - CGRFA/WG-AnGR-14/26/1/Add.1/Rev.1](https://www.indexdata.org/intergovernmental-technical-working-group-on-animal-genetic-resources-for-food-and-agriculture-annotated-provisional-agenda-and-timetable-cgrfa-wg-angr-14-26-1-add-1-rev-1/)** — `2026-10-30` | `4 Pages`
+- `[`FAO-NV051EN`]` **[CFS 2026/54/4 - CFS Policy Recommendations on Building Resilient Food Systems – Draft Conclusions](https://www.indexdata.org/cfs-2026-54-4-cfs-policy-recommendations-on-building-resilient-food-systems-draft-conclusions/)** — `2026-10-30` | `2 Pages`
 - `[`FAO-CE2322EN`]` **[Draft revised Second Global Plan of Action for Plant Genetic Resources for Food and Agriculture – revised text (26 October 2026)](https://www.indexdata.org/draft-revised-second-global-plan-of-action-for-plant-genetic-resources-for-food-and-agriculture-revised-text-26-october-2026/)** — `2026-10-30` | `13 Pages`
 - `[`FAO-CE2320EN`]` **[Friends of the Chairperson Group for the Revision of the Second Global Plan of Action for Plant Genetic Resources for Food and Agriculture - Letter from the Co-Chairs on future meetings](https://www.indexdata.org/friends-of-the-chairperson-group-for-the-revision-of-the-second-global-plan-of-action-for-plant-genetic-resources-for-food-and-agriculture-letter-from-the-co-chairs-on-future-meetings/)** — `2026-10-30` | `2 Pages`
 - `[`FAO-NU902EN`]` **[FC 210/17 - Updated Finance Committee Roadmap](https://www.indexdata.org/fc-210-17-updated-finance-committee-roadmap/)** — `2026-10-29` | `5 Pages`
 - `[`FAO-CE2291EN`]` **[CFS 54/Statements/Item III: Switzerland](https://www.indexdata.org/cfs-54-statements-item-iii-switzerland/)** — `2026-10-29` | `2 Pages`
+- `[`FAO-CE2288EN`]` **[CFS 54/Statements/Item III: Brazil](https://www.indexdata.org/cfs-54-statements-item-iii-brazil/)** — `2026-10-29` | `2 Pages`
+- `[`FAO-CE2269EN`]` **[El Niño heightens Rift Valley fever risk in eastern Africa: countries urged to prepare](https://www.indexdata.org/el-nino-heightens-rift-valley-fever-risk-in-eastern-africa-countries-urged-to-prepare/)** — `2026-10-29` | `4 Pages`
 - `[`FAO-CE2260EN`]` **[SWIOFC - South West Indian Ocean Fisheries Commission - 14th session - Summary Report of the 14th Meeting of the Working Party on Collaboration and Cooperation in Tuna Fisheries](https://www.indexdata.org/swiofc-south-west-indian-ocean-fisheries-commission-14th-session-summary-report-of-the-14th-meeting-of-the-working-party-on-collaboration-and-cooperation-in-tuna-fisheries/)** — `2026-10-29` | `5 Pages`
 - `[`FAO-NV489EN`]` **[CL 182/16 - United Nations Decade of Mountain Resilience 2028–2037 Draft Conference Resolution](https://www.indexdata.org/cl-182-16-united-nations-decade-of-mountain-resilience-2028-2037-draft-conference-resolution/)** — `2026-10-28` | `4 Pages`
 - `[`FAO-NV263EN`]` **[CL 182/INF/3 WA2 - Global responses and engagement around the 2026 energy and fertilizer crises](https://www.indexdata.org/cl-182-inf-3-wa2-global-responses-and-engagement-around-the-2026-energy-and-fertilizer-crises/)** — `2026-10-28` | `3 Pages`

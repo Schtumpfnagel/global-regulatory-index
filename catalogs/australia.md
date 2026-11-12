@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,268` across `35` issuing authorities  
-**Last Automated Sync:** `2026-11-11 23:10 UTC`
+**Total Indexed Dossiers in Australia:** `1,269` across `35` issuing authorities  
+**Last Automated Sync:** `2026-11-12 00:04 UTC`
 
 ---
 
@@ -29,9 +29,9 @@
 - **[Department of Health and Aged Care](https://www.indexdata.org/australia/department-of-health-and-aged-care/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-health-and-aged-care/) | [RSS Feed](https://www.indexdata.org/australia/department-of-health-and-aged-care/feed/)
 - **[Great Barrier Reef Marine Park Authority](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/) | [RSS Feed](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/feed/)
 - **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
+- **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
 - **[Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/) | [RSS Feed](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/feed/)
 - **[Department of Social Services](https://www.indexdata.org/australia/department-of-social-services/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-social-services/) | [RSS Feed](https://www.indexdata.org/australia/department-of-social-services/feed/)
-- **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
 - **[Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
 - **[Department of Industry, Science and Resources](https://www.indexdata.org/australia/department-of-industry-science-and-resources/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-industry-science-and-resources/) | [RSS Feed](https://www.indexdata.org/australia/department-of-industry-science-and-resources/feed/)
 - **[Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
@@ -50,7 +50,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,268 of 1,268)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,269 of 1,269)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1272,6 +1272,23 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-law
 - `[`AU-ALRC-23413`]` **[ci_1647_name_withheld](https://www.indexdata.org/ci_1647_name_withheld/)** — `2026-07-20` | `2 Pages`
 - `[`AU-ALRC-23352`]` **[7 NTFA Final Report Info Sheet – Statutory Procedures](https://www.indexdata.org/7-ntfa-final-report-info-sheet-statutory-procedures/)** — `2026-06-23` | `2 Pages`
 
+### [Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
+
+- `[`AU-ACIAR-AR2025-26`]` **[Annual Report 2025-26](https://www.indexdata.org/annual-report-2025-26/)** — `2026-10-22` | `122 Pages`
+- `[`AU-ACIAR-CP2026-27`]` **[Corporate Plan 2026–27](https://www.indexdata.org/corporate-plan-2026-27/)** — `2026-08-31` | `27 Pages`
+- `[`AU-ACIAR-AOP2026-27`]` **[Annual Operational Plan 2026-27](https://www.indexdata.org/annual-operational-plan-2026-27/)** — `2026-08-10` | `116 Pages`
+- `[`AU-ACIAR-MN223`]` **[Fusarium wilt of bananas: An integrated disease management manual](https://www.indexdata.org/fusarium-wilt-of-bananas-an-integrated-disease-management-manual/)** — `2026-05-22` | `124 Pages`
+- `[`AU-ACIAR-FR2024-024`]` **[Drug sensitive and resistant tuberculosis and zoonotic infections as causes of lymphadenitis in 2 provinces in Papua New Guinea - Final Report](https://www.indexdata.org/drug-sensitive-and-resistant-tuberculosis-and-zoonotic-infections-as-causes-of-lymphadenitis-in-2-provinces-in-papua-new-guinea-final-report/)** — `2024-08-13` | `35 Pages`
+- `[`AU-ACIAR-MN220`]` **[Smallholder coffee production training package](https://www.indexdata.org/smallholder-coffee-production-training-package/)** — `2024-08-07` | `64 Pages`
+- `[`AU-ACIAR-FR2023-046`]` **[Supporting inter-provincial water allocation decision making in Pakistan - Final Report](https://www.indexdata.org/supporting-inter-provincial-water-allocation-decision-making-in-pakistan-final-report/)** — `2023-10-09` | `51 Pages`
+- `[`AU-ACIAR-FR2023-045`]` **[Climate-smart landscapes for promoting sustainability of Pacific Island agricultural systems - Final Report](https://www.indexdata.org/climate-smart-landscapes-for-promoting-sustainability-of-pacific-island-agricultural-systems-final-report/)** — `2023-09-12` | `53 Pages`
+- `[`AU-ACIAR-FR2023-044`]` **[Restoring damaged coral reefs using mass coral larval reseeding - Final Report](https://www.indexdata.org/restoring-damaged-coral-reefs-using-mass-coral-larval-reseeding-final-report/)** — `2023-08-28` | `105 Pages`
+- `[`AU-ACIAR-FR2023-043`]` **[Analysing Gender Transformative Approaches to Agricultural Development with Ethnic Minority Communities in Vietnam - Final Report](https://www.indexdata.org/analysing-gender-transformative-approaches-to-agricultural-development-with-ethnic-minority-communities-in-vietnam-final-report/)** — `2023-08-23` | `488 Pages`
+- `[`AU-ACIAR-FR2023-005`]` **[Improving milk supply, competitiveness and livelihoods of smallholder dairy chains in Indonesia - Final Report](https://www.indexdata.org/improving-milk-supply-competitiveness-and-livelihoods-of-smallholder-dairy-chains-in-indonesia-final-report/)** — `2023-01-23` | `116 Pages`
+- `[`AU-ACIAR-FR2023-004`]` **[Initiating private sector partnerships to sustainably grow the smallholder dairy sectors of Indonesia and the Philippines - Final Report](https://www.indexdata.org/initiating-private-sector-partnerships-to-sustainably-grow-the-smallholder-dairy-sectors-of-indonesia-and-the-philippines-final-report/)** — `2023-01-23` | `270 Pages`
+- `[`AU-ACIAR-PR074`]` **[Sustainable parasite control in small ruminants](https://www.indexdata.org/sustainable-parasite-control-in-small-ruminants/)** — `1996-12-31` | `205 Pages`
+
 ### [Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/) | [RSS Feed](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/feed/)
 
@@ -1305,22 +1322,6 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-
 - `[`C2025A00079`]` **[Social Security and Other Legislation Amendment (Technical Changes No. 2) Act 2025](https://www.indexdata.org/social-security-and-other-legislation-amendment-technical-changes-no-2-act-2025/)** — `2025-12-04` | `59 Pages`
 - `[`C2025A00006`]` **[Social Security Legislation Amendment (Technical Changes) Act 2025](https://www.indexdata.org/social-security-legislation-amendment-technical-changes-act-2025/)** — `2025-02-14` | `9 Pages`
 - `[`C2024A00011`]` **[Social Services Legislation Amendment (Child Support and Family Assistance Technical Amendments) Act 2024](https://www.indexdata.org/social-services-legislation-amendment-child-support-and-family-assistance-technical-amendments-act-2024/)** — `2024-03-28` | `10 Pages`
-
-### [Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
-
-- `[`AU-ACIAR-AR2025-26`]` **[Annual Report 2025-26](https://www.indexdata.org/annual-report-2025-26/)** — `2026-10-22` | `122 Pages`
-- `[`AU-ACIAR-CP2026-27`]` **[Corporate Plan 2026–27](https://www.indexdata.org/corporate-plan-2026-27/)** — `2026-08-31` | `27 Pages`
-- `[`AU-ACIAR-AOP2026-27`]` **[Annual Operational Plan 2026-27](https://www.indexdata.org/annual-operational-plan-2026-27/)** — `2026-08-10` | `116 Pages`
-- `[`AU-ACIAR-MN223`]` **[Fusarium wilt of bananas: An integrated disease management manual](https://www.indexdata.org/fusarium-wilt-of-bananas-an-integrated-disease-management-manual/)** — `2026-05-22` | `124 Pages`
-- `[`AU-ACIAR-FR2024-024`]` **[Drug sensitive and resistant tuberculosis and zoonotic infections as causes of lymphadenitis in 2 provinces in Papua New Guinea - Final Report](https://www.indexdata.org/drug-sensitive-and-resistant-tuberculosis-and-zoonotic-infections-as-causes-of-lymphadenitis-in-2-provinces-in-papua-new-guinea-final-report/)** — `2024-08-13` | `35 Pages`
-- `[`AU-ACIAR-MN220`]` **[Smallholder coffee production training package](https://www.indexdata.org/smallholder-coffee-production-training-package/)** — `2024-08-07` | `64 Pages`
-- `[`AU-ACIAR-FR2023-046`]` **[Supporting inter-provincial water allocation decision making in Pakistan - Final Report](https://www.indexdata.org/supporting-inter-provincial-water-allocation-decision-making-in-pakistan-final-report/)** — `2023-10-09` | `51 Pages`
-- `[`AU-ACIAR-FR2023-045`]` **[Climate-smart landscapes for promoting sustainability of Pacific Island agricultural systems - Final Report](https://www.indexdata.org/climate-smart-landscapes-for-promoting-sustainability-of-pacific-island-agricultural-systems-final-report/)** — `2023-09-12` | `53 Pages`
-- `[`AU-ACIAR-FR2023-044`]` **[Restoring damaged coral reefs using mass coral larval reseeding - Final Report](https://www.indexdata.org/restoring-damaged-coral-reefs-using-mass-coral-larval-reseeding-final-report/)** — `2023-08-28` | `105 Pages`
-- `[`AU-ACIAR-FR2023-043`]` **[Analysing Gender Transformative Approaches to Agricultural Development with Ethnic Minority Communities in Vietnam - Final Report](https://www.indexdata.org/analysing-gender-transformative-approaches-to-agricultural-development-with-ethnic-minority-communities-in-vietnam-final-report/)** — `2023-08-23` | `488 Pages`
-- `[`AU-ACIAR-FR2023-005`]` **[Improving milk supply, competitiveness and livelihoods of smallholder dairy chains in Indonesia - Final Report](https://www.indexdata.org/improving-milk-supply-competitiveness-and-livelihoods-of-smallholder-dairy-chains-in-indonesia-final-report/)** — `2023-01-23` | `116 Pages`
-- `[`AU-ACIAR-FR2023-004`]` **[Initiating private sector partnerships to sustainably grow the smallholder dairy sectors of Indonesia and the Philippines - Final Report](https://www.indexdata.org/initiating-private-sector-partnerships-to-sustainably-grow-the-smallholder-dairy-sectors-of-indonesia-and-the-philippines-final-report/)** — `2023-01-23` | `270 Pages`
 
 ### [Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
