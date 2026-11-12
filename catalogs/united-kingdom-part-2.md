@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,678` across `70` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,681` across `70` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-12 06:42 UTC`
+**Last Automated Sync:** `2026-11-12 07:50 UTC`
 
 ---
 
@@ -21,7 +21,7 @@
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`133` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
-- **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`123` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
+- **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`94` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`76` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
@@ -86,11 +86,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,678 of 2,678)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,681 of 2,681)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2025-1297`]` **[The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2025](https://www.indexdata.org/the-government-of-wales-act-2006-devolved-welsh-authorities-amendment-order-2025/)** — `2025-12-10` | `4 Pages`
 - `[`UKSI-2025-1316`]` **[The Procurement Act 2023 (Commencement No. 4) Regulations 2025](https://www.indexdata.org/the-procurement-act-2023-commencement-no-4-regulations-2025/)** — `2025-12-09` | `4 Pages`
 - `[`UKPGA-2025-30`]` **[Animal Welfare (Import of Dogs, Cats and Ferrets) Act 2025](https://www.indexdata.org/animal-welfare-import-of-dogs-cats-and-ferrets-act-2025/)** — `2025-12-02` | `16 Pages`
 - `[`UKPGA-2025-29`]` **[Property (Digital Assets etc) Act 2025](https://www.indexdata.org/property-digital-assets-etc-act-2025/)** — `2025-12-02` | `6 Pages`
@@ -387,6 +388,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2025-1300`]` **[The Double Taxation Relief and International Tax Enforcement (Portuguese Republic) Order 2025](https://www.indexdata.org/the-double-taxation-relief-and-international-tax-enforcement-portuguese-republic-order-2025/)** — `2025-12-10` | `28 Pages`
+- `[`UKSI-2025-1293`]` **[The Financial Services and Markets Act 2023 (Commencement No. 10 and Saving Provisions) (Amendment) Regulations 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2023-commencement-no-10-and-saving-provisions-amendment-regulations-2025/)** — `2025-12-10` | `4 Pages`
 - `[`UKSI-2025-1254`]` **[The Van Benefit and Car and Van Fuel Benefit Order 2025](https://www.indexdata.org/the-van-benefit-and-car-and-van-fuel-benefit-order-2025/)** — `2025-12-01` | `2 Pages`
 - `[`UKSI-2025-1253`]` **[The Corporation Tax Act 2010 (Part 8C) (Amendment) Regulations 2025](https://www.indexdata.org/the-corporation-tax-act-2010-part-8c-amendment-regulations-2025/)** — `2025-12-01` | `4 Pages`
 - `[`UKSI-2025-1219`]` **[The State Pension Revaluation for Transitional Pensions Order 2025](https://www.indexdata.org/the-state-pension-revaluation-for-transitional-pensions-order-2025/)** — `2025-11-25` | `4 Pages`

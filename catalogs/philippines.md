@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `358` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-12 06:42 UTC`
+**Total Indexed Dossiers in Philippines:** `359` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-12 07:50 UTC`
 
 ---
 
@@ -14,7 +14,7 @@
 
 - **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`96` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
-- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
+- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–358 of 358)
+## Indexed Statutory & Regulatory Dossiers (Records 1–359 of 359)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -209,6 +209,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/national-pri
 - `[`PH-NPC-54279`]` **[2026.07.31, Order NPC BN 25-370, Order In re Pearl Energy Philippines Operating, Inc.](https://www.indexdata.org/2026-07-31-order-npc-bn-25-370-order-in-re-pearl-energy-philippines-operating-inc/)** — `2026-11-12` | `9 Pages`
 - `[`PH-NPC-54271`]` **[2025.08.04, Decision NPC 22-046 CLA v. GBO](https://www.indexdata.org/2025-08-04-decision-npc-22-046-cla-v-gbo/)** — `2026-11-12` | `28 Pages`
 - `[`PH-NPC-54267`]` **[2025.07.03. Resolution NPC 20-297 CTG v. G-Xchange, Inc. and Globe Telecom, Inc.](https://www.indexdata.org/2025-07-03-resolution-npc-20-297-ctg-v-g-xchange-inc-and-globe-telecom-inc/)** — `2026-11-12` | `8 Pages`
+- `[`PH-NPC-54266`]` **[2025.05.08, Resolution NPC 23-054, 23-055 23-056, Resolution EWT vs. ETB, EWT vs. LAC, EWT vs. RBD.](https://www.indexdata.org/2025-05-08-resolution-npc-23-054-23-055-23-056-resolution-ewt-vs-etb-ewt-vs-lac-ewt-vs-rbd/)** — `2026-11-12` | `22 Pages`
 - `[`PH-NPC-54256`]` **[CBD ICT Machineries and Equipment.](https://www.indexdata.org/cbd-ict-machineries-and-equipment-2/)** — `2026-11-10` | `131 Pages`
 - `[`PH-NPC-54255`]` **[Invitation to Bid - ICT Machineries and Equipment](https://www.indexdata.org/invitation-to-bid-ict-machineries-and-equipment-2/)** — `2026-11-10` | `3 Pages`
 - `[`PH-NPC-54254`]` **[CBD Cloud Hosting](https://www.indexdata.org/cbd-cloud-hosting/)** — `2026-11-10` | `142 Pages`

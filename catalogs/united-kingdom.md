@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,678` across `70` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,681` across `70` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-12 06:42 UTC`
+**Last Automated Sync:** `2026-11-12 07:50 UTC`
 
 ---
 
@@ -21,7 +21,7 @@
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`133` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
-- **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`123` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
+- **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`94` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`76` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
@@ -86,7 +86,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,678)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,681)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -299,7 +299,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2025-1329`]` **[The M60/M62/M66 Simister Island Interchange Development Consent (Correction) Order 2025](https://www.indexdata.org/the-m60-m62-m66-simister-island-interchange-development-consent-correction-order-2025/)** — `2025-12-11` | `4 Pages`
 - `[`UKSI-2025-1314`]` **[The Old Trafford Regeneration Mayoral Development Corporation (Establishment) Order 2025](https://www.indexdata.org/the-old-trafford-regeneration-mayoral-development-corporation-establishment-order-2025/)** — `2025-12-11` | `2 Pages`
 - `[`UKSI-2025-1310`]` **[The Atom Valley Northern Gateway Mayoral Development Corporation (Establishment) Order 2025](https://www.indexdata.org/the-atom-valley-northern-gateway-mayoral-development-corporation-establishment-order-2025/)** — `2025-12-11` | `2 Pages`
-- `[`UKSI-2025-1297`]` **[The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2025](https://www.indexdata.org/the-government-of-wales-act-2006-devolved-welsh-authorities-amendment-order-2025/)** — `2025-12-10` | `4 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -554,8 +553,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2025-1307`]` **[The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025](https://www.indexdata.org/the-sanctions-miscellaneous-amendments-overseas-territories-order-2025/)** — `2025-12-10` | `196 Pages`
 - `[`UKSI-2025-1302`]` **[The Double Taxation Relief and International Tax Enforcement (Romania) Order 2025](https://www.indexdata.org/the-double-taxation-relief-and-international-tax-enforcement-romania-order-2025/)** — `2025-12-10` | `24 Pages`
 - `[`UKSI-2025-1301`]` **[The Double Taxation Relief and International Tax Enforcement (Andorra) Order 2025](https://www.indexdata.org/the-double-taxation-relief-and-international-tax-enforcement-andorra-order-2025/)** — `2025-12-10` | `24 Pages`
-- `[`UKSI-2025-1300`]` **[The Double Taxation Relief and International Tax Enforcement (Portuguese Republic) Order 2025](https://www.indexdata.org/the-double-taxation-relief-and-international-tax-enforcement-portuguese-republic-order-2025/)** — `2025-12-10` | `28 Pages`
-- `[`UKSI-2025-1293`]` **[The Financial Services and Markets Act 2023 (Commencement No. 10 and Saving Provisions) (Amendment) Regulations 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2023-commencement-no-10-and-saving-provisions-amendment-regulations-2025/)** — `2025-12-10` | `4 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
@@ -1135,6 +1132,9 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 
+- `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-3`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - summary of responses](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-summary-of-responses/)** — `2026-11-12` | `64 Pages`
+- `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-2`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - government response](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-government-response/)** — `2026-11-12` | `35 Pages`
+- `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-1`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - consultation document](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-consultation-document/)** — `2026-11-12` | `73 Pages`
 - `[`UKSI-2026-1151`]` **[The Contracts for Difference (Electricity Supplier Obligations) (Amendment) Regulations 2026](https://www.indexdata.org/the-contracts-for-difference-electricity-supplier-obligations-amendment-regulations-2026/)** — `2026-11-02` | `2 Pages`
 - `[`UKSI-2026-1121`]` **[The Boiler Upgrade Scheme (Amendment to the Energy Act 2008 etc.) Regulations 2026](https://www.indexdata.org/the-boiler-upgrade-scheme-amendment-to-the-energy-act-2008-etc-regulations-2026/)** — `2026-10-21` | `4 Pages`
 - `[`UKSI-2026-1070`]` **[The Five Estuaries Offshore Wind Farm (Correction) Order 2026](https://www.indexdata.org/the-five-estuaries-offshore-wind-farm-correction-order-2026/)** — `2026-10-05` | `68 Pages`
