@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `336` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-12 00:04 UTC`
+**Total Indexed Dossiers in Philippines:** `337` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-12 00:54 UTC`
 
 ---
 
@@ -19,14 +19,14 @@
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
+- **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
-- **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 - **[Food and Nutrition Research Institute](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/feed/)
 - **[Science Education Institute](https://www.indexdata.org/philippines/science-education-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/science-education-institute/) | [RSS Feed](https://www.indexdata.org/philippines/science-education-institute/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–336 of 336)
+## Indexed Statutory & Regulatory Dossiers (Records 1–337 of 337)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -383,6 +383,14 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/commission-o
 - `[`PH-CHR-88072`]` **[Bid Docs – Facial Recognition and Biometric with API](https://www.indexdata.org/bid-docs-facial-recognition-and-biometric-with-api/)** — `2026-10-12` | `105 Pages`
 - `[`PH-CHR-88069`]` **[Bid Docs – Microsoft Office LTSC](https://www.indexdata.org/bid-docs-microsoft-office-ltsc/)** — `2026-10-12` | `85 Pages`
 
+### [Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)
+Canonical Authority Archive: [https://www.indexdata.org/philippines/government-procurement-policy-board/](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
+
+- `[`PH-GPPB-16627`]` **[NOV EE-FMO reposting](https://www.indexdata.org/nov-ee-fmo-reposting/)** — `2026-11-12` | `3 Pages`
+- `[`PH-GPPB-16071`]` **[APP FY 2026 – 18th Update](https://www.indexdata.org/app-fy-2026-18th-update/)** — `2026-11-09` | `6 Pages`
+- `[`PH-GPPB-16054`]` **[NPM 033-2026](https://www.indexdata.org/npm-033-2026/)** — `2026-11-06` | `6 Pages`
+- `[`PH-GPPB-16044`]` **[Bid-Bulletin-2026-01 – One Unit Motor Vehicle 2](https://www.indexdata.org/bid-bulletin-2026-01-one-unit-motor-vehicle-2/)** — `2026-11-04` | `3 Pages`
+
 ### [Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/philippine-carabao-center/](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 
@@ -390,13 +398,6 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/philippine-c
 - `[`PH-PCC-22440`]` **[2024-ANNUAL-REPORT GAD](https://www.indexdata.org/2024-annual-report-gad/)** — `2026-11-04` | `2 Pages`
 - `[`PH-PCC-22430`]` **[SAPP-MFP-2026](https://www.indexdata.org/sapp-mfp-2026/)** — `2026-10-27` | `2 Pages`
 - `[`PH-PCC-22391`]` **[CAAR for the Year Ended December 31, 2025](https://www.indexdata.org/caar-for-the-year-ended-december-31-2025/)** — `2026-08-28` | `208 Pages`
-
-### [Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)
-Canonical Authority Archive: [https://www.indexdata.org/philippines/government-procurement-policy-board/](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
-
-- `[`PH-GPPB-16071`]` **[APP FY 2026 – 18th Update](https://www.indexdata.org/app-fy-2026-18th-update/)** — `2026-11-09` | `6 Pages`
-- `[`PH-GPPB-16054`]` **[NPM 033-2026](https://www.indexdata.org/npm-033-2026/)** — `2026-11-06` | `6 Pages`
-- `[`PH-GPPB-16044`]` **[Bid-Bulletin-2026-01 – One Unit Motor Vehicle 2](https://www.indexdata.org/bid-bulletin-2026-01-one-unit-motor-vehicle-2/)** — `2026-11-04` | `3 Pages`
 
 ### [Food and Nutrition Research Institute](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-nutrition-research-institute/](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/feed/)

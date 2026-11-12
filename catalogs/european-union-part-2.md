@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `4,274` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `4,283` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | **[Part 2 (Current)]** | [Part 3](european-union-part-3.md)  
-**Last Automated Sync:** `2026-11-12 00:04 UTC`
+**Last Automated Sync:** `2026-11-12 00:54 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,472` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
-- **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,030` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,478` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,031` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`625` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
-- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`305` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
+- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`307` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 - **[European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)** (`129` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/) | [Wikidata `Q130146`](https://www.wikidata.org/wiki/Q130146)
 - **[European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 4,274)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 4,283)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -789,6 +789,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-from-micro-to-macro-loecker-fuss-biesebroeck-en`]` **[EIB Policy Conference: From Micro to Macro Loecker Fuss Biesebroeck](https://www.indexdata.org/eib-policy-conference-from-micro-to-macro-loecker-fuss-biesebroeck/)** — `2025-04-15` | `17 Pages`
 - `[`EIB-EVT-from-micro-to-macro-loecker-en`]` **[EIB Policy Conference: From Micro to Macro Loecker](https://www.indexdata.org/eib-policy-conference-from-micro-to-macro-loecker/)** — `2025-04-15` | `8 Pages`
 - `[`EIB-EVT-from-micro-to-macro-kalemli-en`]` **[EIB Policy Conference: From Micro to Macro Kalemli](https://www.indexdata.org/eib-policy-conference-from-micro-to-macro-kalemli/)** — `2025-04-15` | `39 Pages`
+- `[`EIB-EVT-from-micro-to-macro-gonzalez-torres-manaresi-scoccianti-en`]` **[EIB Policy Conference: From Micro to Macro Gonzalez Torres Manaresi Scoccianti](https://www.indexdata.org/eib-policy-conference-from-micro-to-macro-gonzalez-torres-manaresi-scoccianti/)** — `2025-04-15` | `27 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -888,12 +889,11 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-CONS-tlp_comments_transport_and_environment_20111123_en`]` **[EIB Public Consultation: Tlp Comments Transport and Environment 20111123](https://www.indexdata.org/eib-public-consultation-tlp-comments-transport-and-environment-20111123/)** — `2025-04-15` | `11 Pages`
 - `[`EIB-CONS-tlp_comments_region_franche-comte_20111123_en`]` **[EIB Public Consultation: Tlp Comments Region Franche Comte 20111123](https://www.indexdata.org/eib-public-consultation-tlp-comments-region-franche-comte-20111123/)** — `2025-04-15` | `8 Pages`
 - `[`EIB-CONS-tlp_comments_oebb_austrian_federal_railways_20111123_en`]` **[EIB Public Consultation: Tlp Comments Oebb Austrian Federal Railways 20111123](https://www.indexdata.org/eib-public-consultation-tlp-comments-oebb-austrian-federal-railways-20111123/)** — `2025-04-15` | `5 Pages`
-- `[`EIB-CONS-tlp_comments_nats_uk_20111123_en`]` **[EIB Public Consultation: Tlp Comments Nats uk 20111123](https://www.indexdata.org/eib-public-consultation-tlp-comments-nats-uk-20111123/)** — `2025-04-15` | `2 Pages`
-- `[`EIB-CONS-tlp_comments_ministero_delle_infrastrutture_trasporti_20111123_en`]` **[EIB Public Consultation: Tlp Comments Ministero Delle Infrastrutture Trasporti 20111123](https://www.indexdata.org/eib-public-consultation-tlp-comments-ministero-delle-infrastrutture-trasporti-20111123/)** — `2025-04-15` | `2 Pages`
 
 ### [European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 
+- `[`CELEX-32026D0521`]` **[Commission Implementing Decision (EU) 2026/521 of 10 March 2026 renewing the authorisation for the placing on the market of products containing, consisting of or produced from genetically modified cotton GHB614 × LLCotton25 pursuant to Regulation (EC) No 1829/2003 of the European Parliament and of the Council (notified under document C(2026) 1494)](https://www.indexdata.org/commission-implementing-decision-eu-2026-521-of-10-march-2026-renewing-the-authorisation-for-the-placing-on-the-market-of-products-containing-consisting-of-or-produced-from-genetically-modifie/)** — `2026-03-10` | `6 Pages`
 - `[`CELEX-32026D0518`]` **[Commission Implementing Decision (EU) 2026/518 of 10 March 2026 renewing the authorisation for placing on the market of products containing, consisting of or produced from genetically modified maize T25 (ACS-ZMØØ3-2) pursuant to Regulation (EC) No 1829/2003 of the European Parliament and of the Council (notified under document C(2026) 1507)](https://www.indexdata.org/commission-implementing-decision-eu-2026-518-of-10-march-2026-renewing-the-authorisation-for-placing-on-the-market-of-products-containing-consisting-of-or-produced-from-genetically-modified-ma/)** — `2026-03-10` | `6 Pages`
 - `[`CELEX-32026D0517`]` **[Commission Implementing Decision (EU) 2026/517 of 10 March 2026 authorising the placing on the market of products containing, consisting of or produced from genetically modified soybean DBN-09004-6 pursuant to Regulation (EC) No 1829/2003 of the European Parliament and of the Council (notified under document C(2026) 1496)](https://www.indexdata.org/commission-implementing-decision-eu-2026-517-of-10-march-2026-authorising-the-placing-on-the-market-of-products-containing-consisting-of-or-produced-from-genetically-modified-soybean-dbn-09004/)** — `2026-03-10` | `6 Pages`
 - `[`CELEX-32026R0545`]` **[Commission Implementing Regulation (EU) 2026/545 of 5 March 2026 on the registration of the geographical indication Adana Şalgamı (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council](https://www.indexdata.org/commission-implementing-regulation-eu-2026-545-of-5-march-2026-on-the-registration-of-the-geographical-indication-adana-salgami-pgi-in-the-union-register-of-geographical-indications-pursuant/)** — `2026-03-05` | `2 Pages`
