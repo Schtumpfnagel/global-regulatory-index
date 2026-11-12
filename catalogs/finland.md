@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q33`](https://www.wikidata.org/wiki/Q33)  
 **Governing Open-Government Framework:** *Copyright Act (404/1961) § 9 & Act on the Openness of Government Activities (621/1999) / CC BY 4.0*  
 **Total Indexed Dossiers in Finland:** `66` across `13` issuing authorities  
-**Last Automated Sync:** `2026-11-12 13:04 UTC`
+**Last Automated Sync:** `2026-11-12 13:36 UTC`
 
 ---
 

@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `363` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-12 13:04 UTC`
+**Total Indexed Dossiers in Philippines:** `365` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-12 13:36 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
-- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
+- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
 - **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–363 of 363)
+## Indexed Statutory & Regulatory Dossiers (Records 1–365 of 365)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -363,6 +363,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 
 - `[`PH-FDA-123654`]` **[FDAC-IO2](https://www.indexdata.org/fdac-io2/)** — `2026-11-12` | `3 Pages`
+- `[`PH-FDA-123524`]` **[LSSC-AA VI](https://www.indexdata.org/lssc-aa-vi/)** — `2026-11-12` | `3 Pages`
+- `[`PH-FDA-123523`]` **[FDAC-IO1](https://www.indexdata.org/fdac-io1/)** — `2026-11-12` | `3 Pages`
 - `[`PH-FDA-123519`]` **[DSN V4 I3 July 2026 (2)](https://www.indexdata.org/dsn-v4-i3-july-2026-2/)** — `2026-11-12` | `4 Pages`
 - `[`PH-FDA-123506`]` **[DSN V4 I3 July 2026 (1)](https://www.indexdata.org/dsn-v4-i3-july-2026-1/)** — `2026-11-12` | `4 Pages`
 - `[`PH-FDA-123463`]` **[DSN V4 I4 October 2026](https://www.indexdata.org/dsn-v4-i4-october-2026/)** — `2026-11-12` | `4 Pages`

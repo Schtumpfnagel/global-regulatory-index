@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/japan/feed/](https://www.indexdata.org/japan/feed/)  
 **Wikidata Sovereign Entity:** [`Q17`](https://www.wikidata.org/wiki/Q17)  
 **Governing Open-Government Framework:** *Copyright Act, Act No. 48 of 1970, Article 13*  
-**Total Indexed Dossiers in Japan:** `88` across `12` issuing authorities  
-**Last Automated Sync:** `2026-11-12 13:04 UTC`
+**Total Indexed Dossiers in Japan:** `90` across `12` issuing authorities  
+**Last Automated Sync:** `2026-11-12 13:36 UTC`
 
 ---
 
@@ -16,10 +16,10 @@
 - **[Fukuoka City](https://www.indexdata.org/japan/fukuoka-city/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/japan/fukuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/fukuoka-city/feed/)
 - **[Ministry of Justice of Japan (MOJ)](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/feed/)
 - **[Forestry and Forest Products Research Institute (FFPRI)](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/) | [RSS Feed](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/feed/)
-- **[Ministry of Health, Labour and Welfare of Japan (MHLW)](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/feed/)
+- **[Ministry of Health, Labour and Welfare of Japan (MHLW)](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/feed/)
 - **[Ministry of Land, Infrastructure, Transport and Tourism of Japan (MLIT)](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-land-infrastructure-transport-and-tourism-of-japan-mlit/feed/)
 - **[Ministry of the Environment of Japan (MOE)](https://www.indexdata.org/japan/ministry-of-the-environment-of-japan-moe/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-the-environment-of-japan-moe/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-the-environment-of-japan-moe/feed/)
-- **[Personal Information Protection Commission of Japan (PPC)](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/) | [RSS Feed](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/feed/)
+- **[Personal Information Protection Commission of Japan (PPC)](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/) | [RSS Feed](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/feed/)
 - **[Digital Agency of Japan](https://www.indexdata.org/japan/digital-agency-of-japan/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/japan/digital-agency-of-japan/) | [RSS Feed](https://www.indexdata.org/japan/digital-agency-of-japan/feed/)
 - **[Imperial Household Agency](https://www.indexdata.org/japan/imperial-household-agency/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/japan/imperial-household-agency/) | [RSS Feed](https://www.indexdata.org/japan/imperial-household-agency/feed/)
 - **[Ministry of Agriculture, Forestry and Fisheries of Japan (MAFF)](https://www.indexdata.org/japan/ministry-of-agriculture-forestry-and-fisheries-of-japan-maff/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-agriculture-forestry-and-fisheries-of-japan-maff/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-agriculture-forestry-and-fisheries-of-japan-maff/feed/)
@@ -27,7 +27,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–88 of 88)
+## Indexed Statutory & Regulatory Dossiers (Records 1–90 of 90)
 
 ### [National Agriculture and Food Research Organization (NARO)](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/)
 Canonical Authority Archive: [https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/) | [RSS Feed](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/feed/)
@@ -115,6 +115,7 @@ Canonical Authority Archive: [https://www.indexdata.org/japan/forestry-and-fores
 Canonical Authority Archive: [https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-health-labour-and-welfare-of-japan-mhlw/feed/)
 
 - `[`JP-EGOV-6C7AFDA6`]` **[Summary_en.pdf](https://www.indexdata.org/summary_en-pdf/)** — `2026-05-21` | `14 Pages`
+- `[`JP-EGOV-99E87E97`]` **[Ministry of Health, Labour and Welfare of Japan (MHLW) — Official Regulatory Document (2023-03-13)](https://www.indexdata.org/ministry-of-health-labour-and-welfare-of-japan-mhlw-official-regulatory-document-2023-03-13/)** — `2024-01-24` | `9 Pages`
 - `[`JP-EGOV-BB82168C`]` **[Annual Health, Labour and Welfare Report 2013-2014 (Summary)](https://www.indexdata.org/annual-health-labour-and-welfare-report-2013-2014-summary/)** — `2015-01-23` | `13 Pages`
 - `[`JP-EGOV-CBB44B35`]` **[Annual Health, Labour and Welfare Report 2012-2013(References; Summary)](https://www.indexdata.org/annual-health-labour-and-welfare-report-2012-2013references-summary/)** — `2014-02-12` | `15 Pages`
 - `[`JP-EGOV-974BB682`]` **[Annual Health, Labour and Welfare Report 2011-2012 (Summary)](https://www.indexdata.org/annual-health-labour-and-welfare-report-2011-2012-summary/)** — `2013-03-31` | `12 Pages`
@@ -141,6 +142,7 @@ Canonical Authority Archive: [https://www.indexdata.org/japan/ministry-of-the-en
 ### [Personal Information Protection Commission of Japan (PPC)](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/)
 Canonical Authority Archive: [https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/) | [RSS Feed](https://www.indexdata.org/japan/personal-information-protection-commission-of-japan-ppc/feed/)
 
+- `[`JP-EGOV-52A63437`]` **[Personal Information Protection Commission of Japan (PPC) — 261111 Shiryou 1 1 (2026-11-12)](https://www.indexdata.org/personal-information-protection-commission-of-japan-ppc-261111-shiryou-1-1-2026-11-12/)** — `2026-11-12` | `2 Pages`
 - `[`JP-EGOV-E4C0008D`]` **[Personal Information Protection Commission of Japan (PPC) — 261028 Shiryou 1 (2026-10-28)](https://www.indexdata.org/personal-information-protection-commission-of-japan-ppc-261028-shiryou-1-2026-10-28/)** — `2026-10-28` | `2 Pages`
 - `[`JP-EGOV-33950364`]` **[Personal Information Protection Commission of Japan (PPC) — 260909 Shiryou 1 (2026-09-10)](https://www.indexdata.org/personal-information-protection-commission-of-japan-ppc-260909-shiryou-1-2026-09-10/)** — `2026-09-10` | `4 Pages`
 - `[`JP-EGOV-89531551`]` **[Personal Information Protection Commission of Japan (PPC) — 260902 Shiryou 1 (2026-09-03)](https://www.indexdata.org/personal-information-protection-commission-of-japan-ppc-260902-shiryou-1-2026-09-03/)** — `2026-09-03` | `6 Pages`
