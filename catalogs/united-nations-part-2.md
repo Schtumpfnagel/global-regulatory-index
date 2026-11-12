@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,965` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,966` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-12 18:43 UTC`
+**Last Automated Sync:** `2026-11-12 19:49 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`536` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`480` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,965)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,966)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-RES-80-277`]` **[Financing of the United Nations Peacekeeping Force in Cyprus — resolution](https://www.indexdata.org/a-res-80-277-financing-of-the-united-nations-peacekeeping-force-in-cyprus-resolution/)** — `2026-07-01` | `5 Pages`
 - `[`UN-A-RES-80-276`]` **[Financing of the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic — resolution](https://www.indexdata.org/a-res-80-276-financing-of-the-united-nations-multidimensional-integrated-stabilization-mission-in-the-central-african-republic-resolution/)** — `2026-07-01` | `4 Pages`
 - `[`UN-A-RES-80-275`]` **[Financing of the United Nations Interim Security Force for Abyei — resolution](https://www.indexdata.org/a-res-80-275-financing-of-the-united-nations-interim-security-force-for-abyei-resolution/)** — `2026-07-01` | `5 Pages`
 - `[`UN-A-RES-80-274`]` **[Financing of the United Nations Logistics Base at Brindisi, Italy — resolution](https://www.indexdata.org/a-res-80-274-financing-of-the-united-nations-logistics-base-at-brindisi-italy-resolution/)** — `2026-07-01` | `2 Pages`
@@ -1268,7 +1269,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 - `[`UN-S-2026-335`]` **[Identical letters dated 16 April 2026 from the Permanent Representative of Bahrain to the United Nations addressed to th](https://www.indexdata.org/s-2026-335-identical-letters-dated-16-april-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-th/)** — `2026-04-17` | `3 Pages`
 - `[`UN-S-2026-333`]` **[Identical letters dated 16 April 2026 from the Permanent Representative of Israel to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-333-identical-letters-dated-16-april-2026-from-the-permanent-representative-of-israel-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `4 Pages`
 - `[`UN-S-2026-331`]` **[Identical letters dated 15 April 2026 from the Permanent Representative of Bahrain to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-331-identical-letters-dated-15-april-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `2 Pages`
-- `[`UN-S-2026-327`]` **[Identical letters dated 14 April 2026 from the Permanent Representative of Qatar to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-327-identical-letters-dated-14-april-2026-from-the-permanent-representative-of-qatar-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `2 Pages`
 
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)

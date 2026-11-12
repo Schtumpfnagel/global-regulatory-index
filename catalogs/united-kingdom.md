@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,717` across `74` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,725` across `74` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-12 18:43 UTC`
+**Last Automated Sync:** `2026-11-12 19:49 UTC`
 
 ---
 
@@ -28,13 +28,13 @@
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
-- **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
+- **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`49` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
-- **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
+- **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[HM Land Registry](https://www.indexdata.org/united-kingdom/hm-land-registry/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-land-registry/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-land-registry/feed/)
 - **[Medicines and Healthcare products Regulatory Agency](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/feed/)
 - **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
@@ -90,7 +90,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,717)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,725)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -293,7 +293,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2025-1352`]` **[The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2025](https://www.indexdata.org/the-online-safety-act-2023-priority-offences-amendment-regulations-2025/)** — `2025-12-18` | `2 Pages`
 - `[`UKPGA-2025-35`]` **[Space Industry (Indemnities) Act 2025](https://www.indexdata.org/space-industry-indemnities-act-2025/)** — `2025-12-18` | `4 Pages`
 - `[`UKPGA-2025-34`]` **[Planning and Infrastructure Act 2025](https://www.indexdata.org/planning-and-infrastructure-act-2025/)** — `2025-12-18` | `210 Pages`
-- `[`UKPGA-2025-32`]` **[Dogs (Protection of Livestock) (Amendment) Act 2025](https://www.indexdata.org/dogs-protection-of-livestock-amendment-act-2025/)** — `2025-12-18` | `11 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -555,7 +554,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2026-38`]` **[The Income Tax (Indexation of Blind Person’s Allowance and Married Couple’s Allowance) Order 2026](https://www.indexdata.org/the-income-tax-indexation-of-blind-persons-allowance-and-married-couples-allowance-order-2026/)** — `2026-01-20` | `2 Pages`
 - `[`UKSI-2026-36`]` **[The Customs (Tariff and Miscellaneous Amendments) Regulations 2026](https://www.indexdata.org/the-customs-tariff-and-miscellaneous-amendments-regulations-2026/)** — `2026-01-20` | `4 Pages`
 - `[`UKSI-2026-45`]` **[The Financial Services and Markets Act 2023 (Commencement No. 12 and Saving Provisions) Regulations 2026](https://www.indexdata.org/the-financial-services-and-markets-act-2023-commencement-no-12-and-saving-provisions-regulations-2026/)** — `2026-01-13` | `16 Pages`
-- `[`UKSI-2025-1347`]` **[The Consumer Composite Investments (Designated Activities) (Amendment) Order 2025](https://www.indexdata.org/the-consumer-composite-investments-designated-activities-amendment-order-2025/)** — `2025-12-17` | `4 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
@@ -728,7 +726,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-105`]` **[The Sea Fisheries (Amendment) Regulations 2026](https://www.indexdata.org/the-sea-fisheries-amendment-regulations-2026/)** — `2026-02-05` | `4 Pages`
 - `[`UKSI-2026-61`]` **[The Upper Ouse Water Management Board Order 2026](https://www.indexdata.org/the-upper-ouse-water-management-board-order-2026/)** — `2026-01-27` | `8 Pages`
 - `[`UKSI-2025-1370`]` **[The Levelling-up and Regeneration Act 2023 (Commencement No. 9) and Planning and Infrastructure Act 2025 (Commencement No. 1 and Transitional Provisions) Regulations 2025](https://www.indexdata.org/the-levelling-up-and-regeneration-act-2023-commencement-no-9-and-planning-and-infrastructure-act-2025-commencement-no-1-and-transitional-provisions-regulations-2025/)** — `2025-12-18` | `8 Pages`
-- `[`UKSI-2025-1369`]` **[The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025](https://www.indexdata.org/the-producer-responsibility-obligations-packaging-and-packaging-waste-amendment-regulations-2025/)** — `2025-12-17` | `28 Pages`
 
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
@@ -933,9 +930,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-76`]` **[The Diocese of Leicester (Educational Endowments) (Market Harborough Church of England Infant School) Order 2026](https://www.indexdata.org/the-diocese-of-leicester-educational-endowments-market-harborough-church-of-england-infant-school-order-2026/)** — `2026-01-30` | `5 Pages`
 - `[`UKSI-2026-37`]` **[The School and Early Years Finance (England) Regulations 2026](https://www.indexdata.org/the-school-and-early-years-finance-england-regulations-2026/)** — `2026-01-16` | `72 Pages`
 - `[`UKSI-2026-29`]` **[The Power to Award Degrees etc. (Lamda Limited) (Amendment) Order 2026](https://www.indexdata.org/the-power-to-award-degrees-etc-lamda-limited-amendment-order-2026/)** — `2026-01-09` | `2 Pages`
-- `[`UKSI-2025-1350`]` **[The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025](https://www.indexdata.org/the-education-scotland-act-2025-consequential-provisions-and-modifications-order-2025/)** — `2025-12-17` | `12 Pages`
-- `[`UKSI-2025-1348`]` **[The Schools (Recording and Reporting of Seclusion and Restraint) (No. 2) (England) Regulations 2025](https://www.indexdata.org/the-schools-recording-and-reporting-of-seclusion-and-restraint-no-2-england-regulations-2025/)** — `2025-12-17` | `8 Pages`
-- `[`UKSI-2025-1346`]` **[The Designation of Rural Primary Schools (England) Order 2025](https://www.indexdata.org/the-designation-of-rural-primary-schools-england-order-2025/)** — `2025-12-17` | `2 Pages`
 
 ### [Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-defence/](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
@@ -1114,7 +1108,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1379`]` **[The Oil and Gas Authority (Carbon Storage and Offshore Petroleum) (Specified Periods for Disclosure of Protected Material) Regulations 2025](https://www.indexdata.org/the-oil-and-gas-authority-carbon-storage-and-offshore-petroleum-specified-periods-for-disclosure-of-protected-material-regulations-2025/)** — `2025-12-19` | `16 Pages`
 - `[`UKSI-2025-1363`]` **[The Norfolk Vanguard Offshore Wind Farm (Amendment) (No. 3) Order 2025](https://www.indexdata.org/the-norfolk-vanguard-offshore-wind-farm-amendment-no-3-order-2025/)** — `2025-12-18` | `4 Pages`
 - `[`UKSI-2025-1362`]` **[The Norfolk Boreas Offshore Wind Farm (Amendment) (No. 2) Order 2025](https://www.indexdata.org/the-norfolk-boreas-offshore-wind-farm-amendment-no-2-order-2025/)** — `2025-12-18` | `4 Pages`
-- `[`UKSI-2025-1376`]` **[The Five Estuaries Offshore Wind Farm Order 2025](https://www.indexdata.org/the-five-estuaries-offshore-wind-farm-order-2025/)** — `2025-12-17` | `272 Pages`
 
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
@@ -1169,11 +1162,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-15`]` **[The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026](https://www.indexdata.org/the-employment-rights-act-2025-parental-and-paternity-leave-removal-of-qualifying-periods-etc-consequential-amendments-regulations-2026/)** — `2026-01-06` | `8 Pages`
 - `[`UKSI-2026-3`]` **[The Employment Rights Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026](https://www.indexdata.org/the-employment-rights-act-2025-commencement-no-1-and-transitional-and-saving-provisions-regulations-2026/)** — `2026-01-05` | `20 Pages`
 - `[`UKPGA-2025-36`]` **[Employment Rights Act 2025](https://www.indexdata.org/employment-rights-act-2025/)** — `2025-12-18` | `334 Pages`
-- `[`UKSI-2025-1356`]` **[The Motor Fuel Price (Open Data) Regulations 2025](https://www.indexdata.org/the-motor-fuel-price-open-data-regulations-2025/)** — `2025-12-17` | `20 Pages`
 
 ### [Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 
+- `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-7`]` **[PSV notices and proceedings for the west of England — NP - 3051 12 February 2026 (objection deadline 05 March 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3051-12-february-2026-objection-deadline-05-march-2026/)** — `2026-11-12` | `17 Pages`
+- `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-6`]` **[PSV notices and proceedings for the west of England — NP - 3050 05 February 2026 (objection deadline 26 February 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3050-05-february-2026-objection-deadline-26-february-2026/)** — `2026-11-12` | `18 Pages`
+- `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-5`]` **[PSV notices and proceedings for the west of England — NP - 3049 29 January 2026 (objection deadline 19 February 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3049-29-january-2026-objection-deadline-19-february-2026/)** — `2026-11-12` | `17 Pages`
+- `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-46`]` **[PSV notices and proceedings for the west of England — NP - 3090 12 November 2026 (objection deadline 03 December 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3090-12-november-2026-objection-deadline-03-december-2026/)** — `2026-11-12` | `15 Pages`
+- `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-45`]` **[PSV notices and proceedings for the west of England — NP - 3089 05 November 2026 (objection deadline 26 November 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3089-05-november-2026-objection-deadline-26-november-2026/)** — `2026-11-12` | `13 Pages`
+- `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-44`]` **[PSV notices and proceedings for the west of England — NP - 3088 29 October 2026 (objection deadline 19 November 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3088-29-october-2026-objection-deadline-19-november-2026/)** — `2026-11-12` | `15 Pages`
+- `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-43`]` **[PSV notices and proceedings for the west of England — NP - 3087 22 October 2026 (objection deadline 12 November 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3087-22-october-2026-objection-deadline-12-november-2026/)** — `2026-11-12` | `15 Pages`
 - `[`UK-GOV-5e3247d9-7631-11e4-a3cb-005056011aef-9`]` **[PSV notices and proceedings for the West Midlands — NP - 2750 02 March 2026 (objection deadline 23 March 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-midlands-np-2750-02-march-2026-objection-deadline-23-march-2026/)** — `2026-11-09` | `18 Pages`
 - `[`UK-GOV-5e3247d9-7631-11e4-a3cb-005056011aef-8`]` **[PSV notices and proceedings for the West Midlands — NP - 2749 23 February 2026 (objection deadline 16 March 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-midlands-np-2749-23-february-2026-objection-deadline-16-march-2026/)** — `2026-11-09` | `15 Pages`
 - `[`UK-GOV-5e3247d9-7631-11e4-a3cb-005056011aef-7`]` **[PSV notices and proceedings for the West Midlands — NP - 2748 16 February 2026 (objection deadline 09 March 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-midlands-np-2748-16-february-2026-objection-deadline-09-march-2026/)** — `2026-11-09` | `16 Pages`
@@ -1494,6 +1493,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/marine-ma
 ### [Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 
+- `[`UK-GOV-ee2d5bed-59c3-4591-ad76-5457a83e8b12-1`]` **[Bird flu: near Dereham, Breckland, Norfolk (AIV2026/28) — declaration of an avian influenza protection zone and a surveillance zone](https://www.indexdata.org/bird-flu-near-dereham-breckland-norfolk-aiv2026-28-declaration-of-an-avian-influenza-protection-zone-and-a-surveillance-zone/)** — `2026-11-12` | `16 Pages`
 - `[`UK-GOV-7a1625e4-749e-461d-a592-c5d7982abcc3-2`]` **[Bird flu: avian influenza prevention zone (AIPZ) (England) — Declaration of Avian Influenza Prevention Zone (England) – mandatory biosecurity and housing measures (PDF)](https://www.indexdata.org/bird-flu-avian-influenza-prevention-zone-aipz-england-declaration-of-avian-influenza-prevention-zone-england-mandatory-biosecurity-and-housing-measures-pdf/)** — `2026-11-12` | `17 Pages`
 - `[`UK-GOV-7a1625e4-749e-461d-a592-c5d7982abcc3-1`]` **[Bird flu: avian influenza prevention zone (AIPZ) (England) — Avian Influenza Prevention Zone (England) declaration (PDF)](https://www.indexdata.org/bird-flu-avian-influenza-prevention-zone-aipz-england-avian-influenza-prevention-zone-england-declaration-pdf/)** — `2026-11-12` | `14 Pages`
 - `[`UK-GOV-68ad6faa-6d32-4fb2-a711-816569d8af61-1`]` **[Communities and Households Statistics for Rural England — Statistical Digest of Rural England - Communities and Households](https://www.indexdata.org/communities-and-households-statistics-for-rural-england-statistical-digest-of-rural-england-communities-and-households/)** — `2026-11-11` | `85 Pages`

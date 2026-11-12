@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,965` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,966` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-12 18:43 UTC`
+**Last Automated Sync:** `2026-11-12 19:49 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`536` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`480` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,965)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,966)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1184,7 +1184,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-RES-80-280`]` **[Financing of the United Nations Multidimensional Integrated Stabilization Mission in Mali — resolution](https://www.indexdata.org/a-res-80-280-financing-of-the-united-nations-multidimensional-integrated-stabilization-mission-in-mali-resolution/)** — `2026-07-01` | `3 Pages`
 - `[`UN-A-RES-80-279`]` **[Financing of the United Nations Interim Administration Mission in Kosovo — resolution](https://www.indexdata.org/a-res-80-279-financing-of-the-united-nations-interim-administration-mission-in-kosovo-resolution/)** — `2026-07-01` | `4 Pages`
 - `[`UN-A-RES-80-278`]` **[Financing of the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo — resolution](https://www.indexdata.org/a-res-80-278-financing-of-the-united-nations-organization-stabilization-mission-in-the-democratic-republic-of-the-congo-resolution/)** — `2026-07-01` | `4 Pages`
-- `[`UN-A-RES-80-277`]` **[Financing of the United Nations Peacekeeping Force in Cyprus — resolution](https://www.indexdata.org/a-res-80-277-financing-of-the-united-nations-peacekeeping-force-in-cyprus-resolution/)** — `2026-07-01` | `5 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
@@ -1482,6 +1481,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 
 - `[`UN-A-C.2-80-SR.13`]` **[Summary record of the joint meeting of the Second Committee and the Economic and Social Council on "Reimagining public-investor partnerships: systems finance for inclusive sustainability transformations" — held at Headquarters, New York, on Tuesday, 14 October 2025, General Assembly, 80th session, 2nd Committee, 13th meeting and Economic and Social Council, 2026 session, 3rd meeting](https://www.indexdata.org/a-c-2-80-sr-13-summary-record-of-the-joint-meeting-of-the-second-committee-and-the-economic-and-social-council-on-reimagining-public-investor-partnerships-systems-finance-for-inclusive-sustainabi/)** — `2026-11-09` | `17 Pages`
+- `[`UN-E-CN.6-2027-NGO-32`]` **[Statement](https://www.indexdata.org/e-cn-6-2027-ngo-32-statement/)** — `2026-11-08` | `4 Pages`
 - `[`UN-E-CN.6-2027-NGO-6`]` **[Statement](https://www.indexdata.org/e-cn-6-2027-ngo-6-statement/)** — `2026-11-05` | `4 Pages`
 - `[`UN-E-CN.6-2027-NGO-7`]` **[Statement](https://www.indexdata.org/e-cn-6-2027-ngo-7-statement/)** — `2026-11-04` | `3 Pages`
 - `[`UN-E-CN.6-2027-NGO-5`]` **[Statement](https://www.indexdata.org/e-cn-6-2027-ngo-5-statement/)** — `2026-11-04` | `4 Pages`

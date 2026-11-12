@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,965` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,966` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-12 18:43 UTC`
+**Last Automated Sync:** `2026-11-12 19:49 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`535` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`536` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`480` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,965 of 6,965)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,966 of 6,966)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -418,6 +418,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-develo
 ### [UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-security-council-unsc/](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 
+- `[`UN-S-2024-865`]` **[The situation in Central Africa and the activities of the United Nations Regional Office for Central Africa — Report of the Secretary-General](https://www.indexdata.org/s-2024-865-the-situation-in-central-africa-and-the-activities-of-the-united-nations-regional-office-for-central-africa-report-of-the-secretary-general/)** — `2024-11-29` | `17 Pages`
 - `[`UN-S-2024-863`]` **[United Nations Organization Stabilization Mission in the Democratic Republic of the Congo — Report of the Secretary-General](https://www.indexdata.org/s-2024-863-united-nations-organization-stabilization-mission-in-the-democratic-republic-of-the-congo-report-of-the-secretary-general/)** — `2024-11-29` | `20 Pages`
 - `[`UN-S-2024-861`]` **[Letter dated 26 November 2024 from the Secretary-General addressed to the President of the Security Council](https://www.indexdata.org/s-2024-861-letter-dated-26-november-2024-from-the-secretary-general-addressed-to-the-president-of-the-security-council/)** — `2024-11-27` | `8 Pages`
 - `[`UN-S-2024-860`]` **[Letter dated 26 November 2024 from the Permanent Representative of the Syrian Arab Republic to the United Nations addressed to the President of the Security Council](https://www.indexdata.org/s-2024-860-letter-dated-26-november-2024-from-the-permanent-representative-of-the-syrian-arab-republic-to-the-united-nations-addressed-to-the-president-of-the-security-council/)** — `2024-11-27` | `2 Pages`
