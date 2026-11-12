@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/austria/feed/](https://www.indexdata.org/austria/feed/)  
 **Wikidata Sovereign Entity:** [`Q40`](https://www.wikidata.org/wiki/Q40)  
 **Governing Open-Government Framework:** *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0*  
-**Total Indexed Dossiers in Austria:** `166` across `17` issuing authorities  
-**Last Automated Sync:** `2026-11-12 13:36 UTC`
+**Total Indexed Dossiers in Austria:** `167` across `17` issuing authorities  
+**Last Automated Sync:** `2026-11-12 14:45 UTC`
 
 ---
 
 ## Issuing Authorities in Austria (17 Authorities)
 
 - **[Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
-- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
+- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
 - **[Austrian National Public Health Institute (Gesundheit Österreich GmbH - GÖG)](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/) | [RSS Feed](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/feed/)
 - **[Oesterreichische Nationalbank (OeNB)](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/) | [RSS Feed](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/feed/)
 - **[Austrian Energy Regulatory Authority (E-Control)](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/) | [RSS Feed](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/feed/)
@@ -32,7 +32,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–166 of 166)
+## Indexed Statutory & Regulatory Dossiers (Records 1–167 of 167)
 
 ### [Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
@@ -103,6 +103,7 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-academy
 - `[`AT-STAT-OEAW-W7224091693`]` **[Enjoying more years of good life while reducing resource use and emissions? A global panel analysis 1990–2019](https://www.indexdata.org/enjoying-more-years-of-good-life-while-reducing-resource-use-and-emissions-a-global-panel-analysis-1990-2019/)** — `2026-10-29` | `26 Pages`
 - `[`AT-STAT-OEAW-W7154465322`]` **[First results from the Juice magnetometer during the Lunar-Earth Gravity Assist](https://www.indexdata.org/first-results-from-the-juice-magnetometer-during-the-lunar-earth-gravity-assist/)** — `2026-10-29` | `15 Pages`
 - `[`AT-STAT-OEAW-W7224078585`]` **[Impact of Temperature Anomalies on Fertility: Three Decades of Municipality-Level Evidence from Mexico](https://www.indexdata.org/impact-of-temperature-anomalies-on-fertility-three-decades-of-municipality-level-evidence-from-mexico/)** — `2026-10-28` | `28 Pages`
+- `[`AT-STAT-OEAW-W7225640801`]` **[Review: Arsenius Mikhail, The Liturgy of the Word. Scripture, Song, Prayer, and Preaching in the Coptic Liturgy of Medieval Egypt (Studies in Eastern Christian Liturgies 7), Münster 2026](https://www.indexdata.org/review-arsenius-mikhail-the-liturgy-of-the-word-scripture-song-prayer-and-preaching-in-the-coptic-liturgy-of-medieval-egypt-studies-in-eastern-christian-liturgies-7-munster-2026/)** — `2026-10-22` | `11 Pages`
 - `[`AT-STAT-OEAW-W7223247450`]` **[Educational pairings, partners’ economic resources, and second births in Austria](https://www.indexdata.org/educational-pairings-partners-economic-resources-and-second-births-in-austria/)** — `2026-10-22` | `64 Pages`
 - `[`AT-STAT-OEAW-W7223097957`]` **[Making the Impossible Possible: Uniting TMT and DIA for Scalable Low-Input-Proteomics](https://www.indexdata.org/making-the-impossible-possible-uniting-tmt-and-dia-for-scalable-low-input-proteomics/)** — `2026-10-21` | `33 Pages`
 - `[`AT-STAT-OEAW-W7223025268`]` **[A circalunar oscillator and moonlight tune the circadian clock to moon phase via cwo/Dec1&2](https://www.indexdata.org/a-circalunar-oscillator-and-moonlight-tune-the-circadian-clock-to-moon-phase-via-cwo-dec12/)** — `2026-10-20` | `77 Pages`
