@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,677` across `69` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,678` across `70` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-12 02:54 UTC`
+**Last Automated Sync:** `2026-11-12 04:01 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (69 Authorities)
+## Issuing Authorities in United Kingdom (70 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -77,6 +77,7 @@
 - **[Registrar General for England and Wales](https://www.indexdata.org/united-kingdom/registrar-general-for-england-and-wales/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/registrar-general-for-england-and-wales/) | [RSS Feed](https://www.indexdata.org/united-kingdom/registrar-general-for-england-and-wales/feed/)
 - **[Secretary of State and the Lord Chancellor](https://www.indexdata.org/united-kingdom/secretary-of-state-and-the-lord-chancellor/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/secretary-of-state-and-the-lord-chancellor/) | [RSS Feed](https://www.indexdata.org/united-kingdom/secretary-of-state-and-the-lord-chancellor/feed/)
 - **[Secretary of State for Education](https://www.indexdata.org/united-kingdom/secretary-of-state-for-education/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/secretary-of-state-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/secretary-of-state-for-education/feed/)
+- **[Secretary of State for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/secretary-of-state-for-environment-food-and-rural-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/secretary-of-state-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/secretary-of-state-for-environment-food-and-rural-affairs/feed/)
 - **[Secretary of State for the Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/secretary-of-state-for-the-department-for-energy-security-and-net-zero/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/secretary-of-state-for-the-department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/secretary-of-state-for-the-department-for-energy-security-and-net-zero/feed/)
 - **[Teaching Regulation Agency](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/feed/)
 - **[Transport for London](https://www.indexdata.org/united-kingdom/transport-for-london/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/transport-for-london/) | [RSS Feed](https://www.indexdata.org/united-kingdom/transport-for-london/feed/)
@@ -85,7 +86,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,677)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,678)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -1267,7 +1268,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-110`]` **[The Human Medicines (Authorisation by Pharmacists and Supervision by Pharmacy Technicians) Order 2025 (Commencement) Order of Council 2026](https://www.indexdata.org/the-human-medicines-authorisation-by-pharmacists-and-supervision-by-pharmacy-technicians-order-2025-commencement-order-of-council-2026/)** — `2026-02-04` | `2 Pages`
 - `[`UKPGA-2025-33`]` **[Mental Health Act 2025](https://www.indexdata.org/mental-health-act-2025/)** — `2025-12-18` | `101 Pages`
 - `[`UKSI-2025-1312`]` **[The Health and Care Act 2022 (Consequential Amendments) Regulations 2025](https://www.indexdata.org/the-health-and-care-act-2022-consequential-amendments-regulations-2025/)** — `2025-12-11` | `2 Pages`
-- `[`UKSI-2025-1249`]` **[The Human Medicines (Authorisation by Pharmacists and Supervision by Pharmacy Technicians) Order 2025](https://www.indexdata.org/the-human-medicines-authorisation-by-pharmacists-and-supervision-by-pharmacy-technicians-order-2025/)** — `2025-12-10` | `16 Pages`
 
 ### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
@@ -1837,6 +1837,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/secretary
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/secretary-of-state-for-education/](https://www.indexdata.org/united-kingdom/secretary-of-state-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/secretary-of-state-for-education/feed/)
 
 - `[`UKSI-2026-1139`]` **[The Education (Student Support for Postgraduate and Lifelong Learning Provision) (Amendment) Regulations 2026](https://www.indexdata.org/the-education-student-support-for-postgraduate-and-lifelong-learning-provision-amendment-regulations-2026/)** — `2026-10-27` | `20 Pages`
+
+### [Secretary of State for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/secretary-of-state-for-environment-food-and-rural-affairs/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/secretary-of-state-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/secretary-of-state-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/secretary-of-state-for-environment-food-and-rural-affairs/feed/)
+
+- `[`UKSI-2026-1180`]` **[The Marine Licensing (Exempted Activities and Fees) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-marine-licensing-exempted-activities-and-fees-amendment-no-2-regulations-2026/)** — `2026-11-10` | `24 Pages`
 
 ### [Secretary of State for the Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/secretary-of-state-for-the-department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/secretary-of-state-for-the-department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/secretary-of-state-for-the-department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/secretary-of-state-for-the-department-for-energy-security-and-net-zero/feed/)
