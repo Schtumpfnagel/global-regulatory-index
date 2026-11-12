@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,716` across `74` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,717` across `74` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-12 16:38 UTC`
+**Last Automated Sync:** `2026-11-12 17:46 UTC`
 
 ---
 
 ## Issuing Authorities in United Kingdom (74 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
-- **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
+- **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`296` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`186` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`172` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`147` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
@@ -90,11 +90,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,716 of 2,716)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,717 of 2,717)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2025-1358`]` **[The Infected Blood Compensation Scheme (Amendment) Regulations 2025](https://www.indexdata.org/the-infected-blood-compensation-scheme-amendment-regulations-2025/)** — `2025-12-16` | `16 Pages`
 - `[`UKSI-2025-1336`]` **[The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2025](https://www.indexdata.org/the-government-resources-and-accounts-act-2000-estimates-and-accounts-amendment-order-2025/)** — `2025-12-16` | `16 Pages`
 - `[`UKSI-2025-1335`]` **[The Judicial Appointments Commission (Amendment) Regulations 2025](https://www.indexdata.org/the-judicial-appointments-commission-amendment-regulations-2025/)** — `2025-12-16` | `4 Pages`
 - `[`UKSI-2025-1339`]` **[The Automated Vehicles Act 2024 (Commencement No. 1) Regulations 2025](https://www.indexdata.org/the-automated-vehicles-act-2024-commencement-no-1-regulations-2025/)** — `2025-12-15` | `2 Pages`

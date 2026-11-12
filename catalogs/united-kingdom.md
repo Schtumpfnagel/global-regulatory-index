@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,716` across `74` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,717` across `74` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-12 16:38 UTC`
+**Last Automated Sync:** `2026-11-12 17:46 UTC`
 
 ---
 
 ## Issuing Authorities in United Kingdom (74 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
-- **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
+- **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`296` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`186` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`172` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`147` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
@@ -90,7 +90,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,716)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,717)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -294,7 +294,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKPGA-2025-35`]` **[Space Industry (Indemnities) Act 2025](https://www.indexdata.org/space-industry-indemnities-act-2025/)** — `2025-12-18` | `4 Pages`
 - `[`UKPGA-2025-34`]` **[Planning and Infrastructure Act 2025](https://www.indexdata.org/planning-and-infrastructure-act-2025/)** — `2025-12-18` | `210 Pages`
 - `[`UKPGA-2025-32`]` **[Dogs (Protection of Livestock) (Amendment) Act 2025](https://www.indexdata.org/dogs-protection-of-livestock-amendment-act-2025/)** — `2025-12-18` | `11 Pages`
-- `[`UKSI-2025-1358`]` **[The Infected Blood Compensation Scheme (Amendment) Regulations 2025](https://www.indexdata.org/the-infected-blood-compensation-scheme-amendment-regulations-2025/)** — `2025-12-16` | `16 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -450,6 +449,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2026-1183`]` **[The Collective Investment Schemes (Amendment etc.) (EU Exit) (Amendment) Regulations 2026](https://www.indexdata.org/the-collective-investment-schemes-amendment-etc-eu-exit-amendment-regulations-2026/)** — `2026-11-10` | `2 Pages`
 - `[`UK-GOV-908aba65-a6f6-4251-b428-c9ca8f2824ab-2`]` **[OSCAR guidance for Budgeting (Plans and Outturn) — Outturn recording guidance for OSCAR](https://www.indexdata.org/oscar-guidance-for-budgeting-plans-and-outturn-outturn-recording-guidance-for-oscar/)** — `2026-11-10` | `102 Pages`
 - `[`UK-GOV-908aba65-a6f6-4251-b428-c9ca8f2824ab-1`]` **[OSCAR guidance for Budgeting (Plans and Outturn) — Plans recording guidance for OSCAR](https://www.indexdata.org/oscar-guidance-for-budgeting-plans-and-outturn-plans-recording-guidance-for-oscar/)** — `2026-11-10` | `97 Pages`
 - `[`UK-GOV-04a67d60-7303-40e6-bf00-c32acf202469-1`]` **[Analysis of the impact of government energy support on household incomes in England](https://www.indexdata.org/analysis-of-the-impact-of-government-energy-support-on-household-incomes-in-england/)** — `2026-11-03` | `5 Pages`

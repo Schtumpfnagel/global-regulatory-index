@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `992` across `20` issuing authorities  
-**Last Automated Sync:** `2026-11-12 16:38 UTC`
+**Total Indexed Dossiers in International:** `993` across `20` issuing authorities  
+**Last Automated Sync:** `2026-11-12 17:46 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
-- **[European Central Bank (ECB)](https://www.indexdata.org/international/european-central-bank-ecb/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/international/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
+- **[European Central Bank (ECB)](https://www.indexdata.org/international/european-central-bank-ecb/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/international/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[World Intellectual Property Organization (WIPO)](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/) | [RSS Feed](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/feed/) | [Wikidata `Q177773`](https://www.wikidata.org/wiki/Q177773)
 - **[World Bank — Energy Sector Management Assistance Program (ESMAP)](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/) | [RSS Feed](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/feed/)
 - **[International Labour Organization (ILO)](https://www.indexdata.org/international/international-labour-organization-ilo/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/international/international-labour-organization-ilo/) | [RSS Feed](https://www.indexdata.org/international/international-labour-organization-ilo/feed/) | [Wikidata `Q54129`](https://www.wikidata.org/wiki/Q54129)
@@ -34,7 +34,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–992 of 992)
+## Indexed Statutory & Regulatory Dossiers (Records 1–993 of 993)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -996,6 +996,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-b
 ### [European Central Bank (ECB)](https://www.indexdata.org/international/european-central-bank-ecb/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-central-bank-ecb/](https://www.indexdata.org/international/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/international/european-central-bank-ecb/feed/)
 
+- `[`ECB-52026AB0034`]` **[Opinion of the European Central Bank of 10 November 2026 on designating the Deutsche Bundesbank as a recipient of administrative data for statistical purposes (CON/2026/34)](https://www.indexdata.org/opinion-of-the-european-central-bank-of-10-november-2026-on-designating-the-deutsche-bundesbank-as-a-recipient-of-administrative-data-for-statistical-purposes-con-2026-34/)** — `2026-11-10` | `3 Pages`
 - `[`ECB-52026AB0033`]` **[Opinion of the European Central Bank of 4 November 2026 on the supervisory independence of the Bank of Greece and prevention of conflicts of interest of its members of staff and governance body (CON/2026/33)](https://www.indexdata.org/opinion-of-the-european-central-bank-of-4-november-2026-on-the-supervisory-independence-of-the-bank-of-greece-and-prevention-of-conflicts-of-interest-of-its-members-of-staff-and-governance-body-con-2/)** — `2026-11-04` | `12 Pages`
 - `[`ECB-47024712-d6a7-11f1-b0c5-01aa75ed71a1`]` **[Letter from Frank Elderson, Member of the Executive Board of the European Central Bank (ECB), to Galab Donev, Deputy Prime Minister and Minister for Finance of the Republic of Bulgaria, regarding a request for an ECB opinion on a draft law on an amendment to the law on gambling](https://www.indexdata.org/letter-from-frank-elderson-member-of-the-executive-board-of-the-european-central-bank-ecb-to-galab-donev-deputy-prime-minister-and-minister-for-finance-of-the-republic-of-bulgaria-regarding-a-re/)** — `2026-10-30` | `2 Pages`
 - `[`ECB-6535178f-cc64-11f1-8b4c-01aa75ed71a1`]` **[Letter from Frank Elderson, Member of the Executive Board of the European Central Bank (ECB), to Jurand Drop, Undersecretary of State in the Ministry of Finance of the Republic of Poland, on a request for an ECB opinion on a proposed amendment to the Law on mortgage credit](https://www.indexdata.org/letter-from-frank-elderson-member-of-the-executive-board-of-the-european-central-bank-ecb-to-jurand-drop-undersecretary-of-state-in-the-ministry-of-finance-of-the-republic-of-poland-on-a-request/)** — `2026-10-19` | `8 Pages`
