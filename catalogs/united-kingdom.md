@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,690` across `72` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,696` across `72` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-12 10:55 UTC`
+**Last Automated Sync:** `2026-11-12 11:59 UTC`
 
 ---
 
@@ -18,9 +18,9 @@
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`186` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`172` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`147` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`143` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`137` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`94` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
@@ -88,7 +88,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,690)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,696)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -298,11 +298,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2025-1339`]` **[The Automated Vehicles Act 2024 (Commencement No. 1) Regulations 2025](https://www.indexdata.org/the-automated-vehicles-act-2024-commencement-no-1-regulations-2025/)** — `2025-12-15` | `2 Pages`
 - `[`UKSI-2025-1337`]` **[The Procurement Act 2023 (Specified International Agreements and Saving Provision) (Amendment) Regulations 2025](https://www.indexdata.org/the-procurement-act-2023-specified-international-agreements-and-saving-provision-amendment-regulations-2025/)** — `2025-12-15` | `8 Pages`
 - `[`UKSI-2025-1330`]` **[The Infrastructure (Wales) Act 2024 (Consequential Amendments) Order 2025](https://www.indexdata.org/the-infrastructure-wales-act-2024-consequential-amendments-order-2025/)** — `2025-12-15` | `4 Pages`
-- `[`UKSI-2025-1329`]` **[The M60/M62/M66 Simister Island Interchange Development Consent (Correction) Order 2025](https://www.indexdata.org/the-m60-m62-m66-simister-island-interchange-development-consent-correction-order-2025/)** — `2025-12-11` | `4 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 
+- `[`UK-GOV-fcbd3bc6-36f8-4604-b178-237164b6998c-1`]` **[Mr R Jewula v FBS Electrical Ltd (In Compulsory Liquidation): 3312085/2024 — Mr R Jewula v FBS Electrical Ltd (In Compulsory Liquidation): 3312085/2024 - Judgment](https://www.indexdata.org/mr-r-jewula-v-fbs-electrical-ltd-in-compulsory-liquidation-3312085-2024-mr-r-jewula-v-fbs-electrical-ltd-in-compulsory-liquidation-3312085-2024-judgment/)** — `2026-11-12` | `2 Pages`
+- `[`UK-GOV-deef1654-544c-4cb1-990e-f3d032ebeee3-1`]` **[N Ghumra v Rexel UK Ltd: 6005470/2025 — N Ghumra v Rexel UK Ltd: 6005470/2025 - Dismissal](https://www.indexdata.org/n-ghumra-v-rexel-uk-ltd-6005470-2025-n-ghumra-v-rexel-uk-ltd-6005470-2025-dismissal/)** — `2026-11-12` | `2 Pages`
+- `[`UK-GOV-ddd01955-2754-4664-b0d0-4e7f846b7c48-5`]` **[QR v The G.I. Group Ltd: 3306088/2023 — QR v The G.I. Group Ltd: 3306088/2023 - Corrected Reserved Judgment](https://www.indexdata.org/qr-v-the-g-i-group-ltd-3306088-2023-qr-v-the-g-i-group-ltd-3306088-2023-corrected-reserved-judgment/)** — `2026-11-12` | `17 Pages`
+- `[`UK-GOV-ddd01955-2754-4664-b0d0-4e7f846b7c48-3`]` **[QR v The G.I. Group Ltd: 3306088/2023 — QR v The G.I. Group Ltd: 3306088/2023 - Reserved Judgment](https://www.indexdata.org/qr-v-the-g-i-group-ltd-3306088-2023-qr-v-the-g-i-group-ltd-3306088-2023-reserved-judgment/)** — `2026-11-12` | `17 Pages`
+- `[`UK-GOV-ddd01955-2754-4664-b0d0-4e7f846b7c48-2`]` **[QR v The G.I. Group Ltd: 3306088/2023 — QR v The G.I. Group Ltd: 3306088/2023 - Judgment with Reasons](https://www.indexdata.org/qr-v-the-g-i-group-ltd-3306088-2023-qr-v-the-g-i-group-ltd-3306088-2023-judgment-with-reasons/)** — `2026-11-12` | `9 Pages`
+- `[`UK-GOV-ddd01955-2754-4664-b0d0-4e7f846b7c48-1`]` **[QR v The G.I. Group Ltd: 3306088/2023 — QR v The G.I. Group Ltd: 3306088/2023 - Costs](https://www.indexdata.org/qr-v-the-g-i-group-ltd-3306088-2023-qr-v-the-g-i-group-ltd-3306088-2023-costs/)** — `2026-11-12` | `6 Pages`
 - `[`UK-GOV-62c2fce8-f425-4f9c-af84-418fec238be4-1`]` **[45 Freshwater Court, Lady Margaret Road, Southall, UB1 2NY : LON/00AJ/OC9/2026/0082](https://www.indexdata.org/45-freshwater-court-lady-margaret-road-southall-ub1-2ny-lon-00aj-oc9-2026-0082/)** — `2026-11-12` | `12 Pages`
 - `[`UK-GOV-457a1058-c23f-4c90-8399-6568727c72b8-1`]` **[Mr N Baker-Webb v Ministry of Defence: 6001209/2024 — Mr N Baker-Webb v Ministry of Defence: 6001209/2024 - Judgment with Reasons](https://www.indexdata.org/mr-n-baker-webb-v-ministry-of-defence-6001209-2024-mr-n-baker-webb-v-ministry-of-defence-6001209-2024-judgment-with-reasons/)** — `2026-11-12` | `34 Pages`
 - `[`UK-GOV-2ae39946-e027-4ae8-a53f-888169226bf6-1`]` **[Mr J Clinton v Secretary of State for Justice: 6030051/2025 — Mr J Clinton v Secretary of State for Justice: 6030051/2025 - Judgment](https://www.indexdata.org/mr-j-clinton-v-secretary-of-state-for-justice-6030051-2025-mr-j-clinton-v-secretary-of-state-for-justice-6030051-2025-judgment/)** — `2026-11-12` | `2 Pages`
@@ -649,8 +654,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2026-4`]` **[The Local Government Finance Act 1988 (Calculation of Non-Domestic Rating Multipliers for Retail, Hospitality or Leisure) (England) Regulations 2026](https://www.indexdata.org/the-local-government-finance-act-1988-calculation-of-non-domestic-rating-multipliers-for-retail-hospitality-or-leisure-england-regulations-2026/)** — `2026-01-06` | `2 Pages`
 - `[`UKSI-2025-1354`]` **[The Renters’ Rights Act 2025 (Commencement No. 1) Regulations 2025](https://www.indexdata.org/the-renters-rights-act-2025-commencement-no-1-regulations-2025/)** — `2025-12-18` | `4 Pages`
 - `[`UKSI-2025-1322`]` **[The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development (No. 2) Order 2025](https://www.indexdata.org/the-town-and-country-planning-entertainment-resort-complex-bedford-special-development-no-2-order-2025/)** — `2025-12-15` | `94 Pages`
-- `[`UKSI-2025-1345`]` **[The Middlesbrough (Electoral Changes) Order 2025](https://www.indexdata.org/the-middlesbrough-electoral-changes-order-2025/)** — `2025-12-11` | `4 Pages`
-- `[`UKSI-2025-1344`]` **[The Sandwell (Electoral Changes) Order 2025](https://www.indexdata.org/the-sandwell-electoral-changes-order-2025/)** — `2025-12-11` | `8 Pages`
 
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
@@ -804,7 +807,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-46`]` **[The Bus Services Act 2025 (Commencement No. 1 and Transitional Provision) Regulations 2026](https://www.indexdata.org/the-bus-services-act-2025-commencement-no-1-and-transitional-provision-regulations-2026/)** — `2026-01-20` | `8 Pages`
 - `[`UKSI-2026-18`]` **[The Football Governance Act 2025 (Suitability Determination Period for Owners and Officers) Regulations 2026](https://www.indexdata.org/the-football-governance-act-2025-suitability-determination-period-for-owners-and-officers-regulations-2026/)** — `2026-01-09` | `2 Pages`
 - `[`UKSI-2025-1328`]` **[The Unmanned Aircraft (Market Surveillance Authority) Regulations 2025](https://www.indexdata.org/the-unmanned-aircraft-market-surveillance-authority-regulations-2025/)** — `2025-12-15` | `2 Pages`
-- `[`UKSI-2025-1298`]` **[The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025](https://www.indexdata.org/the-merchant-shipping-safety-measures-for-ships-carrying-industrial-personnel-and-special-personnel-regulations-2025/)** — `2025-12-15` | `24 Pages`
 
 ### [Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
@@ -941,8 +943,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2025-1346`]` **[The Designation of Rural Primary Schools (England) Order 2025](https://www.indexdata.org/the-designation-of-rural-primary-schools-england-order-2025/)** — `2025-12-17` | `2 Pages`
 - `[`UKSI-2025-1341`]` **[The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 7) Order 2025](https://www.indexdata.org/the-apprenticeships-skills-children-and-learning-act-2009-commencement-no-7-order-2025/)** — `2025-12-15` | `4 Pages`
 - `[`UKSI-2025-1340`]` **[The Schools (Recording and Reporting of Seclusion and Restraint) (England) Regulations 2025 (revoked)](https://www.indexdata.org/the-schools-recording-and-reporting-of-seclusion-and-restraint-england-regulations-2025-revoked/)** — `2025-12-15` | `8 Pages`
-- `[`UKSI-2025-1332`]` **[The Power to Award Degrees etc. (Royal Northern College of Music) Order 2025](https://www.indexdata.org/the-power-to-award-degrees-etc-royal-northern-college-of-music-order-2025/)** — `2025-12-12` | `2 Pages`
-- `[`UKSI-2025-1311`]` **[The Designation of Schools Having a Religious Character (Independent Schools) (England) (No.2) Order 2025](https://www.indexdata.org/the-designation-of-schools-having-a-religious-character-independent-schools-england-no-2-order-2025/)** — `2025-12-12` | `4 Pages`
 
 ### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
