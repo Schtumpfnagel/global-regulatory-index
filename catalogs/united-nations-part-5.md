@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,962` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,965` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-12 09:55 UTC`
+**Last Automated Sync:** `2026-11-12 10:55 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`141` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`144` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,962 of 6,962)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,965 of 6,965)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -418,6 +418,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-develo
 ### [UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-security-council-unsc/](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 
+- `[`UN-S-2024-863`]` **[United Nations Organization Stabilization Mission in the Democratic Republic of the Congo — Report of the Secretary-General](https://www.indexdata.org/s-2024-863-united-nations-organization-stabilization-mission-in-the-democratic-republic-of-the-congo-report-of-the-secretary-general/)** — `2024-11-29` | `20 Pages`
 - `[`UN-S-2024-861`]` **[Letter dated 26 November 2024 from the Secretary-General addressed to the President of the Security Council](https://www.indexdata.org/s-2024-861-letter-dated-26-november-2024-from-the-secretary-general-addressed-to-the-president-of-the-security-council/)** — `2024-11-27` | `8 Pages`
 - `[`UN-S-2024-860`]` **[Letter dated 26 November 2024 from the Permanent Representative of the Syrian Arab Republic to the United Nations addressed to the President of the Security Council](https://www.indexdata.org/s-2024-860-letter-dated-26-november-2024-from-the-permanent-representative-of-the-syrian-arab-republic-to-the-united-nations-addressed-to-the-president-of-the-security-council/)** — `2024-11-27` | `2 Pages`
 - `[`UN-S-2024-731`]` **[Letter dated 11 October 2024 from the Panel of Experts on Yemen addressed to the President of the Security Council](https://www.indexdata.org/letter-dated-11-october-2024-from-the-panel-of-experts-on-yemen-addressed-to-the-president-of-the-security-council/)** — `2024-10-11` | `537 Pages`
@@ -998,6 +999,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-genera
 ### [UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 
+- `[`UN-CCPR-C-GNB-1`]` **[Initial report submitted by Guinea-Bissau under article 40 of the Covenant, due in 2021 — International Covenant on Civil and Political Rights](https://www.indexdata.org/ccpr-c-gnb-1-initial-report-submitted-by-guinea-bissau-under-article-40-of-the-covenant-due-in-2021-international-covenant-on-civil-and-political-rights/)** — `2024-11-29` | `54 Pages`
+- `[`UN-CCPR-C-ESP-7`]` **[Seventh periodic report submitted by Spain under article 40 of the Covenant, due in 2020 — International Covenant on Civil and Political Rights](https://www.indexdata.org/ccpr-c-esp-7-seventh-periodic-report-submitted-by-spain-under-article-40-of-the-covenant-due-in-2020-international-covenant-on-civil-and-political-rights/)** — `2024-11-29` | `34 Pages`
 - `[`UN-A-HRC-WGAD-2024-33`]` **[Opinions adopted by the Working Group on Arbitrary Detention at its 100th session, 26-30 August 2024 — Opinion No. 33/2024 concerning Akin Öztürk (Türkiye)](https://www.indexdata.org/a-hrc-wgad-2024-33-opinions-adopted-by-the-working-group-on-arbitrary-detention-at-its-100th-session-26-30-august-2024-opinion-no-33-2024-concerning-akin-ozturk-turkiye/)** — `2024-11-29` | `13 Pages`
 - `[`UN-CCPR-C-TUR-CO-2`]` **[Concluding observations on the 2nd periodic report of Türkiye — Human Rights Committee](https://www.indexdata.org/ccpr-c-tur-co-2-concluding-observations-on-the-2nd-periodic-report-of-turkiye-human-rights-committee/)** — `2024-11-28` | `15 Pages`
 - `[`UN-CCPR-C-GRC-CO-3`]` **[Concluding observations on the 3rd periodic report of Greece — Human Rights Committee](https://www.indexdata.org/ccpr-c-grc-co-3-concluding-observations-on-the-3rd-periodic-report-of-greece-human-rights-committee/)** — `2024-11-28` | `10 Pages`

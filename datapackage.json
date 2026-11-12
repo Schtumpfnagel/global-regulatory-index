@@ -1,7 +1,7 @@
 {
   "profile": "tabular-data-package",
   "name": "global-regulatory-index",
-  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 39,505 Official Dossiers",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 39,522 Official Dossiers",
   "homepage": "https://www.indexdata.org/",
   "version": "2026.11.12",
   "created": "2026-11-12",
@@ -77,6 +77,14 @@
     {
       "title": "Index Data Primary Repository",
       "path": "https://www.indexdata.org/"
+    },
+    {
+      "title": "Official Post — Companion Digital Daily Newspaper",
+      "path": "https://www.officialpost.org/"
+    },
+    {
+      "title": "Official Post Open News Corpus (CERN / Zenodo)",
+      "path": "https://doi.org/10.5281/zenodo.24089700"
     },
     {
       "title": "Complete Issuing Authority Directory",

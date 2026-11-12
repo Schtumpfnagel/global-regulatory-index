@@ -23,6 +23,12 @@ identifiers:
   - type: url
     value: "https://www.wikidata.org/wiki/Q142071440"
     description: "Wikidata Knowledge Graph Entity (Q142071440)"
+  - type: url
+    value: "https://www.officialpost.org/"
+    description: "Official Post — Companion International Digital Daily Newspaper"
+  - type: doi
+    value: "10.5281/zenodo.24089700"
+    description: "Official Post News Corpus CERN / Zenodo DOI"
 repository-code: "https://github.com/Schtumpfnagel/global-regulatory-index"
 url: "https://www.indexdata.org/"
 license: CC-BY-4.0
