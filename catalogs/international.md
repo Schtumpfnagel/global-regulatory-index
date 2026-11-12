@@ -4,15 +4,15 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `993` across `20` issuing authorities  
-**Last Automated Sync:** `2026-11-12 17:46 UTC`
+**Total Indexed Dossiers in International:** `994` across `20` issuing authorities  
+**Last Automated Sync:** `2026-11-12 18:43 UTC`
 
 ---
 
 ## Issuing Authorities in International (20 Authorities)
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`176` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
-- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`158` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
+- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`159` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`141` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
@@ -34,7 +34,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–993 of 993)
+## Indexed Statutory & Regulatory Dossiers (Records 1–994 of 994)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -220,6 +220,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-s
 Canonical Authority Archive: [https://www.indexdata.org/international/world-bank/](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/)
 
 - `[`WB-WDS-40138720`]` **[Revised Labor Management Procedures Second Timor-Leste Branch Roads Project (P516518)](https://www.indexdata.org/revised-labor-management-procedures-second-timor-leste-branch-roads-project-p516518/)** — `2026-11-12` | `38 Pages`
+- `[`WB-WDS-202237`]` **[Adoption of Al-powered Chest Radiography at a Commune Health Station in Ho Chi Minh City, Viet Nam : Pilot Evaluation Report](https://www.indexdata.org/adoption-of-al-powered-chest-radiography-at-a-commune-health-station-in-ho-chi-minh-city-viet-nam-pilot-evaluation-report/)** — `2026-11-12` | `26 Pages`
 - `[`WB-WDS-217040`]` **[Shifting Sands : Is Trade Still a Path to Development? - Overview](https://www.indexdata.org/shifting-sands-is-trade-still-a-path-to-development-overview/)** — `2026-11-11` | `34 Pages`
 - `[`WB-WDS-217038`]` **[Shizuoka : A Multi-Layered Strategy for Flood Resilience and Urban Strength](https://www.indexdata.org/shizuoka-a-multi-layered-strategy-for-flood-resilience-and-urban-strength/)** — `2026-11-11` | `16 Pages`
 - `[`WB-WDS-217005`]` **[Seven Myths and Realities of Diagnosis-Related Group Payment in Low- and Middle-Income Countries](https://www.indexdata.org/seven-myths-and-realities-of-diagnosis-related-group-payment-in-low-and-middle-income-countries/)** — `2026-11-10` | `7 Pages`
