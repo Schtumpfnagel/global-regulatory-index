@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,283` across `232` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,285` across `232` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-12 08:54 UTC`
+**Last Automated Sync:** `2026-11-12 09:55 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`306` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`308` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -248,11 +248,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,283)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,285)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-03117`]` **[Establishment and Amendment of Multiple United States Area Navigation (RNAV) Routes; Eastern United States; Correction](https://www.indexdata.org/establishment-and-amendment-of-multiple-united-states-area-navigation-rnav-routes-eastern-united-states-correction/)** — `2025-02-27` | `2 Pages`
+- `[`2025-03116`]` **[Amendment of United States Area Navigation (RNAV) Routes Q-64 and T-414, and Establishment of United States RNAV Routes T-461 and T-463; Eastern United States](https://www.indexdata.org/amendment-of-united-states-area-navigation-rnav-routes-q-64-and-t-414-and-establishment-of-united-states-rnav-routes-t-461-and-t-463-eastern-united-states/)** — `2025-02-27` | `3 Pages`
 - `[`2025-03095`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-helicopters-16/)** — `2025-02-26` | `4 Pages`
 - `[`2025-03081`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-149/)** — `2025-02-26` | `3 Pages`
 - `[`2025-03013`]` **[Airworthiness Directives; Safran Helicopter Engines, S.A. (Type Certificate Previously Held by Turbomeca, S.A.) Engines](https://www.indexdata.org/airworthiness-directives-safran-helicopter-engines-s-a-type-certificate-previously-held-by-turbomeca-s-a-engines-7/)** — `2025-02-25` | `3 Pages`
@@ -824,7 +826,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-24288`]` **[Removal of Affirmative Defense Provisions From the National Emission Standards for Hazardous Air Pollutants for the Oil and Natural Gas Production Facility and Natural Gas Transmission and Storage Facility Source Categories](https://www.indexdata.org/removal-of-affirmative-defense-provisions-from-the-national-emission-standards-for-hazardous-air-pollutants-for-the-oil-and-natural-gas-production-facility-and-natural-gas-transmission-and-storage-fac/)** — `2024-10-22` | `6 Pages`
 - `[`2024-24281`]` **[Prevention of Significant Deterioration (PSD): Paragraph Designation Corrections](https://www.indexdata.org/prevention-of-significant-deterioration-psd-paragraph-designation-corrections/)** — `2024-10-22` | `3 Pages`
 - `[`2024-24211`]` **[Air Plan Approval; WA; Excess Emissions, Startup, Shutdown, and Malfunction Revisions, Energy Facility Site Evaluation Council](https://www.indexdata.org/air-plan-approval-wa-excess-emissions-startup-shutdown-and-malfunction-revisions-energy-facility-site-evaluation-council-2/)** — `2024-10-22` | `6 Pages`
-- `[`2024-24196`]` **[Approval and Promulgation of Air Quality Implementation Plan; Delaware; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/approval-and-promulgation-of-air-quality-implementation-plan-delaware-regional-haze-state-implementation-plan-for-the-second-implementation-period/)** — `2024-10-22` | `4 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1766,16 +1767,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/land-manag
 - `[`2024-27333`]` **[Waste Prevention, Production Subject to Royalties, and Resource Conservation](https://www.indexdata.org/waste-prevention-production-subject-to-royalties-and-resource-conservation/)** — `2024-11-22` | `5 Pages`
 - `[`2024-26396`]` **[Notice of Final Supplementary Rule for Canyons of the Ancients National Monument in Dolores and Montezuma Counties, CO](https://www.indexdata.org/notice-of-final-supplementary-rule-for-canyons-of-the-ancients-national-monument-in-dolores-and-montezuma-counties-co/)** — `2024-11-14` | `5 Pages`
 
-### [Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
-
-- `[`2025-00726`]` **[Miscellaneous Corrections, Clarifications, and Improvements](https://www.indexdata.org/miscellaneous-corrections-clarifications-and-improvements-2/)** — `2025-01-21` | `9 Pages`
-- `[`2025-00211`]` **[Adjustment of Civil Penalties for Inflation](https://www.indexdata.org/adjustment-of-civil-penalties-for-inflation/)** — `2025-01-08` | `2 Pages`
-- `[`2024-30459`]` **[Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits-9/)** — `2024-12-23` | `3 Pages`
-- `[`2024-29105`]` **[Allocation of Assets in Single-Employer Plans; Valuation of Benefits and Assets; Expected Retirement Age; Missing Participants Mortality Assumption](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-valuation-of-benefits-and-assets-expected-retirement-age-missing-participants-mortality-assumption-2/)** — `2024-12-20` | `4 Pages`
-- `[`2024-28442`]` **[Privacy Act Regulation; Exemption for Legal Case Management Records](https://www.indexdata.org/privacy-act-regulation-exemption-for-legal-case-management-records/)** — `2024-12-05` | `2 Pages`
-- `[`2024-24210`]` **[Privacy Act Regulation; Exemption for Legal Case Management Records](https://www.indexdata.org/privacy-act-regulation-exemption-for-legal-case-management-records-2/)** — `2024-10-22` | `3 Pages`
-
 ### [State Department](https://www.indexdata.org/united-states/state-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
 
@@ -1821,6 +1812,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and
 - `[`2024-26821`]` **[Setting and Adjusting Patent Fees During Fiscal Year 2025](https://www.indexdata.org/setting-and-adjusting-patent-fees-during-fiscal-year-2025-2/)** — `2024-11-20` | `114 Pages`
 - `[`2024-26644`]` **[Setting and Adjusting Trademark Fees During Fiscal Year 2025](https://www.indexdata.org/setting-and-adjusting-trademark-fees-during-fiscal-year-2025-2/)** — `2024-11-18` | `30 Pages`
 - `[`2024-24755`]` **[Changes in Post-Registration Audit Selection for Affidavits or Declarations of Use, Continued Use, or Excusable Nonuse in Trademark Cases](https://www.indexdata.org/changes-in-post-registration-audit-selection-for-affidavits-or-declarations-of-use-continued-use-or-excusable-nonuse-in-trademark-cases/)** — `2024-10-28` | `3 Pages`
+
+### [Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
+
+- `[`2025-00726`]` **[Miscellaneous Corrections, Clarifications, and Improvements](https://www.indexdata.org/miscellaneous-corrections-clarifications-and-improvements-2/)** — `2025-01-21` | `9 Pages`
+- `[`2025-00211`]` **[Adjustment of Civil Penalties for Inflation](https://www.indexdata.org/adjustment-of-civil-penalties-for-inflation/)** — `2025-01-08` | `2 Pages`
+- `[`2024-30459`]` **[Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits-9/)** — `2024-12-23` | `3 Pages`
+- `[`2024-29105`]` **[Allocation of Assets in Single-Employer Plans; Valuation of Benefits and Assets; Expected Retirement Age; Missing Participants Mortality Assumption](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-valuation-of-benefits-and-assets-expected-retirement-age-missing-participants-mortality-assumption-2/)** — `2024-12-20` | `4 Pages`
+- `[`2024-28442`]` **[Privacy Act Regulation; Exemption for Legal Case Management Records](https://www.indexdata.org/privacy-act-regulation-exemption-for-legal-case-management-records/)** — `2024-12-05` | `2 Pages`
 
 ### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)

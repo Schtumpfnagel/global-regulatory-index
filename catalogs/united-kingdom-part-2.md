@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,682` across `70` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,685` across `71` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-12 08:54 UTC`
+**Last Automated Sync:** `2026-11-12 09:55 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (70 Authorities)
+## Issuing Authorities in United Kingdom (71 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`295` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`186` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`172` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
-- **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`145` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
+- **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`147` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`134` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -82,11 +82,12 @@
 - **[Teaching Regulation Agency](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/feed/)
 - **[Transport for London](https://www.indexdata.org/united-kingdom/transport-for-london/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/transport-for-london/) | [RSS Feed](https://www.indexdata.org/united-kingdom/transport-for-london/feed/)
 - **[UK Health Security Agency](https://www.indexdata.org/united-kingdom/uk-health-security-agency/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-health-security-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-health-security-agency/feed/)
+- **[UK Parliament — Regulatory Policy Committee](https://www.indexdata.org/united-kingdom/uk-parliament-regulatory-policy-committee/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-parliament-regulatory-policy-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-parliament-regulatory-policy-committee/feed/)
 - **[UK Visas and Immigration](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,682 of 2,682)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,685 of 2,685)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -388,6 +389,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2025-1307`]` **[The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025](https://www.indexdata.org/the-sanctions-miscellaneous-amendments-overseas-territories-order-2025/)** — `2025-12-10` | `196 Pages`
+- `[`UKSI-2025-1302`]` **[The Double Taxation Relief and International Tax Enforcement (Romania) Order 2025](https://www.indexdata.org/the-double-taxation-relief-and-international-tax-enforcement-romania-order-2025/)** — `2025-12-10` | `24 Pages`
 - `[`UKSI-2025-1301`]` **[The Double Taxation Relief and International Tax Enforcement (Andorra) Order 2025](https://www.indexdata.org/the-double-taxation-relief-and-international-tax-enforcement-andorra-order-2025/)** — `2025-12-10` | `24 Pages`
 - `[`UKSI-2025-1300`]` **[The Double Taxation Relief and International Tax Enforcement (Portuguese Republic) Order 2025](https://www.indexdata.org/the-double-taxation-relief-and-international-tax-enforcement-portuguese-republic-order-2025/)** — `2025-12-10` | `28 Pages`
 - `[`UKSI-2025-1293`]` **[The Financial Services and Markets Act 2023 (Commencement No. 10 and Saving Provisions) (Amendment) Regulations 2025](https://www.indexdata.org/the-financial-services-and-markets-act-2023-commencement-no-10-and-saving-provisions-amendment-regulations-2025/)** — `2025-12-10` | `4 Pages`
@@ -776,6 +779,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 
+- `[`UKSI-2025-1304`]` **[The Education (Chief Inspector of Education and Training in Wales) Order 2025](https://www.indexdata.org/the-education-chief-inspector-of-education-and-training-in-wales-order-2025/)** — `2025-12-10` | `2 Pages`
 - `[`UKSI-2025-1232`]` **[The Power to Award Degrees etc. (Blackpool and The Fylde College) Order 2025](https://www.indexdata.org/the-power-to-award-degrees-etc-blackpool-and-the-fylde-college-order-2025/)** — `2025-11-24` | `2 Pages`
 - `[`UKSI-2025-1245`]` **[The Power to Award Degrees etc. (ESCP Europe Business School) (Amendment) Order 2025](https://www.indexdata.org/the-power-to-award-degrees-etc-escp-europe-business-school-amendment-order-2025/)** — `2025-11-14` | `2 Pages`
 - `[`UKSI-2025-1185`]` **[The Inspectors of Education, Children’s Services and Skills (No. 4) Order 2025](https://www.indexdata.org/the-inspectors-of-education-childrens-services-and-skills-no-4-order-2025/)** — `2025-11-12` | `2 Pages`
