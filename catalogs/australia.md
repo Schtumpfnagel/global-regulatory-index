@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,269` across `35` issuing authorities  
-**Last Automated Sync:** `2026-11-12 04:01 UTC`
+**Total Indexed Dossiers in Australia:** `1,270` across `36` issuing authorities  
+**Last Automated Sync:** `2026-11-12 04:27 UTC`
 
 ---
 
-## Issuing Authorities in Australia (35 Authorities)
+## Issuing Authorities in Australia (36 Authorities)
 
 - **[Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)** (`376` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
 - **[Attorney-General's Department](https://www.indexdata.org/australia/attorney-general-s-department/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.indexdata.org/australia/attorney-general-s-department/feed/)
@@ -45,12 +45,13 @@
 - **[Northern Territory — Chief Minister and Cabinet](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/feed/)
 - **[Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
 - **[Australian Business Register](https://www.indexdata.org/australia/australian-business-register/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
+- **[Murray-Darling Basin Authority](https://www.indexdata.org/australia/murray-darling-basin-authority/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/murray-darling-basin-authority/) | [RSS Feed](https://www.indexdata.org/australia/murray-darling-basin-authority/feed/)
 - **[Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
 - **[SIP Register - OptiComm](https://www.indexdata.org/australia/sip-register-opticomm/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/sip-register-opticomm/) | [RSS Feed](https://www.indexdata.org/australia/sip-register-opticomm/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,269 of 1,269)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,270 of 1,270)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1450,6 +1451,11 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/victoria-depar
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-business-register/](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
 
 - `[`AU-DATA-5bd7fcab-e315-42cb-8daf`]` **[ABN Bulk Extract — ABN Lookup Bulk Extract Readme](https://www.indexdata.org/abn-bulk-extract-abn-lookup-bulk-extract-readme/)** — `2026-11-03` | `11 Pages`
+
+### [Murray-Darling Basin Authority](https://www.indexdata.org/australia/murray-darling-basin-authority/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/murray-darling-basin-authority/](https://www.indexdata.org/australia/murray-darling-basin-authority/) | [RSS Feed](https://www.indexdata.org/australia/murray-darling-basin-authority/feed/)
+
+- `[`AU-DATA-cde1b241-608d-421d-82dd`]` **[River Murray Water Quality Monitoring Program — Metadata Statement - RMWQMP Physico-chemical](https://www.indexdata.org/river-murray-water-quality-monitoring-program-metadata-statement-rmwqmp-physico-chemical/)** — `2026-11-12` | `5 Pages`
 
 ### [Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)

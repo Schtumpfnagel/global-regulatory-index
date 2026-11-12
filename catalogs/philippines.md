@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `349` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-12 04:01 UTC`
+**Total Indexed Dossiers in Philippines:** `353` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-12 04:27 UTC`
 
 ---
 
@@ -14,7 +14,7 @@
 
 - **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`96` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
-- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
+- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`54` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–349 of 349)
+## Indexed Statutory & Regulatory Dossiers (Records 1–353 of 353)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -200,6 +200,10 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-ind
 ### [National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/national-privacy-commission/](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 
+- `[`PH-NPC-54284`]` **[2026.11.11 RFQ FY 2027 Annual Operational Planning and Conduct of FY 2027 GAD Plans and Budget (GPB) and General Assembly and Employees Appreciation – Lease of Venue](https://www.indexdata.org/2026-11-11-rfq-fy-2027-annual-operational-planning-and-conduct-of-fy-2027-gad-plans-and-budget-gpb-and-general-assembly-and-employees-appreciation-lease-of-venue/)** — `2026-11-12` | `13 Pages`
+- `[`PH-NPC-54283`]` **[2026.11.11 RFQ Digital Forensic Software](https://www.indexdata.org/2026-11-11-rfq-digital-forensic-software/)** — `2026-11-12` | `22 Pages`
+- `[`PH-NPC-54279`]` **[2026.07.31, Order NPC BN 25-370, Order In re Pearl Energy Philippines Operating, Inc.](https://www.indexdata.org/2026-07-31-order-npc-bn-25-370-order-in-re-pearl-energy-philippines-operating-inc/)** — `2026-11-12` | `9 Pages`
+- `[`PH-NPC-54271`]` **[2025.08.04, Decision NPC 22-046 CLA v. GBO](https://www.indexdata.org/2025-08-04-decision-npc-22-046-cla-v-gbo/)** — `2026-11-12` | `28 Pages`
 - `[`PH-NPC-54256`]` **[CBD ICT Machineries and Equipment.](https://www.indexdata.org/cbd-ict-machineries-and-equipment-2/)** — `2026-11-10` | `131 Pages`
 - `[`PH-NPC-54255`]` **[Invitation to Bid - ICT Machineries and Equipment](https://www.indexdata.org/invitation-to-bid-ict-machineries-and-equipment-2/)** — `2026-11-10` | `3 Pages`
 - `[`PH-NPC-54254`]` **[CBD Cloud Hosting](https://www.indexdata.org/cbd-cloud-hosting/)** — `2026-11-10` | `142 Pages`
