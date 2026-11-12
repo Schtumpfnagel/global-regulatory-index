@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,681` across `70` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,682` across `70` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-12 07:50 UTC`
+**Last Automated Sync:** `2026-11-12 08:54 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`145` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`133` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`134` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`94` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
@@ -86,7 +86,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,681)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,682)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -303,6 +303,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 
+- `[`UK-GOV-62c2fce8-f425-4f9c-af84-418fec238be4-1`]` **[45 Freshwater Court, Lady Margaret Road, Southall, UB1 2NY : LON/00AJ/OC9/2026/0082](https://www.indexdata.org/45-freshwater-court-lady-margaret-road-southall-ub1-2ny-lon-00aj-oc9-2026-0082/)** — `2026-11-12` | `12 Pages`
 - `[`UK-GOV-ffac9ea3-96f8-4e45-ba99-6f14a5b6875c-1`]` **[S Main v Rebel Energy Supply Ltd (in administration): 3303476/2025 — S Main v Rebel Energy Supply Ltd (in administration): 3303476/2025 - Judgment](https://www.indexdata.org/s-main-v-rebel-energy-supply-ltd-in-administration-3303476-2025-s-main-v-rebel-energy-supply-ltd-in-administration-3303476-2025-judgment/)** — `2026-11-11` | `2 Pages`
 - `[`UK-GOV-f80476ff-e2ab-458b-8d89-de7364d518e0-1`]` **[Flat A, 3 Inglethorpe Street London SW6 6NS: LON/00AN/MRA/2026/0383 - Revised — SW6 6NS_LON/00AN/MRA/2026/0383_Decision](https://www.indexdata.org/flat-a-3-inglethorpe-street-london-sw6-6ns-lon-00an-mra-2026-0383-revised-sw6-6ns_lon-00an-mra-2026-0383_decision/)** — `2026-11-11` | `5 Pages`
 - `[`UK-GOV-f674c84e-9825-4e9e-aaa5-3cb09961a251-1`]` **[10A Chapel Street, Barwell, LE9 8DD: BIR/31UE/LSC/2026/0023](https://www.indexdata.org/10a-chapel-street-barwell-le9-8dd-bir-31ue-lsc-2026-0023/)** — `2026-11-11` | `20 Pages`
@@ -552,7 +553,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2025-1313`]` **[The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025](https://www.indexdata.org/the-occupational-pension-schemes-collective-money-purchase-schemes-extension-to-unconnected-multiple-employer-schemes-and-miscellaneous-provisions-regulations-2025/)** — `2025-12-15` | `96 Pages`
 - `[`UKSI-2025-1307`]` **[The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025](https://www.indexdata.org/the-sanctions-miscellaneous-amendments-overseas-territories-order-2025/)** — `2025-12-10` | `196 Pages`
 - `[`UKSI-2025-1302`]` **[The Double Taxation Relief and International Tax Enforcement (Romania) Order 2025](https://www.indexdata.org/the-double-taxation-relief-and-international-tax-enforcement-romania-order-2025/)** — `2025-12-10` | `24 Pages`
-- `[`UKSI-2025-1301`]` **[The Double Taxation Relief and International Tax Enforcement (Andorra) Order 2025](https://www.indexdata.org/the-double-taxation-relief-and-international-tax-enforcement-andorra-order-2025/)** — `2025-12-10` | `24 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
