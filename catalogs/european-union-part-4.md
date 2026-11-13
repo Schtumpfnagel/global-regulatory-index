@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `4,633` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `4,641` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-13 14:59 UTC`
+**Last Automated Sync:** `2026-11-13 16:00 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,750` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,756` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,033` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`625` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
-- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`383` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
+- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`385` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 - **[European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)** (`129` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/) | [Wikidata `Q130146`](https://www.wikidata.org/wiki/Q130146)
 - **[European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
@@ -45,11 +45,17 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–4,633 of 4,633)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–4,641 of 4,641)
 
 ### [European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-fund-eif/](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 
+- `[`EIF-REC-eif-npi-equity-platform-general-forum-oct-23-state-aid-supporting-information`]` **[EIF npi Equity Platform General Forum oct 23 State aid Supporting Information](https://www.indexdata.org/eif-npi-equity-platform-general-forum-oct-23-state-aid-supporting-information/)** — `2024-10-01` | `22 Pages`
+- `[`EIF-REC-eif-npi-equity-patform-general-forum-jun-23-public-investors-space-economy-supporting-info`]` **[EIF npi Equity Patform General Forum jun 23 Public Investors Space Economy Supporting Info](https://www.indexdata.org/eif-npi-equity-patform-general-forum-jun-23-public-investors-space-economy-supporting-info/)** — `2024-10-01` | `69 Pages`
+- `[`EIF-REC-eif-investors-sentiment-survey-june2020`]` **[EIF Investors Sentiment Survey June2020](https://www.indexdata.org/eif-investors-sentiment-survey-june2020/)** — `2024-10-01` | `16 Pages`
+- `[`EIF-REC-eif-data-protection-statement-2024`]` **[EIF Data Protection Statement 2024](https://www.indexdata.org/eif-data-protection-statement-2024/)** — `2024-10-01` | `3 Pages`
+- `[`EIF-REC-eib-group-support-for-eu-businesses-evidence-of-impact-in-addressing-market-failures`]` **[EIB Group Support for EU Businesses Evidence of Impact in Addressing Market Failures](https://www.indexdata.org/eib-group-support-for-eu-businesses-evidence-of-impact-in-addressing-market-failures/)** — `2024-10-01` | `36 Pages`
+- `[`EIF-REC-egf-call-expression-interest`]` **[EIF Corporate Record: European Guarantee Fund (EGF) Call Expression Interest](https://www.indexdata.org/eif-corporate-record-european-guarantee-fund-egf-call-expression-interest/)** — `2024-10-01` | `14 Pages`
 - `[`EIF-REC-egf-annex-vi-selective-loanfunds-termsheet`]` **[EIF Corporate Record: European Guarantee Fund (EGF) Annex vi Selective Loanfunds Termsheet](https://www.indexdata.org/eif-corporate-record-european-guarantee-fund-egf-annex-vi-selective-loanfunds-termsheet/)** — `2024-10-01` | `5 Pages`
 - `[`EIF-REC-egf-annex-iii-replacing-defaulting-lps-termsheet`]` **[EIF Corporate Record: European Guarantee Fund (EGF) Annex iii Replacing Defaulting lps Termsheet](https://www.indexdata.org/eif-corporate-record-european-guarantee-fund-egf-annex-iii-replacing-defaulting-lps-termsheet/)** — `2024-10-01` | `6 Pages`
 - `[`EIF-REC-egf-annex-ii-existing-funds-topup-termsheet`]` **[EIF Corporate Record: European Guarantee Fund (EGF) Annex ii Existing Funds Topup Termsheet](https://www.indexdata.org/eif-corporate-record-european-guarantee-fund-egf-annex-ii-existing-funds-topup-termsheet/)** — `2024-10-01` | `7 Pages`
@@ -180,6 +186,8 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-REC-annex_ii_call_expression_interest_jer009-8_early_stage`]` **[EIF Corporate Record: Annex ii Call Expression Interest Jer009 8 Early Stage](https://www.indexdata.org/eif-corporate-record-annex-ii-call-expression-interest-jer009-8-early-stage/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-annex_i`]` **[EIF Corporate Record — Annex i](https://www.indexdata.org/eif-corporate-record-annex-i/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-annex-iv-terms-of-confidentiality-eere-malta`]` **[EIF Corporate Record: Annex iv Terms of Confidentiality Eere Malta](https://www.indexdata.org/eif-corporate-record-annex-iv-terms-of-confidentiality-eere-malta/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-annex-iv-terms-of-confidentiality`]` **[EIF Corporate Record: Annex iv Terms of Confidentiality](https://www.indexdata.org/eif-corporate-record-annex-iv-terms-of-confidentiality/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-annex-iii-terms-of-confidentiality`]` **[EIF Corporate Record: Annex iii Terms of Confidentiality](https://www.indexdata.org/eif-corporate-record-annex-iii-terms-of-confidentiality/)** — `2024-10-01` | `3 Pages`
 
 ### [European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-medicines-agency-ema/](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/)
