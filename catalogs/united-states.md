@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,298` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,300` across `235` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 02:19 UTC`
+**Last Automated Sync:** `2026-11-13 03:28 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`309` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -66,8 +66,8 @@
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,298)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,300)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -322,6 +322,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CRPT-119hrpt878`]` **[H. Rept. 119-878](https://www.indexdata.org/h-rept-119-878/)** — `2026-11-01` | `2 Pages`
 - `[`US-CHRG-119hhrg64516`]` **[Small Business Committee Document Number 119-43 - FUELING THE GOLDEN AGE: FUTURE RESOURCE NEEDS AND SMALL BUSINESS OPPORTUNITY](https://www.indexdata.org/small-business-committee-document-number-119-43-fueling-the-golden-age-future-resource-needs-and-small-business-opportunity/)** — `2026-11-01` | `69 Pages`
 - `[`US-CHRG-119hhrg64505`]` **[Serial No. 119-47 - TSA MODERNIZATION: INDUSTRY PERSPECTIVES ON KEY SECURITY AND TRAVEL REFORMS 25 YEARS AFTER 9/11](https://www.indexdata.org/serial-no-119-47-tsa-modernization-industry-perspectives-on-key-security-and-travel-reforms-25-years-after-9-11/)** — `2026-11-01` | `68 Pages`
+- `[`US-CHRG-119hhrg64103`]` **[House Hearing, 119th Congress - THE CONGRESSIONAL RESEARCH SERVICE AND THE FUTURE OF AI-ENABLED POLICY ANALYSIS](https://www.indexdata.org/house-hearing-119th-congress-the-congressional-research-service-and-the-future-of-ai-enabled-policy-analysis/)** — `2026-11-01` | `104 Pages`
 - `[`US-CHRG-119hhrg63913`]` **[House Hearing, 119th Congress - OVERSIGHT OF THE ARCHITECT OF THE CAPITOL: ADDRESSING PAST LESSONS, PRESENT PROJECTS, AND FUTURE CHALLENGES](https://www.indexdata.org/house-hearing-119th-congress-oversight-of-the-architect-of-the-capitol-addressing-past-lessons-present-projects-and-future-challenges/)** — `2026-11-01` | `32 Pages`
 - `[`US-BILLS-119hres1656ih`]` **[H. Res. 1656 (IH) - Providing for consideration of the bill (H.R. 6731) to amend chapter 131 of title 5 to prohibit Members of Congress, the President, Vice President, and their spouses and dependents from owning or trading stocks, and for other purposes.](https://www.indexdata.org/h-res-1656-ih-providing-for-consideration-of-the-bill-h-r-6731-to-amend-chapter-131-of-title-5-to-prohibit-members-of-congress-the-president-vice-president-and-their-spouses-and-dependents/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hres1654ih`]` **[H. Res. 1654 (IH) - Congratulating the Milwaukee Brewers, and the fans of the Milwaukee Brewers, on winning Major League Baseball’s 2026 World Championship Series.](https://www.indexdata.org/h-res-1654-ih-congratulating-the-milwaukee-brewers-and-the-fans-of-the-milwaukee-brewers-on-winning-major-league-baseballs-2026-world-championship-series/)** — `2026-11-01` | `4 Pages`
@@ -792,7 +793,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-17978`]` **[Safety Zone; Bay Bridge Paddle; Chesapeake Bay, Annapolis, MD](https://www.indexdata.org/safety-zone-bay-bridge-paddle-chesapeake-bay-annapolis-md/)** — `2026-09-02` | `3 Pages`
 - `[`2026-17971`]` **[Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI](https://www.indexdata.org/safety-zone-lake-st-clair-grosse-pointe-farms-mi-3/)** — `2026-09-02` | `2 Pages`
 - `[`2026-17940`]` **[Safety Zone; Maumee River, Toledo, OH](https://www.indexdata.org/safety-zone-maumee-river-toledo-oh/)** — `2026-09-02` | `2 Pages`
-- `[`2026-17874`]` **[Safety Zone; Fort Myers Beach, FL](https://www.indexdata.org/safety-zone-fort-myers-beach-fl/)** — `2026-09-01` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -991,6 +991,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-CHRG-119shrg64161`]` **[S. Hrg. 119-477 - A LEGISLATIVE HEARING TO EXAMINE S. __, BUILD NUCLEAR WITH LOCAL MATERIALS ACT, DISCUSSION DRAFT S. __, RECHARGE ACT, AND DISCUSSION DRAFT S. __, ENRICHMENT LICENSING MODERNIZATION ACT](https://www.indexdata.org/s-hrg-119-477-a-legislative-hearing-to-examine-s-__-build-nuclear-with-local-materials-act-discussion-draft-s-__-recharge-act-and-discussion-draft-s-__-enrichment-licensing-modernization-a/)** — `2026-11-02` | `108 Pages`
 - `[`US-CHRG-119shrg64416`]` **[S. Hrg. 119-508 - REBUILDING AMERICAN CRITICAL MINERALS SUPPLY CHAINS](https://www.indexdata.org/s-hrg-119-508-rebuilding-american-critical-minerals-supply-chains/)** — `2026-11-01` | `65 Pages`
 - `[`US-CHRG-119shrg64300`]` **[S. Hrg. 119-491 - HEARING ON THE NOMINATION OF KEVIN LILLY TO BE ASSISTANT SECRETARY FOR FISH AND WILDLIFE OF THE U.S. DEPARTMENT OF THE INTERIOR](https://www.indexdata.org/s-hrg-119-491-hearing-on-the-nomination-of-kevin-lilly-to-be-assistant-secretary-for-fish-and-wildlife-of-the-u-s-department-of-the-interior/)** — `2026-11-01` | `48 Pages`
+- `[`US-CHRG-119shrg63973`]` **[S. Hrg. 119-434 - HEARING TO EXAMINE THE U.S. NUCLEAR REGULATORY COMMISSION'S PROPOSED FISCAL YEAR 2027 BUDGET](https://www.indexdata.org/s-hrg-119-434-hearing-to-examine-the-u-s-nuclear-regulatory-commissions-proposed-fiscal-year-2027-budget/)** — `2026-11-01` | `82 Pages`
 - `[`US-BILLS-119sres722is`]` **[S. Res. 722 (IS) - Addressing the politicization of war crimes allegations against allied special operations forces.](https://www.indexdata.org/s-res-722-is-addressing-the-politicization-of-war-crimes-allegations-against-allied-special-operations-forces/)** — `2026-11-01` | `5 Pages`
 - `[`US-BILLS-119sres718ats`]` **[S. Res. 718 (ATS) - A resolution commending and congratulating the University of California, Los Angeles Bruins women’s basketball team for winning the 2026 National Collegiate Athletic Association Division I Women’s Basketball National Championship.](https://www.indexdata.org/s-res-718-ats-a-resolution-commending-and-congratulating-the-university-of-california-los-angeles-bruins-womens-basketball-team-for-winning-the-2026-national-collegiate-athletic-associ/)** — `2026-11-01` | `3 Pages`
 - `[`US-BILLS-119s5691is`]` **[S. 5691 (IS) - Memorializing Peace Corps Service Act](https://www.indexdata.org/s-5691-is-memorializing-peace-corps-service-act/)** — `2026-11-01` | `2 Pages`
@@ -2001,12 +2002,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-la
 - `[`2026-21078`]` **[Meaning of Terms as Used in This Subchapter; Representation Proceedings; National Consultation Rights and Consultation Rights on Government-Wide Rules or Regulations; Miscellaneous and General Requirements](https://www.indexdata.org/meaning-of-terms-as-used-in-this-subchapter-representation-proceedings-national-consultation-rights-and-consultation-rights-on-government-wide-rules-or-regulations-miscellaneous-and-general-require/)** — `2026-10-15` | `9 Pages`
 - `[`2026-21077`]` **[Amendment to Memorandum Describing the Authority and Assigned Responsibilities of the General Counsel of the Federal Labor Relations Authority](https://www.indexdata.org/amendment-to-memorandum-describing-the-authority-and-assigned-responsibilities-of-the-general-counsel-of-the-federal-labor-relations-authority/)** — `2026-10-15` | `3 Pages`
 
-### [Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-maritime-commission/](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
-
-- `[`2026-21067`]` **[Investigation Into Conditions Affecting Shipping in the Foreign Trade and Denial of Entry of Vessels Into Spanish Ports and Proposed Remedies To Meet or Adjust the Unfavorable Conditions](https://www.indexdata.org/investigation-into-conditions-affecting-shipping-in-the-foreign-trade-and-denial-of-entry-of-vessels-into-spanish-ports-and-proposed-remedies-to-meet-or-adjust-the-unfavorable-conditions/)** — `2026-10-15` | `7 Pages`
-- `[`2026-17876`]` **[Charge Complaint Procedures](https://www.indexdata.org/charge-complaint-procedures/)** — `2026-09-01` | `4 Pages`
-
 ### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
 
@@ -2123,6 +2118,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-service-agency/](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 
 - `[`2026-18164`]` **[Driving Efficiency in Farm Loan Delivery](https://www.indexdata.org/driving-efficiency-in-farm-loan-delivery/)** — `2026-09-04` | `35 Pages`
+
+### [Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-maritime-commission/](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
+
+- `[`2026-21067`]` **[Investigation Into Conditions Affecting Shipping in the Foreign Trade and Denial of Entry of Vessels Into Spanish Ports and Proposed Remedies To Meet or Adjust the Unfavorable Conditions](https://www.indexdata.org/investigation-into-conditions-affecting-shipping-in-the-foreign-trade-and-denial-of-entry-of-vessels-into-spanish-ports-and-proposed-remedies-to-meet-or-adjust-the-unfavorable-conditions/)** — `2026-10-15` | `7 Pages`
 
 ### [Federal Mediation and Conciliation Service](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/) | [RSS Feed](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/feed/)

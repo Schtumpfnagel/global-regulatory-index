@@ -5,18 +5,18 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,966` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,969` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-13 02:19 UTC`
+**Last Automated Sync:** `2026-11-13 03:28 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`536` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`480` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`482` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,966 of 6,966)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,969 of 6,969)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -523,6 +523,9 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-securi
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-79-L.36`]` **[Strengthening of the coordination of emergency humanitarian assistance of the United Nations — draft resolution](https://www.indexdata.org/a-79-l-36-strengthening-of-the-coordination-of-emergency-humanitarian-assistance-of-the-united-nations-draft-resolution/)** — `2024-12-02` | `22 Pages`
+- `[`UN-A-79-L.33`]` **[International cooperation on humanitarian assistance in the field of natural disasters, from relief to development — draft resolution](https://www.indexdata.org/a-79-l-33-international-cooperation-on-humanitarian-assistance-in-the-field-of-natural-disasters-from-relief-to-development-draft-resolution/)** — `2024-12-02` | `19 Pages`
+- `[`UN-A-79-L.32`]` **[Safety and security of humanitarian personnel and protection of United Nations personnel — draft resolution](https://www.indexdata.org/a-79-l-32-safety-and-security-of-humanitarian-personnel-and-protection-of-united-nations-personnel-draft-resolution/)** — `2024-12-02` | `14 Pages`
 - `[`UN-A-79-L.31`]` **[Cooperation between the United Nations and the Organisation for the Prohibition of Chemical Weapons — draft resolution](https://www.indexdata.org/a-79-l-31-cooperation-between-the-united-nations-and-the-organisation-for-the-prohibition-of-chemical-weapons-draft-resolution/)** — `2024-11-29` | `3 Pages`
 - `[`UN-A-79-L.27`]` **[World Meditation Day — draft resolution](https://www.indexdata.org/a-79-l-27-world-meditation-day-draft-resolution/)** — `2024-11-29` | `2 Pages`
 - `[`UN-A-C.5-79-SR.8`]` **[Summary record of the 8th meeting — 5th Committee, held at Headquarters, New York, on Tuesday, 5 November 2024, General Assembly, 79th session](https://www.indexdata.org/a-c-5-79-sr-8-summary-record-of-the-8th-meeting-5th-committee-held-at-headquarters-new-york-on-tuesday-5-november-2024-general-assembly-79th-session/)** — `2024-11-27` | `17 Pages`

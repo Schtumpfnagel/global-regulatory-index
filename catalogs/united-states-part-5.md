@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,298` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,300` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 02:19 UTC`
+**Last Automated Sync:** `2026-11-13 03:28 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`309` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -66,8 +66,8 @@
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,298)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,300)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -655,7 +655,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-03367`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-78/)** — `2025-03-04` | `2 Pages`
 - `[`2025-03366`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-79/)** — `2025-03-04` | `2 Pages`
 - `[`2025-03375`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-38/)** — `2025-03-03` | `3 Pages`
-- `[`2025-03258`]` **[Establishment of Class E Airspace; Windsor, NC](https://www.indexdata.org/establishment-of-class-e-airspace-windsor-nc/)** — `2025-03-03` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -837,7 +836,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-03609`]` **[Air Plan Approval; SC; Updates to the Cross-State Air Pollution Rule](https://www.indexdata.org/air-plan-approval-sc-updates-to-the-cross-state-air-pollution-rule/)** — `2025-03-07` | `3 Pages`
 - `[`2025-03608`]` **[Air Plan Approval; Alabama; Administrative Corrections and VOC Definition](https://www.indexdata.org/air-plan-approval-alabama-administrative-corrections-and-voc-definition-2/)** — `2025-03-07` | `4 Pages`
 - `[`2025-03227`]` **[Deletion From the National Priorities List](https://www.indexdata.org/deletion-from-the-national-priorities-list-3/)** — `2025-03-05` | `3 Pages`
-- `[`2025-03272`]` **[Hazardous Waste Management System; Identification and Listing of Hazardous Waste](https://www.indexdata.org/hazardous-waste-management-system-identification-and-listing-of-hazardous-waste-2/)** — `2025-03-03` | `4 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1471,6 +1469,29 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mo
 - `[`2025-09704`]` **[Parts and Accessories Necessary for Safe Operation; Certification and Labeling Requirements for Rear Impact Protection Guards](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-certification-and-labeling-requirements-for-rear-impact-protection-guards-2/)** — `2025-05-30` | `5 Pages`
 - `[`2025-09703`]` **[Civil Penalties Schedule Update](https://www.indexdata.org/civil-penalties-schedule-update/)** — `2025-05-30` | `4 Pages`
 
+### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
+
+- `[`2025-13414`]` **[Rescission of Regulations Regarding Requirement for Filing Statement of Assessment Work](https://www.indexdata.org/rescission-of-regulations-regarding-requirement-for-filing-statement-of-assessment-work/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13413`]` **[Rescission of Regulations Regarding FLPMA Documents](https://www.indexdata.org/rescission-of-regulations-regarding-flpma-documents/)** — `2025-07-17` | `2 Pages`
+- `[`2025-13412`]` **[Rescission of Regulations Regarding Existing Use and Occupancy Under the Mining Laws](https://www.indexdata.org/rescission-of-regulations-regarding-existing-use-and-occupancy-under-the-mining-laws/)** — `2025-07-17` | `2 Pages`
+- `[`2025-13411`]` **[Rescission of Regulations Regarding Mineral Locations Within National Forest Wilderness](https://www.indexdata.org/rescission-of-regulations-regarding-mineral-locations-within-national-forest-wilderness/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13405`]` **[Rescission of Regulations Regarding Production Incentives for Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-production-incentives-for-geothermal-leases/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13404`]` **[Rescission of Regulations Regarding Competitive and Non-Competitive Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-competitive-and-non-competitive-geothermal-leases/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13403`]` **[Rescission of Regulations Regarding Leasing of Solid Minerals Other Than Coal and Oil Shale](https://www.indexdata.org/rescission-of-regulations-regarding-leasing-of-solid-minerals-other-than-coal-and-oil-shale-2/)** — `2025-07-17` | `4 Pages`
+- `[`2025-13402`]` **[Rescission of Regulations Regarding Hearings Procedures](https://www.indexdata.org/rescission-of-regulations-regarding-hearings-procedures/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13401`]` **[Rescission of Regulations Regarding the Disposal of Reserved Minerals Under the Stockraising Homestead Act](https://www.indexdata.org/rescission-of-regulations-regarding-the-disposal-of-reserved-minerals-under-the-stockraising-homestead-act/)** — `2025-07-17` | `2 Pages`
+- `[`2025-13400`]` **[Rescission of Regulations Regarding Mining Claim Payments](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-payments/)** — `2025-07-17` | `2 Pages`
+- `[`2025-13399`]` **[Rescission of Regulations Regarding Plans of Operations for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-plans-of-operations-for-mining-claims-2/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13398`]` **[Rescission of Regulations Regarding Mining Claim and Millsite Use](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-and-millsite-use/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13397`]` **[Rescission of Regulations Regarding Mining Claim Payments](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-payments-2/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13396`]` **[Rescission of Regulations Regarding Plans of Operations for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-plans-of-operations-for-mining-claims-3/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13394`]` **[Rescission of Regulations Regarding Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-geothermal-leases/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13393`]` **[Rescission of Regulations Regarding Geothermal Lease Royalty Rate Terms](https://www.indexdata.org/rescission-of-regulations-regarding-geothermal-lease-royalty-rate-terms/)** — `2025-07-17` | `2 Pages`
+- `[`2025-13392`]` **[Rescission of Regulations Regarding Geothermal Operations Plans and Drilling Permits](https://www.indexdata.org/rescission-of-regulations-regarding-geothermal-operations-plans-and-drilling-permits/)** — `2025-07-17` | `3 Pages`
+- `[`2025-13391`]` **[Rescission of Regulations Regarding Annual Fees for Oil Shale Placer Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-annual-fees-for-oil-shale-placer-mining-claims/)** — `2025-07-17` | `3 Pages`
+- `[`2025-10058`]` **[Rescission of the Management and Protection of the National Petroleum Reserve in Alaska Regulations](https://www.indexdata.org/rescission-of-the-management-and-protection-of-the-national-petroleum-reserve-in-alaska-regulations/)** — `2025-06-03` | `6 Pages`
+
 ### [Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/mine-safety-and-health-administration/](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 
@@ -1493,28 +1514,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/mine-safet
 - `[`2025-11617`]` **[Improving and Eliminating Regulations; Hazardous Communication](https://www.indexdata.org/improving-and-eliminating-regulations-hazardous-communication/)** — `2025-07-01` | `9 Pages`
 - `[`2025-11616`]` **[Improving and Eliminating Regulations; Blacksmith Shops](https://www.indexdata.org/improving-and-eliminating-regulations-blacksmith-shops-2/)** — `2025-07-01` | `4 Pages`
 - `[`2025-11739`]` **[Improving and Eliminating Regulations; Installation of Foam Generator Systems in Underground Coal Mines](https://www.indexdata.org/improving-and-eliminating-regulations-installation-of-foam-generator-systems-in-underground-coal-mines/)** — `2025-06-30` | `4 Pages`
-
-### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
-
-- `[`2025-13413`]` **[Rescission of Regulations Regarding FLPMA Documents](https://www.indexdata.org/rescission-of-regulations-regarding-flpma-documents/)** — `2025-07-17` | `2 Pages`
-- `[`2025-13412`]` **[Rescission of Regulations Regarding Existing Use and Occupancy Under the Mining Laws](https://www.indexdata.org/rescission-of-regulations-regarding-existing-use-and-occupancy-under-the-mining-laws/)** — `2025-07-17` | `2 Pages`
-- `[`2025-13411`]` **[Rescission of Regulations Regarding Mineral Locations Within National Forest Wilderness](https://www.indexdata.org/rescission-of-regulations-regarding-mineral-locations-within-national-forest-wilderness/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13405`]` **[Rescission of Regulations Regarding Production Incentives for Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-production-incentives-for-geothermal-leases/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13404`]` **[Rescission of Regulations Regarding Competitive and Non-Competitive Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-competitive-and-non-competitive-geothermal-leases/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13403`]` **[Rescission of Regulations Regarding Leasing of Solid Minerals Other Than Coal and Oil Shale](https://www.indexdata.org/rescission-of-regulations-regarding-leasing-of-solid-minerals-other-than-coal-and-oil-shale-2/)** — `2025-07-17` | `4 Pages`
-- `[`2025-13402`]` **[Rescission of Regulations Regarding Hearings Procedures](https://www.indexdata.org/rescission-of-regulations-regarding-hearings-procedures/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13401`]` **[Rescission of Regulations Regarding the Disposal of Reserved Minerals Under the Stockraising Homestead Act](https://www.indexdata.org/rescission-of-regulations-regarding-the-disposal-of-reserved-minerals-under-the-stockraising-homestead-act/)** — `2025-07-17` | `2 Pages`
-- `[`2025-13400`]` **[Rescission of Regulations Regarding Mining Claim Payments](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-payments/)** — `2025-07-17` | `2 Pages`
-- `[`2025-13399`]` **[Rescission of Regulations Regarding Plans of Operations for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-plans-of-operations-for-mining-claims-2/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13398`]` **[Rescission of Regulations Regarding Mining Claim and Millsite Use](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-and-millsite-use/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13397`]` **[Rescission of Regulations Regarding Mining Claim Payments](https://www.indexdata.org/rescission-of-regulations-regarding-mining-claim-payments-2/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13396`]` **[Rescission of Regulations Regarding Plans of Operations for Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-plans-of-operations-for-mining-claims-3/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13394`]` **[Rescission of Regulations Regarding Geothermal Leases](https://www.indexdata.org/rescission-of-regulations-regarding-geothermal-leases/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13393`]` **[Rescission of Regulations Regarding Geothermal Lease Royalty Rate Terms](https://www.indexdata.org/rescission-of-regulations-regarding-geothermal-lease-royalty-rate-terms/)** — `2025-07-17` | `2 Pages`
-- `[`2025-13392`]` **[Rescission of Regulations Regarding Geothermal Operations Plans and Drilling Permits](https://www.indexdata.org/rescission-of-regulations-regarding-geothermal-operations-plans-and-drilling-permits/)** — `2025-07-17` | `3 Pages`
-- `[`2025-13391`]` **[Rescission of Regulations Regarding Annual Fees for Oil Shale Placer Mining Claims](https://www.indexdata.org/rescission-of-regulations-regarding-annual-fees-for-oil-shale-placer-mining-claims/)** — `2025-07-17` | `3 Pages`
-- `[`2025-10058`]` **[Rescission of the Management and Protection of the National Petroleum Reserve in Alaska Regulations](https://www.indexdata.org/rescission-of-the-management-and-protection-of-the-national-petroleum-reserve-in-alaska-regulations/)** — `2025-06-03` | `6 Pages`
 
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -1601,6 +1600,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2025-12140`]` **[Transit Asset Management](https://www.indexdata.org/transit-asset-management/)** — `2025-07-01` | `2 Pages`
 - `[`2025-12139`]` **[Organization, Functions, and Procedures](https://www.indexdata.org/organization-functions-and-procedures/)** — `2025-07-01` | `8 Pages`
 
+### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
+
+- `[`2025-13415`]` **[Administrative False Claims Act](https://www.indexdata.org/administrative-false-claims-act/)** — `2025-07-17` | `6 Pages`
+- `[`2025-11390`]` **[International Mailing Services: Price Changes](https://www.indexdata.org/international-mailing-services-price-changes-2/)** — `2025-06-20` | `2 Pages`
+- `[`2025-10984`]` **[Rules of Practice Before the Postal Service Board of Contract Appeals](https://www.indexdata.org/rules-of-practice-before-the-postal-service-board-of-contract-appeals/)** — `2025-06-18` | `7 Pages`
+- `[`2025-10462`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products-3/)** — `2025-06-10` | `22 Pages`
+- `[`2025-09351`]` **[Domestic Mail Manual; Incorporation by Reference](https://www.indexdata.org/domestic-mail-manual-incorporation-by-reference/)** — `2025-05-23` | `2 Pages`
+- `[`2025-08939`]` **[Domestic Competitive Products Pricing and Mailing Standards Changes](https://www.indexdata.org/domestic-competitive-products-pricing-and-mailing-standards-changes-3/)** — `2025-05-20` | `7 Pages`
+- `[`2025-08691`]` **[Optional 5-Digit/3-Digit/ADC Sortation](https://www.indexdata.org/optional-5-digit-3-digit-adc-sortation/)** — `2025-05-16` | `3 Pages`
+- `[`2025-07388`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products-4/)** — `2025-05-01` | `29 Pages`
+- `[`2025-06769`]` **[Purchasing of Property and Services](https://www.indexdata.org/purchasing-of-property-and-services-2/)** — `2025-04-23` | `3 Pages`
+- `[`2025-06656`]` **[International Mailing Services: Proposed Price Changes](https://www.indexdata.org/international-mailing-services-proposed-price-changes-2/)** — `2025-04-18` | `2 Pages`
+- `[`2025-05514`]` **[Priority Mail Express Service Standard](https://www.indexdata.org/priority-mail-express-service-standard/)** — `2025-04-01` | `4 Pages`
+- `[`2025-03902`]` **[Securing Bundles of Flats](https://www.indexdata.org/securing-bundles-of-flats/)** — `2025-03-12` | `3 Pages`
+
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
@@ -1630,21 +1645,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2025-08345`]` **[Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders; Proposed Rescission](https://www.indexdata.org/registry-of-nonbank-covered-persons-subject-to-certain-agency-and-court-orders-proposed-rescission/)** — `2025-05-14` | `3 Pages`
 - `[`2025-08344`]` **[Rules of Practice for Adjudication Proceedings; Rescission](https://www.indexdata.org/rules-of-practice-for-adjudication-proceedings-rescission/)** — `2025-05-13` | `21 Pages`
 - `[`2025-08286`]` **[Interpretive Rules, Policy Statements, and Advisory Opinions; Withdrawal](https://www.indexdata.org/interpretive-rules-policy-statements-and-advisory-opinions-withdrawal/)** — `2025-05-12` | `4 Pages`
-
-### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
-
-- `[`2025-11390`]` **[International Mailing Services: Price Changes](https://www.indexdata.org/international-mailing-services-price-changes-2/)** — `2025-06-20` | `2 Pages`
-- `[`2025-10984`]` **[Rules of Practice Before the Postal Service Board of Contract Appeals](https://www.indexdata.org/rules-of-practice-before-the-postal-service-board-of-contract-appeals/)** — `2025-06-18` | `7 Pages`
-- `[`2025-10462`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products-3/)** — `2025-06-10` | `22 Pages`
-- `[`2025-09351`]` **[Domestic Mail Manual; Incorporation by Reference](https://www.indexdata.org/domestic-mail-manual-incorporation-by-reference/)** — `2025-05-23` | `2 Pages`
-- `[`2025-08939`]` **[Domestic Competitive Products Pricing and Mailing Standards Changes](https://www.indexdata.org/domestic-competitive-products-pricing-and-mailing-standards-changes-3/)** — `2025-05-20` | `7 Pages`
-- `[`2025-08691`]` **[Optional 5-Digit/3-Digit/ADC Sortation](https://www.indexdata.org/optional-5-digit-3-digit-adc-sortation/)** — `2025-05-16` | `3 Pages`
-- `[`2025-07388`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products-4/)** — `2025-05-01` | `29 Pages`
-- `[`2025-06769`]` **[Purchasing of Property and Services](https://www.indexdata.org/purchasing-of-property-and-services-2/)** — `2025-04-23` | `3 Pages`
-- `[`2025-06656`]` **[International Mailing Services: Proposed Price Changes](https://www.indexdata.org/international-mailing-services-proposed-price-changes-2/)** — `2025-04-18` | `2 Pages`
-- `[`2025-05514`]` **[Priority Mail Express Service Standard](https://www.indexdata.org/priority-mail-express-service-standard/)** — `2025-04-01` | `4 Pages`
-- `[`2025-03902`]` **[Securing Bundles of Flats](https://www.indexdata.org/securing-bundles-of-flats/)** — `2025-03-12` | `3 Pages`
 
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)

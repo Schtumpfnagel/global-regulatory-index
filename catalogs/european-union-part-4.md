@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `4,514` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `4,530` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-13 02:19 UTC`
+**Last Automated Sync:** `2026-11-13 03:28 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,657` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,669` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,033` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`625` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
-- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`357` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
+- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`361` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 - **[European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)** (`129` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/) | [Wikidata `Q130146`](https://www.wikidata.org/wiki/Q130146)
 - **[European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
@@ -45,11 +45,25 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–4,514 of 4,514)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–4,530 of 4,530)
 
 ### [European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-fund-eif/](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 
+- `[`EIF-REC-board_of_directors_minutes_20210202_en`]` **[EIF Corporate Record: Board of Directors Minutes 20210202](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20210202/)** — `2024-10-01` | `10 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20210107_en`]` **[EIF Corporate Record: Board of Directors Minutes 20210107](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20210107/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20210104_en`]` **[EIF Corporate Record: Board of Directors Minutes 20210104](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20210104/)** — `2024-10-01` | `3 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20201223_en`]` **[EIF Corporate Record: Board of Directors Minutes 20201223](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20201223/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20201203_en`]` **[EIF Corporate Record: Board of Directors Minutes 20201203](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20201203/)** — `2024-10-01` | `5 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20201127_en`]` **[EIF Corporate Record: Board of Directors Minutes 20201127](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20201127/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20201002_en`]` **[EIF Corporate Record: Board of Directors Minutes 20201002](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20201002/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20200916_en`]` **[EIF Corporate Record: Board of Directors Minutes 20200916](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20200916/)** — `2024-10-01` | `13 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20200828_en`]` **[EIF Corporate Record: Board of Directors Minutes 20200828](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20200828/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20200730_en`]` **[EIF Corporate Record: Board of Directors Minutes 20200730](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20200730/)** — `2024-10-01` | `3 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20200714_en`]` **[EIF Corporate Record: Board of Directors Minutes 20200714](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20200714/)** — `2024-10-01` | `11 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20200629_en`]` **[EIF Corporate Record: Board of Directors Minutes 20200629](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20200629/)** — `2024-10-01` | `3 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20200610_en`]` **[EIF Corporate Record: Board of Directors Minutes 20200610](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20200610/)** — `2024-10-01` | `12 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20200518_en`]` **[EIF Corporate Record: Board of Directors Minutes 20200518](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20200518/)** — `2024-10-01` | `2 Pages`
 - `[`EIF-REC-board_of_directors_minutes_20200514_en`]` **[EIF Corporate Record: Board of Directors Minutes 20200514](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20200514/)** — `2024-10-01` | `9 Pages`
 - `[`EIF-REC-board_of_directors_minutes_20200408_en`]` **[EIF Corporate Record: Board of Directors Minutes 20200408](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20200408/)** — `2024-10-01` | `2 Pages`
 - `[`EIF-REC-board_of_directors_minutes_20200401_en`]` **[EIF Corporate Record: Board of Directors Minutes 20200401](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20200401/)** — `2024-10-01` | `2 Pages`
@@ -61,6 +75,8 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-REC-board_of_directors_minutes_20190408_en`]` **[EIF Corporate Record: Board of Directors Minutes 20190408](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20190408/)** — `2024-10-01` | `9 Pages`
 - `[`EIF-REC-board_of_directors_minutes_20181210_en`]` **[EIF Corporate Record: Board of Directors Minutes 20181210](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20181210/)** — `2024-10-01` | `9 Pages`
 - `[`EIF-REC-board_of_directors_minutes_20181003_en`]` **[EIF Corporate Record: Board of Directors Minutes 20181003](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20181003/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20180627_en`]` **[EIF Corporate Record: Board of Directors Minutes 20180627](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20180627/)** — `2024-10-01` | `4 Pages`
+- `[`EIF-REC-board_of_directors_minutes_20180611_en`]` **[EIF Corporate Record: Board of Directors Minutes 20180611](https://www.indexdata.org/eif-corporate-record-board-of-directors-minutes-20180611/)** — `2024-10-01` | `10 Pages`
 
 ### [European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-medicines-agency-ema/](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/)

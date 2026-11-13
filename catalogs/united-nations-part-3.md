@@ -5,18 +5,18 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,966` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,969` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-13 02:19 UTC`
+**Last Automated Sync:** `2026-11-13 03:28 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`536` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`480` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`482` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,966)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,969)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-80-604`]` **[Observations and recommendations on cross-cutting issues related to peacekeeping operations — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-604-observations-and-recommendations-on-cross-cutting-issues-related-to-peacekeeping-operations-report-of-the-advisory-committee-on-administrative-and-budgetary-questions/)** — `2026-04-17` | `82 Pages`
 - `[`UN-A-HRC-62-43-Add.1`]` **[Visit to Guatemala — report of the Special Rapporteur on the Independence of Judges and Lawyers](https://www.indexdata.org/a-hrc-62-43-add-1-visit-to-guatemala-report-of-the-special-rapporteur-on-the-independence-of-judges-and-lawyers/)** — `2026-04-16` | `20 Pages`
 - `[`UN-A-HRC-62-15`]` **[Report of the Working Group on the Universal Periodic Review — Saint Kitts and Nevis](https://www.indexdata.org/a-hrc-62-15-report-of-the-working-group-on-the-universal-periodic-review-saint-kitts-and-nevis/)** — `2026-04-16` | `24 Pages`
 - `[`UN-A-HRC-62-11-Add.1`]` **[Report of the Working Group on the Universal Periodic Review — Oman : addendum](https://www.indexdata.org/a-hrc-62-11-add-1-report-of-the-working-group-on-the-universal-periodic-review-oman-addendum/)** — `2026-04-16` | `10 Pages`
@@ -1054,11 +1055,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-61-21`]` **[Question of human rights in Cyprus — report of the Office of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-21-question-of-human-rights-in-cyprus-report-of-the-office-of-the-united-nations-high-commissioner-for-human-rights/)** — `2026-01-16` | `14 Pages`
 - `[`UN-A-HRC-61-36`]` **[Global analytical study on the implementation of a human-rights based approach into the goals and targets of the Kunming-Montreal Global Biodiversity Framework — report of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-36-global-analytical-study-on-the-implementation-of-a-human-rights-based-approach-into-the-goals-and-targets-of-the-kunming-montreal-global-biodiversity-framework-report-of-the-un/)** — `2026-01-15` | `17 Pages`
 - `[`UN-A-80-475`]` **[Cost recovery in the United Nations Secretariat — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-475-cost-recovery-in-the-united-nations-secretariat-report-of-the-advisory-committee-on-administrative-and-budgetary-questions/)** — `2026-01-14` | `18 Pages`
-- `[`UN-A-HRC-61-72`]` **[Combating intolerance, negative stereotyping and stigmatization of, and discrimination, incitement to violence and violence against, persons based on religion or belief — report of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-72-combating-intolerance-negative-stereotyping-and-stigmatization-of-and-discrimination-incitement-to-violence-and-violence-against-persons-based-on-religion-or-belief-report/)** — `2026-01-13` | `14 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-2026-333`]` **[Identical letters dated 16 April 2026 from the Permanent Representative of Israel to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-333-identical-letters-dated-16-april-2026-from-the-permanent-representative-of-israel-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `4 Pages`
+- `[`UN-S-2026-331`]` **[Identical letters dated 15 April 2026 from the Permanent Representative of Bahrain to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-331-identical-letters-dated-15-april-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `2 Pages`
 - `[`UN-S-2026-327`]` **[Identical letters dated 14 April 2026 from the Permanent Representative of Qatar to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-327-identical-letters-dated-14-april-2026-from-the-permanent-representative-of-qatar-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `2 Pages`
 - `[`UN-S-2026-326`]` **[Letter dated 14 April 2026 from the Permanent Representative of the Islamic Republic of Iran to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-326-letter-dated-14-april-2026-from-the-permanent-representative-of-the-islamic-republic-of-iran-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-cou/)** — `2026-04-16` | `3 Pages`
 - `[`UN-S-2026-306`]` **[Identical letters dated 9 April 2026 from the Permanent Representative of Iraq to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-306-identical-letters-dated-9-april-2026-from-the-permanent-representative-of-iraq-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `2 Pages`
@@ -1545,7 +1547,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 - `[`UN-CRC-C-MYS-RQ-2-4`]` **[Replies of Malaysia to the list of issues in relation to its combined 2nd to 4th periodic reports — Convention on the Rights of the Child](https://www.indexdata.org/crc-c-mys-rq-2-4-replies-of-malaysia-to-the-list-of-issues-in-relation-to-its-combined-2nd-to-4th-periodic-reports-convention-on-the-rights-of-the-child/)** — `2026-01-15` | `21 Pages`
 - `[`UN-CERD-C-BRA-FCO-18-20`]` **[Information received from Brazil on follow-up to the concluding observations on its combined 18th to 20th periodic reports — Committee on the Elimination of Racial Discrimination](https://www.indexdata.org/cerd-c-bra-fco-18-20-information-received-from-brazil-on-follow-up-to-the-concluding-observations-on-its-combined-18th-to-20th-periodic-reports-committee-on-the-elimination-of-racial-discr/)** — `2026-01-14` | `8 Pages`
 - `[`UN-CAT-C-KWT-FCO-4`]` **[Information received from Kuwait on follow-up to the concluding observations on its 4th periodic report — Committee against Torture](https://www.indexdata.org/cat-c-kwt-fco-4-information-received-from-kuwait-on-follow-up-to-the-concluding-observations-on-its-4th-periodic-report-committee-against-torture/)** — `2026-01-14` | `5 Pages`
-- `[`UN-CAT-C-NGA-QPR-2`]` **[List of issues prior to submission of the 2nd periodic report of Nigeria — Committee against Torture](https://www.indexdata.org/cat-c-nga-qpr-2-list-of-issues-prior-to-submission-of-the-2nd-periodic-report-of-nigeria-committee-against-torture/)** — `2026-01-13` | `9 Pages`
 
 ### [Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/programmes-and-funds/](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -1895,11 +1896,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/republic-
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/republic-of-t-rkiye/](https://www.indexdata.org/united-nations/republic-of-t-rkiye/) | [RSS Feed](https://www.indexdata.org/united-nations/republic-of-t-rkiye/feed/)
 
 - `[`UN-NPT-CONF.2026-12`]` **[Implementation of the action plan of the 2010 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons — report](https://www.indexdata.org/npt-conf-2026-12-implementation-of-the-action-plan-of-the-2010-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons-report/)** — `2026-03-19` | `8 Pages`
-
-### [Secretariat of the Convention on Cluster Munitions](https://www.indexdata.org/united-nations/secretariat-of-the-convention-on-cluster-munitions/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretariat-of-the-convention-on-cluster-munitions/](https://www.indexdata.org/united-nations/secretariat-of-the-convention-on-cluster-munitions/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat-of-the-convention-on-cluster-munitions/feed/)
-
-- `[`UN-CCM-MSP-2025-19-Rev.1`]` **[Revised Cost estimates for the Third Review Conference of States Parties to the Convention on Cluster Munitions and its Preparatory Committees — note](https://www.indexdata.org/ccm-msp-2025-19-rev-1-revised-cost-estimates-for-the-third-review-conference-of-states-parties-to-the-convention-on-cluster-munitions-and-its-preparatory-committees-note/)** — `2026-01-13` | `4 Pages`
 
 ### [Stockholm Initiative for Nuclear Disarmament](https://www.indexdata.org/united-nations/stockholm-initiative-for-nuclear-disarmament/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/stockholm-initiative-for-nuclear-disarmament/](https://www.indexdata.org/united-nations/stockholm-initiative-for-nuclear-disarmament/) | [RSS Feed](https://www.indexdata.org/united-nations/stockholm-initiative-for-nuclear-disarmament/feed/)

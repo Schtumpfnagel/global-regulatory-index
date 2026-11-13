@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,298` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,300` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 02:19 UTC`
+**Last Automated Sync:** `2026-11-13 03:28 UTC`
 
 ---
 
@@ -19,7 +19,7 @@
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`309` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -66,8 +66,8 @@
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,298)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,300)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -646,7 +646,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-12964`]` **[Modification of Class E Airspace; Pullman/Moscow Regional Airport, Pullman/Moscow, WA](https://www.indexdata.org/modification-of-class-e-airspace-pullman-moscow-regional-airport-pullman-moscow-wa/)** — `2023-06-16` | `2 Pages`
 - `[`2023-12959`]` **[Amendment of Class D and Class E Airspace; Huntsville, AL](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-huntsville-al/)** — `2023-06-16` | `2 Pages`
 - `[`2023-12956`]` **[Amendment of Class E Airspace; Augusta, GA](https://www.indexdata.org/amendment-of-class-e-airspace-augusta-ga/)** — `2023-06-16` | `3 Pages`
-- `[`2023-12934`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-114/)** — `2023-06-16` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1279,6 +1278,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
+- `[`2023-22353`]` **[Transfer of Clean Vehicle Credits Under Section 25E and Section 30D](https://www.indexdata.org/transfer-of-clean-vehicle-credits-under-section-25e-and-section-30d/)** — `2023-10-10` | `26 Pages`
 - `[`2023-22061`]` **[Guidance Under Section 367(b) Related to Certain Triangular Reorganizations and Inbound Nonrecognition Transactions](https://www.indexdata.org/guidance-under-section-367b-related-to-certain-triangular-reorganizations-and-inbound-nonrecognition-transactions-2/)** — `2023-10-06` | `20 Pages`
 - `[`2023-22104`]` **[Preparer Tax Identification Number (PTIN) User Fee Update](https://www.indexdata.org/preparer-tax-identification-number-ptin-user-fee-update-4/)** — `2023-10-04` | `3 Pages`
 - `[`2023-22103`]` **[Preparer Tax Identification Number (PTIN) User Fee Update](https://www.indexdata.org/preparer-tax-identification-number-ptin-user-fee-update-5/)** — `2023-10-04` | `4 Pages`
@@ -1532,6 +1532,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-p
 - `[`2023-15189`]` **[Safety Standard for Adult Portable Bed Rails](https://www.indexdata.org/safety-standard-for-adult-portable-bed-rails/)** — `2023-07-21` | `26 Pages`
 - `[`2023-13351`]` **[Notice of Availability of Updated ASTM Standard Under the Portable Fuel Container Safety Act](https://www.indexdata.org/notice-of-availability-of-updated-astm-standard-under-the-portable-fuel-container-safety-act-2/)** — `2023-06-23` | `2 Pages`
 
+### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+
+- `[`2023-22406`]` **[Second Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/second-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2023-10-10` | `5 Pages`
+- `[`2023-20439`]` **[Schedules of Controlled Substances: Placement of Ethylphenidate in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-ethylphenidate-in-schedule-i-2/)** — `2023-09-22` | `7 Pages`
+- `[`2023-18885`]` **[Management of Quotas for Controlled Substances and List I Chemicals](https://www.indexdata.org/management-of-quotas-for-controlled-substances-and-list-i-chemicals/)** — `2023-08-31` | `28 Pages`
+- `[`2023-17778`]` **[Schedules of Controlled Substances: Placement of Metonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-metonitazene-in-schedule-i/)** — `2023-08-18` | `4 Pages`
+- `[`2023-16892`]` **[Dispensing of Narcotic Drugs To Relieve Acute Withdrawal Symptoms of Opioid Use Disorder](https://www.indexdata.org/dispensing-of-narcotic-drugs-to-relieve-acute-withdrawal-symptoms-of-opioid-use-disorder/)** — `2023-08-08` | `7 Pages`
+- `[`2023-15747`]` **[Implementation of the Designer Anabolic Steroid Control Act of 2014](https://www.indexdata.org/implementation-of-the-designer-anabolic-steroid-control-act-of-2014/)** — `2023-08-01` | `6 Pages`
+- `[`2023-15847`]` **[Transfer of Electronic Prescriptions for Schedules II-V Controlled Substances Between Pharmacies for Initial Filling](https://www.indexdata.org/transfer-of-electronic-prescriptions-for-schedules-ii-v-controlled-substances-between-pharmacies-for-initial-filling/)** — `2023-07-27` | `16 Pages`
+- `[`2023-15748`]` **[Schedules of Controlled Substances: Temporary Placement of Etizolam, Flualprazolam, Clonazolam, Flubromazolam, and Diclazepam in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-etizolam-flualprazolam-clonazolam-flubromazolam-and-diclazepam-in-schedule-i/)** — `2023-07-26` | `7 Pages`
+- `[`2023-15508`]` **[Partial Filling of Prescriptions for Schedule II Controlled Substances](https://www.indexdata.org/partial-filling-of-prescriptions-for-schedule-ii-controlled-substances/)** — `2023-07-21` | `20 Pages`
+- `[`2023-13085`]` **[Reporting Theft or Significant Loss of Controlled Substances](https://www.indexdata.org/reporting-theft-or-significant-loss-of-controlled-substances/)** — `2023-06-22` | `7 Pages`
+
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 
@@ -1572,19 +1586,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 - `[`2023-14361`]` **[Governance Requirements for Derivatives Clearing Organizations](https://www.indexdata.org/governance-requirements-for-derivatives-clearing-organizations/)** — `2023-07-13` | `20 Pages`
 - `[`2023-13459`]` **[Large Trader Reporting Requirements](https://www.indexdata.org/large-trader-reporting-requirements-2/)** — `2023-06-27` | `19 Pages`
 - `[`2023-13446`]` **[Notice of Proposed Order and Request for Comment on an Application for a Capital Comparability Determination Submitted on Behalf of Nonbank Swap Dealers Domiciled in the French Republic and Federal Republic of Germany and Subject to Capital and Financial Reporting Requirements of the European Union](https://www.indexdata.org/notice-of-proposed-order-and-request-for-comment-on-an-application-for-a-capital-comparability-determination-submitted-on-behalf-of-nonbank-swap-dealers-domiciled-in-the-french-republic-and-federal-re/)** — `2023-06-27` | `40 Pages`
-
-### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
-
-- `[`2023-20439`]` **[Schedules of Controlled Substances: Placement of Ethylphenidate in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-ethylphenidate-in-schedule-i-2/)** — `2023-09-22` | `7 Pages`
-- `[`2023-18885`]` **[Management of Quotas for Controlled Substances and List I Chemicals](https://www.indexdata.org/management-of-quotas-for-controlled-substances-and-list-i-chemicals/)** — `2023-08-31` | `28 Pages`
-- `[`2023-17778`]` **[Schedules of Controlled Substances: Placement of Metonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-metonitazene-in-schedule-i/)** — `2023-08-18` | `4 Pages`
-- `[`2023-16892`]` **[Dispensing of Narcotic Drugs To Relieve Acute Withdrawal Symptoms of Opioid Use Disorder](https://www.indexdata.org/dispensing-of-narcotic-drugs-to-relieve-acute-withdrawal-symptoms-of-opioid-use-disorder/)** — `2023-08-08` | `7 Pages`
-- `[`2023-15747`]` **[Implementation of the Designer Anabolic Steroid Control Act of 2014](https://www.indexdata.org/implementation-of-the-designer-anabolic-steroid-control-act-of-2014/)** — `2023-08-01` | `6 Pages`
-- `[`2023-15847`]` **[Transfer of Electronic Prescriptions for Schedules II-V Controlled Substances Between Pharmacies for Initial Filling](https://www.indexdata.org/transfer-of-electronic-prescriptions-for-schedules-ii-v-controlled-substances-between-pharmacies-for-initial-filling/)** — `2023-07-27` | `16 Pages`
-- `[`2023-15748`]` **[Schedules of Controlled Substances: Temporary Placement of Etizolam, Flualprazolam, Clonazolam, Flubromazolam, and Diclazepam in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-etizolam-flualprazolam-clonazolam-flubromazolam-and-diclazepam-in-schedule-i/)** — `2023-07-26` | `7 Pages`
-- `[`2023-15508`]` **[Partial Filling of Prescriptions for Schedule II Controlled Substances](https://www.indexdata.org/partial-filling-of-prescriptions-for-schedule-ii-controlled-substances/)** — `2023-07-21` | `20 Pages`
-- `[`2023-13085`]` **[Reporting Theft or Significant Loss of Controlled Substances](https://www.indexdata.org/reporting-theft-or-significant-loss-of-controlled-substances/)** — `2023-06-22` | `7 Pages`
 
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
@@ -1914,12 +1915,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/architectu
 - `[`2023-16149`]` **[Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way](https://www.indexdata.org/accessibility-guidelines-for-pedestrian-facilities-in-the-public-right-of-way/)** — `2023-08-08` | `59 Pages`
 - `[`2023-16218`]` **[Standards for Accessible Medical Diagnostic Equipment](https://www.indexdata.org/standards-for-accessible-medical-diagnostic-equipment-2/)** — `2023-08-01` | `2 Pages`
 
-### [Commerce Department](https://www.indexdata.org/united-states/commerce-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/commerce-department/](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
-
-- `[`2023-22218`]` **[Rules Governing Pre-Issuance Internal Circulation and Review of Decisions Within the Patent Trial and Appeal Board](https://www.indexdata.org/rules-governing-pre-issuance-internal-circulation-and-review-of-decisions-within-the-patent-trial-and-appeal-board-2/)** — `2023-10-06` | `6 Pages`
-- `[`2023-12925`]` **[Securing the Information and Communications Technology and Services Supply Chain; Connected Software Applications](https://www.indexdata.org/securing-the-information-and-communications-technology-and-services-supply-chain-connected-software-applications/)** — `2023-06-16` | `6 Pages`
-
 ### [Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/corporation-for-national-and-community-service/](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 
@@ -2067,6 +2062,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agency-for
 Canonical Authority Archive: [https://www.indexdata.org/united-states/census-bureau/](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
 
 - `[`2023-16970`]` **[Foreign Trade Regulations (FTR): State Department Directorate of Defense Trade Controls Filing Requirement and Clarifications to Current Requirements](https://www.indexdata.org/foreign-trade-regulations-ftr-state-department-directorate-of-defense-trade-controls-filing-requirement-and-clarifications-to-current-requirements/)** — `2023-08-10` | `4 Pages`
+
+### [Commerce Department](https://www.indexdata.org/united-states/commerce-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/commerce-department/](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
+
+- `[`2023-22218`]` **[Rules Governing Pre-Issuance Internal Circulation and Review of Decisions Within the Patent Trial and Appeal Board](https://www.indexdata.org/rules-governing-pre-issuance-internal-circulation-and-review-of-decisions-within-the-patent-trial-and-appeal-board-2/)** — `2023-10-06` | `6 Pages`
 
 ### [Committee for Purchase From People Who Are Blind or Severely Disabled](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/) | [RSS Feed](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/feed/)
