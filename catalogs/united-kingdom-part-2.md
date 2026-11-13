@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,735` across `74` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,737` across `74` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-13 00:35 UTC`
+**Last Automated Sync:** `2026-11-13 01:42 UTC`
 
 ---
 
@@ -28,7 +28,7 @@
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
-- **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
+- **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
@@ -90,7 +90,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,735 of 2,735)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,737 of 2,737)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -986,6 +986,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 ### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 
+- `[`UKSI-2025-1379`]` **[The Oil and Gas Authority (Carbon Storage and Offshore Petroleum) (Specified Periods for Disclosure of Protected Material) Regulations 2025](https://www.indexdata.org/the-oil-and-gas-authority-carbon-storage-and-offshore-petroleum-specified-periods-for-disclosure-of-protected-material-regulations-2025/)** — `2025-12-19` | `16 Pages`
 - `[`UKSI-2025-1363`]` **[The Norfolk Vanguard Offshore Wind Farm (Amendment) (No. 3) Order 2025](https://www.indexdata.org/the-norfolk-vanguard-offshore-wind-farm-amendment-no-3-order-2025/)** — `2025-12-18` | `4 Pages`
 - `[`UKSI-2025-1362`]` **[The Norfolk Boreas Offshore Wind Farm (Amendment) (No. 2) Order 2025](https://www.indexdata.org/the-norfolk-boreas-offshore-wind-farm-amendment-no-2-order-2025/)** — `2025-12-18` | `4 Pages`
 - `[`UKSI-2025-1376`]` **[The Five Estuaries Offshore Wind Farm Order 2025](https://www.indexdata.org/the-five-estuaries-offshore-wind-farm-order-2025/)** — `2025-12-17` | `272 Pages`
@@ -1067,6 +1068,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 
+- `[`UKSI-2026-3`]` **[The Employment Rights Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026](https://www.indexdata.org/the-employment-rights-act-2025-commencement-no-1-and-transitional-and-saving-provisions-regulations-2026/)** — `2026-01-05` | `20 Pages`
 - `[`UKPGA-2025-36`]` **[Employment Rights Act 2025](https://www.indexdata.org/employment-rights-act-2025/)** — `2025-12-18` | `334 Pages`
 - `[`UKSI-2025-1356`]` **[The Motor Fuel Price (Open Data) Regulations 2025](https://www.indexdata.org/the-motor-fuel-price-open-data-regulations-2025/)** — `2025-12-17` | `20 Pages`
 - `[`UKSI-2025-1351`]` **[The Enterprise Act 2002 (Mergers Involving Newspaper Enterprises and Foreign Powers) (No. 2) Regulations 2025](https://www.indexdata.org/the-enterprise-act-2002-mergers-involving-newspaper-enterprises-and-foreign-powers-no-2-regulations-2025/)** — `2025-12-15` | `4 Pages`
