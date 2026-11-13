@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,302` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,306` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 06:45 UTC`
+**Last Automated Sync:** `2026-11-13 07:50 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`314` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -63,8 +63,8 @@
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`49` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
@@ -251,11 +251,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,302)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,306)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-24386`]` **[Airworthiness Directives; Deutsche Aircraft GmbH (Type Certificate Previously Held by 328 Support Services GmbH; AvCraft Aerospace GmbH; Fairchild Dornier GmbH; Dornier Luftfahrt GmbH) Airplanes](https://www.indexdata.org/airworthiness-directives-deutsche-aircraft-gmbh-type-certificate-previously-held-by-328-support-services-gmbh-avcraft-aerospace-gmbh-fairchild-dornier-gmbh-dornier-luftfahrt-gmbh-airplanes-5/)** — `2024-10-22` | `3 Pages`
 - `[`2024-24385`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-207/)** — `2024-10-22` | `4 Pages`
 - `[`2024-24370`]` **[Airworthiness Directives; Safran Aerosystems (Formerly AVOX Systems Inc.; Scott Aviation) Oxygen Cylinder and Valve Assemblies, and Oxygen Valve Assemblies](https://www.indexdata.org/airworthiness-directives-safran-aerosystems-formerly-avox-systems-inc-scott-aviation-oxygen-cylinder-and-valve-assemblies-and-oxygen-valve-assemblies-2/)** — `2024-10-22` | `6 Pages`
 - `[`2024-24369`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-181/)** — `2024-10-22` | `4 Pages`
@@ -801,11 +802,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-13601`]` **[Air Plan Approval; Indiana; Sulfur Dioxide](https://www.indexdata.org/air-plan-approval-indiana-sulfur-dioxide-2/)** — `2024-06-24` | `3 Pages`
 - `[`2024-13587`]` **[Air Plan Approval; ID; Revisions to Air Quality Regulations](https://www.indexdata.org/air-plan-approval-id-revisions-to-air-quality-regulations-2/)** — `2024-06-24` | `11 Pages`
 - `[`2024-13188`]` **[Removal of Affirmative Defense Provisions From Specified New Source Performance Standards and National Emission Standards for Hazardous Air Pollutants](https://www.indexdata.org/removal-of-affirmative-defense-provisions-from-specified-new-source-performance-standards-and-national-emission-standards-for-hazardous-air-pollutants/)** — `2024-06-24` | `6 Pages`
-- `[`2024-13588`]` **[Poly(oxy-1,2-ethanediyl), Polymer With 1,2-ethandiol, 2-methyl-1,3-propanediol, hexanedioic acid, 1,4-benzenedicarboxylic acid, 1,3-benzenedicarboxylic acid, 1,1′-methylenebis&#91;4-isocyanatobenzene&#93; and 2-ethyl-2-(hydroxymethyl)-1,3-propanediol in Pesticide Formulations; Tolerance Exemption](https://www.indexdata.org/polyoxy-12-ethanediyl-polymer-with-12-ethandiol-2-methyl-13-propanediol-hexanedioic-acid-14-benzenedicarboxylic-acid-13-benzenedicarboxylic-acid-11%e2%80%b2-methylenebis4-isocyanatobenz/)** — `2024-06-21` | `4 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-24393`]` **[Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0512, Offshore New York and New Jersey, Atlantic Ocean](https://www.indexdata.org/safety-zone-empire-wind-1-wind-farm-project-area-outer-continental-shelf-lease-ocs-a-0512-offshore-new-york-and-new-jersey-atlantic-ocean-2/)** — `2024-10-22` | `7 Pages`
 - `[`2024-24283`]` **[Safety Zone; Gallagher Station, Ohio River, New Albany, IN](https://www.indexdata.org/safety-zone-gallagher-station-ohio-river-new-albany-in/)** — `2024-10-18` | `3 Pages`
 - `[`2024-24246`]` **[Safety Zone; NAS Jax Air Show; St. John's River, Jacksonville, FL](https://www.indexdata.org/safety-zone-nas-jax-air-show-st-johns-river-jacksonville-fl/)** — `2024-10-18` | `3 Pages`
 - `[`2024-23738`]` **[Drawbridge Operation Regulation; Townsend Gut, Southport, ME](https://www.indexdata.org/drawbridge-operation-regulation-townsend-gut-southport-me/)** — `2024-10-16` | `2 Pages`
@@ -945,12 +946,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-13781`]` **[Safety Zone, Lake Erie, Mentor (Mentor Headlands), Ohio](https://www.indexdata.org/safety-zone-lake-erie-mentor-mentor-headlands-ohio/)** — `2024-06-21` | `4 Pages`
 - `[`2024-13642`]` **[Safety Zone; Back River, Baltimore County, MD](https://www.indexdata.org/safety-zone-back-river-baltimore-county-md/)** — `2024-06-21` | `3 Pages`
 - `[`2024-13635`]` **[Safety Zone; M/V Dali, Transit to Maryland/Virginia Line, Chesapeake Bay and Patapsco River, Baltimore, MD](https://www.indexdata.org/safety-zone-m-v-dali-transit-to-maryland-virginia-line-chesapeake-bay-and-patapsco-river-baltimore-md/)** — `2024-06-21` | `2 Pages`
-- `[`2024-13602`]` **[Special Local Regulation; Sail Grand Prix; Upper Bay, New York City, NY](https://www.indexdata.org/special-local-regulation-sail-grand-prix-upper-bay-new-york-city-ny-3/)** — `2024-06-21` | `4 Pages`
-- `[`2024-13592`]` **[Safety Zones; Recurring Events in Captain of the Port Duluth-City of Bayfield 4th of July Fireworks Display](https://www.indexdata.org/safety-zones-recurring-events-in-captain-of-the-port-duluth-city-of-bayfield-4th-of-july-fireworks-display/)** — `2024-06-21` | `2 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-24400`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2023-2024 Biennial Specifications and Management Measures; Inseason Adjustments](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2023-2024-biennial-specifications-and-management-measures-inseason-adjustments/)** — `2024-10-22` | `7 Pages`
 - `[`2024-24361`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2024 Tribal Fishery Allocations for Pacific Whiting; Reapportionment Between Tribal and Non-Tribal Sectors](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2024-tribal-fishery-allocations-for-pacific-whiting-reapportionment-between-tribal-and-non-tribal-s/)** — `2024-10-22` | `2 Pages`
 - `[`2024-24320`]` **[Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From Maine to Massachusetts](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-maine-to-massachusetts/)** — `2024-10-21` | `2 Pages`
 - `[`2024-24276`]` **[Revised Reporting Requirements Due to Catastrophic Conditions for Federal Seafood Dealers, Individual Fishing Quota Dealers, and Charter Vessels and Headboats in Portions of Florida](https://www.indexdata.org/revised-reporting-requirements-due-to-catastrophic-conditions-for-federal-seafood-dealers-individual-fishing-quota-dealers-and-charter-vessels-and-headboats-in-portions-of-florida-2/)** — `2024-10-21` | `2 Pages`
@@ -1470,23 +1470,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-a
 - `[`2024-16238`]` **[Servicemembers' Group Life Insurance Traumatic Injury Protection Program Amendments](https://www.indexdata.org/servicemembers-group-life-insurance-traumatic-injury-protection-program-amendments-2/)** — `2024-07-24` | `2 Pages`
 - `[`2024-15532`]` **[Reconsideration of Prior Interment and Memorialization Decisions](https://www.indexdata.org/reconsideration-of-prior-interment-and-memorialization-decisions/)** — `2024-07-17` | `5 Pages`
 
-### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
-
-- `[`2024-23276`]` **[Consumer Leasing (Regulation M)](https://www.indexdata.org/consumer-leasing-regulation-m-2/)** — `2024-10-15` | `5 Pages`
-- `[`2024-23275`]` **[Truth in Lending (Regulation Z)](https://www.indexdata.org/truth-in-lending-regulation-z-2/)** — `2024-10-15` | `7 Pages`
-- `[`2024-22962`]` **[Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt](https://www.indexdata.org/debt-collection-practices-regulation-f-deceptive-and-unfair-collection-of-medical-debt/)** — `2024-10-04` | `10 Pages`
-- `[`2024-22551`]` **[Consumer Financial Protection Circular 2024-05: Improper Overdraft Opt-In Practices](https://www.indexdata.org/consumer-financial-protection-circular-2024-05-improper-overdraft-opt-in-practices/)** — `2024-10-02` | `3 Pages`
-- `[`2024-22004`]` **[Remittance Transfers Under the Electronic Fund Transfer Act (Regulation E)](https://www.indexdata.org/remittance-transfers-under-the-electronic-fund-transfer-act-regulation-e/)** — `2024-09-30` | `19 Pages`
-- `[`2024-18620`]` **[Truth in Lending (Regulation Z); Consumer Protections for Home Sales Financed Under Contracts for Deed](https://www.indexdata.org/truth-in-lending-regulation-z-consumer-protections-for-home-sales-financed-under-contracts-for-deed/)** — `2024-08-23` | `5 Pages`
-- `[`2024-16447`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-6/)** — `2024-08-16` | `2 Pages`
-- `[`2024-17539`]` **[Consumer Financial Protection Circular 2024-04: Whistleblower Protections Under CFPA Section 1057](https://www.indexdata.org/consumer-financial-protection-circular-2024-04-whistleblower-protections-under-cfpa-section-1057/)** — `2024-08-09` | `5 Pages`
-- `[`2024-16827`]` **[Truth in Lending (Regulation Z); Consumer Credit Offered to Borrowers in Advance of Expected Receipt of Compensation for Work](https://www.indexdata.org/truth-in-lending-regulation-z-consumer-credit-offered-to-borrowers-in-advance-of-expected-receipt-of-compensation-for-work-2/)** — `2024-07-31` | `6 Pages`
-- `[`2024-15475`]` **[Streamlining Mortgage Servicing for Borrowers Experiencing Payment Difficulties; Regulation X](https://www.indexdata.org/streamlining-mortgage-servicing-for-borrowers-experiencing-payment-difficulties-regulation-x/)** — `2024-07-24` | `51 Pages`
-- `[`2024-12689`]` **[Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders](https://www.indexdata.org/registry-of-nonbank-covered-persons-subject-to-certain-agency-and-court-orders/)** — `2024-07-08` | `129 Pages`
-- `[`2024-14396`]` **[Small Business Lending Under the Equal Credit Opportunity Act (Regulation B); Extension of Compliance Dates](https://www.indexdata.org/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-extension-of-compliance-dates-3/)** — `2024-07-03` | `10 Pages`
-- `[`2024-13581`]` **[Consumer Financial Protection Circular 2024-03: Unlawful and Unenforceable Contract Terms and Conditions](https://www.indexdata.org/consumer-financial-protection-circular-2024-03-unlawful-and-unenforceable-contract-terms-and-conditions/)** — `2024-06-21` | `3 Pages`
-
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 
@@ -1554,6 +1537,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mi
 - `[`2024-16540`]` **[Montana Regulatory Program; Reopening Comment Period](https://www.indexdata.org/montana-regulatory-program-reopening-comment-period/)** — `2024-07-30` | `2 Pages`
 - `[`2024-16539`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-6/)** — `2024-07-30` | `3 Pages`
 - `[`2024-16536`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-7/)** — `2024-07-30` | `3 Pages`
+
+### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
+
+- `[`2024-23276`]` **[Consumer Leasing (Regulation M)](https://www.indexdata.org/consumer-leasing-regulation-m-2/)** — `2024-10-15` | `5 Pages`
+- `[`2024-23275`]` **[Truth in Lending (Regulation Z)](https://www.indexdata.org/truth-in-lending-regulation-z-2/)** — `2024-10-15` | `7 Pages`
+- `[`2024-22962`]` **[Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt](https://www.indexdata.org/debt-collection-practices-regulation-f-deceptive-and-unfair-collection-of-medical-debt/)** — `2024-10-04` | `10 Pages`
+- `[`2024-22551`]` **[Consumer Financial Protection Circular 2024-05: Improper Overdraft Opt-In Practices](https://www.indexdata.org/consumer-financial-protection-circular-2024-05-improper-overdraft-opt-in-practices/)** — `2024-10-02` | `3 Pages`
+- `[`2024-22004`]` **[Remittance Transfers Under the Electronic Fund Transfer Act (Regulation E)](https://www.indexdata.org/remittance-transfers-under-the-electronic-fund-transfer-act-regulation-e/)** — `2024-09-30` | `19 Pages`
+- `[`2024-18620`]` **[Truth in Lending (Regulation Z); Consumer Protections for Home Sales Financed Under Contracts for Deed](https://www.indexdata.org/truth-in-lending-regulation-z-consumer-protections-for-home-sales-financed-under-contracts-for-deed/)** — `2024-08-23` | `5 Pages`
+- `[`2024-16447`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-6/)** — `2024-08-16` | `2 Pages`
+- `[`2024-17539`]` **[Consumer Financial Protection Circular 2024-04: Whistleblower Protections Under CFPA Section 1057](https://www.indexdata.org/consumer-financial-protection-circular-2024-04-whistleblower-protections-under-cfpa-section-1057/)** — `2024-08-09` | `5 Pages`
+- `[`2024-16827`]` **[Truth in Lending (Regulation Z); Consumer Credit Offered to Borrowers in Advance of Expected Receipt of Compensation for Work](https://www.indexdata.org/truth-in-lending-regulation-z-consumer-credit-offered-to-borrowers-in-advance-of-expected-receipt-of-compensation-for-work-2/)** — `2024-07-31` | `6 Pages`
+- `[`2024-15475`]` **[Streamlining Mortgage Servicing for Borrowers Experiencing Payment Difficulties; Regulation X](https://www.indexdata.org/streamlining-mortgage-servicing-for-borrowers-experiencing-payment-difficulties-regulation-x/)** — `2024-07-24` | `51 Pages`
+- `[`2024-12689`]` **[Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders](https://www.indexdata.org/registry-of-nonbank-covered-persons-subject-to-certain-agency-and-court-orders/)** — `2024-07-08` | `129 Pages`
+- `[`2024-14396`]` **[Small Business Lending Under the Equal Credit Opportunity Act (Regulation B); Extension of Compliance Dates](https://www.indexdata.org/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-extension-of-compliance-dates-3/)** — `2024-07-03` | `10 Pages`
 
 ### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
@@ -1627,6 +1626,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 - `[`2024-15092`]` **[Order Granting Conditional Substituted Compliance in Connection With Certain Capital and Financial Reporting Requirements Applicable to Nonbank Swap Dealers Subject to Regulation by the Financial Services Agency of Japan](https://www.indexdata.org/order-granting-conditional-substituted-compliance-in-connection-with-certain-capital-and-financial-reporting-requirements-applicable-to-nonbank-swap-dealers-subject-to-regulation-by-the-financial-serv/)** — `2024-07-18` | `36 Pages`
 - `[`2024-14610`]` **[Event Contracts](https://www.indexdata.org/event-contracts/)** — `2024-07-05` | `2 Pages`
 
+### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+
+- `[`2024-24402`]` **[OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches/)** — `2024-10-22` | `7 Pages`
+- `[`2024-23277`]` **[Appraisals for Higher-Priced Mortgage Loans Exemption Threshold](https://www.indexdata.org/appraisals-for-higher-priced-mortgage-loans-exemption-threshold-2/)** — `2024-10-15` | `4 Pages`
+- `[`2024-21560`]` **[Business Combinations Under the Bank Merger Act](https://www.indexdata.org/business-combinations-under-the-bank-merger-act/)** — `2024-09-25` | `15 Pages`
+- `[`2024-18415`]` **[Financial Data Transparency Act Joint Data Standards](https://www.indexdata.org/financial-data-transparency-act-joint-data-standards-2/)** — `2024-08-22` | `19 Pages`
+- `[`2024-16546`]` **[Anti-Money Laundering and Countering the Financing of Terrorism Program Requirements](https://www.indexdata.org/anti-money-laundering-and-countering-the-financing-of-terrorism-program-requirements/)** — `2024-08-09` | `23 Pages`
+- `[`2024-16197`]` **[Quality Control Standards for Automated Valuation Models](https://www.indexdata.org/quality-control-standards-for-automated-valuation-models/)** — `2024-08-07` | `43 Pages`
+- `[`2024-16729`]` **[Regulatory Publication and Review Under the Economic Growth and Regulatory Paperwork Reduction Act of 1996](https://www.indexdata.org/regulatory-publication-and-review-under-the-economic-growth-and-regulatory-paperwork-reduction-act-of-1996/)** — `2024-08-01` | `7 Pages`
+- `[`2024-16200`]` **[Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations](https://www.indexdata.org/interagency-guidance-on-reconsiderations-of-value-of-residential-real-estate-valuations/)** — `2024-07-26` | `10 Pages`
+- `[`2024-13960`]` **[OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches-2/)** — `2024-07-03` | `7 Pages`
+
 ### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 
@@ -1652,18 +1664,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2024-16728`]` **[Modernization of Engagement With Mortgagors in Default](https://www.indexdata.org/modernization-of-engagement-with-mortgagors-in-default/)** — `2024-08-02` | `18 Pages`
 - `[`2024-15269`]` **[Updated Terminology for State Housing Agency Housing Assistance Payments Contracts](https://www.indexdata.org/updated-terminology-for-state-housing-agency-housing-assistance-payments-contracts-2/)** — `2024-07-17` | `4 Pages`
 - `[`2024-15024`]` **[Federal Housing Administration (FHA): Single Family Sale Program](https://www.indexdata.org/federal-housing-administration-fha-single-family-sale-program-2/)** — `2024-07-16` | `13 Pages`
-
-### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
-
-- `[`2024-23277`]` **[Appraisals for Higher-Priced Mortgage Loans Exemption Threshold](https://www.indexdata.org/appraisals-for-higher-priced-mortgage-loans-exemption-threshold-2/)** — `2024-10-15` | `4 Pages`
-- `[`2024-21560`]` **[Business Combinations Under the Bank Merger Act](https://www.indexdata.org/business-combinations-under-the-bank-merger-act/)** — `2024-09-25` | `15 Pages`
-- `[`2024-18415`]` **[Financial Data Transparency Act Joint Data Standards](https://www.indexdata.org/financial-data-transparency-act-joint-data-standards-2/)** — `2024-08-22` | `19 Pages`
-- `[`2024-16546`]` **[Anti-Money Laundering and Countering the Financing of Terrorism Program Requirements](https://www.indexdata.org/anti-money-laundering-and-countering-the-financing-of-terrorism-program-requirements/)** — `2024-08-09` | `23 Pages`
-- `[`2024-16197`]` **[Quality Control Standards for Automated Valuation Models](https://www.indexdata.org/quality-control-standards-for-automated-valuation-models/)** — `2024-08-07` | `43 Pages`
-- `[`2024-16729`]` **[Regulatory Publication and Review Under the Economic Growth and Regulatory Paperwork Reduction Act of 1996](https://www.indexdata.org/regulatory-publication-and-review-under-the-economic-growth-and-regulatory-paperwork-reduction-act-of-1996/)** — `2024-08-01` | `7 Pages`
-- `[`2024-16200`]` **[Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations](https://www.indexdata.org/interagency-guidance-on-reconsiderations-of-value-of-residential-real-estate-valuations/)** — `2024-07-26` | `10 Pages`
-- `[`2024-13960`]` **[OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches-2/)** — `2024-07-03` | `7 Pages`
 
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)

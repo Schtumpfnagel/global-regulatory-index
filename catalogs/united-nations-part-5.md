@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,969` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,970` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-13 06:45 UTC`
+**Last Automated Sync:** `2026-11-13 07:50 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`482` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`483` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,969 of 6,969)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,970 of 6,970)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -523,6 +523,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-securi
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-C.3-79-SR.16`]` **[Summary record of the 16th meeting — 3rd Committee, held at Headquarters, New York, on Wednesday, 16 October 2024, General Assembly, 79th session](https://www.indexdata.org/a-c-3-79-sr-16-summary-record-of-the-16th-meeting-3rd-committee-held-at-headquarters-new-york-on-wednesday-16-october-2024-general-assembly-79th-session/)** — `2024-12-02` | `21 Pages`
 - `[`UN-A-79-L.36`]` **[Strengthening of the coordination of emergency humanitarian assistance of the United Nations — draft resolution](https://www.indexdata.org/a-79-l-36-strengthening-of-the-coordination-of-emergency-humanitarian-assistance-of-the-united-nations-draft-resolution/)** — `2024-12-02` | `22 Pages`
 - `[`UN-A-79-L.33`]` **[International cooperation on humanitarian assistance in the field of natural disasters, from relief to development — draft resolution](https://www.indexdata.org/a-79-l-33-international-cooperation-on-humanitarian-assistance-in-the-field-of-natural-disasters-from-relief-to-development-draft-resolution/)** — `2024-12-02` | `19 Pages`
 - `[`UN-A-79-L.32`]` **[Safety and security of humanitarian personnel and protection of United Nations personnel — draft resolution](https://www.indexdata.org/a-79-l-32-safety-and-security-of-humanitarian-personnel-and-protection-of-united-nations-personnel-draft-resolution/)** — `2024-12-02` | `14 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,969` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,970` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-13 06:45 UTC`
+**Last Automated Sync:** `2026-11-13 07:50 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`482` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`483` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,969)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,970)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -628,7 +628,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-79-L.41`]` **[Assistance to the Palestinian people — draft resolution](https://www.indexdata.org/a-79-l-41-assistance-to-the-palestinian-people-draft-resolution/)** — `2024-12-05` | `6 Pages`
 - `[`UN-A-79-L.40`]` **[International Day of the Snow Leopard — draft resolution](https://www.indexdata.org/a-79-l-40-international-day-of-the-snow-leopard-draft-resolution/)** — `2024-12-04` | `3 Pages`
 - `[`UN-A-79-L.39`]` **[World Lake Day — draft resolution](https://www.indexdata.org/a-79-l-39-world-lake-day-draft-resolution/)** — `2024-12-04` | `2 Pages`
-- `[`UN-A-C.3-79-SR.16`]` **[Summary record of the 16th meeting — 3rd Committee, held at Headquarters, New York, on Wednesday, 16 October 2024, General Assembly, 79th session](https://www.indexdata.org/a-c-3-79-sr-16-summary-record-of-the-16th-meeting-3rd-committee-held-at-headquarters-new-york-on-wednesday-16-october-2024-general-assembly-79th-session/)** — `2024-12-02` | `21 Pages`
 
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -1606,6 +1605,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-2026-26`]` **[Letter dated 12 January 2026 from the Permanent Representative of Türkiye to the United Nations addressed to the President of the Security Council](https://www.indexdata.org/s-2026-26-letter-dated-12-january-2026-from-the-permanent-representative-of-turkiye-to-the-united-nations-addressed-to-the-president-of-the-security-council/)** — `2026-01-13` | `5 Pages`
 - `[`UN-S-2026-21`]` **[Letter dated 9 January 2026 from the Permanent Representative of the Islamic Republic of Iran to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-21-letter-dated-9-january-2026-from-the-permanent-representative-of-the-islamic-republic-of-iran-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-cou/)** — `2026-01-09` | `2 Pages`
 - `[`UN-S-2026-15`]` **[Letter dated 5 January 2026 from the Permanent Representatives of Denmark and Sierra Leone to the United Nations addressed to the President of the Security Council](https://www.indexdata.org/s-2026-15-letter-dated-5-january-2026-from-the-permanent-representatives-of-denmark-and-sierra-leone-to-the-united-nations-addressed-to-the-president-of-the-security-council/)** — `2026-01-06` | `10 Pages`
 - `[`UN-S-2026-6`]` **[Letter dated 3 January 2026 from the Permanent Representative of the Islamic Republic of Iran to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-6-letter-dated-3-january-2026-from-the-permanent-representative-of-the-islamic-republic-of-iran-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-coun/)** — `2026-01-05` | `2 Pages`

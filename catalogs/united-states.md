@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,302` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,306` across `235` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 06:45 UTC`
+**Last Automated Sync:** `2026-11-13 07:50 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`314` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -63,8 +63,8 @@
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`49` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,302)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,306)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -336,8 +336,10 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr9613eh`]` **[H.R. 9613 (EH) - Nuclear Advisory Committee Reform Act](https://www.indexdata.org/h-r-9613-eh-nuclear-advisory-committee-reform-act/)** — `2026-11-01` | `8 Pages`
 - `[`US-BILLS-119hr9612eh`]` **[H.R. 9612 (EH) - American Enrichment Deployment Act](https://www.indexdata.org/h-r-9612-eh-american-enrichment-deployment-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr3978eh`]` **[H.R. 3978 (EH) - Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act](https://www.indexdata.org/h-r-3978-eh-nuclear-refuel-recycling-efficient-fuels-utilizing-expedited-licensing-act/)** — `2026-11-01` | `4 Pages`
+- `[`US-BILLS-119hr11025ih`]` **[H.R. 11025 (IH) - Stand By NICU Babies and Families Act](https://www.indexdata.org/h-r-11025-ih-stand-by-nicu-babies-and-families-act/)** — `2026-11-01` | `9 Pages`
 - `[`US-BILLS-119hr10997ih`]` **[H.R. 10997 (IH) - Connecting Rural Stakeholders Act](https://www.indexdata.org/h-r-10997-ih-connecting-rural-stakeholders-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10996ih`]` **[H.R. 10996 (IH) - Streamlining Government Programs for Rural Businesses Act](https://www.indexdata.org/h-r-10996-ih-streamlining-government-programs-for-rural-businesses-act/)** — `2026-11-01` | `2 Pages`
+- `[`US-BILLS-119hr10993ih`]` **[H.R. 10993 (IH) - Solid Waste Management Improvement Act](https://www.indexdata.org/h-r-10993-ih-solid-waste-management-improvement-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10990ih`]` **[H.R. 10990 (IH) - For the relief of Paula Valentina Albornoz Hernández, Eliana Karina Hernández Peranquive, Nicole Alejandra Albornoz Hernández, and Leonardo Albornoz Rodríguez.](https://www.indexdata.org/h-r-10990-ih-for-the-relief-of-paula-valentina-albornoz-hernandez-eliana-karina-hernandez-peranquive-nicole-alejandra-albornoz-hernandez-and-leonardo-albornoz-rodriguez/)** — `2026-11-01` | `5 Pages`
 - `[`US-BILLS-119hr10989ih`]` **[H.R. 10989 (IH) - Smart Transmission Line Placement Act](https://www.indexdata.org/h-r-10989-ih-smart-transmission-line-placement-act/)** — `2026-11-01` | `6 Pages`
 - `[`US-BILLS-119hr10988ih`]` **[H.R. 10988 (IH) - Lower Electricity Bills Act](https://www.indexdata.org/h-r-10988-ih-lower-electricity-bills-act/)** — `2026-11-01` | `7 Pages`
@@ -355,6 +357,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr10967ih`]` **[H.R. 10967 (IH) - Diwali Day Act](https://www.indexdata.org/h-r-10967-ih-diwali-day-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10962ih`]` **[H.R. 10962 (IH) - Justification Oversight and Opportunities for Main Street Act of 2026](https://www.indexdata.org/h-r-10962-ih-justification-oversight-and-opportunities-for-main-street-act-of-2026/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr10954ih`]` **[H.R. 10954 (IH) - Don’t Flush Babies Act](https://www.indexdata.org/h-r-10954-ih-dont-flush-babies-act/)** — `2026-11-01` | `9 Pages`
+- `[`US-BILLS-119hr10508ih`]` **[H.R. 10508 (IH) - Revitalize Rural America Act](https://www.indexdata.org/h-r-10508-ih-revitalize-rural-america-act/)** — `2026-11-01` | `95 Pages`
 - `[`US-BILLS-119hconres126ih`]` **[H. Con. Res. 126 (IH) - Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.](https://www.indexdata.org/h-con-res-126-ih-directing-the-president-pursuant-to-section-5c-of-the-war-powers-resolution-to-remove-united-states-armed-forces-from-hostilities-with-iran/)** — `2026-11-01` | `2 Pages`
 - `[`US-CRPT-119hrpt856`]` **[H. Rept. 119-856](https://www.indexdata.org/h-rept-119-856/)** — `2026-10-31` | `4 Pages`
 - `[`US-BILLS-119hr10933ih`]` **[H.R. 10933 (IH) - EMS Supporting Personnel, Operations, Upgrades, Resources, and Training Act of 2026](https://www.indexdata.org/h-r-10933-ih-ems-supporting-personnel-operations-upgrades-resources-and-training-act-of-2026/)** — `2026-10-31` | `12 Pages`
@@ -996,6 +999,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-CHRG-119shrg63973`]` **[S. Hrg. 119-434 - HEARING TO EXAMINE THE U.S. NUCLEAR REGULATORY COMMISSION'S PROPOSED FISCAL YEAR 2027 BUDGET](https://www.indexdata.org/s-hrg-119-434-hearing-to-examine-the-u-s-nuclear-regulatory-commissions-proposed-fiscal-year-2027-budget/)** — `2026-11-01` | `82 Pages`
 - `[`US-BILLS-119sres722is`]` **[S. Res. 722 (IS) - Addressing the politicization of war crimes allegations against allied special operations forces.](https://www.indexdata.org/s-res-722-is-addressing-the-politicization-of-war-crimes-allegations-against-allied-special-operations-forces/)** — `2026-11-01` | `5 Pages`
 - `[`US-BILLS-119sres718ats`]` **[S. Res. 718 (ATS) - A resolution commending and congratulating the University of California, Los Angeles Bruins women’s basketball team for winning the 2026 National Collegiate Athletic Association Division I Women’s Basketball National Championship.](https://www.indexdata.org/s-res-718-ats-a-resolution-commending-and-congratulating-the-university-of-california-los-angeles-bruins-womens-basketball-team-for-winning-the-2026-national-collegiate-athletic-associ/)** — `2026-11-01` | `3 Pages`
+- `[`US-BILLS-119s5714is`]` **[S. 5714 (IS) - Competition in Professional Baseball Act](https://www.indexdata.org/s-5714-is-competition-in-professional-baseball-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119s5691is`]` **[S. 5691 (IS) - Memorializing Peace Corps Service Act](https://www.indexdata.org/s-5691-is-memorializing-peace-corps-service-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119s5594is`]` **[S. 5594 (IS) - Data Protection Act of 2026](https://www.indexdata.org/s-5594-is-data-protection-act-of-2026/)** — `2026-11-01` | `102 Pages`
 - `[`US-BILLS-119s3923es`]` **[S. 3923 (ES) - Weather Research and Forecasting Innovation Reauthorization Act of 2026](https://www.indexdata.org/s-3923-es-weather-research-and-forecasting-innovation-reauthorization-act-of-2026/)** — `2026-11-01` | `380 Pages`
@@ -1609,18 +1613,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-c
 - `[`2026-21088`]` **[Powers of Federal Credit Unions](https://www.indexdata.org/powers-of-federal-credit-unions/)** — `2026-10-15` | `3 Pages`
 - `[`2026-21087`]` **[Corporate Credit Unions; Fidelity Bond and Insurance Coverage for Federally Insured Credit Unions](https://www.indexdata.org/corporate-credit-unions-fidelity-bond-and-insurance-coverage-for-federally-insured-credit-unions/)** — `2026-10-15` | `4 Pages`
 
-### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-
-- `[`2026-22682`]` **[Endangered and Threatened Wildlife and Plants; Technical Corrections for 43 Wildlife and Plant Species on the Lists of Endangered and Threatened Wildlife and Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-technical-corrections-for-43-wildlife-and-plant-species-on-the-lists-of-endangered-and-threatened-wildlife-and-plants/)** — `2026-11-06` | `18 Pages`
-- `[`2026-21371`]` **[Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska](https://www.indexdata.org/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north-slope-of-alaska/)** — `2026-10-19` | `71 Pages`
-- `[`2026-20315`]` **[Endangered and Threatened Wildlife and Plants; Four Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-four-species-not-warranted-for-listing-as-endangered-or-threatened-species/)** — `2026-10-05` | `9 Pages`
-- `[`2026-20123`]` **[General Provisions; Revised List of Birds Protected by the Migratory Bird Treaty Act](https://www.indexdata.org/general-provisions-revised-list-of-birds-protected-by-the-migratory-bird-treaty-act/)** — `2026-10-01` | `47 Pages`
-- `[`2026-19723`]` **[National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations; Correction](https://www.indexdata.org/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations-correction/)** — `2026-09-25` | `3 Pages`
-- `[`2026-18470`]` **[Endangered and Threatened Wildlife and Plants; Removal of Gila Chub From the List of Endangered and Threatened Wildlife](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-gila-chub-from-the-list-of-endangered-and-threatened-wildlife/)** — `2026-09-10` | `2 Pages`
-- `[`2026-18123`]` **[Endangered and Threatened Wildlife and Plants; Nine Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-nine-species-not-warranted-for-listing-as-endangered-or-threatened-species/)** — `2026-09-04` | `15 Pages`
-- `[`2026-17895`]` **[National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations](https://www.indexdata.org/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations/)** — `2026-09-01` | `77 Pages`
-
 ### [National Highway Traffic Safety Administration (NHTSA)](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/feed/)
 
@@ -1679,6 +1671,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-
 - `[`2026-20371`]` **[Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network's Sub-Agents](https://www.indexdata.org/proposal-of-special-measure-prohibiting-the-transmittal-of-funds-regarding-transactions-involving-the-a7-networks-sub-agents/)** — `2026-10-05` | `19 Pages`
 - `[`2026-18194`]` **[Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border](https://www.indexdata.org/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money-services-businesses-along-the-southwest-border/)** — `2026-09-04` | `3 Pages`
 
+### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
+
+- `[`2026-22682`]` **[Endangered and Threatened Wildlife and Plants; Technical Corrections for 43 Wildlife and Plant Species on the Lists of Endangered and Threatened Wildlife and Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-technical-corrections-for-43-wildlife-and-plant-species-on-the-lists-of-endangered-and-threatened-wildlife-and-plants/)** — `2026-11-06` | `18 Pages`
+- `[`2026-21371`]` **[Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska](https://www.indexdata.org/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north-slope-of-alaska/)** — `2026-10-19` | `71 Pages`
+- `[`2026-20315`]` **[Endangered and Threatened Wildlife and Plants; Four Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-four-species-not-warranted-for-listing-as-endangered-or-threatened-species/)** — `2026-10-05` | `9 Pages`
+- `[`2026-20123`]` **[General Provisions; Revised List of Birds Protected by the Migratory Bird Treaty Act](https://www.indexdata.org/general-provisions-revised-list-of-birds-protected-by-the-migratory-bird-treaty-act/)** — `2026-10-01` | `47 Pages`
+- `[`2026-19723`]` **[National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations; Correction](https://www.indexdata.org/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations-correction/)** — `2026-09-25` | `3 Pages`
+- `[`2026-18470`]` **[Endangered and Threatened Wildlife and Plants; Removal of Gila Chub From the List of Endangered and Threatened Wildlife](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-gila-chub-from-the-list-of-endangered-and-threatened-wildlife/)** — `2026-09-10` | `2 Pages`
+- `[`2026-18123`]` **[Endangered and Threatened Wildlife and Plants; Nine Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-nine-species-not-warranted-for-listing-as-endangered-or-threatened-species/)** — `2026-09-04` | `15 Pages`
+
 ### [Food and Nutrition Administration](https://www.indexdata.org/united-states/food-and-nutrition-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-nutrition-administration/](https://www.indexdata.org/united-states/food-and-nutrition-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-administration/feed/)
 
@@ -1722,16 +1725,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-
 - `[`US-FR-2026-22787`]` **[Anti-Communism Week, 2026](https://www.indexdata.org/anti-communism-week-2026/)** — `2026-11-06` | `2 Pages`
 - `[`US-EOP-WH-2026ModifyingAuto338.prc_.AnnexII-2`]` **[2026ModifyingAuto338.prc .AnnexII-2](https://www.indexdata.org/2026modifyingauto338-prc-annexii-2/)** — `2026-10-01` | `2 Pages`
 
-### [Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-procurement-policy-office/](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
-
-- `[`2026-19162`]` **[Federal Acquisition Regulation: Revolutionary FAR Overhaul Parts 8, 12, 13, 15, 38, 44, and 51](https://www.indexdata.org/federal-acquisition-regulation-revolutionary-far-overhaul-parts-8-12-13-15-38-44-and-51/)** — `2026-09-18` | `69 Pages`
-- `[`2026-19160`]` **[Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 16, 17, and 35](https://www.indexdata.org/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-16-17-and-35/)** — `2026-09-18` | `56 Pages`
-- `[`2026-19159`]` **[Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 9, 27, and 47](https://www.indexdata.org/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-9-27-and-47/)** — `2026-09-18` | `100 Pages`
-- `[`2026-19158`]` **[Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 14, 28, 36, and 52](https://www.indexdata.org/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-14-28-36-and-52/)** — `2026-09-18` | `49 Pages`
-- `[`2026-17903`]` **[Conformance of Cost Accounting Standards to Generally Accepted Accounting Principles for CAS 407 Use of Standard Costs for Direct Material and Direct Labor](https://www.indexdata.org/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-cas-407-use-of-standard-costs-for-direct-material-and-direct-labor/)** — `2026-09-01` | `3 Pages`
-- `[`2026-17901`]` **[Increase of Monetary Thresholds and Other Matters Related to Cost Accounting Standards Program Requirements](https://www.indexdata.org/increase-of-monetary-thresholds-and-other-matters-related-to-cost-accounting-standards-program-requirements/)** — `2026-09-01` | `5 Pages`
-
 ### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 
@@ -1741,16 +1734,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2026-21060`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-2/)** — `2026-10-15` | `3 Pages`
 - `[`2026-20532`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-4/)** — `2026-10-07` | `4 Pages`
 - `[`2026-19642`]` **[Department of Justice; Response to Correspondence Requesting Rulemaking](https://www.indexdata.org/department-of-justice-response-to-correspondence-requesting-rulemaking/)** — `2026-09-25` | `4 Pages`
-
-### [National Park Service](https://www.indexdata.org/united-states/national-park-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-park-service/](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
-
-- `[`2026-21965`]` **[Alaska; Wildlife, Harvest, and Access; Correction](https://www.indexdata.org/alaska-wildlife-harvest-and-access-correction/)** — `2026-10-28` | `2 Pages`
-- `[`2026-21300`]` **[Gates of the Arctic National Park and Preserve; Use of Off-Road Vehicles for Subsistence Purposes by Residents of Anaktuvuk Pass](https://www.indexdata.org/gates-of-the-arctic-national-park-and-preserve-use-of-off-road-vehicles-for-subsistence-purposes-by-residents-of-anaktuvuk-pass/)** — `2026-10-19` | `7 Pages`
-- `[`2026-21299`]` **[Alaska; Wildlife, Harvest, and Access](https://www.indexdata.org/alaska-wildlife-harvest-and-access/)** — `2026-10-19` | `16 Pages`
-- `[`2026-21222`]` **[Denali National Park and Preserve; Vehicle Use](https://www.indexdata.org/denali-national-park-and-preserve-vehicle-use/)** — `2026-10-16` | `5 Pages`
-- `[`2026-20251`]` **[Big Cypress National Preserve; Off-Road Motor Vehicles](https://www.indexdata.org/big-cypress-national-preserve-off-road-motor-vehicles/)** — `2026-10-02` | `4 Pages`
-- `[`2026-17902`]` **[Bicycle Use in Park Areas](https://www.indexdata.org/bicycle-use-in-park-areas/)** — `2026-09-01` | `7 Pages`
 
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
@@ -1817,6 +1800,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-ser
 - `[`2026-20512`]` **[Purchaser Credit on Timber Sale Contracts](https://www.indexdata.org/purchaser-credit-on-timber-sale-contracts/)** — `2026-10-07` | `3 Pages`
 - `[`2026-18648`]` **[Special Areas; Roadless Area Conservation](https://www.indexdata.org/special-areas-roadless-area-conservation/)** — `2026-09-11` | `2 Pages`
 
+### [National Park Service](https://www.indexdata.org/united-states/national-park-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-park-service/](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
+
+- `[`2026-21965`]` **[Alaska; Wildlife, Harvest, and Access; Correction](https://www.indexdata.org/alaska-wildlife-harvest-and-access-correction/)** — `2026-10-28` | `2 Pages`
+- `[`2026-21300`]` **[Gates of the Arctic National Park and Preserve; Use of Off-Road Vehicles for Subsistence Purposes by Residents of Anaktuvuk Pass](https://www.indexdata.org/gates-of-the-arctic-national-park-and-preserve-use-of-off-road-vehicles-for-subsistence-purposes-by-residents-of-anaktuvuk-pass/)** — `2026-10-19` | `7 Pages`
+- `[`2026-21299`]` **[Alaska; Wildlife, Harvest, and Access](https://www.indexdata.org/alaska-wildlife-harvest-and-access/)** — `2026-10-19` | `16 Pages`
+- `[`2026-21222`]` **[Denali National Park and Preserve; Vehicle Use](https://www.indexdata.org/denali-national-park-and-preserve-vehicle-use/)** — `2026-10-16` | `5 Pages`
+- `[`2026-20251`]` **[Big Cypress National Preserve; Off-Road Motor Vehicles](https://www.indexdata.org/big-cypress-national-preserve-off-road-motor-vehicles/)** — `2026-10-02` | `4 Pages`
+
 ### [National Park Service (NPS)](https://www.indexdata.org/united-states/national-park-service-nps/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-park-service-nps/](https://www.indexdata.org/united-states/national-park-service-nps/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service-nps/feed/)
 
@@ -1849,6 +1841,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 - `[`2026-22174`]` **[Accreditation, Innovation, and Modernization: The Secretary's Recognition of Accrediting Agencies; Institutional Eligibility Under the Higher Education Act of 1965, as Amended; Student Assistance General Provisions](https://www.indexdata.org/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies-institutional-eligibility-under-the-higher-education-act-of-1965-as-amended-student-assistance-gen-2/)** — `2026-10-30` | `109 Pages`
 - `[`2026-20687`]` **[Impact Aid Programs](https://www.indexdata.org/impact-aid-programs/)** — `2026-10-08` | `7 Pages`
 - `[`2026-19929`]` **[Recodification of Title IX Rules](https://www.indexdata.org/recodification-of-title-ix-rules/)** — `2026-09-29` | `16 Pages`
+
+### [Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-procurement-policy-office/](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
+
+- `[`2026-19162`]` **[Federal Acquisition Regulation: Revolutionary FAR Overhaul Parts 8, 12, 13, 15, 38, 44, and 51](https://www.indexdata.org/federal-acquisition-regulation-revolutionary-far-overhaul-parts-8-12-13-15-38-44-and-51/)** — `2026-09-18` | `69 Pages`
+- `[`2026-19160`]` **[Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 16, 17, and 35](https://www.indexdata.org/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-16-17-and-35/)** — `2026-09-18` | `56 Pages`
+- `[`2026-19159`]` **[Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 9, 27, and 47](https://www.indexdata.org/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-9-27-and-47/)** — `2026-09-18` | `100 Pages`
+- `[`2026-19158`]` **[Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 14, 28, 36, and 52](https://www.indexdata.org/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-14-28-36-and-52/)** — `2026-09-18` | `49 Pages`
 
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
