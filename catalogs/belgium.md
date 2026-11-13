@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q31`](https://www.wikidata.org/wiki/Q31)  
 **Governing Open-Government Framework:** *Belgian Code of Economic Law (CDE/WER) Art. XI.172 & Law of 4 May 2016 on Re-use of Public Sector Information*  
 **Total Indexed Dossiers in Belgium:** `25` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-13 01:42 UTC`
+**Last Automated Sync:** `2026-11-13 02:19 UTC`
 
 ---
 
