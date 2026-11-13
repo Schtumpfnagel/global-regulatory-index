@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,769` across `74` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,770` across `74` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-13 09:56 UTC`
+**Last Automated Sync:** `2026-11-13 10:12 UTC`
 
 ---
 
@@ -21,7 +21,7 @@
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`147` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`142` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`138` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
-- **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`126` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
+- **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`127` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`94` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`76` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
@@ -90,7 +90,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,769)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,770)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -641,7 +641,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2026-96`]` **[The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2026 (revoked)](https://www.indexdata.org/the-local-authorities-changes-to-years-of-ordinary-elections-england-order-2026-revoked/)** — `2026-02-03` | `8 Pages`
 - `[`UKSI-2026-94`]` **[The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2026](https://www.indexdata.org/the-local-government-exclusion-of-non-commercial-considerations-england-order-2026/)** — `2026-02-03` | `4 Pages`
 - `[`UKSI-2026-81`]` **[The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2026](https://www.indexdata.org/the-non-domestic-rating-chargeable-amounts-england-regulations-2026/)** — `2026-01-29` | `36 Pages`
-- `[`UKSI-2026-55`]` **[The Cheshire East (Electoral Changes) Order 2026](https://www.indexdata.org/the-cheshire-east-electoral-changes-order-2026/)** — `2026-01-19` | `8 Pages`
 
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
@@ -1120,6 +1119,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 ### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 
+- `[`UK-GOV-5e2e81e5-7631-11e4-a3cb-005056011aef-19`]` **[Oil and gas: inspection strategy and enforcement activity — The Offshore Environmental Civil Sanctions Regulations 2018 – Guidance Document (updated December 2020).](https://www.indexdata.org/oil-and-gas-inspection-strategy-and-enforcement-activity-the-offshore-environmental-civil-sanctions-regulations-2018-guidance-document-updated-december-2020/)** — `2026-11-13` | `25 Pages`
 - `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-3`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - summary of responses](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-summary-of-responses/)** — `2026-11-12` | `64 Pages`
 - `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-2`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - government response](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-government-response/)** — `2026-11-12` | `35 Pages`
 - `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-1`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - consultation document](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-consultation-document/)** — `2026-11-12` | `73 Pages`
