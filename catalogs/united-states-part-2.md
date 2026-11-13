@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,306` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,310` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 07:50 UTC`
+**Last Automated Sync:** `2026-11-13 09:02 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`314` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`318` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,306)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,310)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -552,10 +552,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-09663`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-46/)** — `2026-05-14` | `5 Pages`
 - `[`2026-09662`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-47/)** — `2026-05-14` | `3 Pages`
 - `[`2026-09661`]` **[Airworthiness Directives; Dassault Aviation Airplanes](https://www.indexdata.org/airworthiness-directives-dassault-aviation-airplanes-9/)** — `2026-05-14` | `3 Pages`
-- `[`2026-09660`]` **[Airworthiness Directives; Dassault Aviation Airplanes](https://www.indexdata.org/airworthiness-directives-dassault-aviation-airplanes-10/)** — `2026-05-14` | `4 Pages`
-- `[`2026-09659`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-48/)** — `2026-05-14` | `3 Pages`
-- `[`2026-09658`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-6/)** — `2026-05-14` | `3 Pages`
-- `[`2026-09656`]` **[Amendment of Class C Airspace and Class E Airspace; Palm Beach International Airport, West Palm Beach, FL](https://www.indexdata.org/amendment-of-class-c-airspace-and-class-e-airspace-palm-beach-international-airport-west-palm-beach-fl/)** — `2026-05-14` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1820,6 +1816,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2026-16370`]` **[Reforms to 13 CFR 124.103 To Remove SBA's 8(a) Program's Rebuttable Presumption of Social Disadvantage for Individually Owned Firms Only. Reforms Do Not Impact Entity-Owned Firms](https://www.indexdata.org/reforms-to-13-cfr-124-103-to-remove-sbas-8a-programs-rebuttable-presumption-of-social-disadvantage-for-individually-owned-firms-only-reforms-do-not-impact-entity-owned-firms/)** — `2026-08-11` | `6 Pages`
 - `[`2026-11765`]` **[Reforms To Remove SBA's 8(a) Program's Rebuttable Presumption of Social Disadvantage for Individually Owned Firms Only; Reforms Do Not Impact Entity-Owned Firms](https://www.indexdata.org/reforms-to-remove-sbas-8a-programs-rebuttable-presumption-of-social-disadvantage-for-individually-owned-firms-only-reforms-do-not-impact-entity-owned-firms/)** — `2026-06-11` | `5 Pages`
 
+### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
+
+- `[`2026-17926`]` **[Heightened Import Disclosures for Supply Chain Visibility](https://www.indexdata.org/heightened-import-disclosures-for-supply-chain-visibility/)** — `2026-09-02` | `7 Pages`
+- `[`2026-17390`]` **[Automated Commercial Environment (ACE) Electronic Export Manifest for Rail Cargo](https://www.indexdata.org/automated-commercial-environment-ace-electronic-export-manifest-for-rail-cargo/)** — `2026-08-26` | `58 Pages`
+- `[`2026-16432`]` **[Imposition of Import Restrictions on Categories of Archaeological and Ethnological Material of Nepal](https://www.indexdata.org/imposition-of-import-restrictions-on-categories-of-archaeological-and-ethnological-material-of-nepal/)** — `2026-08-12` | `7 Pages`
+- `[`2026-12670`]` **[Indefinite Suspension of the De Minimis Exemption for Merchandise Arriving Through All Modes Other Than the International Postal Network](https://www.indexdata.org/indefinite-suspension-of-the-de-minimis-exemption-for-merchandise-arriving-through-all-modes-other-than-the-international-postal-network/)** — `2026-06-24` | `13 Pages`
+- `[`2026-12669`]` **[Indefinite Suspension of the De Minimis Exemption for Mail Shipments and New Postal Informal Entry Process](https://www.indexdata.org/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry-process/)** — `2026-06-24` | `21 Pages`
+
 ### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
 
@@ -1884,14 +1889,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/treasury-d
 - `[`2026-15720`]` **[Rescinding Portions of Department of the Treasury Title VI Regulations To Conform More Closely With the Statutory Text and To Implement an Executive Order](https://www.indexdata.org/rescinding-portions-of-department-of-the-treasury-title-vi-regulations-to-conform-more-closely-with-the-statutory-text-and-to-implement-an-executive-order/)** — `2026-08-03` | `7 Pages`
 - `[`2026-12148`]` **[Proposed Rule for Privacy Act Exemptions](https://www.indexdata.org/proposed-rule-for-privacy-act-exemptions/)** — `2026-06-17` | `3 Pages`
 - `[`2026-10036`]` **[Real Estate Lending Escrow Accounts](https://www.indexdata.org/real-estate-lending-escrow-accounts-2/)** — `2026-05-19` | `8 Pages`
-
-### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
-
-- `[`2026-17390`]` **[Automated Commercial Environment (ACE) Electronic Export Manifest for Rail Cargo](https://www.indexdata.org/automated-commercial-environment-ace-electronic-export-manifest-for-rail-cargo/)** — `2026-08-26` | `58 Pages`
-- `[`2026-16432`]` **[Imposition of Import Restrictions on Categories of Archaeological and Ethnological Material of Nepal](https://www.indexdata.org/imposition-of-import-restrictions-on-categories-of-archaeological-and-ethnological-material-of-nepal/)** — `2026-08-12` | `7 Pages`
-- `[`2026-12670`]` **[Indefinite Suspension of the De Minimis Exemption for Merchandise Arriving Through All Modes Other Than the International Postal Network](https://www.indexdata.org/indefinite-suspension-of-the-de-minimis-exemption-for-merchandise-arriving-through-all-modes-other-than-the-international-postal-network/)** — `2026-06-24` | `13 Pages`
-- `[`2026-12669`]` **[Indefinite Suspension of the De Minimis Exemption for Mail Shipments and New Postal Informal Entry Process](https://www.indexdata.org/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry-process/)** — `2026-06-24` | `21 Pages`
 
 ### [Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
@@ -2155,6 +2152,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-em
 
 - `[`2026-12399`]` **[Rescinding Portions of DHS Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281](https://www.indexdata.org/rescinding-portions-of-dhs-title-vi-regulations-to-conform-more-closely-with-the-statutory-text-and-to-implement-executive-order-14281/)** — `2026-06-22` | `8 Pages`
 
+### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
+
+- `[`2026-17904`]` **[National Environmental Policy Act Regulations](https://www.indexdata.org/national-environmental-policy-act-regulations/)** — `2026-09-01` | `21 Pages`
+
 ### [Food Safety and Inspection Service](https://www.indexdata.org/united-states/food-safety-and-inspection-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-safety-and-inspection-service/](https://www.indexdata.org/united-states/food-safety-and-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-safety-and-inspection-service/feed/)
 
@@ -2230,10 +2232,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-hous
 
 - `[`2026-13455`]` **[Direct Multifamily Housing Subsequent Loans for Acquisition](https://www.indexdata.org/direct-multifamily-housing-subsequent-loans-for-acquisition/)** — `2026-07-02` | `3 Pages`
 
+### [State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)
+
+- `[`US-HI-HISC-12094`]` **[Agenda – HISC Meeting_09292026](https://www.indexdata.org/agenda-hisc-meeting_09292026/)** — `2026-09-01` | `5 Pages`
+
 ### [Supreme Court of the United States](https://www.indexdata.org/united-states/supreme-court-of-the-united-states/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/supreme-court-of-the-united-states/](https://www.indexdata.org/united-states/supreme-court-of-the-united-states/) | [RSS Feed](https://www.indexdata.org/united-states/supreme-court-of-the-united-states/feed/)
 
 - `[`US-SCOTUS-USREPORTS-583`]` **[United States Reports, Volume 583 (USREPORTS-583)](https://www.indexdata.org/united-states-reports-volume-583-usreports-583/)** — `2026-07-14` | `1044 Pages`
+
+### [U.S. Department of Veterans Affairs (VA)](https://www.indexdata.org/united-states/u-s-department-of-veterans-affairs-va/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-veterans-affairs-va/](https://www.indexdata.org/united-states/u-s-department-of-veterans-affairs-va/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-veterans-affairs-va/feed/)
+
+- `[`US-VA-VHA-3145`]` **[CBIAR-Direct-Post-FY27-508 FINAL](https://www.indexdata.org/cbiar-direct-post-fy27-508-final/)** — `2026-09-01` | `2 Pages`
 
 ### [U.S. Immigration and Customs Enforcement](https://www.indexdata.org/united-states/u-s-immigration-and-customs-enforcement/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-immigration-and-customs-enforcement/](https://www.indexdata.org/united-states/u-s-immigration-and-customs-enforcement/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-immigration-and-customs-enforcement/feed/)

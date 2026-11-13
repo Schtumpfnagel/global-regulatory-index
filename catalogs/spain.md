@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/spain/feed/](https://www.indexdata.org/spain/feed/)  
 **Wikidata Sovereign Entity:** [`Q29`](https://www.wikidata.org/wiki/Q29)  
 **Governing Open-Government Framework:** *Art. 13 TRLPI (RDL 1/1996) & Law 37/2007 on Re-use of Public Sector Information (RD 1495/2011)*  
-**Total Indexed Dossiers in Spain:** `38` across `8` issuing authorities  
-**Last Automated Sync:** `2026-11-13 07:50 UTC`
+**Total Indexed Dossiers in Spain:** `39` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-13 09:02 UTC`
 
 ---
 
-## Issuing Authorities in Spain (8 Authorities)
+## Issuing Authorities in Spain (9 Authorities)
 
 - **[Government of Spain (Datos.gob.es)](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/) | [RSS Feed](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/feed/)
 - **[National Institute of Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
@@ -19,11 +19,12 @@
 - **[Spanish National Research Council (CSIC)](https://www.indexdata.org/spain/spanish-national-research-council-csic/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/spain/spanish-national-research-council-csic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-research-council-csic/feed/)
 - **[Spanish National Center for Cardiovascular Research (CNIC)](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/feed/)
 - **[Ministry of Culture (Ministerio de Cultura)](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/) | [RSS Feed](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/feed/)
+- **[National Center for Microbiology (ISCIII - CNM)](https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/) | [RSS Feed](https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/feed/)
 - **[National Institute for Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–38 of 38)
+## Indexed Statutory & Regulatory Dossiers (Records 1–39 of 39)
 
 ### [Government of Spain (Datos.gob.es)](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/)
 Canonical Authority Archive: [https://www.indexdata.org/spain/government-of-spain-datos-gob-es/](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/) | [RSS Feed](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/feed/)
@@ -89,6 +90,11 @@ Canonical Authority Archive: [https://www.indexdata.org/spain/spanish-national-c
 Canonical Authority Archive: [https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/) | [RSS Feed](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/feed/)
 
 - `[`ES-MCU-TRAVESIA-10421-3256`]` **[WARC implementation guidelines V 1.0](https://www.indexdata.org/warc-implementation-guidelines-v-1-0/)** — `2009-01-27` | `24 Pages`
+
+### [National Center for Microbiology (ISCIII - CNM)](https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/)
+Canonical Authority Archive: [https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/](https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/) | [RSS Feed](https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/feed/)
+
+- `[`ES-ISCIII-20.500.12105-27829`]` **[Towards symbiont-based visceral leishmaniosis control: Delftia tsuruhatensis TC1 shows anti-Leishmania infantum effect in Phlebotomus perniciosus](https://www.indexdata.org/towards-symbiont-based-visceral-leishmaniosis-control-delftia-tsuruhatensis-tc1-shows-anti-leishmania-infantum-effect-in-phlebotomus-perniciosus/)** — `2026-10-30` | `14 Pages`
 
 ### [National Institute for Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)
 Canonical Authority Archive: [https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,306` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,310` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-13 07:50 UTC`
+**Last Automated Sync:** `2026-11-13 09:02 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`314` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`318` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,306 of 15,306)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,310 of 15,310)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -392,6 +392,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-12747`]` **[Air Plan Approval; Missouri; Revisions to the Cross-State Air Pollution Rule SO2 Group 1 Trading Program](https://www.indexdata.org/air-plan-approval-missouri-revisions-to-the-cross-state-air-pollution-rule-so2-group-1-trading-program-2/)** — `2023-06-20` | `3 Pages`
+- `[`2023-12720`]` **[Sulfoxaflor; Pesticide Tolerance](https://www.indexdata.org/sulfoxaflor-pesticide-tolerance/)** — `2023-06-20` | `4 Pages`
 - `[`2023-12834`]` **[New Source Performance Standards for Greenhouse Gas Emissions From New, Modified, and Reconstructed Fossil Fuel-Fired Electric Generating Units; Emission Guidelines for Greenhouse Gas Emissions From Existing Fossil Fuel-Fired Electric Generating Units; and Repeal of the Affordable Clean Energy Rule](https://www.indexdata.org/new-source-performance-standards-for-greenhouse-gas-emissions-from-new-modified-and-reconstructed-fossil-fuel-fired-electric-generating-units-emission-guidelines-for-greenhouse-gas-emissions-from-e-4/)** — `2023-06-16` | `2 Pages`
 - `[`2023-12632`]` **[Air Plan Revisions; California; Mojave Desert Air Quality Management District; Oxides of Nitrogen](https://www.indexdata.org/air-plan-revisions-california-mojave-desert-air-quality-management-district-oxides-of-nitrogen/)** — `2023-06-16` | `3 Pages`
 - `[`2023-12495`]` **[Perchloroethylene (PCE); Regulation Under the Toxic Substances Control Act (TSCA)](https://www.indexdata.org/perchloroethylene-pce-regulation-under-the-toxic-substances-control-act-tsca-2/)** — `2023-06-16` | `72 Pages`
@@ -470,6 +472,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2023-12803`]` **[Revising Spectrum Sharing Rules for Non-Geostationary Orbit, Fixed-Satellite Service Systems](https://www.indexdata.org/revising-spectrum-sharing-rules-for-non-geostationary-orbit-fixed-satellite-service-systems-3/)** — `2023-06-20` | `11 Pages`
 - `[`2023-12269`]` **[Radio Broadcasting Services; Tecopa, California](https://www.indexdata.org/radio-broadcasting-services-tecopa-california/)** — `2023-06-08` | `2 Pages`
 - `[`2023-11972`]` **[Table of Frequency Allocations and Radio Regulations](https://www.indexdata.org/table-of-frequency-allocations-and-radio-regulations/)** — `2023-06-07` | `71 Pages`
 - `[`2023-11733`]` **[Establishing Emergency Connectivity Fund To Close the Homework Gap](https://www.indexdata.org/establishing-emergency-connectivity-fund-to-close-the-homework-gap-2/)** — `2023-06-05` | `4 Pages`
@@ -526,6 +529,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-ac
 - `[`2023-11139`]` **[Defense Federal Acquisition Regulation Supplement: Undefinitized Contract Actions (DFARS Case 2021-D003)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-undefinitized-contract-actions-dfars-case-2021-d003/)** — `2023-05-25` | `4 Pages`
 - `[`2023-11138`]` **[Defense Federal Acquisition Regulation Supplement: Payment Instructions (DFARS Case 2017-D036)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-payment-instructions-dfars-case-2017-d036/)** — `2023-05-25` | `4 Pages`
 
+### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
+
+- `[`2023-12591`]` **[Removal of References to Credit Ratings From Regulation M](https://www.indexdata.org/removal-of-references-to-credit-ratings-from-regulation-m/)** — `2023-06-20` | `33 Pages`
+- `[`2023-11845`]` **[Technical Amendments to Commission Rules and Forms](https://www.indexdata.org/technical-amendments-to-commission-rules-and-forms-3/)** — `2023-06-12` | `3 Pages`
+- `[`2023-09775`]` **[Form PF; Event Reporting for Large Hedge Fund Advisers and Private Equity Fund Advisers; Requirements for Large Private Equity Fund Adviser Reporting](https://www.indexdata.org/form-pf-event-reporting-for-large-hedge-fund-advisers-and-private-equity-fund-advisers-requirements-for-large-private-equity-fund-adviser-reporting/)** — `2023-06-12` | `133 Pages`
+- `[`2023-09965`]` **[Share Repurchase Disclosure Modernization](https://www.indexdata.org/share-repurchase-disclosure-modernization-2/)** — `2023-06-01` | `62 Pages`
+- `[`2023-10889`]` **[Covered Clearing Agency Resilience and Recovery and Wind-Down Plans](https://www.indexdata.org/covered-clearing-agency-resilience-and-recovery-and-wind-down-plans/)** — `2023-05-30` | `36 Pages`
+
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
@@ -549,14 +561,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and
 - `[`2023-11917`]` **[Setting and Adjusting Patent Fees During Fiscal Year 2020](https://www.indexdata.org/setting-and-adjusting-patent-fees-during-fiscal-year-2020/)** — `2023-06-06` | `3 Pages`
 - `[`2023-11759`]` **[Reducing Patent Fees for Small Entities and Micro Entities Under the Unleashing American Innovators Act of 2022; Correction](https://www.indexdata.org/reducing-patent-fees-for-small-entities-and-micro-entities-under-the-unleashing-american-innovators-act-of-2022-correction/)** — `2023-06-02` | `3 Pages`
 - `[`2023-11365`]` **[Adoption of Updated WIPO Standard ST.26; Revision to Incorporation by Reference](https://www.indexdata.org/adoption-of-updated-wipo-standard-st-26-revision-to-incorporation-by-reference-2/)** — `2023-05-26` | `3 Pages`
-
-### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-
-- `[`2023-11845`]` **[Technical Amendments to Commission Rules and Forms](https://www.indexdata.org/technical-amendments-to-commission-rules-and-forms-3/)** — `2023-06-12` | `3 Pages`
-- `[`2023-09775`]` **[Form PF; Event Reporting for Large Hedge Fund Advisers and Private Equity Fund Advisers; Requirements for Large Private Equity Fund Adviser Reporting](https://www.indexdata.org/form-pf-event-reporting-for-large-hedge-fund-advisers-and-private-equity-fund-advisers-requirements-for-large-private-equity-fund-adviser-reporting/)** — `2023-06-12` | `133 Pages`
-- `[`2023-09965`]` **[Share Repurchase Disclosure Modernization](https://www.indexdata.org/share-repurchase-disclosure-modernization-2/)** — `2023-06-01` | `62 Pages`
-- `[`2023-10889`]` **[Covered Clearing Agency Resilience and Recovery and Wind-Down Plans](https://www.indexdata.org/covered-clearing-agency-resilience-and-recovery-and-wind-down-plans/)** — `2023-05-30` | `36 Pages`
 
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)

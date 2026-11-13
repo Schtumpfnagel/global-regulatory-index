@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,970` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,973` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-13 07:50 UTC`
+**Last Automated Sync:** `2026-11-13 09:02 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`483` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,970)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,973)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-80-475`]` **[Cost recovery in the United Nations Secretariat — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-475-cost-recovery-in-the-united-nations-secretariat-report-of-the-advisory-committee-on-administrative-and-budgetary-questions/)** — `2026-01-14` | `18 Pages`
 - `[`UN-A-HRC-61-72`]` **[Combating intolerance, negative stereotyping and stigmatization of, and discrimination, incitement to violence and violence against, persons based on religion or belief — report of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-72-combating-intolerance-negative-stereotyping-and-stigmatization-of-and-discrimination-incitement-to-violence-and-violence-against-persons-based-on-religion-or-belief-report/)** — `2026-01-13` | `14 Pages`
 - `[`UN-A-HRC-61-34`]` **[Biennial panel discussion on youth and human rights — report of the Office of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-34-biennial-panel-discussion-on-youth-and-human-rights-report-of-the-office-of-the-united-nations-high-commissioner-for-human-rights/)** — `2026-01-13` | `11 Pages`
 - `[`UN-A-HRC-61-24`]` **[Situation of human rights in the Sudan — report of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-24-situation-of-human-rights-in-the-sudan-report-of-the-united-nations-high-commissioner-for-human-rights/)** — `2026-01-13` | `16 Pages`
@@ -626,8 +627,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-79-7-Add.33`]` **[Programme of Action for Landlocked Developing Countries for the Decade 2024-2034 : programme budget implications of draft resolution A/79/L.21 — 34th report of the Advisory Committee on Administrative and Budgetary Questions on the proposed programme budget for 2025](https://www.indexdata.org/a-79-7-add-33-programme-of-action-for-landlocked-developing-countries-for-the-decade-2024-2034-programme-budget-implications-of-draft-resolution-a-79-l-21-34th-report-of-the-advisory-com/)** — `2024-12-10` | `4 Pages`
 - `[`UN-A-RES-79-56`]` **[Implementation of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction — resolution](https://www.indexdata.org/a-res-79-56-implementation-of-the-convention-on-the-prohibition-of-the-development-production-stockpiling-and-use-of-chemical-weapons-and-on-their-destruction-resolution/)** — `2024-12-09` | `8 Pages`
 - `[`UN-A-79-L.41`]` **[Assistance to the Palestinian people — draft resolution](https://www.indexdata.org/a-79-l-41-assistance-to-the-palestinian-people-draft-resolution/)** — `2024-12-05` | `6 Pages`
-- `[`UN-A-79-L.40`]` **[International Day of the Snow Leopard — draft resolution](https://www.indexdata.org/a-79-l-40-international-day-of-the-snow-leopard-draft-resolution/)** — `2024-12-04` | `3 Pages`
-- `[`UN-A-79-L.39`]` **[World Lake Day — draft resolution](https://www.indexdata.org/a-79-l-39-world-lake-day-draft-resolution/)** — `2024-12-04` | `2 Pages`
 
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -1558,6 +1557,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-na
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 
+- `[`UN-CAT-C-KWT-FCO-4`]` **[Information received from Kuwait on follow-up to the concluding observations on its 4th periodic report — Committee against Torture](https://www.indexdata.org/cat-c-kwt-fco-4-information-received-from-kuwait-on-follow-up-to-the-concluding-observations-on-its-4th-periodic-report-committee-against-torture/)** — `2026-01-14` | `5 Pages`
 - `[`UN-CAT-C-NGA-QPR-2`]` **[List of issues prior to submission of the 2nd periodic report of Nigeria — Committee against Torture](https://www.indexdata.org/cat-c-nga-qpr-2-list-of-issues-prior-to-submission-of-the-2nd-periodic-report-of-nigeria-committee-against-torture/)** — `2026-01-13` | `9 Pages`
 - `[`UN-CEDAW-C-ZMB-7-9`]` **[Combined 7th to 9th reports submitted by Zambia under article 18 of the Convention, due in 2015 — Convention on the Elimination of All Forms of Discrimination against Women](https://www.indexdata.org/cedaw-c-zmb-7-9-combined-7th-to-9th-reports-submitted-by-zambia-under-article-18-of-the-convention-due-in-2015-convention-on-the-elimination-of-all-forms-of-discrimination-against-women/)** — `2026-01-12` | `43 Pages`
 - `[`UN-CED-C-BOL-AI-1`]` **[Additional information submitted by the Plurinational State of Bolivia under article 29 (4) of the Convention — Committee on Enforced Disappearances](https://www.indexdata.org/ced-c-bol-ai-1-additional-information-submitted-by-the-plurinational-state-of-bolivia-under-article-29-4-of-the-convention-committee-on-enforced-disappearances/)** — `2026-01-09` | `16 Pages`
@@ -1715,6 +1715,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/agency-fo
 - `[`UN-TPNW-MSP-2025-WP.1-Rev.1`]` **[Advancing the Treaty on the Prohibition of Nuclear Weapons : complementarity, universality and gender perspectives — working paper](https://www.indexdata.org/tpnw-msp-2025-wp-1-rev-1-advancing-the-treaty-on-the-prohibition-of-nuclear-weapons-complementarity-universality-and-gender-perspectives-working-paper/)** — `2025-02-24` | `4 Pages`
 - `[`UN-TPNW-MSP-2025-WP.1`]` **[Advancing the Treaty on the Prohibition of Nuclear Weapons — complementarity, universality and gender perspectives : working paper](https://www.indexdata.org/tpnw-msp-2025-wp-1-advancing-the-treaty-on-the-prohibition-of-nuclear-weapons-complementarity-universality-and-gender-perspectives-working-paper/)** — `2025-01-09` | `4 Pages`
 
+### [Chief Executives Board for Coordination](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/) | [RSS Feed](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/feed/)
+
+- `[`UN-CEB-2025-8`]` **[Report of the High-level Committee on Management on its intersessional meeting on the review of the United Nations security management system (24 November 2025, virtual) — Chief Executives Board for Coordination](https://www.indexdata.org/ceb-2025-8-report-of-the-high-level-committee-on-management-on-its-intersessional-meeting-on-the-review-of-the-united-nations-security-management-system-24-november-2025-virtual-chief-e/)** — `2026-01-14` | `12 Pages`
+- `[`UN-CEB-2024-HLCM-HR-11`]` **[Personnel statistics, data as at 31 December 2023 — note](https://www.indexdata.org/ceb-2024-hlcm-hr-11-personnel-statistics-data-as-at-31-december-2023-note/)** — `2024-12-20` | `218 Pages`
+
 ### [President of the Thirteenth Meeting of States Parties to the Convention on Cluster Munitions](https://www.indexdata.org/united-nations/president-of-the-thirteenth-meeting-of-states-parties-to-the-convention-on-cluster-munitions/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/president-of-the-thirteenth-meeting-of-states-parties-to-the-convention-on-cluster-munitions/](https://www.indexdata.org/united-nations/president-of-the-thirteenth-meeting-of-states-parties-to-the-convention-on-cluster-munitions/) | [RSS Feed](https://www.indexdata.org/united-nations/president-of-the-thirteenth-meeting-of-states-parties-to-the-convention-on-cluster-munitions/feed/)
 
@@ -1738,11 +1744,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-na
 
 - `[`UN-CEB-2025-2-Add.1`]` **[Report of the High-Level Committee on Programmes at its 50th session (Vienna, 2 and 3 October 2025) — Chief Executives Board for Coordination : &#91;addendum&#93;](https://www.indexdata.org/ceb-2025-2-add-1-report-of-the-high-level-committee-on-programmes-at-its-50th-session-vienna-2-and-3-october-2025-chief-executives-board-for-coordination-addendum/)** — `2025-12-15` | `21 Pages`
 - `[`UN-CEB-2025-6`]` **[Report of the High-level Committee on Programmes at its 50th session (Vienna, 2 and 3 October 2025) — Chief Executives Board for Coordination](https://www.indexdata.org/ceb-2025-6-report-of-the-high-level-committee-on-programmes-at-its-50th-session-vienna-2-and-3-october-2025-chief-executives-board-for-coordination/)** — `2025-12-09` | `23 Pages`
-
-### [Chief Executives Board for Coordination](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/) | [RSS Feed](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/feed/)
-
-- `[`UN-CEB-2024-HLCM-HR-11`]` **[Personnel statistics, data as at 31 December 2023 — note](https://www.indexdata.org/ceb-2024-hlcm-hr-11-personnel-statistics-data-as-at-31-december-2023-note/)** — `2024-12-20` | `218 Pages`
 
 ### [Chief Executives Board for Coordination (CEB)](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination-ceb/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/chief-executives-board-for-coordination-ceb/](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination-ceb/) | [RSS Feed](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination-ceb/feed/)
@@ -1833,11 +1834,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-na
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs-unoda/](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs-unoda/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs-unoda/feed/)
 
 - `[`UN-NPT-CONF.2026-INF-2`]` **[Information for participation by non-governmental organizations — 2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons](https://www.indexdata.org/npt-conf-2026-inf-2-information-for-participation-by-non-governmental-organizations-2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/)** — `2026-01-07` | `5 Pages`
-
-### [United Nations Office for the Coordination of Humanitarian Affairs (OCHA)](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/feed/)
-
-- `[`UN-4083202`]` **[Global humanitarian overview 2025 — abridged report](https://www.indexdata.org/4083202-global-humanitarian-overview-2025-abridged-report/)** — `2024-12-04` | `20 Pages`
 
 ### [United Nations Protocol and Liaison Service](https://www.indexdata.org/united-nations/united-nations-protocol-and-liaison-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-protocol-and-liaison-service/](https://www.indexdata.org/united-nations/united-nations-protocol-and-liaison-service/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-protocol-and-liaison-service/feed/)

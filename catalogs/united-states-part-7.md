@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,306` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,310` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 07:50 UTC`
+**Last Automated Sync:** `2026-11-13 09:02 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`314` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`318` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,306)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,310)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -943,13 +943,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-13907`]` **[Safety Zone; M/V DALI, Transit From the Maryland/Virginia Line, Chesapeake Bay, Thimble Shoal Channel, Norfolk Harbor, and Elizabeth River, Norfolk, VA](https://www.indexdata.org/safety-zone-m-v-dali-transit-from-the-maryland-virginia-line-chesapeake-bay-thimble-shoal-channel-norfolk-harbor-and-elizabeth-river-norfolk-va/)** — `2024-06-24` | `3 Pages`
 - `[`2024-13785`]` **[Special Local Regulation; San Jacinto River, Houston, TX](https://www.indexdata.org/special-local-regulation-san-jacinto-river-houston-tx-4/)** — `2024-06-24` | `4 Pages`
 - `[`2024-13747`]` **[Special Local Regulation; Clear Lake, Clear Creek, TX](https://www.indexdata.org/special-local-regulation-clear-lake-clear-creek-tx/)** — `2024-06-24` | `3 Pages`
-- `[`2024-13781`]` **[Safety Zone, Lake Erie, Mentor (Mentor Headlands), Ohio](https://www.indexdata.org/safety-zone-lake-erie-mentor-mentor-headlands-ohio/)** — `2024-06-21` | `4 Pages`
-- `[`2024-13642`]` **[Safety Zone; Back River, Baltimore County, MD](https://www.indexdata.org/safety-zone-back-river-baltimore-county-md/)** — `2024-06-21` | `3 Pages`
-- `[`2024-13635`]` **[Safety Zone; M/V Dali, Transit to Maryland/Virginia Line, Chesapeake Bay and Patapsco River, Baltimore, MD](https://www.indexdata.org/safety-zone-m-v-dali-transit-to-maryland-virginia-line-chesapeake-bay-and-patapsco-river-baltimore-md/)** — `2024-06-21` | `2 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-22601`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Maryland Offshore Wind Project, Offshore of Maryland](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-maryland-offshore-wind-project-offshore-of-maryland/)** — `2024-10-23` | `56 Pages`
 - `[`2024-24400`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2023-2024 Biennial Specifications and Management Measures; Inseason Adjustments](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2023-2024-biennial-specifications-and-management-measures-inseason-adjustments/)** — `2024-10-22` | `7 Pages`
 - `[`2024-24361`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2024 Tribal Fishery Allocations for Pacific Whiting; Reapportionment Between Tribal and Non-Tribal Sectors](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2024-tribal-fishery-allocations-for-pacific-whiting-reapportionment-between-tribal-and-non-tribal-s/)** — `2024-10-22` | `2 Pages`
 - `[`2024-24320`]` **[Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From Maine to Massachusetts](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-maine-to-massachusetts/)** — `2024-10-21` | `2 Pages`
@@ -1171,6 +1169,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
+- `[`2024-23857`]` **[Advanced Manufacturing Investment Credit Rules Under Sections 48D and 50](https://www.indexdata.org/advanced-manufacturing-investment-credit-rules-under-sections-48d-and-50/)** — `2024-10-23` | `32 Pages`
 - `[`2024-24224`]` **[Withholding on Certain Distributions Under Section 3405(a) and (b)](https://www.indexdata.org/withholding-on-certain-distributions-under-section-3405a-and-b/)** — `2024-10-21` | `5 Pages`
 - `[`2024-23132`]` **[Section 367(d) Rules for Certain Repatriations of Intangible Property](https://www.indexdata.org/section-367d-rules-for-certain-repatriations-of-intangible-property/)** — `2024-10-10` | `11 Pages`
 - `[`2024-23142`]` **[Entities Wholly Owned by Indian Tribal Governments](https://www.indexdata.org/entities-wholly-owned-by-indian-tribal-governments-2/)** — `2024-10-09` | `8 Pages`
@@ -1362,6 +1361,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 ### [Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 
+- `[`2024-23932`]` **[Export Administration Regulations: Removal of License Requirements for Certain Spacecraft and Related Items for Australia, Canada, and the United Kingdom](https://www.indexdata.org/export-administration-regulations-removal-of-license-requirements-for-certain-spacecraft-and-related-items-for-australia-canada-and-the-united-kingdom/)** — `2024-10-23` | `5 Pages`
 - `[`2024-23814`]` **[Updated License Exception Implemented Export Controls (IEC) Eligible Items and Destinations](https://www.indexdata.org/updated-license-exception-implemented-export-controls-iec-eligible-items-and-destinations/)** — `2024-10-16` | `2 Pages`
 - `[`2024-23638`]` **[Revisions to the Unverified List](https://www.indexdata.org/revisions-to-the-unverified-list-2/)** — `2024-10-16` | `4 Pages`
 - `[`2024-22587`]` **[Expansion of Validated End User Authorization: Data Center Validated End User Authorization](https://www.indexdata.org/expansion-of-validated-end-user-authorization-data-center-validated-end-user-authorization/)** — `2024-10-02` | `14 Pages`
@@ -1504,23 +1504,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`2024-15565`]` **[Federal Acquisition Regulation: Combating Trafficking in Persons-Definition and Agency Responsibilities](https://www.indexdata.org/federal-acquisition-regulation-combating-trafficking-in-persons-definition-and-agency-responsibilities/)** — `2024-07-18` | `4 Pages`
 - `[`2024-13819`]` **[Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services](https://www.indexdata.org/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services-2/)** — `2024-06-26` | `2 Pages`
 
-### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
-
-- `[`2024-22448`]` **[Federal Motor Vehicle Safety Standards; FMVSS No. 213, “Child Restraint Systems,” FMVSS No. 213a, “Child Restraint Systems-Side Impact Protection,” and FMVSS No. 213b, “Child Restraint Systems”-Response to Petitions for Reconsideration](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fmvss-no-213-child-restraint-systems-fmvss-no-213a-child-restraint-systems-side-impact-protection-and-fmvss-no-213b/)** — `2024-10-09` | `13 Pages`
-- `[`2024-20653`]` **[Federal Motor Vehicle Safety Standards; Pedestrian Head Protection, Global Technical Regulation No. 9; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-pedestrian-head-protection-global-technical-regulation-no-9-incorporation-by-reference-2/)** — `2024-09-19` | `89 Pages`
-- `[`2024-20651`]` **[Make Inoperative Exemptions; Retrofit Air Bag On-Off Switches and Air Bag Deactivations](https://www.indexdata.org/make-inoperative-exemptions-retrofit-air-bag-on-off-switches-and-air-bag-deactivations/)** — `2024-09-17` | `30 Pages`
-- `[`2024-19727`]` **[Federal Motor Vehicle Safety Standards: Seat Belt Assembly Anchorages; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-seat-belt-assembly-anchorages-incorporation-by-reference/)** — `2024-09-17` | `42 Pages`
-- `[`2024-18714`]` **[Federal Motor Vehicle Safety Standards; Denial of Petition for Rulemaking](https://www.indexdata.org/federal-motor-vehicle-safety-standards-denial-of-petition-for-rulemaking/)** — `2024-08-22` | `3 Pages`
-- `[`2024-18114`]` **[Federal Motor Vehicle Safety Standards; Occupant Crash Protection](https://www.indexdata.org/federal-motor-vehicle-safety-standards-occupant-crash-protection/)** — `2024-08-22` | `19 Pages`
-- `[`2024-18112`]` **[Record Retention Requirement](https://www.indexdata.org/record-retention-requirement/)** — `2024-08-16` | `5 Pages`
-- `[`2024-16240`]` **[Corporate Average Fuel Economy Standards for Passenger Cars and Light Trucks for Model Years 2027-2032 and Fuel Efficiency Standards for Heavy-Duty Pickup Trucks and Vans for Model Years 2030-2035; Correction](https://www.indexdata.org/corporate-average-fuel-economy-standards-for-passenger-cars-and-light-trucks-for-model-years-2027-2032-and-fuel-efficiency-standards-for-heavy-duty-pickup-trucks-and-vans-for-model-years-2030-2035-co/)** — `2024-07-29` | `2 Pages`
-- `[`2024-15390`]` **[Federal Motor Vehicle Safety Standards; Seating Systems](https://www.indexdata.org/federal-motor-vehicle-safety-standards-seating-systems/)** — `2024-07-16` | `41 Pages`
-- `[`2024-13956`]` **[Federal Motor Vehicle Safety Standards; Rear Impact Guards; Rear Impact Protection; Denial of Petition for Rulemaking](https://www.indexdata.org/federal-motor-vehicle-safety-standards-rear-impact-guards-rear-impact-protection-denial-of-petition-for-rulemaking/)** — `2024-07-15` | `3 Pages`
-- `[`2024-14546`]` **[Anthropomorphic Test Devices; THOR 50th Percentile Adult Male Test Dummy; Incorporation by Reference](https://www.indexdata.org/anthropomorphic-test-devices-thor-50th-percentile-adult-male-test-dummy-incorporation-by-reference/)** — `2024-07-09` | `3 Pages`
-- `[`2024-13957`]` **[Federal Motor Vehicle Safety Standards; Rear Impact Guards; Rear Impact Protection](https://www.indexdata.org/federal-motor-vehicle-safety-standards-rear-impact-guards-rear-impact-protection/)** — `2024-06-27` | `3 Pages`
-- `[`2024-12864`]` **[Corporate Average Fuel Economy Standards for Passenger Cars and Light Trucks for Model Years 2027 and Beyond and Fuel Efficiency Standards for Heavy-Duty Pickup Trucks and Vans for Model Years 2030 and Beyond](https://www.indexdata.org/corporate-average-fuel-economy-standards-for-passenger-cars-and-light-trucks-for-model-years-2027-and-beyond-and-fuel-efficiency-standards-for-heavy-duty-pickup-trucks-and-vans-for-model-years-2030-an/)** — `2024-06-24` | `415 Pages`
-
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
 
@@ -1553,6 +1536,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2024-15475`]` **[Streamlining Mortgage Servicing for Borrowers Experiencing Payment Difficulties; Regulation X](https://www.indexdata.org/streamlining-mortgage-servicing-for-borrowers-experiencing-payment-difficulties-regulation-x/)** — `2024-07-24` | `51 Pages`
 - `[`2024-12689`]` **[Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders](https://www.indexdata.org/registry-of-nonbank-covered-persons-subject-to-certain-agency-and-court-orders/)** — `2024-07-08` | `129 Pages`
 - `[`2024-14396`]` **[Small Business Lending Under the Equal Credit Opportunity Act (Regulation B); Extension of Compliance Dates](https://www.indexdata.org/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-extension-of-compliance-dates-3/)** — `2024-07-03` | `10 Pages`
+
+### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
+
+- `[`2024-22448`]` **[Federal Motor Vehicle Safety Standards; FMVSS No. 213, “Child Restraint Systems,” FMVSS No. 213a, “Child Restraint Systems-Side Impact Protection,” and FMVSS No. 213b, “Child Restraint Systems”-Response to Petitions for Reconsideration](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fmvss-no-213-child-restraint-systems-fmvss-no-213a-child-restraint-systems-side-impact-protection-and-fmvss-no-213b/)** — `2024-10-09` | `13 Pages`
+- `[`2024-20653`]` **[Federal Motor Vehicle Safety Standards; Pedestrian Head Protection, Global Technical Regulation No. 9; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-pedestrian-head-protection-global-technical-regulation-no-9-incorporation-by-reference-2/)** — `2024-09-19` | `89 Pages`
+- `[`2024-20651`]` **[Make Inoperative Exemptions; Retrofit Air Bag On-Off Switches and Air Bag Deactivations](https://www.indexdata.org/make-inoperative-exemptions-retrofit-air-bag-on-off-switches-and-air-bag-deactivations/)** — `2024-09-17` | `30 Pages`
+- `[`2024-19727`]` **[Federal Motor Vehicle Safety Standards: Seat Belt Assembly Anchorages; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-seat-belt-assembly-anchorages-incorporation-by-reference/)** — `2024-09-17` | `42 Pages`
+- `[`2024-18714`]` **[Federal Motor Vehicle Safety Standards; Denial of Petition for Rulemaking](https://www.indexdata.org/federal-motor-vehicle-safety-standards-denial-of-petition-for-rulemaking/)** — `2024-08-22` | `3 Pages`
+- `[`2024-18114`]` **[Federal Motor Vehicle Safety Standards; Occupant Crash Protection](https://www.indexdata.org/federal-motor-vehicle-safety-standards-occupant-crash-protection/)** — `2024-08-22` | `19 Pages`
+- `[`2024-18112`]` **[Record Retention Requirement](https://www.indexdata.org/record-retention-requirement/)** — `2024-08-16` | `5 Pages`
+- `[`2024-16240`]` **[Corporate Average Fuel Economy Standards for Passenger Cars and Light Trucks for Model Years 2027-2032 and Fuel Efficiency Standards for Heavy-Duty Pickup Trucks and Vans for Model Years 2030-2035; Correction](https://www.indexdata.org/corporate-average-fuel-economy-standards-for-passenger-cars-and-light-trucks-for-model-years-2027-2032-and-fuel-efficiency-standards-for-heavy-duty-pickup-trucks-and-vans-for-model-years-2030-2035-co/)** — `2024-07-29` | `2 Pages`
+- `[`2024-15390`]` **[Federal Motor Vehicle Safety Standards; Seating Systems](https://www.indexdata.org/federal-motor-vehicle-safety-standards-seating-systems/)** — `2024-07-16` | `41 Pages`
+- `[`2024-13956`]` **[Federal Motor Vehicle Safety Standards; Rear Impact Guards; Rear Impact Protection; Denial of Petition for Rulemaking](https://www.indexdata.org/federal-motor-vehicle-safety-standards-rear-impact-guards-rear-impact-protection-denial-of-petition-for-rulemaking/)** — `2024-07-15` | `3 Pages`
+- `[`2024-14546`]` **[Anthropomorphic Test Devices; THOR 50th Percentile Adult Male Test Dummy; Incorporation by Reference](https://www.indexdata.org/anthropomorphic-test-devices-thor-50th-percentile-adult-male-test-dummy-incorporation-by-reference/)** — `2024-07-09` | `3 Pages`
+- `[`2024-13957`]` **[Federal Motor Vehicle Safety Standards; Rear Impact Guards; Rear Impact Protection](https://www.indexdata.org/federal-motor-vehicle-safety-standards-rear-impact-guards-rear-impact-protection/)** — `2024-06-27` | `3 Pages`
 
 ### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
@@ -1599,6 +1598,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2024-14628`]` **[Intercountry Adoption: Regulatory Changes to Accreditation and Approval Regulations in Intercountry Adoption](https://www.indexdata.org/intercountry-adoption-regulatory-changes-to-accreditation-and-approval-regulations-in-intercountry-adoption/)** — `2024-07-12` | `46 Pages`
 - `[`2024-14127`]` **[Acquisition Regulation and Grants Regulation: Contractor and Grantee Counterterrorism Vetting](https://www.indexdata.org/acquisition-regulation-and-grants-regulation-contractor-and-grantee-counterterrorism-vetting/)** — `2024-07-01` | `4 Pages`
 
+### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
+
+- `[`2024-24433`]` **[FDIC Official Signs and Advertising Requirements, False Advertising, Misrepresentation of Insured Status, and Misuse of the FDIC's Name or Logo](https://www.indexdata.org/fdic-official-signs-and-advertising-requirements-false-advertising-misrepresentation-of-insured-status-and-misuse-of-the-fdics-name-or-logo-3/)** — `2024-10-22` | `2 Pages`
+- `[`2024-23631`]` **[Unsafe and Unsound Banking Practices: Brokered Deposits Restrictions; Extension of Comment Period](https://www.indexdata.org/unsafe-and-unsound-banking-practices-brokered-deposits-restrictions-extension-of-comment-period/)** — `2024-10-11` | `2 Pages`
+- `[`2024-22565`]` **[Recordkeeping for Custodial Accounts](https://www.indexdata.org/recordkeeping-for-custodial-accounts/)** — `2024-10-02` | `20 Pages`
+- `[`2024-22189`]` **[Final Statement of Policy on Bank Merger Transactions](https://www.indexdata.org/final-statement-of-policy-on-bank-merger-transactions/)** — `2024-09-27` | `16 Pages`
+- `[`2024-18214`]` **[Unsafe and Unsound Banking Practices: Brokered Deposits Restrictions](https://www.indexdata.org/unsafe-and-unsound-banking-practices-brokered-deposits-restrictions/)** — `2024-08-23` | `29 Pages`
+- `[`2024-18187`]` **[Regulations Implementing the Change in Bank Control Act](https://www.indexdata.org/regulations-implementing-the-change-in-bank-control-act/)** — `2024-08-19` | `8 Pages`
+- `[`2024-17637`]` **[Parent Companies of Industrial Banks and Industrial Loan Companies](https://www.indexdata.org/parent-companies-of-industrial-banks-and-industrial-loan-companies/)** — `2024-08-12` | `13 Pages`
+- `[`2024-17351`]` **[Clarification of Deposit Insurance Coverage for Legacy Branches of U.S. Banks in the Federated States of Micronesia, the Marshall Islands, and Palau](https://www.indexdata.org/clarification-of-deposit-insurance-coverage-for-legacy-branches-of-u-s-banks-in-the-federated-states-of-micronesia-the-marshall-islands-and-palau/)** — `2024-08-09` | `5 Pages`
+- `[`2024-17327`]` **[Fair Hiring in Banking Act](https://www.indexdata.org/fair-hiring-in-banking-act/)** — `2024-08-07` | `15 Pages`
+- `[`2024-13982`]` **[Resolution Plans Required for Insured Depository Institutions With $100 Billion or More in Total Assets; Informational Filings Required for Insured Depository Institutions With at Least $50 Billion but Less Than $100 Billion in Total Assets](https://www.indexdata.org/resolution-plans-required-for-insured-depository-institutions-with-100-billion-or-more-in-total-assets-informational-filings-required-for-insured-depository-institutions-with-at-least-50-billion-bu/)** — `2024-07-09` | `38 Pages`
+
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 
@@ -1638,19 +1651,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/comptrolle
 - `[`2024-16729`]` **[Regulatory Publication and Review Under the Economic Growth and Regulatory Paperwork Reduction Act of 1996](https://www.indexdata.org/regulatory-publication-and-review-under-the-economic-growth-and-regulatory-paperwork-reduction-act-of-1996/)** — `2024-08-01` | `7 Pages`
 - `[`2024-16200`]` **[Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations](https://www.indexdata.org/interagency-guidance-on-reconsiderations-of-value-of-residential-real-estate-valuations/)** — `2024-07-26` | `10 Pages`
 - `[`2024-13960`]` **[OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches-2/)** — `2024-07-03` | `7 Pages`
-
-### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
-
-- `[`2024-23631`]` **[Unsafe and Unsound Banking Practices: Brokered Deposits Restrictions; Extension of Comment Period](https://www.indexdata.org/unsafe-and-unsound-banking-practices-brokered-deposits-restrictions-extension-of-comment-period/)** — `2024-10-11` | `2 Pages`
-- `[`2024-22565`]` **[Recordkeeping for Custodial Accounts](https://www.indexdata.org/recordkeeping-for-custodial-accounts/)** — `2024-10-02` | `20 Pages`
-- `[`2024-22189`]` **[Final Statement of Policy on Bank Merger Transactions](https://www.indexdata.org/final-statement-of-policy-on-bank-merger-transactions/)** — `2024-09-27` | `16 Pages`
-- `[`2024-18214`]` **[Unsafe and Unsound Banking Practices: Brokered Deposits Restrictions](https://www.indexdata.org/unsafe-and-unsound-banking-practices-brokered-deposits-restrictions/)** — `2024-08-23` | `29 Pages`
-- `[`2024-18187`]` **[Regulations Implementing the Change in Bank Control Act](https://www.indexdata.org/regulations-implementing-the-change-in-bank-control-act/)** — `2024-08-19` | `8 Pages`
-- `[`2024-17637`]` **[Parent Companies of Industrial Banks and Industrial Loan Companies](https://www.indexdata.org/parent-companies-of-industrial-banks-and-industrial-loan-companies/)** — `2024-08-12` | `13 Pages`
-- `[`2024-17351`]` **[Clarification of Deposit Insurance Coverage for Legacy Branches of U.S. Banks in the Federated States of Micronesia, the Marshall Islands, and Palau](https://www.indexdata.org/clarification-of-deposit-insurance-coverage-for-legacy-branches-of-u-s-banks-in-the-federated-states-of-micronesia-the-marshall-islands-and-palau/)** — `2024-08-09` | `5 Pages`
-- `[`2024-17327`]` **[Fair Hiring in Banking Act](https://www.indexdata.org/fair-hiring-in-banking-act/)** — `2024-08-07` | `15 Pages`
-- `[`2024-13982`]` **[Resolution Plans Required for Insured Depository Institutions With $100 Billion or More in Total Assets; Informational Filings Required for Insured Depository Institutions With at Least $50 Billion but Less Than $100 Billion in Total Assets](https://www.indexdata.org/resolution-plans-required-for-insured-depository-institutions-with-100-billion-or-more-in-total-assets-informational-filings-required-for-insured-depository-institutions-with-at-least-50-billion-bu/)** — `2024-07-09` | `38 Pages`
 
 ### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)

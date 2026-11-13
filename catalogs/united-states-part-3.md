@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,306` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,310` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 07:50 UTC`
+**Last Automated Sync:** `2026-11-13 09:02 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`314` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`318` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,11 +251,15 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,306)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,310)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-09660`]` **[Airworthiness Directives; Dassault Aviation Airplanes](https://www.indexdata.org/airworthiness-directives-dassault-aviation-airplanes-10/)** — `2026-05-14` | `4 Pages`
+- `[`2026-09659`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-48/)** — `2026-05-14` | `3 Pages`
+- `[`2026-09658`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-6/)** — `2026-05-14` | `3 Pages`
+- `[`2026-09656`]` **[Amendment of Class C Airspace and Class E Airspace; Palm Beach International Airport, West Palm Beach, FL](https://www.indexdata.org/amendment-of-class-c-airspace-and-class-e-airspace-palm-beach-international-airport-west-palm-beach-fl/)** — `2026-05-14` | `2 Pages`
 - `[`2026-09576`]` **[Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes](https://www.indexdata.org/airworthiness-directives-pilatus-aircraft-ltd-airplanes-6/)** — `2026-05-13` | `4 Pages`
 - `[`2026-09574`]` **[Airworthiness Directives; Diamond Aircraft Industries Inc. Airplanes](https://www.indexdata.org/airworthiness-directives-diamond-aircraft-industries-inc-airplanes-3/)** — `2026-05-13` | `4 Pages`
 - `[`2026-09536`]` **[Airworthiness Directives; Dassault Aviation Airplanes](https://www.indexdata.org/airworthiness-directives-dassault-aviation-airplanes-11/)** — `2026-05-13` | `3 Pages`
@@ -605,7 +609,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-00330`]` **[Airworthiness Directives; International Aero Engines LLC Engines](https://www.indexdata.org/airworthiness-directives-international-aero-engines-llc-engines/)** — `2026-01-12` | `5 Pages`
 - `[`2026-00299`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-75/)** — `2026-01-09` | `3 Pages`
 - `[`2026-00247`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-61/)** — `2026-01-09` | `3 Pages`
-- `[`2026-00171`]` **[Special Conditions: ZeroAvia, Inc. Model ZA601 Electric Engines](https://www.indexdata.org/special-conditions-zeroavia-inc-model-za601-electric-engines-2/)** — `2026-01-08` | `13 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -805,7 +808,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-00214`]` **[Air Plan Approval; Missouri; Construction Permits Required](https://www.indexdata.org/air-plan-approval-missouri-construction-permits-required-2/)** — `2026-01-08` | `3 Pages`
 - `[`2026-00208`]` **[Air Plan Approval; California; Mojave Desert Air Quality Management District; Replacing Outdated Requirements](https://www.indexdata.org/air-plan-approval-california-mojave-desert-air-quality-management-district-replacing-outdated-requirements/)** — `2026-01-08` | `6 Pages`
 - `[`2026-00201`]` **[Air Plan Approval; Kentucky; Emissions Inventory and Nonattainment New Source Review for the Henderson-Webster Sulfur Dioxide Nonattainment Area](https://www.indexdata.org/air-plan-approval-kentucky-emissions-inventory-and-nonattainment-new-source-review-for-the-henderson-webster-sulfur-dioxide-nonattainment-area/)** — `2026-01-08` | `4 Pages`
-- `[`2026-00194`]` **[Air Plan Approval; California; Mojave Desert Air Quality Management District; Definition of Terms](https://www.indexdata.org/air-plan-approval-california-mojave-desert-air-quality-management-district-definition-of-terms/)** — `2026-01-08` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -996,7 +998,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-00453`]` **[Safety Zone; Plane Crash Response Between Mile Markers 356 and 362, Gulf Intracoastal Waterway, Galveston, TX](https://www.indexdata.org/safety-zone-plane-crash-response-between-mile-markers-356-and-362-gulf-intracoastal-waterway-galveston-tx/)** — `2026-01-13` | `2 Pages`
 - `[`2026-00346`]` **[2023 Quarterly Listings; Fourth Quarter; Safety Zones, Security Zones, and Special Local Regulations](https://www.indexdata.org/2023-quarterly-listings-fourth-quarter-safety-zones-security-zones-and-special-local-regulations/)** — `2026-01-12` | `2 Pages`
 - `[`2026-00326`]` **[Safety Zone; Hillsborough Bay, Tampa, FL](https://www.indexdata.org/safety-zone-hillsborough-bay-tampa-fl/)** — `2026-01-12` | `2 Pages`
-- `[`2026-00176`]` **[Fixed and Moving Safety Zone; Vicinity of the M/V SUOMIGRACHT; Houston Ship Channel and Seabrook, TX](https://www.indexdata.org/fixed-and-moving-safety-zone-vicinity-of-the-m-v-suomigracht-houston-ship-channel-and-seabrook-tx/)** — `2026-01-08` | `2 Pages`
 
 ### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
@@ -2093,11 +2094,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
 
 - `[`2026-05529`]` **[Copyright Office Fees](https://www.indexdata.org/copyright-office-fees/)** — `2026-03-20` | `15 Pages`
-
-### [Council on Environmental Quality](https://www.indexdata.org/united-states/council-on-environmental-quality/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/council-on-environmental-quality/](https://www.indexdata.org/united-states/council-on-environmental-quality/) | [RSS Feed](https://www.indexdata.org/united-states/council-on-environmental-quality/feed/)
-
-- `[`2026-00178`]` **[Removal of National Environmental Policy Act Implementing Regulations](https://www.indexdata.org/removal-of-national-environmental-policy-act-implementing-regulations/)** — `2026-01-08` | `15 Pages`
 
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)

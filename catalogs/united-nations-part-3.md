@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,970` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,973` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-13 07:50 UTC`
+**Last Automated Sync:** `2026-11-13 09:02 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`483` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,11 +187,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,970)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,973)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-RES-80-253`]` **[Information and communications technology strategy — resolution](https://www.indexdata.org/a-res-80-253-information-and-communications-technology-strategy-resolution/)** — `2026-04-17` | `4 Pages`
+- `[`UN-A-HRC-S-38-2`]` **[Report of the Human Rights Council on its 38th special session, held on 14 November 2025](https://www.indexdata.org/a-hrc-s-38-2-report-of-the-human-rights-council-on-its-38th-special-session-held-on-14-november-2025/)** — `2026-04-17` | `6 Pages`
+- `[`UN-A-C.5-80-INF-4-Rev.1`]` **[Recommendations contained in the report of the 5th Committee (A/80/568/Add.1) for consideration by the General Assembly — note](https://www.indexdata.org/a-c-5-80-inf-4-rev-1-recommendations-contained-in-the-report-of-the-5th-committee-a-80-568-add-1-for-consideration-by-the-general-assembly-note/)** — `2026-04-17` | `2 Pages`
 - `[`UN-A-81-6-Sect.-5`]` **[Proposed programme budget for 2027 — Part 2, — Political affairs — Section 5, — Peacekeeping operations — Programme 4, — Peacekeeping operations](https://www.indexdata.org/a-81-6-sect-5-proposed-programme-budget-for-2027-part-2-political-affairs-section-5-peacekeeping-operations-programme-4-peacekeeping/)** — `2026-04-17` | `67 Pages`
 - `[`UN-A-80-604`]` **[Observations and recommendations on cross-cutting issues related to peacekeeping operations — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-604-observations-and-recommendations-on-cross-cutting-issues-related-to-peacekeeping-operations-report-of-the-advisory-committee-on-administrative-and-budgetary-questions/)** — `2026-04-17` | `82 Pages`
 - `[`UN-A-HRC-62-43-Add.1`]` **[Visit to Guatemala — report of the Special Rapporteur on the Independence of Judges and Lawyers](https://www.indexdata.org/a-hrc-62-43-add-1-visit-to-guatemala-report-of-the-special-rapporteur-on-the-independence-of-judges-and-lawyers/)** — `2026-04-16` | `20 Pages`
@@ -1055,7 +1058,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-AC.172-2026-L.1`]` **[Annotated provisional agenda of the organizational session for 2026 — Committee on Conferences](https://www.indexdata.org/a-ac-172-2026-l-1-annotated-provisional-agenda-of-the-organizational-session-for-2026-committee-on-conferences/)** — `2026-01-19` | `5 Pages`
 - `[`UN-A-HRC-61-21`]` **[Question of human rights in Cyprus — report of the Office of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-21-question-of-human-rights-in-cyprus-report-of-the-office-of-the-united-nations-high-commissioner-for-human-rights/)** — `2026-01-16` | `14 Pages`
 - `[`UN-A-HRC-61-36`]` **[Global analytical study on the implementation of a human-rights based approach into the goals and targets of the Kunming-Montreal Global Biodiversity Framework — report of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-36-global-analytical-study-on-the-implementation-of-a-human-rights-based-approach-into-the-goals-and-targets-of-the-kunming-montreal-global-biodiversity-framework-report-of-the-un/)** — `2026-01-15` | `17 Pages`
-- `[`UN-A-80-475`]` **[Cost recovery in the United Nations Secretariat — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-475-cost-recovery-in-the-united-nations-secretariat-report-of-the-advisory-committee-on-administrative-and-budgetary-questions/)** — `2026-01-14` | `18 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
@@ -1546,7 +1548,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 - `[`UN-CAT-C-83-D-1091-2021`]` **[Decision adopted by the Committee under article 22 of the Convention, concerning communication No. 1091/2021 — Committee against Torture](https://www.indexdata.org/cat-c-83-d-1091-2021-decision-adopted-by-the-committee-under-article-22-of-the-convention-concerning-communication-no-1091-2021-committee-against-torture/)** — `2026-01-16` | `9 Pages`
 - `[`UN-CRC-C-MYS-RQ-2-4`]` **[Replies of Malaysia to the list of issues in relation to its combined 2nd to 4th periodic reports — Convention on the Rights of the Child](https://www.indexdata.org/crc-c-mys-rq-2-4-replies-of-malaysia-to-the-list-of-issues-in-relation-to-its-combined-2nd-to-4th-periodic-reports-convention-on-the-rights-of-the-child/)** — `2026-01-15` | `21 Pages`
 - `[`UN-CERD-C-BRA-FCO-18-20`]` **[Information received from Brazil on follow-up to the concluding observations on its combined 18th to 20th periodic reports — Committee on the Elimination of Racial Discrimination](https://www.indexdata.org/cerd-c-bra-fco-18-20-information-received-from-brazil-on-follow-up-to-the-concluding-observations-on-its-combined-18th-to-20th-periodic-reports-committee-on-the-elimination-of-racial-discr/)** — `2026-01-14` | `8 Pages`
-- `[`UN-CAT-C-KWT-FCO-4`]` **[Information received from Kuwait on follow-up to the concluding observations on its 4th periodic report — Committee against Torture](https://www.indexdata.org/cat-c-kwt-fco-4-information-received-from-kuwait-on-follow-up-to-the-concluding-observations-on-its-4th-periodic-report-committee-against-torture/)** — `2026-01-14` | `5 Pages`
 
 ### [Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/programmes-and-funds/](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -1746,11 +1747,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/algerian-
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/audit-board-of-the-republic-of-indonesia/](https://www.indexdata.org/united-nations/audit-board-of-the-republic-of-indonesia/) | [RSS Feed](https://www.indexdata.org/united-nations/audit-board-of-the-republic-of-indonesia/feed/)
 
 - `[`UN-SPLOS-36-4`]` **[Report of the external auditor for the financial period 2025, with financial statements of the International Tribunal for the Law of the Sea as at 31 December 2025](https://www.indexdata.org/splos-36-4-report-of-the-external-auditor-for-the-financial-period-2025-with-financial-statements-of-the-international-tribunal-for-the-law-of-the-sea-as-at-31-december-2025/)** — `2026-04-01` | `33 Pages`
-
-### [Chief Executives Board for Coordination](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/) | [RSS Feed](https://www.indexdata.org/united-nations/chief-executives-board-for-coordination/feed/)
-
-- `[`UN-CEB-2025-8`]` **[Report of the High-level Committee on Management on its intersessional meeting on the review of the United Nations security management system (24 November 2025, virtual) — Chief Executives Board for Coordination](https://www.indexdata.org/ceb-2025-8-report-of-the-high-level-committee-on-management-on-its-intersessional-meeting-on-the-review-of-the-united-nations-security-management-system-24-november-2025-virtual-chief-e/)** — `2026-01-14` | `12 Pages`
 
 ### [European Commission Joint Research Centre and the Government of South Africa](https://www.indexdata.org/united-nations/european-commission-joint-research-centre-and-the-government-of-south-africa/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/european-commission-joint-research-centre-and-the-government-of-south-africa/](https://www.indexdata.org/united-nations/european-commission-joint-research-centre-and-the-government-of-south-africa/) | [RSS Feed](https://www.indexdata.org/united-nations/european-commission-joint-research-centre-and-the-government-of-south-africa/feed/)

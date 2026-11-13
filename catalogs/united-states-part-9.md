@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,306` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,310` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 07:50 UTC`
+**Last Automated Sync:** `2026-11-13 09:02 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`314` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`318` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,11 +251,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,306)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,310)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-03483`]` **[Amendment of Alaskan Very High Frequency Omnidirectional Range (VOR) Federal Airway V-333 in the Vicinity of Shishmaref, AK, and Revocation of Alaskan VOR Federal Airway V-401 in the Vicinity of Ambler, AK](https://www.indexdata.org/amendment-of-alaskan-very-high-frequency-omnidirectional-range-vor-federal-airway-v-333-in-the-vicinity-of-shishmaref-ak-and-revocation-of-alaskan-vor-federal-airway-v-401-in-the-vicinity-of-amble/)** — `2024-02-21` | `2 Pages`
 - `[`2024-03480`]` **[Revocation of Colored Federal Airway Green 4 (G-4) in the Vicinity of Dillingham, AK](https://www.indexdata.org/revocation-of-colored-federal-airway-green-4-g-4-in-the-vicinity-of-dillingham-ak/)** — `2024-02-21` | `2 Pages`
 - `[`2024-03464`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-262/)** — `2024-02-21` | `3 Pages`
 - `[`2024-03442`]` **[Airworthiness Directives; Pratt & Whitney Canada Corp. Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-canada-corp-engines-6/)** — `2024-02-21` | `3 Pages`
@@ -599,12 +600,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-22486`]` **[Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc-airplanes-38/)** — `2023-10-13` | `3 Pages`
 - `[`2023-22472`]` **[Modification of Restricted Areas R-4201A and R-4201B; Camp Grayling, MI](https://www.indexdata.org/modification-of-restricted-areas-r-4201a-and-r-4201b-camp-grayling-mi-2/)** — `2023-10-13` | `3 Pages`
 - `[`2023-22492`]` **[Policy for Type Certification of Very Light Airplanes as a Special Class of Aircraft](https://www.indexdata.org/policy-for-type-certification-of-very-light-airplanes-as-a-special-class-of-aircraft/)** — `2023-10-11` | `8 Pages`
-- `[`2023-22440`]` **[Establishment of Class E Airspace; Warrenton, VA](https://www.indexdata.org/establishment-of-class-e-airspace-warrenton-va/)** — `2023-10-11` | `2 Pages`
-- `[`2023-22373`]` **[Airworthiness Directives; CFM International, S.A. Engines](https://www.indexdata.org/airworthiness-directives-cfm-international-s-a-engines-25/)** — `2023-10-11` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-03528`]` **[Air Plan Disapproval; Pennsylvania; Reasonably Available Control Technology Case-by-Case Permits for Keystone, Conemaugh and Homer City Generating Facilities for the 1997 and 2008 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-plan-disapproval-pennsylvania-reasonably-available-control-technology-case-by-case-permits-for-keystone-conemaugh-and-homer-city-generating-facilities-for-the-1997-and-2008-ozone-national-ambie/)** — `2024-02-21` | `11 Pages`
 - `[`2024-02735`]` **[Fees for the Administration of the Toxic Substances Control Act (TSCA)](https://www.indexdata.org/fees-for-the-administration-of-the-toxic-substances-control-act-tsca/)** — `2024-02-21` | `19 Pages`
 - `[`2024-03349`]` **[Waste Emissions Charge for Petroleum and Natural Gas Systems; Extension of Comment Period](https://www.indexdata.org/waste-emissions-charge-for-petroleum-and-natural-gas-systems-extension-of-comment-period/)** — `2024-02-20` | `2 Pages`
 - `[`2024-03324`]` **[Approval and Promulgation of Plans for Designated Facilities; New Jersey; Delegation of Authority](https://www.indexdata.org/approval-and-promulgation-of-plans-for-designated-facilities-new-jersey-delegation-of-authority-2/)** — `2024-02-20` | `3 Pages`
@@ -767,6 +767,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-03486`]` **[Security Zone; Port Valdez and Valdez Narrows, Valdez, AK](https://www.indexdata.org/security-zone-port-valdez-and-valdez-narrows-valdez-ak-2/)** — `2024-02-21` | `3 Pages`
 - `[`2024-03455`]` **[Drawbridge Operation Regulation; Reynolds Channel, Atlantic Beach, NY](https://www.indexdata.org/drawbridge-operation-regulation-reynolds-channel-atlantic-beach-ny-2/)** — `2024-02-21` | `3 Pages`
 - `[`2024-03406`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-6/)** — `2024-02-20` | `3 Pages`
 - `[`2024-03369`]` **[Emergency Safety Zone; Pacific Ocean, Bodega Bay, CA](https://www.indexdata.org/emergency-safety-zone-pacific-ocean-bodega-bay-ca/)** — `2024-02-16` | `3 Pages`
@@ -1760,24 +1761,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/employment
 - `[`2023-27938`]` **[Labor Certification for Permanent Employment of Foreign Workers in the United States; Modernizing Schedule A To Include Consideration of Additional Occupations in Science, Technology, Engineering, and Mathematics (STEM) and Non-STEM Occupations](https://www.indexdata.org/labor-certification-for-permanent-employment-of-foreign-workers-in-the-united-states-modernizing-schedule-a-to-include-consideration-of-additional-occupations-in-science-technology-engineering-and-2/)** — `2023-12-21` | `5 Pages`
 - `[`2023-25372`]` **[Wagner-Peyser Act Staffing](https://www.indexdata.org/wagner-peyser-act-staffing/)** — `2023-11-24` | `80 Pages`
 
-### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
-
-- `[`2023-28629`]` **[FDIC Official Signs and Advertising Requirements, False Advertising, Misrepresentation of Insured Status, and Misuse of the FDIC's Name or Logo](https://www.indexdata.org/fdic-official-signs-and-advertising-requirements-false-advertising-misrepresentation-of-insured-status-and-misuse-of-the-fdics-name-or-logo-4/)** — `2024-01-18` | `29 Pages`
-- `[`2023-27934`]` **[Community Reinvestment Act Regulations Asset-Size Thresholds](https://www.indexdata.org/community-reinvestment-act-regulations-asset-size-thresholds/)** — `2023-12-20` | `3 Pages`
-- `[`2023-25813`]` **[Special Assessment Pursuant to Systemic Risk Determination](https://www.indexdata.org/special-assessment-pursuant-to-systemic-risk-determination/)** — `2023-11-29` | `21 Pages`
-- `[`2023-23853`]` **[Fair Hiring in Banking Act](https://www.indexdata.org/fair-hiring-in-banking-act-2/)** — `2023-11-14` | `12 Pages`
-- `[`2023-22421`]` **[Guidelines Establishing Standards for Corporate Governance and Risk Management for Covered Institutions With Total Consolidated Assets of $10 Billion or More](https://www.indexdata.org/guidelines-establishing-standards-for-corporate-governance-and-risk-management-for-covered-institutions-with-total-consolidated-assets-of-10-billion-or-more/)** — `2023-10-11` | `19 Pages`
-
-### [Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-labor-relations-authority/](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
-
-- `[`2024-03210`]` **[Procedures of the Panel; Miscellaneous Requirements](https://www.indexdata.org/procedures-of-the-panel-miscellaneous-requirements-2/)** — `2024-02-16` | `3 Pages`
-- `[`2024-02912`]` **[Changes in Filing Addresses and Procedures](https://www.indexdata.org/changes-in-filing-addresses-and-procedures/)** — `2024-02-15` | `3 Pages`
-- `[`2023-26516`]` **[Privacy](https://www.indexdata.org/privacy/)** — `2023-12-04` | `5 Pages`
-- `[`2023-25300`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-2/)** — `2023-11-17` | `2 Pages`
-- `[`2023-22439`]` **[Privacy](https://www.indexdata.org/privacy-2/)** — `2023-10-11` | `6 Pages`
-
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 
@@ -1828,6 +1811,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-credi
 - `[`2023-27929`]` **[Loan Policies and Operations](https://www.indexdata.org/loan-policies-and-operations/)** — `2023-12-27` | `7 Pages`
 - `[`2023-27102`]` **[Cyber Risk Management](https://www.indexdata.org/cyber-risk-management/)** — `2023-12-11` | `9 Pages`
 - `[`2023-25652`]` **[Conservators and Receivers](https://www.indexdata.org/conservators-and-receivers/)** — `2023-11-24` | `9 Pages`
+
+### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
+
+- `[`2023-28629`]` **[FDIC Official Signs and Advertising Requirements, False Advertising, Misrepresentation of Insured Status, and Misuse of the FDIC's Name or Logo](https://www.indexdata.org/fdic-official-signs-and-advertising-requirements-false-advertising-misrepresentation-of-insured-status-and-misuse-of-the-fdics-name-or-logo-4/)** — `2024-01-18` | `29 Pages`
+- `[`2023-27934`]` **[Community Reinvestment Act Regulations Asset-Size Thresholds](https://www.indexdata.org/community-reinvestment-act-regulations-asset-size-thresholds/)** — `2023-12-20` | `3 Pages`
+- `[`2023-25813`]` **[Special Assessment Pursuant to Systemic Risk Determination](https://www.indexdata.org/special-assessment-pursuant-to-systemic-risk-determination/)** — `2023-11-29` | `21 Pages`
+- `[`2023-23853`]` **[Fair Hiring in Banking Act](https://www.indexdata.org/fair-hiring-in-banking-act-2/)** — `2023-11-14` | `12 Pages`
+
+### [Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-labor-relations-authority/](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
+
+- `[`2024-03210`]` **[Procedures of the Panel; Miscellaneous Requirements](https://www.indexdata.org/procedures-of-the-panel-miscellaneous-requirements-2/)** — `2024-02-16` | `3 Pages`
+- `[`2024-02912`]` **[Changes in Filing Addresses and Procedures](https://www.indexdata.org/changes-in-filing-addresses-and-procedures/)** — `2024-02-15` | `3 Pages`
+- `[`2023-26516`]` **[Privacy](https://www.indexdata.org/privacy/)** — `2023-12-04` | `5 Pages`
+- `[`2023-25300`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-2/)** — `2023-11-17` | `2 Pages`
 
 ### [Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-nutrition-service/](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
@@ -2211,6 +2210,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary-of-the-treasury/](https://www.indexdata.org/united-states/office-of-the-secretary-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary-of-the-treasury/feed/)
 
 - `[`2024-01409`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-6/)** — `2024-01-25` | `3 Pages`
+
+### [Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
+
+- `[`2024-03523`]` **[Expanding Opportunities To Appear Before the Patent Trial and Appeal Board](https://www.indexdata.org/expanding-opportunities-to-appear-before-the-patent-trial-and-appeal-board-2/)** — `2024-02-21` | `5 Pages`
 
 ### [Peace Corps](https://www.indexdata.org/united-states/peace-corps/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/peace-corps/](https://www.indexdata.org/united-states/peace-corps/) | [RSS Feed](https://www.indexdata.org/united-states/peace-corps/feed/)

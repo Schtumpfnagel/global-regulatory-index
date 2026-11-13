@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,306` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,310` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 07:50 UTC`
+**Last Automated Sync:** `2026-11-13 09:02 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`314` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`318` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,306)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,310)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -624,7 +624,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-03728`]` **[Airworthiness Criteria: Special Class Airworthiness Criteria for the Blackshape S.p.A., Model BK160-200 Very Light Airplane](https://www.indexdata.org/airworthiness-criteria-special-class-airworthiness-criteria-for-the-blackshape-s-p-a-model-bk160-200-very-light-airplane/)** — `2024-02-23` | `2 Pages`
 - `[`2024-03720`]` **[Airworthiness Directives; GA8 Airvan (Pty) Ltd Airplanes](https://www.indexdata.org/airworthiness-directives-ga8-airvan-pty-ltd-airplanes-2/)** — `2024-02-23` | `3 Pages`
 - `[`2024-03562`]` **[Airworthiness Directives; GE Aviation Czech s.r.o. (Type Certificate Previously Held by WALTER Engines a.s., Walter a.s., and MOTORLET a.s.) Engines](https://www.indexdata.org/airworthiness-directives-ge-aviation-czech-s-r-o-type-certificate-previously-held-by-walter-engines-a-s-walter-a-s-and-motorlet-a-s-engines-5/)** — `2024-02-22` | `3 Pages`
-- `[`2024-03483`]` **[Amendment of Alaskan Very High Frequency Omnidirectional Range (VOR) Federal Airway V-333 in the Vicinity of Shishmaref, AK, and Revocation of Alaskan VOR Federal Airway V-401 in the Vicinity of Ambler, AK](https://www.indexdata.org/amendment-of-alaskan-very-high-frequency-omnidirectional-range-vor-federal-airway-v-333-in-the-vicinity-of-shishmaref-ak-and-revocation-of-alaskan-vor-federal-airway-v-401-in-the-vicinity-of-amble/)** — `2024-02-21` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -801,11 +800,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-03529`]` **[Air Plan Approval; OR; Regional Haze Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-approval-or-regional-haze-plan-for-the-second-implementation-period-2/)** — `2024-02-23` | `31 Pages`
 - `[`2024-03616`]` **[Air Plan Approval; Virginia; Revision Listing and Implementing the 2010 Primary Sulfur Dioxide National Ambient Air Quality Standard for the Giles County Nonattainment Area](https://www.indexdata.org/air-plan-approval-virginia-revision-listing-and-implementing-the-2010-primary-sulfur-dioxide-national-ambient-air-quality-standard-for-the-giles-county-nonattainment-area-2/)** — `2024-02-22` | `3 Pages`
 - `[`2024-03555`]` **[Air Plan Approval; Ohio; Withdrawal of Technical Amendment](https://www.indexdata.org/air-plan-approval-ohio-withdrawal-of-technical-amendment-2/)** — `2024-02-22` | `5 Pages`
-- `[`2024-03528`]` **[Air Plan Disapproval; Pennsylvania; Reasonably Available Control Technology Case-by-Case Permits for Keystone, Conemaugh and Homer City Generating Facilities for the 1997 and 2008 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-plan-disapproval-pennsylvania-reasonably-available-control-technology-case-by-case-permits-for-keystone-conemaugh-and-homer-city-generating-facilities-for-the-1997-and-2008-ozone-national-ambie/)** — `2024-02-21` | `11 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-13781`]` **[Safety Zone, Lake Erie, Mentor (Mentor Headlands), Ohio](https://www.indexdata.org/safety-zone-lake-erie-mentor-mentor-headlands-ohio/)** — `2024-06-21` | `4 Pages`
+- `[`2024-13642`]` **[Safety Zone; Back River, Baltimore County, MD](https://www.indexdata.org/safety-zone-back-river-baltimore-county-md/)** — `2024-06-21` | `3 Pages`
+- `[`2024-13635`]` **[Safety Zone; M/V Dali, Transit to Maryland/Virginia Line, Chesapeake Bay and Patapsco River, Baltimore, MD](https://www.indexdata.org/safety-zone-m-v-dali-transit-to-maryland-virginia-line-chesapeake-bay-and-patapsco-river-baltimore-md/)** — `2024-06-21` | `2 Pages`
 - `[`2024-13602`]` **[Special Local Regulation; Sail Grand Prix; Upper Bay, New York City, NY](https://www.indexdata.org/special-local-regulation-sail-grand-prix-upper-bay-new-york-city-ny-3/)** — `2024-06-21` | `4 Pages`
 - `[`2024-13592`]` **[Safety Zones; Recurring Events in Captain of the Port Duluth-City of Bayfield 4th of July Fireworks Display](https://www.indexdata.org/safety-zones-recurring-events-in-captain-of-the-port-duluth-city-of-bayfield-4th-of-july-fireworks-display/)** — `2024-06-21` | `2 Pages`
 - `[`2024-13472`]` **[Drawbridge Operation Regulation; Townsend Gut, Southport, ME](https://www.indexdata.org/drawbridge-operation-regulation-townsend-gut-southport-me-2/)** — `2024-06-21` | `3 Pages`
@@ -943,7 +944,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-03462`]` **[Drawbridge Operation Regulation; Sloop Channel, Nassau County, NY](https://www.indexdata.org/drawbridge-operation-regulation-sloop-channel-nassau-county-ny-2/)** — `2024-02-23` | `3 Pages`
 - `[`2024-03590`]` **[Safety Zone, Installation Area for Offshore Wind Power Transmission Export Cables, Atlantic Ocean, Virginia Beach, Virginia](https://www.indexdata.org/safety-zone-installation-area-for-offshore-wind-power-transmission-export-cables-atlantic-ocean-virginia-beach-virginia/)** — `2024-02-22` | `3 Pages`
 - `[`2024-03075`]` **[Cybersecurity in the Marine Transportation System](https://www.indexdata.org/cybersecurity-in-the-marine-transportation-system-2/)** — `2024-02-22` | `111 Pages`
-- `[`2024-03486`]` **[Security Zone; Port Valdez and Valdez Narrows, Valdez, AK](https://www.indexdata.org/security-zone-port-valdez-and-valdez-narrows-valdez-ak-2/)** — `2024-02-21` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1532,21 +1532,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2024-01095`]` **[Overdraft Lending: Very Large Financial Institutions](https://www.indexdata.org/overdraft-lending-very-large-financial-institutions-2/)** — `2024-02-23` | `57 Pages`
 - `[`2024-03615`]` **[Supervisory Appeals Process](https://www.indexdata.org/supervisory-appeals-process/)** — `2024-02-22` | `3 Pages`
 
-### [Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
-
-- `[`2024-12823`]` **[Rules Governing Pre-Issuance Internal Circulation and Review of Decisions Within the Patent Trial and Appeal Board](https://www.indexdata.org/rules-governing-pre-issuance-internal-circulation-and-review-of-decisions-within-the-patent-trial-and-appeal-board/)** — `2024-06-12` | `8 Pages`
-- `[`2024-10166`]` **[Terminal Disclaimer Practice To Obviate Nonstatutory Double Patenting](https://www.indexdata.org/terminal-disclaimer-practice-to-obviate-nonstatutory-double-patenting/)** — `2024-05-10` | `11 Pages`
-- `[`2024-09618`]` **[Adoption of Updated WIPO Standard ST.26; Revision to Incorporation by Reference](https://www.indexdata.org/adoption-of-updated-wipo-standard-st-26-revision-to-incorporation-by-reference/)** — `2024-05-03` | `3 Pages`
-- `[`2024-08362`]` **[Patent Trial and Appeal Board Rules of Practice for Briefing Discretionary Denial Issues, and Rules for 325(d) Considerations, Instituting Parallel and Serial Petitions, and Termination Due to Settlement Agreement](https://www.indexdata.org/patent-trial-and-appeal-board-rules-of-practice-for-briefing-discretionary-denial-issues-and-rules-for-325d-considerations-instituting-parallel-and-serial-petitions-and-termination-due-to-settlem/)** — `2024-04-19` | `14 Pages`
-- `[`2024-07759`]` **[Rules Governing Director Review of Patent Trial and Appeal Board Decisions](https://www.indexdata.org/rules-governing-director-review-of-patent-trial-and-appeal-board-decisions-2/)** — `2024-04-16` | `7 Pages`
-- `[`2024-06250`]` **[Setting and Adjusting Patent Fees During Fiscal Year 2025](https://www.indexdata.org/setting-and-adjusting-patent-fees-during-fiscal-year-2025-3/)** — `2024-04-03` | `66 Pages`
-- `[`2024-06659`]` **[Electronic Submission of Notices of Appeal to the United States Court of Appeals for the Federal Circuit, Notices of Election, and Requests for Extension of Time for Seeking Judicial Review](https://www.indexdata.org/electronic-submission-of-notices-of-appeal-to-the-united-states-court-of-appeals-for-the-federal-circuit-notices-of-election-and-requests-for-extension-of-time-for-seeking-judicial-review/)** — `2024-03-29` | `3 Pages`
-- `[`2024-06186`]` **[Setting and Adjusting Trademark Fees During Fiscal Year 2025](https://www.indexdata.org/setting-and-adjusting-trademark-fees-during-fiscal-year-2025-3/)** — `2024-03-26` | `19 Pages`
-- `[`2024-06126`]` **[Signature Requirements Related to Acceptance of Electronic Signatures for Patent Correspondence](https://www.indexdata.org/signature-requirements-related-to-acceptance-of-electronic-signatures-for-patent-correspondence/)** — `2024-03-22` | `4 Pages`
-- `[`2024-04127`]` **[Motion To Amend Practice and Procedures in Trial Proceedings Under the America Invents Act Before the Patent Trial and Appeal Board](https://www.indexdata.org/motion-to-amend-practice-and-procedures-in-trial-proceedings-under-the-america-invents-act-before-the-patent-trial-and-appeal-board/)** — `2024-03-04` | `10 Pages`
-- `[`2024-03523`]` **[Expanding Opportunities To Appear Before the Patent Trial and Appeal Board](https://www.indexdata.org/expanding-opportunities-to-appear-before-the-patent-trial-and-appeal-board-2/)** — `2024-02-21` | `5 Pages`
-
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
 
@@ -1589,6 +1574,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2024-04335`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-2/)** — `2024-03-01` | `15 Pages`
 - `[`2024-03793`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-3/)** — `2024-03-01` | `12 Pages`
 - `[`2024-03559`]` **[Combating Auto Retail Scams Trade Regulation Rule](https://www.indexdata.org/combating-auto-retail-scams-trade-regulation-rule/)** — `2024-02-22` | `2 Pages`
+
+### [Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
+
+- `[`2024-12823`]` **[Rules Governing Pre-Issuance Internal Circulation and Review of Decisions Within the Patent Trial and Appeal Board](https://www.indexdata.org/rules-governing-pre-issuance-internal-circulation-and-review-of-decisions-within-the-patent-trial-and-appeal-board/)** — `2024-06-12` | `8 Pages`
+- `[`2024-10166`]` **[Terminal Disclaimer Practice To Obviate Nonstatutory Double Patenting](https://www.indexdata.org/terminal-disclaimer-practice-to-obviate-nonstatutory-double-patenting/)** — `2024-05-10` | `11 Pages`
+- `[`2024-09618`]` **[Adoption of Updated WIPO Standard ST.26; Revision to Incorporation by Reference](https://www.indexdata.org/adoption-of-updated-wipo-standard-st-26-revision-to-incorporation-by-reference/)** — `2024-05-03` | `3 Pages`
+- `[`2024-08362`]` **[Patent Trial and Appeal Board Rules of Practice for Briefing Discretionary Denial Issues, and Rules for 325(d) Considerations, Instituting Parallel and Serial Petitions, and Termination Due to Settlement Agreement](https://www.indexdata.org/patent-trial-and-appeal-board-rules-of-practice-for-briefing-discretionary-denial-issues-and-rules-for-325d-considerations-instituting-parallel-and-serial-petitions-and-termination-due-to-settlem/)** — `2024-04-19` | `14 Pages`
+- `[`2024-07759`]` **[Rules Governing Director Review of Patent Trial and Appeal Board Decisions](https://www.indexdata.org/rules-governing-director-review-of-patent-trial-and-appeal-board-decisions-2/)** — `2024-04-16` | `7 Pages`
+- `[`2024-06250`]` **[Setting and Adjusting Patent Fees During Fiscal Year 2025](https://www.indexdata.org/setting-and-adjusting-patent-fees-during-fiscal-year-2025-3/)** — `2024-04-03` | `66 Pages`
+- `[`2024-06659`]` **[Electronic Submission of Notices of Appeal to the United States Court of Appeals for the Federal Circuit, Notices of Election, and Requests for Extension of Time for Seeking Judicial Review](https://www.indexdata.org/electronic-submission-of-notices-of-appeal-to-the-united-states-court-of-appeals-for-the-federal-circuit-notices-of-election-and-requests-for-extension-of-time-for-seeking-judicial-review/)** — `2024-03-29` | `3 Pages`
+- `[`2024-06186`]` **[Setting and Adjusting Trademark Fees During Fiscal Year 2025](https://www.indexdata.org/setting-and-adjusting-trademark-fees-during-fiscal-year-2025-3/)** — `2024-03-26` | `19 Pages`
+- `[`2024-06126`]` **[Signature Requirements Related to Acceptance of Electronic Signatures for Patent Correspondence](https://www.indexdata.org/signature-requirements-related-to-acceptance-of-electronic-signatures-for-patent-correspondence/)** — `2024-03-22` | `4 Pages`
+- `[`2024-04127`]` **[Motion To Amend Practice and Procedures in Trial Proceedings Under the America Invents Act Before the Patent Trial and Appeal Board](https://www.indexdata.org/motion-to-amend-practice-and-procedures-in-trial-proceedings-under-the-america-invents-act-before-the-patent-trial-and-appeal-board/)** — `2024-03-04` | `10 Pages`
 
 ### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
@@ -1701,6 +1700,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and
 - `[`2024-03869`]` **[Partnerships With Faith-Based and Neighborhood Organizations](https://www.indexdata.org/partnerships-with-faith-based-and-neighborhood-organizations/)** — `2024-03-04` | `53 Pages`
 - `[`2024-04139`]` **[Improving Child Care Access, Affordability, and Stability in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/improving-child-care-access-affordability-and-stability-in-the-child-care-and-development-fund-ccdf/)** — `2024-03-01` | `52 Pages`
 
+### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
+
+- `[`2024-12864`]` **[Corporate Average Fuel Economy Standards for Passenger Cars and Light Trucks for Model Years 2027 and Beyond and Fuel Efficiency Standards for Heavy-Duty Pickup Trucks and Vans for Model Years 2030 and Beyond](https://www.indexdata.org/corporate-average-fuel-economy-standards-for-passenger-cars-and-light-trucks-for-model-years-2027-and-beyond-and-fuel-efficiency-standards-for-heavy-duty-pickup-trucks-and-vans-for-model-years-2030-an/)** — `2024-06-24` | `415 Pages`
+- `[`2024-12333`]` **[Federal Motor Vehicle Safety Standards; Fuel System Integrity of Hydrogen Vehicles, Compressed Hydrogen Storage System Integrity, Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fuel-system-integrity-of-hydrogen-vehicles-compressed-hydrogen-storage-system-integrity-incorporation-by-reference-2/)** — `2024-06-06` | `2 Pages`
+- `[`2024-11404`]` **[Federal Motor Vehicle Safety Standards; FMVSS No. 305a Electric-Powered Vehicles: Electric Powertrain Integrity Global Technical Regulation No. 20, Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fmvss-no-305a-electric-powered-vehicles-electric-powertrain-integrity-global-technical-regulation-no-20-incorporation-by-reference-3/)** — `2024-05-24` | `2 Pages`
+- `[`2024-09054`]` **[Federal Motor Vehicle Safety Standards; Automatic Emergency Braking Systems for Light Vehicles](https://www.indexdata.org/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles-2/)** — `2024-05-09` | `110 Pages`
+- `[`2024-07116`]` **[Federal Motor Vehicle Safety Standards; Fuel System Integrity of Hydrogen Vehicles; Compressed Hydrogen Storage System Integrity; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fuel-system-integrity-of-hydrogen-vehicles-compressed-hydrogen-storage-system-integrity-incorporation-by-reference-3/)** — `2024-04-17` | `60 Pages`
+- `[`2024-07646`]` **[Federal Motor Vehicle Safety Standards; FMVSS No. 305a Electric-Powered Vehicles: Electric Powertrain Integrity Global Technical Regulation No. 20, Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fmvss-no-305a-electric-powered-vehicles-electric-powertrain-integrity-global-technical-regulation-no-20-incorporation-by-reference-4/)** — `2024-04-15` | `51 Pages`
+- `[`2024-05010`]` **[Improvements for Heavy-Duty Engine and Vehicle Fuel Efficiency Test Procedures, and Other Technical Amendments](https://www.indexdata.org/improvements-for-heavy-duty-engine-and-vehicle-fuel-efficiency-test-procedures-and-other-technical-amendments/)** — `2024-03-15` | `24 Pages`
+
 ### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
 
@@ -1731,16 +1741,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enfor
 - `[`2024-07684`]` **[Schedules of Controlled Substances: Placement of Etodesnitazene, N-Pyrrolidino Etonitazene, and Protonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-etodesnitazene-n-pyrrolidino-etonitazene-and-protonitazene-in-schedule-i/)** — `2024-04-11` | `4 Pages`
 - `[`2024-07473`]` **[Announcement of Hearing: Schedules of Controlled Substances: Placement of 2,5-dimethoxy-4-iodoamphetamine (DOI) and 2,5-dimethoxy-4-chloroamphetamine (DOC) inSchedule I](https://www.indexdata.org/announcement-of-hearing-schedules-of-controlled-substances-placement-of-25-dimethoxy-4-iodoamphetamine-doi-and-25-dimethoxy-4-chloroamphetamine-doc-inschedule-i/)** — `2024-04-09` | `2 Pages`
 - `[`2024-05543`]` **[Schedules of Controlled Substances: Placement of 2-Methyl AP-237 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-2-methyl-ap-237-in-schedule-i/)** — `2024-03-15` | `4 Pages`
-
-### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
-
-- `[`2024-12333`]` **[Federal Motor Vehicle Safety Standards; Fuel System Integrity of Hydrogen Vehicles, Compressed Hydrogen Storage System Integrity, Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fuel-system-integrity-of-hydrogen-vehicles-compressed-hydrogen-storage-system-integrity-incorporation-by-reference-2/)** — `2024-06-06` | `2 Pages`
-- `[`2024-11404`]` **[Federal Motor Vehicle Safety Standards; FMVSS No. 305a Electric-Powered Vehicles: Electric Powertrain Integrity Global Technical Regulation No. 20, Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fmvss-no-305a-electric-powered-vehicles-electric-powertrain-integrity-global-technical-regulation-no-20-incorporation-by-reference-3/)** — `2024-05-24` | `2 Pages`
-- `[`2024-09054`]` **[Federal Motor Vehicle Safety Standards; Automatic Emergency Braking Systems for Light Vehicles](https://www.indexdata.org/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles-2/)** — `2024-05-09` | `110 Pages`
-- `[`2024-07116`]` **[Federal Motor Vehicle Safety Standards; Fuel System Integrity of Hydrogen Vehicles; Compressed Hydrogen Storage System Integrity; Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fuel-system-integrity-of-hydrogen-vehicles-compressed-hydrogen-storage-system-integrity-incorporation-by-reference-3/)** — `2024-04-17` | `60 Pages`
-- `[`2024-07646`]` **[Federal Motor Vehicle Safety Standards; FMVSS No. 305a Electric-Powered Vehicles: Electric Powertrain Integrity Global Technical Regulation No. 20, Incorporation by Reference](https://www.indexdata.org/federal-motor-vehicle-safety-standards-fmvss-no-305a-electric-powered-vehicles-electric-powertrain-integrity-global-technical-regulation-no-20-incorporation-by-reference-4/)** — `2024-04-15` | `51 Pages`
-- `[`2024-05010`]` **[Improvements for Heavy-Duty Engine and Vehicle Fuel Efficiency Test Procedures, and Other Technical Amendments](https://www.indexdata.org/improvements-for-heavy-duty-engine-and-vehicle-fuel-efficiency-test-procedures-and-other-technical-amendments/)** — `2024-03-15` | `24 Pages`
 
 ### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
