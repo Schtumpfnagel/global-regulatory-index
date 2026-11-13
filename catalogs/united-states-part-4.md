@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,310` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,312` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 09:02 UTC`
+**Last Automated Sync:** `2026-11-13 09:56 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`318` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`319` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -63,7 +63,7 @@
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`49` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,310)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,312)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -625,6 +625,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-00208`]` **[Air Plan Approval; California; Mojave Desert Air Quality Management District; Replacing Outdated Requirements](https://www.indexdata.org/air-plan-approval-california-mojave-desert-air-quality-management-district-replacing-outdated-requirements/)** — `2026-01-08` | `6 Pages`
+- `[`2026-00201`]` **[Air Plan Approval; Kentucky; Emissions Inventory and Nonattainment New Source Review for the Henderson-Webster Sulfur Dioxide Nonattainment Area](https://www.indexdata.org/air-plan-approval-kentucky-emissions-inventory-and-nonattainment-new-source-review-for-the-henderson-webster-sulfur-dioxide-nonattainment-area/)** — `2026-01-08` | `4 Pages`
 - `[`2026-00194`]` **[Air Plan Approval; California; Mojave Desert Air Quality Management District; Definition of Terms](https://www.indexdata.org/air-plan-approval-california-mojave-desert-air-quality-management-district-definition-of-terms/)** — `2026-01-08` | `3 Pages`
 - `[`2026-00084`]` **[Hazardous and Solid Waste Management System: Disposal of Coal Combustion Residuals From Electric Utilities; Extension of an Alternative Closure Requirement Deadline; Extension of Comment Period](https://www.indexdata.org/hazardous-and-solid-waste-management-system-disposal-of-coal-combustion-residuals-from-electric-utilities-extension-of-an-alternative-closure-requirement-deadline-extension-of-comment-period/)** — `2026-01-07` | `2 Pages`
 - `[`2026-00021`]` **[National Primary Drinking Water Regulation for Perchlorate](https://www.indexdata.org/national-primary-drinking-water-regulation-for-perchlorate/)** — `2026-01-06` | `47 Pages`
@@ -1712,17 +1714,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2025-14826`]` **[Visas: Visa Bond Pilot Program](https://www.indexdata.org/visas-visa-bond-pilot-program/)** — `2025-08-05` | `9 Pages`
 - `[`2025-14784`]` **[Visas: Enhancing Vetting and Combatting Fraud in the Diversity Immigrant Visa Program](https://www.indexdata.org/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program-2/)** — `2025-08-05` | `9 Pages`
 
-### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
-
-- `[`2025-17359`]` **[Defense Federal Acquisition Regulation Supplement: Assessing Contractor Implementation of Cybersecurity Requirements (DFARS Case 2019-D041)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-assessing-contractor-implementation-of-cybersecurity-requirements-dfars-case-2019-d041/)** — `2025-09-10` | `18 Pages`
-- `[`2025-16208`]` **[Defense Federal Acquisition Regulation Supplement: Disclosure of DoD Funding in Technical Publications (DFARS Case 2024-D003)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-disclosure-of-dod-funding-in-technical-publications-dfars-case-2024-d003/)** — `2025-08-25` | `2 Pages`
-- `[`2025-16207`]` **[Defense Federal Acquisition Regulation Supplement: Limitation on Certain Institutes of Higher Education (DFARS Case 2024-D023)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-limitation-on-certain-institutes-of-higher-education-dfars-case-2024-d023/)** — `2025-08-25` | `2 Pages`
-- `[`2025-16206`]` **[Defense Federal Acquisition Regulation Supplement: Preventing Conflicts of Interest for Certain Consulting Services (DFARS Case 2024-D007)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-preventing-conflicts-of-interest-for-certain-consulting-services-dfars-case-2024-d007/)** — `2025-08-25` | `5 Pages`
-- `[`2025-16205`]` **[Defense Federal Acquisition Regulation Supplement: Inflation Adjustment of Acquisition-Related Thresholds (DFARS Case 2024-D002)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-inflation-adjustment-of-acquisition-related-thresholds-dfars-case-2024-d002/)** — `2025-08-25` | `5 Pages`
-- `[`2025-16204`]` **[Defense Federal Acquisition Regulation Supplement; Technical Amendments](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-technical-amendments/)** — `2025-08-25` | `4 Pages`
-- `[`2025-13521`]` **[Defense Federal Acquisition Regulation Supplement: Public Access to Results of Federally Funded Research (DFARS Case 2020-D028)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-public-access-to-results-of-federally-funded-research-dfars-case-2020-d028/)** — `2025-07-18` | `2 Pages`
-
 ### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 
@@ -1743,6 +1734,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/comptrolle
 - `[`2025-23547`]` **[Community Reinvestment Act: Simplified Strategic Plan Process for Community Banks](https://www.indexdata.org/community-reinvestment-act-simplified-strategic-plan-process-for-community-banks/)** — `2025-12-22` | `21 Pages`
 - `[`2025-20204`]` **[Community Bank Licensing Amendments](https://www.indexdata.org/community-bank-licensing-amendments/)** — `2025-11-18` | `7 Pages`
 - `[`2025-20202`]` **[Fair Housing Home Loan Data System](https://www.indexdata.org/fair-housing-home-loan-data-system/)** — `2025-11-18` | `5 Pages`
+
+### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
+
+- `[`2025-17359`]` **[Defense Federal Acquisition Regulation Supplement: Assessing Contractor Implementation of Cybersecurity Requirements (DFARS Case 2019-D041)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-assessing-contractor-implementation-of-cybersecurity-requirements-dfars-case-2019-d041/)** — `2025-09-10` | `18 Pages`
+- `[`2025-16208`]` **[Defense Federal Acquisition Regulation Supplement: Disclosure of DoD Funding in Technical Publications (DFARS Case 2024-D003)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-disclosure-of-dod-funding-in-technical-publications-dfars-case-2024-d003/)** — `2025-08-25` | `2 Pages`
+- `[`2025-16207`]` **[Defense Federal Acquisition Regulation Supplement: Limitation on Certain Institutes of Higher Education (DFARS Case 2024-D023)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-limitation-on-certain-institutes-of-higher-education-dfars-case-2024-d023/)** — `2025-08-25` | `2 Pages`
+- `[`2025-16206`]` **[Defense Federal Acquisition Regulation Supplement: Preventing Conflicts of Interest for Certain Consulting Services (DFARS Case 2024-D007)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-preventing-conflicts-of-interest-for-certain-consulting-services-dfars-case-2024-d007/)** — `2025-08-25` | `5 Pages`
+- `[`2025-16205`]` **[Defense Federal Acquisition Regulation Supplement: Inflation Adjustment of Acquisition-Related Thresholds (DFARS Case 2024-D002)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-inflation-adjustment-of-acquisition-related-thresholds-dfars-case-2024-d002/)** — `2025-08-25` | `5 Pages`
+- `[`2025-16204`]` **[Defense Federal Acquisition Regulation Supplement; Technical Amendments](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-technical-amendments/)** — `2025-08-25` | `4 Pages`
 
 ### [Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-procurement-policy-office/](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
@@ -1809,14 +1810,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2025-18807`]` **[Tribal Consultation for SBA's Office of Manufacturing and Trade and Other Small Business Programs and Services Offered by the Agency, With a Focus on SBA's Ongoing Manufacturing, Onshoring and Export Initiatives To Encourage Small Businesses Going Global](https://www.indexdata.org/tribal-consultation-for-sbas-office-of-manufacturing-and-trade-and-other-small-business-programs-and-services-offered-by-the-agency-with-a-focus-on-sbas-ongoing-manufacturing-onshoring-and-expor/)** — `2025-09-29` | `2 Pages`
 - `[`2025-16142`]` **[Small Business Size Standards: Monetary-Based Industry Size Standards](https://www.indexdata.org/small-business-size-standards-monetary-based-industry-size-standards/)** — `2025-08-22` | `110 Pages`
 - `[`2025-15704`]` **[Tribal Consultation for SBA's Office of Capital Access and Access to All Agency Financial Assistance, Contracting, Business Counseling and Technical Assistance Programs, Identifying Issues and Best Practices](https://www.indexdata.org/tribal-consultation-for-sbas-office-of-capital-access-and-access-to-all-agency-financial-assistance-contracting-business-counseling-and-technical-assistance-programs-identifying-issues-and-best-p/)** — `2025-08-18` | `2 Pages`
-
-### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
-
-- `[`2025-22875`]` **[Appraisals for Higher-Priced Mortgage Loans Exemption Threshold](https://www.indexdata.org/appraisals-for-higher-priced-mortgage-loans-exemption-threshold/)** — `2025-12-16` | `5 Pages`
-- `[`2025-20199`]` **[Rescission of OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/rescission-of-occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches-2/)** — `2025-11-18` | `4 Pages`
-- `[`2025-19711`]` **[Unsafe or Unsound Practices, Matters Requiring Attention](https://www.indexdata.org/unsafe-or-unsound-practices-matters-requiring-attention-2/)** — `2025-10-30` | `15 Pages`
-- `[`2025-13559`]` **[Community Reinvestment Act Regulations](https://www.indexdata.org/community-reinvestment-act-regulations-2/)** — `2025-07-18` | `54 Pages`
 
 ### [Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-housing-finance-agency/](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -1888,6 +1881,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-an
 - `[`2025-18879`]` **[Establishment of the Tryon Foothills Viticultural Area](https://www.indexdata.org/establishment-of-the-tryon-foothills-viticultural-area/)** — `2025-09-29` | `4 Pages`
 - `[`2025-18878`]` **[Tobacco Product Floor Stocks Tax; Removal of Obsolete Regulations](https://www.indexdata.org/tobacco-product-floor-stocks-tax-removal-of-obsolete-regulations/)** — `2025-09-29` | `2 Pages`
 - `[`2025-18281`]` **[Implementation of Refund Procedures for Craft Beverage Modernization Act Federal Excise Tax Benefits Applicable to Imported Alcohol](https://www.indexdata.org/implementation-of-refund-procedures-for-craft-beverage-modernization-act-federal-excise-tax-benefits-applicable-to-imported-alcohol/)** — `2025-09-22` | `10 Pages`
+
+### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+
+- `[`2025-22875`]` **[Appraisals for Higher-Priced Mortgage Loans Exemption Threshold](https://www.indexdata.org/appraisals-for-higher-priced-mortgage-loans-exemption-threshold/)** — `2025-12-16` | `5 Pages`
+- `[`2025-20199`]` **[Rescission of OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/rescission-of-occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches-2/)** — `2025-11-18` | `4 Pages`
+- `[`2025-19711`]` **[Unsafe or Unsound Practices, Matters Requiring Attention](https://www.indexdata.org/unsafe-or-unsound-practices-matters-requiring-attention-2/)** — `2025-10-30` | `15 Pages`
 
 ### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)

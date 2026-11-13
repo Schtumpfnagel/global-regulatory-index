@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,310` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,312` across `235` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 09:02 UTC`
+**Last Automated Sync:** `2026-11-13 09:56 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`318` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`319` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -63,7 +63,7 @@
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`49` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,310)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,312)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -339,6 +339,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr9614eh`]` **[H.R. 9614 (EH) - NRC Staff Pay Alignment Act](https://www.indexdata.org/h-r-9614-eh-nrc-staff-pay-alignment-act/)** — `2026-11-01` | `6 Pages`
 - `[`US-BILLS-119hr9613eh`]` **[H.R. 9613 (EH) - Nuclear Advisory Committee Reform Act](https://www.indexdata.org/h-r-9613-eh-nuclear-advisory-committee-reform-act/)** — `2026-11-01` | `8 Pages`
 - `[`US-BILLS-119hr9612eh`]` **[H.R. 9612 (EH) - American Enrichment Deployment Act](https://www.indexdata.org/h-r-9612-eh-american-enrichment-deployment-act/)** — `2026-11-01` | `4 Pages`
+- `[`US-BILLS-119hr8552enr`]` **[H.R. 8552 (ENR) - Veterans’ Compensation Cost-of-Living Adjustment Act of 2026](https://www.indexdata.org/h-r-8552-enr-veterans-compensation-cost-of-living-adjustment-act-of-2026/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr3978eh`]` **[H.R. 3978 (EH) - Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act](https://www.indexdata.org/h-r-3978-eh-nuclear-refuel-recycling-efficient-fuels-utilizing-expedited-licensing-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr11025ih`]` **[H.R. 11025 (IH) - Stand By NICU Babies and Families Act](https://www.indexdata.org/h-r-11025-ih-stand-by-nicu-babies-and-families-act/)** — `2026-11-01` | `9 Pages`
 - `[`US-BILLS-119hr10997ih`]` **[H.R. 10997 (IH) - Connecting Rural Stakeholders Act](https://www.indexdata.org/h-r-10997-ih-connecting-rural-stakeholders-act/)** — `2026-11-01` | `2 Pages`
@@ -800,7 +801,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-18044`]` **[Safety Zone; Outer Harbor, Buffalo, NY](https://www.indexdata.org/safety-zone-outer-harbor-buffalo-ny/)** — `2026-09-03` | `2 Pages`
 - `[`2026-17978`]` **[Safety Zone; Bay Bridge Paddle; Chesapeake Bay, Annapolis, MD](https://www.indexdata.org/safety-zone-bay-bridge-paddle-chesapeake-bay-annapolis-md/)** — `2026-09-02` | `3 Pages`
 - `[`2026-17971`]` **[Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI](https://www.indexdata.org/safety-zone-lake-st-clair-grosse-pointe-farms-mi-3/)** — `2026-09-02` | `2 Pages`
-- `[`2026-17940`]` **[Safety Zone; Maumee River, Toledo, OH](https://www.indexdata.org/safety-zone-maumee-river-toledo-oh/)** — `2026-09-02` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1009,6 +1009,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-BILLS-119s3923es`]` **[S. 3923 (ES) - Weather Research and Forecasting Innovation Reauthorization Act of 2026](https://www.indexdata.org/s-3923-es-weather-research-and-forecasting-innovation-reauthorization-act-of-2026/)** — `2026-11-01` | `380 Pages`
 - `[`US-BILLS-119s3720es`]` **[S. 3720 (ES) - Bay Area Ridge National Scenic Trail Feasibility Study Act](https://www.indexdata.org/s-3720-es-bay-area-ridge-national-scenic-trail-feasibility-study-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119s3589es`]` **[S. 3589 (ES) - Respond, Innovate, Succeed, and Empower Act](https://www.indexdata.org/s-3589-es-respond-innovate-succeed-and-empower-act/)** — `2026-11-01` | `10 Pages`
+- `[`US-BILLS-119s2887es`]` **[S. 2887 (ES) - Route 66 National Historic Trail Designation Act](https://www.indexdata.org/s-2887-es-route-66-national-historic-trail-designation-act/)** — `2026-11-01` | `10 Pages`
 - `[`US-BILLS-119s2434es`]` **[S. 2434 (ES) - An Act To amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heritage National Historical Park, and for other purposes.](https://www.indexdata.org/s-2434-es-an-act-to-amend-the-dayton-aviation-heritage-preservation-act-of-1992-to-adjust-the-boundary-of-the-dayton-aviation-heritage-national-historical-park-and-for-other-purposes/)** — `2026-11-01` | `4 Pages`
 - `[`US-CRPT-119srpt142`]` **[S. Rept. 119-142](https://www.indexdata.org/s-rept-119-142/)** — `2026-10-30` | `7 Pages`
 - `[`US-CHRG-119shrg64622`]` **[S. Hrg. 119-526 - PROTECTING COLLEGE SPORTS: SUPPORTING STUDENT ATHLETES, RESTORING FAIR COMPETITION, AND SAVING THE GAMES FANS LOVE](https://www.indexdata.org/s-hrg-119-526-protecting-college-sports-supporting-student-athletes-restoring-fair-competition-and-saving-the-games-fans-love/)** — `2026-10-30` | `117 Pages`
@@ -1548,21 +1549,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2026-19946`]` **[Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of Certain Health Information Technology Standards; Correction](https://www.indexdata.org/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and-the-long-term-care-hospital-prospective-payment-system-and-policy-changes-and-fiscal-year-fy-2027-2/)** — `2026-09-29` | `16 Pages`
 - `[`2026-19535`]` **[Request for Information; Medicare Part D Reasonable and Relevant Pharmacy Contracting Standards](https://www.indexdata.org/request-for-information-medicare-part-d-reasonable-and-relevant-pharmacy-contracting-standards/)** — `2026-09-24` | `5 Pages`
 
-### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-
-- `[`2026-22741`]` **[Amendments to the “Small Business” and “Small Organization” Definitions for Investment Companies and Investment Advisers for Purposes of the Regulatory Flexibility Act](https://www.indexdata.org/amendments-to-the-small-business-and-small-organization-definitions-for-investment-companies-and-investment-advisers-for-purposes-of-the-regulatory-flexibility-act/)** — `2026-11-06` | `23 Pages`
-- `[`2026-21657`]` **[List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act](https://www.indexdata.org/list-of-rules-to-be-reviewed-pursuant-to-the-regulatory-flexibility-act-3/)** — `2026-10-23` | `2 Pages`
-- `[`2026-21037`]` **[Investment Company Cross Trading](https://www.indexdata.org/investment-company-cross-trading/)** — `2026-10-15` | `56 Pages`
-- `[`2026-20474`]` **[Investment Adviser Performance-Based Compensation Modernization](https://www.indexdata.org/investment-adviser-performance-based-compensation-modernization/)** — `2026-10-06` | `70 Pages`
-- `[`2026-20466`]` **[Adviser and Regulated Fund Custody Rules; Crypto Custody Rules](https://www.indexdata.org/adviser-and-regulated-fund-custody-rules-crypto-custody-rules/)** — `2026-10-06` | `234 Pages`
-- `[`2026-20360`]` **[Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies](https://www.indexdata.org/interval-fund-modernization-expansion-of-multiple-share-class-to-registered-closed-end-management-investment-companies-and-business-development-companies/)** — `2026-10-05` | `83 Pages`
-- `[`2026-19260`]` **[Rescission of Rule 14a-8's Federal Regulation of Shareholder Proposals and Amendments to Rule 14a-4](https://www.indexdata.org/rescission-of-rule-14a-8s-federal-regulation-of-shareholder-proposals-and-amendments-to-rule-14a-4/)** — `2026-09-21` | `64 Pages`
-- `[`2026-19259`]` **[Proxy Solicitation Modernization](https://www.indexdata.org/proxy-solicitation-modernization/)** — `2026-09-21` | `50 Pages`
-- `[`2026-18424`]` **[Political Contributions by Certain Investment Advisers](https://www.indexdata.org/political-contributions-by-certain-investment-advisers/)** — `2026-09-10` | `29 Pages`
-- `[`2026-18190`]` **[Transfer Agent Rules](https://www.indexdata.org/transfer-agent-rules/)** — `2026-09-04` | `116 Pages`
-- `[`2026-17939`]` **[Exemption of Debt Obligations Issued by the European Union Under the Securities Exchange Act of 1934 for Purposes of Trading Futures Contracts on Those Securities](https://www.indexdata.org/exemption-of-debt-obligations-issued-by-the-european-union-under-the-securities-exchange-act-of-1934-for-purposes-of-trading-futures-contracts-on-those-securities/)** — `2026-09-02` | `22 Pages`
-
 ### [Food And Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
@@ -1590,6 +1576,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 - `[`2026-18943`]` **[Promoting Employee Accountability](https://www.indexdata.org/promoting-employee-accountability/)** — `2026-09-15` | `2 Pages`
 - `[`2026-18828`]` **[Shared Certificates and Pooled Hiring Actions](https://www.indexdata.org/shared-certificates-and-pooled-hiring-actions/)** — `2026-09-15` | `17 Pages`
 - `[`2026-18800`]` **[Reduction in Force; Correction](https://www.indexdata.org/reduction-in-force-correction/)** — `2026-09-15` | `2 Pages`
+
+### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
+
+- `[`2026-22741`]` **[Amendments to the “Small Business” and “Small Organization” Definitions for Investment Companies and Investment Advisers for Purposes of the Regulatory Flexibility Act](https://www.indexdata.org/amendments-to-the-small-business-and-small-organization-definitions-for-investment-companies-and-investment-advisers-for-purposes-of-the-regulatory-flexibility-act/)** — `2026-11-06` | `23 Pages`
+- `[`2026-21657`]` **[List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act](https://www.indexdata.org/list-of-rules-to-be-reviewed-pursuant-to-the-regulatory-flexibility-act-3/)** — `2026-10-23` | `2 Pages`
+- `[`2026-21037`]` **[Investment Company Cross Trading](https://www.indexdata.org/investment-company-cross-trading/)** — `2026-10-15` | `56 Pages`
+- `[`2026-20474`]` **[Investment Adviser Performance-Based Compensation Modernization](https://www.indexdata.org/investment-adviser-performance-based-compensation-modernization/)** — `2026-10-06` | `70 Pages`
+- `[`2026-20466`]` **[Adviser and Regulated Fund Custody Rules; Crypto Custody Rules](https://www.indexdata.org/adviser-and-regulated-fund-custody-rules-crypto-custody-rules/)** — `2026-10-06` | `234 Pages`
+- `[`2026-20360`]` **[Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies](https://www.indexdata.org/interval-fund-modernization-expansion-of-multiple-share-class-to-registered-closed-end-management-investment-companies-and-business-development-companies/)** — `2026-10-05` | `83 Pages`
+- `[`2026-19260`]` **[Rescission of Rule 14a-8's Federal Regulation of Shareholder Proposals and Amendments to Rule 14a-4](https://www.indexdata.org/rescission-of-rule-14a-8s-federal-regulation-of-shareholder-proposals-and-amendments-to-rule-14a-4/)** — `2026-09-21` | `64 Pages`
+- `[`2026-19259`]` **[Proxy Solicitation Modernization](https://www.indexdata.org/proxy-solicitation-modernization/)** — `2026-09-21` | `50 Pages`
+- `[`2026-18424`]` **[Political Contributions by Certain Investment Advisers](https://www.indexdata.org/political-contributions-by-certain-investment-advisers/)** — `2026-09-10` | `29 Pages`
+- `[`2026-18190`]` **[Transfer Agent Rules](https://www.indexdata.org/transfer-agent-rules/)** — `2026-09-04` | `116 Pages`
 
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)

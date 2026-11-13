@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,310` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,312` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 09:02 UTC`
+**Last Automated Sync:** `2026-11-13 09:56 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`318` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`319` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -63,7 +63,7 @@
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`49` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,310)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,312)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -628,6 +628,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-13188`]` **[Removal of Affirmative Defense Provisions From Specified New Source Performance Standards and National Emission Standards for Hazardous Air Pollutants](https://www.indexdata.org/removal-of-affirmative-defense-provisions-from-specified-new-source-performance-standards-and-national-emission-standards-for-hazardous-air-pollutants/)** — `2024-06-24` | `6 Pages`
 - `[`2024-13588`]` **[Poly(oxy-1,2-ethanediyl), Polymer With 1,2-ethandiol, 2-methyl-1,3-propanediol, hexanedioic acid, 1,4-benzenedicarboxylic acid, 1,3-benzenedicarboxylic acid, 1,1′-methylenebis&#91;4-isocyanatobenzene&#93; and 2-ethyl-2-(hydroxymethyl)-1,3-propanediol in Pesticide Formulations; Tolerance Exemption](https://www.indexdata.org/polyoxy-12-ethanediyl-polymer-with-12-ethandiol-2-methyl-13-propanediol-hexanedioic-acid-14-benzenedicarboxylic-acid-13-benzenedicarboxylic-acid-11%e2%80%b2-methylenebis4-isocyanatobenz/)** — `2024-06-21` | `4 Pages`
 - `[`2024-13447`]` **[Afidopyropen; Pesticide Tolerance for Emergency Exemption](https://www.indexdata.org/afidopyropen-pesticide-tolerance-for-emergency-exemption/)** — `2024-06-20` | `7 Pages`
 - `[`2024-13193`]` **[Clean Air Act Reclassification of the San Antonio, Dallas-Fort Worth, and Houston-Galveston-Brazoria Ozone Nonattainment Areas; TX](https://www.indexdata.org/clean-air-act-reclassification-of-the-san-antonio-dallas-fort-worth-and-houston-galveston-brazoria-ozone-nonattainment-areas-tx/)** — `2024-06-20` | `15 Pages`
@@ -943,7 +944,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-03463`]` **[Drawbridge Operation Regulation; Long Creek, Nassau County, NY](https://www.indexdata.org/drawbridge-operation-regulation-long-creek-nassau-county-ny/)** — `2024-02-23` | `2 Pages`
 - `[`2024-03462`]` **[Drawbridge Operation Regulation; Sloop Channel, Nassau County, NY](https://www.indexdata.org/drawbridge-operation-regulation-sloop-channel-nassau-county-ny-2/)** — `2024-02-23` | `3 Pages`
 - `[`2024-03590`]` **[Safety Zone, Installation Area for Offshore Wind Power Transmission Export Cables, Atlantic Ocean, Virginia Beach, Virginia](https://www.indexdata.org/safety-zone-installation-area-for-offshore-wind-power-transmission-export-cables-atlantic-ocean-virginia-beach-virginia/)** — `2024-02-22` | `3 Pages`
-- `[`2024-03075`]` **[Cybersecurity in the Marine Transportation System](https://www.indexdata.org/cybersecurity-in-the-marine-transportation-system-2/)** — `2024-02-22` | `111 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1722,6 +1722,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 - `[`2024-06956`]` **[Hazardous Materials: Harmonization With International Standards](https://www.indexdata.org/hazardous-materials-harmonization-with-international-standards-3/)** — `2024-04-10` | `57 Pages`
 - `[`2024-03290`]` **[Hazardous Materials: Adoption of Miscellaneous Petitions and Updating Regulatory Requirements](https://www.indexdata.org/hazardous-materials-adoption-of-miscellaneous-petitions-and-updating-regulatory-requirements/)** — `2024-03-04` | `33 Pages`
 
+### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
+
+- `[`2024-13329`]` **[Enforcement of Copyrights and the Digital Millennium Copyright Act](https://www.indexdata.org/enforcement-of-copyrights-and-the-digital-millennium-copyright-act/)** — `2024-06-24` | `16 Pages`
+- `[`2024-12396`]` **[9-11 Response and Biometric Entry-Exit Fee for H-1B and L-1 Visas](https://www.indexdata.org/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas-2/)** — `2024-06-06` | `10 Pages`
+- `[`2024-11177`]` **[Import Restrictions Imposed on Archaeological and Ethnological Material From Ecuador; Correction](https://www.indexdata.org/import-restrictions-imposed-on-archaeological-and-ethnological-material-from-ecuador-correction/)** — `2024-05-22` | `2 Pages`
+- `[`2024-07244`]` **[Imposition of Import Restrictions on Archaeological and Ethnological Material of Pakistan](https://www.indexdata.org/imposition-of-import-restrictions-on-archaeological-and-ethnological-material-of-pakistan/)** — `2024-04-10` | `10 Pages`
+- `[`2024-04713`]` **[Investigation of Claims of Evasion of Antidumping and Countervailing Duties](https://www.indexdata.org/investigation-of-claims-of-evasion-of-antidumping-and-countervailing-duties/)** — `2024-03-18` | `24 Pages`
+- `[`2024-05345`]` **[Extension of Import Restrictions Imposed on Archaeological and Ecclesiastical Ethnological Material From Honduras](https://www.indexdata.org/extension-of-import-restrictions-imposed-on-archaeological-and-ecclesiastical-ethnological-material-from-honduras/)** — `2024-03-12` | `2 Pages`
+- `[`2024-04711`]` **[Refund of Alcohol Excise Tax](https://www.indexdata.org/refund-of-alcohol-excise-tax/)** — `2024-03-06` | `2 Pages`
+
 ### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 
@@ -1761,16 +1772,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2024-08602`]` **[Exchange Visitor Program-General Provisions](https://www.indexdata.org/exchange-visitor-program-general-provisions/)** — `2024-04-23` | `5 Pages`
 - `[`2024-06199`]` **[International Traffic in Arms Regulations: Revision to U.S. Munitions List Category XI-High-Energy Storage Capacitors](https://www.indexdata.org/international-traffic-in-arms-regulations-revision-to-u-s-munitions-list-category-xi-high-energy-storage-capacitors/)** — `2024-03-25` | `3 Pages`
 - `[`2024-05695`]` **[International Traffic in Arms Regulations: Addition to List of Proscribed Countries](https://www.indexdata.org/international-traffic-in-arms-regulations-addition-to-list-of-proscribed-countries/)** — `2024-03-15` | `2 Pages`
-
-### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
-
-- `[`2024-12396`]` **[9-11 Response and Biometric Entry-Exit Fee for H-1B and L-1 Visas](https://www.indexdata.org/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas-2/)** — `2024-06-06` | `10 Pages`
-- `[`2024-11177`]` **[Import Restrictions Imposed on Archaeological and Ethnological Material From Ecuador; Correction](https://www.indexdata.org/import-restrictions-imposed-on-archaeological-and-ethnological-material-from-ecuador-correction/)** — `2024-05-22` | `2 Pages`
-- `[`2024-07244`]` **[Imposition of Import Restrictions on Archaeological and Ethnological Material of Pakistan](https://www.indexdata.org/imposition-of-import-restrictions-on-archaeological-and-ethnological-material-of-pakistan/)** — `2024-04-10` | `10 Pages`
-- `[`2024-04713`]` **[Investigation of Claims of Evasion of Antidumping and Countervailing Duties](https://www.indexdata.org/investigation-of-claims-of-evasion-of-antidumping-and-countervailing-duties/)** — `2024-03-18` | `24 Pages`
-- `[`2024-05345`]` **[Extension of Import Restrictions Imposed on Archaeological and Ecclesiastical Ethnological Material From Honduras](https://www.indexdata.org/extension-of-import-restrictions-imposed-on-archaeological-and-ecclesiastical-ethnological-material-from-honduras/)** — `2024-03-12` | `2 Pages`
-- `[`2024-04711`]` **[Refund of Alcohol Excise Tax](https://www.indexdata.org/refund-of-alcohol-excise-tax/)** — `2024-03-06` | `2 Pages`
 
 ### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
@@ -1855,13 +1856,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/social-sec
 - `[`2024-08150`]` **[Intermediate Improvement to the Disability Adjudication Process, Including How We Consider Past Work](https://www.indexdata.org/intermediate-improvement-to-the-disability-adjudication-process-including-how-we-consider-past-work/)** — `2024-04-18` | `16 Pages`
 - `[`2024-07675`]` **[Expansion of the Rental Subsidy Policy for Supplemental Security Income (SSI) Applicants and Recipients](https://www.indexdata.org/expansion-of-the-rental-subsidy-policy-for-supplemental-security-income-ssi-applicants-and-recipients/)** — `2024-04-11` | `8 Pages`
 - `[`2024-06464`]` **[Omitting Food From In-Kind Support and Maintenance Calculations](https://www.indexdata.org/omitting-food-from-in-kind-support-and-maintenance-calculations/)** — `2024-03-27` | `13 Pages`
-
-### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
-
-- `[`2024-06497`]` **[Community Reinvestment Act; Supplemental Rule](https://www.indexdata.org/community-reinvestment-act-supplemental-rule/)** — `2024-03-29` | `10 Pages`
-- `[`2024-05159`]` **[Temporary Exceptions to FIRREA Appraisal Requirements in Maui County as Affected by Hawaii Wildfires](https://www.indexdata.org/temporary-exceptions-to-firrea-appraisal-requirements-in-maui-county-as-affected-by-hawaii-wildfires/)** — `2024-03-12` | `2 Pages`
-- `[`2024-02990`]` **[Availability of Information Under the Freedom of Information Act](https://www.indexdata.org/availability-of-information-under-the-freedom-of-information-act/)** — `2024-02-22` | `5 Pages`
 
 ### [Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/equal-employment-opportunity-commission/](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
@@ -1971,6 +1965,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 
 - `[`2024-10162`]` **[Dairy Margin Coverage Production History Adjustment and Program Extension; Correction](https://www.indexdata.org/dairy-margin-coverage-production-history-adjustment-and-program-extension-correction/)** — `2024-05-09` | `2 Pages`
 - `[`2024-03991`]` **[Dairy Margin Coverage Production History Adjustment and Program Extension](https://www.indexdata.org/dairy-margin-coverage-production-history-adjustment-and-program-extension/)** — `2024-02-27` | `5 Pages`
+
+### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+
+- `[`2024-06497`]` **[Community Reinvestment Act; Supplemental Rule](https://www.indexdata.org/community-reinvestment-act-supplemental-rule/)** — `2024-03-29` | `10 Pages`
+- `[`2024-05159`]` **[Temporary Exceptions to FIRREA Appraisal Requirements in Maui County as Affected by Hawaii Wildfires](https://www.indexdata.org/temporary-exceptions-to-firrea-appraisal-requirements-in-maui-county-as-affected-by-hawaii-wildfires/)** — `2024-03-12` | `2 Pages`
 
 ### [Delaware River Basin Commission](https://www.indexdata.org/united-states/delaware-river-basin-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/delaware-river-basin-commission/](https://www.indexdata.org/united-states/delaware-river-basin-commission/) | [RSS Feed](https://www.indexdata.org/united-states/delaware-river-basin-commission/feed/)
