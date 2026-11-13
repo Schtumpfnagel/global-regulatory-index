@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/france/feed/](https://www.indexdata.org/france/feed/)  
 **Wikidata Sovereign Entity:** [`Q142`](https://www.wikidata.org/wiki/Q142)  
 **Governing Open-Government Framework:** *CRPA Art. L321-1 to L323-7 / Loi n° 2016-1321*  
-**Total Indexed Dossiers in France:** `439` across `14` issuing authorities  
-**Last Automated Sync:** `2026-11-13 18:12 UTC`
+**Total Indexed Dossiers in France:** `443` across `14` issuing authorities  
+**Last Automated Sync:** `2026-11-13 19:21 UTC`
 
 ---
 
 ## Issuing Authorities in France (14 Authorities)
 
-- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
+- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
 - **[Banque de France](https://www.indexdata.org/france/banque-de-france/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/france/banque-de-france/) | [RSS Feed](https://www.indexdata.org/france/banque-de-france/feed/)
 - **[National Institute of Statistics and Economic Studies (INSEE)](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/) | [RSS Feed](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/feed/)
 - **[Bretagne Développement Innovation (BDI)](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/) | [RSS Feed](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/feed/)
@@ -29,7 +29,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–439 of 439)
+## Indexed Statutory & Regulatory Dossiers (Records 1–443 of 443)
 
 ### [Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)
 Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
@@ -37,6 +37,10 @@ Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets
 - `[`FR-INFOFI-170233_20261113`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-32/)** — `2026-11-13` | `3 Pages`
 - `[`FR-INFOFI-170229_20261113`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-31/)** — `2026-11-13` | `2 Pages`
 - `[`FR-INFOFI-116992_20261113`]` **[Cellectis Reports Third Quarter 2026 Financial Results and Provides a Business Update — Quarterly financial reporting](https://www.indexdata.org/cellectis-reports-third-quarter-2026-financial-results-and-provides-a-business-update-quarterly-financial-reporting/)** — `2026-11-13` | `13 Pages`
+- `[`FR-INFOFI-113553_20261113`]` **[Klépierre: Disclosure of transactions in own shares from November 6 to 13, 2026 — Acquisition or disposal of the issuer's own shares](https://www.indexdata.org/klepierre-disclosure-of-transactions-in-own-shares-from-november-6-to-13-2026-acquisition-or-disposal-of-the-issuers-own-shares/)** — `2026-11-13` | `2 Pages`
+- `[`FR-INFOFI-113551_20261113`]` **[Hermès International : Shares and voting rights as of 31st October 2026 — Total number of voting rights and capital](https://www.indexdata.org/hermes-international-shares-and-voting-rights-as-of-31st-october-2026-total-number-of-voting-rights-and-capital/)** — `2026-11-13` | `2 Pages`
+- `[`FR-INFOFI-113546_20261113`]` **[Changes to Fnac Darty's governance following the takeover bid initiated by EP Group — News releases during takeover bids](https://www.indexdata.org/changes-to-fnac-dartys-governance-following-the-takeover-bid-initiated-by-ep-group-news-releases-during-takeover-bids/)** — `2026-11-13` | `3 Pages`
+- `[`FR-INFOFI-113524_20261113`]` **[RAMSAY GENERALE DE SANTE : COMBINED GENERAL MEETING OF DECEMBER 4, 2026 — Terms of availability of the preparatory documents for the GM](https://www.indexdata.org/ramsay-generale-de-sante-combined-general-meeting-of-december-4-2026-terms-of-availability-of-the-preparatory-documents-for-the-gm/)** — `2026-11-13` | `2 Pages`
 - `[`FR-INFOFI-113427_20261113`]` **[Eramet launches a c.€500 million share capital increase with preferential subscription rights — Inside Information](https://www.indexdata.org/eramet-launches-a-c-e500-million-share-capital-increase-with-preferential-subscription-rights-inside-information/)** — `2026-11-13` | `6 Pages`
 - `[`FR-INFOFI-113425_20261113`]` **[Fnac Darty: Notice to OCEANE bondholders issued on 23 March 2021 in relation to a Change of Control constituting a Put Event — News releases during takeover bids](https://www.indexdata.org/fnac-darty-notice-to-oceane-bondholders-issued-on-23-march-2021-in-relation-to-a-change-of-control-constituting-a-put-event-news-releases-during-takeover-bids/)** — `2026-11-13` | `4 Pages`
 - `[`FR-INFOFI-113379_20261113`]` **[EY-Numeum Top 250 French Software Publishers: Quadient Climbs Three Places, Ranks Third Among Horizontal Software Publishers — Inside Information](https://www.indexdata.org/ey-numeum-top-250-french-software-publishers-quadient-climbs-three-places-ranks-third-among-horizontal-software-publishers-inside-information/)** — `2026-11-13` | `2 Pages`
@@ -507,7 +511,7 @@ Canonical Authority Archive: [https://www.indexdata.org/france/french-national-c
 ### [Directorate of Legal and Administrative Information (Direction de l'information légale et administrative - DILA)](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/)
 Canonical Authority Archive: [https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/) | [RSS Feed](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/feed/)
 
-- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-177/)** — `2024-03-26` | `7 Pages`
+- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-178/)** — `2024-03-26` | `7 Pages`
 - `[`FR-DILA-ANN-api-lannuaire-administration-documentation_technique_api_annuaire_de_l_administration_pdf`]` **[api-lannuaire-administration — Documentation-technique-API-Annuaire-de-l-administration](https://www.indexdata.org/api-lannuaire-administration-documentation-technique-api-annuaire-de-l-administration/)** — `2023-12-11` | `9 Pages`
 
 ### [National Commission on Informatics and Liberty (Commission nationale de l'informatique et des libertés - CNIL)](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,351` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,358` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 18:12 UTC`
+**Last Automated Sync:** `2026-11-13 19:21 UTC`
 
 ---
 
@@ -79,8 +79,9 @@
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Commerce Department](https://www.indexdata.org/united-states/commerce-department/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
@@ -89,7 +90,6 @@
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -253,11 +253,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,351)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,358)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-24758`]` **[Airworthiness Directives; Diamond Aircraft Industries Inc. (Type Certificate Previously Held by Diamond Aircraft Industries GmbH) Airplanes](https://www.indexdata.org/airworthiness-directives-diamond-aircraft-industries-inc-type-certificate-previously-held-by-diamond-aircraft-industries-gmbh-airplanes/)** — `2024-10-25` | `4 Pages`
+- `[`2024-24756`]` **[Airworthiness Directives; Various Helicopters](https://www.indexdata.org/airworthiness-directives-various-helicopters-10/)** — `2024-10-25` | `8 Pages`
 - `[`2024-24592`]` **[Amendment of Restricted Area R-6611A, R-6611B, R-6613A, and R-6613B; Dahlgren Complex, VA](https://www.indexdata.org/amendment-of-restricted-area-r-6611a-r-6611b-r-6613a-and-r-6613b-dahlgren-complex-va/)** — `2024-10-24` | `2 Pages`
 - `[`2024-24591`]` **[Revocation of Jet Route J-179 and Amendment of United States Area Navigation Route Q-10 in the Vicinity of Emmonak, AK](https://www.indexdata.org/revocation-of-jet-route-j-179-and-amendment-of-united-states-area-navigation-route-q-10-in-the-vicinity-of-emmonak-ak/)** — `2024-10-24` | `2 Pages`
 - `[`2024-24590`]` **[Amendment of United States Area Navigation Routes Q-1 and Q-902, Very High Frequency Omnidirectional Range Federal Airway V-495, and Jet Route J-502. Also, the Revocation of Jet Route J-589 and the Establishment of United States Area Navigation Route T-487 and Canadian Area Navigation Route T-895 in Northwestern United States](https://www.indexdata.org/amendment-of-united-states-area-navigation-routes-q-1-and-q-902-very-high-frequency-omnidirectional-range-federal-airway-v-495-and-jet-route-j-502-also-the-revocation-of-jet-route-j-589-and-the-es-2/)** — `2024-10-24` | `3 Pages`
@@ -575,9 +577,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-14125`]` **[Amendment of Very High Frequency Omnidirectional Range Federal Airway V-4 in the Vicinity of Burley, ID](https://www.indexdata.org/amendment-of-very-high-frequency-omnidirectional-range-federal-airway-v-4-in-the-vicinity-of-burley-id/)** — `2024-07-01` | `2 Pages`
 - `[`2024-14100`]` **[Airworthiness Directives; Lycoming Engines](https://www.indexdata.org/airworthiness-directives-lycoming-engines-5/)** — `2024-06-28` | `3 Pages`
 - `[`2024-14072`]` **[Airworthiness Directives; Lindstrand Balloons Ltd. Hot Air Balloons](https://www.indexdata.org/airworthiness-directives-lindstrand-balloons-ltd-hot-air-balloons/)** — `2024-06-27` | `3 Pages`
-- `[`2024-11610`]` **[Airworthiness Directives; Robinson Helicopter Company Helicopters](https://www.indexdata.org/airworthiness-directives-robinson-helicopter-company-helicopters-6/)** — `2024-06-27` | `3 Pages`
-- `[`2024-13994`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-213/)** — `2024-06-26` | `4 Pages`
-- `[`2024-13943`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-214/)** — `2024-06-26` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -804,11 +803,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-14119`]` **[Air Plan Approval; Iowa; Linn County Ordinances](https://www.indexdata.org/air-plan-approval-iowa-linn-county-ordinances/)** — `2024-07-01` | `3 Pages`
 - `[`2024-13972`]` **[Air Plan Approval; Pennsylvania; Oil and Natural Gas Control Measures for 2008 and 2015 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-plan-approval-pennsylvania-oil-and-natural-gas-control-measures-for-2008-and-2015-ozone-national-ambient-air-quality-standards-2/)** — `2024-06-28` | `5 Pages`
 - `[`2024-13896`]` **[Tennessee; National Emission Standards for Hazardous Air Pollutants; National Emission Standards for Hazardous Air Pollutants for Source Categories; Supplemental Delegations of Authority](https://www.indexdata.org/tennessee-national-emission-standards-for-hazardous-air-pollutants-national-emission-standards-for-hazardous-air-pollutants-for-source-categories-supplemental-delegations-of-authority/)** — `2024-06-27` | `2 Pages`
-- `[`2024-14001`]` **[Spiromesifen; Pesticide Tolerances](https://www.indexdata.org/spiromesifen-pesticide-tolerances/)** — `2024-06-26` | `4 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-24757`]` **[Safety Zones; Houston Ship Channel and Morgan's Point, TX](https://www.indexdata.org/safety-zones-houston-ship-channel-and-morgans-point-tx/)** — `2024-10-25` | `3 Pages`
+- `[`2024-24711`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Jupiter, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-jupiter-fl/)** — `2024-10-25` | `3 Pages`
 - `[`2024-24393`]` **[Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0512, Offshore New York and New Jersey, Atlantic Ocean](https://www.indexdata.org/safety-zone-empire-wind-1-wind-farm-project-area-outer-continental-shelf-lease-ocs-a-0512-offshore-new-york-and-new-jersey-atlantic-ocean-2/)** — `2024-10-22` | `7 Pages`
 - `[`2024-24283`]` **[Safety Zone; Gallagher Station, Ohio River, New Albany, IN](https://www.indexdata.org/safety-zone-gallagher-station-ohio-river-new-albany-in/)** — `2024-10-18` | `3 Pages`
 - `[`2024-24246`]` **[Safety Zone; NAS Jax Air Show; St. John's River, Jacksonville, FL](https://www.indexdata.org/safety-zone-nas-jax-air-show-st-johns-river-jacksonville-fl/)** — `2024-10-18` | `3 Pages`
@@ -1052,7 +1052,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-14063`]` **[Fisheries Off West Coast States; West Coast Salmon Fisheries; 2024 Specifications and Management Measures; Correction](https://www.indexdata.org/fisheries-off-west-coast-states-west-coast-salmon-fisheries-2024-specifications-and-management-measures-correction/)** — `2024-06-27` | `2 Pages`
 - `[`2024-13912`]` **[Florida Keys National Marine Sanctuary: Establishment of Temporary Special Use Area for Coral Nursery](https://www.indexdata.org/florida-keys-national-marine-sanctuary-establishment-of-temporary-special-use-area-for-coral-nursery-2/)** — `2024-06-27` | `5 Pages`
 - `[`2024-13770`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the SouthCoast Wind Project Offshore Massachusetts](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-southcoast-wind-project-offshore-massachusetts/)** — `2024-06-27` | `113 Pages`
-- `[`2024-13985`]` **[Pacific Halibut Fisheries of the West Coast; 2024 Catch Sharing Plan; Inseason Action](https://www.indexdata.org/pacific-halibut-fisheries-of-the-west-coast-2024-catch-sharing-plan-inseason-action-3/)** — `2024-06-26` | `3 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1518,6 +1517,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`2024-16281`]` **[Federal Acquisition Regulation: Reverse Auction Guidance](https://www.indexdata.org/federal-acquisition-regulation-reverse-auction-guidance/)** — `2024-07-30` | `7 Pages`
 - `[`2024-15565`]` **[Federal Acquisition Regulation: Combating Trafficking in Persons-Definition and Agency Responsibilities](https://www.indexdata.org/federal-acquisition-regulation-combating-trafficking-in-persons-definition-and-agency-responsibilities/)** — `2024-07-18` | `4 Pages`
 
+### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
+
+- `[`2024-24716`]` **[Small Business Contracting: Increasing Small Business Participation on Multiple Award Contracts](https://www.indexdata.org/small-business-contracting-increasing-small-business-participation-on-multiple-award-contracts/)** — `2024-10-25` | `6 Pages`
+- `[`2024-24753`]` **[ALP Express Pilot to Permanent Status](https://www.indexdata.org/alp-express-pilot-to-permanent-status-2/)** — `2024-10-24` | `6 Pages`
+- `[`2024-22040`]` **[504 Debt Refinancing](https://www.indexdata.org/504-debt-refinancing/)** — `2024-10-01` | `8 Pages`
+- `[`2024-21362`]` **[Clarification to HUBZone Program Updates and Clarifications and Potential Reforms](https://www.indexdata.org/clarification-to-hubzone-program-updates-and-clarifications-and-potential-reforms/)** — `2024-09-19` | `2 Pages`
+- `[`2024-20228`]` **[Small Business Size Standards: Revised Size Standards Methodology](https://www.indexdata.org/small-business-size-standards-revised-size-standards-methodology-2/)** — `2024-09-12` | `23 Pages`
+- `[`2024-19859`]` **[Tribal Consultation for HUBZone Program Updates and Clarifications and Potential Reforms](https://www.indexdata.org/tribal-consultation-for-hubzone-program-updates-and-clarifications-and-potential-reforms/)** — `2024-09-06` | `3 Pages`
+- `[`2024-18325`]` **[HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs](https://www.indexdata.org/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs-2/)** — `2024-08-23` | `46 Pages`
+- `[`2024-18083`]` **[Business Loan Program Temporary Changes; Paycheck Protection Program-Extension of Lender Records Retention Requirements](https://www.indexdata.org/business-loan-program-temporary-changes-paycheck-protection-program-extension-of-lender-records-retention-requirements/)** — `2024-08-23` | `5 Pages`
+- `[`2024-16463`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-3/)** — `2024-08-16` | `3 Pages`
+- `[`2024-17644`]` **[Small Business Lending Company Application Process](https://www.indexdata.org/small-business-lending-company-application-process/)** — `2024-08-09` | `6 Pages`
+- `[`2024-16207`]` **[Disaster Assistance Loan Program Changes to Unsecured Loan Amounts and Credit Elsewhere Criteria](https://www.indexdata.org/disaster-assistance-loan-program-changes-to-unsecured-loan-amounts-and-credit-elsewhere-criteria/)** — `2024-07-24` | `6 Pages`
+- `[`2024-16011`]` **[Tribal Consultation for HUBZone Program Updates and Clarifications and Potential Reforms Under Executive Order 14112](https://www.indexdata.org/tribal-consultation-for-hubzone-program-updates-and-clarifications-and-potential-reforms-under-executive-order-14112/)** — `2024-07-22` | `3 Pages`
+- `[`2024-15313`]` **[7(a) Working Capital Pilot Program](https://www.indexdata.org/7a-working-capital-pilot-program/)** — `2024-07-15` | `3 Pages`
+
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
 
@@ -1566,22 +1582,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2024-13956`]` **[Federal Motor Vehicle Safety Standards; Rear Impact Guards; Rear Impact Protection; Denial of Petition for Rulemaking](https://www.indexdata.org/federal-motor-vehicle-safety-standards-rear-impact-guards-rear-impact-protection-denial-of-petition-for-rulemaking/)** — `2024-07-15` | `3 Pages`
 - `[`2024-14546`]` **[Anthropomorphic Test Devices; THOR 50th Percentile Adult Male Test Dummy; Incorporation by Reference](https://www.indexdata.org/anthropomorphic-test-devices-thor-50th-percentile-adult-male-test-dummy-incorporation-by-reference/)** — `2024-07-09` | `3 Pages`
 - `[`2024-13957`]` **[Federal Motor Vehicle Safety Standards; Rear Impact Guards; Rear Impact Protection](https://www.indexdata.org/federal-motor-vehicle-safety-standards-rear-impact-guards-rear-impact-protection/)** — `2024-06-27` | `3 Pages`
-
-### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
-
-- `[`2024-24753`]` **[ALP Express Pilot to Permanent Status](https://www.indexdata.org/alp-express-pilot-to-permanent-status-2/)** — `2024-10-24` | `6 Pages`
-- `[`2024-22040`]` **[504 Debt Refinancing](https://www.indexdata.org/504-debt-refinancing/)** — `2024-10-01` | `8 Pages`
-- `[`2024-21362`]` **[Clarification to HUBZone Program Updates and Clarifications and Potential Reforms](https://www.indexdata.org/clarification-to-hubzone-program-updates-and-clarifications-and-potential-reforms/)** — `2024-09-19` | `2 Pages`
-- `[`2024-20228`]` **[Small Business Size Standards: Revised Size Standards Methodology](https://www.indexdata.org/small-business-size-standards-revised-size-standards-methodology-2/)** — `2024-09-12` | `23 Pages`
-- `[`2024-19859`]` **[Tribal Consultation for HUBZone Program Updates and Clarifications and Potential Reforms](https://www.indexdata.org/tribal-consultation-for-hubzone-program-updates-and-clarifications-and-potential-reforms/)** — `2024-09-06` | `3 Pages`
-- `[`2024-18325`]` **[HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs](https://www.indexdata.org/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs-2/)** — `2024-08-23` | `46 Pages`
-- `[`2024-18083`]` **[Business Loan Program Temporary Changes; Paycheck Protection Program-Extension of Lender Records Retention Requirements](https://www.indexdata.org/business-loan-program-temporary-changes-paycheck-protection-program-extension-of-lender-records-retention-requirements/)** — `2024-08-23` | `5 Pages`
-- `[`2024-16463`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-3/)** — `2024-08-16` | `3 Pages`
-- `[`2024-17644`]` **[Small Business Lending Company Application Process](https://www.indexdata.org/small-business-lending-company-application-process/)** — `2024-08-09` | `6 Pages`
-- `[`2024-16207`]` **[Disaster Assistance Loan Program Changes to Unsecured Loan Amounts and Credit Elsewhere Criteria](https://www.indexdata.org/disaster-assistance-loan-program-changes-to-unsecured-loan-amounts-and-credit-elsewhere-criteria/)** — `2024-07-24` | `6 Pages`
-- `[`2024-16011`]` **[Tribal Consultation for HUBZone Program Updates and Clarifications and Potential Reforms Under Executive Order 14112](https://www.indexdata.org/tribal-consultation-for-hubzone-program-updates-and-clarifications-and-potential-reforms-under-executive-order-14112/)** — `2024-07-22` | `3 Pages`
-- `[`2024-15313`]` **[7(a) Working Capital Pilot Program](https://www.indexdata.org/7a-working-capital-pilot-program/)** — `2024-07-15` | `3 Pages`
 
 ### [State Department](https://www.indexdata.org/united-states/state-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
@@ -1783,6 +1783,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-an
 - `[`2024-19578`]` **[Establishment of the San Luis Rey Viticultural Area](https://www.indexdata.org/establishment-of-the-san-luis-rey-viticultural-area/)** — `2024-08-30` | `4 Pages`
 - `[`2024-19415`]` **[Proposed Establishment of the Rancho Guejito Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-rancho-guejito-viticultural-area/)** — `2024-08-29` | `8 Pages`
 
+### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
+
+- `[`2024-24742`]` **[Updates to the Off-Farm Labor Housing (Off-FLH), Loan and Grant Rates and Terms; Clarification of Grant Agreement Terms](https://www.indexdata.org/updates-to-the-off-farm-labor-housing-off-flh-loan-and-grant-rates-and-terms-clarification-of-grant-agreement-terms/)** — `2024-10-25` | `3 Pages`
+- `[`2024-23506`]` **[Single Family Housing Section 502 Direct and Guaranteed Manufactured Housing Pilots](https://www.indexdata.org/single-family-housing-section-502-direct-and-guaranteed-manufactured-housing-pilots/)** — `2024-10-11` | `3 Pages`
+- `[`2024-21404`]` **[Single Family Housing Guaranteed Loan Program](https://www.indexdata.org/single-family-housing-guaranteed-loan-program-2/)** — `2024-09-19` | `5 Pages`
+- `[`2024-18291`]` **[Single Family Housing Guaranteed Loan Program Changes Related to Special Servicing Options](https://www.indexdata.org/single-family-housing-guaranteed-loan-program-changes-related-to-special-servicing-options/)** — `2024-08-15` | `6 Pages`
+- `[`2024-16149`]` **[Single Family Housing Guaranteed Housing Payment Supplement Account Demonstration Program](https://www.indexdata.org/single-family-housing-guaranteed-housing-payment-supplement-account-demonstration-program/)** — `2024-07-24` | `3 Pages`
+
 ### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 
@@ -1847,14 +1856,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 - `[`2024-18138`]` **[Pipeline Safety: Cost Recovery for Siting Reviews for LNG Facilities](https://www.indexdata.org/pipeline-safety-cost-recovery-for-siting-reviews-for-lng-facilities/)** — `2024-08-19` | `17 Pages`
 - `[`2024-14116`]` **[Pipeline Safety: Requirement of Valve Installation and Minimum Rupture Detection Standards: Response to Petition for Reconsideration; Additional Technical Corrections](https://www.indexdata.org/pipeline-safety-requirement-of-valve-installation-and-minimum-rupture-detection-standards-response-to-petition-for-reconsideration-additional-technical-corrections/)** — `2024-06-28` | `4 Pages`
 - `[`2024-14115`]` **[Pipeline Safety: Periodic Updates of Regulatory References to Technical Standards and Miscellaneous Amendments; Technical Correction](https://www.indexdata.org/pipeline-safety-periodic-updates-of-regulatory-references-to-technical-standards-and-miscellaneous-amendments-technical-correction/)** — `2024-06-28` | `3 Pages`
-
-### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
-
-- `[`2024-23506`]` **[Single Family Housing Section 502 Direct and Guaranteed Manufactured Housing Pilots](https://www.indexdata.org/single-family-housing-section-502-direct-and-guaranteed-manufactured-housing-pilots/)** — `2024-10-11` | `3 Pages`
-- `[`2024-21404`]` **[Single Family Housing Guaranteed Loan Program](https://www.indexdata.org/single-family-housing-guaranteed-loan-program-2/)** — `2024-09-19` | `5 Pages`
-- `[`2024-18291`]` **[Single Family Housing Guaranteed Loan Program Changes Related to Special Servicing Options](https://www.indexdata.org/single-family-housing-guaranteed-loan-program-changes-related-to-special-servicing-options/)** — `2024-08-15` | `6 Pages`
-- `[`2024-16149`]` **[Single Family Housing Guaranteed Housing Payment Supplement Account Demonstration Program](https://www.indexdata.org/single-family-housing-guaranteed-housing-payment-supplement-account-demonstration-program/)** — `2024-07-24` | `3 Pages`
 
 ### [Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/corporation-for-national-and-community-service/](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
@@ -1999,6 +2000,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-util
 - `[`2024-23512`]` **[Technical Assistance Grants](https://www.indexdata.org/technical-assistance-grants/)** — `2024-10-11` | `3 Pages`
 - `[`2024-21920`]` **[OneRD Guarantee Loan](https://www.indexdata.org/onerd-guarantee-loan/)** — `2024-09-30` | `32 Pages`
 
+### [Safety and Environmental Enforcement Bureau](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/feed/)
+
+- `[`2024-24783`]` **[Oil and Gas and Sulfur Operations in the Outer Continental Shelf-High Pressure High Temperature Updates; Correction](https://www.indexdata.org/oil-and-gas-and-sulfur-operations-in-the-outer-continental-shelf-high-pressure-high-temperature-updates-correction/)** — `2024-10-25` | `2 Pages`
+- `[`2024-18598`]` **[Oil and Gas and Sulfur Operations in the Outer Continental Shelf-High Pressure High Temperature Updates](https://www.indexdata.org/oil-and-gas-and-sulfur-operations-in-the-outer-continental-shelf-high-pressure-high-temperature-updates/)** — `2024-08-30` | `46 Pages`
+
 ### [Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/social-security-administration/](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)
 
@@ -2021,11 +2028,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/treasury-d
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agency-for-international-development/](https://www.indexdata.org/united-states/agency-for-international-development/) | [RSS Feed](https://www.indexdata.org/united-states/agency-for-international-development/feed/)
 
 - `[`2024-16945`]` **[USAID Assistance Regulation: Plain Language and Conforming Revisions](https://www.indexdata.org/usaid-assistance-regulation-plain-language-and-conforming-revisions/)** — `2024-08-02` | `7 Pages`
-
-### [Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
-
-- `[`2024-13699`]` **[Bipartisan Safer Communities Act Conforming Regulations; Correction](https://www.indexdata.org/bipartisan-safer-communities-act-conforming-regulations-correction/)** — `2024-06-27` | `2 Pages`
 
 ### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
@@ -2086,11 +2088,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-credi
 Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-service-agency/](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 
 - `[`2024-16828`]` **[Enhancing Program Access and Delivery for Farm Loans](https://www.indexdata.org/enhancing-program-access-and-delivery-for-farm-loans/)** — `2024-08-08` | `44 Pages`
-
-### [Federal Crop Insurance Corporation](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-crop-insurance-corporation/](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/feed/)
-
-- `[`2024-13198`]` **[Expanding Options for Specialty and Organic Growers (EOSOG)](https://www.indexdata.org/expanding-options-for-specialty-and-organic-growers-eosog/)** — `2024-06-27` | `26 Pages`
 
 ### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
@@ -2166,11 +2163,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/regulatory
 Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-business-cooperative-service/](https://www.indexdata.org/united-states/rural-business-cooperative-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-business-cooperative-service/feed/)
 
 - `[`2024-19804`]` **[Modernizing Grant Program Regulation](https://www.indexdata.org/modernizing-grant-program-regulation-2/)** — `2024-09-16` | `35 Pages`
-
-### [Safety and Environmental Enforcement Bureau](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/feed/)
-
-- `[`2024-18598`]` **[Oil and Gas and Sulfur Operations in the Outer Continental Shelf-High Pressure High Temperature Updates](https://www.indexdata.org/oil-and-gas-and-sulfur-operations-in-the-outer-continental-shelf-high-pressure-high-temperature-updates/)** — `2024-08-30` | `46 Pages`
 
 ### [Selective Service System](https://www.indexdata.org/united-states/selective-service-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/selective-service-system/](https://www.indexdata.org/united-states/selective-service-system/) | [RSS Feed](https://www.indexdata.org/united-states/selective-service-system/feed/)

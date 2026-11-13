@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,351` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,358` across `237` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 18:12 UTC`
+**Last Automated Sync:** `2026-11-13 19:21 UTC`
 
 ---
 
@@ -79,8 +79,9 @@
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Commerce Department](https://www.indexdata.org/united-states/commerce-department/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
@@ -89,7 +90,6 @@
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,351)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,358)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -794,7 +794,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-18552`]` **[Wisconsin: Approval of State Coal Combustion Residuals Permit Program](https://www.indexdata.org/wisconsin-approval-of-state-coal-combustion-residuals-permit-program/)** — `2026-09-11` | `13 Pages`
 - `[`2026-18334`]` **[Air Plan Approvals; Indiana; Prong 4 (Visibility) for the 2015 Ozone National Ambient Air Quality Standard](https://www.indexdata.org/air-plan-approvals-indiana-prong-4-visibility-for-the-2015-ozone-national-ambient-air-quality-standard/)** — `2026-09-09` | `4 Pages`
 - `[`2026-18324`]` **[Air Plan Approval; New York; Interstate Transport Requirements for the 2010 SO2 NAAQS](https://www.indexdata.org/air-plan-approval-new-york-interstate-transport-requirements-for-the-2010-so2-naaqs/)** — `2026-09-09` | `3 Pages`
-- `[`2026-18290`]` **[Air Plan Approval; Reconsideration and Repeal of Air Plan Partial Approval and Partial Disapproval of North Dakota's Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-approval-reconsideration-and-repeal-of-air-plan-partial-approval-and-partial-disapproval-of-north-dakotas-regional-haze-state-implementation-plan-for-the-second-implementation-period/)** — `2026-09-09` | `11 Pages`
 
 ### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
@@ -857,66 +856,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-PLAW-106`]` **[Stop Secret Spending Act of 2025](https://www.indexdata.org/stop-secret-spending-act-of-2025/)** — `2026-09-11` | `5 Pages`
 - `[`US-PLAW-105`]` **[An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-09-11` | `2 Pages`
 
-### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
-
-- `[`2026-23148`]` **[Safety Zone; Massachusetts Bay, Boston, MA](https://www.indexdata.org/safety-zone-massachusetts-bay-boston-ma-2/)** — `2026-11-13` | `4 Pages`
-- `[`2026-22734`]` **[Drawbridge Operation Regulation; Harlem River, Between the Boroughs of Manhattan and the Bronx, New York City, New York](https://www.indexdata.org/drawbridge-operation-regulation-harlem-river-between-the-boroughs-of-manhattan-and-the-bronx-new-york-city-new-york/)** — `2026-11-06` | `3 Pages`
-- `[`2026-22677`]` **[Drawbridge Operation Regulation; Wishkah River, Aberdeen, WA](https://www.indexdata.org/drawbridge-operation-regulation-wishkah-river-aberdeen-wa-3/)** — `2026-11-06` | `3 Pages`
-- `[`2026-22269`]` **[Safety Zone; M/T KALAHARI, Gulf of America, Pascagoula, MS](https://www.indexdata.org/safety-zone-m-t-kalahari-gulf-of-america-pascagoula-ms/)** — `2026-10-30` | `3 Pages`
-- `[`2026-22249`]` **[Safety Zone; S.S. UNITED STATES Dead Ship Tow, Sector Mobile Captain of the Port Zone, Mobile, AL](https://www.indexdata.org/safety-zone-s-s-united-states-dead-ship-tow-sector-mobile-captain-of-the-port-zone-mobile-al/)** — `2026-10-30` | `2 Pages`
-- `[`2026-22078`]` **[Safety Zone; Firework Display; Cumberland River, Hendersonville, TN](https://www.indexdata.org/safety-zone-firework-display-cumberland-river-hendersonville-tn/)** — `2026-10-29` | `3 Pages`
-- `[`2026-21949`]` **[Special Local Regulation; Port Miami Main Shipping Channel, Miami FL](https://www.indexdata.org/special-local-regulation-port-miami-main-shipping-channel-miami-fl/)** — `2026-10-28` | `3 Pages`
-- `[`2026-21918`]` **[Safety Zone; Southern California Annual Firework Events for the Los Angeles-Long Beach Captain of the Port Zone](https://www.indexdata.org/safety-zone-southern-california-annual-firework-events-for-the-los-angeles-long-beach-captain-of-the-port-zone/)** — `2026-10-27` | `5 Pages`
-- `[`2026-21636`]` **[Safety Zone; Brownsville Ship Channel, Brownsville, TX](https://www.indexdata.org/safety-zone-brownsville-ship-channel-brownsville-tx/)** — `2026-10-22` | `2 Pages`
-- `[`2026-21608`]` **[Drawbridge Operation Regulation; Manitowoc River, Manitowoc, WI](https://www.indexdata.org/drawbridge-operation-regulation-manitowoc-river-manitowoc-wi-2/)** — `2026-10-22` | `2 Pages`
-- `[`2026-21593`]` **[RIN 1625-AA00](https://www.indexdata.org/rin-1625-aa00/)** — `2026-10-22` | `3 Pages`
-- `[`2026-21498`]` **[Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI](https://www.indexdata.org/safety-zone-t-v-denise-foss-o-n-1254223-honolulu-hi-3/)** — `2026-10-21` | `2 Pages`
-- `[`2026-21478`]` **[Security Zones; Protection of Military Cargo, Captain of the Port Zone Puget Sound, WA](https://www.indexdata.org/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa/)** — `2026-10-21` | `2 Pages`
-- `[`2026-21305`]` **[Safety Zone; FRL Inaugural Invitational eFoil Exhibition Race, Miami Marine Stadium Basin, Miami, FL](https://www.indexdata.org/safety-zone-frl-inaugural-invitational-efoil-exhibition-race-miami-marine-stadium-basin-miami-fl/)** — `2026-10-19` | `2 Pages`
-- `[`2026-21302`]` **[Special Local Regulation; Ponce Harbor, Ponce, PR](https://www.indexdata.org/special-local-regulation-ponce-harbor-ponce-pr/)** — `2026-10-19` | `2 Pages`
-- `[`2026-21240`]` **[Safety Zone; Cumberland River, Hendersonville, TN](https://www.indexdata.org/safety-zone-cumberland-river-hendersonville-tn/)** — `2026-10-16` | `2 Pages`
-- `[`2026-21162`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az/)** — `2026-10-16` | `2 Pages`
-- `[`2026-21161`]` **[Safety Zone; Atlantic Ocean, Culebra, Puerto Rico](https://www.indexdata.org/safety-zone-atlantic-ocean-culebra-puerto-rico/)** — `2026-10-16` | `2 Pages`
-- `[`2026-21157`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az-2/)** — `2026-10-16` | `3 Pages`
-- `[`2026-21053`]` **[Safety Zone; Lake Michigan, Chicago, IL](https://www.indexdata.org/safety-zone-lake-michigan-chicago-il/)** — `2026-10-15` | `2 Pages`
-- `[`2026-20902`]` **[Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL](https://www.indexdata.org/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary-and-ship-canal-chicago-river-and-calumet-saganashkee-channel-chicago-il/)** — `2026-10-13` | `2 Pages`
-- `[`2026-20632`]` **[Special Local Regulations; San Francisco Bay Navy Fleet Week Parade of Ships and Blue Angels Demonstration, San Francisco, CA](https://www.indexdata.org/special-local-regulations-san-francisco-bay-navy-fleet-week-parade-of-ships-and-blue-angels-demonstration-san-francisco-ca/)** — `2026-10-08` | `2 Pages`
-- `[`2026-20545`]` **[Drawbridge Operation Regulation; Bay St. Louis, Bay St. Louis, MS; Back Bay of Biloxi, Biloxi, MS; Pascagoula River, Pascagoula, MS; Three Mile Creek, Mobile, AL; Chickasaw Creek, Saraland, AL.](https://www.indexdata.org/drawbridge-operation-regulation-bay-st-louis-bay-st-louis-ms-back-bay-of-biloxi-biloxi-ms-pascagoula-river-pascagoula-ms-three-mile-creek-mobile-al-chickasaw-creek-saraland-al/)** — `2026-10-07` | `5 Pages`
-- `[`2026-20522`]` **[Safety Zone; Luminsea Miami Shootout and Races, Miami Marine Stadium Harbor, Miami FL](https://www.indexdata.org/safety-zone-luminsea-miami-shootout-and-races-miami-marine-stadium-harbor-miami-fl/)** — `2026-10-07` | `3 Pages`
-- `[`2026-20520`]` **[Security Zone; U.S. Coast Guard Base, Los Angeles Harbor Main Channel, Los Angeles, CA](https://www.indexdata.org/security-zone-u-s-coast-guard-base-los-angeles-harbor-main-channel-los-angeles-ca/)** — `2026-10-07` | `3 Pages`
-- `[`2026-20491`]` **[Safety Zone; Red Bull Flugtag, Intercoastal Waterway, Biscayne Bay, Miami, FL](https://www.indexdata.org/safety-zone-red-bull-flugtag-intercoastal-waterway-biscayne-bay-miami-fl/)** — `2026-10-06` | `2 Pages`
-- `[`2026-20477`]` **[Security Zone; Patapsco River, Baltimore, MD](https://www.indexdata.org/security-zone-patapsco-river-baltimore-md/)** — `2026-10-06` | `2 Pages`
-- `[`2026-20324`]` **[Special Local Regulation; Allegheny River Mile Marker 20.5-21, Creighton, PA](https://www.indexdata.org/special-local-regulation-allegheny-river-mile-marker-20-5-21-creighton-pa/)** — `2026-10-05` | `3 Pages`
-- `[`2026-20223`]` **[Special Local Regulations; Marine Events Within the USCG East District-Philadelphia, PA](https://www.indexdata.org/special-local-regulations-marine-events-within-the-uscg-east-district-philadelphia-pa/)** — `2026-10-02` | `2 Pages`
-- `[`2026-20124`]` **[Safety Zone; Sector Mobile Captain of the Port Zone, Mobile, AL](https://www.indexdata.org/safety-zone-sector-mobile-captain-of-the-port-zone-mobile-al/)** — `2026-10-01` | `4 Pages`
-- `[`2026-20122`]` **[Safety Zone; St. Lawrence River, Massena, NY](https://www.indexdata.org/safety-zone-st-lawrence-river-massena-ny/)** — `2026-10-01` | `3 Pages`
-- `[`2026-20087`]` **[Clarification of Certain Mariner Training Requirements](https://www.indexdata.org/clarification-of-certain-mariner-training-requirements/)** — `2026-10-01` | `27 Pages`
-- `[`2026-19945`]` **[Safety Zone; Bridge Demolition, Upper Mississippi River, Chester, IL](https://www.indexdata.org/safety-zone-bridge-demolition-upper-mississippi-river-chester-il/)** — `2026-09-29` | `3 Pages`
-- `[`2026-19653`]` **[Special Local Regulation; Milwaukee River and Menomonee River, Milwaukee, WI](https://www.indexdata.org/special-local-regulation-milwaukee-river-and-menomonee-river-milwaukee-wi/)** — `2026-09-25` | `2 Pages`
-- `[`2026-19652`]` **[Implementation of Training Requirements for Personnel Serving on U.S.-Flagged Passenger Ships That Carry More Than 12 Passengers on International Voyages](https://www.indexdata.org/implementation-of-training-requirements-for-personnel-serving-on-u-s-flagged-passenger-ships-that-carry-more-than-12-passengers-on-international-voyages/)** — `2026-09-25` | `40 Pages`
-- `[`2026-19430`]` **[Safety Zone; Massachusetts Bay, Boston, MA](https://www.indexdata.org/safety-zone-massachusetts-bay-boston-ma/)** — `2026-09-23` | `3 Pages`
-- `[`2026-19429`]` **[Safety Zone; Zach's Bay, Wantagh, NY](https://www.indexdata.org/safety-zone-zachs-bay-wantagh-ny/)** — `2026-09-23` | `3 Pages`
-- `[`2026-19352`]` **[Safety Zone; Neuse River, New Bern, NC](https://www.indexdata.org/safety-zone-neuse-river-new-bern-nc/)** — `2026-09-22` | `2 Pages`
-- `[`2026-19270`]` **[Safety Zone; Illinois River, Morris, IL](https://www.indexdata.org/safety-zone-illinois-river-morris-il/)** — `2026-09-21` | `3 Pages`
-- `[`2026-19254`]` **[Great Lakes Pilotage Rates-2027 Annual Review and Revisions to Methodology](https://www.indexdata.org/great-lakes-pilotage-rates-2027-annual-review-and-revisions-to-methodology/)** — `2026-09-21` | `44 Pages`
-- `[`2026-19060`]` **[Safety Zone; Key West Main Ship Channel, and Fleming Key Cut, Key West, FL](https://www.indexdata.org/safety-zone-key-west-main-ship-channel-and-fleming-key-cut-key-west-fl/)** — `2026-09-17` | `2 Pages`
-- `[`2026-19059`]` **[Drawbridge Operation Regulation; Connecticut River, East Haddam, CT](https://www.indexdata.org/drawbridge-operation-regulation-connecticut-river-east-haddam-ct/)** — `2026-09-17` | `3 Pages`
-- `[`2026-19058`]` **[Drawbridge Operation Regulation; Niantic River, Between Waterford and Niantic, CT](https://www.indexdata.org/drawbridge-operation-regulation-niantic-river-between-waterford-and-niantic-ct/)** — `2026-09-17` | `3 Pages`
-- `[`2026-19057`]` **[Drawbridge Operation Regulation; Mystic River, Mystic, CT](https://www.indexdata.org/drawbridge-operation-regulation-mystic-river-mystic-ct/)** — `2026-09-17` | `2 Pages`
-- `[`2026-19056`]` **[Special Local Regulation; Maumee River, Toledo, OH](https://www.indexdata.org/special-local-regulation-maumee-river-toledo-oh/)** — `2026-09-17` | `3 Pages`
-- `[`2026-18977`]` **[Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI](https://www.indexdata.org/safety-zone-lake-st-clair-grosse-pointe-farms-mi/)** — `2026-09-16` | `2 Pages`
-- `[`2026-18960`]` **[Special Local Regulations; Recurring Marine Events, Sector St. Petersburg](https://www.indexdata.org/special-local-regulations-recurring-marine-events-sector-st-petersburg/)** — `2026-09-16` | `2 Pages`
-- `[`2026-18856`]` **[Safety Zone; Calcasieu River Channel, Lake Charles, LA](https://www.indexdata.org/safety-zone-calcasieu-river-channel-lake-charles-la/)** — `2026-09-15` | `3 Pages`
-- `[`2026-18855`]` **[Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX](https://www.indexdata.org/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx/)** — `2026-09-15` | `2 Pages`
-- `[`2026-18734`]` **[Safety Zone; Lake Erie, Oregon, OH](https://www.indexdata.org/safety-zone-lake-erie-oregon-oh/)** — `2026-09-14` | `2 Pages`
-- `[`2026-18670`]` **[Special Local Regulations; Marine Events Within the Sector Columbia River Captain of the Port Zone, Portland, OR](https://www.indexdata.org/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone-portland-or/)** — `2026-09-11` | `2 Pages`
-- `[`2026-18557`]` **[Safety Zone; York River, Yorktown, VA](https://www.indexdata.org/safety-zone-york-river-yorktown-va/)** — `2026-09-11` | `3 Pages`
-- `[`2026-18463`]` **[Special Local Regulations; Marine Events Within the USCG East District-Ocean City, NJ](https://www.indexdata.org/special-local-regulations-marine-events-within-the-uscg-east-district-ocean-city-nj/)** — `2026-09-10` | `2 Pages`
-- `[`2026-18369`]` **[Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL](https://www.indexdata.org/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary-and-ship-canal-chicago-river-and-calumet-saganashkee-channel-chicago-il-2/)** — `2026-09-09` | `2 Pages`
-- `[`2026-18364`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Fort Pierce, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-fort-pierce-fl/)** — `2026-09-09` | `2 Pages`
-- `[`2026-18279`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx/)** — `2026-09-08` | `2 Pages`
-
 ### [Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/congressional-research-service-crs/](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 
@@ -976,6 +915,65 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/congressio
 - `[`US-CRS-IN12747`]` **[H-1B Executive Actions in 2026](https://www.indexdata.org/h-1b-executive-actions-in-2026/)** — `2026-10-14` | `3 Pages`
 - `[`US-CRS-IN12746`]` **[The Bipartisan American Affordability and Jobs Act of 2026 and the Federal Energy Regulatory Commission’s Backstop Siting Authority](https://www.indexdata.org/the-bipartisan-american-affordability-and-jobs-act-of-2026-and-the-federal-energy-regulatory-commissions-backstop-siting-authority/)** — `2026-10-14` | `3 Pages`
 - `[`US-CRS-IN12745`]` **[Hurricane Isaias: Brief Overview of FEMA Programs, Resources, and Selected Issues](https://www.indexdata.org/hurricane-isaias-brief-overview-of-fema-programs-resources-and-selected-issues/)** — `2026-10-13` | `4 Pages`
+
+### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
+
+- `[`2026-23148`]` **[Safety Zone; Massachusetts Bay, Boston, MA](https://www.indexdata.org/safety-zone-massachusetts-bay-boston-ma-2/)** — `2026-11-13` | `4 Pages`
+- `[`2026-22734`]` **[Drawbridge Operation Regulation; Harlem River, Between the Boroughs of Manhattan and the Bronx, New York City, New York](https://www.indexdata.org/drawbridge-operation-regulation-harlem-river-between-the-boroughs-of-manhattan-and-the-bronx-new-york-city-new-york/)** — `2026-11-06` | `3 Pages`
+- `[`2026-22677`]` **[Drawbridge Operation Regulation; Wishkah River, Aberdeen, WA](https://www.indexdata.org/drawbridge-operation-regulation-wishkah-river-aberdeen-wa-3/)** — `2026-11-06` | `3 Pages`
+- `[`2026-22269`]` **[Safety Zone; M/T KALAHARI, Gulf of America, Pascagoula, MS](https://www.indexdata.org/safety-zone-m-t-kalahari-gulf-of-america-pascagoula-ms/)** — `2026-10-30` | `3 Pages`
+- `[`2026-22249`]` **[Safety Zone; S.S. UNITED STATES Dead Ship Tow, Sector Mobile Captain of the Port Zone, Mobile, AL](https://www.indexdata.org/safety-zone-s-s-united-states-dead-ship-tow-sector-mobile-captain-of-the-port-zone-mobile-al/)** — `2026-10-30` | `2 Pages`
+- `[`2026-22078`]` **[Safety Zone; Firework Display; Cumberland River, Hendersonville, TN](https://www.indexdata.org/safety-zone-firework-display-cumberland-river-hendersonville-tn/)** — `2026-10-29` | `3 Pages`
+- `[`2026-21949`]` **[Special Local Regulation; Port Miami Main Shipping Channel, Miami FL](https://www.indexdata.org/special-local-regulation-port-miami-main-shipping-channel-miami-fl/)** — `2026-10-28` | `3 Pages`
+- `[`2026-21918`]` **[Safety Zone; Southern California Annual Firework Events for the Los Angeles-Long Beach Captain of the Port Zone](https://www.indexdata.org/safety-zone-southern-california-annual-firework-events-for-the-los-angeles-long-beach-captain-of-the-port-zone/)** — `2026-10-27` | `5 Pages`
+- `[`2026-21636`]` **[Safety Zone; Brownsville Ship Channel, Brownsville, TX](https://www.indexdata.org/safety-zone-brownsville-ship-channel-brownsville-tx/)** — `2026-10-22` | `2 Pages`
+- `[`2026-21608`]` **[Drawbridge Operation Regulation; Manitowoc River, Manitowoc, WI](https://www.indexdata.org/drawbridge-operation-regulation-manitowoc-river-manitowoc-wi-2/)** — `2026-10-22` | `2 Pages`
+- `[`2026-21593`]` **[RIN 1625-AA00](https://www.indexdata.org/rin-1625-aa00/)** — `2026-10-22` | `3 Pages`
+- `[`2026-21498`]` **[Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI](https://www.indexdata.org/safety-zone-t-v-denise-foss-o-n-1254223-honolulu-hi-3/)** — `2026-10-21` | `2 Pages`
+- `[`2026-21478`]` **[Security Zones; Protection of Military Cargo, Captain of the Port Zone Puget Sound, WA](https://www.indexdata.org/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa/)** — `2026-10-21` | `2 Pages`
+- `[`2026-21305`]` **[Safety Zone; FRL Inaugural Invitational eFoil Exhibition Race, Miami Marine Stadium Basin, Miami, FL](https://www.indexdata.org/safety-zone-frl-inaugural-invitational-efoil-exhibition-race-miami-marine-stadium-basin-miami-fl/)** — `2026-10-19` | `2 Pages`
+- `[`2026-21302`]` **[Special Local Regulation; Ponce Harbor, Ponce, PR](https://www.indexdata.org/special-local-regulation-ponce-harbor-ponce-pr/)** — `2026-10-19` | `2 Pages`
+- `[`2026-21240`]` **[Safety Zone; Cumberland River, Hendersonville, TN](https://www.indexdata.org/safety-zone-cumberland-river-hendersonville-tn/)** — `2026-10-16` | `2 Pages`
+- `[`2026-21162`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az/)** — `2026-10-16` | `2 Pages`
+- `[`2026-21161`]` **[Safety Zone; Atlantic Ocean, Culebra, Puerto Rico](https://www.indexdata.org/safety-zone-atlantic-ocean-culebra-puerto-rico/)** — `2026-10-16` | `2 Pages`
+- `[`2026-21157`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az-2/)** — `2026-10-16` | `3 Pages`
+- `[`2026-21053`]` **[Safety Zone; Lake Michigan, Chicago, IL](https://www.indexdata.org/safety-zone-lake-michigan-chicago-il/)** — `2026-10-15` | `2 Pages`
+- `[`2026-20902`]` **[Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL](https://www.indexdata.org/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary-and-ship-canal-chicago-river-and-calumet-saganashkee-channel-chicago-il/)** — `2026-10-13` | `2 Pages`
+- `[`2026-20632`]` **[Special Local Regulations; San Francisco Bay Navy Fleet Week Parade of Ships and Blue Angels Demonstration, San Francisco, CA](https://www.indexdata.org/special-local-regulations-san-francisco-bay-navy-fleet-week-parade-of-ships-and-blue-angels-demonstration-san-francisco-ca/)** — `2026-10-08` | `2 Pages`
+- `[`2026-20545`]` **[Drawbridge Operation Regulation; Bay St. Louis, Bay St. Louis, MS; Back Bay of Biloxi, Biloxi, MS; Pascagoula River, Pascagoula, MS; Three Mile Creek, Mobile, AL; Chickasaw Creek, Saraland, AL.](https://www.indexdata.org/drawbridge-operation-regulation-bay-st-louis-bay-st-louis-ms-back-bay-of-biloxi-biloxi-ms-pascagoula-river-pascagoula-ms-three-mile-creek-mobile-al-chickasaw-creek-saraland-al/)** — `2026-10-07` | `5 Pages`
+- `[`2026-20522`]` **[Safety Zone; Luminsea Miami Shootout and Races, Miami Marine Stadium Harbor, Miami FL](https://www.indexdata.org/safety-zone-luminsea-miami-shootout-and-races-miami-marine-stadium-harbor-miami-fl/)** — `2026-10-07` | `3 Pages`
+- `[`2026-20520`]` **[Security Zone; U.S. Coast Guard Base, Los Angeles Harbor Main Channel, Los Angeles, CA](https://www.indexdata.org/security-zone-u-s-coast-guard-base-los-angeles-harbor-main-channel-los-angeles-ca/)** — `2026-10-07` | `3 Pages`
+- `[`2026-20491`]` **[Safety Zone; Red Bull Flugtag, Intercoastal Waterway, Biscayne Bay, Miami, FL](https://www.indexdata.org/safety-zone-red-bull-flugtag-intercoastal-waterway-biscayne-bay-miami-fl/)** — `2026-10-06` | `2 Pages`
+- `[`2026-20477`]` **[Security Zone; Patapsco River, Baltimore, MD](https://www.indexdata.org/security-zone-patapsco-river-baltimore-md/)** — `2026-10-06` | `2 Pages`
+- `[`2026-20324`]` **[Special Local Regulation; Allegheny River Mile Marker 20.5-21, Creighton, PA](https://www.indexdata.org/special-local-regulation-allegheny-river-mile-marker-20-5-21-creighton-pa/)** — `2026-10-05` | `3 Pages`
+- `[`2026-20223`]` **[Special Local Regulations; Marine Events Within the USCG East District-Philadelphia, PA](https://www.indexdata.org/special-local-regulations-marine-events-within-the-uscg-east-district-philadelphia-pa/)** — `2026-10-02` | `2 Pages`
+- `[`2026-20124`]` **[Safety Zone; Sector Mobile Captain of the Port Zone, Mobile, AL](https://www.indexdata.org/safety-zone-sector-mobile-captain-of-the-port-zone-mobile-al/)** — `2026-10-01` | `4 Pages`
+- `[`2026-20122`]` **[Safety Zone; St. Lawrence River, Massena, NY](https://www.indexdata.org/safety-zone-st-lawrence-river-massena-ny/)** — `2026-10-01` | `3 Pages`
+- `[`2026-20087`]` **[Clarification of Certain Mariner Training Requirements](https://www.indexdata.org/clarification-of-certain-mariner-training-requirements/)** — `2026-10-01` | `27 Pages`
+- `[`2026-19945`]` **[Safety Zone; Bridge Demolition, Upper Mississippi River, Chester, IL](https://www.indexdata.org/safety-zone-bridge-demolition-upper-mississippi-river-chester-il/)** — `2026-09-29` | `3 Pages`
+- `[`2026-19653`]` **[Special Local Regulation; Milwaukee River and Menomonee River, Milwaukee, WI](https://www.indexdata.org/special-local-regulation-milwaukee-river-and-menomonee-river-milwaukee-wi/)** — `2026-09-25` | `2 Pages`
+- `[`2026-19652`]` **[Implementation of Training Requirements for Personnel Serving on U.S.-Flagged Passenger Ships That Carry More Than 12 Passengers on International Voyages](https://www.indexdata.org/implementation-of-training-requirements-for-personnel-serving-on-u-s-flagged-passenger-ships-that-carry-more-than-12-passengers-on-international-voyages/)** — `2026-09-25` | `40 Pages`
+- `[`2026-19430`]` **[Safety Zone; Massachusetts Bay, Boston, MA](https://www.indexdata.org/safety-zone-massachusetts-bay-boston-ma/)** — `2026-09-23` | `3 Pages`
+- `[`2026-19429`]` **[Safety Zone; Zach's Bay, Wantagh, NY](https://www.indexdata.org/safety-zone-zachs-bay-wantagh-ny/)** — `2026-09-23` | `3 Pages`
+- `[`2026-19352`]` **[Safety Zone; Neuse River, New Bern, NC](https://www.indexdata.org/safety-zone-neuse-river-new-bern-nc/)** — `2026-09-22` | `2 Pages`
+- `[`2026-19270`]` **[Safety Zone; Illinois River, Morris, IL](https://www.indexdata.org/safety-zone-illinois-river-morris-il/)** — `2026-09-21` | `3 Pages`
+- `[`2026-19254`]` **[Great Lakes Pilotage Rates-2027 Annual Review and Revisions to Methodology](https://www.indexdata.org/great-lakes-pilotage-rates-2027-annual-review-and-revisions-to-methodology/)** — `2026-09-21` | `44 Pages`
+- `[`2026-19060`]` **[Safety Zone; Key West Main Ship Channel, and Fleming Key Cut, Key West, FL](https://www.indexdata.org/safety-zone-key-west-main-ship-channel-and-fleming-key-cut-key-west-fl/)** — `2026-09-17` | `2 Pages`
+- `[`2026-19059`]` **[Drawbridge Operation Regulation; Connecticut River, East Haddam, CT](https://www.indexdata.org/drawbridge-operation-regulation-connecticut-river-east-haddam-ct/)** — `2026-09-17` | `3 Pages`
+- `[`2026-19058`]` **[Drawbridge Operation Regulation; Niantic River, Between Waterford and Niantic, CT](https://www.indexdata.org/drawbridge-operation-regulation-niantic-river-between-waterford-and-niantic-ct/)** — `2026-09-17` | `3 Pages`
+- `[`2026-19057`]` **[Drawbridge Operation Regulation; Mystic River, Mystic, CT](https://www.indexdata.org/drawbridge-operation-regulation-mystic-river-mystic-ct/)** — `2026-09-17` | `2 Pages`
+- `[`2026-19056`]` **[Special Local Regulation; Maumee River, Toledo, OH](https://www.indexdata.org/special-local-regulation-maumee-river-toledo-oh/)** — `2026-09-17` | `3 Pages`
+- `[`2026-18977`]` **[Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI](https://www.indexdata.org/safety-zone-lake-st-clair-grosse-pointe-farms-mi/)** — `2026-09-16` | `2 Pages`
+- `[`2026-18960`]` **[Special Local Regulations; Recurring Marine Events, Sector St. Petersburg](https://www.indexdata.org/special-local-regulations-recurring-marine-events-sector-st-petersburg/)** — `2026-09-16` | `2 Pages`
+- `[`2026-18856`]` **[Safety Zone; Calcasieu River Channel, Lake Charles, LA](https://www.indexdata.org/safety-zone-calcasieu-river-channel-lake-charles-la/)** — `2026-09-15` | `3 Pages`
+- `[`2026-18855`]` **[Safety Zone; Rocket Test Site, Rio Grande River, Boca Chica, TX](https://www.indexdata.org/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx/)** — `2026-09-15` | `2 Pages`
+- `[`2026-18734`]` **[Safety Zone; Lake Erie, Oregon, OH](https://www.indexdata.org/safety-zone-lake-erie-oregon-oh/)** — `2026-09-14` | `2 Pages`
+- `[`2026-18670`]` **[Special Local Regulations; Marine Events Within the Sector Columbia River Captain of the Port Zone, Portland, OR](https://www.indexdata.org/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone-portland-or/)** — `2026-09-11` | `2 Pages`
+- `[`2026-18557`]` **[Safety Zone; York River, Yorktown, VA](https://www.indexdata.org/safety-zone-york-river-yorktown-va/)** — `2026-09-11` | `3 Pages`
+- `[`2026-18463`]` **[Special Local Regulations; Marine Events Within the USCG East District-Ocean City, NJ](https://www.indexdata.org/special-local-regulations-marine-events-within-the-uscg-east-district-ocean-city-nj/)** — `2026-09-10` | `2 Pages`
+- `[`2026-18369`]` **[Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL](https://www.indexdata.org/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary-and-ship-canal-chicago-river-and-calumet-saganashkee-channel-chicago-il-2/)** — `2026-09-09` | `2 Pages`
+- `[`2026-18364`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Fort Pierce, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-fort-pierce-fl/)** — `2026-09-09` | `2 Pages`
 
 ### [United States Senate](https://www.indexdata.org/united-states/united-states-senate/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-senate/](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
@@ -1153,10 +1151,48 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-govern
 - `[`US-GAO-gao-27-108692`]` **[Concrete Masonry Promotion Program: Commerce Could Enhance Its Oversight Controls](https://www.indexdata.org/concrete-masonry-promotion-program-commerce-could-enhance-its-oversight-controls/)** — `2026-10-05` | `31 Pages`
 - `[`US-GAO-gao-27-109056`]` **[Innovation in Action: Getting You Up to Speed on Manufacturing](https://www.indexdata.org/innovation-in-action-getting-you-up-to-speed-on-manufacturing/)** — `2026-10-02` | `2 Pages`
 
+### [State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
+
+- `[`US-HI-DLNR-40654`]` **[D-10T-11-13-26](https://www.indexdata.org/d-10t-11-13-26/)** — `2026-11-01` | `8 Pages`
+- `[`US-HI-DLNR-40653`]` **[D-9T-11-13-26](https://www.indexdata.org/d-9t-11-13-26/)** — `2026-11-01` | `8 Pages`
+- `[`US-HI-DLNR-40651`]` **[D-5T-11-13-26](https://www.indexdata.org/d-5t-11-13-26/)** — `2026-11-01` | `9 Pages`
+- `[`US-HI-DLNR-40650`]` **[D-4T-11-13-26](https://www.indexdata.org/d-4t-11-13-26/)** — `2026-11-01` | `9 Pages`
+- `[`US-HI-DLNR-40649`]` **[D-3T-11-13-26](https://www.indexdata.org/d-3t-11-13-26/)** — `2026-11-01` | `9 Pages`
+- `[`US-HI-DLNR-40648`]` **[D-2T-11-13-26](https://www.indexdata.org/d-2t-11-13-26/)** — `2026-11-01` | `9 Pages`
+- `[`US-HI-DLNR-40629`]` **[J-1T-11-11-26](https://www.indexdata.org/j-1t-11-11-26/)** — `2026-11-01` | `9 Pages`
+- `[`US-HI-DLNR-40627`]` **[D-6T-11-11-26](https://www.indexdata.org/d-6t-11-11-26/)** — `2026-11-01` | `101 Pages`
+- `[`US-HI-DLNR-40624`]` **[D-6T-11-10-26](https://www.indexdata.org/d-6t-11-10-26/)** — `2026-11-01` | `65 Pages`
+- `[`US-HI-DLNR-40622`]` **[Agenda-261113a](https://www.indexdata.org/agenda-261113a/)** — `2026-11-01` | `8 Pages`
+- `[`US-HI-DLNR-40597`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-10a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-10a/)** — `2026-11-01` | `5 Pages`
+- `[`US-HI-DLNR-40596`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-9a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-9a/)** — `2026-11-01` | `10 Pages`
+- `[`US-HI-DLNR-40595`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-8a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-8a/)** — `2026-11-01` | `4 Pages`
+- `[`US-HI-DLNR-40594`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-6a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-6a/)** — `2026-11-01` | `11 Pages`
+- `[`US-HI-DLNR-40593`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-5a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-5a/)** — `2026-11-01` | `5 Pages`
+- `[`US-HI-DLNR-40592`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-4a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-4a/)** — `2026-11-01` | `12 Pages`
+- `[`US-HI-DLNR-40582`]` **[D-4T-11-09-26](https://www.indexdata.org/d-4t-11-09-26/)** — `2026-11-01` | `6 Pages`
+- `[`US-HI-DLNR-40581`]` **[D-6T-11-09-26](https://www.indexdata.org/d-6t-11-09-26/)** — `2026-11-01` | `12 Pages`
+- `[`US-HI-DLNR-40580`]` **[D-9T-11-09-26](https://www.indexdata.org/d-9t-11-09-26/)** — `2026-11-01` | `6 Pages`
+- `[`US-HI-DLNR-40578`]` **[C-1T-11-09-26](https://www.indexdata.org/c-1t-11-09-26/)** — `2026-11-01` | `2 Pages`
+- `[`US-HI-DLNR-40577`]` **[D-3T-11-09-26](https://www.indexdata.org/d-3t-11-09-26/)** — `2026-11-01` | `2 Pages`
+- `[`US-HI-DLNR-40552`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-9](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-9/)** — `2026-11-01` | `10 Pages`
+- `[`US-HI-DLNR-40551`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-8](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-8/)** — `2026-11-01` | `4 Pages`
+- `[`US-HI-DLNR-40550`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-6](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-6/)** — `2026-11-01` | `11 Pages`
+- `[`US-HI-DLNR-40549`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-5](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-5/)** — `2026-11-01` | `5 Pages`
+- `[`US-HI-DLNR-40548`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-4](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-4/)** — `2026-11-01` | `12 Pages`
+- `[`US-HI-DLNR-40547`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-3](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-3/)** — `2026-11-01` | `6 Pages`
+- `[`US-HI-DLNR-40525`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — A-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-a-1/)** — `2026-11-01` | `8 Pages`
+- `[`US-HI-DLNR-40521`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — L-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-l-1/)** — `2026-11-01` | `76 Pages`
+- `[`US-HI-DLNR-40520`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-2/)** — `2026-11-01` | `25 Pages`
+- `[`US-HI-DLNR-40519`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-1/)** — `2026-11-01` | `28 Pages`
+- `[`US-HI-DLNR-40518`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-3](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-3/)** — `2026-11-01` | `41 Pages`
+- `[`US-HI-DLNR-40517`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — J-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-j-2/)** — `2026-11-01` | `6 Pages`
+
 ### [U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-energy-doe/](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 
 - `[`US-DOE-OSTI-3740790`]` **[Online task-space motion control for positioner-coordinated multi-robot manufacturing systems](https://www.indexdata.org/online-task-space-motion-control-for-positioner-coordinated-multi-robot-manufacturing-systems/)** — `2026-11-13` | `22 Pages`
+- `[`US-DOE-OSTI-3739883`]` **[Dopant adsorption as a function of bulk concentration at a near 42º (100) twist grain boundary in SrTiO 3](https://www.indexdata.org/dopant-adsorption-as-a-function-of-bulk-concentration-at-a-near-42o-100-twist-grain-boundary-in-srtio-3/)** — `2026-11-13` | `17 Pages`
 - `[`US-DOE-OSTI-17428214`]` **[Intrinsically disordered regions facilitate Mlp1–Nab2 recognition in mRNA quality control](https://www.indexdata.org/intrinsically-disordered-regions-facilitate-mlp1-nab2-recognition-in-mrna-quality-control/)** — `2026-11-13` | `14 Pages`
 - `[`US-DOE-OSTI-17428068`]` **[A systematic method for designing aging-resilient nuclear balance-of-plant systems: Theoretical foundations](https://www.indexdata.org/a-systematic-method-for-designing-aging-resilient-nuclear-balance-of-plant-systems-theoretical-foundations/)** — `2026-11-11` | `9 Pages`
 - `[`US-DOE-OSTI-3683732`]` **[Homogenization of radiation transport calculations for multi-physics simulations](https://www.indexdata.org/homogenization-of-radiation-transport-calculations-for-multi-physics-simulations/)** — `2026-11-10` | `25 Pages`
@@ -1253,37 +1289,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`US-NASA-NTRS-20250006500`]` **[The Tipping Points Modelling Intercomparison Project (TIPMIP): Assessing Tipping Point Risks in the Earth System](https://www.indexdata.org/the-tipping-points-modelling-intercomparison-project-tipmip-assessing-tipping-point-risks-in-the-earth-system/)** — `2026-11-01` | `52 Pages`
 - `[`US-NASA-NTRS-20250006457`]` **[A Fire-Driven Shift in Canadian Air Quality Concerns Mirrors Trends in the US](https://www.indexdata.org/a-fire-driven-shift-in-canadian-air-quality-concerns-mirrors-trends-in-the-us/)** — `2026-11-01` | `29 Pages`
 
-### [State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
-
-- `[`US-HI-DLNR-40629`]` **[J-1T-11-11-26](https://www.indexdata.org/j-1t-11-11-26/)** — `2026-11-01` | `9 Pages`
-- `[`US-HI-DLNR-40627`]` **[D-6T-11-11-26](https://www.indexdata.org/d-6t-11-11-26/)** — `2026-11-01` | `101 Pages`
-- `[`US-HI-DLNR-40624`]` **[D-6T-11-10-26](https://www.indexdata.org/d-6t-11-10-26/)** — `2026-11-01` | `65 Pages`
-- `[`US-HI-DLNR-40622`]` **[Agenda-261113a](https://www.indexdata.org/agenda-261113a/)** — `2026-11-01` | `8 Pages`
-- `[`US-HI-DLNR-40597`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-10a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-10a/)** — `2026-11-01` | `5 Pages`
-- `[`US-HI-DLNR-40596`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-9a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-9a/)** — `2026-11-01` | `10 Pages`
-- `[`US-HI-DLNR-40595`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-8a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-8a/)** — `2026-11-01` | `4 Pages`
-- `[`US-HI-DLNR-40594`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-6a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-6a/)** — `2026-11-01` | `11 Pages`
-- `[`US-HI-DLNR-40593`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-5a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-5a/)** — `2026-11-01` | `5 Pages`
-- `[`US-HI-DLNR-40592`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-4a](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-4a/)** — `2026-11-01` | `12 Pages`
-- `[`US-HI-DLNR-40582`]` **[D-4T-11-09-26](https://www.indexdata.org/d-4t-11-09-26/)** — `2026-11-01` | `6 Pages`
-- `[`US-HI-DLNR-40581`]` **[D-6T-11-09-26](https://www.indexdata.org/d-6t-11-09-26/)** — `2026-11-01` | `12 Pages`
-- `[`US-HI-DLNR-40580`]` **[D-9T-11-09-26](https://www.indexdata.org/d-9t-11-09-26/)** — `2026-11-01` | `6 Pages`
-- `[`US-HI-DLNR-40578`]` **[C-1T-11-09-26](https://www.indexdata.org/c-1t-11-09-26/)** — `2026-11-01` | `2 Pages`
-- `[`US-HI-DLNR-40577`]` **[D-3T-11-09-26](https://www.indexdata.org/d-3t-11-09-26/)** — `2026-11-01` | `2 Pages`
-- `[`US-HI-DLNR-40552`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-9](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-9/)** — `2026-11-01` | `10 Pages`
-- `[`US-HI-DLNR-40551`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-8](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-8/)** — `2026-11-01` | `4 Pages`
-- `[`US-HI-DLNR-40550`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-6](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-6/)** — `2026-11-01` | `11 Pages`
-- `[`US-HI-DLNR-40549`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-5](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-5/)** — `2026-11-01` | `5 Pages`
-- `[`US-HI-DLNR-40548`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-4](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-4/)** — `2026-11-01` | `12 Pages`
-- `[`US-HI-DLNR-40547`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — D-3](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-d-3/)** — `2026-11-01` | `6 Pages`
-- `[`US-HI-DLNR-40525`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — A-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-a-1/)** — `2026-11-01` | `8 Pages`
-- `[`US-HI-DLNR-40521`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — L-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-l-1/)** — `2026-11-01` | `76 Pages`
-- `[`US-HI-DLNR-40520`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-2/)** — `2026-11-01` | `25 Pages`
-- `[`US-HI-DLNR-40519`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-1](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-1/)** — `2026-11-01` | `28 Pages`
-- `[`US-HI-DLNR-40518`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — K-3](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-k-3/)** — `2026-11-01` | `41 Pages`
-- `[`US-HI-DLNR-40517`]` **[State of Hawaii — Department of Land and Natural Resources (DLNR) — J-2](https://www.indexdata.org/state-of-hawaii-department-of-land-and-natural-resources-dlnr-j-2/)** — `2026-11-01` | `6 Pages`
-
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
@@ -1311,7 +1316,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2026-18535`]` **[Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program](https://www.indexdata.org/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the-equipment-authorization-program/)** — `2026-09-11` | `4 Pages`
 - `[`2026-18478`]` **[Telecommunications Relay Service ASCII Format Requirement](https://www.indexdata.org/telecommunications-relay-service-ascii-format-requirement/)** — `2026-09-10` | `3 Pages`
 - `[`2026-18366`]` **[Improving the Effectiveness of the Robocall Mitigation Database; Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls](https://www.indexdata.org/improving-the-effectiveness-of-the-robocall-mitigation-database-call-authentication-trust-anchor-advanced-methods-to-target-and-eliminate-unlawful-robocalls/)** — `2026-09-09` | `36 Pages`
-- `[`2026-18282`]` **[Unleashing Unlicensed Spectrum for Direct-to-Device](https://www.indexdata.org/unleashing-unlicensed-spectrum-for-direct-to-device/)** — `2026-09-08` | `15 Pages`
 
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
@@ -1496,7 +1500,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2026-19013`]` **[Racial Nondiscrimination in Private Schools; Hearing](https://www.indexdata.org/racial-nondiscrimination-in-private-schools-hearing/)** — `2026-09-16` | `2 Pages`
 - `[`2026-18645`]` **[Allocation and Apportionment of Deductions to Foreign Source Section 951A Category Income and Deduction Eligible Income](https://www.indexdata.org/allocation-and-apportionment-of-deductions-to-foreign-source-section-951a-category-income-and-deduction-eligible-income/)** — `2026-09-11` | `10 Pages`
 - `[`2026-18574`]` **[Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures](https://www.indexdata.org/information-reporting-regarding-qualified-opportunity-zones-and-updated-qualified-opportunity-fund-certification-and-decertification-procedures/)** — `2026-09-11` | `33 Pages`
-- `[`2026-18219`]` **[Car Loan Interest Deduction](https://www.indexdata.org/car-loan-interest-deduction/)** — `2026-09-08` | `31 Pages`
 
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
@@ -1767,15 +1770,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2026-19887`]` **[Almonds Grown in California; Extension of Inedible Disposition Obligation Deadline](https://www.indexdata.org/almonds-grown-in-california-extension-of-inedible-disposition-obligation-deadline/)** — `2026-09-29` | `3 Pages`
 - `[`2026-19389`]` **[Softwood Lumber Board Assessment Rate Clarification and Changes to Membership](https://www.indexdata.org/softwood-lumber-board-assessment-rate-clarification-and-changes-to-membership/)** — `2026-09-22` | `7 Pages`
 
-### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
-
-- `[`2026-21377`]` **[Further Definition of “Swap”-Inclusions](https://www.indexdata.org/further-definition-of-swap-inclusions/)** — `2026-10-21` | `12 Pages`
-- `[`2026-21376`]` **[Further Definition of “Swap” To Exclude Casino-Style Gambling Products](https://www.indexdata.org/further-definition-of-swap-to-exclude-casino-style-gambling-products/)** — `2026-10-19` | `11 Pages`
-- `[`2026-20888`]` **[Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets](https://www.indexdata.org/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets/)** — `2026-10-13` | `30 Pages`
-- `[`2026-19006`]` **[Whistleblower Award Determination](https://www.indexdata.org/whistleblower-award-determination-2/)** — `2026-09-16` | `18 Pages`
-- `[`2026-18212`]` **[Clearing Requirement Determination Under Section 2(h) of the Commodity Exchange Act for Interest Rate Swaps To Account for CAD and MXN Interest Rate Benchmark Transitions](https://www.indexdata.org/clearing-requirement-determination-under-section-2h-of-the-commodity-exchange-act-for-interest-rate-swaps-to-account-for-cad-and-mxn-interest-rate-benchmark-transitions-2/)** — `2026-09-08` | `26 Pages`
-
 ### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
 
@@ -1835,6 +1829,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2026-22116`]` **[Reducing Bureaucracy and Burden for Child Support Enforcement Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-child-support-enforcement-programs-2/)** — `2026-10-29` | `11 Pages`
 - `[`2026-21004`]` **[Further Reducing Bureaucracy and Burden From the Administration for Native Americans](https://www.indexdata.org/further-reducing-bureaucracy-and-burden-from-the-administration-for-native-americans/)** — `2026-10-14` | `5 Pages`
 - `[`2026-20329`]` **[Reforming Federal Reporting and Assessments in Child Welfare](https://www.indexdata.org/reforming-federal-reporting-and-assessments-in-child-welfare/)** — `2026-10-05` | `18 Pages`
+
+### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
+
+- `[`2026-21377`]` **[Further Definition of “Swap”-Inclusions](https://www.indexdata.org/further-definition-of-swap-inclusions/)** — `2026-10-21` | `12 Pages`
+- `[`2026-21376`]` **[Further Definition of “Swap” To Exclude Casino-Style Gambling Products](https://www.indexdata.org/further-definition-of-swap-to-exclude-casino-style-gambling-products/)** — `2026-10-19` | `11 Pages`
+- `[`2026-20888`]` **[Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets](https://www.indexdata.org/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets/)** — `2026-10-13` | `30 Pages`
+- `[`2026-19006`]` **[Whistleblower Award Determination](https://www.indexdata.org/whistleblower-award-determination-2/)** — `2026-09-16` | `18 Pages`
 
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
@@ -2021,12 +2023,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/](https://
 - `[`GDI-419532`]` **[Withdrawal from Disposal of Certain Tracts of Territorial Lands in the Northwest Territories (South Slave and North Slave Regions) Order](https://www.indexdata.org/withdrawal-from-disposal-of-certain-tracts-of-territorial-lands-in-the-northwest-territories-south-slave-and-north-slave-regions-order/)** — `2026-09-30` | `2 Pages`
 - `[`GDI-419042`]` **[Order (1) repealing Order in Council P.C. 2018-1200 of September 25, 2018; and (2) designating the Minister of Democratic Institutions to be the Minister referred to in the Act](https://www.indexdata.org/order-1-repealing-order-in-council-p-c-2018-1200-of-september-25-2018-and-2-designating-the-minister-of-democratic-institutions-to-be-the-minister-referred-to-in-the-act/)** — `2026-09-30` | `2 Pages`
 
-### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
-
-- `[`US-FR-2026-23080`]` **[Direct Sale of Public Land for Affordable Housing Purposes in Clark County, Nevada](https://www.indexdata.org/direct-sale-of-public-land-for-affordable-housing-purposes-in-clark-county-nevada/)** — `2026-11-11` | `4 Pages`
-- `[`2026-18261`]` **[National Petroleum Reserve in Alaska Production Site Development](https://www.indexdata.org/national-petroleum-reserve-in-alaska-production-site-development/)** — `2026-09-08` | `20 Pages`
-
 ### [Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/legal-services-corporation/](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 
@@ -2105,11 +2101,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-b
 
 - `[`2026-22306`]` **[Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.indexdata.org/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure-2/)** — `2026-10-31` | `105 Pages`
 
-### [Engineers Corps](https://www.indexdata.org/united-states/engineers-corps/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/engineers-corps/](https://www.indexdata.org/united-states/engineers-corps/) | [RSS Feed](https://www.indexdata.org/united-states/engineers-corps/feed/)
-
-- `[`2026-18317`]` **[Updated Definition of “Waters of the United States”](https://www.indexdata.org/updated-definition-of-waters-of-the-united-states/)** — `2026-09-09` | `18 Pages`
-
 ### [Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-office-for-immigration-review/](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
 
@@ -2159,6 +2150,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/investment
 Canonical Authority Archive: [https://www.indexdata.org/united-states/labor-department/](https://www.indexdata.org/united-states/labor-department/) | [RSS Feed](https://www.indexdata.org/united-states/labor-department/feed/)
 
 - `[`2026-22680`]` **[Prohibiting Illegal Discrimination in Registered Apprenticeship Programs](https://www.indexdata.org/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs-2/)** — `2026-11-06` | `84 Pages`
+
+### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
+
+- `[`US-FR-2026-23080`]` **[Direct Sale of Public Land for Affordable Housing Purposes in Clark County, Nevada](https://www.indexdata.org/direct-sale-of-public-land-for-affordable-housing-purposes-in-clark-county-nevada/)** — `2026-11-11` | `4 Pages`
 
 ### [Management and Budget Office](https://www.indexdata.org/united-states/management-and-budget-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/management-and-budget-office/](https://www.indexdata.org/united-states/management-and-budget-office/) | [RSS Feed](https://www.indexdata.org/united-states/management-and-budget-office/feed/)

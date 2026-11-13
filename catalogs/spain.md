@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q29`](https://www.wikidata.org/wiki/Q29)  
 **Governing Open-Government Framework:** *Art. 13 TRLPI (RDL 1/1996) & Law 37/2007 on Re-use of Public Sector Information (RD 1495/2011)*  
 **Total Indexed Dossiers in Spain:** `39` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-13 18:12 UTC`
+**Last Automated Sync:** `2026-11-13 19:21 UTC`
 
 ---
 
