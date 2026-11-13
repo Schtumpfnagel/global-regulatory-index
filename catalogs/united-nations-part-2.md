@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,975` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,978` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-13 19:21 UTC`
+**Last Automated Sync:** `2026-11-13 20:27 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`145` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`148` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,975)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,978)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-RES-80-286`]` **[The United Nations Global Counter-Terrorism Strategy : 9th review — resolution](https://www.indexdata.org/a-res-80-286-the-united-nations-global-counter-terrorism-strategy-9th-review-resolution/)** — `2026-07-01` | `28 Pages`
 - `[`UN-A-RES-80-285`]` **[Financing of the activities arising from Security Council resolution 1863 (2009) — resolution](https://www.indexdata.org/a-res-80-285-financing-of-the-activities-arising-from-security-council-resolution-1863-2009-resolution/)** — `2026-07-01` | `4 Pages`
 - `[`UN-A-RES-80-284`]` **[Financing of the United Nations Mission for the Referendum in Western Sahara — resolution](https://www.indexdata.org/a-res-80-284-financing-of-the-united-nations-mission-for-the-referendum-in-western-sahara-resolution/)** — `2026-07-01` | `4 Pages`
 - `[`UN-A-RES-80-283`]` **[Financing of the United Nations Mission in South Sudan — resolution](https://www.indexdata.org/a-res-80-283-financing-of-the-united-nations-mission-in-south-sudan-resolution/)** — `2026-07-01` | `6 Pages`
@@ -821,11 +822,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-80-711`]` **[Letter dated 20 April 2026 from the Permanent Representative of Estonia to the United Nations addressed to the President of the General Assembly](https://www.indexdata.org/a-80-711-letter-dated-20-april-2026-from-the-permanent-representative-of-estonia-to-the-united-nations-addressed-to-the-president-of-the-general-assembly/)** — `2026-04-20` | `2 Pages`
 - `[`UN-A-80-710`]` **[Letter dated 17 April 2026 from the Permanent Representative of the Russian Federation to the United Nations addressed to the Secretary-General](https://www.indexdata.org/a-80-710-letter-dated-17-april-2026-from-the-permanent-representative-of-the-russian-federation-to-the-united-nations-addressed-to-the-secretary-general/)** — `2026-04-20` | `2 Pages`
 - `[`UN-A-80-604-Add.8`]` **[Proposed budgets for the periods from 1 October 2025 to 30 June 2026 and from 1 July 2026 to 30 June 2027 for the United Nations Support Office in Haiti — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-604-add-8-proposed-budgets-for-the-periods-from-1-october-2025-to-30-june-2026-and-from-1-july-2026-to-30-june-2027-for-the-united-nations-support-office-in-haiti-report-of-the-adviso/)** — `2026-04-20` | `22 Pages`
-- `[`UN-A-RES-80-255`]` **[Joint Inspection Unit — resolution](https://www.indexdata.org/a-res-80-255-joint-inspection-unit-resolution/)** — `2026-04-17` | `3 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 
+- `[`UN-CRC-C-BLR-7-8`]` **[Combined 7th and 8th periodic reports submitted by Belarus under article 44 of the Convention, due in 2025 — Convention on the Rights of the Child](https://www.indexdata.org/crc-c-blr-7-8-combined-7th-and-8th-periodic-reports-submitted-by-belarus-under-article-44-of-the-convention-due-in-2025-convention-on-the-rights-of-the-child/)** — `2026-07-01` | `16 Pages`
+- `[`UN-CMW-C-GTM-QPR-3`]` **[List of issues prior to submission of the 3rd periodic report of Guatemala — Committee on the Protection of the Rights of All Migrant Workers and Members of Their Families](https://www.indexdata.org/cmw-c-gtm-qpr-3-list-of-issues-prior-to-submission-of-the-3rd-periodic-report-of-guatemala-committee-on-the-protection-of-the-rights-of-all-migrant-workers-and-members-of-their-families/)** — `2026-07-01` | `11 Pages`
 - `[`UN-CRC-C-TJK-RQ-6-7`]` **[Replies of Tajikistan to the list of issues in relation to its combined 6th and 7th periodic reports — Convention on the Rights of the Child](https://www.indexdata.org/crc-c-tjk-rq-6-7-replies-of-tajikistan-to-the-list-of-issues-in-relation-to-its-combined-6th-and-7th-periodic-reports-convention-on-the-rights-of-the-child/)** — `2026-06-30` | `28 Pages`
 - `[`UN-CRC-C-PLW-3-7`]` **[Combined 3rd to 7th periodic reports submitted by Palau under article 44 of the Convention, due in 2022 — Convention on the Rights of the Child](https://www.indexdata.org/crc-c-plw-3-7-combined-3rd-to-7th-periodic-reports-submitted-by-palau-under-article-44-of-the-convention-due-in-2022-convention-on-the-rights-of-the-child/)** — `2026-06-30` | `36 Pages`
 - `[`UN-CRC-C-ARE-3-5`]` **[Combined 3rd to 5th periodic reports submitted by the United Arab Emirates under article 44 of the Convention, due in 2020 — Convention on the Rights of the Child](https://www.indexdata.org/crc-c-are-3-5-combined-3rd-to-5th-periodic-reports-submitted-by-the-united-arab-emirates-under-article-44-of-the-convention-due-in-2020-convention-on-the-rights-of-the-child/)** — `2026-06-30` | `29 Pages`
@@ -991,8 +993,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 - `[`UN-CCPR-C-SR.4261`]` **[Summary record (partial) of the 4261st meeting, held at the Palais Wilson, Geneva, on Monday, 2 March 2026 — Human Rights Committee, 145th session](https://www.indexdata.org/ccpr-c-sr-4261-summary-record-partial-of-the-4261st-meeting-held-at-the-palais-wilson-geneva-on-monday-2-march-2026-human-rights-committee-145th-session/)** — `2026-04-21` | `3 Pages`
 - `[`UN-CERD-C-SR.3196`]` **[Summary record of the 3196th meeting, held at the Palais Wilson, Geneva, on Monday, 13 April 2026 — Committee on the Elimination of Racial Discrimination, 117th session](https://www.indexdata.org/cerd-c-sr-3196-summary-record-of-the-3196th-meeting-held-at-the-palais-wilson-geneva-on-monday-13-april-2026-committee-on-the-elimination-of-racial-discrimination-117th-session/)** — `2026-04-20` | `5 Pages`
 - `[`UN-CED-C-30-2`]` **[Report on requests for urgent action submitted under article 30 of the Convention — Committee on Enforced Disappearances](https://www.indexdata.org/ced-c-30-2-report-on-requests-for-urgent-action-submitted-under-article-30-of-the-convention-committee-on-enforced-disappearances/)** — `2026-04-20` | `20 Pages`
-- `[`UN-CRPD-C-PAN-Q-2-4`]` **[List of issues in relation to the combined 2nd to 4th periodic reports of Panama — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-pan-q-2-4-list-of-issues-in-relation-to-the-combined-2nd-to-4th-periodic-reports-of-panama-committee-on-the-rights-of-persons-with-disabilities/)** — `2026-04-17` | `9 Pages`
-- `[`UN-CED-C-MEX-A.34-D-1`]` **[Decision adopted by the Committee under article 34 of the Convention, concerning Mexico — Committee on Enforced Disappearances](https://www.indexdata.org/ced-c-mex-a-34-d-1-decision-adopted-by-the-committee-under-article-34-of-the-convention-concerning-mexico-committee-on-enforced-disappearances/)** — `2026-04-17` | `26 Pages`
 
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)

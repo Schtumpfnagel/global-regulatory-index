@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,975` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,978` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-13 19:21 UTC`
+**Last Automated Sync:** `2026-11-13 20:27 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`145` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`148` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,975 of 6,975)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,978 of 6,978)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -629,6 +629,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-securi
 ### [UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/)
 
+- `[`UNHCR-HDX-960`]` **[Peru - Results Monitoring Survey, 2023 Q2](https://www.indexdata.org/peru-results-monitoring-survey-2023-q2/)** — `2024-12-05` | `261 Pages`
 - `[`UNHCR-HDX-1030`]` **[Jordan - Socio-Economic Survey on Refugees in Host Communities - Vulnerability Assessment Framework (VAF), 2024](https://www.indexdata.org/jordan-socio-economic-survey-on-refugees-in-host-communities-vulnerability-assessment-framework-vaf-2024/)** — `2024-10-31` | `59 Pages`
 - `[`UNHCR-HDX-1064`]` **[Austria - Survey of intentions and perspectives of refugees from Ukraine - 2023](https://www.indexdata.org/austria-survey-of-intentions-and-perspectives-of-refugees-from-ukraine-2023/)** — `2024-09-24` | `81 Pages`
 - `[`UNHCR-HDX-671`]` **[Cameroon - Livelihoods Programme Monitoring Beneficiary Survey, 2017](https://www.indexdata.org/cameroon-livelihoods-programme-monitoring-beneficiary-survey-2017/)** — `2024-09-23` | `66 Pages`
@@ -780,6 +781,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 ### [United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-secretariat/](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
 
+- `[`UN-NV-2024-92`]` **[Diplomatic relations between Djibouti and El Salvador as of 6 December 2024](https://www.indexdata.org/nv-2024-92-diplomatic-relations-between-djibouti-and-el-salvador-as-of-6-december-2024/)** — `2024-12-06` | `5 Pages`
+- `[`UN-NV-2024-87`]` **[Diplomatic relations between Bolivia (Plurinational State of) and Mali as of 6 December 2024](https://www.indexdata.org/nv-2024-87-diplomatic-relations-between-bolivia-plurinational-state-of-and-mali-as-of-6-december-2024/)** — `2024-12-06` | `5 Pages`
 - `[`UN-NV-2024-86`]` **[Diplomatic relations between Jordan and Timor-Leste as of 22 November 2024](https://www.indexdata.org/nv-2024-86-diplomatic-relations-between-jordan-and-timor-leste-as-of-22-november-2024/)** — `2024-11-22` | `8 Pages`
 - `[`UN-NV-2024-85`]` **[Diplomatic relations between Bolivia (Plurinational State of) and Côte d'Ivoire as of 19 November 2024](https://www.indexdata.org/nv-2024-85-diplomatic-relations-between-bolivia-plurinational-state-of-and-cote-divoire-as-of-19-november-2024/)** — `2024-11-19` | `5 Pages`
 - `[`UN-NV-2024-84`]` **[Diplomatic relations between El Salvador and Seychelles as of 12 November 2024](https://www.indexdata.org/nv-2024-84-diplomatic-relations-between-el-salvador-and-seychelles-as-of-12-november-2024/)** — `2024-11-12` | `4 Pages`

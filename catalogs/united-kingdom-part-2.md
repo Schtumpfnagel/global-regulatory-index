@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,857` across `80` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,861` across `80` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-13 19:21 UTC`
+**Last Automated Sync:** `2026-11-13 20:27 UTC`
 
 ---
 
@@ -29,13 +29,13 @@
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
-- **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
+- **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
 - **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
-- **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
+- **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
 - **[HM Land Registry](https://www.indexdata.org/united-kingdom/hm-land-registry/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-land-registry/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-land-registry/feed/)
 - **[Maritime and Coastguard Agency](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/feed/)
 - **[Medicines and Healthcare products Regulatory Agency](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/feed/)
@@ -96,11 +96,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,857 of 2,857)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,861 of 2,861)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2026-203`]` **[The Wireless Telegraphy (Exemption) (Amendment) Regulations 2026](https://www.indexdata.org/the-wireless-telegraphy-exemption-amendment-regulations-2026/)** — `2026-03-03` | `4 Pages`
 - `[`UKSI-2026-206`]` **[The Levelling-up and Regeneration Act 2023 (Consequential Amendments and Transitional Provisions) (No. 3) (England) Regulations 2026](https://www.indexdata.org/the-levelling-up-and-regeneration-act-2023-consequential-amendments-and-transitional-provisions-no-3-england-regulations-2026/)** — `2026-03-02` | `8 Pages`
 - `[`UKSI-2026-193`]` **[The National Ministry Register Regulations 2026](https://www.indexdata.org/the-national-ministry-register-regulations-2026/)** — `2026-02-25` | `8 Pages`
 - `[`UKSI-2026-125`]` **[The A46 Coventry Junctions (Walsgrave) Development Consent Order 2026](https://www.indexdata.org/the-a46-coventry-junctions-walsgrave-development-consent-order-2026-2/)** — `2026-02-13` | `74 Pages`
@@ -776,6 +777,9 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 
+- `[`UKSI-2026-188`]` **[The Requirement to Assist with Certain Plan Making (Prescribed Public Bodies) (England) Regulations 2026](https://www.indexdata.org/the-requirement-to-assist-with-certain-plan-making-prescribed-public-bodies-england-regulations-2026/)** — `2026-03-03` | `8 Pages`
+- `[`UKSI-2026-187`]` **[The Town and Country Planning (Costs of Independent Examinations for Local Planning etc.) (Standard Daily Amount) (England) Regulations 2026](https://www.indexdata.org/the-town-and-country-planning-costs-of-independent-examinations-for-local-planning-etc-standard-daily-amount-england-regulations-2026/)** — `2026-03-03` | `4 Pages`
+- `[`UKSI-2026-186`]` **[The Town and Country Planning (Local Planning) (England) Regulations 2026](https://www.indexdata.org/the-town-and-country-planning-local-planning-england-regulations-2026/)** — `2026-03-03` | `88 Pages`
 - `[`UKSI-2026-122`]` **[The Town and Country Planning (Appeals) (Written Representations Procedure) (England) (Amendment and Saving Provision) Regulations 2026](https://www.indexdata.org/the-town-and-country-planning-appeals-written-representations-procedure-england-amendment-and-saving-provision-regulations-2026/)** — `2026-02-10` | `8 Pages`
 - `[`UKSI-2026-108`]` **[The Local Government Finance Act 1988 (Calculation of Non-Domestic Rating High-Value Multiplier) (England) Regulations 2026](https://www.indexdata.org/the-local-government-finance-act-1988-calculation-of-non-domestic-rating-high-value-multiplier-england-regulations-2026/)** — `2026-02-05` | `4 Pages`
 - `[`UKSI-2026-96`]` **[The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2026 (revoked)](https://www.indexdata.org/the-local-authorities-changes-to-years-of-ordinary-elections-england-order-2026-revoked/)** — `2026-02-03` | `8 Pages`
