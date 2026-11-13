@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,345` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,349` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 16:00 UTC`
+**Last Automated Sync:** `2026-11-13 16:56 UTC`
 
 ---
 
@@ -46,7 +46,7 @@
 - **[Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)** (`85` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
 - **[Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
 - **[Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
-- **[Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)** (`80` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
+- **[Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)** (`81` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
 - **[Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
 - **[Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)** (`78` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
 - **[State Department](https://www.indexdata.org/united-states/state-department/)** (`78` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
@@ -92,10 +92,10 @@
 - **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)
 - **[Surface Transportation Board](https://www.indexdata.org/united-states/surface-transportation-board/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-transportation-board/) | [RSS Feed](https://www.indexdata.org/united-states/surface-transportation-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)
 - **[Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
@@ -145,6 +145,7 @@
 - **[Rural Business-Cooperative Service](https://www.indexdata.org/united-states/rural-business-cooperative-service/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-business-cooperative-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-business-cooperative-service/feed/)
 - **[Agriculture Department](https://www.indexdata.org/united-states/agriculture-department/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/agriculture-department/) | [RSS Feed](https://www.indexdata.org/united-states/agriculture-department/feed/)
 - **[Bureau of the Fiscal Service](https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/) | [RSS Feed](https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/feed/)
+- **[Executive Office of the President (The White House)](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/feed/)
 - **[Labor Department](https://www.indexdata.org/united-states/labor-department/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/labor-department/) | [RSS Feed](https://www.indexdata.org/united-states/labor-department/feed/)
 - **[Natural Resources Revenue Office](https://www.indexdata.org/united-states/natural-resources-revenue-office/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/natural-resources-revenue-office/) | [RSS Feed](https://www.indexdata.org/united-states/natural-resources-revenue-office/feed/)
 - **[Rural Utilities Service](https://www.indexdata.org/united-states/rural-utilities-service/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-utilities-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-utilities-service/feed/)
@@ -162,7 +163,6 @@
 - **[Selective Service System](https://www.indexdata.org/united-states/selective-service-system/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/selective-service-system/) | [RSS Feed](https://www.indexdata.org/united-states/selective-service-system/feed/)
 - **[Workers' Compensation Programs Office](https://www.indexdata.org/united-states/workers-compensation-programs-office/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/workers-compensation-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/workers-compensation-programs-office/feed/)
 - **[Defense Nuclear Facilities Safety Board](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/) | [RSS Feed](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/feed/)
-- **[Executive Office of the President (The White House)](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/feed/)
 - **[Great Lakes St. Lawrence Seaway Development Corporation](https://www.indexdata.org/united-states/great-lakes-st-lawrence-seaway-development-corporation/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/great-lakes-st-lawrence-seaway-development-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/great-lakes-st-lawrence-seaway-development-corporation/feed/)
 - **[Labor-Management Standards Office](https://www.indexdata.org/united-states/labor-management-standards-office/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/labor-management-standards-office/) | [RSS Feed](https://www.indexdata.org/united-states/labor-management-standards-office/feed/)
 - **[National Archives and Records Administration](https://www.indexdata.org/united-states/national-archives-and-records-administration/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-archives-and-records-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-archives-and-records-administration/feed/)
@@ -253,11 +253,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,345)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,349)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-03682`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-76/)** — `2025-03-07` | `3 Pages`
+- `[`2025-03681`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-77/)** — `2025-03-07` | `2 Pages`
+- `[`2025-03619`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-helicopters-15/)** — `2025-03-07` | `6 Pages`
 - `[`2025-03606`]` **[Amendment of Class E Airspace; Mineral Wells, TX](https://www.indexdata.org/amendment-of-class-e-airspace-mineral-wells-tx-2/)** — `2025-03-07` | `3 Pages`
 - `[`2025-03403`]` **[Airworthiness Directives; Textron Aviation, Inc. (Type Certificate Previously Held by Cessna Aircraft Company) Airplanes](https://www.indexdata.org/airworthiness-directives-textron-aviation-inc-type-certificate-previously-held-by-cessna-aircraft-company-airplanes-7/)** — `2025-03-07` | `4 Pages`
 - `[`2025-03574`]` **[Revocation of Jet Route J-534 and Very High Frequency Omnidirectional Range (VOR) Federal Airway V-349, Amendment of VOR Federal Airways V-23 and V-165 and Establishment of Canadian Area Navigation (RNAV) Route T-645 in Northwestern United States](https://www.indexdata.org/revocation-of-jet-route-j-534-and-very-high-frequency-omnidirectional-range-vor-federal-airway-v-349-amendment-of-vor-federal-airways-v-23-and-v-165-and-establishment-of-canadian-area-navigation-r/)** — `2025-03-06` | `3 Pages`
@@ -619,6 +622,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-03609`]` **[Air Plan Approval; SC; Updates to the Cross-State Air Pollution Rule](https://www.indexdata.org/air-plan-approval-sc-updates-to-the-cross-state-air-pollution-rule/)** — `2025-03-07` | `3 Pages`
 - `[`2025-03608`]` **[Air Plan Approval; Alabama; Administrative Corrections and VOC Definition](https://www.indexdata.org/air-plan-approval-alabama-administrative-corrections-and-voc-definition-2/)** — `2025-03-07` | `4 Pages`
 - `[`2025-03227`]` **[Deletion From the National Priorities List](https://www.indexdata.org/deletion-from-the-national-priorities-list-3/)** — `2025-03-05` | `3 Pages`
 - `[`2025-03272`]` **[Hazardous Waste Management System; Identification and Listing of Hazardous Waste](https://www.indexdata.org/hazardous-waste-management-system-identification-and-listing-of-hazardous-waste-2/)** — `2025-03-03` | `4 Pages`
@@ -834,7 +838,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-24831`]` **[Glufosinate-P; Pesticide Tolerances](https://www.indexdata.org/glufosinate-p-pesticide-tolerances/)** — `2024-10-29` | `9 Pages`
 - `[`2024-24814`]` **[Extension of Time-Limited Tolerances for Emergency Exemptions](https://www.indexdata.org/extension-of-time-limited-tolerances-for-emergency-exemptions/)** — `2024-10-25` | `3 Pages`
 - `[`2024-24707`]` **[Interim Final Determination To Stay or Defer Sanctions; California; San Joaquin Valley Unified Air Pollution Control District](https://www.indexdata.org/interim-final-determination-to-stay-or-defer-sanctions-california-san-joaquin-valley-unified-air-pollution-control-district/)** — `2024-10-25` | `3 Pages`
-- `[`2024-24706`]` **[Conditional Approval; Contingency Measure State Implementation Plan for the 2008 Ozone Standard; San Joaquin Valley, California](https://www.indexdata.org/conditional-approval-contingency-measure-state-implementation-plan-for-the-2008-ozone-standard-san-joaquin-valley-california/)** — `2024-10-25` | `17 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1567,20 +1570,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-hous
 - `[`2024-25713`]` **[Clarification on the Requirement To Record the Guaranteed Rural Rental Housing Program Deed Restriction](https://www.indexdata.org/clarification-on-the-requirement-to-record-the-guaranteed-rural-rental-housing-program-deed-restriction/)** — `2024-11-05` | `3 Pages`
 - `[`2024-24742`]` **[Updates to the Off-Farm Labor Housing (Off-FLH), Loan and Grant Rates and Terms; Clarification of Grant Agreement Terms](https://www.indexdata.org/updates-to-the-off-farm-labor-housing-off-flh-loan-and-grant-rates-and-terms-clarification-of-grant-agreement-terms/)** — `2024-10-25` | `3 Pages`
 
-### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
-
-- `[`2025-01721`]` **[Safety Standard for Non-Full-Size Baby Cribs](https://www.indexdata.org/safety-standard-for-non-full-size-baby-cribs/)** — `2025-01-31` | `7 Pages`
-- `[`2025-01658`]` **[Safety Standard for Play Yards](https://www.indexdata.org/safety-standard-for-play-yards/)** — `2025-01-29` | `7 Pages`
-- `[`2025-01277`]` **[Notice of Availability and Request for Comment: Revision to the Voluntary Standard for Stationary Activity Centers](https://www.indexdata.org/notice-of-availability-and-request-for-comment-revision-to-the-voluntary-standard-for-stationary-activity-centers/)** — `2025-01-21` | `2 Pages`
-- `[`2024-30826`]` **[Certificates of Compliance](https://www.indexdata.org/certificates-of-compliance/)** — `2025-01-08` | `46 Pages`
-- `[`2024-28042`]` **[Safety Standard for Toys: Requirements for Water Beads; Extension of Comment Period; Correction](https://www.indexdata.org/safety-standard-for-toys-requirements-for-water-beads-extension-of-comment-period-correction/)** — `2024-11-29` | `2 Pages`
-- `[`2024-27042`]` **[Safety Standard for Soft Infant and Toddler Carriers](https://www.indexdata.org/safety-standard-for-soft-infant-and-toddler-carriers/)** — `2024-11-20` | `7 Pages`
-- `[`2024-25446`]` **[Mandatory Toy Safety Standards: Requirements for Neck Floats](https://www.indexdata.org/mandatory-toy-safety-standards-requirements-for-neck-floats-2/)** — `2024-11-20` | `32 Pages`
-- `[`2024-25876`]` **[Notice of Proposed Rulemaking: Safety Standard for Toys: Requirements for Water Beads; Extension of Comment Period](https://www.indexdata.org/notice-of-proposed-rulemaking-safety-standard-for-toys-requirements-for-water-beads-extension-of-comment-period/)** — `2024-11-08` | `2 Pages`
-- `[`2024-25181`]` **[Safety Standard for Infant Support Cushions](https://www.indexdata.org/safety-standard-for-infant-support-cushions/)** — `2024-11-04` | `32 Pages`
-- `[`2024-24403`]` **[Safety Standard for Nursing Pillows](https://www.indexdata.org/safety-standard-for-nursing-pillows/)** — `2024-10-25` | `33 Pages`
-
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
 
@@ -1595,20 +1584,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-ac
 - `[`2024-26055`]` **[Defense Federal Acquisition Regulation: Past Performance of Affiliate Companies of Small Business Concerns (DFARS Case 2024-D016)](https://www.indexdata.org/defense-federal-acquisition-regulation-past-performance-of-affiliate-companies-of-small-business-concerns-dfars-case-2024-d016/)** — `2024-11-15` | `2 Pages`
 - `[`2024-26054`]` **[Defense Federal Acquisition Regulation Supplement: Inapplicability of Additional Defense-Unique Laws and Certain Non-Statutory DFARS Clauses to Commercial Item Contracts (DFARS Case 2018-D074)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-inapplicability-of-additional-defense-unique-laws-and-certain-non-statutory-dfars-clauses-to-commercial-item-contracts-dfars-case-2018-d074/)** — `2024-11-15` | `5 Pages`
 
-### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
-
-- `[`2025-02793`]` **[Expansion of Buprenorphine Treatment via Telemedicine Encounter and Continuity of Care via Telemedicine for Veterans Affairs Patients](https://www.indexdata.org/expansion-of-buprenorphine-treatment-via-telemedicine-encounter-and-continuity-of-care-via-telemedicine-for-veterans-affairs-patients-2/)** — `2025-02-19` | `3 Pages`
-- `[`2025-01099`]` **[Special Registrations for Telemedicine and Limited State Telemedicine Registrations](https://www.indexdata.org/special-registrations-for-telemedicine-and-limited-state-telemedicine-registrations/)** — `2025-01-17` | `58 Pages`
-- `[`2025-01049`]` **[Expansion of Buprenorphine Treatment via Telemedicine Encounter](https://www.indexdata.org/expansion-of-buprenorphine-treatment-via-telemedicine-encounter/)** — `2025-01-17` | `20 Pages`
-- `[`2025-01044`]` **[Continuity of Care via Telemedicine for Veterans Affairs Patients](https://www.indexdata.org/continuity-of-care-via-telemedicine-for-veterans-affairs-patients/)** — `2025-01-17` | `18 Pages`
-- `[`2024-31130`]` **[Schedules of Controlled Substances: Extension of Temporary Placement of Seven Specific Fentanyl-Related Substances in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-extension-of-temporary-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-of-the-controlled-substances-act/)** — `2024-12-30` | `5 Pages`
-- `[`2024-30798`]` **[Schedules of Controlled Substances: Placement of Seven Specific Fentanyl-Related Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-2/)** — `2024-12-30` | `10 Pages`
-- `[`2024-30359`]` **[Schedules of Controlled Substances: Placement of 4-Chloromethcathinone in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-chloromethcathinone-in-schedule-i-2/)** — `2024-12-30` | `9 Pages`
-- `[`2024-27018`]` **[Third Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/third-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2024-11-19` | `5 Pages`
-- `[`2024-24616`]` **[Possible Control of Phenethyl Bromide as a List I Chemical](https://www.indexdata.org/possible-control-of-phenethyl-bromide-as-a-list-i-chemical/)** — `2024-10-28` | `4 Pages`
-- `[`2024-24635`]` **[Schedules of Controlled Substances: Placement of Butonitazene, Flunitazene, and Metodesnitazene Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-butonitazene-flunitazene-and-metodesnitazene-substances-in-schedule-i/)** — `2024-10-25` | `4 Pages`
-
 ### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
 
@@ -1622,6 +1597,32 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-en
 - `[`2024-27982`]` **[Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.indexdata.org/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation-2/)** — `2024-12-06` | `181 Pages`
 - `[`2024-27981`]` **[Establishing Reasonable Period of Time and Clarifications Regarding Clean Water Act Section 401(a)(1) Certifications for Hydroelectric Proceedings](https://www.indexdata.org/establishing-reasonable-period-of-time-and-clarifications-regarding-clean-water-act-section-401a1-certifications-for-hydroelectric-proceedings/)** — `2024-12-05` | `8 Pages`
 - `[`2024-24528`]` **[Compensation for Reactive Power Within the Standard Power Factor Range](https://www.indexdata.org/compensation-for-reactive-power-within-the-standard-power-factor-range/)** — `2024-11-26` | `47 Pages`
+
+### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
+
+- `[`2025-01721`]` **[Safety Standard for Non-Full-Size Baby Cribs](https://www.indexdata.org/safety-standard-for-non-full-size-baby-cribs/)** — `2025-01-31` | `7 Pages`
+- `[`2025-01658`]` **[Safety Standard for Play Yards](https://www.indexdata.org/safety-standard-for-play-yards/)** — `2025-01-29` | `7 Pages`
+- `[`2025-01277`]` **[Notice of Availability and Request for Comment: Revision to the Voluntary Standard for Stationary Activity Centers](https://www.indexdata.org/notice-of-availability-and-request-for-comment-revision-to-the-voluntary-standard-for-stationary-activity-centers/)** — `2025-01-21` | `2 Pages`
+- `[`2024-30826`]` **[Certificates of Compliance](https://www.indexdata.org/certificates-of-compliance/)** — `2025-01-08` | `46 Pages`
+- `[`2024-28042`]` **[Safety Standard for Toys: Requirements for Water Beads; Extension of Comment Period; Correction](https://www.indexdata.org/safety-standard-for-toys-requirements-for-water-beads-extension-of-comment-period-correction/)** — `2024-11-29` | `2 Pages`
+- `[`2024-27042`]` **[Safety Standard for Soft Infant and Toddler Carriers](https://www.indexdata.org/safety-standard-for-soft-infant-and-toddler-carriers/)** — `2024-11-20` | `7 Pages`
+- `[`2024-25446`]` **[Mandatory Toy Safety Standards: Requirements for Neck Floats](https://www.indexdata.org/mandatory-toy-safety-standards-requirements-for-neck-floats-2/)** — `2024-11-20` | `32 Pages`
+- `[`2024-25876`]` **[Notice of Proposed Rulemaking: Safety Standard for Toys: Requirements for Water Beads; Extension of Comment Period](https://www.indexdata.org/notice-of-proposed-rulemaking-safety-standard-for-toys-requirements-for-water-beads-extension-of-comment-period/)** — `2024-11-08` | `2 Pages`
+- `[`2024-25181`]` **[Safety Standard for Infant Support Cushions](https://www.indexdata.org/safety-standard-for-infant-support-cushions/)** — `2024-11-04` | `32 Pages`
+
+### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+
+- `[`2025-02793`]` **[Expansion of Buprenorphine Treatment via Telemedicine Encounter and Continuity of Care via Telemedicine for Veterans Affairs Patients](https://www.indexdata.org/expansion-of-buprenorphine-treatment-via-telemedicine-encounter-and-continuity-of-care-via-telemedicine-for-veterans-affairs-patients-2/)** — `2025-02-19` | `3 Pages`
+- `[`2025-01099`]` **[Special Registrations for Telemedicine and Limited State Telemedicine Registrations](https://www.indexdata.org/special-registrations-for-telemedicine-and-limited-state-telemedicine-registrations/)** — `2025-01-17` | `58 Pages`
+- `[`2025-01049`]` **[Expansion of Buprenorphine Treatment via Telemedicine Encounter](https://www.indexdata.org/expansion-of-buprenorphine-treatment-via-telemedicine-encounter/)** — `2025-01-17` | `20 Pages`
+- `[`2025-01044`]` **[Continuity of Care via Telemedicine for Veterans Affairs Patients](https://www.indexdata.org/continuity-of-care-via-telemedicine-for-veterans-affairs-patients/)** — `2025-01-17` | `18 Pages`
+- `[`2024-31130`]` **[Schedules of Controlled Substances: Extension of Temporary Placement of Seven Specific Fentanyl-Related Substances in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-extension-of-temporary-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-of-the-controlled-substances-act/)** — `2024-12-30` | `5 Pages`
+- `[`2024-30798`]` **[Schedules of Controlled Substances: Placement of Seven Specific Fentanyl-Related Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-2/)** — `2024-12-30` | `10 Pages`
+- `[`2024-30359`]` **[Schedules of Controlled Substances: Placement of 4-Chloromethcathinone in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-chloromethcathinone-in-schedule-i-2/)** — `2024-12-30` | `9 Pages`
+- `[`2024-27018`]` **[Third Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/third-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2024-11-19` | `5 Pages`
+- `[`2024-24616`]` **[Possible Control of Phenethyl Bromide as a List I Chemical](https://www.indexdata.org/possible-control-of-phenethyl-bromide-as-a-list-i-chemical/)** — `2024-10-28` | `4 Pages`
 
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
@@ -1877,14 +1878,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/council-on
 - `[`2025-00473`]` **[Office of Environmental Quality Management Fund](https://www.indexdata.org/office-of-environmental-quality-management-fund/)** — `2025-01-15` | `4 Pages`
 - `[`2024-28871`]` **[Freedom of Information Act and Privacy Act Regulations](https://www.indexdata.org/freedom-of-information-act-and-privacy-act-regulations-2/)** — `2024-12-11` | `11 Pages`
 
-### [Indian Affairs Bureau](https://www.indexdata.org/united-states/indian-affairs-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/indian-affairs-bureau/](https://www.indexdata.org/united-states/indian-affairs-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/indian-affairs-bureau/feed/)
-
-- `[`2025-02558`]` **[Federal Acknowledgment of American Indian Tribes](https://www.indexdata.org/federal-acknowledgment-of-american-indian-tribes/)** — `2025-02-13` | `2 Pages`
-- `[`2025-00709`]` **[Federal Acknowledgment of American Indian Tribes](https://www.indexdata.org/federal-acknowledgment-of-american-indian-tribes-2/)** — `2025-01-15` | `19 Pages`
-- `[`2024-28302`]` **[Self-Governance PROGRESS Act Regulations](https://www.indexdata.org/self-governance-progress-act-regulations/)** — `2024-12-11` | `61 Pages`
-- `[`2024-24332`]` **[Safeguard Tribal Objects of Patrimony](https://www.indexdata.org/safeguard-tribal-objects-of-patrimony/)** — `2024-10-25` | `22 Pages`
-
 ### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
 
@@ -1928,6 +1921,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-ser
 - `[`2025-00434`]` **[Subsistence Management Regulations for Public Lands in Alaska-2026-27 and 2027-28 Subsistence Taking of Wildlife Regulations](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-2026-27-and-2027-28-subsistence-taking-of-wildlife-regulations/)** — `2025-01-21` | `6 Pages`
 - `[`2024-27555`]` **[Law Enforcement; Criminal Prohibitions](https://www.indexdata.org/law-enforcement-criminal-prohibitions/)** — `2024-11-25` | `9 Pages`
 - `[`2024-26119`]` **[Subsistence Management Regulations for Public Lands in Alaska-Subpart B, Federal Subsistence Board Membership; Correction](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-subpart-b-federal-subsistence-board-membership-correction/)** — `2024-11-13` | `2 Pages`
+
+### [Indian Affairs Bureau](https://www.indexdata.org/united-states/indian-affairs-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/indian-affairs-bureau/](https://www.indexdata.org/united-states/indian-affairs-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/indian-affairs-bureau/feed/)
+
+- `[`2025-02558`]` **[Federal Acknowledgment of American Indian Tribes](https://www.indexdata.org/federal-acknowledgment-of-american-indian-tribes/)** — `2025-02-13` | `2 Pages`
+- `[`2025-00709`]` **[Federal Acknowledgment of American Indian Tribes](https://www.indexdata.org/federal-acknowledgment-of-american-indian-tribes-2/)** — `2025-01-15` | `19 Pages`
+- `[`2024-28302`]` **[Self-Governance PROGRESS Act Regulations](https://www.indexdata.org/self-governance-progress-act-regulations/)** — `2024-12-11` | `61 Pages`
 
 ### [International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/international-trade-administration/](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
