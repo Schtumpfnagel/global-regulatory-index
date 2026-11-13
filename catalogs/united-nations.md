@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,973` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,974` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-13 10:12 UTC`
+**Last Automated Sync:** `2026-11-13 11:08 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,973)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,974)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1176,11 +1176,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-80-L.87`]` **[Scope, modalities, format and organization of the High-Level Meeting on Universal Health Coverage — draft resolution](https://www.indexdata.org/a-80-l-87-scope-modalities-format-and-organization-of-the-high-level-meeting-on-universal-health-coverage-draft-resolution/)** — `2026-07-02` | `4 Pages`
 - `[`UN-A-80-L.83`]` **[New Partnership for Africa's Development : progress in implementation and international support — draft resolution](https://www.indexdata.org/a-80-l-83-new-partnership-for-africas-development-progress-in-implementation-and-international-support-draft-resolution/)** — `2026-07-02` | `14 Pages`
 - `[`UN-A-RES-80-286`]` **[The United Nations Global Counter-Terrorism Strategy : 9th review — resolution](https://www.indexdata.org/a-res-80-286-the-united-nations-global-counter-terrorism-strategy-9th-review-resolution/)** — `2026-07-01` | `28 Pages`
-- `[`UN-A-RES-80-285`]` **[Financing of the activities arising from Security Council resolution 1863 (2009) — resolution](https://www.indexdata.org/a-res-80-285-financing-of-the-activities-arising-from-security-council-resolution-1863-2009-resolution/)** — `2026-07-01` | `4 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-PV.10264`]` **[Security Council, 81st year — 10264th meeting Thursday, 5 November 2026, New York](https://www.indexdata.org/s-pv-10264-security-council-81st-year-10264th-meeting-thursday-5-november-2026-new-york/)** — `2026-11-13` | `2 Pages`
 - `[`UN-S-PV.10257`]` **[Security Council, 81st year — 10257th meeting, Friday, 30 October 2026, New York](https://www.indexdata.org/s-pv-10257-security-council-81st-year-10257th-meeting-friday-30-october-2026-new-york/)** — `2026-11-06` | `10 Pages`
 - `[`UN-S-PRST-2026-5`]` **[Statement](https://www.indexdata.org/s-prst-2026-5-statement/)** — `2026-11-05` | `2 Pages`
 - `[`UN-S-PV.10260`]` **[Security Council, 81st year — 10260th meeting, Friday, 30 October 2026, New York](https://www.indexdata.org/s-pv-10260-security-council-81st-year-10260th-meeting-friday-30-october-2026-new-york/)** — `2026-11-04` | `20 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,323` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,327` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-13 10:12 UTC`
+**Last Automated Sync:** `2026-11-13 11:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`319` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`323` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,323 of 15,323)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,327 of 15,327)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -480,6 +480,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2023-12725`]` **[Emergency Alert System; Wireless Emergency Alerts](https://www.indexdata.org/emergency-alert-system-wireless-emergency-alerts-3/)** — `2023-06-21` | `31 Pages`
 - `[`2023-12142`]` **[Call Authentication Trust Anchor](https://www.indexdata.org/call-authentication-trust-anchor-3/)** — `2023-06-21` | `26 Pages`
 - `[`2023-12803`]` **[Revising Spectrum Sharing Rules for Non-Geostationary Orbit, Fixed-Satellite Service Systems](https://www.indexdata.org/revising-spectrum-sharing-rules-for-non-geostationary-orbit-fixed-satellite-service-systems-3/)** — `2023-06-20` | `11 Pages`
 - `[`2023-12269`]` **[Radio Broadcasting Services; Tecopa, California](https://www.indexdata.org/radio-broadcasting-services-tecopa-california/)** — `2023-06-08` | `2 Pages`
@@ -493,6 +494,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 
+- `[`2023-12315`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Southern Elktoe and Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-southern-elktoe-and-designation-of-critical-habitat/)** — `2023-06-21` | `30 Pages`
 - `[`2023-12129`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Navasota False Foxglove and Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-navasota-false-foxglove-and-designation-of-critical-habitat/)** — `2023-06-13` | `23 Pages`
 - `[`2023-12636`]` **[Regulations To Implement the Big Cat Public Safety Act](https://www.indexdata.org/regulations-to-implement-the-big-cat-public-safety-act/)** — `2023-06-12` | `18 Pages`
 - `[`2023-12132`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Swale Paintbrush](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-swale-paintbrush-2/)** — `2023-06-08` | `15 Pages`
@@ -554,6 +556,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2023-12769`]` **[Olives Grown in California; Increased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-increased-assessment-rate-2/)** — `2023-06-16` | `4 Pages`
 - `[`2023-12770`]` **[Tart Cherries Grown in the States of Michigan, New York, Pennsylvania, Oregon, Utah, Washington, and Wisconsin; Assessment Rate Increase](https://www.indexdata.org/tart-cherries-grown-in-the-states-of-michigan-new-york-pennsylvania-oregon-utah-washington-and-wisconsin-assessment-rate-increase/)** — `2023-06-15` | `3 Pages`
 - `[`2023-11149`]` **[National Organic Program; National List of Allowed and Prohibited Substances (2022 Sunset); Correction](https://www.indexdata.org/national-organic-program-national-list-of-allowed-and-prohibited-substances-2022-sunset-correction/)** — `2023-05-25` | `2 Pages`
+
+### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
+
+- `[`2023-12798`]` **[Section 6417 Elective Payment of Applicable Credits](https://www.indexdata.org/section-6417-elective-payment-of-applicable-credits/)** — `2023-06-21` | `31 Pages`
+- `[`2023-12797`]` **[Pre-Filing Registration Requirements for Certain Tax Credit Elections](https://www.indexdata.org/pre-filing-registration-requirements-for-certain-tax-credit-elections/)** — `2023-06-21` | `10 Pages`
+- `[`2023-11861`]` **[Malta Personal Retirement Scheme Listed Transaction](https://www.indexdata.org/malta-personal-retirement-scheme-listed-transaction/)** — `2023-06-07` | `9 Pages`
+- `[`2023-11718`]` **[Additional Guidance on Low-Income Communities Bonus Credit Program](https://www.indexdata.org/additional-guidance-on-low-income-communities-bonus-credit-program-2/)** — `2023-06-01` | `12 Pages`
 
 ### [National Energy Technology Laboratory (U.S. Department of Energy)](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/) | [RSS Feed](https://www.indexdata.org/united-states/national-energy-technology-laboratory-u-s-department-of-energy/feed/)
@@ -655,12 +665,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/government
 
 - `[`2023-12291`]` **[Executive Branch Financial Disclosure and Standards of Ethical Conduct Regulations](https://www.indexdata.org/executive-branch-financial-disclosure-and-standards-of-ethical-conduct-regulations/)** — `2023-06-09` | `3 Pages`
 - `[`2023-10290`]` **[Legal Expense Fund Regulation](https://www.indexdata.org/legal-expense-fund-regulation/)** — `2023-05-25` | `17 Pages`
-
-### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
-
-- `[`2023-11861`]` **[Malta Personal Retirement Scheme Listed Transaction](https://www.indexdata.org/malta-personal-retirement-scheme-listed-transaction/)** — `2023-06-07` | `9 Pages`
-- `[`2023-11718`]` **[Additional Guidance on Low-Income Communities Bonus Credit Program](https://www.indexdata.org/additional-guidance-on-low-income-communities-bonus-credit-program-2/)** — `2023-06-01` | `12 Pages`
 
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)

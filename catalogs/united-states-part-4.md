@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,323` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,327` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 10:12 UTC`
+**Last Automated Sync:** `2026-11-13 11:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`319` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`323` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,11 +251,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,323)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,327)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-00299`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-75/)** — `2026-01-09` | `3 Pages`
 - `[`2026-00247`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-61/)** — `2026-01-09` | `3 Pages`
 - `[`2026-00171`]` **[Special Conditions: ZeroAvia, Inc. Model ZA601 Electric Engines](https://www.indexdata.org/special-conditions-zeroavia-inc-model-za601-electric-engines-2/)** — `2026-01-08` | `13 Pages`
 - `[`2026-00163`]` **[Airworthiness Directives; Diamond Aircraft Industries GmbH Airplanes](https://www.indexdata.org/airworthiness-directives-diamond-aircraft-industries-gmbh-airplanes/)** — `2026-01-08` | `5 Pages`
@@ -615,12 +616,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-13742`]` **[Airworthiness Directives; Schempp-Hirth Flugzeugbau GmbH Gliders](https://www.indexdata.org/airworthiness-directives-schempp-hirth-flugzeugbau-gmbh-gliders-3/)** — `2025-07-22` | `4 Pages`
 - `[`2025-13715`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-101/)** — `2025-07-22` | `2 Pages`
 - `[`2025-13714`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-111/)** — `2025-07-22` | `4 Pages`
-- `[`2025-13660`]` **[Airworthiness Directives; CFM International, S.A. Engines](https://www.indexdata.org/airworthiness-directives-cfm-international-s-a-engines-8/)** — `2025-07-21` | `4 Pages`
-- `[`2025-13644`]` **[Airworthiness Directives; General Electric Company Engines](https://www.indexdata.org/airworthiness-directives-general-electric-company-engines-9/)** — `2025-07-21` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-00281`]` **[Air Plan Approval; New York; Ortho Clinical Diagnostics](https://www.indexdata.org/air-plan-approval-new-york-ortho-clinical-diagnostics/)** — `2026-01-09` | `3 Pages`
 - `[`2026-00258`]` **[Air Plan Approval; Ohio; Ohio Permit Rules Revisions](https://www.indexdata.org/air-plan-approval-ohio-ohio-permit-rules-revisions-2/)** — `2026-01-09` | `4 Pages`
 - `[`2026-00253`]` **[Approval and Promulgation of Delegation of Authority for Designated Facilities and Pollutants; Ohio; Delegation of Authority](https://www.indexdata.org/approval-and-promulgation-of-delegation-of-authority-for-designated-facilities-and-pollutants-ohio-delegation-of-authority/)** — `2026-01-09` | `4 Pages`
 - `[`2026-00249`]` **[Air Plan Approval; New Hampshire; Updates to Materials Incorporated by Reference](https://www.indexdata.org/air-plan-approval-new-hampshire-updates-to-materials-incorporated-by-reference/)** — `2026-01-09` | `3 Pages`
@@ -1006,7 +1006,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2025-13816`]` **[Safety Zone; Dyes Inlet, Silverdale, WA](https://www.indexdata.org/safety-zone-dyes-inlet-silverdale-wa-2/)** — `2025-07-23` | `3 Pages`
 - `[`2025-13793`]` **[Safety Zone; Kentucky River, Frankfort, KY](https://www.indexdata.org/safety-zone-kentucky-river-frankfort-ky/)** — `2025-07-22` | `3 Pages`
 - `[`2025-13675`]` **[Special Local Regulations; Recurring Marine Events; Sector St. Petersburg](https://www.indexdata.org/special-local-regulations-recurring-marine-events-sector-st-petersburg-4/)** — `2025-07-21` | `4 Pages`
-- `[`2025-13655`]` **[Special Local Regulation; 100th Annual Pony Swim, Chincoteague Inlet and Surrounding Waters, Sector Virginia Captain of the Port Zone](https://www.indexdata.org/special-local-regulation-100th-annual-pony-swim-chincoteague-inlet-and-surrounding-waters-sector-virginia-captain-of-the-port-zone/)** — `2025-07-21` | `4 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1584,20 +1583,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2025-13841`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General License 13N](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-license-13n/)** — `2025-07-23` | `2 Pages`
 - `[`2025-13836`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 55D and 115B](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55d-and-115b/)** — `2025-07-23` | `2 Pages`
 
-### [Education Department](https://www.indexdata.org/united-states/education-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
-
-- `[`2025-19729`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program/)** — `2025-10-31` | `37 Pages`
-- `[`2025-19019`]` **[Contingent Additional Meeting Dates for Negotiated Rulemaking Committee](https://www.indexdata.org/contingent-additional-meeting-dates-for-negotiated-rulemaking-committee/)** — `2025-09-30` | `2 Pages`
-- `[`2025-18640`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Meaningful Learning Opportunities](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-meaningful-learning-opportunities/)** — `2025-09-25` | `4 Pages`
-- `[`2025-18639`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-career-pathways-and-workforce-readiness/)** — `2025-09-25` | `4 Pages`
-- `[`2025-17960`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Promoting Patriotic Education](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-promoting-patriotic-education/)** — `2025-09-17` | `3 Pages`
-- `[`2025-17310`]` **[Final Priorities and Definitions-Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States](https://www.indexdata.org/final-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions-on-evidence-based-literacy-education-choice-and-returning-education-to-the-states/)** — `2025-09-09` | `19 Pages`
-- `[`2025-15665`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program-2/)** — `2025-08-18` | `23 Pages`
-- `[`2025-14188`]` **[Final Waiver and Extension of the Project Period With Funding for Arts in Education National Program](https://www.indexdata.org/final-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program-2/)** — `2025-07-28` | `2 Pages`
-- `[`2025-13998`]` **[Public Hearing; Negotiated Rulemaking Committees](https://www.indexdata.org/public-hearing-negotiated-rulemaking-committees/)** — `2025-07-25` | `4 Pages`
-- `[`2025-13650`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing-artificial-intelligence-in-education/)** — `2025-07-21` | `4 Pages`
-
 ### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
 
@@ -1625,6 +1610,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 - `[`2025-19322`]` **[Pipeline Safety: Integration of Innovative Remote Sensing Technologies for Right-of-Way Patrols on Gas and Hazardous Liquid Pipelines](https://www.indexdata.org/pipeline-safety-integration-of-innovative-remote-sensing-technologies-for-right-of-way-patrols-on-gas-and-hazardous-liquid-pipelines-2/)** — `2025-10-02` | `2 Pages`
 - `[`2025-15988`]` **[Pipeline Safety: Periodic Standards Update II](https://www.indexdata.org/pipeline-safety-periodic-standards-update-ii/)** — `2025-08-21` | `18 Pages`
 - `[`2025-15141`]` **[Pipeline Safety: Clarifying Recordkeeping Requirements for Testing in MAOP Reconfirmation Regulation](https://www.indexdata.org/pipeline-safety-clarifying-recordkeeping-requirements-for-testing-in-maop-reconfirmation-regulation/)** — `2025-08-08` | `2 Pages`
+
+### [Education Department](https://www.indexdata.org/united-states/education-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
+
+- `[`2025-19729`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program/)** — `2025-10-31` | `37 Pages`
+- `[`2025-19019`]` **[Contingent Additional Meeting Dates for Negotiated Rulemaking Committee](https://www.indexdata.org/contingent-additional-meeting-dates-for-negotiated-rulemaking-committee/)** — `2025-09-30` | `2 Pages`
+- `[`2025-18640`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Meaningful Learning Opportunities](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-meaningful-learning-opportunities/)** — `2025-09-25` | `4 Pages`
+- `[`2025-18639`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-career-pathways-and-workforce-readiness/)** — `2025-09-25` | `4 Pages`
+- `[`2025-17960`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Promoting Patriotic Education](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-promoting-patriotic-education/)** — `2025-09-17` | `3 Pages`
+- `[`2025-17310`]` **[Final Priorities and Definitions-Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States](https://www.indexdata.org/final-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions-on-evidence-based-literacy-education-choice-and-returning-education-to-the-states/)** — `2025-09-09` | `19 Pages`
+- `[`2025-15665`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program-2/)** — `2025-08-18` | `23 Pages`
+- `[`2025-14188`]` **[Final Waiver and Extension of the Project Period With Funding for Arts in Education National Program](https://www.indexdata.org/final-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program-2/)** — `2025-07-28` | `2 Pages`
+- `[`2025-13998`]` **[Public Hearing; Negotiated Rulemaking Committees](https://www.indexdata.org/public-hearing-negotiated-rulemaking-committees/)** — `2025-07-25` | `4 Pages`
 
 ### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
@@ -1713,6 +1711,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2025-14826`]` **[Visas: Visa Bond Pilot Program](https://www.indexdata.org/visas-visa-bond-pilot-program/)** — `2025-08-05` | `9 Pages`
 - `[`2025-14784`]` **[Visas: Enhancing Vetting and Combatting Fraud in the Diversity Immigrant Visa Program](https://www.indexdata.org/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program-2/)** — `2025-08-05` | `9 Pages`
 
+### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
+
+- `[`2026-00269`]` **[Transportation of Fuel for Agricultural Aircraft Operations](https://www.indexdata.org/transportation-of-fuel-for-agricultural-aircraft-operations/)** — `2026-01-09` | `11 Pages`
+- `[`2026-00268`]` **[Clarification to the Applicability of Emergency Exemptions; Response to Petitions for Reconsideration](https://www.indexdata.org/clarification-to-the-applicability-of-emergency-exemptions-response-to-petitions-for-reconsideration-2/)** — `2026-01-09` | `6 Pages`
+- `[`2025-20282`]` **[Incorporation by Reference; North American Standard Out-of-Service Criteria; Hazardous Materials Safety Permits (2025)](https://www.indexdata.org/incorporation-by-reference-north-american-standard-out-of-service-criteria-hazardous-materials-safety-permits-2025/)** — `2025-11-19` | `7 Pages`
+- `[`2025-19230`]` **[Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL); Correction](https://www.indexdata.org/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl-correction/)** — `2025-10-02` | `2 Pages`
+- `[`2025-18869`]` **[Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.indexdata.org/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl-2/)** — `2025-09-29` | `18 Pages`
+- `[`2025-17939`]` **[Hours of Service of Drivers; Pilot Program To Allow Commercial Drivers To Split Sleeper Berth Time](https://www.indexdata.org/hours-of-service-of-drivers-pilot-program-to-allow-commercial-drivers-to-split-sleeper-berth-time/)** — `2025-09-17` | `9 Pages`
+- `[`2025-13928`]` **[Federal Motor Vehicle Safety Standards; Federal Motor Carrier Safety Regulations; Parts and Accessories Necessary for Safe Operation; Speed Limiting Devices; Withdrawal](https://www.indexdata.org/federal-motor-vehicle-safety-standards-federal-motor-carrier-safety-regulations-parts-and-accessories-necessary-for-safe-operation-speed-limiting-devices-withdrawal/)** — `2025-07-24` | `5 Pages`
+
 ### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 
@@ -1743,16 +1752,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-ac
 - `[`2025-16206`]` **[Defense Federal Acquisition Regulation Supplement: Preventing Conflicts of Interest for Certain Consulting Services (DFARS Case 2024-D007)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-preventing-conflicts-of-interest-for-certain-consulting-services-dfars-case-2024-d007/)** — `2025-08-25` | `5 Pages`
 - `[`2025-16205`]` **[Defense Federal Acquisition Regulation Supplement: Inflation Adjustment of Acquisition-Related Thresholds (DFARS Case 2024-D002)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-inflation-adjustment-of-acquisition-related-thresholds-dfars-case-2024-d002/)** — `2025-08-25` | `5 Pages`
 - `[`2025-16204`]` **[Defense Federal Acquisition Regulation Supplement; Technical Amendments](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-technical-amendments/)** — `2025-08-25` | `4 Pages`
-
-### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
-
-- `[`2026-00268`]` **[Clarification to the Applicability of Emergency Exemptions; Response to Petitions for Reconsideration](https://www.indexdata.org/clarification-to-the-applicability-of-emergency-exemptions-response-to-petitions-for-reconsideration-2/)** — `2026-01-09` | `6 Pages`
-- `[`2025-20282`]` **[Incorporation by Reference; North American Standard Out-of-Service Criteria; Hazardous Materials Safety Permits (2025)](https://www.indexdata.org/incorporation-by-reference-north-american-standard-out-of-service-criteria-hazardous-materials-safety-permits-2025/)** — `2025-11-19` | `7 Pages`
-- `[`2025-19230`]` **[Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL); Correction](https://www.indexdata.org/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl-correction/)** — `2025-10-02` | `2 Pages`
-- `[`2025-18869`]` **[Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.indexdata.org/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl-2/)** — `2025-09-29` | `18 Pages`
-- `[`2025-17939`]` **[Hours of Service of Drivers; Pilot Program To Allow Commercial Drivers To Split Sleeper Berth Time](https://www.indexdata.org/hours-of-service-of-drivers-pilot-program-to-allow-commercial-drivers-to-split-sleeper-berth-time/)** — `2025-09-17` | `9 Pages`
-- `[`2025-13928`]` **[Federal Motor Vehicle Safety Standards; Federal Motor Carrier Safety Regulations; Parts and Accessories Necessary for Safe Operation; Speed Limiting Devices; Withdrawal](https://www.indexdata.org/federal-motor-vehicle-safety-standards-federal-motor-carrier-safety-regulations-parts-and-accessories-necessary-for-safe-operation-speed-limiting-devices-withdrawal/)** — `2025-07-24` | `5 Pages`
 
 ### [Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
@@ -1917,6 +1916,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/engineers-
 - `[`2025-20402`]` **[Updated Definition of “Waters of the United States”](https://www.indexdata.org/updated-definition-of-waters-of-the-united-states-2/)** — `2025-11-20` | `49 Pages`
 - `[`2025-15110`]` **[Civil Monetary Penalty Inflation Adjustment Rule](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustment-rule/)** — `2025-08-08` | `4 Pages`
 
+### [Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-service-agency/](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
+
+- `[`2026-00313`]` **[Changes to Agriculture Risk Coverage, Price Loss Coverage, and Dairy Margin Coverage Programs](https://www.indexdata.org/changes-to-agriculture-risk-coverage-price-loss-coverage-and-dairy-margin-coverage-programs/)** — `2026-01-12` | `17 Pages`
+- `[`2025-20132`]` **[Agricultural Disaster Indemnity Programs](https://www.indexdata.org/agricultural-disaster-indemnity-programs/)** — `2025-11-18` | `33 Pages`
+- `[`2025-17742`]` **[Emergency Livestock Relief Programs](https://www.indexdata.org/emergency-livestock-relief-programs/)** — `2025-09-15` | `15 Pages`
+
 ### [Federal Crop Insurance Corporation](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-crop-insurance-corporation/](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/feed/)
 
@@ -1948,12 +1954,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-
 
 - `[`2025-23970`]` **[Security Bars and Processing; Confirmation of Effective Date; Partial Withdrawal](https://www.indexdata.org/security-bars-and-processing-confirmation-of-effective-date-partial-withdrawal/)** — `2025-12-30` | `15 Pages`
 - `[`2025-16573`]` **[Designation of Temporary Immigration Judges](https://www.indexdata.org/designation-of-temporary-immigration-judges/)** — `2025-08-28` | `7 Pages`
-
-### [Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-service-agency/](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
-
-- `[`2025-20132`]` **[Agricultural Disaster Indemnity Programs](https://www.indexdata.org/agricultural-disaster-indemnity-programs/)** — `2025-11-18` | `33 Pages`
-- `[`2025-17742`]` **[Emergency Livestock Relief Programs](https://www.indexdata.org/emergency-livestock-relief-programs/)** — `2025-09-15` | `15 Pages`
 
 ### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)

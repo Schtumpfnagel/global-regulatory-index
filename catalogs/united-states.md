@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,323` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,327` across `235` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 10:12 UTC`
+**Last Automated Sync:** `2026-11-13 11:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`319` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`323` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,323)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,327)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -320,6 +320,10 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CRPT-119hrpt853`]` **[H. Rept. 119-853](https://www.indexdata.org/h-rept-119-853/)** — `2026-11-02` | `11 Pages`
 - `[`US-CHRG-119hhrg65540`]` **[Serial No. 119-44 - BUILDING AN AI-READY AMERICA: ADOPTING AI AT WORK](https://www.indexdata.org/serial-no-119-44-building-an-ai-ready-america-adopting-ai-at-work/)** — `2026-11-02` | `98 Pages`
 - `[`US-CRPT-119hrpt878`]` **[H. Rept. 119-878](https://www.indexdata.org/h-rept-119-878/)** — `2026-11-01` | `2 Pages`
+- `[`US-CRPT-119hrpt875`]` **[H. Rept. 119-875](https://www.indexdata.org/h-rept-119-875/)** — `2026-11-01` | `12 Pages`
+- `[`US-CRPT-119hrpt873`]` **[H. Rept. 119-873](https://www.indexdata.org/h-rept-119-873/)** — `2026-11-01` | `9 Pages`
+- `[`US-CRPT-119hrpt872`]` **[H. Rept. 119-872](https://www.indexdata.org/h-rept-119-872/)** — `2026-11-01` | `13 Pages`
+- `[`US-CRPT-119hrpt869`]` **[H. Rept. 119-869](https://www.indexdata.org/h-rept-119-869/)** — `2026-11-01` | `18 Pages`
 - `[`US-CHRG-119hhrg64564`]` **[Serial No. 119-59 - DELIVERING QUALITY AND MODERN HEALTHCARE TO MICHIGAN'S VETERANS AND SERVICEMEMBERS](https://www.indexdata.org/serial-no-119-59-delivering-quality-and-modern-healthcare-to-michigans-veterans-and-servicemembers/)** — `2026-11-01` | `69 Pages`
 - `[`US-CHRG-119hhrg64516`]` **[Small Business Committee Document Number 119-43 - FUELING THE GOLDEN AGE: FUTURE RESOURCE NEEDS AND SMALL BUSINESS OPPORTUNITY](https://www.indexdata.org/small-business-committee-document-number-119-43-fueling-the-golden-age-future-resource-needs-and-small-business-opportunity/)** — `2026-11-01` | `69 Pages`
 - `[`US-CHRG-119hhrg64505`]` **[Serial No. 119-47 - TSA MODERNIZATION: INDUSTRY PERSPECTIVES ON KEY SECURITY AND TRAVEL REFORMS 25 YEARS AFTER 9/11](https://www.indexdata.org/serial-no-119-47-tsa-modernization-industry-perspectives-on-key-security-and-travel-reforms-25-years-after-9-11/)** — `2026-11-01` | `68 Pages`
@@ -734,7 +738,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-18055`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-20/)** — `2026-09-03` | `3 Pages`
 - `[`2026-18053`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-2/)** — `2026-09-03` | `4 Pages`
 - `[`2026-18052`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-19/)** — `2026-09-03` | `4 Pages`
-- `[`2026-18032`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-7/)** — `2026-09-03` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -863,7 +866,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-18166`]` **[Drawbridge Operation Regulation; Savannah River, Clyo, GA](https://www.indexdata.org/drawbridge-operation-regulation-savannah-river-clyo-ga/)** — `2026-09-04` | `2 Pages`
 - `[`2026-18130`]` **[Safety Zone; Ohio Street Beach Swim Course, Lake Michigan, Chicago Harbor, Chicago, IL](https://www.indexdata.org/safety-zone-ohio-street-beach-swim-course-lake-michigan-chicago-harbor-chicago-il/)** — `2026-09-04` | `2 Pages`
 - `[`2026-18062`]` **[Special Local Regulation; Allegheny River Mile Markers 0-3.5 and Ohio River Mile Marker 0-3, Pittsburgh, PA](https://www.indexdata.org/special-local-regulation-allegheny-river-mile-markers-0-3-5-and-ohio-river-mile-marker-0-3-pittsburgh-pa/)** — `2026-09-03` | `2 Pages`
-- `[`2026-18044`]` **[Safety Zone; Outer Harbor, Buffalo, NY](https://www.indexdata.org/safety-zone-outer-harbor-buffalo-ny/)** — `2026-09-03` | `2 Pages`
 
 ### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
@@ -1313,7 +1315,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2026-18478`]` **[Telecommunications Relay Service ASCII Format Requirement](https://www.indexdata.org/telecommunications-relay-service-ascii-format-requirement/)** — `2026-09-10` | `3 Pages`
 - `[`2026-18366`]` **[Improving the Effectiveness of the Robocall Mitigation Database; Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls](https://www.indexdata.org/improving-the-effectiveness-of-the-robocall-mitigation-database-call-authentication-trust-anchor-advanced-methods-to-target-and-eliminate-unlawful-robocalls/)** — `2026-09-09` | `36 Pages`
 - `[`2026-18282`]` **[Unleashing Unlicensed Spectrum for Direct-to-Device](https://www.indexdata.org/unleashing-unlicensed-spectrum-for-direct-to-device/)** — `2026-09-08` | `15 Pages`
-- `[`2026-18033`]` **[Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete; Corrections](https://www.indexdata.org/establishing-the-digital-opportunity-data-collection-modernizing-the-fcc-form-477-data-program-delete-delete-delete-corrections/)** — `2026-09-03` | `2 Pages`
 
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
@@ -1876,14 +1877,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internatio
 - `[`US-FR-2026-22836`]` **[Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From India: Initiation of Countervailing Duty Investigation](https://www.indexdata.org/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-india-initiation-of-countervailing-duty-investigation/)** — `2026-11-08` | `5 Pages`
 - `[`US-FR-2026-22835`]` **[Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From Georgia and India: Initiation of Less-Than-Fair-Value Investigations](https://www.indexdata.org/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-georgia-and-india-initiation-of-less-than-fair-value-investigations/)** — `2026-11-08` | `7 Pages`
 
-### [Transportation Department](https://www.indexdata.org/united-states/transportation-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/transportation-department/](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
-
-- `[`2026-20169`]` **[Petition for Rulemaking; Notification of Petition for Rulemaking; Invalid Specimen Determinations](https://www.indexdata.org/petition-for-rulemaking-notification-of-petition-for-rulemaking-invalid-specimen-determinations/)** — `2026-10-01` | `3 Pages`
-- `[`2026-19688`]` **[Disadvantaged Business Enterprise and Airport Concession Disadvantaged Business Enterprise Program Revisions](https://www.indexdata.org/disadvantaged-business-enterprise-and-airport-concession-disadvantaged-business-enterprise-program-revisions/)** — `2026-09-25` | `16 Pages`
-- `[`2026-18560`]` **[DOT Organizational Terminology; Technical Correction](https://www.indexdata.org/dot-organizational-terminology-technical-correction/)** — `2026-09-11` | `3 Pages`
-- `[`2026-18040`]` **[Cause of Airline Delay and Cancellation Categories Under Section 511(b) of the FAA Reauthorization Act of 2024](https://www.indexdata.org/cause-of-airline-delay-and-cancellation-categories-under-section-511b-of-the-faa-reauthorization-act-of-2024/)** — `2026-09-03` | `6 Pages`
-
 ### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 
@@ -1946,6 +1939,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/supreme-co
 - `[`US-SCOTUS-USREPORTS-586`]` **[United States Reports, Volume 586 (USREPORTS-586)](https://www.indexdata.org/united-states-reports-volume-586-usreports-586/)** — `2026-09-28` | `1162 Pages`
 - `[`US-SCOTUS-USREPORTS-585`]` **[United States Reports, Volume 585 (USREPORTS-585)](https://www.indexdata.org/united-states-reports-volume-585-usreports-585/)** — `2026-09-28` | `1077 Pages`
 - `[`US-SCOTUS-USREPORTS-584`]` **[United States Reports, Volume 584 (USREPORTS-584)](https://www.indexdata.org/united-states-reports-volume-584-usreports-584/)** — `2026-09-28` | `1110 Pages`
+
+### [Transportation Department](https://www.indexdata.org/united-states/transportation-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/transportation-department/](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
+
+- `[`2026-20169`]` **[Petition for Rulemaking; Notification of Petition for Rulemaking; Invalid Specimen Determinations](https://www.indexdata.org/petition-for-rulemaking-notification-of-petition-for-rulemaking-invalid-specimen-determinations/)** — `2026-10-01` | `3 Pages`
+- `[`2026-19688`]` **[Disadvantaged Business Enterprise and Airport Concession Disadvantaged Business Enterprise Program Revisions](https://www.indexdata.org/disadvantaged-business-enterprise-and-airport-concession-disadvantaged-business-enterprise-program-revisions/)** — `2026-09-25` | `16 Pages`
+- `[`2026-18560`]` **[DOT Organizational Terminology; Technical Correction](https://www.indexdata.org/dot-organizational-terminology-technical-correction/)** — `2026-09-11` | `3 Pages`
 
 ### [Treasury Department](https://www.indexdata.org/united-states/treasury-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/treasury-department/](https://www.indexdata.org/united-states/treasury-department/) | [RSS Feed](https://www.indexdata.org/united-states/treasury-department/feed/)

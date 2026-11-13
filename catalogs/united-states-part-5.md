@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,323` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,327` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 10:12 UTC`
+**Last Automated Sync:** `2026-11-13 11:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`319` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`323` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,11 +251,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,323)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,327)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-13660`]` **[Airworthiness Directives; CFM International, S.A. Engines](https://www.indexdata.org/airworthiness-directives-cfm-international-s-a-engines-8/)** — `2025-07-21` | `4 Pages`
+- `[`2025-13644`]` **[Airworthiness Directives; General Electric Company Engines](https://www.indexdata.org/airworthiness-directives-general-electric-company-engines-9/)** — `2025-07-21` | `3 Pages`
 - `[`2025-13611`]` **[Amendment of Class E Airspace; Culpeper, VA](https://www.indexdata.org/amendment-of-class-e-airspace-culpeper-va/)** — `2025-07-21` | `2 Pages`
 - `[`2025-13596`]` **[Airworthiness Directives; Embraer S.A. (Type Certificate Previously Held by Yaborã Indústria Aeronáutica S.A.; Embraer S.A.) Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-type-certificate-previously-held-by-yabora-industria-aeronautica-s-a-embraer-s-a-airplanes-4/)** — `2025-07-21` | `4 Pages`
 - `[`2025-13595`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-110/)** — `2025-07-21` | `3 Pages`
@@ -642,10 +644,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-03574`]` **[Revocation of Jet Route J-534 and Very High Frequency Omnidirectional Range (VOR) Federal Airway V-349, Amendment of VOR Federal Airways V-23 and V-165 and Establishment of Canadian Area Navigation (RNAV) Route T-645 in Northwestern United States](https://www.indexdata.org/revocation-of-jet-route-j-534-and-very-high-frequency-omnidirectional-range-vor-federal-airway-v-349-amendment-of-vor-federal-airways-v-23-and-v-165-and-establishment-of-canadian-area-navigation-r/)** — `2025-03-06` | `3 Pages`
 - `[`2025-03562`]` **[Amendment of Class E Airspace; Payson, AZ](https://www.indexdata.org/amendment-of-class-e-airspace-payson-az-2/)** — `2025-03-06` | `3 Pages`
 - `[`2025-03548`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-37/)** — `2025-03-05` | `4 Pages`
-- `[`2025-03533`]` **[Amendment of Class E Airspace; Ahoskie, NC](https://www.indexdata.org/amendment-of-class-e-airspace-ahoskie-nc-2/)** — `2025-03-05` | `2 Pages`
-- `[`2025-03526`]` **[Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc-airplanes-15/)** — `2025-03-05` | `3 Pages`
-- `[`2025-03516`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-172/)** — `2025-03-05` | `4 Pages`
-- `[`2025-03493`]` **[Special Conditions: Universal Avionics; Electronic System Security Protection From Unauthorized External Access](https://www.indexdata.org/special-conditions-universal-avionics-electronic-system-security-protection-from-unauthorized-external-access/)** — `2025-03-05` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -831,6 +829,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2025-13655`]` **[Special Local Regulation; 100th Annual Pony Swim, Chincoteague Inlet and Surrounding Waters, Sector Virginia Captain of the Port Zone](https://www.indexdata.org/special-local-regulation-100th-annual-pony-swim-chincoteague-inlet-and-surrounding-waters-sector-virginia-captain-of-the-port-zone/)** — `2025-07-21` | `4 Pages`
 - `[`2025-13293`]` **[Safety Zone; Little Potato Slough, Stockton, CA](https://www.indexdata.org/safety-zone-little-potato-slough-stockton-ca/)** — `2025-07-16` | `3 Pages`
 - `[`2025-13290`]` **[Safety Zone; Rainy Lake, City of Ranier, MN](https://www.indexdata.org/safety-zone-rainy-lake-city-of-ranier-mn-3/)** — `2025-07-16` | `3 Pages`
 - `[`2025-12819`]` **[Security Zone; Intracoastal Waterway, Palm Beach, FL](https://www.indexdata.org/security-zone-intracoastal-waterway-palm-beach-fl-3/)** — `2025-07-10` | `3 Pages`
@@ -1546,6 +1545,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 
+- `[`2025-13650`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing-artificial-intelligence-in-education/)** — `2025-07-21` | `4 Pages`
 - `[`2025-13385`]` **[Mental Health Service Professional Demonstration Grant Program](https://www.indexdata.org/mental-health-service-professional-demonstration-grant-program/)** — `2025-07-17` | `5 Pages`
 - `[`2025-13384`]` **[School-Based Mental Health Services Grant Program](https://www.indexdata.org/school-based-mental-health-services-grant-program/)** — `2025-07-17` | `5 Pages`
 - `[`2025-12554`]` **[Classification of Revenue Under Title IV](https://www.indexdata.org/classification-of-revenue-under-title-iv/)** — `2025-07-07` | `4 Pages`

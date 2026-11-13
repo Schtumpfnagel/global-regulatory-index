@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,323` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,327` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 10:12 UTC`
+**Last Automated Sync:** `2026-11-13 11:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`319` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`323` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,323)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,327)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -648,6 +648,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-22532`]` **[Reformulated Gasoline Covered Areas](https://www.indexdata.org/reformulated-gasoline-covered-areas/)** — `2023-10-12` | `4 Pages`
+- `[`2023-22531`]` **[Reference Measurement Principle and Calibration Procedure for the Measurement of Ozone in the Atmosphere (Chemiluminescence Method)](https://www.indexdata.org/reference-measurement-principle-and-calibration-procedure-for-the-measurement-of-ozone-in-the-atmosphere-chemiluminescence-method/)** — `2023-10-12` | `8 Pages`
 - `[`2023-22518`]` **[Air Plan Approval; California; South Coast Air Quality Management District](https://www.indexdata.org/air-plan-approval-california-south-coast-air-quality-management-district-5/)** — `2023-10-12` | `10 Pages`
 - `[`2023-22094`]` **[Toxic Substances Control Act Reporting and Recordkeeping Requirements for Perfluoroalkyl and Polyfluoroalkyl Substances](https://www.indexdata.org/toxic-substances-control-act-reporting-and-recordkeeping-requirements-for-perfluoroalkyl-and-polyfluoroalkyl-substances/)** — `2023-10-11` | `44 Pages`
 - `[`2023-22199`]` **[Ledprona Double-Stranded RNA; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/ledprona-double-stranded-rna-exemption-from-the-requirement-of-a-tolerance/)** — `2023-10-05` | `5 Pages`
@@ -842,6 +844,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2023-22545`]` **[Safety Zone; Potomac River, Between Charles County, MD and King George County, VA](https://www.indexdata.org/safety-zone-potomac-river-between-charles-county-md-and-king-george-county-va/)** — `2023-10-12` | `4 Pages`
 - `[`2023-22340`]` **[Safety Zone; Southport Swing Bridge, Southport, ME](https://www.indexdata.org/safety-zone-southport-swing-bridge-southport-me/)** — `2023-10-11` | `4 Pages`
 - `[`2023-22166`]` **[Safety Zone; Potomac River, Washington, DC](https://www.indexdata.org/safety-zone-potomac-river-washington-dc/)** — `2023-10-05` | `3 Pages`
 - `[`2023-21877`]` **[Coast Guard Sector Juneau; Sector Name Conforming Amendment](https://www.indexdata.org/coast-guard-sector-juneau-sector-name-conforming-amendment/)** — `2023-10-05` | `3 Pages`
@@ -1145,7 +1148,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2023-13971`]` **[All-In Pricing for Cable and Satellite Television Service](https://www.indexdata.org/all-in-pricing-for-cable-and-satellite-television-service-3/)** — `2023-06-30` | `8 Pages`
 - `[`2023-13821`]` **[Prior Express Consent Under the Telephone Consumer Protection Act of 1991](https://www.indexdata.org/prior-express-consent-under-the-telephone-consumer-protection-act-of-1991/)** — `2023-06-29` | `7 Pages`
 - `[`2023-12802`]` **[Revising Spectrum Sharing Rules for Non-Geostationary Orbit, Fixed-Satellite Service Systems](https://www.indexdata.org/revising-spectrum-sharing-rules-for-non-geostationary-orbit-fixed-satellite-service-systems-2/)** — `2023-06-21` | `5 Pages`
-- `[`2023-12725`]` **[Emergency Alert System; Wireless Emergency Alerts](https://www.indexdata.org/emergency-alert-system-wireless-emergency-alerts-3/)** — `2023-06-21` | `31 Pages`
 
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
@@ -1200,7 +1202,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2023-13055`]` **[Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened-wildlife-and-plants-4/)** — `2023-06-22` | `12 Pages`
 - `[`2023-13054`]` **[Endangered and Threatened Wildlife and Plants; Revision of Regulations for Interagency Cooperation](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-revision-of-regulations-for-interagency-cooperation/)** — `2023-06-22` | `12 Pages`
 - `[`2023-13053`]` **[Endangered and Threatened Wildlife and Plants; Listing Endangered and Threatened Species and Designating Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-listing-endangered-and-threatened-species-and-designating-critical-habitat-3/)** — `2023-06-22` | `11 Pages`
-- `[`2023-12315`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Southern Elktoe and Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-southern-elktoe-and-designation-of-critical-habitat/)** — `2023-06-21` | `30 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -1294,8 +1295,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2023-12693`]` **[Corporate Bond Yield Curve for Determining Present Value](https://www.indexdata.org/corporate-bond-yield-curve-for-determining-present-value-2/)** — `2023-06-23` | `5 Pages`
 - `[`2023-12800`]` **[Elective Payment of Advanced Manufacturing Investment Credit](https://www.indexdata.org/elective-payment-of-advanced-manufacturing-investment-credit-2/)** — `2023-06-21` | `11 Pages`
 - `[`2023-12799`]` **[Section 6418 Transfer of Certain Credits](https://www.indexdata.org/section-6418-transfer-of-certain-credits/)** — `2023-06-21` | `31 Pages`
-- `[`2023-12798`]` **[Section 6417 Elective Payment of Applicable Credits](https://www.indexdata.org/section-6417-elective-payment-of-applicable-credits/)** — `2023-06-21` | `31 Pages`
-- `[`2023-12797`]` **[Pre-Filing Registration Requirements for Certain Tax Credit Elections](https://www.indexdata.org/pre-filing-registration-requirements-for-certain-tax-credit-elections/)** — `2023-06-21` | `10 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1378,6 +1377,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
 
+- `[`2023-22524`]` **[Delegations of Authority](https://www.indexdata.org/delegations-of-authority-4/)** — `2023-10-12` | `2 Pages`
 - `[`2023-20434`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-22/)** — `2023-09-21` | `3 Pages`
 - `[`2023-19815`]` **[Privacy Act of 1974; Proposed Rule Exempting a System of Records From Certain Provisions of the Privacy Act of 1974](https://www.indexdata.org/privacy-act-of-1974-proposed-rule-exempting-a-system-of-records-from-certain-provisions-of-the-privacy-act-of-1974/)** — `2023-09-14` | `4 Pages`
 - `[`2023-18681`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-24/)** — `2023-09-01` | `3 Pages`

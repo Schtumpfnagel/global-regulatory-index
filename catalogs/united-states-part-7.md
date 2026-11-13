@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,323` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,327` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 10:12 UTC`
+**Last Automated Sync:** `2026-11-13 11:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`319` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`323` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,11 +251,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,323)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,327)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-24453`]` **[Airworthiness Directives; Embraer S.A. (Type Certificate Previously Held by Yaborã Indústria Aeronáutica S.A.) Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-type-certificate-previously-held-by-yabora-industria-aeronautica-s-a-airplanes/)** — `2024-10-24` | `3 Pages`
+- `[`2024-24331`]` **[Airworthiness Directives; DAHER AEROSPACE (Type Certificate Previously Held by SOCATA) Airplanes](https://www.indexdata.org/airworthiness-directives-daher-aerospace-type-certificate-previously-held-by-socata-airplanes-5/)** — `2024-10-24` | `4 Pages`
 - `[`2024-24443`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-203/)** — `2024-10-23` | `4 Pages`
 - `[`2024-24386`]` **[Airworthiness Directives; Deutsche Aircraft GmbH (Type Certificate Previously Held by 328 Support Services GmbH; AvCraft Aerospace GmbH; Fairchild Dornier GmbH; Dornier Luftfahrt GmbH) Airplanes](https://www.indexdata.org/airworthiness-directives-deutsche-aircraft-gmbh-type-certificate-previously-held-by-328-support-services-gmbh-avcraft-aerospace-gmbh-fairchild-dornier-gmbh-dornier-luftfahrt-gmbh-airplanes-5/)** — `2024-10-22` | `3 Pages`
 - `[`2024-24385`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-207/)** — `2024-10-22` | `4 Pages`
@@ -569,7 +571,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-13936`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-215/)** — `2024-06-26` | `4 Pages`
 - `[`2024-13784`]` **[Establishment of United States Area Navigation Routes Q-143 and T-467 in Southern Utah](https://www.indexdata.org/establishment-of-united-states-area-navigation-routes-q-143-and-t-467-in-southern-utah/)** — `2024-06-26` | `3 Pages`
 - `[`2024-13780`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-237/)** — `2024-06-26` | `4 Pages`
-- `[`2024-13737`]` **[Valparaiso, Florida, Terminal Area](https://www.indexdata.org/valparaiso-florida-terminal-area/)** — `2024-06-24` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1295,7 +1296,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2024-13793`]` **[21st Century Cures Act: Establishment of Disincentives for Health Care Providers That Have Committed Information Blocking](https://www.indexdata.org/21st-century-cures-act-establishment-of-disincentives-for-health-care-providers-that-have-committed-information-blocking/)** — `2024-07-01` | `57 Pages`
 - `[`2024-14030`]` **[Medicaid Program; Ensuring Access to Medicaid Services; Correction](https://www.indexdata.org/medicaid-program-ensuring-access-to-medicaid-services-correction/)** — `2024-06-27` | `6 Pages`
 - `[`2024-13795`]` **[Medicare and Medicaid Programs; Minimum Staffing Standards for Long-Term Care Facilities and Medicaid Institutional Payment Transparency Reporting; Correction](https://www.indexdata.org/medicare-and-medicaid-programs-minimum-staffing-standards-for-long-term-care-facilities-and-medicaid-institutional-payment-transparency-reporting-correction/)** — `2024-06-24` | `5 Pages`
-- `[`2024-13712`]` **[Medicaid Program; Medicaid and Children's Health Insurance Program (CHIP) Managed Care Access, Finance, and Quality; Correction](https://www.indexdata.org/medicaid-program-medicaid-and-childrens-health-insurance-program-chip-managed-care-access-finance-and-quality-correction/)** — `2024-06-24` | `3 Pages`
 
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
@@ -1615,6 +1615,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-de
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 
+- `[`2024-24399`]` **[Department of Health and Human Services Policy for the Protection of Human Research Subjects: Update to the Additional Protections for Specific Populations](https://www.indexdata.org/department-of-health-and-human-services-policy-for-the-protection-of-human-research-subjects-update-to-the-additional-protections-for-specific-populations/)** — `2024-10-24` | `6 Pages`
 - `[`2024-17095`]` **[HHS Acquisition Regulation: Regulatory Review](https://www.indexdata.org/hhs-acquisition-regulation-regulatory-review/)** — `2024-10-03` | `81 Pages`
 - `[`2024-21984`]` **[Health and Human Services Adoption of the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards](https://www.indexdata.org/health-and-human-services-adoption-of-the-uniform-administrative-requirements-cost-principles-and-audit-requirements-for-federal-awards/)** — `2024-10-02` | `19 Pages`
 - `[`2024-20814`]` **[Public Health Service Policies on Research Misconduct](https://www.indexdata.org/public-health-service-policies-on-research-misconduct/)** — `2024-09-17` | `30 Pages`
@@ -1624,7 +1625,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and
 - `[`2024-17096`]` **[HHS Acquisition Regulation: Acquisition of Information Technology; Standards for Health Information Technology (HHSAR Case 2023-001)](https://www.indexdata.org/hhs-acquisition-regulation-acquisition-of-information-technology-standards-for-health-information-technology-hhsar-case-2023-001/)** — `2024-08-09` | `9 Pages`
 - `[`2024-17466`]` **[Annual Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/annual-civil-monetary-penalties-inflation-adjustment-3/)** — `2024-08-08` | `18 Pages`
 - `[`2024-15244`]` **[Increase Flexibility for Tribes in Child Care and Development Fund (CCDF) Eligibility](https://www.indexdata.org/increase-flexibility-for-tribes-in-child-care-and-development-fund-ccdf-eligibility-2/)** — `2024-07-16` | `4 Pages`
-- `[`2024-13716`]` **[Improving Child Care Access, Affordability, and Stability in the Child Care and Development Fund (CCDF); Corrections](https://www.indexdata.org/improving-child-care-access-affordability-and-stability-in-the-child-care-and-development-fund-ccdf-corrections/)** — `2024-06-24` | `3 Pages`
 
 ### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
@@ -1780,15 +1780,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 - `[`2024-18739`]` **[Prevailing Rate Systems; Redefinition of the Arapahoe-Denver, Colorado, Nonappropriated Fund Federal Wage System Wage Area](https://www.indexdata.org/prevailing-rate-systems-redefinition-of-the-arapahoe-denver-colorado-nonappropriated-fund-federal-wage-system-wage-area/)** — `2024-08-21` | `2 Pages`
 - `[`2024-16030`]` **[Time-Limited Promotions](https://www.indexdata.org/time-limited-promotions/)** — `2024-07-25` | `10 Pages`
 
-### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
-
-- `[`2024-23506`]` **[Single Family Housing Section 502 Direct and Guaranteed Manufactured Housing Pilots](https://www.indexdata.org/single-family-housing-section-502-direct-and-guaranteed-manufactured-housing-pilots/)** — `2024-10-11` | `3 Pages`
-- `[`2024-21404`]` **[Single Family Housing Guaranteed Loan Program](https://www.indexdata.org/single-family-housing-guaranteed-loan-program-2/)** — `2024-09-19` | `5 Pages`
-- `[`2024-18291`]` **[Single Family Housing Guaranteed Loan Program Changes Related to Special Servicing Options](https://www.indexdata.org/single-family-housing-guaranteed-loan-program-changes-related-to-special-servicing-options/)** — `2024-08-15` | `6 Pages`
-- `[`2024-16149`]` **[Single Family Housing Guaranteed Housing Payment Supplement Account Demonstration Program](https://www.indexdata.org/single-family-housing-guaranteed-housing-payment-supplement-account-demonstration-program/)** — `2024-07-24` | `3 Pages`
-- `[`2024-13697`]` **[Single Family Housing Section 504 Repair Pilot](https://www.indexdata.org/single-family-housing-section-504-repair-pilot/)** — `2024-06-24` | `2 Pages`
-
 ### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 
@@ -1845,6 +1836,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 - `[`2024-18138`]` **[Pipeline Safety: Cost Recovery for Siting Reviews for LNG Facilities](https://www.indexdata.org/pipeline-safety-cost-recovery-for-siting-reviews-for-lng-facilities/)** — `2024-08-19` | `17 Pages`
 - `[`2024-14116`]` **[Pipeline Safety: Requirement of Valve Installation and Minimum Rupture Detection Standards: Response to Petition for Reconsideration; Additional Technical Corrections](https://www.indexdata.org/pipeline-safety-requirement-of-valve-installation-and-minimum-rupture-detection-standards-response-to-petition-for-reconsideration-additional-technical-corrections/)** — `2024-06-28` | `4 Pages`
 - `[`2024-14115`]` **[Pipeline Safety: Periodic Updates of Regulatory References to Technical Standards and Miscellaneous Amendments; Technical Correction](https://www.indexdata.org/pipeline-safety-periodic-updates-of-regulatory-references-to-technical-standards-and-miscellaneous-amendments-technical-correction/)** — `2024-06-28` | `3 Pages`
+
+### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
+
+- `[`2024-23506`]` **[Single Family Housing Section 502 Direct and Guaranteed Manufactured Housing Pilots](https://www.indexdata.org/single-family-housing-section-502-direct-and-guaranteed-manufactured-housing-pilots/)** — `2024-10-11` | `3 Pages`
+- `[`2024-21404`]` **[Single Family Housing Guaranteed Loan Program](https://www.indexdata.org/single-family-housing-guaranteed-loan-program-2/)** — `2024-09-19` | `5 Pages`
+- `[`2024-18291`]` **[Single Family Housing Guaranteed Loan Program Changes Related to Special Servicing Options](https://www.indexdata.org/single-family-housing-guaranteed-loan-program-changes-related-to-special-servicing-options/)** — `2024-08-15` | `6 Pages`
+- `[`2024-16149`]` **[Single Family Housing Guaranteed Housing Payment Supplement Account Demonstration Program](https://www.indexdata.org/single-family-housing-guaranteed-housing-payment-supplement-account-demonstration-program/)** — `2024-07-24` | `3 Pages`
 
 ### [Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/corporation-for-national-and-community-service/](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
@@ -1959,6 +1958,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-pr
 
 - `[`2024-13806`]` **[Conformance of Cost Accounting Standards to Generally Accepted Accounting Principles for Operating Revenue and Lease Accounting](https://www.indexdata.org/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-operating-revenue-and-lease-accounting-2/)** — `2024-06-27` | `4 Pages`
 - `[`2024-13805`]` **[Conformance of Cost Accounting Standards to Generally Accepted Accounting Principles for Compensated Personal Absence and Depreciation of Tangible Capital Assets](https://www.indexdata.org/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-compensated-personal-absence-and-depreciation-of-tangible-capital-assets/)** — `2024-06-27` | `10 Pages`
+
+### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
+
+- `[`2024-24153`]` **[Track Geometry Measurement System (TGMS) Inspections](https://www.indexdata.org/track-geometry-measurement-system-tgms-inspections/)** — `2024-10-24` | `17 Pages`
+- `[`2024-22326`]` **[Federal Railroad Administration Accident/Incident Investigation Policy for Gathering Information and Consulting With Stakeholders](https://www.indexdata.org/federal-railroad-administration-accident-incident-investigation-policy-for-gathering-information-and-consulting-with-stakeholders/)** — `2024-10-01` | `11 Pages`
 
 ### [Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-transit-administration/](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
@@ -2093,11 +2098,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-cr
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
 
 - `[`2024-18749`]` **[Incorporation by Reference; North American Standard Out-of-Service Criteria; Hazardous Materials Safety Permits](https://www.indexdata.org/incorporation-by-reference-north-american-standard-out-of-service-criteria-hazardous-materials-safety-permits/)** — `2024-08-21` | `3 Pages`
-
-### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
-
-- `[`2024-22326`]` **[Federal Railroad Administration Accident/Incident Investigation Policy for Gathering Information and Consulting With Stakeholders](https://www.indexdata.org/federal-railroad-administration-accident-incident-investigation-policy-for-gathering-information-and-consulting-with-stakeholders/)** — `2024-10-01` | `11 Pages`
 
 ### [Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-nutrition-service/](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)

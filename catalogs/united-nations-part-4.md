@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,973` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,974` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-13 10:12 UTC`
+**Last Automated Sync:** `2026-11-13 11:08 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,973)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,974)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -626,7 +626,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-79-L.43`]` **[Cooperation between the United Nations and the Community of Portuguese-speaking Countries — draft resolution](https://www.indexdata.org/a-79-l-43-cooperation-between-the-united-nations-and-the-community-of-portuguese-speaking-countries-draft-resolution/)** — `2024-12-11` | `5 Pages`
 - `[`UN-A-79-7-Add.33`]` **[Programme of Action for Landlocked Developing Countries for the Decade 2024-2034 : programme budget implications of draft resolution A/79/L.21 — 34th report of the Advisory Committee on Administrative and Budgetary Questions on the proposed programme budget for 2025](https://www.indexdata.org/a-79-7-add-33-programme-of-action-for-landlocked-developing-countries-for-the-decade-2024-2034-programme-budget-implications-of-draft-resolution-a-79-l-21-34th-report-of-the-advisory-com/)** — `2024-12-10` | `4 Pages`
 - `[`UN-A-RES-79-56`]` **[Implementation of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction — resolution](https://www.indexdata.org/a-res-79-56-implementation-of-the-convention-on-the-prohibition-of-the-development-production-stockpiling-and-use-of-chemical-weapons-and-on-their-destruction-resolution/)** — `2024-12-09` | `8 Pages`
-- `[`UN-A-79-L.41`]` **[Assistance to the Palestinian people — draft resolution](https://www.indexdata.org/a-79-l-41-assistance-to-the-palestinian-people-draft-resolution/)** — `2024-12-05` | `6 Pages`
 
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -1557,6 +1556,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-na
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 
+- `[`UN-CERD-C-BRA-FCO-18-20`]` **[Information received from Brazil on follow-up to the concluding observations on its combined 18th to 20th periodic reports — Committee on the Elimination of Racial Discrimination](https://www.indexdata.org/cerd-c-bra-fco-18-20-information-received-from-brazil-on-follow-up-to-the-concluding-observations-on-its-combined-18th-to-20th-periodic-reports-committee-on-the-elimination-of-racial-discr/)** — `2026-01-14` | `8 Pages`
 - `[`UN-CAT-C-KWT-FCO-4`]` **[Information received from Kuwait on follow-up to the concluding observations on its 4th periodic report — Committee against Torture](https://www.indexdata.org/cat-c-kwt-fco-4-information-received-from-kuwait-on-follow-up-to-the-concluding-observations-on-its-4th-periodic-report-committee-against-torture/)** — `2026-01-14` | `5 Pages`
 - `[`UN-CAT-C-NGA-QPR-2`]` **[List of issues prior to submission of the 2nd periodic report of Nigeria — Committee against Torture](https://www.indexdata.org/cat-c-nga-qpr-2-list-of-issues-prior-to-submission-of-the-2nd-periodic-report-of-nigeria-committee-against-torture/)** — `2026-01-13` | `9 Pages`
 - `[`UN-CEDAW-C-ZMB-7-9`]` **[Combined 7th to 9th reports submitted by Zambia under article 18 of the Convention, due in 2015 — Convention on the Elimination of All Forms of Discrimination against Women](https://www.indexdata.org/cedaw-c-zmb-7-9-combined-7th-to-9th-reports-submitted-by-zambia-under-article-18-of-the-convention-due-in-2015-convention-on-the-elimination-of-all-forms-of-discrimination-against-women/)** — `2026-01-12` | `43 Pages`

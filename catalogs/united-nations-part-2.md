@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,973` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,974` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-13 10:12 UTC`
+**Last Automated Sync:** `2026-11-13 11:08 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`505` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,973)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,974)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-RES-80-285`]` **[Financing of the activities arising from Security Council resolution 1863 (2009) — resolution](https://www.indexdata.org/a-res-80-285-financing-of-the-activities-arising-from-security-council-resolution-1863-2009-resolution/)** — `2026-07-01` | `4 Pages`
 - `[`UN-A-RES-80-284`]` **[Financing of the United Nations Mission for the Referendum in Western Sahara — resolution](https://www.indexdata.org/a-res-80-284-financing-of-the-united-nations-mission-for-the-referendum-in-western-sahara-resolution/)** — `2026-07-01` | `4 Pages`
 - `[`UN-A-RES-80-283`]` **[Financing of the United Nations Mission in South Sudan — resolution](https://www.indexdata.org/a-res-80-283-financing-of-the-united-nations-mission-in-south-sudan-resolution/)** — `2026-07-01` | `6 Pages`
 - `[`UN-A-RES-80-282`]` **[Financing of the United Nations Interim Force in Lebanon — resolution](https://www.indexdata.org/a-res-80-282-financing-of-the-united-nations-interim-force-in-lebanon-resolution/)** — `2026-07-01` | `5 Pages`
@@ -821,7 +822,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-80-710`]` **[Letter dated 17 April 2026 from the Permanent Representative of the Russian Federation to the United Nations addressed to the Secretary-General](https://www.indexdata.org/a-80-710-letter-dated-17-april-2026-from-the-permanent-representative-of-the-russian-federation-to-the-united-nations-addressed-to-the-secretary-general/)** — `2026-04-20` | `2 Pages`
 - `[`UN-A-80-604-Add.8`]` **[Proposed budgets for the periods from 1 October 2025 to 30 June 2026 and from 1 July 2026 to 30 June 2027 for the United Nations Support Office in Haiti — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-604-add-8-proposed-budgets-for-the-periods-from-1-october-2025-to-30-june-2026-and-from-1-july-2026-to-30-june-2027-for-the-united-nations-support-office-in-haiti-report-of-the-adviso/)** — `2026-04-20` | `22 Pages`
 - `[`UN-A-RES-80-255`]` **[Joint Inspection Unit — resolution](https://www.indexdata.org/a-res-80-255-joint-inspection-unit-resolution/)** — `2026-04-17` | `3 Pages`
-- `[`UN-A-RES-80-254`]` **[Revised estimates relating to the programme budget for 2026 under section 3, Political affairs, and section 36, Staff assessment — resolution](https://www.indexdata.org/a-res-80-254-revised-estimates-relating-to-the-programme-budget-for-2026-under-section-3-political-affairs-and-section-36-staff-assessment-resolution/)** — `2026-04-17` | `2 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)

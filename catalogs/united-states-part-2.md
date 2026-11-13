@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,323` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,327` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 10:12 UTC`
+**Last Automated Sync:** `2026-11-13 11:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`319` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`323` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -251,11 +251,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,323)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,327)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-18032`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-7/)** — `2026-09-03` | `2 Pages`
 - `[`2026-18019`]` **[Airworthiness Directives; Pratt & Whitney Division Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-division-engines/)** — `2026-09-03` | `4 Pages`
 - `[`2026-17967`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes/)** — `2026-09-02` | `4 Pages`
 - `[`2026-17957`]` **[Establishment of Special Air Traffic Rules in the Vicinity of President Donald J. Trump International Airport (DJT)](https://www.indexdata.org/establishment-of-special-air-traffic-rules-in-the-vicinity-of-president-donald-j-trump-international-airport-djt/)** — `2026-09-02` | `8 Pages`
@@ -545,12 +546,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-10076`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-18/)** — `2026-05-20` | `4 Pages`
 - `[`2026-10047`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-45/)** — `2026-05-20` | `3 Pages`
 - `[`2026-09942`]` **[Establishment of Class E Airspace; Geneva, OH](https://www.indexdata.org/establishment-of-class-e-airspace-geneva-oh-2/)** — `2026-05-18` | `2 Pages`
-- `[`2026-09802`]` **[Establishment of Class E Airspace; Winnie, TX](https://www.indexdata.org/establishment-of-class-e-airspace-winnie-tx/)** — `2026-05-15` | `2 Pages`
-- `[`2026-09801`]` **[Airworthiness Directives; Stemme GmbH Gliders](https://www.indexdata.org/airworthiness-directives-stemme-gmbh-gliders-3/)** — `2026-05-15` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2026-18044`]` **[Safety Zone; Outer Harbor, Buffalo, NY](https://www.indexdata.org/safety-zone-outer-harbor-buffalo-ny/)** — `2026-09-03` | `2 Pages`
 - `[`2026-17978`]` **[Safety Zone; Bay Bridge Paddle; Chesapeake Bay, Annapolis, MD](https://www.indexdata.org/safety-zone-bay-bridge-paddle-chesapeake-bay-annapolis-md/)** — `2026-09-02` | `3 Pages`
 - `[`2026-17971`]` **[Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI](https://www.indexdata.org/safety-zone-lake-st-clair-grosse-pointe-farms-mi-3/)** — `2026-09-02` | `2 Pages`
 - `[`2026-17940`]` **[Safety Zone; Maumee River, Toledo, OH](https://www.indexdata.org/safety-zone-maumee-river-toledo-oh/)** — `2026-09-02` | `2 Pages`
@@ -1075,6 +1075,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2026-18033`]` **[Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete; Corrections](https://www.indexdata.org/establishing-the-digital-opportunity-data-collection-modernizing-the-fcc-form-477-data-program-delete-delete-delete-corrections/)** — `2026-09-03` | `2 Pages`
 - `[`2026-18015`]` **[Television Broadcasting Services Colusa, California](https://www.indexdata.org/television-broadcasting-services-colusa-california/)** — `2026-09-03` | `2 Pages`
 - `[`2026-17774`]` **[Consumer and Governmental Affairs Bureau Seeks To Dismiss Twenty-Four Mooted or Outdated Petitions](https://www.indexdata.org/consumer-and-governmental-affairs-bureau-seeks-to-dismiss-twenty-four-mooted-or-outdated-petitions/)** — `2026-08-31` | `2 Pages`
 - `[`2026-17767`]` **[Promoting Telehealth in Rural America](https://www.indexdata.org/promoting-telehealth-in-rural-america/)** — `2026-08-31` | `10 Pages`
@@ -1116,7 +1117,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2026-09838`]` **[Auction of FM Broadcast Construction Permits Scheduled for February 2, 2027; Comment Sought on Competitive Bidding Procedures for Auction 114](https://www.indexdata.org/auction-of-fm-broadcast-construction-permits-scheduled-for-february-2-2027-comment-sought-on-competitive-bidding-procedures-for-auction-114/)** — `2026-05-15` | `9 Pages`
 - `[`2026-09822`]` **[Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program](https://www.indexdata.org/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement-facilities-and-the-equipment-authorization-program/)** — `2026-05-15` | `7 Pages`
 - `[`2026-09821`]` **[Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program](https://www.indexdata.org/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement-facilities-and-the-equipment-authorization-program-2/)** — `2026-05-15` | `4 Pages`
-- `[`2026-09819`]` **[Accessible Emergency Information, and Apparatus Requirements for Emergency Information and Video Description: Implementation of the Twenty-First Century Communications and Video Accessibility Act of 2010](https://www.indexdata.org/accessible-emergency-information-and-apparatus-requirements-for-emergency-information-and-video-description-implementation-of-the-twenty-first-century-communications-and-video-accessibility-act-of-2/)** — `2026-05-15` | `7 Pages`
 
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
@@ -1458,24 +1458,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 - `[`2026-11854`]` **[Prediction Markets; Public Interest Determinations](https://www.indexdata.org/prediction-markets-public-interest-determinations/)** — `2026-06-12` | `66 Pages`
 - `[`2026-11466`]` **[Rescission of Policy Relating to the Acceptance of Settlements in Administrative and Civil Proceedings](https://www.indexdata.org/rescission-of-policy-relating-to-the-acceptance-of-settlements-in-administrative-and-civil-proceedings/)** — `2026-06-08` | `4 Pages`
 
-### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
-
-- `[`2026-17792`]` **[Permitting Use of Computer-Based, Three-Dimensional Simulation for Periodic Refresher Training on Brake Systems](https://www.indexdata.org/permitting-use-of-computer-based-three-dimensional-simulation-for-periodic-refresher-training-on-brake-systems/)** — `2026-08-31` | `5 Pages`
-- `[`2026-17791`]` **[Miscellaneous Amendments to FRA's Accident Reporting Regulations](https://www.indexdata.org/miscellaneous-amendments-to-fras-accident-reporting-regulations/)** — `2026-08-31` | `5 Pages`
-- `[`2026-17790`]` **[Retiring Form FRA F 6180.107 and Form FRA F 6180.150](https://www.indexdata.org/retiring-form-fra-f-6180-107-and-form-fra-f-6180-150/)** — `2026-08-31` | `5 Pages`
-- `[`2026-17789`]` **[Repealing Outdated Railroad Workplace Safety Requirements and Making Other Improvements](https://www.indexdata.org/repealing-outdated-railroad-workplace-safety-requirements-and-making-other-improvements/)** — `2026-08-31` | `5 Pages`
-- `[`2026-17788`]` **[Expanding Certain Locomotive Wheel Set Diameter Variations](https://www.indexdata.org/expanding-certain-locomotive-wheel-set-diameter-variations/)** — `2026-08-31` | `4 Pages`
-- `[`2026-17787`]` **[Repealing Special Approval Requirement for Freight Cars More Than 50 Years Old](https://www.indexdata.org/repealing-special-approval-requirement-for-freight-cars-more-than-50-years-old/)** — `2026-08-31` | `7 Pages`
-- `[`2026-17786`]` **[Enhancing Railroad Discretion in Sounding Locomotive Horns at Passenger Stations](https://www.indexdata.org/enhancing-railroad-discretion-in-sounding-locomotive-horns-at-passenger-stations/)** — `2026-08-31` | `3 Pages`
-- `[`2026-17784`]` **[Amendments to Brake System Maintenance and Inspection Requirements](https://www.indexdata.org/amendments-to-brake-system-maintenance-and-inspection-requirements/)** — `2026-08-31` | `6 Pages`
-- `[`2026-17783`]` **[Regulatory Relief From Locomotive Horn Sounding Pattern at Public Highway-Rail Grade Crossings](https://www.indexdata.org/regulatory-relief-from-locomotive-horn-sounding-pattern-at-public-highway-rail-grade-crossings/)** — `2026-08-31` | `4 Pages`
-- `[`2026-17782`]` **[Regulatory Relief for End of Car Cushioning Units](https://www.indexdata.org/regulatory-relief-for-end-of-car-cushioning-units/)** — `2026-08-31` | `4 Pages`
-- `[`2026-15724`]` **[High-Speed Train Noise Emission Standards](https://www.indexdata.org/high-speed-train-noise-emission-standards/)** — `2026-08-03` | `18 Pages`
-- `[`2026-15605`]` **[Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements](https://www.indexdata.org/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency-and-other-requirements/)** — `2026-07-31` | `19 Pages`
-- `[`2026-14160`]` **[Certification of Dispatchers; Extension of Comment Period](https://www.indexdata.org/certification-of-dispatchers-extension-of-comment-period/)** — `2026-07-14` | `2 Pages`
-- `[`2026-09792`]` **[Certification of Signal Employees](https://www.indexdata.org/certification-of-signal-employees/)** — `2026-05-15` | `4 Pages`
-
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
@@ -1509,6 +1491,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2026-11531`]` **[Reducing Bureaucracy and Burden for Community Services Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-community-services-programs/)** — `2026-06-09` | `5 Pages`
 - `[`2026-11530`]` **[Employment and Training Services for Noncustodial Parents in the Child Support Program; Rescission](https://www.indexdata.org/employment-and-training-services-for-noncustodial-parents-in-the-child-support-program-rescission/)** — `2026-06-09` | `8 Pages`
 - `[`2026-10401`]` **[Reducing Bureaucracy and Burden for Family Assistance Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-family-assistance-programs-2/)** — `2026-05-26` | `20 Pages`
+
+### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
+
+- `[`2026-17792`]` **[Permitting Use of Computer-Based, Three-Dimensional Simulation for Periodic Refresher Training on Brake Systems](https://www.indexdata.org/permitting-use-of-computer-based-three-dimensional-simulation-for-periodic-refresher-training-on-brake-systems/)** — `2026-08-31` | `5 Pages`
+- `[`2026-17791`]` **[Miscellaneous Amendments to FRA's Accident Reporting Regulations](https://www.indexdata.org/miscellaneous-amendments-to-fras-accident-reporting-regulations/)** — `2026-08-31` | `5 Pages`
+- `[`2026-17790`]` **[Retiring Form FRA F 6180.107 and Form FRA F 6180.150](https://www.indexdata.org/retiring-form-fra-f-6180-107-and-form-fra-f-6180-150/)** — `2026-08-31` | `5 Pages`
+- `[`2026-17789`]` **[Repealing Outdated Railroad Workplace Safety Requirements and Making Other Improvements](https://www.indexdata.org/repealing-outdated-railroad-workplace-safety-requirements-and-making-other-improvements/)** — `2026-08-31` | `5 Pages`
+- `[`2026-17788`]` **[Expanding Certain Locomotive Wheel Set Diameter Variations](https://www.indexdata.org/expanding-certain-locomotive-wheel-set-diameter-variations/)** — `2026-08-31` | `4 Pages`
+- `[`2026-17787`]` **[Repealing Special Approval Requirement for Freight Cars More Than 50 Years Old](https://www.indexdata.org/repealing-special-approval-requirement-for-freight-cars-more-than-50-years-old/)** — `2026-08-31` | `7 Pages`
+- `[`2026-17786`]` **[Enhancing Railroad Discretion in Sounding Locomotive Horns at Passenger Stations](https://www.indexdata.org/enhancing-railroad-discretion-in-sounding-locomotive-horns-at-passenger-stations/)** — `2026-08-31` | `3 Pages`
+- `[`2026-17784`]` **[Amendments to Brake System Maintenance and Inspection Requirements](https://www.indexdata.org/amendments-to-brake-system-maintenance-and-inspection-requirements/)** — `2026-08-31` | `6 Pages`
+- `[`2026-17783`]` **[Regulatory Relief From Locomotive Horn Sounding Pattern at Public Highway-Rail Grade Crossings](https://www.indexdata.org/regulatory-relief-from-locomotive-horn-sounding-pattern-at-public-highway-rail-grade-crossings/)** — `2026-08-31` | `4 Pages`
+- `[`2026-17782`]` **[Regulatory Relief for End of Car Cushioning Units](https://www.indexdata.org/regulatory-relief-for-end-of-car-cushioning-units/)** — `2026-08-31` | `4 Pages`
+- `[`2026-15724`]` **[High-Speed Train Noise Emission Standards](https://www.indexdata.org/high-speed-train-noise-emission-standards/)** — `2026-08-03` | `18 Pages`
+- `[`2026-15605`]` **[Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements](https://www.indexdata.org/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency-and-other-requirements/)** — `2026-07-31` | `19 Pages`
+- `[`2026-14160`]` **[Certification of Dispatchers; Extension of Comment Period](https://www.indexdata.org/certification-of-dispatchers-extension-of-comment-period/)** — `2026-07-14` | `2 Pages`
 
 ### [Occupational Safety And Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
@@ -1589,6 +1588,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-10373`]` **[Registered Offering Reform](https://www.indexdata.org/registered-offering-reform/)** — `2026-05-26` | `260 Pages`
 - `[`2026-10222`]` **[Enhancement of Emerging Growth Company Accommodations and Simplification of Filer Status for Reporting Companies](https://www.indexdata.org/enhancement-of-emerging-growth-company-accommodations-and-simplification-of-filer-status-for-reporting-companies/)** — `2026-05-21` | `105 Pages`
 
+### [Transportation Department](https://www.indexdata.org/united-states/transportation-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/transportation-department/](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
+
+- `[`2026-18040`]` **[Cause of Airline Delay and Cancellation Categories Under Section 511(b) of the FAA Reauthorization Act of 2024](https://www.indexdata.org/cause-of-airline-delay-and-cancellation-categories-under-section-511b-of-the-faa-reauthorization-act-of-2024/)** — `2026-09-03` | `6 Pages`
+- `[`2026-15835`]` **[Accessible Lavatories on Single-Aisle Aircraft and Ensuring Safe Accommodations for Air Travelers With Disabilities Using Wheelchairs](https://www.indexdata.org/accessible-lavatories-on-single-aisle-aircraft-and-ensuring-safe-accommodations-for-air-travelers-with-disabilities-using-wheelchairs/)** — `2026-08-04` | `2 Pages`
+- `[`2026-15529`]` **[Enhancing Flexibility of Air Fare Price Advertising](https://www.indexdata.org/enhancing-flexibility-of-air-fare-price-advertising/)** — `2026-07-31` | `2 Pages`
+- `[`2026-13675`]` **[Airline Refunds and Other Consumer Protections](https://www.indexdata.org/airline-refunds-and-other-consumer-protections/)** — `2026-07-07` | `2 Pages`
+- `[`2026-13450`]` **[Increasing Flexibility on Disclosure of Airline Ancillary Fees](https://www.indexdata.org/increasing-flexibility-on-disclosure-of-airline-ancillary-fees/)** — `2026-07-02` | `5 Pages`
+- `[`2026-13295`]` **[Procedures in Regulating and Enforcing Unfair or Deceptive Practices](https://www.indexdata.org/procedures-in-regulating-and-enforcing-unfair-or-deceptive-practices/)** — `2026-07-01` | `7 Pages`
+- `[`2026-13294`]` **[Enhancing Flexibility of Air Fare Price Advertising](https://www.indexdata.org/enhancing-flexibility-of-air-fare-price-advertising-2/)** — `2026-07-01` | `9 Pages`
+- `[`2026-11790`]` **[Rescinding Portions of Department of Transportation's Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281](https://www.indexdata.org/rescinding-portions-of-department-of-transportations-title-vi-regulations-to-conform-more-closely-with-the-statutory-text-and-to-implement-executive-order-14281/)** — `2026-06-11` | `9 Pages`
+
 ### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 
@@ -1643,17 +1654,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-12743`]` **[Joint Request for Comment on Further Definition of “Swap” and “Security-Based Swap” and on Alternative Compliance](https://www.indexdata.org/joint-request-for-comment-on-further-definition-of-swap-and-security-based-swap-and-on-alternative-compliance/)** — `2026-06-24` | `5 Pages`
 - `[`2026-12742`]` **[Joint Request for Comment on Swap and Security-Based Swap Data Reporting](https://www.indexdata.org/joint-request-for-comment-on-swap-and-security-based-swap-data-reporting/)** — `2026-06-24` | `5 Pages`
 - `[`2026-10132`]` **[Rescission of Policy Regarding Denials in Settlements of Enforcement Actions](https://www.indexdata.org/rescission-of-policy-regarding-denials-in-settlements-of-enforcement-actions/)** — `2026-05-21` | `5 Pages`
-
-### [Transportation Department](https://www.indexdata.org/united-states/transportation-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/transportation-department/](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
-
-- `[`2026-15835`]` **[Accessible Lavatories on Single-Aisle Aircraft and Ensuring Safe Accommodations for Air Travelers With Disabilities Using Wheelchairs](https://www.indexdata.org/accessible-lavatories-on-single-aisle-aircraft-and-ensuring-safe-accommodations-for-air-travelers-with-disabilities-using-wheelchairs/)** — `2026-08-04` | `2 Pages`
-- `[`2026-15529`]` **[Enhancing Flexibility of Air Fare Price Advertising](https://www.indexdata.org/enhancing-flexibility-of-air-fare-price-advertising/)** — `2026-07-31` | `2 Pages`
-- `[`2026-13675`]` **[Airline Refunds and Other Consumer Protections](https://www.indexdata.org/airline-refunds-and-other-consumer-protections/)** — `2026-07-07` | `2 Pages`
-- `[`2026-13450`]` **[Increasing Flexibility on Disclosure of Airline Ancillary Fees](https://www.indexdata.org/increasing-flexibility-on-disclosure-of-airline-ancillary-fees/)** — `2026-07-02` | `5 Pages`
-- `[`2026-13295`]` **[Procedures in Regulating and Enforcing Unfair or Deceptive Practices](https://www.indexdata.org/procedures-in-regulating-and-enforcing-unfair-or-deceptive-practices/)** — `2026-07-01` | `7 Pages`
-- `[`2026-13294`]` **[Enhancing Flexibility of Air Fare Price Advertising](https://www.indexdata.org/enhancing-flexibility-of-air-fare-price-advertising-2/)** — `2026-07-01` | `9 Pages`
-- `[`2026-11790`]` **[Rescinding Portions of Department of Transportation's Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281](https://www.indexdata.org/rescinding-portions-of-department-of-transportations-title-vi-regulations-to-conform-more-closely-with-the-statutory-text-and-to-implement-executive-order-14281/)** — `2026-06-11` | `9 Pages`
 
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
