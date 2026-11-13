@@ -5,22 +5,22 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/netherlands/feed/](https://www.indexdata.org/netherlands/feed/)  
 **Wikidata Sovereign Entity:** [`Q55`](https://www.wikidata.org/wiki/Q55)  
 **Governing Open-Government Framework:** *Auteurswet Art. 11 & Art. 15b / Who / CC0 1.0 / CC BY 4.0*  
-**Total Indexed Dossiers in Netherlands:** `34` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-13 11:08 UTC`
+**Total Indexed Dossiers in Netherlands:** `35` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-13 11:58 UTC`
 
 ---
 
 ## Issuing Authorities in Netherlands (5 Authorities)
 
 - **[Royal Netherlands Aerospace Centre (NLR)](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/) | [RSS Feed](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/feed/)
+- **[Centrum Wiskunde & Informatica (CWI)](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/) | [RSS Feed](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/feed/)
 - **[Research and Data Centre - Ministry of Justice and Security (WODC)](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/) | [RSS Feed](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/feed/)
-- **[Centrum Wiskunde & Informatica (CWI)](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/) | [RSS Feed](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/feed/)
 - **[House of Representatives of the Netherlands (Tweede Kamer)](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/) | [RSS Feed](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/feed/)
 - **[Netherlands Controlling Authority for Milk and Milk Products (COKZ)](https://www.indexdata.org/netherlands/netherlands-controlling-authority-for-milk-and-milk-products-cokz/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/netherlands-controlling-authority-for-milk-and-milk-products-cokz/) | [RSS Feed](https://www.indexdata.org/netherlands/netherlands-controlling-authority-for-milk-and-milk-products-cokz/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–34 of 34)
+## Indexed Statutory & Regulatory Dossiers (Records 1–35 of 35)
 
 ### [Royal Netherlands Aerospace Centre (NLR)](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/)
 Canonical Authority Archive: [https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/) | [RSS Feed](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/feed/)
@@ -43,6 +43,18 @@ Canonical Authority Archive: [https://www.indexdata.org/netherlands/royal-nether
 - `[`NL-NLR-WP-15204`]` **[E1841 v12 Research and development more electric and hydrogen powered aerospace](https://www.indexdata.org/e1841-v12-research-and-development-more-electric-and-hydrogen-powered-aerospace-2/)** — `2025-12-01` | `52 Pages`
 - `[`NL-NLR-WP-15106`]` **[E1841 v12 Research and development more electric and hydrogen powered aerospace](https://www.indexdata.org/e1841-v12-research-and-development-more-electric-and-hydrogen-powered-aerospace/)** — `2025-12-01` | `52 Pages`
 
+### [Centrum Wiskunde & Informatica (CWI)](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/)
+Canonical Authority Archive: [https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/) | [RSS Feed](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/feed/)
+
+- `[`NL-CWI-36834`]` **[Controlling avalanche sizes in the Abelian sandpile model](https://www.indexdata.org/controlling-avalanche-sizes-in-the-abelian-sandpile-model/)** — `2026-11-11` | `37 Pages`
+- `[`NL-CWI-36683`]` **[Welcome Message from the SIGMM Executives](https://www.indexdata.org/welcome-message-from-the-sigmm-executives/)** — `2026-05-29` | `2 Pages`
+- `[`NL-CWI-36815`]` **[Towards reproducible multimorbidity clustering in electronic health records: a transparent pipeline for aligning research aims and methodology](https://www.indexdata.org/towards-reproducible-multimorbidity-clustering-in-electronic-health-records-a-transparent-pipeline-for-aligning-research-aims-and-methodology/)** — `2026-05-26` | `35 Pages`
+- `[`NL-CWI-36769`]` **[Adaptive quantum phase estimation can be better than non-adaptive](https://www.indexdata.org/adaptive-quantum-phase-estimation-can-be-better-than-non-adaptive/)** — `2025-11-07` | `19 Pages`
+- `[`NL-CWI-36773`]` **[Randomized truncation of quantum states](https://www.indexdata.org/randomized-truncation-of-quantum-states/)** — `2025-10-09` | `57 Pages`
+- `[`NL-CWI-36768`]` **[QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](https://www.indexdata.org/quantumboost-a-lazy-yet-fast-quantum-algorithm-for-learning-with-weak-hypotheses/)** — `2025-10-06` | `22 Pages`
+- `[`NL-CWI-36770`]` **[Getting almost all the bits from a quantum random access code](https://www.indexdata.org/getting-almost-all-the-bits-from-a-quantum-random-access-code/)** — `2025-06-02` | `14 Pages`
+- `[`NL-CWI-10878`]` **[CWI. Probability, Networks and Algorithms &#91;PNA&#93;](https://www.indexdata.org/cwi-probability-networks-and-algorithms-pna/)** — `2006-01-01` | `14 Pages`
+
 ### [Research and Data Centre - Ministry of Justice and Security (WODC)](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/)
 Canonical Authority Archive: [https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/) | [RSS Feed](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/feed/)
 
@@ -54,17 +66,6 @@ Canonical Authority Archive: [https://www.indexdata.org/netherlands/research-and
 - `[`NL-WODC-3521`]` **[National Risk Assessment Corruptie](https://www.indexdata.org/national-risk-assessment-corruptie/)** — `2026-03-12` | `16 Pages`
 - `[`NL-WODC-3496`]` **[Legal, Ethical, and Practical Limits in Detecting and Moderating Terrorist, Illegal and Implicit Extremist Content Online while Respecting Freedom of Expression](https://www.indexdata.org/legal-ethical-and-practical-limits-in-detecting-and-moderating-terrorist-illegal-and-implicit-extremist-content-online-while-respecting-freedom-of-expression/)** — `2025-12-02` | `17 Pages`
 - `[`NL-WODC-3476`]` **[De Netherlands Commercial Court](https://www.indexdata.org/de-netherlands-commercial-court/)** — `2025-09-09` | `11 Pages`
-
-### [Centrum Wiskunde & Informatica (CWI)](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/)
-Canonical Authority Archive: [https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/) | [RSS Feed](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/feed/)
-
-- `[`NL-CWI-36683`]` **[Welcome Message from the SIGMM Executives](https://www.indexdata.org/welcome-message-from-the-sigmm-executives/)** — `2026-05-29` | `2 Pages`
-- `[`NL-CWI-36815`]` **[Towards reproducible multimorbidity clustering in electronic health records: a transparent pipeline for aligning research aims and methodology](https://www.indexdata.org/towards-reproducible-multimorbidity-clustering-in-electronic-health-records-a-transparent-pipeline-for-aligning-research-aims-and-methodology/)** — `2026-05-26` | `35 Pages`
-- `[`NL-CWI-36769`]` **[Adaptive quantum phase estimation can be better than non-adaptive](https://www.indexdata.org/adaptive-quantum-phase-estimation-can-be-better-than-non-adaptive/)** — `2025-11-07` | `19 Pages`
-- `[`NL-CWI-36773`]` **[Randomized truncation of quantum states](https://www.indexdata.org/randomized-truncation-of-quantum-states/)** — `2025-10-09` | `57 Pages`
-- `[`NL-CWI-36768`]` **[QuantumBoost: A lazy, yet fast, quantum algorithm for learning with weak hypotheses](https://www.indexdata.org/quantumboost-a-lazy-yet-fast-quantum-algorithm-for-learning-with-weak-hypotheses/)** — `2025-10-06` | `22 Pages`
-- `[`NL-CWI-36770`]` **[Getting almost all the bits from a quantum random access code](https://www.indexdata.org/getting-almost-all-the-bits-from-a-quantum-random-access-code/)** — `2025-06-02` | `14 Pages`
-- `[`NL-CWI-10878`]` **[CWI. Probability, Networks and Algorithms &#91;PNA&#93;](https://www.indexdata.org/cwi-probability-networks-and-algorithms-pna/)** — `2006-01-01` | `14 Pages`
 
 ### [House of Representatives of the Netherlands (Tweede Kamer)](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/)
 Canonical Authority Archive: [https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/) | [RSS Feed](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/feed/)
