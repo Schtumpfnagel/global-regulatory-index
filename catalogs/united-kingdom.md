@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,789` across `78` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,799` across `79` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-13 11:58 UTC`
+**Last Automated Sync:** `2026-11-13 12:59 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (78 Authorities)
+## Issuing Authorities in United Kingdom (79 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`296` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -39,6 +39,7 @@
 - **[Medicines and Healthcare products Regulatory Agency](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/feed/)
 - **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
+- **[NHS England](https://www.indexdata.org/united-kingdom/nhs-england/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/nhs-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/nhs-england/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[HM Prison and Probation Service](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/feed/)
 - **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
@@ -94,7 +95,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,789)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,799)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -274,8 +275,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2026-104`]` **[The Communications (Television Licensing) (Amendment) Regulations 2026](https://www.indexdata.org/the-communications-television-licensing-amendment-regulations-2026/)** — `2026-02-04` | `12 Pages`
 - `[`UKSI-2026-103`]` **[The Copyright and Performances (Application to Other Countries) (Amendment) Order 2026](https://www.indexdata.org/the-copyright-and-performances-application-to-other-countries-amendment-order-2026/)** — `2026-02-03` | `4 Pages`
 - `[`UKSI-2026-100`]` **[The Virgin Islands Constitution (Interim Amendment) (Revocation) Order 2026](https://www.indexdata.org/the-virgin-islands-constitution-interim-amendment-revocation-order-2026/)** — `2026-02-03` | `2 Pages`
-- `[`UKSI-2026-82`]` **[The Data (Use and Access) Act 2025 (Commencement No. 6 and Transitional and Saving Provisions) Regulations 2026](https://www.indexdata.org/the-data-use-and-access-act-2025-commencement-no-6-and-transitional-and-saving-provisions-regulations-2026/)** — `2026-01-29` | `8 Pages`
-- `[`UKSI-2026-79`]` **[The United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Glue Traps) Regulations 2026](https://www.indexdata.org/the-united-kingdom-internal-market-act-2020-exclusions-from-market-access-principles-glue-traps-regulations-2026/)** — `2026-01-29` | `2 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -552,8 +551,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2026-92`]` **[The Designation of Special Tax Sites (Glasgow City Region Investment Zone) Regulations 2026](https://www.indexdata.org/the-designation-of-special-tax-sites-glasgow-city-region-investment-zone-regulations-2026/)** — `2026-02-03` | `2 Pages`
 - `[`UKSI-2026-90`]` **[The Designation of Special Tax Sites (North East of Scotland Investment Zone) Regulations 2026](https://www.indexdata.org/the-designation-of-special-tax-sites-north-east-of-scotland-investment-zone-regulations-2026/)** — `2026-02-03` | `2 Pages`
 - `[`UKSI-2026-101`]` **[The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026](https://www.indexdata.org/the-naval-military-and-air-forces-etc-disablement-and-death-service-pensions-amendment-order-2026/)** — `2026-02-03` | `12 Pages`
-- `[`UKSI-2026-83`]` **[The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2026](https://www.indexdata.org/the-pension-protection-fund-and-occupational-pension-schemes-levy-ceiling-order-2026/)** — `2026-01-30` | `4 Pages`
-- `[`UKSI-2026-80`]` **[The Free Zone (Customs Site No. 1 Celtic) Designation Order 2026](https://www.indexdata.org/the-free-zone-customs-site-no-1-celtic-designation-order-2026/)** — `2026-01-29` | `4 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
@@ -641,7 +638,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2026-108`]` **[The Local Government Finance Act 1988 (Calculation of Non-Domestic Rating High-Value Multiplier) (England) Regulations 2026](https://www.indexdata.org/the-local-government-finance-act-1988-calculation-of-non-domestic-rating-high-value-multiplier-england-regulations-2026/)** — `2026-02-05` | `4 Pages`
 - `[`UKSI-2026-96`]` **[The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2026 (revoked)](https://www.indexdata.org/the-local-authorities-changes-to-years-of-ordinary-elections-england-order-2026-revoked/)** — `2026-02-03` | `8 Pages`
 - `[`UKSI-2026-94`]` **[The Local Government (Exclusion of Non-commercial Considerations) (England) Order 2026](https://www.indexdata.org/the-local-government-exclusion-of-non-commercial-considerations-england-order-2026/)** — `2026-02-03` | `4 Pages`
-- `[`UKSI-2026-81`]` **[The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2026](https://www.indexdata.org/the-non-domestic-rating-chargeable-amounts-england-regulations-2026/)** — `2026-01-29` | `36 Pages`
 
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
@@ -996,7 +992,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-273`]` **[The Power to Award Degrees etc. (London School of Innovation Ltd) Order 2026](https://www.indexdata.org/the-power-to-award-degrees-etc-london-school-of-innovation-ltd-order-2026/)** — `2026-03-10` | `2 Pages`
 - `[`UKSI-2026-269`]` **[The Inspectors of Education, Children’s Services and Skills Order 2026](https://www.indexdata.org/the-inspectors-of-education-childrens-services-and-skills-order-2026/)** — `2026-03-10` | `4 Pages`
 - `[`UKSI-2026-130`]` **[The Education (Student Fees, Awards, Support and Loan Repayments) (Amendment) Regulations 2026](https://www.indexdata.org/the-education-student-fees-awards-support-and-loan-repayments-amendment-regulations-2026/)** — `2026-02-10` | `32 Pages`
-- `[`UKSI-2026-76`]` **[The Diocese of Leicester (Educational Endowments) (Market Harborough Church of England Infant School) Order 2026](https://www.indexdata.org/the-diocese-of-leicester-educational-endowments-market-harborough-church-of-england-infant-school-order-2026/)** — `2026-01-30` | `5 Pages`
 
 ### [Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-defence/](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
@@ -1111,9 +1106,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 - `[`UKSI-2026-112`]` **[The Public Order Act 2023 (Interference With Use or Operation of Key National Infrastructure) Regulations 2026](https://www.indexdata.org/the-public-order-act-2023-interference-with-use-or-operation-of-key-national-infrastructure-regulations-2026/)** — `2026-02-05` | `2 Pages`
 - `[`UKSI-2026-98`]` **[The Immigration (Isle of Man) (Amendment) Order 2026](https://www.indexdata.org/the-immigration-isle-of-man-amendment-order-2026/)** — `2026-02-03` | `4 Pages`
 - `[`UKSI-2026-95`]` **[The Immigration (Certificate of Entitlement to Right of Abode in the United Kingdom) (Amendment) Regulations 2026](https://www.indexdata.org/the-immigration-certificate-of-entitlement-to-right-of-abode-in-the-united-kingdom-amendment-regulations-2026/)** — `2026-02-03` | `4 Pages`
-- `[`UKSI-2026-87`]` **[The Immigration (Electronic Travel Authorisations and the Islands) Regulations 2026](https://www.indexdata.org/the-immigration-electronic-travel-authorisations-and-the-islands-regulations-2026/)** — `2026-02-02` | `4 Pages`
-- `[`UKSI-2026-86`]` **[The Sentencing Act 2026 (Commencement No. 1) Regulations 2026](https://www.indexdata.org/the-sentencing-act-2026-commencement-no-1-regulations-2026/)** — `2026-02-02` | `4 Pages`
-- `[`UKSI-2026-85`]` **[The Sham Marriage and Civil Partnership (Referral of Proposed Marriages and Civil Partnerships) (Amendment) Regulations 2026](https://www.indexdata.org/the-sham-marriage-and-civil-partnership-referral-of-proposed-marriages-and-civil-partnerships-amendment-regulations-2026/)** — `2026-01-29` | `4 Pages`
 
 ### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
@@ -1162,7 +1154,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-318`]` **[The Ecodesign for Energy-Related Products and Energy Information (Household Tumble Dryers) Regulations 2026](https://www.indexdata.org/the-ecodesign-for-energy-related-products-and-energy-information-household-tumble-dryers-regulations-2026/)** — `2026-03-19` | `60 Pages`
 - `[`UKSI-2026-243`]` **[The Energy-Intensive Industry Electricity Support Payments and Levy (Amendment) Regulations 2026](https://www.indexdata.org/the-energy-intensive-industry-electricity-support-payments-and-levy-amendment-regulations-2026/)** — `2026-03-05` | `2 Pages`
 - `[`UKSI-2026-240`]` **[The Non-Domestic Rating (Renewable Energy Projects) (Amendment) Regulations 2026](https://www.indexdata.org/the-non-domestic-rating-renewable-energy-projects-amendment-regulations-2026/)** — `2026-03-04` | `8 Pages`
-- `[`UKSI-2026-89`]` **[The Forestry Act 1967 (Consent to Renewable Electricity Development) (England) Regulations 2026](https://www.indexdata.org/the-forestry-act-1967-consent-to-renewable-electricity-development-england-regulations-2026/)** — `2026-02-02` | `2 Pages`
 
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
@@ -1569,6 +1560,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-passpo
 - `[`UK-GOV-5e16d17e-7631-11e4-a3cb-005056011aef-2`]` **[Application form to correct details on a death registration — How to apply for a correction to a death entry](https://www.indexdata.org/application-form-to-correct-details-on-a-death-registration-how-to-apply-for-a-correction-to-a-death-entry/)** — `2026-11-09` | `4 Pages`
 - `[`UK-GOV-5e16d17e-7631-11e4-a3cb-005056011aef-1`]` **[Application form to correct details on a death registration](https://www.indexdata.org/application-form-to-correct-details-on-a-death-registration/)** — `2026-11-09` | `4 Pages`
 - `[`UK-GOV-5e16d134-7631-11e4-a3cb-005056011aef-1`]` **[Application form to remove the wrong father's details from a birth registration](https://www.indexdata.org/application-form-to-remove-the-wrong-fathers-details-from-a-birth-registration/)** — `2026-11-09` | `4 Pages`
+
+### [NHS England](https://www.indexdata.org/united-kingdom/nhs-england/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/nhs-england/](https://www.indexdata.org/united-kingdom/nhs-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/nhs-england/feed/)
+
+- `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-9`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Portuguese)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-portuguese/)** — `2026-11-13` | `12 Pages`
+- `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-8`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Polish)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-polish/)** — `2026-11-13` | `12 Pages`
+- `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-7`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Gujarati)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-gujarati/)** — `2026-11-13` | `12 Pages`
+- `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-6`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (French)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-french/)** — `2026-11-13` | `12 Pages`
+- `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-5`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Traditional Chinese)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-traditional-chinese/)** — `2026-11-13` | `12 Pages`
+- `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-4`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Simplified Chinese)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-simplified-chinese/)** — `2026-11-13` | `12 Pages`
+- `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-3`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Bengali)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-bengali/)** — `2026-11-13` | `12 Pages`
+- `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-2`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Arabic)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-arabic/)** — `2026-11-13` | `12 Pages`
+- `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-11`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Urdu)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-urdu/)** — `2026-11-13` | `12 Pages`
+- `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-10`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Punjabi)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-punjabi/)** — `2026-11-13` | `12 Pages`
 
 ### [Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/rochdale-borough-council/](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)

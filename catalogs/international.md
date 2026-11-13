@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,042` across `23` issuing authorities  
-**Last Automated Sync:** `2026-11-13 11:58 UTC`
+**Total Indexed Dossiers in International:** `1,048` across `23` issuing authorities  
+**Last Automated Sync:** `2026-11-13 12:59 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`91` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
-- **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
+- **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
 - **[European Central Bank (ECB)](https://www.indexdata.org/international/european-central-bank-ecb/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/international/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[World Intellectual Property Organization (WIPO)](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/) | [RSS Feed](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/feed/) | [Wikidata `Q177773`](https://www.wikidata.org/wiki/Q177773)
@@ -37,7 +37,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,042 of 1,042)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,048 of 1,048)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -919,6 +919,12 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-c
 ### [European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/)
 
+- `[`EIOPA-DOC-PUBLICATIONS-EUROPEAN-COMMISSIONS-LETTER-EIOPA-AMENDED-DRAFT-ITS`]` **[European Commission's Letter to EIOPA on amended draft ITS on supervisory reporting and on public disclosure](https://www.indexdata.org/european-commissions-letter-to-eiopa-on-amended-draft-its-on-supervisory-reporting-and-on-public-disclosure/)** — `2026-11-12` | `3 Pages`
+- `[`EIOPA-DOC-PUBLICATIONS-EIOPAS-OPINION-DRAFT-IMPLEMENTING-TECHNICAL-STANDAR`]` **[EIOPA's Opinion on the Draft Implementing Technical Standards on supervisory reporting and public disclosure](https://www.indexdata.org/eiopas-opinion-on-the-draft-implementing-technical-standards-on-supervisory-reporting-and-public-disclosure/)** — `2026-11-12` | `3 Pages`
+- `[`EIOPA-DOC-TOOLS-AND-DATA-SUPERVISORY-REPORTING-DPM-AND-XBRL`]` **[Supervisory reporting - DPM and XBRL](https://www.indexdata.org/supervisory-reporting-dpm-and-xbrl/)** — `2026-11-10` | `7 Pages`
+- `[`EIOPA-DOC-PUBLICATIONS-IRSG-ADVICE-TWO-RTSS-IRRD-VALUATION-RELATED-TOPICS`]` **[IRSG Advice on two RTS's on IRRD valuation related topics](https://www.indexdata.org/irsg-advice-on-two-rtss-on-irrd-valuation-related-topics/)** — `2026-11-10` | `20 Pages`
+- `[`EIOPA-DOC-TOOLS-AND-DATA-RISK-FREE-INTEREST-RATE-TERM-STRUCTURES`]` **[Risk-free interest rate term structures](https://www.indexdata.org/risk-free-interest-rate-term-structures/)** — `2026-11-09` | `118 Pages`
+- `[`EIOPA-DOC-EIOPA-UPDATES-RFR-TECHNICAL-DOCUMENTATION-APPLY-30-JANUARY-2027`]` **[EIOPA updates RFR Technical Documentation to apply from 30 January 2027](https://www.indexdata.org/eiopa-updates-rfr-technical-documentation-to-apply-from-30-january-2027/)** — `2026-11-06` | `118 Pages`
 - `[`EIOPA-DOC-MEDIA-EVENTS-13TH-JOINT-ESAS-CONSUMER-PROTECTION-DAY-JECPD-2026`]` **[13th Joint ESAs Consumer Protection Day (JECPD)](https://www.indexdata.org/13th-joint-esas-consumer-protection-day-jecpd/)** — `2026-11-02` | `2 Pages`
 - `[`EIOPA-DOC-PUBLICATIONS-EIOPAS-FINAL-ADVICE-REVIEW-REINSURANCE-DISCLOSURES`]` **[EIOPA's Final Advice on the review of (re)insurance disclosures under the Taxonomy Disclosures Delegated Act](https://www.indexdata.org/eiopas-final-advice-on-the-review-of-reinsurance-disclosures-under-the-taxonomy-disclosures-delegated-act/)** — `2026-10-30` | `51 Pages`
 - `[`EIOPA-DOC-CONSULTATIONS-CONSULTATION-REVIEW-INSURANCE-DISCLOSURES-UNDER-TA`]` **[Consultation on the review of insurance disclosures under the Taxonomy Disclosures Delegated Act](https://www.indexdata.org/consultation-on-the-review-of-insurance-disclosures-under-the-taxonomy-disclosures-delegated-act/)** — `2026-10-30` | `63 Pages`
