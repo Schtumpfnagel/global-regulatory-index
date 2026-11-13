@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,300` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,302` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 03:28 UTC`
+**Last Automated Sync:** `2026-11-13 04:30 UTC`
 
 ---
 
@@ -18,8 +18,8 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -64,9 +64,9 @@
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,300)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,302)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -644,12 +644,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-13011`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-336/)** — `2023-06-20` | `4 Pages`
 - `[`2023-12927`]` **[Airworthiness Directives; Saab AB, Support and Services (Formerly Known as Saab AB, Saab Aeronautics) Airplanes](https://www.indexdata.org/airworthiness-directives-saab-ab-support-and-services-formerly-known-as-saab-ab-saab-aeronautics-airplanes-7/)** — `2023-06-20` | `3 Pages`
 - `[`2023-12964`]` **[Modification of Class E Airspace; Pullman/Moscow Regional Airport, Pullman/Moscow, WA](https://www.indexdata.org/modification-of-class-e-airspace-pullman-moscow-regional-airport-pullman-moscow-wa/)** — `2023-06-16` | `2 Pages`
-- `[`2023-12959`]` **[Amendment of Class D and Class E Airspace; Huntsville, AL](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-huntsville-al/)** — `2023-06-16` | `2 Pages`
-- `[`2023-12956`]` **[Amendment of Class E Airspace; Augusta, GA](https://www.indexdata.org/amendment-of-class-e-airspace-augusta-ga/)** — `2023-06-16` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-22094`]` **[Toxic Substances Control Act Reporting and Recordkeeping Requirements for Perfluoroalkyl and Polyfluoroalkyl Substances](https://www.indexdata.org/toxic-substances-control-act-reporting-and-recordkeeping-requirements-for-perfluoroalkyl-and-polyfluoroalkyl-substances/)** — `2023-10-11` | `44 Pages`
 - `[`2023-22199`]` **[Ledprona Double-Stranded RNA; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/ledprona-double-stranded-rna-exemption-from-the-requirement-of-a-tolerance/)** — `2023-10-05` | `5 Pages`
 - `[`2023-22088`]` **[Air Plan Approval; MO; Control of Emissions From Volatile Organic Liquid Storage](https://www.indexdata.org/air-plan-approval-mo-control-of-emissions-from-volatile-organic-liquid-storage/)** — `2023-10-04` | `3 Pages`
 - `[`2023-21976`]` **[New Source Performance Standards Review for Volatile Organic Liquid Storage Vessels (Including Petroleum Liquid Storage Vessels)](https://www.indexdata.org/new-source-performance-standards-review-for-volatile-organic-liquid-storage-vessels-including-petroleum-liquid-storage-vessels-2/)** — `2023-10-04` | `19 Pages`
@@ -1405,6 +1404,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 ### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 
+- `[`2023-20793`]` **[Investment Company Names](https://www.indexdata.org/investment-company-names/)** — `2023-10-11` | `78 Pages`
 - `[`2023-21806`]` **[Adoption of Updated EDGAR Filer Manual](https://www.indexdata.org/adoption-of-updated-edgar-filer-manual-10/)** — `2023-10-03` | `2 Pages`
 - `[`2023-20690`]` **[The Commission's Privacy Act Regulations](https://www.indexdata.org/the-commissions-privacy-act-regulations/)** — `2023-09-26` | `9 Pages`
 - `[`2023-20268`]` **[EDGAR Filer Access and Account Management](https://www.indexdata.org/edgar-filer-access-and-account-management-2/)** — `2023-09-22` | `52 Pages`

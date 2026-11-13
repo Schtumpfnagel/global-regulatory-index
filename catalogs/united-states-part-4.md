@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,300` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,302` across `235` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 03:28 UTC`
+**Last Automated Sync:** `2026-11-13 04:30 UTC`
 
 ---
 
@@ -18,8 +18,8 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -64,9 +64,9 @@
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,300)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,302)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -896,6 +896,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2026-00149`]` **[2025 Quarterly Listings: First Quarter; Safety Zones, Security Zones, and Special Local Regulations](https://www.indexdata.org/2025-quarterly-listings-first-quarter-safety-zones-security-zones-and-special-local-regulations/)** — `2026-01-08` | `2 Pages`
 - `[`2026-00077`]` **[2024 Quarterly Listings: First Quarter; Safety Zones, Security Zones, and Special Local Regulations](https://www.indexdata.org/2024-quarterly-listings-first-quarter-safety-zones-security-zones-and-special-local-regulations/)** — `2026-01-07` | `2 Pages`
 - `[`2026-00048`]` **[Safety Zone; West of Cyril E. King Airport, St. Thomas, VI](https://www.indexdata.org/safety-zone-west-of-cyril-e-king-airport-st-thomas-vi-2/)** — `2026-01-07` | `3 Pages`
 - `[`2025-24071`]` **[Safety Zone; Port of Long Beach, Long Beach, CA](https://www.indexdata.org/safety-zone-port-of-long-beach-long-beach-ca/)** — `2025-12-31` | `3 Pages`
@@ -1198,8 +1199,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2025-14949`]` **[Food Standards of Identity Modernization; Pasteurized Orange Juice](https://www.indexdata.org/food-standards-of-identity-modernization-pasteurized-orange-juice-2/)** — `2025-08-06` | `8 Pages`
 - `[`2025-13424`]` **[Proposal To Revoke 18 Standards of Identity for Dairy Products](https://www.indexdata.org/proposal-to-revoke-18-standards-of-identity-for-dairy-products/)** — `2025-07-17` | `6 Pages`
 - `[`2025-13423`]` **[Revocation of Food Standards for 11 Products Not Currently Sold](https://www.indexdata.org/revocation-of-food-standards-for-11-products-not-currently-sold/)** — `2025-07-17` | `4 Pages`
-- `[`2025-13421`]` **[Revocation of Food Standards for 11 Products Not Currently Sold](https://www.indexdata.org/revocation-of-food-standards-for-11-products-not-currently-sold-2/)** — `2025-07-17` | `5 Pages`
-- `[`2025-13420`]` **[Proposal To Revoke 23 Standards of Identity for Foods](https://www.indexdata.org/proposal-to-revoke-23-standards-of-identity-for-foods/)** — `2025-07-17` | `8 Pages`
 
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
@@ -1447,6 +1446,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 ### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
 
+- `[`2026-00147`]` **[Hazard Communication Standard; Corrections](https://www.indexdata.org/hazard-communication-standard-corrections/)** — `2026-01-08` | `37 Pages`
 - `[`2025-18670`]` **[Heat Injury and Illness Prevention in Outdoor and Indoor Work Settings](https://www.indexdata.org/heat-injury-and-illness-prevention-in-outdoor-and-indoor-work-settings/)** — `2025-09-25` | `2 Pages`
 - `[`2025-15917`]` **[Vinyl Chloride](https://www.indexdata.org/vinyl-chloride-2/)** — `2025-08-20` | `2 Pages`
 - `[`2025-15914`]` **[Ethylene Oxide](https://www.indexdata.org/ethylene-oxide-2/)** — `2025-08-20` | `2 Pages`

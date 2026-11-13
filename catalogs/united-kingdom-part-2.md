@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,758` across `74` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,760` across `74` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-13 03:28 UTC`
+**Last Automated Sync:** `2026-11-13 04:30 UTC`
 
 ---
 
@@ -26,7 +26,7 @@
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`94` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`76` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
-- **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
+- **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
@@ -90,11 +90,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,758 of 2,758)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,760 of 2,760)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2026-27`]` **[The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2026](https://www.indexdata.org/the-council-tax-reduction-schemes-prescribed-requirements-england-amendment-regulations-2026/)** — `2026-01-13` | `8 Pages`
+- `[`UKSI-2026-16`]` **[The A46 Newark Bypass Development Consent (Correction) Order 2026](https://www.indexdata.org/the-a46-newark-bypass-development-consent-correction-order-2026/)** — `2026-01-13` | `4 Pages`
 - `[`UKSI-2026-19`]` **[The Compulsory Purchase of Land (Vesting Declarations) (England) (Amendment) Regulations 2026](https://www.indexdata.org/the-compulsory-purchase-of-land-vesting-declarations-england-amendment-regulations-2026/)** — `2026-01-08` | `8 Pages`
 - `[`UKSI-2026-12`]` **[The Port of Tilbury (Expansion) (Correction) Order 2026](https://www.indexdata.org/the-port-of-tilbury-expansion-correction-order-2026/)** — `2026-01-08` | `4 Pages`
 - `[`UKSI-2026-9`]` **[The Access to the Countryside (Coastal Margin) (Isle of Wight) (No. 2) Order 2026](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-isle-of-wight-no-2-order-2026/)** — `2026-01-07` | `4 Pages`

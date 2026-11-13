@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,300` across `235` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,302` across `235` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 03:28 UTC`
+**Last Automated Sync:** `2026-11-13 04:30 UTC`
 
 ---
 
@@ -18,8 +18,8 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,184` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 - **[Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)** (`258` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -64,9 +64,9 @@
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
@@ -251,7 +251,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,300)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,302)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -320,6 +320,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CRPT-119hrpt853`]` **[H. Rept. 119-853](https://www.indexdata.org/h-rept-119-853/)** — `2026-11-02` | `11 Pages`
 - `[`US-CHRG-119hhrg65540`]` **[Serial No. 119-44 - BUILDING AN AI-READY AMERICA: ADOPTING AI AT WORK](https://www.indexdata.org/serial-no-119-44-building-an-ai-ready-america-adopting-ai-at-work/)** — `2026-11-02` | `98 Pages`
 - `[`US-CRPT-119hrpt878`]` **[H. Rept. 119-878](https://www.indexdata.org/h-rept-119-878/)** — `2026-11-01` | `2 Pages`
+- `[`US-CHRG-119hhrg64564`]` **[Serial No. 119-59 - DELIVERING QUALITY AND MODERN HEALTHCARE TO MICHIGAN'S VETERANS AND SERVICEMEMBERS](https://www.indexdata.org/serial-no-119-59-delivering-quality-and-modern-healthcare-to-michigans-veterans-and-servicemembers/)** — `2026-11-01` | `69 Pages`
 - `[`US-CHRG-119hhrg64516`]` **[Small Business Committee Document Number 119-43 - FUELING THE GOLDEN AGE: FUTURE RESOURCE NEEDS AND SMALL BUSINESS OPPORTUNITY](https://www.indexdata.org/small-business-committee-document-number-119-43-fueling-the-golden-age-future-resource-needs-and-small-business-opportunity/)** — `2026-11-01` | `69 Pages`
 - `[`US-CHRG-119hhrg64505`]` **[Serial No. 119-47 - TSA MODERNIZATION: INDUSTRY PERSPECTIVES ON KEY SECURITY AND TRAVEL REFORMS 25 YEARS AFTER 9/11](https://www.indexdata.org/serial-no-119-47-tsa-modernization-industry-perspectives-on-key-security-and-travel-reforms-25-years-after-9-11/)** — `2026-11-01` | `68 Pages`
 - `[`US-CHRG-119hhrg64103`]` **[House Hearing, 119th Congress - THE CONGRESSIONAL RESEARCH SERVICE AND THE FUTURE OF AI-ENABLED POLICY ANALYSIS](https://www.indexdata.org/house-hearing-119th-congress-the-congressional-research-service-and-the-future-of-ai-enabled-policy-analysis/)** — `2026-11-01` | `104 Pages`
@@ -989,6 +990,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-CHRG-119shrg64351`]` **[S. Hrg. 119-499 - COUNTING THE COST: COMMUNIST CHINA'S TOLL ON OLDER AMERICANS' HEALTH, FINANCES, AND SECURITY](https://www.indexdata.org/s-hrg-119-499-counting-the-cost-communist-chinas-toll-on-older-americans-health-finances-and-security/)** — `2026-11-03` | `79 Pages`
 - `[`US-CHRG-119shrg63848`]` **[S. Hrg. 119-419 - PROTECTING THOSE WHO SERVED: A REVIEW OF VA POLICE OPERATIONS](https://www.indexdata.org/s-hrg-119-419-protecting-those-who-served-a-review-of-va-police-operations/)** — `2026-11-03` | `88 Pages`
 - `[`US-CHRG-119shrg64161`]` **[S. Hrg. 119-477 - A LEGISLATIVE HEARING TO EXAMINE S. __, BUILD NUCLEAR WITH LOCAL MATERIALS ACT, DISCUSSION DRAFT S. __, RECHARGE ACT, AND DISCUSSION DRAFT S. __, ENRICHMENT LICENSING MODERNIZATION ACT](https://www.indexdata.org/s-hrg-119-477-a-legislative-hearing-to-examine-s-__-build-nuclear-with-local-materials-act-discussion-draft-s-__-recharge-act-and-discussion-draft-s-__-enrichment-licensing-modernization-a/)** — `2026-11-02` | `108 Pages`
+- `[`US-CHRG-119shrg65667`]` **[S. Hrg. 119-554 - NOMINATION TO THE DEPARTMENT OF TRANSPORTATION, NATIONAL TRANSPORTATION SAFETY BOARD, SURFACE TRANSPORTATION BOARD AND THE CONSUMER PRODUCT SAFETY COMMISSION](https://www.indexdata.org/s-hrg-119-554-nomination-to-the-department-of-transportation-national-transportation-safety-board-surface-transportation-board-and-the-consumer-product-safety-commission/)** — `2026-11-01` | `118 Pages`
 - `[`US-CHRG-119shrg64416`]` **[S. Hrg. 119-508 - REBUILDING AMERICAN CRITICAL MINERALS SUPPLY CHAINS](https://www.indexdata.org/s-hrg-119-508-rebuilding-american-critical-minerals-supply-chains/)** — `2026-11-01` | `65 Pages`
 - `[`US-CHRG-119shrg64300`]` **[S. Hrg. 119-491 - HEARING ON THE NOMINATION OF KEVIN LILLY TO BE ASSISTANT SECRETARY FOR FISH AND WILDLIFE OF THE U.S. DEPARTMENT OF THE INTERIOR](https://www.indexdata.org/s-hrg-119-491-hearing-on-the-nomination-of-kevin-lilly-to-be-assistant-secretary-for-fish-and-wildlife-of-the-u-s-department-of-the-interior/)** — `2026-11-01` | `48 Pages`
 - `[`US-CHRG-119shrg63973`]` **[S. Hrg. 119-434 - HEARING TO EXAMINE THE U.S. NUCLEAR REGULATORY COMMISSION'S PROPOSED FISCAL YEAR 2027 BUDGET](https://www.indexdata.org/s-hrg-119-434-hearing-to-examine-the-u-s-nuclear-regulatory-commissions-proposed-fiscal-year-2027-budget/)** — `2026-11-01` | `82 Pages`
@@ -1710,17 +1712,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-m
 - `[`US-DOC-NOAA-76786`]` **[The Capital sector of the New England fishing fleet : An inventory](https://www.indexdata.org/the-capital-sector-of-the-new-england-fishing-fleet-an-inventory/)** — `2026-11-02` | `66 Pages`
 - `[`US-DOC-NOAA-74404`]` **[Fish injury and mortality events at the coastal Virginia offshore wind commercial project in 2024](https://www.indexdata.org/fish-injury-and-mortality-events-at-the-coastal-virginia-offshore-wind-commercial-project-in-2024/)** — `2026-11-02` | `48 Pages`
 
-### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
-
-- `[`2026-22505`]` **[International Mail Manual; Incorporation by Reference](https://www.indexdata.org/international-mail-manual-incorporation-by-reference/)** — `2026-11-04` | `2 Pages`
-- `[`2026-21699`]` **[Revision of National Environmental Policy Act Implementing Procedures; Extension of Comment Period](https://www.indexdata.org/revision-of-national-environmental-policy-act-implementing-procedures-extension-of-comment-period/)** — `2026-10-23` | `2 Pages`
-- `[`2026-21317`]` **[New Mailing Standards for Live Animals](https://www.indexdata.org/new-mailing-standards-for-live-animals/)** — `2026-10-19` | `2 Pages`
-- `[`2026-21310`]` **[Customs Requirements and Payment Procedures for Certain Customs Charges](https://www.indexdata.org/customs-requirements-and-payment-procedures-for-certain-customs-charges/)** — `2026-10-19` | `3 Pages`
-- `[`2026-19720`]` **[National Environmental Policy Act Implementing Procedures](https://www.indexdata.org/national-environmental-policy-act-implementing-procedures/)** — `2026-09-25` | `14 Pages`
-- `[`2026-18371`]` **[Labels 888, 889, 891, and 892, Discontinued](https://www.indexdata.org/labels-888-889-891-and-892-discontinued/)** — `2026-09-09` | `2 Pages`
-- `[`2026-17884`]` **[Free Matter for the Blind and Other Physically Handicapped Persons](https://www.indexdata.org/free-matter-for-the-blind-and-other-physically-handicapped-persons/)** — `2026-09-01` | `2 Pages`
-
 ### [Executive Office of the President (The White House)](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/feed/)
 
@@ -1760,6 +1751,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-p
 - `[`2026-21222`]` **[Denali National Park and Preserve; Vehicle Use](https://www.indexdata.org/denali-national-park-and-preserve-vehicle-use/)** — `2026-10-16` | `5 Pages`
 - `[`2026-20251`]` **[Big Cypress National Preserve; Off-Road Motor Vehicles](https://www.indexdata.org/big-cypress-national-preserve-off-road-motor-vehicles/)** — `2026-10-02` | `4 Pages`
 - `[`2026-17902`]` **[Bicycle Use in Park Areas](https://www.indexdata.org/bicycle-use-in-park-areas/)** — `2026-09-01` | `7 Pages`
+
+### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
+
+- `[`2026-22505`]` **[International Mail Manual; Incorporation by Reference](https://www.indexdata.org/international-mail-manual-incorporation-by-reference/)** — `2026-11-04` | `2 Pages`
+- `[`2026-21699`]` **[Revision of National Environmental Policy Act Implementing Procedures; Extension of Comment Period](https://www.indexdata.org/revision-of-national-environmental-policy-act-implementing-procedures-extension-of-comment-period/)** — `2026-10-23` | `2 Pages`
+- `[`2026-21317`]` **[New Mailing Standards for Live Animals](https://www.indexdata.org/new-mailing-standards-for-live-animals/)** — `2026-10-19` | `2 Pages`
+- `[`2026-21310`]` **[Customs Requirements and Payment Procedures for Certain Customs Charges](https://www.indexdata.org/customs-requirements-and-payment-procedures-for-certain-customs-charges/)** — `2026-10-19` | `3 Pages`
+- `[`2026-19720`]` **[National Environmental Policy Act Implementing Procedures](https://www.indexdata.org/national-environmental-policy-act-implementing-procedures/)** — `2026-09-25` | `14 Pages`
+- `[`2026-18371`]` **[Labels 888, 889, 891, and 892, Discontinued](https://www.indexdata.org/labels-888-889-891-and-892-discontinued/)** — `2026-09-09` | `2 Pages`
 
 ### [State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)
@@ -2002,12 +2003,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-la
 - `[`2026-21078`]` **[Meaning of Terms as Used in This Subchapter; Representation Proceedings; National Consultation Rights and Consultation Rights on Government-Wide Rules or Regulations; Miscellaneous and General Requirements](https://www.indexdata.org/meaning-of-terms-as-used-in-this-subchapter-representation-proceedings-national-consultation-rights-and-consultation-rights-on-government-wide-rules-or-regulations-miscellaneous-and-general-require/)** — `2026-10-15` | `9 Pages`
 - `[`2026-21077`]` **[Amendment to Memorandum Describing the Authority and Assigned Responsibilities of the General Counsel of the Federal Labor Relations Authority](https://www.indexdata.org/amendment-to-memorandum-describing-the-authority-and-assigned-responsibilities-of-the-general-counsel-of-the-federal-labor-relations-authority/)** — `2026-10-15` | `3 Pages`
 
-### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
-
-- `[`2026-20325`]` **[Clarification to the Applicability of Emergency Exemptions; Response to Petitions for Reconsideration](https://www.indexdata.org/clarification-to-the-applicability-of-emergency-exemptions-response-to-petitions-for-reconsideration/)** — `2026-10-05` | `5 Pages`
-- `[`2026-17893`]` **[Fees for the Unified Carrier Registration Plan and Agreement](https://www.indexdata.org/fees-for-the-unified-carrier-registration-plan-and-agreement/)** — `2026-09-01` | `10 Pages`
-
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 
@@ -2128,6 +2123,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ma
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/) | [RSS Feed](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/feed/)
 
 - `[`2026-22083`]` **[Requests for Arbitration Panels](https://www.indexdata.org/requests-for-arbitration-panels-3/)** — `2026-10-29` | `14 Pages`
+
+### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
+
+- `[`2026-20325`]` **[Clarification to the Applicability of Emergency Exemptions; Response to Petitions for Reconsideration](https://www.indexdata.org/clarification-to-the-applicability-of-emergency-exemptions-response-to-petitions-for-reconsideration/)** — `2026-10-05` | `5 Pages`
 
 ### [Fiscal Service](https://www.indexdata.org/united-states/fiscal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fiscal-service/](https://www.indexdata.org/united-states/fiscal-service/) | [RSS Feed](https://www.indexdata.org/united-states/fiscal-service/feed/)

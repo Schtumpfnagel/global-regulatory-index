@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,758` across `74` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,760` across `74` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-13 03:28 UTC`
+**Last Automated Sync:** `2026-11-13 04:30 UTC`
 
 ---
 
@@ -26,7 +26,7 @@
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`94` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`76` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
-- **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
+- **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
@@ -90,7 +90,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,758)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,760)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -282,8 +282,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2026-1055`]` **[The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026](https://www.indexdata.org/the-gatwick-airport-northern-runway-project-development-consent-correction-order-2026/)** — `2026-01-20` | `12 Pages`
 - `[`UKSI-2026-41`]` **[The Rehabilitation of Offenders Act 1974 (Exceptions) (Amendment) (England and Wales) Order 2026](https://www.indexdata.org/the-rehabilitation-of-offenders-act-1974-exceptions-amendment-england-and-wales-order-2026/)** — `2026-01-19` | `4 Pages`
 - `[`UKSI-2026-30`]` **[URBAN DEVELOPMENT, ENGLAND](https://www.indexdata.org/urban-development-england/)** — `2026-01-15` | `2 Pages`
-- `[`UKSI-2026-27`]` **[The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2026](https://www.indexdata.org/the-council-tax-reduction-schemes-prescribed-requirements-england-amendment-regulations-2026/)** — `2026-01-13` | `8 Pages`
-- `[`UKSI-2026-16`]` **[The A46 Newark Bypass Development Consent (Correction) Order 2026](https://www.indexdata.org/the-a46-newark-bypass-development-consent-correction-order-2026/)** — `2026-01-13` | `4 Pages`
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -752,6 +750,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/traffic-c
 - `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-27`]` **[PSV notices and proceedings for the west of England — NP - 3071 02 July 2026 (objection deadline 23 July 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3071-02-july-2026-objection-deadline-23-july-2026/)** — `2026-11-12` | `20 Pages`
 - `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-26`]` **[PSV notices and proceedings for the west of England — NP - 3070 25 June 2026 (objection deadline 16 July 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3070-25-june-2026-objection-deadline-16-july-2026/)** — `2026-11-12` | `16 Pages`
 - `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-25`]` **[PSV notices and proceedings for the west of England — NP - 3069 18 June 2026 (objection deadline 09 July 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3069-18-june-2026-objection-deadline-09-july-2026/)** — `2026-11-12` | `16 Pages`
+- `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-24`]` **[PSV notices and proceedings for the west of England — NP - 3068 11 June 2026 (objection deadline 02 July 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3068-11-june-2026-objection-deadline-02-july-2026/)** — `2026-11-12` | `15 Pages`
+- `[`UK-GOV-5e324822-7631-11e4-a3cb-005056011aef-23`]` **[PSV notices and proceedings for the west of England — NP - 3067 04 June 2026 (objection deadline 25 June 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-of-england-np-3067-04-june-2026-objection-deadline-25-june-2026/)** — `2026-11-12` | `17 Pages`
 - `[`UK-GOV-5e3247d9-7631-11e4-a3cb-005056011aef-9`]` **[PSV notices and proceedings for the West Midlands — NP - 2750 02 March 2026 (objection deadline 23 March 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-midlands-np-2750-02-march-2026-objection-deadline-23-march-2026/)** — `2026-11-09` | `18 Pages`
 - `[`UK-GOV-5e3247d9-7631-11e4-a3cb-005056011aef-8`]` **[PSV notices and proceedings for the West Midlands — NP - 2749 23 February 2026 (objection deadline 16 March 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-midlands-np-2749-23-february-2026-objection-deadline-16-march-2026/)** — `2026-11-09` | `15 Pages`
 - `[`UK-GOV-5e3247d9-7631-11e4-a3cb-005056011aef-7`]` **[PSV notices and proceedings for the West Midlands — NP - 2748 16 February 2026 (objection deadline 09 March 2026)](https://www.indexdata.org/psv-notices-and-proceedings-for-the-west-midlands-np-2748-16-february-2026-objection-deadline-09-march-2026/)** — `2026-11-09` | `16 Pages`
