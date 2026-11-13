@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,349` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,351` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 16:56 UTC`
+**Last Automated Sync:** `2026-11-13 17:56 UTC`
 
 ---
 
@@ -80,9 +80,9 @@
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Commerce Department](https://www.indexdata.org/united-states/commerce-department/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
 - **[Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
@@ -91,8 +91,8 @@
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)
 - **[Surface Transportation Board](https://www.indexdata.org/united-states/surface-transportation-board/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-transportation-board/) | [RSS Feed](https://www.indexdata.org/united-states/surface-transportation-board/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,349)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,351)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1202,7 +1202,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2023-13577`]` **[Endangered and Threatened Wildlife and Plants; Review of Species That Are Candidates for Listing as Endangered or Threatened; Annual Notification of Findings on Resubmitted Petitions; Annual Description of Progress on Listing Actions](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-review-of-species-that-are-candidates-for-listing-as-endangered-or-threatened-annual-notification-of-findings-on-resubmitted-petitions-annual-descripti-2/)** — `2023-06-27` | `26 Pages`
 - `[`2023-13461`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Western Fanshell and “Ouachita” Fanshell and Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-western-fanshell-and-ouachita-fanshell-and-designation-of-critical-habitat/)** — `2023-06-27` | `48 Pages`
 - `[`2023-13360`]` **[National Wildlife Refuge System; 2023-2024 Station-Specific Hunting and Sport Fishing Regulations](https://www.indexdata.org/national-wildlife-refuge-system-2023-2024-station-specific-hunting-and-sport-fishing-regulations-2/)** — `2023-06-23` | `9 Pages`
-- `[`2023-13055`]` **[Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened-wildlife-and-plants-4/)** — `2023-06-22` | `12 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -1266,6 +1265,35 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 - `[`2023-13992`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM 100 Cask System, Certificate of Compliance No. 1014, Renewal of Initial Certificate and Amendment Nos. 1 Through 15; Correction](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-100-cask-system-certificate-of-compliance-no-1014-renewal-of-initial-certificate-and-amendment-nos-1-through-15-correction/)** — `2023-07-03` | `6 Pages`
 - `[`2023-13683`]` **[Draft Regulatory Guide: Guidance for a Technology-Inclusive Content of Application Methodology To Inform the Licensing Basis and Content of Applications for Licenses, Certifications, and Approvals for Non-Light-Water Reactors](https://www.indexdata.org/draft-regulatory-guide-guidance-for-a-technology-inclusive-content-of-application-methodology-to-inform-the-licensing-basis-and-content-of-applications-for-licenses-certifications-and-approvals-for-2/)** — `2023-06-28` | `2 Pages`
 
+### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
+
+- `[`2023-22621`]` **[Modernizing Regulations on Sales of Seized Property](https://www.indexdata.org/modernizing-regulations-on-sales-of-seized-property-2/)** — `2023-10-16` | `7 Pages`
+- `[`2023-22286`]` **[Requirements for Type I and Type III Supporting Organizations](https://www.indexdata.org/requirements-for-type-i-and-type-iii-supporting-organizations/)** — `2023-10-16` | `15 Pages`
+- `[`2023-22353`]` **[Transfer of Clean Vehicle Credits Under Section 25E and Section 30D](https://www.indexdata.org/transfer-of-clean-vehicle-credits-under-section-25e-and-section-30d/)** — `2023-10-10` | `26 Pages`
+- `[`2023-22061`]` **[Guidance Under Section 367(b) Related to Certain Triangular Reorganizations and Inbound Nonrecognition Transactions](https://www.indexdata.org/guidance-under-section-367b-related-to-certain-triangular-reorganizations-and-inbound-nonrecognition-transactions-2/)** — `2023-10-06` | `20 Pages`
+- `[`2023-22104`]` **[Preparer Tax Identification Number (PTIN) User Fee Update](https://www.indexdata.org/preparer-tax-identification-number-ptin-user-fee-update-4/)** — `2023-10-04` | `3 Pages`
+- `[`2023-22103`]` **[Preparer Tax Identification Number (PTIN) User Fee Update](https://www.indexdata.org/preparer-tax-identification-number-ptin-user-fee-update-5/)** — `2023-10-04` | `4 Pages`
+- `[`2023-21969`]` **[Request for Information; Coverage of Over-the-Counter Preventive Services](https://www.indexdata.org/request-for-information-coverage-of-over-the-counter-preventive-services/)** — `2023-10-04` | `7 Pages`
+- `[`2023-21586`]` **[Excise Tax on Designated Drugs; Procedural Requirements](https://www.indexdata.org/excise-tax-on-designated-drugs-procedural-requirements-2/)** — `2023-10-02` | `5 Pages`
+- `[`2023-21177`]` **[Requirements Related to the Mental Health Parity and Addiction Equity Act; Extension of Comment Period](https://www.indexdata.org/requirements-related-to-the-mental-health-parity-and-addiction-equity-act-extension-of-comment-period/)** — `2023-09-28` | `3 Pages`
+- `[`2023-20840`]` **[Superfund Chemical Taxes; Hearing](https://www.indexdata.org/superfund-chemical-taxes-hearing/)** — `2023-09-26` | `2 Pages`
+- `[`2023-20799`]` **[Federal Independent Dispute Resolution (IDR) Process Administrative Fee and Certified IDR Entity Fee Ranges](https://www.indexdata.org/federal-independent-dispute-resolution-idr-process-administrative-fee-and-certified-idr-entity-fee-ranges-2/)** — `2023-09-26` | `20 Pages`
+- `[`2023-18514`]` **[Increased Credit or Deduction Amounts for Satisfying Certain Prevailing Wage and Registered Apprenticeship Requirements](https://www.indexdata.org/increased-credit-or-deduction-amounts-for-satisfying-certain-prevailing-wage-and-registered-apprenticeship-requirements/)** — `2023-08-30` | `37 Pages`
+- `[`2023-17565`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-4/)** — `2023-08-29` | `84 Pages`
+- `[`2023-17078`]` **[Additional Guidance on Low-Income Communities Bonus Credit Program](https://www.indexdata.org/additional-guidance-on-low-income-communities-bonus-credit-program/)** — `2023-08-15` | `43 Pages`
+- `[`2023-14098`]` **[Revising Consolidated Return Regulations To Reflect Statutory Changes, Modernize Language, and Enhance Clarity](https://www.indexdata.org/revising-consolidated-return-regulations-to-reflect-statutory-changes-modernize-language-and-enhance-clarity/)** — `2023-08-07` | `26 Pages`
+- `[`2023-16650`]` **[Identification of Monetized Installment Sale Transactions as Listed Transactions](https://www.indexdata.org/identification-of-monetized-installment-sale-transactions-as-listed-transactions/)** — `2023-08-04` | `8 Pages`
+- `[`2023-15945`]` **[Requirements Related to the Mental Health Parity and Addiction Equity Act](https://www.indexdata.org/requirements-related-to-the-mental-health-parity-and-addiction-equity-act-2/)** — `2023-08-03` | `118 Pages`
+- `[`2023-16225`]` **[Guidance Under Section 1502; Amendment of Matching Rule for Certain Gains on Member Stock; Correction](https://www.indexdata.org/guidance-under-section-1502-amendment-of-matching-rule-for-certain-gains-on-member-stock-correction/)** — `2023-08-01` | `2 Pages`
+- `[`2023-15690`]` **[Recapture of Certain Excess Employment Tax Credits Under COVID-19 Legislation](https://www.indexdata.org/recapture-of-certain-excess-employment-tax-credits-under-covid-19-legislation/)** — `2023-07-26` | `8 Pages`
+- `[`2023-14644`]` **[Carryback of Consolidated Net Operating Losses](https://www.indexdata.org/carryback-of-consolidated-net-operating-losses/)** — `2023-07-12` | `7 Pages`
+- `[`2023-14238`]` **[Short-Term, Limited-Duration Insurance; Independent, Noncoordinated Excepted Benefits Coverage; Level-Funded Plan Arrangements; and Tax Treatment of Certain Accident and Health Insurance](https://www.indexdata.org/short-term-limited-duration-insurance-independent-noncoordinated-excepted-benefits-coverage-level-funded-plan-arrangements-and-tax-treatment-of-certain-accident-and-health-insurance/)** — `2023-07-12` | `63 Pages`
+- `[`2023-13890`]` **[Additional Guidance on the Transition From Interbank Offer Rates to Other Reference Rates With Respect to the Interest Rates of a Foreign Bank](https://www.indexdata.org/additional-guidance-on-the-transition-from-interbank-offer-rates-to-other-reference-rates-with-respect-to-the-interest-rates-of-a-foreign-bank/)** — `2023-06-30` | `4 Pages`
+- `[`2023-13555`]` **[Electronic-Filing Requirements for Specified Returns and Other Documents; Correction](https://www.indexdata.org/electronic-filing-requirements-for-specified-returns-and-other-documents-correction/)** — `2023-06-27` | `2 Pages`
+- `[`2023-13510`]` **[Additional Guidance on Low-Income Communities Bonus Credit Program; Correction](https://www.indexdata.org/additional-guidance-on-low-income-communities-bonus-credit-program-correction/)** — `2023-06-26` | `2 Pages`
+- `[`2023-12693`]` **[Corporate Bond Yield Curve for Determining Present Value](https://www.indexdata.org/corporate-bond-yield-curve-for-determining-present-value-2/)** — `2023-06-23` | `5 Pages`
+
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
@@ -1293,34 +1321,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2023-14856`]` **[United States Standards for Soybeans](https://www.indexdata.org/united-states-standards-for-soybeans/)** — `2023-07-14` | `3 Pages`
 - `[`2023-13597`]` **[Washington Apricots; Termination of Marketing Order](https://www.indexdata.org/washington-apricots-termination-of-marketing-order/)** — `2023-06-27` | `3 Pages`
 - `[`2023-13418`]` **[Preserving Trust Benefits Under the Packers and Stockyards Act](https://www.indexdata.org/preserving-trust-benefits-under-the-packers-and-stockyards-act/)** — `2023-06-23` | `9 Pages`
-
-### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
-
-- `[`2023-22286`]` **[Requirements for Type I and Type III Supporting Organizations](https://www.indexdata.org/requirements-for-type-i-and-type-iii-supporting-organizations/)** — `2023-10-16` | `15 Pages`
-- `[`2023-22353`]` **[Transfer of Clean Vehicle Credits Under Section 25E and Section 30D](https://www.indexdata.org/transfer-of-clean-vehicle-credits-under-section-25e-and-section-30d/)** — `2023-10-10` | `26 Pages`
-- `[`2023-22061`]` **[Guidance Under Section 367(b) Related to Certain Triangular Reorganizations and Inbound Nonrecognition Transactions](https://www.indexdata.org/guidance-under-section-367b-related-to-certain-triangular-reorganizations-and-inbound-nonrecognition-transactions-2/)** — `2023-10-06` | `20 Pages`
-- `[`2023-22104`]` **[Preparer Tax Identification Number (PTIN) User Fee Update](https://www.indexdata.org/preparer-tax-identification-number-ptin-user-fee-update-4/)** — `2023-10-04` | `3 Pages`
-- `[`2023-22103`]` **[Preparer Tax Identification Number (PTIN) User Fee Update](https://www.indexdata.org/preparer-tax-identification-number-ptin-user-fee-update-5/)** — `2023-10-04` | `4 Pages`
-- `[`2023-21969`]` **[Request for Information; Coverage of Over-the-Counter Preventive Services](https://www.indexdata.org/request-for-information-coverage-of-over-the-counter-preventive-services/)** — `2023-10-04` | `7 Pages`
-- `[`2023-21586`]` **[Excise Tax on Designated Drugs; Procedural Requirements](https://www.indexdata.org/excise-tax-on-designated-drugs-procedural-requirements-2/)** — `2023-10-02` | `5 Pages`
-- `[`2023-21177`]` **[Requirements Related to the Mental Health Parity and Addiction Equity Act; Extension of Comment Period](https://www.indexdata.org/requirements-related-to-the-mental-health-parity-and-addiction-equity-act-extension-of-comment-period/)** — `2023-09-28` | `3 Pages`
-- `[`2023-20840`]` **[Superfund Chemical Taxes; Hearing](https://www.indexdata.org/superfund-chemical-taxes-hearing/)** — `2023-09-26` | `2 Pages`
-- `[`2023-20799`]` **[Federal Independent Dispute Resolution (IDR) Process Administrative Fee and Certified IDR Entity Fee Ranges](https://www.indexdata.org/federal-independent-dispute-resolution-idr-process-administrative-fee-and-certified-idr-entity-fee-ranges-2/)** — `2023-09-26` | `20 Pages`
-- `[`2023-18514`]` **[Increased Credit or Deduction Amounts for Satisfying Certain Prevailing Wage and Registered Apprenticeship Requirements](https://www.indexdata.org/increased-credit-or-deduction-amounts-for-satisfying-certain-prevailing-wage-and-registered-apprenticeship-requirements/)** — `2023-08-30` | `37 Pages`
-- `[`2023-17565`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-4/)** — `2023-08-29` | `84 Pages`
-- `[`2023-17078`]` **[Additional Guidance on Low-Income Communities Bonus Credit Program](https://www.indexdata.org/additional-guidance-on-low-income-communities-bonus-credit-program/)** — `2023-08-15` | `43 Pages`
-- `[`2023-14098`]` **[Revising Consolidated Return Regulations To Reflect Statutory Changes, Modernize Language, and Enhance Clarity](https://www.indexdata.org/revising-consolidated-return-regulations-to-reflect-statutory-changes-modernize-language-and-enhance-clarity/)** — `2023-08-07` | `26 Pages`
-- `[`2023-16650`]` **[Identification of Monetized Installment Sale Transactions as Listed Transactions](https://www.indexdata.org/identification-of-monetized-installment-sale-transactions-as-listed-transactions/)** — `2023-08-04` | `8 Pages`
-- `[`2023-15945`]` **[Requirements Related to the Mental Health Parity and Addiction Equity Act](https://www.indexdata.org/requirements-related-to-the-mental-health-parity-and-addiction-equity-act-2/)** — `2023-08-03` | `118 Pages`
-- `[`2023-16225`]` **[Guidance Under Section 1502; Amendment of Matching Rule for Certain Gains on Member Stock; Correction](https://www.indexdata.org/guidance-under-section-1502-amendment-of-matching-rule-for-certain-gains-on-member-stock-correction/)** — `2023-08-01` | `2 Pages`
-- `[`2023-15690`]` **[Recapture of Certain Excess Employment Tax Credits Under COVID-19 Legislation](https://www.indexdata.org/recapture-of-certain-excess-employment-tax-credits-under-covid-19-legislation/)** — `2023-07-26` | `8 Pages`
-- `[`2023-14644`]` **[Carryback of Consolidated Net Operating Losses](https://www.indexdata.org/carryback-of-consolidated-net-operating-losses/)** — `2023-07-12` | `7 Pages`
-- `[`2023-14238`]` **[Short-Term, Limited-Duration Insurance; Independent, Noncoordinated Excepted Benefits Coverage; Level-Funded Plan Arrangements; and Tax Treatment of Certain Accident and Health Insurance](https://www.indexdata.org/short-term-limited-duration-insurance-independent-noncoordinated-excepted-benefits-coverage-level-funded-plan-arrangements-and-tax-treatment-of-certain-accident-and-health-insurance/)** — `2023-07-12` | `63 Pages`
-- `[`2023-13890`]` **[Additional Guidance on the Transition From Interbank Offer Rates to Other Reference Rates With Respect to the Interest Rates of a Foreign Bank](https://www.indexdata.org/additional-guidance-on-the-transition-from-interbank-offer-rates-to-other-reference-rates-with-respect-to-the-interest-rates-of-a-foreign-bank/)** — `2023-06-30` | `4 Pages`
-- `[`2023-13555`]` **[Electronic-Filing Requirements for Specified Returns and Other Documents; Correction](https://www.indexdata.org/electronic-filing-requirements-for-specified-returns-and-other-documents-correction/)** — `2023-06-27` | `2 Pages`
-- `[`2023-13510`]` **[Additional Guidance on Low-Income Communities Bonus Credit Program; Correction](https://www.indexdata.org/additional-guidance-on-low-income-communities-bonus-credit-program-correction/)** — `2023-06-26` | `2 Pages`
-- `[`2023-12693`]` **[Corporate Bond Yield Curve for Determining Present Value](https://www.indexdata.org/corporate-bond-yield-curve-for-determining-present-value-2/)** — `2023-06-23` | `5 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1470,21 +1470,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2023-13981`]` **[Small Business Investment Company Investment Diversification and Growth](https://www.indexdata.org/small-business-investment-company-investment-diversification-and-growth/)** — `2023-07-18` | `33 Pages`
 - `[`2023-13439`]` **[Veteran-Owned Small Business and Service-Disabled, Veteran-Owned Small Business-Certification; Correction](https://www.indexdata.org/veteran-owned-small-business-and-service-disabled-veteran-owned-small-business-certification-correction/)** — `2023-07-03` | `2 Pages`
 
-### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
-
-- `[`2023-22570`]` **[Propionyl Chloride](https://www.indexdata.org/propionyl-chloride/)** — `2023-10-12` | `4 Pages`
-- `[`2023-22406`]` **[Second Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/second-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2023-10-10` | `5 Pages`
-- `[`2023-20439`]` **[Schedules of Controlled Substances: Placement of Ethylphenidate in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-ethylphenidate-in-schedule-i-2/)** — `2023-09-22` | `7 Pages`
-- `[`2023-18885`]` **[Management of Quotas for Controlled Substances and List I Chemicals](https://www.indexdata.org/management-of-quotas-for-controlled-substances-and-list-i-chemicals/)** — `2023-08-31` | `28 Pages`
-- `[`2023-17778`]` **[Schedules of Controlled Substances: Placement of Metonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-metonitazene-in-schedule-i/)** — `2023-08-18` | `4 Pages`
-- `[`2023-16892`]` **[Dispensing of Narcotic Drugs To Relieve Acute Withdrawal Symptoms of Opioid Use Disorder](https://www.indexdata.org/dispensing-of-narcotic-drugs-to-relieve-acute-withdrawal-symptoms-of-opioid-use-disorder/)** — `2023-08-08` | `7 Pages`
-- `[`2023-15747`]` **[Implementation of the Designer Anabolic Steroid Control Act of 2014](https://www.indexdata.org/implementation-of-the-designer-anabolic-steroid-control-act-of-2014/)** — `2023-08-01` | `6 Pages`
-- `[`2023-15847`]` **[Transfer of Electronic Prescriptions for Schedules II-V Controlled Substances Between Pharmacies for Initial Filling](https://www.indexdata.org/transfer-of-electronic-prescriptions-for-schedules-ii-v-controlled-substances-between-pharmacies-for-initial-filling/)** — `2023-07-27` | `16 Pages`
-- `[`2023-15748`]` **[Schedules of Controlled Substances: Temporary Placement of Etizolam, Flualprazolam, Clonazolam, Flubromazolam, and Diclazepam in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-etizolam-flualprazolam-clonazolam-flubromazolam-and-diclazepam-in-schedule-i/)** — `2023-07-26` | `7 Pages`
-- `[`2023-15508`]` **[Partial Filling of Prescriptions for Schedule II Controlled Substances](https://www.indexdata.org/partial-filling-of-prescriptions-for-schedule-ii-controlled-substances/)** — `2023-07-21` | `20 Pages`
-- `[`2023-13085`]` **[Reporting Theft or Significant Loss of Controlled Substances](https://www.indexdata.org/reporting-theft-or-significant-loss-of-controlled-substances/)** — `2023-06-22` | `7 Pages`
-
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 
@@ -1571,6 +1556,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-p
 - `[`2023-14554`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-12/)** — `2023-07-27` | `5 Pages`
 - `[`2023-15189`]` **[Safety Standard for Adult Portable Bed Rails](https://www.indexdata.org/safety-standard-for-adult-portable-bed-rails/)** — `2023-07-21` | `26 Pages`
 - `[`2023-13351`]` **[Notice of Availability of Updated ASTM Standard Under the Portable Fuel Container Safety Act](https://www.indexdata.org/notice-of-availability-of-updated-astm-standard-under-the-portable-fuel-container-safety-act-2/)** — `2023-06-23` | `2 Pages`
+
+### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+
+- `[`2023-22570`]` **[Propionyl Chloride](https://www.indexdata.org/propionyl-chloride/)** — `2023-10-12` | `4 Pages`
+- `[`2023-22406`]` **[Second Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/second-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2023-10-10` | `5 Pages`
+- `[`2023-20439`]` **[Schedules of Controlled Substances: Placement of Ethylphenidate in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-ethylphenidate-in-schedule-i-2/)** — `2023-09-22` | `7 Pages`
+- `[`2023-18885`]` **[Management of Quotas for Controlled Substances and List I Chemicals](https://www.indexdata.org/management-of-quotas-for-controlled-substances-and-list-i-chemicals/)** — `2023-08-31` | `28 Pages`
+- `[`2023-17778`]` **[Schedules of Controlled Substances: Placement of Metonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-metonitazene-in-schedule-i/)** — `2023-08-18` | `4 Pages`
+- `[`2023-16892`]` **[Dispensing of Narcotic Drugs To Relieve Acute Withdrawal Symptoms of Opioid Use Disorder](https://www.indexdata.org/dispensing-of-narcotic-drugs-to-relieve-acute-withdrawal-symptoms-of-opioid-use-disorder/)** — `2023-08-08` | `7 Pages`
+- `[`2023-15747`]` **[Implementation of the Designer Anabolic Steroid Control Act of 2014](https://www.indexdata.org/implementation-of-the-designer-anabolic-steroid-control-act-of-2014/)** — `2023-08-01` | `6 Pages`
+- `[`2023-15847`]` **[Transfer of Electronic Prescriptions for Schedules II-V Controlled Substances Between Pharmacies for Initial Filling](https://www.indexdata.org/transfer-of-electronic-prescriptions-for-schedules-ii-v-controlled-substances-between-pharmacies-for-initial-filling/)** — `2023-07-27` | `16 Pages`
+- `[`2023-15748`]` **[Schedules of Controlled Substances: Temporary Placement of Etizolam, Flualprazolam, Clonazolam, Flubromazolam, and Diclazepam in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-etizolam-flualprazolam-clonazolam-flubromazolam-and-diclazepam-in-schedule-i/)** — `2023-07-26` | `7 Pages`
+- `[`2023-15508`]` **[Partial Filling of Prescriptions for Schedule II Controlled Substances](https://www.indexdata.org/partial-filling-of-prescriptions-for-schedule-ii-controlled-substances/)** — `2023-07-21` | `20 Pages`
 
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
@@ -1695,6 +1694,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2023-16515`]` **[Corporate Average Fuel Economy Standards for Passenger Cars and Light Trucks for Model Years 2027-2032 and Fuel Efficiency Standards for Heavy-Duty Pickup Trucks and Vans for Model Years 2030-2035](https://www.indexdata.org/corporate-average-fuel-economy-standards-for-passenger-cars-and-light-trucks-for-model-years-2027-2032-and-fuel-efficiency-standards-for-heavy-duty-pickup-trucks-and-vans-for-model-years-2030-2035/)** — `2023-08-17` | `263 Pages`
 - `[`2023-13622`]` **[Heavy Vehicle Automatic Emergency Braking; AEB Test Devices](https://www.indexdata.org/heavy-vehicle-automatic-emergency-braking-aeb-test-devices/)** — `2023-07-06` | `73 Pages`
 
+### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
+
+- `[`2023-22606`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products-8/)** — `2023-10-16` | `4 Pages`
+- `[`2023-21318`]` **[Ballot Mail Ancillary Service Endorsements](https://www.indexdata.org/ballot-mail-ancillary-service-endorsements-2/)** — `2023-09-29` | `2 Pages`
+- `[`2023-16981`]` **[Intelligent Mail Package Barcode Compliance Quality](https://www.indexdata.org/intelligent-mail-package-barcode-compliance-quality/)** — `2023-08-10` | `2 Pages`
+- `[`2023-16811`]` **[Supplemental Standards of Ethical Conduct for Employees of the United States Postal Service](https://www.indexdata.org/supplemental-standards-of-ethical-conduct-for-employees-of-the-united-states-postal-service/)** — `2023-08-08` | `7 Pages`
+- `[`2023-15449`]` **[Circulars and Rewards](https://www.indexdata.org/circulars-and-rewards/)** — `2023-07-21` | `3 Pages`
+- `[`2023-13942`]` **[Priority Mail Express Refunds](https://www.indexdata.org/priority-mail-express-refunds/)** — `2023-06-30` | `2 Pages`
+- `[`2023-13440`]` **[Intelligent Mail Package Barcode Compliance Quality](https://www.indexdata.org/intelligent-mail-package-barcode-compliance-quality-2/)** — `2023-06-28` | `2 Pages`
+
 ### [Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 
@@ -1724,16 +1734,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-la
 - `[`2023-20892`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-4/)** — `2023-09-26` | `2 Pages`
 - `[`2023-19269`]` **[Negotiability Proceedings](https://www.indexdata.org/negotiability-proceedings/)** — `2023-09-12` | `16 Pages`
 - `[`2023-14399`]` **[Miscellaneous and General Requirements](https://www.indexdata.org/miscellaneous-and-general-requirements-5/)** — `2023-07-10` | `2 Pages`
-
-### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
-
-- `[`2023-21318`]` **[Ballot Mail Ancillary Service Endorsements](https://www.indexdata.org/ballot-mail-ancillary-service-endorsements-2/)** — `2023-09-29` | `2 Pages`
-- `[`2023-16981`]` **[Intelligent Mail Package Barcode Compliance Quality](https://www.indexdata.org/intelligent-mail-package-barcode-compliance-quality/)** — `2023-08-10` | `2 Pages`
-- `[`2023-16811`]` **[Supplemental Standards of Ethical Conduct for Employees of the United States Postal Service](https://www.indexdata.org/supplemental-standards-of-ethical-conduct-for-employees-of-the-united-states-postal-service/)** — `2023-08-08` | `7 Pages`
-- `[`2023-15449`]` **[Circulars and Rewards](https://www.indexdata.org/circulars-and-rewards/)** — `2023-07-21` | `3 Pages`
-- `[`2023-13942`]` **[Priority Mail Express Refunds](https://www.indexdata.org/priority-mail-express-refunds/)** — `2023-06-30` | `2 Pages`
-- `[`2023-13440`]` **[Intelligent Mail Package Barcode Compliance Quality](https://www.indexdata.org/intelligent-mail-package-barcode-compliance-quality-2/)** — `2023-06-28` | `2 Pages`
 
 ### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)

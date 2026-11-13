@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,349` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,351` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 16:56 UTC`
+**Last Automated Sync:** `2026-11-13 17:56 UTC`
 
 ---
 
@@ -80,9 +80,9 @@
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Commerce Department](https://www.indexdata.org/united-states/commerce-department/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
 - **[Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
@@ -91,8 +91,8 @@
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)
 - **[Surface Transportation Board](https://www.indexdata.org/united-states/surface-transportation-board/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-transportation-board/) | [RSS Feed](https://www.indexdata.org/united-states/surface-transportation-board/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,349)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,351)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1100,39 +1100,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 - `[`2023-23299`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-21/)** — `2023-10-25` | `3 Pages`
 - `[`2023-23013`]` **[Medical Malpractice Claims by Members of the Uniformed Services](https://www.indexdata.org/medical-malpractice-claims-by-members-of-the-uniformed-services-2/)** — `2023-10-20` | `4 Pages`
 
-### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
-
-- `[`2024-03632`]` **[Definition of Energy Property and Rules Applicable to the Energy Credit; Correction](https://www.indexdata.org/definition-of-energy-property-and-rules-applicable-to-the-energy-credit-correction/)** — `2024-02-22` | `2 Pages`
-- `[`2024-01378`]` **[Federal Independent Dispute Resolution (IDR) Process Administrative Fee and Certified IDR Entity Fee Ranges; Correction](https://www.indexdata.org/federal-independent-dispute-resolution-idr-process-administrative-fee-and-certified-idr-entity-fee-ranges-correction/)** — `2024-01-24` | `2 Pages`
-- `[`2024-01077`]` **[Request for Information-SECURE 2.0 Section 319-Effectiveness of Reporting and Disclosure Requirements](https://www.indexdata.org/request-for-information-secure-2-0-section-319-effectiveness-of-reporting-and-disclosure-requirements-2/)** — `2024-01-23` | `7 Pages`
-- `[`2024-01072`]` **[Federal Independent Dispute Resolution Operations; Reopening of Comment Period](https://www.indexdata.org/federal-independent-dispute-resolution-operations-reopening-of-comment-period/)** — `2024-01-22` | `2 Pages`
-- `[`2024-00978`]` **[Update to Minimum Present Value Requirements for Defined Benefit Plan Distributions](https://www.indexdata.org/update-to-minimum-present-value-requirements-for-defined-benefit-plan-distributions/)** — `2024-01-19` | `11 Pages`
-- `[`2024-00552`]` **[Corporate Bond Yield Curve for Determining Present Value](https://www.indexdata.org/corporate-bond-yield-curve-for-determining-present-value/)** — `2024-01-12` | `6 Pages`
-- `[`2024-00496`]` **[Definition of Energy Property and Rules Applicable to the Energy Credit; Correction](https://www.indexdata.org/definition-of-energy-property-and-rules-applicable-to-the-energy-credit-correction-2/)** — `2024-01-12` | `2 Pages`
-- `[`2024-00375`]` **[Section 30D Excluded Entities; Transfer of Clean Vehicle Credits Under Section 25E and Section 30D; Section 30D New Clean Vehicle Credit; Hearing](https://www.indexdata.org/section-30d-excluded-entities-transfer-of-clean-vehicle-credits-under-section-25e-and-section-30d-section-30d-new-clean-vehicle-credit-hearing/)** — `2024-01-11` | `2 Pages`
-- `[`2024-00260`]` **[Taxes on Taxable Distributions From Donor Advised Funds Under Section 4966](https://www.indexdata.org/taxes-on-taxable-distributions-from-donor-advised-funds-under-section-4966/)** — `2024-01-09` | `2 Pages`
-- `[`2023-28589`]` **[Bad Debt Deductions for Regulated Financial Companies and Members of Regulated Financial Groups](https://www.indexdata.org/bad-debt-deductions-for-regulated-financial-companies-and-members-of-regulated-financial-groups/)** — `2023-12-28` | `9 Pages`
-- `[`2023-28359`]` **[Section 45V Credit for Production of Clean Hydrogen; Section 48(a)(15) Election To Treat Clean Hydrogen Production Facilities as Energy Property](https://www.indexdata.org/section-45v-credit-for-production-of-clean-hydrogen-section-48a15-election-to-treat-clean-hydrogen-production-facilities-as-energy-property-2/)** — `2023-12-26` | `36 Pages`
-- `[`2023-27931`]` **[Federal Independent Dispute Resolution (IDR) Process Administrative Fee and Certified IDR Entity Fee Ranges](https://www.indexdata.org/federal-independent-dispute-resolution-idr-process-administrative-fee-and-certified-idr-entity-fee-ranges/)** — `2023-12-21` | `32 Pages`
-- `[`2023-27283`]` **[De Minimis Error Safe Harbor Exceptions to Penalties for Failure To File Correct Information Returns or Furnish Correct Payee Statements](https://www.indexdata.org/de-minimis-error-safe-harbor-exceptions-to-penalties-for-failure-to-file-correct-information-returns-or-furnish-correct-payee-statements/)** — `2023-12-19` | `19 Pages`
-- `[`2023-27498`]` **[Section 45X Advanced Manufacturing Production Credit](https://www.indexdata.org/section-45x-advanced-manufacturing-production-credit/)** — `2023-12-15` | `25 Pages`
-- `[`2023-26601`]` **[Revising Consolidated Return Regulations To Reflect Statutory Changes, Modernize Language, and Enhance Clarity; Correction](https://www.indexdata.org/revising-consolidated-return-regulations-to-reflect-statutory-changes-modernize-language-and-enhance-clarity-correction/)** — `2023-12-06` | `2 Pages`
-- `[`2023-26513`]` **[Section 30D Excluded Entities](https://www.indexdata.org/section-30d-excluded-entities/)** — `2023-12-04` | `19 Pages`
-- `[`2023-25987`]` **[Long-Term, Part-Time Employee Rules for Cash or Deferred Arrangements Under Section 401(k)](https://www.indexdata.org/long-term-part-time-employee-rules-for-cash-or-deferred-arrangements-under-section-401k/)** — `2023-11-27` | `22 Pages`
-- `[`2023-25715`]` **[Transactions Between Related Persons and Partnerships](https://www.indexdata.org/transactions-between-related-persons-and-partnerships/)** — `2023-11-27` | `5 Pages`
-- `[`2023-25539`]` **[Definition of Energy Property and Rules Applicable to the Energy Credit](https://www.indexdata.org/definition-of-energy-property-and-rules-applicable-to-the-energy-credit-2/)** — `2023-11-22` | `36 Pages`
-- `[`2023-24982`]` **[Taxes on Taxable Distributions From Donor Advised Funds Under Section 4966](https://www.indexdata.org/taxes-on-taxable-distributions-from-donor-advised-funds-under-section-4966-2/)** — `2023-11-14` | `20 Pages`
-- `[`2023-24650`]` **[Recognition and Deferral of Section 987 Gain or Loss; Comment Period Reopening](https://www.indexdata.org/recognition-and-deferral-of-section-987-gain-or-loss-comment-period-reopening/)** — `2023-11-14` | `2 Pages`
-- `[`2023-24649`]` **[Income and Currency Gain or Loss With Respect to a Qualified Business Unit](https://www.indexdata.org/income-and-currency-gain-or-loss-with-respect-to-a-qualified-business-unit/)** — `2023-11-14` | `77 Pages`
-- `[`2023-24608`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-2/)** — `2023-11-07` | `2 Pages`
-- `[`2023-23716`]` **[Federal Independent Dispute Resolution Operations](https://www.indexdata.org/federal-independent-dispute-resolution-operations-2/)** — `2023-11-03` | `145 Pages`
-- `[`2023-23624`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-3/)** — `2023-10-25` | `2 Pages`
-- `[`2023-23301`]` **[User Fees Relating to Enrolled Actuaries](https://www.indexdata.org/user-fees-relating-to-enrolled-actuaries/)** — `2023-10-20` | `5 Pages`
-- `[`2023-23268`]` **[Plan-Specific Substitute Mortality Tables for Determining Present Value](https://www.indexdata.org/plan-specific-substitute-mortality-tables-for-determining-present-value-2/)** — `2023-10-20` | `3 Pages`
-- `[`2023-23267`]` **[Mortality Tables for Determining Present Value Under Defined Benefit Pension Plans](https://www.indexdata.org/mortality-tables-for-determining-present-value-under-defined-benefit-pension-plans/)** — `2023-10-20` | `10 Pages`
-- `[`2023-22621`]` **[Modernizing Regulations on Sales of Seized Property](https://www.indexdata.org/modernizing-regulations-on-sales-of-seized-property-2/)** — `2023-10-16` | `7 Pages`
-
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
@@ -1196,6 +1163,38 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2023-22759`]` **[Endangered and Threatened Wildlife and Plants; Removing Nelson's Checker-Mallow From the Federal List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removing-nelsons-checker-mallow-from-the-federal-list-of-endangered-and-threatened-plants/)** — `2023-10-17` | `14 Pages`
 - `[`2023-22377`]` **[Endangered and Threatened Wildlife and Plants; Removal of 21 Species From the List of Endangered and Threatened Wildlife](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-21-species-from-the-list-of-endangered-and-threatened-wildlife/)** — `2023-10-17` | `39 Pages`
 - `[`2023-22376`]` **[Endangered and Threatened Wildlife and Plants; Removing Phyllostegia glabra var. lanaiensis From the List of Endangered or Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removing-phyllostegia-glabra-var-lanaiensis-from-the-list-of-endangered-or-threatened-plants/)** — `2023-10-17` | `4 Pages`
+
+### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
+
+- `[`2024-03632`]` **[Definition of Energy Property and Rules Applicable to the Energy Credit; Correction](https://www.indexdata.org/definition-of-energy-property-and-rules-applicable-to-the-energy-credit-correction/)** — `2024-02-22` | `2 Pages`
+- `[`2024-01378`]` **[Federal Independent Dispute Resolution (IDR) Process Administrative Fee and Certified IDR Entity Fee Ranges; Correction](https://www.indexdata.org/federal-independent-dispute-resolution-idr-process-administrative-fee-and-certified-idr-entity-fee-ranges-correction/)** — `2024-01-24` | `2 Pages`
+- `[`2024-01077`]` **[Request for Information-SECURE 2.0 Section 319-Effectiveness of Reporting and Disclosure Requirements](https://www.indexdata.org/request-for-information-secure-2-0-section-319-effectiveness-of-reporting-and-disclosure-requirements-2/)** — `2024-01-23` | `7 Pages`
+- `[`2024-01072`]` **[Federal Independent Dispute Resolution Operations; Reopening of Comment Period](https://www.indexdata.org/federal-independent-dispute-resolution-operations-reopening-of-comment-period/)** — `2024-01-22` | `2 Pages`
+- `[`2024-00978`]` **[Update to Minimum Present Value Requirements for Defined Benefit Plan Distributions](https://www.indexdata.org/update-to-minimum-present-value-requirements-for-defined-benefit-plan-distributions/)** — `2024-01-19` | `11 Pages`
+- `[`2024-00552`]` **[Corporate Bond Yield Curve for Determining Present Value](https://www.indexdata.org/corporate-bond-yield-curve-for-determining-present-value/)** — `2024-01-12` | `6 Pages`
+- `[`2024-00496`]` **[Definition of Energy Property and Rules Applicable to the Energy Credit; Correction](https://www.indexdata.org/definition-of-energy-property-and-rules-applicable-to-the-energy-credit-correction-2/)** — `2024-01-12` | `2 Pages`
+- `[`2024-00375`]` **[Section 30D Excluded Entities; Transfer of Clean Vehicle Credits Under Section 25E and Section 30D; Section 30D New Clean Vehicle Credit; Hearing](https://www.indexdata.org/section-30d-excluded-entities-transfer-of-clean-vehicle-credits-under-section-25e-and-section-30d-section-30d-new-clean-vehicle-credit-hearing/)** — `2024-01-11` | `2 Pages`
+- `[`2024-00260`]` **[Taxes on Taxable Distributions From Donor Advised Funds Under Section 4966](https://www.indexdata.org/taxes-on-taxable-distributions-from-donor-advised-funds-under-section-4966/)** — `2024-01-09` | `2 Pages`
+- `[`2023-28589`]` **[Bad Debt Deductions for Regulated Financial Companies and Members of Regulated Financial Groups](https://www.indexdata.org/bad-debt-deductions-for-regulated-financial-companies-and-members-of-regulated-financial-groups/)** — `2023-12-28` | `9 Pages`
+- `[`2023-28359`]` **[Section 45V Credit for Production of Clean Hydrogen; Section 48(a)(15) Election To Treat Clean Hydrogen Production Facilities as Energy Property](https://www.indexdata.org/section-45v-credit-for-production-of-clean-hydrogen-section-48a15-election-to-treat-clean-hydrogen-production-facilities-as-energy-property-2/)** — `2023-12-26` | `36 Pages`
+- `[`2023-27931`]` **[Federal Independent Dispute Resolution (IDR) Process Administrative Fee and Certified IDR Entity Fee Ranges](https://www.indexdata.org/federal-independent-dispute-resolution-idr-process-administrative-fee-and-certified-idr-entity-fee-ranges/)** — `2023-12-21` | `32 Pages`
+- `[`2023-27283`]` **[De Minimis Error Safe Harbor Exceptions to Penalties for Failure To File Correct Information Returns or Furnish Correct Payee Statements](https://www.indexdata.org/de-minimis-error-safe-harbor-exceptions-to-penalties-for-failure-to-file-correct-information-returns-or-furnish-correct-payee-statements/)** — `2023-12-19` | `19 Pages`
+- `[`2023-27498`]` **[Section 45X Advanced Manufacturing Production Credit](https://www.indexdata.org/section-45x-advanced-manufacturing-production-credit/)** — `2023-12-15` | `25 Pages`
+- `[`2023-26601`]` **[Revising Consolidated Return Regulations To Reflect Statutory Changes, Modernize Language, and Enhance Clarity; Correction](https://www.indexdata.org/revising-consolidated-return-regulations-to-reflect-statutory-changes-modernize-language-and-enhance-clarity-correction/)** — `2023-12-06` | `2 Pages`
+- `[`2023-26513`]` **[Section 30D Excluded Entities](https://www.indexdata.org/section-30d-excluded-entities/)** — `2023-12-04` | `19 Pages`
+- `[`2023-25987`]` **[Long-Term, Part-Time Employee Rules for Cash or Deferred Arrangements Under Section 401(k)](https://www.indexdata.org/long-term-part-time-employee-rules-for-cash-or-deferred-arrangements-under-section-401k/)** — `2023-11-27` | `22 Pages`
+- `[`2023-25715`]` **[Transactions Between Related Persons and Partnerships](https://www.indexdata.org/transactions-between-related-persons-and-partnerships/)** — `2023-11-27` | `5 Pages`
+- `[`2023-25539`]` **[Definition of Energy Property and Rules Applicable to the Energy Credit](https://www.indexdata.org/definition-of-energy-property-and-rules-applicable-to-the-energy-credit-2/)** — `2023-11-22` | `36 Pages`
+- `[`2023-24982`]` **[Taxes on Taxable Distributions From Donor Advised Funds Under Section 4966](https://www.indexdata.org/taxes-on-taxable-distributions-from-donor-advised-funds-under-section-4966-2/)** — `2023-11-14` | `20 Pages`
+- `[`2023-24650`]` **[Recognition and Deferral of Section 987 Gain or Loss; Comment Period Reopening](https://www.indexdata.org/recognition-and-deferral-of-section-987-gain-or-loss-comment-period-reopening/)** — `2023-11-14` | `2 Pages`
+- `[`2023-24649`]` **[Income and Currency Gain or Loss With Respect to a Qualified Business Unit](https://www.indexdata.org/income-and-currency-gain-or-loss-with-respect-to-a-qualified-business-unit/)** — `2023-11-14` | `77 Pages`
+- `[`2023-24608`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-2/)** — `2023-11-07` | `2 Pages`
+- `[`2023-23716`]` **[Federal Independent Dispute Resolution Operations](https://www.indexdata.org/federal-independent-dispute-resolution-operations-2/)** — `2023-11-03` | `145 Pages`
+- `[`2023-23624`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-3/)** — `2023-10-25` | `2 Pages`
+- `[`2023-23301`]` **[User Fees Relating to Enrolled Actuaries](https://www.indexdata.org/user-fees-relating-to-enrolled-actuaries/)** — `2023-10-20` | `5 Pages`
+- `[`2023-23268`]` **[Plan-Specific Substitute Mortality Tables for Determining Present Value](https://www.indexdata.org/plan-specific-substitute-mortality-tables-for-determining-present-value-2/)** — `2023-10-20` | `3 Pages`
+- `[`2023-23267`]` **[Mortality Tables for Determining Present Value Under Defined Benefit Pension Plans](https://www.indexdata.org/mortality-tables-for-determining-present-value-under-defined-benefit-pension-plans/)** — `2023-10-20` | `10 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -1470,6 +1469,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
 
+- `[`2024-03079`]` **[Authorization To Manufacture and Distribute Postage Evidencing Systems](https://www.indexdata.org/authorization-to-manufacture-and-distribute-postage-evidencing-systems/)** — `2024-02-26` | `3 Pages`
 - `[`2024-00945`]` **[Shipping Address Label](https://www.indexdata.org/shipping-address-label/)** — `2024-01-19` | `3 Pages`
 - `[`2024-00313`]` **[Inspection Service Authority; Civil Monetary Penalty Inflation Adjustment](https://www.indexdata.org/inspection-service-authority-civil-monetary-penalty-inflation-adjustment-2/)** — `2024-01-10` | `2 Pages`
 - `[`2023-28296`]` **[Commercial Mail Receiving Agencies Clarification](https://www.indexdata.org/commercial-mail-receiving-agencies-clarification-2/)** — `2023-12-29` | `2 Pages`
@@ -1483,7 +1483,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2023-25569`]` **[Ballot Mail Ancillary Service Endorsements](https://www.indexdata.org/ballot-mail-ancillary-service-endorsements/)** — `2023-11-20` | `2 Pages`
 - `[`2023-24447`]` **[Use of Foreign Return Addresses on Domestic Mailpieces](https://www.indexdata.org/use-of-foreign-return-addresses-on-domestic-mailpieces/)** — `2023-11-06` | `2 Pages`
 - `[`2023-22762`]` **[International Mailing Services: Proposed Price Changes](https://www.indexdata.org/international-mailing-services-proposed-price-changes-4/)** — `2023-10-24` | `2 Pages`
-- `[`2023-22606`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products-8/)** — `2023-10-16` | `4 Pages`
 
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
@@ -1908,6 +1907,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ho
 - `[`2024-00874`]` **[Rules of Practice and Procedure; Civil Money Penalty Inflation Adjustment](https://www.indexdata.org/rules-of-practice-and-procedure-civil-money-penalty-inflation-adjustment-2/)** — `2024-01-18` | `3 Pages`
 - `[`2023-26078`]` **[Enterprise Regulatory Capital Framework-Commingled Securities, Multifamily Government Subsidy, Derivatives, and Other Enhancements](https://www.indexdata.org/enterprise-regulatory-capital-framework-commingled-securities-multifamily-government-subsidy-derivatives-and-other-enhancements/)** — `2023-11-30` | `26 Pages`
 
+### [Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-maritime-commission/](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
+
+- `[`2024-02926`]` **[Demurrage and Detention Billing Requirements](https://www.indexdata.org/demurrage-and-detention-billing-requirements/)** — `2024-02-26` | `34 Pages`
+- `[`2024-00354`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-8/)** — `2024-01-10` | `2 Pages`
+- `[`2023-27783`]` **[Carrier Automated Tariffs](https://www.indexdata.org/carrier-automated-tariffs/)** — `2024-01-02` | `9 Pages`
+
 ### [Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-transit-administration/](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 
@@ -1988,12 +1994,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-em
 
 - `[`2024-02204`]` **[National Flood Insurance Program: Standard Flood Insurance Policy, Homeowner Flood Form](https://www.indexdata.org/national-flood-insurance-program-standard-flood-insurance-policy-homeowner-flood-form/)** — `2024-02-06` | `46 Pages`
 - `[`2024-00677`]` **[Individual Assistance Program Equity](https://www.indexdata.org/individual-assistance-program-equity/)** — `2024-01-22` | `136 Pages`
-
-### [Federal Maritime Commission](https://www.indexdata.org/united-states/federal-maritime-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-maritime-commission/](https://www.indexdata.org/united-states/federal-maritime-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-maritime-commission/feed/)
-
-- `[`2024-00354`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-8/)** — `2024-01-10` | `2 Pages`
-- `[`2023-27783`]` **[Carrier Automated Tariffs](https://www.indexdata.org/carrier-automated-tariffs/)** — `2024-01-02` | `9 Pages`
 
 ### [Federal Mediation and Conciliation Service](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/) | [RSS Feed](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/feed/)
