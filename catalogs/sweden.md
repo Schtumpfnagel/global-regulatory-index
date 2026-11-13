@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/sweden/feed/](https://www.indexdata.org/sweden/feed/)  
 **Wikidata Sovereign Entity:** [`Q34`](https://www.wikidata.org/wiki/Q34)  
 **Governing Open-Government Framework:** *URL 9 § (1960:729) / SFS 2022:818 / CC BY 4.0*  
-**Total Indexed Dossiers in Sweden:** `47` across `7` issuing authorities  
-**Last Automated Sync:** `2026-11-12 23:28 UTC`
+**Total Indexed Dossiers in Sweden:** `49` across `7` issuing authorities  
+**Last Automated Sync:** `2026-11-13 00:35 UTC`
 
 ---
 
 ## Issuing Authorities in Sweden (7 Authorities)
 
 - **[Swedish Transport Administration (Trafikverket)](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/feed/)
+- **[Swedish Meteorological and Hydrological Institute (SMHI)](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/feed/)
 - **[Research Institutes of Sweden (RISE)](https://www.indexdata.org/sweden/research-institutes-of-sweden-rise/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/research-institutes-of-sweden-rise/) | [RSS Feed](https://www.indexdata.org/sweden/research-institutes-of-sweden-rise/feed/)
-- **[Swedish Meteorological and Hydrological Institute (SMHI)](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/feed/)
 - **[Swedish Parliament (Sveriges Riksdag)](https://www.indexdata.org/sweden/swedish-parliament-sveriges-riksdag/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/swedish-parliament-sveriges-riksdag/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-parliament-sveriges-riksdag/feed/)
 - **[Government Offices of Sweden (Departementsserien)](https://www.indexdata.org/sweden/government-offices-of-sweden-departementsserien/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/government-offices-of-sweden-departementsserien/) | [RSS Feed](https://www.indexdata.org/sweden/government-offices-of-sweden-departementsserien/feed/)
 - **[Swedish National Road and Transport Research Institute (VTI)](https://www.indexdata.org/sweden/swedish-national-road-and-transport-research-institute-vti/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/swedish-national-road-and-transport-research-institute-vti/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-national-road-and-transport-research-institute-vti/feed/)
@@ -22,7 +22,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–47 of 47)
+## Indexed Statutory & Regulatory Dossiers (Records 1–49 of 49)
 
 ### [Swedish Transport Administration (Trafikverket)](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/)
 Canonical Authority Archive: [https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/feed/)
@@ -58,14 +58,6 @@ Canonical Authority Archive: [https://www.indexdata.org/sweden/swedish-transport
 - `[`SE-TRV-trafikverket-19807`]` **[Cost management for underground infrastructure projects: A case study on cost increase and its causes](https://www.indexdata.org/cost-management-for-underground-infrastructure-projects-a-case-study-on-cost-increase-and-its-causes/)** — `2011-01-01` | `124 Pages`
 - `[`SE-TRV-trafikverket-19809`]` **[In-line rheological measurements of cement based grouts using the UVP-PD method: A Pre-Study](https://www.indexdata.org/in-line-rheological-measurements-of-cement-based-grouts-using-the-uvp-pd-method-a-pre-study/)** — `2010-01-01` | `97 Pages`
 
-### [Research Institutes of Sweden (RISE)](https://www.indexdata.org/sweden/research-institutes-of-sweden-rise/)
-Canonical Authority Archive: [https://www.indexdata.org/sweden/research-institutes-of-sweden-rise/](https://www.indexdata.org/sweden/research-institutes-of-sweden-rise/) | [RSS Feed](https://www.indexdata.org/sweden/research-institutes-of-sweden-rise/feed/)
-
-- `[`SE-RISE-1995581`]` **[EU regulatory sandboxes - An opportunity for coordinating AI Innovation](https://www.indexdata.org/eu-regulatory-sandboxes-an-opportunity-for-coordinating-ai-innovation/)** — `2025-01-01` | `25 Pages`
-- `[`SE-RISE-1995387`]` **[Life cycle assessment of Vidde’s pilot snowmobile - today and in future circular production systems](https://www.indexdata.org/life-cycle-assessment-of-viddes-pilot-snowmobile-today-and-in-future-circular-production-systems/)** — `2025-01-01` | `47 Pages`
-- `[`SE-RISE-1974413`]` **[Compartment Explosions Induced by Batteries](https://www.indexdata.org/compartment-explosions-induced-by-batteries/)** — `2025-01-01` | `59 Pages`
-- `[`SE-RISE-1964448`]` **[LCA of battery electric vehicle – normal and minimal battery sizes compared, including battery swapping](https://www.indexdata.org/lca-of-battery-electric-vehicle-normal-and-minimal-battery-sizes-compared-including-battery-swapping/)** — `2025-01-01` | `51 Pages`
-
 ### [Swedish Meteorological and Hydrological Institute (SMHI)](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/)
 Canonical Authority Archive: [https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/feed/)
 
@@ -73,6 +65,16 @@ Canonical Authority Archive: [https://www.indexdata.org/sweden/swedish-meteorolo
 - `[`SE-SMHI-1895611`]` **[Hydrographic effects in Swedish waters of future offshore wind power scenarios](https://www.indexdata.org/hydrographic-effects-in-swedish-waters-of-future-offshore-wind-power-scenarios/)** — `2024-01-01` | `37 Pages`
 - `[`SE-SMHI-1860636`]` **[Oxygen Survey in the Baltic Sea 2023: - Extent of Anoxia and Hypoxia, 1960-2023](https://www.indexdata.org/oxygen-survey-in-the-baltic-sea-2023-extent-of-anoxia-and-hypoxia-1960-2023/)** — `2024-01-01` | `94 Pages`
 - `[`SE-SMHI-1818077`]` **[Spatio-temporal characterization of warnings and advisories issued by SMHI 2011-2020 with focus on multiple hydrological hazards](https://www.indexdata.org/spatio-temporal-characterization-of-warnings-and-advisories-issued-by-smhi-2011-2020-with-focus-on-multiple-hydrological-hazards/)** — `2023-01-01` | `62 Pages`
+- `[`SE-SMHI-1782151`]` **[Oxygen Survey in the Baltic Sea 2022 - Extent of Anoxia and Hypoxia, 1960-2022](https://www.indexdata.org/oxygen-survey-in-the-baltic-sea-2022-extent-of-anoxia-and-hypoxia-1960-2022/)** — `2023-01-01` | `92 Pages`
+- `[`SE-SMHI-1782147`]` **[Oxygen Survey in the Baltic Sea 2021 - Extent of Anoxia and Hypoxia, 1960-2021](https://www.indexdata.org/oxygen-survey-in-the-baltic-sea-2021-extent-of-anoxia-and-hypoxia-1960-2021/)** — `2022-01-01` | `90 Pages`
+
+### [Research Institutes of Sweden (RISE)](https://www.indexdata.org/sweden/research-institutes-of-sweden-rise/)
+Canonical Authority Archive: [https://www.indexdata.org/sweden/research-institutes-of-sweden-rise/](https://www.indexdata.org/sweden/research-institutes-of-sweden-rise/) | [RSS Feed](https://www.indexdata.org/sweden/research-institutes-of-sweden-rise/feed/)
+
+- `[`SE-RISE-1995581`]` **[EU regulatory sandboxes - An opportunity for coordinating AI Innovation](https://www.indexdata.org/eu-regulatory-sandboxes-an-opportunity-for-coordinating-ai-innovation/)** — `2025-01-01` | `25 Pages`
+- `[`SE-RISE-1995387`]` **[Life cycle assessment of Vidde’s pilot snowmobile - today and in future circular production systems](https://www.indexdata.org/life-cycle-assessment-of-viddes-pilot-snowmobile-today-and-in-future-circular-production-systems/)** — `2025-01-01` | `47 Pages`
+- `[`SE-RISE-1974413`]` **[Compartment Explosions Induced by Batteries](https://www.indexdata.org/compartment-explosions-induced-by-batteries/)** — `2025-01-01` | `59 Pages`
+- `[`SE-RISE-1964448`]` **[LCA of battery electric vehicle – normal and minimal battery sizes compared, including battery swapping](https://www.indexdata.org/lca-of-battery-electric-vehicle-normal-and-minimal-battery-sizes-compared-including-battery-swapping/)** — `2025-01-01` | `51 Pages`
 
 ### [Swedish Parliament (Sveriges Riksdag)](https://www.indexdata.org/sweden/swedish-parliament-sveriges-riksdag/)
 Canonical Authority Archive: [https://www.indexdata.org/sweden/swedish-parliament-sveriges-riksdag/](https://www.indexdata.org/sweden/swedish-parliament-sveriges-riksdag/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-parliament-sveriges-riksdag/feed/)

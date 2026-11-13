@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,733` across `74` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,735` across `74` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-12 23:28 UTC`
+**Last Automated Sync:** `2026-11-13 00:35 UTC`
 
 ---
 
@@ -30,7 +30,7 @@
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
-- **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
+- **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
@@ -90,7 +90,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,733 of 2,733)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,735 of 2,735)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -986,6 +986,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 ### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 
+- `[`UKSI-2025-1363`]` **[The Norfolk Vanguard Offshore Wind Farm (Amendment) (No. 3) Order 2025](https://www.indexdata.org/the-norfolk-vanguard-offshore-wind-farm-amendment-no-3-order-2025/)** — `2025-12-18` | `4 Pages`
 - `[`UKSI-2025-1362`]` **[The Norfolk Boreas Offshore Wind Farm (Amendment) (No. 2) Order 2025](https://www.indexdata.org/the-norfolk-boreas-offshore-wind-farm-amendment-no-2-order-2025/)** — `2025-12-18` | `4 Pages`
 - `[`UKSI-2025-1376`]` **[The Five Estuaries Offshore Wind Farm Order 2025](https://www.indexdata.org/the-five-estuaries-offshore-wind-farm-order-2025/)** — `2025-12-17` | `272 Pages`
 - `[`UKSI-2025-1372`]` **[The Helios Renewable Energy Project Order 2025](https://www.indexdata.org/the-helios-renewable-energy-project-order-2025/)** — `2025-12-03` | `116 Pages`
@@ -1139,6 +1140,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 
+- `[`UKSI-2025-1370`]` **[The Levelling-up and Regeneration Act 2023 (Commencement No. 9) and Planning and Infrastructure Act 2025 (Commencement No. 1 and Transitional Provisions) Regulations 2025](https://www.indexdata.org/the-levelling-up-and-regeneration-act-2023-commencement-no-9-and-planning-and-infrastructure-act-2025-commencement-no-1-and-transitional-provisions-regulations-2025/)** — `2025-12-18` | `8 Pages`
 - `[`UKSI-2025-1369`]` **[The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025](https://www.indexdata.org/the-producer-responsibility-obligations-packaging-and-packaging-waste-amendment-regulations-2025/)** — `2025-12-17` | `28 Pages`
 - `[`UKSI-2025-1255`]` **[The Control of Mercury (Amendment) Regulations 2025](https://www.indexdata.org/the-control-of-mercury-amendment-regulations-2025/)** — `2025-12-01` | `4 Pages`
 - `[`UKSI-2025-1218`]` **[The Environmental Protection (Wet Wipes Containing Plastic) (England) Regulations 2025](https://www.indexdata.org/the-environmental-protection-wet-wipes-containing-plastic-england-regulations-2025/)** — `2025-11-18` | `20 Pages`

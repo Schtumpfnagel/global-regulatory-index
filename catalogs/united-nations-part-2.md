@@ -7,7 +7,7 @@
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
 **Total Indexed Dossiers in United Nations:** `6,966` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-12 23:28 UTC`
+**Last Automated Sync:** `2026-11-13 00:35 UTC`
 
 ---
 

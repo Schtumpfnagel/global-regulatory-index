@@ -1,10 +1,10 @@
 {
   "profile": "tabular-data-package",
   "name": "global-regulatory-index",
-  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 39,721 Official Dossiers",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 39,744 Official Dossiers",
   "homepage": "https://www.indexdata.org/",
-  "version": "2026.11.12",
-  "created": "2026-11-12",
+  "version": "2026.11.13",
+  "created": "2026-11-13",
   "id": "https://doi.org/10.5281/zenodo.23612006",
   "licenses": [
     {
