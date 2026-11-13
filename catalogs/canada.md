@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,379` across `30` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,380` across `30` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-13 14:00 UTC`
+**Last Automated Sync:** `2026-11-13 14:59 UTC`
 
 ---
 
@@ -29,7 +29,7 @@
 - **[Immigration, Refugees and Citizenship Canada](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/) | [RSS Feed](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/feed/)
 - **[Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
-- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
+- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
 - **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
@@ -46,7 +46,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,379)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,380)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -964,7 +964,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-73-681`]` **[Foreign Claims (Czechoslovakia) Settlement Regulations](https://www.indexdata.org/foreign-claims-czechoslovakia-settlement-regulations/)** — `2026-09-30` | `9 Pages`
 - `[`SOR-73-558`]` **[Rosabel Jeanette Pryce Housing Regulations](https://www.indexdata.org/rosabel-jeanette-pryce-housing-regulations/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-72-91`]` **[Romania Claims Fund Regulations](https://www.indexdata.org/romania-claims-fund-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-72-90`]` **[Foreign Claims (Romania) Settlement Regulations](https://www.indexdata.org/foreign-claims-romania-settlement-regulations/)** — `2026-09-30` | `10 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1550,6 +1549,20 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/environment-and-c
 - `[`SOR-80-831`]` **[Carbonated Beverage Glass Containers Regulations](https://www.indexdata.org/carbonated-beverage-glass-containers-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-78-417`]` **[Arctic Waters Experimental Pollution Regulations, 1978](https://www.indexdata.org/arctic-waters-experimental-pollution-regulations-1978/)** — `2026-09-30` | `3 Pages`
 
+### [Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/fisheries-and-oceans-canada/](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
+
+- `[`CA-OPEN-c30dc299-9026-4c44-b631`]` **[Dietary composition and sources of variability in emerging offshore grey seal colonies in the Northwest Atlantic](https://www.indexdata.org/dietary-composition-and-sources-of-variability-in-emerging-offshore-grey-seal-colonies-in-the-northwest-atlantic/)** — `2026-11-01` | `2 Pages`
+- `[`CA-OPEN-ad463f13-8983-4a60-9210`]` **[Dolly Varden Harvest Monitoring Biological Data 2007-2014 — Data dictionary](https://www.indexdata.org/dolly-varden-harvest-monitoring-biological-data-2007-2014-data-dictionary/)** — `2026-11-01` | `3 Pages`
+- `[`CA-OPEN-996ae476-109c-4baf-b820`]` **[Fishery resources and habitats in a headwater lake of the Brock River, Northwest Territories -water quality data.](https://www.indexdata.org/fishery-resources-and-habitats-in-a-headwater-lake-of-the-brock-river-northwest-territories-water-quality-data/)** — `2026-11-01` | `3 Pages`
+- `[`CA-OPEN-39acf317-c6c1-4ee6-a474-15a1979e140a`]` **[A Comparative Evaluation of the Efficacy of the Tobique River Atlantic Salmon Smolt-to-Adult Supplementation Program](https://www.indexdata.org/a-comparative-evaluation-of-the-efficacy-of-the-tobique-river-atlantic-salmon-smolt-to-adult-supplementation-program/)** — `2026-10-16` | `2 Pages`
+- `[`SOR-90-351`]` **[Management of Contaminated Fisheries Regulations](https://www.indexdata.org/management-of-contaminated-fisheries-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-89-187`]` **[Order Authorizing the Minister of Finance to Exercise the Powers of the Minister of Fisheries and Oceans Referred to in the Act in Respect of National Sea Products Limited](https://www.indexdata.org/order-authorizing-the-minister-of-finance-to-exercise-the-powers-of-the-minister-of-fisheries-and-oceans-referred-to-in-the-act-in-respect-of-national-sea-products-limited/)** — `2026-09-30` | `4 Pages`
+- `[`SOR-87-91`]` **[Order Authorizing the Minister of State (Privatization and Regulatory Affairs) to Exercise the Powers Given to the Minister of Fisheries and Oceans Under the Act in Respect of Certain Companies](https://www.indexdata.org/order-authorizing-the-minister-of-state-privatization-and-regulatory-affairs-to-exercise-the-powers-given-to-the-minister-of-fisheries-and-oceans-under-the-act-in-respect-of-certain-companies/)** — `2026-09-30` | `4 Pages`
+- `[`SOR-84-764`]` **[Order Authorizing the Minister of Regional Industrial Expansion to Exercise the Powers of the Minister of Fisheries and Oceans under Subsection 6(1) of the Act with Respect to Certain Companies](https://www.indexdata.org/order-authorizing-the-minister-of-regional-industrial-expansion-to-exercise-the-powers-of-the-minister-of-fisheries-and-oceans-under-subsection-61-of-the-act-with-respect-to-certain-companies/)** — `2026-09-30` | `4 Pages`
+- `[`SOR-82-611`]` **[St. Anthony Fisheries Limited Regulations](https://www.indexdata.org/st-anthony-fisheries-limited-regulations/)** — `2026-09-30` | `6 Pages`
+- `[`SOR-80-64`]` **[Northwest Atlantic Fisheries Organization Privileges and Immunities Order](https://www.indexdata.org/northwest-atlantic-fisheries-organization-privileges-and-immunities-order/)** — `2026-09-30` | `3 Pages`
+
 ### [Agriculture and Agri-Food Canada](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/agriculture-and-agri-food-canada/](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/) | [RSS Feed](https://www.indexdata.org/canada/agriculture-and-agri-food-canada/feed/)
 
@@ -1562,19 +1575,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/agriculture-and-a
 - `[`SOR-94-789`]` **[Scientific or Technical Assistance Fees Order (Research Branch — Agriculture)](https://www.indexdata.org/scientific-or-technical-assistance-fees-order-research-branch-agriculture/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-90-288`]` **[Meat Inspection Regulations, 1990](https://www.indexdata.org/meat-inspection-regulations-1990/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-83-593`]` **[Feeds Regulations, 1983](https://www.indexdata.org/feeds-regulations-1983/)** — `2026-09-30` | `3 Pages`
-
-### [Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/fisheries-and-oceans-canada/](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
-
-- `[`CA-OPEN-c30dc299-9026-4c44-b631`]` **[Dietary composition and sources of variability in emerging offshore grey seal colonies in the Northwest Atlantic](https://www.indexdata.org/dietary-composition-and-sources-of-variability-in-emerging-offshore-grey-seal-colonies-in-the-northwest-atlantic/)** — `2026-11-01` | `2 Pages`
-- `[`CA-OPEN-996ae476-109c-4baf-b820`]` **[Fishery resources and habitats in a headwater lake of the Brock River, Northwest Territories -water quality data.](https://www.indexdata.org/fishery-resources-and-habitats-in-a-headwater-lake-of-the-brock-river-northwest-territories-water-quality-data/)** — `2026-11-01` | `3 Pages`
-- `[`CA-OPEN-39acf317-c6c1-4ee6-a474-15a1979e140a`]` **[A Comparative Evaluation of the Efficacy of the Tobique River Atlantic Salmon Smolt-to-Adult Supplementation Program](https://www.indexdata.org/a-comparative-evaluation-of-the-efficacy-of-the-tobique-river-atlantic-salmon-smolt-to-adult-supplementation-program/)** — `2026-10-16` | `2 Pages`
-- `[`SOR-90-351`]` **[Management of Contaminated Fisheries Regulations](https://www.indexdata.org/management-of-contaminated-fisheries-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-89-187`]` **[Order Authorizing the Minister of Finance to Exercise the Powers of the Minister of Fisheries and Oceans Referred to in the Act in Respect of National Sea Products Limited](https://www.indexdata.org/order-authorizing-the-minister-of-finance-to-exercise-the-powers-of-the-minister-of-fisheries-and-oceans-referred-to-in-the-act-in-respect-of-national-sea-products-limited/)** — `2026-09-30` | `4 Pages`
-- `[`SOR-87-91`]` **[Order Authorizing the Minister of State (Privatization and Regulatory Affairs) to Exercise the Powers Given to the Minister of Fisheries and Oceans Under the Act in Respect of Certain Companies](https://www.indexdata.org/order-authorizing-the-minister-of-state-privatization-and-regulatory-affairs-to-exercise-the-powers-given-to-the-minister-of-fisheries-and-oceans-under-the-act-in-respect-of-certain-companies/)** — `2026-09-30` | `4 Pages`
-- `[`SOR-84-764`]` **[Order Authorizing the Minister of Regional Industrial Expansion to Exercise the Powers of the Minister of Fisheries and Oceans under Subsection 6(1) of the Act with Respect to Certain Companies](https://www.indexdata.org/order-authorizing-the-minister-of-regional-industrial-expansion-to-exercise-the-powers-of-the-minister-of-fisheries-and-oceans-under-subsection-61-of-the-act-with-respect-to-certain-companies/)** — `2026-09-30` | `4 Pages`
-- `[`SOR-82-611`]` **[St. Anthony Fisheries Limited Regulations](https://www.indexdata.org/st-anthony-fisheries-limited-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-80-64`]` **[Northwest Atlantic Fisheries Organization Privileges and Immunities Order](https://www.indexdata.org/northwest-atlantic-fisheries-organization-privileges-and-immunities-order/)** — `2026-09-30` | `3 Pages`
 
 ### [Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-northwest-territories/](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)

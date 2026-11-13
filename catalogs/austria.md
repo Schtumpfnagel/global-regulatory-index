@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q40`](https://www.wikidata.org/wiki/Q40)  
 **Governing Open-Government Framework:** *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0*  
 **Total Indexed Dossiers in Austria:** `167` across `17` issuing authorities  
-**Last Automated Sync:** `2026-11-13 14:00 UTC`
+**Last Automated Sync:** `2026-11-13 14:59 UTC`
 
 ---
 

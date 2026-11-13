@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,379` across `30` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,380` across `30` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-13 14:00 UTC`
+**Last Automated Sync:** `2026-11-13 14:59 UTC`
 
 ---
 
@@ -29,7 +29,7 @@
 - **[Immigration, Refugees and Citizenship Canada](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/) | [RSS Feed](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/feed/)
 - **[Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
-- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
+- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
 - **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
@@ -46,7 +46,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,379 of 5,379)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,380 of 5,380)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -589,6 +589,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 
+- `[`R-10.6`]` **[Royal Canadian Mounted Police Pension Continuation Act](https://www.indexdata.org/royal-canadian-mounted-police-pension-continuation-act/)** — `2026-09-30` | `38 Pages`
 - `[`P-8`]` **[Pension Fund Societies Act](https://www.indexdata.org/pension-fund-societies-act/)** — `2026-09-30` | `13 Pages`
 - `[`P-7.01`]` **[Pension Benefits Standards Act, 1985](https://www.indexdata.org/pension-benefits-standards-act-1985/)** — `2026-09-30` | `106 Pages`
 - `[`P-6.7`]` **[Pension Benefits Division Act](https://www.indexdata.org/pension-benefits-division-act/)** — `2026-09-30` | `14 Pages`

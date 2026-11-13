@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/portugal/feed/](https://www.indexdata.org/portugal/feed/)  
 **Wikidata Sovereign Entity:** [`Q45`](https://www.wikidata.org/wiki/Q45)  
 **Governing Open-Government Framework:** *Lei n.º 68/2021*  
-**Total Indexed Dossiers in Portugal:** `32` across `6` issuing authorities  
-**Last Automated Sync:** `2026-11-13 14:00 UTC`
+**Total Indexed Dossiers in Portugal:** `34` across `6` issuing authorities  
+**Last Automated Sync:** `2026-11-13 14:59 UTC`
 
 ---
 
 ## Issuing Authorities in Portugal (6 Authorities)
 
-- **[Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
+- **[Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
 - **[High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
 - **[Regional Directorate for the Sea — Madeira (DRM)](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/) | [RSS Feed](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/feed/)
 - **[National Institute of Health Doutor Ricardo Jorge (INSA)](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/) | [RSS Feed](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/feed/)
@@ -21,11 +21,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–32 of 32)
+## Indexed Statutory & Regulatory Dossiers (Records 1–34 of 34)
 
 ### [Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
 
+- `[`PT-IMT-WP-18453`]` **[LISTA DE MONOVOLUMES 407 &#8211; 1](https://www.indexdata.org/lista-de-monovolumes-407-1/)** — `2026-11-01` | `993 Pages`
+- `[`PT-IMT-WP-18452`]` **[LISTA DE MONOVOLUMES 407 &#8211; 2](https://www.indexdata.org/lista-de-monovolumes-407-2/)** — `2026-11-01` | `1314 Pages`
 - `[`PT-IMT-WP-18446`]` **[ATA N 5- 2 AT Portalegre_signed](https://www.indexdata.org/ata-n-5-2-at-portalegre_signed/)** — `2026-11-01` | `2 Pages`
 - `[`PT-IMT-WP-18445`]` **[Lista ordenação final homologada Portalegre](https://www.indexdata.org/lista-ordenacao-final-homologada-portalegre/)** — `2026-11-01` | `2 Pages`
 - `[`PT-IMT-WP-18443`]` **[Aviso_3_2026_Apoio_à_Descarbonização_do_Setor_do_Táxis v2.1](https://www.indexdata.org/aviso_3_2026_apoio_a_descarbonizacao_do_setor_do_taxis-v2-1/)** — `2026-11-01` | `13 Pages`

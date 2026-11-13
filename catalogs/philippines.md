@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `377` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-13 14:00 UTC`
+**Total Indexed Dossiers in Philippines:** `382` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-13 14:59 UTC`
 
 ---
 
@@ -14,7 +14,7 @@
 
 - **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`105` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
-- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
+- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–377 of 377)
+## Indexed Statutory & Regulatory Dossiers (Records 1–382 of 382)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -209,6 +209,11 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-ind
 ### [National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/national-privacy-commission/](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 
+- `[`PH-NPC-54325`]` **[2026.02.25 Resolution NPC 23-052 VSC vs. AUB](https://www.indexdata.org/2026-02-25-resolution-npc-23-052-vsc-vs-aub/)** — `2026-11-13` | `4 Pages`
+- `[`PH-NPC-54320`]` **[2026.11.12 RFQ Professional Services (Highly Technical Consultant for the Installation and Implementation of ISO IEC 270012022 Information Security Management System)](https://www.indexdata.org/2026-11-12-rfq-professional-services-highly-technical-consultant-for-the-installation-and-implementation-of-iso-iec-270012022-information-security-management-system/)** — `2026-11-13` | `9 Pages`
+- `[`PH-NPC-54319`]` **[2026.11.12 RFQ Adobe Creative Cloud and Adobe Acrobat Professional](https://www.indexdata.org/2026-11-12-rfq-adobe-creative-cloud-and-adobe-acrobat-professional/)** — `2026-11-13` | `16 Pages`
+- `[`PH-NPC-54315`]` **[Invitation to Bid - Furniture and Fixtures](https://www.indexdata.org/invitation-to-bid-furniture-and-fixtures/)** — `2026-11-13` | `4 Pages`
+- `[`PH-NPC-54314`]` **[CBD Furniture and Fixtures](https://www.indexdata.org/cbd-furniture-and-fixtures/)** — `2026-11-13` | `134 Pages`
 - `[`PH-NPC-54296`]` **[2025.08.04 Decision NPC 19-1470 RPR v Jollibee Food Corporation](https://www.indexdata.org/2025-08-04-decision-npc-19-1470-rpr-v-jollibee-food-corporation/)** — `2026-11-12` | `27 Pages`
 - `[`PH-NPC-54295`]` **[2026.04.28 Resolution NPC 19-470 RPR vs Jollibee Food Corporation](https://www.indexdata.org/2026-04-28-resolution-npc-19-470-rpr-vs-jollibee-food-corporation/)** — `2026-11-12` | `11 Pages`
 - `[`PH-NPC-54294`]` **[2026.02.25 Resolution NPC 23-052 Chu vs. AUB](https://www.indexdata.org/2026-02-25-resolution-npc-23-052-chu-vs-aub/)** — `2026-11-12` | `4 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,379` across `30` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,380` across `30` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | **[Part 2 (Current)]** | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-13 14:00 UTC`
+**Last Automated Sync:** `2026-11-13 14:59 UTC`
 
 ---
 
@@ -29,7 +29,7 @@
 - **[Immigration, Refugees and Citizenship Canada](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/) | [RSS Feed](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/feed/)
 - **[Governor General in Council](https://www.indexdata.org/canada/governor-general-in-council/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)
 - **[Government of Yukon](https://www.indexdata.org/canada/government-of-yukon/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-yukon/) | [RSS Feed](https://www.indexdata.org/canada/government-of-yukon/feed/)
-- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
+- **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
 - **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
@@ -46,11 +46,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,379)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,380)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`SOR-72-90`]` **[Foreign Claims (Romania) Settlement Regulations](https://www.indexdata.org/foreign-claims-romania-settlement-regulations/)** — `2026-09-30` | `10 Pages`
 - `[`SOR-72-395`]` **[Foreign Claims (Poland) Settlement Regulations](https://www.indexdata.org/foreign-claims-poland-settlement-regulations/)** — `2026-09-30` | `9 Pages`
 - `[`SOR-70-527`]` **[Foreign Claims (Hungary) Settlement Regulations](https://www.indexdata.org/foreign-claims-hungary-settlement-regulations/)** — `2026-09-30` | `10 Pages`
 - `[`SOR-67-619`]` **[Pay and Allowances Regulations (DSPCA)](https://www.indexdata.org/pay-and-allowances-regulations-dspca/)** — `2026-09-30` | `5 Pages`
@@ -1026,7 +1027,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-2001-58`]` **[Supervisory Information (Authorized Foreign Banks) Regulations](https://www.indexdata.org/supervisory-information-authorized-foreign-banks-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-2001-57`]` **[Supervisory Information (Cooperative Credit Associations) Regulations](https://www.indexdata.org/supervisory-information-cooperative-credit-associations-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-2001-527`]` **[Canada Small Business Financing (Establishment and Operation of Capital Leasing Pilot Project) Regulations](https://www.indexdata.org/canada-small-business-financing-establishment-and-operation-of-capital-leasing-pilot-project-regulations/)** — `2026-09-30` | `33 Pages`
-- `[`SOR-2001-520`]` **[Canada Industrial Relations Board Regulations, 2012](https://www.indexdata.org/canada-industrial-relations-board-regulations-2012/)** — `2026-09-30` | `29 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
