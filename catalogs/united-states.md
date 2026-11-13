@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,363` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,366` across `237` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 22:41 UTC`
+**Last Automated Sync:** `2026-11-13 23:48 UTC`
 
 ---
 
@@ -77,11 +77,11 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Commerce Department](https://www.indexdata.org/united-states/commerce-department/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,363)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,366)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -971,7 +971,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-18670`]` **[Special Local Regulations; Marine Events Within the Sector Columbia River Captain of the Port Zone, Portland, OR](https://www.indexdata.org/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone-portland-or/)** — `2026-09-11` | `2 Pages`
 - `[`2026-18557`]` **[Safety Zone; York River, Yorktown, VA](https://www.indexdata.org/safety-zone-york-river-yorktown-va/)** — `2026-09-11` | `3 Pages`
 - `[`2026-18463`]` **[Special Local Regulations; Marine Events Within the USCG East District-Ocean City, NJ](https://www.indexdata.org/special-local-regulations-marine-events-within-the-uscg-east-district-ocean-city-nj/)** — `2026-09-10` | `2 Pages`
-- `[`2026-18369`]` **[Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL](https://www.indexdata.org/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary-and-ship-canal-chicago-river-and-calumet-saganashkee-channel-chicago-il-2/)** — `2026-09-09` | `2 Pages`
 
 ### [United States Senate](https://www.indexdata.org/united-states/united-states-senate/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-senate/](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
@@ -1114,6 +1113,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 
+- `[`US-HI-DLNR-40664`]` **[D-6T-11-13-26-6](https://www.indexdata.org/d-6t-11-13-26-6/)** — `2026-11-01` | `28 Pages`
+- `[`US-HI-DLNR-40662`]` **[C-1T-11-13-26-2](https://www.indexdata.org/c-1t-11-13-26-2/)** — `2026-11-01` | `8 Pages`
 - `[`US-HI-DLNR-40657`]` **[D-6T-11-13-26-1a](https://www.indexdata.org/d-6t-11-13-26-1a/)** — `2026-11-01` | `78 Pages`
 - `[`US-HI-DLNR-40656`]` **[C-1Ta-11-13-26](https://www.indexdata.org/c-1ta-11-13-26/)** — `2026-11-01` | `11 Pages`
 - `[`US-HI-DLNR-40654`]` **[D-10T-11-13-26](https://www.indexdata.org/d-10t-11-13-26/)** — `2026-11-01` | `8 Pages`
@@ -1193,6 +1194,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-depart
 
 - `[`US-DOE-OSTI-3740790`]` **[Online task-space motion control for positioner-coordinated multi-robot manufacturing systems](https://www.indexdata.org/online-task-space-motion-control-for-positioner-coordinated-multi-robot-manufacturing-systems/)** — `2026-11-13` | `22 Pages`
 - `[`US-DOE-OSTI-3739883`]` **[Dopant adsorption as a function of bulk concentration at a near 42º (100) twist grain boundary in SrTiO 3](https://www.indexdata.org/dopant-adsorption-as-a-function-of-bulk-concentration-at-a-near-42o-100-twist-grain-boundary-in-srtio-3/)** — `2026-11-13` | `17 Pages`
+- `[`US-DOE-OSTI-17428272`]` **[Scalable Online Constrained State Estimation for Digital Twin Applications in Water Distribution Systems](https://www.indexdata.org/scalable-online-constrained-state-estimation-for-digital-twin-applications-in-water-distribution-systems/)** — `2026-11-13` | `31 Pages`
 - `[`US-DOE-OSTI-17428214`]` **[Intrinsically disordered regions facilitate Mlp1–Nab2 recognition in mRNA quality control](https://www.indexdata.org/intrinsically-disordered-regions-facilitate-mlp1-nab2-recognition-in-mrna-quality-control/)** — `2026-11-13` | `14 Pages`
 - `[`US-DOE-OSTI-17428068`]` **[A systematic method for designing aging-resilient nuclear balance-of-plant systems: Theoretical foundations](https://www.indexdata.org/a-systematic-method-for-designing-aging-resilient-nuclear-balance-of-plant-systems-theoretical-foundations/)** — `2026-11-11` | `9 Pages`
 - `[`US-DOE-OSTI-3683732`]` **[Homogenization of radiation transport calculations for multi-physics simulations](https://www.indexdata.org/homogenization-of-radiation-transport-calculations-for-multi-physics-simulations/)** — `2026-11-10` | `25 Pages`
@@ -1316,7 +1318,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2026-18778`]` **[Review of the Commission's Assessment and Collection of Regulatory Fees for Fiscal Year 2026](https://www.indexdata.org/review-of-the-commissions-assessment-and-collection-of-regulatory-fees-for-fiscal-year-2026/)** — `2026-09-14` | `50 Pages`
 - `[`2026-18535`]` **[Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program](https://www.indexdata.org/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the-equipment-authorization-program/)** — `2026-09-11` | `4 Pages`
 - `[`2026-18478`]` **[Telecommunications Relay Service ASCII Format Requirement](https://www.indexdata.org/telecommunications-relay-service-ascii-format-requirement/)** — `2026-09-10` | `3 Pages`
-- `[`2026-18366`]` **[Improving the Effectiveness of the Robocall Mitigation Database; Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls](https://www.indexdata.org/improving-the-effectiveness-of-the-robocall-mitigation-database-call-authentication-trust-anchor-advanced-methods-to-target-and-eliminate-unlawful-robocalls/)** — `2026-09-09` | `36 Pages`
 
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
@@ -1750,16 +1751,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2026-20532`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-4/)** — `2026-10-07` | `4 Pages`
 - `[`2026-19642`]` **[Department of Justice; Response to Correspondence Requesting Rulemaking](https://www.indexdata.org/department-of-justice-response-to-correspondence-requesting-rulemaking/)** — `2026-09-25` | `4 Pages`
 
-### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
-
-- `[`2026-22505`]` **[International Mail Manual; Incorporation by Reference](https://www.indexdata.org/international-mail-manual-incorporation-by-reference/)** — `2026-11-04` | `2 Pages`
-- `[`2026-21699`]` **[Revision of National Environmental Policy Act Implementing Procedures; Extension of Comment Period](https://www.indexdata.org/revision-of-national-environmental-policy-act-implementing-procedures-extension-of-comment-period/)** — `2026-10-23` | `2 Pages`
-- `[`2026-21317`]` **[New Mailing Standards for Live Animals](https://www.indexdata.org/new-mailing-standards-for-live-animals/)** — `2026-10-19` | `2 Pages`
-- `[`2026-21310`]` **[Customs Requirements and Payment Procedures for Certain Customs Charges](https://www.indexdata.org/customs-requirements-and-payment-procedures-for-certain-customs-charges/)** — `2026-10-19` | `3 Pages`
-- `[`2026-19720`]` **[National Environmental Policy Act Implementing Procedures](https://www.indexdata.org/national-environmental-policy-act-implementing-procedures/)** — `2026-09-25` | `14 Pages`
-- `[`2026-18371`]` **[Labels 888, 889, 891, and 892, Discontinued](https://www.indexdata.org/labels-888-889-891-and-892-discontinued/)** — `2026-09-09` | `2 Pages`
-
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
@@ -1795,6 +1786,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-p
 - `[`US-FRPI-2026-22986`]` **[Repatriation of Cultural Items: Longyear Museum of Anthropology, Colgate University, Hamilton, NY](https://www.indexdata.org/repatriation-of-cultural-items-longyear-museum-of-anthropology-colgate-university-hamilton-ny/)** — `2026-11-10` | `4 Pages`
 - `[`US-FRPI-2026-22985`]` **[Inventory Completion: Verde Valley Archaeology Center and Museum, Camp Verde, AZ](https://www.indexdata.org/inventory-completion-verde-valley-archaeology-center-and-museum-camp-verde-az/)** — `2026-11-10` | `3 Pages`
 - `[`US-FRPI-2026-22984`]` **[Inventory Completion: U.S. Department of Agriculture, Forest Service, Fremont-Winema National Forest, Lakeview, OR](https://www.indexdata.org/inventory-completion-u-s-department-of-agriculture-forest-service-fremont-winema-national-forest-lakeview-or/)** — `2026-11-10` | `3 Pages`
+
+### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
+
+- `[`2026-22505`]` **[International Mail Manual; Incorporation by Reference](https://www.indexdata.org/international-mail-manual-incorporation-by-reference/)** — `2026-11-04` | `2 Pages`
+- `[`2026-21699`]` **[Revision of National Environmental Policy Act Implementing Procedures; Extension of Comment Period](https://www.indexdata.org/revision-of-national-environmental-policy-act-implementing-procedures-extension-of-comment-period/)** — `2026-10-23` | `2 Pages`
+- `[`2026-21317`]` **[New Mailing Standards for Live Animals](https://www.indexdata.org/new-mailing-standards-for-live-animals/)** — `2026-10-19` | `2 Pages`
+- `[`2026-21310`]` **[Customs Requirements and Payment Procedures for Certain Customs Charges](https://www.indexdata.org/customs-requirements-and-payment-procedures-for-certain-customs-charges/)** — `2026-10-19` | `3 Pages`
+- `[`2026-19720`]` **[National Environmental Policy Act Implementing Procedures](https://www.indexdata.org/national-environmental-policy-act-implementing-procedures/)** — `2026-09-25` | `14 Pages`
 
 ### [State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)

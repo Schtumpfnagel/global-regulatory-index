@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,363` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,366` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 22:41 UTC`
+**Last Automated Sync:** `2026-11-13 23:48 UTC`
 
 ---
 
@@ -77,11 +77,11 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Commerce Department](https://www.indexdata.org/united-states/commerce-department/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
@@ -253,11 +253,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,363)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,366)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-03859`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-36/)** — `2025-03-11` | `6 Pages`
+- `[`2025-03858`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-170/)** — `2025-03-11` | `3 Pages`
+- `[`2025-03854`]` **[Amendment of Class D Airspace and Establishment of Class E Airspace; Warner Robins, GA](https://www.indexdata.org/amendment-of-class-d-airspace-and-establishment-of-class-e-airspace-warner-robins-ga-2/)** — `2025-03-11` | `3 Pages`
 - `[`2025-03853`]` **[Enforcement Policy Regarding “Drug and Alcohol Testing of Certificated Repair Station Employees Located Outside of the United States; Correction”](https://www.indexdata.org/enforcement-policy-regarding-drug-and-alcohol-testing-of-certificated-repair-station-employees-located-outside-of-the-united-states-correction/)** — `2025-03-11` | `2 Pages`
 - `[`2025-03851`]` **[Enforcement Policy Regarding “Aircraft Registration and Recordation Procedural Updates: Original Documents and Stamping”](https://www.indexdata.org/enforcement-policy-regarding-aircraft-registration-and-recordation-procedural-updates-original-documents-and-stamping/)** — `2025-03-11` | `2 Pages`
 - `[`2025-03794`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-169/)** — `2025-03-11` | `4 Pages`
@@ -983,7 +986,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-24870`]` **[Atlantic Highly Migratory Species; Updates Regarding Sea Turtle Careful Release Equipment and Techniques](https://www.indexdata.org/atlantic-highly-migratory-species-updates-regarding-sea-turtle-careful-release-equipment-and-techniques/)** — `2024-10-29` | `7 Pages`
 - `[`2024-25020`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the General Category October Through November Fishery for 2024](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-general-category-october-through-november-fishery-for-2024/)** — `2024-10-28` | `2 Pages`
 - `[`2024-24869`]` **[Amendment 8 Revisions to Essential Fish Habitat in the Fishery Management Plan for U.S. West Coast Fisheries for Highly Migratory Species](https://www.indexdata.org/amendment-8-revisions-to-essential-fish-habitat-in-the-fishery-management-plan-for-u-s-west-coast-fisheries-for-highly-migratory-species/)** — `2024-10-28` | `2 Pages`
-- `[`2024-24580`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Port of Alaska Modernization Program Phase 2B: Cargo Terminals Replacement Project in Anchorage, Alaska](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-port-of-alaska-modernization-program-phase-2b-cargo-terminals-replacement-project-in-anchorage-ala-2/)** — `2024-10-28` | `62 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1612,19 +1614,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-p
 - `[`2024-25876`]` **[Notice of Proposed Rulemaking: Safety Standard for Toys: Requirements for Water Beads; Extension of Comment Period](https://www.indexdata.org/notice-of-proposed-rulemaking-safety-standard-for-toys-requirements-for-water-beads-extension-of-comment-period/)** — `2024-11-08` | `2 Pages`
 - `[`2024-25181`]` **[Safety Standard for Infant Support Cushions](https://www.indexdata.org/safety-standard-for-infant-support-cushions/)** — `2024-11-04` | `32 Pages`
 
-### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
-
-- `[`2025-02793`]` **[Expansion of Buprenorphine Treatment via Telemedicine Encounter and Continuity of Care via Telemedicine for Veterans Affairs Patients](https://www.indexdata.org/expansion-of-buprenorphine-treatment-via-telemedicine-encounter-and-continuity-of-care-via-telemedicine-for-veterans-affairs-patients-2/)** — `2025-02-19` | `3 Pages`
-- `[`2025-01099`]` **[Special Registrations for Telemedicine and Limited State Telemedicine Registrations](https://www.indexdata.org/special-registrations-for-telemedicine-and-limited-state-telemedicine-registrations/)** — `2025-01-17` | `58 Pages`
-- `[`2025-01049`]` **[Expansion of Buprenorphine Treatment via Telemedicine Encounter](https://www.indexdata.org/expansion-of-buprenorphine-treatment-via-telemedicine-encounter/)** — `2025-01-17` | `20 Pages`
-- `[`2025-01044`]` **[Continuity of Care via Telemedicine for Veterans Affairs Patients](https://www.indexdata.org/continuity-of-care-via-telemedicine-for-veterans-affairs-patients/)** — `2025-01-17` | `18 Pages`
-- `[`2024-31130`]` **[Schedules of Controlled Substances: Extension of Temporary Placement of Seven Specific Fentanyl-Related Substances in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-extension-of-temporary-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-of-the-controlled-substances-act/)** — `2024-12-30` | `5 Pages`
-- `[`2024-30798`]` **[Schedules of Controlled Substances: Placement of Seven Specific Fentanyl-Related Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-2/)** — `2024-12-30` | `10 Pages`
-- `[`2024-30359`]` **[Schedules of Controlled Substances: Placement of 4-Chloromethcathinone in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-chloromethcathinone-in-schedule-i-2/)** — `2024-12-30` | `9 Pages`
-- `[`2024-27018`]` **[Third Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/third-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2024-11-19` | `5 Pages`
-- `[`2024-24616`]` **[Possible Control of Phenethyl Bromide as a List I Chemical](https://www.indexdata.org/possible-control-of-phenethyl-bromide-as-a-list-i-chemical/)** — `2024-10-28` | `4 Pages`
-
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 
@@ -1661,6 +1650,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2024-28072`]` **[Adoption and Foster Care Analysis and Reporting System](https://www.indexdata.org/adoption-and-foster-care-analysis-and-reporting-system-2/)** — `2024-12-05` | `22 Pages`
 - `[`2024-27626`]` **[Investigations of Child Abuse and Neglect Rule](https://www.indexdata.org/investigations-of-child-abuse-and-neglect-rule/)** — `2024-11-27` | `25 Pages`
 - `[`2024-25440`]` **[Head Start Program CLASS Implementation Date Delay](https://www.indexdata.org/head-start-program-class-implementation-date-delay/)** — `2024-11-06` | `5 Pages`
+
+### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+
+- `[`2025-02793`]` **[Expansion of Buprenorphine Treatment via Telemedicine Encounter and Continuity of Care via Telemedicine for Veterans Affairs Patients](https://www.indexdata.org/expansion-of-buprenorphine-treatment-via-telemedicine-encounter-and-continuity-of-care-via-telemedicine-for-veterans-affairs-patients-2/)** — `2025-02-19` | `3 Pages`
+- `[`2025-01099`]` **[Special Registrations for Telemedicine and Limited State Telemedicine Registrations](https://www.indexdata.org/special-registrations-for-telemedicine-and-limited-state-telemedicine-registrations/)** — `2025-01-17` | `58 Pages`
+- `[`2025-01049`]` **[Expansion of Buprenorphine Treatment via Telemedicine Encounter](https://www.indexdata.org/expansion-of-buprenorphine-treatment-via-telemedicine-encounter/)** — `2025-01-17` | `20 Pages`
+- `[`2025-01044`]` **[Continuity of Care via Telemedicine for Veterans Affairs Patients](https://www.indexdata.org/continuity-of-care-via-telemedicine-for-veterans-affairs-patients/)** — `2025-01-17` | `18 Pages`
+- `[`2024-31130`]` **[Schedules of Controlled Substances: Extension of Temporary Placement of Seven Specific Fentanyl-Related Substances in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-extension-of-temporary-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-of-the-controlled-substances-act/)** — `2024-12-30` | `5 Pages`
+- `[`2024-30798`]` **[Schedules of Controlled Substances: Placement of Seven Specific Fentanyl-Related Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-2/)** — `2024-12-30` | `10 Pages`
+- `[`2024-30359`]` **[Schedules of Controlled Substances: Placement of 4-Chloromethcathinone in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-chloromethcathinone-in-schedule-i-2/)** — `2024-12-30` | `9 Pages`
+- `[`2024-27018`]` **[Third Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/third-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2024-11-19` | `5 Pages`
 
 ### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
@@ -1854,14 +1855,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and
 - `[`2024-31384`]` **[Payment of Indemnity and Compensation for Highly Pathogenic Avian Influenza](https://www.indexdata.org/payment-of-indemnity-and-compensation-for-highly-pathogenic-avian-influenza/)** — `2024-12-31` | `16 Pages`
 - `[`2024-29567`]` **[Agricultural Bioterrorism Protection Act of 2002; Biennial Review and Republication of the Select Agent and Toxin List](https://www.indexdata.org/agricultural-bioterrorism-protection-act-of-2002-biennial-review-and-republication-of-the-select-agent-and-toxin-list/)** — `2024-12-17` | `10 Pages`
 
-### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
-
-- `[`2025-03173`]` **[Statutory Cable, Satellite, and DART License Reporting Practices](https://www.indexdata.org/statutory-cable-satellite-and-dart-license-reporting-practices/)** — `2025-02-28` | `2 Pages`
-- `[`2024-29119`]` **[Electronic Payment of Royalties Using Pay.gov](https://www.indexdata.org/electronic-payment-of-royalties-using-pay-gov-2/)** — `2024-12-12` | `2 Pages`
-- `[`2024-28984`]` **[Statutory Cable, Satellite, and DART License Reporting Practices](https://www.indexdata.org/statutory-cable-satellite-and-dart-license-reporting-practices-2/)** — `2024-12-12` | `14 Pages`
-- `[`2024-24563`]` **[Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies](https://www.indexdata.org/exemption-to-prohibition-on-circumvention-of-copyright-protection-systems-for-access-control-technologies/)** — `2024-10-28` | `14 Pages`
-
 ### [Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/corporation-for-national-and-community-service/](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 
@@ -1893,6 +1886,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mi
 - `[`2025-00333`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-13/)** — `2025-01-15` | `15 Pages`
 - `[`2025-00198`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-4/)** — `2025-01-13` | `8 Pages`
 - `[`2024-26781`]` **[Montana Regulatory Program/Reclamation Plan](https://www.indexdata.org/montana-regulatory-program-reclamation-plan/)** — `2024-11-19` | `5 Pages`
+
+### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
+
+- `[`2025-03173`]` **[Statutory Cable, Satellite, and DART License Reporting Practices](https://www.indexdata.org/statutory-cable-satellite-and-dart-license-reporting-practices/)** — `2025-02-28` | `2 Pages`
+- `[`2024-29119`]` **[Electronic Payment of Royalties Using Pay.gov](https://www.indexdata.org/electronic-payment-of-royalties-using-pay-gov-2/)** — `2024-12-12` | `2 Pages`
+- `[`2024-28984`]` **[Statutory Cable, Satellite, and DART License Reporting Practices](https://www.indexdata.org/statutory-cable-satellite-and-dart-license-reporting-practices-2/)** — `2024-12-12` | `14 Pages`
 
 ### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)

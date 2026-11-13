@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,363` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,366` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 22:41 UTC`
+**Last Automated Sync:** `2026-11-13 23:48 UTC`
 
 ---
 
@@ -77,11 +77,11 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Commerce Department](https://www.indexdata.org/united-states/commerce-department/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,363)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,366)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -628,12 +628,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-03878`]` **[Revocation of Colored Federal Airway Blue 12 (B-12) in the Vicinity of Kodiak Island, AK](https://www.indexdata.org/revocation-of-colored-federal-airway-blue-12-b-12-in-the-vicinity-of-kodiak-island-ak/)** — `2024-02-27` | `2 Pages`
 - `[`2024-03874`]` **[Establishment of Class E Airspace; Turlock Municipal Airport, Turlock, CA](https://www.indexdata.org/establishment-of-class-e-airspace-turlock-municipal-airport-turlock-ca-2/)** — `2024-02-27` | `2 Pages`
 - `[`2024-03838`]` **[Amendment of Class E Airspace; Dixon, IL](https://www.indexdata.org/amendment-of-class-e-airspace-dixon-il-2/)** — `2024-02-27` | `2 Pages`
-- `[`2024-03835`]` **[Amendment of Class E Airspace; Maple Lake, MN](https://www.indexdata.org/amendment-of-class-e-airspace-maple-lake-mn/)** — `2024-02-27` | `2 Pages`
-- `[`2024-03834`]` **[Amendment of Class D and Class E Airspace; Saginaw, MI](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-saginaw-mi-2/)** — `2024-02-27` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-13896`]` **[Tennessee; National Emission Standards for Hazardous Air Pollutants; National Emission Standards for Hazardous Air Pollutants for Source Categories; Supplemental Delegations of Authority](https://www.indexdata.org/tennessee-national-emission-standards-for-hazardous-air-pollutants-national-emission-standards-for-hazardous-air-pollutants-for-source-categories-supplemental-delegations-of-authority/)** — `2024-06-27` | `2 Pages`
 - `[`2024-14001`]` **[Spiromesifen; Pesticide Tolerances](https://www.indexdata.org/spiromesifen-pesticide-tolerances/)** — `2024-06-26` | `4 Pages`
 - `[`2024-13901`]` **[Partial Approval and Disapproval of Air Quality Implementation Plans; Arizona; Regional Haze State Implementation Plan for the Second Implementation Period and Prong 4 (Visibility) for the 2015 Ozone and 2012 Particulate Matter Standards; Extension of Comment Period](https://www.indexdata.org/partial-approval-and-disapproval-of-air-quality-implementation-plans-arizona-regional-haze-state-implementation-plan-for-the-second-implementation-period-and-prong-4-visibility-for-the-2015-ozone-2/)** — `2024-06-26` | `2 Pages`
 - `[`2024-13900`]` **[Phasedown of Hydrofluorocarbons: Restrictions on the Use of HFCs Under the AIM Act in Variable Refrigerant Flow Air Conditioning Subsector](https://www.indexdata.org/phasedown-of-hydrofluorocarbons-restrictions-on-the-use-of-hfcs-under-the-aim-act-in-variable-refrigerant-flow-air-conditioning-subsector-2/)** — `2024-06-26` | `8 Pages`
@@ -961,6 +960,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-13912`]` **[Florida Keys National Marine Sanctuary: Establishment of Temporary Special Use Area for Coral Nursery](https://www.indexdata.org/florida-keys-national-marine-sanctuary-establishment-of-temporary-special-use-area-for-coral-nursery-2/)** — `2024-06-27` | `5 Pages`
 - `[`2024-13770`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the SouthCoast Wind Project Offshore Massachusetts](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-southcoast-wind-project-offshore-massachusetts/)** — `2024-06-27` | `113 Pages`
 - `[`2024-13985`]` **[Pacific Halibut Fisheries of the West Coast; 2024 Catch Sharing Plan; Inseason Action](https://www.indexdata.org/pacific-halibut-fisheries-of-the-west-coast-2024-catch-sharing-plan-inseason-action-3/)** — `2024-06-26` | `3 Pages`
 - `[`2024-13405`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2024 Harvest Specifications for Pacific Whiting and 2024 Pacific Whiting Tribal Allocation](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2024-harvest-specifications-for-pacific-whiting-and-2024-pacific-whiting-tribal-allocation/)** — `2024-06-24` | `10 Pages`
@@ -1247,7 +1247,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2024-04598`]` **[Frozen Cherry Pie; Revocation of a Standard of Identity and a Standard of Quality](https://www.indexdata.org/frozen-cherry-pie-revocation-of-a-standard-of-identity-and-a-standard-of-quality/)** — `2024-03-15` | `9 Pages`
 - `[`2024-04840`]` **[Labeling Requirements for Approved or Conditionally Approved New Animal Drugs](https://www.indexdata.org/labeling-requirements-for-approved-or-conditionally-approved-new-animal-drugs/)** — `2024-03-12` | `76 Pages`
 - `[`2024-04377`]` **[Key Information and Facilitating Understanding in Informed Consent; Draft Guidance for Sponsors, Investigators, and Institutional Review Boards; Availability](https://www.indexdata.org/key-information-and-facilitating-understanding-in-informed-consent-draft-guidance-for-sponsors-investigators-and-institutional-review-boards-availability/)** — `2024-03-01` | `3 Pages`
-- `[`2024-03765`]` **[New Animal Drugs; Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Applications, Change of Sponsor, Change of Sponsor Address](https://www.indexdata.org/new-animal-drugs-approval-of-new-animal-drug-applications-withdrawal-of-approval-of-new-animal-drug-applications-change-of-sponsor-change-of-sponsor-address-4/)** — `2024-02-27` | `6 Pages`
 
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
@@ -1425,6 +1424,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
 
+- `[`2024-13864`]` **[Defense Federal Acquisition Regulation Supplement: Definition of Material Weakness (DFARS Case 2021-D006)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-definition-of-material-weakness-dfars-case-2021-d006-2/)** — `2024-06-27` | `12 Pages`
 - `[`2024-13863`]` **[Defense Federal Acquisition Regulation Supplement: Architect and Engineering Service Fees (DFARS Case 2024-D019)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-architect-and-engineering-service-fees-dfars-case-2024-d019/)** — `2024-06-27` | `3 Pages`
 - `[`2024-11518`]` **[Defense Federal Acquisition Regulation Supplement: Procurement Technical Assistance Program (DFARS Case 2024-D006)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-procurement-technical-assistance-program-dfars-case-2024-d006-2/)** — `2024-05-30` | `3 Pages`
 - `[`2024-11517`]` **[Defense Federal Acquisition Regulation Supplement: Pilot Program To Incentivize Contracting With Employee-Owned Businesses (DFARS Case 2024-D004)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-pilot-program-to-incentivize-contracting-with-employee-owned-businesses-dfars-case-2024-d004-2/)** — `2024-05-30` | `6 Pages`

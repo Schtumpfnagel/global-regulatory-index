@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,363` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,366` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 22:41 UTC`
+**Last Automated Sync:** `2026-11-13 23:48 UTC`
 
 ---
 
@@ -77,11 +77,11 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 - **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Commerce Department](https://www.indexdata.org/united-states/commerce-department/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,363)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,366)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -557,6 +557,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2026-18369`]` **[Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL](https://www.indexdata.org/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary-and-ship-canal-chicago-river-and-calumet-saganashkee-channel-chicago-il-2/)** — `2026-09-09` | `2 Pages`
 - `[`2026-18364`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Fort Pierce, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-fort-pierce-fl/)** — `2026-09-09` | `2 Pages`
 - `[`2026-18279`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx/)** — `2026-09-08` | `2 Pages`
 - `[`2026-18166`]` **[Drawbridge Operation Regulation; Savannah River, Clyo, GA](https://www.indexdata.org/drawbridge-operation-regulation-savannah-river-clyo-ga/)** — `2026-09-04` | `2 Pages`
@@ -756,8 +757,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-10159`]` **[Special Local Regulation; Lower Chesapeake Bay, Hampton Roads, and the Elizabeth River, Virginia](https://www.indexdata.org/special-local-regulation-lower-chesapeake-bay-hampton-roads-and-the-elizabeth-river-virginia/)** — `2026-05-21` | `5 Pages`
 - `[`2026-10158`]` **[Special Local Regulation; Battle of the Boats; York River, Yorktown, VA](https://www.indexdata.org/special-local-regulation-battle-of-the-boats-york-river-yorktown-va/)** — `2026-05-21` | `2 Pages`
 - `[`2026-10156`]` **[Special Local Regulation; Sail Yorktown; York River, Yorktown, VA](https://www.indexdata.org/special-local-regulation-sail-yorktown-york-river-yorktown-va/)** — `2026-05-21` | `3 Pages`
-- `[`2026-10092`]` **[Safety Zone; Morehead City Harbor, Morehead City, NC](https://www.indexdata.org/safety-zone-morehead-city-harbor-morehead-city-nc/)** — `2026-05-20` | `2 Pages`
-- `[`2026-10088`]` **[Security Zones; New Orleans Sail 250, Lower Mississippi River, New Orleans, LA](https://www.indexdata.org/security-zones-new-orleans-sail-250-lower-mississippi-river-new-orleans-la/)** — `2026-05-20` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -933,7 +932,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-10263`]` **[Reporting Deadline Extension for the Health and Safety Data Reporting Rule Under Toxic Substance Control Act (TSCA) Section 8(d)](https://www.indexdata.org/reporting-deadline-extension-for-the-health-and-safety-data-reporting-rule-under-toxic-substance-control-act-tsca-section-8d/)** — `2026-05-22` | `5 Pages`
 - `[`2026-10207`]` **[Air Plan Approval; FL; Emissions Reporting Requirements and Permitting Forms](https://www.indexdata.org/air-plan-approval-fl-emissions-reporting-requirements-and-permitting-forms-2/)** — `2026-05-21` | `3 Pages`
 - `[`2026-10161`]` **[Significant New Use Rules on Certain Chemical Substances (26-2); Extension of Comment Period](https://www.indexdata.org/significant-new-use-rules-on-certain-chemical-substances-26-2-extension-of-comment-period/)** — `2026-05-21` | `2 Pages`
-- `[`2026-10086`]` **[Extending the Compliance Deadline for the PFOA and PFOS Maximum Contaminant Levels](https://www.indexdata.org/extending-the-compliance-deadline-for-the-pfoa-and-pfos-maximum-contaminant-levels/)** — `2026-05-20` | `24 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1083,6 +1081,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2026-18366`]` **[Improving the Effectiveness of the Robocall Mitigation Database; Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls](https://www.indexdata.org/improving-the-effectiveness-of-the-robocall-mitigation-database-call-authentication-trust-anchor-advanced-methods-to-target-and-eliminate-unlawful-robocalls/)** — `2026-09-09` | `36 Pages`
 - `[`2026-18282`]` **[Unleashing Unlicensed Spectrum for Direct-to-Device](https://www.indexdata.org/unleashing-unlicensed-spectrum-for-direct-to-device/)** — `2026-09-08` | `15 Pages`
 - `[`2026-18033`]` **[Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete; Corrections](https://www.indexdata.org/establishing-the-digital-opportunity-data-collection-modernizing-the-fcc-form-477-data-program-delete-delete-delete-corrections/)** — `2026-09-03` | `2 Pages`
 - `[`2026-18015`]` **[Television Broadcasting Services Colusa, California](https://www.indexdata.org/television-broadcasting-services-colusa-california/)** — `2026-09-03` | `2 Pages`
@@ -1566,6 +1565,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2026-12059`]` **[Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program](https://www.indexdata.org/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program/)** — `2026-06-16` | `133 Pages`
 - `[`2026-11015`]` **[Notice of Vacatur Regarding Certain Provisions of the 2024 Nondiscrimination in Health Programs and Activities Final Rule](https://www.indexdata.org/notice-of-vacatur-regarding-certain-provisions-of-the-2024-nondiscrimination-in-health-programs-and-activities-final-rule/)** — `2026-06-02` | `2 Pages`
 
+### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
+
+- `[`2026-18371`]` **[Labels 888, 889, 891, and 892, Discontinued](https://www.indexdata.org/labels-888-889-891-and-892-discontinued/)** — `2026-09-09` | `2 Pages`
+- `[`2026-17884`]` **[Free Matter for the Blind and Other Physically Handicapped Persons](https://www.indexdata.org/free-matter-for-the-blind-and-other-physically-handicapped-persons/)** — `2026-09-01` | `2 Pages`
+- `[`2026-17238`]` **[Ballot Mail for Federal Elections](https://www.indexdata.org/ballot-mail-for-federal-elections/)** — `2026-08-26` | `27 Pages`
+- `[`2026-16016`]` **[New Mailing Standards for Live Animals](https://www.indexdata.org/new-mailing-standards-for-live-animals-2/)** — `2026-08-06` | `2 Pages`
+- `[`2026-15420`]` **[Duty Collection for Domestic Mail Arriving From Certain Insular Possessions and Territories](https://www.indexdata.org/duty-collection-for-domestic-mail-arriving-from-certain-insular-possessions-and-territories/)** — `2026-07-30` | `3 Pages`
+- `[`2026-12190`]` **[Priority Mail Express and Priority Mail Open and Distribute Parcel Mailings Discontinued](https://www.indexdata.org/priority-mail-express-and-priority-mail-open-and-distribute-parcel-mailings-discontinued/)** — `2026-06-17` | `4 Pages`
+- `[`2026-12071`]` **[International Mailing Services: Price Changes](https://www.indexdata.org/international-mailing-services-price-changes/)** — `2026-06-16` | `2 Pages`
+- `[`2026-11003`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products/)** — `2026-06-02` | `39 Pages`
+- `[`2026-10968`]` **[Ballot Mail for Federal Elections](https://www.indexdata.org/ballot-mail-for-federal-elections-2/)** — `2026-06-02` | `5 Pages`
+
 ### [Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 
@@ -1578,18 +1590,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-10916`]` **[Holding Foreign Insiders Accountable Act Disclosure; Correction](https://www.indexdata.org/holding-foreign-insiders-accountable-act-disclosure-correction/)** — `2026-06-01` | `2 Pages`
 - `[`2026-10373`]` **[Registered Offering Reform](https://www.indexdata.org/registered-offering-reform/)** — `2026-05-26` | `260 Pages`
 - `[`2026-10222`]` **[Enhancement of Emerging Growth Company Accommodations and Simplification of Filer Status for Reporting Companies](https://www.indexdata.org/enhancement-of-emerging-growth-company-accommodations-and-simplification-of-filer-status-for-reporting-companies/)** — `2026-05-21` | `105 Pages`
-
-### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
-
-- `[`2026-17884`]` **[Free Matter for the Blind and Other Physically Handicapped Persons](https://www.indexdata.org/free-matter-for-the-blind-and-other-physically-handicapped-persons/)** — `2026-09-01` | `2 Pages`
-- `[`2026-17238`]` **[Ballot Mail for Federal Elections](https://www.indexdata.org/ballot-mail-for-federal-elections/)** — `2026-08-26` | `27 Pages`
-- `[`2026-16016`]` **[New Mailing Standards for Live Animals](https://www.indexdata.org/new-mailing-standards-for-live-animals-2/)** — `2026-08-06` | `2 Pages`
-- `[`2026-15420`]` **[Duty Collection for Domestic Mail Arriving From Certain Insular Possessions and Territories](https://www.indexdata.org/duty-collection-for-domestic-mail-arriving-from-certain-insular-possessions-and-territories/)** — `2026-07-30` | `3 Pages`
-- `[`2026-12190`]` **[Priority Mail Express and Priority Mail Open and Distribute Parcel Mailings Discontinued](https://www.indexdata.org/priority-mail-express-and-priority-mail-open-and-distribute-parcel-mailings-discontinued/)** — `2026-06-17` | `4 Pages`
-- `[`2026-12071`]` **[International Mailing Services: Price Changes](https://www.indexdata.org/international-mailing-services-price-changes/)** — `2026-06-16` | `2 Pages`
-- `[`2026-11003`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products/)** — `2026-06-02` | `39 Pages`
-- `[`2026-10968`]` **[Ballot Mail for Federal Elections](https://www.indexdata.org/ballot-mail-for-federal-elections-2/)** — `2026-06-02` | `5 Pages`
 
 ### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
