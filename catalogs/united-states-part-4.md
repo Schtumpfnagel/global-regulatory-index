@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,362` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,363` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 21:34 UTC`
+**Last Automated Sync:** `2026-11-13 22:41 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
-- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
+- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,362)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,363)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -894,7 +894,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-13937`]` **[Air Plan Approval; New York; Ortho Clinical Diagnostics](https://www.indexdata.org/air-plan-approval-new-york-ortho-clinical-diagnostics-2/)** — `2025-07-24` | `4 Pages`
 - `[`2025-13930`]` **[Air Plan Approval; Texas; Reasonably Available Control Technology in the Dallas-Fort Worth Ozone Nonattainment Area](https://www.indexdata.org/air-plan-approval-texas-reasonably-available-control-technology-in-the-dallas-fort-worth-ozone-nonattainment-area-3/)** — `2025-07-24` | `3 Pages`
 - `[`2025-13906`]` **[Air Plan Revisions; California; Mojave Desert Air Quality Management District; New Source Review; Stationary Source Permits](https://www.indexdata.org/air-plan-revisions-california-mojave-desert-air-quality-management-district-new-source-review-stationary-source-permits-2/)** — `2025-07-24` | `6 Pages`
-- `[`2025-13905`]` **[Interim Final Determination To Stay or Defer Sanctions; California; Mojave Desert Air Quality Management District](https://www.indexdata.org/interim-final-determination-to-stay-or-defer-sanctions-california-mojave-desert-air-quality-management-district/)** — `2025-07-24` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1106,6 +1105,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2026-00587`]` **[Implementation of the Final Acts of the World Radiocommunication Conference (Geneva, 2015) (WRC-15), Other Allocation Issues, and Related Rule Updates](https://www.indexdata.org/implementation-of-the-final-acts-of-the-world-radiocommunication-conference-geneva-2015-wrc-15-other-allocation-issues-and-related-rule-updates/)** — `2026-01-14` | `29 Pages`
 - `[`2026-00010`]` **[Improving the Effectiveness of the Robocall Mitigation Database; CORES Registration System](https://www.indexdata.org/improving-the-effectiveness-of-the-robocall-mitigation-database-cores-registration-system-2/)** — `2026-01-06` | `15 Pages`
 - `[`2025-24210`]` **[Analog Telecommunications Relay Service Modernization](https://www.indexdata.org/analog-telecommunications-relay-service-modernization/)** — `2026-01-02` | `12 Pages`
 - `[`2025-23785`]` **[Auction of Advanced Wireless Services (AWS-3) Licenses; Filing Requirements, Minimum Opening Bids, Upfront Payments, and Other Procedures for Auction 113](https://www.indexdata.org/auction-of-advanced-wireless-services-aws-3-licenses-filing-requirements-minimum-opening-bids-upfront-payments-and-other-procedures-for-auction-113/)** — `2025-12-23` | `34 Pages`

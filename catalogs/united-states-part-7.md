@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,362` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,363` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 21:34 UTC`
+**Last Automated Sync:** `2026-11-13 22:41 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
-- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
+- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,362)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,363)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1401,7 +1401,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-ac
 - `[`2024-16336`]` **[Defense Federal Acquisition Regulation Supplement; Technical Amendments](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-technical-amendments-4/)** — `2024-07-29` | `3 Pages`
 - `[`2024-16335`]` **[Defense Federal Acquisition Regulation Supplement: Task Order and Delivery Order Contracting for Architectural and Engineering Services (DFARS Case 2023-D007)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-task-order-and-delivery-order-contracting-for-architectural-and-engineering-services-dfars-case-2023-d007-2/)** — `2024-07-29` | `2 Pages`
 - `[`2024-13864`]` **[Defense Federal Acquisition Regulation Supplement: Definition of Material Weakness (DFARS Case 2021-D006)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-definition-of-material-weakness-dfars-case-2021-d006-2/)** — `2024-06-27` | `12 Pages`
-- `[`2024-13863`]` **[Defense Federal Acquisition Regulation Supplement: Architect and Engineering Service Fees (DFARS Case 2024-D019)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-architect-and-engineering-service-fees-dfars-case-2024-d019/)** — `2024-06-27` | `3 Pages`
 
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
@@ -1887,6 +1886,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ma
 - `[`2024-17789`]` **[Agency Seal](https://www.indexdata.org/agency-seal/)** — `2024-08-13` | `4 Pages`
 - `[`2024-16148`]` **[Definition of Unreasonable Refusal To Deal or Negotiate With Respect to Vessel Space Accommodations Provided by an Ocean Common Carrier](https://www.indexdata.org/definition-of-unreasonable-refusal-to-deal-or-negotiate-with-respect-to-vessel-space-accommodations-provided-by-an-ocean-common-carrier/)** — `2024-07-23` | `25 Pages`
 
+### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
+
+- `[`2024-24559`]` **[Positive Train Control Systems](https://www.indexdata.org/positive-train-control-systems/)** — `2024-10-28` | `26 Pages`
+- `[`2024-24153`]` **[Track Geometry Measurement System (TGMS) Inspections](https://www.indexdata.org/track-geometry-measurement-system-tgms-inspections/)** — `2024-10-24` | `17 Pages`
+- `[`2024-22326`]` **[Federal Railroad Administration Accident/Incident Investigation Policy for Gathering Information and Consulting With Stakeholders](https://www.indexdata.org/federal-railroad-administration-accident-incident-investigation-policy-for-gathering-information-and-consulting-with-stakeholders/)** — `2024-10-01` | `11 Pages`
+
 ### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 
@@ -1953,12 +1959,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-hi
 
 - `[`2024-23751`]` **[Procedures for Abatement of Highway Traffic Noise and Construction Noise](https://www.indexdata.org/procedures-for-abatement-of-highway-traffic-noise-and-construction-noise/)** — `2024-10-18` | `25 Pages`
 - `[`2024-14933`]` **[Tribal Transportation Facility Bridge Program](https://www.indexdata.org/tribal-transportation-facility-bridge-program/)** — `2024-07-12` | `8 Pages`
-
-### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
-
-- `[`2024-24153`]` **[Track Geometry Measurement System (TGMS) Inspections](https://www.indexdata.org/track-geometry-measurement-system-tgms-inspections/)** — `2024-10-24` | `17 Pages`
-- `[`2024-22326`]` **[Federal Railroad Administration Accident/Incident Investigation Policy for Gathering Information and Consulting With Stakeholders](https://www.indexdata.org/federal-railroad-administration-accident-incident-investigation-policy-for-gathering-information-and-consulting-with-stakeholders/)** — `2024-10-01` | `11 Pages`
 
 ### [Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-transit-administration/](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)

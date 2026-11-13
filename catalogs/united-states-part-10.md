@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,362` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,363` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 21:34 UTC`
+**Last Automated Sync:** `2026-11-13 22:41 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
-- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
+- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,362)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,363)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -646,6 +646,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-22741`]` **[Air Plan Approval; Virginia; 1997 8-Hour Ozone National Ambient Air Quality Standard Second Maintenance Plan for the Hampton Roads Area](https://www.indexdata.org/air-plan-approval-virginia-1997-8-hour-ozone-national-ambient-air-quality-standard-second-maintenance-plan-for-the-hampton-roads-area/)** — `2023-10-17` | `4 Pages`
 - `[`2023-22372`]` **[Air Plan Revisions; California; Butte County Air Quality Management District; Nonattainment New Source Review Requirements for the 2015 8-Hour Ozone Standard](https://www.indexdata.org/air-plan-revisions-california-butte-county-air-quality-management-district-nonattainment-new-source-review-requirements-for-the-2015-8-hour-ozone-standard-2/)** — `2023-10-17` | `3 Pages`
 - `[`2023-22558`]` **[Pesticides; Review of Requirements Applicable to Treated Seed and Treated Paint Products; Request for Information and Comments](https://www.indexdata.org/pesticides-review-of-requirements-applicable-to-treated-seed-and-treated-paint-products-request-for-information-and-comments/)** — `2023-10-12` | `10 Pages`
 - `[`2023-22532`]` **[Reformulated Gasoline Covered Areas](https://www.indexdata.org/reformulated-gasoline-covered-areas/)** — `2023-10-12` | `4 Pages`
@@ -2019,12 +2020,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-c
 - `[`2023-20950`]` **[Financial Innovation: Loan Participations, Eligible Obligations, and Notes of Liquidating Credit Unions](https://www.indexdata.org/financial-innovation-loan-participations-eligible-obligations-and-notes-of-liquidating-credit-unions/)** — `2023-09-29` | `32 Pages`
 - `[`2023-15715`]` **[Federal Credit Union Bylaws](https://www.indexdata.org/federal-credit-union-bylaws/)** — `2023-07-26` | `13 Pages`
 
-### [National Indian Gaming Commission](https://www.indexdata.org/united-states/national-indian-gaming-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-indian-gaming-commission/](https://www.indexdata.org/united-states/national-indian-gaming-commission/) | [RSS Feed](https://www.indexdata.org/united-states/national-indian-gaming-commission/feed/)
-
-- `[`2023-17455`]` **[Definitions; Background Investigation for Primary Management Officials and Key Employees; Gaming Licenses for Primary Management Officials and Key Employees](https://www.indexdata.org/definitions-background-investigation-for-primary-management-officials-and-key-employees-gaming-licenses-for-primary-management-officials-and-key-employees/)** — `2023-08-15` | `6 Pages`
-- `[`2023-12625`]` **[Annual Adjustment of Civil Monetary Penalty To Reflect Inflation](https://www.indexdata.org/annual-adjustment-of-civil-monetary-penalty-to-reflect-inflation-3/)** — `2023-06-23` | `3 Pages`
-
 ### [National Labor Relations Board](https://www.indexdata.org/united-states/national-labor-relations-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-labor-relations-board/](https://www.indexdata.org/united-states/national-labor-relations-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-labor-relations-board/feed/)
 
@@ -2184,6 +2179,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-foundation-on-the-arts-and-the-humanities/](https://www.indexdata.org/united-states/national-foundation-on-the-arts-and-the-humanities/) | [RSS Feed](https://www.indexdata.org/united-states/national-foundation-on-the-arts-and-the-humanities/feed/)
 
 - `[`2023-16608`]` **[Removal of Freedom of Information Act Regulations](https://www.indexdata.org/removal-of-freedom-of-information-act-regulations/)** — `2023-08-09` | `2 Pages`
+
+### [National Indian Gaming Commission](https://www.indexdata.org/united-states/national-indian-gaming-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-indian-gaming-commission/](https://www.indexdata.org/united-states/national-indian-gaming-commission/) | [RSS Feed](https://www.indexdata.org/united-states/national-indian-gaming-commission/feed/)
+
+- `[`2023-17455`]` **[Definitions; Background Investigation for Primary Management Officials and Key Employees; Gaming Licenses for Primary Management Officials and Key Employees](https://www.indexdata.org/definitions-background-investigation-for-primary-management-officials-and-key-employees-gaming-licenses-for-primary-management-officials-and-key-employees/)** — `2023-08-15` | `6 Pages`
 
 ### [National Institute of Food and Agriculture](https://www.indexdata.org/united-states/national-institute-of-food-and-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-institute-of-food-and-agriculture/](https://www.indexdata.org/united-states/national-institute-of-food-and-agriculture/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-food-and-agriculture/feed/)

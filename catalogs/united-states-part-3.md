@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,362` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,363` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 21:34 UTC`
+**Last Automated Sync:** `2026-11-13 22:41 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
-- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
+- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,362)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,363)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -618,6 +618,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-10085`]` **[Rescission of Regulatory Determinations and Removal of Related Provisions for Four PFAS Substances (PFHxS, PFNA, HFPO-DA (GenX), and the Mixture of These Three PFAS Plus PFBS)](https://www.indexdata.org/rescission-of-regulatory-determinations-and-removal-of-related-provisions-for-four-pfas-substances-pfhxs-pfna-hfpo-da-genx-and-the-mixture-of-these-three-pfas-plus-pfbs/)** — `2026-05-20` | `13 Pages`
 - `[`2026-09905`]` **[Revision of Tier 4 Criteria Pollutant Standards, Part 1: Amendments to Phase-In Schedule for Light-Duty and Medium-Duty Vehicles](https://www.indexdata.org/revision-of-tier-4-criteria-pollutant-standards-part-1-amendments-to-phase-in-schedule-for-light-duty-and-medium-duty-vehicles/)** — `2026-05-18` | `25 Pages`
 - `[`2026-09895`]` **[Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Unmanaged Combustion Residual Leachate](https://www.indexdata.org/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source-category-unmanaged-combustion-residual-leachate/)** — `2026-05-18` | `28 Pages`
 - `[`2026-09619`]` **[Air Plan Approval; Montana; Revisions to Western Sugar Stipulation](https://www.indexdata.org/air-plan-approval-montana-revisions-to-western-sugar-stipulation/)** — `2026-05-14` | `3 Pages`
@@ -1042,7 +1043,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2026-00846`]` **[Radio Broadcasting Services; Various Locations](https://www.indexdata.org/radio-broadcasting-services-various-locations-2/)** — `2026-01-16` | `2 Pages`
 - `[`2026-00612`]` **[Delete, Delete, Delete](https://www.indexdata.org/delete-delete-delete-2/)** — `2026-01-14` | `5 Pages`
 - `[`2026-00588`]` **[Implementation of the Final Acts of the World Radiocommunication Conference (Sharm el-Sheikh, 2019) (WRC-19), Revision to Table Mountain Radio Quiet Zone Field Strength Limits](https://www.indexdata.org/implementation-of-the-final-acts-of-the-world-radiocommunication-conference-sharm-el-sheikh-2019-wrc-19-revision-to-table-mountain-radio-quiet-zone-field-strength-limits/)** — `2026-01-14` | `13 Pages`
-- `[`2026-00587`]` **[Implementation of the Final Acts of the World Radiocommunication Conference (Geneva, 2015) (WRC-15), Other Allocation Issues, and Related Rule Updates](https://www.indexdata.org/implementation-of-the-final-acts-of-the-world-radiocommunication-conference-geneva-2015-wrc-15-other-allocation-issues-and-related-rule-updates/)** — `2026-01-14` | `29 Pages`
 
 ### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)

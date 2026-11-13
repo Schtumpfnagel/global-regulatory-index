@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,362` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,363` across `237` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 21:34 UTC`
+**Last Automated Sync:** `2026-11-13 22:41 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
-- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
+- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,362)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,363)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -972,7 +972,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-18557`]` **[Safety Zone; York River, Yorktown, VA](https://www.indexdata.org/safety-zone-york-river-yorktown-va/)** — `2026-09-11` | `3 Pages`
 - `[`2026-18463`]` **[Special Local Regulations; Marine Events Within the USCG East District-Ocean City, NJ](https://www.indexdata.org/special-local-regulations-marine-events-within-the-uscg-east-district-ocean-city-nj/)** — `2026-09-10` | `2 Pages`
 - `[`2026-18369`]` **[Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL](https://www.indexdata.org/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary-and-ship-canal-chicago-river-and-calumet-saganashkee-channel-chicago-il-2/)** — `2026-09-09` | `2 Pages`
-- `[`2026-18364`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Fort Pierce, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-fort-pierce-fl/)** — `2026-09-09` | `2 Pages`
 
 ### [United States Senate](https://www.indexdata.org/united-states/united-states-senate/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-senate/](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
@@ -1270,6 +1269,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`US-NASA-NTRS-20260009602`]` **[Process Specification for the Heat Treatment of Aluminum Alloys](https://www.indexdata.org/process-specification-for-the-heat-treatment-of-aluminum-alloys/)** — `2026-11-02` | `11 Pages`
 - `[`US-NASA-NTRS-20260009580`]` **[Process Specification for the Manual Arc Welding of Carbon Steel and Nickel Alloy Hardware](https://www.indexdata.org/process-specification-for-the-manual-arc-welding-of-carbon-steel-and-nickel-alloy-hardware/)** — `2026-11-02` | `26 Pages`
 - `[`US-NASA-NTRS-20260008527`]` **[SEILER-Net: Statistical Estimation of Lightning From Environmental Predictors Using A Regression Neural Network](https://www.indexdata.org/seiler-net-statistical-estimation-of-lightning-from-environmental-predictors-using-a-regression-neural-network/)** — `2026-11-02` | `12 Pages`
+- `[`US-NASA-SCI-1511582`]` **[Cross Section for Cosmic Rays Terms of Reference.docx](https://www.indexdata.org/cross-section-for-cosmic-rays-terms-of-reference-docx/)** — `2026-11-01` | `2 Pages`
 - `[`US-NASA-SCI-1510699`]` **[White Paper 2024 on Sounding Rockets](https://www.indexdata.org/white-paper-2024-on-sounding-rockets/)** — `2026-11-01` | `11 Pages`
 - `[`US-NASA-SCI-1510435`]` **[Mars Science Laboratory Science Team Papers — Nov. 2, 2026](https://www.indexdata.org/mars-science-laboratory-science-team-papers-nov-2-2026/)** — `2026-11-01` | `63 Pages`
 - `[`US-NASA-NTRS-20260010267`]` **[Long Duration MMOD Damage Survey of ISS S-Band Antenna (RFG S/N 003)](https://www.indexdata.org/long-duration-mmod-damage-survey-of-iss-s-band-antenna-rfg-s-n-003/)** — `2026-11-01` | `21 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,362` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,363` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 21:34 UTC`
+**Last Automated Sync:** `2026-11-13 22:41 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
-- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
+- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -253,11 +253,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,362)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,363)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-03853`]` **[Enforcement Policy Regarding “Drug and Alcohol Testing of Certificated Repair Station Employees Located Outside of the United States; Correction”](https://www.indexdata.org/enforcement-policy-regarding-drug-and-alcohol-testing-of-certificated-repair-station-employees-located-outside-of-the-united-states-correction/)** — `2025-03-11` | `2 Pages`
 - `[`2025-03851`]` **[Enforcement Policy Regarding “Aircraft Registration and Recordation Procedural Updates: Original Documents and Stamping”](https://www.indexdata.org/enforcement-policy-regarding-aircraft-registration-and-recordation-procedural-updates-original-documents-and-stamping/)** — `2025-03-11` | `2 Pages`
 - `[`2025-03794`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-169/)** — `2025-03-11` | `4 Pages`
 - `[`2025-03759`]` **[Amendment of VOR Federal Airways V-55, V-100, and V-277 in the Vicinity of Keeler, MI](https://www.indexdata.org/amendment-of-vor-federal-airways-v-55-v-100-and-v-277-in-the-vicinity-of-keeler-mi-2/)** — `2025-03-10` | `3 Pages`
@@ -1753,16 +1754,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2024-27028`]` **[Disaster Assistance Loan Program Updates](https://www.indexdata.org/disaster-assistance-loan-program-updates/)** — `2024-11-20` | `4 Pages`
 - `[`2024-26831`]` **[Surety Bond Guarantee Program: Streamlining and Modernizing](https://www.indexdata.org/surety-bond-guarantee-program-streamlining-and-modernizing/)** — `2024-11-19` | `8 Pages`
 
-### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
-
-- `[`2025-00998`]` **[Accident/Incident Investigation Policy for Gathering Information and Consulting With Stakeholders](https://www.indexdata.org/accident-incident-investigation-policy-for-gathering-information-and-consulting-with-stakeholders-2/)** — `2025-01-17` | `3 Pages`
-- `[`2024-30596`]` **[Federal Railroad Administration's Procedures for Waivers and Safety-Related Proceedings](https://www.indexdata.org/federal-railroad-administrations-procedures-for-waivers-and-safety-related-proceedings/)** — `2024-12-23` | `2 Pages`
-- `[`2024-30030`]` **[Freight Car Safety Standards Implementing the Infrastructure Investment and Jobs Act](https://www.indexdata.org/freight-car-safety-standards-implementing-the-infrastructure-investment-and-jobs-act/)** — `2024-12-19` | `19 Pages`
-- `[`2024-24586`]` **[Federal Railroad Administration's Procedures for Waivers and Safety-Related Proceedings](https://www.indexdata.org/federal-railroad-administrations-procedures-for-waivers-and-safety-related-proceedings-2/)** — `2024-10-29` | `15 Pages`
-- `[`2024-24967`]` **[Federal Railroad Administration Accident/Incident Investigation Policy for Gathering Information and Consulting With Stakeholders; Correction](https://www.indexdata.org/federal-railroad-administration-accident-incident-investigation-policy-for-gathering-information-and-consulting-with-stakeholders-correction/)** — `2024-10-28` | `3 Pages`
-- `[`2024-24559`]` **[Positive Train Control Systems](https://www.indexdata.org/positive-train-control-systems/)** — `2024-10-28` | `26 Pages`
-
 ### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
 
@@ -1809,6 +1800,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-hi
 - `[`2024-26200`]` **[Asset Management Plans; Management and Monitoring Systems](https://www.indexdata.org/asset-management-plans-management-and-monitoring-systems-2/)** — `2024-11-13` | `14 Pages`
 - `[`2024-25757`]` **[Interstate System Access](https://www.indexdata.org/interstate-system-access/)** — `2024-11-07` | `11 Pages`
 - `[`2024-25065`]` **[Work Zone Safety and Mobility and Temporary Traffic Control Devices](https://www.indexdata.org/work-zone-safety-and-mobility-and-temporary-traffic-control-devices/)** — `2024-11-01` | `18 Pages`
+
+### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
+
+- `[`2025-00998`]` **[Accident/Incident Investigation Policy for Gathering Information and Consulting With Stakeholders](https://www.indexdata.org/accident-incident-investigation-policy-for-gathering-information-and-consulting-with-stakeholders-2/)** — `2025-01-17` | `3 Pages`
+- `[`2024-30596`]` **[Federal Railroad Administration's Procedures for Waivers and Safety-Related Proceedings](https://www.indexdata.org/federal-railroad-administrations-procedures-for-waivers-and-safety-related-proceedings/)** — `2024-12-23` | `2 Pages`
+- `[`2024-30030`]` **[Freight Car Safety Standards Implementing the Infrastructure Investment and Jobs Act](https://www.indexdata.org/freight-car-safety-standards-implementing-the-infrastructure-investment-and-jobs-act/)** — `2024-12-19` | `19 Pages`
+- `[`2024-24586`]` **[Federal Railroad Administration's Procedures for Waivers and Safety-Related Proceedings](https://www.indexdata.org/federal-railroad-administrations-procedures-for-waivers-and-safety-related-proceedings-2/)** — `2024-10-29` | `15 Pages`
+- `[`2024-24967`]` **[Federal Railroad Administration Accident/Incident Investigation Policy for Gathering Information and Consulting With Stakeholders; Correction](https://www.indexdata.org/federal-railroad-administration-accident-incident-investigation-policy-for-gathering-information-and-consulting-with-stakeholders-correction/)** — `2024-10-28` | `3 Pages`
 
 ### [Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)

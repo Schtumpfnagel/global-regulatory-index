@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,362` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,363` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-13 21:34 UTC`
+**Last Automated Sync:** `2026-11-13 22:41 UTC`
 
 ---
 
@@ -89,7 +89,7 @@
 - **[Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
-- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
+- **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,362)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,363)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -759,7 +759,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2023-22987`]` **[Findings of Failure To Submit State Implementation Plan Revisions for Reclassified Moderate Nonattainment Areas for the 2015 Ozone National Ambient Air Quality Standards (NAAQS)](https://www.indexdata.org/findings-of-failure-to-submit-state-implementation-plan-revisions-for-reclassified-moderate-nonattainment-areas-for-the-2015-ozone-national-ambient-air-quality-standards-naaqs/)** — `2023-10-18` | `5 Pages`
 - `[`2023-22879`]` **[Vessel Incidental Discharge National Standards of Performance](https://www.indexdata.org/vessel-incidental-discharge-national-standards-of-performance-2/)** — `2023-10-18` | `25 Pages`
 - `[`2023-22878`]` **[Non-Hazardous Secondary Material Standards; Response to Petition](https://www.indexdata.org/non-hazardous-secondary-material-standards-response-to-petition/)** — `2023-10-18` | `15 Pages`
-- `[`2023-22741`]` **[Air Plan Approval; Virginia; 1997 8-Hour Ozone National Ambient Air Quality Standard Second Maintenance Plan for the Hampton Roads Area](https://www.indexdata.org/air-plan-approval-virginia-1997-8-hour-ozone-national-ambient-air-quality-standard-second-maintenance-plan-for-the-hampton-roads-area/)** — `2023-10-17` | `4 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1279,6 +1278,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 ### [Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 
+- `[`2024-03674`]` **[Additions of Entities, Revisions of Entries, and Removal of an Entity From the Entity List](https://www.indexdata.org/additions-of-entities-revisions-of-entries-and-removal-of-an-entity-from-the-entity-list/)** — `2024-02-27` | `5 Pages`
 - `[`2024-03661`]` **[Revision of License Requirements of Certain Cameras, Systems, or Related Components](https://www.indexdata.org/revision-of-license-requirements-of-certain-cameras-systems-or-related-components/)** — `2024-02-23` | `6 Pages`
 - `[`2024-01930`]` **[Clarifications and Updates to Defense Priorities and Allocations System Regulation](https://www.indexdata.org/clarifications-and-updates-to-defense-priorities-and-allocations-system-regulation-2/)** — `2024-02-07` | `15 Pages`
 - `[`2024-01408`]` **[Implementation of Additional Sanctions Against Russia and Belarus Under the Export Administration Regulations (EAR) and Refinements to Existing Controls](https://www.indexdata.org/implementation-of-additional-sanctions-against-russia-and-belarus-under-the-export-administration-regulations-ear-and-refinements-to-existing-controls-2/)** — `2024-01-25` | `12 Pages`
