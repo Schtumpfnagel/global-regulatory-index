@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q668`](https://www.wikidata.org/wiki/Q668)  
 **Governing Open-Government Framework:** *Section 52(1)(q) Copyright Act, 1957 & GODL-India*  
 **Total Indexed Dossiers in India:** `15` across `4` issuing authorities  
-**Last Automated Sync:** `2026-11-14 10:55 UTC`
+**Last Automated Sync:** `2026-11-14 11:56 UTC`
 
 ---
 
