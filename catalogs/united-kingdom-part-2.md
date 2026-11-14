@@ -7,7 +7,7 @@
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
 **Total Indexed Dossiers in United Kingdom:** `2,865` across `80` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-14 09:55 UTC`
+**Last Automated Sync:** `2026-11-14 10:55 UTC`
 
 ---
 
