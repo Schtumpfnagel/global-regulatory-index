@@ -1,5 +1,5 @@
 # Wikidata QuickStatements Batch for Q142071440 (Index Data — Global Regulatory & Statutory Open Metadata Index)
-# Generated UTC: 2026-11-14 00:00 UTC | Total Dossiers: 40276 | Active Jurisdictions: 37
+# Generated UTC: 2026-11-14 00:55 UTC | Total Dossiers: 40292 | Active Jurisdictions: 37
 Q142071440	P856	"https://www.indexdata.org/"
 Q142071440	P973	"https://www.indexdata.org/methodology/"
 Q142071440	P973	"https://www.indexdata.org/llms.txt"
@@ -11,7 +11,7 @@ Q142071440	P356	"10.5281/ZENODO.23612006"
 Q142071440	P356	"10.7910/DVN/QUYKAG"
 Q142071440	P356	"10.6084/M9.FIGSHARE.34942678"
 Q142071440	P355	Q142090813
-Q142071440	P1114	40276
+Q142071440	P1114	40292
 Q142071440	P1269	Q30	S854	"https://www.indexdata.org/united-states/"
 Q142071440	P1269	Q145	S854	"https://www.indexdata.org/united-kingdom/"
 Q142071440	P1269	Q16	S854	"https://www.indexdata.org/canada/"
@@ -51,8 +51,8 @@ Q142071440	P1269	Q334	S854	"https://www.indexdata.org/singapore/"
 Q142071440	P1269	Q212	S854	"https://www.indexdata.org/ukraine/"
 Q142071440	P1269	Q192247
 Q142071440	P1269	Q161718
-Q142071440	P1269	Q1377617
 Q142071440	P1269	Q82151
+Q142071440	P1269	Q1377617
 Q142071440	P1269	Q7164
 Q142071440	P1269	Q132551
 Q142071440	P1269	Q130146
