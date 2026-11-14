@@ -4,14 +4,14 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,064` across `23` issuing authorities  
-**Last Automated Sync:** `2026-11-14 01:55 UTC`
+**Total Indexed Dossiers in International:** `1,066` across `23` issuing authorities  
+**Last Automated Sync:** `2026-11-14 02:56 UTC`
 
 ---
 
 ## Issuing Authorities in International (23 Authorities)
 
-- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`182` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
+- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`181` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`164` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
@@ -37,11 +37,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,064 of 1,064)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,066 of 1,066)
 
 ### [Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)
 Canonical Authority Archive: [https://www.indexdata.org/international/food-and-agriculture-organization-fao/](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/)
 
+- `[`FAO-CE2514EN`]` **[Community decision-making checklist for forest carbon projects in Zambia](https://www.indexdata.org/community-decision-making-checklist-for-forest-carbon-projects-in-zambia/)** — `2026-11-13` | `14 Pages`
+- `[`FAO-CE2513EN`]` **[Forest carbon projects in Zambia: impacts on communities and community forestry](https://www.indexdata.org/forest-carbon-projects-in-zambia-impacts-on-communities-and-community-forestry/)** — `2026-11-13` | `5 Pages`
 - `[`FAO-CE2535EN`]` **[GLOBEFISH Quarterly Seabass and Seabream Analysis - October 2026](https://www.indexdata.org/globefish-quarterly-seabass-and-seabream-analysis-october-2026/)** — `2026-11-12` | `6 Pages`
 - `[`FAO-CE2500EN`]` **[How much more resilient would agrifood systems be without the war in Ukraine and the conflict in the Middle East?](https://www.indexdata.org/how-much-more-resilient-would-agrifood-systems-be-without-the-war-in-ukraine-and-the-conflict-in-the-middle-east/)** — `2026-11-12` | `7 Pages`
 - `[`FAO-CE2386EN`]` **[Integrated water resources management for the restoration of agro woodlands in the Syrdarya River basin project (the Kyrgyz Republic)](https://www.indexdata.org/integrated-water-resources-management-for-the-restoration-of-agro-woodlands-in-the-syrdarya-river-basin-project-the-kyrgyz-republic/)** — `2026-11-12` | `284 Pages`
