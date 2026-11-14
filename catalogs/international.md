@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,082` across `23` issuing authorities  
-**Last Automated Sync:** `2026-11-14 11:56 UTC`
+**Total Indexed Dossiers in International:** `1,088` across `23` issuing authorities  
+**Last Automated Sync:** `2026-11-14 12:57 UTC`
 
 ---
 
@@ -14,7 +14,7 @@
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`194` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`166` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
-- **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
+- **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`103` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`92` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
@@ -37,7 +37,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,082 of 1,082)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,088 of 1,088)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -598,10 +598,16 @@ Canonical Authority Archive: [https://www.indexdata.org/international/world-bank
 ### [Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)
 Canonical Authority Archive: [https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/)
 
+- `[`OECD-PUB-2CDE9E47-EN`]` **[Bridging the silos to tackle climate change, biodiversity loss and pollution: Towards more integrated policymaking](https://www.indexdata.org/bridging-the-silos-to-tackle-climate-change-biodiversity-loss-and-pollution-towards-more-integrated-policymaking/)** — `2026-11-09` | `9 Pages`
+- `[`OECD-PUB-479DC095-EN`]` **[How governments account for disasters: Closing the data gap](https://www.indexdata.org/how-governments-account-for-disasters-closing-the-data-gap/)** — `2026-10-23` | `10 Pages`
 - `[`OECD-PUB-257230EC-EN`]` **[Policies for Developing Advanced STEM Skills in Higher Education](https://www.indexdata.org/policies-for-developing-advanced-stem-skills-in-higher-education/)** — `2026-10-19` | `176 Pages`
 - `[`OECD-PUB-846BBE2D-EN`]` **[SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Bosnia and Herzegovina](https://www.indexdata.org/sme-policy-index-for-western-balkans-and-turkiye-2026-economy-profile-for-bosnia-and-herzegovina/)** — `2026-10-16` | `314 Pages`
 - `[`OECD-PUB-1552C9AA-EN`]` **[GloBE Information Return (Pillar Two) XML Schema, October 2026](https://www.indexdata.org/globe-information-return-pillar-two-xml-schema-october-2026/)** — `2026-10-16` | `212 Pages`
+- `[`OECD-PUB-E0BD9A46-EN`]` **[Enhancing user control and privacy protections in the context of AI](https://www.indexdata.org/enhancing-user-control-and-privacy-protections-in-the-context-of-ai/)** — `2026-10-15` | `15 Pages`
+- `[`OECD-PUB-5105C8DC-EN`]` **[Determining public interest in the secondary use of health data](https://www.indexdata.org/determining-public-interest-in-the-secondary-use-of-health-data/)** — `2026-10-15` | `12 Pages`
 - `[`OECD-PUB-353CB719-EN`]` **[Country-by-Country Reporting – Compilation of 2026 Peer Review Reports](https://www.indexdata.org/country-by-country-reporting-compilation-of-2026-peer-review-reports/)** — `2026-10-15` | `238 Pages`
+- `[`OECD-PUB-7F96DC99-EN`]` **[Securing AI compute: Government policy approaches](https://www.indexdata.org/securing-ai-compute-government-policy-approaches/)** — `2026-10-13` | `19 Pages`
+- `[`OECD-PUB-07BB6372-EN`]` **[Raising the quality of teaching in Kuwait through teacher licensing and appraisal](https://www.indexdata.org/raising-the-quality-of-teaching-in-kuwait-through-teacher-licensing-and-appraisal/)** — `2026-10-13` | `14 Pages`
 - `[`OECD-PUB-8AF2444D-EN`]` **[OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, October 2026)](https://www.indexdata.org/oecd-secretary-general-tax-report-to-g20-finance-ministers-and-central-bank-governors-g20-united-states-october-2026/)** — `2026-10-11` | `20 Pages`
 - `[`OECD-PUB-7E843E1D-EN`]` **[Enhancing corporate tax systems to support business dynamism](https://www.indexdata.org/enhancing-corporate-tax-systems-to-support-business-dynamism/)** — `2026-10-11` | `60 Pages`
 - `[`OECD-PUB-58C3689D-EN`]` **[SME Policy Index for Western Balkans and Türkiye 2026 – Economy Profile for Serbia](https://www.indexdata.org/sme-policy-index-for-western-balkans-and-turkiye-2026-economy-profile-for-serbia/)** — `2026-10-04` | `281 Pages`

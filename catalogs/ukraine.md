@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q212`](https://www.wikidata.org/wiki/Q212)  
 **Governing Open-Government Framework:** *Law of Ukraine 'On Copyright and Related Rights' Art. 10*  
 **Total Indexed Dossiers in Ukraine:** `1` across `1` issuing authorities  
-**Last Automated Sync:** `2026-11-14 11:56 UTC`
+**Last Automated Sync:** `2026-11-14 12:57 UTC`
 
 ---
 
