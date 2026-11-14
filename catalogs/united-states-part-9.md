@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,367` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,371` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-14 04:55 UTC`
+**Last Automated Sync:** `2026-11-14 05:58 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`326` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`328` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -60,10 +60,10 @@
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
@@ -253,11 +253,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,367)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,371)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-03879`]` **[Establishment of Multiple Air Traffic Service (ATS) Routes; Hawaiian Islands](https://www.indexdata.org/establishment-of-multiple-air-traffic-service-ats-routes-hawaiian-islands/)** — `2024-02-27` | `4 Pages`
+- `[`2024-03878`]` **[Revocation of Colored Federal Airway Blue 12 (B-12) in the Vicinity of Kodiak Island, AK](https://www.indexdata.org/revocation-of-colored-federal-airway-blue-12-b-12-in-the-vicinity-of-kodiak-island-ak/)** — `2024-02-27` | `2 Pages`
+- `[`2024-03874`]` **[Establishment of Class E Airspace; Turlock Municipal Airport, Turlock, CA](https://www.indexdata.org/establishment-of-class-e-airspace-turlock-municipal-airport-turlock-ca-2/)** — `2024-02-27` | `2 Pages`
 - `[`2024-03838`]` **[Amendment of Class E Airspace; Dixon, IL](https://www.indexdata.org/amendment-of-class-e-airspace-dixon-il-2/)** — `2024-02-27` | `2 Pages`
 - `[`2024-03835`]` **[Amendment of Class E Airspace; Maple Lake, MN](https://www.indexdata.org/amendment-of-class-e-airspace-maple-lake-mn/)** — `2024-02-27` | `2 Pages`
 - `[`2024-03834`]` **[Amendment of Class D and Class E Airspace; Saginaw, MI](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-saginaw-mi-2/)** — `2024-02-27` | `3 Pages`
@@ -599,12 +602,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-22948`]` **[Amendment of Class E Airspace; Thomasville, GA](https://www.indexdata.org/amendment-of-class-e-airspace-thomasville-ga-2/)** — `2023-10-18` | `2 Pages`
 - `[`2023-22934`]` **[Establishment of Class E Airspace; Liberty, TX](https://www.indexdata.org/establishment-of-class-e-airspace-liberty-tx-2/)** — `2023-10-18` | `2 Pages`
 - `[`2023-22885`]` **[Airworthiness Directives; Airbus Defense and Space S.A. (Formerly Known as Construcciones Aeronauticas, S.A.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-defense-and-space-s-a-formerly-known-as-construcciones-aeronauticas-s-a-airplanes-6/)** — `2023-10-18` | `4 Pages`
-- `[`2023-22874`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-292/)** — `2023-10-17` | `4 Pages`
-- `[`2023-22871`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-95/)** — `2023-10-17` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-03894`]` **[Air Plan Approval; CA; San Joaquin Valley Air Pollution Control District](https://www.indexdata.org/air-plan-approval-ca-san-joaquin-valley-air-pollution-control-district/)** — `2024-02-27` | `4 Pages`
 - `[`2024-03529`]` **[Air Plan Approval; OR; Regional Haze Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-approval-or-regional-haze-plan-for-the-second-implementation-period-2/)** — `2024-02-23` | `31 Pages`
 - `[`2024-03616`]` **[Air Plan Approval; Virginia; Revision Listing and Implementing the 2010 Primary Sulfur Dioxide National Ambient Air Quality Standard for the Giles County Nonattainment Area](https://www.indexdata.org/air-plan-approval-virginia-revision-listing-and-implementing-the-2010-primary-sulfur-dioxide-national-ambient-air-quality-standard-for-the-giles-county-nonattainment-area-2/)** — `2024-02-22` | `3 Pages`
 - `[`2024-03555`]` **[Air Plan Approval; Ohio; Withdrawal of Technical Amendment](https://www.indexdata.org/air-plan-approval-ohio-withdrawal-of-technical-amendment-2/)** — `2024-02-22` | `5 Pages`
@@ -981,7 +983,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2023-22747`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Cook Inlet Salmon; Amendment 16](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-cook-inlet-salmon-amendment-16-2/)** — `2023-10-19` | `28 Pages`
 - `[`2023-22961`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Pollock in Statistical Area 630 in the Gulf of Alaska](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-pollock-in-statistical-area-630-in-the-gulf-of-alaska/)** — `2023-10-18` | `2 Pages`
 - `[`2023-22959`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Resources of the Gulf of Mexico; Amendment 56](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-reef-fish-resources-of-the-gulf-of-mexico-amendment-56-3/)** — `2023-10-18` | `5 Pages`
-- `[`2023-22875`]` **[Fisheries of the Northeastern United States; Atlantic Herring Fishery; Adjustment to the 2023 Specifications](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-herring-fishery-adjustment-to-the-2023-specifications/)** — `2023-10-17` | `2 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1299,7 +1300,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2023-23049`]` **[Export Controls on Semiconductor Manufacturing Items](https://www.indexdata.org/export-controls-on-semiconductor-manufacturing-items/)** — `2023-10-25` | `32 Pages`
 - `[`2023-23048`]` **[Entity List Additions](https://www.indexdata.org/entity-list-additions-2/)** — `2023-10-19` | `4 Pages`
 - `[`2023-22299`]` **[Implementation of 2022 Wassenaar Arrangement Decisions and Request for Comments on License Exception Eligibility for Certain Supersonic Aero Gas Turbine Engine Component Technology](https://www.indexdata.org/implementation-of-2022-wassenaar-arrangement-decisions-and-request-for-comments-on-license-exception-eligibility-for-certain-supersonic-aero-gas-turbine-engine-component-technology/)** — `2023-10-18` | `54 Pages`
-- `[`2023-22873`]` **[Existing Validated End-User Authorizations in the People's Republic of China: Samsung China Semiconductor Co. Ltd. and SK Hynix Semiconductor (China) Ltd.](https://www.indexdata.org/existing-validated-end-user-authorizations-in-the-peoples-republic-of-china-samsung-china-semiconductor-co-ltd-and-sk-hynix-semiconductor-china-ltd/)** — `2023-10-17` | `4 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
