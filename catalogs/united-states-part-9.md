@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,366` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,367` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-14 04:00 UTC`
+**Last Automated Sync:** `2026-11-14 04:55 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`325` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`326` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -253,11 +253,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,366)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,367)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-03838`]` **[Amendment of Class E Airspace; Dixon, IL](https://www.indexdata.org/amendment-of-class-e-airspace-dixon-il-2/)** — `2024-02-27` | `2 Pages`
 - `[`2024-03835`]` **[Amendment of Class E Airspace; Maple Lake, MN](https://www.indexdata.org/amendment-of-class-e-airspace-maple-lake-mn/)** — `2024-02-27` | `2 Pages`
 - `[`2024-03834`]` **[Amendment of Class D and Class E Airspace; Saginaw, MI](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-saginaw-mi-2/)** — `2024-02-27` | `3 Pages`
 - `[`2024-03833`]` **[Amendment of Class E Airspace; Greenville and Vandalia, IL](https://www.indexdata.org/amendment-of-class-e-airspace-greenville-and-vandalia-il-2/)** — `2024-02-26` | `3 Pages`
@@ -871,7 +872,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2023-22910`]` **[Special Local Regulation; San Diego Bay, San Diego, CA](https://www.indexdata.org/special-local-regulation-san-diego-bay-san-diego-ca-3/)** — `2023-10-18` | `2 Pages`
 - `[`2023-22884`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az-6/)** — `2023-10-17` | `3 Pages`
 - `[`2023-22883`]` **[Safety Zone; Mission Bay, San Diego, CA](https://www.indexdata.org/safety-zone-mission-bay-san-diego-ca/)** — `2023-10-17` | `3 Pages`
-- `[`2023-22855`]` **[Drawbridge Operation Regulation; Hackensack River, Jersey City, NJ](https://www.indexdata.org/drawbridge-operation-regulation-hackensack-river-jersey-city-nj/)** — `2023-10-17` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)

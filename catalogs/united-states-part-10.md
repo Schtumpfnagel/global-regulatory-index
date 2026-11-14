@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,366` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,367` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-14 04:00 UTC`
+**Last Automated Sync:** `2026-11-14 04:55 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`325` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`326` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,366)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,367)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -836,11 +836,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2023-13445`]` **[National Emission Standards for Hazardous Air Pollutants: Reciprocating Internal Combustion Engines and New Source Performance Standards: Internal Combustion Engines; Electronic Reporting](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-reciprocating-internal-combustion-engines-and-new-source-performance-standards-internal-combustion-engines-electronic-reporting-2/)** — `2023-06-26` | `9 Pages`
 - `[`2023-13465`]` **[Air Plan Approval; Tennessee; Revisions to Startup, Shutdown, and Malfunction Rules](https://www.indexdata.org/air-plan-approval-tennessee-revisions-to-startup-shutdown-and-malfunction-rules/)** — `2023-06-23` | `5 Pages`
 - `[`2023-13280`]` **[Implementing Statutory Addition of Certain Per- and Polyfluoroalkyl Substances (PFAS) to the Toxics Release Inventory Beginning With Reporting Year 2023](https://www.indexdata.org/implementing-statutory-addition-of-certain-per-and-polyfluoroalkyl-substances-pfas-to-the-toxics-release-inventory-beginning-with-reporting-year-2023/)** — `2023-06-23` | `5 Pages`
-- `[`2023-13229`]` **[Air Plan Approval; Rhode Island; Organic Solvent Cleaning Regulation](https://www.indexdata.org/air-plan-approval-rhode-island-organic-solvent-cleaning-regulation-2/)** — `2023-06-23` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2023-22855`]` **[Drawbridge Operation Regulation; Hackensack River, Jersey City, NJ](https://www.indexdata.org/drawbridge-operation-regulation-hackensack-river-jersey-city-nj/)** — `2023-10-17` | `3 Pages`
 - `[`2023-22701`]` **[Safety Zone; Atlantic Ocean, Jacksonville Beach, FL](https://www.indexdata.org/safety-zone-atlantic-ocean-jacksonville-beach-fl/)** — `2023-10-13` | `3 Pages`
 - `[`2023-22595`]` **[Safety Zone; Saint Thomas, USVI](https://www.indexdata.org/safety-zone-saint-thomas-usvi/)** — `2023-10-12` | `3 Pages`
 - `[`2023-22556`]` **[Drawbridge Operation Regulation; Cheboygan River at Cheboygan, MI](https://www.indexdata.org/drawbridge-operation-regulation-cheboygan-river-at-cheboygan-mi/)** — `2023-10-12` | `3 Pages`

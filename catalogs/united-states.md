@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,366` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,367` across `237` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-14 04:00 UTC`
+**Last Automated Sync:** `2026-11-14 04:55 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`325` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`326` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,366)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,367)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -349,6 +349,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr9612eh`]` **[H.R. 9612 (EH) - American Enrichment Deployment Act](https://www.indexdata.org/h-r-9612-eh-american-enrichment-deployment-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr8552enr`]` **[H.R. 8552 (ENR) - Veterans’ Compensation Cost-of-Living Adjustment Act of 2026](https://www.indexdata.org/h-r-8552-enr-veterans-compensation-cost-of-living-adjustment-act-of-2026/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr3978eh`]` **[H.R. 3978 (EH) - Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act](https://www.indexdata.org/h-r-3978-eh-nuclear-refuel-recycling-efficient-fuels-utilizing-expedited-licensing-act/)** — `2026-11-01` | `4 Pages`
+- `[`US-BILLS-119hr11027ih`]` **[H.R. 11027 (IH) - Enhancing Competition in Contracting Orders Act](https://www.indexdata.org/h-r-11027-ih-enhancing-competition-in-contracting-orders-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr11025ih`]` **[H.R. 11025 (IH) - Stand By NICU Babies and Families Act](https://www.indexdata.org/h-r-11025-ih-stand-by-nicu-babies-and-families-act/)** — `2026-11-01` | `9 Pages`
 - `[`US-BILLS-119hr10997ih`]` **[H.R. 10997 (IH) - Connecting Rural Stakeholders Act](https://www.indexdata.org/h-r-10997-ih-connecting-rural-stakeholders-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr10996ih`]` **[H.R. 10996 (IH) - Streamlining Government Programs for Rural Businesses Act](https://www.indexdata.org/h-r-10996-ih-streamlining-government-programs-for-rural-businesses-act/)** — `2026-11-01` | `2 Pages`
@@ -732,7 +733,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-18423`]` **[Airworthiness Directives; International Aero Engines AG Engines; Correction](https://www.indexdata.org/airworthiness-directives-international-aero-engines-ag-engines-correction/)** — `2026-09-10` | `2 Pages`
 - `[`2026-18376`]` **[Airworthiness Directives; Bombardier, Inc. Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-2/)** — `2026-09-09` | `4 Pages`
 - `[`2026-18375`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-17/)** — `2026-09-09` | `4 Pages`
-- `[`2026-18372`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-18/)** — `2026-09-09` | `4 Pages`
 
 ### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)

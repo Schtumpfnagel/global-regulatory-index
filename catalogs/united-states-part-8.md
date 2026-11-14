@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,366` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,367` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-14 04:00 UTC`
+**Last Automated Sync:** `2026-11-14 04:55 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`325` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`326` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,366)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,367)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -627,7 +627,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-03879`]` **[Establishment of Multiple Air Traffic Service (ATS) Routes; Hawaiian Islands](https://www.indexdata.org/establishment-of-multiple-air-traffic-service-ats-routes-hawaiian-islands/)** — `2024-02-27` | `4 Pages`
 - `[`2024-03878`]` **[Revocation of Colored Federal Airway Blue 12 (B-12) in the Vicinity of Kodiak Island, AK](https://www.indexdata.org/revocation-of-colored-federal-airway-blue-12-b-12-in-the-vicinity-of-kodiak-island-ak/)** — `2024-02-27` | `2 Pages`
 - `[`2024-03874`]` **[Establishment of Class E Airspace; Turlock Municipal Airport, Turlock, CA](https://www.indexdata.org/establishment-of-class-e-airspace-turlock-municipal-airport-turlock-ca-2/)** — `2024-02-27` | `2 Pages`
-- `[`2024-03838`]` **[Amendment of Class E Airspace; Dixon, IL](https://www.indexdata.org/amendment-of-class-e-airspace-dixon-il-2/)** — `2024-02-27` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1160,6 +1159,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 
+- `[`2024-13946`]` **[Endangered and Threatened Wildlife and Plants; Threatened Status for the Suwannee Alligator Snapping Turtle with a Section 4(d) Rule](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-status-for-the-suwannee-alligator-snapping-turtle-with-a-section-4d-rule/)** — `2024-06-27` | `22 Pages`
 - `[`2024-13617`]` **[Endangered and Threatened Wildlife and Plants; Three Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-three-species-not-warranted-for-listing-as-endangered-or-threatened-species-2/)** — `2024-06-20` | `6 Pages`
 - `[`2024-11645`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status With Critical Habitat for Guadalupe Fatmucket, Texas Fatmucket, Guadalupe Orb, Texas Pimpleback, Balcones Spike, and False Spike, and Threatened Species Status With Section 4(d) Rule and Critical Habitat for Texas Fawnsfoot](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-with-critical-habitat-for-guadalupe-fatmucket-texas-fatmucket-guadalupe-orb-texas-pimpleback-balcones-spike-and-false-spik/)** — `2024-06-04` | `97 Pages`
 - `[`2024-11847`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for the Dixie Valley Toad](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-dixie-valley-toad/)** — `2024-05-30` | `15 Pages`

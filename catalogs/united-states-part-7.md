@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,366` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,367` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-14 04:00 UTC`
+**Last Automated Sync:** `2026-11-14 04:55 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`325` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`326` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,366)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,367)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1162,6 +1162,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
+- `[`2024-24675`]` **[Enhancing Coverage of Preventive Services Under the Affordable Care Act](https://www.indexdata.org/enhancing-coverage-of-preventive-services-under-the-affordable-care-act-2/)** — `2024-10-28` | `46 Pages`
 - `[`2024-24110`]` **[Energy Efficient Home Improvement Credit](https://www.indexdata.org/energy-efficient-home-improvement-credit/)** — `2024-10-25` | `19 Pages`
 - `[`2024-23857`]` **[Advanced Manufacturing Investment Credit Rules Under Sections 48D and 50](https://www.indexdata.org/advanced-manufacturing-investment-credit-rules-under-sections-48d-and-50/)** — `2024-10-23` | `32 Pages`
 - `[`2024-24224`]` **[Withholding on Certain Distributions Under Section 3405(a) and (b)](https://www.indexdata.org/withholding-on-certain-distributions-under-section-3405a-and-b/)** — `2024-10-21` | `5 Pages`
@@ -1229,7 +1230,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2024-14320`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for Barrens Topminnow](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-barrens-topminnow/)** — `2024-07-09` | `23 Pages`
 - `[`2024-14315`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status for Mount Rainier White-Tailed Ptarmigan With a Section 4(d) Rule](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-mount-rainier-white-tailed-ptarmigan-with-a-section-4d-rule/)** — `2024-07-03` | `23 Pages`
 - `[`2024-14402`]` **[Endangered and Threatened Wildlife and Plants; Removal of White Sedge (Carex albida) From the List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-white-sedge-carex-albida-from-the-list-of-endangered-and-threatened-plants/)** — `2024-07-02` | `4 Pages`
-- `[`2024-13946`]` **[Endangered and Threatened Wildlife and Plants; Threatened Status for the Suwannee Alligator Snapping Turtle with a Section 4(d) Rule](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-status-for-the-suwannee-alligator-snapping-turtle-with-a-section-4d-rule/)** — `2024-06-27` | `22 Pages`
 
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)

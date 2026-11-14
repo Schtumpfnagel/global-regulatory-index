@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,366` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,367` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-14 04:00 UTC`
+**Last Automated Sync:** `2026-11-14 04:55 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`325` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`326` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,366)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,367)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -891,7 +891,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-13957`]` **[Air Plan Approval; Washington; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-approval-washington-regional-haze-state-implementation-plan-for-the-second-implementation-period-2/)** — `2025-07-24` | `21 Pages`
 - `[`2025-13946`]` **[Air Plan Approval; Pennsylvania; Redesignation of the Beaver County Nonattainment Area to Attainment and Approval of the Area's Maintenance Plan for the 2010 1-Hour Primary Sulfur Dioxide National Ambient Air Quality Standard](https://www.indexdata.org/air-plan-approval-pennsylvania-redesignation-of-the-beaver-county-nonattainment-area-to-attainment-and-approval-of-the-areas-maintenance-plan-for-the-2010-1-hour-primary-sulfur-dioxide-national-am-2/)** — `2025-07-24` | `8 Pages`
 - `[`2025-13937`]` **[Air Plan Approval; New York; Ortho Clinical Diagnostics](https://www.indexdata.org/air-plan-approval-new-york-ortho-clinical-diagnostics-2/)** — `2025-07-24` | `4 Pages`
-- `[`2025-13930`]` **[Air Plan Approval; Texas; Reasonably Available Control Technology in the Dallas-Fort Worth Ozone Nonattainment Area](https://www.indexdata.org/air-plan-approval-texas-reasonably-available-control-technology-in-the-dallas-fort-worth-ozone-nonattainment-area-3/)** — `2025-07-24` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1535,6 +1534,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2025-17659`]` **[Manifest Mailing System Retired](https://www.indexdata.org/manifest-mailing-system-retired-2/)** — `2025-09-12` | `3 Pages`
 - `[`2025-15266`]` **[Postmarks and Postal Possession](https://www.indexdata.org/postmarks-and-postal-possession-2/)** — `2025-08-12` | `7 Pages`
 
+### [National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-credit-union-administration/](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
+
+- `[`2026-00592`]` **[Chartering and Field of Membership for Federal Credit Unions-Interpretive Rulings and Policy Statements](https://www.indexdata.org/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-rulings-and-policy-statements-3/)** — `2026-01-14` | `3 Pages`
+- `[`2026-00591`]` **[Nondiscrimination Requirements](https://www.indexdata.org/nondiscrimination-requirements/)** — `2026-01-14` | `3 Pages`
+- `[`2026-00332`]` **[Privacy Act Exemption; Correction](https://www.indexdata.org/privacy-act-exemption-correction/)** — `2026-01-12` | `5 Pages`
+- `[`2025-23857`]` **[Suretyship and Guaranty; Segregated Deposit and Collateral](https://www.indexdata.org/suretyship-and-guaranty-segregated-deposit-and-collateral-2/)** — `2025-12-29` | `3 Pages`
+- `[`2025-23856`]` **[Catastrophic Act Reporting](https://www.indexdata.org/catastrophic-act-reporting/)** — `2025-12-29` | `4 Pages`
+- `[`2025-23855`]` **[Limits on Loans to Other Credit Unions](https://www.indexdata.org/limits-on-loans-to-other-credit-unions-2/)** — `2025-12-29` | `3 Pages`
+- `[`2025-23854`]` **[Accuracy of Advertising and Notice of Insured Status](https://www.indexdata.org/accuracy-of-advertising-and-notice-of-insured-status/)** — `2025-12-29` | `4 Pages`
+- `[`2025-22490`]` **[Guidance on Response Programs for Unauthorized Access to Member Information and Member Notice](https://www.indexdata.org/guidance-on-response-programs-for-unauthorized-access-to-member-information-and-member-notice/)** — `2025-12-11` | `3 Pages`
+- `[`2025-22489`]` **[Guidelines for Safeguarding Member Information](https://www.indexdata.org/guidelines-for-safeguarding-member-information/)** — `2025-12-11` | `3 Pages`
+- `[`2025-22488`]` **[Supervisory Committee Audits and Verifications](https://www.indexdata.org/supervisory-committee-audits-and-verifications/)** — `2025-12-11` | `5 Pages`
+- `[`2025-22487`]` **[Corporate Credit Unions](https://www.indexdata.org/corporate-credit-unions-3/)** — `2025-12-11` | `3 Pages`
+- `[`2025-19623`]` **[Prohibition on Use of Reputation Risk by NCUA](https://www.indexdata.org/prohibition-on-use-of-reputation-risk-by-ncua/)** — `2025-10-21` | `6 Pages`
+
 ### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
 
@@ -1580,21 +1595,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-re
 - `[`2025-19888`]` **[Regulation A: Extensions of Credit by Federal Reserve Banks](https://www.indexdata.org/regulation-a-extensions-of-credit-by-federal-reserve-banks-4/)** — `2025-11-14` | `2 Pages`
 - `[`2025-19304`]` **[Regulation D: Reserve Requirements of Depository Institutions](https://www.indexdata.org/regulation-d-reserve-requirements-of-depository-institutions-6/)** — `2025-10-02` | `2 Pages`
 - `[`2025-19303`]` **[Regulation A: Extensions of Credit by Federal Reserve Banks](https://www.indexdata.org/regulation-a-extensions-of-credit-by-federal-reserve-banks-5/)** — `2025-10-02` | `2 Pages`
-
-### [National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-credit-union-administration/](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
-
-- `[`2026-00591`]` **[Nondiscrimination Requirements](https://www.indexdata.org/nondiscrimination-requirements/)** — `2026-01-14` | `3 Pages`
-- `[`2026-00332`]` **[Privacy Act Exemption; Correction](https://www.indexdata.org/privacy-act-exemption-correction/)** — `2026-01-12` | `5 Pages`
-- `[`2025-23857`]` **[Suretyship and Guaranty; Segregated Deposit and Collateral](https://www.indexdata.org/suretyship-and-guaranty-segregated-deposit-and-collateral-2/)** — `2025-12-29` | `3 Pages`
-- `[`2025-23856`]` **[Catastrophic Act Reporting](https://www.indexdata.org/catastrophic-act-reporting/)** — `2025-12-29` | `4 Pages`
-- `[`2025-23855`]` **[Limits on Loans to Other Credit Unions](https://www.indexdata.org/limits-on-loans-to-other-credit-unions-2/)** — `2025-12-29` | `3 Pages`
-- `[`2025-23854`]` **[Accuracy of Advertising and Notice of Insured Status](https://www.indexdata.org/accuracy-of-advertising-and-notice-of-insured-status/)** — `2025-12-29` | `4 Pages`
-- `[`2025-22490`]` **[Guidance on Response Programs for Unauthorized Access to Member Information and Member Notice](https://www.indexdata.org/guidance-on-response-programs-for-unauthorized-access-to-member-information-and-member-notice/)** — `2025-12-11` | `3 Pages`
-- `[`2025-22489`]` **[Guidelines for Safeguarding Member Information](https://www.indexdata.org/guidelines-for-safeguarding-member-information/)** — `2025-12-11` | `3 Pages`
-- `[`2025-22488`]` **[Supervisory Committee Audits and Verifications](https://www.indexdata.org/supervisory-committee-audits-and-verifications/)** — `2025-12-11` | `5 Pages`
-- `[`2025-22487`]` **[Corporate Credit Unions](https://www.indexdata.org/corporate-credit-unions-3/)** — `2025-12-11` | `3 Pages`
-- `[`2025-19623`]` **[Prohibition on Use of Reputation Risk by NCUA](https://www.indexdata.org/prohibition-on-use-of-reputation-risk-by-ncua/)** — `2025-10-21` | `6 Pages`
 
 ### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)

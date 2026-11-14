@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,366` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,367` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-14 04:00 UTC`
+**Last Automated Sync:** `2026-11-14 04:55 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,185` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`906` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`325` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`326` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,366)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,367)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -811,6 +811,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2026-10096`]` **[Atlantic Highly Migratory Species; Prohibit Retention of Mobulid Rays in Fisheries for Atlantic Highly Migratory Species](https://www.indexdata.org/atlantic-highly-migratory-species-prohibit-retention-of-mobulid-rays-in-fisheries-for-atlantic-highly-migratory-species/)** — `2026-05-20` | `9 Pages`
 - `[`2026-10042`]` **[Fisheries of the South Atlantic; 2026 Recreational Fishing Season Announcement for Blueline Tilefish in the South Atlantic](https://www.indexdata.org/fisheries-of-the-south-atlantic-2026-recreational-fishing-season-announcement-for-blueline-tilefish-in-the-south-atlantic/)** — `2026-05-19` | `2 Pages`
 - `[`2026-09973`]` **[Fisheries Off West Coast States; West Coast Salmon Fisheries; 2026 Specifications and Management Measures](https://www.indexdata.org/fisheries-off-west-coast-states-west-coast-salmon-fisheries-2026-specifications-and-management-measures/)** — `2026-05-19` | `16 Pages`
 - `[`2026-09884`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Interstate Bridge Replacement Project on Interstate 5 between Portland, OR, and Vancouver, WA](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-interstate-bridge-replacement-project-on-interstate-5-between-portland-or-and-vancouver-wa/)** — `2026-05-18` | `16 Pages`
@@ -1259,7 +1260,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-c
 - `[`2026-01382`]` **[Dependent Care and Board Member Expense Reimbursement](https://www.indexdata.org/dependent-care-and-board-member-expense-reimbursement-2/)** — `2026-01-26` | `9 Pages`
 - `[`2026-00595`]` **[Corporate Credit Unions](https://www.indexdata.org/corporate-credit-unions-2/)** — `2026-01-14` | `3 Pages`
 - `[`2026-00594`]` **[Chartering and Field of Membership for Federal Credit Unions-Interpretive Rulings and Policy Statements](https://www.indexdata.org/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-rulings-and-policy-statements-2/)** — `2026-01-14` | `3 Pages`
-- `[`2026-00592`]` **[Chartering and Field of Membership for Federal Credit Unions-Interpretive Rulings and Policy Statements](https://www.indexdata.org/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-rulings-and-policy-statements-3/)** — `2026-01-14` | `3 Pages`
 
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
