@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q45`](https://www.wikidata.org/wiki/Q45)  
 **Governing Open-Government Framework:** *Lei n.º 68/2021*  
 **Total Indexed Dossiers in Portugal:** `34` across `6` issuing authorities  
-**Last Automated Sync:** `2026-11-14 14:38 UTC`
+**Last Automated Sync:** `2026-11-14 15:53 UTC`
 
 ---
 
@@ -26,8 +26,8 @@
 ### [Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
 
-- `[`PT-IMT-WP-18453`]` **[LISTA DE MONOVOLUMES 407 &#8211; 1](https://www.indexdata.org/lista-de-monovolumes-407-1/)** — `2026-11-01` | `993 Pages`
-- `[`PT-IMT-WP-18452`]` **[LISTA DE MONOVOLUMES 407 &#8211; 2](https://www.indexdata.org/lista-de-monovolumes-407-2/)** — `2026-11-01` | `1314 Pages`
+- `[`PT-IMT-WP-18453`]` **[LISTA DE MONOVOLUMES 407 – 1](https://www.indexdata.org/lista-de-monovolumes-407-1/)** — `2026-11-01` | `993 Pages`
+- `[`PT-IMT-WP-18452`]` **[LISTA DE MONOVOLUMES 407 – 2](https://www.indexdata.org/lista-de-monovolumes-407-2/)** — `2026-11-01` | `1314 Pages`
 - `[`PT-IMT-WP-18446`]` **[ATA N 5- 2 AT Portalegre_signed](https://www.indexdata.org/ata-n-5-2-at-portalegre_signed/)** — `2026-11-01` | `2 Pages`
 - `[`PT-IMT-WP-18445`]` **[Lista ordenação final homologada Portalegre](https://www.indexdata.org/lista-ordenacao-final-homologada-portalegre/)** — `2026-11-01` | `2 Pages`
 - `[`PT-IMT-WP-18443`]` **[Aviso_3_2026_Apoio_à_Descarbonização_do_Setor_do_Táxis v2.1](https://www.indexdata.org/aviso_3_2026_apoio_a_descarbonizacao_do_setor_do_taxis-v2-1/)** — `2026-11-01` | `13 Pages`
