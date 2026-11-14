@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q159`](https://www.wikidata.org/wiki/Q159)  
 **Governing Open-Government Framework:** *Civil Code Art. 1259(6) / Federal Law No. 8-FZ / Open Data Standard v3.0*  
 **Total Indexed Dossiers in Russia:** `34` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-13 23:48 UTC`
+**Last Automated Sync:** `2026-11-14 00:00 UTC`
 
 ---
 
