@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,399` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,401` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-14 12:57 UTC`
+**Last Automated Sync:** `2026-11-14 13:54 UTC`
 
 ---
 
@@ -70,7 +70,7 @@
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
-- **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
+- **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
@@ -118,8 +118,8 @@
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
+- **[National Marine Fisheries Service (NOAA Fisheries)](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/) | [RSS Feed](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
-- **[National Marine Fisheries Service (NOAA Fisheries)](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/) | [RSS Feed](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[National Highway Traffic Safety Administration (NHTSA)](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,399)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,401)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -577,11 +577,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-14437`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-236/)** — `2024-07-01` | `3 Pages`
 - `[`2024-14281`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-111/)** — `2024-07-01` | `2 Pages`
 - `[`2024-14280`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-112/)** — `2024-07-01` | `3 Pages`
-- `[`2024-14125`]` **[Amendment of Very High Frequency Omnidirectional Range Federal Airway V-4 in the Vicinity of Burley, ID](https://www.indexdata.org/amendment-of-very-high-frequency-omnidirectional-range-federal-airway-v-4-in-the-vicinity-of-burley-id/)** — `2024-07-01` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-25141`]` **[Outer Continental Shelf Air Regulations Update To Include New Jersey State Requirements](https://www.indexdata.org/outer-continental-shelf-air-regulations-update-to-include-new-jersey-state-requirements/)** — `2024-10-30` | `5 Pages`
 - `[`2024-23549`]` **[National Primary Drinking Water Regulations for Lead and Copper: Improvements (LCRI)](https://www.indexdata.org/national-primary-drinking-water-regulations-for-lead-and-copper-improvements-lcri/)** — `2024-10-30` | `250 Pages`
 - `[`2024-25032`]` **[Air Plan Approval; Wisconsin; SIP Alignment Revision](https://www.indexdata.org/air-plan-approval-wisconsin-sip-alignment-revision/)** — `2024-10-29` | `3 Pages`
 - `[`2024-24831`]` **[Glufosinate-P; Pesticide Tolerances](https://www.indexdata.org/glufosinate-p-pesticide-tolerances/)** — `2024-10-29` | `9 Pages`
@@ -1113,6 +1113,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
+- `[`2024-25122`]` **[Indirect Food Additives: Adhesives and Components of Coatings; Paper and Paperboard Components; Polymers; Adjuvants, Production Aids, and Sanitizers](https://www.indexdata.org/indirect-food-additives-adhesives-and-components-of-coatings-paper-and-paperboard-components-polymers-adjuvants-production-aids-and-sanitizers/)** — `2024-10-30` | `3 Pages`
 - `[`2024-25120`]` **[Environmental Defense Fund, et al.; Response to Objections and Requests for a Public Hearing](https://www.indexdata.org/environmental-defense-fund-et-al-response-to-objections-and-requests-for-a-public-hearing/)** — `2024-10-30` | `16 Pages`
 - `[`2024-24820`]` **[New Animal Drugs; Approval of New Animal Drug Applications; Change of Sponsor; Change of Sponsor Address](https://www.indexdata.org/new-animal-drugs-approval-of-new-animal-drug-applications-change-of-sponsor-change-of-sponsor-address/)** — `2024-10-28` | `7 Pages`
 - `[`2024-24715`]` **[Food and Drug Administration Enforcement Policy for Association of American Feed Control Officials-Defined Animal Feed Ingredients; Guidance for Industry; Availability](https://www.indexdata.org/food-and-drug-administration-enforcement-policy-for-association-of-american-feed-control-officials-defined-animal-feed-ingredients-guidance-for-industry-availability/)** — `2024-10-24` | `2 Pages`
@@ -1533,23 +1534,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2024-16011`]` **[Tribal Consultation for HUBZone Program Updates and Clarifications and Potential Reforms Under Executive Order 14112](https://www.indexdata.org/tribal-consultation-for-hubzone-program-updates-and-clarifications-and-potential-reforms-under-executive-order-14112/)** — `2024-07-22` | `3 Pages`
 - `[`2024-15313`]` **[7(a) Working Capital Pilot Program](https://www.indexdata.org/7a-working-capital-pilot-program/)** — `2024-07-15` | `3 Pages`
 
-### [State Department](https://www.indexdata.org/united-states/state-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
-
-- `[`2024-24890`]` **[Notarial and Related Services](https://www.indexdata.org/notarial-and-related-services/)** — `2024-10-28` | `2 Pages`
-- `[`2024-24091`]` **[International Traffic in Arms Regulations (ITAR): U.S. Munitions List Categories IV and XV](https://www.indexdata.org/international-traffic-in-arms-regulations-itar-u-s-munitions-list-categories-iv-and-xv/)** — `2024-10-23` | `24 Pages`
-- `[`2024-22297`]` **[Access to Information; Privacy Act Provisions](https://www.indexdata.org/access-to-information-privacy-act-provisions/)** — `2024-09-30` | `3 Pages`
-- `[`2024-21849`]` **[Amendment to the International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus-3/)** — `2024-09-27` | `3 Pages`
-- `[`2024-19192`]` **[Diplomatic Agent-Level Immunity](https://www.indexdata.org/diplomatic-agent-level-immunity/)** — `2024-08-28` | `4 Pages`
-- `[`2024-18659`]` **[Visas: Visa Ineligibility](https://www.indexdata.org/visas-visa-ineligibility/)** — `2024-08-22` | `3 Pages`
-- `[`2024-18043`]` **[International Traffic in Arms Regulations: Exemption for Defense Trade and Cooperation Among Australia, the United Kingdom, and the United States](https://www.indexdata.org/international-traffic-in-arms-regulations-exemption-for-defense-trade-and-cooperation-among-australia-the-united-kingdom-and-the-united-states-2/)** — `2024-08-20` | `23 Pages`
-- `[`2024-18249`]` **[International Traffic in Arms Regulations: Amendments to the Definition of Activities That Are Not Exports, Reexports, Retransfers, or Temporary Imports](https://www.indexdata.org/international-traffic-in-arms-regulations-amendments-to-the-definition-of-activities-that-are-not-exports-reexports-retransfers-or-temporary-imports/)** — `2024-08-15` | `5 Pages`
-- `[`2024-16501`]` **[International Traffic in Arms Regulations: Revisions to Definition and Controls Related to Defense Services](https://www.indexdata.org/international-traffic-in-arms-regulations-revisions-to-definition-and-controls-related-to-defense-services/)** — `2024-07-29` | `6 Pages`
-- `[`2024-16452`]` **[Visas: Immigrant Visas; Correction](https://www.indexdata.org/visas-immigrant-visas-correction/)** — `2024-07-26` | `2 Pages`
-- `[`2024-16363`]` **[Passports: Form DS-3053 Statement of Consent](https://www.indexdata.org/passports-form-ds-3053-statement-of-consent/)** — `2024-07-26` | `3 Pages`
-- `[`2024-14628`]` **[Intercountry Adoption: Regulatory Changes to Accreditation and Approval Regulations in Intercountry Adoption](https://www.indexdata.org/intercountry-adoption-regulatory-changes-to-accreditation-and-approval-regulations-in-intercountry-adoption/)** — `2024-07-12` | `46 Pages`
-- `[`2024-14127`]` **[Acquisition Regulation and Grants Regulation: Contractor and Grantee Counterterrorism Vetting](https://www.indexdata.org/acquisition-regulation-and-grants-regulation-contractor-and-grantee-counterterrorism-vetting/)** — `2024-07-01` | `4 Pages`
-
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
 
@@ -1598,6 +1582,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2024-15390`]` **[Federal Motor Vehicle Safety Standards; Seating Systems](https://www.indexdata.org/federal-motor-vehicle-safety-standards-seating-systems/)** — `2024-07-16` | `41 Pages`
 - `[`2024-13956`]` **[Federal Motor Vehicle Safety Standards; Rear Impact Guards; Rear Impact Protection; Denial of Petition for Rulemaking](https://www.indexdata.org/federal-motor-vehicle-safety-standards-rear-impact-guards-rear-impact-protection-denial-of-petition-for-rulemaking/)** — `2024-07-15` | `3 Pages`
 - `[`2024-14546`]` **[Anthropomorphic Test Devices; THOR 50th Percentile Adult Male Test Dummy; Incorporation by Reference](https://www.indexdata.org/anthropomorphic-test-devices-thor-50th-percentile-adult-male-test-dummy-incorporation-by-reference/)** — `2024-07-09` | `3 Pages`
+
+### [State Department](https://www.indexdata.org/united-states/state-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+
+- `[`2024-24890`]` **[Notarial and Related Services](https://www.indexdata.org/notarial-and-related-services/)** — `2024-10-28` | `2 Pages`
+- `[`2024-24091`]` **[International Traffic in Arms Regulations (ITAR): U.S. Munitions List Categories IV and XV](https://www.indexdata.org/international-traffic-in-arms-regulations-itar-u-s-munitions-list-categories-iv-and-xv/)** — `2024-10-23` | `24 Pages`
+- `[`2024-22297`]` **[Access to Information; Privacy Act Provisions](https://www.indexdata.org/access-to-information-privacy-act-provisions/)** — `2024-09-30` | `3 Pages`
+- `[`2024-21849`]` **[Amendment to the International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus-3/)** — `2024-09-27` | `3 Pages`
+- `[`2024-19192`]` **[Diplomatic Agent-Level Immunity](https://www.indexdata.org/diplomatic-agent-level-immunity/)** — `2024-08-28` | `4 Pages`
+- `[`2024-18659`]` **[Visas: Visa Ineligibility](https://www.indexdata.org/visas-visa-ineligibility/)** — `2024-08-22` | `3 Pages`
+- `[`2024-18043`]` **[International Traffic in Arms Regulations: Exemption for Defense Trade and Cooperation Among Australia, the United Kingdom, and the United States](https://www.indexdata.org/international-traffic-in-arms-regulations-exemption-for-defense-trade-and-cooperation-among-australia-the-united-kingdom-and-the-united-states-2/)** — `2024-08-20` | `23 Pages`
+- `[`2024-18249`]` **[International Traffic in Arms Regulations: Amendments to the Definition of Activities That Are Not Exports, Reexports, Retransfers, or Temporary Imports](https://www.indexdata.org/international-traffic-in-arms-regulations-amendments-to-the-definition-of-activities-that-are-not-exports-reexports-retransfers-or-temporary-imports/)** — `2024-08-15` | `5 Pages`
+- `[`2024-16501`]` **[International Traffic in Arms Regulations: Revisions to Definition and Controls Related to Defense Services](https://www.indexdata.org/international-traffic-in-arms-regulations-revisions-to-definition-and-controls-related-to-defense-services/)** — `2024-07-29` | `6 Pages`
+- `[`2024-16452`]` **[Visas: Immigrant Visas; Correction](https://www.indexdata.org/visas-immigrant-visas-correction/)** — `2024-07-26` | `2 Pages`
+- `[`2024-16363`]` **[Passports: Form DS-3053 Statement of Consent](https://www.indexdata.org/passports-form-ds-3053-statement-of-consent/)** — `2024-07-26` | `3 Pages`
+- `[`2024-14628`]` **[Intercountry Adoption: Regulatory Changes to Accreditation and Approval Regulations in Intercountry Adoption](https://www.indexdata.org/intercountry-adoption-regulatory-changes-to-accreditation-and-approval-regulations-in-intercountry-adoption/)** — `2024-07-12` | `46 Pages`
 
 ### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)

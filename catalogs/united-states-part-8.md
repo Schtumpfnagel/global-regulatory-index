@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,399` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,401` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-14 12:57 UTC`
+**Last Automated Sync:** `2026-11-14 13:54 UTC`
 
 ---
 
@@ -70,7 +70,7 @@
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
-- **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
+- **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
@@ -118,8 +118,8 @@
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
+- **[National Marine Fisheries Service (NOAA Fisheries)](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/) | [RSS Feed](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
-- **[National Marine Fisheries Service (NOAA Fisheries)](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/) | [RSS Feed](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[National Highway Traffic Safety Administration (NHTSA)](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/feed/)
@@ -253,11 +253,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,399)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,401)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-14125`]` **[Amendment of Very High Frequency Omnidirectional Range Federal Airway V-4 in the Vicinity of Burley, ID](https://www.indexdata.org/amendment-of-very-high-frequency-omnidirectional-range-federal-airway-v-4-in-the-vicinity-of-burley-id/)** — `2024-07-01` | `2 Pages`
 - `[`2024-14100`]` **[Airworthiness Directives; Lycoming Engines](https://www.indexdata.org/airworthiness-directives-lycoming-engines-5/)** — `2024-06-28` | `3 Pages`
 - `[`2024-14072`]` **[Airworthiness Directives; Lindstrand Balloons Ltd. Hot Air Balloons](https://www.indexdata.org/airworthiness-directives-lindstrand-balloons-ltd-hot-air-balloons/)** — `2024-06-27` | `3 Pages`
 - `[`2024-11610`]` **[Airworthiness Directives; Robinson Helicopter Company Helicopters](https://www.indexdata.org/airworthiness-directives-robinson-helicopter-company-helicopters-6/)** — `2024-06-27` | `3 Pages`
@@ -615,7 +616,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-04318`]` **[Amendment of Class E Airspace; Danville, IL](https://www.indexdata.org/amendment-of-class-e-airspace-danville-il/)** — `2024-03-01` | `2 Pages`
 - `[`2024-04317`]` **[Establishment of Class E Airspace; Webster, SD](https://www.indexdata.org/establishment-of-class-e-airspace-webster-sd-2/)** — `2024-03-01` | `2 Pages`
 - `[`2024-04194`]` **[Modification of Class D and E Airspace; McClellan-Palomar Airport, Carlsbad, CA](https://www.indexdata.org/modification-of-class-d-and-e-airspace-mcclellan-palomar-airport-carlsbad-ca-2/)** — `2024-02-29` | `3 Pages`
-- `[`2024-04045`]` **[Establishment of Multiple United States Area Navigation (RNAV) Routes; Eastern United States](https://www.indexdata.org/establishment-of-multiple-united-states-area-navigation-rnav-routes-eastern-united-states-2/)** — `2024-02-29` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -796,7 +796,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-04102`]` **[Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Arkansas; Negative Declaration for Existing Sulfuric Acid Plants; Plan Revision for Existing Kraft Pulp Mills](https://www.indexdata.org/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-arkansas-negative-declaration-for-existing-sulfuric-acid-plants-plan-revision-for-existing-kraft-pulp-m/)** — `2024-03-01` | `3 Pages`
 - `[`2024-04256`]` **[Receipt of a Pesticide Petition Filed for Residues of Pesticide Chemicals in or on Various Commodities (January 2024)](https://www.indexdata.org/receipt-of-a-pesticide-petition-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-january-2024/)** — `2024-02-29` | `2 Pages`
 - `[`2024-04133`]` **[Air Plan Approval; Connecticut; Source Monitoring, Record Keeping and Reporting](https://www.indexdata.org/air-plan-approval-connecticut-source-monitoring-record-keeping-and-reporting-2/)** — `2024-02-29` | `4 Pages`
-- `[`2024-04023`]` **[Request From States for Removal of Gasoline Volatility Waiver](https://www.indexdata.org/request-from-states-for-removal-of-gasoline-volatility-waiver/)** — `2024-02-29` | `16 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1759,6 +1758,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-hous
 - `[`2024-05756`]` **[Section 538 Guaranteed Rural Rental Housing Program Change in Priority Projects Criteria](https://www.indexdata.org/section-538-guaranteed-rural-rental-housing-program-change-in-priority-projects-criteria/)** — `2024-03-19` | `3 Pages`
 - `[`2024-05571`]` **[Changes Related to Reserve Account Administration in Multi-Family Housing (MFH) Direct Loan Programs](https://www.indexdata.org/changes-related-to-reserve-account-administration-in-multi-family-housing-mfh-direct-loan-programs/)** — `2024-03-18` | `4 Pages`
 
+### [State Department](https://www.indexdata.org/united-states/state-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+
+- `[`2024-14127`]` **[Acquisition Regulation and Grants Regulation: Contractor and Grantee Counterterrorism Vetting](https://www.indexdata.org/acquisition-regulation-and-grants-regulation-contractor-and-grantee-counterterrorism-vetting/)** — `2024-07-01` | `4 Pages`
+- `[`2024-10245`]` **[Third-Party Attendance at Appointments for Passport, Consular Report of Birth Abroad (CRBA), and Certain Other Services](https://www.indexdata.org/third-party-attendance-at-appointments-for-passport-consular-report-of-birth-abroad-crba-and-certain-other-services/)** — `2024-05-13` | `4 Pages`
+- `[`2024-08829`]` **[International Traffic in Arms Regulations: Exemption for Defense Trade and Cooperation Among Australia, the United Kingdom, and the United States](https://www.indexdata.org/international-traffic-in-arms-regulations-exemption-for-defense-trade-and-cooperation-among-australia-the-united-kingdom-and-the-united-states-3/)** — `2024-05-01` | `5 Pages`
+- `[`2024-08627`]` **[International Traffic in Arms Regulations: Registration Fees](https://www.indexdata.org/international-traffic-in-arms-regulations-registration-fees-2/)** — `2024-04-24` | `7 Pages`
+- `[`2024-08602`]` **[Exchange Visitor Program-General Provisions](https://www.indexdata.org/exchange-visitor-program-general-provisions/)** — `2024-04-23` | `5 Pages`
+- `[`2024-06199`]` **[International Traffic in Arms Regulations: Revision to U.S. Munitions List Category XI-High-Energy Storage Capacitors](https://www.indexdata.org/international-traffic-in-arms-regulations-revision-to-u-s-munitions-list-category-xi-high-energy-storage-capacitors/)** — `2024-03-25` | `3 Pages`
+- `[`2024-05695`]` **[International Traffic in Arms Regulations: Addition to List of Proscribed Countries](https://www.indexdata.org/international-traffic-in-arms-regulations-addition-to-list-of-proscribed-countries/)** — `2024-03-15` | `2 Pages`
+
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 
@@ -1768,16 +1778,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enfor
 - `[`2024-07684`]` **[Schedules of Controlled Substances: Placement of Etodesnitazene, N-Pyrrolidino Etonitazene, and Protonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-etodesnitazene-n-pyrrolidino-etonitazene-and-protonitazene-in-schedule-i/)** — `2024-04-11` | `4 Pages`
 - `[`2024-07473`]` **[Announcement of Hearing: Schedules of Controlled Substances: Placement of 2,5-dimethoxy-4-iodoamphetamine (DOI) and 2,5-dimethoxy-4-chloroamphetamine (DOC) inSchedule I](https://www.indexdata.org/announcement-of-hearing-schedules-of-controlled-substances-placement-of-25-dimethoxy-4-iodoamphetamine-doi-and-25-dimethoxy-4-chloroamphetamine-doc-inschedule-i/)** — `2024-04-09` | `2 Pages`
 - `[`2024-05543`]` **[Schedules of Controlled Substances: Placement of 2-Methyl AP-237 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-2-methyl-ap-237-in-schedule-i/)** — `2024-03-15` | `4 Pages`
-
-### [State Department](https://www.indexdata.org/united-states/state-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
-
-- `[`2024-10245`]` **[Third-Party Attendance at Appointments for Passport, Consular Report of Birth Abroad (CRBA), and Certain Other Services](https://www.indexdata.org/third-party-attendance-at-appointments-for-passport-consular-report-of-birth-abroad-crba-and-certain-other-services/)** — `2024-05-13` | `4 Pages`
-- `[`2024-08829`]` **[International Traffic in Arms Regulations: Exemption for Defense Trade and Cooperation Among Australia, the United Kingdom, and the United States](https://www.indexdata.org/international-traffic-in-arms-regulations-exemption-for-defense-trade-and-cooperation-among-australia-the-united-kingdom-and-the-united-states-3/)** — `2024-05-01` | `5 Pages`
-- `[`2024-08627`]` **[International Traffic in Arms Regulations: Registration Fees](https://www.indexdata.org/international-traffic-in-arms-regulations-registration-fees-2/)** — `2024-04-24` | `7 Pages`
-- `[`2024-08602`]` **[Exchange Visitor Program-General Provisions](https://www.indexdata.org/exchange-visitor-program-general-provisions/)** — `2024-04-23` | `5 Pages`
-- `[`2024-06199`]` **[International Traffic in Arms Regulations: Revision to U.S. Munitions List Category XI-High-Energy Storage Capacitors](https://www.indexdata.org/international-traffic-in-arms-regulations-revision-to-u-s-munitions-list-category-xi-high-energy-storage-capacitors/)** — `2024-03-25` | `3 Pages`
-- `[`2024-05695`]` **[International Traffic in Arms Regulations: Addition to List of Proscribed Countries](https://www.indexdata.org/international-traffic-in-arms-regulations-addition-to-list-of-proscribed-countries/)** — `2024-03-15` | `2 Pages`
 
 ### [Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-election-commission/](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
