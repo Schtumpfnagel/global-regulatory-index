@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `4,781` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `4,789` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-14 07:11 UTC`
+**Last Automated Sync:** `2026-11-14 08:01 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,874` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,882` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,033` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`625` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,11 +45,18 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–4,781 of 4,781)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–4,789 of 4,789)
 
 ### [European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-fund-eif/](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 
+- `[`EIF-REC-easi-cb-intermediaries`]` **[EIF Corporate Record: EaSI cb Intermediaries](https://www.indexdata.org/eif-corporate-record-easi-cb-intermediaries/)** — `2025-01-16` | `4 Pages`
+- `[`EIF-REC-cosme_lgf_signatures`]` **[EIF Corporate Record: COSME lgf Signatures](https://www.indexdata.org/eif-corporate-record-cosme-lgf-signatures/)** — `2025-01-16` | `4 Pages`
+- `[`EIF-REC-implementation_status`]` **[EIF Corporate Record: Implementation Status](https://www.indexdata.org/eif-corporate-record-implementation-status/)** — `2025-01-14` | `7 Pages`
+- `[`EIF-REC-ccs_implementation_status`]` **[EIF Corporate Record: Ccs Implementation Status](https://www.indexdata.org/eif-corporate-record-ccs-implementation-status/)** — `2025-01-14` | `7 Pages`
+- `[`EIF-REC-monthly-report-approval-of-transactions-ce-delegation-20241231`]` **[EIF Corporate Record: Monthly Report Approval of Transactions ce Delegation 20241231](https://www.indexdata.org/eif-corporate-record-monthly-report-approval-of-transactions-ce-delegation-20241231/)** — `2025-01-06` | `3 Pages`
+- `[`EIF-REG-zencap-energy-sustainable-transition-zest-ii-fund`]` **[EIF Public Register: Zencap Energy Sustainable Transition Zest ii Fund](https://www.indexdata.org/eif-public-register-zencap-energy-sustainable-transition-zest-ii-fund/)** — `2024-11-18` | `3 Pages`
+- `[`EIF-REG-student-housing-fund-1-am`]` **[EIF Public Register: Student Housing Fund 1 am](https://www.indexdata.org/eif-public-register-student-housing-fund-1-am/)** — `2024-11-18` | `2 Pages`
 - `[`EIF-REG-sdcl-green-energy-solutions-fund`]` **[EIF Public Register: Sdcl Green Energy Solutions Fund](https://www.indexdata.org/eif-public-register-sdcl-green-energy-solutions-fund/)** — `2024-11-18` | `3 Pages`
 - `[`EIF-REG-rive-infrastructure-impact-fund`]` **[EIF Public Register: Rive Infrastructure Impact Fund](https://www.indexdata.org/eif-public-register-rive-infrastructure-impact-fund/)** — `2024-11-18` | `3 Pages`
 - `[`EIF-REG-pioneer-infrastructure-partners`]` **[EIF Public Register: Pioneer Infrastructure Partners](https://www.indexdata.org/eif-public-register-pioneer-infrastructure-partners/)** — `2024-11-18` | `3 Pages`
@@ -313,7 +320,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-REC-annex-ib-existing-intermediaries-expression-of-interest`]` **[EIF Corporate Record: Annex ib Existing Intermediaries Expression of Interest](https://www.indexdata.org/eif-corporate-record-annex-ib-existing-intermediaries-expression-of-interest/)** — `2024-10-01` | `6 Pages`
 - `[`EIF-REC-annex-ia-new-intermediaries-expression-of-interest-for-new-applicants`]` **[EIF Corporate Record: Annex ia new Intermediaries Expression of Interest for new Applicants](https://www.indexdata.org/eif-corporate-record-annex-ia-new-intermediaries-expression-of-interest-for-new-applicants/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-annex-i-ceoi-eere-malta`]` **[EIF Corporate Record: Annex i Call for Expression of Interest Eere Malta](https://www.indexdata.org/eif-corporate-record-annex-i-call-for-expression-of-interest-eere-malta/)** — `2024-10-01` | `12 Pages`
-- `[`EIF-REC-annex-III-terms-of-confidentiality`]` **[EIF Corporate Record: Annex iii Terms of Confidentiality](https://www.indexdata.org/eif-corporate-record-annex-iii-terms-of-confidentiality-14/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-annex-III-terms-of-confidentiality`]` **[EIF Corporate Record: Annex iii Terms of Confidentiality](https://www.indexdata.org/eif-corporate-record-annex-iii-terms-of-confidentiality-15/)** — `2024-10-01` | `2 Pages`
 - `[`EIF-REC-annex-3-to-the-call-for-expression-of-interest-no-jer`]` **[EIF Corporate Record: Annex 3 to the Call for Expression of Interest no jer](https://www.indexdata.org/eif-corporate-record-annex-3-to-the-call-for-expression-of-interest-no-jer/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-annex-2_final_-to-the-call-for-expression-of-interest-no-jer`]` **[EIF Corporate Record: Annex 2 Final to the Call for Expression of Interest no jer](https://www.indexdata.org/eif-corporate-record-annex-2-final-to-the-call-for-expression-of-interest-no-jer/)** — `2024-10-01` | `11 Pages`
 - `[`EIF-REC-annex-2-to-the-call-for-expression-of-interest-no-jer009-2`]` **[EIF Corporate Record: Annex 2 to the Call for Expression of Interest no Jer009 2](https://www.indexdata.org/eif-corporate-record-annex-2-to-the-call-for-expression-of-interest-no-jer009-2/)** — `2024-10-01` | `13 Pages`
@@ -339,6 +346,11 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 
 - `[`CELEX-02024R2215-20261026`]` **[Commission Implementing Regulation (EU) 2024/2215 of 6 September 2024 establishing, pursuant to Regulation (EU) 2024/573 of the European Parliament and of the Council, minimum requirements for the issuance of certificates to natural and legal persons and the conditions for the mutual recognition of such certificates, as regards stationary refrigeration, air conditioning and heat pump equipment, organic Rankine cycles and refrigeration units of refrigerated trucks, refrigerated trailers, refrigerated light-duty vehicles, intermodal containers and train wagons containing fluorinated greenhouse gases or their alternatives, and repealing Commission Implementing Regulation (EU) 2015/2067 (Text with EEA relevance)](https://www.indexdata.org/commission-implementing-regulation-eu-2024-2215-of-6-september-2024-establishing-pursuant-to-regulation-eu-2024-573-of-the-european-parliament-and-of-the-council-minimum-requirements-for-the-iss/)** — `2024-10-26` | `20 Pages`
+
+### [European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)
+Canonical Authority Archive: [https://www.indexdata.org/european-union/european-environment-agency-eea/](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/)
+
+- `[`EEA-RPT-SPD2220253FF90C`]` **[EEA Report: Single Programming Document 2025 2027](https://www.indexdata.org/eea-report-single-programming-document-2025-2027/)** — `2024-12-09` | `109 Pages`
 
 ---
 
