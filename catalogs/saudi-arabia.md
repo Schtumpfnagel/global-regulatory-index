@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q851`](https://www.wikidata.org/wiki/Q851)  
 **Governing Open-Government Framework:** *National Data Governance Policies*  
 **Total Indexed Dossiers in Saudi Arabia:** `10` across `2` issuing authorities  
-**Last Automated Sync:** `2026-11-15 14:52 UTC`
+**Last Automated Sync:** `2026-11-15 16:01 UTC`
 
 ---
 

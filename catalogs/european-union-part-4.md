@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `4,871` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `4,878` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-15 14:52 UTC`
+**Last Automated Sync:** `2026-11-15 16:01 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,955` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`1,962` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,033` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`625` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,11 +45,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–4,871 of 4,871)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–4,878 of 4,878)
 
 ### [European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-fund-eif/](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 
+- `[`EIF-REG-eibg-emas-environmental-policy`]` **[EIB Group Emas Environmental Policy](https://www.indexdata.org/eib-group-emas-environmental-policy/)** — `2025-03-04` | `2 Pages`
+- `[`EIF-CALL-si-segip-equity-main-call`]` **[EIF InvestEU Mandate: Si Segip Equity Main Call](https://www.indexdata.org/eif-investeu-mandate-si-segip-equity-main-call/)** — `2025-03-04` | `24 Pages`
 - `[`EIF-GOV-signed-minutes-eif-board-of-directors-minutes-20241212-en`]` **[Signed Minutes EIF Board of Directors Minutes 20241212](https://www.indexdata.org/signed-minutes-eif-board-of-directors-minutes-20241212/)** — `2025-02-12` | `13 Pages`
 - `[`EIF-REG-white-summit-capital-decarbonisation-infrastructure-fund`]` **[EIF Public Register: White Summit Capital Decarbonisation Infrastructure Fund](https://www.indexdata.org/eif-public-register-white-summit-capital-decarbonisation-infrastructure-fund/)** — `2025-01-24` | `4 Pages`
 - `[`EIF-REC-wbedif_signatures`]` **[EIF Corporate Record: Wbedif Signatures](https://www.indexdata.org/eif-corporate-record-wbedif-signatures/)** — `2025-01-16` | `2 Pages`
@@ -325,7 +327,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-REC-annex-ib-existing-intermediaries-expression-of-interest`]` **[EIF Corporate Record: Annex ib Existing Intermediaries Expression of Interest](https://www.indexdata.org/eif-corporate-record-annex-ib-existing-intermediaries-expression-of-interest/)** — `2024-10-01` | `6 Pages`
 - `[`EIF-REC-annex-ia-new-intermediaries-expression-of-interest-for-new-applicants`]` **[EIF Corporate Record: Annex ia new Intermediaries Expression of Interest for new Applicants](https://www.indexdata.org/eif-corporate-record-annex-ia-new-intermediaries-expression-of-interest-for-new-applicants/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-annex-i-ceoi-eere-malta`]` **[EIF Corporate Record: Annex i Call for Expression of Interest Eere Malta](https://www.indexdata.org/eif-corporate-record-annex-i-call-for-expression-of-interest-eere-malta/)** — `2024-10-01` | `12 Pages`
-- `[`EIF-REC-annex-III-terms-of-confidentiality`]` **[EIF Corporate Record: Annex iii Terms of Confidentiality](https://www.indexdata.org/eif-corporate-record-annex-iii-terms-of-confidentiality-25/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-annex-III-terms-of-confidentiality`]` **[EIF Corporate Record: Annex iii Terms of Confidentiality](https://www.indexdata.org/eif-corporate-record-annex-iii-terms-of-confidentiality-26/)** — `2024-10-01` | `2 Pages`
 - `[`EIF-REC-annex-3-to-the-call-for-expression-of-interest-no-jer`]` **[EIF Corporate Record: Annex 3 to the Call for Expression of Interest no jer](https://www.indexdata.org/eif-corporate-record-annex-3-to-the-call-for-expression-of-interest-no-jer/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-annex-2_final_-to-the-call-for-expression-of-interest-no-jer`]` **[EIF Corporate Record: Annex 2 Final to the Call for Expression of Interest no jer](https://www.indexdata.org/eif-corporate-record-annex-2-final-to-the-call-for-expression-of-interest-no-jer/)** — `2024-10-01` | `11 Pages`
 - `[`EIF-REC-annex-2-to-the-call-for-expression-of-interest-no-jer009-2`]` **[EIF Corporate Record: Annex 2 to the Call for Expression of Interest no Jer009 2](https://www.indexdata.org/eif-corporate-record-annex-2-to-the-call-for-expression-of-interest-no-jer009-2/)** — `2024-10-01` | `13 Pages`
@@ -346,12 +348,17 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-REC-Estfund_Expansion_Capital_Fund_termsheet`]` **[EIF Corporate Record: Estfund Expansion Capital Fund Termsheet](https://www.indexdata.org/eif-corporate-record-estfund-expansion-capital-fund-termsheet/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-EIF_Statutes_Annexes`]` **[EIF Statutes Annexes](https://www.indexdata.org/eif-statutes-annexes/)** — `2024-10-01` | `4 Pages`
 - `[`EIF-REC-Corporate_Operational_Plan_2008_2010`]` **[EIF Corporate Record: Corporate Operational Plan 2008 2010](https://www.indexdata.org/eif-corporate-record-corporate-operational-plan-2008-2010/)** — `2024-10-01` | `23 Pages`
-- `[`EIF-REC-Call_for_expression_of_interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-3/)** — `2024-10-01` | `5 Pages`
-- `[`EIF-REC-Call_for_Expression_of_Interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-4/)** — `2024-10-01` | `16 Pages`
+- `[`EIF-REC-Call_for_expression_of_interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-6/)** — `2024-10-01` | `5 Pages`
+- `[`EIF-REC-Call_for_Expression_of_Interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-5/)** — `2024-10-01` | `16 Pages`
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
 
+- `[`EIB-ELENA-project-factsheet-ing-ref-en`]` **[EIB ELENA Factsheet: Project Factsheet ing ref](https://www.indexdata.org/eib-elena-factsheet-project-factsheet-ing-ref/)** — `2025-03-04` | `2 Pages`
+- `[`EIB-ELENA-project-factsheet-improving-energy-efficiency-in-the-region-of-south-aegean`]` **[EIB ELENA Factsheet: Project Factsheet Improving Energy Efficiency in the Region of South Aegean](https://www.indexdata.org/eib-elena-factsheet-project-factsheet-improving-energy-efficiency-in-the-region-of-south-aegean/)** — `2025-03-04` | `2 Pages`
+- `[`EIB-ELENA-project-factsheet-energy-eficiency-financing-eeffcb-en`]` **[EIB ELENA Factsheet: Project Factsheet Energy Eficiency Financing Eeffcb](https://www.indexdata.org/eib-elena-factsheet-project-factsheet-energy-eficiency-financing-eeffcb/)** — `2025-03-04` | `2 Pages`
+- `[`EIB-ELENA-kapos-grid-factsheet-en`]` **[EIB ELENA Factsheet: Kapos Grid Factsheet](https://www.indexdata.org/eib-elena-factsheet-kapos-grid-factsheet/)** — `2025-03-04` | `2 Pages`
+- `[`EIB-ELENA-84-project-factsheet-litgoven`]` **[EIB ELENA Factsheet: 84 Project Factsheet Litgoven](https://www.indexdata.org/eib-elena-factsheet-84-project-factsheet-litgoven/)** — `2025-03-04` | `2 Pages`
 - `[`EIB-ELENA-83-project-factsheet-energy-efficiency-by-getin`]` **[EIB ELENA Factsheet: 83 Project Factsheet Energy Efficiency by Getin](https://www.indexdata.org/eib-elena-factsheet-83-project-factsheet-energy-efficiency-by-getin/)** — `2025-03-04` | `2 Pages`
 - `[`EIB-ELENA-82-project-factsheet-gieep`]` **[EIB ELENA Factsheet: 82 Project Factsheet Gieep](https://www.indexdata.org/eib-elena-factsheet-82-project-factsheet-gieep/)** — `2025-03-04` | `2 Pages`
 - `[`EIB-ELENA-80-project-factsheet-energy-efficiency-in-social-housing-frederikshavn-housing-association`]` **[EIB ELENA Factsheet: 80 Project Factsheet Energy Efficiency in Social Housing Frederikshavn Housing Association](https://www.indexdata.org/eib-elena-factsheet-80-project-factsheet-energy-efficiency-in-social-housing-frederikshavn-housing-association/)** — `2025-03-04` | `2 Pages`

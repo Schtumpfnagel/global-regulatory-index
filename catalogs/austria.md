@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/austria/feed/](https://www.indexdata.org/austria/feed/)  
 **Wikidata Sovereign Entity:** [`Q40`](https://www.wikidata.org/wiki/Q40)  
 **Governing Open-Government Framework:** *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0*  
-**Total Indexed Dossiers in Austria:** `169` across `17` issuing authorities  
-**Last Automated Sync:** `2026-11-15 14:52 UTC`
+**Total Indexed Dossiers in Austria:** `171` across `17` issuing authorities  
+**Last Automated Sync:** `2026-11-15 16:01 UTC`
 
 ---
 
 ## Issuing Authorities in Austria (17 Authorities)
 
 - **[Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
-- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
+- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
 - **[Austrian National Public Health Institute (Gesundheit Österreich GmbH - GÖG)](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/) | [RSS Feed](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/feed/)
 - **[Oesterreichische Nationalbank (OeNB)](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/) | [RSS Feed](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/feed/)
 - **[Austrian Energy Regulatory Authority (E-Control)](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/) | [RSS Feed](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/feed/)
@@ -32,7 +32,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–169 of 169)
+## Indexed Statutory & Regulatory Dossiers (Records 1–171 of 171)
 
 ### [Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
@@ -89,6 +89,7 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/federal-chancell
 ### [Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
 
+- `[`AT-STAT-OEAW-W7225918236`]` **[Reversible expression of a cartilage ′master regulator′ during axolotl limb development and regeneration](https://www.indexdata.org/reversible-expression-of-a-cartilage-%e2%80%b2master-regulator%e2%80%b2-during-axolotl-limb-development-and-regeneration/)** — `2026-11-12` | `21 Pages`
 - `[`AT-STAT-OEAW-W7225865259`]` **[Named Entity Recognition for Pre-Modern Serbian Cyrillic: Using Transformer-Based Models and Generative Data Augmentation](https://www.indexdata.org/named-entity-recognition-for-pre-modern-serbian-cyrillic-using-transformer-based-models-and-generative-data-augmentation/)** — `2026-11-12` | `30 Pages`
 - `[`AT-STAT-OEAW-W7154582063`]` **[Beads, Springs, and Fields: Particle-Based Versus Continuum Models in Cell Biophysics](https://www.indexdata.org/beads-springs-and-fields-particle-based-versus-continuum-models-in-cell-biophysics/)** — `2026-11-12` | `36 Pages`
 - `[`AT-STAT-OEAW-W7225714875`]` **[Na exospheric emission in relation to Sun events during the BepiColombo Second Mercury’s Fly-by](https://www.indexdata.org/na-exospheric-emission-in-relation-to-sun-events-during-the-bepicolombo-second-mercurys-fly-by/)** — `2026-11-10` | `33 Pages`
@@ -112,6 +113,7 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-academy
 - `[`AT-STAT-OEAW-W7203474790`]` **[Proof-of-Principle Implementation of Quantum Key Distribution in an Indefinite Causal Order](https://www.indexdata.org/proof-of-principle-implementation-of-quantum-key-distribution-in-an-indefinite-causal-order/)** — `2026-10-18` | `29 Pages`
 - `[`AT-STAT-OEAW-W7222984304`]` **[Survey of Orion Disks with ALMA (SODA) IV: Millimeter variability of protoplanetary disks](https://www.indexdata.org/survey-of-orion-disks-with-alma-soda-iv-millimeter-variability-of-protoplanetary-disks/)** — `2026-10-16` | `10 Pages`
 - `[`AT-STAT-OEAW-W7168475094`]` **[Classical and quantum mechanics across representations: An operational reading of the Wigner-Weyl correspondence](https://www.indexdata.org/classical-and-quantum-mechanics-across-representations-an-operational-reading-of-the-wigner-weyl-correspondence/)** — `2026-10-16` | `13 Pages`
+- `[`AT-STAT-OEAW-W7222074603`]` **[Evolution of debris cover over glaciers in the Central Andes (1985–2024)](https://www.indexdata.org/evolution-of-debris-cover-over-glaciers-in-the-central-andes-1985-2024/)** — `2026-10-15` | `19 Pages`
 - `[`AT-STAT-OEAW-W7221689927`]` **[Arabidopsis–Swede Midge as an experimentally tractable insect gall model to dissect plant reprogramming](https://www.indexdata.org/arabidopsis-swede-midge-as-an-experimentally-tractable-insect-gall-model-to-dissect-plant-reprogramming/)** — `2026-10-13` | `30 Pages`
 - `[`AT-STAT-OEAW-W7214116670`]` **[Pulse-Shape Discrimination with Machine Learning for CZT Detectors at DAΦNE Beam Test Facility](https://www.indexdata.org/pulse-shape-discrimination-with-machine-learning-for-czt-detectors-at-da%cf%86ne-beam-test-facility/)** — `2026-10-13` | `11 Pages`
 - `[`AT-STAT-OEAW-W7211964990`]` **[Læmple: a benchmarking framework for virus lineage deconvolution tools for SARS-CoV-2 from wastewater](https://www.indexdata.org/laemple-a-benchmarking-framework-for-virus-lineage-deconvolution-tools-for-sars-cov-2-from-wastewater/)** — `2026-10-13` | `18 Pages`
