@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,270` across `36` issuing authorities  
-**Last Automated Sync:** `2026-11-14 15:53 UTC`
+**Total Indexed Dossiers in Australia:** `1,277` across `41` issuing authorities  
+**Last Automated Sync:** `2026-11-15 13:43 UTC`
 
 ---
 
-## Issuing Authorities in Australia (36 Authorities)
+## Issuing Authorities in Australia (41 Authorities)
 
 - **[Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)** (`376` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
 - **[Attorney-General's Department](https://www.indexdata.org/australia/attorney-general-s-department/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.indexdata.org/australia/attorney-general-s-department/feed/)
@@ -27,7 +27,7 @@
 - **[Department of Education](https://www.indexdata.org/australia/department-of-education/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-education/) | [RSS Feed](https://www.indexdata.org/australia/department-of-education/feed/)
 - **[Department of Foreign Affairs and Trade](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/) | [RSS Feed](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/feed/)
 - **[Department of Health and Aged Care](https://www.indexdata.org/australia/department-of-health-and-aged-care/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-health-and-aged-care/) | [RSS Feed](https://www.indexdata.org/australia/department-of-health-and-aged-care/feed/)
-- **[Great Barrier Reef Marine Park Authority](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/) | [RSS Feed](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/feed/)
+- **[Great Barrier Reef Marine Park Authority](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/) | [RSS Feed](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/feed/)
 - **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
 - **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
 - **[Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/) | [RSS Feed](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/feed/)
@@ -41,17 +41,22 @@
 - **[Northern Territory — People, Sport and Culture](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/feed/)
 - **[Northern Territory — Corrections](https://www.indexdata.org/australia/northern-territory-corrections/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-corrections/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-corrections/feed/)
 - **[Northern Territory — Logistics and Infrastructure](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/feed/)
+- **[Bureau of Meteorology](https://www.indexdata.org/australia/bureau-of-meteorology/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/bureau-of-meteorology/) | [RSS Feed](https://www.indexdata.org/australia/bureau-of-meteorology/feed/)
 - **[Housing, Local Government and Community Development](https://www.indexdata.org/australia/housing-local-government-and-community-development/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/housing-local-government-and-community-development/) | [RSS Feed](https://www.indexdata.org/australia/housing-local-government-and-community-development/feed/)
 - **[Northern Territory — Chief Minister and Cabinet](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/feed/)
 - **[Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
 - **[Australian Business Register](https://www.indexdata.org/australia/australian-business-register/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
+- **[Australian Government](https://www.indexdata.org/australia/australian-government/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-government/) | [RSS Feed](https://www.indexdata.org/australia/australian-government/feed/)
+- **[Australian Institute of Marine Science](https://www.indexdata.org/australia/australian-institute-of-marine-science/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-institute-of-marine-science/) | [RSS Feed](https://www.indexdata.org/australia/australian-institute-of-marine-science/feed/)
+- **[Commonwealth Scientific and Industrial Research Organisation](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/) | [RSS Feed](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/feed/)
 - **[Murray-Darling Basin Authority](https://www.indexdata.org/australia/murray-darling-basin-authority/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/murray-darling-basin-authority/) | [RSS Feed](https://www.indexdata.org/australia/murray-darling-basin-authority/feed/)
 - **[Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
 - **[SIP Register - OptiComm](https://www.indexdata.org/australia/sip-register-opticomm/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/sip-register-opticomm/) | [RSS Feed](https://www.indexdata.org/australia/sip-register-opticomm/feed/)
+- **[Western Australia — Department of Primary Industries and Regional Development](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/) | [RSS Feed](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,270 of 1,270)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,277 of 1,277)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1237,6 +1242,7 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-
 ### [Great Barrier Reef Marine Park Authority](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/) | [RSS Feed](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/feed/)
 
+- `[`AU-GBRMPA-fd38d5d4-bfef-40a4-b13d-e986cdc98452`]` **[Ecological Assessment for BAJIGAL (Stephens Island)](https://www.indexdata.org/ecological-assessment-for-bajigal-stephens-island-2/)** — `2026-01-01` | `112 Pages`
 - `[`AU-GBRMPA-11017-4180`]` **[Local Marine Advisory Committee Meetings May 2026](https://www.indexdata.org/local-marine-advisory-committee-meetings-may-2026/)** — `2026-01-01` | `9 Pages`
 - `[`AU-GBRMPA-11017-4171`]` **[Marine Monitoring Program: Quality Assurance and Quality Control Manual 2024-25](https://www.indexdata.org/marine-monitoring-program-quality-assurance-and-quality-control-manual-2024-25/)** — `2026-01-01` | `166 Pages`
 - `[`AU-GBRMPA-11017-4169`]` **[Marine Monitoring Program: 2024-25 Summary Results Booklet](https://www.indexdata.org/marine-monitoring-program-2024-25-summary-results-booklet/)** — `2026-01-01` | `24 Pages`
@@ -1429,6 +1435,12 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 - `[`AU-NT-91f556ee-c92c-452f-a6e2`]` **[Super Tuesday Bike Count Darwin 2025 — Super Tuesday Commuter Bike Count - Darwin 2025](https://www.indexdata.org/super-tuesday-bike-count-darwin-2025-super-tuesday-commuter-bike-count-darwin-2025/)** — `2025-12-11` | `49 Pages`
 - `[`AU-NT-7a4a72a3-e87b-41c4-85f9`]` **[Super Tuesday Bike Count Katherine 2025 — Super Tuesday Commuter Bike Count - Katherine 2025](https://www.indexdata.org/super-tuesday-bike-count-katherine-2025-super-tuesday-commuter-bike-count-katherine-2025/)** — `2025-12-11` | `18 Pages`
 
+### [Bureau of Meteorology](https://www.indexdata.org/australia/bureau-of-meteorology/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/bureau-of-meteorology/](https://www.indexdata.org/australia/bureau-of-meteorology/) | [RSS Feed](https://www.indexdata.org/australia/bureau-of-meteorology/feed/)
+
+- `[`AU-ZEN-13966993`]` **[Warning Value Chain Questionnaire and Guide](https://www.indexdata.org/warning-value-chain-questionnaire-and-guide/)** — `2026-11-15` | `14 Pages`
+- `[`AU-ZEN-15017793`]` **[Advanced PSyclone Training for HPC Experts](https://www.indexdata.org/advanced-psyclone-training-for-hpc-experts/)** — `2025-03-13` | `182 Pages`
+
 ### [Housing, Local Government and Community Development](https://www.indexdata.org/australia/housing-local-government-and-community-development/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/housing-local-government-and-community-development/](https://www.indexdata.org/australia/housing-local-government-and-community-development/) | [RSS Feed](https://www.indexdata.org/australia/housing-local-government-and-community-development/feed/)
 
@@ -1452,6 +1464,21 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-bus
 
 - `[`AU-DATA-5bd7fcab-e315-42cb-8daf`]` **[ABN Bulk Extract — ABN Lookup Bulk Extract Readme](https://www.indexdata.org/abn-bulk-extract-abn-lookup-bulk-extract-readme/)** — `2026-11-03` | `11 Pages`
 
+### [Australian Government](https://www.indexdata.org/australia/australian-government/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/australian-government/](https://www.indexdata.org/australia/australian-government/) | [RSS Feed](https://www.indexdata.org/australia/australian-government/feed/)
+
+- `[`AU-DATA-d205130b-a3f1-4d43-8618-314ebb365ed8`]` **[IMOS - National Reef Monitoring Network Sub-Facility - Global benthic cover data (photoquadrat image annotations)](https://www.indexdata.org/imos-national-reef-monitoring-network-sub-facility-global-benthic-cover-data-photoquadrat-image-annotations/)** — `2026-10-01` | `64 Pages`
+
+### [Australian Institute of Marine Science](https://www.indexdata.org/australia/australian-institute-of-marine-science/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/australian-institute-of-marine-science/](https://www.indexdata.org/australia/australian-institute-of-marine-science/) | [RSS Feed](https://www.indexdata.org/australia/australian-institute-of-marine-science/feed/)
+
+- `[`AU-ZEN-11449251`]` **[Schmidt Ocean Institute Expedition Report: Australian Mesophotic Coral Examination](https://www.indexdata.org/schmidt-ocean-institute-expedition-report-australian-mesophotic-coral-examination/)** — `2024-06-03` | `11 Pages`
+
+### [Commonwealth Scientific and Industrial Research Organisation](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/) | [RSS Feed](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/feed/)
+
+- `[`AU-ZEN-24125566`]` **[Co-Design with Stakeholders](https://www.indexdata.org/co-design-with-stakeholders/)** — `2026-11-11` | `5 Pages`
+
 ### [Murray-Darling Basin Authority](https://www.indexdata.org/australia/murray-darling-basin-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/murray-darling-basin-authority/](https://www.indexdata.org/australia/murray-darling-basin-authority/) | [RSS Feed](https://www.indexdata.org/australia/murray-darling-basin-authority/feed/)
 
@@ -1466,6 +1493,11 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 Canonical Authority Archive: [https://www.indexdata.org/australia/sip-register-opticomm/](https://www.indexdata.org/australia/sip-register-opticomm/) | [RSS Feed](https://www.indexdata.org/australia/sip-register-opticomm/feed/)
 
 - `[`AU-DATA-c8cad624-0591-47d5-ad0e`]` **[Opticomm Pty Ltd - Declaration - Multiple - 5 November 2026 — 2026-11-05 Nominated Service Area Declaration](https://www.indexdata.org/opticomm-pty-ltd-declaration-multiple-5-november-2026-2026-11-05-nominated-service-area-declaration/)** — `2026-11-11` | `2 Pages`
+
+### [Western Australia — Department of Primary Industries and Regional Development](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/) | [RSS Feed](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/feed/)
+
+- `[`AU-ZEN-15478629`]` **[Standardising Drone Metadata for Enhanced Data Management in Precision Agriculture](https://www.indexdata.org/standardising-drone-metadata-for-enhanced-data-management-in-precision-agriculture/)** — `2026-11-15` | `5 Pages`
 
 ---
 

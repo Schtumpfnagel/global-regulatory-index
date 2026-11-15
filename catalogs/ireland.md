@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `182` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-14 15:53 UTC`
+**Total Indexed Dossiers in Ireland:** `184` across `38` issuing authorities  
+**Last Automated Sync:** `2026-11-15 13:43 UTC`
 
 ---
 
@@ -17,6 +17,7 @@
 - **[Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
 - **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
 - **[Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
+- **[Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
 - **[Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
 - **[Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
 - **[Minister for Finance](https://www.indexdata.org/ireland/minister-for-finance/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-finance/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-finance/feed/)
@@ -24,7 +25,6 @@
 - **[National Treasury Management Agency (NTMA)](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/) | [RSS Feed](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/feed/)
 - **[The Arts Council](https://www.indexdata.org/ireland/the-arts-council/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-arts-council/) | [RSS Feed](https://www.indexdata.org/ireland/the-arts-council/feed/)
 - **[Department of Agriculture and Fisheries](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/feed/)
-- **[Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
 - **[Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
 - **[Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
 - **[Minister for Climate, Energy and the Environment](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/feed/)
@@ -53,7 +53,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–182 of 182)
+## Indexed Statutory & Regulatory Dossiers (Records 1–184 of 184)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -139,6 +139,18 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/seanad-ireann/](
 - `[`IE-BILL-2026-56`]` **[Prohibition of Lethal Autonomous Weapons Systems Bill 2026](https://www.indexdata.org/prohibition-of-lethal-autonomous-weapons-systems-bill-2026/)** — `2026-05-27` | `8 Pages`
 - `[`IE-BILL-2026-55`]` **[Air Navigation and Transport (Amendment) Bill 2026](https://www.indexdata.org/air-navigation-and-transport-amendment-bill-2026/)** — `2026-05-27` | `10 Pages`
 
+### [Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
+
+- `[`IE-IHREC-ihrec-submission-general-scheme-inca-bill`]` **[IHREC Submission General Scheme INCA Bill 2026 Final 3](https://www.indexdata.org/ihrec-submission-general-scheme-inca-bill-2026-final-3/)** — `2026-10-12` | `26 Pages`
+- `[`IE-IHREC-key-developments-in-human-rights-and-equal`]` **[Key Developments in Human Rights and Equality for Ireland](https://www.indexdata.org/key-developments-in-human-rights-and-equality-for-ireland/)** — `2026-09-30` | `54 Pages`
+- `[`IE-IHREC-policy-statement-on-hate`]` **[Policy Statement on Hate](https://www.indexdata.org/policy-statement-on-hate/)** — `2026-09-03` | `52 Pages`
+- `[`IE-IHREC-violence-against-women`]` **[Violence Against Women](https://www.indexdata.org/violence-against-women/)** — `2026-08-26` | `2 Pages`
+- `[`IE-IHREC-redress`]` **[Redress](https://www.indexdata.org/redress/)** — `2026-08-26` | `2 Pages`
+- `[`IE-IHREC-ihrec-submission-to-the-fourth-universal-p`]` **[IHREC Submission to the Fourth Universal Periodic Review Cycle for Ireland](https://www.indexdata.org/ihrec-submission-to-the-fourth-universal-periodic-review-cycle-for-ireland/)** — `2026-08-24` | `24 Pages`
+- `[`IE-IHREC-ihrec-2025-annual-report-and-appendices-ac`]` **[IHREC 2025 Annual Report and Appendices Accessible](https://www.indexdata.org/ihrec-2025-annual-report-and-appendices-accessible/)** — `2026-07-29` | `146 Pages`
+- `[`IE-IHREC-review-of-the-compliance-of-the-disability`]` **[Review of the compliance of the Disability Act 2005 with the UN Convention on the Rights of Persons with Disabilities](https://www.indexdata.org/review-of-the-compliance-of-the-disability-act-2005-with-the-un-convention-on-the-rights-of-persons-with-disabilities/)** — `2026-06-05` | `61 Pages`
+
 ### [Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
 
@@ -214,16 +226,6 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-ag
 - `[`IE-MARINE-10793-405`]` **[Papers Presented to the 7th Session of the EIFAC Working Party on Eel](https://www.indexdata.org/papers-presented-to-the-7th-session-of-the-eifac-working-party-on-eel/)** — `2011-07-06` | `83 Pages`
 - `[`IE-MARINE-10793-397`]` **[The Effects of Drainage on the Trimblestown River](https://www.indexdata.org/the-effects-of-drainage-on-the-trimblestown-river/)** — `2011-07-06` | `21 Pages`
 - `[`IE-MARINE-10793-396`]` **[Pelagic Eggs and Young Stages of Fishes Taken on the South Coast of Ireland in 1967](https://www.indexdata.org/pelagic-eggs-and-young-stages-of-fishes-taken-on-the-south-coast-of-ireland-in-1967/)** — `2011-07-01` | `35 Pages`
-
-### [Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)
-Canonical Authority Archive: [https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
-
-- `[`IE-IHREC-ihrec-submission-general-scheme-inca-bill`]` **[IHREC Submission General Scheme INCA Bill 2026 Final 3](https://www.indexdata.org/ihrec-submission-general-scheme-inca-bill-2026-final-3/)** — `2026-10-12` | `26 Pages`
-- `[`IE-IHREC-key-developments-in-human-rights-and-equal`]` **[Key Developments in Human Rights and Equality for Ireland](https://www.indexdata.org/key-developments-in-human-rights-and-equality-for-ireland/)** — `2026-09-30` | `54 Pages`
-- `[`IE-IHREC-policy-statement-on-hate`]` **[Policy Statement on Hate](https://www.indexdata.org/policy-statement-on-hate/)** — `2026-09-03` | `52 Pages`
-- `[`IE-IHREC-ihrec-submission-to-the-fourth-universal-p`]` **[IHREC Submission to the Fourth Universal Periodic Review Cycle for Ireland](https://www.indexdata.org/ihrec-submission-to-the-fourth-universal-periodic-review-cycle-for-ireland/)** — `2026-08-24` | `24 Pages`
-- `[`IE-IHREC-ihrec-2025-annual-report-and-appendices-ac`]` **[IHREC 2025 Annual Report and Appendices Accessible](https://www.indexdata.org/ihrec-2025-annual-report-and-appendices-accessible/)** — `2026-07-29` | `146 Pages`
-- `[`IE-IHREC-review-of-the-compliance-of-the-disability`]` **[Review of the compliance of the Disability Act 2005 with the UN Convention on the Rights of Persons with Disabilities](https://www.indexdata.org/review-of-the-compliance-of-the-disability-act-2005-with-the-un-convention-on-the-rights-of-persons-with-disabilities/)** — `2026-06-05` | `61 Pages`
 
 ### [Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-health/](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
