@@ -5,15 +5,17 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/belgium/feed/](https://www.indexdata.org/belgium/feed/)  
 **Wikidata Sovereign Entity:** [`Q31`](https://www.wikidata.org/wiki/Q31)  
 **Governing Open-Government Framework:** *Koninklijk besluit van 2 juni 2019 betreffende het hergebruik van overheidsinformatie & Code de droit économique / Wetboek van economisch recht, Art. XI.172*  
-**Total Indexed Dossiers in Belgium:** `45` across `21` issuing authorities  
-**Last Automated Sync:** `2026-11-15 17:00 UTC`
+**Total Indexed Dossiers in Belgium:** `48` across `22` issuing authorities  
+**Last Automated Sync:** `2026-11-15 17:55 UTC`
 
 ---
 
-## Issuing Authorities in Belgium (21 Authorities)
+## Issuing Authorities in Belgium (22 Authorities)
 
 - **[Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
 - **[Belgian Health Care Knowledge Centre (KCE)](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/feed/)
+- **[Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
+- **[Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)
 - **[Royal Belgian Institute of Natural Sciences (RBINS) — Geological Survey of Belgium](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/feed/)
 - **[Belgian Federal Science Policy Office (BELSPO)](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/feed/)
 - **[Department of Mobility and Public Works (Flanders)](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/) | [RSS Feed](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/feed/)
@@ -21,22 +23,21 @@
 - **[Federal Planning Bureau (FPB)](https://www.indexdata.org/belgium/federal-planning-bureau-fpb/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/federal-planning-bureau-fpb/) | [RSS Feed](https://www.indexdata.org/belgium/federal-planning-bureau-fpb/feed/)
 - **[Flemish Institute for Technological Research (VITO)](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/feed/)
 - **[Flemish Peace Institute](https://www.indexdata.org/belgium/flemish-peace-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-peace-institute/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-peace-institute/feed/)
+- **[Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
 - **[French Community Commission of Brussels (COCOF)](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/) | [RSS Feed](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/feed/)
 - **[Infrabel](https://www.indexdata.org/belgium/infrabel/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/infrabel/) | [RSS Feed](https://www.indexdata.org/belgium/infrabel/feed/)
 - **[Koninklijke Bibliotheek van België](https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/) | [RSS Feed](https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/feed/)
-- **[Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
 - **[RIZIV](https://www.indexdata.org/belgium/riziv/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
 - **[Research Institute for Agriculture, Fisheries and Food (ILVO)](https://www.indexdata.org/belgium/research-institute-for-agriculture-fisheries-and-food-ilvo/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/research-institute-for-agriculture-fisheries-and-food-ilvo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-agriculture-fisheries-and-food-ilvo/feed/)
 - **[Research Institute for Nature and Forest (INBO)](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/feed/)
 - **[Royal Belgian Institute for Space Aeronomy (BIRA-IASB)](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/feed/)
-- **[Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)
 - **[Royal Institute for Cultural Heritage (KIK-IRPA)](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/) | [RSS Feed](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/feed/)
 - **[Royal Library of Belgium (KBR)](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/) | [RSS Feed](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/feed/)
 - **[Royal Meteorological Institute of Belgium (RMI)](https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/) | [RSS Feed](https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–45 of 45)
+## Indexed Statutory & Regulatory Dossiers (Records 1–48 of 48)
 
 ### [Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
@@ -70,6 +71,18 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/belgian-health-c
 - `[`BE-OA-CORE-W4405527657`]` **[Estonia’s firm-level production network: Lessons for industrial policy](https://www.indexdata.org/estonias-firm-level-production-network-lessons-for-industrial-policy/)** — `2024-12-18` | `72 Pages`
 - `[`BE-OA-W3122323971`]` **[Why Firms Avoid Cutting Wages: Survey Evidence from European Firms](https://www.indexdata.org/why-firms-avoid-cutting-wages-survey-evidence-from-european-firms/)** — `2014-07-01` | `40 Pages`
 - `[`BE-OA-W1518296914`]` **[Macroeconomic Dynamics Near the ZLB: A Tale of Two Equilibria](https://www.indexdata.org/macroeconomic-dynamics-near-the-zlb-a-tale-of-two-equilibria/)** — `2013-07-01` | `66 Pages`
+
+### [Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
+
+- `[`BE-OA-REG-W4297888143`]` **[Local and regional experiences of remote work and multilocality](https://www.indexdata.org/local-and-regional-experiences-of-remote-work-and-multilocality/)** — `2022-09-20` | `74 Pages`
+- `[`BE-OA-DEL2-W4297888143`]` **[Local and regional experiences of remote work and multilocality](https://www.indexdata.org/local-and-regional-experiences-of-remote-work-and-multilocality-2/)** — `2022-09-20` | `74 Pages`
+
+### [Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)
+
+- `[`BE-ZEN-VRT-19664814`]` **[Engaging the GLAM Sector in a Federal Open Science Ecosystem: The Belgian FedOSC Approach](https://www.indexdata.org/engaging-the-glam-sector-in-a-federal-open-science-ecosystem-the-belgian-fedosc-approach-2/)** — `2026-04-20` | `2 Pages`
+- `[`BE-ZEN-FEDOSC-19664814`]` **[Engaging the GLAM Sector in a Federal Open Science Ecosystem: The Belgian FedOSC Approach](https://www.indexdata.org/engaging-the-glam-sector-in-a-federal-open-science-ecosystem-the-belgian-fedosc-approach/)** — `2026-04-20` | `2 Pages`
 
 ### [Royal Belgian Institute of Natural Sciences (RBINS) — Geological Survey of Belgium](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/feed/)
@@ -107,6 +120,11 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-peace-in
 
 - `[`BE-OA-BELSPO-W7135370043`]` **[Evaluation of the higher education grant system for less privileged students in Portugal](https://www.indexdata.org/evaluation-of-the-higher-education-grant-system-for-less-privileged-students-in-portugal/)** — `2022-01-01` | `78 Pages`
 
+### [Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
+
+- `[`BE-ZEN-JUST-11258076`]` **[D1.7: Community Building Activity Report (V3)](https://www.indexdata.org/d1-7-community-building-activity-report-v3/)** — `2022-12-31` | `38 Pages`
+
 ### [French Community Commission of Brussels (COCOF)](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/) | [RSS Feed](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/feed/)
 
@@ -121,11 +139,6 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/infrabel/](https
 Canonical Authority Archive: [https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/](https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/) | [RSS Feed](https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/feed/)
 
 - `[`BE-ODP-doi-10-34934-dvn-sv2ppk`]` **[BelgicaWeb research project Deliverable 2.3.1 API, access platform, and user guides and documentation v01](https://www.indexdata.org/belgicaweb-research-project-deliverable-2-3-1-api-access-platform-and-user-guides-and-documentation-v01/)** — `2026-10-15` | `12 Pages`
-
-### [Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
-
-- `[`BE-OA-REG-W4297888143`]` **[Local and regional experiences of remote work and multilocality](https://www.indexdata.org/local-and-regional-experiences-of-remote-work-and-multilocality/)** — `2022-09-20` | `74 Pages`
 
 ### [RIZIV](https://www.indexdata.org/belgium/riziv/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/riziv/](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
@@ -146,11 +159,6 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/research-institu
 Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/feed/)
 
 - `[`BE-BIRA-72c9f1c8-421f-4b15-b81d-17b656790e2d`]` **[Supplementary material for: Predicting boundary crossings during the Comet Interceptor flyby of a yet undetermined target comet - Software](https://www.indexdata.org/supplementary-material-for-predicting-boundary-crossings-during-the-comet-interceptor-flyby-of-a-yet-undetermined-target-comet-software/)** — `2026-11-13` | `4 Pages`
-
-### [Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)
-
-- `[`BE-ZEN-FEDOSC-19664814`]` **[Engaging the GLAM Sector in a Federal Open Science Ecosystem: The Belgian FedOSC Approach](https://www.indexdata.org/engaging-the-glam-sector-in-a-federal-open-science-ecosystem-the-belgian-fedosc-approach/)** — `2026-04-20` | `2 Pages`
 
 ### [Royal Institute for Cultural Heritage (KIK-IRPA)](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/) | [RSS Feed](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/feed/)
