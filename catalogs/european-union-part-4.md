@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,003` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,009` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-16 10:58 UTC`
+**Last Automated Sync:** `2026-11-16 11:58 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,068` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,073` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,033` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`625` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
-- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`435` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
+- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`436` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 - **[European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)** (`129` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/) | [Wikidata `Q130146`](https://www.wikidata.org/wiki/Q130146)
 - **[European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,003 of 5,003)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,009 of 5,009)
 
 ### [European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-fund-eif/](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
@@ -332,7 +332,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-REC-annex-ib-existing-intermediaries-expression-of-interest`]` **[EIF Corporate Record: Annex ib Existing Intermediaries Expression of Interest](https://www.indexdata.org/eif-corporate-record-annex-ib-existing-intermediaries-expression-of-interest/)** — `2024-10-01` | `6 Pages`
 - `[`EIF-REC-annex-ia-new-intermediaries-expression-of-interest-for-new-applicants`]` **[EIF Corporate Record: Annex ia new Intermediaries Expression of Interest for new Applicants](https://www.indexdata.org/eif-corporate-record-annex-ia-new-intermediaries-expression-of-interest-for-new-applicants/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-annex-i-ceoi-eere-malta`]` **[EIF Corporate Record: Annex i Call for Expression of Interest Eere Malta](https://www.indexdata.org/eif-corporate-record-annex-i-call-for-expression-of-interest-eere-malta/)** — `2024-10-01` | `12 Pages`
-- `[`EIF-REC-annex-III-terms-of-confidentiality`]` **[EIF Corporate Record: Annex iii Terms of Confidentiality](https://www.indexdata.org/eif-corporate-record-annex-iii-terms-of-confidentiality-46/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-annex-III-terms-of-confidentiality`]` **[EIF Corporate Record: Annex iii Terms of Confidentiality](https://www.indexdata.org/eif-corporate-record-annex-iii-terms-of-confidentiality-47/)** — `2024-10-01` | `2 Pages`
 - `[`EIF-REC-annex-3-to-the-call-for-expression-of-interest-no-jer`]` **[EIF Corporate Record: Annex 3 to the Call for Expression of Interest no jer](https://www.indexdata.org/eif-corporate-record-annex-3-to-the-call-for-expression-of-interest-no-jer/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-annex-2_final_-to-the-call-for-expression-of-interest-no-jer`]` **[EIF Corporate Record: Annex 2 Final to the Call for Expression of Interest no jer](https://www.indexdata.org/eif-corporate-record-annex-2-final-to-the-call-for-expression-of-interest-no-jer/)** — `2024-10-01` | `11 Pages`
 - `[`EIF-REC-annex-2-to-the-call-for-expression-of-interest-no-jer009-2`]` **[EIF Corporate Record: Annex 2 to the Call for Expression of Interest no Jer009 2](https://www.indexdata.org/eif-corporate-record-annex-2-to-the-call-for-expression-of-interest-no-jer009-2/)** — `2024-10-01` | `13 Pages`
@@ -353,8 +353,8 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-REC-Estfund_Expansion_Capital_Fund_termsheet`]` **[EIF Corporate Record: Estfund Expansion Capital Fund Termsheet](https://www.indexdata.org/eif-corporate-record-estfund-expansion-capital-fund-termsheet/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-EIF_Statutes_Annexes`]` **[EIF Statutes Annexes](https://www.indexdata.org/eif-statutes-annexes/)** — `2024-10-01` | `4 Pages`
 - `[`EIF-REC-Corporate_Operational_Plan_2008_2010`]` **[EIF Corporate Record: Corporate Operational Plan 2008 2010](https://www.indexdata.org/eif-corporate-record-corporate-operational-plan-2008-2010/)** — `2024-10-01` | `23 Pages`
-- `[`EIF-REC-Call_for_expression_of_interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-45/)** — `2024-10-01` | `5 Pages`
-- `[`EIF-REC-Call_for_Expression_of_Interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-46/)** — `2024-10-01` | `16 Pages`
+- `[`EIF-REC-Call_for_expression_of_interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-47/)** — `2024-10-01` | `5 Pages`
+- `[`EIF-REC-Call_for_Expression_of_Interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-48/)** — `2024-10-01` | `16 Pages`
 - `[`EIF-REC-Annex_III_Investment_guidelines_for_the_Early_Stage_window`]` **[EIF Corporate Record: Annex iii Investment Guidelines for the Early Stage Window](https://www.indexdata.org/eif-corporate-record-annex-iii-investment-guidelines-for-the-early-stage-window/)** — `2024-10-01` | `16 Pages`
 - `[`EIF-REC-Annex_II`]` **[EIF Corporate Record — Annex ii](https://www.indexdata.org/eif-corporate-record-annex-ii/)** — `2024-10-01` | `25 Pages`
 - `[`EIF-REC-Annex_I-Expression_of_interest_with_representations`]` **[EIF Corporate Record: Annex i Expression of Interest With Representations](https://www.indexdata.org/eif-corporate-record-annex-i-expression-of-interest-with-representations/)** — `2024-10-01` | `5 Pages`
@@ -374,10 +374,16 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-REC-2014-12-17-cp-bpifrance-fei`]` **[EIF Corporate Record: 2014 12 17 cp Bpifrance fei](https://www.indexdata.org/eif-corporate-record-2014-12-17-cp-bpifrance-fei/)** — `2024-10-01` | `2 Pages`
 - `[`EIF-REC-2011_lithuania_call_jer_004_6_annex-2`]` **[EIF Corporate Record: 2011 Lithuania Call jer 004 6 Annex 2](https://www.indexdata.org/eif-corporate-record-2011-lithuania-call-jer-004-6-annex-2/)** — `2024-10-01` | `16 Pages`
 - `[`EIF-REC-2011_lithuania_call_jer_004_5_annex-1`]` **[EIF Corporate Record: 2011 Lithuania Call jer 004 5 Annex 1](https://www.indexdata.org/eif-corporate-record-2011-lithuania-call-jer-004-5-annex-1/)** — `2024-10-01` | `10 Pages`
+- `[`EIF-REC-2011-07-08-call_jer_004_6-flpg-leasing-final-clear`]` **[EIF Corporate Record: 2011 07 08 Call jer 004 6 Flpg Leasing Final Clear](https://www.indexdata.org/eif-corporate-record-2011-07-08-call-jer-004-6-flpg-leasing-final-clear/)** — `2024-10-01` | `35 Pages`
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
 
+- `[`EIB-CM-sg-e-2011-14-mediation-report-en_redacted`]` **[EIB Complaints Mechanism: Sg e 2011 14 Mediation Report en Redacted](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2011-14-mediation-report-en-redacted/)** — `2025-04-11` | `4 Pages`
+- `[`EIB-CM-sg-e-2011-14-complaint-en_redacted`]` **[EIB Complaints Mechanism: Sg e 2011 14 Complaint en Redacted](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2011-14-complaint-en-redacted/)** — `2025-04-11` | `2 Pages`
+- `[`EIB-CM-sg-e-2011-11-complaint-en_redacted`]` **[EIB Complaints Mechanism: Sg e 2011 11 Complaint en Redacted](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2011-11-complaint-en-redacted/)** — `2025-04-11` | `2 Pages`
+- `[`EIB-CM-sg-e-2011-11-belgrade-bypass-complaint_en`]` **[EIB Complaints Mechanism: Sg e 2011 11 Belgrade Bypass Complaint](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2011-11-belgrade-bypass-complaint/)** — `2025-04-11` | `2 Pages`
+- `[`EIB-CM-sg-e-2011-05-panama-canal-expansion-complaint_en`]` **[EIB Complaints Mechanism: Sg e 2011 05 Panama Canal Expansion Complaint](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2011-05-panama-canal-expansion-complaint/)** — `2025-04-11` | `2 Pages`
 - `[`EIB-CM-sg-e-2010-15-torun-bridge-poland-conclusions-report_en`]` **[EIB Complaints Mechanism: Sg e 2010 15 Torun Bridge Poland Conclusions Report](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2010-15-torun-bridge-poland-conclusions-report/)** — `2025-04-11` | `11 Pages`
 - `[`EIB-CM-sg-e-2009-11-complaint-en_redacted`]` **[EIB Complaints Mechanism: Sg e 2009 11 Complaint en Redacted](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2009-11-complaint-en-redacted/)** — `2025-04-11` | `3 Pages`
 - `[`EIB-CM-sg-e-2009-09-conclusions-report-en_redacted`]` **[EIB Complaints Mechanism: Sg e 2009 09 Conclusions Report en Redacted](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2009-09-conclusions-report-en-redacted/)** — `2025-04-11` | `41 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,921` across `82` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,922` across `82` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-16 10:58 UTC`
+**Last Automated Sync:** `2026-11-16 11:58 UTC`
 
 ---
 
@@ -27,7 +27,7 @@
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`77` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
@@ -98,7 +98,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,921)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,922)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -777,6 +777,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 
+- `[`UK-JUD-133199`]` **[Courts and Tribunals Judiciary: PM7 Costs Orders Reviewed Nov 26 Final](https://www.indexdata.org/courts-and-tribunals-judiciary-pm7-costs-orders-reviewed-nov-26-final/)** — `2026-11-16` | `2 Pages`
 - `[`UK-JUD-133171`]` **[Courts and Tribunals Judiciary: ashton-TSEMalta-KB-2024-1178- judgment- 13 Nov26](https://www.indexdata.org/courts-and-tribunals-judiciary-ashton-tsemalta-kb-2024-1178-judgment-13-nov26/)** — `2026-11-13` | `32 Pages`
 - `[`UK-JUD-133169`]` **[Courts and Tribunals Judiciary: Judgment on interest R v Pabon Final](https://www.indexdata.org/courts-and-tribunals-judiciary-judgment-on-interest-r-v-pabon-final/)** — `2026-11-13` | `14 Pages`
 - `[`UK-JUD-132989`]` **[Courts and Tribunals Judiciary: Approved Judgment – G (A Child) – CA2026002574_](https://www.indexdata.org/courts-and-tribunals-judiciary-approved-judgment-g-a-child-ca2026002574_/)** — `2026-11-11` | `13 Pages`
@@ -1352,7 +1353,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKPGA-2026-13`]` **[Universal Credit (Removal of Two Child Limit) Act 2026](https://www.indexdata.org/universal-credit-removal-of-two-child-limit-act-2026/)** — `2026-03-18` | `7 Pages`
 - `[`UKSI-2026-294`]` **[The Social Security (Contributions) (Amendment No. 2) Regulations 2026](https://www.indexdata.org/the-social-security-contributions-amendment-no-2-regulations-2026/)** — `2026-03-12` | `8 Pages`
 - `[`UKSI-2026-287`]` **[The Guardian’s Allowance Up-rating Regulations 2026](https://www.indexdata.org/the-guardians-allowance-up-rating-regulations-2026/)** — `2026-03-12` | `4 Pages`
-- `[`UKSI-2026-283`]` **[The Social Security (Contributions) (Re-rating) Consequential Amendment Regulations 2026](https://www.indexdata.org/the-social-security-contributions-re-rating-consequential-amendment-regulations-2026/)** — `2026-03-11` | `4 Pages`
 
 ### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)

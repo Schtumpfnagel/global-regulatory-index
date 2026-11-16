@@ -5,18 +5,18 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/belgium/feed/](https://www.indexdata.org/belgium/feed/)  
 **Wikidata Sovereign Entity:** [`Q31`](https://www.wikidata.org/wiki/Q31)  
 **Governing Open-Government Framework:** *Koninklijk besluit van 2 juni 2019 betreffende het hergebruik van overheidsinformatie & Code de droit économique / Wetboek van economisch recht, Art. XI.172*  
-**Total Indexed Dossiers in Belgium:** `71` across `30` issuing authorities  
-**Last Automated Sync:** `2026-11-16 10:58 UTC`
+**Total Indexed Dossiers in Belgium:** `72` across `30` issuing authorities  
+**Last Automated Sync:** `2026-11-16 11:58 UTC`
 
 ---
 
 ## Issuing Authorities in Belgium (30 Authorities)
 
 - **[Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
+- **[Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
 - **[Research Institute for Nature and Forest (INBO)](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/feed/)
 - **[Belgian Health Care Knowledge Centre (KCE)](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/feed/)
 - **[Flemish Peace Institute](https://www.indexdata.org/belgium/flemish-peace-institute/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-peace-institute/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-peace-institute/feed/)
-- **[Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
 - **[Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
 - **[RIZIV](https://www.indexdata.org/belgium/riziv/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
 - **[Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–71 of 71)
+## Indexed Statutory & Regulatory Dossiers (Records 1–72 of 72)
 
 ### [Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
@@ -73,6 +73,14 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgia
 - `[`BE-SCIENSANO-13087`]` **[Advancing cancer care for adolescents and young adults: the role of the European Network of Expertise](https://www.indexdata.org/advancing-cancer-care-for-adolescents-and-young-adults-the-role-of-the-european-network-of-expertise/)** — `2026-09-23` | `5 Pages`
 - `[`BE-OA-W4210328293`]` **[A Journey of Evaluation and Impact Measurement](https://www.indexdata.org/a-journey-of-evaluation-and-impact-measurement/)** — `2021-01-01` | `36 Pages`
 
+### [Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
+
+- `[`BE-ZEN-VRT-12794697`]` **[GN5-1 D3.3 Compendium Report](https://www.indexdata.org/gn5-1-d3-3-compendium-report/)** — `2024-07-22` | `113 Pages`
+- `[`BE-ZEN-JUST-11258195`]` **[D2.4 A comprehensive startup incubation framework and toolkit for the European media sector startup industry v2](https://www.indexdata.org/d2-4-a-comprehensive-startup-incubation-framework-and-toolkit-for-the-european-media-sector-startup-industry-v2/)** — `2023-11-05` | `29 Pages`
+- `[`BE-ZEN-JUST-11258076`]` **[D1.7: Community Building Activity Report (V3)](https://www.indexdata.org/d1-7-community-building-activity-report-v3/)** — `2022-12-31` | `38 Pages`
+- `[`BE-ZEN-JUST-11257994`]` **[D1.6: Community Building Activity Report (V2)](https://www.indexdata.org/d1-6-community-building-activity-report-v2/)** — `2022-12-31` | `33 Pages`
+
 ### [Research Institute for Nature and Forest (INBO)](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/feed/)
 
@@ -94,13 +102,6 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-peace-in
 - `[`BE-ZEN-FL-23232616`]` **[Sustainability Plan for the AOP Knowledge Base and the AOP-Wiki](https://www.indexdata.org/sustainability-plan-for-the-aop-knowledge-base-and-the-aop-wiki/)** — `2026-10-08` | `34 Pages`
 - `[`BE-OA-BELSPO-W7135370043`]` **[Evaluation of the higher education grant system for less privileged students in Portugal](https://www.indexdata.org/evaluation-of-the-higher-education-grant-system-for-less-privileged-students-in-portugal/)** — `2022-01-01` | `78 Pages`
 - `[`BE-OA-REG-W3141856901`]` **[Domestic Versus Foreign Drivers Of Trade (Im)Balances: How Robust Is Evidence From Estimated DSGE Models](https://www.indexdata.org/domestic-versus-foreign-drivers-of-trade-imbalances-how-robust-is-evidence-from-estimated-dsge-models/)** — `2020-01-01` | `58 Pages`
-
-### [Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
-
-- `[`BE-ZEN-VRT-12794697`]` **[GN5-1 D3.3 Compendium Report](https://www.indexdata.org/gn5-1-d3-3-compendium-report/)** — `2024-07-22` | `113 Pages`
-- `[`BE-ZEN-JUST-11258076`]` **[D1.7: Community Building Activity Report (V3)](https://www.indexdata.org/d1-7-community-building-activity-report-v3/)** — `2022-12-31` | `38 Pages`
-- `[`BE-ZEN-JUST-11257994`]` **[D1.6: Community Building Activity Report (V2)](https://www.indexdata.org/d1-6-community-building-activity-report-v2/)** — `2022-12-31` | `33 Pages`
 
 ### [Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
