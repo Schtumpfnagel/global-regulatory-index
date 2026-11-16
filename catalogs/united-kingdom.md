@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,905` across `81` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,906` across `81` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-16 05:34 UTC`
+**Last Automated Sync:** `2026-11-16 06:41 UTC`
 
 ---
 
@@ -24,7 +24,7 @@
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`127` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`94` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
-- **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`76` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
+- **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`77` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
@@ -97,7 +97,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,905)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,906)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -466,7 +466,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2026-295`]` **[The Trafficking People for Exploitation (Amendment) Regulations 2026](https://www.indexdata.org/the-trafficking-people-for-exploitation-amendment-regulations-2026/)** — `2026-03-12` | `2 Pages`
 - `[`UKSI-2026-279`]` **[The Childcare Payments (Miscellaneous Amendments) Regulations 2026](https://www.indexdata.org/the-childcare-payments-miscellaneous-amendments-regulations-2026/)** — `2026-03-11` | `2 Pages`
 - `[`UKSI-2026-276`]` **[The Scotland Act 1998 (Modification of Schedule 5) Order 2026](https://www.indexdata.org/the-scotland-act-1998-modification-of-schedule-5-order-2026/)** — `2026-03-10` | `4 Pages`
-- `[`UKSI-2026-268`]` **[The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2026](https://www.indexdata.org/the-online-safety-csea-content-reporting-by-regulated-user-to-user-service-providers-regulations-2026/)** — `2026-03-09` | `8 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -1300,6 +1299,39 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-284`]` **[The Digital Markets, Competition and Consumers Act 2024 (Commencement No. 3 and Transitional Provisions) Regulations 2026](https://www.indexdata.org/the-digital-markets-competition-and-consumers-act-2024-commencement-no-3-and-transitional-provisions-regulations-2026/)** — `2026-03-11` | `4 Pages`
 - `[`UKSI-2026-237`]` **[The Bereaved Partner’s Paternity Leave Regulations 2026](https://www.indexdata.org/the-bereaved-partners-paternity-leave-regulations-2026/)** — `2026-03-10` | `20 Pages`
 
+### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
+
+- `[`UK-GOV-b9d8ccf2-740e-4be5-be1e-457314304885-1`]` **[Section 242 of the Crime and Policing Act 2026: abortion offence pardons — privacy notice](https://www.indexdata.org/section-242-of-the-crime-and-policing-act-2026-abortion-offence-pardons-privacy-notice/)** — `2026-11-16` | `3 Pages`
+- `[`UK-GOV-79d8ed03-07bb-4cb6-a5b1-ff3cd68a612e-1`]` **[Prisoner marriage and civil partnership registration policy framework](https://www.indexdata.org/prisoner-marriage-and-civil-partnership-registration-policy-framework/)** — `2026-11-12` | `8 Pages`
+- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-6`]` **[Courts and Tribunals Bill — Impact on the Magistrates' Courts (November 2026)](https://www.indexdata.org/courts-and-tribunals-bill-impact-on-the-magistrates-courts-november-2026/)** — `2026-11-09` | `7 Pages`
+- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-5`]` **[Courts and Tribunals Bill — Appendix to Criminal Court Reform: impacts factsheet (October 2026)](https://www.indexdata.org/courts-and-tribunals-bill-appendix-to-criminal-court-reform-impacts-factsheet-october-2026/)** — `2026-11-09` | `4 Pages`
+- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-4`]` **[Courts and Tribunals Bill — Courts and Tribunals Bill: (Non-IRCC) Impact Assessment (February 2026)](https://www.indexdata.org/courts-and-tribunals-bill-courts-and-tribunals-bill-non-ircc-impact-assessment-february-2026/)** — `2026-11-09` | `20 Pages`
+- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-3`]` **[Courts and Tribunals Bill — Courts and Tribunals Bill: (IRCC) Impact Assessment (February 2026)](https://www.indexdata.org/courts-and-tribunals-bill-courts-and-tribunals-bill-ircc-impact-assessment-february-2026/)** — `2026-11-09` | `40 Pages`
+- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-2`]` **[Courts and Tribunals Bill — Courts and Tribunals Bill: Equalities Statement (February 2026)](https://www.indexdata.org/courts-and-tribunals-bill-courts-and-tribunals-bill-equalities-statement-february-2026/)** — `2026-11-09` | `60 Pages`
+- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-1`]` **[Courts and Tribunals Bill — Criminal court reform: Impacts factsheet (February 2026)](https://www.indexdata.org/courts-and-tribunals-bill-criminal-court-reform-impacts-factsheet-february-2026/)** — `2026-11-09` | `14 Pages`
+- `[`UK-GOV-ec94a3c5-9bfe-4fe6-9c4b-98a3612092d1-1`]` **[Physical education and activity in custody policy framework](https://www.indexdata.org/physical-education-and-activity-in-custody-policy-framework/)** — `2026-11-05` | `12 Pages`
+- `[`UKSI-2026-1161`]` **[The Spatial Development Strategy (Examination Procedure) Rules 2026](https://www.indexdata.org/the-spatial-development-strategy-examination-procedure-rules-2026/)** — `2026-11-02` | `8 Pages`
+- `[`UKSI-2026-1126`]` **[The Victims and Prisoners Act 2024 (Commencement No. 12 and Transitional Provision) Regulations 2026](https://www.indexdata.org/the-victims-and-prisoners-act-2024-commencement-no-12-and-transitional-provision-regulations-2026/)** — `2026-10-22` | `4 Pages`
+- `[`UKSI-2026-1084`]` **[The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2026](https://www.indexdata.org/the-tribunal-procedure-upper-tribunal-amendment-rules-2026/)** — `2026-10-12` | `4 Pages`
+- `[`UKSI-2026-1083`]` **[The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 2) Order 2026](https://www.indexdata.org/the-first-tier-tribunal-and-upper-tribunal-chambers-amendment-no-2-order-2026/)** — `2026-10-12` | `2 Pages`
+- `[`UKSI-2026-955`]` **[The Criminal Legal Aid (General) (Amendment) Regulations 2026](https://www.indexdata.org/the-criminal-legal-aid-general-amendment-regulations-2026/)** — `2026-09-01` | `4 Pages`
+- `[`UKSI-2026-861`]` **[The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026](https://www.indexdata.org/the-legal-aid-sentencing-and-punishment-of-offenders-act-2012-legal-aid-anti-social-behaviour-and-prevention-and-investigation-measures-miscellaneous-amendments-order-2026/)** — `2026-07-21` | `4 Pages`
+- `[`UKSI-2026-817`]` **[The Civil Procedure (Amendment No. 2) Rules 2026](https://www.indexdata.org/the-civil-procedure-amendment-no-2-rules-2026/)** — `2026-07-09` | `20 Pages`
+- `[`UKSI-2026-723`]` **[The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026](https://www.indexdata.org/the-senior-courts-transfer-amendment-and-consequential-provision-order-2026/)** — `2026-07-08` | `16 Pages`
+- `[`UKSI-2026-771`]` **[The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment) Order 2026](https://www.indexdata.org/the-first-tier-tribunal-and-upper-tribunal-chambers-amendment-order-2026/)** — `2026-07-07` | `4 Pages`
+- `[`UKSI-2026-770`]` **[The Tribunal Procedure (First-tier Tribunal) (Property Chamber) (Amendment No. 2) Rules 2026](https://www.indexdata.org/the-tribunal-procedure-first-tier-tribunal-property-chamber-amendment-no-2-rules-2026/)** — `2026-07-07` | `4 Pages`
+- `[`UKSI-2026-744`]` **[The Criminal Legal Aid (Remuneration) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-criminal-legal-aid-remuneration-amendment-no-2-regulations-2026/)** — `2026-07-01` | `2 Pages`
+- `[`UKSI-2026-721`]` **[The Criminal Procedure (Amendment) (No. 2) Rules 2026](https://www.indexdata.org/the-criminal-procedure-amendment-no-2-rules-2026/)** — `2026-06-29` | `20 Pages`
+- `[`UKSI-2026-699`]` **[The Family Procedure (Amendment) Rules 2026](https://www.indexdata.org/the-family-procedure-amendment-rules-2026/)** — `2026-06-25` | `4 Pages`
+- `[`UKSI-2026-697`]` **[The Register of Judgments, Orders and Fines (Amendment and Transitional Provision) Regulations 2026](https://www.indexdata.org/the-register-of-judgments-orders-and-fines-amendment-and-transitional-provision-regulations-2026/)** — `2026-06-23` | `4 Pages`
+- `[`UKSI-2026-665`]` **[The Court and Tribunal Fees (Miscellaneous Amendments) (Change of coming into force) Order 2026](https://www.indexdata.org/the-court-and-tribunal-fees-miscellaneous-amendments-change-of-coming-into-force-order-2026/)** — `2026-06-18` | `4 Pages`
+- `[`UKSI-2026-664`]` **[The Prison (Governor’s and Adjudicators’ Punishments) (Amendment) Rules 2026](https://www.indexdata.org/the-prison-governors-and-adjudicators-punishments-amendment-rules-2026/)** — `2026-06-17` | `4 Pages`
+- `[`UKSI-2026-642`]` **[The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026](https://www.indexdata.org/the-court-and-tribunal-fees-miscellaneous-amendments-order-2026/)** — `2026-06-11` | `28 Pages`
+- `[`UKSI-2026-593`]` **[The Court Funds (Amendment) Rules 2026](https://www.indexdata.org/the-court-funds-amendment-rules-2026/)** — `2026-06-03` | `4 Pages`
+- `[`UKSI-2026-573`]` **[The Civil Legal Aid (Procedure) (Amendment) Regulations 2026](https://www.indexdata.org/the-civil-legal-aid-procedure-amendment-regulations-2026/)** — `2026-06-01` | `4 Pages`
+- `[`UKSI-2026-485`]` **[The First-tier Tribunal (Property Chamber) Fees (Amendment) Order 2026](https://www.indexdata.org/the-first-tier-tribunal-property-chamber-fees-amendment-order-2026/)** — `2026-04-30` | `8 Pages`
+
 ### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 
@@ -1331,38 +1363,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-287`]` **[The Guardian’s Allowance Up-rating Regulations 2026](https://www.indexdata.org/the-guardians-allowance-up-rating-regulations-2026/)** — `2026-03-12` | `4 Pages`
 - `[`UKSI-2026-283`]` **[The Social Security (Contributions) (Re-rating) Consequential Amendment Regulations 2026](https://www.indexdata.org/the-social-security-contributions-re-rating-consequential-amendment-regulations-2026/)** — `2026-03-11` | `4 Pages`
 - `[`UKSI-2026-274`]` **[The Social Security (Contributions) (Republic of India) Order 2026](https://www.indexdata.org/the-social-security-contributions-republic-of-india-order-2026/)** — `2026-03-10` | `20 Pages`
-
-### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
-
-- `[`UK-GOV-79d8ed03-07bb-4cb6-a5b1-ff3cd68a612e-1`]` **[Prisoner marriage and civil partnership registration policy framework](https://www.indexdata.org/prisoner-marriage-and-civil-partnership-registration-policy-framework/)** — `2026-11-12` | `8 Pages`
-- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-6`]` **[Courts and Tribunals Bill — Impact on the Magistrates' Courts (November 2026)](https://www.indexdata.org/courts-and-tribunals-bill-impact-on-the-magistrates-courts-november-2026/)** — `2026-11-09` | `7 Pages`
-- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-5`]` **[Courts and Tribunals Bill — Appendix to Criminal Court Reform: impacts factsheet (October 2026)](https://www.indexdata.org/courts-and-tribunals-bill-appendix-to-criminal-court-reform-impacts-factsheet-october-2026/)** — `2026-11-09` | `4 Pages`
-- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-4`]` **[Courts and Tribunals Bill — Courts and Tribunals Bill: (Non-IRCC) Impact Assessment (February 2026)](https://www.indexdata.org/courts-and-tribunals-bill-courts-and-tribunals-bill-non-ircc-impact-assessment-february-2026/)** — `2026-11-09` | `20 Pages`
-- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-3`]` **[Courts and Tribunals Bill — Courts and Tribunals Bill: (IRCC) Impact Assessment (February 2026)](https://www.indexdata.org/courts-and-tribunals-bill-courts-and-tribunals-bill-ircc-impact-assessment-february-2026/)** — `2026-11-09` | `40 Pages`
-- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-2`]` **[Courts and Tribunals Bill — Courts and Tribunals Bill: Equalities Statement (February 2026)](https://www.indexdata.org/courts-and-tribunals-bill-courts-and-tribunals-bill-equalities-statement-february-2026/)** — `2026-11-09` | `60 Pages`
-- `[`UK-GOV-9ff40cbc-6c71-478e-ad42-fb45a978b515-1`]` **[Courts and Tribunals Bill — Criminal court reform: Impacts factsheet (February 2026)](https://www.indexdata.org/courts-and-tribunals-bill-criminal-court-reform-impacts-factsheet-february-2026/)** — `2026-11-09` | `14 Pages`
-- `[`UK-GOV-ec94a3c5-9bfe-4fe6-9c4b-98a3612092d1-1`]` **[Physical education and activity in custody policy framework](https://www.indexdata.org/physical-education-and-activity-in-custody-policy-framework/)** — `2026-11-05` | `12 Pages`
-- `[`UKSI-2026-1161`]` **[The Spatial Development Strategy (Examination Procedure) Rules 2026](https://www.indexdata.org/the-spatial-development-strategy-examination-procedure-rules-2026/)** — `2026-11-02` | `8 Pages`
-- `[`UKSI-2026-1126`]` **[The Victims and Prisoners Act 2024 (Commencement No. 12 and Transitional Provision) Regulations 2026](https://www.indexdata.org/the-victims-and-prisoners-act-2024-commencement-no-12-and-transitional-provision-regulations-2026/)** — `2026-10-22` | `4 Pages`
-- `[`UKSI-2026-1084`]` **[The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2026](https://www.indexdata.org/the-tribunal-procedure-upper-tribunal-amendment-rules-2026/)** — `2026-10-12` | `4 Pages`
-- `[`UKSI-2026-1083`]` **[The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 2) Order 2026](https://www.indexdata.org/the-first-tier-tribunal-and-upper-tribunal-chambers-amendment-no-2-order-2026/)** — `2026-10-12` | `2 Pages`
-- `[`UKSI-2026-955`]` **[The Criminal Legal Aid (General) (Amendment) Regulations 2026](https://www.indexdata.org/the-criminal-legal-aid-general-amendment-regulations-2026/)** — `2026-09-01` | `4 Pages`
-- `[`UKSI-2026-861`]` **[The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026](https://www.indexdata.org/the-legal-aid-sentencing-and-punishment-of-offenders-act-2012-legal-aid-anti-social-behaviour-and-prevention-and-investigation-measures-miscellaneous-amendments-order-2026/)** — `2026-07-21` | `4 Pages`
-- `[`UKSI-2026-817`]` **[The Civil Procedure (Amendment No. 2) Rules 2026](https://www.indexdata.org/the-civil-procedure-amendment-no-2-rules-2026/)** — `2026-07-09` | `20 Pages`
-- `[`UKSI-2026-723`]` **[The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026](https://www.indexdata.org/the-senior-courts-transfer-amendment-and-consequential-provision-order-2026/)** — `2026-07-08` | `16 Pages`
-- `[`UKSI-2026-771`]` **[The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment) Order 2026](https://www.indexdata.org/the-first-tier-tribunal-and-upper-tribunal-chambers-amendment-order-2026/)** — `2026-07-07` | `4 Pages`
-- `[`UKSI-2026-770`]` **[The Tribunal Procedure (First-tier Tribunal) (Property Chamber) (Amendment No. 2) Rules 2026](https://www.indexdata.org/the-tribunal-procedure-first-tier-tribunal-property-chamber-amendment-no-2-rules-2026/)** — `2026-07-07` | `4 Pages`
-- `[`UKSI-2026-744`]` **[The Criminal Legal Aid (Remuneration) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-criminal-legal-aid-remuneration-amendment-no-2-regulations-2026/)** — `2026-07-01` | `2 Pages`
-- `[`UKSI-2026-721`]` **[The Criminal Procedure (Amendment) (No. 2) Rules 2026](https://www.indexdata.org/the-criminal-procedure-amendment-no-2-rules-2026/)** — `2026-06-29` | `20 Pages`
-- `[`UKSI-2026-699`]` **[The Family Procedure (Amendment) Rules 2026](https://www.indexdata.org/the-family-procedure-amendment-rules-2026/)** — `2026-06-25` | `4 Pages`
-- `[`UKSI-2026-697`]` **[The Register of Judgments, Orders and Fines (Amendment and Transitional Provision) Regulations 2026](https://www.indexdata.org/the-register-of-judgments-orders-and-fines-amendment-and-transitional-provision-regulations-2026/)** — `2026-06-23` | `4 Pages`
-- `[`UKSI-2026-665`]` **[The Court and Tribunal Fees (Miscellaneous Amendments) (Change of coming into force) Order 2026](https://www.indexdata.org/the-court-and-tribunal-fees-miscellaneous-amendments-change-of-coming-into-force-order-2026/)** — `2026-06-18` | `4 Pages`
-- `[`UKSI-2026-664`]` **[The Prison (Governor’s and Adjudicators’ Punishments) (Amendment) Rules 2026](https://www.indexdata.org/the-prison-governors-and-adjudicators-punishments-amendment-rules-2026/)** — `2026-06-17` | `4 Pages`
-- `[`UKSI-2026-642`]` **[The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026](https://www.indexdata.org/the-court-and-tribunal-fees-miscellaneous-amendments-order-2026/)** — `2026-06-11` | `28 Pages`
-- `[`UKSI-2026-593`]` **[The Court Funds (Amendment) Rules 2026](https://www.indexdata.org/the-court-funds-amendment-rules-2026/)** — `2026-06-03` | `4 Pages`
-- `[`UKSI-2026-573`]` **[The Civil Legal Aid (Procedure) (Amendment) Regulations 2026](https://www.indexdata.org/the-civil-legal-aid-procedure-amendment-regulations-2026/)** — `2026-06-01` | `4 Pages`
-- `[`UKSI-2026-485`]` **[The First-tier Tribunal (Property Chamber) Fees (Amendment) Order 2026](https://www.indexdata.org/the-first-tier-tribunal-property-chamber-fees-amendment-order-2026/)** — `2026-04-30` | `8 Pages`
 
 ### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)

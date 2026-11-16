@@ -5,33 +5,38 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/belgium/feed/](https://www.indexdata.org/belgium/feed/)  
 **Wikidata Sovereign Entity:** [`Q31`](https://www.wikidata.org/wiki/Q31)  
 **Governing Open-Government Framework:** *Koninklijk besluit van 2 juni 2019 betreffende het hergebruik van overheidsinformatie & Code de droit économique / Wetboek van economisch recht, Art. XI.172*  
-**Total Indexed Dossiers in Belgium:** `57` across `24` issuing authorities  
-**Last Automated Sync:** `2026-11-16 05:34 UTC`
+**Total Indexed Dossiers in Belgium:** `67` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-16 06:41 UTC`
 
 ---
 
-## Issuing Authorities in Belgium (24 Authorities)
+## Issuing Authorities in Belgium (29 Authorities)
 
 - **[Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
 - **[Belgian Health Care Knowledge Centre (KCE)](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/feed/)
+- **[Flemish Peace Institute](https://www.indexdata.org/belgium/flemish-peace-institute/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-peace-institute/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-peace-institute/feed/)
+- **[Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
+- **[Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
 - **[Research Institute for Nature and Forest (INBO)](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/feed/)
-- **[Flemish Peace Institute](https://www.indexdata.org/belgium/flemish-peace-institute/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-peace-institute/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-peace-institute/feed/)
-- **[Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
+- **[Belgian Federal Science Policy Office (BELSPO)](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/feed/)
+- **[Flemish Institute for Technological Research (VITO)](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/feed/)
 - **[NIHDI](https://www.indexdata.org/belgium/nihdi/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/nihdi/) | [RSS Feed](https://www.indexdata.org/belgium/nihdi/feed/)
-- **[Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
 - **[RIZIV](https://www.indexdata.org/belgium/riziv/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
 - **[Royal Belgian Institute for Space Aeronomy (BIRA-IASB)](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/feed/)
 - **[Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)
 - **[Royal Belgian Institute of Natural Sciences (RBINS) — Geological Survey of Belgium](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/feed/)
-- **[Belgian Federal Science Policy Office (BELSPO)](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/feed/)
+- **[Brussels-Capital Region](https://www.indexdata.org/belgium/brussels-capital-region/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/brussels-capital-region/) | [RSS Feed](https://www.indexdata.org/belgium/brussels-capital-region/feed/)
 - **[Department of Mobility and Public Works (Flanders)](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/) | [RSS Feed](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/feed/)
 - **[FPS BOSA](https://www.indexdata.org/belgium/fps-bosa/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/fps-bosa/) | [RSS Feed](https://www.indexdata.org/belgium/fps-bosa/feed/)
 - **[Federal Planning Bureau (FPB)](https://www.indexdata.org/belgium/federal-planning-bureau-fpb/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/federal-planning-bureau-fpb/) | [RSS Feed](https://www.indexdata.org/belgium/federal-planning-bureau-fpb/feed/)
+- **[Federal Public Service Economy](https://www.indexdata.org/belgium/federal-public-service-economy/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/federal-public-service-economy/) | [RSS Feed](https://www.indexdata.org/belgium/federal-public-service-economy/feed/)
+- **[Federal Public Service Justice](https://www.indexdata.org/belgium/federal-public-service-justice/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/federal-public-service-justice/) | [RSS Feed](https://www.indexdata.org/belgium/federal-public-service-justice/feed/)
 - **[Flemish Agency for Nature and Forests (ANB)](https://www.indexdata.org/belgium/flemish-agency-for-nature-and-forests-anb/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-agency-for-nature-and-forests-anb/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-agency-for-nature-and-forests-anb/feed/)
-- **[Flemish Institute for Technological Research (VITO)](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/feed/)
+- **[Flemish Government](https://www.indexdata.org/belgium/flemish-government/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-government/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-government/feed/)
 - **[French Community Commission of Brussels (COCOF)](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/) | [RSS Feed](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/feed/)
 - **[Infrabel](https://www.indexdata.org/belgium/infrabel/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/infrabel/) | [RSS Feed](https://www.indexdata.org/belgium/infrabel/feed/)
 - **[Koninklijke Bibliotheek van België](https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/) | [RSS Feed](https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/feed/)
+- **[Research Foundation — Flanders (FWO)](https://www.indexdata.org/belgium/research-foundation-flanders-fwo/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/research-foundation-flanders-fwo/) | [RSS Feed](https://www.indexdata.org/belgium/research-foundation-flanders-fwo/feed/)
 - **[Research Institute for Agriculture, Fisheries and Food (ILVO)](https://www.indexdata.org/belgium/research-institute-for-agriculture-fisheries-and-food-ilvo/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/research-institute-for-agriculture-fisheries-and-food-ilvo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-agriculture-fisheries-and-food-ilvo/feed/)
 - **[Royal Institute for Cultural Heritage (KIK-IRPA)](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/) | [RSS Feed](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/feed/)
 - **[Royal Library of Belgium (KBR)](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/) | [RSS Feed](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/feed/)
@@ -39,7 +44,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–57 of 57)
+## Indexed Statutory & Regulatory Dossiers (Records 1–67 of 67)
 
 ### [Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
@@ -74,6 +79,27 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/belgian-health-c
 - `[`BE-OA-W3122323971`]` **[Why Firms Avoid Cutting Wages: Survey Evidence from European Firms](https://www.indexdata.org/why-firms-avoid-cutting-wages-survey-evidence-from-european-firms/)** — `2014-07-01` | `40 Pages`
 - `[`BE-OA-W1518296914`]` **[Macroeconomic Dynamics Near the ZLB: A Tale of Two Equilibria](https://www.indexdata.org/macroeconomic-dynamics-near-the-zlb-a-tale-of-two-equilibria/)** — `2013-07-01` | `66 Pages`
 
+### [Flemish Peace Institute](https://www.indexdata.org/belgium/flemish-peace-institute/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-peace-institute/](https://www.indexdata.org/belgium/flemish-peace-institute/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-peace-institute/feed/)
+
+- `[`BE-ZEN-FL-23232616`]` **[Sustainability Plan for the AOP Knowledge Base and the AOP-Wiki](https://www.indexdata.org/sustainability-plan-for-the-aop-knowledge-base-and-the-aop-wiki/)** — `2026-10-08` | `34 Pages`
+- `[`BE-OA-BELSPO-W7135370043`]` **[Evaluation of the higher education grant system for less privileged students in Portugal](https://www.indexdata.org/evaluation-of-the-higher-education-grant-system-for-less-privileged-students-in-portugal/)** — `2022-01-01` | `78 Pages`
+- `[`BE-OA-REG-W3141856901`]` **[Domestic Versus Foreign Drivers Of Trade (Im)Balances: How Robust Is Evidence From Estimated DSGE Models](https://www.indexdata.org/domestic-versus-foreign-drivers-of-trade-imbalances-how-robust-is-evidence-from-estimated-dsge-models/)** — `2020-01-01` | `58 Pages`
+
+### [Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
+
+- `[`BE-ZEN-VRT-12794697`]` **[GN5-1 D3.3 Compendium Report](https://www.indexdata.org/gn5-1-d3-3-compendium-report/)** — `2024-07-22` | `113 Pages`
+- `[`BE-ZEN-JUST-11258076`]` **[D1.7: Community Building Activity Report (V3)](https://www.indexdata.org/d1-7-community-building-activity-report-v3/)** — `2022-12-31` | `38 Pages`
+- `[`BE-ZEN-JUST-11257994`]` **[D1.6: Community Building Activity Report (V2)](https://www.indexdata.org/d1-6-community-building-activity-report-v2/)** — `2022-12-31` | `33 Pages`
+
+### [Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
+
+- `[`BE-ZEN-POMWVL-18890074`]` **[ATMO-ACCESS D7.2 Final evaluation report on access programme_V2](https://www.indexdata.org/atmo-access-d7-2-final-evaluation-report-on-access-programme_v2/)** — `2026-03-03` | `22 Pages`
+- `[`BE-OA-REG-W4297888143`]` **[Local and regional experiences of remote work and multilocality](https://www.indexdata.org/local-and-regional-experiences-of-remote-work-and-multilocality/)** — `2022-09-20` | `74 Pages`
+- `[`BE-OA-DEL2-W4297888143`]` **[Local and regional experiences of remote work and multilocality](https://www.indexdata.org/local-and-regional-experiences-of-remote-work-and-multilocality-2/)** — `2022-09-20` | `74 Pages`
+
 ### [Research Institute for Nature and Forest (INBO)](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/feed/)
 
@@ -81,29 +107,23 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/research-institu
 - `[`BE-ZEN-POA-15006587`]` **[A demarcation of risk categories for invasion risk assessments using the Harmonia+ protocol](https://www.indexdata.org/a-demarcation-of-risk-categories-for-invasion-risk-assessments-using-the-harmonia-protocol/)** — `2025-03-11` | `8 Pages`
 - `[`BE-ZEN-JUST2-12513955`]` **[An annotated list of datasets on aquatic invasive alien rodents and their management mobilised through the LIFE MICA (Management of Invasive Coypu and MuskrAt in Europe) project](https://www.indexdata.org/an-annotated-list-of-datasets-on-aquatic-invasive-alien-rodents-and-their-management-mobilised-through-the-life-mica-management-of-invasive-coypu-and-muskrat-in-europe-project/)** — `2024-06-24` | `5 Pages`
 
-### [Flemish Peace Institute](https://www.indexdata.org/belgium/flemish-peace-institute/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-peace-institute/](https://www.indexdata.org/belgium/flemish-peace-institute/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-peace-institute/feed/)
+### [Belgian Federal Science Policy Office (BELSPO)](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/feed/)
 
-- `[`BE-OA-BELSPO-W7135370043`]` **[Evaluation of the higher education grant system for less privileged students in Portugal](https://www.indexdata.org/evaluation-of-the-higher-education-grant-system-for-less-privileged-students-in-portugal/)** — `2022-01-01` | `78 Pages`
-- `[`BE-OA-REG-W3141856901`]` **[Domestic Versus Foreign Drivers Of Trade (Im)Balances: How Robust Is Evidence From Estimated DSGE Models](https://www.indexdata.org/domestic-versus-foreign-drivers-of-trade-imbalances-how-robust-is-evidence-from-estimated-dsge-models/)** — `2020-01-01` | `58 Pages`
+- `[`BE-ZEN-ECON-23471600`]` **[Climate Change Impacts on Biodiversity in Catalonia & California. Key Findings and Recommendations: Drought, Wildfire, and Marine Heat Waves](https://www.indexdata.org/climate-change-impacts-on-biodiversity-in-catalonia-california-key-findings-and-recommendations-drought-wildfire-and-marine-heat-waves/)** — `2026-01-01` | `42 Pages`
+- `[`BE-ZEN-ECON-21508557`]` **[Report on the capacity-building of IPBES and IPCC National Focal Points](https://www.indexdata.org/report-on-the-capacity-building-of-ipbes-and-ipcc-national-focal-points/)** — `2025-11-30` | `43 Pages`
 
-### [Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
+### [Flemish Institute for Technological Research (VITO)](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/feed/)
 
-- `[`BE-ZEN-JUST-11258076`]` **[D1.7: Community Building Activity Report (V3)](https://www.indexdata.org/d1-7-community-building-activity-report-v3/)** — `2022-12-31` | `38 Pages`
-- `[`BE-ZEN-JUST-11257994`]` **[D1.6: Community Building Activity Report (V2)](https://www.indexdata.org/d1-6-community-building-activity-report-v2/)** — `2022-12-31` | `33 Pages`
+- `[`BE-ZEN-FL-22126573`]` **[ECSA 61 Policy Brief: Science for Sustainable Estuarine and Coastal Environments](https://www.indexdata.org/ecsa-61-policy-brief-science-for-sustainable-estuarine-and-coastal-environments/)** — `2026-08-27` | `9 Pages`
+- `[`BE-ZEN-FWO-ACT-14967252`]` **[Textile waste management in Europe's circular economy (ETC CE Report 5/2024)](https://www.indexdata.org/textile-waste-management-in-europes-circular-economy-etc-ce-report-5-2024/)** — `2024-05-21` | `56 Pages`
 
 ### [NIHDI](https://www.indexdata.org/belgium/nihdi/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/nihdi/](https://www.indexdata.org/belgium/nihdi/) | [RSS Feed](https://www.indexdata.org/belgium/nihdi/feed/)
 
 - `[`BE-ODP-781c6e2f-6b25-472e-875d-4aa4d6407184`]` **[Quality Electronic Registration of Medical acts, Implants and Devices: Orthopedic Prosthesis Identification Data: Total femur](https://www.indexdata.org/quality-electronic-registration-of-medical-acts-implants-and-devices-orthopedic-prosthesis-identification-data-total-femur/)** — `2026-08-11` | `11 Pages`
 - `[`BE-ODP-0583de5d-5999-4d77-bb68-3a5a0fb399d9`]` **[Reimbursement of implantable meshes for the repair of prolapse, for vaginal placement](https://www.indexdata.org/reimbursement-of-implantable-meshes-for-the-repair-of-prolapse-for-vaginal-placement/)** — `2026-08-11` | `9 Pages`
-
-### [Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
-
-- `[`BE-OA-REG-W4297888143`]` **[Local and regional experiences of remote work and multilocality](https://www.indexdata.org/local-and-regional-experiences-of-remote-work-and-multilocality/)** — `2022-09-20` | `74 Pages`
-- `[`BE-OA-DEL2-W4297888143`]` **[Local and regional experiences of remote work and multilocality](https://www.indexdata.org/local-and-regional-experiences-of-remote-work-and-multilocality-2/)** — `2022-09-20` | `74 Pages`
 
 ### [RIZIV](https://www.indexdata.org/belgium/riziv/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/riziv/](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
@@ -129,10 +149,10 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-belgian-in
 - `[`BE-GSB-23069`]` **[Geological Survey of Belgium Professional Paper 326 — Book 2026 Teasing](https://www.indexdata.org/geological-survey-of-belgium-professional-paper-326-book-2026-teasing/)** — `2026-06-29` | `9 Pages`
 - `[`BE-GSB-22849`]` **[Oneeurope Onegeology](https://www.indexdata.org/oneeurope-onegeology/)** — `2026-03-09` | `88 Pages`
 
-### [Belgian Federal Science Policy Office (BELSPO)](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/feed/)
+### [Brussels-Capital Region](https://www.indexdata.org/belgium/brussels-capital-region/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/brussels-capital-region/](https://www.indexdata.org/belgium/brussels-capital-region/) | [RSS Feed](https://www.indexdata.org/belgium/brussels-capital-region/feed/)
 
-- `[`BE-ZEN-ECON-21508557`]` **[Report on the capacity-building of IPBES and IPCC National Focal Points](https://www.indexdata.org/report-on-the-capacity-building-of-ipbes-and-ipcc-national-focal-points/)** — `2025-11-30` | `43 Pages`
+- `[`BE-ZEN-VRT-10893958`]` **[EOSC Focus - D3.1 - EOSC Technical Collaboration with other European Partnerships and relevant initiatives.](https://www.indexdata.org/eosc-focus-d3-1-eosc-technical-collaboration-with-other-european-partnerships-and-relevant-initiatives/)** — `2024-03-29` | `122 Pages`
 
 ### [Department of Mobility and Public Works (Flanders)](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/) | [RSS Feed](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/feed/)
@@ -149,15 +169,25 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/federal-planning
 
 - `[`BE-ZEN-FPB-20759215`]` **[De ontstaansgeschiedenis van de Alpen in vogelvlucht](https://www.indexdata.org/de-ontstaansgeschiedenis-van-de-alpen-in-vogelvlucht/)** — `2026-06-19` | `10 Pages`
 
+### [Federal Public Service Economy](https://www.indexdata.org/belgium/federal-public-service-economy/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/federal-public-service-economy/](https://www.indexdata.org/belgium/federal-public-service-economy/) | [RSS Feed](https://www.indexdata.org/belgium/federal-public-service-economy/feed/)
+
+- `[`BE-ZEN-ECON-20629892`]` **[Revocable Gateway-Centric Trust for Consumer Electronics Using Distributed Ledger Technology](https://www.indexdata.org/revocable-gateway-centric-trust-for-consumer-electronics-using-distributed-ledger-technology/)** — `2026-06-06` | `13 Pages`
+
+### [Federal Public Service Justice](https://www.indexdata.org/belgium/federal-public-service-justice/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/federal-public-service-justice/](https://www.indexdata.org/belgium/federal-public-service-justice/) | [RSS Feed](https://www.indexdata.org/belgium/federal-public-service-justice/feed/)
+
+- `[`BE-ZEN-JUST-21136745`]` **[Anthropogenic climate change amplified the June 2026 Western European heatwave](https://www.indexdata.org/anthropogenic-climate-change-amplified-the-june-2026-western-european-heatwave/)** — `2026-07-02` | `11 Pages`
+
 ### [Flemish Agency for Nature and Forests (ANB)](https://www.indexdata.org/belgium/flemish-agency-for-nature-and-forests-anb/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-agency-for-nature-and-forests-anb/](https://www.indexdata.org/belgium/flemish-agency-for-nature-and-forests-anb/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-agency-for-nature-and-forests-anb/feed/)
 
 - `[`BE-OA-REG-W2124526168`]` **[Fiscal performance and income inequality: Are unequal societies more deficit-prone? Some cross-country evidence](https://www.indexdata.org/fiscal-performance-and-income-inequality-are-unequal-societies-more-deficit-prone-some-cross-country-evidence/)** — `2010-05-01` | `35 Pages`
 
-### [Flemish Institute for Technological Research (VITO)](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/feed/)
+### [Flemish Government](https://www.indexdata.org/belgium/flemish-government/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-government/](https://www.indexdata.org/belgium/flemish-government/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-government/feed/)
 
-- `[`BE-ZEN-FWO-ACT-14967252`]` **[Textile waste management in Europe's circular economy (ETC CE Report 5/2024)](https://www.indexdata.org/textile-waste-management-in-europes-circular-economy-etc-ce-report-5-2024/)** — `2024-05-21` | `56 Pages`
+- `[`BE-ZEN-VRT-14413740`]` **[Dynamic Exposure Visualization of Air Quality Data with Augmented Reality](https://www.indexdata.org/dynamic-exposure-visualization-of-air-quality-data-with-augmented-reality/)** — `2024-12-12` | `8 Pages`
 
 ### [French Community Commission of Brussels (COCOF)](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/) | [RSS Feed](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/feed/)
@@ -173,6 +203,11 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/infrabel/](https
 Canonical Authority Archive: [https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/](https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/) | [RSS Feed](https://www.indexdata.org/belgium/koninklijke-bibliotheek-van-belgi/feed/)
 
 - `[`BE-ODP-doi-10-34934-dvn-sv2ppk`]` **[BelgicaWeb research project Deliverable 2.3.1 API, access platform, and user guides and documentation v01](https://www.indexdata.org/belgicaweb-research-project-deliverable-2-3-1-api-access-platform-and-user-guides-and-documentation-v01/)** — `2026-10-15` | `12 Pages`
+
+### [Research Foundation — Flanders (FWO)](https://www.indexdata.org/belgium/research-foundation-flanders-fwo/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/research-foundation-flanders-fwo/](https://www.indexdata.org/belgium/research-foundation-flanders-fwo/) | [RSS Feed](https://www.indexdata.org/belgium/research-foundation-flanders-fwo/feed/)
+
+- `[`BE-ZEN-FWO-ACT-15794200`]` **[Bioeconomy and bio-based innovations - Identifying key levers for delivering the EU Green Deal targets (ETC BE Working Paper 2025)](https://www.indexdata.org/bioeconomy-and-bio-based-innovations-identifying-key-levers-for-delivering-the-eu-green-deal-targets-etc-be-working-paper-2025/)** — `2026-11-16` | `117 Pages`
 
 ### [Research Institute for Agriculture, Fisheries and Food (ILVO)](https://www.indexdata.org/belgium/research-institute-for-agriculture-fisheries-and-food-ilvo/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/research-institute-for-agriculture-fisheries-and-food-ilvo/](https://www.indexdata.org/belgium/research-institute-for-agriculture-fisheries-and-food-ilvo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-agriculture-fisheries-and-food-ilvo/feed/)
