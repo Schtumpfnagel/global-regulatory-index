@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,906` across `81` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,915` across `82` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-16 07:48 UTC`
+**Last Automated Sync:** `2026-11-16 08:55 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (81 Authorities)
+## Issuing Authorities in United Kingdom (82 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`296` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -41,6 +41,7 @@
 - **[Medicines and Healthcare products Regulatory Agency](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/feed/)
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[NHS England](https://www.indexdata.org/united-kingdom/nhs-england/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/nhs-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/nhs-england/feed/)
+- **[Offshore Petroleum Regulator for Environment and Decommissioning](https://www.indexdata.org/united-kingdom/offshore-petroleum-regulator-for-environment-and-decommissioning/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/offshore-petroleum-regulator-for-environment-and-decommissioning/) | [RSS Feed](https://www.indexdata.org/united-kingdom/offshore-petroleum-regulator-for-environment-and-decommissioning/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[HM Prison and Probation Service](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/feed/)
 - **[UK Visas and Immigration](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/feed/)
@@ -97,11 +98,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,906 of 2,906)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,915 of 2,915)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2026-276`]` **[The Scotland Act 1998 (Modification of Schedule 5) Order 2026](https://www.indexdata.org/the-scotland-act-1998-modification-of-schedule-5-order-2026/)** — `2026-03-10` | `4 Pages`
 - `[`UKSI-2026-268`]` **[The Online Safety (CSEA Content Reporting by Regulated User-to-User Service Providers) Regulations 2026](https://www.indexdata.org/the-online-safety-csea-content-reporting-by-regulated-user-to-user-service-providers-regulations-2026/)** — `2026-03-09` | `8 Pages`
 - `[`UKSI-2026-262`]` **[The Online Safety Act 2023 (Commencement No. 7) Regulations 2026](https://www.indexdata.org/the-online-safety-act-2023-commencement-no-7-regulations-2026/)** — `2026-03-09` | `4 Pages`
 - `[`UKSI-2026-250`]` **[The Child Trust Funds (Amendment) Regulations 2026](https://www.indexdata.org/the-child-trust-funds-amendment-regulations-2026/)** — `2026-03-09` | `4 Pages`
@@ -680,6 +682,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 
+- `[`UKSI-2026-270`]` **[The Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) (Revocation and Consequential Amendments) Regulations 2026](https://www.indexdata.org/the-heavy-goods-vehicles-charging-for-the-use-of-certain-infrastructure-on-the-trans-european-road-network-revocation-and-consequential-amendments-regulations-2026/)** — `2026-03-09` | `4 Pages`
 - `[`UKSI-2026-251`]` **[The Humber Bridge Act 1959 (Amendment) Order 2026](https://www.indexdata.org/the-humber-bridge-act-1959-amendment-order-2026/)** — `2026-03-09` | `2 Pages`
 - `[`UKSI-2026-245`]` **[The Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) (Revocation) Regulations 2026](https://www.indexdata.org/the-merchant-shipping-monitoring-reporting-and-verification-of-carbon-dioxide-emissions-revocation-regulations-2026/)** — `2026-03-09` | `2 Pages`
 - `[`UKSI-2026-244`]` **[The Seafarers’ Wages (Amendment) Regulations 2026](https://www.indexdata.org/the-seafarers-wages-amendment-regulations-2026/)** — `2026-03-04` | `2 Pages`
@@ -1018,6 +1021,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 
+- `[`UKSI-2026-273`]` **[The Power to Award Degrees etc. (London School of Innovation Ltd) Order 2026](https://www.indexdata.org/the-power-to-award-degrees-etc-london-school-of-innovation-ltd-order-2026/)** — `2026-03-10` | `2 Pages`
+- `[`UKSI-2026-269`]` **[The Inspectors of Education, Children’s Services and Skills Order 2026](https://www.indexdata.org/the-inspectors-of-education-childrens-services-and-skills-order-2026/)** — `2026-03-10` | `4 Pages`
 - `[`UKSI-2026-130`]` **[The Education (Student Fees, Awards, Support and Loan Repayments) (Amendment) Regulations 2026](https://www.indexdata.org/the-education-student-fees-awards-support-and-loan-repayments-amendment-regulations-2026/)** — `2026-02-10` | `32 Pages`
 - `[`UKSI-2026-76`]` **[The Diocese of Leicester (Educational Endowments) (Market Harborough Church of England Infant School) Order 2026](https://www.indexdata.org/the-diocese-of-leicester-educational-endowments-market-harborough-church-of-england-infant-school-order-2026/)** — `2026-01-30` | `5 Pages`
 - `[`UKSI-2026-37`]` **[The School and Early Years Finance (England) Regulations 2026](https://www.indexdata.org/the-school-and-early-years-finance-england-regulations-2026/)** — `2026-01-16` | `72 Pages`
@@ -1115,6 +1120,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 
+- `[`UKSI-2026-237`]` **[The Bereaved Partner’s Paternity Leave Regulations 2026](https://www.indexdata.org/the-bereaved-partners-paternity-leave-regulations-2026/)** — `2026-03-10` | `20 Pages`
 - `[`UKSI-2026-263`]` **[The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Consequential Amendments) Regulations 2026](https://www.indexdata.org/the-digital-markets-competition-and-consumers-act-2024-alternative-dispute-resolution-consequential-amendments-regulations-2026/)** — `2026-03-09` | `4 Pages`
 - `[`UKSI-2026-259`]` **[The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Conferral of Functions) Regulations 2026](https://www.indexdata.org/the-digital-markets-competition-and-consumers-act-2024-alternative-dispute-resolution-conferral-of-functions-regulations-2026/)** — `2026-03-09` | `8 Pages`
 - `[`UKSI-2026-257`]` **[The Enterprise Act 2002 (Bodies Designated to make Super-complaints) (Amendment) Order 2026](https://www.indexdata.org/the-enterprise-act-2002-bodies-designated-to-make-super-complaints-amendment-order-2026/)** — `2026-03-09` | `2 Pages`
@@ -1294,6 +1300,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 
+- `[`UKSI-2026-285`]` **[The North Kent Marshes Water Level Management Board Order 2026](https://www.indexdata.org/the-north-kent-marshes-water-level-management-board-order-2026/)** — `2026-03-10` | `4 Pages`
+- `[`UKSI-2026-278`]` **[The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2026](https://www.indexdata.org/the-greenhouse-gas-emissions-trading-scheme-amendment-order-2026/)** — `2026-03-10` | `24 Pages`
 - `[`UKSI-2026-214`]` **[The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2026](https://www.indexdata.org/the-greenhouse-gas-emissions-trading-scheme-auctioning-amendment-regulations-2026/)** — `2026-03-04` | `4 Pages`
 - `[`UKSI-2026-132`]` **[The Trade in Endangered Species of Wild Fauna and Flora (Council Regulation (EC) No 338/97) (Amendment) Regulations 2026](https://www.indexdata.org/the-trade-in-endangered-species-of-wild-fauna-and-flora-council-regulation-ec-no-338-97-amendment-regulations-2026/)** — `2026-02-12` | `20 Pages`
 - `[`UKSI-2026-105`]` **[The Sea Fisheries (Amendment) Regulations 2026](https://www.indexdata.org/the-sea-fisheries-amendment-regulations-2026/)** — `2026-02-05` | `4 Pages`
@@ -1438,6 +1446,58 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2024-15`]` **[The National Health Service (Notifiable Reconfigurations and Transitional Provision) Regulations 2024](https://www.indexdata.org/the-national-health-service-notifiable-reconfigurations-and-transitional-provision-regulations-2024/)** — `2024-01-08` | `2 Pages`
 - `[`UKSI-2024-14`]` **[The Northampton General Hospital National Health Service Trust (Establishment) (Amendment) Order 2024](https://www.indexdata.org/the-northampton-general-hospital-national-health-service-trust-establishment-amendment-order-2024/)** — `2024-01-08` | `2 Pages`
 
+### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
+
+- `[`UKSI-2026-274`]` **[The Social Security (Contributions) (Republic of India) Order 2026](https://www.indexdata.org/the-social-security-contributions-republic-of-india-order-2026/)** — `2026-03-10` | `20 Pages`
+- `[`UKSI-2026-246`]` **[The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026](https://www.indexdata.org/the-social-security-scotland-act-2018-carers-assistance-consequential-modifications-order-2026/)** — `2026-03-03` | `20 Pages`
+- `[`UKSI-2026-212`]` **[The Social Security Revaluation of Earnings Factors Order 2026](https://www.indexdata.org/the-social-security-revaluation-of-earnings-factors-order-2026/)** — `2026-03-03` | `8 Pages`
+- `[`UKSI-2026-201`]` **[The Social Security and Statutory Maternity Pay (Evidence of Pregnancy and Compensation of Employers) (Amendment) Regulations 2026](https://www.indexdata.org/the-social-security-and-statutory-maternity-pay-evidence-of-pregnancy-and-compensation-of-employers-amendment-regulations-2026/)** — `2026-03-02` | `8 Pages`
+- `[`UKSI-2026-191`]` **[The Social Security (Contributions) (Amendment) Regulations 2026](https://www.indexdata.org/the-social-security-contributions-amendment-regulations-2026/)** — `2026-02-27` | `2 Pages`
+- `[`UKSI-2026-6`]` **[The Universal Credit (Transitional Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-universal-credit-transitional-provisions-amendment-regulations-2026/)** — `2026-01-06` | `4 Pages`
+- `[`UKSI-2025-1220`]` **[The State Pension Debits and Credits (Revaluation) Order 2025](https://www.indexdata.org/the-state-pension-debits-and-credits-revaluation-order-2025/)** — `2025-11-25` | `4 Pages`
+- `[`UKSI-2025-1221`]` **[The Biocidal Products (Data Protection Periods) (Amendment) Regulations 2025](https://www.indexdata.org/the-biocidal-products-data-protection-periods-amendment-regulations-2025/)** — `2025-11-24` | `2 Pages`
+- `[`UKSI-2025-1148`]` **[The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) Order 2025](https://www.indexdata.org/the-welfare-reform-act-2012-commencement-no-35-abolition-of-benefits-order-2025/)** — `2025-10-29` | `16 Pages`
+- `[`UKSI-2025-1132`]` **[The Social Security (Contributions) (Amendment No. 7) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-7-regulations-2025/)** — `2025-10-28` | `4 Pages`
+- `[`UKSI-2025-1089`]` **[The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025](https://www.indexdata.org/the-social-security-scotland-cross-border-consequential-amendment-and-transitional-provision-regulations-2025/)** — `2025-10-14` | `24 Pages`
+- `[`UKPGA-2025-22`]` **[Universal Credit Act 2025](https://www.indexdata.org/universal-credit-act-2025/)** — `2025-09-03` | `21 Pages`
+- `[`UKSI-2025-969`]` **[The Social Fund Winter Fuel Payment Regulations 2025](https://www.indexdata.org/the-social-fund-winter-fuel-payment-regulations-2025/)** — `2025-08-22` | `8 Pages`
+- `[`UKSI-2025-884`]` **[The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025](https://www.indexdata.org/the-social-security-habitual-residence-past-presence-and-temporary-absence-amendment-regulations-2025/)** — `2025-07-17` | `20 Pages`
+- `[`UKSI-2025-865`]` **[The Social Security (Contributions) (Amendment No. 6) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-6-regulations-2025/)** — `2025-07-15` | `4 Pages`
+- `[`UKSI-2025-580`]` **[The Retained EU Law (Revocation and Reform) Act 2023 (Social Security Co-ordination) (Compatibility) Regulations 2025](https://www.indexdata.org/the-retained-eu-law-revocation-and-reform-act-2023-social-security-co-ordination-compatibility-regulations-2025/)** — `2025-05-13` | `4 Pages`
+- `[`UKSI-2025-352`]` **[The Social Security Benefits Up-rating Regulations 2025 (revoked)](https://www.indexdata.org/the-social-security-benefits-up-rating-regulations-2025-revoked/)** — `2025-03-14` | `4 Pages`
+- `[`UKSI-2025-350`]` **[The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-decisions-and-appeals-amendment-regulations-2025/)** — `2025-03-13` | `4 Pages`
+- `[`UKSI-2025-347`]` **[The Pneumoconiosis etc. (Workers’ Compensation) (Payment of Claims) (Amendment) Regulations 2025](https://www.indexdata.org/the-pneumoconiosis-etc-workers-compensation-payment-of-claims-amendment-regulations-2025/)** — `2025-03-12` | `8 Pages`
+- `[`UKSI-2025-341`]` **[The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2025](https://www.indexdata.org/the-mesothelioma-lump-sum-payments-conditions-and-amounts-amendment-regulations-2025/)** — `2025-03-12` | `8 Pages`
+- `[`UKSI-2025-337`]` **[The Guardian’s Allowance Up-rating Regulations 2025](https://www.indexdata.org/the-guardians-allowance-up-rating-regulations-2025/)** — `2025-03-11` | `4 Pages`
+- `[`UKSI-2025-325`]` **[The Social Security (Contributions) (Amendment No. 3) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-3-regulations-2025/)** — `2025-03-11` | `4 Pages`
+- `[`UKSI-2025-321`]` **[The Social Security (Contributions) (Amendment No. 2) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-2-regulations-2025/)** — `2025-03-10` | `2 Pages`
+- `[`UKSI-2025-318`]` **[The Social Security (Contributions) (Re-rating) Consequential Amendment Regulations 2025](https://www.indexdata.org/the-social-security-contributions-re-rating-consequential-amendment-regulations-2025/)** — `2025-03-10` | `4 Pages`
+- `[`UKSI-2025-328`]` **[The Social Security (Contributions) (Amendment No. 4) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-4-regulations-2025/)** — `2025-03-03` | `4 Pages`
+- `[`UKSI-2025-144`]` **[The Social Security (Contributions) (Amendment) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-regulations-2025/)** — `2025-02-10` | `2 Pages`
+- `[`UKSI-2025-44`]` **[The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025](https://www.indexdata.org/the-social-security-income-and-capital-disregards-amendment-regulations-2025/)** — `2025-01-17` | `8 Pages`
+- `[`UKSI-2025-3`]` **[The Social Security (Miscellaneous Amendments) Regulations 2025](https://www.indexdata.org/the-social-security-miscellaneous-amendments-regulations-2025/)** — `2025-01-03` | `8 Pages`
+- `[`UKSI-2024-1208`]` **[The State Pension Debits and Credits (Revaluation) Order 2024](https://www.indexdata.org/the-state-pension-debits-and-credits-revaluation-order-2024/)** — `2024-11-21` | `4 Pages`
+- `[`UKSI-2024-1092`]` **[The Income-related Benefits (Subsidy to Authorities) Amendment Order 2024](https://www.indexdata.org/the-income-related-benefits-subsidy-to-authorities-amendment-order-2024/)** — `2024-11-04` | `20 Pages`
+- `[`UKSI-2024-1048`]` **[The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Modifications) Order 2024](https://www.indexdata.org/the-social-security-scotland-act-2018-disability-assistance-consequential-modifications-order-2024/)** — `2024-10-18` | `8 Pages`
+- `[`UKSI-2024-989`]` **[The Scotland Act 1998 (Agency Arrangements) (Specification) Order 2024](https://www.indexdata.org/the-scotland-act-1998-agency-arrangements-specification-order-2024/)** — `2024-10-02` | `4 Pages`
+- `[`UKSI-2024-964`]` **[The Social Security (Infected Blood Capital Disregard) (Amendment) Regulations 2024](https://www.indexdata.org/the-social-security-infected-blood-capital-disregard-amendment-regulations-2024/)** — `2024-09-18` | `4 Pages`
+- `[`UKSI-2024-936`]` **[The Social Security (Genuine and Sufficient Link to the United Kingdom) (Amendment) Regulations 2024](https://www.indexdata.org/the-social-security-genuine-and-sufficient-link-to-the-united-kingdom-amendment-regulations-2024/)** — `2024-09-10` | `4 Pages`
+- `[`UKSI-2024-919`]` **[The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024](https://www.indexdata.org/the-social-security-scotland-act-2018-disability-assistance-consequential-amendments-order-2024/)** — `2024-09-09` | `28 Pages`
+- `[`UKSI-2024-898`]` **[The Social Fund Winter Fuel Payment (Amendment) Regulations 2024](https://www.indexdata.org/the-social-fund-winter-fuel-payment-amendment-regulations-2024/)** — `2024-09-03` | `2 Pages`
+- `[`UKSI-2024-896`]` **[The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024](https://www.indexdata.org/the-ionising-radiation-medical-exposure-amendment-regulations-2024/)** — `2024-09-02` | `16 Pages`
+- `[`UKSI-2024-869`]` **[The Social Fund Winter Fuel Payment Regulations 2024 (revoked)](https://www.indexdata.org/the-social-fund-winter-fuel-payment-regulations-2024-revoked/)** — `2024-08-22` | `12 Pages`
+- `[`UKSI-2024-822`]` **[The Social Security (Contributions) (Amendment No. 4) Regulations 2024](https://www.indexdata.org/the-social-security-contributions-amendment-no-4-regulations-2024/)** — `2024-07-25` | `4 Pages`
+- `[`UKSI-2024-611`]` **[The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024](https://www.indexdata.org/the-social-security-state-pension-age-claimants-closure-of-tax-credits-amendment-regulations-2024/)** — `2024-05-07` | `16 Pages`
+- `[`UKSI-2024-604`]` **[The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions) (Amendment) Order 2024](https://www.indexdata.org/the-welfare-reform-act-2012-commencement-no-31-and-savings-and-transitional-provisions-amendment-order-2024/)** — `2024-05-07` | `2 Pages`
+- `[`UKSI-2024-536`]` **[The Universal Credit (Administrative Earnings Threshold) (Amendment) (No. 2) Regulations 2024](https://www.indexdata.org/the-universal-credit-administrative-earnings-threshold-amendment-no-2-regulations-2024/)** — `2024-04-19` | `2 Pages`
+- `[`UKSI-2024-529`]` **[The Universal Credit (Administrative Earnings Threshold) (Amendment) Regulations 2024 (revoked)](https://www.indexdata.org/the-universal-credit-administrative-earnings-threshold-amendment-regulations-2024-revoked/)** — `2024-04-12` | `2 Pages`
+- `[`UKSI-2024-386`]` **[The Social Security Benefits Up-rating Regulations 2024 (revoked)](https://www.indexdata.org/the-social-security-benefits-up-rating-regulations-2024-revoked/)** — `2024-03-15` | `4 Pages`
+- `[`UKSI-2024-377`]` **[The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024](https://www.indexdata.org/the-social-security-class-2-national-insurance-contributions-consequential-amendments-and-savings-regulations-2024/)** — `2024-03-14` | `12 Pages`
+- `[`UKSI-2024-149`]` **[The Social Security (Gibraltar) Order 2024](https://www.indexdata.org/the-social-security-gibraltar-order-2024/)** — `2024-02-21` | `48 Pages`
+- `[`UKSI-2024-159`]` **[The Universal Credit (Work-Related Requirements) In Work Pilot Scheme (Extension) Order 2024](https://www.indexdata.org/the-universal-credit-work-related-requirements-in-work-pilot-scheme-extension-order-2024/)** — `2024-02-15` | `2 Pages`
+- `[`UKSI-2024-22`]` **[The Justification Decision (Scientific Age Imaging) Regulations 2024](https://www.indexdata.org/the-justification-decision-scientific-age-imaging-regulations-2024/)** — `2024-01-08` | `4 Pages`
+
 ### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 
@@ -1490,60 +1550,10 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2024-62`]` **[The Criminal Procedure (Amendment) Rules 2024](https://www.indexdata.org/the-criminal-procedure-amendment-rules-2024/)** — `2024-01-18` | `36 Pages`
 - `[`UKSI-2024-58`]` **[The Criminal Legal Aid (General) (Amendment) Regulations 2024](https://www.indexdata.org/the-criminal-legal-aid-general-amendment-regulations-2024/)** — `2024-01-16` | `2 Pages`
 
-### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
-
-- `[`UKSI-2026-246`]` **[The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026](https://www.indexdata.org/the-social-security-scotland-act-2018-carers-assistance-consequential-modifications-order-2026/)** — `2026-03-03` | `20 Pages`
-- `[`UKSI-2026-212`]` **[The Social Security Revaluation of Earnings Factors Order 2026](https://www.indexdata.org/the-social-security-revaluation-of-earnings-factors-order-2026/)** — `2026-03-03` | `8 Pages`
-- `[`UKSI-2026-201`]` **[The Social Security and Statutory Maternity Pay (Evidence of Pregnancy and Compensation of Employers) (Amendment) Regulations 2026](https://www.indexdata.org/the-social-security-and-statutory-maternity-pay-evidence-of-pregnancy-and-compensation-of-employers-amendment-regulations-2026/)** — `2026-03-02` | `8 Pages`
-- `[`UKSI-2026-191`]` **[The Social Security (Contributions) (Amendment) Regulations 2026](https://www.indexdata.org/the-social-security-contributions-amendment-regulations-2026/)** — `2026-02-27` | `2 Pages`
-- `[`UKSI-2026-6`]` **[The Universal Credit (Transitional Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-universal-credit-transitional-provisions-amendment-regulations-2026/)** — `2026-01-06` | `4 Pages`
-- `[`UKSI-2025-1220`]` **[The State Pension Debits and Credits (Revaluation) Order 2025](https://www.indexdata.org/the-state-pension-debits-and-credits-revaluation-order-2025/)** — `2025-11-25` | `4 Pages`
-- `[`UKSI-2025-1221`]` **[The Biocidal Products (Data Protection Periods) (Amendment) Regulations 2025](https://www.indexdata.org/the-biocidal-products-data-protection-periods-amendment-regulations-2025/)** — `2025-11-24` | `2 Pages`
-- `[`UKSI-2025-1148`]` **[The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) Order 2025](https://www.indexdata.org/the-welfare-reform-act-2012-commencement-no-35-abolition-of-benefits-order-2025/)** — `2025-10-29` | `16 Pages`
-- `[`UKSI-2025-1132`]` **[The Social Security (Contributions) (Amendment No. 7) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-7-regulations-2025/)** — `2025-10-28` | `4 Pages`
-- `[`UKSI-2025-1089`]` **[The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025](https://www.indexdata.org/the-social-security-scotland-cross-border-consequential-amendment-and-transitional-provision-regulations-2025/)** — `2025-10-14` | `24 Pages`
-- `[`UKPGA-2025-22`]` **[Universal Credit Act 2025](https://www.indexdata.org/universal-credit-act-2025/)** — `2025-09-03` | `21 Pages`
-- `[`UKSI-2025-969`]` **[The Social Fund Winter Fuel Payment Regulations 2025](https://www.indexdata.org/the-social-fund-winter-fuel-payment-regulations-2025/)** — `2025-08-22` | `8 Pages`
-- `[`UKSI-2025-884`]` **[The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025](https://www.indexdata.org/the-social-security-habitual-residence-past-presence-and-temporary-absence-amendment-regulations-2025/)** — `2025-07-17` | `20 Pages`
-- `[`UKSI-2025-865`]` **[The Social Security (Contributions) (Amendment No. 6) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-6-regulations-2025/)** — `2025-07-15` | `4 Pages`
-- `[`UKSI-2025-580`]` **[The Retained EU Law (Revocation and Reform) Act 2023 (Social Security Co-ordination) (Compatibility) Regulations 2025](https://www.indexdata.org/the-retained-eu-law-revocation-and-reform-act-2023-social-security-co-ordination-compatibility-regulations-2025/)** — `2025-05-13` | `4 Pages`
-- `[`UKSI-2025-352`]` **[The Social Security Benefits Up-rating Regulations 2025 (revoked)](https://www.indexdata.org/the-social-security-benefits-up-rating-regulations-2025-revoked/)** — `2025-03-14` | `4 Pages`
-- `[`UKSI-2025-350`]` **[The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-decisions-and-appeals-amendment-regulations-2025/)** — `2025-03-13` | `4 Pages`
-- `[`UKSI-2025-347`]` **[The Pneumoconiosis etc. (Workers’ Compensation) (Payment of Claims) (Amendment) Regulations 2025](https://www.indexdata.org/the-pneumoconiosis-etc-workers-compensation-payment-of-claims-amendment-regulations-2025/)** — `2025-03-12` | `8 Pages`
-- `[`UKSI-2025-341`]` **[The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2025](https://www.indexdata.org/the-mesothelioma-lump-sum-payments-conditions-and-amounts-amendment-regulations-2025/)** — `2025-03-12` | `8 Pages`
-- `[`UKSI-2025-337`]` **[The Guardian’s Allowance Up-rating Regulations 2025](https://www.indexdata.org/the-guardians-allowance-up-rating-regulations-2025/)** — `2025-03-11` | `4 Pages`
-- `[`UKSI-2025-325`]` **[The Social Security (Contributions) (Amendment No. 3) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-3-regulations-2025/)** — `2025-03-11` | `4 Pages`
-- `[`UKSI-2025-321`]` **[The Social Security (Contributions) (Amendment No. 2) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-2-regulations-2025/)** — `2025-03-10` | `2 Pages`
-- `[`UKSI-2025-318`]` **[The Social Security (Contributions) (Re-rating) Consequential Amendment Regulations 2025](https://www.indexdata.org/the-social-security-contributions-re-rating-consequential-amendment-regulations-2025/)** — `2025-03-10` | `4 Pages`
-- `[`UKSI-2025-328`]` **[The Social Security (Contributions) (Amendment No. 4) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-no-4-regulations-2025/)** — `2025-03-03` | `4 Pages`
-- `[`UKSI-2025-144`]` **[The Social Security (Contributions) (Amendment) Regulations 2025](https://www.indexdata.org/the-social-security-contributions-amendment-regulations-2025/)** — `2025-02-10` | `2 Pages`
-- `[`UKSI-2025-44`]` **[The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025](https://www.indexdata.org/the-social-security-income-and-capital-disregards-amendment-regulations-2025/)** — `2025-01-17` | `8 Pages`
-- `[`UKSI-2025-3`]` **[The Social Security (Miscellaneous Amendments) Regulations 2025](https://www.indexdata.org/the-social-security-miscellaneous-amendments-regulations-2025/)** — `2025-01-03` | `8 Pages`
-- `[`UKSI-2024-1208`]` **[The State Pension Debits and Credits (Revaluation) Order 2024](https://www.indexdata.org/the-state-pension-debits-and-credits-revaluation-order-2024/)** — `2024-11-21` | `4 Pages`
-- `[`UKSI-2024-1092`]` **[The Income-related Benefits (Subsidy to Authorities) Amendment Order 2024](https://www.indexdata.org/the-income-related-benefits-subsidy-to-authorities-amendment-order-2024/)** — `2024-11-04` | `20 Pages`
-- `[`UKSI-2024-1048`]` **[The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Modifications) Order 2024](https://www.indexdata.org/the-social-security-scotland-act-2018-disability-assistance-consequential-modifications-order-2024/)** — `2024-10-18` | `8 Pages`
-- `[`UKSI-2024-989`]` **[The Scotland Act 1998 (Agency Arrangements) (Specification) Order 2024](https://www.indexdata.org/the-scotland-act-1998-agency-arrangements-specification-order-2024/)** — `2024-10-02` | `4 Pages`
-- `[`UKSI-2024-964`]` **[The Social Security (Infected Blood Capital Disregard) (Amendment) Regulations 2024](https://www.indexdata.org/the-social-security-infected-blood-capital-disregard-amendment-regulations-2024/)** — `2024-09-18` | `4 Pages`
-- `[`UKSI-2024-936`]` **[The Social Security (Genuine and Sufficient Link to the United Kingdom) (Amendment) Regulations 2024](https://www.indexdata.org/the-social-security-genuine-and-sufficient-link-to-the-united-kingdom-amendment-regulations-2024/)** — `2024-09-10` | `4 Pages`
-- `[`UKSI-2024-919`]` **[The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024](https://www.indexdata.org/the-social-security-scotland-act-2018-disability-assistance-consequential-amendments-order-2024/)** — `2024-09-09` | `28 Pages`
-- `[`UKSI-2024-898`]` **[The Social Fund Winter Fuel Payment (Amendment) Regulations 2024](https://www.indexdata.org/the-social-fund-winter-fuel-payment-amendment-regulations-2024/)** — `2024-09-03` | `2 Pages`
-- `[`UKSI-2024-896`]` **[The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2024](https://www.indexdata.org/the-ionising-radiation-medical-exposure-amendment-regulations-2024/)** — `2024-09-02` | `16 Pages`
-- `[`UKSI-2024-869`]` **[The Social Fund Winter Fuel Payment Regulations 2024 (revoked)](https://www.indexdata.org/the-social-fund-winter-fuel-payment-regulations-2024-revoked/)** — `2024-08-22` | `12 Pages`
-- `[`UKSI-2024-822`]` **[The Social Security (Contributions) (Amendment No. 4) Regulations 2024](https://www.indexdata.org/the-social-security-contributions-amendment-no-4-regulations-2024/)** — `2024-07-25` | `4 Pages`
-- `[`UKSI-2024-611`]` **[The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024](https://www.indexdata.org/the-social-security-state-pension-age-claimants-closure-of-tax-credits-amendment-regulations-2024/)** — `2024-05-07` | `16 Pages`
-- `[`UKSI-2024-604`]` **[The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions) (Amendment) Order 2024](https://www.indexdata.org/the-welfare-reform-act-2012-commencement-no-31-and-savings-and-transitional-provisions-amendment-order-2024/)** — `2024-05-07` | `2 Pages`
-- `[`UKSI-2024-536`]` **[The Universal Credit (Administrative Earnings Threshold) (Amendment) (No. 2) Regulations 2024](https://www.indexdata.org/the-universal-credit-administrative-earnings-threshold-amendment-no-2-regulations-2024/)** — `2024-04-19` | `2 Pages`
-- `[`UKSI-2024-529`]` **[The Universal Credit (Administrative Earnings Threshold) (Amendment) Regulations 2024 (revoked)](https://www.indexdata.org/the-universal-credit-administrative-earnings-threshold-amendment-regulations-2024-revoked/)** — `2024-04-12` | `2 Pages`
-- `[`UKSI-2024-386`]` **[The Social Security Benefits Up-rating Regulations 2024 (revoked)](https://www.indexdata.org/the-social-security-benefits-up-rating-regulations-2024-revoked/)** — `2024-03-15` | `4 Pages`
-- `[`UKSI-2024-377`]` **[The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024](https://www.indexdata.org/the-social-security-class-2-national-insurance-contributions-consequential-amendments-and-savings-regulations-2024/)** — `2024-03-14` | `12 Pages`
-- `[`UKSI-2024-149`]` **[The Social Security (Gibraltar) Order 2024](https://www.indexdata.org/the-social-security-gibraltar-order-2024/)** — `2024-02-21` | `48 Pages`
-- `[`UKSI-2024-159`]` **[The Universal Credit (Work-Related Requirements) In Work Pilot Scheme (Extension) Order 2024](https://www.indexdata.org/the-universal-credit-work-related-requirements-in-work-pilot-scheme-extension-order-2024/)** — `2024-02-15` | `2 Pages`
-- `[`UKSI-2024-22`]` **[The Justification Decision (Scientific Age Imaging) Regulations 2024](https://www.indexdata.org/the-justification-decision-scientific-age-imaging-regulations-2024/)** — `2024-01-08` | `4 Pages`
-
 ### [Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-defence/](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 
+- `[`UKSI-2026-286`]` **[The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2026](https://www.indexdata.org/the-protection-of-military-remains-act-1986-designation-of-vessels-and-controlled-sites-order-2026/)** — `2026-03-09` | `8 Pages`
 - `[`UKSI-2026-24`]` **[The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026](https://www.indexdata.org/the-armed-forces-commissioner-service-complaints-investigations-regulations-2026/)** — `2026-01-08` | `12 Pages`
 - `[`UKSI-2026-14`]` **[The Armed Forces Commissioner Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026](https://www.indexdata.org/the-armed-forces-commissioner-act-2025-commencement-no-1-and-transitional-and-saving-provisions-regulations-2026/)** — `2026-01-08` | `4 Pages`
 - `[`UKSI-2026-21`]` **[The Armed Forces (Service Complaints) (Amendment) Regulations 2026](https://www.indexdata.org/the-armed-forces-service-complaints-amendment-regulations-2026/)** — `2026-01-07` | `2 Pages`

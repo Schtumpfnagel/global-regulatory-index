@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `397` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-16 07:48 UTC`
+**Total Indexed Dossiers in Philippines:** `398` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-16 08:55 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
-- **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
+- **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
 - **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–397 of 397)
+## Indexed Statutory & Regulatory Dossiers (Records 1–398 of 398)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -340,6 +340,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-inv
 ### [Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-development-authority/](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 
+- `[`PH-CDA-71544`]` **[CDA REGION V NGPA Indicative-Final-Updated-APP .xlsx – APP VS 2 – Melvin Astibe](https://www.indexdata.org/cda-region-v-ngpa-indicative-final-updated-app-xlsx-app-vs-2-melvin-astibe/)** — `2026-11-16` | `3 Pages`
 - `[`PH-CDA-71185`]` **[RFQ Procurement of Full board Accommodation Services – Koronadal Sept 27-Oct 2](https://www.indexdata.org/rfq-procurement-of-full-board-accommodation-services-koronadal-sept-27-oct-2/)** — `2026-10-23` | `3 Pages`
 - `[`PH-CDA-71184`]` **[RFQ Procurement of Full board Accommodation Services – KIDAPAWAN Oct 19-21, 2026](https://www.indexdata.org/rfq-procurement-of-full-board-accommodation-services-kidapawan-oct-19-21-2026/)** — `2026-10-23` | `3 Pages`
 - `[`PH-CDA-71183`]` **[RFQ Procurement of Venue, Meals and Accommodation Services – Koronadal Oct 26-28](https://www.indexdata.org/rfq-procurement-of-venue-meals-and-accommodation-services-koronadal-oct-26-28/)** — `2026-10-23` | `3 Pages`
