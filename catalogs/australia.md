@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
 **Total Indexed Dossiers in Australia:** `1,305` across `50` issuing authorities  
-**Last Automated Sync:** `2026-11-16 08:55 UTC`
+**Last Automated Sync:** `2026-11-16 09:57 UTC`
 
 ---
 

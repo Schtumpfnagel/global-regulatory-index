@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,107` across `23` issuing authorities  
-**Last Automated Sync:** `2026-11-16 08:55 UTC`
+**Total Indexed Dossiers in International:** `1,108` across `23` issuing authorities  
+**Last Automated Sync:** `2026-11-16 09:57 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`166` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`104` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
-- **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`77` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
+- **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`78` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
@@ -37,7 +37,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,107 of 1,107)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,108 of 1,108)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -834,6 +834,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-c
 - `[`ECDC-DOC-PROTOCOL-CARBAPENEM-RESISTANT-ENTEROBACTER-CLOAC`]` **[Protocol for the carbapenem-resistant Enterobacter cloacae complex (CRECC) pilot survey](https://www.indexdata.org/protocol-for-the-carbapenem-resistant-enterobacter-cloacae-complex-crecc-pilot-survey/)** — `2026-10-13` | `11 Pages`
 - `[`ECDC-CELLAR-6CD27C8B-C83D-11F1-A77B-01AA75ED71A1`]` **[Protocol for the carbapenem-resistant Enterobacter cloacae complex (CRECC) pilot survey](https://www.indexdata.org/protocol-for-the-carbapenem-resistant-enterobacter-cloacae-complex-crecc-pilot-survey-2/)** — `2026-10-13` | `11 Pages`
 - `[`ECDC-CELLAR-30FFC0D6-C77E-11F1-A77B-01AA75ED71A1`]` **[Country report : public health emergency preparedness assessment for the Czech Republic, 2026 : under Article 8 of the Regulation (EU) 2022/2371](https://www.indexdata.org/country-report-public-health-emergency-preparedness-assessment-for-the-czech-republic-2026-under-article-8-of-the-regulation-eu-2022-2371/)** — `2026-10-13` | `35 Pages`
+- `[`ECDC-DOC-HANDBOOK-LABORATORY-PROTOCOLS-RESPIRATORY-SYNCYT`]` **[Handbook of laboratory protocols for respiratory syncytial virus (RSV) characterisation](https://www.indexdata.org/handbook-of-laboratory-protocols-for-respiratory-syncytial-virus-rsv-characterisation/)** — `2026-10-12` | `29 Pages`
 - `[`ECDC-CELLAR-A129C6BE-C6AC-11F1-BFCB-01AA75ED71A1`]` **[Multi-model assessment of the impact of newborn RSV immunisation on hospitalisation burden in the EU/EEA : scenario projections from the 2025/26 RespiCompass RSV round : assessment](https://www.indexdata.org/multi-model-assessment-of-the-impact-of-newborn-rsv-immunisation-on-hospitalisation-burden-in-the-eu-eea-scenario-projections-from-the-2025-26-respicompass-rsv-round-assessment/)** — `2026-10-12` | `15 Pages`
 - `[`ECDC-CELLAR-10CCB9BF-C6AD-11F1-BFCB-01AA75ED71A1`]` **[Handbook of laboratory protocols for respiratory syncytial virus (RSV) characterisation : ECDC operational support : October 2026](https://www.indexdata.org/handbook-of-laboratory-protocols-for-respiratory-syncytial-virus-rsv-characterisation-ecdc-operational-support-october-2026/)** — `2026-10-12` | `29 Pages`
 - `[`ECDC-CELLAR-3EF15DE6-C388-11F1-BFCB-01AA75ED71A1`]` **[Zoonotic influenza A(H5) vaccination in humans in the EU/EEA : data from an ECDC Survey, May 2026 : assessment](https://www.indexdata.org/zoonotic-influenza-ah5-vaccination-in-humans-in-the-eu-eea-data-from-an-ecdc-survey-may-2026-assessment/)** — `2026-10-07` | `9 Pages`

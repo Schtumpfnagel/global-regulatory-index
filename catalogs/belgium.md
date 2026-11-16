@@ -5,20 +5,20 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/belgium/feed/](https://www.indexdata.org/belgium/feed/)  
 **Wikidata Sovereign Entity:** [`Q31`](https://www.wikidata.org/wiki/Q31)  
 **Governing Open-Government Framework:** *Koninklijk besluit van 2 juni 2019 betreffende het hergebruik van overheidsinformatie & Code de droit économique / Wetboek van economisch recht, Art. XI.172*  
-**Total Indexed Dossiers in Belgium:** `70` across `30` issuing authorities  
-**Last Automated Sync:** `2026-11-16 08:55 UTC`
+**Total Indexed Dossiers in Belgium:** `71` across `30` issuing authorities  
+**Last Automated Sync:** `2026-11-16 09:57 UTC`
 
 ---
 
 ## Issuing Authorities in Belgium (30 Authorities)
 
 - **[Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
+- **[Research Institute for Nature and Forest (INBO)](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/feed/)
 - **[Belgian Health Care Knowledge Centre (KCE)](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/feed/)
 - **[Flemish Peace Institute](https://www.indexdata.org/belgium/flemish-peace-institute/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-peace-institute/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-peace-institute/feed/)
 - **[Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
 - **[Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
 - **[RIZIV](https://www.indexdata.org/belgium/riziv/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
-- **[Research Institute for Nature and Forest (INBO)](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/feed/)
 - **[Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)
 - **[Belgian Federal Science Policy Office (BELSPO)](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/feed/)
 - **[Flemish Institute for Technological Research (VITO)](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–70 of 70)
+## Indexed Statutory & Regulatory Dossiers (Records 1–71 of 71)
 
 ### [Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
@@ -72,6 +72,14 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgia
 - `[`BE-SCIENSANO-13134`]` **[Wastewater-based epidemiological surveillance - Weekly report 2026 week 40](https://www.indexdata.org/wastewater-based-epidemiological-surveillance-weekly-report-2026-week-40/)** — `2026-10-05` | `29 Pages`
 - `[`BE-SCIENSANO-13087`]` **[Advancing cancer care for adolescents and young adults: the role of the European Network of Expertise](https://www.indexdata.org/advancing-cancer-care-for-adolescents-and-young-adults-the-role-of-the-european-network-of-expertise/)** — `2026-09-23` | `5 Pages`
 - `[`BE-OA-W4210328293`]` **[A Journey of Evaluation and Impact Measurement](https://www.indexdata.org/a-journey-of-evaluation-and-impact-measurement/)** — `2021-01-01` | `36 Pages`
+
+### [Research Institute for Nature and Forest (INBO)](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/feed/)
+
+- `[`BE-ZEN-INBO-20485001`]` **[DUNe restoration by tackling Invasive Alien Species: Results and materials from the LIFE DUNIAS final conference](https://www.indexdata.org/dune-restoration-by-tackling-invasive-alien-species-results-and-materials-from-the-life-dunias-final-conference/)** — `2026-06-01` | `11 Pages`
+- `[`BE-ZEN-FWO-ACT-18653024`]` **[Long-term monitoring data for Carbon Farming](https://www.indexdata.org/long-term-monitoring-data-for-carbon-farming/)** — `2026-02-19` | `47 Pages`
+- `[`BE-ZEN-POA-15006587`]` **[A demarcation of risk categories for invasion risk assessments using the Harmonia+ protocol](https://www.indexdata.org/a-demarcation-of-risk-categories-for-invasion-risk-assessments-using-the-harmonia-protocol/)** — `2025-03-11` | `8 Pages`
+- `[`BE-ZEN-JUST2-12513955`]` **[An annotated list of datasets on aquatic invasive alien rodents and their management mobilised through the LIFE MICA (Management of Invasive Coypu and MuskrAt in Europe) project](https://www.indexdata.org/an-annotated-list-of-datasets-on-aquatic-invasive-alien-rodents-and-their-management-mobilised-through-the-life-mica-management-of-invasive-coypu-and-muskrat-in-europe-project/)** — `2024-06-24` | `5 Pages`
 
 ### [Belgian Health Care Knowledge Centre (KCE)](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/feed/)
@@ -107,13 +115,6 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/riziv/](https://
 - `[`BE-ODP-d7a434aa-88b6-4caa-9bc0-17b8c7123699`]` **[Unidirectional endobronchial valve for the treatment of pulmonary emphysema](https://www.indexdata.org/unidirectional-endobronchial-valve-for-the-treatment-of-pulmonary-emphysema/)** — `2026-08-11` | `9 Pages`
 - `[`BE-ODP-cec7a140-caec-4fa9-8af2-827a0804ee32`]` **[Quality Electronic Registration of Medical acts, Implants and Devices: Orthopedic Prosthesis Identification Data](https://www.indexdata.org/quality-electronic-registration-of-medical-acts-implants-and-devices-orthopedic-prosthesis-identification-data/)** — `2026-08-11` | `11 Pages`
 - `[`BE-ODP-911cb14c-129b-4336-9c16-518d365c5a31`]` **[Quality Electronic Registration of Medical acts, Implants and Devices: Orthopedic Prosthesis Identification Data: Hip](https://www.indexdata.org/quality-electronic-registration-of-medical-acts-implants-and-devices-orthopedic-prosthesis-identification-data-hip/)** — `2026-08-11` | `11 Pages`
-
-### [Research Institute for Nature and Forest (INBO)](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/feed/)
-
-- `[`BE-ZEN-INBO-20485001`]` **[DUNe restoration by tackling Invasive Alien Species: Results and materials from the LIFE DUNIAS final conference](https://www.indexdata.org/dune-restoration-by-tackling-invasive-alien-species-results-and-materials-from-the-life-dunias-final-conference/)** — `2026-06-01` | `11 Pages`
-- `[`BE-ZEN-POA-15006587`]` **[A demarcation of risk categories for invasion risk assessments using the Harmonia+ protocol](https://www.indexdata.org/a-demarcation-of-risk-categories-for-invasion-risk-assessments-using-the-harmonia-protocol/)** — `2025-03-11` | `8 Pages`
-- `[`BE-ZEN-JUST2-12513955`]` **[An annotated list of datasets on aquatic invasive alien rodents and their management mobilised through the LIFE MICA (Management of Invasive Coypu and MuskrAt in Europe) project](https://www.indexdata.org/an-annotated-list-of-datasets-on-aquatic-invasive-alien-rodents-and-their-management-mobilised-through-the-life-mica-management-of-invasive-coypu-and-muskrat-in-europe-project/)** — `2024-06-24` | `5 Pages`
 
 ### [Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)

@@ -5,23 +5,24 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/iceland/feed/](https://www.indexdata.org/iceland/feed/)  
 **Wikidata Sovereign Entity:** [`Q189`](https://www.wikidata.org/wiki/Q189)  
 **Governing Open-Government Framework:** *Lög nr. 45/2018*  
-**Total Indexed Dossiers in Iceland:** `14` across `2` issuing authorities  
-**Last Automated Sync:** `2026-11-16 08:55 UTC`
+**Total Indexed Dossiers in Iceland:** `15` across `2` issuing authorities  
+**Last Automated Sync:** `2026-11-16 09:57 UTC`
 
 ---
 
 ## Issuing Authorities in Iceland (2 Authorities)
 
-- **[Icelandic Competition Authority (Samkeppniseftirlitið)](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/) | [RSS Feed](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/feed/)
+- **[Icelandic Competition Authority (Samkeppniseftirlitið)](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/) | [RSS Feed](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/feed/)
 - **[Iceland GeoSurvey (Íslenskar orkurannsóknir)](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/) | [RSS Feed](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–14 of 14)
+## Indexed Statutory & Regulatory Dossiers (Records 1–15 of 15)
 
 ### [Icelandic Competition Authority (Samkeppniseftirlitið)](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/)
 Canonical Authority Archive: [https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/) | [RSS Feed](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/feed/)
 
+- `[`IS-SAMKEPPNI-188133`]` **[Akvordun-Vex-II-og-Hedinn](https://www.indexdata.org/akvordun-vex-ii-og-hedinn/)** — `2026-11-16` | `3 Pages`
 - `[`IS-SAMKEPPNI-187911`]` **[Fjarskipti hf. gegn Símanum hf. í máli nr. E-6:17](https://www.indexdata.org/fjarskipti-hf-gegn-simanum-hf-i-mali-nr-e-617/)** — `2026-10-29` | `20 Pages`
 - `[`IS-SAMKEPPNI-187905`]` **[Sorpa bs. gegn Samkeppniseftirlitinu í máli nr. E-29:15](https://www.indexdata.org/sorpa-bs-gegn-samkeppniseftirlitinu-i-mali-nr-e-2915/)** — `2026-10-28` | `25 Pages`
 - `[`IS-SAMKEPPNI-187900`]` **[Wow air ehf. gegn Samkeppniseftirlitinu, Isavia ohf. og Icelandair ehf. í máli nr. E-18:14](https://www.indexdata.org/wow-air-ehf-gegn-samkeppniseftirlitinu-isavia-ohf-og-icelandair-ehf-i-mali-nr-e-1814/)** — `2026-10-28` | `20 Pages`
