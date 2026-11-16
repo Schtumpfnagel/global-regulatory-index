@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,926` across `82` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,927` across `82` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-16 12:14 UTC`
+**Last Automated Sync:** `2026-11-16 13:06 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`296` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`213` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`214` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`190` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`173` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`150` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
@@ -98,13 +98,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,926)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,927)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 
 - `[`UK-GOV-efbe2f5f-df2d-4236-8911-d3a5e6dad7f2-1`]` **[6 Beverley Court, Hounslow, TW4 5JJ: LON/00AT/MRA/2026/0085 - Relisted — TW4 5JJ_LON/00AT/MRA/2026/0085_Decision](https://www.indexdata.org/6-beverley-court-hounslow-tw4-5jj-lon-00at-mra-2026-0085-relisted-tw4-5jj_lon-00at-mra-2026-0085_decision/)** — `2026-11-16` | `8 Pages`
 - `[`UK-GOV-da5afed6-6ae7-4f26-b9b3-28fd527d7815-4`]` **[Ms C Ferlin v La Salle Education Ltd: 2301720/2025 — Ms C Ferlin v La Salle Education Ltd: 2301720/2025 - Rule 22](https://www.indexdata.org/ms-c-ferlin-v-la-salle-education-ltd-2301720-2025-ms-c-ferlin-v-la-salle-education-ltd-2301720-2025-rule-22/)** — `2026-11-16` | `4 Pages`
+- `[`UK-GOV-cf483940-a34c-401c-8d61-b0e096f08963-3`]` **[Mr S T H Shah v Manchester Airport plc: 2400509/2024 — Mr S T H Shah v Manchester Airport plc: 2400509/2024 - Remedy and Costs](https://www.indexdata.org/mr-s-t-h-shah-v-manchester-airport-plc-2400509-2024-mr-s-t-h-shah-v-manchester-airport-plc-2400509-2024-remedy-and-costs/)** — `2026-11-16` | `2 Pages`
 - `[`UK-GOV-f86bf05b-404a-4bb0-9843-a17d767bfaa8-1`]` **[First Floor Flat 9b Fairholme Road, Croydon, London,CR0 3PG : LON/00AH/OLR/2026/0403](https://www.indexdata.org/first-floor-flat-9b-fairholme-road-croydon-londoncr0-3pg-lon-00ah-olr-2026-0403/)** — `2026-11-15` | `4 Pages`
 - `[`UK-GOV-e9b27c6e-7a33-4cdb-885f-fc2f36171e9c-1`]` **[211 Munster Road, London, SW6 6BX : LON/00AN/OC9/2026/0037](https://www.indexdata.org/211-munster-road-london-sw6-6bx-lon-00an-oc9-2026-0037/)** — `2026-11-15` | `8 Pages`
 - `[`UK-GOV-e2dd1cf2-1448-435c-809d-e1f4247755ec-1`]` **[10A St. Johns Avenue, London, NW10 4EE: LON/00AE/F77/2026/0073](https://www.indexdata.org/10a-st-johns-avenue-london-nw10-4ee-lon-00ae-f77-2026-0073/)** — `2026-11-15` | `6 Pages`
@@ -1352,7 +1353,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-316`]` **[The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026](https://www.indexdata.org/the-social-security-removal-of-two-child-limit-consequential-amendments-regulations-2026/)** — `2026-03-19` | `4 Pages`
 - `[`UKPGA-2026-13`]` **[Universal Credit (Removal of Two Child Limit) Act 2026](https://www.indexdata.org/universal-credit-removal-of-two-child-limit-act-2026/)** — `2026-03-18` | `7 Pages`
 - `[`UKSI-2026-294`]` **[The Social Security (Contributions) (Amendment No. 2) Regulations 2026](https://www.indexdata.org/the-social-security-contributions-amendment-no-2-regulations-2026/)** — `2026-03-12` | `8 Pages`
-- `[`UKSI-2026-287`]` **[The Guardian’s Allowance Up-rating Regulations 2026](https://www.indexdata.org/the-guardians-allowance-up-rating-regulations-2026/)** — `2026-03-12` | `4 Pages`
 
 ### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
