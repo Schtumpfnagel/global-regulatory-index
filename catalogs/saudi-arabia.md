@@ -5,32 +5,32 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/saudi-arabia/feed/](https://www.indexdata.org/saudi-arabia/feed/)  
 **Wikidata Sovereign Entity:** [`Q851`](https://www.wikidata.org/wiki/Q851)  
 **Governing Open-Government Framework:** *National Data Governance Policies (SDAIA)*  
-**Total Indexed Dossiers in Saudi Arabia:** `43` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-16 15:03 UTC`
+**Total Indexed Dossiers in Saudi Arabia:** `44` across `3` issuing authorities  
+**Last Automated Sync:** `2026-11-16 16:02 UTC`
 
 ---
 
 ## Issuing Authorities in Saudi Arabia (3 Authorities)
 
-- **[National Cybersecurity Authority (NCA)](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/) | [RSS Feed](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/feed/)
+- **[National Cybersecurity Authority (NCA)](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/) | [RSS Feed](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/feed/)
 - **[Saudi Commission for Health Specialties (SCFHS)](https://www.indexdata.org/saudi-arabia/saudi-commission-for-health-specialties-scfhs/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/saudi-arabia/saudi-commission-for-health-specialties-scfhs/) | [RSS Feed](https://www.indexdata.org/saudi-arabia/saudi-commission-for-health-specialties-scfhs/feed/)
 - **[Shura Council (Consultative Assembly of Saudi Arabia)](https://www.indexdata.org/saudi-arabia/shura-council-consultative-assembly-of-saudi-arabia/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/saudi-arabia/shura-council-consultative-assembly-of-saudi-arabia/) | [RSS Feed](https://www.indexdata.org/saudi-arabia/shura-council-consultative-assembly-of-saudi-arabia/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–43 of 43)
+## Indexed Statutory & Regulatory Dossiers (Records 1–44 of 44)
 
 ### [National Cybersecurity Authority (NCA)](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/)
 Canonical Authority Archive: [https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/) | [RSS Feed](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/feed/)
 
-- `[`SA-NCA-telework_cybersecurity_controls-en`]` **[National Cybersecurity Authority (NCA) — Telework Cybersecurity Controls (TCC)](https://www.indexdata.org/national-cybersecurity-authority-nca-telework-cybersecurity-controls-tcc-11/)** — `2026-11-16` | `28 Pages`
-- `[`SA-NCA-scywfg_en`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Workforce Framework Guidelines (SCyWFG)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-workforce-framework-guidelines-scywfg-10/)** — `2026-11-16` | `12 Pages`
-- `[`SA-NCA-scywf_en`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Workforce Framework (SCyWF)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-workforce-framework-scywf-11/)** — `2026-11-16` | `120 Pages`
-- `[`SA-NCA-scyberedu_en`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Higher Education Framework (SCyber-Edu)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-higher-education-framework-scyber-edu-20/)** — `2026-11-16` | `114 Pages`
-- `[`SA-NCA-scyber-edug_eng`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Higher Education Framework Guidelines](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-higher-education-framework-guidelines-11/)** — `2026-11-16` | `24 Pages`
-- `[`SA-NCA-schef-en`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Higher Education Framework (SCyber-Edu)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-higher-education-framework-scyber-edu-21/)** — `2026-11-16` | `105 Pages`
-- `[`SA-NCA-sbd_en`]` **[National Cybersecurity Authority (NCA) — Secure by Design Controls (SBD)](https://www.indexdata.org/national-cybersecurity-authority-nca-secure-by-design-controls-sbd-10/)** — `2026-11-16` | `16 Pages`
-- `[`SA-NCA-qb2020q4_en`]` **[National Cybersecurity Authority (NCA) — Cybersecurity Quarterly Bulletin (2020 Q4)](https://www.indexdata.org/national-cybersecurity-authority-nca-cybersecurity-quarterly-bulletin-2020-q4-11/)** — `2026-11-16` | `12 Pages`
+- `[`SA-NCA-telework_cybersecurity_controls-en`]` **[National Cybersecurity Authority (NCA) — Telework Cybersecurity Controls (TCC)](https://www.indexdata.org/national-cybersecurity-authority-nca-telework-cybersecurity-controls-tcc-12/)** — `2026-11-16` | `28 Pages`
+- `[`SA-NCA-scywfg_en`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Workforce Framework Guidelines (SCyWFG)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-workforce-framework-guidelines-scywfg-11/)** — `2026-11-16` | `12 Pages`
+- `[`SA-NCA-scywf_en`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Workforce Framework (SCyWF)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-workforce-framework-scywf-12/)** — `2026-11-16` | `120 Pages`
+- `[`SA-NCA-scyberedu_en`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Higher Education Framework (SCyber-Edu)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-higher-education-framework-scyber-edu-22/)** — `2026-11-16` | `114 Pages`
+- `[`SA-NCA-scyber-edug_eng`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Higher Education Framework Guidelines](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-higher-education-framework-guidelines-12/)** — `2026-11-16` | `24 Pages`
+- `[`SA-NCA-schef-en`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Higher Education Framework (SCyber-Edu)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-higher-education-framework-scyber-edu-23/)** — `2026-11-16` | `105 Pages`
+- `[`SA-NCA-sbd_en`]` **[National Cybersecurity Authority (NCA) — Secure by Design Controls (SBD)](https://www.indexdata.org/national-cybersecurity-authority-nca-secure-by-design-controls-sbd-11/)** — `2026-11-16` | `16 Pages`
+- `[`SA-NCA-qb2020q4_en`]` **[National Cybersecurity Authority (NCA) — Cybersecurity Quarterly Bulletin (2020 Q4)](https://www.indexdata.org/national-cybersecurity-authority-nca-cybersecurity-quarterly-bulletin-2020-q4-12/)** — `2026-11-16` | `12 Pages`
 - `[`SA-NCA-otcc_en`]` **[National Cybersecurity Authority (NCA) — Operational Technology Cybersecurity Controls (OTCC)](https://www.indexdata.org/national-cybersecurity-authority-nca-operational-technology-cybersecurity-controls-otcc/)** — `2026-11-16` | `45 Pages`
 - `[`SA-NCA-otcc_draft_en`]` **[National Cybersecurity Authority (NCA) — Operational Technology Cybersecurity Controls (OTCC Draft)](https://www.indexdata.org/national-cybersecurity-authority-nca-operational-technology-cybersecurity-controls-otcc-draft/)** — `2026-11-16` | `33 Pages`
 - `[`SA-NCA-osmacc-en`]` **[National Cybersecurity Authority (NCA) — Organizations' Social Media Accounts Cybersecurity Controls (OSMACC)](https://www.indexdata.org/national-cybersecurity-authority-nca-organizations-social-media-accounts-cybersecurity-controls-osmacc/)** — `2026-11-16` | `23 Pages`
@@ -46,7 +46,7 @@ Canonical Authority Archive: [https://www.indexdata.org/saudi-arabia/national-cy
 - `[`SA-NCA-ccc_methodology_and_mapping_annex_en`]` **[National Cybersecurity Authority (NCA) — Cloud Cybersecurity Controls (CCC) Methodology and Mapping Annex](https://www.indexdata.org/national-cybersecurity-authority-nca-cloud-cybersecurity-controls-ccc-methodology-and-mapping-annex/)** — `2026-11-16` | `36 Pages`
 - `[`SA-NCA-ccc_methodology_and_mapping_annex_draft_en`]` **[National Cybersecurity Authority (NCA) — Cloud Cybersecurity Controls (CCC) Methodology and Mapping Annex (Draft)](https://www.indexdata.org/national-cybersecurity-authority-nca-cloud-cybersecurity-controls-ccc-methodology-and-mapping-annex-draft/)** — `2026-11-16` | `26 Pages`
 - `[`SA-NCA-ccc-en`]` **[National Cybersecurity Authority (NCA) — Cloud Cybersecurity Controls (CCC)](https://www.indexdata.org/national-cybersecurity-authority-nca-cloud-cybersecurity-controls-ccc/)** — `2026-11-16` | `48 Pages`
-- `[`SA-NCA-The_Saudi_Model_for_Strengthening_Cyber_Resilience_G20-en`]` **[National Cybersecurity Authority (NCA) — The Saudi Model for Strengthening Cyber Resilience (G20)](https://www.indexdata.org/national-cybersecurity-authority-nca-the-saudi-model-for-strengthening-cyber-resilience-g20-2/)** — `2026-11-16` | `43 Pages`
+- `[`SA-NCA-The_Saudi_Model_for_Strengthening_Cyber_Resilience_G20-en`]` **[National Cybersecurity Authority (NCA) — The Saudi Model for Strengthening Cyber Resilience (G20)](https://www.indexdata.org/national-cybersecurity-authority-nca-the-saudi-model-for-strengthening-cyber-resilience-g20-3/)** — `2026-11-16` | `43 Pages`
 - `[`SA-NCA-THE_SAUDI_MODEL_FOR_STRENGTHENING_CYBER_RESILIENCE_G20-EN`]` **[National Cybersecurity Authority (NCA) — The Saudi Model for Strengthening Cyber Resilience (G20)](https://www.indexdata.org/national-cybersecurity-authority-nca-the-saudi-model-for-strengthening-cyber-resilience-g20/)** — `2026-11-16` | `43 Pages`
 - `[`SA-NCA-TELEWORK_CYBERSECURITY_CONTROLS-EN`]` **[National Cybersecurity Authority (NCA) — Telework Cybersecurity Controls (TCC)](https://www.indexdata.org/national-cybersecurity-authority-nca-telework-cybersecurity-controls-tcc/)** — `2026-11-16` | `28 Pages`
 - `[`SA-NCA-SCYWF_EN`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Workforce Framework (SCyWF)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-workforce-framework-scywf/)** — `2026-11-16` | `120 Pages`
@@ -56,6 +56,7 @@ Canonical Authority Archive: [https://www.indexdata.org/saudi-arabia/national-cy
 - `[`SA-NCA-SCHEF-EN`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Higher Education Framework (SCyber-Edu)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-higher-education-framework-scyber-edu/)** — `2026-11-16` | `105 Pages`
 - `[`SA-NCA-SBD_EN`]` **[National Cybersecurity Authority (NCA) — Secure by Design Guidelines (SBD)](https://www.indexdata.org/national-cybersecurity-authority-nca-secure-by-design-guidelines-sbd/)** — `2026-11-16` | `16 Pages`
 - `[`SA-NCA-QB2020Q4_EN`]` **[National Cybersecurity Authority (NCA) — Cybersecurity Quarterly Bulletin (2020 Q4)](https://www.indexdata.org/national-cybersecurity-authority-nca-cybersecurity-quarterly-bulletin-2020-q4/)** — `2026-11-16` | `12 Pages`
+- `[`SA-NCA-FAQ_for_Cybersecurity_Service_Providers_Registration_EN`]` **[National Cybersecurity Authority (NCA) — FAQ for Cybersecurity Service Providers Registration](https://www.indexdata.org/national-cybersecurity-authority-nca-faq-for-cybersecurity-service-providers-registration/)** — `2026-11-16` | `8 Pages`
 
 ### [Saudi Commission for Health Specialties (SCFHS)](https://www.indexdata.org/saudi-arabia/saudi-commission-for-health-specialties-scfhs/)
 Canonical Authority Archive: [https://www.indexdata.org/saudi-arabia/saudi-commission-for-health-specialties-scfhs/](https://www.indexdata.org/saudi-arabia/saudi-commission-for-health-specialties-scfhs/) | [RSS Feed](https://www.indexdata.org/saudi-arabia/saudi-commission-for-health-specialties-scfhs/feed/)

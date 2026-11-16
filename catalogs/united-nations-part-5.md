@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,980` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,982` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-16 15:03 UTC`
+**Last Automated Sync:** `2026-11-16 16:02 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,019` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,980 of 6,980)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,982 of 6,982)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -418,6 +418,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-develo
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-79-7-Add.33`]` **[Programme of Action for Landlocked Developing Countries for the Decade 2024-2034 : programme budget implications of draft resolution A/79/L.21 — 34th report of the Advisory Committee on Administrative and Budgetary Questions on the proposed programme budget for 2025](https://www.indexdata.org/a-79-7-add-33-programme-of-action-for-landlocked-developing-countries-for-the-decade-2024-2034-programme-budget-implications-of-draft-resolution-a-79-l-21-34th-report-of-the-advisory-com/)** — `2024-12-10` | `4 Pages`
+- `[`UN-A-RES-79-56`]` **[Implementation of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction — resolution](https://www.indexdata.org/a-res-79-56-implementation-of-the-convention-on-the-prohibition-of-the-development-production-stockpiling-and-use-of-chemical-weapons-and-on-their-destruction-resolution/)** — `2024-12-09` | `8 Pages`
 - `[`UN-A-79-L.41`]` **[Assistance to the Palestinian people — draft resolution](https://www.indexdata.org/a-79-l-41-assistance-to-the-palestinian-people-draft-resolution/)** — `2024-12-05` | `6 Pages`
 - `[`UN-A-79-L.40`]` **[International Day of the Snow Leopard — draft resolution](https://www.indexdata.org/a-79-l-40-international-day-of-the-snow-leopard-draft-resolution/)** — `2024-12-04` | `3 Pages`
 - `[`UN-A-79-L.39`]` **[World Lake Day — draft resolution](https://www.indexdata.org/a-79-l-39-world-lake-day-draft-resolution/)** — `2024-12-04` | `2 Pages`

@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,305` across `50` issuing authorities  
-**Last Automated Sync:** `2026-11-16 15:03 UTC`
+**Total Indexed Dossiers in Australia:** `1,308` across `50` issuing authorities  
+**Last Automated Sync:** `2026-11-16 16:02 UTC`
 
 ---
 
@@ -43,8 +43,10 @@
 - **[Commonwealth Scientific and Industrial Research Organisation](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/) | [RSS Feed](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/feed/)
 - **[Northern Territory — Corrections](https://www.indexdata.org/australia/northern-territory-corrections/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-corrections/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-corrections/feed/)
 - **[Northern Territory — Logistics and Infrastructure](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/feed/)
-- **[Australian Antarctic Division](https://www.indexdata.org/australia/australian-antarctic-division/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-antarctic-division/) | [RSS Feed](https://www.indexdata.org/australia/australian-antarctic-division/feed/)
+- **[Australian Antarctic Division](https://www.indexdata.org/australia/australian-antarctic-division/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-antarctic-division/) | [RSS Feed](https://www.indexdata.org/australia/australian-antarctic-division/feed/)
 - **[Australian Government](https://www.indexdata.org/australia/australian-government/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-government/) | [RSS Feed](https://www.indexdata.org/australia/australian-government/feed/)
+- **[Australian Institute of Marine Science](https://www.indexdata.org/australia/australian-institute-of-marine-science/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-institute-of-marine-science/) | [RSS Feed](https://www.indexdata.org/australia/australian-institute-of-marine-science/feed/)
+- **[Australian Radiation Protection and Nuclear Safety Agency](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/) | [RSS Feed](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/feed/)
 - **[Geoscience Australia](https://www.indexdata.org/australia/geoscience-australia/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/geoscience-australia/) | [RSS Feed](https://www.indexdata.org/australia/geoscience-australia/feed/)
 - **[Health and Wellbeing Queensland](https://www.indexdata.org/australia/health-and-wellbeing-queensland/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/health-and-wellbeing-queensland/) | [RSS Feed](https://www.indexdata.org/australia/health-and-wellbeing-queensland/feed/)
 - **[Housing, Local Government and Community Development](https://www.indexdata.org/australia/housing-local-government-and-community-development/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/housing-local-government-and-community-development/) | [RSS Feed](https://www.indexdata.org/australia/housing-local-government-and-community-development/feed/)
@@ -55,8 +57,6 @@
 - **[Australian Business Register](https://www.indexdata.org/australia/australian-business-register/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
 - **[Australian Human Rights Commission](https://www.indexdata.org/australia/australian-human-rights-commission/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-human-rights-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-human-rights-commission/feed/)
 - **[Australian Institute of Health and Welfare](https://www.indexdata.org/australia/australian-institute-of-health-and-welfare/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-institute-of-health-and-welfare/) | [RSS Feed](https://www.indexdata.org/australia/australian-institute-of-health-and-welfare/feed/)
-- **[Australian Institute of Marine Science](https://www.indexdata.org/australia/australian-institute-of-marine-science/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-institute-of-marine-science/) | [RSS Feed](https://www.indexdata.org/australia/australian-institute-of-marine-science/feed/)
-- **[Australian Radiation Protection and Nuclear Safety Agency](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/) | [RSS Feed](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/feed/)
 - **[Australian Research Council](https://www.indexdata.org/australia/australian-research-council/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-research-council/) | [RSS Feed](https://www.indexdata.org/australia/australian-research-council/feed/)
 - **[Government of South Australia](https://www.indexdata.org/australia/government-of-south-australia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/government-of-south-australia/) | [RSS Feed](https://www.indexdata.org/australia/government-of-south-australia/feed/)
 - **[Murray-Darling Basin Authority](https://www.indexdata.org/australia/murray-darling-basin-authority/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/murray-darling-basin-authority/) | [RSS Feed](https://www.indexdata.org/australia/murray-darling-basin-authority/feed/)
@@ -65,7 +65,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,305 of 1,305)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,308 of 1,308)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1472,6 +1472,7 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-antarctic-division/](https://www.indexdata.org/australia/australian-antarctic-division/) | [RSS Feed](https://www.indexdata.org/australia/australian-antarctic-division/feed/)
 
 - `[`AU-ZEN-20824519`]` **[Ship‐Based Lidar Evaluation of Southern Ocean Low Cloudsin the Storm‐Resolving General Circulation Model ICONand the ERA5 and MERRA‐2 Reanalyses](https://www.indexdata.org/ship%e2%80%90based-lidar-evaluation-of-southern-ocean-low-cloudsin-the-storm%e2%80%90resolving-general-circulation-model-iconand-the-era5-and-merra%e2%80%902-reanalyses/)** — `2026-06-24` | `35 Pages`
+- `[`AU-ZEN-23744767`]` **[CliC Strategic Plan 2025-2034: The Rapidly Changing Cryosphere](https://www.indexdata.org/clic-strategic-plan-2025-2034-the-rapidly-changing-cryosphere/)** — `2026-06-15` | `31 Pages`
 - `[`AU-ZEN-16033540`]` **[Essential Biodiversity Variables Framework for Terrestrial Antarctic and Sub-Antarctic Ecosystems](https://www.indexdata.org/essential-biodiversity-variables-framework-for-terrestrial-antarctic-and-sub-antarctic-ecosystems/)** — `2025-07-17` | `21 Pages`
 
 ### [Australian Government](https://www.indexdata.org/australia/australian-government/)
@@ -1479,6 +1480,18 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-gov
 
 - `[`AU-DATA-d205130b-a3f1-4d43-8618-314ebb365ed8`]` **[IMOS - National Reef Monitoring Network Sub-Facility - Global benthic cover data (photoquadrat image annotations)](https://www.indexdata.org/imos-national-reef-monitoring-network-sub-facility-global-benthic-cover-data-photoquadrat-image-annotations/)** — `2026-10-01` | `64 Pages`
 - `[`AU-DATA-d038363b-5cef-4345-b6b4-997b322ee9d9`]` **[IMOS - National Reef Monitoring Network Sub-Facility - Global mobile macroinvertebrate abundance](https://www.indexdata.org/imos-national-reef-monitoring-network-sub-facility-global-mobile-macroinvertebrate-abundance/)** — `2026-10-01` | `40 Pages`
+
+### [Australian Institute of Marine Science](https://www.indexdata.org/australia/australian-institute-of-marine-science/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/australian-institute-of-marine-science/](https://www.indexdata.org/australia/australian-institute-of-marine-science/) | [RSS Feed](https://www.indexdata.org/australia/australian-institute-of-marine-science/feed/)
+
+- `[`AU-ZEN-17076317`]` **[Brief for Funders: Towards Responsible Investment in Ocean-Based Climate Actions](https://www.indexdata.org/brief-for-funders-towards-responsible-investment-in-ocean-based-climate-actions/)** — `2025-09-08` | `3 Pages`
+- `[`AU-ZEN-11449251`]` **[Schmidt Ocean Institute Expedition Report: Australian Mesophotic Coral Examination](https://www.indexdata.org/schmidt-ocean-institute-expedition-report-australian-mesophotic-coral-examination/)** — `2024-06-03` | `11 Pages`
+
+### [Australian Radiation Protection and Nuclear Safety Agency](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/) | [RSS Feed](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/feed/)
+
+- `[`AU-ZEN-20622345`]` **[D6 Calibration and measurement procedures of X-ray multimeters at laboratories and clinical conditions covering relevant clinical parameters such as air kerma, PPV and half-value layer and target uncertainties submitted to IAEA CRP E24024 officers providing inputs for the update of the TRS-457](https://www.indexdata.org/d6-calibration-and-measurement-procedures-of-x-ray-multimeters-at-laboratories-and-clinical-conditions-covering-relevant-clinical-parameters-such-as-air-kerma-ppv-and-half-value-layer-and-target-unce/)** — `2026-06-10` | `49 Pages`
+- `[`AU-ZEN-20088600`]` **[D3 Paper on the performance of at least 8 commercially available X-ray dosimeter types in at least 3 NMIs/DIs covering different influence quantities, especially the defined clinically representative radiation qualities, enabling estimation of uncertainties related to air kerma measurements with different dosimeters](https://www.indexdata.org/d3-paper-on-the-performance-of-at-least-8-commercially-available-x-ray-dosimeter-types-in-at-least-3-nmis-dis-covering-different-influence-quantities-especially-the-defined-clinically-representative/)** — `2026-05-08` | `22 Pages`
 
 ### [Geoscience Australia](https://www.indexdata.org/australia/geoscience-australia/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/geoscience-australia/](https://www.indexdata.org/australia/geoscience-australia/) | [RSS Feed](https://www.indexdata.org/australia/geoscience-australia/feed/)
@@ -1536,16 +1549,6 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-hum
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-institute-of-health-and-welfare/](https://www.indexdata.org/australia/australian-institute-of-health-and-welfare/) | [RSS Feed](https://www.indexdata.org/australia/australian-institute-of-health-and-welfare/feed/)
 
 - `[`AU-ZEN-10694934`]` **[The LINked Data Asset for Australian Health Research (LINDAHR)](https://www.indexdata.org/the-linked-data-asset-for-australian-health-research-lindahr/)** — `2023-11-30` | `20 Pages`
-
-### [Australian Institute of Marine Science](https://www.indexdata.org/australia/australian-institute-of-marine-science/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/australian-institute-of-marine-science/](https://www.indexdata.org/australia/australian-institute-of-marine-science/) | [RSS Feed](https://www.indexdata.org/australia/australian-institute-of-marine-science/feed/)
-
-- `[`AU-ZEN-11449251`]` **[Schmidt Ocean Institute Expedition Report: Australian Mesophotic Coral Examination](https://www.indexdata.org/schmidt-ocean-institute-expedition-report-australian-mesophotic-coral-examination/)** — `2024-06-03` | `11 Pages`
-
-### [Australian Radiation Protection and Nuclear Safety Agency](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/) | [RSS Feed](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/feed/)
-
-- `[`AU-ZEN-20088600`]` **[D3 Paper on the performance of at least 8 commercially available X-ray dosimeter types in at least 3 NMIs/DIs covering different influence quantities, especially the defined clinically representative radiation qualities, enabling estimation of uncertainties related to air kerma measurements with different dosimeters](https://www.indexdata.org/d3-paper-on-the-performance-of-at-least-8-commercially-available-x-ray-dosimeter-types-in-at-least-3-nmis-dis-covering-different-influence-quantities-especially-the-defined-clinically-representative/)** — `2026-05-08` | `22 Pages`
 
 ### [Australian Research Council](https://www.indexdata.org/australia/australian-research-council/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-research-council/](https://www.indexdata.org/australia/australian-research-council/) | [RSS Feed](https://www.indexdata.org/australia/australian-research-council/feed/)

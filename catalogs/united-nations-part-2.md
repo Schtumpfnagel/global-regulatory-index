@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,980` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,982` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-16 15:03 UTC`
+**Last Automated Sync:** `2026-11-16 16:02 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,019` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,980)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,982)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -826,6 +826,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 
+- `[`UN-CRPD-C-SR.819`]` **[Summary record of the 819th meeting, held at the Palais des Nations, Geneva, on Tuesday, 10 March 2026 — Committee on the Rights of Persons with Disabilities, 34th session](https://www.indexdata.org/crpd-c-sr-819-summary-record-of-the-819th-meeting-held-at-the-palais-des-nations-geneva-on-tuesday-10-march-2026-committee-on-the-rights-of-persons-with-disabilities-34th-session/)** — `2026-07-01` | `10 Pages`
+- `[`UN-CRPD-C-SR.818`]` **[Summary record of the 818th meeting, held at the Palais des Nations, Geneva, on Monday, 9 March 2026 — Committee on the Rights of Persons with Disabilities, 34th session](https://www.indexdata.org/crpd-c-sr-818-summary-record-of-the-818th-meeting-held-at-the-palais-des-nations-geneva-on-monday-9-march-2026-committee-on-the-rights-of-persons-with-disabilities-34th-session/)** — `2026-07-01` | `10 Pages`
 - `[`UN-CRC-C-BLR-7-8`]` **[Combined 7th and 8th periodic reports submitted by Belarus under article 44 of the Convention, due in 2025 — Convention on the Rights of the Child](https://www.indexdata.org/crc-c-blr-7-8-combined-7th-and-8th-periodic-reports-submitted-by-belarus-under-article-44-of-the-convention-due-in-2025-convention-on-the-rights-of-the-child/)** — `2026-07-01` | `16 Pages`
 - `[`UN-CMW-C-GTM-QPR-3`]` **[List of issues prior to submission of the 3rd periodic report of Guatemala — Committee on the Protection of the Rights of All Migrant Workers and Members of Their Families](https://www.indexdata.org/cmw-c-gtm-qpr-3-list-of-issues-prior-to-submission-of-the-3rd-periodic-report-of-guatemala-committee-on-the-protection-of-the-rights-of-all-migrant-workers-and-members-of-their-families/)** — `2026-07-01` | `11 Pages`
 - `[`UN-CRC-C-TJK-RQ-6-7`]` **[Replies of Tajikistan to the list of issues in relation to its combined 6th and 7th periodic reports — Convention on the Rights of the Child](https://www.indexdata.org/crc-c-tjk-rq-6-7-replies-of-tajikistan-to-the-list-of-issues-in-relation-to-its-combined-6th-and-7th-periodic-reports-convention-on-the-rights-of-the-child/)** — `2026-06-30` | `28 Pages`
@@ -1706,13 +1708,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-na
 - `[`UN-A-AC.182-2026-L.3`]` **[Draft report — Special Committee on the Charter of the United Nations and on the Strengthening of the Role of the Organization, New York, 18–26 February 2026](https://www.indexdata.org/a-ac-182-2026-l-3-draft-report-special-committee-on-the-charter-of-the-united-nations-and-on-the-strengthening-of-the-role-of-the-organization-new-york-18-26-february-2026/)** — `2026-06-01` | `3 Pages`
 - `[`UN-A-AC.182-2026-L.2`]` **[Draft report — Special Committee on the Charter of the United Nations and on the Strengthening of the Role of the Organization, New York, 18–26 February 2026](https://www.indexdata.org/a-ac-182-2026-l-2-draft-report-special-committee-on-the-charter-of-the-united-nations-and-on-the-strengthening-of-the-role-of-the-organization-new-york-18-26-february-2026/)** — `2026-06-01` | `2 Pages`
 
-### [People's Republic of China](https://www.indexdata.org/united-nations/people-s-republic-of-china/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/people-s-republic-of-china/](https://www.indexdata.org/united-nations/people-s-republic-of-china/) | [RSS Feed](https://www.indexdata.org/united-nations/people-s-republic-of-china/feed/)
-
-- `[`UN-NPT-CONF.2026-WP.64`]` **[Issue of Japan's Nuclear Armament — working paper](https://www.indexdata.org/npt-conf-2026-wp-64-issue-of-japans-nuclear-armament-working-paper/)** — `2026-04-29` | `3 Pages`
-- `[`UN-NPT-CONF.2026-WP.60`]` **[Elements of the final document of the NPT 11th Review Conference — working paper](https://www.indexdata.org/npt-conf-2026-wp-60-elements-of-the-final-document-of-the-npt-11th-review-conference-working-paper/)** — `2026-04-25` | `5 Pages`
-- `[`UN-NPT-CONF.2026-33`]` **[Implementation of the Treaty on the Non-Proliferation of Nuclear Weapons in the People's Republic of China — national report](https://www.indexdata.org/npt-conf-2026-33-implementation-of-the-treaty-on-the-non-proliferation-of-nuclear-weapons-in-the-peoples-republic-of-china-national-report/)** — `2026-04-17` | `23 Pages`
-
 ### [Secretariat](https://www.indexdata.org/united-nations/secretariat/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretariat/](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
 
@@ -1732,6 +1727,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/main-comm
 
 - `[`UN-NPT-CONF.2026-MC.II-SR.4`]` **[Summary record of the 4th meeting — Main Committee II, held at Headquarters, New York, on Thursday, 7 May 2026, 2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons](https://www.indexdata.org/npt-conf-2026-mc-ii-sr-4-summary-record-of-the-4th-meeting-main-committee-ii-held-at-headquarters-new-york-on-thursday-7-may-2026-2026-review-conference-of-the-parties-to-the-treaty-o/)** — `2026-05-28` | `14 Pages`
 - `[`UN-NPT-CONF.2026-MC.II-SR.1`]` **[Summary record of the 1st meeting — Main Committee II, held at Headquarters, New York, on Monday, 4 May 2026, 2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons](https://www.indexdata.org/npt-conf-2026-mc-ii-sr-1-summary-record-of-the-1st-meeting-main-committee-ii-held-at-headquarters-new-york-on-monday-4-may-2026-2026-review-conference-of-the-parties-to-the-treaty-on/)** — `2026-05-20` | `26 Pages`
+
+### [People's Republic of China](https://www.indexdata.org/united-nations/people-s-republic-of-china/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/people-s-republic-of-china/](https://www.indexdata.org/united-nations/people-s-republic-of-china/) | [RSS Feed](https://www.indexdata.org/united-nations/people-s-republic-of-china/feed/)
+
+- `[`UN-NPT-CONF.2026-WP.64`]` **[Issue of Japan's Nuclear Armament — working paper](https://www.indexdata.org/npt-conf-2026-wp-64-issue-of-japans-nuclear-armament-working-paper/)** — `2026-04-29` | `3 Pages`
+- `[`UN-NPT-CONF.2026-WP.60`]` **[Elements of the final document of the NPT 11th Review Conference — working paper](https://www.indexdata.org/npt-conf-2026-wp-60-elements-of-the-final-document-of-the-npt-11th-review-conference-working-paper/)** — `2026-04-25` | `5 Pages`
 
 ### [Republic of Kazakhstan](https://www.indexdata.org/united-nations/republic-of-kazakhstan/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/republic-of-kazakhstan/](https://www.indexdata.org/united-nations/republic-of-kazakhstan/) | [RSS Feed](https://www.indexdata.org/united-nations/republic-of-kazakhstan/feed/)
@@ -1762,11 +1763,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-na
 
 - `[`UN-CEB-2026-3`]` **[Report of the High-level Committee on Management at its 51st session (13 and 14 April 2026, United Nations Information and Communications Technology Facility, Valencia, Spain)](https://www.indexdata.org/ceb-2026-3-report-of-the-high-level-committee-on-management-at-its-51st-session-13-and-14-april-2026-united-nations-information-and-communications-technology-facility-valencia-spain/)** — `2026-05-27` | `27 Pages`
 - `[`UN-CEB-2026-4`]` **[Report of the High-level Committee on Programmes at its 51st session (United Nations Headquarters, New York, 24 and 25 March 2026) — Chief Executives Board for Coordination](https://www.indexdata.org/ceb-2026-4-report-of-the-high-level-committee-on-programmes-at-its-51st-session-united-nations-headquarters-new-york-24-and-25-march-2026-chief-executives-board-for-coordination/)** — `2026-05-06` | `18 Pages`
-
-### [African Commission on Nuclear Energy](https://www.indexdata.org/united-nations/african-commission-on-nuclear-energy/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/african-commission-on-nuclear-energy/](https://www.indexdata.org/united-nations/african-commission-on-nuclear-energy/) | [RSS Feed](https://www.indexdata.org/united-nations/african-commission-on-nuclear-energy/feed/)
-
-- `[`UN-NPT-CONF.2026-34`]` **[Activities of the African Commission on Nuclear Energy relating to the African Nuclear-Weapon-Free Zone Treaty — memorandum of the African Commission on Nuclear Energy](https://www.indexdata.org/npt-conf-2026-34-activities-of-the-african-commission-on-nuclear-energy-relating-to-the-african-nuclear-weapon-free-zone-treaty-memorandum-of-the-african-commission-on-nuclear-energy/)** — `2026-04-17` | `7 Pages`
 
 ### [Collective Security Treaty Organization (CSTO)](https://www.indexdata.org/united-nations/collective-security-treaty-organization-csto/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/collective-security-treaty-organization-csto/](https://www.indexdata.org/united-nations/collective-security-treaty-organization-csto/) | [RSS Feed](https://www.indexdata.org/united-nations/collective-security-treaty-organization-csto/feed/)

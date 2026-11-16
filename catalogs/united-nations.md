@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,980` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,982` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-16 15:03 UTC`
+**Last Automated Sync:** `2026-11-16 16:02 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,019` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,11 +187,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,980)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,982)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-63-SR.40`]` **[Summary record of the 40th meeting, held at the Palais des Nations, Geneva, on Monday, 5 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-40-summary-record-of-the-40th-meeting-held-at-the-palais-des-nations-geneva-on-monday-5-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `27 Pages`
+- `[`UN-A-HRC-63-SR.39`]` **[Summary record (partial) of the 39th meeting, held at the Palais des Nations, Geneva, on Monday, 5 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-39-summary-record-partial-of-the-39th-meeting-held-at-the-palais-des-nations-geneva-on-monday-5-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `6 Pages`
 - `[`UN-A-HRC-OM-20-L.1`]` **[Continued non-cooperation of a State under review with the Universal Periodic Review Mechanism — draft decision](https://www.indexdata.org/a-hrc-om-20-l-1-continued-non-cooperation-of-a-state-under-review-with-the-universal-periodic-review-mechanism-draft-decision/)** — `2026-11-09` | `2 Pages`
 - `[`UN-A-C.3-81-L.18-Rev.1`]` **[Intensification of efforts to end obstetric fistula — revised draft resolution](https://www.indexdata.org/a-c-3-81-l-18-rev-1-intensification-of-efforts-to-end-obstetric-fistula-revised-draft-resolution/)** — `2026-11-06` | `10 Pages`
 - `[`UN-A-81-478`]` **[Letter dated 4 November 2026 from the President of the Security Council addressed to the President of the General Assembly](https://www.indexdata.org/a-81-478-letter-dated-4-november-2026-from-the-president-of-the-security-council-addressed-to-the-president-of-the-general-assembly/)** — `2026-11-05` | `2 Pages`
@@ -1470,8 +1472,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 - `[`UN-CED-C-SR.560`]` **[Summary record of the 560th meeting, held at the Palais Wilson, Geneva, on Tuesday, 10 March 2026 — Committee on Enforced Disappearances, 30th session](https://www.indexdata.org/ced-c-sr-560-summary-record-of-the-560th-meeting-held-at-the-palais-wilson-geneva-on-tuesday-10-march-2026-committee-on-enforced-disappearances-30th-session/)** — `2026-07-06` | `8 Pages`
 - `[`UN-CRPD-C-TLS-1`]` **[Initial report submitted by Timor-Leste under article 35 of the Convention, due in 2025 — Convention on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-tls-1-initial-report-submitted-by-timor-leste-under-article-35-of-the-convention-due-in-2025-convention-on-the-rights-of-persons-with-disabilities/)** — `2026-07-02` | `36 Pages`
 - `[`UN-CAT-C-ARM-FCO-5-Add.1`]` **[Information received from Armenia on follow-up to the concluding observations on its fifth periodic report — Committee against Torture : addendum](https://www.indexdata.org/cat-c-arm-fco-5-add-1-information-received-from-armenia-on-follow-up-to-the-concluding-observations-on-its-fifth-periodic-report-committee-against-torture-addendum/)** — `2026-07-02` | `8 Pages`
-- `[`UN-CRPD-C-SR.819`]` **[Summary record of the 819th meeting, held at the Palais des Nations, Geneva, on Tuesday, 10 March 2026 — Committee on the Rights of Persons with Disabilities, 34th session](https://www.indexdata.org/crpd-c-sr-819-summary-record-of-the-819th-meeting-held-at-the-palais-des-nations-geneva-on-tuesday-10-march-2026-committee-on-the-rights-of-persons-with-disabilities-34th-session/)** — `2026-07-01` | `10 Pages`
-- `[`UN-CRPD-C-SR.818`]` **[Summary record of the 818th meeting, held at the Palais des Nations, Geneva, on Monday, 9 March 2026 — Committee on the Rights of Persons with Disabilities, 34th session](https://www.indexdata.org/crpd-c-sr-818-summary-record-of-the-818th-meeting-held-at-the-palais-des-nations-geneva-on-monday-9-march-2026-committee-on-the-rights-of-persons-with-disabilities-34th-session/)** — `2026-07-01` | `10 Pages`
 
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)

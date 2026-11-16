@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,943` across `83` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,949` across `83` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-16 15:03 UTC`
+**Last Automated Sync:** `2026-11-16 16:02 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`296` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`217` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`223` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`190` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`173` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`150` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
@@ -99,7 +99,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,943)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,949)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -107,9 +107,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts
 - `[`UK-GOV-efbe2f5f-df2d-4236-8911-d3a5e6dad7f2-1`]` **[6 Beverley Court, Hounslow, TW4 5JJ: LON/00AT/MRA/2026/0085 - Relisted — TW4 5JJ_LON/00AT/MRA/2026/0085_Decision](https://www.indexdata.org/6-beverley-court-hounslow-tw4-5jj-lon-00at-mra-2026-0085-relisted-tw4-5jj_lon-00at-mra-2026-0085_decision/)** — `2026-11-16` | `8 Pages`
 - `[`UK-GOV-e0423b21-2605-4706-a397-b5340f83dbbb-1`]` **[CAM/00KF/LSC/2025/0613 : Richmond House, 67-71 Victoria Avenue, Southend-on-Sea, SS2 6EB (02)](https://www.indexdata.org/cam-00kf-lsc-2025-0613-richmond-house-67-71-victoria-avenue-southend-on-sea-ss2-6eb-02/)** — `2026-11-16` | `7 Pages`
 - `[`UK-GOV-da5afed6-6ae7-4f26-b9b3-28fd527d7815-4`]` **[Ms C Ferlin v La Salle Education Ltd: 2301720/2025 — Ms C Ferlin v La Salle Education Ltd: 2301720/2025 - Rule 22](https://www.indexdata.org/ms-c-ferlin-v-la-salle-education-ltd-2301720-2025-ms-c-ferlin-v-la-salle-education-ltd-2301720-2025-rule-22/)** — `2026-11-16` | `4 Pages`
+- `[`UK-GOV-da153036-7ce3-4908-9a43-7818ef8af29b-1`]` **[4 Crabtree Fold, Hebden Bridge, HX7 8SN: MAN/00CY/MNR/2026/0079 — HX7 8SN_MAN/00CY/MNR/2026/0079_Decision](https://www.indexdata.org/4-crabtree-fold-hebden-bridge-hx7-8sn-man-00cy-mnr-2026-0079-hx7-8sn_man-00cy-mnr-2026-0079_decision/)** — `2026-11-16` | `8 Pages`
+- `[`UK-GOV-d8f1af98-161d-40c8-ae2e-ec920df6f4cb-1`]` **[90 Rickmansworth Road, Pinner, London, HA5 3TG: LON/00AQ/MRA/2026/0417 — HA5 3TG_LON/00AQ/MRA/2026/0417_Decision](https://www.indexdata.org/90-rickmansworth-road-pinner-london-ha5-3tg-lon-00aq-mra-2026-0417-ha5-3tg_lon-00aq-mra-2026-0417_decision/)** — `2026-11-16` | `5 Pages`
 - `[`UK-GOV-cf483940-a34c-401c-8d61-b0e096f08963-3`]` **[Mr S T H Shah v Manchester Airport plc: 2400509/2024 — Mr S T H Shah v Manchester Airport plc: 2400509/2024 - Remedy and Costs](https://www.indexdata.org/mr-s-t-h-shah-v-manchester-airport-plc-2400509-2024-mr-s-t-h-shah-v-manchester-airport-plc-2400509-2024-remedy-and-costs/)** — `2026-11-16` | `2 Pages`
+- `[`UK-GOV-cb5752ce-9e9c-46c4-b13c-b2d978a9a63d-1`]` **[Flat 2, 16 Sunningfields Road, London, NW4 4RL: LON/00AC/MRA/2026/0066 — NW4 4RL_LON/00AC/MRA/2026/0066_Decision](https://www.indexdata.org/flat-2-16-sunningfields-road-london-nw4-4rl-lon-00ac-mra-2026-0066-nw4-4rl_lon-00ac-mra-2026-0066_decision/)** — `2026-11-16` | `7 Pages`
 - `[`UK-GOV-c9bc31a2-e39a-4fc7-8ede-df8e196a4770-2`]` **[Mr S Bennett v Travel Up Ltd: 6000839/2025 — Mr S Bennett v Travel Up Ltd: 6000839/2025 - Reasons](https://www.indexdata.org/mr-s-bennett-v-travel-up-ltd-6000839-2025-mr-s-bennett-v-travel-up-ltd-6000839-2025-reasons/)** — `2026-11-16` | `12 Pages`
 - `[`UK-GOV-c9bc31a2-e39a-4fc7-8ede-df8e196a4770-1`]` **[Mr S Bennett v Travel Up Ltd: 6000839/2025 — Mr S Bennett v Travel Up Ltd: 6000839/2025 - Judgment](https://www.indexdata.org/mr-s-bennett-v-travel-up-ltd-6000839-2025-mr-s-bennett-v-travel-up-ltd-6000839-2025-judgment/)** — `2026-11-16` | `2 Pages`
+- `[`UK-GOV-9cafcc69-322c-4893-93d2-2710af903728-1`]` **[45B Milner Square, London, N11TW: LON/00AU/MRA/2026/0192 — N1 1TW_LON/00AU/MRA/2026/0192_Decision](https://www.indexdata.org/45b-milner-square-london-n11tw-lon-00au-mra-2026-0192-n1-1tw_lon-00au-mra-2026-0192_decision/)** — `2026-11-16` | `7 Pages`
+- `[`UK-GOV-967fdb21-941f-4da8-913a-15b35e86afbe-1`]` **[Flat 10 beckets yard 2nd floor, 1 Selden hill, Paradise Industrial Estate, Hemel Hempstead, HP24TQ: CAM/26UC/MRA/2026/0090 — HP2 4TQ_CAM/26UC/MRA/2026/0090_Decision](https://www.indexdata.org/flat-10-beckets-yard-2nd-floor-1-selden-hill-paradise-industrial-estate-hemel-hempstead-hp24tq-cam-26uc-mra-2026-0090-hp2-4tq_cam-26uc-mra-2026-0090_decision/)** — `2026-11-16` | `9 Pages`
+- `[`UK-GOV-8f1b8ffa-e52e-4a24-920b-5a4a1a9baf47-1`]` **[192 Dibdin House, London, W9 1QQ: LON/00BK/MRA/2026/0158 — W9 1QQ_LON/00BK/MRA/2026/0158_Decision](https://www.indexdata.org/192-dibdin-house-london-w9-1qq-lon-00bk-mra-2026-0158-w9-1qq_lon-00bk-mra-2026-0158_decision/)** — `2026-11-16` | `7 Pages`
 - `[`UK-GOV-f86bf05b-404a-4bb0-9843-a17d767bfaa8-1`]` **[First Floor Flat 9b Fairholme Road, Croydon, London,CR0 3PG : LON/00AH/OLR/2026/0403](https://www.indexdata.org/first-floor-flat-9b-fairholme-road-croydon-londoncr0-3pg-lon-00ah-olr-2026-0403/)** — `2026-11-15` | `4 Pages`
 - `[`UK-GOV-e9b27c6e-7a33-4cdb-885f-fc2f36171e9c-1`]` **[211 Munster Road, London, SW6 6BX : LON/00AN/OC9/2026/0037](https://www.indexdata.org/211-munster-road-london-sw6-6bx-lon-00an-oc9-2026-0037/)** — `2026-11-15` | `8 Pages`
 - `[`UK-GOV-e2dd1cf2-1448-435c-809d-e1f4247755ec-1`]` **[10A St. Johns Avenue, London, NW10 4EE: LON/00AE/F77/2026/0073](https://www.indexdata.org/10a-st-johns-avenue-london-nw10-4ee-lon-00ae-f77-2026-0073/)** — `2026-11-15` | `6 Pages`
@@ -466,9 +472,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2026-317`]` **[The Victims and Prisoners Act 2024 (Commencement No. 10) and Data (Use and Access) Act 2025 (Commencement No. 8) Regulations 2026](https://www.indexdata.org/the-victims-and-prisoners-act-2024-commencement-no-10-and-data-use-and-access-act-2025-commencement-no-8-regulations-2026/)** — `2026-03-18` | `8 Pages`
 - `[`UKSI-2026-309`]` **[The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026](https://www.indexdata.org/the-a303-amesbury-to-berwick-down-development-consent-revocation-order-2026/)** — `2026-03-18` | `2 Pages`
 - `[`UKPGA-2026-12`]` **[House of Lords (Hereditary Peers) Act 2026](https://www.indexdata.org/house-of-lords-hereditary-peers-act-2026/)** — `2026-03-18` | `7 Pages`
-- `[`UKPGA-2026-11`]` **[Finance Act 2026](https://www.indexdata.org/finance-act-2026/)** — `2026-03-18` | `560 Pages`
-- `[`UKPGA-2026-10`]` **[Supply and Appropriation (Anticipation and Adjustments) Act 2026](https://www.indexdata.org/supply-and-appropriation-anticipation-and-adjustments-act-2026/)** — `2026-03-18` | `105 Pages`
-- `[`UKSI-2026-308`]` **[The Compulsory Purchase of Land (Conditional Confirmation) Regulations 2026](https://www.indexdata.org/the-compulsory-purchase-of-land-conditional-confirmation-regulations-2026/)** — `2026-03-17` | `8 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -546,7 +549,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2026-370`]` **[The Finance Act 2021 (Income Tax and Capital Gains Tax) (Penalties) (Appointed Day: Digitally Obligated Persons) Regulations 2026](https://www.indexdata.org/the-finance-act-2021-income-tax-and-capital-gains-tax-penalties-appointed-day-digitally-obligated-persons-regulations-2026/)** — `2026-03-25` | `4 Pages`
 - `[`UKSI-2026-315`]` **[The Finance Act 2021, Section 95 and Schedule 18 (Distance Selling: Northern Ireland) (Appointed Day No. 3) Regulations 2026](https://www.indexdata.org/the-finance-act-2021-section-95-and-schedule-18-distance-selling-northern-ireland-appointed-day-no-3-regulations-2026/)** — `2026-03-18` | `2 Pages`
 - `[`UKSI-2026-314`]` **[The Free Zone (Customs Site No. 3 Thames Freeport) Designation Order 2026](https://www.indexdata.org/the-free-zone-customs-site-no-3-thames-freeport-designation-order-2026/)** — `2026-03-18` | `4 Pages`
-- `[`UKSI-2026-307`]` **[The Value Added Tax (Refund of Tax to Great British Nuclear) Order 2026](https://www.indexdata.org/the-value-added-tax-refund-of-tax-to-great-british-nuclear-order-2026/)** — `2026-03-17` | `2 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
@@ -623,7 +625,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2026-420`]` **[The Planning Data (England) Regulations 2026](https://www.indexdata.org/the-planning-data-england-regulations-2026/)** — `2026-04-16` | `4 Pages`
 - `[`UKSI-2026-374`]` **[The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026](https://www.indexdata.org/the-non-domestic-rating-rates-retention-and-levy-and-safety-net-miscellaneous-amendments-regulations-2026/)** — `2026-03-26` | `40 Pages`
 - `[`UKSI-2026-319`]` **[The Financial Penalties (Housing Offences and Breach of Banning Orders) Regulations 2026](https://www.indexdata.org/the-financial-penalties-housing-offences-and-breach-of-banning-orders-regulations-2026/)** — `2026-03-18` | `2 Pages`
-- `[`UKSI-2026-313`]` **[The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026](https://www.indexdata.org/the-town-and-country-planning-general-permitted-development-etc-england-amendment-order-2026/)** — `2026-03-17` | `8 Pages`
 
 ### [Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
@@ -1081,7 +1082,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-306`]` **[The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026](https://www.indexdata.org/the-merchant-shipping-epirb-and-plb-registration-and-radiocommunications-amendment-regulations-2026/)** — `2026-03-18` | `8 Pages`
 - `[`UKSI-2026-305`]` **[The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026](https://www.indexdata.org/the-merchant-shipping-control-and-management-of-ships-ballast-water-and-sediments-amendment-regulations-2026/)** — `2026-03-18` | `8 Pages`
 - `[`UKPGA-2026-14`]` **[Industry and Exports (Financial Assistance) Act 2026](https://www.indexdata.org/industry-and-exports-financial-assistance-act-2026/)** — `2026-03-18` | `7 Pages`
-- `[`UKSI-2026-311`]` **[The Immigration, Nationality and Passports (Fees) (Amendment) Regulations 2026](https://www.indexdata.org/the-immigration-nationality-and-passports-fees-amendment-regulations-2026/)** — `2026-03-17` | `16 Pages`
 
 ### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)

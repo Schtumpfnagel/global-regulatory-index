@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,410` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,412` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 15:03 UTC`
+**Last Automated Sync:** `2026-11-16 16:02 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,186` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`907` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`329` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`330` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -59,7 +59,7 @@
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`54` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,410)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,412)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -917,7 +917,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2026-01150`]` **[Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Emergency Action to Temporarily Increase 2026 Harvest Specifications and Sector Allocations for Shortspine Thornyhead, Canary Rockfish, and Petrale Sole](https://www.indexdata.org/fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-emergency-action-to-temporarily-increase-2026-harvest-specifications-and-sector-allocations-for-shortspine-thornyhead-canary-rockfis/)** — `2026-01-22` | `6 Pages`
 - `[`2026-01083`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Catcher Vessels Using Trawl Gear in the Central Regulatory Area of the Gulf of Alaska](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcher-vessels-using-trawl-gear-in-the-central-regulatory-area-of-the-gulf-of-alaska-3/)** — `2026-01-21` | `2 Pages`
 - `[`2026-01044`]` **[Deep Seabed Mining: Revisions to Regulations for Exploration License and Commercial Recovery Permit Applications](https://www.indexdata.org/deep-seabed-mining-revisions-to-regulations-for-exploration-license-and-commercial-recovery-permit-applications/)** — `2026-01-21` | `36 Pages`
-- `[`2026-00848`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the General Category January Through March Fishery for 2026](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-general-category-january-through-march-fishery-for-2026/)** — `2026-01-16` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1646,18 +1645,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-ser
 - `[`2026-02392`]` **[Project-Level Predecisional Administrative Review Process](https://www.indexdata.org/project-level-predecisional-administrative-review-process-2/)** — `2026-02-06` | `12 Pages`
 - `[`2026-01655`]` **[Oil and Gas Resources](https://www.indexdata.org/oil-and-gas-resources/)** — `2026-01-28` | `23 Pages`
 
-### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-
-- `[`2026-09554`]` **[Service Performance Reporting Requirements; Revisions](https://www.indexdata.org/service-performance-reporting-requirements-revisions/)** — `2026-05-13` | `3 Pages`
-- `[`2026-08432`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-5/)** — `2026-04-30` | `3 Pages`
-- `[`2026-07331`]` **[Rules of Organization, Practice, and Procedure](https://www.indexdata.org/rules-of-organization-practice-and-procedure/)** — `2026-04-15` | `6 Pages`
-- `[`2026-04261`]` **[Rules of Organization, Practice, and Procedure](https://www.indexdata.org/rules-of-organization-practice-and-procedure-2/)** — `2026-03-04` | `6 Pages`
-- `[`2026-02591`]` **[Rules Regarding Off-the-Record Procedures](https://www.indexdata.org/rules-regarding-off-the-record-procedures/)** — `2026-02-10` | `2 Pages`
-- `[`2026-01637`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-6/)** — `2026-01-27` | `2 Pages`
-- `[`2026-00902`]` **[System for Regulating Rates and Classes for Market Dominant Products](https://www.indexdata.org/system-for-regulating-rates-and-classes-for-market-dominant-products/)** — `2026-01-16` | `2 Pages`
-- `[`2026-00871`]` **[System for Regulating Rates and Classes for Market Dominant Products](https://www.indexdata.org/system-for-regulating-rates-and-classes-for-market-dominant-products-2/)** — `2026-01-16` | `2 Pages`
-
 ### [State Department](https://www.indexdata.org/united-states/state-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
 
@@ -1704,6 +1691,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-p
 - `[`2026-02510`]` **[Mammoth Cave National Park; Bicycling and Horses](https://www.indexdata.org/mammoth-cave-national-park-bicycling-and-horses/)** — `2026-02-09` | `5 Pages`
 - `[`2026-02479`]` **[Whiskeytown Unit, Whiskeytown-Shasta-Trinity National Recreation Area; Bicycling](https://www.indexdata.org/whiskeytown-unit-whiskeytown-shasta-trinity-national-recreation-area-bicycling/)** — `2026-02-09` | `7 Pages`
 
+### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+
+- `[`2026-09554`]` **[Service Performance Reporting Requirements; Revisions](https://www.indexdata.org/service-performance-reporting-requirements-revisions/)** — `2026-05-13` | `3 Pages`
+- `[`2026-08432`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-5/)** — `2026-04-30` | `3 Pages`
+- `[`2026-07331`]` **[Rules of Organization, Practice, and Procedure](https://www.indexdata.org/rules-of-organization-practice-and-procedure/)** — `2026-04-15` | `6 Pages`
+- `[`2026-04261`]` **[Rules of Organization, Practice, and Procedure](https://www.indexdata.org/rules-of-organization-practice-and-procedure-2/)** — `2026-03-04` | `6 Pages`
+- `[`2026-02591`]` **[Rules Regarding Off-the-Record Procedures](https://www.indexdata.org/rules-regarding-off-the-record-procedures/)** — `2026-02-10` | `2 Pages`
+- `[`2026-01637`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-6/)** — `2026-01-27` | `2 Pages`
+- `[`2026-00902`]` **[System for Regulating Rates and Classes for Market Dominant Products](https://www.indexdata.org/system-for-regulating-rates-and-classes-for-market-dominant-products/)** — `2026-01-16` | `2 Pages`
+
 ### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 
@@ -1724,6 +1722,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-
 - `[`2026-04631`]` **[Determination of Rates and Terms for Digital Performance of Sound Recordings and Making of Ephemeral Copies To Facilitate Those Performances (Web VI)](https://www.indexdata.org/determination-of-rates-and-terms-for-digital-performance-of-sound-recordings-and-making-of-ephemeral-copies-to-facilitate-those-performances-web-vi-3/)** — `2026-03-10` | `4 Pages`
 - `[`2026-04630`]` **[Determination of Rates and Terms for Digital Performance of Sound Recordings and Making of Ephemeral Copies To Facilitate Those Performances (Web VI)](https://www.indexdata.org/determination-of-rates-and-terms-for-digital-performance-of-sound-recordings-and-making-of-ephemeral-copies-to-facilitate-those-performances-web-vi-4/)** — `2026-03-10` | `4 Pages`
 - `[`2026-04627`]` **[Determination of Rates and Terms for Digital Performance of Sound Recordings by New Subscription Services and Making of Ephemeral Copies To Facilitate Those Performances (NSS V)](https://www.indexdata.org/determination-of-rates-and-terms-for-digital-performance-of-sound-recordings-by-new-subscription-services-and-making-of-ephemeral-copies-to-facilitate-those-performances-nss-v/)** — `2026-03-10` | `4 Pages`
+
+### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
+
+- `[`2026-10376`]` **[Regulation A: Extensions of Credit by Federal Reserve Banks](https://www.indexdata.org/regulation-a-extensions-of-credit-by-federal-reserve-banks-2/)** — `2026-05-26` | `6 Pages`
+- `[`2026-06996`]` **[Collection of Checks and Other Items by Federal Reserve Banks and Funds Transfers Through the Fedwire Funds Service and the FedNow Service; Regulation J](https://www.indexdata.org/collection-of-checks-and-other-items-by-federal-reserve-banks-and-funds-transfers-through-the-fedwire-funds-service-and-the-fednow-service-regulation-j/)** — `2026-04-10` | `4 Pages`
+- `[`2026-05961`]` **[Regulatory Capital Rule (Regulation Q): Risk-Based Capital Surcharges for Global Systemically Important Bank Holding Companies; Systemic Risk Report (FR Y-15)](https://www.indexdata.org/regulatory-capital-rule-regulation-q-risk-based-capital-surcharges-for-global-systemically-important-bank-holding-companies-systemic-risk-report-fr-y-15/)** — `2026-03-27` | `42 Pages`
+- `[`2026-05544`]` **[Rules of Procedure; Correction](https://www.indexdata.org/rules-of-procedure-correction/)** — `2026-03-20` | `2 Pages`
+- `[`2026-04373`]` **[Rules Regarding Delegation of Authority; Correction](https://www.indexdata.org/rules-regarding-delegation-of-authority-correction/)** — `2026-03-05` | `2 Pages`
+- `[`2026-03818`]` **[Prohibition on Use of Reputation Risk or Other Supervisory Tools To Encourage or Compel Banking Organizations To Engage in Politicized or Unlawful Discrimination](https://www.indexdata.org/prohibition-on-use-of-reputation-risk-or-other-supervisory-tools-to-encourage-or-compel-banking-organizations-to-engage-in-politicized-or-unlawful-discrimination/)** — `2026-02-26` | `6 Pages`
 
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
@@ -1783,15 +1791,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-b
 - `[`2026-04084`]` **[Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure; Extension of Comment Period](https://www.indexdata.org/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure-extension-of-comment-period/)** — `2026-03-02` | `2 Pages`
 - `[`2026-03723`]` **[Requirement To Provide Paper Statements in Certain Cases-Amendments to Electronic Disclosure Safe Harbors](https://www.indexdata.org/requirement-to-provide-paper-statements-in-certain-cases-amendments-to-electronic-disclosure-safe-harbors/)** — `2026-02-25` | `25 Pages`
 - `[`2026-01907`]` **[Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.indexdata.org/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure/)** — `2026-01-30` | `78 Pages`
-
-### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
-
-- `[`2026-06996`]` **[Collection of Checks and Other Items by Federal Reserve Banks and Funds Transfers Through the Fedwire Funds Service and the FedNow Service; Regulation J](https://www.indexdata.org/collection-of-checks-and-other-items-by-federal-reserve-banks-and-funds-transfers-through-the-fedwire-funds-service-and-the-fednow-service-regulation-j/)** — `2026-04-10` | `4 Pages`
-- `[`2026-05961`]` **[Regulatory Capital Rule (Regulation Q): Risk-Based Capital Surcharges for Global Systemically Important Bank Holding Companies; Systemic Risk Report (FR Y-15)](https://www.indexdata.org/regulatory-capital-rule-regulation-q-risk-based-capital-surcharges-for-global-systemically-important-bank-holding-companies-systemic-risk-report-fr-y-15/)** — `2026-03-27` | `42 Pages`
-- `[`2026-05544`]` **[Rules of Procedure; Correction](https://www.indexdata.org/rules-of-procedure-correction/)** — `2026-03-20` | `2 Pages`
-- `[`2026-04373`]` **[Rules Regarding Delegation of Authority; Correction](https://www.indexdata.org/rules-regarding-delegation-of-authority-correction/)** — `2026-03-05` | `2 Pages`
-- `[`2026-03818`]` **[Prohibition on Use of Reputation Risk or Other Supervisory Tools To Encourage or Compel Banking Organizations To Engage in Politicized or Unlawful Discrimination](https://www.indexdata.org/prohibition-on-use-of-reputation-risk-or-other-supervisory-tools-to-encourage-or-compel-banking-organizations-to-engage-in-politicized-or-unlawful-discrimination/)** — `2026-02-26` | `6 Pages`
 
 ### [Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-crimes-enforcement-network/](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
@@ -2043,6 +2042,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/safety-and
 - `[`2026-04135`]` **[Offshore Downhole Commingling Regulatory Updates](https://www.indexdata.org/offshore-downhole-commingling-regulatory-updates/)** — `2026-03-02` | `4 Pages`
 - `[`2026-03476`]` **[Oil and Gas and Sulfur Operations in the Outer Continental Shelf-Revisions to the 2023 Blowout Preventer Systems and Well Control Rule](https://www.indexdata.org/oil-and-gas-and-sulfur-operations-in-the-outer-continental-shelf-revisions-to-the-2023-blowout-preventer-systems-and-well-control-rule/)** — `2026-02-23` | `6 Pages`
 
+### [Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
+
+- `[`2026-10373`]` **[Registered Offering Reform](https://www.indexdata.org/registered-offering-reform/)** — `2026-05-26` | `260 Pages`
+- `[`2026-10222`]` **[Enhancement of Emerging Growth Company Accommodations and Simplification of Filer Status for Reporting Companies](https://www.indexdata.org/enhancement-of-emerging-growth-company-accommodations-and-simplification-of-filer-status-for-reporting-companies/)** — `2026-05-21` | `105 Pages`
+
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 
@@ -2196,11 +2201,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 
 - `[`2026-05564`]` **[Required Use by Foreign Applicants and Patent Owners of a Patent Practitioner](https://www.indexdata.org/required-use-by-foreign-applicants-and-patent-owners-of-a-patent-practitioner/)** — `2026-03-20` | `10 Pages`
-
-### [Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-
-- `[`2026-10222`]` **[Enhancement of Emerging Growth Company Accommodations and Simplification of Filer Status for Reporting Companies](https://www.indexdata.org/enhancement-of-emerging-growth-company-accommodations-and-simplification-of-filer-status-for-reporting-companies/)** — `2026-05-21` | `105 Pages`
 
 ### [Tennessee Valley Authority](https://www.indexdata.org/united-states/tennessee-valley-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/tennessee-valley-authority/](https://www.indexdata.org/united-states/tennessee-valley-authority/) | [RSS Feed](https://www.indexdata.org/united-states/tennessee-valley-authority/feed/)

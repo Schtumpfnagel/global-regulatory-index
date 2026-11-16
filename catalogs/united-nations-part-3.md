@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,980` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,982` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-16 15:03 UTC`
+**Last Automated Sync:** `2026-11-16 16:02 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,019` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,980)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,982)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1227,7 +1227,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 - `[`UN-S-2026-31`]` **[United Nations Integrated Office in Haiti — report of the Secretary-General](https://www.indexdata.org/s-2026-31-united-nations-integrated-office-in-haiti-report-of-the-secretary-general/)** — `2026-01-15` | `27 Pages`
 - `[`UN-S-2026-30`]` **[Letter dated 14 January 2026 from the Permanent Representative of the Islamic Republic of Iran to the United Nations addressed to the Secretary-General](https://www.indexdata.org/s-2026-30-letter-dated-14-january-2026-from-the-permanent-representative-of-the-islamic-republic-of-iran-to-the-united-nations-addressed-to-the-secretary-general/)** — `2026-01-14` | `2 Pages`
 - `[`UN-S-2026-29`]` **[Letter dated 13 January 2026 from the Permanent Representative of the Islamic Republic of Iran to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-29-letter-dated-13-january-2026-from-the-permanent-representative-of-the-islamic-republic-of-iran-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-co/)** — `2026-01-14` | `2 Pages`
-- `[`UN-S-2026-28`]` **[Letter dated 13 January 2026 from the Permanent Representative of Somalia to the United Nations addressed to the Secretary-General](https://www.indexdata.org/s-2026-28-letter-dated-13-january-2026-from-the-permanent-representative-of-somalia-to-the-united-nations-addressed-to-the-secretary-general/)** — `2026-01-14` | `5 Pages`
 
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
@@ -1584,7 +1583,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/programme
 - `[`UN-DP-FPA-CPD-MEX-8`]` **[United Nations Population Fund — country programme document for Mexico](https://www.indexdata.org/dp-fpa-cpd-mex-8-united-nations-population-fund-country-programme-document-for-mexico/)** — `2026-01-22` | `11 Pages`
 - `[`UN-DP-FPA-CPD-CUB-10`]` **[United Nations Population Fund — Country programme document for Cuba](https://www.indexdata.org/dp-fpa-cpd-cub-10-united-nations-population-fund-country-programme-document-for-cuba/)** — `2026-01-22` | `12 Pages`
 - `[`UN-DP-FPA-CPD-ARG-2`]` **[United Nations Population Fund — country programme document for Argentina](https://www.indexdata.org/dp-fpa-cpd-arg-2-united-nations-population-fund-country-programme-document-for-argentina/)** — `2026-01-22` | `11 Pages`
-- `[`UN-DP-FPA-2026-8`]` **[United Nations Population Fund — extensions of country programmes](https://www.indexdata.org/dp-fpa-2026-8-united-nations-population-fund-extensions-of-country-programmes/)** — `2026-01-14` | `3 Pages`
 
 ### [United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-secretariat/](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
@@ -1728,6 +1726,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/non-proli
 - `[`UN-NPT-CONF.2026-WP.42`]` **[Non-Proliferation and Disarmament Initiative joint statement: towards the eleventh Review Conference, 2026 — working paper](https://www.indexdata.org/npt-conf-2026-wp-42-non-proliferation-and-disarmament-initiative-joint-statement-towards-the-eleventh-review-conference-2026-working-paper/)** — `2026-04-13` | `3 Pages`
 - `[`UN-NPT-CONF.2026-WP.32`]` **[Recommendations for consideration by the 2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons — joint working paper](https://www.indexdata.org/npt-conf-2026-wp-32-recommendations-for-consideration-by-the-2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons-joint-working-paper/)** — `2026-03-25` | `13 Pages`
 
+### [African Commission on Nuclear Energy](https://www.indexdata.org/united-nations/african-commission-on-nuclear-energy/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/african-commission-on-nuclear-energy/](https://www.indexdata.org/united-nations/african-commission-on-nuclear-energy/) | [RSS Feed](https://www.indexdata.org/united-nations/african-commission-on-nuclear-energy/feed/)
+
+- `[`UN-NPT-CONF.2026-34`]` **[Activities of the African Commission on Nuclear Energy relating to the African Nuclear-Weapon-Free Zone Treaty — memorandum of the African Commission on Nuclear Energy](https://www.indexdata.org/npt-conf-2026-34-activities-of-the-african-commission-on-nuclear-energy-relating-to-the-african-nuclear-weapon-free-zone-treaty-memorandum-of-the-african-commission-on-nuclear-energy/)** — `2026-04-17` | `7 Pages`
+
 ### [Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean (OPANAL)](https://www.indexdata.org/united-nations/agency-for-the-prohibition-of-nuclear-weapons-in-latin-america-and-the-caribbean-opanal/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/agency-for-the-prohibition-of-nuclear-weapons-in-latin-america-and-the-caribbean-opanal/](https://www.indexdata.org/united-nations/agency-for-the-prohibition-of-nuclear-weapons-in-latin-america-and-the-caribbean-opanal/) | [RSS Feed](https://www.indexdata.org/united-nations/agency-for-the-prohibition-of-nuclear-weapons-in-latin-america-and-the-caribbean-opanal/feed/)
 
@@ -1867,6 +1870,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/norwegian
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/pacific-islands-forum-secretariat/](https://www.indexdata.org/united-nations/pacific-islands-forum-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/pacific-islands-forum-secretariat/feed/)
 
 - `[`UN-NPT-CONF.2026-2`]` **[Memorandum on activities relating to the South Pacific Nuclear Free Zone Treaty](https://www.indexdata.org/npt-conf-2026-2-memorandum-on-activities-relating-to-the-south-pacific-nuclear-free-zone-treaty/)** — `2026-02-09` | `9 Pages`
+
+### [People's Republic of China](https://www.indexdata.org/united-nations/people-s-republic-of-china/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/people-s-republic-of-china/](https://www.indexdata.org/united-nations/people-s-republic-of-china/) | [RSS Feed](https://www.indexdata.org/united-nations/people-s-republic-of-china/feed/)
+
+- `[`UN-NPT-CONF.2026-33`]` **[Implementation of the Treaty on the Non-Proliferation of Nuclear Weapons in the People's Republic of China — national report](https://www.indexdata.org/npt-conf-2026-33-implementation-of-the-treaty-on-the-non-proliferation-of-nuclear-weapons-in-the-peoples-republic-of-china-national-report/)** — `2026-04-17` | `23 Pages`
 
 ### [Permanent Mission of Algeria to the United Nations](https://www.indexdata.org/united-nations/permanent-mission-of-algeria-to-the-united-nations/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/permanent-mission-of-algeria-to-the-united-nations/](https://www.indexdata.org/united-nations/permanent-mission-of-algeria-to-the-united-nations/) | [RSS Feed](https://www.indexdata.org/united-nations/permanent-mission-of-algeria-to-the-united-nations/feed/)

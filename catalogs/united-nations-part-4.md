@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,980` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,982` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-16 15:03 UTC`
+**Last Automated Sync:** `2026-11-16 16:02 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,017` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,019` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,980)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,982)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -624,8 +624,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-RES-79-146`]` **[Implementation of the outcome of the World Summit for Social Development and of the 24th special session of the General Assembly — resolution](https://www.indexdata.org/a-res-79-146-implementation-of-the-outcome-of-the-world-summit-for-social-development-and-of-the-24th-special-session-of-the-general-assembly-resolution/)** — `2024-12-19` | `20 Pages`
 - `[`UN-A-RES-79-233`]` **[Programme of Action for Landlocked Developing Countries for the Decade 2024–2034 — resolution](https://www.indexdata.org/a-res-79-233-programme-of-action-for-landlocked-developing-countries-for-the-decade-2024-2034-resolution/)** — `2024-12-18` | `48 Pages`
 - `[`UN-A-79-L.43`]` **[Cooperation between the United Nations and the Community of Portuguese-speaking Countries — draft resolution](https://www.indexdata.org/a-79-l-43-cooperation-between-the-united-nations-and-the-community-of-portuguese-speaking-countries-draft-resolution/)** — `2024-12-11` | `5 Pages`
-- `[`UN-A-79-7-Add.33`]` **[Programme of Action for Landlocked Developing Countries for the Decade 2024-2034 : programme budget implications of draft resolution A/79/L.21 — 34th report of the Advisory Committee on Administrative and Budgetary Questions on the proposed programme budget for 2025](https://www.indexdata.org/a-79-7-add-33-programme-of-action-for-landlocked-developing-countries-for-the-decade-2024-2034-programme-budget-implications-of-draft-resolution-a-79-l-21-34th-report-of-the-advisory-com/)** — `2024-12-10` | `4 Pages`
-- `[`UN-A-RES-79-56`]` **[Implementation of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction — resolution](https://www.indexdata.org/a-res-79-56-implementation-of-the-convention-on-the-prohibition-of-the-development-production-stockpiling-and-use-of-chemical-weapons-and-on-their-destruction-resolution/)** — `2024-12-09` | `8 Pages`
 
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -1603,6 +1601,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-2026-28`]` **[Letter dated 13 January 2026 from the Permanent Representative of Somalia to the United Nations addressed to the Secretary-General](https://www.indexdata.org/s-2026-28-letter-dated-13-january-2026-from-the-permanent-representative-of-somalia-to-the-united-nations-addressed-to-the-secretary-general/)** — `2026-01-14` | `5 Pages`
 - `[`UN-S-2026-26`]` **[Letter dated 12 January 2026 from the Permanent Representative of Türkiye to the United Nations addressed to the President of the Security Council](https://www.indexdata.org/s-2026-26-letter-dated-12-january-2026-from-the-permanent-representative-of-turkiye-to-the-united-nations-addressed-to-the-president-of-the-security-council/)** — `2026-01-13` | `5 Pages`
 - `[`UN-S-2026-21`]` **[Letter dated 9 January 2026 from the Permanent Representative of the Islamic Republic of Iran to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-21-letter-dated-9-january-2026-from-the-permanent-representative-of-the-islamic-republic-of-iran-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-cou/)** — `2026-01-09` | `2 Pages`
 - `[`UN-S-2026-15`]` **[Letter dated 5 January 2026 from the Permanent Representatives of Denmark and Sierra Leone to the United Nations addressed to the President of the Security Council](https://www.indexdata.org/s-2026-15-letter-dated-5-january-2026-from-the-permanent-representatives-of-denmark-and-sierra-leone-to-the-united-nations-addressed-to-the-president-of-the-security-council/)** — `2026-01-06` | `10 Pages`
@@ -1687,6 +1686,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-na
 ### [Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/programmes-and-funds/](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
 
+- `[`UN-DP-FPA-2026-8`]` **[United Nations Population Fund — extensions of country programmes](https://www.indexdata.org/dp-fpa-2026-8-united-nations-population-fund-extensions-of-country-programmes/)** — `2026-01-14` | `3 Pages`
 - `[`UN-DP-FPA-2026-3`]` **[United Nations Population Fund : report on addressing racism and racial discrimination](https://www.indexdata.org/dp-fpa-2026-3-united-nations-population-fund-report-on-addressing-racism-and-racial-discrimination/)** — `2026-01-14` | `10 Pages`
 - `[`UN-DP-FPA-2026-2`]` **[United Nations Population Fund : report on the recommendations of the United Nations Board of Auditors for 2024 : status of implementation — report of the Executive Director](https://www.indexdata.org/dp-fpa-2026-2-united-nations-population-fund-report-on-the-recommendations-of-the-united-nations-board-of-auditors-for-2024-status-of-implementation-report-of-the-executive-director/)** — `2026-01-14` | `24 Pages`
 - `[`UN-DP-FPA-2026-1`]` **[United Nations Population Fund — multi-year costed evaluation plan, 2026-2029](https://www.indexdata.org/dp-fpa-2026-1-united-nations-population-fund-multi-year-costed-evaluation-plan-2026-2029/)** — `2026-01-14` | `9 Pages`
