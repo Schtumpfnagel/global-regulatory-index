@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,018` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,025` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-16 13:06 UTC`
+**Last Automated Sync:** `2026-11-16 13:59 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,080` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,086` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,033` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`625` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
-- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`438` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
+- **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`439` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 - **[European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)** (`129` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/) | [Wikidata `Q130146`](https://www.wikidata.org/wiki/Q130146)
 - **[European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
@@ -45,11 +45,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,018)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,025)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
 
+- `[`EIB-EVT-jeremie_and_jessica_delivering_results_conference_programme_en`]` **[JEREMIE and JESSICA Delivering Results Conference Programme](https://www.indexdata.org/jeremie-and-jessica-delivering-results-conference-programme/)** — `2025-04-15` | `3 Pages`
+- `[`EIB-EVT-investment_and_growth_in_the_time_of_climate_change_programme_en`]` **[EIB Policy Conference: Investment and Growth in the Time of Climate Change Programme](https://www.indexdata.org/eib-policy-conference-investment-and-growth-in-the-time-of-climate-change-programme/)** — `2025-04-15` | `2 Pages`
+- `[`EIB-EVT-imf-wb-annual-meetings-programme-2020-en`]` **[EIB Policy Conference: Imf wb Annual Meetings Programme 2020](https://www.indexdata.org/eib-policy-conference-imf-wb-annual-meetings-programme-2020/)** — `2025-04-15` | `5 Pages`
 - `[`EIB-EVT-ig_good_governance_workshop_summary_en`]` **[EIB Policy Conference: Ig Good Governance Workshop Summary](https://www.indexdata.org/eib-policy-conference-ig-good-governance-workshop-summary/)** — `2025-04-15` | `16 Pages`
 - `[`EIB-EVT-helsinki_261112_programme_en`]` **[EIB Policy Conference: Helsinki 261112 Programme](https://www.indexdata.org/eib-policy-conference-helsinki-261112-programme/)** — `2025-04-15` | `5 Pages`
 - `[`EIB-EVT-hamburg_20111006_speakers_guide_en`]` **[EIB Policy Conference: Hamburg 20111006 Speakers Guide](https://www.indexdata.org/eib-policy-conference-hamburg-20111006-speakers-guide/)** — `2025-04-15` | `21 Pages`
@@ -196,6 +199,9 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-briefing2005_tens_en`]` **[EIB Policy Conference: Briefing2005 Tens](https://www.indexdata.org/eib-policy-conference-briefing2005-tens/)** — `2025-04-15` | `2 Pages`
 - `[`EIB-EVT-briefing2005_smes_en`]` **[EIB Policy Conference: Briefing2005 SMEs](https://www.indexdata.org/eib-policy-conference-briefing2005-smes/)** — `2025-04-15` | `2 Pages`
 - `[`EIB-EVT-briefing2005_i2i_en`]` **[EIB Policy Conference: Briefing2005 i2i](https://www.indexdata.org/eib-policy-conference-briefing2005-i2i/)** — `2025-04-15` | `2 Pages`
+- `[`EIB-EVT-briefing2005_humancapital_en`]` **[EIB Policy Conference: Briefing2005 Humancapital](https://www.indexdata.org/eib-policy-conference-briefing2005-humancapital/)** — `2025-04-15` | `2 Pages`
+- `[`EIB-EVT-briefing2005_femip_en`]` **[Briefing2005 FEMIP](https://www.indexdata.org/briefing2005-femip/)** — `2025-04-15` | `2 Pages`
+- `[`EIB-EVT-briefing2005_environment_en`]` **[EIB Policy Conference: Briefing2005 Environment](https://www.indexdata.org/eib-policy-conference-briefing2005-environment/)** — `2025-04-15` | `3 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1544,12 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-CM-sg-e-2012-08-rivne-kyiv-high-voltage-line-complaint-en`]` **[EIB Complaints Mechanism: Sg e 2012 08 Rivne Kyiv High Voltage Line Complaint](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2012-08-rivne-kyiv-high-voltage-line-complaint/)** — `2025-04-11` | `4 Pages`
 - `[`EIB-CM-sg-e-2012-07-mediation-report-en`]` **[EIB Complaints Mechanism: Sg e 2012 07 Mediation Report](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2012-07-mediation-report/)** — `2025-04-11` | `5 Pages`
 - `[`EIB-CM-sg-e-2012-07-larnaca-sewerage-and-drainage-i-mediation-report-en`]` **[EIB Complaints Mechanism: Sg e 2012 07 Larnaca Sewerage and Drainage i Mediation Report](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2012-07-larnaca-sewerage-and-drainage-i-mediation-report/)** — `2025-04-11` | `5 Pages`
-- `[`EIB-CM-sg-e-2012-07-larnaca-sewerage-and-drainage-i-initial-assessment-report-en`]` **[EIB Complaints Mechanism: Sg e 2012 07 Larnaca Sewerage and Drainage i Initial Assessment Report](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2012-07-larnaca-sewerage-and-drainage-i-initial-assessment-report/)** — `2025-04-11` | `24 Pages`
-- `[`EIB-CM-sg-e-2012-07-initial-assessment-report-en`]` **[EIB Complaints Mechanism: Sg e 2012 07 Initial Assessment Report](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2012-07-initial-assessment-report/)** — `2025-04-11` | `24 Pages`
-- `[`EIB-CM-sg-e-2012-05-valencia-centros-escolares-translation-of-complaint-en`]` **[EIB Complaints Mechanism: Sg e 2012 05 Valencia Centros Escolares Translation of Complaint](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2012-05-valencia-centros-escolares-translation-of-complaint/)** — `2025-04-11` | `4 Pages`
-- `[`EIB-CM-sg-e-2012-02-municipal-and-regional-infr-loan-conclusions-report-en`]` **[EIB Complaints Mechanism: Sg e 2012 02 Municipal and Regional Infr Loan Conclusions Report](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2012-02-municipal-and-regional-infr-loan-conclusions-report/)** — `2025-04-11` | `12 Pages`
-- `[`EIB-CM-sg-e-2012-02-municipal-and-regional-infr-loan-complaint-en`]` **[EIB Complaints Mechanism: Sg e 2012 02 Municipal and Regional Infr Loan Complaint](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2012-02-municipal-and-regional-infr-loan-complaint/)** — `2025-04-11` | `2 Pages`
-- `[`EIB-CM-sg-e-2012-02-conclusions-report-en_redacted`]` **[EIB Complaints Mechanism: Sg e 2012 02 Conclusions Report en Redacted](https://www.indexdata.org/eib-complaints-mechanism-sg-e-2012-02-conclusions-report-en-redacted/)** — `2025-04-11` | `12 Pages`
 
 ---
 
