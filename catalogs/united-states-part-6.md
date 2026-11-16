@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,416` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,418` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 18:55 UTC`
+**Last Automated Sync:** `2026-11-16 20:04 UTC`
 
 ---
 
@@ -58,8 +58,8 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,416)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,418)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -632,11 +632,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-25390`]` **[Airworthiness Directives; Various Helicopters](https://www.indexdata.org/airworthiness-directives-various-helicopters-9/)** — `2024-10-31` | `5 Pages`
 - `[`2024-25365`]` **[Airworthiness Directives; Lycoming Engines](https://www.indexdata.org/airworthiness-directives-lycoming-engines-4/)** — `2024-10-31` | `3 Pages`
 - `[`2024-25339`]` **[Modification of Class D Airspace, Establishment of Class E Airspace; San Bernardino International Airport, San Bernardino, CA](https://www.indexdata.org/modification-of-class-d-airspace-establishment-of-class-e-airspace-san-bernardino-international-airport-san-bernardino-ca-2/)** — `2024-10-31` | `2 Pages`
-- `[`2024-25238`]` **[Airworthiness Criteria: Special Class Airworthiness Criteria for the AgustaWestland Philadelphia Corporation Model AW609 Powered-Lift](https://www.indexdata.org/airworthiness-criteria-special-class-airworthiness-criteria-for-the-agustawestland-philadelphia-corporation-model-aw609-powered-lift/)** — `2024-10-31` | `5 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-04041`]` **[Air Plan Revisions; California; Feather River Air Quality Management District](https://www.indexdata.org/air-plan-revisions-california-feather-river-air-quality-management-district/)** — `2025-03-19` | `3 Pages`
 - `[`2025-04039`]` **[Air Plan Revisions; Arizona; Arizona Department of Environmental Quality; Reopening of Comment Period](https://www.indexdata.org/air-plan-revisions-arizona-arizona-department-of-environmental-quality-reopening-of-comment-period/)** — `2025-03-18` | `2 Pages`
 - `[`2025-04036`]` **[Air Plan Approval; California; Eastern Kern Air Pollution Control District; Tehama County Air Pollution Control District; San Diego County Air Pollution Control District; Emissions Statement Requirements](https://www.indexdata.org/air-plan-approval-california-eastern-kern-air-pollution-control-district-tehama-county-air-pollution-control-district-san-diego-county-air-pollution-control-district-emissions-statement-requireme/)** — `2025-03-18` | `3 Pages`
 - `[`2025-04035`]` **[Extension of the Attainment Date of the Coachella Valley Extreme Nonattainment Area Under the 1997 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/extension-of-the-attainment-date-of-the-coachella-valley-extreme-nonattainment-area-under-the-1997-ozone-national-ambient-air-quality-standards-2/)** — `2025-03-17` | `5 Pages`
@@ -992,7 +992,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-25647`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Western Regulatory Area of the Gulf of Alaska](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western-regulatory-area-of-the-gulf-of-alaska-3/)** — `2024-11-05` | `2 Pages`
 - `[`2024-25419`]` **[Marine Mammal Protection Act List of Fisheries for 2025; Reopening Public Comment Period](https://www.indexdata.org/marine-mammal-protection-act-list-of-fisheries-for-2025-reopening-public-comment-period/)** — `2024-11-01` | `2 Pages`
 - `[`2024-25412`]` **[Atlantic Surfclam and Ocean Quahog Fisheries; 2025 Fishing Quotas for Atlantic Surfclams and Ocean Quahogs; and Suspension of Atlantic Surfclam Minimum Size Limit](https://www.indexdata.org/atlantic-surfclam-and-ocean-quahog-fisheries-2025-fishing-quotas-for-atlantic-surfclams-and-ocean-quahogs-and-suspension-of-atlantic-surfclam-minimum-size-limit/)** — `2024-11-01` | `2 Pages`
-- `[`2024-25229`]` **[Fisheries of the Exclusive Economic Zone off Alaska; Pacific Halibut Recreational Quota Entity Program Fee Collection](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-halibut-recreational-quota-entity-program-fee-collection-2/)** — `2024-10-31` | `12 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1497,6 +1496,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 
+- `[`2025-04083`]` **[Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability](https://www.indexdata.org/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability-2/)** — `2025-03-19` | `91 Pages`
 - `[`2025-02810`]` **[Privacy Act; Implementation](https://www.indexdata.org/privacy-act-implementation/)** — `2025-02-19` | `2 Pages`
 - `[`2025-00670`]` **[Privacy Act; Implementation](https://www.indexdata.org/privacy-act-implementation-2/)** — `2025-01-16` | `5 Pages`
 - `[`2025-00425`]` **[Mandatory Guidelines for Federal Workplace Drug Testing Programs-Authorized Testing Panels](https://www.indexdata.org/mandatory-guidelines-for-federal-workplace-drug-testing-programs-authorized-testing-panels-2/)** — `2025-01-16` | `7 Pages`

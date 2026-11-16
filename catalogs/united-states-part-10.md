@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,416` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,418` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 18:55 UTC`
+**Last Automated Sync:** `2026-11-16 20:04 UTC`
 
 ---
 
@@ -58,8 +58,8 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,416)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,418)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -641,11 +641,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-13875`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-165/)** — `2023-06-30` | `2 Pages`
 - `[`2023-13655`]` **[Establishment of Class E Airspace; Winnie/Stowell, TX](https://www.indexdata.org/establishment-of-class-e-airspace-winnie-stowell-tx/)** — `2023-06-28` | `2 Pages`
 - `[`2023-13617`]` **[Airworthiness Directives; Viking Air Limited (Type Certificate Previously Held by Bombardier Inc. and de Havilland, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-viking-air-limited-type-certificate-previously-held-by-bombardier-inc-and-de-havilland-inc-airplanes-6/)** — `2023-06-28` | `8 Pages`
-- `[`2023-13743`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-332/)** — `2023-06-27` | `5 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-22876`]` **[Guideline on Air Quality Models; Enhancements to the AERMOD Dispersion Modeling System](https://www.indexdata.org/guideline-on-air-quality-models-enhancements-to-the-aermod-dispersion-modeling-system-2/)** — `2023-10-23` | `43 Pages`
 - `[`2023-22526`]` **[Phasedown of Hydrofluorocarbons: Management of Certain Hydrofluorocarbons and Substitutes Under Subsection (h) of the American Innovation and Manufacturing Act of 2020](https://www.indexdata.org/phasedown-of-hydrofluorocarbons-management-of-certain-hydrofluorocarbons-and-substitutes-under-subsection-h-of-the-american-innovation-and-manufacturing-act-of-2020/)** — `2023-10-19` | `97 Pages`
 - `[`2023-22182`]` **[Protection of Stratospheric Ozone: Updates Related to the Use of Ozone-Depleting Substances as Process Agents](https://www.indexdata.org/protection-of-stratospheric-ozone-updates-related-to-the-use-of-ozone-depleting-substances-as-process-agents-2/)** — `2023-10-19` | `12 Pages`
 - `[`2023-22987`]` **[Findings of Failure To Submit State Implementation Plan Revisions for Reclassified Moderate Nonattainment Areas for the 2015 Ozone National Ambient Air Quality Standards (NAAQS)](https://www.indexdata.org/findings-of-failure-to-submit-state-implementation-plan-revisions-for-reclassified-moderate-nonattainment-areas-for-the-2015-ozone-national-ambient-air-quality-standards-naaqs/)** — `2023-10-18` | `5 Pages`
@@ -1201,7 +1201,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2023-14225`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for Green Sea Turtle](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-green-sea-turtle/)** — `2023-07-19` | `195 Pages`
 - `[`2023-13859`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Dunes Sagebrush Lizard](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-dunes-sagebrush-lizard-2/)** — `2023-07-03` | `17 Pages`
 - `[`2023-13672`]` **[Endangered and Threatened Wildlife and Plants; Designation of Experimental Populations](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-experimental-populations/)** — `2023-07-03` | `11 Pages`
-- `[`2023-12982`]` **[Endangered and Threatened Wildlife and Plants; Removal of the Okaloosa Darter From the Federal List of Endangered and Threatened Wildlife](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-the-okaloosa-darter-from-the-federal-list-of-endangered-and-threatened-wildlife/)** — `2023-06-28` | `20 Pages`
 
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -1535,6 +1534,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enfor
 - `[`2023-15748`]` **[Schedules of Controlled Substances: Temporary Placement of Etizolam, Flualprazolam, Clonazolam, Flubromazolam, and Diclazepam in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-etizolam-flualprazolam-clonazolam-flubromazolam-and-diclazepam-in-schedule-i/)** — `2023-07-26` | `7 Pages`
 - `[`2023-15508`]` **[Partial Filling of Prescriptions for Schedule II Controlled Substances](https://www.indexdata.org/partial-filling-of-prescriptions-for-schedule-ii-controlled-substances/)** — `2023-07-21` | `20 Pages`
 
+### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
+
+- `[`2023-23034`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-14/)** — `2023-10-23` | `3 Pages`
+- `[`2023-20013`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program-5/)** — `2023-09-21` | `5 Pages`
+- `[`2023-20350`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-16/)** — `2023-09-20` | `2 Pages`
+- `[`2023-20349`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-15/)** — `2023-09-20` | `2 Pages`
+- `[`2023-20348`]` **[Ohio Regulatory Program](https://www.indexdata.org/ohio-regulatory-program-4/)** — `2023-09-20` | `4 Pages`
+- `[`2023-20019`]` **[Missouri AML Plan](https://www.indexdata.org/missouri-aml-plan/)** — `2023-09-20` | `4 Pages`
+- `[`2023-20018`]` **[Texas Abandoned Mine Land Reclamation Plan and Regulations](https://www.indexdata.org/texas-abandoned-mine-land-reclamation-plan-and-regulations/)** — `2023-09-20` | `8 Pages`
+- `[`2023-16849`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-19/)** — `2023-08-07` | `3 Pages`
+- `[`2023-16848`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-18/)** — `2023-08-07` | `3 Pages`
+- `[`2023-16847`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-17/)** — `2023-08-07` | `3 Pages`
+
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 
@@ -1613,19 +1626,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and
 - `[`2023-15952`]` **[Health Resources Priorities and Allocations System (HRPAS)](https://www.indexdata.org/health-resources-priorities-and-allocations-system-hrpas-2/)** — `2023-08-16` | `17 Pages`
 - `[`2023-14290`]` **[Improving Child Care Access, Affordability, and Stability in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/improving-child-care-access-affordability-and-stability-in-the-child-care-and-development-fund-ccdf-2/)** — `2023-07-13` | `32 Pages`
 - `[`2023-14343`]` **[Control of Communicable Diseases; Foreign Quarantine: Importation of Dogs and Cats](https://www.indexdata.org/control-of-communicable-diseases-foreign-quarantine-importation-of-dogs-and-cats-2/)** — `2023-07-10` | `52 Pages`
-
-### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
-
-- `[`2023-20013`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program-5/)** — `2023-09-21` | `5 Pages`
-- `[`2023-20350`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-16/)** — `2023-09-20` | `2 Pages`
-- `[`2023-20349`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-15/)** — `2023-09-20` | `2 Pages`
-- `[`2023-20348`]` **[Ohio Regulatory Program](https://www.indexdata.org/ohio-regulatory-program-4/)** — `2023-09-20` | `4 Pages`
-- `[`2023-20019`]` **[Missouri AML Plan](https://www.indexdata.org/missouri-aml-plan/)** — `2023-09-20` | `4 Pages`
-- `[`2023-20018`]` **[Texas Abandoned Mine Land Reclamation Plan and Regulations](https://www.indexdata.org/texas-abandoned-mine-land-reclamation-plan-and-regulations/)** — `2023-09-20` | `8 Pages`
-- `[`2023-16849`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-19/)** — `2023-08-07` | `3 Pages`
-- `[`2023-16848`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-18/)** — `2023-08-07` | `3 Pages`
-- `[`2023-16847`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-17/)** — `2023-08-07` | `3 Pages`
 
 ### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)

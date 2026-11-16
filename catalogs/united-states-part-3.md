@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,416` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,418` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 18:55 UTC`
+**Last Automated Sync:** `2026-11-16 20:04 UTC`
 
 ---
 
@@ -58,8 +58,8 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
@@ -253,11 +253,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,416)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,418)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-10382`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-10/)** — `2026-05-26` | `4 Pages`
+- `[`2026-10381`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-43/)** — `2026-05-26` | `4 Pages`
 - `[`2026-10360`]` **[Airworthiness Directives; Pratt & Whitney RTX Corporation (Type Certificate Previously Held by Pratt & Whitney Division United Technologies Corporation) Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-rtx-corporation-type-certificate-previously-held-by-pratt-whitney-division-united-technologies-corporation-engines-2/)** — `2026-05-22` | `6 Pages`
 - `[`2026-10348`]` **[Amendment of United States Area Navigation Route T-306 and Establishment of United States Area Navigation Route T-647](https://www.indexdata.org/amendment-of-united-states-area-navigation-route-t-306-and-establishment-of-united-states-area-navigation-route-t-647/)** — `2026-05-22` | `4 Pages`
 - `[`2026-10346`]` **[Establishment of Class E Airspace; Monee, IL](https://www.indexdata.org/establishment-of-class-e-airspace-monee-il-2/)** — `2026-05-22` | `2 Pages`
@@ -1733,16 +1735,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2026-02866`]` **[Revision of the Negative Option Rule, Withdrawal of the CARS Rule, Removal of the Non-Compete Rule To Conform These Rules to Federal Court Decisions](https://www.indexdata.org/revision-of-the-negative-option-rule-withdrawal-of-the-cars-rule-removal-of-the-non-compete-rule-to-conform-these-rules-to-federal-court-decisions/)** — `2026-02-12` | `4 Pages`
 - `[`2026-01230`]` **[Petition for Rulemaking of Andrew Gonzalez](https://www.indexdata.org/petition-for-rulemaking-of-andrew-gonzalez-2/)** — `2026-01-23` | `2 Pages`
 
-### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
-
-- `[`2026-04486`]` **[General Services Property Management Regulation (GSPMR); Nondiscrimination on the Basis of the Age Act Regulation for Programs or Activities Receiving Federal Financial Assistance](https://www.indexdata.org/general-services-property-management-regulation-gspmr-nondiscrimination-on-the-basis-of-the-age-act-regulation-for-programs-or-activities-receiving-federal-financial-assistance/)** — `2026-03-06` | `8 Pages`
-- `[`2026-01710`]` **[Civilian Board of Contract Appeals; Rules of Procedure of the Civilian Board of Contract Appeals; Implementation of the Administrative False Claims Act](https://www.indexdata.org/civilian-board-of-contract-appeals-rules-of-procedure-of-the-civilian-board-of-contract-appeals-implementation-of-the-administrative-false-claims-act/)** — `2026-01-28` | `3 Pages`
-- `[`2026-01709`]` **[Civilian Board of Contract Appeals; Rules of Procedure of the Civilian Board of Contract Appeals; Administrative Changes to Agency Rules of Practice and Procedure](https://www.indexdata.org/civilian-board-of-contract-appeals-rules-of-procedure-of-the-civilian-board-of-contract-appeals-administrative-changes-to-agency-rules-of-practice-and-procedure/)** — `2026-01-28` | `10 Pages`
-- `[`2026-00929`]` **[Federal Travel Regulation; Reorganizing and Streamlining the Federal Travel Regulation To Improve Operational Efficiency](https://www.indexdata.org/federal-travel-regulation-reorganizing-and-streamlining-the-federal-travel-regulation-to-improve-operational-efficiency/)** — `2026-01-20` | `2 Pages`
-- `[`2026-00928`]` **[Federal Management Regulation; Updating the FMR To Align With the Administration's Deregulatory Priorities](https://www.indexdata.org/federal-management-regulation-updating-the-fmr-to-align-with-the-administrations-deregulatory-priorities/)** — `2026-01-20` | `2 Pages`
-- `[`2026-00927`]` **[Federal Management Regulation; Conduct on Federal Property](https://www.indexdata.org/federal-management-regulation-conduct-on-federal-property/)** — `2026-01-20` | `2 Pages`
-
 ### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
 
@@ -1809,6 +1801,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-safet
 - `[`2026-05746`]` **[Revising Establishment Size Definitions](https://www.indexdata.org/revising-establishment-size-definitions/)** — `2026-03-24` | `4 Pages`
 - `[`2026-03228`]` **[Maximum Line Speed Under the New Swine Slaughter Inspection System (NSIS)](https://www.indexdata.org/maximum-line-speed-under-the-new-swine-slaughter-inspection-system-nsis/)** — `2026-02-19` | `22 Pages`
 - `[`2026-03227`]` **[Maximum Line Speed Rates for Young Chicken and Turkey Establishments Operating Under the New Poultry Inspection System](https://www.indexdata.org/maximum-line-speed-rates-for-young-chicken-and-turkey-establishments-operating-under-the-new-poultry-inspection-system/)** — `2026-02-19` | `23 Pages`
+
+### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
+
+- `[`2026-04486`]` **[General Services Property Management Regulation (GSPMR); Nondiscrimination on the Basis of the Age Act Regulation for Programs or Activities Receiving Federal Financial Assistance](https://www.indexdata.org/general-services-property-management-regulation-gspmr-nondiscrimination-on-the-basis-of-the-age-act-regulation-for-programs-or-activities-receiving-federal-financial-assistance/)** — `2026-03-06` | `8 Pages`
+- `[`2026-01710`]` **[Civilian Board of Contract Appeals; Rules of Procedure of the Civilian Board of Contract Appeals; Implementation of the Administrative False Claims Act](https://www.indexdata.org/civilian-board-of-contract-appeals-rules-of-procedure-of-the-civilian-board-of-contract-appeals-implementation-of-the-administrative-false-claims-act/)** — `2026-01-28` | `3 Pages`
+- `[`2026-01709`]` **[Civilian Board of Contract Appeals; Rules of Procedure of the Civilian Board of Contract Appeals; Administrative Changes to Agency Rules of Practice and Procedure](https://www.indexdata.org/civilian-board-of-contract-appeals-rules-of-procedure-of-the-civilian-board-of-contract-appeals-administrative-changes-to-agency-rules-of-practice-and-procedure/)** — `2026-01-28` | `10 Pages`
+- `[`2026-00929`]` **[Federal Travel Regulation; Reorganizing and Streamlining the Federal Travel Regulation To Improve Operational Efficiency](https://www.indexdata.org/federal-travel-regulation-reorganizing-and-streamlining-the-federal-travel-regulation-to-improve-operational-efficiency/)** — `2026-01-20` | `2 Pages`
+- `[`2026-00928`]` **[Federal Management Regulation; Updating the FMR To Align With the Administration's Deregulatory Priorities](https://www.indexdata.org/federal-management-regulation-updating-the-fmr-to-align-with-the-administrations-deregulatory-priorities/)** — `2026-01-20` | `2 Pages`
 
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
@@ -2030,12 +2031,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 - `[`2026-05134`]` **[Certification Process for State Capital Counsel Systems](https://www.indexdata.org/certification-process-for-state-capital-counsel-systems/)** — `2026-03-16` | `8 Pages`
 - `[`2026-04390`]` **[Review of State Bar Complaints and Allegations Against Department of Justice Attorneys](https://www.indexdata.org/review-of-state-bar-complaints-and-allegations-against-department-of-justice-attorneys/)** — `2026-03-05` | `8 Pages`
 
-### [Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
-
-- `[`2026-06556`]` **[Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits-4/)** — `2026-04-03` | `3 Pages`
-- `[`2026-00909`]` **[Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits-5/)** — `2026-01-20` | `3 Pages`
-
 ### [Safety and Environmental Enforcement Bureau](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/feed/)
 
@@ -2201,6 +2196,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 
 - `[`2026-05564`]` **[Required Use by Foreign Applicants and Patent Owners of a Patent Practitioner](https://www.indexdata.org/required-use-by-foreign-applicants-and-patent-owners-of-a-patent-practitioner/)** — `2026-03-20` | `10 Pages`
+
+### [Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
+
+- `[`2026-06556`]` **[Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits-4/)** — `2026-04-03` | `3 Pages`
 
 ### [Tennessee Valley Authority](https://www.indexdata.org/united-states/tennessee-valley-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/tennessee-valley-authority/](https://www.indexdata.org/united-states/tennessee-valley-authority/) | [RSS Feed](https://www.indexdata.org/united-states/tennessee-valley-authority/feed/)

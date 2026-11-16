@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,416` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,418` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 18:55 UTC`
+**Last Automated Sync:** `2026-11-16 20:04 UTC`
 
 ---
 
@@ -58,8 +58,8 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,416)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,418)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -639,6 +639,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-14476`]` **[Air Plan Approval; South Carolina; Second Planning Period Regional Haze Plan](https://www.indexdata.org/air-plan-approval-south-carolina-second-planning-period-regional-haze-plan-2/)** — `2025-07-31` | `19 Pages`
 - `[`2025-14472`]` **[Finding of Failure To Attain and Reclassification of Area in New York as Serious for the 2015 Ozone National Ambient Air Quality Standards-Shinnecock Indian Nation](https://www.indexdata.org/finding-of-failure-to-attain-and-reclassification-of-area-in-new-york-as-serious-for-the-2015-ozone-national-ambient-air-quality-standards-shinnecock-indian-nation/)** — `2025-07-31` | `6 Pages`
 - `[`2025-14470`]` **[Air Plan Approval; New Jersey; Northern New Jersey and Southern New Jersey Counties' Second 10-Year Limited Maintenance Plan for the 2006 24-Hour PM2.5 Standard](https://www.indexdata.org/air-plan-approval-new-jersey-northern-new-jersey-and-southern-new-jersey-counties-second-10-year-limited-maintenance-plan-for-the-2006-24-hour-pm2-5-standard-2/)** — `2025-07-31` | `8 Pages`
 - `[`2025-14315`]` **[Designation of Areas for Air Quality Planning Purposes](https://www.indexdata.org/designation-of-areas-for-air-quality-planning-purposes/)** — `2025-07-29` | `2 Pages`
@@ -826,7 +827,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-04724`]` **[Extending the Reporting Deadline Under the Greenhouse Gas Reporting Rule for 2024 Data](https://www.indexdata.org/extending-the-reporting-deadline-under-the-greenhouse-gas-reporting-rule-for-2024-data/)** — `2025-03-20` | `5 Pages`
 - `[`2025-04707`]` **[Potassium Polyaspartate in Pesticide Formulations; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/potassium-polyaspartate-in-pesticide-formulations-exemption-from-the-requirement-of-a-tolerance/)** — `2025-03-20` | `4 Pages`
 - `[`2025-04653`]` **[National Emission Standards for Hazardous Air Pollutants: Chemical Manufacturing Area Sources Technology Review; Comment Period Extension](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-chemical-manufacturing-area-sources-technology-review-comment-period-extension/)** — `2025-03-20` | `2 Pages`
-- `[`2025-04041`]` **[Air Plan Revisions; California; Feather River Air Quality Management District](https://www.indexdata.org/air-plan-revisions-california-feather-river-air-quality-management-district/)** — `2025-03-19` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1874,13 +1874,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2025-09833`]` **[Civil Monetary Penalties Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustments/)** — `2025-06-03` | `3 Pages`
 - `[`2025-08294`]` **[Tribal Consultation for 8(a) Business Development Program and Mentor-Protégé Program Issues and Best Practices](https://www.indexdata.org/tribal-consultation-for-8a-business-development-program-and-mentor-protege-program-issues-and-best-practices/)** — `2025-05-12` | `2 Pages`
 
-### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-
-- `[`2025-11606`]` **[Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability](https://www.indexdata.org/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability/)** — `2025-06-25` | `151 Pages`
-- `[`2025-09411`]` **[World Trade Center (WTC) Health Program; Expanded Eligibility for Pentagon and Shanksville, Pennsylvania Responders](https://www.indexdata.org/world-trade-center-wtc-health-program-expanded-eligibility-for-pentagon-and-shanksville-pennsylvania-responders/)** — `2025-05-27` | `3 Pages`
-- `[`2025-04083`]` **[Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability](https://www.indexdata.org/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability-2/)** — `2025-03-19` | `91 Pages`
-
 ### [Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 
@@ -1916,6 +1909,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-reg
 - `[`2025-12786`]` **[System for Regulating Rates and Classes for Market Dominant Products](https://www.indexdata.org/system-for-regulating-rates-and-classes-for-market-dominant-products-3/)** — `2025-07-10` | `2 Pages`
 - `[`2025-10758`]` **[System for Regulating Rates and Classes for Market Dominant Products](https://www.indexdata.org/system-for-regulating-rates-and-classes-for-market-dominant-products-4/)** — `2025-06-13` | `2 Pages`
 
+### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
+
+- `[`2025-14486`]` **[The 81-Month Rule for Dependents' Education Assistance](https://www.indexdata.org/the-81-month-rule-for-dependents-education-assistance/)** — `2025-07-31` | `2 Pages`
+- `[`2025-13751`]` **[Expansion of VA Process for 72-Hour Notification of Emergency Treatment](https://www.indexdata.org/expansion-of-va-process-for-72-hour-notification-of-emergency-treatment-2/)** — `2025-07-22` | `3 Pages`
+- `[`2025-10435`]` **[Reporting to the National Practitioner Data Bank](https://www.indexdata.org/reporting-to-the-national-practitioner-data-bank/)** — `2025-06-11` | `4 Pages`
+
 ### [Wage and Hour Division](https://www.indexdata.org/united-states/wage-and-hour-division/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/wage-and-hour-division/](https://www.indexdata.org/united-states/wage-and-hour-division/) | [RSS Feed](https://www.indexdata.org/united-states/wage-and-hour-division/feed/)
 
@@ -1946,6 +1946,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 
 - `[`2025-05904`]` **[Children's Online Privacy Protection Rule](https://www.indexdata.org/childrens-online-privacy-protection-rule/)** — `2025-04-22` | `66 Pages`
 - `[`2025-04295`]` **[Petition for Rulemaking of American Apparel & Footwear Association](https://www.indexdata.org/petition-for-rulemaking-of-american-apparel-footwear-association/)** — `2025-03-19` | `2 Pages`
+
+### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+
+- `[`2025-11606`]` **[Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability](https://www.indexdata.org/patient-protection-and-affordable-care-act-marketplace-integrity-and-affordability/)** — `2025-06-25` | `151 Pages`
+- `[`2025-09411`]` **[World Trade Center (WTC) Health Program; Expanded Eligibility for Pentagon and Shanksville, Pennsylvania Responders](https://www.indexdata.org/world-trade-center-wtc-health-program-expanded-eligibility-for-pentagon-and-shanksville-pennsylvania-responders/)** — `2025-05-27` | `3 Pages`
 
 ### [Labor Department](https://www.indexdata.org/united-states/labor-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/labor-department/](https://www.indexdata.org/united-states/labor-department/) | [RSS Feed](https://www.indexdata.org/united-states/labor-department/feed/)
@@ -1988,12 +1994,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/treasury-d
 
 - `[`2025-08504`]` **[Privacy Act of 1974; Exempting a System of Records From Certain Requirements](https://www.indexdata.org/privacy-act-of-1974-exempting-a-system-of-records-from-certain-requirements/)** — `2025-05-14` | `3 Pages`
 - `[`2025-06353`]` **[Eliminating Unnecessary Regulations](https://www.indexdata.org/eliminating-unnecessary-regulations-2/)** — `2025-04-15` | `3 Pages`
-
-### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
-
-- `[`2025-13751`]` **[Expansion of VA Process for 72-Hour Notification of Emergency Treatment](https://www.indexdata.org/expansion-of-va-process-for-72-hour-notification-of-emergency-treatment-2/)** — `2025-07-22` | `3 Pages`
-- `[`2025-10435`]` **[Reporting to the National Practitioner Data Bank](https://www.indexdata.org/reporting-to-the-national-practitioner-data-bank/)** — `2025-06-11` | `4 Pages`
 
 ### [Agriculture Department](https://www.indexdata.org/united-states/agriculture-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agriculture-department/](https://www.indexdata.org/united-states/agriculture-department/) | [RSS Feed](https://www.indexdata.org/united-states/agriculture-department/feed/)

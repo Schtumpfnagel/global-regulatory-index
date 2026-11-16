@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,416` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,418` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 18:55 UTC`
+**Last Automated Sync:** `2026-11-16 20:04 UTC`
 
 ---
 
@@ -58,8 +58,8 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,416)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,418)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -621,6 +621,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-14408`]` **[Receipt of a Pesticide Petition Filed for Residues of Pesticide Chemicals in or on Various Commodities (May 2024)](https://www.indexdata.org/receipt-of-a-pesticide-petition-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-may-2024/)** — `2024-07-01` | `5 Pages`
 - `[`2024-14268`]` **[Air Plan Approval; New Jersey; Interstate Transport Requirements for the 2010 1-Hour Sulfur Dioxide Standard](https://www.indexdata.org/air-plan-approval-new-jersey-interstate-transport-requirements-for-the-2010-1-hour-sulfur-dioxide-standard-2/)** — `2024-07-01` | `3 Pages`
 - `[`2024-14136`]` **[Air Plan Approval; State of Utah; Utah State Implementation Plan Revisions](https://www.indexdata.org/air-plan-approval-state-of-utah-utah-state-implementation-plan-revisions/)** — `2024-07-01` | `5 Pages`
 - `[`2024-14119`]` **[Air Plan Approval; Iowa; Linn County Ordinances](https://www.indexdata.org/air-plan-approval-iowa-linn-county-ordinances/)** — `2024-07-01` | `3 Pages`
@@ -1629,18 +1630,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2024-05624`]` **[Exemption for Certain Investment Advisers Operating Through the Internet; Correction](https://www.indexdata.org/exemption-for-certain-investment-advisers-operating-through-the-internet-correction/)** — `2024-03-18` | `2 Pages`
 - `[`2024-03473`]` **[Form PF; Reporting Requirements for All Filers and Large Hedge Fund Advisers](https://www.indexdata.org/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers-2/)** — `2024-03-12` | `178 Pages`
 
-### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
-
-- `[`2024-12685`]` **[Privacy Act Regulations](https://www.indexdata.org/privacy-act-regulations-3/)** — `2024-06-17` | `8 Pages`
-- `[`2024-12125`]` **[Event Contracts](https://www.indexdata.org/event-contracts-2/)** — `2024-06-10` | `33 Pages`
-- `[`2024-11798`]` **[Large Trader Reporting Requirements](https://www.indexdata.org/large-trader-reporting-requirements/)** — `2024-06-03` | `22 Pages`
-- `[`2024-10342`]` **[Capital and Financial Reporting Requirements for Swap Dealers and Major Swap Participants](https://www.indexdata.org/capital-and-financial-reporting-requirements-for-swap-dealers-and-major-swap-participants/)** — `2024-05-23` | `26 Pages`
-- `[`2024-09368`]` **[Swap Confirmation Requirements for Swap Execution Facilities](https://www.indexdata.org/swap-confirmation-requirements-for-swap-execution-facilities/)** — `2024-05-01` | `14 Pages`
-- `[`2024-08872`]` **[Requirements for Designated Contract Markets and Swap Execution Facilities Regarding Governance and the Mitigation of Conflicts of Interest Impacting Market Regulation Functions](https://www.indexdata.org/requirements-for-designated-contract-markets-and-swap-execution-facilities-regarding-governance-and-the-mitigation-of-conflicts-of-interest-impacting-market-regulation-functions/)** — `2024-04-25` | `2 Pages`
-- `[`2024-04938`]` **[Requirements for Designated Contract Markets and Swap Execution Facilities Regarding Governance and the Mitigation of Conflicts of Interest Impacting Market Regulation Functions](https://www.indexdata.org/requirements-for-designated-contract-markets-and-swap-execution-facilities-regarding-governance-and-the-mitigation-of-conflicts-of-interest-impacting-market-regulation-functions-2/)** — `2024-03-19` | `81 Pages`
-- `[`2024-04117`]` **[Foreign Boards of Trade](https://www.indexdata.org/foreign-boards-of-trade-2/)** — `2024-03-01` | `12 Pages`
-
 ### [Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-benefits-security-administration/](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 
@@ -1664,18 +1653,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2024-07077`]` **[Energy Labeling Rule; Extension of Comment Period](https://www.indexdata.org/energy-labeling-rule-extension-of-comment-period/)** — `2024-04-02` | `2 Pages`
 - `[`2024-06468`]` **[Trade Regulation Rule on Unfair or Deceptive Fees](https://www.indexdata.org/trade-regulation-rule-on-unfair-or-deceptive-fees-2/)** — `2024-03-27` | `7 Pages`
 - `[`2024-04335`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-2/)** — `2024-03-01` | `15 Pages`
-
-### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-
-- `[`2024-13716`]` **[Improving Child Care Access, Affordability, and Stability in the Child Care and Development Fund (CCDF); Corrections](https://www.indexdata.org/improving-child-care-access-affordability-and-stability-in-the-child-care-and-development-fund-ccdf-corrections/)** — `2024-06-24` | `3 Pages`
-- `[`2024-12469`]` **[Privacy Act; Implementation](https://www.indexdata.org/privacy-act-implementation-4/)** — `2024-06-07` | `5 Pages`
-- `[`2024-09676`]` **[Control of Communicable Diseases; Foreign Quarantine: Importation of Dogs and Cats](https://www.indexdata.org/control-of-communicable-diseases-foreign-quarantine-importation-of-dogs-and-cats/)** — `2024-05-13` | `123 Pages`
-- `[`2024-09237`]` **[Nondiscrimination on the Basis of Disability in Programs or Activities Receiving Federal Financial Assistance](https://www.indexdata.org/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial-assistance-3/)** — `2024-05-09` | `130 Pages`
-- `[`2024-08262`]` **[340B Drug Pricing Program; Administrative Dispute Resolution Regulation](https://www.indexdata.org/340b-drug-pricing-program-administrative-dispute-resolution-regulation/)** — `2024-04-19` | `17 Pages`
-- `[`2024-03849`]` **[Approval Tests and Standards for Combination Unit Respirators](https://www.indexdata.org/approval-tests-and-standards-for-combination-unit-respirators/)** — `2024-03-15` | `9 Pages`
-- `[`2024-03869`]` **[Partnerships With Faith-Based and Neighborhood Organizations](https://www.indexdata.org/partnerships-with-faith-based-and-neighborhood-organizations/)** — `2024-03-04` | `53 Pages`
-- `[`2024-04139`]` **[Improving Child Care Access, Affordability, and Stability in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/improving-child-care-access-affordability-and-stability-in-the-child-care-and-development-fund-ccdf/)** — `2024-03-01` | `52 Pages`
 
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -1735,6 +1712,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2024-08329`]` **[Unaccompanied Children Program Foundational Rule](https://www.indexdata.org/unaccompanied-children-program-foundational-rule/)** — `2024-04-30` | `234 Pages`
 - `[`2024-04244`]` **[Modifications to Performance Standards During Natural Disasters and Other Calamities](https://www.indexdata.org/modifications-to-performance-standards-during-natural-disasters-and-other-calamities/)** — `2024-03-04` | `6 Pages`
 
+### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
+
+- `[`2024-12685`]` **[Privacy Act Regulations](https://www.indexdata.org/privacy-act-regulations-3/)** — `2024-06-17` | `8 Pages`
+- `[`2024-12125`]` **[Event Contracts](https://www.indexdata.org/event-contracts-2/)** — `2024-06-10` | `33 Pages`
+- `[`2024-11798`]` **[Large Trader Reporting Requirements](https://www.indexdata.org/large-trader-reporting-requirements/)** — `2024-06-03` | `22 Pages`
+- `[`2024-10342`]` **[Capital and Financial Reporting Requirements for Swap Dealers and Major Swap Participants](https://www.indexdata.org/capital-and-financial-reporting-requirements-for-swap-dealers-and-major-swap-participants/)** — `2024-05-23` | `26 Pages`
+- `[`2024-09368`]` **[Swap Confirmation Requirements for Swap Execution Facilities](https://www.indexdata.org/swap-confirmation-requirements-for-swap-execution-facilities/)** — `2024-05-01` | `14 Pages`
+- `[`2024-08872`]` **[Requirements for Designated Contract Markets and Swap Execution Facilities Regarding Governance and the Mitigation of Conflicts of Interest Impacting Market Regulation Functions](https://www.indexdata.org/requirements-for-designated-contract-markets-and-swap-execution-facilities-regarding-governance-and-the-mitigation-of-conflicts-of-interest-impacting-market-regulation-functions/)** — `2024-04-25` | `2 Pages`
+- `[`2024-04938`]` **[Requirements for Designated Contract Markets and Swap Execution Facilities Regarding Governance and the Mitigation of Conflicts of Interest Impacting Market Regulation Functions](https://www.indexdata.org/requirements-for-designated-contract-markets-and-swap-execution-facilities-regarding-governance-and-the-mitigation-of-conflicts-of-interest-impacting-market-regulation-functions-2/)** — `2024-03-19` | `81 Pages`
+
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 
@@ -1745,6 +1733,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/general-se
 - `[`2024-06825`]` **[General Services Administration Acquisition Regulation; Reformatting Clause for Direct 8(a) Contracting](https://www.indexdata.org/general-services-administration-acquisition-regulation-reformatting-clause-for-direct-8a-contracting/)** — `2024-04-02` | `2 Pages`
 - `[`2024-06442`]` **[General Services Administration Acquisition Regulation; SAM Representation for Leases](https://www.indexdata.org/general-services-administration-acquisition-regulation-sam-representation-for-leases-2/)** — `2024-03-27` | `3 Pages`
 - `[`2024-06352`]` **[Federal Travel Regulation; Alternative Fuel Vehicle Usage During Relocations](https://www.indexdata.org/federal-travel-regulation-alternative-fuel-vehicle-usage-during-relocations/)** — `2024-03-26` | `4 Pages`
+
+### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+
+- `[`2024-13716`]` **[Improving Child Care Access, Affordability, and Stability in the Child Care and Development Fund (CCDF); Corrections](https://www.indexdata.org/improving-child-care-access-affordability-and-stability-in-the-child-care-and-development-fund-ccdf-corrections/)** — `2024-06-24` | `3 Pages`
+- `[`2024-12469`]` **[Privacy Act; Implementation](https://www.indexdata.org/privacy-act-implementation-4/)** — `2024-06-07` | `5 Pages`
+- `[`2024-09676`]` **[Control of Communicable Diseases; Foreign Quarantine: Importation of Dogs and Cats](https://www.indexdata.org/control-of-communicable-diseases-foreign-quarantine-importation-of-dogs-and-cats/)** — `2024-05-13` | `123 Pages`
+- `[`2024-09237`]` **[Nondiscrimination on the Basis of Disability in Programs or Activities Receiving Federal Financial Assistance](https://www.indexdata.org/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial-assistance-3/)** — `2024-05-09` | `130 Pages`
+- `[`2024-08262`]` **[340B Drug Pricing Program; Administrative Dispute Resolution Regulation](https://www.indexdata.org/340b-drug-pricing-program-administrative-dispute-resolution-regulation/)** — `2024-04-19` | `17 Pages`
+- `[`2024-03849`]` **[Approval Tests and Standards for Combination Unit Respirators](https://www.indexdata.org/approval-tests-and-standards-for-combination-unit-respirators/)** — `2024-03-15` | `9 Pages`
+- `[`2024-03869`]` **[Partnerships With Faith-Based and Neighborhood Organizations](https://www.indexdata.org/partnerships-with-faith-based-and-neighborhood-organizations/)** — `2024-03-04` | `53 Pages`
 
 ### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
@@ -1934,6 +1933,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/bureau-of-
 - `[`2024-12491`]` **[Surety Companies Doing Business With the United States](https://www.indexdata.org/surety-companies-doing-business-with-the-united-states/)** — `2024-06-10` | `12 Pages`
 - `[`2024-04380`]` **[U.S. Treasury Securities-State and Local Government Series](https://www.indexdata.org/u-s-treasury-securities-state-and-local-government-series/)** — `2024-03-04` | `11 Pages`
 
+### [Commodity Credit Corporation](https://www.indexdata.org/united-states/commodity-credit-corporation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-credit-corporation/](https://www.indexdata.org/united-states/commodity-credit-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-credit-corporation/feed/)
+
+- `[`2024-14412`]` **[Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish Program (ELAP)](https://www.indexdata.org/emergency-assistance-for-livestock-honeybees-and-farm-raised-fish-program-elap/)** — `2024-07-01` | `6 Pages`
+- `[`2024-10162`]` **[Dairy Margin Coverage Production History Adjustment and Program Extension; Correction](https://www.indexdata.org/dairy-margin-coverage-production-history-adjustment-and-program-extension-correction/)** — `2024-05-09` | `2 Pages`
+
 ### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 
@@ -2069,11 +2074,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 Canonical Authority Archive: [https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/) | [RSS Feed](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/feed/)
 
 - `[`2024-05717`]` **[Supporting Competition in the AbilityOne Program](https://www.indexdata.org/supporting-competition-in-the-abilityone-program/)** — `2024-03-22` | `17 Pages`
-
-### [Commodity Credit Corporation](https://www.indexdata.org/united-states/commodity-credit-corporation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-credit-corporation/](https://www.indexdata.org/united-states/commodity-credit-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-credit-corporation/feed/)
-
-- `[`2024-10162`]` **[Dairy Margin Coverage Production History Adjustment and Program Extension; Correction](https://www.indexdata.org/dairy-margin-coverage-production-history-adjustment-and-program-extension-correction/)** — `2024-05-09` | `2 Pages`
 
 ### [Community Development Financial Institutions Fund](https://www.indexdata.org/united-states/community-development-financial-institutions-fund/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/community-development-financial-institutions-fund/](https://www.indexdata.org/united-states/community-development-financial-institutions-fund/) | [RSS Feed](https://www.indexdata.org/united-states/community-development-financial-institutions-fund/feed/)
