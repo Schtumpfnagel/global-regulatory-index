@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,414` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,415` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 17:01 UTC`
+**Last Automated Sync:** `2026-11-16 17:58 UTC`
 
 ---
 
@@ -76,9 +76,9 @@
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,414)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,415)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -794,11 +794,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-04362`]` **[Air Plan Approval; Tennessee; Revisions to the Continuous Opacity Monitoring System Requirements](https://www.indexdata.org/air-plan-approval-tennessee-revisions-to-the-continuous-opacity-monitoring-system-requirements-2/)** — `2024-03-01` | `4 Pages`
 - `[`2024-04359`]` **[EPA Method 320-Measurement of Vapor Phase Organic and Inorganic Emissions by Extractive Fourier Transform Infrared (FTIR) Spectroscopy](https://www.indexdata.org/epa-method-320-measurement-of-vapor-phase-organic-and-inorganic-emissions-by-extractive-fourier-transform-infrared-ftir-spectroscopy/)** — `2024-03-01` | `15 Pages`
 - `[`2024-04355`]` **[1,4-Bis&#91;&#91;3-&#91;2-(2-hydroxyethoxy)ethoxy&#93;propyl&#93;amino&#93;-9,10-anthracenedione in Pesticide Formulations; Tolerance Exemption](https://www.indexdata.org/14-bis3-2-2-hydroxyethoxyethoxypropylamino-910-anthracenedione-in-pesticide-formulations-tolerance-exemption/)** — `2024-03-01` | `7 Pages`
-- `[`2024-04106`]` **[Air Quality Implementation Plans; California; San Diego County; 2008 and 2015 8-Hour Ozone Nonattainment Area Requirements](https://www.indexdata.org/air-quality-implementation-plans-california-san-diego-county-2008-and-2015-8-hour-ozone-nonattainment-area-requirements/)** — `2024-03-01` | `4 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-14376`]` **[Safety Zone; Fall River Fireworks Display, Fall River, MA](https://www.indexdata.org/safety-zone-fall-river-fireworks-display-fall-river-ma/)** — `2024-07-01` | `2 Pages`
 - `[`2024-14374`]` **[Safety Zone; Reoccurring Firework Displays Near Convention Center on the Mobile River; Mobile, AL](https://www.indexdata.org/safety-zone-reoccurring-firework-displays-near-convention-center-on-the-mobile-river-mobile-al/)** — `2024-07-01` | `3 Pages`
 - `[`2024-14373`]` **[Safety Zone; Providence Fireworks, Providence, RI](https://www.indexdata.org/safety-zone-providence-fireworks-providence-ri/)** — `2024-07-01` | `2 Pages`
 - `[`2024-14358`]` **[Safety Zone; Northern California and Lake Tahoe Area Annual Fireworks Events](https://www.indexdata.org/safety-zone-northern-california-and-lake-tahoe-area-annual-fireworks-events/)** — `2024-07-01` | `3 Pages`

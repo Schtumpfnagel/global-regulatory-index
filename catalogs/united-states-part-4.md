@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,414` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,415` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 17:01 UTC`
+**Last Automated Sync:** `2026-11-16 17:58 UTC`
 
 ---
 
@@ -76,9 +76,9 @@
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,414)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,415)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -883,7 +883,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-14528`]` **[Air Plan Approval; California; South Coast Air Quality Management District](https://www.indexdata.org/air-plan-approval-california-south-coast-air-quality-management-district-2/)** — `2025-07-31` | `3 Pages`
 - `[`2025-14476`]` **[Air Plan Approval; South Carolina; Second Planning Period Regional Haze Plan](https://www.indexdata.org/air-plan-approval-south-carolina-second-planning-period-regional-haze-plan-2/)** — `2025-07-31` | `19 Pages`
 - `[`2025-14472`]` **[Finding of Failure To Attain and Reclassification of Area in New York as Serious for the 2015 Ozone National Ambient Air Quality Standards-Shinnecock Indian Nation](https://www.indexdata.org/finding-of-failure-to-attain-and-reclassification-of-area-in-new-york-as-serious-for-the-2015-ozone-national-ambient-air-quality-standards-shinnecock-indian-nation/)** — `2025-07-31` | `6 Pages`
-- `[`2025-14470`]` **[Air Plan Approval; New Jersey; Northern New Jersey and Southern New Jersey Counties' Second 10-Year Limited Maintenance Plan for the 2006 24-Hour PM2.5 Standard](https://www.indexdata.org/air-plan-approval-new-jersey-northern-new-jersey-and-southern-new-jersey-counties-second-10-year-limited-maintenance-plan-for-the-2006-24-hour-pm2-5-standard-2/)** — `2025-07-31` | `8 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1487,6 +1486,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-c
 - `[`2025-22487`]` **[Corporate Credit Unions](https://www.indexdata.org/corporate-credit-unions-3/)** — `2025-12-11` | `3 Pages`
 - `[`2025-19623`]` **[Prohibition on Use of Reputation Risk by NCUA](https://www.indexdata.org/prohibition-on-use-of-reputation-risk-by-ncua/)** — `2025-10-21` | `6 Pages`
 
+### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
+
+- `[`2026-00904`]` **[Commercial Non-Power Production or Utilization Facilities](https://www.indexdata.org/commercial-non-power-production-or-utilization-facilities/)** — `2026-01-20` | `4 Pages`
+- `[`2025-23428`]` **[Incorporation by Reference of Institute of Electrical and Electronics Engineers Standard 603-2018](https://www.indexdata.org/incorporation-by-reference-of-institute-of-electrical-and-electronics-engineers-standard-603-2018-2/)** — `2025-12-19` | `7 Pages`
+- `[`2025-22230`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS® Universal Storage System, Certificate of Compliance No. 1015, Renewed Amendment No. 10, and Revision 1 to Renewed Amendment Nos. 5 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewed-amendment-no-10-and-revision-1-to-renewed-amen/)** — `2025-12-08` | `3 Pages`
+- `[`2025-22229`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS® Universal Storage System, Certificate of Compliance No. 1015, Renewed Amendment No. 10, and Revision 1 to Renewed Amendment Nos. 5 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewed-amendment-no-10-and-revision-1-to-renewed-amen-2/)** — `2025-12-08` | `6 Pages`
+- `[`2025-21785`]` **[The Sunset Rule](https://www.indexdata.org/the-sunset-rule/)** — `2025-12-03` | `3 Pages`
+- `[`2025-21784`]` **[The Sunset Rule](https://www.indexdata.org/the-sunset-rule-2/)** — `2025-12-03` | `14 Pages`
+- `[`2025-21305`]` **[Streamlining Select Rules of Practice and Procedure](https://www.indexdata.org/streamlining-select-rules-of-practice-and-procedure/)** — `2025-11-26` | `4 Pages`
+- `[`2025-18841`]` **[State of Connecticut: Discontinuance of Certain Commission Regulatory Authority Within the State; Notice of Agreement Between the NRC and the State of Connecticut](https://www.indexdata.org/state-of-connecticut-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice-of-agreement-between-the-nrc-and-the-state-of-connecticut/)** — `2025-09-29` | `2 Pages`
+- `[`2025-18769`]` **[Approval of American Society of Mechanical Engineers Unconditioned Code Cases](https://www.indexdata.org/approval-of-american-society-of-mechanical-engineers-unconditioned-code-cases-2/)** — `2025-09-26` | `12 Pages`
+- `[`2025-18768`]` **[Approval of American Society of Mechanical Engineers Unconditioned Code Cases](https://www.indexdata.org/approval-of-american-society-of-mechanical-engineers-unconditioned-code-cases-3/)** — `2025-09-26` | `3 Pages`
+- `[`2025-18633`]` **[Regulatory Guide: Emergency Response Planning and Preparedness for Nuclear Power Reactors](https://www.indexdata.org/regulatory-guide-emergency-response-planning-and-preparedness-for-nuclear-power-reactors/)** — `2025-09-25` | `2 Pages`
+- `[`2025-17201`]` **[List of Approved Spent Fuel Storage Casks: TN Americas LLC NUHOMS® EOS Dry Spent Fuel Storage System Certificate of Compliance No. 1042, Amendment No. 4](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-nuhoms-eos-dry-spent-fuel-storage-system-certificate-of-compliance-no-1042-amendment-no-4/)** — `2025-09-08` | `2 Pages`
+- `[`2025-16286`]` **[Revising the Duration of Design Certifications](https://www.indexdata.org/revising-the-duration-of-design-certifications/)** — `2025-08-26` | `3 Pages`
+- `[`2025-15565`]` **[Interim Enforcement Policy for Enforcement Discretion for General Licensee Adoption of Certificate of Compliance Holder-Generated Changes](https://www.indexdata.org/interim-enforcement-policy-for-enforcement-discretion-for-general-licensee-adoption-of-certificate-of-compliance-holder-generated-changes/)** — `2025-08-15` | `5 Pages`
+
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
 
@@ -1521,23 +1538,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-en
 - `[`2025-18396`]` **[Critical Infrastructure Protection Reliability Standard CIP-003-11-Cyber Security-Security Management Controls](https://www.indexdata.org/critical-infrastructure-protection-reliability-standard-cip-003-11-cyber-security-security-management-controls/)** — `2025-09-23` | `6 Pages`
 - `[`2025-18395`]` **[Virtualization Reliability Standards](https://www.indexdata.org/virtualization-reliability-standards/)** — `2025-09-23` | `7 Pages`
 - `[`2025-18394`]` **[Supply Chain Risk Management Reliability Standards Revisions; Equipment and Services Produced or Provided by Certain Entities Identified as Risks to National Security](https://www.indexdata.org/supply-chain-risk-management-reliability-standards-revisions-equipment-and-services-produced-or-provided-by-certain-entities-identified-as-risks-to-national-security/)** — `2025-09-23` | `11 Pages`
-
-### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
-
-- `[`2025-23428`]` **[Incorporation by Reference of Institute of Electrical and Electronics Engineers Standard 603-2018](https://www.indexdata.org/incorporation-by-reference-of-institute-of-electrical-and-electronics-engineers-standard-603-2018-2/)** — `2025-12-19` | `7 Pages`
-- `[`2025-22230`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS® Universal Storage System, Certificate of Compliance No. 1015, Renewed Amendment No. 10, and Revision 1 to Renewed Amendment Nos. 5 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewed-amendment-no-10-and-revision-1-to-renewed-amen/)** — `2025-12-08` | `3 Pages`
-- `[`2025-22229`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS® Universal Storage System, Certificate of Compliance No. 1015, Renewed Amendment No. 10, and Revision 1 to Renewed Amendment Nos. 5 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewed-amendment-no-10-and-revision-1-to-renewed-amen-2/)** — `2025-12-08` | `6 Pages`
-- `[`2025-21785`]` **[The Sunset Rule](https://www.indexdata.org/the-sunset-rule/)** — `2025-12-03` | `3 Pages`
-- `[`2025-21784`]` **[The Sunset Rule](https://www.indexdata.org/the-sunset-rule-2/)** — `2025-12-03` | `14 Pages`
-- `[`2025-21305`]` **[Streamlining Select Rules of Practice and Procedure](https://www.indexdata.org/streamlining-select-rules-of-practice-and-procedure/)** — `2025-11-26` | `4 Pages`
-- `[`2025-18841`]` **[State of Connecticut: Discontinuance of Certain Commission Regulatory Authority Within the State; Notice of Agreement Between the NRC and the State of Connecticut](https://www.indexdata.org/state-of-connecticut-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice-of-agreement-between-the-nrc-and-the-state-of-connecticut/)** — `2025-09-29` | `2 Pages`
-- `[`2025-18769`]` **[Approval of American Society of Mechanical Engineers Unconditioned Code Cases](https://www.indexdata.org/approval-of-american-society-of-mechanical-engineers-unconditioned-code-cases-2/)** — `2025-09-26` | `12 Pages`
-- `[`2025-18768`]` **[Approval of American Society of Mechanical Engineers Unconditioned Code Cases](https://www.indexdata.org/approval-of-american-society-of-mechanical-engineers-unconditioned-code-cases-3/)** — `2025-09-26` | `3 Pages`
-- `[`2025-18633`]` **[Regulatory Guide: Emergency Response Planning and Preparedness for Nuclear Power Reactors](https://www.indexdata.org/regulatory-guide-emergency-response-planning-and-preparedness-for-nuclear-power-reactors/)** — `2025-09-25` | `2 Pages`
-- `[`2025-17201`]` **[List of Approved Spent Fuel Storage Casks: TN Americas LLC NUHOMS® EOS Dry Spent Fuel Storage System Certificate of Compliance No. 1042, Amendment No. 4](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-nuhoms-eos-dry-spent-fuel-storage-system-certificate-of-compliance-no-1042-amendment-no-4/)** — `2025-09-08` | `2 Pages`
-- `[`2025-16286`]` **[Revising the Duration of Design Certifications](https://www.indexdata.org/revising-the-duration-of-design-certifications/)** — `2025-08-26` | `3 Pages`
-- `[`2025-15565`]` **[Interim Enforcement Policy for Enforcement Discretion for General Licensee Adoption of Certificate of Compliance Holder-Generated Changes](https://www.indexdata.org/interim-enforcement-policy-for-enforcement-discretion-for-general-licensee-adoption-of-certificate-of-compliance-holder-generated-changes/)** — `2025-08-15` | `5 Pages`
 
 ### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)

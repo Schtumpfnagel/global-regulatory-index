@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,414` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,415` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 17:01 UTC`
+**Last Automated Sync:** `2026-11-16 17:58 UTC`
 
 ---
 
@@ -76,9 +76,9 @@
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,414)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,415)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -639,6 +639,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-14470`]` **[Air Plan Approval; New Jersey; Northern New Jersey and Southern New Jersey Counties' Second 10-Year Limited Maintenance Plan for the 2006 24-Hour PM2.5 Standard](https://www.indexdata.org/air-plan-approval-new-jersey-northern-new-jersey-and-southern-new-jersey-counties-second-10-year-limited-maintenance-plan-for-the-2006-24-hour-pm2-5-standard-2/)** — `2025-07-31` | `8 Pages`
 - `[`2025-14315`]` **[Designation of Areas for Air Quality Planning Purposes](https://www.indexdata.org/designation-of-areas-for-air-quality-planning-purposes/)** — `2025-07-29` | `2 Pages`
 - `[`2025-14282`]` **[Pyroxasulfone; Pesticide Tolerances](https://www.indexdata.org/pyroxasulfone-pesticide-tolerances/)** — `2025-07-29` | `5 Pages`
 - `[`2025-14256`]` **[Significant New Use Rules on Certain Chemical Substances (24-1.5e)](https://www.indexdata.org/significant-new-use-rules-on-certain-chemical-substances-24-1-5e/)** — `2025-07-29` | `16 Pages`
@@ -1225,50 +1226,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 - `[`2025-08988`]` **[Pipeline Safety: Editorial Change To Reflect the Name Change of the Gulf of Mexico to the Gulf of America](https://www.indexdata.org/pipeline-safety-editorial-change-to-reflect-the-name-change-of-the-gulf-of-mexico-to-the-gulf-of-america/)** — `2025-05-20` | `3 Pages`
 - `[`2025-07606`]` **[Pipeline Safety: Amendments to Liquefied Natural Gas Facilities](https://www.indexdata.org/pipeline-safety-amendments-to-liquefied-natural-gas-facilities/)** — `2025-05-05` | `5 Pages`
 
-### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-
-- `[`2025-14013`]` **[Program Originating FM Broadcast Booster Stations](https://www.indexdata.org/program-originating-fm-broadcast-booster-stations/)** — `2025-07-25` | `3 Pages`
-- `[`2025-13628`]` **[Television Broadcasting Services Las Vegas, Nevada](https://www.indexdata.org/television-broadcasting-services-las-vegas-nevada/)** — `2025-07-21` | `2 Pages`
-- `[`2025-13308`]` **[Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program](https://www.indexdata.org/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement-facilities-and-the-equipment-authorization-program-4/)** — `2025-07-16` | `7 Pages`
-- `[`2025-13170`]` **[Wireless Telecommunications Bureau Designates for Hearing Dispute Regarding C-Band Reimbursement Claims](https://www.indexdata.org/wireless-telecommunications-bureau-designates-for-hearing-dispute-regarding-c-band-reimbursement-claims/)** — `2025-07-15` | `3 Pages`
-- `[`2025-13107`]` **[Cable Television Rate Regulations](https://www.indexdata.org/cable-television-rate-regulations/)** — `2025-07-14` | `13 Pages`
-- `[`2025-12696`]` **[Connect America Fund et al.](https://www.indexdata.org/connect-america-fund-et-al/)** — `2025-07-09` | `3 Pages`
-- `[`2025-12603`]` **[National Television Multiple Ownership Rule](https://www.indexdata.org/national-television-multiple-ownership-rule/)** — `2025-07-08` | `3 Pages`
-- `[`2025-12583`]` **[Wireline Competition Bureau Seeks To Refresh Record on Telephone Access Charges](https://www.indexdata.org/wireline-competition-bureau-seeks-to-refresh-record-on-telephone-access-charges/)** — `2025-07-07` | `2 Pages`
-- `[`2025-12579`]` **[Assessment and Collection of Space and Earth Station Regulatory Fees for Fiscal Year 2024](https://www.indexdata.org/assessment-and-collection-of-space-and-earth-station-regulatory-fees-for-fiscal-year-2024/)** — `2025-07-07` | `14 Pages`
-- `[`2025-12240`]` **[Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program](https://www.indexdata.org/establishing-the-digital-opportunity-data-collection-modernizing-the-fcc-form-477-data-program/)** — `2025-07-01` | `12 Pages`
-- `[`2025-11966`]` **[Satellite Spectrum Abundance](https://www.indexdata.org/satellite-spectrum-abundance/)** — `2025-06-27` | `16 Pages`
-- `[`2025-11477`]` **[Review of Foreign Ownership Policies for Broadcast, Common Carrier and Aeronautical Radio Licensees](https://www.indexdata.org/review-of-foreign-ownership-policies-for-broadcast-common-carrier-and-aeronautical-radio-licensees-2/)** — `2025-06-23` | `38 Pages`
-- `[`2025-11360`]` **[Protecting Our Communications Networks by Promoting Transparency Regarding Foreign Adversary Control](https://www.indexdata.org/protecting-our-communications-networks-by-promoting-transparency-regarding-foreign-adversary-control-2/)** — `2025-06-20` | `22 Pages`
-- `[`2025-11073`]` **[Review of the Commission's Assessment and Collection of Regulatory Fees for Fiscal Year 2025](https://www.indexdata.org/review-of-the-commissions-assessment-and-collection-of-regulatory-fees-for-fiscal-year-2025-3/)** — `2025-06-16` | `51 Pages`
-- `[`2025-10998`]` **[Call Authentication Trust Anchor](https://www.indexdata.org/call-authentication-trust-anchor-2/)** — `2025-06-16` | `15 Pages`
-- `[`2025-10997`]` **[Petition for Reconsideration of Action in Rulemaking Proceeding; Correction](https://www.indexdata.org/petition-for-reconsideration-of-action-in-rulemaking-proceeding-correction/)** — `2025-06-16` | `2 Pages`
-- `[`2025-10799`]` **[Modernizing Spectrum Sharing for Satellite Broadband](https://www.indexdata.org/modernizing-spectrum-sharing-for-satellite-broadband-2/)** — `2025-06-13` | `10 Pages`
-- `[`2025-10477`]` **[Lower 37 GHz Band and Use of Spectrum Bands Above 24 GHz for Mobile Radio Service](https://www.indexdata.org/lower-37-ghz-band-and-use-of-spectrum-bands-above-24-ghz-for-mobile-radio-service/)** — `2025-06-12` | `7 Pages`
-- `[`2025-10476`]` **[Lower 37 GHz Band and Use of Spectrum Bands Above 24 GHz for Mobile Radio Service](https://www.indexdata.org/lower-37-ghz-band-and-use-of-spectrum-bands-above-24-ghz-for-mobile-radio-service-2/)** — `2025-06-12` | `16 Pages`
-- `[`2025-10050`]` **[Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks; Schedule of Application Fees](https://www.indexdata.org/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security-law-enforcement-foreign-policy-and-trade-policy-risks-schedule-of-application-fees/)** — `2025-06-11` | `2 Pages`
-- `[`2025-10478`]` **[Sponsorship Identification Requirements for Foreign Government-Provided Programming](https://www.indexdata.org/sponsorship-identification-requirements-for-foreign-government-provided-programming/)** — `2025-06-10` | `2 Pages`
-- `[`2025-09279`]` **[Facilitating Implementation of Next Generation 911 Services (NG911); Improving 911 Reliability](https://www.indexdata.org/facilitating-implementation-of-next-generation-911-services-ng911-improving-911-reliability-3/)** — `2025-06-04` | `44 Pages`
-- `[`2025-09278`]` **[FM Terrestrial Digital Audio Broadcasting Systems](https://www.indexdata.org/fm-terrestrial-digital-audio-broadcasting-systems/)** — `2025-05-23` | `3 Pages`
-- `[`2025-06865`]` **[Wireless E911 Location Accuracy Requirements](https://www.indexdata.org/wireless-e911-location-accuracy-requirements/)** — `2025-05-07` | `32 Pages`
-- `[`2025-07677`]` **[Television Broadcasting Services Wichita, Kansas](https://www.indexdata.org/television-broadcasting-services-wichita-kansas/)** — `2025-05-05` | `2 Pages`
-- `[`2025-07643`]` **[Wireless Telecommunications Bureau Announces Licensing and Coordination Procedures for the Space Launch Service](https://www.indexdata.org/wireless-telecommunications-bureau-announces-licensing-and-coordination-procedures-for-the-space-launch-service/)** — `2025-05-02` | `12 Pages`
-- `[`2025-07641`]` **[Wireless Telecommunications Bureau Announces Mechanism and Criteria for Selecting Space Launch Frequency Coordinator](https://www.indexdata.org/wireless-telecommunications-bureau-announces-mechanism-and-criteria-for-selecting-space-launch-frequency-coordinator/)** — `2025-05-02` | `5 Pages`
-- `[`2025-07478`]` **[Petition for Reconsideration of Action in Rulemaking Proceeding](https://www.indexdata.org/petition-for-reconsideration-of-action-in-rulemaking-proceeding-2/)** — `2025-05-01` | `2 Pages`
-- `[`2025-06899`]` **[Schedule of Application Fees](https://www.indexdata.org/schedule-of-application-fees/)** — `2025-04-23` | `10 Pages`
-- `[`2025-06143`]` **[Television Broadcasting Services Monroe, Louisiana](https://www.indexdata.org/television-broadcasting-services-monroe-louisiana/)** — `2025-04-10` | `2 Pages`
-- `[`2025-05848`]` **[Radio Broadcasting Services; Various Locations](https://www.indexdata.org/radio-broadcasting-services-various-locations-5/)** — `2025-04-04` | `2 Pages`
-- `[`2025-05614`]` **[Wireless Telecommunications Bureau Seeks Comment on Petition Seeking Clarification and Reconsideration of the Alaska Connect Fund Order](https://www.indexdata.org/wireless-telecommunications-bureau-seeks-comment-on-petition-seeking-clarification-and-reconsideration-of-the-alaska-connect-fund-order/)** — `2025-04-02` | `2 Pages`
-- `[`2025-05104`]` **[Radio Broadcasting Services; Matador, Texas](https://www.indexdata.org/radio-broadcasting-services-matador-texas/)** — `2025-03-26` | `2 Pages`
-- `[`2025-05014`]` **[Television Broadcasting Services Las Vegas, Nevada](https://www.indexdata.org/television-broadcasting-services-las-vegas-nevada-2/)** — `2025-03-25` | `2 Pages`
-- `[`2025-04833`]` **[Facilitating Implementation of Next Generation 911 Services (NG911); Location-Based Routing for Wireless 911 Calls](https://www.indexdata.org/facilitating-implementation-of-next-generation-911-services-ng911-location-based-routing-for-wireless-911-calls/)** — `2025-03-25` | `2 Pages`
-- `[`2025-04811`]` **[Advanced Methods To Target and Eliminate Unlawful Robocalls](https://www.indexdata.org/advanced-methods-to-target-and-eliminate-unlawful-robocalls-2/)** — `2025-03-24` | `10 Pages`
-- `[`2025-03668`]` **[Part 36 Separations Rules in Response to Commission Referrals; Request for Comments](https://www.indexdata.org/part-36-separations-rules-in-response-to-commission-referrals-request-for-comments/)** — `2025-03-24` | `2 Pages`
-- `[`2025-03115`]` **[Broadcast Station Rule Updates](https://www.indexdata.org/broadcast-station-rule-updates-2/)** — `2025-03-24` | `16 Pages`
-- `[`2025-04452`]` **[Auction of Advanced Wireless Services (AWS-3) Licenses; Comment Sought on Competitive Bidding Procedures for Auction 113](https://www.indexdata.org/auction-of-advanced-wireless-services-aws-3-licenses-comment-sought-on-competitive-bidding-procedures-for-auction-113/)** — `2025-03-20` | `15 Pages`
-- `[`2025-04414`]` **[Television Broadcasting Services Henderson, Nevada](https://www.indexdata.org/television-broadcasting-services-henderson-nevada-2/)** — `2025-03-18` | `2 Pages`
-
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
@@ -1312,6 +1269,49 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2025-08143`]` **[Medical Devices; Immunology and Microbiology Devices; Classification of the DNA-Based Test To Measure Minimal Residual Disease in Hematological Malignancies](https://www.indexdata.org/medical-devices-immunology-and-microbiology-devices-classification-of-the-dna-based-test-to-measure-minimal-residual-disease-in-hematological-malignancies/)** — `2025-05-09` | `4 Pages`
 - `[`2025-08137`]` **[New Animal Drugs; Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Application; Change of Sponsor](https://www.indexdata.org/new-animal-drugs-approval-of-new-animal-drug-applications-withdrawal-of-approval-of-new-animal-drug-application-change-of-sponsor-2/)** — `2025-05-09` | `3 Pages`
 - `[`2025-04978`]` **[Nonprescription Drug Product With an Additional Condition for Nonprescription Use](https://www.indexdata.org/nonprescription-drug-product-with-an-additional-condition-for-nonprescription-use/)** — `2025-03-25` | `2 Pages`
+
+### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
+
+- `[`2025-14013`]` **[Program Originating FM Broadcast Booster Stations](https://www.indexdata.org/program-originating-fm-broadcast-booster-stations/)** — `2025-07-25` | `3 Pages`
+- `[`2025-13628`]` **[Television Broadcasting Services Las Vegas, Nevada](https://www.indexdata.org/television-broadcasting-services-las-vegas-nevada/)** — `2025-07-21` | `2 Pages`
+- `[`2025-13308`]` **[Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program](https://www.indexdata.org/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement-facilities-and-the-equipment-authorization-program-4/)** — `2025-07-16` | `7 Pages`
+- `[`2025-13170`]` **[Wireless Telecommunications Bureau Designates for Hearing Dispute Regarding C-Band Reimbursement Claims](https://www.indexdata.org/wireless-telecommunications-bureau-designates-for-hearing-dispute-regarding-c-band-reimbursement-claims/)** — `2025-07-15` | `3 Pages`
+- `[`2025-13107`]` **[Cable Television Rate Regulations](https://www.indexdata.org/cable-television-rate-regulations/)** — `2025-07-14` | `13 Pages`
+- `[`2025-12696`]` **[Connect America Fund et al.](https://www.indexdata.org/connect-america-fund-et-al/)** — `2025-07-09` | `3 Pages`
+- `[`2025-12603`]` **[National Television Multiple Ownership Rule](https://www.indexdata.org/national-television-multiple-ownership-rule/)** — `2025-07-08` | `3 Pages`
+- `[`2025-12583`]` **[Wireline Competition Bureau Seeks To Refresh Record on Telephone Access Charges](https://www.indexdata.org/wireline-competition-bureau-seeks-to-refresh-record-on-telephone-access-charges/)** — `2025-07-07` | `2 Pages`
+- `[`2025-12579`]` **[Assessment and Collection of Space and Earth Station Regulatory Fees for Fiscal Year 2024](https://www.indexdata.org/assessment-and-collection-of-space-and-earth-station-regulatory-fees-for-fiscal-year-2024/)** — `2025-07-07` | `14 Pages`
+- `[`2025-12240`]` **[Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program](https://www.indexdata.org/establishing-the-digital-opportunity-data-collection-modernizing-the-fcc-form-477-data-program/)** — `2025-07-01` | `12 Pages`
+- `[`2025-11966`]` **[Satellite Spectrum Abundance](https://www.indexdata.org/satellite-spectrum-abundance/)** — `2025-06-27` | `16 Pages`
+- `[`2025-11477`]` **[Review of Foreign Ownership Policies for Broadcast, Common Carrier and Aeronautical Radio Licensees](https://www.indexdata.org/review-of-foreign-ownership-policies-for-broadcast-common-carrier-and-aeronautical-radio-licensees-2/)** — `2025-06-23` | `38 Pages`
+- `[`2025-11360`]` **[Protecting Our Communications Networks by Promoting Transparency Regarding Foreign Adversary Control](https://www.indexdata.org/protecting-our-communications-networks-by-promoting-transparency-regarding-foreign-adversary-control-2/)** — `2025-06-20` | `22 Pages`
+- `[`2025-11073`]` **[Review of the Commission's Assessment and Collection of Regulatory Fees for Fiscal Year 2025](https://www.indexdata.org/review-of-the-commissions-assessment-and-collection-of-regulatory-fees-for-fiscal-year-2025-3/)** — `2025-06-16` | `51 Pages`
+- `[`2025-10998`]` **[Call Authentication Trust Anchor](https://www.indexdata.org/call-authentication-trust-anchor-2/)** — `2025-06-16` | `15 Pages`
+- `[`2025-10997`]` **[Petition for Reconsideration of Action in Rulemaking Proceeding; Correction](https://www.indexdata.org/petition-for-reconsideration-of-action-in-rulemaking-proceeding-correction/)** — `2025-06-16` | `2 Pages`
+- `[`2025-10799`]` **[Modernizing Spectrum Sharing for Satellite Broadband](https://www.indexdata.org/modernizing-spectrum-sharing-for-satellite-broadband-2/)** — `2025-06-13` | `10 Pages`
+- `[`2025-10477`]` **[Lower 37 GHz Band and Use of Spectrum Bands Above 24 GHz for Mobile Radio Service](https://www.indexdata.org/lower-37-ghz-band-and-use-of-spectrum-bands-above-24-ghz-for-mobile-radio-service/)** — `2025-06-12` | `7 Pages`
+- `[`2025-10476`]` **[Lower 37 GHz Band and Use of Spectrum Bands Above 24 GHz for Mobile Radio Service](https://www.indexdata.org/lower-37-ghz-band-and-use-of-spectrum-bands-above-24-ghz-for-mobile-radio-service-2/)** — `2025-06-12` | `16 Pages`
+- `[`2025-10050`]` **[Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks; Schedule of Application Fees](https://www.indexdata.org/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security-law-enforcement-foreign-policy-and-trade-policy-risks-schedule-of-application-fees/)** — `2025-06-11` | `2 Pages`
+- `[`2025-10478`]` **[Sponsorship Identification Requirements for Foreign Government-Provided Programming](https://www.indexdata.org/sponsorship-identification-requirements-for-foreign-government-provided-programming/)** — `2025-06-10` | `2 Pages`
+- `[`2025-09279`]` **[Facilitating Implementation of Next Generation 911 Services (NG911); Improving 911 Reliability](https://www.indexdata.org/facilitating-implementation-of-next-generation-911-services-ng911-improving-911-reliability-3/)** — `2025-06-04` | `44 Pages`
+- `[`2025-09278`]` **[FM Terrestrial Digital Audio Broadcasting Systems](https://www.indexdata.org/fm-terrestrial-digital-audio-broadcasting-systems/)** — `2025-05-23` | `3 Pages`
+- `[`2025-06865`]` **[Wireless E911 Location Accuracy Requirements](https://www.indexdata.org/wireless-e911-location-accuracy-requirements/)** — `2025-05-07` | `32 Pages`
+- `[`2025-07677`]` **[Television Broadcasting Services Wichita, Kansas](https://www.indexdata.org/television-broadcasting-services-wichita-kansas/)** — `2025-05-05` | `2 Pages`
+- `[`2025-07643`]` **[Wireless Telecommunications Bureau Announces Licensing and Coordination Procedures for the Space Launch Service](https://www.indexdata.org/wireless-telecommunications-bureau-announces-licensing-and-coordination-procedures-for-the-space-launch-service/)** — `2025-05-02` | `12 Pages`
+- `[`2025-07641`]` **[Wireless Telecommunications Bureau Announces Mechanism and Criteria for Selecting Space Launch Frequency Coordinator](https://www.indexdata.org/wireless-telecommunications-bureau-announces-mechanism-and-criteria-for-selecting-space-launch-frequency-coordinator/)** — `2025-05-02` | `5 Pages`
+- `[`2025-07478`]` **[Petition for Reconsideration of Action in Rulemaking Proceeding](https://www.indexdata.org/petition-for-reconsideration-of-action-in-rulemaking-proceeding-2/)** — `2025-05-01` | `2 Pages`
+- `[`2025-06899`]` **[Schedule of Application Fees](https://www.indexdata.org/schedule-of-application-fees/)** — `2025-04-23` | `10 Pages`
+- `[`2025-06143`]` **[Television Broadcasting Services Monroe, Louisiana](https://www.indexdata.org/television-broadcasting-services-monroe-louisiana/)** — `2025-04-10` | `2 Pages`
+- `[`2025-05848`]` **[Radio Broadcasting Services; Various Locations](https://www.indexdata.org/radio-broadcasting-services-various-locations-5/)** — `2025-04-04` | `2 Pages`
+- `[`2025-05614`]` **[Wireless Telecommunications Bureau Seeks Comment on Petition Seeking Clarification and Reconsideration of the Alaska Connect Fund Order](https://www.indexdata.org/wireless-telecommunications-bureau-seeks-comment-on-petition-seeking-clarification-and-reconsideration-of-the-alaska-connect-fund-order/)** — `2025-04-02` | `2 Pages`
+- `[`2025-05104`]` **[Radio Broadcasting Services; Matador, Texas](https://www.indexdata.org/radio-broadcasting-services-matador-texas/)** — `2025-03-26` | `2 Pages`
+- `[`2025-05014`]` **[Television Broadcasting Services Las Vegas, Nevada](https://www.indexdata.org/television-broadcasting-services-las-vegas-nevada-2/)** — `2025-03-25` | `2 Pages`
+- `[`2025-04833`]` **[Facilitating Implementation of Next Generation 911 Services (NG911); Location-Based Routing for Wireless 911 Calls](https://www.indexdata.org/facilitating-implementation-of-next-generation-911-services-ng911-location-based-routing-for-wireless-911-calls/)** — `2025-03-25` | `2 Pages`
+- `[`2025-04811`]` **[Advanced Methods To Target and Eliminate Unlawful Robocalls](https://www.indexdata.org/advanced-methods-to-target-and-eliminate-unlawful-robocalls-2/)** — `2025-03-24` | `10 Pages`
+- `[`2025-03668`]` **[Part 36 Separations Rules in Response to Commission Referrals; Request for Comments](https://www.indexdata.org/part-36-separations-rules-in-response-to-commission-referrals-request-for-comments/)** — `2025-03-24` | `2 Pages`
+- `[`2025-03115`]` **[Broadcast Station Rule Updates](https://www.indexdata.org/broadcast-station-rule-updates-2/)** — `2025-03-24` | `16 Pages`
+- `[`2025-04452`]` **[Auction of Advanced Wireless Services (AWS-3) Licenses; Comment Sought on Competitive Bidding Procedures for Auction 113](https://www.indexdata.org/auction-of-advanced-wireless-services-aws-3-licenses-comment-sought-on-competitive-bidding-procedures-for-auction-113/)** — `2025-03-20` | `15 Pages`
 
 ### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
