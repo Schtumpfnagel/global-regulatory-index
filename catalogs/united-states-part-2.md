@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,415` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,416` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 17:58 UTC`
+**Last Automated Sync:** `2026-11-16 18:55 UTC`
 
 ---
 
@@ -74,9 +74,9 @@
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,415)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,416)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1388,25 +1388,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 - `[`2026-11854`]` **[Prediction Markets; Public Interest Determinations](https://www.indexdata.org/prediction-markets-public-interest-determinations/)** — `2026-06-12` | `66 Pages`
 - `[`2026-11466`]` **[Rescission of Policy Relating to the Acceptance of Settlements in Administrative and Civil Proceedings](https://www.indexdata.org/rescission-of-policy-relating-to-the-acceptance-of-settlements-in-administrative-and-civil-proceedings/)** — `2026-06-08` | `4 Pages`
 
-### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
-
-- `[`2026-17536`]` **[Schedules of Controlled Substances: Placement of Cipepofol in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-cipepofol-in-schedule-iv/)** — `2026-08-27` | `7 Pages`
-- `[`2026-17531`]` **[Schedules of Controlled Substances: Temporary Placement of 5,6-Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-56-dichloro-brorphine-56-dichloro-desmethylchlorphine-n-propionitrile-chlorphine-and-spirochlorphine-in-schedule-i-of-the-controlled-sub/)** — `2026-08-27` | `7 Pages`
-- `[`2026-17429`]` **[Schedules of Controlled Substances: Temporary Placement of Mitragynine Pseudoindoxyl, MGM-15, and MGM-16 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mitragynine-pseudoindoxyl-mgm-15-and-mgm-16-in-schedule-i/)** — `2026-08-26` | `9 Pages`
-- `[`2026-16413`]` **[Schedules of Controlled Substances: Temporary Placement of O-Desmethyltramadol in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-o-desmethyltramadol-in-schedule-i/)** — `2026-08-12` | `6 Pages`
-- `[`2026-16375`]` **[Schedules of Controlled Substances: Rescheduling of Suvorexant, Lemborexant, and Daridorexant From Schedule IV Into Schedule V](https://www.indexdata.org/schedules-of-controlled-substances-rescheduling-of-suvorexant-lemborexant-and-daridorexant-from-schedule-iv-into-schedule-v/)** — `2026-08-11` | `6 Pages`
-- `[`2026-15624`]` **[Amendment to 3,4-MDP-2-P Methyl Glycidic Acid, a List I Chemical](https://www.indexdata.org/amendment-to-34-mdp-2-p-methyl-glycidic-acid-a-list-i-chemical/)** — `2026-08-03` | `9 Pages`
-- `[`2026-13825`]` **[Designation of Phenethyl Halides as List I Chemicals](https://www.indexdata.org/designation-of-phenethyl-halides-as-list-i-chemicals/)** — `2026-07-09` | `8 Pages`
-- `[`2026-13821`]` **[Schedules of Controlled Substances: Placement of Tianeptine in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-tianeptine-in-schedule-i/)** — `2026-07-08` | `9 Pages`
-- `[`2026-13581`]` **[Schedules of Controlled Substances: Temporary Placement of Mitragynine Pseudoindoxyl, MGM-15, and MGM-16 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mitragynine-pseudoindoxyl-mgm-15-and-mgm-16-in-schedule-i-2/)** — `2026-07-06` | `8 Pages`
-- `[`2026-13580`]` **[Schedules of Controlled Substance: Temporary Placement of 7-Hydroxymitragynine Above a Specified Threshold in Schedule I](https://www.indexdata.org/schedules-of-controlled-substance-temporary-placement-of-7-hydroxymitragynine-above-a-specified-threshold-in-schedule-i/)** — `2026-07-06` | `8 Pages`
-- `[`2026-13364`]` **[Schedules of Controlled Substances: Temporary Placement of 5,6- Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-56-dichloro-brorphine-56-dichloro-desmethylchlorphine-n-propionitrile-chlorphine-and-spirochlorphine-in-schedule-i-of-the-controlled-su/)** — `2026-07-01` | `6 Pages`
-- `[`2026-12654`]` **[Schedules of Controlled Substances: Temporary Placement of O-Desmethyltramadol in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-o-desmethyltramadol-in-schedule-i-2/)** — `2026-06-24` | `5 Pages`
-- `[`2026-12653`]` **[Schedules of Controlled Substances: Placement of Bromazolam in Schedule I; Correction](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-bromazolam-in-schedule-i-correction/)** — `2026-06-24` | `2 Pages`
-- `[`2026-11526`]` **[Implementation of the Substance Use-Disorder Prevention That Promotes Opioid Recovery and Treatment for Patients and Communities Act of 2018: Dispensing and Administering Controlled Substances for Medication-Assisted Treatment](https://www.indexdata.org/implementation-of-the-substance-use-disorder-prevention-that-promotes-opioid-recovery-and-treatment-for-patients-and-communities-act-of-2018-dispensing-and-administering-controlled-substances-for-med/)** — `2026-06-09` | `15 Pages`
-- `[`2026-10380`]` **[Schedules of Controlled Substances: Placement of Diphenidine in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-diphenidine-in-schedule-i-2/)** — `2026-05-26` | `8 Pages`
-
 ### [National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-credit-union-administration/](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
 
@@ -1443,6 +1424,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2026-11531`]` **[Reducing Bureaucracy and Burden for Community Services Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-community-services-programs/)** — `2026-06-09` | `5 Pages`
 - `[`2026-11530`]` **[Employment and Training Services for Noncustodial Parents in the Child Support Program; Rescission](https://www.indexdata.org/employment-and-training-services-for-noncustodial-parents-in-the-child-support-program-rescission/)** — `2026-06-09` | `8 Pages`
 - `[`2026-10401`]` **[Reducing Bureaucracy and Burden for Family Assistance Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-family-assistance-programs-2/)** — `2026-05-26` | `20 Pages`
+
+### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+
+- `[`2026-17536`]` **[Schedules of Controlled Substances: Placement of Cipepofol in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-cipepofol-in-schedule-iv/)** — `2026-08-27` | `7 Pages`
+- `[`2026-17531`]` **[Schedules of Controlled Substances: Temporary Placement of 5,6-Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-56-dichloro-brorphine-56-dichloro-desmethylchlorphine-n-propionitrile-chlorphine-and-spirochlorphine-in-schedule-i-of-the-controlled-sub/)** — `2026-08-27` | `7 Pages`
+- `[`2026-17429`]` **[Schedules of Controlled Substances: Temporary Placement of Mitragynine Pseudoindoxyl, MGM-15, and MGM-16 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mitragynine-pseudoindoxyl-mgm-15-and-mgm-16-in-schedule-i/)** — `2026-08-26` | `9 Pages`
+- `[`2026-16413`]` **[Schedules of Controlled Substances: Temporary Placement of O-Desmethyltramadol in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-o-desmethyltramadol-in-schedule-i/)** — `2026-08-12` | `6 Pages`
+- `[`2026-16375`]` **[Schedules of Controlled Substances: Rescheduling of Suvorexant, Lemborexant, and Daridorexant From Schedule IV Into Schedule V](https://www.indexdata.org/schedules-of-controlled-substances-rescheduling-of-suvorexant-lemborexant-and-daridorexant-from-schedule-iv-into-schedule-v/)** — `2026-08-11` | `6 Pages`
+- `[`2026-15624`]` **[Amendment to 3,4-MDP-2-P Methyl Glycidic Acid, a List I Chemical](https://www.indexdata.org/amendment-to-34-mdp-2-p-methyl-glycidic-acid-a-list-i-chemical/)** — `2026-08-03` | `9 Pages`
+- `[`2026-13825`]` **[Designation of Phenethyl Halides as List I Chemicals](https://www.indexdata.org/designation-of-phenethyl-halides-as-list-i-chemicals/)** — `2026-07-09` | `8 Pages`
+- `[`2026-13821`]` **[Schedules of Controlled Substances: Placement of Tianeptine in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-tianeptine-in-schedule-i/)** — `2026-07-08` | `9 Pages`
+- `[`2026-13581`]` **[Schedules of Controlled Substances: Temporary Placement of Mitragynine Pseudoindoxyl, MGM-15, and MGM-16 in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mitragynine-pseudoindoxyl-mgm-15-and-mgm-16-in-schedule-i-2/)** — `2026-07-06` | `8 Pages`
+- `[`2026-13580`]` **[Schedules of Controlled Substance: Temporary Placement of 7-Hydroxymitragynine Above a Specified Threshold in Schedule I](https://www.indexdata.org/schedules-of-controlled-substance-temporary-placement-of-7-hydroxymitragynine-above-a-specified-threshold-in-schedule-i/)** — `2026-07-06` | `8 Pages`
+- `[`2026-13364`]` **[Schedules of Controlled Substances: Temporary Placement of 5,6- Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-56-dichloro-brorphine-56-dichloro-desmethylchlorphine-n-propionitrile-chlorphine-and-spirochlorphine-in-schedule-i-of-the-controlled-su/)** — `2026-07-01` | `6 Pages`
+- `[`2026-12654`]` **[Schedules of Controlled Substances: Temporary Placement of O-Desmethyltramadol in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-o-desmethyltramadol-in-schedule-i-2/)** — `2026-06-24` | `5 Pages`
+- `[`2026-12653`]` **[Schedules of Controlled Substances: Placement of Bromazolam in Schedule I; Correction](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-bromazolam-in-schedule-i-correction/)** — `2026-06-24` | `2 Pages`
+- `[`2026-11526`]` **[Implementation of the Substance Use-Disorder Prevention That Promotes Opioid Recovery and Treatment for Patients and Communities Act of 2018: Dispensing and Administering Controlled Substances for Medication-Assisted Treatment](https://www.indexdata.org/implementation-of-the-substance-use-disorder-prevention-that-promotes-opioid-recovery-and-treatment-for-patients-and-communities-act-of-2018-dispensing-and-administering-controlled-substances-for-med/)** — `2026-06-09` | `15 Pages`
 
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
@@ -1650,6 +1649,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-11091`]` **[Rescission of Climate-Related Disclosure Rules](https://www.indexdata.org/rescission-of-climate-related-disclosure-rules/)** — `2026-06-03` | `50 Pages`
 - `[`2026-10916`]` **[Holding Foreign Insiders Accountable Act Disclosure; Correction](https://www.indexdata.org/holding-foreign-insiders-accountable-act-disclosure-correction/)** — `2026-06-01` | `2 Pages`
 
+### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
+
+- `[`US-PLAW-105`]` **[An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-09-11` | `2 Pages`
+- `[`US-PLAW-103`]` **[Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/continuing-appropriations-and-extensions-act-2027/)** — `2026-09-02` | `24 Pages`
+- `[`US-PLAW-102`]` **[Emergency Conservation Program Improvement Act of 2025](https://www.indexdata.org/emergency-conservation-program-improvement-act-of-2025/)** — `2026-07-12` | `2 Pages`
+- `[`US-PLAW-101`]` **[21st Century ROAD to Housing Act](https://www.indexdata.org/21st-century-road-to-housing-act/)** — `2026-07-11` | `140 Pages`
+- `[`US-PLAW-99`]` **[Alaska's Right to Ivory Sales and Tradition Act" or the "ARTIST Act](https://www.indexdata.org/alaskas-right-to-ivory-sales-and-tradition-act-or-the-artist-act/)** — `2026-06-12` | `4 Pages`
+- `[`US-PLAW-98`]` **[Secure America Act](https://www.indexdata.org/secure-america-act/)** — `2026-06-10` | `5 Pages`
+- `[`US-PLAW-96`]` **[Gerald E. Connolly Esophageal Cancer Awareness Act of 2025](https://www.indexdata.org/gerald-e-connolly-esophageal-cancer-awareness-act-of-2025/)** — `2026-06-09` | `2 Pages`
+
 ### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 
@@ -1699,16 +1709,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/mine-safet
 - `[`2026-12796`]` **[Improving and Eliminating Regulations; Use of Permissible Flame Safety Lamps in Underground Coal Mines](https://www.indexdata.org/improving-and-eliminating-regulations-use-of-permissible-flame-safety-lamps-in-underground-coal-mines/)** — `2026-06-25` | `4 Pages`
 - `[`2026-12793`]` **[Improving and Eliminating Regulations; Approved Conveyor Belts in Underground Coal Mines](https://www.indexdata.org/improving-and-eliminating-regulations-approved-conveyor-belts-in-underground-coal-mines/)** — `2026-06-25` | `3 Pages`
 - `[`2026-12792`]` **[Improving and Eliminating Regulations; Diesel Particulate Matter Emission Limits in Underground Coal Mines](https://www.indexdata.org/improving-and-eliminating-regulations-diesel-particulate-matter-emission-limits-in-underground-coal-mines/)** — `2026-06-25` | `5 Pages`
-
-### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
-
-- `[`US-PLAW-103`]` **[Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/continuing-appropriations-and-extensions-act-2027/)** — `2026-09-02` | `24 Pages`
-- `[`US-PLAW-102`]` **[Emergency Conservation Program Improvement Act of 2025](https://www.indexdata.org/emergency-conservation-program-improvement-act-of-2025/)** — `2026-07-12` | `2 Pages`
-- `[`US-PLAW-101`]` **[21st Century ROAD to Housing Act](https://www.indexdata.org/21st-century-road-to-housing-act/)** — `2026-07-11` | `140 Pages`
-- `[`US-PLAW-99`]` **[Alaska's Right to Ivory Sales and Tradition Act" or the "ARTIST Act](https://www.indexdata.org/alaskas-right-to-ivory-sales-and-tradition-act-or-the-artist-act/)** — `2026-06-12` | `4 Pages`
-- `[`US-PLAW-98`]` **[Secure America Act](https://www.indexdata.org/secure-america-act/)** — `2026-06-10` | `5 Pages`
-- `[`US-PLAW-96`]` **[Gerald E. Connolly Esophageal Cancer Awareness Act of 2025](https://www.indexdata.org/gerald-e-connolly-esophageal-cancer-awareness-act-of-2025/)** — `2026-06-09` | `2 Pages`
 
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)

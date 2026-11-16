@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,415` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,416` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 17:58 UTC`
+**Last Automated Sync:** `2026-11-16 18:55 UTC`
 
 ---
 
@@ -74,9 +74,9 @@
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,415)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,416)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1463,6 +1463,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2024-16177`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Water Heaters](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-water-heaters/)** — `2024-07-23` | `18 Pages`
 - `[`2024-16136`]` **[Procedures for Determining Eligibility for Access to Classified Matter or Special Nuclear Material](https://www.indexdata.org/procedures-for-determining-eligibility-for-access-to-classified-matter-or-special-nuclear-material/)** — `2024-07-23` | `7 Pages`
 
+### [Education Department](https://www.indexdata.org/united-states/education-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
+
+- `[`2024-25067`]` **[Student Debt Relief Based on Hardship for the William D. Ford Federal Direct Loan Program (Direct Loans), the Federal Family Education Loan (FFEL) Program, the Federal Perkins Loan (Perkins) Program, and the Health Education Assistance Loan (HEAL) Program](https://www.indexdata.org/student-debt-relief-based-on-hardship-for-the-william-d-ford-federal-direct-loan-program-direct-loans-the-federal-family-education-loan-ffel-program-the-federal-perkins-loan-perkins-program-2/)** — `2024-10-31` | `34 Pages`
+- `[`2024-22195`]` **[Education Department General Administrative Regulations and Related Regulatory Provisions; Correction](https://www.indexdata.org/education-department-general-administrative-regulations-and-related-regulatory-provisions-correction/)** — `2024-09-27` | `2 Pages`
+- `[`2024-21277`]` **[Final Waiver and Extension of the Project Period for the Postsecondary Programs for Students With Intellectual Disabilities-National Technical Assistance and Dissemination Center (PPSID-NTAD) Program](https://www.indexdata.org/final-waiver-and-extension-of-the-project-period-for-the-postsecondary-programs-for-students-with-intellectual-disabilities-national-technical-assistance-and-dissemination-center-ppsid-ntad-program/)** — `2024-09-19` | `2 Pages`
+- `[`2024-17239`]` **[Education Department General Administrative Regulations and Related Regulatory Provisions](https://www.indexdata.org/education-department-general-administrative-regulations-and-related-regulatory-provisions/)** — `2024-08-29` | `47 Pages`
+- `[`2024-18856`]` **[National Resource Centers Program and Foreign Language and Area Studies Fellowships Program](https://www.indexdata.org/national-resource-centers-program-and-foreign-language-and-area-studies-fellowships-program/)** — `2024-08-27` | `31 Pages`
+- `[`2024-17709`]` **[Postsecondary Student Success Grant](https://www.indexdata.org/postsecondary-student-success-grant/)** — `2024-08-15` | `8 Pages`
+- `[`2024-17560`]` **[Proposed Waiver and Extension of the Project Period for the Postsecondary Programs for Students With Intellectual Disabilities-National Technical Assistance and Dissemination Center (PPSID-NTAD) Program](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-for-the-postsecondary-programs-for-students-with-intellectual-disabilities-national-technical-assistance-and-dissemination-center-ppsid-ntad-progr/)** — `2024-08-07` | `2 Pages`
+- `[`2024-16834`]` **[Transitioning Gang-Involved Youth to Higher Education Program](https://www.indexdata.org/transitioning-gang-involved-youth-to-higher-education-program/)** — `2024-08-01` | `4 Pages`
+- `[`2024-16206`]` **[Indian Education Discretionary Grant Programs; Professional Development Program](https://www.indexdata.org/indian-education-discretionary-grant-programs-professional-development-program-2/)** — `2024-07-29` | `10 Pages`
+- `[`2024-16102`]` **[Program Integrity and Institutional Quality: Distance Education, Return of Title IV, HEA Funds, and Federal TRIO Programs](https://www.indexdata.org/program-integrity-and-institutional-quality-distance-education-return-of-title-iv-hea-funds-and-federal-trio-programs/)** — `2024-07-24` | `31 Pages`
+- `[`2024-16115`]` **[Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate Early Childhood IDEA Data](https://www.indexdata.org/technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state-capacity-to-collect-report-analyze-and-use-accurate-early-childhood-idea-data/)** — `2024-07-22` | `9 Pages`
+- `[`2024-15537`]` **[Research and Development Infrastructure Grant](https://www.indexdata.org/research-and-development-infrastructure-grant/)** — `2024-07-18` | `5 Pages`
+- `[`2024-15051`]` **[Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate IDEA Part B Data](https://www.indexdata.org/technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state-capacity-to-collect-report-analyze-and-use-accurate-idea-part-b-data/)** — `2024-07-09` | `6 Pages`
+- `[`2024-15047`]` **[State Personnel Development Grants](https://www.indexdata.org/state-personnel-development-grants/)** — `2024-07-09` | `6 Pages`
+
 ### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
 
@@ -1479,23 +1497,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-p
 - `[`2024-17472`]` **[Safety Standard for Toys: Requirements for Toys Containing Button Cell or Coin Cell Batteries](https://www.indexdata.org/safety-standard-for-toys-requirements-for-toys-containing-button-cell-or-coin-cell-batteries/)** — `2024-08-13` | `25 Pages`
 - `[`2024-16716`]` **[Banned Hazardous Substances: Aerosol Duster Products Containing More Than 18 mg in Any Combination of HFC-152a and/or HFC-134a](https://www.indexdata.org/banned-hazardous-substances-aerosol-duster-products-containing-more-than-18-mg-in-any-combination-of-hfc-152a-and-or-hfc-134a/)** — `2024-07-31` | `19 Pages`
 - `[`2024-15843`]` **[Notice of Availability and Request for Comment: Revision to the Voluntary Standard for Infant Bath Seats](https://www.indexdata.org/notice-of-availability-and-request-for-comment-revision-to-the-voluntary-standard-for-infant-bath-seats/)** — `2024-07-18` | `2 Pages`
-
-### [Education Department](https://www.indexdata.org/united-states/education-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
-
-- `[`2024-22195`]` **[Education Department General Administrative Regulations and Related Regulatory Provisions; Correction](https://www.indexdata.org/education-department-general-administrative-regulations-and-related-regulatory-provisions-correction/)** — `2024-09-27` | `2 Pages`
-- `[`2024-21277`]` **[Final Waiver and Extension of the Project Period for the Postsecondary Programs for Students With Intellectual Disabilities-National Technical Assistance and Dissemination Center (PPSID-NTAD) Program](https://www.indexdata.org/final-waiver-and-extension-of-the-project-period-for-the-postsecondary-programs-for-students-with-intellectual-disabilities-national-technical-assistance-and-dissemination-center-ppsid-ntad-program/)** — `2024-09-19` | `2 Pages`
-- `[`2024-17239`]` **[Education Department General Administrative Regulations and Related Regulatory Provisions](https://www.indexdata.org/education-department-general-administrative-regulations-and-related-regulatory-provisions/)** — `2024-08-29` | `47 Pages`
-- `[`2024-18856`]` **[National Resource Centers Program and Foreign Language and Area Studies Fellowships Program](https://www.indexdata.org/national-resource-centers-program-and-foreign-language-and-area-studies-fellowships-program/)** — `2024-08-27` | `31 Pages`
-- `[`2024-17709`]` **[Postsecondary Student Success Grant](https://www.indexdata.org/postsecondary-student-success-grant/)** — `2024-08-15` | `8 Pages`
-- `[`2024-17560`]` **[Proposed Waiver and Extension of the Project Period for the Postsecondary Programs for Students With Intellectual Disabilities-National Technical Assistance and Dissemination Center (PPSID-NTAD) Program](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-for-the-postsecondary-programs-for-students-with-intellectual-disabilities-national-technical-assistance-and-dissemination-center-ppsid-ntad-progr/)** — `2024-08-07` | `2 Pages`
-- `[`2024-16834`]` **[Transitioning Gang-Involved Youth to Higher Education Program](https://www.indexdata.org/transitioning-gang-involved-youth-to-higher-education-program/)** — `2024-08-01` | `4 Pages`
-- `[`2024-16206`]` **[Indian Education Discretionary Grant Programs; Professional Development Program](https://www.indexdata.org/indian-education-discretionary-grant-programs-professional-development-program-2/)** — `2024-07-29` | `10 Pages`
-- `[`2024-16102`]` **[Program Integrity and Institutional Quality: Distance Education, Return of Title IV, HEA Funds, and Federal TRIO Programs](https://www.indexdata.org/program-integrity-and-institutional-quality-distance-education-return-of-title-iv-hea-funds-and-federal-trio-programs/)** — `2024-07-24` | `31 Pages`
-- `[`2024-16115`]` **[Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate Early Childhood IDEA Data](https://www.indexdata.org/technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state-capacity-to-collect-report-analyze-and-use-accurate-early-childhood-idea-data/)** — `2024-07-22` | `9 Pages`
-- `[`2024-15537`]` **[Research and Development Infrastructure Grant](https://www.indexdata.org/research-and-development-infrastructure-grant/)** — `2024-07-18` | `5 Pages`
-- `[`2024-15051`]` **[Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate IDEA Part B Data](https://www.indexdata.org/technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state-capacity-to-collect-report-analyze-and-use-accurate-idea-part-b-data/)** — `2024-07-09` | `6 Pages`
-- `[`2024-15047`]` **[State Personnel Development Grants](https://www.indexdata.org/state-personnel-development-grants/)** — `2024-07-09` | `6 Pages`
 
 ### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
@@ -1928,13 +1929,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/occupation
 - `[`2024-14824`]` **[Heat Injury and Illness Prevention in Outdoor and Indoor Work Settings](https://www.indexdata.org/heat-injury-and-illness-prevention-in-outdoor-and-indoor-work-settings-3/)** — `2024-08-30` | `376 Pages`
 - `[`2024-16126`]` **[Emergency Response Standard](https://www.indexdata.org/emergency-response-standard/)** — `2024-07-23` | `3 Pages`
 
-### [Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
-
-- `[`2024-24210`]` **[Privacy Act Regulation; Exemption for Legal Case Management Records](https://www.indexdata.org/privacy-act-regulation-exemption-for-legal-case-management-records-2/)** — `2024-10-22` | `3 Pages`
-- `[`2024-21359`]` **[Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits-10/)** — `2024-09-19` | `2 Pages`
-- `[`2024-14401`]` **[Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits-11/)** — `2024-07-01` | `2 Pages`
-
 ### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
 
@@ -1989,6 +1983,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/ocean-ener
 
 - `[`2024-19188`]` **[Protection of Marine Archaeological Resources](https://www.indexdata.org/protection-of-marine-archaeological-resources-2/)** — `2024-09-03` | `25 Pages`
 - `[`2024-18798`]` **[Adjustment of Service Fees for Outer Continental Shelf Activities](https://www.indexdata.org/adjustment-of-service-fees-for-outer-continental-shelf-activities/)** — `2024-08-30` | `5 Pages`
+
+### [Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
+
+- `[`2024-24210`]` **[Privacy Act Regulation; Exemption for Legal Case Management Records](https://www.indexdata.org/privacy-act-regulation-exemption-for-legal-case-management-records-2/)** — `2024-10-22` | `3 Pages`
+- `[`2024-21359`]` **[Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits-10/)** — `2024-09-19` | `2 Pages`
 
 ### [Rural Utilities Service](https://www.indexdata.org/united-states/rural-utilities-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-utilities-service/](https://www.indexdata.org/united-states/rural-utilities-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-utilities-service/feed/)
