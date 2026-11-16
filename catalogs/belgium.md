@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q31`](https://www.wikidata.org/wiki/Q31)  
 **Governing Open-Government Framework:** *Koninklijk besluit van 2 juni 2019 betreffende het hergebruik van overheidsinformatie & Code de droit économique / Wetboek van economisch recht, Art. XI.172*  
 **Total Indexed Dossiers in Belgium:** `48` across `22` issuing authorities  
-**Last Automated Sync:** `2026-11-16 00:25 UTC`
+**Last Automated Sync:** `2026-11-16 01:32 UTC`
 
 ---
 

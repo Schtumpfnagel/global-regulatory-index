@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/spain/feed/](https://www.indexdata.org/spain/feed/)  
 **Wikidata Sovereign Entity:** [`Q29`](https://www.wikidata.org/wiki/Q29)  
 **Governing Open-Government Framework:** *Art. 13 TRLPI (RDL 1/1996) & Law 37/2007 on Re-use of Public Sector Information (RD 1495/2011)*  
-**Total Indexed Dossiers in Spain:** `39` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-16 00:25 UTC`
+**Total Indexed Dossiers in Spain:** `41` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-16 01:32 UTC`
 
 ---
 
@@ -17,14 +17,14 @@
 - **[Center for Energy, Environmental and Technological Research (CIEMAT)](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/) | [RSS Feed](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/feed/)
 - **[Ombudsman of Spain (Defensor del Pueblo)](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/) | [RSS Feed](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/feed/)
 - **[Spanish National Research Council (CSIC)](https://www.indexdata.org/spain/spanish-national-research-council-csic/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/spain/spanish-national-research-council-csic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-research-council-csic/feed/)
+- **[National Institute for Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
 - **[Spanish National Center for Cardiovascular Research (CNIC)](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/feed/)
 - **[Ministry of Culture (Ministerio de Cultura)](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/) | [RSS Feed](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/feed/)
 - **[National Center for Microbiology (ISCIII - CNM)](https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/) | [RSS Feed](https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/feed/)
-- **[National Institute for Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–39 of 39)
+## Indexed Statutory & Regulatory Dossiers (Records 1–41 of 41)
 
 ### [Government of Spain (Datos.gob.es)](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/)
 Canonical Authority Archive: [https://www.indexdata.org/spain/government-of-spain-datos-gob-es/](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/) | [RSS Feed](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/feed/)
@@ -80,6 +80,13 @@ Canonical Authority Archive: [https://www.indexdata.org/spain/spanish-national-r
 - `[`ES-OA-W7167460191`]` **[Antarctica InSync Scientific Theme 7 - Variability, extremes, and tipping in a changing Antarctic climate](https://www.indexdata.org/antarctica-insync-scientific-theme-7-variability-extremes-and-tipping-in-a-changing-antarctic-climate/)** — `2026-01-01` | `15 Pages`
 - `[`ES-OA-W7133568805`]` **[Geo-INQUIRE Horizon Europe project. D4.5 WP4 Status of research infrastructures at M30](https://www.indexdata.org/geo-inquire-horizon-europe-project-d4-5-wp4-status-of-research-infrastructures-at-m30/)** — `2025-03-24` | `24 Pages`
 
+### [National Institute for Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)
+Canonical Authority Archive: [https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
+
+- `[`ES-INTA-20.500.12666-1910`]` **[Detection of a four-carbon sugar in interstellar space](https://www.indexdata.org/detection-of-a-four-carbon-sugar-in-interstellar-space/)** — `2026-07-13` | `13 Pages`
+- `[`ES-INTA-20.500.12666-1874`]` **[Two neighbours of the ultra-short-period Earth-sized planet K2-157 b in the warm Neptunian savanna](https://www.indexdata.org/two-neighbours-of-the-ultra-short-period-earth-sized-planet-k2-157-b-in-the-warm-neptunian-savanna/)** — `2025-07-22` | `30 Pages`
+- `[`ES-INTA-20.500.12666-1864`]` **[A transiting rocky super-Earth and a non-transiting sub-Neptune orbiting the M dwarf TOI-771](https://www.indexdata.org/a-transiting-rocky-super-earth-and-a-non-transiting-sub-neptune-orbiting-the-m-dwarf-toi-771/)** — `2025-06-20` | `19 Pages`
+
 ### [Spanish National Center for Cardiovascular Research (CNIC)](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/)
 Canonical Authority Archive: [https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/feed/)
 
@@ -95,11 +102,6 @@ Canonical Authority Archive: [https://www.indexdata.org/spain/ministry-of-cultur
 Canonical Authority Archive: [https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/](https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/) | [RSS Feed](https://www.indexdata.org/spain/national-center-for-microbiology-isciii-cnm/feed/)
 
 - `[`ES-ISCIII-20.500.12105-27829`]` **[Towards symbiont-based visceral leishmaniosis control: Delftia tsuruhatensis TC1 shows anti-Leishmania infantum effect in Phlebotomus perniciosus](https://www.indexdata.org/towards-symbiont-based-visceral-leishmaniosis-control-delftia-tsuruhatensis-tc1-shows-anti-leishmania-infantum-effect-in-phlebotomus-perniciosus/)** — `2026-10-30` | `14 Pages`
-
-### [National Institute for Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)
-Canonical Authority Archive: [https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
-
-- `[`ES-INTA-20.500.12666-1910`]` **[Detection of a four-carbon sugar in interstellar space](https://www.indexdata.org/detection-of-a-four-carbon-sugar-in-interstellar-space/)** — `2026-07-13` | `13 Pages`
 
 ---
 
