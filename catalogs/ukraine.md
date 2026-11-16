@@ -4,9 +4,9 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/ukraine/](https://www.indexdata.org/ukraine/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ukraine/feed/](https://www.indexdata.org/ukraine/feed/)  
 **Wikidata Sovereign Entity:** [`Q212`](https://www.wikidata.org/wiki/Q212)  
-**Governing Open-Government Framework:** *Law of Ukraine 'On Copyright and Related Rights' Art. 10*  
+**Governing Open-Government Framework:** *Law of Ukraine on Copyright and Related Rights, Art. 8*  
 **Total Indexed Dossiers in Ukraine:** `1` across `1` issuing authorities  
-**Last Automated Sync:** `2026-11-16 16:02 UTC`
+**Last Automated Sync:** `2026-11-16 17:01 UTC`
 
 ---
 

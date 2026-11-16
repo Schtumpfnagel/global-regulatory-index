@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,982` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,984` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-16 16:02 UTC`
+**Last Automated Sync:** `2026-11-16 17:01 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,019` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,982)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,984)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1064,6 +1064,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-2026-335`]` **[Identical letters dated 16 April 2026 from the Permanent Representative of Bahrain to the United Nations addressed to th](https://www.indexdata.org/s-2026-335-identical-letters-dated-16-april-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-th/)** — `2026-04-17` | `3 Pages`
 - `[`UN-S-2026-333`]` **[Identical letters dated 16 April 2026 from the Permanent Representative of Israel to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-333-identical-letters-dated-16-april-2026-from-the-permanent-representative-of-israel-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `4 Pages`
 - `[`UN-S-2026-331`]` **[Identical letters dated 15 April 2026 from the Permanent Representative of Bahrain to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-331-identical-letters-dated-15-april-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `2 Pages`
 - `[`UN-S-2026-327`]` **[Identical letters dated 14 April 2026 from the Permanent Representative of Qatar to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-327-identical-letters-dated-14-april-2026-from-the-permanent-representative-of-qatar-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `2 Pages`
@@ -1225,8 +1226,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 - `[`UN-S-2026-35`]` **[Letter dated 16 January 2026 from the Permanent Representative of the Bolivarian Republic of Venezuela to the United Nations addressed to the President of the Security Council](https://www.indexdata.org/s-2026-35-letter-dated-16-january-2026-from-the-permanent-representative-of-the-bolivarian-republic-of-venezuela-to-the-united-nations-addressed-to-the-president-of-the-security-council/)** — `2026-01-19` | `2 Pages`
 - `[`UN-S-2026-32`]` **[Letter dated 14 January 2026 from the Secretary-General addressed to the President of the Security Council](https://www.indexdata.org/s-2026-32-letter-dated-14-january-2026-from-the-secretary-general-addressed-to-the-president-of-the-security-council/)** — `2026-01-15` | `20 Pages`
 - `[`UN-S-2026-31`]` **[United Nations Integrated Office in Haiti — report of the Secretary-General](https://www.indexdata.org/s-2026-31-united-nations-integrated-office-in-haiti-report-of-the-secretary-general/)** — `2026-01-15` | `27 Pages`
-- `[`UN-S-2026-30`]` **[Letter dated 14 January 2026 from the Permanent Representative of the Islamic Republic of Iran to the United Nations addressed to the Secretary-General](https://www.indexdata.org/s-2026-30-letter-dated-14-january-2026-from-the-permanent-representative-of-the-islamic-republic-of-iran-to-the-united-nations-addressed-to-the-secretary-general/)** — `2026-01-14` | `2 Pages`
-- `[`UN-S-2026-29`]` **[Letter dated 13 January 2026 from the Permanent Representative of the Islamic Republic of Iran to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-29-letter-dated-13-january-2026-from-the-permanent-representative-of-the-islamic-republic-of-iran-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-co/)** — `2026-01-14` | `2 Pages`
 
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
@@ -1900,6 +1899,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/republic-
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/republic-of-t-rkiye/](https://www.indexdata.org/united-nations/republic-of-t-rkiye/) | [RSS Feed](https://www.indexdata.org/united-nations/republic-of-t-rkiye/feed/)
 
 - `[`UN-NPT-CONF.2026-12`]` **[Implementation of the action plan of the 2010 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons — report](https://www.indexdata.org/npt-conf-2026-12-implementation-of-the-action-plan-of-the-2010-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons-report/)** — `2026-03-19` | `8 Pages`
+
+### [States Parties to the Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean (Treaty of Tlatelolco)](https://www.indexdata.org/united-nations/states-parties-to-the-treaty-for-the-prohibition-of-nuclear-weapons-in-latin-america-and-the-caribbean-treaty-of-tlatelolco/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/states-parties-to-the-treaty-for-the-prohibition-of-nuclear-weapons-in-latin-america-and-the-caribbean-treaty-of-tlatelolco/](https://www.indexdata.org/united-nations/states-parties-to-the-treaty-for-the-prohibition-of-nuclear-weapons-in-latin-america-and-the-caribbean-treaty-of-tlatelolco/) | [RSS Feed](https://www.indexdata.org/united-nations/states-parties-to-the-treaty-for-the-prohibition-of-nuclear-weapons-in-latin-america-and-the-caribbean-treaty-of-tlatelolco/feed/)
+
+- `[`UN-NPT-CONF.2026-WP.49`]` **[Recommendations for consideration by the 2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons — working paper](https://www.indexdata.org/npt-conf-2026-wp-49-recommendations-for-consideration-by-the-2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons-working-paper/)** — `2026-04-17` | `5 Pages`
 
 ### [Stockholm Initiative for Nuclear Disarmament](https://www.indexdata.org/united-nations/stockholm-initiative-for-nuclear-disarmament/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/stockholm-initiative-for-nuclear-disarmament/](https://www.indexdata.org/united-nations/stockholm-initiative-for-nuclear-disarmament/) | [RSS Feed](https://www.indexdata.org/united-nations/stockholm-initiative-for-nuclear-disarmament/feed/)

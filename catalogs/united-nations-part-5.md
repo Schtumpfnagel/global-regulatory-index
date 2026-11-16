@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,982` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,984` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-16 16:02 UTC`
+**Last Automated Sync:** `2026-11-16 17:01 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,019` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,982 of 6,982)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,984 of 6,984)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -970,6 +970,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretari
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 
+- `[`UN-A-RES-79-77`]` **[Comprehensive Nuclear-Test-Ban Treaty](https://www.indexdata.org/a-res-79-77-comprehensive-nuclear-test-ban-treaty/)** — `2024-12-10` | `3 Pages`
 - `[`UN-A-C.5-79-27`]` **[Investigation into the conditions and circumstances resulting in the tragic death of Dag Hammarskjöld and of the members of the party accompanying him : programme budget implications of draft resolution A/79/L.26 — Statement](https://www.indexdata.org/a-c-5-79-27-investigation-into-the-conditions-and-circumstances-resulting-in-the-tragic-death-of-dag-hammarskjold-and-of-the-members-of-the-party-accompanying-him-programme-budget-implications-of/)** — `2024-11-29` | `4 Pages`
 - `[`UN-A-79-637`]` **[Identical letters dated 25 November 2024 from the Chargé d'affaires a.i. of the Permanent Mission of Lebanon to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/a-79-637-identical-letters-dated-25-november-2024-from-the-charge-daffaires-a-i-of-the-permanent-mission-of-lebanon-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-t/)** — `2024-11-29` | `2 Pages`
 - `[`UN-A-79-632`]` **[Letter dated 27 November 2024 from the Permanent Representative of Türkiye to the United Nations addressed to the Secretary-General](https://www.indexdata.org/a-79-632-letter-dated-27-november-2024-from-the-permanent-representative-of-turkiye-to-the-united-nations-addressed-to-the-secretary-general/)** — `2024-11-29` | `4 Pages`
@@ -1015,6 +1016,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-genera
 ### [UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 
+- `[`UN-A-HRC-WGAD-2024-51`]` **[Opinions adopted by the Working Group on Arbitrary Detention at its 101st session, 11-15 November 2024 — Opinion No. 51/2024 concerning Nguyễn Lân Thắng (Viet Nam)](https://www.indexdata.org/a-hrc-wgad-2024-51-opinions-adopted-by-the-working-group-on-arbitrary-detention-at-its-101st-session-11-15-november-2024-opinion-no-51-2024-concerning-nguyen-lan-thang-viet-nam/)** — `2024-12-10` | `17 Pages`
 - `[`UN-CCPR-C-GNB-1`]` **[Initial report submitted by Guinea-Bissau under article 40 of the Covenant, due in 2021 — International Covenant on Civil and Political Rights](https://www.indexdata.org/ccpr-c-gnb-1-initial-report-submitted-by-guinea-bissau-under-article-40-of-the-covenant-due-in-2021-international-covenant-on-civil-and-political-rights/)** — `2024-11-29` | `54 Pages`
 - `[`UN-CCPR-C-ESP-7`]` **[Seventh periodic report submitted by Spain under article 40 of the Covenant, due in 2020 — International Covenant on Civil and Political Rights](https://www.indexdata.org/ccpr-c-esp-7-seventh-periodic-report-submitted-by-spain-under-article-40-of-the-covenant-due-in-2020-international-covenant-on-civil-and-political-rights/)** — `2024-11-29` | `34 Pages`
 - `[`UN-A-HRC-WGAD-2024-33`]` **[Opinions adopted by the Working Group on Arbitrary Detention at its 100th session, 26-30 August 2024 — Opinion No. 33/2024 concerning Akin Öztürk (Türkiye)](https://www.indexdata.org/a-hrc-wgad-2024-33-opinions-adopted-by-the-working-group-on-arbitrary-detention-at-its-100th-session-26-30-august-2024-opinion-no-33-2024-concerning-akin-ozturk-turkiye/)** — `2024-11-29` | `13 Pages`

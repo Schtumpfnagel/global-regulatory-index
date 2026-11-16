@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,412` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,414` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 16:02 UTC`
+**Last Automated Sync:** `2026-11-16 17:01 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,186` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`907` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`330` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`331` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -96,9 +96,9 @@
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[Social Security Administration](https://www.indexdata.org/united-states/social-security-administration/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/social-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/social-security-administration/feed/)
 - **[Surface Transportation Board](https://www.indexdata.org/united-states/surface-transportation-board/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-transportation-board/) | [RSS Feed](https://www.indexdata.org/united-states/surface-transportation-board/feed/)
+- **[Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)
-- **[Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
 - **[Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
 - **[Food Safety and Inspection Service](https://www.indexdata.org/united-states/food-safety-and-inspection-service/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-safety-and-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-safety-and-inspection-service/feed/)
 - **[U.S. Department of Transportation (USDOT)](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,412)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,414)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -852,7 +852,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-25370`]` **[Integrating e-Manifest With Hazardous Waste Exports and Other Manifest-Related Reports, PCB Manifest Amendments, and Technical Corrections; Correction](https://www.indexdata.org/integrating-e-manifest-with-hazardous-waste-exports-and-other-manifest-related-reports-pcb-manifest-amendments-and-technical-corrections-correction/)** — `2024-10-31` | `2 Pages`
 - `[`2024-25244`]` **[Air Plan Approval; KY; Revisions to Jefferson County Control of Open Burning](https://www.indexdata.org/air-plan-approval-ky-revisions-to-jefferson-county-control-of-open-burning-2/)** — `2024-10-31` | `2 Pages`
 - `[`2024-25243`]` **[Air Plan Approval; Mississippi; PSD and Air Quality Modeling Infrastructure Requirements for the 2015 8-Hour Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-plan-approval-mississippi-psd-and-air-quality-modeling-infrastructure-requirements-for-the-2015-8-hour-ozone-national-ambient-air-quality-standards/)** — `2024-10-31` | `5 Pages`
-- `[`2024-25014`]` **[Regional Office Address](https://www.indexdata.org/regional-office-address/)** — `2024-10-31` | `9 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -929,6 +928,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2025-04406`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Bering Sea and Aleutian Islands; Final 2025 and 2026 Harvest Specifications for Groundfish](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-bering-sea-and-aleutian-islands-final-2025-and-2026-harvest-specifications-for-groundfish/)** — `2025-03-18` | `38 Pages`
 - `[`2025-04371`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Gulf of Alaska; Final 2025 and 2026 Harvest Specifications for Groundfish](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-gulf-of-alaska-final-2025-and-2026-harvest-specifications-for-groundfish/)** — `2025-03-18` | `29 Pages`
 - `[`2025-04276`]` **[Fisheries of the Northeastern United States; Framework Adjustment 39 to the Atlantic Sea Scallop Fishery Management Plan](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-framework-adjustment-39-to-the-atlantic-sea-scallop-fishery-management-plan-2/)** — `2025-03-18` | `13 Pages`
 - `[`2025-04025`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic; Amendment 55](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-snapper-grouper-fishery-of-the-south-atlantic-amendment-55-2/)** — `2025-03-17` | `5 Pages`
@@ -996,6 +996,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2025-04411`]` **[Television Broadcasting Services Portland, Oregon](https://www.indexdata.org/television-broadcasting-services-portland-oregon-2/)** — `2025-03-18` | `2 Pages`
 - `[`2025-04126`]` **[Wireless Emergency Alerts; Emergency Alert System](https://www.indexdata.org/wireless-emergency-alerts-emergency-alert-system/)** — `2025-03-18` | `7 Pages`
 - `[`2025-04125`]` **[Wireless Emergency Alerts; Emergency Alert System](https://www.indexdata.org/wireless-emergency-alerts-emergency-alert-system-2/)** — `2025-03-18` | `4 Pages`
 - `[`2025-04008`]` **[Review of the Commission's Rules Governing the 896-901/935-940 MHz Band](https://www.indexdata.org/review-of-the-commissions-rules-governing-the-896-901-935-940-mhz-band-2/)** — `2025-03-17` | `15 Pages`
@@ -1716,17 +1717,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-re
 - `[`2024-26981`]` **[Reserve Requirements of Depository Institutions](https://www.indexdata.org/reserve-requirements-of-depository-institutions/)** — `2024-11-20` | `3 Pages`
 - `[`2024-26091`]` **[Federal Reserve Bank Capital Stock](https://www.indexdata.org/federal-reserve-bank-capital-stock-2/)** — `2024-11-12` | `2 Pages`
 
-### [Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-nutrition-service/](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
-
-- `[`2024-30578`]` **[Supplemental Nutrition Assistance Program Quality Control Review Handbook Incorporation by Reference](https://www.indexdata.org/supplemental-nutrition-assistance-program-quality-control-review-handbook-incorporation-by-reference/)** — `2025-01-03` | `3 Pages`
-- `[`2024-30575`]` **[Food Distribution Programs: Improving Access and Parity](https://www.indexdata.org/food-distribution-programs-improving-access-and-parity/)** — `2024-12-23` | `2 Pages`
-- `[`2024-29072`]` **[Supplemental Nutrition Assistance Program: Program Purpose and Work Requirement Provisions of the Fiscal Responsibility Act of 2023](https://www.indexdata.org/supplemental-nutrition-assistance-program-program-purpose-and-work-requirement-provisions-of-the-fiscal-responsibility-act-of-2023/)** — `2024-12-17` | `54 Pages`
-- `[`2024-27853`]` **[Supplemental Nutrition Assistance Program: Thrifty Food Plan Cost Adjustment for the Price of Food in Hawaii](https://www.indexdata.org/supplemental-nutrition-assistance-program-thrifty-food-plan-cost-adjustment-for-the-price-of-food-in-hawaii/)** — `2024-12-03` | `4 Pages`
-- `[`2024-26845`]` **[Supplemental Nutrition Assistance Program: Standardization of State Heating and Cooling Standard Utility Allowances](https://www.indexdata.org/supplemental-nutrition-assistance-program-standardization-of-state-heating-and-cooling-standard-utility-allowances/)** — `2024-11-18` | `48 Pages`
-- `[`2024-26809`]` **[Supplemental Nutrition Assistance Program (SNAP): Employment and Training Program Monitoring, Oversight and Reporting Measures](https://www.indexdata.org/supplemental-nutrition-assistance-program-snap-employment-and-training-program-monitoring-oversight-and-reporting-measures/)** — `2024-11-18` | `23 Pages`
-- `[`2024-24966`]` **[Food Distribution Programs: Improving Access and Parity](https://www.indexdata.org/food-distribution-programs-improving-access-and-parity-2/)** — `2024-10-31` | `31 Pages`
-
 ### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 
@@ -1759,6 +1749,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2024-28200`]` **[Women-Owned Small Business Federal Contract Program Updates and Clarifications](https://www.indexdata.org/women-owned-small-business-federal-contract-program-updates-and-clarifications/)** — `2024-12-04` | `7 Pages`
 - `[`2024-27028`]` **[Disaster Assistance Loan Program Updates](https://www.indexdata.org/disaster-assistance-loan-program-updates/)** — `2024-11-20` | `4 Pages`
 - `[`2024-26831`]` **[Surety Bond Guarantee Program: Streamlining and Modernizing](https://www.indexdata.org/surety-bond-guarantee-program-streamlining-and-modernizing/)** — `2024-11-19` | `8 Pages`
+
+### [Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-nutrition-service/](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
+
+- `[`2024-30578`]` **[Supplemental Nutrition Assistance Program Quality Control Review Handbook Incorporation by Reference](https://www.indexdata.org/supplemental-nutrition-assistance-program-quality-control-review-handbook-incorporation-by-reference/)** — `2025-01-03` | `3 Pages`
+- `[`2024-30575`]` **[Food Distribution Programs: Improving Access and Parity](https://www.indexdata.org/food-distribution-programs-improving-access-and-parity/)** — `2024-12-23` | `2 Pages`
+- `[`2024-29072`]` **[Supplemental Nutrition Assistance Program: Program Purpose and Work Requirement Provisions of the Fiscal Responsibility Act of 2023](https://www.indexdata.org/supplemental-nutrition-assistance-program-program-purpose-and-work-requirement-provisions-of-the-fiscal-responsibility-act-of-2023/)** — `2024-12-17` | `54 Pages`
+- `[`2024-27853`]` **[Supplemental Nutrition Assistance Program: Thrifty Food Plan Cost Adjustment for the Price of Food in Hawaii](https://www.indexdata.org/supplemental-nutrition-assistance-program-thrifty-food-plan-cost-adjustment-for-the-price-of-food-in-hawaii/)** — `2024-12-03` | `4 Pages`
+- `[`2024-26845`]` **[Supplemental Nutrition Assistance Program: Standardization of State Heating and Cooling Standard Utility Allowances](https://www.indexdata.org/supplemental-nutrition-assistance-program-standardization-of-state-heating-and-cooling-standard-utility-allowances/)** — `2024-11-18` | `48 Pages`
+- `[`2024-26809`]` **[Supplemental Nutrition Assistance Program (SNAP): Employment and Training Program Monitoring, Oversight and Reporting Measures](https://www.indexdata.org/supplemental-nutrition-assistance-program-snap-employment-and-training-program-monitoring-oversight-and-reporting-measures/)** — `2024-11-18` | `23 Pages`
 
 ### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)

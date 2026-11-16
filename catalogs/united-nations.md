@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,982` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,984` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-16 16:02 UTC`
+**Last Automated Sync:** `2026-11-16 17:01 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,019` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,11 +187,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,982)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,984)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-63-SR.42`]` **[Summary record of the 42nd meeting, held at the Palais des Nations, Geneva, on Tuesday, 6 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-42-summary-record-of-the-42nd-meeting-held-at-the-palais-des-nations-geneva-on-tuesday-6-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `26 Pages`
+- `[`UN-A-HRC-63-SR.41`]` **[Summary record of the 41st meeting, held at the Palais des Nations, Geneva, on Tuesday, 6 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-41-summary-record-of-the-41st-meeting-held-at-the-palais-des-nations-geneva-on-tuesday-6-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `30 Pages`
 - `[`UN-A-HRC-63-SR.40`]` **[Summary record of the 40th meeting, held at the Palais des Nations, Geneva, on Monday, 5 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-40-summary-record-of-the-40th-meeting-held-at-the-palais-des-nations-geneva-on-monday-5-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `27 Pages`
 - `[`UN-A-HRC-63-SR.39`]` **[Summary record (partial) of the 39th meeting, held at the Palais des Nations, Geneva, on Monday, 5 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-39-summary-record-partial-of-the-39th-meeting-held-at-the-palais-des-nations-geneva-on-monday-5-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `6 Pages`
 - `[`UN-A-HRC-OM-20-L.1`]` **[Continued non-cooperation of a State under review with the Universal Periodic Review Mechanism — draft decision](https://www.indexdata.org/a-hrc-om-20-l-1-continued-non-cooperation-of-a-state-under-review-with-the-universal-periodic-review-mechanism-draft-decision/)** — `2026-11-09` | `2 Pages`
@@ -1560,8 +1562,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-2026-L.17`]` **[Dates and provisional agenda of the 26th session of the Committee of Experts on Public Administration — draft decision](https://www.indexdata.org/e-2026-l-17-dates-and-provisional-agenda-of-the-26th-session-of-the-committee-of-experts-on-public-administration-draft-decision/)** — `2026-07-06` | `2 Pages`
 - `[`UN-E-2026-L.15`]` **[Doha Programme of Action for the Least Developed Countries for the decade 2022–2031 — draft resolution](https://www.indexdata.org/e-2026-l-15-doha-programme-of-action-for-the-least-developed-countries-for-the-decade-2022-2031-draft-resolution/)** — `2026-07-03` | `8 Pages`
 - `[`UN-E-ICEF-2026-P-L.20`]` **[Country programme document — United Nations Children's Fund : Tajikistan](https://www.indexdata.org/e-icef-2026-p-l-20-country-programme-document-united-nations-childrens-fund-tajikistan/)** — `2026-07-01` | `17 Pages`
-- `[`UN-E-ICEF-2026-P-L.19`]` **[Country programme document — United Nations Children's Fund : Albania](https://www.indexdata.org/e-icef-2026-p-l-19-country-programme-document-united-nations-childrens-fund-albania/)** — `2026-07-01` | `17 Pages`
-- `[`UN-E-ICEF-2026-24`]` **[Compendium of decisions adopted by the Executive Board at its annual session of 2025 — United Nations Children's Fund](https://www.indexdata.org/e-icef-2026-24-compendium-of-decisions-adopted-by-the-executive-board-at-its-annual-session-of-2025-united-nations-childrens-fund/)** — `2026-07-01` | `10 Pages`
 
 ### [United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-secretariat/](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
