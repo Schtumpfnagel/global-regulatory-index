@@ -5,25 +5,25 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/belgium/feed/](https://www.indexdata.org/belgium/feed/)  
 **Wikidata Sovereign Entity:** [`Q31`](https://www.wikidata.org/wiki/Q31)  
 **Governing Open-Government Framework:** *Koninklijk besluit van 2 juni 2019 betreffende het hergebruik van overheidsinformatie & Code de droit économique / Wetboek van economisch recht, Art. XI.172*  
-**Total Indexed Dossiers in Belgium:** `67` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-16 06:41 UTC`
+**Total Indexed Dossiers in Belgium:** `70` across `30` issuing authorities  
+**Last Automated Sync:** `2026-11-16 07:48 UTC`
 
 ---
 
-## Issuing Authorities in Belgium (29 Authorities)
+## Issuing Authorities in Belgium (30 Authorities)
 
 - **[Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
 - **[Belgian Health Care Knowledge Centre (KCE)](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-health-care-knowledge-centre-kce/feed/)
 - **[Flemish Peace Institute](https://www.indexdata.org/belgium/flemish-peace-institute/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-peace-institute/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-peace-institute/feed/)
 - **[Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
 - **[Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
+- **[RIZIV](https://www.indexdata.org/belgium/riziv/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
 - **[Research Institute for Nature and Forest (INBO)](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/feed/)
+- **[Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)
 - **[Belgian Federal Science Policy Office (BELSPO)](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/feed/)
 - **[Flemish Institute for Technological Research (VITO)](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/feed/)
 - **[NIHDI](https://www.indexdata.org/belgium/nihdi/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/nihdi/) | [RSS Feed](https://www.indexdata.org/belgium/nihdi/feed/)
-- **[RIZIV](https://www.indexdata.org/belgium/riziv/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
 - **[Royal Belgian Institute for Space Aeronomy (BIRA-IASB)](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/feed/)
-- **[Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)
 - **[Royal Belgian Institute of Natural Sciences (RBINS) — Geological Survey of Belgium](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/feed/)
 - **[Brussels-Capital Region](https://www.indexdata.org/belgium/brussels-capital-region/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/brussels-capital-region/) | [RSS Feed](https://www.indexdata.org/belgium/brussels-capital-region/feed/)
 - **[Department of Mobility and Public Works (Flanders)](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/) | [RSS Feed](https://www.indexdata.org/belgium/department-of-mobility-and-public-works-flanders/feed/)
@@ -41,10 +41,11 @@
 - **[Royal Institute for Cultural Heritage (KIK-IRPA)](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/) | [RSS Feed](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/feed/)
 - **[Royal Library of Belgium (KBR)](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/) | [RSS Feed](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/feed/)
 - **[Royal Meteorological Institute of Belgium (RMI)](https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/) | [RSS Feed](https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/feed/)
+- **[Royal Museum for Central Africa (RMCA)](https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/) | [RSS Feed](https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–67 of 67)
+## Indexed Statutory & Regulatory Dossiers (Records 1–70 of 70)
 
 ### [Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
@@ -100,12 +101,26 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/provincial-devel
 - `[`BE-OA-REG-W4297888143`]` **[Local and regional experiences of remote work and multilocality](https://www.indexdata.org/local-and-regional-experiences-of-remote-work-and-multilocality/)** — `2022-09-20` | `74 Pages`
 - `[`BE-OA-DEL2-W4297888143`]` **[Local and regional experiences of remote work and multilocality](https://www.indexdata.org/local-and-regional-experiences-of-remote-work-and-multilocality-2/)** — `2022-09-20` | `74 Pages`
 
+### [RIZIV](https://www.indexdata.org/belgium/riziv/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/riziv/](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
+
+- `[`BE-ODP-d7a434aa-88b6-4caa-9bc0-17b8c7123699`]` **[Unidirectional endobronchial valve for the treatment of pulmonary emphysema](https://www.indexdata.org/unidirectional-endobronchial-valve-for-the-treatment-of-pulmonary-emphysema/)** — `2026-08-11` | `9 Pages`
+- `[`BE-ODP-cec7a140-caec-4fa9-8af2-827a0804ee32`]` **[Quality Electronic Registration of Medical acts, Implants and Devices: Orthopedic Prosthesis Identification Data](https://www.indexdata.org/quality-electronic-registration-of-medical-acts-implants-and-devices-orthopedic-prosthesis-identification-data/)** — `2026-08-11` | `11 Pages`
+- `[`BE-ODP-911cb14c-129b-4336-9c16-518d365c5a31`]` **[Quality Electronic Registration of Medical acts, Implants and Devices: Orthopedic Prosthesis Identification Data: Hip](https://www.indexdata.org/quality-electronic-registration-of-medical-acts-implants-and-devices-orthopedic-prosthesis-identification-data-hip/)** — `2026-08-11` | `11 Pages`
+
 ### [Research Institute for Nature and Forest (INBO)](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/) | [RSS Feed](https://www.indexdata.org/belgium/research-institute-for-nature-and-forest-inbo/feed/)
 
 - `[`BE-ZEN-INBO-20485001`]` **[DUNe restoration by tackling Invasive Alien Species: Results and materials from the LIFE DUNIAS final conference](https://www.indexdata.org/dune-restoration-by-tackling-invasive-alien-species-results-and-materials-from-the-life-dunias-final-conference/)** — `2026-06-01` | `11 Pages`
 - `[`BE-ZEN-POA-15006587`]` **[A demarcation of risk categories for invasion risk assessments using the Harmonia+ protocol](https://www.indexdata.org/a-demarcation-of-risk-categories-for-invasion-risk-assessments-using-the-harmonia-protocol/)** — `2025-03-11` | `8 Pages`
 - `[`BE-ZEN-JUST2-12513955`]` **[An annotated list of datasets on aquatic invasive alien rodents and their management mobilised through the LIFE MICA (Management of Invasive Coypu and MuskrAt in Europe) project](https://www.indexdata.org/an-annotated-list-of-datasets-on-aquatic-invasive-alien-rodents-and-their-management-mobilised-through-the-life-mica-management-of-invasive-coypu-and-muskrat-in-europe-project/)** — `2024-06-24` | `5 Pages`
+
+### [Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)
+
+- `[`BE-ZEN-ECON-20493182`]` **[Belgian Biodiversity Platform - Highlights Report 2025](https://www.indexdata.org/belgian-biodiversity-platform-highlights-report-2025/)** — `2026-06-01` | `28 Pages`
+- `[`BE-ZEN-VRT-19664814`]` **[Engaging the GLAM Sector in a Federal Open Science Ecosystem: The Belgian FedOSC Approach](https://www.indexdata.org/engaging-the-glam-sector-in-a-federal-open-science-ecosystem-the-belgian-fedosc-approach-2/)** — `2026-04-20` | `2 Pages`
+- `[`BE-ZEN-FEDOSC-19664814`]` **[Engaging the GLAM Sector in a Federal Open Science Ecosystem: The Belgian FedOSC Approach](https://www.indexdata.org/engaging-the-glam-sector-in-a-federal-open-science-ecosystem-the-belgian-fedosc-approach/)** — `2026-04-20` | `2 Pages`
 
 ### [Belgian Federal Science Policy Office (BELSPO)](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/feed/)
@@ -125,23 +140,11 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/nihdi/](https://
 - `[`BE-ODP-781c6e2f-6b25-472e-875d-4aa4d6407184`]` **[Quality Electronic Registration of Medical acts, Implants and Devices: Orthopedic Prosthesis Identification Data: Total femur](https://www.indexdata.org/quality-electronic-registration-of-medical-acts-implants-and-devices-orthopedic-prosthesis-identification-data-total-femur/)** — `2026-08-11` | `11 Pages`
 - `[`BE-ODP-0583de5d-5999-4d77-bb68-3a5a0fb399d9`]` **[Reimbursement of implantable meshes for the repair of prolapse, for vaginal placement](https://www.indexdata.org/reimbursement-of-implantable-meshes-for-the-repair-of-prolapse-for-vaginal-placement/)** — `2026-08-11` | `9 Pages`
 
-### [RIZIV](https://www.indexdata.org/belgium/riziv/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/riziv/](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
-
-- `[`BE-ODP-d7a434aa-88b6-4caa-9bc0-17b8c7123699`]` **[Unidirectional endobronchial valve for the treatment of pulmonary emphysema](https://www.indexdata.org/unidirectional-endobronchial-valve-for-the-treatment-of-pulmonary-emphysema/)** — `2026-08-11` | `9 Pages`
-- `[`BE-ODP-cec7a140-caec-4fa9-8af2-827a0804ee32`]` **[Quality Electronic Registration of Medical acts, Implants and Devices: Orthopedic Prosthesis Identification Data](https://www.indexdata.org/quality-electronic-registration-of-medical-acts-implants-and-devices-orthopedic-prosthesis-identification-data/)** — `2026-08-11` | `11 Pages`
-
 ### [Royal Belgian Institute for Space Aeronomy (BIRA-IASB)](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/feed/)
 
 - `[`BE-BIRA-72c9f1c8-421f-4b15-b81d-17b656790e2d`]` **[Supplementary material for: Predicting boundary crossings during the Comet Interceptor flyby of a yet undetermined target comet - Software](https://www.indexdata.org/supplementary-material-for-predicting-boundary-crossings-during-the-comet-interceptor-flyby-of-a-yet-undetermined-target-comet-software/)** — `2026-11-13` | `4 Pages`
 - `[`BE-BIRA-c011e5e0-4fab-487b-a5be-c6002205e0c8`]` **[Vertical Profiles of Mineral Dust Aerosols from IASI (MAPIR algorithm version 5.11)](https://www.indexdata.org/vertical-profiles-of-mineral-dust-aerosols-from-iasi-mapir-algorithm-version-5-11/)** — `2026-11-05` | `6 Pages`
-
-### [Royal Belgian Institute of Natural Sciences (RBINS)](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins/feed/)
-
-- `[`BE-ZEN-VRT-19664814`]` **[Engaging the GLAM Sector in a Federal Open Science Ecosystem: The Belgian FedOSC Approach](https://www.indexdata.org/engaging-the-glam-sector-in-a-federal-open-science-ecosystem-the-belgian-fedosc-approach-2/)** — `2026-04-20` | `2 Pages`
-- `[`BE-ZEN-FEDOSC-19664814`]` **[Engaging the GLAM Sector in a Federal Open Science Ecosystem: The Belgian FedOSC Approach](https://www.indexdata.org/engaging-the-glam-sector-in-a-federal-open-science-ecosystem-the-belgian-fedosc-approach/)** — `2026-04-20` | `2 Pages`
 
 ### [Royal Belgian Institute of Natural Sciences (RBINS) — Geological Survey of Belgium](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/feed/)
@@ -228,6 +231,11 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-library-of
 Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/](https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/) | [RSS Feed](https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/feed/)
 
 - `[`BE-ZEN-PARL-16410462`]` **[D5.3 Arctic services impact assessments and generalisation](https://www.indexdata.org/d5-3-arctic-services-impact-assessments-and-generalisation/)** — `2025-07-10` | `116 Pages`
+
+### [Royal Museum for Central Africa (RMCA)](https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/](https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/) | [RSS Feed](https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/feed/)
+
+- `[`BE-ZEN-CULT-14046942`]` **[CoARA Action Plan of the e Research Foundation Flanders (FWO)](https://www.indexdata.org/coara-action-plan-of-the-e-research-foundation-flanders-fwo/)** — `2024-09-25` | `4 Pages`
 
 ---
 
