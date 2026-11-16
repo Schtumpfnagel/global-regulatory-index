@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,922` across `82` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,926` across `82` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-16 11:58 UTC`
+**Last Automated Sync:** `2026-11-16 12:14 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`296` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`211` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`213` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`190` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`173` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`150` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
@@ -27,7 +27,7 @@
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`77` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`70` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
@@ -98,7 +98,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,922 of 2,922)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,926 of 2,926)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -807,6 +807,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 
+- `[`UKSI-2026-296`]` **[The Westmorland and Furness (Electoral Changes) Order 2026](https://www.indexdata.org/the-westmorland-and-furness-electoral-changes-order-2026/)** — `2026-03-11` | `8 Pages`
 - `[`UKSI-2026-271`]` **[The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026](https://www.indexdata.org/the-discretionary-financial-assistance-and-discretionary-housing-payments-amendment-and-revocation-regulations-2026/)** — `2026-03-11` | `4 Pages`
 - `[`UKSI-2026-264`]` **[The Surrey (Structural Changes) Order 2026](https://www.indexdata.org/the-surrey-structural-changes-order-2026/)** — `2026-03-09` | `32 Pages`
 - `[`UKSI-2026-247`]` **[The Non-Domestic Rating (Definition of Qualifying Retail, Hospitality or Leisure Hereditament) (Amendment) Regulations 2026](https://www.indexdata.org/the-non-domestic-rating-definition-of-qualifying-retail-hospitality-or-leisure-hereditament-amendment-regulations-2026/)** — `2026-03-09` | `2 Pages`
@@ -1125,6 +1126,9 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 
+- `[`UKSI-2026-293`]` **[The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Information) Regulations 2026](https://www.indexdata.org/the-digital-markets-competition-and-consumers-act-2024-alternative-dispute-resolution-information-regulations-2026/)** — `2026-03-11` | `8 Pages`
+- `[`UKSI-2026-290`]` **[The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Fees) Regulations 2026](https://www.indexdata.org/the-digital-markets-competition-and-consumers-act-2024-alternative-dispute-resolution-fees-regulations-2026/)** — `2026-03-11` | `4 Pages`
+- `[`UKSI-2026-284`]` **[The Digital Markets, Competition and Consumers Act 2024 (Commencement No. 3 and Transitional Provisions) Regulations 2026](https://www.indexdata.org/the-digital-markets-competition-and-consumers-act-2024-commencement-no-3-and-transitional-provisions-regulations-2026/)** — `2026-03-11` | `4 Pages`
 - `[`UKSI-2026-237`]` **[The Bereaved Partner’s Paternity Leave Regulations 2026](https://www.indexdata.org/the-bereaved-partners-paternity-leave-regulations-2026/)** — `2026-03-10` | `20 Pages`
 - `[`UKSI-2026-263`]` **[The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Consequential Amendments) Regulations 2026](https://www.indexdata.org/the-digital-markets-competition-and-consumers-act-2024-alternative-dispute-resolution-consequential-amendments-regulations-2026/)** — `2026-03-09` | `4 Pages`
 - `[`UKSI-2026-259`]` **[The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Conferral of Functions) Regulations 2026](https://www.indexdata.org/the-digital-markets-competition-and-consumers-act-2024-alternative-dispute-resolution-conferral-of-functions-regulations-2026/)** — `2026-03-09` | `8 Pages`
