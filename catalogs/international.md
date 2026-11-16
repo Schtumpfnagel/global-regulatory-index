@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,117` across `23` issuing authorities  
-**Last Automated Sync:** `2026-11-16 22:39 UTC`
+**Total Indexed Dossiers in International:** `1,118` across `23` issuing authorities  
+**Last Automated Sync:** `2026-11-16 23:45 UTC`
 
 ---
 
@@ -29,15 +29,15 @@
 - **[Food and Agriculture Organization (FAO) — Codex Alimentarius Commission (CAC)](https://www.indexdata.org/international/food-and-agriculture-organization-fao-codex-alimentarius-commission-cac/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-codex-alimentarius-commission-cac/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-codex-alimentarius-commission-cac/feed/)
 - **[Food and Agriculture Organization (FAO) — South West Indian Ocean Fisheries Commission (SWIOFC)](https://www.indexdata.org/international/food-and-agriculture-organization-fao-south-west-indian-ocean-fisheries-commission-swiofc/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-south-west-indian-ocean-fisheries-commission-swiofc/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-south-west-indian-ocean-fisheries-commission-swiofc/feed/)
 - **[World Bank — International Bank for Reconstruction and Development (IBRD)](https://www.indexdata.org/international/world-bank-international-bank-for-reconstruction-and-development-ibrd/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank-international-bank-for-reconstruction-and-development-ibrd/) | [RSS Feed](https://www.indexdata.org/international/world-bank-international-bank-for-reconstruction-and-development-ibrd/feed/)
+- **[World Bank — International Finance Corporation (IFC)](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/) | [RSS Feed](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/feed/)
 - **[Food and Agriculture Organization (FAO) — Commission on Controlling the Desert Locust](https://www.indexdata.org/international/food-and-agriculture-organization-fao-commission-on-controlling-the-desert-locust/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-commission-on-controlling-the-desert-locust/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-commission-on-controlling-the-desert-locust/feed/)
 - **[Food and Agriculture Organization (FAO) — FAO Conference](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-conference/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-conference/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-conference/feed/)
 - **[Food and Agriculture Organization (FAO) — Regional Office for Africa (RAF)](https://www.indexdata.org/international/food-and-agriculture-organization-fao-regional-office-for-africa-raf/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-regional-office-for-africa-raf/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-regional-office-for-africa-raf/feed/)
 - **[International Labour Organization (ILO) — Research Department](https://www.indexdata.org/international/international-labour-organization-ilo-research-department/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/international/international-labour-organization-ilo-research-department/) | [RSS Feed](https://www.indexdata.org/international/international-labour-organization-ilo-research-department/feed/)
-- **[World Bank — International Finance Corporation (IFC)](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/) | [RSS Feed](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,117 of 1,117)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,118 of 1,118)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -1223,6 +1223,12 @@ Canonical Authority Archive: [https://www.indexdata.org/international/world-bank
 - `[`WB-OA-W4389209553`]` **[An Anatomy of Urbanization in Sub-Saharan Africa](https://www.indexdata.org/an-anatomy-of-urbanization-in-sub-saharan-africa/)** — `2023-11-29` | `34 Pages`
 - `[`WB-OA-W4295885868`]` **[Turning COVID-19 Vaccines into Vaccinations: New Evidence from Sub-Saharan Africa](https://www.indexdata.org/turning-covid-19-vaccines-into-vaccinations-new-evidence-from-sub-saharan-africa/)** — `2022-08-01` | `30 Pages`
 
+### [World Bank — International Finance Corporation (IFC)](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/)
+Canonical Authority Archive: [https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/) | [RSS Feed](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/feed/)
+
+- `[`WB-WPS-11501`]` **[The Impact of Digitalization and Technological Development on Tax Administration, Compliance, and Complexity : An Exploratory Study](https://www.indexdata.org/the-impact-of-digitalization-and-technological-development-on-tax-administration-compliance-and-complexity-an-exploratory-study/)** — `2026-11-16` | `39 Pages`
+- `[`WB-WDS-217009`]` **[The Importance of Quality for Scaling Up Early Childhood Development Services : Experimental Evidence from Nicaragua](https://www.indexdata.org/the-importance-of-quality-for-scaling-up-early-childhood-development-services-experimental-evidence-from-nicaragua/)** — `2026-11-11` | `22 Pages`
+
 ### [Food and Agriculture Organization (FAO) — Commission on Controlling the Desert Locust](https://www.indexdata.org/international/food-and-agriculture-organization-fao-commission-on-controlling-the-desert-locust/)
 Canonical Authority Archive: [https://www.indexdata.org/international/food-and-agriculture-organization-fao-commission-on-controlling-the-desert-locust/](https://www.indexdata.org/international/food-and-agriculture-organization-fao-commission-on-controlling-the-desert-locust/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-commission-on-controlling-the-desert-locust/feed/)
 
@@ -1242,11 +1248,6 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 Canonical Authority Archive: [https://www.indexdata.org/international/international-labour-organization-ilo-research-department/](https://www.indexdata.org/international/international-labour-organization-ilo-research-department/) | [RSS Feed](https://www.indexdata.org/international/international-labour-organization-ilo-research-department/feed/)
 
 - `[`ILO-CRW-10.54394-00033457`]` **[Labour market concentration and wage inequality: a cross-country descriptive analysis](https://www.indexdata.org/labour-market-concentration-and-wage-inequality-a-cross-country-descriptive-analysis/)** — `2026-01-01` | `33 Pages`
-
-### [World Bank — International Finance Corporation (IFC)](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/)
-Canonical Authority Archive: [https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/) | [RSS Feed](https://www.indexdata.org/international/world-bank-international-finance-corporation-ifc/feed/)
-
-- `[`WB-WDS-217009`]` **[The Importance of Quality for Scaling Up Early Childhood Development Services : Experimental Evidence from Nicaragua](https://www.indexdata.org/the-importance-of-quality-for-scaling-up-early-childhood-development-services-experimental-evidence-from-nicaragua/)** — `2026-11-11` | `22 Pages`
 
 ---
 

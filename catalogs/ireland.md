@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `185` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-16 22:39 UTC`
+**Total Indexed Dossiers in Ireland:** `186` across `38` issuing authorities  
+**Last Automated Sync:** `2026-11-16 23:45 UTC`
 
 ---
 
@@ -14,8 +14,8 @@
 
 - **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
 - **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
+- **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
 - **[Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
-- **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
 - **[Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
 - **[Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
 - **[Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
@@ -53,7 +53,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–185 of 185)
+## Indexed Statutory & Regulatory Dossiers (Records 1–186 of 186)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -99,6 +99,20 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/economic-and-soc
 - `[`IE-OA-W4224233040`]` **[Origin and Integration: Housing and Family among migrants in the 2016 Irish Census](https://www.indexdata.org/origin-and-integration-housing-and-family-among-migrants-in-the-2016-irish-census/)** — `2022-04-07` | `152 Pages`
 - `[`IE-OA-W4317179106`]` **[Wages and working conditions of non-Irish nationals in Ireland](https://www.indexdata.org/wages-and-working-conditions-of-non-irish-nationals-in-ireland/)** — `2022-01-19` | `141 Pages`
 
+### [Marine Institute](https://www.indexdata.org/ireland/marine-institute/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/marine-institute/](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
+
+- `[`IE-MARINE-10793-2182`]` **[National Survey of Sea Lice (Lepeophtheirus Salmonis Krøyer and Caligus Elongatus Nordmann) on Fish Farms in Ireland – 2025](https://www.indexdata.org/national-survey-of-sea-lice-lepeophtheirus-salmonis-kroyer-and-caligus-elongatus-nordmann-on-fish-farms-in-ireland-2025/)** — `2026-05-26` | `47 Pages`
+- `[`IE-MARINE-10793-2179`]` **[International Blue Whiting Spawning Stock Survey (IBWSS) Spring 2026](https://www.indexdata.org/international-blue-whiting-spawning-stock-survey-ibwss-spring-2026/)** — `2026-05-06` | `35 Pages`
+- `[`IE-MARINE-10793-2133`]` **[Shellfish Stocks and Fisheries Review 2025: an assessment of selected stocks](https://www.indexdata.org/shellfish-stocks-and-fisheries-review-2025-an-assessment-of-selected-stocks/)** — `2026-03-30` | `97 Pages`
+- `[`IE-MARINE-10793-2112`]` **[Captain Cockle and the Rock Pool Colouring Book](https://www.indexdata.org/captain-cockle-and-the-rock-pool-colouring-book/)** — `2026-03-24` | `10 Pages`
+- `[`IE-MARINE-10793-2099`]` **[Annual Impact Report 2025/Tuarascáil Tionchair Bhliantúil 2025](https://www.indexdata.org/annual-impact-report-2025-tuarascail-tionchair-bhliantuil-2025/)** — `2026-03-20` | `87 Pages`
+- `[`IE-MARINE-10793-2085`]` **[International ORE (Offshore Renewable Energy) Design Flexibility](https://www.indexdata.org/international-ore-offshore-renewable-energy-design-flexibility/)** — `2026-01-26` | `57 Pages`
+- `[`IE-MARINE-10793-2067`]` **[Annual Report 2024/Tuarascáil Bhliantúil 2024 (English and Irish/Bilingual versions)](https://www.indexdata.org/annual-report-2024-tuarascail-bhliantuil-2024-english-and-irish-bilingual-versions/)** — `2025-11-25` | `75 Pages`
+- `[`IE-MARINE-10793-1921`]` **[Newport Research Facility, Annual Report No. 48 (a), 2002](https://www.indexdata.org/newport-research-facility-annual-report-no-48-a-2002/)** — `2024-07-09` | `37 Pages`
+- `[`IE-MARINE-10793-1916`]` **[Newport Research Facility, Annual Report No. 48, 2003](https://www.indexdata.org/newport-research-facility-annual-report-no-48-2003/)** — `2024-06-12` | `65 Pages`
+- `[`IE-DATAGOV-a5d0f330-b254-4e`]` **[SeaRover 2018 Deep Water Reef Habitat & Species Video Analysis Report](https://www.indexdata.org/searover-2018-deep-water-reef-habitat-species-video-analysis-report/)** — `2022-11-25` | `433 Pages`
+
 ### [Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
 
@@ -112,19 +126,6 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-jus
 - `[`IE-ACT-2026-12`]` **[International Co-operation (Omagh Bombing Inquiry) Act 2026](https://www.indexdata.org/international-co-operation-omagh-bombing-inquiry-act-2026/)** — `2026-06-03` | `17 Pages`
 - `[`IE-ACT-2026-9`]` **[International Protection Act 2026](https://www.indexdata.org/international-protection-act-2026/)** — `2026-04-22` | `291 Pages`
 - `[`IE-ACT-2025-13`]` **[Courts and Civil Law (Miscellaneous Provisions) Act 2025](https://www.indexdata.org/courts-and-civil-law-miscellaneous-provisions-act-2025/)** — `2025-12-10` | `12 Pages`
-
-### [Marine Institute](https://www.indexdata.org/ireland/marine-institute/)
-Canonical Authority Archive: [https://www.indexdata.org/ireland/marine-institute/](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
-
-- `[`IE-MARINE-10793-2182`]` **[National Survey of Sea Lice (Lepeophtheirus Salmonis Krøyer and Caligus Elongatus Nordmann) on Fish Farms in Ireland – 2025](https://www.indexdata.org/national-survey-of-sea-lice-lepeophtheirus-salmonis-kroyer-and-caligus-elongatus-nordmann-on-fish-farms-in-ireland-2025/)** — `2026-05-26` | `47 Pages`
-- `[`IE-MARINE-10793-2179`]` **[International Blue Whiting Spawning Stock Survey (IBWSS) Spring 2026](https://www.indexdata.org/international-blue-whiting-spawning-stock-survey-ibwss-spring-2026/)** — `2026-05-06` | `35 Pages`
-- `[`IE-MARINE-10793-2133`]` **[Shellfish Stocks and Fisheries Review 2025: an assessment of selected stocks](https://www.indexdata.org/shellfish-stocks-and-fisheries-review-2025-an-assessment-of-selected-stocks/)** — `2026-03-30` | `97 Pages`
-- `[`IE-MARINE-10793-2112`]` **[Captain Cockle and the Rock Pool Colouring Book](https://www.indexdata.org/captain-cockle-and-the-rock-pool-colouring-book/)** — `2026-03-24` | `10 Pages`
-- `[`IE-MARINE-10793-2099`]` **[Annual Impact Report 2025/Tuarascáil Tionchair Bhliantúil 2025](https://www.indexdata.org/annual-impact-report-2025-tuarascail-tionchair-bhliantuil-2025/)** — `2026-03-20` | `87 Pages`
-- `[`IE-MARINE-10793-2085`]` **[International ORE (Offshore Renewable Energy) Design Flexibility](https://www.indexdata.org/international-ore-offshore-renewable-energy-design-flexibility/)** — `2026-01-26` | `57 Pages`
-- `[`IE-MARINE-10793-2067`]` **[Annual Report 2024/Tuarascáil Bhliantúil 2024 (English and Irish/Bilingual versions)](https://www.indexdata.org/annual-report-2024-tuarascail-bhliantuil-2024-english-and-irish-bilingual-versions/)** — `2025-11-25` | `75 Pages`
-- `[`IE-MARINE-10793-1921`]` **[Newport Research Facility, Annual Report No. 48 (a), 2002](https://www.indexdata.org/newport-research-facility-annual-report-no-48-a-2002/)** — `2024-07-09` | `37 Pages`
-- `[`IE-MARINE-10793-1916`]` **[Newport Research Facility, Annual Report No. 48, 2003](https://www.indexdata.org/newport-research-facility-annual-report-no-48-2003/)** — `2024-06-12` | `65 Pages`
 
 ### [Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/seanad-ireann/](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
