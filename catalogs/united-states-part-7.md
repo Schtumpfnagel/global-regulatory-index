@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,408` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,410` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 13:59 UTC`
+**Last Automated Sync:** `2026-11-16 15:03 UTC`
 
 ---
 
@@ -76,9 +76,9 @@
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,408)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,410)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -938,7 +938,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-14373`]` **[Safety Zone; Providence Fireworks, Providence, RI](https://www.indexdata.org/safety-zone-providence-fireworks-providence-ri/)** — `2024-07-01` | `2 Pages`
 - `[`2024-14358`]` **[Safety Zone; Northern California and Lake Tahoe Area Annual Fireworks Events](https://www.indexdata.org/safety-zone-northern-california-and-lake-tahoe-area-annual-fireworks-events/)** — `2024-07-01` | `3 Pages`
 - `[`2024-14357`]` **[Safety Zone; Redwood City Fourth of July Fireworks, Redwood Creek, Redwood City, CA](https://www.indexdata.org/safety-zone-redwood-city-fourth-of-july-fireworks-redwood-creek-redwood-city-ca/)** — `2024-07-01` | `3 Pages`
-- `[`2024-14317`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-4/)** — `2024-07-01` | `2 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1235,6 +1234,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
 
+- `[`2024-23434`]` **[Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors](https://www.indexdata.org/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors-3/)** — `2024-10-31` | `211 Pages`
 - `[`2024-25038`]` **[Draft Regulatory Guide: Qualification of Fiber-Optic Cables, Connections, and Optical Fiber Splices for Use in Safety Systems for Production and Utilization Facilities](https://www.indexdata.org/draft-regulatory-guide-qualification-of-fiber-optic-cables-connections-and-optical-fiber-splices-for-use-in-safety-systems-for-production-and-utilization-facilities/)** — `2024-10-29` | `2 Pages`
 - `[`2024-24059`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc. MAGNASTOR® Storage System, Certificate of Compliance No. 1031, Amendment No. 13](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-magnastor-storage-system-certificate-of-compliance-no-1031-amendment-no-13/)** — `2024-10-18` | `2 Pages`
 - `[`2024-22385`]` **[Generic Environmental Impact Statement for Licensing of New Nuclear Reactors](https://www.indexdata.org/generic-environmental-impact-statement-for-licensing-of-new-nuclear-reactors-2/)** — `2024-10-04` | `31 Pages`
@@ -1599,6 +1599,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2024-16363`]` **[Passports: Form DS-3053 Statement of Consent](https://www.indexdata.org/passports-form-ds-3053-statement-of-consent/)** — `2024-07-26` | `3 Pages`
 - `[`2024-14628`]` **[Intercountry Adoption: Regulatory Changes to Accreditation and Approval Regulations in Intercountry Adoption](https://www.indexdata.org/intercountry-adoption-regulatory-changes-to-accreditation-and-approval-regulations-in-intercountry-adoption/)** — `2024-07-12` | `46 Pages`
 
+### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+
+- `[`2024-23032`]` **[Supporting the Head Start Workforce and Consistent Quality Programming; Announcement and Correction](https://www.indexdata.org/supporting-the-head-start-workforce-and-consistent-quality-programming-announcement-and-correction/)** — `2024-10-31` | `2 Pages`
+- `[`2024-24399`]` **[Department of Health and Human Services Policy for the Protection of Human Research Subjects: Update to the Additional Protections for Specific Populations](https://www.indexdata.org/department-of-health-and-human-services-policy-for-the-protection-of-human-research-subjects-update-to-the-additional-protections-for-specific-populations/)** — `2024-10-24` | `6 Pages`
+- `[`2024-17095`]` **[HHS Acquisition Regulation: Regulatory Review](https://www.indexdata.org/hhs-acquisition-regulation-regulatory-review/)** — `2024-10-03` | `81 Pages`
+- `[`2024-21984`]` **[Health and Human Services Adoption of the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards](https://www.indexdata.org/health-and-human-services-adoption-of-the-uniform-administrative-requirements-cost-principles-and-audit-requirements-for-federal-awards/)** — `2024-10-02` | `19 Pages`
+- `[`2024-20814`]` **[Public Health Service Policies on Research Misconduct](https://www.indexdata.org/public-health-service-policies-on-research-misconduct/)** — `2024-09-17` | `30 Pages`
+- `[`2024-20643`]` **[Organ Procurement and Transplantation: Implementation of the HIV Organ Policy Equity (HOPE) Act](https://www.indexdata.org/organ-procurement-and-transplantation-implementation-of-the-hiv-organ-policy-equity-hope-act-2/)** — `2024-09-12` | `11 Pages`
+- `[`2024-20540`]` **[World Trade Center (WTC) Health Program; Expanded Eligibility for Pentagon and Shanksville, Pennsylvania Responders](https://www.indexdata.org/world-trade-center-wtc-health-program-expanded-eligibility-for-pentagon-and-shanksville-pennsylvania-responders-2/)** — `2024-09-11` | `10 Pages`
+- `[`2024-18279`]` **[Supporting the Head Start Workforce and Consistent Quality Programming](https://www.indexdata.org/supporting-the-head-start-workforce-and-consistent-quality-programming/)** — `2024-08-21` | `100 Pages`
+- `[`2024-17096`]` **[HHS Acquisition Regulation: Acquisition of Information Technology; Standards for Health Information Technology (HHSAR Case 2023-001)](https://www.indexdata.org/hhs-acquisition-regulation-acquisition-of-information-technology-standards-for-health-information-technology-hhsar-case-2023-001/)** — `2024-08-09` | `9 Pages`
+- `[`2024-17466`]` **[Annual Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/annual-civil-monetary-penalties-inflation-adjustment-3/)** — `2024-08-08` | `18 Pages`
+- `[`2024-15244`]` **[Increase Flexibility for Tribes in Child Care and Development Fund (CCDF) Eligibility](https://www.indexdata.org/increase-flexibility-for-tribes-in-child-care-and-development-fund-ccdf-eligibility-2/)** — `2024-07-16` | `4 Pages`
+
 ### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 
@@ -1612,20 +1627,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-de
 - `[`2024-17351`]` **[Clarification of Deposit Insurance Coverage for Legacy Branches of U.S. Banks in the Federated States of Micronesia, the Marshall Islands, and Palau](https://www.indexdata.org/clarification-of-deposit-insurance-coverage-for-legacy-branches-of-u-s-banks-in-the-federated-states-of-micronesia-the-marshall-islands-and-palau/)** — `2024-08-09` | `5 Pages`
 - `[`2024-17327`]` **[Fair Hiring in Banking Act](https://www.indexdata.org/fair-hiring-in-banking-act/)** — `2024-08-07` | `15 Pages`
 - `[`2024-13982`]` **[Resolution Plans Required for Insured Depository Institutions With $100 Billion or More in Total Assets; Informational Filings Required for Insured Depository Institutions With at Least $50 Billion but Less Than $100 Billion in Total Assets](https://www.indexdata.org/resolution-plans-required-for-insured-depository-institutions-with-100-billion-or-more-in-total-assets-informational-filings-required-for-insured-depository-institutions-with-at-least-50-billion-bu/)** — `2024-07-09` | `38 Pages`
-
-### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-
-- `[`2024-24399`]` **[Department of Health and Human Services Policy for the Protection of Human Research Subjects: Update to the Additional Protections for Specific Populations](https://www.indexdata.org/department-of-health-and-human-services-policy-for-the-protection-of-human-research-subjects-update-to-the-additional-protections-for-specific-populations/)** — `2024-10-24` | `6 Pages`
-- `[`2024-17095`]` **[HHS Acquisition Regulation: Regulatory Review](https://www.indexdata.org/hhs-acquisition-regulation-regulatory-review/)** — `2024-10-03` | `81 Pages`
-- `[`2024-21984`]` **[Health and Human Services Adoption of the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards](https://www.indexdata.org/health-and-human-services-adoption-of-the-uniform-administrative-requirements-cost-principles-and-audit-requirements-for-federal-awards/)** — `2024-10-02` | `19 Pages`
-- `[`2024-20814`]` **[Public Health Service Policies on Research Misconduct](https://www.indexdata.org/public-health-service-policies-on-research-misconduct/)** — `2024-09-17` | `30 Pages`
-- `[`2024-20643`]` **[Organ Procurement and Transplantation: Implementation of the HIV Organ Policy Equity (HOPE) Act](https://www.indexdata.org/organ-procurement-and-transplantation-implementation-of-the-hiv-organ-policy-equity-hope-act-2/)** — `2024-09-12` | `11 Pages`
-- `[`2024-20540`]` **[World Trade Center (WTC) Health Program; Expanded Eligibility for Pentagon and Shanksville, Pennsylvania Responders](https://www.indexdata.org/world-trade-center-wtc-health-program-expanded-eligibility-for-pentagon-and-shanksville-pennsylvania-responders-2/)** — `2024-09-11` | `10 Pages`
-- `[`2024-18279`]` **[Supporting the Head Start Workforce and Consistent Quality Programming](https://www.indexdata.org/supporting-the-head-start-workforce-and-consistent-quality-programming/)** — `2024-08-21` | `100 Pages`
-- `[`2024-17096`]` **[HHS Acquisition Regulation: Acquisition of Information Technology; Standards for Health Information Technology (HHSAR Case 2023-001)](https://www.indexdata.org/hhs-acquisition-regulation-acquisition-of-information-technology-standards-for-health-information-technology-hhsar-case-2023-001/)** — `2024-08-09` | `9 Pages`
-- `[`2024-17466`]` **[Annual Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/annual-civil-monetary-penalties-inflation-adjustment-3/)** — `2024-08-08` | `18 Pages`
-- `[`2024-15244`]` **[Increase Flexibility for Tribes in Child Care and Development Fund (CCDF) Eligibility](https://www.indexdata.org/increase-flexibility-for-tribes-in-child-care-and-development-fund-ccdf-eligibility-2/)** — `2024-07-16` | `4 Pages`
 
 ### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
@@ -1909,13 +1910,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2024-16889`]` **[Nondiscrimination on the Basis of Disability; Accessibility of Medical Diagnostic Equipment of State and Local Government Entities](https://www.indexdata.org/nondiscrimination-on-the-basis-of-disability-accessibility-of-medical-diagnostic-equipment-of-state-and-local-government-entities/)** — `2024-08-09` | `21 Pages`
 - `[`2024-14696`]` **[Process for Determining That an Individual Shall Not Be Deemed an Employee of the Public Health Service](https://www.indexdata.org/process-for-determining-that-an-individual-shall-not-be-deemed-an-employee-of-the-public-health-service/)** — `2024-07-05` | `10 Pages`
 
-### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
-
-- `[`2024-20154`]` **[Travel Management on Public Lands in Montrose, Delta, San Miguel, and Ouray Counties, CO](https://www.indexdata.org/travel-management-on-public-lands-in-montrose-delta-san-miguel-and-ouray-counties-co/)** — `2024-09-09` | `4 Pages`
-- `[`2024-17065`]` **[Temporary Closure and Restriction Orders](https://www.indexdata.org/temporary-closure-and-restriction-orders/)** — `2024-08-07` | `15 Pages`
-- `[`2024-14301`]` **[Required Fees for Mining Claims or Sites](https://www.indexdata.org/required-fees-for-mining-claims-or-sites/)** — `2024-07-01` | `5 Pages`
-
 ### [National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-credit-union-administration/](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
 
@@ -1967,6 +1961,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/investment
 
 - `[`2024-15221`]` **[Definition of Military Installation and the List of Military Installations in Regulations Pertaining to Certain Transactions by Foreign Persons Involving Real Estate in the United States](https://www.indexdata.org/definition-of-military-installation-and-the-list-of-military-installations-in-regulations-pertaining-to-certain-transactions-by-foreign-persons-involving-real-estate-in-the-united-states/)** — `2024-07-19` | `8 Pages`
 - `[`2024-13923`]` **[Provisions Pertaining to U.S. Investments in Certain National Security Technologies and Products in Countries of Concern](https://www.indexdata.org/provisions-pertaining-to-u-s-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern-2/)** — `2024-07-05` | `36 Pages`
+
+### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
+
+- `[`2024-20154`]` **[Travel Management on Public Lands in Montrose, Delta, San Miguel, and Ouray Counties, CO](https://www.indexdata.org/travel-management-on-public-lands-in-montrose-delta-san-miguel-and-ouray-counties-co/)** — `2024-09-09` | `4 Pages`
+- `[`2024-17065`]` **[Temporary Closure and Restriction Orders](https://www.indexdata.org/temporary-closure-and-restriction-orders/)** — `2024-08-07` | `15 Pages`
 
 ### [Management and Budget Office](https://www.indexdata.org/united-states/management-and-budget-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/management-and-budget-office/](https://www.indexdata.org/united-states/management-and-budget-office/) | [RSS Feed](https://www.indexdata.org/united-states/management-and-budget-office/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,408` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,410` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 13:59 UTC`
+**Last Automated Sync:** `2026-11-16 15:03 UTC`
 
 ---
 
@@ -76,9 +76,9 @@
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
@@ -253,11 +253,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,408)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,410)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-23123`]` **[Modification of Class E Airspace; Northeast Wyoming Regional Airport, Gillette, WY](https://www.indexdata.org/modification-of-class-e-airspace-northeast-wyoming-regional-airport-gillette-wy/)** — `2023-10-20` | `2 Pages`
 - `[`2023-22993`]` **[Amendment of VOR Federal Airway V-36 and Establishment of RNAV Route T-675; Northcentral United States](https://www.indexdata.org/amendment-of-vor-federal-airway-v-36-and-establishment-of-rnav-route-t-675-northcentral-united-states-2/)** — `2023-10-19` | `2 Pages`
 - `[`2023-22546`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-76/)** — `2023-10-19` | `3 Pages`
 - `[`2023-22962`]` **[Airworthiness Directives; Epic Aircraft, LLC Airplanes](https://www.indexdata.org/airworthiness-directives-epic-aircraft-llc-airplanes/)** — `2023-10-18` | `2 Pages`
@@ -641,7 +642,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-13655`]` **[Establishment of Class E Airspace; Winnie/Stowell, TX](https://www.indexdata.org/establishment-of-class-e-airspace-winnie-stowell-tx/)** — `2023-06-28` | `2 Pages`
 - `[`2023-13617`]` **[Airworthiness Directives; Viking Air Limited (Type Certificate Previously Held by Bombardier Inc. and de Havilland, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-viking-air-limited-type-certificate-previously-held-by-bombardier-inc-and-de-havilland-inc-airplanes-6/)** — `2023-06-28` | `8 Pages`
 - `[`2023-13743`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-332/)** — `2023-06-27` | `5 Pages`
-- `[`2023-13582`]` **[Airworthiness Directives; Hamilton Sundstrand Corporation Propellers](https://www.indexdata.org/airworthiness-directives-hamilton-sundstrand-corporation-propellers-4/)** — `2023-06-27` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -965,7 +965,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2023-13657`]` **[Safety Zone; Recurring Events in Captain of the Port Duluth-Duluth Fourth Fest Fireworks](https://www.indexdata.org/safety-zone-recurring-events-in-captain-of-the-port-duluth-duluth-fourth-fest-fireworks/)** — `2023-06-27` | `2 Pages`
 - `[`2023-13594`]` **[Safety Zone; City of Toledo Fireworks; Maumee River; Toledo, OH](https://www.indexdata.org/safety-zone-city-of-toledo-fireworks-maumee-river-toledo-oh/)** — `2023-06-27` | `3 Pages`
 - `[`2023-13591`]` **[Safety Zone; Fireworks Display, Great Egg Harbor Bay, Ocean City, NJ](https://www.indexdata.org/safety-zone-fireworks-display-great-egg-harbor-bay-ocean-city-nj/)** — `2023-06-27` | `3 Pages`
-- `[`2023-13586`]` **[Security Zones; Corpus Christi Ship Channel, Corpus Christi, TX](https://www.indexdata.org/security-zones-corpus-christi-ship-channel-corpus-christi-tx-3/)** — `2023-06-27` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1863,6 +1862,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-cr
 - `[`2023-18689`]` **[Actual Production History (APH) and Other Crop Insurance Transparency; Corrections](https://www.indexdata.org/actual-production-history-aph-and-other-crop-insurance-transparency-corrections/)** — `2023-08-30` | `2 Pages`
 - `[`2023-13375`]` **[Actual Production History (APH) and Other Crop Insurance Transparency](https://www.indexdata.org/actual-production-history-aph-and-other-crop-insurance-transparency/)** — `2023-06-29` | `12 Pages`
 
+### [Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-election-commission/](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
+
+- `[`2023-23124`]` **[Advisory Opinion Comment Procedures](https://www.indexdata.org/advisory-opinion-comment-procedures/)** — `2023-10-20` | `2 Pages`
+- `[`2023-23122`]` **[Size of Letters in Disclaimers](https://www.indexdata.org/size-of-letters-in-disclaimers/)** — `2023-10-20` | `2 Pages`
+- `[`2023-17547`]` **[Artificial Intelligence in Campaign Ads](https://www.indexdata.org/artificial-intelligence-in-campaign-ads/)** — `2023-08-16` | `2 Pages`
+
 ### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
 
@@ -1959,12 +1965,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-de
 
 - `[`2023-22421`]` **[Guidelines Establishing Standards for Corporate Governance and Risk Management for Covered Institutions With Total Consolidated Assets of $10 Billion or More](https://www.indexdata.org/guidelines-establishing-standards-for-corporate-governance-and-risk-management-for-covered-institutions-with-total-consolidated-assets-of-10-billion-or-more/)** — `2023-10-11` | `19 Pages`
 - `[`2023-19266`]` **[Resolution Plans Required for Insured Depository Institutions With $100 Billion or More in Total Assets; Informational Filings Required for Insured Depository Institutions With at Least $50 Billion But Less Than $100 Billion in Total Assets](https://www.indexdata.org/resolution-plans-required-for-insured-depository-institutions-with-100-billion-or-more-in-total-assets-informational-filings-required-for-insured-depository-institutions-with-at-least-50-billion-bu-2/)** — `2023-09-19` | `47 Pages`
-
-### [Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-election-commission/](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
-
-- `[`2023-23122`]` **[Size of Letters in Disclaimers](https://www.indexdata.org/size-of-letters-in-disclaimers/)** — `2023-10-20` | `2 Pages`
-- `[`2023-17547`]` **[Artificial Intelligence in Campaign Ads](https://www.indexdata.org/artificial-intelligence-in-campaign-ads/)** — `2023-08-16` | `2 Pages`
 
 ### [Federal Emergency Management Agency](https://www.indexdata.org/united-states/federal-emergency-management-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-emergency-management-agency/](https://www.indexdata.org/united-states/federal-emergency-management-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-emergency-management-agency/feed/)

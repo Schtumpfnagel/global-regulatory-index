@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,408` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,410` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 13:59 UTC`
+**Last Automated Sync:** `2026-11-16 15:03 UTC`
 
 ---
 
@@ -76,9 +76,9 @@
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,408)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,410)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -554,7 +554,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-10408`]` **[Airworthiness Directives; Pratt & Whitney Division Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-division-engines-3/)** — `2026-05-26` | `3 Pages`
 - `[`2026-10382`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-10/)** — `2026-05-26` | `4 Pages`
 - `[`2026-10381`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-43/)** — `2026-05-26` | `4 Pages`
-- `[`2026-10360`]` **[Airworthiness Directives; Pratt & Whitney RTX Corporation (Type Certificate Previously Held by Pratt & Whitney Division United Technologies Corporation) Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-rtx-corporation-type-certificate-previously-held-by-pratt-whitney-division-united-technologies-corporation-engines-2/)** — `2026-05-22` | `6 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -929,6 +928,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2026-18623`]` **[Fisheries of the Northeastern United States; Atlantic Bluefish Fishery; Quota Transfer From New Jersey to North Carolina](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-jersey-to-north-carolina/)** — `2026-09-11` | `2 Pages`
 - `[`2026-18607`]` **[Fisheries of the Northeastern United States; Greater Atlantic Region Catch Share Cost Recovery Program Updates](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-greater-atlantic-region-catch-share-cost-recovery-program-updates/)** — `2026-09-11` | `2 Pages`
 - `[`2026-18583`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Blackspotted and Rougheye Rockfish in the Central Aleutian and Western Aleutian Districts of the Bering Sea and Aleutian Islands Management Area](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-blackspotted-and-rougheye-rockfish-in-the-central-aleutian-and-western-aleutian-districts-of-the-bering-sea-and-aleutian-islands-management-area/)** — `2026-09-11` | `2 Pages`
 - `[`2026-18484`]` **[Reef Fish Fishery of the Gulf of America; 2027 Red Grouper Commercial Quota Retention](https://www.indexdata.org/reef-fish-fishery-of-the-gulf-of-america-2027-red-grouper-commercial-quota-retention/)** — `2026-09-10` | `4 Pages`
@@ -1509,6 +1509,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2026-11094`]` **[Medicaid Program; Community Engagement Requirement for Certain Individuals](https://www.indexdata.org/medicaid-program-community-engagement-requirement-for-certain-individuals-2/)** — `2026-06-03` | `135 Pages`
 - `[`2026-10890`]` **[Medicare Program; Alternative Payment Model Updates and the Increasing Organ Transplant Access (IOTA) Model](https://www.indexdata.org/medicare-program-alternative-payment-model-updates-and-the-increasing-organ-transplant-access-iota-model/)** — `2026-06-01` | `86 Pages`
 
+### [State Department](https://www.indexdata.org/united-states/state-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+
+- `[`2026-18630`]` **[Amendment to the International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus/)** — `2026-09-11` | `3 Pages`
+- `[`2026-17660`]` **[International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment](https://www.indexdata.org/international-traffic-in-arms-regulations-modification-of-civil-aircraft-to-incorporate-aircraft-survivability-equipment/)** — `2026-08-28` | `5 Pages`
+- `[`2026-17655`]` **[Passports: Expanding Online Passport Renewal Overseas](https://www.indexdata.org/passports-expanding-online-passport-renewal-overseas/)** — `2026-08-28` | `5 Pages`
+- `[`2026-17576`]` **[International Traffic in Arms Regulations: Extension of Temporary Modification of Category XI(b) of the U.S. Munitions List](https://www.indexdata.org/international-traffic-in-arms-regulations-extension-of-temporary-modification-of-category-xib-of-the-u-s-munitions-list/)** — `2026-08-28` | `2 Pages`
+- `[`2026-16207`]` **[Implementation of the Administrative False Claims Act](https://www.indexdata.org/implementation-of-the-administrative-false-claims-act/)** — `2026-08-10` | `6 Pages`
+- `[`2026-15726`]` **[Visas: Visa Bond Program](https://www.indexdata.org/visas-visa-bond-program/)** — `2026-08-03` | `10 Pages`
+- `[`2026-15450`]` **[Exchange Visitor Program-Termination of Program Participation, Extension of Program and Reinstatement to Valid Program Status](https://www.indexdata.org/exchange-visitor-program-termination-of-program-participation-extension-of-program-and-reinstatement-to-valid-program-status/)** — `2026-07-30` | `7 Pages`
+- `[`2026-14943`]` **[International Traffic in Arms Regulations: USML Category I Firearm Suppressors](https://www.indexdata.org/international-traffic-in-arms-regulations-usml-category-i-firearm-suppressors/)** — `2026-07-23` | `3 Pages`
+- `[`2026-13860`]` **[Rescinding Portions of Department of State Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281](https://www.indexdata.org/rescinding-portions-of-department-of-state-title-vi-regulations-to-conform-more-closely-with-the-statutory-text-and-to-implement-executive-order-14281/)** — `2026-07-09` | `7 Pages`
+- `[`2026-12019`]` **[International Traffic in Arms Regulations (ITAR): Part 130 Changes To Reduce Reporting Burden](https://www.indexdata.org/international-traffic-in-arms-regulations-itar-part-130-changes-to-reduce-reporting-burden/)** — `2026-06-15` | `11 Pages`
+- `[`2026-11513`]` **[Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates-Visa and Citizenship Services Fee Changes](https://www.indexdata.org/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and-consulates-visa-and-citizenship-services-fee-changes/)** — `2026-06-09` | `6 Pages`
+
 ### [Occupational Safety And Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
 
@@ -1522,20 +1537,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/occupation
 - `[`2026-14843`]` **[Ethylene Oxide](https://www.indexdata.org/ethylene-oxide/)** — `2026-07-22` | `2 Pages`
 - `[`2026-14842`]` **[Cadmium](https://www.indexdata.org/cadmium/)** — `2026-07-22` | `2 Pages`
 - `[`2026-14840`]` **[Asbestos](https://www.indexdata.org/asbestos/)** — `2026-07-22` | `2 Pages`
-
-### [State Department](https://www.indexdata.org/united-states/state-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
-
-- `[`2026-17660`]` **[International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment](https://www.indexdata.org/international-traffic-in-arms-regulations-modification-of-civil-aircraft-to-incorporate-aircraft-survivability-equipment/)** — `2026-08-28` | `5 Pages`
-- `[`2026-17655`]` **[Passports: Expanding Online Passport Renewal Overseas](https://www.indexdata.org/passports-expanding-online-passport-renewal-overseas/)** — `2026-08-28` | `5 Pages`
-- `[`2026-17576`]` **[International Traffic in Arms Regulations: Extension of Temporary Modification of Category XI(b) of the U.S. Munitions List](https://www.indexdata.org/international-traffic-in-arms-regulations-extension-of-temporary-modification-of-category-xib-of-the-u-s-munitions-list/)** — `2026-08-28` | `2 Pages`
-- `[`2026-16207`]` **[Implementation of the Administrative False Claims Act](https://www.indexdata.org/implementation-of-the-administrative-false-claims-act/)** — `2026-08-10` | `6 Pages`
-- `[`2026-15726`]` **[Visas: Visa Bond Program](https://www.indexdata.org/visas-visa-bond-program/)** — `2026-08-03` | `10 Pages`
-- `[`2026-15450`]` **[Exchange Visitor Program-Termination of Program Participation, Extension of Program and Reinstatement to Valid Program Status](https://www.indexdata.org/exchange-visitor-program-termination-of-program-participation-extension-of-program-and-reinstatement-to-valid-program-status/)** — `2026-07-30` | `7 Pages`
-- `[`2026-14943`]` **[International Traffic in Arms Regulations: USML Category I Firearm Suppressors](https://www.indexdata.org/international-traffic-in-arms-regulations-usml-category-i-firearm-suppressors/)** — `2026-07-23` | `3 Pages`
-- `[`2026-13860`]` **[Rescinding Portions of Department of State Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281](https://www.indexdata.org/rescinding-portions-of-department-of-state-title-vi-regulations-to-conform-more-closely-with-the-statutory-text-and-to-implement-executive-order-14281/)** — `2026-07-09` | `7 Pages`
-- `[`2026-12019`]` **[International Traffic in Arms Regulations (ITAR): Part 130 Changes To Reduce Reporting Burden](https://www.indexdata.org/international-traffic-in-arms-regulations-itar-part-130-changes-to-reduce-reporting-burden/)** — `2026-06-15` | `11 Pages`
-- `[`2026-11513`]` **[Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates-Visa and Citizenship Services Fee Changes](https://www.indexdata.org/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and-consulates-visa-and-citizenship-services-fee-changes/)** — `2026-06-09` | `6 Pages`
 
 ### [Centers For Medicare Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1817,14 +1818,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-custom
 - `[`2026-12670`]` **[Indefinite Suspension of the De Minimis Exemption for Merchandise Arriving Through All Modes Other Than the International Postal Network](https://www.indexdata.org/indefinite-suspension-of-the-de-minimis-exemption-for-merchandise-arriving-through-all-modes-other-than-the-international-postal-network/)** — `2026-06-24` | `13 Pages`
 - `[`2026-12669`]` **[Indefinite Suspension of the De Minimis Exemption for Mail Shipments and New Postal Informal Entry Process](https://www.indexdata.org/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry-process/)** — `2026-06-24` | `21 Pages`
 
-### [Census Bureau](https://www.indexdata.org/united-states/census-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/census-bureau/](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
-
-- `[`2026-18481`]` **[Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions](https://www.indexdata.org/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations-for-demographic-questions/)** — `2026-09-10` | `8 Pages`
-- `[`2026-13801`]` **[Age Search Fee Structure](https://www.indexdata.org/age-search-fee-structure/)** — `2026-07-08` | `2 Pages`
-- `[`2026-11688`]` **[Streamlining the Census Bureau's Foreign Trade Regulations; Correction](https://www.indexdata.org/streamlining-the-census-bureaus-foreign-trade-regulations-correction/)** — `2026-06-11` | `2 Pages`
-- `[`2026-10370`]` **[Foreign Trade Regulations (FTR): Clarification of Filing Requirements Regarding In-Transit Shipments and Other FTR Provisions; Correction](https://www.indexdata.org/foreign-trade-regulations-ftr-clarification-of-filing-requirements-regarding-in-transit-shipments-and-other-ftr-provisions-correction/)** — `2026-05-26` | `2 Pages`
-
 ### [Commodity Credit Corporation](https://www.indexdata.org/united-states/commodity-credit-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-credit-corporation/](https://www.indexdata.org/united-states/commodity-credit-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-credit-corporation/feed/)
 
@@ -1902,6 +1895,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-to
 - `[`2026-16981`]` **[Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms](https://www.indexdata.org/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition-receipt-transfer-shipment-transportation-or-possession-of-firearms/)** — `2026-08-20` | `40 Pages`
 - `[`2026-13587`]` **[Fingerprint and Photograph Requirements for Firearms Applications](https://www.indexdata.org/fingerprint-and-photograph-requirements-for-firearms-applications/)** — `2026-07-06` | `21 Pages`
 - `[`2026-13586`]` **[Registering NFA Firearms That Fall Out of Government Contract](https://www.indexdata.org/registering-nfa-firearms-that-fall-out-of-government-contract/)** — `2026-07-06` | `11 Pages`
+
+### [Census Bureau](https://www.indexdata.org/united-states/census-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/census-bureau/](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
+
+- `[`2026-18481`]` **[Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions](https://www.indexdata.org/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations-for-demographic-questions/)** — `2026-09-10` | `8 Pages`
+- `[`2026-13801`]` **[Age Search Fee Structure](https://www.indexdata.org/age-search-fee-structure/)** — `2026-07-08` | `2 Pages`
+- `[`2026-11688`]` **[Streamlining the Census Bureau's Foreign Trade Regulations; Correction](https://www.indexdata.org/streamlining-the-census-bureaus-foreign-trade-regulations-correction/)** — `2026-06-11` | `2 Pages`
 
 ### [Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-office-for-immigration-review/](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)

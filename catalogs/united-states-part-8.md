@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,408` across `237` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,410` across `237` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-16 13:59 UTC`
+**Last Automated Sync:** `2026-11-16 15:03 UTC`
 
 ---
 
@@ -76,9 +76,9 @@
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
@@ -253,7 +253,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,408)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,410)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -801,6 +801,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-14317`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-4/)** — `2024-07-01` | `2 Pages`
 - `[`2024-14356`]` **[Safety Zone; San Francisco Giants Fireworks, San Francisco Bay, San Francisco, CA](https://www.indexdata.org/safety-zone-san-francisco-giants-fireworks-san-francisco-bay-san-francisco-ca/)** — `2024-06-28` | `2 Pages`
 - `[`2024-14319`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-5/)** — `2024-06-28` | `2 Pages`
 - `[`2024-14234`]` **[Safety Zone: Port of Los Angeles, Main Channel](https://www.indexdata.org/safety-zone-port-of-los-angeles-main-channel/)** — `2024-06-28` | `3 Pages`
@@ -951,7 +952,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-04951`]` **[Safety Zone; St. Petersburg, Florida](https://www.indexdata.org/safety-zone-st-petersburg-florida/)** — `2024-03-08` | `3 Pages`
 - `[`2024-04872`]` **[Safety Zone; Sabine River, Orange, TX](https://www.indexdata.org/safety-zone-sabine-river-orange-tx-2/)** — `2024-03-07` | `3 Pages`
 - `[`2024-04841`]` **[Regulated Navigation Area; St. Louis River/Duluth-Superior Harbor, Duluth, MN](https://www.indexdata.org/regulated-navigation-area-st-louis-river-duluth-superior-harbor-duluth-mn/)** — `2024-03-07` | `6 Pages`
-- `[`2024-04274`]` **[Drawbridge Operation Regulation; Ashtabula River, Ashtabula, OH](https://www.indexdata.org/drawbridge-operation-regulation-ashtabula-river-ashtabula-oh/)** — `2024-02-29` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1616,18 +1616,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-en
 - `[`2024-06556`]` **[Compensation for Reactive Power Within the Standard Power Factor Range](https://www.indexdata.org/compensation-for-reactive-power-within-the-standard-power-factor-range-2/)** — `2024-03-28` | `15 Pages`
 - `[`2024-04726`]` **[Natural Gas Pipelines; Project Cost and Annual Limits](https://www.indexdata.org/natural-gas-pipelines-project-cost-and-annual-limits/)** — `2024-03-08` | `3 Pages`
 
-### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
+### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
 
-- `[`2024-12744`]` **[Trade Regulation Rule Relating to Power Output Claims for Amplifiers Utilized in Home Entertainment Products](https://www.indexdata.org/trade-regulation-rule-relating-to-power-output-claims-for-amplifiers-utilized-in-home-entertainment-products/)** — `2024-06-12` | `6 Pages`
-- `[`2024-10855`]` **[Health Breach Notification Rule](https://www.indexdata.org/health-breach-notification-rule/)** — `2024-05-30` | `37 Pages`
-- `[`2024-09171`]` **[Non-Compete Clause Rule](https://www.indexdata.org/non-compete-clause-rule/)** — `2024-05-07` | `165 Pages`
-- `[`2024-07182`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-2/)** — `2024-04-16` | `10 Pages`
-- `[`2024-07180`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-3/)** — `2024-04-16` | `27 Pages`
-- `[`2024-07077`]` **[Energy Labeling Rule; Extension of Comment Period](https://www.indexdata.org/energy-labeling-rule-extension-of-comment-period/)** — `2024-04-02` | `2 Pages`
-- `[`2024-06468`]` **[Trade Regulation Rule on Unfair or Deceptive Fees](https://www.indexdata.org/trade-regulation-rule-on-unfair-or-deceptive-fees-2/)** — `2024-03-27` | `7 Pages`
-- `[`2024-04335`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-2/)** — `2024-03-01` | `15 Pages`
-- `[`2024-03793`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-3/)** — `2024-03-01` | `12 Pages`
+- `[`2024-14301`]` **[Required Fees for Mining Claims or Sites](https://www.indexdata.org/required-fees-for-mining-claims-or-sites/)** — `2024-07-01` | `5 Pages`
+- `[`2024-14299`]` **[Rights-of-Way, Leasing, and Operations for Renewable Energy; Corrections](https://www.indexdata.org/rights-of-way-leasing-and-operations-for-renewable-energy-corrections/)** — `2024-06-28` | `2 Pages`
+- `[`2024-08821`]` **[Conservation and Landscape Health](https://www.indexdata.org/conservation-and-landscape-health/)** — `2024-05-09` | `42 Pages`
+- `[`2024-08585`]` **[Management and Protection of the National Petroleum Reserve in Alaska](https://www.indexdata.org/management-and-protection-of-the-national-petroleum-reserve-in-alaska/)** — `2024-05-07` | `49 Pages`
+- `[`2024-08099`]` **[Rights-of-Way, Leasing, and Operations for Renewable Energy](https://www.indexdata.org/rights-of-way-leasing-and-operations-for-renewable-energy/)** — `2024-05-01` | `51 Pages`
+- `[`2024-08608`]` **[Final Supplementary Rule for Public Lands in the Cotoni-Coast Dairies Unit of the California Coastal National Monument in Santa Cruz County, CA](https://www.indexdata.org/final-supplementary-rule-for-public-lands-in-the-cotoni-coast-dairies-unit-of-the-california-coastal-national-monument-in-santa-cruz-county-ca/)** — `2024-04-29` | `5 Pages`
+- `[`2024-08138`]` **[Fluid Mineral Leases and Leasing Process](https://www.indexdata.org/fluid-mineral-leases-and-leasing-process/)** — `2024-04-23` | `90 Pages`
+- `[`2024-06997`]` **[Update of the Communications Uses Program, Cost Recovery Fee Schedules, and Section 512 of FLPMA for Rights-of-Way](https://www.indexdata.org/update-of-the-communications-uses-program-cost-recovery-fee-schedules-and-section-512-of-flpma-for-rights-of-way/)** — `2024-04-12` | `56 Pages`
+- `[`2024-06827`]` **[Waste Prevention, Production Subject to Royalties, and Resource Conservation](https://www.indexdata.org/waste-prevention-production-subject-to-royalties-and-resource-conservation-2/)** — `2024-04-10` | `55 Pages`
 
 ### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
@@ -1654,6 +1654,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-b
 - `[`2024-08065`]` **[Retirement Security Rule: Definition of an Investment Advice Fiduciary](https://www.indexdata.org/retirement-security-rule-definition-of-an-investment-advice-fiduciary/)** — `2024-04-25` | `137 Pages`
 - `[`2024-06059`]` **[Amendment to Prohibited Transaction Class Exemption 84-14 for Transactions Determined by Independent Qualified Professional Asset Managers (the QPAM Exemption)](https://www.indexdata.org/amendment-to-prohibited-transaction-class-exemption-84-14-for-transactions-determined-by-independent-qualified-professional-asset-managers-the-qpam-exemption/)** — `2024-04-03` | `55 Pages`
 
+### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
+
+- `[`2024-12744`]` **[Trade Regulation Rule Relating to Power Output Claims for Amplifiers Utilized in Home Entertainment Products](https://www.indexdata.org/trade-regulation-rule-relating-to-power-output-claims-for-amplifiers-utilized-in-home-entertainment-products/)** — `2024-06-12` | `6 Pages`
+- `[`2024-10855`]` **[Health Breach Notification Rule](https://www.indexdata.org/health-breach-notification-rule/)** — `2024-05-30` | `37 Pages`
+- `[`2024-09171`]` **[Non-Compete Clause Rule](https://www.indexdata.org/non-compete-clause-rule/)** — `2024-05-07` | `165 Pages`
+- `[`2024-07182`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-2/)** — `2024-04-16` | `10 Pages`
+- `[`2024-07180`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-3/)** — `2024-04-16` | `27 Pages`
+- `[`2024-07077`]` **[Energy Labeling Rule; Extension of Comment Period](https://www.indexdata.org/energy-labeling-rule-extension-of-comment-period/)** — `2024-04-02` | `2 Pages`
+- `[`2024-06468`]` **[Trade Regulation Rule on Unfair or Deceptive Fees](https://www.indexdata.org/trade-regulation-rule-on-unfair-or-deceptive-fees-2/)** — `2024-03-27` | `7 Pages`
+- `[`2024-04335`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-2/)** — `2024-03-01` | `15 Pages`
+
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 
@@ -1665,18 +1677,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and
 - `[`2024-03849`]` **[Approval Tests and Standards for Combination Unit Respirators](https://www.indexdata.org/approval-tests-and-standards-for-combination-unit-respirators/)** — `2024-03-15` | `9 Pages`
 - `[`2024-03869`]` **[Partnerships With Faith-Based and Neighborhood Organizations](https://www.indexdata.org/partnerships-with-faith-based-and-neighborhood-organizations/)** — `2024-03-04` | `53 Pages`
 - `[`2024-04139`]` **[Improving Child Care Access, Affordability, and Stability in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/improving-child-care-access-affordability-and-stability-in-the-child-care-and-development-fund-ccdf/)** — `2024-03-01` | `52 Pages`
-
-### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
-
-- `[`2024-14299`]` **[Rights-of-Way, Leasing, and Operations for Renewable Energy; Corrections](https://www.indexdata.org/rights-of-way-leasing-and-operations-for-renewable-energy-corrections/)** — `2024-06-28` | `2 Pages`
-- `[`2024-08821`]` **[Conservation and Landscape Health](https://www.indexdata.org/conservation-and-landscape-health/)** — `2024-05-09` | `42 Pages`
-- `[`2024-08585`]` **[Management and Protection of the National Petroleum Reserve in Alaska](https://www.indexdata.org/management-and-protection-of-the-national-petroleum-reserve-in-alaska/)** — `2024-05-07` | `49 Pages`
-- `[`2024-08099`]` **[Rights-of-Way, Leasing, and Operations for Renewable Energy](https://www.indexdata.org/rights-of-way-leasing-and-operations-for-renewable-energy/)** — `2024-05-01` | `51 Pages`
-- `[`2024-08608`]` **[Final Supplementary Rule for Public Lands in the Cotoni-Coast Dairies Unit of the California Coastal National Monument in Santa Cruz County, CA](https://www.indexdata.org/final-supplementary-rule-for-public-lands-in-the-cotoni-coast-dairies-unit-of-the-california-coastal-national-monument-in-santa-cruz-county-ca/)** — `2024-04-29` | `5 Pages`
-- `[`2024-08138`]` **[Fluid Mineral Leases and Leasing Process](https://www.indexdata.org/fluid-mineral-leases-and-leasing-process/)** — `2024-04-23` | `90 Pages`
-- `[`2024-06997`]` **[Update of the Communications Uses Program, Cost Recovery Fee Schedules, and Section 512 of FLPMA for Rights-of-Way](https://www.indexdata.org/update-of-the-communications-uses-program-cost-recovery-fee-schedules-and-section-512-of-flpma-for-rights-of-way/)** — `2024-04-12` | `56 Pages`
-- `[`2024-06827`]` **[Waste Prevention, Production Subject to Royalties, and Resource Conservation](https://www.indexdata.org/waste-prevention-production-subject-to-royalties-and-resource-conservation-2/)** — `2024-04-10` | `55 Pages`
 
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)

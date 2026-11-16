@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,380` across `30` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,382` across `32` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-16 13:59 UTC`
+**Last Automated Sync:** `2026-11-16 15:03 UTC`
 
 ---
 
-## Issuing Authorities in Canada (30 Authorities)
+## Issuing Authorities in Canada (32 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -43,10 +43,12 @@
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
 - **[Government of Quebec — Ministry of Ministère des Ressources naturelles et des Forêts](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/) | [RSS Feed](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/feed/)
+- **[Office of the Superintendent of Financial Institutions](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/feed/)
+- **[Office of the Superintendent of Financial Institutions Canada](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,380 of 5,380)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,382 of 5,382)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -1015,6 +1017,16 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-bri
 Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-northwest-territories/](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 
 - `[`CA-OPEN-32a2842e-491d-744a-bfbf-b33f4a4a2e1c`]` **[Mobile Core Bathurst Caribou Management Zone](https://www.indexdata.org/mobile-core-bathurst-caribou-management-zone/)** — `2026-04-01` | `5 Pages`
+
+### [Office of the Superintendent of Financial Institutions](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/feed/)
+
+- `[`CA-OPEN-91ed76b4-a1a2-4f87-9c4c`]` **[Banks — Step by Step Guide on how to use reporting tools such as Power BI and Excel to access Open Government API sources](https://www.indexdata.org/banks-step-by-step-guide-on-how-to-use-reporting-tools-such-as-power-bi-and-excel-to-access-open-government-api-sources/)** — `2026-06-01` | `19 Pages`
+
+### [Office of the Superintendent of Financial Institutions Canada](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/feed/)
+
+- `[`CA-OPEN-c6879faf-2bc7-4c84-999c`]` **[Foreign bank branches — Foreign Bank Branches - User manual](https://www.indexdata.org/foreign-bank-branches-foreign-bank-branches-user-manual/)** — `2026-06-01` | `10 Pages`
 
 ---
 
