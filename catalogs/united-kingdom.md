@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,919` across `82` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,921` across `82` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-16 09:57 UTC`
+**Last Automated Sync:** `2026-11-16 10:58 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`296` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`211` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
-- **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`188` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
+- **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`190` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`173` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`150` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`142` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
@@ -98,7 +98,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,919)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,921)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -545,11 +545,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2026-307`]` **[The Value Added Tax (Refund of Tax to Great British Nuclear) Order 2026](https://www.indexdata.org/the-value-added-tax-refund-of-tax-to-great-british-nuclear-order-2026/)** — `2026-03-17` | `2 Pages`
 - `[`UKSI-2026-301`]` **[The Firefighters’ Pension Scheme (England) (Amendment) (No. 2) Order 2026](https://www.indexdata.org/the-firefighters-pension-scheme-england-amendment-no-2-order-2026/)** — `2026-03-17` | `2 Pages`
 - `[`UKSI-2026-289`]` **[The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2026](https://www.indexdata.org/the-income-tax-construction-industry-scheme-amendment-regulations-2026/)** — `2026-03-12` | `2 Pages`
-- `[`UKSI-2026-281`]` **[The Firefighters’ Pension Scheme (England) (Amendment) Order 2026](https://www.indexdata.org/the-firefighters-pension-scheme-england-amendment-order-2026/)** — `2026-03-11` | `12 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 
+- `[`UK-GOV-710cf7ed-6898-451c-95b4-6f6d808a53fb-9`]` **[Grenfell Tower: community update November 2026 — Grenfell Tower: community update November 2026 - Spanish](https://www.indexdata.org/grenfell-tower-community-update-november-2026-grenfell-tower-community-update-november-2026-spanish/)** — `2026-11-16` | `3 Pages`
+- `[`UK-GOV-710cf7ed-6898-451c-95b4-6f6d808a53fb-8`]` **[Grenfell Tower: community update November 2026 — Grenfell Tower: community update November 2026 - Somali](https://www.indexdata.org/grenfell-tower-community-update-november-2026-grenfell-tower-community-update-november-2026-somali/)** — `2026-11-16` | `3 Pages`
 - `[`UKSI-2026-1192`]` **[The Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) (Amendment and Transitional Provision) Regulations 2026](https://www.indexdata.org/the-town-and-country-planning-fees-for-applications-deemed-applications-requests-and-site-visits-england-amendment-and-transitional-provision-regulations-2026/)** — `2026-11-10` | `12 Pages`
 - `[`UKSI-2026-1181`]` **[The Building Insurance Information (England) Regulations 2026](https://www.indexdata.org/the-building-insurance-information-england-regulations-2026/)** — `2026-11-10` | `12 Pages`
 - `[`UK-GOV-bac586a2-e5a7-4d5c-a65b-a55f15820122-3`]` **[Planning application fees — Planning fees: annual indexation from 1 April 2025](https://www.indexdata.org/planning-application-fees-planning-fees-annual-indexation-from-1-april-2025/)** — `2026-11-10` | `10 Pages`
@@ -772,7 +773,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-458`]` **[The Windsor Framework (Retail Movement Scheme: Plant Health) (Amendment) Regulations 2026](https://www.indexdata.org/the-windsor-framework-retail-movement-scheme-plant-health-amendment-regulations-2026/)** — `2026-04-27` | `4 Pages`
 - `[`UKSI-2026-440`]` **[The Avian Influenza and Influenza of Avian Origin in Mammals (England) (Amendment) Order 2026](https://www.indexdata.org/the-avian-influenza-and-influenza-of-avian-origin-in-mammals-england-amendment-order-2026/)** — `2026-04-21` | `4 Pages`
 - `[`UKSI-2026-291`]` **[The Animals (Scientific Procedures) Act 1986 (Fees) Order 2026](https://www.indexdata.org/the-animals-scientific-procedures-act-1986-fees-order-2026/)** — `2026-03-12` | `2 Pages`
-- `[`UKSI-2026-280`]` **[The Climate Change Levy (Fuel Use and Recycling Processes) (Amendment) Regulations 2026](https://www.indexdata.org/the-climate-change-levy-fuel-use-and-recycling-processes-amendment-regulations-2026/)** — `2026-03-11` | `2 Pages`
 
 ### [Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)

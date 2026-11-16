@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,919` across `82` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,921` across `82` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-16 09:57 UTC`
+**Last Automated Sync:** `2026-11-16 10:58 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`296` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`211` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
-- **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`188` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
+- **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`190` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`173` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`150` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`142` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
@@ -98,7 +98,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,919 of 2,919)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,921 of 2,921)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -461,6 +461,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2026-281`]` **[The Firefighters’ Pension Scheme (England) (Amendment) Order 2026](https://www.indexdata.org/the-firefighters-pension-scheme-england-amendment-order-2026/)** — `2026-03-11` | `12 Pages`
 - `[`UKSI-2026-277`]` **[The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2026](https://www.indexdata.org/the-firefighters-pension-scheme-england-amendment-regulations-2026/)** — `2026-03-11` | `4 Pages`
 - `[`UKSI-2026-267`]` **[The Police Pensions (Member Contributions) (Amendment and Transitional Provisions) (England and Wales) Regulations 2026](https://www.indexdata.org/the-police-pensions-member-contributions-amendment-and-transitional-provisions-england-and-wales-regulations-2026/)** — `2026-03-09` | `8 Pages`
 - `[`UKSI-2026-266`]` **[The National Savings (Amendment) Regulations 2026](https://www.indexdata.org/the-national-savings-amendment-regulations-2026/)** — `2026-03-09` | `2 Pages`
@@ -1304,6 +1305,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 
+- `[`UKSI-2026-280`]` **[The Climate Change Levy (Fuel Use and Recycling Processes) (Amendment) Regulations 2026](https://www.indexdata.org/the-climate-change-levy-fuel-use-and-recycling-processes-amendment-regulations-2026/)** — `2026-03-11` | `2 Pages`
 - `[`UKSI-2026-285`]` **[The North Kent Marshes Water Level Management Board Order 2026](https://www.indexdata.org/the-north-kent-marshes-water-level-management-board-order-2026/)** — `2026-03-10` | `4 Pages`
 - `[`UKSI-2026-278`]` **[The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2026](https://www.indexdata.org/the-greenhouse-gas-emissions-trading-scheme-amendment-order-2026/)** — `2026-03-10` | `24 Pages`
 - `[`UKSI-2026-214`]` **[The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2026](https://www.indexdata.org/the-greenhouse-gas-emissions-trading-scheme-auctioning-amendment-regulations-2026/)** — `2026-03-04` | `4 Pages`
