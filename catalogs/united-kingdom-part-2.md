@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,902` across `80` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,904` across `80` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]**  
-**Last Automated Sync:** `2026-11-15 23:19 UTC`
+**Last Automated Sync:** `2026-11-16 00:25 UTC`
 
 ---
 
@@ -58,6 +58,7 @@
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
 - **[Intellectual Property Office](https://www.indexdata.org/united-kingdom/intellectual-property-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/intellectual-property-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/intellectual-property-office/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
+- **[Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
 - **[Education and Skills Funding Agency](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/feed/)
 - **[Foreign, Commonwealth & Development Office](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/feed/)
 - **[Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
@@ -80,7 +81,6 @@
 - **[Local Government Boundary Commission for England](https://www.indexdata.org/united-kingdom/local-government-boundary-commission-for-england/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/local-government-boundary-commission-for-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/local-government-boundary-commission-for-england/feed/)
 - **[National Highways](https://www.indexdata.org/united-kingdom/national-highways/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-highways/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-highways/feed/)
 - **[Natural England](https://www.indexdata.org/united-kingdom/natural-england/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-england/feed/)
-- **[Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
 - **[Office for Product Safety and Standards](https://www.indexdata.org/united-kingdom/office-for-product-safety-and-standards/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-for-product-safety-and-standards/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-for-product-safety-and-standards/feed/)
 - **[Office of Communications (Ofcom)](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/feed/)
 - **[Ofqual](https://www.indexdata.org/united-kingdom/ofqual/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ofqual/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ofqual/feed/)
@@ -96,7 +96,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,902 of 2,902)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–2,904 of 2,904)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -456,6 +456,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2026-266`]` **[The National Savings (Amendment) Regulations 2026](https://www.indexdata.org/the-national-savings-amendment-regulations-2026/)** — `2026-03-09` | `2 Pages`
 - `[`UKSI-2026-256`]` **[The Pensions Increase (Review) Order 2026](https://www.indexdata.org/the-pensions-increase-review-order-2026/)** — `2026-03-09` | `8 Pages`
 - `[`UKSI-2026-254`]` **[The Public Service Pensions Revaluation Order 2026](https://www.indexdata.org/the-public-service-pensions-revaluation-order-2026/)** — `2026-03-09` | `2 Pages`
 - `[`UKSI-2026-253`]` **[The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2026](https://www.indexdata.org/the-customs-tariff-and-miscellaneous-amendments-no-2-regulations-2026/)** — `2026-03-09` | `8 Pages`
@@ -1364,6 +1365,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 
+- `[`UKSI-2026-265`]` **[The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026](https://www.indexdata.org/the-national-health-service-primary-dental-services-and-dental-charges-amendment-regulations-2026/)** — `2026-03-09` | `16 Pages`
 - `[`UKSI-2026-213`]` **[The Care and Support (Charging and Assessment of Resources) (Amendment) Regulations 2026](https://www.indexdata.org/the-care-and-support-charging-and-assessment-of-resources-amendment-regulations-2026/)** — `2026-03-04` | `4 Pages`
 - `[`UKSI-2026-207`]` **[The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2026](https://www.indexdata.org/the-national-health-service-commissioning-board-and-clinical-commissioning-groups-responsibilities-and-standing-rules-amendment-regulations-2026/)** — `2026-03-03` | `4 Pages`
 - `[`UKSI-2026-205`]` **[The National Health Service (Travel Expenses and Remission of Charges, Ophthalmic Services, and Optical Charges and Payments) (Amendment) Regulations 2026](https://www.indexdata.org/the-national-health-service-travel-expenses-and-remission-of-charges-ophthalmic-services-and-optical-charges-and-payments-amendment-regulations-2026/)** — `2026-03-02` | `4 Pages`

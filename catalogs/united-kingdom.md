@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `2,902` across `80` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `2,904` across `80` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md)  
-**Last Automated Sync:** `2026-11-15 23:19 UTC`
+**Last Automated Sync:** `2026-11-16 00:25 UTC`
 
 ---
 
@@ -58,6 +58,7 @@
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
 - **[Intellectual Property Office](https://www.indexdata.org/united-kingdom/intellectual-property-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/intellectual-property-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/intellectual-property-office/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
+- **[Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
 - **[Education and Skills Funding Agency](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/feed/)
 - **[Foreign, Commonwealth & Development Office](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/feed/)
 - **[Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
@@ -80,7 +81,6 @@
 - **[Local Government Boundary Commission for England](https://www.indexdata.org/united-kingdom/local-government-boundary-commission-for-england/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/local-government-boundary-commission-for-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/local-government-boundary-commission-for-england/feed/)
 - **[National Highways](https://www.indexdata.org/united-kingdom/national-highways/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-highways/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-highways/feed/)
 - **[Natural England](https://www.indexdata.org/united-kingdom/natural-england/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-england/feed/)
-- **[Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
 - **[Office for Product Safety and Standards](https://www.indexdata.org/united-kingdom/office-for-product-safety-and-standards/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-for-product-safety-and-standards/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-for-product-safety-and-standards/feed/)
 - **[Office of Communications (Ofcom)](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/feed/)
 - **[Ofqual](https://www.indexdata.org/united-kingdom/ofqual/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ofqual/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ofqual/feed/)
@@ -96,7 +96,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,902)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 2,904)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -549,7 +549,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2026-281`]` **[The Firefighters’ Pension Scheme (England) (Amendment) Order 2026](https://www.indexdata.org/the-firefighters-pension-scheme-england-amendment-order-2026/)** — `2026-03-11` | `12 Pages`
 - `[`UKSI-2026-277`]` **[The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2026](https://www.indexdata.org/the-firefighters-pension-scheme-england-amendment-regulations-2026/)** — `2026-03-11` | `4 Pages`
 - `[`UKSI-2026-267`]` **[The Police Pensions (Member Contributions) (Amendment and Transitional Provisions) (England and Wales) Regulations 2026](https://www.indexdata.org/the-police-pensions-member-contributions-amendment-and-transitional-provisions-england-and-wales-regulations-2026/)** — `2026-03-09` | `8 Pages`
-- `[`UKSI-2026-266`]` **[The National Savings (Amendment) Regulations 2026](https://www.indexdata.org/the-national-savings-amendment-regulations-2026/)** — `2026-03-09` | `2 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
@@ -1393,7 +1392,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-495`]` **[The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2026](https://www.indexdata.org/the-health-and-social-care-act-2008-regulated-activities-amendment-regulations-2026/)** — `2026-04-29` | `4 Pages`
 - `[`UKSI-2026-381`]` **[The Human Medicines (Amendment) Regulations 2026](https://www.indexdata.org/the-human-medicines-amendment-regulations-2026/)** — `2026-03-26` | `12 Pages`
 - `[`UKSI-2026-367`]` **[The Norfolk Community Health and Care National Health Service Trust (Establishment) (Amendment) Order 2026](https://www.indexdata.org/the-norfolk-community-health-and-care-national-health-service-trust-establishment-amendment-order-2026/)** — `2026-03-18` | `4 Pages`
-- `[`UKSI-2026-265`]` **[The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026](https://www.indexdata.org/the-national-health-service-primary-dental-services-and-dental-charges-amendment-regulations-2026/)** — `2026-03-09` | `16 Pages`
 
 ### [Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/natural-history-museum/](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
@@ -1733,6 +1731,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/legal-aid
 - `[`UK-GOV-030da3ab-e9c0-45e9-aa54-1a21bb02496c-7`]` **[Submit a Bulk Claim (SaBC) — Guidance for reporting crime lower work](https://www.indexdata.org/submit-a-bulk-claim-sabc-guidance-for-reporting-crime-lower-work/)** — `2026-11-03` | `136 Pages`
 - `[`UK-GOV-030da3ab-e9c0-45e9-aa54-1a21bb02496c-6`]` **[Submit a Bulk Claim (SaBC) — Guidance for Reporting Legal Help and Mediation Work on SaBC_V8.0_ 26 October 2026](https://www.indexdata.org/submit-a-bulk-claim-sabc-guidance-for-reporting-legal-help-and-mediation-work-on-sabc_v8-0_-26-october-2026/)** — `2026-11-03` | `191 Pages`
 
+### [Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/northern-ireland-office/](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
+
+- `[`UK-GOV-93825179-2b29-42c4-9804-a28f68589d9f-1`]` **[Section 75 Equality Screening Form for Northern Ireland Office Consultation: Non-jury trial Provisions under the Justice and Security (Northern Ireland) Act 2007 — Section 75 Equality Screening Form: Non-Jury Trial Provisions under the Justice and Security (Northern Ireland) Act 2007](https://www.indexdata.org/section-75-equality-screening-form-for-northern-ireland-office-consultation-non-jury-trial-provisions-under-the-justice-and-security-northern-ireland-act-2007-section-75-equality-screenin/)** — `2026-11-16` | `23 Pages`
+- `[`UK-GOV-8110b05d-a585-40a1-b0fb-af932175067d-1`]` **[NIO launches consultation on the use of non-jury trials in Northern Ireland — Consultation: Non-Jury Trials Justice and Security (Northern Ireland) Act 2007](https://www.indexdata.org/nio-launches-consultation-on-the-use-of-non-jury-trials-in-northern-ireland-consultation-non-jury-trials-justice-and-security-northern-ireland-act-2007/)** — `2026-11-16` | `29 Pages`
+- `[`UKSI-2026-1140`]` **[The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) (Amendment No. 2) Regulations 2026](https://www.indexdata.org/the-northern-ireland-troubles-legacy-and-reconciliation-act-2023-commencement-no-2-and-transitional-provisions-amendment-no-2-regulations-2026/)** — `2026-10-29` | `2 Pages`
+
 ### [Education and Skills Funding Agency](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/feed/)
 
@@ -1852,11 +1857,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/national-
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/natural-england/](https://www.indexdata.org/united-kingdom/natural-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-england/feed/)
 
 - `[`UK-GOV-db6d6399-49b9-403d-8032-a278629285fd-1`]` **[King Charles III England Coast Path at Ferry Road, Isle of Sheppey: comment on proposals to change the approved route — Ferry Road, Isle of Sheppey variation report (VR39)](https://www.indexdata.org/king-charles-iii-england-coast-path-at-ferry-road-isle-of-sheppey-comment-on-proposals-to-change-the-approved-route-ferry-road-isle-of-sheppey-variation-report-vr39/)** — `2026-11-10` | `10 Pages`
-
-### [Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/northern-ireland-office/](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
-
-- `[`UKSI-2026-1140`]` **[The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) (Amendment No. 2) Regulations 2026](https://www.indexdata.org/the-northern-ireland-troubles-legacy-and-reconciliation-act-2023-commencement-no-2-and-transitional-provisions-amendment-no-2-regulations-2026/)** — `2026-10-29` | `2 Pages`
 
 ### [Office for Product Safety and Standards](https://www.indexdata.org/united-kingdom/office-for-product-safety-and-standards/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/office-for-product-safety-and-standards/](https://www.indexdata.org/united-kingdom/office-for-product-safety-and-standards/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-for-product-safety-and-standards/feed/)
