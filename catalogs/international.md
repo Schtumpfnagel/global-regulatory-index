@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,132` across `24` issuing authorities  
-**Last Automated Sync:** `2026-11-17 14:08 UTC`
+**Total Indexed Dossiers in International:** `1,134` across `24` issuing authorities  
+**Last Automated Sync:** `2026-11-17 15:06 UTC`
 
 ---
 
@@ -13,11 +13,11 @@
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`205` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`188` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
-- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`172` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
+- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`173` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`104` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`83` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
-- **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
+- **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
 - **[European Central Bank (ECB)](https://www.indexdata.org/international/european-central-bank-ecb/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/international/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
@@ -38,7 +38,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,132 of 1,132)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,134 of 1,134)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -444,6 +444,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 ### [World Bank](https://www.indexdata.org/international/world-bank/)
 Canonical Authority Archive: [https://www.indexdata.org/international/world-bank/](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/)
 
+- `[`WB-WDS-217209`]` **[Protecting What Matters Most : A Progressive Approach to Critical Information Infrastructure Protection - Practitioner Note](https://www.indexdata.org/protecting-what-matters-most-a-progressive-approach-to-critical-information-infrastructure-protection-practitioner-note/)** — `2026-11-17` | `27 Pages`
 - `[`WB-WDS-217041`]` **[Finance and Prosperity 2026 : Special Focus - Addressing the Finance Gap for Micro, Small and Medium Enterprises : Narrowing the Insurance Protection Gap for Natural Disasters](https://www.indexdata.org/finance-and-prosperity-2026-special-focus-addressing-the-finance-gap-for-micro-small-and-medium-enterprises-narrowing-the-insurance-protection-gap-for-natural-disasters/)** — `2026-11-17` | `90 Pages`
 - `[`WB-WDS-217198`]` **[MENAAP DPI Dataset 2026](https://www.indexdata.org/menaap-dpi-dataset-2026/)** — `2026-11-16` | `531 Pages`
 - `[`WB-WDS-217197`]` **[A Practitioner's Toolkit for Assessing Digital Skills in Low- and Middle-Income Countries](https://www.indexdata.org/a-practitioners-toolkit-for-assessing-digital-skills-in-low-and-middle-income-countries/)** — `2026-11-16` | `202 Pages`
@@ -926,6 +927,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-c
 - `[`ECA-CELLAR-A9C104A7-D7FE-11F1-8501-01AA75ED71A1`]` **[Use of RRF support in public administration : some results achieved, but progress in addressing country-specific recommendations remains limited. Special report 24/2026](https://www.indexdata.org/use-of-rrf-support-in-public-administration-some-results-achieved-but-progress-in-addressing-country-specific-recommendations-remains-limited-special-report-24-2026/)** — `2026-11-03` | `76 Pages`
 - `[`ECA-CELLAR-85CDADF5-D7FE-11F1-8501-01AA75ED71A1`]` **[Annual report on EU agencies for the 2025 financial year](https://www.indexdata.org/annual-report-on-eu-agencies-for-the-2025-financial-year/)** — `2026-11-03` | `308 Pages`
 - `[`ECA-CELLAR-46AB6960-D410-11F1-9458-01AA75ED71A1`]` **[Annual report on EU joint undertakings and assimilated bodies for the 2025 financial year](https://www.indexdata.org/annual-report-on-eu-joint-undertakings-and-assimilated-bodies-for-the-2025-financial-year/)** — `2026-10-29` | `147 Pages`
+- `[`ECA-CELLAR-F2753D7D-E295-11F1-AEFC-01AA75ED71A1`]` **[European Court of Auditors 2027 desk calendar](https://www.indexdata.org/european-court-of-auditors-2027-desk-calendar/)** — `2026-10-27` | `2 Pages`
 - `[`ECA-SP-1122E1B1-1135`]` **[ECA Content Pages Documents — ECA members missions](https://www.indexdata.org/eca-content-pages-documents-eca-members-missions/)** — `2026-10-26` | `23 Pages`
 - `[`ECA-SP-1122E1B1-641`]` **[ECA Content Pages Documents — Inventory Internet Intranet](https://www.indexdata.org/eca-content-pages-documents-inventory-internet-intranet/)** — `2026-10-22` | `22 Pages`
 - `[`ECA-SP-1122E1B1-688`]` **[ECA Content Pages Documents — DATA PROTECTION STATEMENT General (ECA tasks)](https://www.indexdata.org/eca-content-pages-documents-data-protection-statement-general-eca-tasks/)** — `2026-10-20` | `12 Pages`
