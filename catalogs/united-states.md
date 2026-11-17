@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,443` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,449` across `238` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 10:55 UTC`
+**Last Automated Sync:** `2026-11-17 11:56 UTC`
 
 ---
 
@@ -81,8 +81,8 @@
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
+- **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
-- **[Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 - **[Commerce Department](https://www.indexdata.org/united-states/commerce-department/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
 - **[Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
@@ -99,6 +99,7 @@
 - **[Surface Transportation Board](https://www.indexdata.org/united-states/surface-transportation-board/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-transportation-board/) | [RSS Feed](https://www.indexdata.org/united-states/surface-transportation-board/feed/)
 - **[Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
 - **[Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)
+- **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
 - **[Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
 - **[Food Safety and Inspection Service](https://www.indexdata.org/united-states/food-safety-and-inspection-service/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-safety-and-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-safety-and-inspection-service/feed/)
 - **[U.S. Department of Transportation (USDOT)](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/feed/)
@@ -113,7 +114,6 @@
 - **[Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)
 - **[International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 - **[Farm Credit Administration](https://www.indexdata.org/united-states/farm-credit-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-credit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/farm-credit-administration/feed/)
-- **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Defense Department](https://www.indexdata.org/united-states/defense-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,443)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,449)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -721,8 +721,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-19082`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-23/)** — `2026-09-17` | `4 Pages`
 - `[`2026-19052`]` **[Airworthiness Directives; Bell Textron Canada Limited Helicopters](https://www.indexdata.org/airworthiness-directives-bell-textron-canada-limited-helicopters-3/)** — `2026-09-17` | `4 Pages`
 - `[`2026-18956`]` **[Airworthiness Directives; De Havilland Aircraft of Canada Limited (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-de-havilland-aircraft-of-canada-limited-type-certificate-previously-held-by-bombardier-inc-airplanes/)** — `2026-09-16` | `3 Pages`
-- `[`2026-18927`]` **[Airworthiness Directives; MD Helicopters, LLC Helicopters](https://www.indexdata.org/airworthiness-directives-md-helicopters-llc-helicopters-3/)** — `2026-09-15` | `10 Pages`
-- `[`2026-18902`]` **[Amendment of Class D and Class E Airspace Over Hyannis, MA](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-over-hyannis-ma/)** — `2026-09-15` | `2 Pages`
 
 ### [United States Senate](https://www.indexdata.org/united-states/united-states-senate/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-senate/](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
@@ -901,7 +899,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-PLAW-119publ103`]` **[Public Law 119 - 103 - Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/public-law-119-103-continuing-appropriations-and-extensions-act-2027/)** — `2026-09-21` | `24 Pages`
 - `[`US-PLAW-111`]` **[Lindsey O. Graham Sanctioning Russia and Iran Act of 2026](https://www.indexdata.org/lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/)** — `2026-09-18` | `25 Pages`
 - `[`US-PLAW-110`]` **[Prison Staff Safety Enhancement Act](https://www.indexdata.org/prison-staff-safety-enhancement-act/)** — `2026-09-16` | `3 Pages`
-- `[`US-CDOC-119tdoc2`]` **[Treaty Doc. 119-2 - TAX CONVENTION WITH CROATIA AND PROTOCOL AMENDING THE TAX CONVENTION WITH CROATIA](https://www.indexdata.org/treaty-doc-119-2-tax-convention-with-croatia-and-protocol-amending-the-tax-convention-with-croatia/)** — `2026-09-15` | `63 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1180,7 +1177,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2026-19346`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 38; 2027-28 Biennial Specifications and Management Measures](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-pacific-coast-groundfish-fishery-management-plan-amendment-38-2027-28-biennial-specifications-and/)** — `2026-09-22` | `48 Pages`
 - `[`2026-19341`]` **[Fisheries of the Caribbean, Gulf of America, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic; Regulatory Amendment 37](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-snapper-grouper-fishery-of-the-south-atlantic-regulatory-amendment-37/)** — `2026-09-22` | `5 Pages`
 - `[`2026-19182`]` **[Coral, Coral Reefs, and Live/Hardbottom Habitats of the South Atlantic and the Shrimp Fishery of the South Atlantic Region; Amendments 11/12](https://www.indexdata.org/coral-coral-reefs-and-live-hardbottom-habitats-of-the-south-atlantic-and-the-shrimp-fishery-of-the-south-atlantic-region-amendments-11-12/)** — `2026-09-18` | `3 Pages`
-- `[`2026-18911`]` **[Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery](https://www.indexdata.org/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2026-area-2a-pacific-halibut-directed-commercial-fishery/)** — `2026-09-15` | `2 Pages`
 
 ### [U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
@@ -1223,6 +1219,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-govern
 ### [Federal Aviation Administration (FAA)](https://www.indexdata.org/united-states/federal-aviation-administration-faa/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration-faa/](https://www.indexdata.org/united-states/federal-aviation-administration-faa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration-faa/feed/)
 
+- `[`US-DOT-ROSAP-94444`]` **[Maintenance Data Terminal Second Invitation for Bid Integration Test Letter of Findings &#91;July 1990&#93;](https://www.indexdata.org/maintenance-data-terminal-second-invitation-for-bid-integration-test-letter-of-findings-july-1990/)** — `2026-11-16` | `6 Pages`
+- `[`US-DOT-ROSAP-94440`]` **[Maintenance Data Terminal Second Invitation for Bid Evaluation Test Letter of Findings &#91;April 1990&#93;](https://www.indexdata.org/maintenance-data-terminal-second-invitation-for-bid-evaluation-test-letter-of-findings-april-1990/)** — `2026-11-16` | `11 Pages`
 - `[`US-FR-2026-23198`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-311/)** — `2026-11-13` | `4 Pages`
 - `[`US-FR-2026-23194`]` **[Amendment of Class C Airspace; Laughlin Air Force Base, Del Rio, TX](https://www.indexdata.org/amendment-of-class-c-airspace-laughlin-air-force-base-del-rio-tx-2/)** — `2026-11-13` | `3 Pages`
 - `[`US-DOT-ROSAP-94289`]` **[Human Factors and Safety Considerations for Automatic Takeoff Capabilities and Operations in General Aviation Aircraft: A Review of the Literature](https://www.indexdata.org/human-factors-and-safety-considerations-for-automatic-takeoff-capabilities-and-operations-in-general-aviation-aircraft-a-review-of-the-literature/)** — `2026-11-13` | `34 Pages`
@@ -1388,6 +1386,29 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2026-19424`]` **[Publication of Iran-Related Web General Licenses Y and Z](https://www.indexdata.org/publication-of-iran-related-web-general-licenses-y-and-z/)** — `2026-09-23` | `3 Pages`
 - `[`2026-19423`]` **[Publication of the Democratic Republic of the Congo Sanctions Regulations Web General License 2](https://www.indexdata.org/publication-of-the-democratic-republic-of-the-congo-sanctions-regulations-web-general-license-2/)** — `2026-09-23` | `2 Pages`
 
+### [Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration-fhwa/](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
+
+- `[`US-DOT-ROSAP-94458`]` **[Develop Guidelines for Evaluation of Embankment Conditions in Bridge Approach Slabs and Pavement Structures &#91;Project Summary Report&#93;](https://www.indexdata.org/develop-guidelines-for-evaluation-of-embankment-conditions-in-bridge-approach-slabs-and-pavement-structures-project-summary-report/)** — `2026-11-16` | `2 Pages`
+- `[`US-DOT-ROSAP-94457`]` **[Develop Guidelines for Evaluation of Embankment Conditions in Bridge Approach Slabs and Pavement Structures](https://www.indexdata.org/develop-guidelines-for-evaluation-of-embankment-conditions-in-bridge-approach-slabs-and-pavement-structures/)** — `2026-11-16` | `532 Pages`
+- `[`US-DOT-ROSAP-4285`]` **[Vehicle proximity alert system for highway-railroad grade crossings-prototype research](https://www.indexdata.org/vehicle-proximity-alert-system-for-highway-railroad-grade-crossings-prototype-research/)** — `2026-11-16` | `129 Pages`
+- `[`US-DOT-ROSAP-36929`]` **[Evaluation of MOBILE Vehicle Emission Model](https://www.indexdata.org/evaluation-of-mobile-vehicle-emission-model/)** — `2026-11-16` | `228 Pages`
+- `[`US-DOT-ROSAP-89271`]` **[SENTRY-X: Enclave-Assisted Anonymous Yet Auditable Broadcast for Real-Time V2X Systems](https://www.indexdata.org/sentry-x-enclave-assisted-anonymous-yet-auditable-broadcast-for-real-time-v2x-systems/)** — `2026-11-09` | `36 Pages`
+- `[`US-DOT-ROSAP-94269`]` **[Transportation Management Area (TMA) Certification Review Highlights and Trends 2020- 2023](https://www.indexdata.org/transportation-management-area-tma-certification-review-highlights-and-trends-2020-2023/)** — `2026-11-04` | `22 Pages`
+- `[`US-DOT-ROSAP-94256`]` **[Ensuring PNT Resilience](https://www.indexdata.org/ensuring-pnt-resilience/)** — `2026-11-03` | `48 Pages`
+- `[`US-DOT-ROSAP-94254`]` **[Data-Driven Modeling and Anomaly Detection of Attacked HATS](https://www.indexdata.org/data-driven-modeling-and-anomaly-detection-of-attacked-hats/)** — `2026-11-03` | `117 Pages`
+- `[`US-DOT-ROSAP-94253`]` **[Traveler Information for Rural Maryland](https://www.indexdata.org/traveler-information-for-rural-maryland/)** — `2026-11-03` | `67 Pages`
+- `[`US-DOT-ROSAP-94251`]` **[Improving Internal Communications With SHA Employees](https://www.indexdata.org/improving-internal-communications-with-sha-employees/)** — `2026-11-03` | `133 Pages`
+- `[`US-DOT-ROSAP-94222`]` **[Effect of Carbon-Negative Carbon Black on Concrete Properties &#91;Research Project Brief&#93;](https://www.indexdata.org/effect-of-carbon-negative-carbon-black-on-concrete-properties-research-project-brief/)** — `2026-11-03` | `2 Pages`
+- `[`US-DOT-ROSAP-94221`]` **[Effect of Carbon-Negative Carbon Black on Concrete Properties](https://www.indexdata.org/effect-of-carbon-negative-carbon-black-on-concrete-properties/)** — `2026-11-03` | `33 Pages`
+- `[`US-DOT-ROSAP-94173`]` **[Central Building Information Modeling (BIM) Transportation Library - Proof of Concept and Deployment Plan](https://www.indexdata.org/central-building-information-modeling-bim-transportation-library-proof-of-concept-and-deployment-plan/)** — `2026-10-29` | `60 Pages`
+- `[`US-DOT-ROSAP-86424`]` **[Towards a Centralized BIM Transportation Library](https://www.indexdata.org/towards-a-centralized-bim-transportation-library/)** — `2026-10-29` | `113 Pages`
+- `[`US-DOT-ROSAP-60818`]` **[Roadway Lighting's Effect on Pedestrian Safety at Intersection and Midblock Crosswalks](https://www.indexdata.org/roadway-lightings-effect-on-pedestrian-safety-at-intersection-and-midblock-crosswalks/)** — `2026-10-28` | `61 Pages`
+- `[`US-DOT-ROSAP-94164`]` **[Work Zone Safety: Everybody's Responsibility: 2018 National Work Zone Awareness Week](https://www.indexdata.org/work-zone-safety-everybodys-responsibility-2018-national-work-zone-awareness-week/)** — `2026-10-26` | `2 Pages`
+- `[`US-DOT-ROSAP-94163`]` **[Work Zone Management Program: Join the Work Zone Data Initiative](https://www.indexdata.org/work-zone-management-program-join-the-work-zone-data-initiative/)** — `2026-10-26` | `2 Pages`
+- `[`US-DOT-ROSAP-94162`]` **[Bridge Formula Weights &#91;Brochure&#93;](https://www.indexdata.org/bridge-formula-weights-brochure/)** — `2026-10-26` | `6 Pages`
+- `[`US-DOT-ROSAP-94161`]` **[Parking Stress in DC: A Research Study of DC's Residential Parking Permit Program](https://www.indexdata.org/parking-stress-in-dc-a-research-study-of-dcs-residential-parking-permit-program/)** — `2026-10-26` | `32 Pages`
+
 ### [U.S. Department of Transportation (USDOT)](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/feed/)
 
@@ -1431,25 +1452,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ra
 - `[`US-DOT-ROSAP-94181`]` **[Integrating Work Zone Data Exchange in Illinois for a Safer Roadway System &#91;Data Management Plan&#93;](https://www.indexdata.org/integrating-work-zone-data-exchange-in-illinois-for-a-safer-roadway-system-data-management-plan/)** — `2026-11-03` | `10 Pages`
 - `[`US-DOT-ROSAP-94095`]` **[Integrating Work Zone Data Exchange in Illinois for a Safer Roadway System](https://www.indexdata.org/integrating-work-zone-data-exchange-in-illinois-for-a-safer-roadway-system/)** — `2026-11-03` | `45 Pages`
 - `[`US-DOT-ROSAP-88011`]` **[SMART Counties in Kansas &#91;Data Management Plan&#93;](https://www.indexdata.org/smart-counties-in-kansas-data-management-plan/)** — `2026-11-03` | `7 Pages`
-
-### [Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration-fhwa/](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
-
-- `[`US-DOT-ROSAP-89271`]` **[SENTRY-X: Enclave-Assisted Anonymous Yet Auditable Broadcast for Real-Time V2X Systems](https://www.indexdata.org/sentry-x-enclave-assisted-anonymous-yet-auditable-broadcast-for-real-time-v2x-systems/)** — `2026-11-09` | `36 Pages`
-- `[`US-DOT-ROSAP-94269`]` **[Transportation Management Area (TMA) Certification Review Highlights and Trends 2020- 2023](https://www.indexdata.org/transportation-management-area-tma-certification-review-highlights-and-trends-2020-2023/)** — `2026-11-04` | `22 Pages`
-- `[`US-DOT-ROSAP-94256`]` **[Ensuring PNT Resilience](https://www.indexdata.org/ensuring-pnt-resilience/)** — `2026-11-03` | `48 Pages`
-- `[`US-DOT-ROSAP-94254`]` **[Data-Driven Modeling and Anomaly Detection of Attacked HATS](https://www.indexdata.org/data-driven-modeling-and-anomaly-detection-of-attacked-hats/)** — `2026-11-03` | `117 Pages`
-- `[`US-DOT-ROSAP-94253`]` **[Traveler Information for Rural Maryland](https://www.indexdata.org/traveler-information-for-rural-maryland/)** — `2026-11-03` | `67 Pages`
-- `[`US-DOT-ROSAP-94251`]` **[Improving Internal Communications With SHA Employees](https://www.indexdata.org/improving-internal-communications-with-sha-employees/)** — `2026-11-03` | `133 Pages`
-- `[`US-DOT-ROSAP-94222`]` **[Effect of Carbon-Negative Carbon Black on Concrete Properties &#91;Research Project Brief&#93;](https://www.indexdata.org/effect-of-carbon-negative-carbon-black-on-concrete-properties-research-project-brief/)** — `2026-11-03` | `2 Pages`
-- `[`US-DOT-ROSAP-94221`]` **[Effect of Carbon-Negative Carbon Black on Concrete Properties](https://www.indexdata.org/effect-of-carbon-negative-carbon-black-on-concrete-properties/)** — `2026-11-03` | `33 Pages`
-- `[`US-DOT-ROSAP-94173`]` **[Central Building Information Modeling (BIM) Transportation Library - Proof of Concept and Deployment Plan](https://www.indexdata.org/central-building-information-modeling-bim-transportation-library-proof-of-concept-and-deployment-plan/)** — `2026-10-29` | `60 Pages`
-- `[`US-DOT-ROSAP-86424`]` **[Towards a Centralized BIM Transportation Library](https://www.indexdata.org/towards-a-centralized-bim-transportation-library/)** — `2026-10-29` | `113 Pages`
-- `[`US-DOT-ROSAP-60818`]` **[Roadway Lighting's Effect on Pedestrian Safety at Intersection and Midblock Crosswalks](https://www.indexdata.org/roadway-lightings-effect-on-pedestrian-safety-at-intersection-and-midblock-crosswalks/)** — `2026-10-28` | `61 Pages`
-- `[`US-DOT-ROSAP-94164`]` **[Work Zone Safety: Everybody's Responsibility: 2018 National Work Zone Awareness Week](https://www.indexdata.org/work-zone-safety-everybodys-responsibility-2018-national-work-zone-awareness-week/)** — `2026-10-26` | `2 Pages`
-- `[`US-DOT-ROSAP-94163`]` **[Work Zone Management Program: Join the Work Zone Data Initiative](https://www.indexdata.org/work-zone-management-program-join-the-work-zone-data-initiative/)** — `2026-10-26` | `2 Pages`
-- `[`US-DOT-ROSAP-94162`]` **[Bridge Formula Weights &#91;Brochure&#93;](https://www.indexdata.org/bridge-formula-weights-brochure/)** — `2026-10-26` | `6 Pages`
-- `[`US-DOT-ROSAP-94161`]` **[Parking Stress in DC: A Research Study of DC's Residential Parking Permit Program](https://www.indexdata.org/parking-stress-in-dc-a-research-study-of-dcs-residential-parking-permit-program/)** — `2026-10-26` | `32 Pages`
 
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
@@ -1622,18 +1624,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2026-20075`]` **[Medical Devices; Gastroenterology-Urology Devices; Classification of the Flushing and Storage Solution for Vascular Autografts at Room Temperature](https://www.indexdata.org/medical-devices-gastroenterology-urology-devices-classification-of-the-flushing-and-storage-solution-for-vascular-autografts-at-room-temperature/)** — `2026-09-30` | `3 Pages`
 - `[`2026-19074`]` **[Medical Devices; Exemption From Premarket Notification: Radiology Computer-Aided Detection and/or Diagnosis Devices and Computer-Aided Triage and Notification Devices](https://www.indexdata.org/medical-devices-exemption-from-premarket-notification-radiology-computer-aided-detection-and-or-diagnosis-devices-and-computer-aided-triage-and-notification-devices/)** — `2026-09-17` | `3 Pages`
 
-### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
-
-- `[`US-FR-2026-22837`]` **[Privacy Act of 1974; System of Records](https://www.indexdata.org/privacy-act-of-1974-system-of-records-2/)** — `2026-11-08` | `4 Pages`
-- `[`2026-22093`]` **[Personnel Management in Agencies: Strategic Human Capital Management](https://www.indexdata.org/personnel-management-in-agencies-strategic-human-capital-management-2/)** — `2026-10-29` | `13 Pages`
-- `[`2026-21320`]` **[Administrative Leave for Workforce Realignment and Other Purposes](https://www.indexdata.org/administrative-leave-for-workforce-realignment-and-other-purposes/)** — `2026-10-19` | `17 Pages`
-- `[`2026-21319`]` **[Elimination of Time-in-Grade](https://www.indexdata.org/elimination-of-time-in-grade/)** — `2026-10-19` | `18 Pages`
-- `[`2026-21104`]` **[Family and Medical Leave Act](https://www.indexdata.org/family-and-medical-leave-act/)** — `2026-10-15` | `5 Pages`
-- `[`2026-19222`]` **[Employment in the Excepted Service](https://www.indexdata.org/employment-in-the-excepted-service/)** — `2026-09-18` | `23 Pages`
-- `[`2026-18944`]` **[Federal Employees Health Benefits Program: Optimizing FEHB Plan Offerings](https://www.indexdata.org/federal-employees-health-benefits-program-optimizing-fehb-plan-offerings/)** — `2026-09-15` | `3 Pages`
-- `[`2026-18943`]` **[Promoting Employee Accountability](https://www.indexdata.org/promoting-employee-accountability/)** — `2026-09-15` | `2 Pages`
-
 ### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 
@@ -1729,6 +1719,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2026-21060`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-2/)** — `2026-10-15` | `3 Pages`
 - `[`2026-20532`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-4/)** — `2026-10-07` | `4 Pages`
 - `[`2026-19642`]` **[Department of Justice; Response to Correspondence Requesting Rulemaking](https://www.indexdata.org/department-of-justice-response-to-correspondence-requesting-rulemaking/)** — `2026-09-25` | `4 Pages`
+
+### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
+
+- `[`US-FR-2026-22837`]` **[Privacy Act of 1974; System of Records](https://www.indexdata.org/privacy-act-of-1974-system-of-records-2/)** — `2026-11-08` | `4 Pages`
+- `[`2026-22093`]` **[Personnel Management in Agencies: Strategic Human Capital Management](https://www.indexdata.org/personnel-management-in-agencies-strategic-human-capital-management-2/)** — `2026-10-29` | `13 Pages`
+- `[`2026-21320`]` **[Administrative Leave for Workforce Realignment and Other Purposes](https://www.indexdata.org/administrative-leave-for-workforce-realignment-and-other-purposes/)** — `2026-10-19` | `17 Pages`
+- `[`2026-21319`]` **[Elimination of Time-in-Grade](https://www.indexdata.org/elimination-of-time-in-grade/)** — `2026-10-19` | `18 Pages`
+- `[`2026-21104`]` **[Family and Medical Leave Act](https://www.indexdata.org/family-and-medical-leave-act/)** — `2026-10-15` | `5 Pages`
+- `[`2026-19222`]` **[Employment in the Excepted Service](https://www.indexdata.org/employment-in-the-excepted-service/)** — `2026-09-18` | `23 Pages`
 
 ### [U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)

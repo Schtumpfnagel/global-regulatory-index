@@ -1,7 +1,7 @@
 {
   "profile": "tabular-data-package",
   "name": "global-regulatory-index",
-  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 41,304 Official Dossiers",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 41,330 Official Dossiers",
   "homepage": "https://www.indexdata.org/",
   "version": "2026.11.17",
   "created": "2026-11-17",
@@ -48,12 +48,6 @@
     "federal-register-of-legislation",
     "commonwealth-of-australia",
     "world-bank",
-    "austria",
-    "ris-bka",
-    "bundesgesetzblatt",
-    "fma-austria",
-    "oenb",
-    "austrian-laws",
     "switzerland",
     "swiss-confederation",
     "fedlex",
@@ -71,7 +65,13 @@
     "finnish-competition-and-consumer-authority-kkv",
     "digital-and-population-data-services-agency-dvv",
     "nordic-welfare-centre",
-    "france"
+    "france",
+    "republique-francaise",
+    "amf",
+    "anssi",
+    "cnil",
+    "afld",
+    "caisse-des-depots"
   ],
   "sources": [
     {
@@ -147,10 +147,6 @@
       "path": "https://www.indexdata.org/international/"
     },
     {
-      "title": "Austria Official Statutory Archive",
-      "path": "https://www.indexdata.org/austria/"
-    },
-    {
       "title": "Switzerland Official Statutory Archive",
       "path": "https://www.indexdata.org/switzerland/"
     },
@@ -213,6 +209,10 @@
     {
       "title": "Sweden Official Statutory Archive",
       "path": "https://www.indexdata.org/sweden/"
+    },
+    {
+      "title": "Austria Official Statutory Archive",
+      "path": "https://www.indexdata.org/austria/"
     },
     {
       "title": "China Official Statutory Archive",

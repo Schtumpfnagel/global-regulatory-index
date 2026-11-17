@@ -4,24 +4,26 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/austria/](https://www.indexdata.org/austria/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/austria/feed/](https://www.indexdata.org/austria/feed/)  
 **Wikidata Sovereign Entity:** [`Q40`](https://www.wikidata.org/wiki/Q40)  
-**Governing Open-Government Framework:** *Austrian UrhG § 7 (Freie Werke) & IWG 2022 / OGD Austria CC BY 4.0*  
-**Total Indexed Dossiers in Austria:** `171` across `17` issuing authorities  
-**Last Automated Sync:** `2026-11-17 10:55 UTC`
+**Governing Open-Government Framework:** *UrhG § 7 / IWG 2022 / CC BY 4.0*  
+**Total Indexed Dossiers in Austria:** `178` across `19` issuing authorities  
+**Last Automated Sync:** `2026-11-17 11:56 UTC`
 
 ---
 
-## Issuing Authorities in Austria (17 Authorities)
+## Issuing Authorities in Austria (19 Authorities)
 
 - **[Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
 - **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
-- **[Austrian National Public Health Institute (Gesundheit Österreich GmbH - GÖG)](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/) | [RSS Feed](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/feed/)
+- **[Austrian National Public Health Institute (Gesundheit Österreich GmbH - GÖG)](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/) | [RSS Feed](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/feed/)
 - **[Oesterreichische Nationalbank (OeNB)](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/) | [RSS Feed](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/feed/)
 - **[Austrian Energy Regulatory Authority (E-Control)](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/) | [RSS Feed](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/feed/)
 - **[Federal Ministry of Education, Science and Research of Austria](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-of-education-science-and-research-of-austria/feed/)
+- **[Austrian Parliament (Österreichisches Parlament)](https://www.indexdata.org/austria/austrian-parliament-sterreichisches-parlament/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-parliament-sterreichisches-parlament/) | [RSS Feed](https://www.indexdata.org/austria/austrian-parliament-sterreichisches-parlament/feed/)
 - **[Federal Ministry of Social Affairs, Health, Care and Consumer Protection of Austria (BMSGPK)](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/feed/)
 - **[Federal Ministry of Justice of Austria (BMJ)](https://www.indexdata.org/austria/federal-ministry-of-justice-of-austria-bmj/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-ministry-of-justice-of-austria-bmj/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-of-justice-of-austria-bmj/feed/)
 - **[Austrian Regulatory Authority for Broadcasting and Telecommunications (RTR)](https://www.indexdata.org/austria/austrian-regulatory-authority-for-broadcasting-and-telecommunications-rtr/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-regulatory-authority-for-broadcasting-and-telecommunications-rtr/) | [RSS Feed](https://www.indexdata.org/austria/austrian-regulatory-authority-for-broadcasting-and-telecommunications-rtr/feed/)
 - **[Federal Ministry for Labour, Social Affairs, Health, Care and Consumer Protection of Austria](https://www.indexdata.org/austria/federal-ministry-for-labour-social-affairs-health-care-and-consumer-protection-of-austria/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-ministry-for-labour-social-affairs-health-care-and-consumer-protection-of-austria/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-for-labour-social-affairs-health-care-and-consumer-protection-of-austria/feed/)
+- **[Austrian Council for Research, Science, Innovation and Technology Development (FORWIT)](https://www.indexdata.org/austria/austrian-council-for-research-science-innovation-and-technology-development-forwit/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-council-for-research-science-innovation-and-technology-development-forwit/) | [RSS Feed](https://www.indexdata.org/austria/austrian-council-for-research-science-innovation-and-technology-development-forwit/feed/)
 - **[Austrian Financial Market Authority (Finanzmarktaufsicht - FMA)](https://www.indexdata.org/austria/austrian-financial-market-authority-finanzmarktaufsicht-fma/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-financial-market-authority-finanzmarktaufsicht-fma/) | [RSS Feed](https://www.indexdata.org/austria/austrian-financial-market-authority-finanzmarktaufsicht-fma/feed/)
 - **[Federal Ministry for Agriculture, Forestry, Environment and Water Management of Austria](https://www.indexdata.org/austria/federal-ministry-for-agriculture-forestry-environment-and-water-management-of-austria/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-ministry-for-agriculture-forestry-environment-and-water-management-of-austria/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-for-agriculture-forestry-environment-and-water-management-of-austria/feed/)
 - **[Federal Ministry for European and International Affairs of Austria (BMEIA)](https://www.indexdata.org/austria/federal-ministry-for-european-and-international-affairs-of-austria-bmeia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-ministry-for-european-and-international-affairs-of-austria-bmeia/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-for-european-and-international-affairs-of-austria-bmeia/feed/)
@@ -32,7 +34,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–171 of 171)
+## Indexed Statutory & Regulatory Dossiers (Records 1–178 of 178)
 
 ### [Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
@@ -139,6 +141,8 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-nationa
 - `[`AT-GOEG-349`]` **[Short PPRI Pharma Profile](https://www.indexdata.org/short-ppri-pharma-profile/)** — `2018-01-01` | `37 Pages`
 - `[`AT-GOEG-429`]` **[Price comparison of high-cost medicines 2017.Study protocol](https://www.indexdata.org/price-comparison-of-high-cost-medicines-2017-study-protocol/)** — `2017-08-01` | `57 Pages`
 - `[`AT-GOEG-367`]` **[Study on impact analysis of Policy Options for strengthened EU cooperation on Health Technology Assessment (HTA)](https://www.indexdata.org/study-on-impact-analysis-of-policy-options-for-strengthened-eu-cooperation-on-health-technology-assessment-hta/)** — `2017-08-01` | `261 Pages`
+- `[`AT-GOEG-Study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health.-European-Commission-Directorate-General-for-Health-and-Food-Safety-Brssel`]` **[Study on better cross-border cooperation for high-cost capital investments in health](https://www.indexdata.org/study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health-2/)** — `2016-01-01` | `209 Pages`
+- `[`AT-GOEG-Pharmaceutical-pricing-and-reimbursement-reform-in-Kyrgyzstan.-WHO-Regional-Office-for-Europe-Copenhagen-ISBN-9789289052191`]` **[Pharmaceutical pricing and reimbursement reform in Kyrgyzstan](https://www.indexdata.org/pharmaceutical-pricing-and-reimbursement-reform-in-kyrgyzstan-2/)** — `2016-01-01` | `84 Pages`
 - `[`AT-GOEG-62`]` **[Pharmaceutical pricing and reimbursement reform in Kyrgyzstan](https://www.indexdata.org/pharmaceutical-pricing-and-reimbursement-reform-in-kyrgyzstan/)** — `2016-01-01` | `84 Pages`
 - `[`AT-GOEG-30`]` **[Study on better cross-border cooperation for high-cost capital investments in health](https://www.indexdata.org/study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health/)** — `2016-01-01` | `209 Pages`
 - `[`AT-GOEG-221`]` **[Pharmaceutical regulation in 15 European countries. Review](https://www.indexdata.org/pharmaceutical-regulation-in-15-european-countries-review/)** — `2016-01-01` | `143 Pages`
@@ -211,6 +215,14 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/federal-ministry
 - `[`AT-ERV-2020_1_77`]` **[Private Higher Education Act (Privathochschulgesetz) – PrivHG](https://www.indexdata.org/private-higher-education-act-privathochschulgesetz-privhg/)** — `2025-09-24` | `21 Pages`
 - `[`AT-ERV-1986_291`]` **[Federal Act of 15 May 1986 on Living in Student Residence Halls (Student Residence Act)](https://www.indexdata.org/federal-act-of-15-may-1986-on-living-in-student-residence-halls-student-residence-act/)** — `2024-09-09` | `18 Pages`
 
+### [Austrian Parliament (Österreichisches Parlament)](https://www.indexdata.org/austria/austrian-parliament-sterreichisches-parlament/)
+Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-parliament-sterreichisches-parlament/](https://www.indexdata.org/austria/austrian-parliament-sterreichisches-parlament/) | [RSS Feed](https://www.indexdata.org/austria/austrian-parliament-sterreichisches-parlament/feed/)
+
+- `[`AT-PARL-Jugend-und-Parlament_EN_2026_BF`]` **[Jugend und Parlament EN 2026 BF](https://www.indexdata.org/jugend-und-parlament-en-2026-bf/)** — `2026-09-22` | `28 Pages`
+- `[`AT-PARL-Bundesheerkommission_Jahresbericht__2017_EN`]` **[Bundesheerkommission Jahresbericht 2017 EN](https://www.indexdata.org/bundesheerkommission-jahresbericht-2017-en/)** — `2023-01-09` | `67 Pages`
+- `[`AT-PARL-Bundesheerkommission_Jahresbericht__2016_EN`]` **[Bundesheerkommission Jahresbericht 2016 EN](https://www.indexdata.org/bundesheerkommission-jahresbericht-2016-en/)** — `2023-01-09` | `59 Pages`
+- `[`AT-PARL-Bundesheerkommission_Jahresbericht_2010_eng`]` **[Bundesheerkommission Jahresbericht 2010 eng](https://www.indexdata.org/bundesheerkommission-jahresbericht-2010-eng/)** — `2023-01-09` | `63 Pages`
+
 ### [Federal Ministry of Social Affairs, Health, Care and Consumer Protection of Austria (BMSGPK)](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/) | [RSS Feed](https://www.indexdata.org/austria/federal-ministry-of-social-affairs-health-care-and-consumer-protection-of-austria-bmsgpk/feed/)
 
@@ -237,6 +249,11 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/federal-ministry
 
 - `[`AT-ERV-1983_144`]` **[Federal Act governing weekly rest periods and rest from work on public holidays (Rest Periods Act – ARG)](https://www.indexdata.org/federal-act-governing-weekly-rest-periods-and-rest-from-work-on-public-holidays-rest-periods-act-arg/)** — `2025-10-07` | `36 Pages`
 - `[`AT-ERV-1969_461`]` **[Federal Act on the Organisation of Working Time (Working Time Act – AZG)](https://www.indexdata.org/federal-act-on-the-organisation-of-working-time-working-time-act-azg/)** — `2025-10-07` | `70 Pages`
+
+### [Austrian Council for Research, Science, Innovation and Technology Development (FORWIT)](https://www.indexdata.org/austria/austrian-council-for-research-science-innovation-and-technology-development-forwit/)
+Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-council-for-research-science-innovation-and-technology-development-forwit/](https://www.indexdata.org/austria/austrian-council-for-research-science-innovation-and-technology-development-forwit/) | [RSS Feed](https://www.indexdata.org/austria/austrian-council-for-research-science-innovation-and-technology-development-forwit/feed/)
+
+- `[`AT-FORWIT-22116`]` **[FORWIT – Open letter ad FP10](https://www.indexdata.org/forwit-open-letter-ad-fp10/)** — `2026-10-28` | `2 Pages`
 
 ### [Austrian Financial Market Authority (Finanzmarktaufsicht - FMA)](https://www.indexdata.org/austria/austrian-financial-market-authority-finanzmarktaufsicht-fma/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-financial-market-authority-finanzmarktaufsicht-fma/](https://www.indexdata.org/austria/austrian-financial-market-authority-finanzmarktaufsicht-fma/) | [RSS Feed](https://www.indexdata.org/austria/austrian-financial-market-authority-finanzmarktaufsicht-fma/feed/)
