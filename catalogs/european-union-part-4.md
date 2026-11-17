@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,162` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,169` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-17 08:57 UTC`
+**Last Automated Sync:** `2026-11-17 09:57 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,207` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,214` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`630` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,162 of 5,162)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,169 of 5,169)
 
 ### [European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-fund-eif/](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
@@ -332,7 +332,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-REC-annex-ib-existing-intermediaries-expression-of-interest`]` **[EIF Corporate Record: Annex ib Existing Intermediaries Expression of Interest](https://www.indexdata.org/eif-corporate-record-annex-ib-existing-intermediaries-expression-of-interest/)** — `2024-10-01` | `6 Pages`
 - `[`EIF-REC-annex-ia-new-intermediaries-expression-of-interest-for-new-applicants`]` **[EIF Corporate Record: Annex ia new Intermediaries Expression of Interest for new Applicants](https://www.indexdata.org/eif-corporate-record-annex-ia-new-intermediaries-expression-of-interest-for-new-applicants/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-annex-i-ceoi-eere-malta`]` **[EIF Corporate Record: Annex i Call for Expression of Interest Eere Malta](https://www.indexdata.org/eif-corporate-record-annex-i-call-for-expression-of-interest-eere-malta/)** — `2024-10-01` | `12 Pages`
-- `[`EIF-REC-annex-III-terms-of-confidentiality`]` **[EIF Corporate Record: Annex iii Terms of Confidentiality](https://www.indexdata.org/eif-corporate-record-annex-iii-terms-of-confidentiality-70/)** — `2024-10-01` | `2 Pages`
+- `[`EIF-REC-annex-III-terms-of-confidentiality`]` **[EIF Corporate Record: Annex iii Terms of Confidentiality](https://www.indexdata.org/eif-corporate-record-annex-iii-terms-of-confidentiality-71/)** — `2024-10-01` | `2 Pages`
 - `[`EIF-REC-annex-3-to-the-call-for-expression-of-interest-no-jer`]` **[EIF Corporate Record: Annex 3 to the Call for Expression of Interest no jer](https://www.indexdata.org/eif-corporate-record-annex-3-to-the-call-for-expression-of-interest-no-jer/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-annex-2_final_-to-the-call-for-expression-of-interest-no-jer`]` **[EIF Corporate Record: Annex 2 Final to the Call for Expression of Interest no jer](https://www.indexdata.org/eif-corporate-record-annex-2-final-to-the-call-for-expression-of-interest-no-jer/)** — `2024-10-01` | `11 Pages`
 - `[`EIF-REC-annex-2-to-the-call-for-expression-of-interest-no-jer009-2`]` **[EIF Corporate Record: Annex 2 to the Call for Expression of Interest no Jer009 2](https://www.indexdata.org/eif-corporate-record-annex-2-to-the-call-for-expression-of-interest-no-jer009-2/)** — `2024-10-01` | `13 Pages`
@@ -353,8 +353,8 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIF-REC-Estfund_Expansion_Capital_Fund_termsheet`]` **[EIF Corporate Record: Estfund Expansion Capital Fund Termsheet](https://www.indexdata.org/eif-corporate-record-estfund-expansion-capital-fund-termsheet/)** — `2024-10-01` | `10 Pages`
 - `[`EIF-REC-EIF_Statutes_Annexes`]` **[EIF Statutes Annexes](https://www.indexdata.org/eif-statutes-annexes/)** — `2024-10-01` | `4 Pages`
 - `[`EIF-REC-Corporate_Operational_Plan_2008_2010`]` **[EIF Corporate Record: Corporate Operational Plan 2008 2010](https://www.indexdata.org/eif-corporate-record-corporate-operational-plan-2008-2010/)** — `2024-10-01` | `23 Pages`
-- `[`EIF-REC-Call_for_expression_of_interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-93/)** — `2024-10-01` | `5 Pages`
-- `[`EIF-REC-Call_for_Expression_of_Interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-94/)** — `2024-10-01` | `16 Pages`
+- `[`EIF-REC-Call_for_expression_of_interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-95/)** — `2024-10-01` | `5 Pages`
+- `[`EIF-REC-Call_for_Expression_of_Interest`]` **[EIF Corporate Record: Call for Expression of Interest](https://www.indexdata.org/eif-corporate-record-call-for-expression-of-interest-96/)** — `2024-10-01` | `16 Pages`
 - `[`EIF-REC-Annex_III_Investment_guidelines_for_the_Early_Stage_window`]` **[EIF Corporate Record: Annex iii Investment Guidelines for the Early Stage Window](https://www.indexdata.org/eif-corporate-record-annex-iii-investment-guidelines-for-the-early-stage-window/)** — `2024-10-01` | `16 Pages`
 - `[`EIF-REC-Annex_II`]` **[EIF Corporate Record — Annex ii](https://www.indexdata.org/eif-corporate-record-annex-ii/)** — `2024-10-01` | `25 Pages`
 - `[`EIF-REC-Annex_I-Expression_of_interest_with_representations`]` **[EIF Corporate Record: Annex i Expression of Interest With Representations](https://www.indexdata.org/eif-corporate-record-annex-i-expression-of-interest-with-representations/)** — `2024-10-01` | `5 Pages`
@@ -390,6 +390,13 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
 
+- `[`EIB-DOC-depo_klaipeda_factsheet_en`]` **[EIB Policy Document: Depo Klaipeda Factsheet](https://www.indexdata.org/eib-policy-document-depo-klaipeda-factsheet/)** — `2025-04-14` | `2 Pages`
+- `[`EIB-DOC-declaration-interest-thomas-ostros-en`]` **[EIB Policy Document: Declaration Interest Thomas Ostros](https://www.indexdata.org/eib-policy-document-declaration-interest-thomas-ostros/)** — `2025-04-14` | `8 Pages`
+- `[`EIB-DOC-declaration-interest-teresa-czerwinska-en`]` **[EIB Policy Document: Declaration Interest Teresa Czerwinska](https://www.indexdata.org/eib-policy-document-declaration-interest-teresa-czerwinska/)** — `2025-04-14` | `6 Pages`
+- `[`EIB-DOC-declaration-interest-robert-de-groot-en`]` **[EIB Policy Document: Declaration Interest Robert de Groot](https://www.indexdata.org/eib-policy-document-declaration-interest-robert-de-groot/)** — `2025-04-14` | `6 Pages`
+- `[`EIB-DOC-declaration-interest-nicola-beer-en`]` **[EIB Policy Document: Declaration Interest Nicola Beer](https://www.indexdata.org/eib-policy-document-declaration-interest-nicola-beer/)** — `2025-04-14` | `8 Pages`
+- `[`EIB-DOC-declaration-interest-nadia-calvino-en`]` **[EIB Policy Document: Declaration Interest Nadia Calvino](https://www.indexdata.org/eib-policy-document-declaration-interest-nadia-calvino/)** — `2025-04-14` | `4 Pages`
+- `[`EIB-DOC-declaration-interest-kyriakos-kakouris-en`]` **[EIB Policy Document: Declaration Interest Kyriakos Kakouris](https://www.indexdata.org/eib-policy-document-declaration-interest-kyriakos-kakouris/)** — `2025-04-14` | `7 Pages`
 - `[`EIB-DOC-declaration-interest-gelsomina-vigliotti-en`]` **[EIB Policy Document: Declaration Interest Gelsomina Vigliotti](https://www.indexdata.org/eib-policy-document-declaration-interest-gelsomina-vigliotti/)** — `2025-04-14` | `6 Pages`
 - `[`EIB-DOC-d6eepb-factsheet-en`]` **[EIB Policy Document: D6eepb Factsheet](https://www.indexdata.org/eib-policy-document-d6eepb-factsheet/)** — `2025-04-14` | `2 Pages`
 - `[`EIB-DOC-cz_jessica_final_report_en`]` **[Cz JESSICA Final Report](https://www.indexdata.org/cz-jessica-final-report/)** — `2025-04-14` | `85 Pages`

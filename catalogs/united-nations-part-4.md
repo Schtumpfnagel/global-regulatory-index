@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,984` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,985` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-17 08:57 UTC`
+**Last Automated Sync:** `2026-11-17 09:57 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`150` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`151` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,984)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 6,985)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-61-36`]` **[Global analytical study on the implementation of a human-rights based approach into the goals and targets of the Kunming-Montreal Global Biodiversity Framework — report of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-36-global-analytical-study-on-the-implementation-of-a-human-rights-based-approach-into-the-goals-and-targets-of-the-kunming-montreal-global-biodiversity-framework-report-of-the-un/)** — `2026-01-15` | `17 Pages`
 - `[`UN-A-80-475`]` **[Cost recovery in the United Nations Secretariat — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-475-cost-recovery-in-the-united-nations-secretariat-report-of-the-advisory-committee-on-administrative-and-budgetary-questions/)** — `2026-01-14` | `18 Pages`
 - `[`UN-A-HRC-61-72`]` **[Combating intolerance, negative stereotyping and stigmatization of, and discrimination, incitement to violence and violence against, persons based on religion or belief — report of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-72-combating-intolerance-negative-stereotyping-and-stigmatization-of-and-discrimination-incitement-to-violence-and-violence-against-persons-based-on-religion-or-belief-report/)** — `2026-01-13` | `14 Pages`
 - `[`UN-A-HRC-61-34`]` **[Biennial panel discussion on youth and human rights — report of the Office of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-34-biennial-panel-discussion-on-youth-and-human-rights-report-of-the-office-of-the-united-nations-high-commissioner-for-human-rights/)** — `2026-01-13` | `11 Pages`
@@ -944,7 +945,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-genera
 - `[`UN-A-79-439-Add.1`]` **[Globalization and interdependence : role of the United Nations in promoting development in the context of globalization and interdependence — Report of the 2nd Committee : General Assembly, 79th session](https://www.indexdata.org/a-79-439-add-1-globalization-and-interdependence-role-of-the-united-nations-in-promoting-development-in-the-context-of-globalization-and-interdependence-report-of-the-2nd-committee-gen/)** — `2024-12-11` | `10 Pages`
 - `[`UN-A-79-434`]` **[Information and communications technologies for sustainable development — Report of the 2nd Committee : General Assembly, 79th session](https://www.indexdata.org/a-79-434-information-and-communications-technologies-for-sustainable-development-report-of-the-2nd-committee-general-assembly-79th-session/)** — `2024-12-11` | `22 Pages`
 - `[`UN-A-RES-79-81`]` **[Peaceful settlement of the question of Palestine](https://www.indexdata.org/a-res-79-81-peaceful-settlement-of-the-question-of-palestine/)** — `2024-12-10` | `8 Pages`
-- `[`UN-A-RES-79-78`]` **[Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on Their Destruction](https://www.indexdata.org/a-res-79-78-convention-on-the-prohibition-of-the-development-production-and-stockpiling-of-bacteriological-biological-and-toxin-weapons-and-on-their-destruction/)** — `2024-12-10` | `6 Pages`
 
 ### [UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-security-council-unsc/](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)

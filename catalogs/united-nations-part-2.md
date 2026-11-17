@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,984` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,985` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-17 08:57 UTC`
+**Last Automated Sync:** `2026-11-17 09:57 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`150` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`151` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,984)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,985)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -999,6 +999,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 
+- `[`UN-E-ICEF-2026-P-L.20`]` **[Country programme document — United Nations Children's Fund : Tajikistan](https://www.indexdata.org/e-icef-2026-p-l-20-country-programme-document-united-nations-childrens-fund-tajikistan/)** — `2026-07-01` | `17 Pages`
 - `[`UN-E-ICEF-2026-P-L.19`]` **[Country programme document — United Nations Children's Fund : Albania](https://www.indexdata.org/e-icef-2026-p-l-19-country-programme-document-united-nations-childrens-fund-albania/)** — `2026-07-01` | `17 Pages`
 - `[`UN-E-ICEF-2026-24`]` **[Compendium of decisions adopted by the Executive Board at its annual session of 2025 — United Nations Children's Fund](https://www.indexdata.org/e-icef-2026-24-compendium-of-decisions-adopted-by-the-executive-board-at-its-annual-session-of-2025-united-nations-childrens-fund/)** — `2026-07-01` | `10 Pages`
 - `[`UN-E-CN.18-2026-INF-1`]` **[List of delegations — United Nations Forum on Forests, 21st session, New York, 11–15 May 2026 = Liste des délégations = Lista de las delegaciones](https://www.indexdata.org/e-cn-18-2026-inf-1-list-of-delegations-united-nations-forum-on-forests-21st-session-new-york-11-15-may-2026-liste-des-delegations-lista-de-las-delegaciones/)** — `2026-06-30` | `13 Pages`
@@ -1271,7 +1272,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 - `[`UN-S-2026-338`]` **[Identical letters dated 17 April 2026 from the Permanent Representative of Saudi Arabia to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-338-identical-letters-dated-17-april-2026-from-the-permanent-representative-of-saudi-arabia-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-20` | `2 Pages`
 - `[`UN-S-2026-334`]` **[Identical letters dated 16 April 2026 from the Permanent Representative of Iraq to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-334-identical-letters-dated-16-april-2026-from-the-permanent-representative-of-iraq-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-20` | `2 Pages`
 - `[`UN-S-2026-10-Add.16`]` **[Summary statement of matters of which the Security Council is seized and of the stage reached in their consideration — addendum](https://www.indexdata.org/s-2026-10-add-16-summary-statement-of-matters-of-which-the-security-council-is-seized-and-of-the-stage-reached-in-their-consideration-addendum/)** — `2026-04-20` | `2 Pages`
-- `[`UN-S-2026-336`]` **[Identical letters dated 17 April 2026 from the Permanent Representative of Kuwait to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-336-identical-letters-dated-17-april-2026-from-the-permanent-representative-of-kuwait-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-17` | `2 Pages`
 
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)

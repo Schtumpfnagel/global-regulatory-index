@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,124` across `24` issuing authorities  
-**Last Automated Sync:** `2026-11-17 08:57 UTC`
+**Total Indexed Dossiers in International:** `1,125` across `24` issuing authorities  
+**Last Automated Sync:** `2026-11-17 09:57 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`171` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`104` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
-- **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
+- **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`83` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`74` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
@@ -38,7 +38,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,124 of 1,124)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,125 of 1,125)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -850,6 +850,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-c
 - `[`ECDC-DOC-COMMUNICABLE-DISEASE-THREATS-REPORT-3-9-OCTOBER`]` **[Communicable disease threats report, 3 - 9 October, week 41](https://www.indexdata.org/communicable-disease-threats-report-3-9-october-week-41/)** — `2026-10-09` | `23 Pages`
 - `[`ECDC-DOC-ZOONOTIC-INFLUENZA-AH5-VACCINATION-HUMANS-EUEEA`]` **[Zoonotic influenza A(H5) vaccination in humans in the EU/EEA](https://www.indexdata.org/zoonotic-influenza-ah5-vaccination-in-humans-in-the-eu-eea/)** — `2026-10-07` | `9 Pages`
 - `[`ECDC-CELLAR-3EF15DE6-C388-11F1-BFCB-01AA75ED71A1`]` **[Zoonotic influenza A(H5) vaccination in humans in the EU/EEA : data from an ECDC Survey, May 2026 : assessment](https://www.indexdata.org/zoonotic-influenza-ah5-vaccination-in-humans-in-the-eu-eea-data-from-an-ecdc-survey-may-2026-assessment/)** — `2026-10-07` | `9 Pages`
+- `[`ECDC-DOC-COMMUNICABLE-DISEASE-THREATS-REPORT-26-SEPTEMBER`]` **[Communicable disease threats report, 26 September - 2 October, week 40](https://www.indexdata.org/communicable-disease-threats-report-26-september-2-october-week-40/)** — `2026-10-02` | `37 Pages`
 - `[`ECDC-OA-W7220852321`]` **[Influence of individual and partner preferences on joint condom use during vaginal sex among young people in the Netherlands: a statistical modelling study](https://www.indexdata.org/influence-of-individual-and-partner-preferences-on-joint-condom-use-during-vaginal-sex-among-young-people-in-the-netherlands-a-statistical-modelling-study/)** — `2026-10-01` | `10 Pages`
 - `[`ECDC-OA-W7214792958`]` **[Maternal vaccination against COVID-19, influenza, pertussis, and respiratory syncytial virus: a scoping review](https://www.indexdata.org/maternal-vaccination-against-covid-19-influenza-pertussis-and-respiratory-syncytial-virus-a-scoping-review/)** — `2026-09-29` | `11 Pages`
 - `[`ECDC-CELLAR-4033C8CC-BE07-11F1-9AAE-01AA75ED71A1`]` **[Prevention, testing and treatment services for migrant populations in relation to HIV, tuberculosis, viral hepatitis and sexually transmitted infections : availability and access in the European Union/European Economic Area, 2025](https://www.indexdata.org/prevention-testing-and-treatment-services-for-migrant-populations-in-relation-to-hiv-tuberculosis-viral-hepatitis-and-sexually-transmitted-infections-availability-and-access-in-the-european-union/)** — `2026-09-29` | `21 Pages`

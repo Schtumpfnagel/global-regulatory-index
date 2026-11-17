@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,984` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,985` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-17 08:57 UTC`
+**Last Automated Sync:** `2026-11-17 09:57 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`150` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`151` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,984)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,985)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1059,11 +1059,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-61-64`]` **[Fifth session of the Forum on Human Rights, Democracy and the Rule of Law — report of the Chair](https://www.indexdata.org/a-hrc-61-64-fifth-session-of-the-forum-on-human-rights-democracy-and-the-rule-of-law-report-of-the-chair/)** — `2026-01-19` | `19 Pages`
 - `[`UN-A-AC.172-2026-L.1`]` **[Annotated provisional agenda of the organizational session for 2026 — Committee on Conferences](https://www.indexdata.org/a-ac-172-2026-l-1-annotated-provisional-agenda-of-the-organizational-session-for-2026-committee-on-conferences/)** — `2026-01-19` | `5 Pages`
 - `[`UN-A-HRC-61-21`]` **[Question of human rights in Cyprus — report of the Office of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-21-question-of-human-rights-in-cyprus-report-of-the-office-of-the-united-nations-high-commissioner-for-human-rights/)** — `2026-01-16` | `14 Pages`
-- `[`UN-A-HRC-61-36`]` **[Global analytical study on the implementation of a human-rights based approach into the goals and targets of the Kunming-Montreal Global Biodiversity Framework — report of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-36-global-analytical-study-on-the-implementation-of-a-human-rights-based-approach-into-the-goals-and-targets-of-the-kunming-montreal-global-biodiversity-framework-report-of-the-un/)** — `2026-01-15` | `17 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-2026-336`]` **[Identical letters dated 17 April 2026 from the Permanent Representative of Kuwait to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-336-identical-letters-dated-17-april-2026-from-the-permanent-representative-of-kuwait-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-17` | `2 Pages`
 - `[`UN-S-2026-335`]` **[Identical letters dated 16 April 2026 from the Permanent Representative of Bahrain to the United Nations addressed to th](https://www.indexdata.org/s-2026-335-identical-letters-dated-16-april-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-th/)** — `2026-04-17` | `3 Pages`
 - `[`UN-S-2026-333`]` **[Identical letters dated 16 April 2026 from the Permanent Representative of Israel to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-333-identical-letters-dated-16-april-2026-from-the-permanent-representative-of-israel-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `4 Pages`
 - `[`UN-S-2026-331`]` **[Identical letters dated 15 April 2026 from the Permanent Representative of Bahrain to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-331-identical-letters-dated-15-april-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-16` | `2 Pages`

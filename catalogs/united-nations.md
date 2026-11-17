@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,984` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,985` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-17 08:57 UTC`
+**Last Automated Sync:** `2026-11-17 09:57 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`150` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`151` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,984)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,985)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1561,7 +1561,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-ICEF-2026-25`]` **[Provisional annotated agenda, timetable and organization of work — United Nations Children's Fund](https://www.indexdata.org/e-icef-2026-25-provisional-annotated-agenda-timetable-and-organization-of-work-united-nations-childrens-fund/)** — `2026-07-06` | `9 Pages`
 - `[`UN-E-2026-L.17`]` **[Dates and provisional agenda of the 26th session of the Committee of Experts on Public Administration — draft decision](https://www.indexdata.org/e-2026-l-17-dates-and-provisional-agenda-of-the-26th-session-of-the-committee-of-experts-on-public-administration-draft-decision/)** — `2026-07-06` | `2 Pages`
 - `[`UN-E-2026-L.15`]` **[Doha Programme of Action for the Least Developed Countries for the decade 2022–2031 — draft resolution](https://www.indexdata.org/e-2026-l-15-doha-programme-of-action-for-the-least-developed-countries-for-the-decade-2022-2031-draft-resolution/)** — `2026-07-03` | `8 Pages`
-- `[`UN-E-ICEF-2026-P-L.20`]` **[Country programme document — United Nations Children's Fund : Tajikistan](https://www.indexdata.org/e-icef-2026-p-l-20-country-programme-document-united-nations-childrens-fund-tajikistan/)** — `2026-07-01` | `17 Pages`
 
 ### [United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-secretariat/](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
@@ -1616,6 +1615,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-high-c
 - `[`UNHCR-NADA-1580`]` **[Mexico — Protection Monitoring 2026, H1](https://www.indexdata.org/mexico-protection-monitoring-2026-h1/)** — `2026-10-23` | `27 Pages`
 - `[`UNHCR-NADA-1579`]` **[Mexico — Protection Monitoring 2025, H2](https://www.indexdata.org/mexico-protection-monitoring-2025-h2/)** — `2026-10-23` | `26 Pages`
 - `[`UNHCR-NADA-1578`]` **[Mexico — Protection Monitoring 2025, H1](https://www.indexdata.org/mexico-protection-monitoring-2025-h1/)** — `2026-10-23` | `19 Pages`
+- `[`UNHCR-HDX-1575`]` **[Ethiopia - Standardised Expanded Nutrition Survey (SENS), Gambella - 2024](https://www.indexdata.org/ethiopia-standardised-expanded-nutrition-survey-sens-gambella-2024/)** — `2026-10-08` | `109 Pages`
 - `[`UNHCR-HDX-1574`]` **[Ethiopia - Standardised Expanded Nutrition Survey (SENS), Assosa - 2024](https://www.indexdata.org/ethiopia-standardised-expanded-nutrition-survey-sens-assosa-2024/)** — `2026-10-08` | `88 Pages`
 - `[`UNHCR-NADA-1573`]` **[Vulnerability Assessment of Syrian Refugees in Lebanon, 2026](https://www.indexdata.org/vulnerability-assessment-of-syrian-refugees-in-lebanon-2026/)** — `2026-10-07` | `122 Pages`
 - `[`UNHCR-NADA-1568`]` **[Lebanon — Protection Monitoring - Q2 2025](https://www.indexdata.org/lebanon-protection-monitoring-q2-2025/)** — `2026-09-18` | `143 Pages`
