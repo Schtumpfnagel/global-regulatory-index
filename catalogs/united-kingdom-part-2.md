@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,078` across `89` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,080` across `89` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]** | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-17 19:58 UTC`
+**Last Automated Sync:** `2026-11-17 20:54 UTC`
 
 ---
 
@@ -30,7 +30,7 @@
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
-- **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
+- **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
 - **[Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
@@ -105,7 +105,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,078)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,080)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -494,6 +494,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2026-555`]` **[The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) (Amendment) Order 2026](https://www.indexdata.org/the-excise-duties-surcharges-or-rebates-hydrocarbon-oils-etc-amendment-order-2026/)** — `2026-05-21` | `4 Pages`
 - `[`UKSI-2026-553`]` **[The Civil Aviation (Customs and Excise Airports) Order 2026](https://www.indexdata.org/the-civil-aviation-customs-and-excise-airports-order-2026/)** — `2026-05-20` | `4 Pages`
 - `[`UKSI-2026-550`]` **[The Securitisation (Overseas STS Equivalence) (European Union, Iceland, Liechtenstein and Norway) Regulations 2026](https://www.indexdata.org/the-securitisation-overseas-sts-equivalence-european-union-iceland-liechtenstein-and-norway-regulations-2026/)** — `2026-05-20` | `2 Pages`
 - `[`UKSI-2026-545`]` **[The Local Government Pension Scheme (Amendment) (Governance) Regulations 2026](https://www.indexdata.org/the-local-government-pension-scheme-amendment-governance-regulations-2026/)** — `2026-05-19` | `12 Pages`
@@ -974,12 +975,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2024-371`]` **[The Homelessness (Suitability of Accommodation) (England) (Amendment) Order 2024](https://www.indexdata.org/the-homelessness-suitability-of-accommodation-england-amendment-order-2024/)** — `2024-03-13` | `2 Pages`
 - `[`UKSI-2024-157`]` **[The North Northamptonshire (Electoral Changes) Order 2024](https://www.indexdata.org/the-north-northamptonshire-electoral-changes-order-2024/)** — `2024-02-16` | `8 Pages`
 - `[`UKSI-2024-156`]` **[The Dudley (Electoral Changes) Order 2024](https://www.indexdata.org/the-dudley-electoral-changes-order-2024/)** — `2024-02-16` | `4 Pages`
-- `[`UKSI-2024-141`]` **[The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2024](https://www.indexdata.org/the-town-and-country-planning-general-permitted-development-england-amendment-order-2024/)** — `2024-02-13` | `2 Pages`
-- `[`UKSI-2024-139`]` **[The Tandridge (Electoral Changes) Order 2024](https://www.indexdata.org/the-tandridge-electoral-changes-order-2024/)** — `2024-02-09` | `8 Pages`
 
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 
+- `[`UKSI-2026-558`]` **[The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026](https://www.indexdata.org/the-education-educational-provision-for-improving-behaviour-application-to-academies-and-pupil-referral-units-and-minor-amendments-regulations-2026/)** — `2026-05-21` | `8 Pages`
 - `[`UKSI-2026-551`]` **[The Children’s Wellbeing and Schools Act 2026 (Commencement No. 1) (England) Regulations 2026](https://www.indexdata.org/the-childrens-wellbeing-and-schools-act-2026-commencement-no-1-england-regulations-2026/)** — `2026-05-20` | `2 Pages`
 - `[`UKSI-2026-528`]` **[The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026](https://www.indexdata.org/the-school-organisation-establishment-and-discontinuance-of-schools-amendment-regulations-2026/)** — `2026-05-14` | `16 Pages`
 - `[`UKSI-2026-524`]` **[The Power to Award Degrees etc. (Richmond, The American International University in London, Inc.) Order 2026](https://www.indexdata.org/the-power-to-award-degrees-etc-richmond-the-american-international-university-in-london-inc-order-2026/)** — `2026-05-14` | `2 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,385` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,386` across `34` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-17 19:58 UTC`
+**Last Automated Sync:** `2026-11-17 20:54 UTC`
 
 ---
 
@@ -34,7 +34,7 @@
 - **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
-- **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
+- **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
 - **[Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
 - **[Government of Ontario](https://www.indexdata.org/canada/government-of-ontario/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-ontario/) | [RSS Feed](https://www.indexdata.org/canada/government-of-ontario/feed/)
 - **[Canada Economic Development for Quebec Regions](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/) | [RSS Feed](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/feed/)
@@ -50,7 +50,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,385)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,386)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -965,7 +965,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-76-40`]` **[Astoria River Water Power Regulations](https://www.indexdata.org/astoria-river-water-power-regulations/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-75-24`]` **[Home Buyer Grant Regulations](https://www.indexdata.org/home-buyer-grant-regulations/)** — `2026-09-30` | `7 Pages`
 - `[`SOR-74-431`]` **[Teslin Exploration Limited Order](https://www.indexdata.org/teslin-exploration-limited-order/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-73-681`]` **[Foreign Claims (Czechoslovakia) Settlement Regulations](https://www.indexdata.org/foreign-claims-czechoslovakia-settlement-regulations/)** — `2026-09-30` | `9 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1588,6 +1587,15 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-nor
 - `[`CA-OPEN-a800e17b-5c79-f46b-532f-c119b2bb7b42`]` **[Mineral Tenure All](https://www.indexdata.org/mineral-tenure-all/)** — `2026-10-27` | `19 Pages`
 - `[`CA-OPEN-9e17b0bc-8ad5-07ad-601e-700183763829`]` **[Commissioner of Lands Administration Atlas Website](https://www.indexdata.org/commissioner-of-lands-administration-atlas-website/)** — `2026-10-27` | `26 Pages`
 
+### [Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/telefilm-canada/](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
+
+- `[`CA-OPEN-e849efcd-66d6-489d-99c9-0a62458f8bbd`]` **[Telefilm Canada's 2025/2026 Annual Report](https://www.indexdata.org/telefilm-canadas-2025-2026-annual-report/)** — `2026-11-04` | `162 Pages`
+- `[`CA-OPEN-e849efcd-66d6-489d-99c9`]` **[Telefilm Canada's 2025/2026 Annual Report — Annual Report 2025/2026](https://www.indexdata.org/telefilm-canadas-2025-2026-annual-report-annual-report-2025-2026/)** — `2026-11-04` | `162 Pages`
+- `[`CA-OPEN-95627bcd-bbcb-42bf-94d6`]` **[Telefilm Canada’s annual reports on the administration of the Access to Information Act — Annual Report on the Access to Information Act 2025/2026](https://www.indexdata.org/telefilm-canadas-annual-reports-on-the-administration-of-the-access-to-information-act-annual-report-on-the-access-to-information-act-2025-2026/)** — `2026-11-04` | `13 Pages`
+- `[`CA-OPEN-1a30a510-d886-4e45-9847-66a458461282`]` **[Telefilm Canada’s annual reports on the administration of the Privacy Act](https://www.indexdata.org/telefilm-canadas-annual-reports-on-the-administration-of-the-privacy-act/)** — `2026-11-04` | `8 Pages`
+- `[`CA-OPEN-1a30a510-d886-4e45-9847`]` **[Telefilm Canada’s annual reports on the administration of the Privacy Act — Annual Report on the Privacy Act 2025/2026](https://www.indexdata.org/telefilm-canadas-annual-reports-on-the-administration-of-the-privacy-act-annual-report-on-the-privacy-act-2025-2026/)** — `2026-11-04` | `8 Pages`
+
 ### [Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-national-defence/](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
 
@@ -1603,14 +1611,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/global-affairs-ca
 - `[`U-2`]` **[United Nations Act](https://www.indexdata.org/united-nations-act/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-95-538`]` **[Consular Services Fees Regulations](https://www.indexdata.org/consular-services-fees-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-88-485`]` **[Diplomatic Service (Special) Superannuation Regulations, 1988](https://www.indexdata.org/diplomatic-service-special-superannuation-regulations-1988/)** — `2026-09-30` | `6 Pages`
-
-### [Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/telefilm-canada/](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
-
-- `[`CA-OPEN-e849efcd-66d6-489d-99c9-0a62458f8bbd`]` **[Telefilm Canada's 2025/2026 Annual Report](https://www.indexdata.org/telefilm-canadas-2025-2026-annual-report/)** — `2026-11-04` | `162 Pages`
-- `[`CA-OPEN-e849efcd-66d6-489d-99c9`]` **[Telefilm Canada's 2025/2026 Annual Report — Annual Report 2025/2026](https://www.indexdata.org/telefilm-canadas-2025-2026-annual-report-annual-report-2025-2026/)** — `2026-11-04` | `162 Pages`
-- `[`CA-OPEN-1a30a510-d886-4e45-9847-66a458461282`]` **[Telefilm Canada’s annual reports on the administration of the Privacy Act](https://www.indexdata.org/telefilm-canadas-annual-reports-on-the-administration-of-the-privacy-act/)** — `2026-11-04` | `8 Pages`
-- `[`CA-OPEN-1a30a510-d886-4e45-9847`]` **[Telefilm Canada’s annual reports on the administration of the Privacy Act — Annual Report on the Privacy Act 2025/2026](https://www.indexdata.org/telefilm-canadas-annual-reports-on-the-administration-of-the-privacy-act-annual-report-on-the-privacy-act-2025-2026/)** — `2026-11-04` | `8 Pages`
 
 ### [Immigration, Refugees and Citizenship Canada](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/) | [RSS Feed](https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/feed/)

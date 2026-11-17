@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,385` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,386` across `34` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | **[Part 2 (Current)]** | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-17 19:58 UTC`
+**Last Automated Sync:** `2026-11-17 20:54 UTC`
 
 ---
 
@@ -34,7 +34,7 @@
 - **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
-- **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
+- **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
 - **[Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
 - **[Government of Ontario](https://www.indexdata.org/canada/government-of-ontario/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-ontario/) | [RSS Feed](https://www.indexdata.org/canada/government-of-ontario/feed/)
 - **[Canada Economic Development for Quebec Regions](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/) | [RSS Feed](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/feed/)
@@ -50,11 +50,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,385)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,386)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`SOR-73-681`]` **[Foreign Claims (Czechoslovakia) Settlement Regulations](https://www.indexdata.org/foreign-claims-czechoslovakia-settlement-regulations/)** — `2026-09-30` | `9 Pages`
 - `[`SOR-73-558`]` **[Rosabel Jeanette Pryce Housing Regulations](https://www.indexdata.org/rosabel-jeanette-pryce-housing-regulations/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-72-91`]` **[Romania Claims Fund Regulations](https://www.indexdata.org/romania-claims-fund-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-72-90`]` **[Foreign Claims (Romania) Settlement Regulations](https://www.indexdata.org/foreign-claims-romania-settlement-regulations/)** — `2026-09-30` | `10 Pages`
@@ -1303,7 +1304,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-fin
 - `[`SOR-2001-66`]` **[Property Supplied by Auction (GST/HST) Regulations](https://www.indexdata.org/property-supplied-by-auction-gst-hst-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-2001-65`]` **[Deduction for Provincial Rebate (GST/HST) Regulations](https://www.indexdata.org/deduction-for-provincial-rebate-gst-hst-regulations/)** — `2026-09-30` | `18 Pages`
 - `[`SOR-2001-56`]` **[Supervisory Information (Insurance Companies) Regulations](https://www.indexdata.org/supervisory-information-insurance-companies-regulations/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2001-55`]` **[Supervisory Information (Trust and Loan Companies) Regulations](https://www.indexdata.org/supervisory-information-trust-and-loan-companies-regulations/)** — `2026-09-30` | `7 Pages`
 
 ### [Global Affairs Canada](https://www.indexdata.org/canada/global-affairs-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/global-affairs-canada/](https://www.indexdata.org/canada/global-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/global-affairs-canada/feed/)

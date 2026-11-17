@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,385` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,386` across `34` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | **[Part 3 (Current)]** | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-17 19:58 UTC`
+**Last Automated Sync:** `2026-11-17 20:54 UTC`
 
 ---
 
@@ -34,7 +34,7 @@
 - **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
-- **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
+- **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
 - **[Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
 - **[Government of Ontario](https://www.indexdata.org/canada/government-of-ontario/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-ontario/) | [RSS Feed](https://www.indexdata.org/canada/government-of-ontario/feed/)
 - **[Canada Economic Development for Quebec Regions](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/) | [RSS Feed](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/feed/)
@@ -50,7 +50,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,385)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,386)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -1054,7 +1054,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`R-3.3`]` **[Railway Continuation Act, 2007](https://www.indexdata.org/railway-continuation-act-2007/)** — `2026-09-30` | `3 Pages`
 - `[`R-3.25`]` **[Railway Belt Water Act](https://www.indexdata.org/railway-belt-water-act/)** — `2026-09-30` | `10 Pages`
 - `[`R-3.2`]` **[Railway Belt Act](https://www.indexdata.org/railway-belt-act/)** — `2026-09-30` | `6 Pages`
-- `[`R-12.1`]` **[Royal Style and Titles Act, 2023](https://www.indexdata.org/royal-style-and-titles-act-2023/)** — `2026-09-30` | `4 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1233,6 +1232,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 
+- `[`SOR-2001-55`]` **[Supervisory Information (Trust and Loan Companies) Regulations](https://www.indexdata.org/supervisory-information-trust-and-loan-companies-regulations/)** — `2026-09-30` | `7 Pages`
 - `[`SOR-2001-496`]` **[Special Duty Area Pension Order](https://www.indexdata.org/special-duty-area-pension-order/)** — `2026-09-30` | `9 Pages`
 - `[`SOR-2001-474`]` **[Financial Consumer Agency of Canada Assessment of Financial Institutions Regulations](https://www.indexdata.org/financial-consumer-agency-of-canada-assessment-of-financial-institutions-regulations/)** — `2026-09-30` | `12 Pages`
 - `[`SOR-2001-473`]` **[Disclosure on Account Opening by Telephone Request (Trust and Loan Companies) Regulations](https://www.indexdata.org/disclosure-on-account-opening-by-telephone-request-trust-and-loan-companies-regulations/)** — `2026-09-30` | `6 Pages`

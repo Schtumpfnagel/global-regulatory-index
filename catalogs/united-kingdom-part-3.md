@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,078` across `89` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,080` across `89` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | [Part 2](united-kingdom-part-2.md) | **[Part 3 (Current)]**  
-**Last Automated Sync:** `2026-11-17 19:58 UTC`
+**Last Automated Sync:** `2026-11-17 20:54 UTC`
 
 ---
 
@@ -30,7 +30,7 @@
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
-- **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
+- **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
 - **[Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
@@ -105,7 +105,28 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,078 of 3,078)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,080 of 3,080)
+
+### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
+
+- `[`UKSI-2024-141`]` **[The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2024](https://www.indexdata.org/the-town-and-country-planning-general-permitted-development-england-amendment-order-2024/)** — `2024-02-13` | `2 Pages`
+- `[`UKSI-2024-139`]` **[The Tandridge (Electoral Changes) Order 2024](https://www.indexdata.org/the-tandridge-electoral-changes-order-2024/)** — `2024-02-09` | `8 Pages`
+- `[`UKSI-2024-138`]` **[The North Tyneside (Electoral Changes) Order 2024](https://www.indexdata.org/the-north-tyneside-electoral-changes-order-2024/)** — `2024-02-09` | `8 Pages`
+- `[`UKSI-2024-132`]` **[The Combined Authorities (Mayors) Filling of Vacancies Order 2017 (Amendment) Regulations 2024](https://www.indexdata.org/the-combined-authorities-mayors-filling-of-vacancies-order-2017-amendment-regulations-2024/)** — `2024-02-06` | `4 Pages`
+- `[`UKSI-2024-131`]` **[The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024](https://www.indexdata.org/the-combined-authorities-mayoral-elections-order-2017-amendment-regulations-2024/)** — `2024-02-06` | `28 Pages`
+- `[`UKSI-2024-124`]` **[The Northumberland (Electoral Changes) Order 2024](https://www.indexdata.org/the-northumberland-electoral-changes-order-2024/)** — `2024-02-05` | `12 Pages`
+- `[`UKSI-2024-123`]` **[The Shropshire (Electoral Changes) Order 2024](https://www.indexdata.org/the-shropshire-electoral-changes-order-2024/)** — `2024-02-05` | `8 Pages`
+- `[`UKSI-2024-122`]` **[The Worcester (Electoral Changes) Order 2024](https://www.indexdata.org/the-worcester-electoral-changes-order-2024/)** — `2024-02-05` | `4 Pages`
+- `[`UKSI-2024-111`]` **[The Local Government Finance Act 1988 (Prescription of Non-Domestic Rating Multipliers) (England) Regulations 2024](https://www.indexdata.org/the-local-government-finance-act-1988-prescription-of-non-domestic-rating-multipliers-england-regulations-2024/)** — `2024-01-31` | `4 Pages`
+- `[`UKSI-2024-110`]` **[The Building (Registered Building Control Approvers etc.) (England) Regulations 2024](https://www.indexdata.org/the-building-registered-building-control-approvers-etc-england-regulations-2024/)** — `2024-01-28` | `68 Pages`
+- `[`UKSI-2024-104`]` **[The Building Safety Act 2022 (Commencement No. 7 and Transitional Provisions) Regulations 2024](https://www.indexdata.org/the-building-safety-act-2022-commencement-no-7-and-transitional-provisions-regulations-2024/)** — `2024-01-28` | `8 Pages`
+- `[`UKSI-2024-41`]` **[The Higher-Risk Buildings (Keeping and Provision of Information etc.) (England) Regulations 2024](https://www.indexdata.org/the-higher-risk-buildings-keeping-and-provision-of-information-etc-england-regulations-2024/)** — `2024-01-13` | `24 Pages`
+- `[`UKSI-2024-40`]` **[The Building Safety Act 2022 (Commencement No. 6) Regulations 2024](https://www.indexdata.org/the-building-safety-act-2022-commencement-no-6-regulations-2024/)** — `2024-01-13` | `4 Pages`
+- `[`UKSI-2024-11`]` **[The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024](https://www.indexdata.org/the-rent-officers-housing-benefit-and-universal-credit-functions-amendment-order-2024/)** — `2024-01-08` | `4 Pages`
+- `[`UKSI-2024-4`]` **[The Rossendale (Electoral Changes) Order 2024](https://www.indexdata.org/the-rossendale-electoral-changes-order-2024/)** — `2024-01-04` | `4 Pages`
+- `[`UKSI-2024-3`]` **[The Nuneaton & Bedworth (Electoral Changes) Order 2024](https://www.indexdata.org/the-nuneaton-bedworth-electoral-changes-order-2024/)** — `2024-01-04` | `8 Pages`
+- `[`UKSI-2024-2`]` **[The Tunbridge Wells (Electoral Changes) Order 2024](https://www.indexdata.org/the-tunbridge-wells-electoral-changes-order-2024/)** — `2024-01-04` | `8 Pages`
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -126,25 +147,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2024-29`]` **[The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2024](https://www.indexdata.org/the-council-tax-reduction-schemes-prescribed-requirements-england-amendment-regulations-2024/)** — `2024-01-10` | `8 Pages`
 - `[`UKSI-2024-43`]` **[The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024](https://www.indexdata.org/the-representation-of-the-people-overseas-electors-etc-amendment-northern-ireland-regulations-2024/)** — `2024-01-09` | `28 Pages`
 - `[`UKSI-2024-30`]` **[The Agricultural Holdings (Units of Production) (England) Order 2024](https://www.indexdata.org/the-agricultural-holdings-units-of-production-england-order-2024/)** — `2024-01-09` | `8 Pages`
-
-### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
-
-- `[`UKSI-2024-138`]` **[The North Tyneside (Electoral Changes) Order 2024](https://www.indexdata.org/the-north-tyneside-electoral-changes-order-2024/)** — `2024-02-09` | `8 Pages`
-- `[`UKSI-2024-132`]` **[The Combined Authorities (Mayors) Filling of Vacancies Order 2017 (Amendment) Regulations 2024](https://www.indexdata.org/the-combined-authorities-mayors-filling-of-vacancies-order-2017-amendment-regulations-2024/)** — `2024-02-06` | `4 Pages`
-- `[`UKSI-2024-131`]` **[The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024](https://www.indexdata.org/the-combined-authorities-mayoral-elections-order-2017-amendment-regulations-2024/)** — `2024-02-06` | `28 Pages`
-- `[`UKSI-2024-124`]` **[The Northumberland (Electoral Changes) Order 2024](https://www.indexdata.org/the-northumberland-electoral-changes-order-2024/)** — `2024-02-05` | `12 Pages`
-- `[`UKSI-2024-123`]` **[The Shropshire (Electoral Changes) Order 2024](https://www.indexdata.org/the-shropshire-electoral-changes-order-2024/)** — `2024-02-05` | `8 Pages`
-- `[`UKSI-2024-122`]` **[The Worcester (Electoral Changes) Order 2024](https://www.indexdata.org/the-worcester-electoral-changes-order-2024/)** — `2024-02-05` | `4 Pages`
-- `[`UKSI-2024-111`]` **[The Local Government Finance Act 1988 (Prescription of Non-Domestic Rating Multipliers) (England) Regulations 2024](https://www.indexdata.org/the-local-government-finance-act-1988-prescription-of-non-domestic-rating-multipliers-england-regulations-2024/)** — `2024-01-31` | `4 Pages`
-- `[`UKSI-2024-110`]` **[The Building (Registered Building Control Approvers etc.) (England) Regulations 2024](https://www.indexdata.org/the-building-registered-building-control-approvers-etc-england-regulations-2024/)** — `2024-01-28` | `68 Pages`
-- `[`UKSI-2024-104`]` **[The Building Safety Act 2022 (Commencement No. 7 and Transitional Provisions) Regulations 2024](https://www.indexdata.org/the-building-safety-act-2022-commencement-no-7-and-transitional-provisions-regulations-2024/)** — `2024-01-28` | `8 Pages`
-- `[`UKSI-2024-41`]` **[The Higher-Risk Buildings (Keeping and Provision of Information etc.) (England) Regulations 2024](https://www.indexdata.org/the-higher-risk-buildings-keeping-and-provision-of-information-etc-england-regulations-2024/)** — `2024-01-13` | `24 Pages`
-- `[`UKSI-2024-40`]` **[The Building Safety Act 2022 (Commencement No. 6) Regulations 2024](https://www.indexdata.org/the-building-safety-act-2022-commencement-no-6-regulations-2024/)** — `2024-01-13` | `4 Pages`
-- `[`UKSI-2024-11`]` **[The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024](https://www.indexdata.org/the-rent-officers-housing-benefit-and-universal-credit-functions-amendment-order-2024/)** — `2024-01-08` | `4 Pages`
-- `[`UKSI-2024-4`]` **[The Rossendale (Electoral Changes) Order 2024](https://www.indexdata.org/the-rossendale-electoral-changes-order-2024/)** — `2024-01-04` | `4 Pages`
-- `[`UKSI-2024-3`]` **[The Nuneaton & Bedworth (Electoral Changes) Order 2024](https://www.indexdata.org/the-nuneaton-bedworth-electoral-changes-order-2024/)** — `2024-01-04` | `8 Pages`
-- `[`UKSI-2024-2`]` **[The Tunbridge Wells (Electoral Changes) Order 2024](https://www.indexdata.org/the-tunbridge-wells-electoral-changes-order-2024/)** — `2024-01-04` | `8 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
