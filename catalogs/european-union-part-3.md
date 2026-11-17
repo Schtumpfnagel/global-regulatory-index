@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,228` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,235` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-17 17:55 UTC`
+**Last Automated Sync:** `2026-11-17 18:56 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,273` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,280` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`630` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,228)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,235)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -99,6 +99,10 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-PIPE-20070182_nts_en`]` **[EIB Project Environmental Assessment: 20070182 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20070182-non-technical-summary-nts/)** — `2025-04-15` | `17 Pages`
 - `[`EIB-PIPE-20070180_nts_en`]` **[EIB Project Environmental Assessment: 20070180 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20070180-non-technical-summary-nts/)** — `2025-04-15` | `11 Pages`
 - `[`EIB-PIPE-20070172_nts_e23h_en`]` **[EIB Project Environmental Assessment: 20070172 Non-Technical Summary (NTS) E23h](https://www.indexdata.org/eib-project-environmental-assessment-20070172-non-technical-summary-nts-e23h/)** — `2025-04-15` | `17 Pages`
+- `[`EIB-PIPE-20070168_nts_en`]` **[EIB Project Environmental Assessment: 20070168 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20070168-non-technical-summary-nts/)** — `2025-04-15` | `66 Pages`
+- `[`EIB-PIPE-20070150_nts4_en`]` **[EIB Project Environmental Assessment: 20070150 Nts4](https://www.indexdata.org/eib-project-environmental-assessment-20070150-nts4/)** — `2025-04-15` | `32 Pages`
+- `[`EIB-PIPE-20070150_nts3_en`]` **[EIB Project Environmental Assessment: 20070150 Nts3](https://www.indexdata.org/eib-project-environmental-assessment-20070150-nts3/)** — `2025-04-15` | `54 Pages`
+- `[`EIB-PIPE-20070150_nts2_en`]` **[EIB Project Environmental Assessment: 20070150 Nts2](https://www.indexdata.org/eib-project-environmental-assessment-20070150-nts2/)** — `2025-04-15` | `132 Pages`
 - `[`EIB-EVT-warsaw_programme_english`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_programme_en`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme-2/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_26112010_wisniewski_en`]` **[EIB Policy Conference: Warsaw 26112010 Wisniewski](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-wisniewski/)** — `2025-04-15` | `9 Pages`
@@ -397,6 +401,9 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-20170426_renewable_energy_outside_the_eu_pamiga_en`]` **[EIB Policy Conference: 20170426 Renewable Energy Outside the EU Pamiga](https://www.indexdata.org/eib-policy-conference-20170426-renewable-energy-outside-the-eu-pamiga/)** — `2025-04-15` | `11 Pages`
 - `[`EIB-EVT-20170426_renewable_energy_outside_the_eu_geeref_en`]` **[EIB Policy Conference: 20170426 Renewable Energy Outside the EU Geeref](https://www.indexdata.org/eib-policy-conference-20170426-renewable-energy-outside-the-eu-geeref/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-20170426_renewable_energy_outside_the_eu_frontier_en`]` **[EIB Policy Conference: 20170426 Renewable Energy Outside the EU Frontier](https://www.indexdata.org/eib-policy-conference-20170426-renewable-energy-outside-the-eu-frontier/)** — `2025-04-15` | `9 Pages`
+- `[`EIB-EVT-20170426_renewable_energy_outside_the_eu_boschi_en`]` **[EIB Policy Conference: 20170426 Renewable Energy Outside the EU Boschi](https://www.indexdata.org/eib-policy-conference-20170426-renewable-energy-outside-the-eu-boschi/)** — `2025-04-15` | `28 Pages`
+- `[`EIB-EVT-20170410_investment_and_finance_funding_growth_and_recovery_in_europe_revoltella_mcgoldrick_en`]` **[EIB Policy Conference: 20170410 Investment and Finance Funding Growth and Recovery in Europe Revoltella Mcgoldrick](https://www.indexdata.org/eib-policy-conference-20170410-investment-and-finance-funding-growth-and-recovery-in-europe-revoltella-mcgoldrick/)** — `2025-04-15` | `23 Pages`
+- `[`EIB-EVT-20170410_investment_and_finance_funding_growth_and_recovery_in_europe_o_callaghan_en`]` **[EIB Policy Conference: 20170410 Investment and Finance Funding Growth and Recovery in Europe o Callaghan](https://www.indexdata.org/eib-policy-conference-20170410-investment-and-finance-funding-growth-and-recovery-in-europe-o-callaghan/)** — `2025-04-15` | `8 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1543,13 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-DOC-integrating-climate-change-information-adaptation-in-project-development-en`]` **[EIB Policy Document: Integrating Climate Change Information Adaptation in Project Development](https://www.indexdata.org/eib-policy-document-integrating-climate-change-information-adaptation-in-project-development/)** — `2025-04-14` | `11 Pages`
 - `[`EIB-DOC-innovfin_mcg_call_for_expression_of_interest_en`]` **[EIB Policy Document: Innovfin mcg Call for Expression of Interest](https://www.indexdata.org/eib-policy-document-innovfin-mcg-call-for-expression-of-interest/)** — `2025-04-14` | `48 Pages`
 - `[`EIB-DOC-innovfin_mcg_call_for_expression_of_interest_corrigendum_en`]` **[EIB Policy Document: Innovfin mcg Call for Expression of Interest Corrigendum](https://www.indexdata.org/eib-policy-document-innovfin-mcg-call-for-expression-of-interest-corrigendum/)** — `2025-04-14` | `2 Pages`
-- `[`EIB-DOC-innovfin_final_recipients_2023_en`]` **[EIB Policy Document: Innovfin Final Recipients 2023](https://www.indexdata.org/eib-policy-document-innovfin-final-recipients-2023/)** — `2025-04-14` | `12 Pages`
-- `[`EIB-DOC-innovfin_final_recipients_2022_en`]` **[EIB Policy Document: Innovfin Final Recipients 2022](https://www.indexdata.org/eib-policy-document-innovfin-final-recipients-2022/)** — `2025-04-14` | `12 Pages`
-- `[`EIB-DOC-innovfin_final_recipients_2014_en`]` **[EIB Policy Document: Innovfin Final Recipients 2014](https://www.indexdata.org/eib-policy-document-innovfin-final-recipients-2014/)** — `2025-04-14` | `5 Pages`
-- `[`EIB-DOC-innovfin_faq_en`]` **[EIB Policy Document: Innovfin faq](https://www.indexdata.org/eib-policy-document-innovfin-faq/)** — `2025-04-14` | `5 Pages`
-- `[`EIB-DOC-innovfin-energy-demo-projects-eligibility-questionnaire-en`]` **[EIB Policy Document: Innovfin Energy Demo Projects Eligibility Questionnaire](https://www.indexdata.org/eib-policy-document-innovfin-energy-demo-projects-eligibility-questionnaire/)** — `2025-04-14` | `3 Pages`
-- `[`EIB-DOC-implementation-of-jessica-in-andalucia_en`]` **[Implementation of JESSICA in Andalucia](https://www.indexdata.org/implementation-of-jessica-in-andalucia/)** — `2025-04-14` | `261 Pages`
-- `[`EIB-DOC-ifi_framework_for_harmonised_approach_to_gga_transport_en`]` **[EIB Policy Document: Ifi Framework for Harmonised Approach to gga Transport](https://www.indexdata.org/eib-policy-document-ifi-framework-for-harmonised-approach-to-gga-transport/)** — `2025-04-14` | `4 Pages`
 
 ---
 
