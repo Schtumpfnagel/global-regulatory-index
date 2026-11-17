@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,260` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,267` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-17 22:46 UTC`
+**Last Automated Sync:** `2026-11-17 23:53 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,305` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,312` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`630` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,260)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,267)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -117,6 +117,10 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-PIPE-20070088_eia_15_en`]` **[EIB Project Environmental Assessment: 20070088 Environmental Impact Assessment (EIA) 15](https://www.indexdata.org/eib-project-environmental-assessment-20070088-environmental-impact-assessment-eia-15/)** — `2025-04-15` | `305 Pages`
 - `[`EIB-PIPE-20070088_eia9_en`]` **[EIB Project Environmental Assessment: 20070088 Eia9](https://www.indexdata.org/eib-project-environmental-assessment-20070088-eia9/)** — `2025-04-15` | `2 Pages`
 - `[`EIB-PIPE-20070088_eia8_en`]` **[EIB Project Environmental Assessment: 20070088 Eia8](https://www.indexdata.org/eib-project-environmental-assessment-20070088-eia8/)** — `2025-04-15` | `4 Pages`
+- `[`EIB-PIPE-20070088_eia7_en`]` **[EIB Project Environmental Assessment: 20070088 Eia7](https://www.indexdata.org/eib-project-environmental-assessment-20070088-eia7/)** — `2025-04-15` | `20 Pages`
+- `[`EIB-PIPE-20070088_eia6_en`]` **[EIB Project Environmental Assessment: 20070088 Eia6](https://www.indexdata.org/eib-project-environmental-assessment-20070088-eia6/)** — `2025-04-15` | `2 Pages`
+- `[`EIB-PIPE-20070088_eia5_en`]` **[EIB Project Environmental Assessment: 20070088 Eia5](https://www.indexdata.org/eib-project-environmental-assessment-20070088-eia5/)** — `2025-04-15` | `16 Pages`
+- `[`EIB-PIPE-20070088_eia4_en`]` **[EIB Project Environmental Assessment: 20070088 Eia4](https://www.indexdata.org/eib-project-environmental-assessment-20070088-eia4/)** — `2025-04-15` | `42 Pages`
 - `[`EIB-EVT-warsaw_programme_english`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_programme_en`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme-2/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_26112010_wisniewski_en`]` **[EIB Policy Conference: Warsaw 26112010 Wisniewski](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-wisniewski/)** — `2025-04-15` | `9 Pages`
@@ -429,6 +433,9 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-20170405_syria_conference_brussels_hoyer_en`]` **[EIB Policy Conference: 20170405 Syria Conference Brussels Hoyer](https://www.indexdata.org/eib-policy-conference-20170405-syria-conference-brussels-hoyer/)** — `2025-04-15` | `3 Pages`
 - `[`EIB-EVT-20161307_innovfin_chisinau_presentation_en`]` **[EIB Policy Conference: 20161307 Innovfin Chisinau Presentation](https://www.indexdata.org/eib-policy-conference-20161307-innovfin-chisinau-presentation/)** — `2025-04-15` | `51 Pages`
 - `[`EIB-EVT-20161118_eligibility_and_procedures_german_armenian_fund_gevorg_tumanyan_eng`]` **[EIB Policy Conference: 20161118 Eligibility and Procedures German Armenian Fund Gevorg Tumanyan](https://www.indexdata.org/eib-policy-conference-20161118-eligibility-and-procedures-german-armenian-fund-gevorg-tumanyan/)** — `2025-04-15` | `13 Pages`
+- `[`EIB-EVT-20161118_casestudy_araks-2_production_cooperative_kristine_antonyan_en`]` **[EIB Policy Conference: 20161118 Casestudy Araks 2 Production Cooperative Kristine Antonyan](https://www.indexdata.org/eib-policy-conference-20161118-casestudy-araks-2-production-cooperative-kristine-antonyan/)** — `2025-04-15` | `5 Pages`
+- `[`EIB-EVT-20161118_case_study_aplina_hotel_ruzanna_khachatryan_en`]` **[EIB Policy Conference: 20161118 Case Study Aplina Hotel Ruzanna Khachatryan](https://www.indexdata.org/eib-policy-conference-20161118-case-study-aplina-hotel-ruzanna-khachatryan/)** — `2025-04-15` | `4 Pages`
+- `[`EIB-EVT-20161108_eib_complaints_cso_kiev_outcome_en`]` **[20161108 EIB Complaints cso Kiev Outcome](https://www.indexdata.org/20161108-eib-complaints-cso-kiev-outcome/)** — `2025-04-15` | `3 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1543,13 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-DOC-jessica_evaluation_study_for_lorraine_en`]` **[JESSICA Evaluation Study for Lorraine](https://www.indexdata.org/jessica-evaluation-study-for-lorraine/)** — `2025-04-14` | `76 Pages`
 - `[`EIB-DOC-jessica_evaluation_study_catalonia_en`]` **[JESSICA Evaluation Study Catalonia](https://www.indexdata.org/jessica-evaluation-study-catalonia/)** — `2025-04-14` | `236 Pages`
 - `[`EIB-DOC-jessica_evaluation_study_castilla_la_mancha_en`]` **[JESSICA Evaluation Study Castilla la Mancha](https://www.indexdata.org/jessica-evaluation-study-castilla-la-mancha/)** — `2025-04-14` | `92 Pages`
-- `[`EIB-DOC-jessica_evaluation_focused_study_toscana_en`]` **[JESSICA Evaluation Focused Study Toscana](https://www.indexdata.org/jessica-evaluation-focused-study-toscana/)** — `2025-04-14` | `57 Pages`
-- `[`EIB-DOC-jessica_energy_focused_udf_final_report_en`]` **[JESSICA Energy Focused udf Final Report](https://www.indexdata.org/jessica-energy-focused-udf-final-report/)** — `2025-04-14` | `129 Pages`
-- `[`EIB-DOC-jessica_cocof_guidance_note2_en`]` **[JESSICA Cocof Guidance Note2](https://www.indexdata.org/jessica-cocof-guidance-note2/)** — `2025-04-14` | `21 Pages`
-- `[`EIB-DOC-jessica_cocof_february_2011_en`]` **[JESSICA Cocof February 2011](https://www.indexdata.org/jessica-cocof-february-2011/)** — `2025-04-14` | `53 Pages`
-- `[`EIB-DOC-jessica_cmcr_final_report_en`]` **[JESSICA Cmcr Final Report](https://www.indexdata.org/jessica-cmcr-final-report/)** — `2025-04-14` | `158 Pages`
-- `[`EIB-DOC-jessica_campania_evaluation_study_en`]` **[JESSICA Campania Evaluation Study](https://www.indexdata.org/jessica-campania-evaluation-study/)** — `2025-04-14` | `169 Pages`
-- `[`EIB-DOC-jessica_assessing_socio_economic_performance_en`]` **[JESSICA Assessing Socio Economic Performance](https://www.indexdata.org/jessica-assessing-socio-economic-performance/)** — `2025-04-14` | `149 Pages`
 
 ---
 
