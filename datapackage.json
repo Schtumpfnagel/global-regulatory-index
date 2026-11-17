@@ -1,7 +1,7 @@
 {
   "profile": "tabular-data-package",
   "name": "global-regulatory-index",
-  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 41,235 Official Dossiers",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 41,253 Official Dossiers",
   "homepage": "https://www.indexdata.org/",
   "version": "2026.11.17",
   "created": "2026-11-17",
@@ -243,10 +243,6 @@
       "path": "https://www.indexdata.org/israel/"
     },
     {
-      "title": "Iceland Official Statutory Archive",
-      "path": "https://www.indexdata.org/iceland/"
-    },
-    {
       "title": "Lithuania Official Statutory Archive",
       "path": "https://www.indexdata.org/lithuania/"
     },
@@ -265,6 +261,10 @@
     {
       "title": "Ukraine Official Statutory Archive",
       "path": "https://www.indexdata.org/ukraine/"
+    },
+    {
+      "title": "Iceland Official Statutory Archive",
+      "path": "https://www.indexdata.org/iceland/"
     }
   ],
   "resources": [
