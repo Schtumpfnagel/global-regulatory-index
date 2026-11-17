@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,310` across `51` issuing authorities  
-**Last Automated Sync:** `2026-11-17 05:00 UTC`
+**Total Indexed Dossiers in Australia:** `1,312` across `51` issuing authorities  
+**Last Automated Sync:** `2026-11-17 05:58 UTC`
 
 ---
 
@@ -27,9 +27,9 @@
 - **[Department of Education](https://www.indexdata.org/australia/department-of-education/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-education/) | [RSS Feed](https://www.indexdata.org/australia/department-of-education/feed/)
 - **[Great Barrier Reef Marine Park Authority](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/) | [RSS Feed](https://www.indexdata.org/australia/great-barrier-reef-marine-park-authority/feed/)
 - **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
+- **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
 - **[Department of Foreign Affairs and Trade](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/) | [RSS Feed](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/feed/)
 - **[Department of Health and Aged Care](https://www.indexdata.org/australia/department-of-health-and-aged-care/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-health-and-aged-care/) | [RSS Feed](https://www.indexdata.org/australia/department-of-health-and-aged-care/feed/)
-- **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
 - **[Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/) | [RSS Feed](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/feed/)
 - **[Department of Social Services](https://www.indexdata.org/australia/department-of-social-services/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-social-services/) | [RSS Feed](https://www.indexdata.org/australia/department-of-social-services/feed/)
 - **[Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
@@ -37,10 +37,10 @@
 - **[Australian Charities and Not-for-profits Commission (ACNC)](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/) | [RSS Feed](https://www.indexdata.org/australia/australian-charities-and-not-for-profits-commission-acnc/feed/)
 - **[Department of the Prime Minister and Cabinet](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-prime-minister-and-cabinet/feed/)
 - **[Aestra](https://www.indexdata.org/australia/aestra/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/australia/aestra/) | [RSS Feed](https://www.indexdata.org/australia/aestra/feed/)
+- **[Commonwealth Scientific and Industrial Research Organisation](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/) | [RSS Feed](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/feed/)
 - **[Northern Territory — Health](https://www.indexdata.org/australia/northern-territory-health/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-health/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-health/feed/)
 - **[Northern Territory — People, Sport and Culture](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-people-sport-and-culture/feed/)
 - **[Bureau of Meteorology](https://www.indexdata.org/australia/bureau-of-meteorology/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/bureau-of-meteorology/) | [RSS Feed](https://www.indexdata.org/australia/bureau-of-meteorology/feed/)
-- **[Commonwealth Scientific and Industrial Research Organisation](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/) | [RSS Feed](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/feed/)
 - **[Northern Territory — Corrections](https://www.indexdata.org/australia/northern-territory-corrections/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-corrections/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-corrections/feed/)
 - **[Northern Territory — Logistics and Infrastructure](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/feed/)
 - **[Australian Antarctic Division](https://www.indexdata.org/australia/australian-antarctic-division/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-antarctic-division/) | [RSS Feed](https://www.indexdata.org/australia/australian-antarctic-division/feed/)
@@ -66,7 +66,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,310 of 1,310)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,312 of 1,312)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1253,6 +1253,27 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-cen
 - `[`AU-ACIAR-FR2023-004`]` **[Initiating private sector partnerships to sustainably grow the smallholder dairy sectors of Indonesia and the Philippines - Final Report](https://www.indexdata.org/initiating-private-sector-partnerships-to-sustainably-grow-the-smallholder-dairy-sectors-of-indonesia-and-the-philippines-final-report/)** — `2023-01-23` | `270 Pages`
 - `[`AU-ACIAR-PR074`]` **[Sustainable parasite control in small ruminants](https://www.indexdata.org/sustainable-parasite-control-in-small-ruminants/)** — `1996-12-31` | `205 Pages`
 
+### [Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/australian-law-reform-commission/](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
+
+- `[`AU-ALRC-23639`]` **[Human rights in action](https://www.indexdata.org/human-rights-in-action/)** — `2026-11-17` | `2 Pages`
+- `[`AU-ALRC-23622`]` **[alrc-surrogacy-qanda](https://www.indexdata.org/alrc-surrogacy-qanda/)** — `2026-11-17` | `3 Pages`
+- `[`AU-ALRC-23586`]` **[ALRC Report 146 (Vol 2)](https://www.indexdata.org/alrc-report-146-vol-2/)** — `2026-11-04` | `712 Pages`
+- `[`AU-ALRC-23585`]` **[ALRC Report 146 (Vol 1)](https://www.indexdata.org/alrc-report-146-vol-1/)** — `2026-11-04` | `406 Pages`
+- `[`AU-ALRC-23554`]` **[20250820 FOI – ACL InvitationLetters_Redacted](https://www.indexdata.org/20250820-foi-acl-invitationletters_redacted/)** — `2026-10-19` | `22 Pages`
+- `[`AU-ALRC-23513`]` **[239. E Thatcher](https://www.indexdata.org/239-e-thatcher/)** — `2026-09-08` | `9 Pages`
+- `[`AU-ALRC-23507`]` **[2026–27 ALRC Corporate Plan](https://www.indexdata.org/2026-27-alrc-corporate-plan/)** — `2026-08-31` | `10 Pages`
+- `[`AU-ALRC-23505`]` **[237. B Radford](https://www.indexdata.org/237-b-radford/)** — `2026-08-27` | `3 Pages`
+- `[`AU-ALRC-23500`]` **[455. P Debets](https://www.indexdata.org/455-p-debets/)** — `2026-08-25` | `3 Pages`
+- `[`AU-ALRC-23499`]` **[457. S Mildenhall](https://www.indexdata.org/457-s-mildenhall/)** — `2026-08-25` | `3 Pages`
+- `[`AU-ALRC-23497`]` **[451. L Arthur](https://www.indexdata.org/451-l-arthur/)** — `2026-08-25` | `3 Pages`
+- `[`AU-ALRC-23490`]` **[444. Name withheld](https://www.indexdata.org/444-name-withheld/)** — `2026-08-25` | `2 Pages`
+- `[`AU-ALRC-23488`]` **[442. D & R Cox](https://www.indexdata.org/442-d-r-cox/)** — `2026-08-25` | `2 Pages`
+- `[`AU-ALRC-23480`]` **[452. Name withheld](https://www.indexdata.org/452-name-withheld/)** — `2026-08-25` | `2 Pages`
+- `[`AU-ALRC-23423`]` **[115. Name withheld](https://www.indexdata.org/115-name-withheld/)** — `2026-07-21` | `19 Pages`
+- `[`AU-ALRC-23413`]` **[ci_1647_name_withheld](https://www.indexdata.org/ci_1647_name_withheld/)** — `2026-07-20` | `2 Pages`
+- `[`AU-ALRC-23352`]` **[7 NTFA Final Report Info Sheet – Statutory Procedures](https://www.indexdata.org/7-ntfa-final-report-info-sheet-statutory-procedures/)** — `2026-06-23` | `2 Pages`
+
 ### [Department of Foreign Affairs and Trade](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/) | [RSS Feed](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/feed/)
 
@@ -1294,26 +1315,6 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-
 - `[`C2024A00050`]` **[Therapeutic Goods and Other Legislation Amendment (Vaping Reforms) Act 2024](https://www.indexdata.org/therapeutic-goods-and-other-legislation-amendment-vaping-reforms-act-2024/)** — `2024-06-27` | `85 Pages`
 - `[`C2024A00033`]` **[Health Legislation Amendment (Removal of Requirement for a Collaborative Arrangement) Act 2024](https://www.indexdata.org/health-legislation-amendment-removal-of-requirement-for-a-collaborative-arrangement-act-2024/)** — `2024-05-31` | `8 Pages`
 - `[`C2024A00004`]` **[Treasury Laws Amendment (Cost of Living—Medicare Levy) Act 2024](https://www.indexdata.org/treasury-laws-amendment-cost-of-living-medicare-levy-act-2024/)** — `2024-03-05` | `8 Pages`
-
-### [Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/australian-law-reform-commission/](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
-
-- `[`AU-ALRC-23622`]` **[alrc-surrogacy-qanda](https://www.indexdata.org/alrc-surrogacy-qanda/)** — `2026-11-17` | `3 Pages`
-- `[`AU-ALRC-23586`]` **[ALRC Report 146 (Vol 2)](https://www.indexdata.org/alrc-report-146-vol-2/)** — `2026-11-04` | `712 Pages`
-- `[`AU-ALRC-23585`]` **[ALRC Report 146 (Vol 1)](https://www.indexdata.org/alrc-report-146-vol-1/)** — `2026-11-04` | `406 Pages`
-- `[`AU-ALRC-23554`]` **[20250820 FOI – ACL InvitationLetters_Redacted](https://www.indexdata.org/20250820-foi-acl-invitationletters_redacted/)** — `2026-10-19` | `22 Pages`
-- `[`AU-ALRC-23513`]` **[239. E Thatcher](https://www.indexdata.org/239-e-thatcher/)** — `2026-09-08` | `9 Pages`
-- `[`AU-ALRC-23507`]` **[2026–27 ALRC Corporate Plan](https://www.indexdata.org/2026-27-alrc-corporate-plan/)** — `2026-08-31` | `10 Pages`
-- `[`AU-ALRC-23505`]` **[237. B Radford](https://www.indexdata.org/237-b-radford/)** — `2026-08-27` | `3 Pages`
-- `[`AU-ALRC-23500`]` **[455. P Debets](https://www.indexdata.org/455-p-debets/)** — `2026-08-25` | `3 Pages`
-- `[`AU-ALRC-23499`]` **[457. S Mildenhall](https://www.indexdata.org/457-s-mildenhall/)** — `2026-08-25` | `3 Pages`
-- `[`AU-ALRC-23497`]` **[451. L Arthur](https://www.indexdata.org/451-l-arthur/)** — `2026-08-25` | `3 Pages`
-- `[`AU-ALRC-23490`]` **[444. Name withheld](https://www.indexdata.org/444-name-withheld/)** — `2026-08-25` | `2 Pages`
-- `[`AU-ALRC-23488`]` **[442. D & R Cox](https://www.indexdata.org/442-d-r-cox/)** — `2026-08-25` | `2 Pages`
-- `[`AU-ALRC-23480`]` **[452. Name withheld](https://www.indexdata.org/452-name-withheld/)** — `2026-08-25` | `2 Pages`
-- `[`AU-ALRC-23423`]` **[115. Name withheld](https://www.indexdata.org/115-name-withheld/)** — `2026-07-21` | `19 Pages`
-- `[`AU-ALRC-23413`]` **[ci_1647_name_withheld](https://www.indexdata.org/ci_1647_name_withheld/)** — `2026-07-20` | `2 Pages`
-- `[`AU-ALRC-23352`]` **[7 NTFA Final Report Info Sheet – Statutory Procedures](https://www.indexdata.org/7-ntfa-final-report-info-sheet-statutory-procedures/)** — `2026-06-23` | `2 Pages`
 
 ### [Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/) | [RSS Feed](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/feed/)
@@ -1420,6 +1421,15 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/aestra/](https
 - `[`AU-GBRMPA-11017-4174`]` **[Bimi vegetation assessment (supplementary island threat assessment)](https://www.indexdata.org/bimi-vegetation-assessment-supplementary-island-threat-assessment/)** — `2026-01-01` | `34 Pages`
 - `[`AU-GBRMPA-11017-4172`]` **[Ecological Assessment for BAJIGAL (Stephens Island)](https://www.indexdata.org/ecological-assessment-for-bajigal-stephens-island/)** — `2026-01-01` | `112 Pages`
 
+### [Commonwealth Scientific and Industrial Research Organisation](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/) | [RSS Feed](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/feed/)
+
+- `[`AU-ZEN-18164101`]` **[GBADs Technical Guide](https://www.indexdata.org/gbads-technical-guide/)** — `2026-11-17` | `145 Pages`
+- `[`AU-ZEN-24125566`]` **[Co-Design with Stakeholders](https://www.indexdata.org/co-design-with-stakeholders/)** — `2026-11-11` | `5 Pages`
+- `[`AU-ZEN-21127038`]` **[NatureStates: Hummock grasslands](https://www.indexdata.org/naturestates-hummock-grasslands/)** — `2026-11-09` | `16 Pages`
+- `[`AU-ZEN-21126933`]` **[NatureStates: Mallee woodlands and shrublands](https://www.indexdata.org/naturestates-mallee-woodlands-and-shrublands/)** — `2026-11-09` | `24 Pages`
+- `[`AU-ZEN-21126857`]` **[NatureStates: Eucalypt woodlands](https://www.indexdata.org/naturestates-eucalypt-woodlands/)** — `2026-11-09` | `34 Pages`
+
 ### [Northern Territory — Health](https://www.indexdata.org/australia/northern-territory-health/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-health/](https://www.indexdata.org/australia/northern-territory-health/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-health/feed/)
 
@@ -1445,14 +1455,6 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/bureau-of-mete
 - `[`AU-ZEN-18775782`]` **[Best Practice for Using the CMIP Rapid Evaluation Framework Output](https://www.indexdata.org/best-practice-for-using-the-cmip-rapid-evaluation-framework-output/)** — `2026-03-07` | `15 Pages`
 - `[`AU-ZEN-15017793`]` **[Advanced PSyclone Training for HPC Experts](https://www.indexdata.org/advanced-psyclone-training-for-hpc-experts/)** — `2025-03-13` | `182 Pages`
 - `[`AU-ZEN-10157756`]` **[Climate Change in the Pacific 2022: Historical and Recent Variability, Extremes and Change](https://www.indexdata.org/climate-change-in-the-pacific-2022-historical-and-recent-variability-extremes-and-change/)** — `2022-12-31` | `220 Pages`
-
-### [Commonwealth Scientific and Industrial Research Organisation](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/) | [RSS Feed](https://www.indexdata.org/australia/commonwealth-scientific-and-industrial-research-organisation/feed/)
-
-- `[`AU-ZEN-24125566`]` **[Co-Design with Stakeholders](https://www.indexdata.org/co-design-with-stakeholders/)** — `2026-11-11` | `5 Pages`
-- `[`AU-ZEN-21127038`]` **[NatureStates: Hummock grasslands](https://www.indexdata.org/naturestates-hummock-grasslands/)** — `2026-11-09` | `16 Pages`
-- `[`AU-ZEN-21126933`]` **[NatureStates: Mallee woodlands and shrublands](https://www.indexdata.org/naturestates-mallee-woodlands-and-shrublands/)** — `2026-11-09` | `24 Pages`
-- `[`AU-ZEN-21126857`]` **[NatureStates: Eucalypt woodlands](https://www.indexdata.org/naturestates-eucalypt-woodlands/)** — `2026-11-09` | `34 Pages`
 
 ### [Northern Territory — Corrections](https://www.indexdata.org/australia/northern-territory-corrections/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-corrections/](https://www.indexdata.org/australia/northern-territory-corrections/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-corrections/feed/)
