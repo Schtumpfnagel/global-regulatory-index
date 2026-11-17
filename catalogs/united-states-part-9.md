@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,456` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,461` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 17:00 UTC`
+**Last Automated Sync:** `2026-11-17 17:55 UTC`
 
 ---
 
@@ -69,13 +69,13 @@
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 - **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
@@ -254,11 +254,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,456)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,461)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-04579`]` **[Airworthiness Directives; Austro Engine GmbH Engines](https://www.indexdata.org/airworthiness-directives-austro-engine-gmbh-engines-4/)** — `2024-03-05` | `4 Pages`
+- `[`2024-04557`]` **[Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc-airplanes-31/)** — `2024-03-05` | `6 Pages`
+- `[`2024-04556`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-77/)** — `2024-03-05` | `3 Pages`
 - `[`2024-04589`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters-21/)** — `2024-03-04` | `4 Pages`
 - `[`2024-04476`]` **[Modification of Class D Airspace & Establishment of Class E Airspace; Camp Pohakuloa, HI](https://www.indexdata.org/modification-of-class-d-airspace-camp-pohakuloa-hi/)** — `2024-03-04` | `2 Pages`
 - `[`2024-04470`]` **[Amendment of United States Area Navigation (RNAV) Routes; Eastern United States](https://www.indexdata.org/amendment-of-united-states-area-navigation-rnav-routes-eastern-united-states/)** — `2024-03-04` | `3 Pages`
@@ -996,6 +999,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2024-04586`]` **[Strengthening the Ability of Consumers To Stop Robocalls](https://www.indexdata.org/strengthening-the-ability-of-consumers-to-stop-robocalls/)** — `2024-03-05` | `5 Pages`
 - `[`2024-04405`]` **[Radio Broadcasting Services; Lihue and Princeville, Hawaii](https://www.indexdata.org/radio-broadcasting-services-lihue-and-princeville-hawaii/)** — `2024-03-04` | `2 Pages`
 - `[`2024-04402`]` **[Radio Broadcasting Services; Puhi and Kekaha, Hawaii](https://www.indexdata.org/radio-broadcasting-services-puhi-and-kekaha-hawaii/)** — `2024-03-04` | `2 Pages`
 - `[`2024-03957`]` **[Targeting and Eliminating Unlawful Text Messages, Implementation of the Telephone Consumer Protection Act of 1991](https://www.indexdata.org/targeting-and-eliminating-unlawful-text-messages-implementation-of-the-telephone-consumer-protection-act-of-1991/)** — `2024-03-01` | `2 Pages`
@@ -1072,8 +1076,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2023-23738`]` **[Wireless Telecommunications Bureau Seeks To Refresh the Record in 70/80/90 GHz Bands Proceeding](https://www.indexdata.org/wireless-telecommunications-bureau-seeks-to-refresh-the-record-in-70-80-90-ghz-bands-proceeding/)** — `2023-10-30` | `2 Pages`
 - `[`2023-23760`]` **[Video Description: Implementation of the Twenty-First Century Communications and Video Accessibility Act of 2010](https://www.indexdata.org/video-description-implementation-of-the-twenty-first-century-communications-and-video-accessibility-act-of-2010/)** — `2023-10-27` | `5 Pages`
 - `[`2023-23663`]` **[Television Broadcasting Services Alamogordo, New Mexico](https://www.indexdata.org/television-broadcasting-services-alamogordo-new-mexico-2/)** — `2023-10-26` | `2 Pages`
-- `[`2023-23468`]` **[Television Broadcasting Services Tulare, California](https://www.indexdata.org/television-broadcasting-services-tulare-california/)** — `2023-10-26` | `2 Pages`
-- `[`2023-23415`]` **[Empowering Broadband Consumers Through Transparency](https://www.indexdata.org/empowering-broadband-consumers-through-transparency-2/)** — `2023-10-26` | `2 Pages`
 
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
@@ -1142,6 +1144,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 
+- `[`2024-04583`]` **[National Wildlife Refuge System; Biological Integrity, Diversity, and Environmental Health; Extension of Comment Period](https://www.indexdata.org/national-wildlife-refuge-system-biological-integrity-diversity-and-environmental-health-extension-of-comment-period/)** — `2024-03-05` | `2 Pages`
 - `[`2024-04278`]` **[Endangered and Threatened Wildlife and Plants; Removal of Chrysopsis floridana (Florida Golden Aster) From the Federal List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-chrysopsis-floridana-florida-golden-aster-from-the-federal-list-of-endangered-and-threatened-plants/)** — `2024-03-05` | `17 Pages`
 - `[`2024-03042`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Silverspot Butterfly](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-the-silverspot-butterfly/)** — `2024-02-15` | `23 Pages`
 - `[`2024-02182`]` **[Permits for Incidental Take of Eagles and Eagle Nests](https://www.indexdata.org/permits-for-incidental-take-of-eagles-and-eagle-nests/)** — `2024-02-12` | `46 Pages`
@@ -1197,7 +1200,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2023-24649`]` **[Income and Currency Gain or Loss With Respect to a Qualified Business Unit](https://www.indexdata.org/income-and-currency-gain-or-loss-with-respect-to-a-qualified-business-unit/)** — `2023-11-14` | `77 Pages`
 - `[`2023-24608`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-2/)** — `2023-11-07` | `2 Pages`
 - `[`2023-23716`]` **[Federal Independent Dispute Resolution Operations](https://www.indexdata.org/federal-independent-dispute-resolution-operations-2/)** — `2023-11-03` | `145 Pages`
-- `[`2023-23624`]` **[Gross Proceeds and Basis Reporting by Brokers and Determination of Amount Realized and Basis for Digital Asset Transactions](https://www.indexdata.org/gross-proceeds-and-basis-reporting-by-brokers-and-determination-of-amount-realized-and-basis-for-digital-asset-transactions-3/)** — `2023-10-25` | `2 Pages`
 
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
@@ -1227,33 +1229,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2023-24084`]` **[Revocation of Authorization for Use of Brominated Vegetable Oil in Food](https://www.indexdata.org/revocation-of-authorization-for-use-of-brominated-vegetable-oil-in-food-2/)** — `2023-11-03` | `6 Pages`
 - `[`2023-24086`]` **[Prior Notice: Adding Requirement To Submit Mail Tracking Number for Articles of Food Arriving by International Mail and Timeframe for Post-Refusal and Post-Hold Submissions](https://www.indexdata.org/prior-notice-adding-requirement-to-submit-mail-tracking-number-for-articles-of-food-arriving-by-international-mail-and-timeframe-for-post-refusal-and-post-hold-submissions-2/)** — `2023-11-01` | `9 Pages`
 
-### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
-
-- `[`2024-03876`]` **[Clean Energy for New Federal Buildings and Major Renovations of Federal Buildings; Correction](https://www.indexdata.org/clean-energy-for-new-federal-buildings-and-major-renovations-of-federal-buildings-correction/)** — `2024-02-26` | `2 Pages`
-- `[`2024-02008`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products-4/)** — `2024-02-14` | `114 Pages`
-- `[`2024-02007`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products-3/)** — `2024-02-14` | `16 Pages`
-- `[`2024-00452`]` **[Fall 2023 Unified Agenda of Regulatory and Deregulatory Actions](https://www.indexdata.org/fall-2023-unified-agenda-of-regulatory-and-deregulatory-actions-2/)** — `2024-02-09` | `5 Pages`
-- `[`2024-01874`]` **[Procedures for Determining Eligibility for Access to Classified Matter or Special Nuclear Material](https://www.indexdata.org/procedures-for-determining-eligibility-for-access-to-classified-matter-or-special-nuclear-material-2/)** — `2024-01-31` | `7 Pages`
-- `[`2023-28976`]` **[Energy Conservation Program: Energy Conservation Standards for Fans and Blowers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-fans-and-blowers/)** — `2024-01-19` | `162 Pages`
-- `[`2023-28978`]` **[Energy Conservation Program: Energy Conservation Standards for Refrigerators, Refrigerator-Freezers, and Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-refrigerators-refrigerator-freezers-and-freezers-3/)** — `2024-01-17` | `91 Pages`
-- `[`2023-28977`]` **[Energy Conservation Program: Energy Conservation Standards for Refrigerators, Refrigerator-Freezers, and Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-refrigerators-refrigerator-freezers-and-freezers-2/)** — `2024-01-17` | `24 Pages`
-- `[`2023-28828`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-9/)** — `2024-01-09` | `5 Pages`
-- `[`2024-00153`]` **[Civil Nuclear Credit Program and Recapture of Credits](https://www.indexdata.org/civil-nuclear-credit-program-and-recapture-of-credits-2/)** — `2024-01-08` | `9 Pages`
-- `[`2023-28556`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Water Heaters](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-water-heaters-3/)** — `2023-12-27` | `10 Pages`
-- `[`2023-27182`]` **[Energy Conservation Program: Energy Conservation Standards for Manufactured Housing; Enforcement](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-manufactured-housing-enforcement/)** — `2023-12-26` | `11 Pages`
-- `[`2023-27616`]` **[Social Security Number Fraud Prevention Act](https://www.indexdata.org/social-security-number-fraud-prevention-act/)** — `2023-12-18` | `5 Pages`
-- `[`2023-25514`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Furnaces](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-furnaces/)** — `2023-12-18` | `148 Pages`
-- `[`2023-27615`]` **[Worker Safety and Health Program](https://www.indexdata.org/worker-safety-and-health-program/)** — `2023-12-15` | `6 Pages`
-- `[`2023-26531`]` **[Energy Conservation Program: Energy Conservation Standards for Expanded Scope Electric Motors](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-expanded-scope-electric-motors/)** — `2023-12-15` | `92 Pages`
-- `[`2023-26479`]` **[Interpretation of Foreign Entity of Concern](https://www.indexdata.org/interpretation-of-foreign-entity-of-concern-2/)** — `2023-12-04` | `8 Pages`
-- `[`2023-25921`]` **[Energy Conservation Program: Test Procedure for Water-Source Heat Pumps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-water-source-heat-pumps/)** — `2023-12-04` | `45 Pages`
-- `[`2023-25869`]` **[Energy Conservation Program: Energy Conservation Standards for Oil, Electric, and Weatherized Gas Consumer Furnaces](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-oil-electric-and-weatherized-gas-consumer-furnaces-2/)** — `2023-11-29` | `38 Pages`
-- `[`2023-25982`]` **[Privacy Act of 1974: Implementation of Exemptions](https://www.indexdata.org/privacy-act-of-1974-implementation-of-exemptions-6/)** — `2023-11-27` | `5 Pages`
-- `[`2023-25923`]` **[Organizational Changes in Certain Department of Energy Health, Safety, and Security Regulations; Correction](https://www.indexdata.org/organizational-changes-in-certain-department-of-energy-health-safety-and-security-regulations-correction/)** — `2023-11-24` | `2 Pages`
-- `[`2023-24106`]` **[Energy Conservation Program: Energy Conservation Standards for Dehumidifiers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dehumidifiers/)** — `2023-11-06` | `64 Pages`
-- `[`2023-16875`]` **[Department of Energy Acquisition Regulation (DEAR)](https://www.indexdata.org/department-of-energy-acquisition-regulation-dear-2/)** — `2023-10-26` | `106 Pages`
-
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
 
@@ -1280,6 +1255,32 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 - `[`2023-23796`]` **[Draft Regulatory Guide: Suspicious Activity Reports](https://www.indexdata.org/draft-regulatory-guide-suspicious-activity-reports/)** — `2023-10-27` | `2 Pages`
 - `[`2023-23794`]` **[Draft Regulatory Guide: Physical Security Event Notifications, Reports, and Records](https://www.indexdata.org/draft-regulatory-guide-physical-security-event-notifications-reports-and-records/)** — `2023-10-27` | `2 Pages`
 - `[`2023-23701`]` **[Rubidium-82 Generators, Emerging Technologies, and Other Medical Use of Byproduct Material; Extension of Comment Period](https://www.indexdata.org/rubidium-82-generators-emerging-technologies-and-other-medical-use-of-byproduct-material-extension-of-comment-period/)** — `2023-10-27` | `2 Pages`
+
+### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
+
+- `[`2024-03876`]` **[Clean Energy for New Federal Buildings and Major Renovations of Federal Buildings; Correction](https://www.indexdata.org/clean-energy-for-new-federal-buildings-and-major-renovations-of-federal-buildings-correction/)** — `2024-02-26` | `2 Pages`
+- `[`2024-02008`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products-4/)** — `2024-02-14` | `114 Pages`
+- `[`2024-02007`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products-3/)** — `2024-02-14` | `16 Pages`
+- `[`2024-00452`]` **[Fall 2023 Unified Agenda of Regulatory and Deregulatory Actions](https://www.indexdata.org/fall-2023-unified-agenda-of-regulatory-and-deregulatory-actions-2/)** — `2024-02-09` | `5 Pages`
+- `[`2024-01874`]` **[Procedures for Determining Eligibility for Access to Classified Matter or Special Nuclear Material](https://www.indexdata.org/procedures-for-determining-eligibility-for-access-to-classified-matter-or-special-nuclear-material-2/)** — `2024-01-31` | `7 Pages`
+- `[`2023-28976`]` **[Energy Conservation Program: Energy Conservation Standards for Fans and Blowers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-fans-and-blowers/)** — `2024-01-19` | `162 Pages`
+- `[`2023-28978`]` **[Energy Conservation Program: Energy Conservation Standards for Refrigerators, Refrigerator-Freezers, and Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-refrigerators-refrigerator-freezers-and-freezers-3/)** — `2024-01-17` | `91 Pages`
+- `[`2023-28977`]` **[Energy Conservation Program: Energy Conservation Standards for Refrigerators, Refrigerator-Freezers, and Freezers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-refrigerators-refrigerator-freezers-and-freezers-2/)** — `2024-01-17` | `24 Pages`
+- `[`2023-28828`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-9/)** — `2024-01-09` | `5 Pages`
+- `[`2024-00153`]` **[Civil Nuclear Credit Program and Recapture of Credits](https://www.indexdata.org/civil-nuclear-credit-program-and-recapture-of-credits-2/)** — `2024-01-08` | `9 Pages`
+- `[`2023-28556`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Water Heaters](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-water-heaters-3/)** — `2023-12-27` | `10 Pages`
+- `[`2023-27182`]` **[Energy Conservation Program: Energy Conservation Standards for Manufactured Housing; Enforcement](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-manufactured-housing-enforcement/)** — `2023-12-26` | `11 Pages`
+- `[`2023-27616`]` **[Social Security Number Fraud Prevention Act](https://www.indexdata.org/social-security-number-fraud-prevention-act/)** — `2023-12-18` | `5 Pages`
+- `[`2023-25514`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Furnaces](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-furnaces/)** — `2023-12-18` | `148 Pages`
+- `[`2023-27615`]` **[Worker Safety and Health Program](https://www.indexdata.org/worker-safety-and-health-program/)** — `2023-12-15` | `6 Pages`
+- `[`2023-26531`]` **[Energy Conservation Program: Energy Conservation Standards for Expanded Scope Electric Motors](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-expanded-scope-electric-motors/)** — `2023-12-15` | `92 Pages`
+- `[`2023-26479`]` **[Interpretation of Foreign Entity of Concern](https://www.indexdata.org/interpretation-of-foreign-entity-of-concern-2/)** — `2023-12-04` | `8 Pages`
+- `[`2023-25921`]` **[Energy Conservation Program: Test Procedure for Water-Source Heat Pumps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-water-source-heat-pumps/)** — `2023-12-04` | `45 Pages`
+- `[`2023-25869`]` **[Energy Conservation Program: Energy Conservation Standards for Oil, Electric, and Weatherized Gas Consumer Furnaces](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-oil-electric-and-weatherized-gas-consumer-furnaces-2/)** — `2023-11-29` | `38 Pages`
+- `[`2023-25982`]` **[Privacy Act of 1974: Implementation of Exemptions](https://www.indexdata.org/privacy-act-of-1974-implementation-of-exemptions-6/)** — `2023-11-27` | `5 Pages`
+- `[`2023-25923`]` **[Organizational Changes in Certain Department of Energy Health, Safety, and Security Regulations; Correction](https://www.indexdata.org/organizational-changes-in-certain-department-of-energy-health-safety-and-security-regulations-correction/)** — `2023-11-24` | `2 Pages`
+- `[`2023-24106`]` **[Energy Conservation Program: Energy Conservation Standards for Dehumidifiers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dehumidifiers/)** — `2023-11-06` | `64 Pages`
 
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
@@ -1432,24 +1433,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2023-23918`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General License 73](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-license-73/)** — `2023-11-07` | `2 Pages`
 - `[`2023-24332`]` **[Publication of Nicaragua Sanctions Regulations Web General Licenses 1, 2, and 2A](https://www.indexdata.org/publication-of-nicaragua-sanctions-regulations-web-general-licenses-1-2-and-2a/)** — `2023-11-03` | `2 Pages`
 
-### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
-
-- `[`2024-02562`]` **[Notice of Availability of Updated ASTM Standard Under the Portable Fuel Container Safety Act](https://www.indexdata.org/notice-of-availability-of-updated-astm-standard-under-the-portable-fuel-container-safety-act/)** — `2024-02-09` | `2 Pages`
-- `[`2024-00465`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-8/)** — `2024-02-09` | `3 Pages`
-- `[`2024-02570`]` **[Safety Standard Addressing Blade-Contact Injuries on Table Saws; Notice of Opportunity for Oral Presentations](https://www.indexdata.org/safety-standard-addressing-blade-contact-injuries-on-table-saws-notice-of-opportunity-for-oral-presentations/)** — `2024-02-08` | `2 Pages`
-- `[`2024-02563`]` **[Safety Standard for Residential Gas Furnaces and Boilers; Notice of Opportunity for Oral Presentations](https://www.indexdata.org/safety-standard-for-residential-gas-furnaces-and-boilers-notice-of-opportunity-for-oral-presentations/)** — `2024-02-08` | `2 Pages`
-- `[`2024-01235`]` **[Petition Requesting Rulemaking To Amend the Requirement for a “Keep Out of Reach” Icon on Button Cell or Coin Battery Packaging](https://www.indexdata.org/petition-requesting-rulemaking-to-amend-the-requirement-for-a-keep-out-of-reach-icon-on-button-cell-or-coin-battery-packaging/)** — `2024-01-29` | `2 Pages`
-- `[`2024-01309`]` **[Standard for All-Terrain Vehicles](https://www.indexdata.org/standard-for-all-terrain-vehicles/)** — `2024-01-23` | `8 Pages`
-- `[`2024-00741`]` **[Safety Standard Mandating ASTM F963 for Toys](https://www.indexdata.org/safety-standard-mandating-astm-f963-for-toys/)** — `2024-01-18` | `8 Pages`
-- `[`2023-27324`]` **[Safety Standard for Infant Support Cushions](https://www.indexdata.org/safety-standard-for-infant-support-cushions-2/)** — `2024-01-16` | `25 Pages`
-- `[`2023-27133`]` **[Safety Standard Addressing Blade-Contact Injuries on Table Saws; Notice of Extension of Comment Period](https://www.indexdata.org/safety-standard-addressing-blade-contact-injuries-on-table-saws-notice-of-extension-of-comment-period/)** — `2023-12-11` | `2 Pages`
-- `[`2023-27128`]` **[Safety Standard for Residential Gas Furnaces and Boilers; Notice of Extension of Comment Period](https://www.indexdata.org/safety-standard-for-residential-gas-furnaces-and-boilers-notice-of-extension-of-comment-period/)** — `2023-12-11` | `2 Pages`
-- `[`2023-25911`]` **[Certificates of Compliance](https://www.indexdata.org/certificates-of-compliance-2/)** — `2023-12-08` | `32 Pages`
-- `[`2023-23898`]` **[Safety Standard Addressing Blade-Contact Injuries on Table Saws](https://www.indexdata.org/safety-standard-addressing-blade-contact-injuries-on-table-saws/)** — `2023-11-01` | `31 Pages`
-- `[`2023-23655`]` **[Portable Fuel Container Safety Act Regulation](https://www.indexdata.org/portable-fuel-container-safety-act-regulation-2/)** — `2023-10-31` | `6 Pages`
-- `[`2023-23322`]` **[Safety Standard for Infant and Infant/Toddler Rockers](https://www.indexdata.org/safety-standard-for-infant-and-infant-toddler-rockers/)** — `2023-10-26` | `21 Pages`
-
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
 
@@ -1502,6 +1485,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2023-25048`]` **[Truth in Lending (Regulation Z)](https://www.indexdata.org/truth-in-lending-regulation-z-3/)** — `2023-11-29` | `8 Pages`
 - `[`2023-24978`]` **[Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications](https://www.indexdata.org/defining-larger-participants-of-a-market-for-general-use-digital-consumer-payment-applications-2/)** — `2023-11-17` | `20 Pages`
 - `[`2023-23576`]` **[Required Rulemaking on Personal Financial Data Rights](https://www.indexdata.org/required-rulemaking-on-personal-financial-data-rights-2/)** — `2023-10-31` | `80 Pages`
+
+### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
+
+- `[`2024-02562`]` **[Notice of Availability of Updated ASTM Standard Under the Portable Fuel Container Safety Act](https://www.indexdata.org/notice-of-availability-of-updated-astm-standard-under-the-portable-fuel-container-safety-act/)** — `2024-02-09` | `2 Pages`
+- `[`2024-00465`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-8/)** — `2024-02-09` | `3 Pages`
+- `[`2024-02570`]` **[Safety Standard Addressing Blade-Contact Injuries on Table Saws; Notice of Opportunity for Oral Presentations](https://www.indexdata.org/safety-standard-addressing-blade-contact-injuries-on-table-saws-notice-of-opportunity-for-oral-presentations/)** — `2024-02-08` | `2 Pages`
+- `[`2024-02563`]` **[Safety Standard for Residential Gas Furnaces and Boilers; Notice of Opportunity for Oral Presentations](https://www.indexdata.org/safety-standard-for-residential-gas-furnaces-and-boilers-notice-of-opportunity-for-oral-presentations/)** — `2024-02-08` | `2 Pages`
+- `[`2024-01235`]` **[Petition Requesting Rulemaking To Amend the Requirement for a “Keep Out of Reach” Icon on Button Cell or Coin Battery Packaging](https://www.indexdata.org/petition-requesting-rulemaking-to-amend-the-requirement-for-a-keep-out-of-reach-icon-on-button-cell-or-coin-battery-packaging/)** — `2024-01-29` | `2 Pages`
+- `[`2024-01309`]` **[Standard for All-Terrain Vehicles](https://www.indexdata.org/standard-for-all-terrain-vehicles/)** — `2024-01-23` | `8 Pages`
+- `[`2024-00741`]` **[Safety Standard Mandating ASTM F963 for Toys](https://www.indexdata.org/safety-standard-mandating-astm-f963-for-toys/)** — `2024-01-18` | `8 Pages`
+- `[`2023-27324`]` **[Safety Standard for Infant Support Cushions](https://www.indexdata.org/safety-standard-for-infant-support-cushions-2/)** — `2024-01-16` | `25 Pages`
+- `[`2023-27133`]` **[Safety Standard Addressing Blade-Contact Injuries on Table Saws; Notice of Extension of Comment Period](https://www.indexdata.org/safety-standard-addressing-blade-contact-injuries-on-table-saws-notice-of-extension-of-comment-period/)** — `2023-12-11` | `2 Pages`
+- `[`2023-27128`]` **[Safety Standard for Residential Gas Furnaces and Boilers; Notice of Extension of Comment Period](https://www.indexdata.org/safety-standard-for-residential-gas-furnaces-and-boilers-notice-of-extension-of-comment-period/)** — `2023-12-11` | `2 Pages`
+- `[`2023-25911`]` **[Certificates of Compliance](https://www.indexdata.org/certificates-of-compliance-2/)** — `2023-12-08` | `32 Pages`
+- `[`2023-23898`]` **[Safety Standard Addressing Blade-Contact Injuries on Table Saws](https://www.indexdata.org/safety-standard-addressing-blade-contact-injuries-on-table-saws/)** — `2023-11-01` | `31 Pages`
+- `[`2023-23655`]` **[Portable Fuel Container Safety Act Regulation](https://www.indexdata.org/portable-fuel-container-safety-act-regulation-2/)** — `2023-10-31` | `6 Pages`
 
 ### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
