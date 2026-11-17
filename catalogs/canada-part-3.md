@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,382` across `32` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,383` across `33` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | **[Part 3 (Current)]** | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-17 00:55 UTC`
+**Last Automated Sync:** `2026-11-17 01:59 UTC`
 
 ---
 
-## Issuing Authorities in Canada (32 Authorities)
+## Issuing Authorities in Canada (33 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -43,16 +43,18 @@
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
 - **[Government of Quebec — Ministry of Ministère des Ressources naturelles et des Forêts](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/) | [RSS Feed](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/feed/)
+- **[Minister of Veterans Affairs](https://www.indexdata.org/canada/minister-of-veterans-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/minister-of-veterans-affairs/) | [RSS Feed](https://www.indexdata.org/canada/minister-of-veterans-affairs/feed/)
 - **[Office of the Superintendent of Financial Institutions](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/feed/)
 - **[Office of the Superintendent of Financial Institutions Canada](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,382)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,383)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`SOR-2001-527`]` **[Canada Small Business Financing (Establishment and Operation of Capital Leasing Pilot Project) Regulations](https://www.indexdata.org/canada-small-business-financing-establishment-and-operation-of-capital-leasing-pilot-project-regulations/)** — `2026-09-30` | `33 Pages`
 - `[`SOR-2001-520`]` **[Canada Industrial Relations Board Regulations, 2012](https://www.indexdata.org/canada-industrial-relations-board-regulations-2012/)** — `2026-09-30` | `29 Pages`
 - `[`SOR-2001-493`]` **[Property Assessment and Taxation (Railway Right-of-Way) Regulations](https://www.indexdata.org/property-assessment-and-taxation-railway-right-of-way-regulations/)** — `2026-09-30` | `13 Pages`
 - `[`SOR-2001-484`]` **[Supervisory Information (Insurance Holding Companies) Regulations](https://www.indexdata.org/supervisory-information-insurance-holding-companies-regulations/)** — `2026-09-30` | `6 Pages`
@@ -1580,17 +1582,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/innovation-scienc
 - `[`SI-2022-11`]` **[Remission Order for Certain Fees Under the Bankruptcy and Insolvency General Rules from March 31 to August 31, 2020](https://www.indexdata.org/remission-order-for-certain-fees-under-the-bankruptcy-and-insolvency-general-rules-from-march-31-to-august-31-2020/)** — `2026-09-30` | `4 Pages`
 - `[`R-2`]` **[Radiocommunication Act](https://www.indexdata.org/radiocommunication-act/)** — `2026-09-30` | `39 Pages`
 
-### [Public Safety Canada](https://www.indexdata.org/canada/public-safety-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/public-safety-canada/](https://www.indexdata.org/canada/public-safety-canada/) | [RSS Feed](https://www.indexdata.org/canada/public-safety-canada/feed/)
-
-- `[`SI-2024-51`]` **[National Security and Intelligence Review Agency Act Deputy Heads of the Federal Public Administration Order](https://www.indexdata.org/national-security-and-intelligence-review-agency-act-deputy-heads-of-the-federal-public-administration-order/)** — `2026-09-30` | `17 Pages`
-- `[`SI-2023-7`]` **[Interest on Debts for Services Rendered by the Royal Canadian Mounted Police Remission Order](https://www.indexdata.org/interest-on-debts-for-services-rendered-by-the-royal-canadian-mounted-police-remission-order/)** — `2026-09-30` | `4 Pages`
-- `[`SI-2006-80`]` **[Order Transferring from the Canadian Firearms Centre to the Royal Canadian Mounted Police the Control and Supervision of the Canadian Firearms Centre](https://www.indexdata.org/order-transferring-from-the-canadian-firearms-centre-to-the-royal-canadian-mounted-police-the-control-and-supervision-of-the-canadian-firearms-centre/)** — `2026-09-30` | `4 Pages`
-- `[`SI-2006-79`]` **[Firearms Fees Remission Order (Licenses)](https://www.indexdata.org/firearms-fees-remission-order-licenses/)** — `2026-09-30` | `6 Pages`
-- `[`SI-2003-229`]` **[Order Transferring from the Department of National Defence to the Department of the Solicitor General the Control and Supervision of the Office of Critical Infrastructure Protection and Emergency Preparedness](https://www.indexdata.org/order-transferring-from-the-department-of-national-defence-to-the-department-of-the-solicitor-general-the-control-and-supervision-of-the-office-of-critical-infrastructure-protection-and-emergency-prep/)** — `2026-09-30` | `4 Pages`
-- `[`SI-2001-99`]` **[Firearms Fees Remission Order (Registration Certificate)](https://www.indexdata.org/firearms-fees-remission-order-registration-certificate/)** — `2026-09-30` | `5 Pages`
-- `[`R-11`]` **[Royal Canadian Mounted Police Superannuation Act](https://www.indexdata.org/royal-canadian-mounted-police-superannuation-act/)** — `2026-09-30` | `92 Pages`
-
 ### [Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-national-defence/](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
 
@@ -1600,6 +1591,16 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-nat
 - `[`SI-2007-87`]` **[Testing of Unregistered US Military Herbicides, including Agent Orange, at CFB Gagetown Ex Gratia Payments Order](https://www.indexdata.org/testing-of-unregistered-us-military-herbicides-including-agent-orange-at-cfb-gagetown-ex-gratia-payments-order/)** — `2026-09-30` | `7 Pages`
 - `[`SI-2006-4`]` **[Order Designating the Position of Deputy Minister of National Defence to the Position of Deputy Head in Respect of the Communications Security Establishment](https://www.indexdata.org/order-designating-the-position-of-deputy-minister-of-national-defence-to-the-position-of-deputy-head-in-respect-of-the-communications-security-establishment/)** — `2026-09-30` | `3 Pages`
 - `[`SI-2003-93`]` **[Order Authorizing the Minister of the Environment to Exercise, with the Concurrence of the Minister of National Defence, the Administration of Certain Public Lands](https://www.indexdata.org/order-authorizing-the-minister-of-the-environment-to-exercise-with-the-concurrence-of-the-minister-of-national-defence-the-administration-of-certain-public-lands/)** — `2026-09-30` | `5 Pages`
+
+### [Public Safety Canada](https://www.indexdata.org/canada/public-safety-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/public-safety-canada/](https://www.indexdata.org/canada/public-safety-canada/) | [RSS Feed](https://www.indexdata.org/canada/public-safety-canada/feed/)
+
+- `[`SI-2024-51`]` **[National Security and Intelligence Review Agency Act Deputy Heads of the Federal Public Administration Order](https://www.indexdata.org/national-security-and-intelligence-review-agency-act-deputy-heads-of-the-federal-public-administration-order/)** — `2026-09-30` | `17 Pages`
+- `[`SI-2023-7`]` **[Interest on Debts for Services Rendered by the Royal Canadian Mounted Police Remission Order](https://www.indexdata.org/interest-on-debts-for-services-rendered-by-the-royal-canadian-mounted-police-remission-order/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2006-80`]` **[Order Transferring from the Canadian Firearms Centre to the Royal Canadian Mounted Police the Control and Supervision of the Canadian Firearms Centre](https://www.indexdata.org/order-transferring-from-the-canadian-firearms-centre-to-the-royal-canadian-mounted-police-the-control-and-supervision-of-the-canadian-firearms-centre/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2006-79`]` **[Firearms Fees Remission Order (Licenses)](https://www.indexdata.org/firearms-fees-remission-order-licenses/)** — `2026-09-30` | `6 Pages`
+- `[`SI-2003-229`]` **[Order Transferring from the Department of National Defence to the Department of the Solicitor General the Control and Supervision of the Office of Critical Infrastructure Protection and Emergency Preparedness](https://www.indexdata.org/order-transferring-from-the-department-of-national-defence-to-the-department-of-the-solicitor-general-the-control-and-supervision-of-the-office-of-critical-infrastructure-protection-and-emergency-prep/)** — `2026-09-30` | `4 Pages`
+- `[`SI-2001-99`]` **[Firearms Fees Remission Order (Registration Certificate)](https://www.indexdata.org/firearms-fees-remission-order-registration-certificate/)** — `2026-09-30` | `5 Pages`
 
 ### [Governor in Council](https://www.indexdata.org/canada/governor-in-council/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/governor-in-council/](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)

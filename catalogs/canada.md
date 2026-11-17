@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,382` across `32` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,383` across `33` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-17 00:55 UTC`
+**Last Automated Sync:** `2026-11-17 01:59 UTC`
 
 ---
 
-## Issuing Authorities in Canada (32 Authorities)
+## Issuing Authorities in Canada (33 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -43,12 +43,13 @@
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
 - **[Government of Quebec — Ministry of Ministère des Ressources naturelles et des Forêts](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/) | [RSS Feed](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/feed/)
+- **[Minister of Veterans Affairs](https://www.indexdata.org/canada/minister-of-veterans-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/minister-of-veterans-affairs/) | [RSS Feed](https://www.indexdata.org/canada/minister-of-veterans-affairs/feed/)
 - **[Office of the Superintendent of Financial Institutions](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/feed/)
 - **[Office of the Superintendent of Financial Institutions Canada](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,382)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,383)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -965,7 +966,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-74-431`]` **[Teslin Exploration Limited Order](https://www.indexdata.org/teslin-exploration-limited-order/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-73-681`]` **[Foreign Claims (Czechoslovakia) Settlement Regulations](https://www.indexdata.org/foreign-claims-czechoslovakia-settlement-regulations/)** — `2026-09-30` | `9 Pages`
 - `[`SOR-73-558`]` **[Rosabel Jeanette Pryce Housing Regulations](https://www.indexdata.org/rosabel-jeanette-pryce-housing-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-72-91`]` **[Romania Claims Fund Regulations](https://www.indexdata.org/romania-claims-fund-regulations/)** — `2026-09-30` | `6 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1641,6 +1641,11 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-que
 Canonical Authority Archive: [https://www.indexdata.org/canada/governor-general-in-council/](https://www.indexdata.org/canada/governor-general-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-general-in-council/feed/)
 
 - `[`SOR-2026-204`]` **[Remission Order in Respect of Canadian Dental Care Plan Eligibility Issues](https://www.indexdata.org/remission-order-in-respect-of-canadian-dental-care-plan-eligibility-issues-2/)** — `2026-10-19` | `6 Pages`
+
+### [Minister of Veterans Affairs](https://www.indexdata.org/canada/minister-of-veterans-affairs/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/minister-of-veterans-affairs/](https://www.indexdata.org/canada/minister-of-veterans-affairs/) | [RSS Feed](https://www.indexdata.org/canada/minister-of-veterans-affairs/feed/)
+
+- `[`SOR-2026-226`]` **[Pensions and Allowances Annual Adjustment Regulations](https://www.indexdata.org/pensions-and-allowances-annual-adjustment-regulations/)** — `2026-10-29` | `6 Pages`
 
 ---
 

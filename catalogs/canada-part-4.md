@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,382` across `32` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,383` across `33` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-17 00:55 UTC`
+**Last Automated Sync:** `2026-11-17 01:59 UTC`
 
 ---
 
-## Issuing Authorities in Canada (32 Authorities)
+## Issuing Authorities in Canada (33 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -43,12 +43,13 @@
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
 - **[Government of Quebec — Ministry of Ministère des Ressources naturelles et des Forêts](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/) | [RSS Feed](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/feed/)
+- **[Minister of Veterans Affairs](https://www.indexdata.org/canada/minister-of-veterans-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/minister-of-veterans-affairs/) | [RSS Feed](https://www.indexdata.org/canada/minister-of-veterans-affairs/feed/)
 - **[Office of the Superintendent of Financial Institutions](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/feed/)
 - **[Office of the Superintendent of Financial Institutions Canada](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,382 of 5,382)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,383 of 5,383)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -946,6 +947,18 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/environment-and-c
 - `[`A-12`]` **[Arctic Waters Pollution Prevention Act](https://www.indexdata.org/arctic-waters-pollution-prevention-act/)** — `2026-09-30` | `25 Pages`
 - `[`CA-OPEN-fb7dd0e4-2feb-4fc1-96e7-aa626109f09c`]` **[Planning Map for Public EV Charging Infrastructure](https://www.indexdata.org/planning-map-for-public-ev-charging-infrastructure/)** — `2024-03-31` | `2 Pages`
 
+### [Public Safety Canada](https://www.indexdata.org/canada/public-safety-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/public-safety-canada/](https://www.indexdata.org/canada/public-safety-canada/) | [RSS Feed](https://www.indexdata.org/canada/public-safety-canada/feed/)
+
+- `[`R-11`]` **[Royal Canadian Mounted Police Superannuation Act](https://www.indexdata.org/royal-canadian-mounted-police-superannuation-act/)** — `2026-09-30` | `92 Pages`
+- `[`R-10`]` **[Royal Canadian Mounted Police Act](https://www.indexdata.org/royal-canadian-mounted-police-act/)** — `2026-09-30` | `136 Pages`
+- `[`N-16.62`]` **[National Security and Intelligence Review Agency Act](https://www.indexdata.org/national-security-and-intelligence-review-agency-act/)** — `2026-09-30` | `35 Pages`
+- `[`N-16.6`]` **[National Security and Intelligence Committee of Parliamentarians Act](https://www.indexdata.org/national-security-and-intelligence-committee-of-parliamentarians-act/)** — `2026-09-30` | `22 Pages`
+- `[`N-16.56`]` **[National Security Act, 2017](https://www.indexdata.org/national-security-act-2017/)** — `2026-09-30` | `33 Pages`
+- `[`F-11.6`]` **[Firearms Act](https://www.indexdata.org/firearms-act/)** — `2026-09-30` | `94 Pages`
+- `[`E-4.5`]` **[Emergencies Act](https://www.indexdata.org/emergencies-act/)** — `2026-09-30` | `42 Pages`
+- `[`C-44.6`]` **[Corrections and Conditional Release Act](https://www.indexdata.org/corrections-and-conditional-release-act/)** — `2026-09-30` | `209 Pages`
+
 ### [Employment and Social Development Canada](https://www.indexdata.org/canada/employment-and-social-development-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/employment-and-social-development-canada/](https://www.indexdata.org/canada/employment-and-social-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/employment-and-social-development-canada/feed/)
 
@@ -967,17 +980,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/immigration-refug
 - `[`C-29.4`]` **[Department of Citizenship and Immigration Act](https://www.indexdata.org/department-of-citizenship-and-immigration-act/)** — `2026-09-30` | `9 Pages`
 - `[`C-29`]` **[Citizenship Act](https://www.indexdata.org/citizenship-act/)** — `2026-09-30` | `72 Pages`
 - `[`C-1.4`]` **[Canada Border Services Agency Act](https://www.indexdata.org/canada-border-services-agency-act/)** — `2026-09-30` | `32 Pages`
-
-### [Public Safety Canada](https://www.indexdata.org/canada/public-safety-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/public-safety-canada/](https://www.indexdata.org/canada/public-safety-canada/) | [RSS Feed](https://www.indexdata.org/canada/public-safety-canada/feed/)
-
-- `[`R-10`]` **[Royal Canadian Mounted Police Act](https://www.indexdata.org/royal-canadian-mounted-police-act/)** — `2026-09-30` | `136 Pages`
-- `[`N-16.62`]` **[National Security and Intelligence Review Agency Act](https://www.indexdata.org/national-security-and-intelligence-review-agency-act/)** — `2026-09-30` | `35 Pages`
-- `[`N-16.6`]` **[National Security and Intelligence Committee of Parliamentarians Act](https://www.indexdata.org/national-security-and-intelligence-committee-of-parliamentarians-act/)** — `2026-09-30` | `22 Pages`
-- `[`N-16.56`]` **[National Security Act, 2017](https://www.indexdata.org/national-security-act-2017/)** — `2026-09-30` | `33 Pages`
-- `[`F-11.6`]` **[Firearms Act](https://www.indexdata.org/firearms-act/)** — `2026-09-30` | `94 Pages`
-- `[`E-4.5`]` **[Emergencies Act](https://www.indexdata.org/emergencies-act/)** — `2026-09-30` | `42 Pages`
-- `[`C-44.6`]` **[Corrections and Conditional Release Act](https://www.indexdata.org/corrections-and-conditional-release-act/)** — `2026-09-30` | `209 Pages`
 
 ### [Global Affairs Canada](https://www.indexdata.org/canada/global-affairs-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/global-affairs-canada/](https://www.indexdata.org/canada/global-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/global-affairs-canada/feed/)
