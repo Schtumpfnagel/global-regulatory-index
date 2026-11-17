@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,309` across `50` issuing authorities  
-**Last Automated Sync:** `2026-11-17 02:55 UTC`
+**Total Indexed Dossiers in Australia:** `1,310` across `51` issuing authorities  
+**Last Automated Sync:** `2026-11-17 04:00 UTC`
 
 ---
 
-## Issuing Authorities in Australia (50 Authorities)
+## Issuing Authorities in Australia (51 Authorities)
 
 - **[Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)** (`376` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
 - **[Attorney-General's Department](https://www.indexdata.org/australia/attorney-general-s-department/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.indexdata.org/australia/attorney-general-s-department/feed/)
@@ -60,12 +60,13 @@
 - **[Australian Research Council](https://www.indexdata.org/australia/australian-research-council/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-research-council/) | [RSS Feed](https://www.indexdata.org/australia/australian-research-council/feed/)
 - **[Government of South Australia](https://www.indexdata.org/australia/government-of-south-australia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/government-of-south-australia/) | [RSS Feed](https://www.indexdata.org/australia/government-of-south-australia/feed/)
 - **[Murray-Darling Basin Authority](https://www.indexdata.org/australia/murray-darling-basin-authority/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/murray-darling-basin-authority/) | [RSS Feed](https://www.indexdata.org/australia/murray-darling-basin-authority/feed/)
+- **[Northern Territory Government](https://www.indexdata.org/australia/northern-territory-government/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-government/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-government/feed/)
 - **[Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
 - **[SIP Register - OptiComm](https://www.indexdata.org/australia/sip-register-opticomm/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/sip-register-opticomm/) | [RSS Feed](https://www.indexdata.org/australia/sip-register-opticomm/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,309 of 1,309)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,310 of 1,310)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1565,6 +1566,11 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/government-of-
 Canonical Authority Archive: [https://www.indexdata.org/australia/murray-darling-basin-authority/](https://www.indexdata.org/australia/murray-darling-basin-authority/) | [RSS Feed](https://www.indexdata.org/australia/murray-darling-basin-authority/feed/)
 
 - `[`AU-DATA-cde1b241-608d-421d-82dd`]` **[River Murray Water Quality Monitoring Program — Metadata Statement - RMWQMP Physico-chemical](https://www.indexdata.org/river-murray-water-quality-monitoring-program-metadata-statement-rmwqmp-physico-chemical/)** — `2026-11-12` | `5 Pages`
+
+### [Northern Territory Government](https://www.indexdata.org/australia/northern-territory-government/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-government/](https://www.indexdata.org/australia/northern-territory-government/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-government/feed/)
+
+- `[`AU-NT-ec7f057c-de34-4912-b887-73fc9081af37`]` **[Current - NT Crime Statistics August 2026](https://www.indexdata.org/current-nt-crime-statistics-august-2026/)** — `2026-10-14` | `2 Pages`
 
 ### [Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
