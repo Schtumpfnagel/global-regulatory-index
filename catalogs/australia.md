@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,315` across `51` issuing authorities  
-**Last Automated Sync:** `2026-11-17 09:57 UTC`
+**Total Indexed Dossiers in Australia:** `1,319` across `53` issuing authorities  
+**Last Automated Sync:** `2026-11-17 10:55 UTC`
 
 ---
 
-## Issuing Authorities in Australia (51 Authorities)
+## Issuing Authorities in Australia (53 Authorities)
 
 - **[Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)** (`376` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
 - **[Attorney-General's Department](https://www.indexdata.org/australia/attorney-general-s-department/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/australia/attorney-general-s-department/) | [RSS Feed](https://www.indexdata.org/australia/attorney-general-s-department/feed/)
@@ -45,6 +45,7 @@
 - **[Northern Territory — Corrections](https://www.indexdata.org/australia/northern-territory-corrections/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-corrections/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-corrections/feed/)
 - **[Northern Territory — Logistics and Infrastructure](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-logistics-and-infrastructure/feed/)
 - **[Australian Antarctic Division](https://www.indexdata.org/australia/australian-antarctic-division/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-antarctic-division/) | [RSS Feed](https://www.indexdata.org/australia/australian-antarctic-division/feed/)
+- **[Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
 - **[Australian Institute of Marine Science](https://www.indexdata.org/australia/australian-institute-of-marine-science/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-institute-of-marine-science/) | [RSS Feed](https://www.indexdata.org/australia/australian-institute-of-marine-science/feed/)
 - **[Australian Radiation Protection and Nuclear Safety Agency](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/) | [RSS Feed](https://www.indexdata.org/australia/australian-radiation-protection-and-nuclear-safety-agency/feed/)
 - **[Geoscience Australia](https://www.indexdata.org/australia/geoscience-australia/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/geoscience-australia/) | [RSS Feed](https://www.indexdata.org/australia/geoscience-australia/feed/)
@@ -52,7 +53,7 @@
 - **[Housing, Local Government and Community Development](https://www.indexdata.org/australia/housing-local-government-and-community-development/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/housing-local-government-and-community-development/) | [RSS Feed](https://www.indexdata.org/australia/housing-local-government-and-community-development/feed/)
 - **[New South Wales — Department of Primary Industries](https://www.indexdata.org/australia/new-south-wales-department-of-primary-industries/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/new-south-wales-department-of-primary-industries/) | [RSS Feed](https://www.indexdata.org/australia/new-south-wales-department-of-primary-industries/feed/)
 - **[Northern Territory — Chief Minister and Cabinet](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/feed/)
-- **[Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
+- **[Victoria State Government](https://www.indexdata.org/australia/victoria-state-government/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-state-government/) | [RSS Feed](https://www.indexdata.org/australia/victoria-state-government/feed/)
 - **[Western Australia — Department of Primary Industries and Regional Development](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/) | [RSS Feed](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/feed/)
 - **[Australian Business Register](https://www.indexdata.org/australia/australian-business-register/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-business-register/) | [RSS Feed](https://www.indexdata.org/australia/australian-business-register/feed/)
 - **[Australian Human Rights Commission](https://www.indexdata.org/australia/australian-human-rights-commission/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-human-rights-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-human-rights-commission/feed/)
@@ -60,13 +61,14 @@
 - **[Australian Research Council](https://www.indexdata.org/australia/australian-research-council/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-research-council/) | [RSS Feed](https://www.indexdata.org/australia/australian-research-council/feed/)
 - **[Government of South Australia](https://www.indexdata.org/australia/government-of-south-australia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/government-of-south-australia/) | [RSS Feed](https://www.indexdata.org/australia/government-of-south-australia/feed/)
 - **[Murray-Darling Basin Authority](https://www.indexdata.org/australia/murray-darling-basin-authority/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/murray-darling-basin-authority/) | [RSS Feed](https://www.indexdata.org/australia/murray-darling-basin-authority/feed/)
+- **[New South Wales — Transport for NSW](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/) | [RSS Feed](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/feed/)
 - **[Northern Territory Government](https://www.indexdata.org/australia/northern-territory-government/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-government/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-government/feed/)
 - **[Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
 - **[SIP Register - OptiComm](https://www.indexdata.org/australia/sip-register-opticomm/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/sip-register-opticomm/) | [RSS Feed](https://www.indexdata.org/australia/sip-register-opticomm/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,315 of 1,315)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,319 of 1,319)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1488,6 +1490,13 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/australian-ant
 - `[`AU-ZEN-23744767`]` **[CliC Strategic Plan 2025-2034: The Rapidly Changing Cryosphere](https://www.indexdata.org/clic-strategic-plan-2025-2034-the-rapidly-changing-cryosphere/)** — `2026-06-15` | `31 Pages`
 - `[`AU-ZEN-16033540`]` **[Essential Biodiversity Variables Framework for Terrestrial Antarctic and Sub-Antarctic Ecosystems](https://www.indexdata.org/essential-biodiversity-variables-framework-for-terrestrial-antarctic-and-sub-antarctic-ecosystems/)** — `2025-07-17` | `21 Pages`
 
+### [Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
+
+- `[`AU-VIC-46450a08-83a6-4557-845b`]` **[Victorian Integrated Survey of Travel and Activity (VISTA) — VISTA Explanatory Document - 2021-2026 (Updated 2026)](https://www.indexdata.org/victorian-integrated-survey-of-travel-and-activity-vista-vista-explanatory-document-2021-2026-updated-2026/)** — `2026-05-12` | `13 Pages`
+- `[`AU-VIC-feec2cdf-5d35-4a34-86c5`]` **[Bicycle Infrastructure Network — Bicycle Infrastructure Network Supporting Documentation](https://www.indexdata.org/bicycle-infrastructure-network-bicycle-infrastructure-network-supporting-documentation/)** — `2025-06-20` | `3 Pages`
+- `[`AU-VIC-TF-6cb739f0-ccf1-47a2-b215-192daf1e501a`]` **[Bicycle Infrastructure Network](https://www.indexdata.org/bicycle-infrastructure-network/)** — `2025-06-20` | `3 Pages`
+
 ### [Australian Institute of Marine Science](https://www.indexdata.org/australia/australian-institute-of-marine-science/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-institute-of-marine-science/](https://www.indexdata.org/australia/australian-institute-of-marine-science/) | [RSS Feed](https://www.indexdata.org/australia/australian-institute-of-marine-science/feed/)
 
@@ -1530,11 +1539,11 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/northern-terri
 - `[`AU-NT-db8bac3f-d28b-42e0-a936`]` **[Story of Our Children and Young People — Story of Our Children and Young People Report 2019](https://www.indexdata.org/story-of-our-children-and-young-people-story-of-our-children-and-young-people-report-2019/)** — `2025-05-28` | `112 Pages`
 - `[`AU-NT-7f6a5d8b-93c2-4542-acc0`]` **[Story of Our Children and Young People 2021 Update — Story of Our Children and Young People Report 2021](https://www.indexdata.org/story-of-our-children-and-young-people-2021-update-story-of-our-children-and-young-people-report-2021/)** — `2025-05-28` | `160 Pages`
 
-### [Victoria — Department of Transport and Planning](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/) | [RSS Feed](https://www.indexdata.org/australia/victoria-department-of-transport-and-planning/feed/)
+### [Victoria State Government](https://www.indexdata.org/australia/victoria-state-government/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/victoria-state-government/](https://www.indexdata.org/australia/victoria-state-government/) | [RSS Feed](https://www.indexdata.org/australia/victoria-state-government/feed/)
 
-- `[`AU-VIC-46450a08-83a6-4557-845b`]` **[Victorian Integrated Survey of Travel and Activity (VISTA) — VISTA Explanatory Document - 2021-2026 (Updated 2026)](https://www.indexdata.org/victorian-integrated-survey-of-travel-and-activity-vista-vista-explanatory-document-2021-2026-updated-2026/)** — `2026-05-12` | `13 Pages`
-- `[`AU-VIC-feec2cdf-5d35-4a34-86c5`]` **[Bicycle Infrastructure Network — Bicycle Infrastructure Network Supporting Documentation](https://www.indexdata.org/bicycle-infrastructure-network-bicycle-infrastructure-network-supporting-documentation/)** — `2025-06-20` | `3 Pages`
+- `[`AU-VIC-e0880296-585d-47bd-8e72-fc1b2045f53d`]` **[Victoria road crash data](https://www.indexdata.org/victoria-road-crash-data/)** — `2026-11-09` | `2 Pages`
+- `[`AU-VIC-46450a08-83a6-4557-845b-dff3ed41a1d0`]` **[Victorian Integrated Survey of Travel and Activity (VISTA)](https://www.indexdata.org/victorian-integrated-survey-of-travel-and-activity-vista/)** — `2026-05-12` | `13 Pages`
 
 ### [Western Australia — Department of Primary Industries and Regional Development](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/) | [RSS Feed](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/feed/)
@@ -1571,6 +1580,11 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/government-of-
 Canonical Authority Archive: [https://www.indexdata.org/australia/murray-darling-basin-authority/](https://www.indexdata.org/australia/murray-darling-basin-authority/) | [RSS Feed](https://www.indexdata.org/australia/murray-darling-basin-authority/feed/)
 
 - `[`AU-DATA-cde1b241-608d-421d-82dd`]` **[River Murray Water Quality Monitoring Program — Metadata Statement - RMWQMP Physico-chemical](https://www.indexdata.org/river-murray-water-quality-monitoring-program-metadata-statement-rmwqmp-physico-chemical/)** — `2026-11-12` | `5 Pages`
+
+### [New South Wales — Transport for NSW](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/) | [RSS Feed](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/feed/)
+
+- `[`AU-NSW-TF-d1f68d4f-b778-44df-9823-cf2fa922e47f`]` **[Timetables Complete GTFS](https://www.indexdata.org/timetables-complete-gtfs/)** — `2026-11-17` | `10 Pages`
 
 ### [Northern Territory Government](https://www.indexdata.org/australia/northern-territory-government/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-government/](https://www.indexdata.org/australia/northern-territory-government/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-government/feed/)
