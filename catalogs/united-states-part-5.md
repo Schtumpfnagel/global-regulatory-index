@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,465` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,466` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 21:56 UTC`
+**Last Automated Sync:** `2026-11-17 22:46 UTC`
 
 ---
 
@@ -91,7 +91,7 @@
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
@@ -254,11 +254,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,465)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,466)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-14830`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-30/)** — `2025-08-05` | `4 Pages`
 - `[`2025-14815`]` **[Airworthiness Directives; BAE SYSTEMS (Operations) Limited Airplanes](https://www.indexdata.org/airworthiness-directives-bae-systems-operations-limited-airplanes-2/)** — `2025-08-05` | `2 Pages`
 - `[`2025-14779`]` **[Special Conditions: Sikorsky Model S-61A, S-61L, and S-61N (Including Those Modified by Supplemental Type Certificate (STC) No. SH640NE) Helicopters; Overload Protection Device in a Hoist](https://www.indexdata.org/special-conditions-sikorsky-model-s-61a-s-61l-and-s-61n-including-those-modified-by-supplemental-type-certificate-stc-no-sh640ne-helicopters-overload-protection-device-in-a-hoist/)** — `2025-08-05` | `4 Pages`
 - `[`2025-14713`]` **[Special Conditions: CFM International, LEAP-1B Engine Model; Incorporation of Woven Composite Fan Blades](https://www.indexdata.org/special-conditions-cfm-international-leap-1b-engine-model-incorporation-of-woven-composite-fan-blades/)** — `2025-08-04` | `3 Pages`
@@ -945,7 +946,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2025-05091`]` **[Drawbridge Operation Regulation; Hackensack River, Little Snake Hill, NJ](https://www.indexdata.org/drawbridge-operation-regulation-hackensack-river-little-snake-hill-nj/)** — `2025-03-26` | `4 Pages`
 - `[`2025-04918`]` **[Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL](https://www.indexdata.org/drawbridge-operation-regulation-okeechobee-waterway-stuart-fl-2/)** — `2025-03-25` | `4 Pages`
 - `[`2025-04917`]` **[Drawbridge Operation Regulation; Sandusky Bay, Sandusky, OH](https://www.indexdata.org/drawbridge-operation-regulation-sandusky-bay-sandusky-oh/)** — `2025-03-24` | `3 Pages`
-- `[`2025-04857`]` **[Special Local Regulation; Marine Events Within the Eleventh Coast Guard District-San Diego Crew Classic](https://www.indexdata.org/special-local-regulation-marine-events-within-the-eleventh-coast-guard-district-san-diego-crew-classic/)** — `2025-03-21` | `2 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,465` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,466` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 21:56 UTC`
+**Last Automated Sync:** `2026-11-17 22:46 UTC`
 
 ---
 
@@ -91,7 +91,7 @@
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,465)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,466)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -933,6 +933,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2025-04857`]` **[Special Local Regulation; Marine Events Within the Eleventh Coast Guard District-San Diego Crew Classic](https://www.indexdata.org/special-local-regulation-marine-events-within-the-eleventh-coast-guard-district-san-diego-crew-classic/)** — `2025-03-21` | `2 Pages`
 - `[`2025-04018`]` **[Gulf of America Renaming](https://www.indexdata.org/gulf-of-america-renaming/)** — `2025-03-17` | `4 Pages`
 - `[`2025-04096`]` **[Security Zones; Tampa Bay: Big Bend, Boca Grande, Crystal River, East Bay, Hillsborough Bay, MacDill Air Force Base, Manbirtee Key, Old Port Tampa, Port Manatee, Port Tampa, Port St. Petersburg, Port Sutton, Rattlesnake, and Weedon Island, FL](https://www.indexdata.org/security-zones-tampa-bay-big-bend-boca-grande-crystal-river-east-bay-hillsborough-bay-macdill-air-force-base-manbirtee-key-old-port-tampa-port-manatee-port-tampa-port-st-petersburg-port-3/)** — `2025-03-14` | `4 Pages`
 - `[`2025-03021`]` **[Regulated Navigation Area; Cuyahoga River, Cleveland, OH](https://www.indexdata.org/regulated-navigation-area-cuyahoga-river-cleveland-oh-2/)** — `2025-02-25` | `4 Pages`
@@ -1293,29 +1294,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2024-25079`]` **[Required Rulemaking on Personal Financial Data Rights](https://www.indexdata.org/required-rulemaking-on-personal-financial-data-rights/)** — `2024-11-18` | `161 Pages`
 - `[`2024-26099`]` **[Consumer Financial Protection Circular 2024-06: Background Dossiers and Algorithmic Scores for Hiring, Promotion, and Other Employment Decisions](https://www.indexdata.org/consumer-financial-protection-circular-2024-06-background-dossiers-and-algorithmic-scores-for-hiring-promotion-and-other-employment-decisions/)** — `2024-11-12` | `3 Pages`
 
-### [Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
-
-- `[`2025-02655`]` **[Implementation of Additional Due Diligence Measures for Advanced Computing Integrated Circuits; Amendments and Clarifications; and Extension of Comment Period; Correction](https://www.indexdata.org/implementation-of-additional-due-diligence-measures-for-advanced-computing-integrated-circuits-amendments-and-clarifications-and-extension-of-comment-period-correction/)** — `2025-02-14` | `4 Pages`
-- `[`2025-00723`]` **[Controls on Certain Laboratory Equipment and Related Technology To Address Dual Use Concerns About Biotechnology](https://www.indexdata.org/controls-on-certain-laboratory-equipment-and-related-technology-to-address-dual-use-concerns-about-biotechnology/)** — `2025-01-16` | `6 Pages`
-- `[`2025-00711`]` **[Implementation of Additional Due Diligence Measures for Advanced Computing Integrated Circuits; Amendments and Clarifications; and Extension of Comment Period](https://www.indexdata.org/implementation-of-additional-due-diligence-measures-for-advanced-computing-integrated-circuits-amendments-and-clarifications-and-extension-of-comment-period/)** — `2025-01-16` | `24 Pages`
-- `[`2025-00704`]` **[Addition of Entities to and Revision of Entry on the Entity List](https://www.indexdata.org/addition-of-entities-to-and-revision-of-entry-on-the-entity-list/)** — `2025-01-16` | `4 Pages`
-- `[`2025-00592`]` **[Securing the Information and Communications Technology and Services Supply Chain: Connected Vehicles](https://www.indexdata.org/securing-the-information-and-communications-technology-and-services-supply-chain-connected-vehicles/)** — `2025-01-16` | `65 Pages`
-- `[`2025-00480`]` **[Additions to the Entity List](https://www.indexdata.org/additions-to-the-entity-list-3/)** — `2025-01-16` | `4 Pages`
-- `[`2025-00637`]` **[Public Briefing on Framework for Artificial Intelligence Diffusion](https://www.indexdata.org/public-briefing-on-framework-for-artificial-intelligence-diffusion/)** — `2025-01-15` | `2 Pages`
-- `[`2025-00636`]` **[Framework for Artificial Intelligence Diffusion](https://www.indexdata.org/framework-for-artificial-intelligence-diffusion/)** — `2025-01-15` | `41 Pages`
-- `[`2024-31468`]` **[Revisions to the Entity List](https://www.indexdata.org/revisions-to-the-entity-list-3/)** — `2025-01-06` | `5 Pages`
-- `[`2024-30209`]` **[Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems](https://www.indexdata.org/securing-the-information-and-communications-technology-and-services-supply-chain-unmanned-aircraft-systems/)** — `2025-01-03` | `9 Pages`
-- `[`2024-30723`]` **[Commerce Control List Additions and Revisions; Implementation of Controls on Advanced Technologies Consistent With Controls Implemented by International Partners; Correction](https://www.indexdata.org/commerce-control-list-additions-and-revisions-implementation-of-controls-on-advanced-technologies-consistent-with-controls-implemented-by-international-partners-correction/)** — `2024-12-27` | `3 Pages`
-- `[`2024-30425`]` **[Implementation of Certain Australia Group Decisions](https://www.indexdata.org/implementation-of-certain-australia-group-decisions/)** — `2024-12-23` | `11 Pages`
-- `[`2024-29136`]` **[Additions to the Entity List](https://www.indexdata.org/additions-to-the-entity-list-4/)** — `2024-12-11` | `4 Pages`
-- `[`2024-28270`]` **[Foreign-Produced Direct Product Rule Additions, and Refinements to Controls for Advanced Computing and Semiconductor Manufacturing Items](https://www.indexdata.org/foreign-produced-direct-product-rule-additions-and-refinements-to-controls-for-advanced-computing-and-semiconductor-manufacturing-items/)** — `2024-12-05` | `41 Pages`
-- `[`2024-28267`]` **[Additions and Modifications to the Entity List; Removals From the Validated End-User (VEU) Program](https://www.indexdata.org/additions-and-modifications-to-the-entity-list-removals-from-the-validated-end-user-veu-program/)** — `2024-12-05` | `25 Pages`
-- `[`2024-27648`]` **[Implementation of Additional Controls on Pakistan](https://www.indexdata.org/implementation-of-additional-controls-on-pakistan/)** — `2024-11-26` | `6 Pages`
-- `[`2024-26886`]` **[Export Administration Regulations: Revisions to Space-Related Export Controls; Extension of Comment Period](https://www.indexdata.org/export-administration-regulations-revisions-to-space-related-export-controls-extension-of-comment-period/)** — `2024-11-19` | `2 Pages`
-- `[`2024-26883`]` **[Export Administration Regulations: Revisions to Space-Related Export Controls, Including Addition of License Exception Commercial Space Activities (CSA); Extension of Comment Period](https://www.indexdata.org/export-administration-regulations-revisions-to-space-related-export-controls-including-addition-of-license-exception-commercial-space-activities-csa-extension-of-comment-period/)** — `2024-11-19` | `2 Pages`
-- `[`2024-25715`]` **[Public Briefing on Revisions to Space-Related Export Controls Under Export Administration Regulations and International Traffic in Arms Regulations](https://www.indexdata.org/public-briefing-on-revisions-to-space-related-export-controls-under-export-administration-regulations-and-international-traffic-in-arms-regulations/)** — `2024-11-05` | `2 Pages`
-
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
 
@@ -1337,6 +1315,28 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 - `[`2024-29996`]` **[Proposed Priority and Requirements-Innovative Rehabilitation Training Program](https://www.indexdata.org/proposed-priority-and-requirements-innovative-rehabilitation-training-program/)** — `2024-12-18` | `7 Pages`
 - `[`2024-26698`]` **[Income Contingent Repayment Plan Options](https://www.indexdata.org/income-contingent-repayment-plan-options-2/)** — `2024-11-15` | `10 Pages`
 - `[`2024-25862`]` **[Technical Assistance on State Data Collection-IDEA Data Management Center](https://www.indexdata.org/technical-assistance-on-state-data-collection-idea-data-management-center-2/)** — `2024-11-07` | `8 Pages`
+
+### [Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
+
+- `[`2025-02655`]` **[Implementation of Additional Due Diligence Measures for Advanced Computing Integrated Circuits; Amendments and Clarifications; and Extension of Comment Period; Correction](https://www.indexdata.org/implementation-of-additional-due-diligence-measures-for-advanced-computing-integrated-circuits-amendments-and-clarifications-and-extension-of-comment-period-correction/)** — `2025-02-14` | `4 Pages`
+- `[`2025-00723`]` **[Controls on Certain Laboratory Equipment and Related Technology To Address Dual Use Concerns About Biotechnology](https://www.indexdata.org/controls-on-certain-laboratory-equipment-and-related-technology-to-address-dual-use-concerns-about-biotechnology/)** — `2025-01-16` | `6 Pages`
+- `[`2025-00711`]` **[Implementation of Additional Due Diligence Measures for Advanced Computing Integrated Circuits; Amendments and Clarifications; and Extension of Comment Period](https://www.indexdata.org/implementation-of-additional-due-diligence-measures-for-advanced-computing-integrated-circuits-amendments-and-clarifications-and-extension-of-comment-period/)** — `2025-01-16` | `24 Pages`
+- `[`2025-00704`]` **[Addition of Entities to and Revision of Entry on the Entity List](https://www.indexdata.org/addition-of-entities-to-and-revision-of-entry-on-the-entity-list/)** — `2025-01-16` | `4 Pages`
+- `[`2025-00592`]` **[Securing the Information and Communications Technology and Services Supply Chain: Connected Vehicles](https://www.indexdata.org/securing-the-information-and-communications-technology-and-services-supply-chain-connected-vehicles/)** — `2025-01-16` | `65 Pages`
+- `[`2025-00480`]` **[Additions to the Entity List](https://www.indexdata.org/additions-to-the-entity-list-3/)** — `2025-01-16` | `4 Pages`
+- `[`2025-00637`]` **[Public Briefing on Framework for Artificial Intelligence Diffusion](https://www.indexdata.org/public-briefing-on-framework-for-artificial-intelligence-diffusion/)** — `2025-01-15` | `2 Pages`
+- `[`2025-00636`]` **[Framework for Artificial Intelligence Diffusion](https://www.indexdata.org/framework-for-artificial-intelligence-diffusion/)** — `2025-01-15` | `41 Pages`
+- `[`2024-31468`]` **[Revisions to the Entity List](https://www.indexdata.org/revisions-to-the-entity-list-3/)** — `2025-01-06` | `5 Pages`
+- `[`2024-30209`]` **[Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems](https://www.indexdata.org/securing-the-information-and-communications-technology-and-services-supply-chain-unmanned-aircraft-systems/)** — `2025-01-03` | `9 Pages`
+- `[`2024-30723`]` **[Commerce Control List Additions and Revisions; Implementation of Controls on Advanced Technologies Consistent With Controls Implemented by International Partners; Correction](https://www.indexdata.org/commerce-control-list-additions-and-revisions-implementation-of-controls-on-advanced-technologies-consistent-with-controls-implemented-by-international-partners-correction/)** — `2024-12-27` | `3 Pages`
+- `[`2024-30425`]` **[Implementation of Certain Australia Group Decisions](https://www.indexdata.org/implementation-of-certain-australia-group-decisions/)** — `2024-12-23` | `11 Pages`
+- `[`2024-29136`]` **[Additions to the Entity List](https://www.indexdata.org/additions-to-the-entity-list-4/)** — `2024-12-11` | `4 Pages`
+- `[`2024-28270`]` **[Foreign-Produced Direct Product Rule Additions, and Refinements to Controls for Advanced Computing and Semiconductor Manufacturing Items](https://www.indexdata.org/foreign-produced-direct-product-rule-additions-and-refinements-to-controls-for-advanced-computing-and-semiconductor-manufacturing-items/)** — `2024-12-05` | `41 Pages`
+- `[`2024-28267`]` **[Additions and Modifications to the Entity List; Removals From the Validated End-User (VEU) Program](https://www.indexdata.org/additions-and-modifications-to-the-entity-list-removals-from-the-validated-end-user-veu-program/)** — `2024-12-05` | `25 Pages`
+- `[`2024-27648`]` **[Implementation of Additional Controls on Pakistan](https://www.indexdata.org/implementation-of-additional-controls-on-pakistan/)** — `2024-11-26` | `6 Pages`
+- `[`2024-26886`]` **[Export Administration Regulations: Revisions to Space-Related Export Controls; Extension of Comment Period](https://www.indexdata.org/export-administration-regulations-revisions-to-space-related-export-controls-extension-of-comment-period/)** — `2024-11-19` | `2 Pages`
+- `[`2024-26883`]` **[Export Administration Regulations: Revisions to Space-Related Export Controls, Including Addition of License Exception Commercial Space Activities (CSA); Extension of Comment Period](https://www.indexdata.org/export-administration-regulations-revisions-to-space-related-export-controls-including-addition-of-license-exception-commercial-space-activities-csa-extension-of-comment-period/)** — `2024-11-19` | `2 Pages`
 
 ### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)

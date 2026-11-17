@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,465` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,466` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 21:56 UTC`
+**Last Automated Sync:** `2026-11-17 22:46 UTC`
 
 ---
 
@@ -91,7 +91,7 @@
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,465)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,466)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -612,7 +612,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-01265`]` **[Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes](https://www.indexdata.org/airworthiness-directives-pilatus-aircraft-ltd-airplanes-11/)** — `2026-01-23` | `4 Pages`
 - `[`2026-01261`]` **[Revocation of Class E Airspace; Zuni, NM](https://www.indexdata.org/revocation-of-class-e-airspace-zuni-nm-2/)** — `2026-01-23` | `2 Pages`
 - `[`2026-01226`]` **[Flight Restrictions in the Vicinity of Ronald Reagan Washington National Airport (DCA)](https://www.indexdata.org/flight-restrictions-in-the-vicinity-of-ronald-reagan-washington-national-airport-dca/)** — `2026-01-23` | `8 Pages`
-- `[`2026-01215`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-36/)** — `2026-01-22` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1113,6 +1112,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
+- `[`2026-10675`]` **[Medical Devices; Neurological Devices; Classification of the Transcutaneous Electrical Nerve Stimulator To Treat Fibromyalgia Symptoms](https://www.indexdata.org/medical-devices-neurological-devices-classification-of-the-transcutaneous-electrical-nerve-stimulator-to-treat-fibromyalgia-symptoms/)** — `2026-05-29` | `3 Pages`
 - `[`2026-10621`]` **[Medical Devices; Gastroenterology-Urology Devices; Classification of the Endoscopic Suturing Device for Altering Gastric Anatomy for Weight Loss](https://www.indexdata.org/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-suturing-device-for-altering-gastric-anatomy-for-weight-loss/)** — `2026-05-28` | `3 Pages`
 - `[`2026-10615`]` **[Food Additive Petition From Environmental Defense Fund, et al.; Request To Amend the Food Additive Regulations To Remove the Solvents Benzene, Ethylene Dichloride, Methylene Chloride, and Trichloroethylene; Reopening of the Comment Period](https://www.indexdata.org/food-additive-petition-from-environmental-defense-fund-et-al-request-to-amend-the-food-additive-regulations-to-remove-the-solvents-benzene-ethylene-dichloride-methylene-chloride-and-trichloroeth/)** — `2026-05-28` | `2 Pages`
 - `[`2026-10614`]` **[Color Additive Petition from Environmental Defense Fund, et al.; Request To Amend the Color Additive Regulations To Remove the Solvents Ethylene Dichloride, Methylene Chloride, and Trichloroethylene; Reopening of the Comment Period](https://www.indexdata.org/color-additive-petition-from-environmental-defense-fund-et-al-request-to-amend-the-color-additive-regulations-to-remove-the-solvents-ethylene-dichloride-methylene-chloride-and-trichloroethylene/)** — `2026-05-28` | `2 Pages`

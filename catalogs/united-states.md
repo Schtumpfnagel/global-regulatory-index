@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,465` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,466` across `238` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 21:56 UTC`
+**Last Automated Sync:** `2026-11-17 22:46 UTC`
 
 ---
 
@@ -91,7 +91,7 @@
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,465)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,466)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -949,7 +949,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-19566`]` **[Air Plan Approval; Alabama; Transportation Conformity](https://www.indexdata.org/air-plan-approval-alabama-transportation-conformity/)** — `2026-09-24` | `3 Pages`
 - `[`2026-19495`]` **[Air Plan Approval; North Carolina; Charlotte-Rock Hill Area Maintenance Plan for the 2008 8-Hour Ozone NAAQS](https://www.indexdata.org/air-plan-approval-north-carolina-charlotte-rock-hill-area-maintenance-plan-for-the-2008-8-hour-ozone-naaqs/)** — `2026-09-23` | `10 Pages`
 - `[`2026-19072`]` **[Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111](https://www.indexdata.org/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of-regulations-for-power-plant-greenhouse-gas-emissions-under-clean-air-act-section-111/)** — `2026-09-17` | `45 Pages`
-- `[`2026-19071`]` **[Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units](https://www.indexdata.org/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units/)** — `2026-09-17` | `47 Pages`
 
 ### [U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-energy-doe/](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
@@ -1283,6 +1282,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-geological-survey-usgs/](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 
 - `[`US-DOI-USGS-sir20265074`]` **[Groundwater recharge and water budget assessment for San Juan County, Washington](https://www.indexdata.org/groundwater-recharge-and-water-budget-assessment-for-san-juan-county-washington/)** — `2026-11-17` | `48 Pages`
+- `[`US-DOI-USGS-fs20263027`]` **[EDMAP—Training the next generation of geologic mappers](https://www.indexdata.org/edmap-training-the-next-generation-of-geologic-mappers/)** — `2026-11-17` | `2 Pages`
 - `[`US-DOI-USGS-sir20265051`]` **[Karst Hydrologic Processes in Carbonate Fensters of the Western Great Smoky Mountains, Tennessee, 2017–18](https://www.indexdata.org/karst-hydrologic-processes-in-carbonate-fensters-of-the-western-great-smoky-mountains-tennessee-2017-18/)** — `2026-11-13` | `76 Pages`
 - `[`US-DOI-USGS-pp1842CC`]` **[The effects of management practices on grassland birds—Vesper Sparrow ( Pooecetes gramineus )](https://www.indexdata.org/the-effects-of-management-practices-on-grassland-birds-vesper-sparrow-pooecetes-gramineus/)** — `2026-11-13` | `74 Pages`
 - `[`US-DOI-USGS-sir20265049`]` **[Analysis of groundwater geochemistry in the Lansing, Michigan, area](https://www.indexdata.org/analysis-of-groundwater-geochemistry-in-the-lansing-michigan-area/)** — `2026-11-12` | `36 Pages`

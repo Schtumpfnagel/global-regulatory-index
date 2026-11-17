@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,465` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,466` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 21:56 UTC`
+**Last Automated Sync:** `2026-11-17 22:46 UTC`
 
 ---
 
@@ -91,7 +91,7 @@
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,465)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,466)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -757,6 +757,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-19071`]` **[Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units](https://www.indexdata.org/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units/)** — `2026-09-17` | `47 Pages`
 - `[`2026-19027`]` **[Indiana: Approval of State Coal Combustion Residuals Permit Program](https://www.indexdata.org/indiana-approval-of-state-coal-combustion-residuals-permit-program/)** — `2026-09-16` | `10 Pages`
 - `[`2026-18830`]` **[Bacillus amyloliquefaciens strain AT-332; Exemption From the Requirement of a Pesticide Tolerance](https://www.indexdata.org/bacillus-amyloliquefaciens-strain-at-332-exemption-from-the-requirement-of-a-pesticide-tolerance/)** — `2026-09-15` | `4 Pages`
 - `[`2026-18759`]` **[Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; District of Columbia; Negative Declaration for Existing Other Solid Waste Incinerators](https://www.indexdata.org/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-district-of-columbia-negative-declaration-for-existing-other-solid-waste-incinerators/)** — `2026-09-14` | `2 Pages`
@@ -1072,7 +1073,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2026-10899`]` **[Medical Devices; Dental Devices; Classification of the Intraoral Cooling Device](https://www.indexdata.org/medical-devices-dental-devices-classification-of-the-intraoral-cooling-device/)** — `2026-06-01` | `3 Pages`
 - `[`2026-10898`]` **[Medical Devices; Hematology and Pathology Devices; Classification of the Von Willebrand Factor Assay](https://www.indexdata.org/medical-devices-hematology-and-pathology-devices-classification-of-the-von-willebrand-factor-assay/)** — `2026-06-01` | `3 Pages`
 - `[`2026-10894`]` **[Medical Devices; Ear, Nose, and Throat Devices; Classification of the Oropharyngeal Electrical Stimulator](https://www.indexdata.org/medical-devices-ear-nose-and-throat-devices-classification-of-the-oropharyngeal-electrical-stimulator/)** — `2026-06-01` | `3 Pages`
-- `[`2026-10675`]` **[Medical Devices; Neurological Devices; Classification of the Transcutaneous Electrical Nerve Stimulator To Treat Fibromyalgia Symptoms](https://www.indexdata.org/medical-devices-neurological-devices-classification-of-the-transcutaneous-electrical-nerve-stimulator-to-treat-fibromyalgia-symptoms/)** — `2026-05-29` | `3 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)

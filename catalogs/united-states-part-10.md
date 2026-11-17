@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,465` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,466` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 21:56 UTC`
+**Last Automated Sync:** `2026-11-17 22:46 UTC`
 
 ---
 
@@ -91,7 +91,7 @@
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,465)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,466)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -833,7 +833,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2023-14132`]` **[Air Plan Revisions; California; San Joaquin Valley Air Pollution Control District; Stationary Source Permits](https://www.indexdata.org/air-plan-revisions-california-san-joaquin-valley-air-pollution-control-district-stationary-source-permits/)** — `2023-07-10` | `7 Pages`
 - `[`2023-14036`]` **[Approval and Promulgation of State Plans for Designated Facilities and Pollutants; New Hampshire; Delegation of Authority](https://www.indexdata.org/approval-and-promulgation-of-state-plans-for-designated-facilities-and-pollutants-new-hampshire-delegation-of-authority/)** — `2023-07-07` | `4 Pages`
 - `[`2023-14103`]` **[Air Plan Approval; Ohio; Canton, Cleveland, and Steubenville Second 10-Year 2006 24-Hour PM2.5 Limited Maintenance Plans](https://www.indexdata.org/air-plan-approval-ohio-canton-cleveland-and-steubenville-second-10-year-2006-24-hour-pm2-5-limited-maintenance-plans-2/)** — `2023-07-05` | `8 Pages`
-- `[`2023-13979`]` **[Air Plan Partial Approval and Partial Disapproval; Missouri; Revision to Sulfur Dioxide Control Requirements for Lake Road Generating Facility](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-missouri-revision-to-sulfur-dioxide-control-requirements-for-lake-road-generating-facility/)** — `2023-07-03` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1650,6 +1649,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 - `[`2023-15056`]` **[Risk Management Program Regulations for Swap Dealers, Major Swap Participants, and Futures Commission Merchants](https://www.indexdata.org/risk-management-program-regulations-for-swap-dealers-major-swap-participants-and-futures-commission-merchants/)** — `2023-07-18` | `11 Pages`
 - `[`2023-14361`]` **[Governance Requirements for Derivatives Clearing Organizations](https://www.indexdata.org/governance-requirements-for-derivatives-clearing-organizations/)** — `2023-07-13` | `20 Pages`
 
+### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
+
+- `[`2023-23621`]` **[Labeling Requirements for Alternative Fuels and Alternative Fueled Vehicles](https://www.indexdata.org/labeling-requirements-for-alternative-fuels-and-alternative-fueled-vehicles/)** — `2023-10-26` | `3 Pages`
+- `[`2023-18085`]` **[Telemarketing Sales Rule Fees](https://www.indexdata.org/telemarketing-sales-rule-fees-4/)** — `2023-08-23` | `2 Pages`
+- `[`2023-16792`]` **[Trade Regulation Rule Relating to Power Output Claims for Amplifiers Utilized in Home Entertainment Products](https://www.indexdata.org/trade-regulation-rule-relating-to-power-output-claims-for-amplifiers-utilized-in-home-entertainment-products-2/)** — `2023-08-21` | `8 Pages`
+- `[`2023-17143`]` **[Premerger Notification; Reporting and Waiting Period Requirements](https://www.indexdata.org/premerger-notification-reporting-and-waiting-period-requirements-3/)** — `2023-08-10` | `2 Pages`
+- `[`2023-15581`]` **[Trade Regulation Rule on the Use of Consumer Reviews and Testimonials](https://www.indexdata.org/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials-2/)** — `2023-07-31` | `29 Pages`
+- `[`2023-14795`]` **[Guides Concerning the Use of Endorsements and Testimonials in Advertising](https://www.indexdata.org/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising/)** — `2023-07-26` | `21 Pages`
+- `[`2023-15415`]` **[Children's Online Privacy Protection Rule Proposed Parental Consent Method; Application of the ESRB Group for Approval of Parental Consent Method](https://www.indexdata.org/childrens-online-privacy-protection-rule-proposed-parental-consent-method-application-of-the-esrb-group-for-approval-of-parental-consent-method/)** — `2023-07-20` | `2 Pages`
+- `[`2023-12630`]` **[Rules of Practice](https://www.indexdata.org/rules-of-practice-4/)** — `2023-07-05` | `7 Pages`
+
 ### [State Department](https://www.indexdata.org/united-states/state-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
 
@@ -1661,17 +1672,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2023-18143`]` **[Access to Information; Privacy Act Provisions](https://www.indexdata.org/access-to-information-privacy-act-provisions-2/)** — `2023-08-25` | `4 Pages`
 - `[`2023-15744`]` **[Third-Party Attendance at Appointments for Passport, Consular Report of Birth Abroad (CRBA), and Certain Other Services](https://www.indexdata.org/third-party-attendance-at-appointments-for-passport-consular-report-of-birth-abroad-crba-and-certain-other-services-2/)** — `2023-07-26` | `3 Pages`
 - `[`2023-14538`]` **[Visas: Nonimmigrant Visas; Immigrant Visas](https://www.indexdata.org/visas-nonimmigrant-visas-immigrant-visas/)** — `2023-07-14` | `10 Pages`
-
-### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
-
-- `[`2023-18085`]` **[Telemarketing Sales Rule Fees](https://www.indexdata.org/telemarketing-sales-rule-fees-4/)** — `2023-08-23` | `2 Pages`
-- `[`2023-16792`]` **[Trade Regulation Rule Relating to Power Output Claims for Amplifiers Utilized in Home Entertainment Products](https://www.indexdata.org/trade-regulation-rule-relating-to-power-output-claims-for-amplifiers-utilized-in-home-entertainment-products-2/)** — `2023-08-21` | `8 Pages`
-- `[`2023-17143`]` **[Premerger Notification; Reporting and Waiting Period Requirements](https://www.indexdata.org/premerger-notification-reporting-and-waiting-period-requirements-3/)** — `2023-08-10` | `2 Pages`
-- `[`2023-15581`]` **[Trade Regulation Rule on the Use of Consumer Reviews and Testimonials](https://www.indexdata.org/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials-2/)** — `2023-07-31` | `29 Pages`
-- `[`2023-14795`]` **[Guides Concerning the Use of Endorsements and Testimonials in Advertising](https://www.indexdata.org/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising/)** — `2023-07-26` | `21 Pages`
-- `[`2023-15415`]` **[Children's Online Privacy Protection Rule Proposed Parental Consent Method; Application of the ESRB Group for Approval of Parental Consent Method](https://www.indexdata.org/childrens-online-privacy-protection-rule-proposed-parental-consent-method-application-of-the-esrb-group-for-approval-of-parental-consent-method/)** — `2023-07-20` | `2 Pages`
-- `[`2023-12630`]` **[Rules of Practice](https://www.indexdata.org/rules-of-practice-4/)** — `2023-07-05` | `7 Pages`
 
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
