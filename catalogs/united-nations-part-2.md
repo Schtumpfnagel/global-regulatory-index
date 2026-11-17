@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,985` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,987` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-17 11:56 UTC`
+**Last Automated Sync:** `2026-11-17 13:03 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`508` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,985)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,987)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -820,8 +820,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-61-62`]` **[Report of the Independent International Commission of Inquiry on the Syrian Arab Republic](https://www.indexdata.org/a-hrc-61-62-report-of-the-independent-international-commission-of-inquiry-on-the-syrian-arab-republic/)** — `2026-04-20` | `47 Pages`
 - `[`UN-A-81-6-Sect.-8`]` **[Proposed programme budget for 2027 — Part 2, — International justice and law — Section 8, — Legal affairs — Programme 6, — Legal affairs](https://www.indexdata.org/a-81-6-sect-8-proposed-programme-budget-for-2027-part-2-international-justice-and-law-section-8-legal-affairs-programme-6-legal-affa/)** — `2026-04-20` | `91 Pages`
 - `[`UN-A-80-711`]` **[Letter dated 20 April 2026 from the Permanent Representative of Estonia to the United Nations addressed to the President of the General Assembly](https://www.indexdata.org/a-80-711-letter-dated-20-april-2026-from-the-permanent-representative-of-estonia-to-the-united-nations-addressed-to-the-president-of-the-general-assembly/)** — `2026-04-20` | `2 Pages`
-- `[`UN-A-80-710`]` **[Letter dated 17 April 2026 from the Permanent Representative of the Russian Federation to the United Nations addressed to the Secretary-General](https://www.indexdata.org/a-80-710-letter-dated-17-april-2026-from-the-permanent-representative-of-the-russian-federation-to-the-united-nations-addressed-to-the-secretary-general/)** — `2026-04-20` | `2 Pages`
-- `[`UN-A-80-604-Add.8`]` **[Proposed budgets for the periods from 1 October 2025 to 30 June 2026 and from 1 July 2026 to 30 June 2027 for the United Nations Support Office in Haiti — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-604-add-8-proposed-budgets-for-the-periods-from-1-october-2025-to-30-june-2026-and-from-1-july-2026-to-30-june-2027-for-the-united-nations-support-office-in-haiti-report-of-the-adviso/)** — `2026-04-20` | `22 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -1147,6 +1145,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-2026-535`]` **[Identical letters dated 30 June 2026 from the Permanent Representative of Iraq to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-535-identical-letters-dated-30-june-2026-from-the-permanent-representative-of-iraq-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-07-01` | `4 Pages`
+- `[`UN-S-2026-530`]` **[Identical letters dated 27 June 2026 from the Permanent Representative of Bahrain to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-530-identical-letters-dated-27-june-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-07-01` | `3 Pages`
 - `[`UN-S-AC.44-2026-5`]` **[Note verbale dated 30 June 2026 from the Permanent Mission of Pakistan to the United Nations addressed to the Committee — Security Council Committee established pursuant to resolution 1540 (2004)](https://www.indexdata.org/s-ac-44-2026-5-note-verbale-dated-30-june-2026-from-the-permanent-mission-of-pakistan-to-the-united-nations-addressed-to-the-committee-security-council-committee-established-pursuant-to-re/)** — `2026-06-30` | `14 Pages`
 - `[`UN-S-2026-537`]` **[Activities of the United Nations Office for West Africa and the Sahel — report of the Secretary-General](https://www.indexdata.org/s-2026-537-activities-of-the-united-nations-office-for-west-africa-and-the-sahel-report-of-the-secretary-general/)** — `2026-06-30` | `15 Pages`
 - `[`UN-S-2026-533`]` **[Letter dated 29 June 2026 from the Permanent Representative of the Islamic Republic of Iran to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-533-letter-dated-29-june-2026-from-the-permanent-representative-of-the-islamic-republic-of-iran-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-coun/)** — `2026-06-30` | `3 Pages`

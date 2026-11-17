@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,985` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,987` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-17 11:56 UTC`
+**Last Automated Sync:** `2026-11-17 13:03 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`508` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,11 +187,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,985)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,987)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-80-710`]` **[Letter dated 17 April 2026 from the Permanent Representative of the Russian Federation to the United Nations addressed to the Secretary-General](https://www.indexdata.org/a-80-710-letter-dated-17-april-2026-from-the-permanent-representative-of-the-russian-federation-to-the-united-nations-addressed-to-the-secretary-general/)** — `2026-04-20` | `2 Pages`
+- `[`UN-A-80-604-Add.8`]` **[Proposed budgets for the periods from 1 October 2025 to 30 June 2026 and from 1 July 2026 to 30 June 2027 for the United Nations Support Office in Haiti — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-604-add-8-proposed-budgets-for-the-periods-from-1-october-2025-to-30-june-2026-and-from-1-july-2026-to-30-june-2027-for-the-united-nations-support-office-in-haiti-report-of-the-adviso/)** — `2026-04-20` | `22 Pages`
 - `[`UN-A-RES-80-255`]` **[Joint Inspection Unit — resolution](https://www.indexdata.org/a-res-80-255-joint-inspection-unit-resolution/)** — `2026-04-17` | `3 Pages`
 - `[`UN-A-RES-80-254`]` **[Revised estimates relating to the programme budget for 2026 under section 3, Political affairs, and section 36, Staff assessment — resolution](https://www.indexdata.org/a-res-80-254-revised-estimates-relating-to-the-programme-budget-for-2026-under-section-3-political-affairs-and-section-36-staff-assessment-resolution/)** — `2026-04-17` | `2 Pages`
 - `[`UN-A-RES-80-253`]` **[Information and communications technology strategy — resolution](https://www.indexdata.org/a-res-80-253-information-and-communications-technology-strategy-resolution/)** — `2026-04-17` | `4 Pages`
@@ -1389,7 +1391,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-CN.6-2026-NGO-189`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-189-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-188`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-188-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-3`]` **[Ensuring and strengthening access to justice for all women and girls, including by promoting inclusive and equitable legal systems, eliminating discriminatory laws, policies and practices, and addressing structural barriers — report of the Secretary-General](https://www.indexdata.org/e-cn-6-2026-3-ensuring-and-strengthening-access-to-justice-for-all-women-and-girls-including-by-promoting-inclusive-and-equitable-legal-systems-eliminating-discriminatory-laws-policies-and-practi/)** — `2026-01-15` | `19 Pages`
-- `[`UN-E-C.12-AGO-RQ-6`]` **[Replies of Angola to the list of issues in relation to its 6th periodic report — Committee on Economic, Social and Cultural Rights](https://www.indexdata.org/e-c-12-ago-rq-6-replies-of-angola-to-the-list-of-issues-in-relation-to-its-6th-periodic-report-committee-on-economic-social-and-cultural-rights/)** — `2026-01-15` | `18 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -1548,7 +1549,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 - `[`UN-CED-C-COL-OVR-1`]` **[Comments submitted by Colombia on the Committee's report on its visit under article 33 of the Convention — Committee on Enforced Disappearances](https://www.indexdata.org/ced-c-col-ovr-1-comments-submitted-by-colombia-on-the-committees-report-on-its-visit-under-article-33-of-the-convention-committee-on-enforced-disappearances/)** — `2026-01-19` | `35 Pages`
 - `[`UN-CAT-C-83-D-1146-2022`]` **[Decision adopted by the Committee under article 22 of the Convention, concerning communication No. 1146/2022 — Committee against Torture](https://www.indexdata.org/cat-c-83-d-1146-2022-decision-adopted-by-the-committee-under-article-22-of-the-convention-concerning-communication-no-1146-2022-committee-against-torture/)** — `2026-01-19` | `10 Pages`
 - `[`UN-CAT-C-83-D-1091-2021`]` **[Decision adopted by the Committee under article 22 of the Convention, concerning communication No. 1091/2021 — Committee against Torture](https://www.indexdata.org/cat-c-83-d-1091-2021-decision-adopted-by-the-committee-under-article-22-of-the-convention-concerning-communication-no-1091-2021-committee-against-torture/)** — `2026-01-16` | `9 Pages`
-- `[`UN-CRC-C-MYS-RQ-2-4`]` **[Replies of Malaysia to the list of issues in relation to its combined 2nd to 4th periodic reports — Convention on the Rights of the Child](https://www.indexdata.org/crc-c-mys-rq-2-4-replies-of-malaysia-to-the-list-of-issues-in-relation-to-its-combined-2nd-to-4th-periodic-reports-convention-on-the-rights-of-the-child/)** — `2026-01-15` | `21 Pages`
 
 ### [Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/programmes-and-funds/](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)

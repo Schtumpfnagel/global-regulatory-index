@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/austria/feed/](https://www.indexdata.org/austria/feed/)  
 **Wikidata Sovereign Entity:** [`Q40`](https://www.wikidata.org/wiki/Q40)  
 **Governing Open-Government Framework:** *UrhG § 7 / IWG 2022 / CC BY 4.0*  
-**Total Indexed Dossiers in Austria:** `178` across `19` issuing authorities  
-**Last Automated Sync:** `2026-11-17 11:56 UTC`
+**Total Indexed Dossiers in Austria:** `180` across `19` issuing authorities  
+**Last Automated Sync:** `2026-11-17 13:03 UTC`
 
 ---
 
 ## Issuing Authorities in Austria (19 Authorities)
 
 - **[Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
-- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
+- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
 - **[Austrian National Public Health Institute (Gesundheit Österreich GmbH - GÖG)](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/) | [RSS Feed](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/feed/)
 - **[Oesterreichische Nationalbank (OeNB)](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/) | [RSS Feed](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/feed/)
 - **[Austrian Energy Regulatory Authority (E-Control)](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/) | [RSS Feed](https://www.indexdata.org/austria/austrian-energy-regulatory-authority-e-control/feed/)
@@ -34,7 +34,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–178 of 178)
+## Indexed Statutory & Regulatory Dossiers (Records 1–180 of 180)
 
 ### [Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
@@ -91,9 +91,11 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/federal-chancell
 ### [Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
 
+- `[`AT-STAT-OEAW-W7226032563`]` **[Statistical correlations between turbulent structures and dissipation proxies in near-Earth space: the MMS 2023-2024 unbiased magnetosheath campaign](https://www.indexdata.org/statistical-correlations-between-turbulent-structures-and-dissipation-proxies-in-near-earth-space-the-mms-2023-2024-unbiased-magnetosheath-campaign/)** — `2026-11-12` | `14 Pages`
 - `[`AT-STAT-OEAW-W7225918236`]` **[Reversible expression of a cartilage ′master regulator′ during axolotl limb development and regeneration](https://www.indexdata.org/reversible-expression-of-a-cartilage-%e2%80%b2master-regulator%e2%80%b2-during-axolotl-limb-development-and-regeneration/)** — `2026-11-12` | `21 Pages`
 - `[`AT-STAT-OEAW-W7225865259`]` **[Named Entity Recognition for Pre-Modern Serbian Cyrillic: Using Transformer-Based Models and Generative Data Augmentation](https://www.indexdata.org/named-entity-recognition-for-pre-modern-serbian-cyrillic-using-transformer-based-models-and-generative-data-augmentation/)** — `2026-11-12` | `30 Pages`
 - `[`AT-STAT-OEAW-W7154582063`]` **[Beads, Springs, and Fields: Particle-Based Versus Continuum Models in Cell Biophysics](https://www.indexdata.org/beads-springs-and-fields-particle-based-versus-continuum-models-in-cell-biophysics/)** — `2026-11-12` | `36 Pages`
+- `[`AT-STAT-OEAW-W7226013950`]` **[The Calderón Problem with Randomly Distributed Resonant Droplets](https://www.indexdata.org/the-calderon-problem-with-randomly-distributed-resonant-droplets/)** — `2026-11-11` | `41 Pages`
 - `[`AT-STAT-OEAW-W7225714875`]` **[Na exospheric emission in relation to Sun events during the BepiColombo Second Mercury’s Fly-by](https://www.indexdata.org/na-exospheric-emission-in-relation-to-sun-events-during-the-bepicolombo-second-mercurys-fly-by/)** — `2026-11-10` | `33 Pages`
 - `[`AT-STAT-OEAW-W4410630371`]` **[Life-history trade-offs explain local adaptation in Arabidopsis thaliana](https://www.indexdata.org/life-history-trade-offs-explain-local-adaptation-in-arabidopsis-thaliana/)** — `2026-11-10` | `28 Pages`
 - `[`AT-STAT-OEAW-W7154620836`]` **[Proton structure from neural simulation-based inference at the LHC](https://www.indexdata.org/proton-structure-from-neural-simulation-based-inference-at-the-lhc/)** — `2026-11-06` | `60 Pages`
@@ -141,8 +143,8 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-nationa
 - `[`AT-GOEG-349`]` **[Short PPRI Pharma Profile](https://www.indexdata.org/short-ppri-pharma-profile/)** — `2018-01-01` | `37 Pages`
 - `[`AT-GOEG-429`]` **[Price comparison of high-cost medicines 2017.Study protocol](https://www.indexdata.org/price-comparison-of-high-cost-medicines-2017-study-protocol/)** — `2017-08-01` | `57 Pages`
 - `[`AT-GOEG-367`]` **[Study on impact analysis of Policy Options for strengthened EU cooperation on Health Technology Assessment (HTA)](https://www.indexdata.org/study-on-impact-analysis-of-policy-options-for-strengthened-eu-cooperation-on-health-technology-assessment-hta/)** — `2017-08-01` | `261 Pages`
-- `[`AT-GOEG-Study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health.-European-Commission-Directorate-General-for-Health-and-Food-Safety-Brssel`]` **[Study on better cross-border cooperation for high-cost capital investments in health](https://www.indexdata.org/study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health-2/)** — `2016-01-01` | `209 Pages`
-- `[`AT-GOEG-Pharmaceutical-pricing-and-reimbursement-reform-in-Kyrgyzstan.-WHO-Regional-Office-for-Europe-Copenhagen-ISBN-9789289052191`]` **[Pharmaceutical pricing and reimbursement reform in Kyrgyzstan](https://www.indexdata.org/pharmaceutical-pricing-and-reimbursement-reform-in-kyrgyzstan-2/)** — `2016-01-01` | `84 Pages`
+- `[`AT-GOEG-Study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health.-European-Commission-Directorate-General-for-Health-and-Food-Safety-Brssel`]` **[Study on better cross-border cooperation for high-cost capital investments in health](https://www.indexdata.org/study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health-3/)** — `2016-01-01` | `209 Pages`
+- `[`AT-GOEG-Pharmaceutical-pricing-and-reimbursement-reform-in-Kyrgyzstan.-WHO-Regional-Office-for-Europe-Copenhagen-ISBN-9789289052191`]` **[Pharmaceutical pricing and reimbursement reform in Kyrgyzstan](https://www.indexdata.org/pharmaceutical-pricing-and-reimbursement-reform-in-kyrgyzstan-3/)** — `2016-01-01` | `84 Pages`
 - `[`AT-GOEG-62`]` **[Pharmaceutical pricing and reimbursement reform in Kyrgyzstan](https://www.indexdata.org/pharmaceutical-pricing-and-reimbursement-reform-in-kyrgyzstan/)** — `2016-01-01` | `84 Pages`
 - `[`AT-GOEG-30`]` **[Study on better cross-border cooperation for high-cost capital investments in health](https://www.indexdata.org/study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health/)** — `2016-01-01` | `209 Pages`
 - `[`AT-GOEG-221`]` **[Pharmaceutical regulation in 15 European countries. Review](https://www.indexdata.org/pharmaceutical-regulation-in-15-european-countries-review/)** — `2016-01-01` | `143 Pages`

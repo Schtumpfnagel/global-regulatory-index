@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,985` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,987` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-17 11:56 UTC`
+**Last Automated Sync:** `2026-11-17 13:03 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`506` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`508` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`486` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,985 of 6,985)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–6,987 of 6,987)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -785,6 +785,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 ### [United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-secretariat/](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
 
+- `[`UN-NV-2024-88`]` **[Diplomatic relations between El Salvador and Zambia as of 10 December 2024](https://www.indexdata.org/nv-2024-88-diplomatic-relations-between-el-salvador-and-zambia-as-of-10-december-2024/)** — `2024-12-10` | `4 Pages`
 - `[`UN-NV-2024-92`]` **[Diplomatic relations between Djibouti and El Salvador as of 6 December 2024](https://www.indexdata.org/nv-2024-92-diplomatic-relations-between-djibouti-and-el-salvador-as-of-6-december-2024/)** — `2024-12-06` | `5 Pages`
 - `[`UN-NV-2024-87`]` **[Diplomatic relations between Bolivia (Plurinational State of) and Mali as of 6 December 2024](https://www.indexdata.org/nv-2024-87-diplomatic-relations-between-bolivia-plurinational-state-of-and-mali-as-of-6-december-2024/)** — `2024-12-06` | `5 Pages`
 - `[`UN-NV-2024-86`]` **[Diplomatic relations between Jordan and Timor-Leste as of 22 November 2024](https://www.indexdata.org/nv-2024-86-diplomatic-relations-between-jordan-and-timor-leste-as-of-22-november-2024/)** — `2024-11-22` | `8 Pages`
@@ -970,6 +971,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretari
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 
+- `[`UN-A-RES-79-81`]` **[Peaceful settlement of the question of Palestine](https://www.indexdata.org/a-res-79-81-peaceful-settlement-of-the-question-of-palestine/)** — `2024-12-10` | `8 Pages`
 - `[`UN-A-RES-79-78`]` **[Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on Their Destruction](https://www.indexdata.org/a-res-79-78-convention-on-the-prohibition-of-the-development-production-and-stockpiling-of-bacteriological-biological-and-toxin-weapons-and-on-their-destruction/)** — `2024-12-10` | `6 Pages`
 - `[`UN-A-RES-79-77`]` **[Comprehensive Nuclear-Test-Ban Treaty](https://www.indexdata.org/a-res-79-77-comprehensive-nuclear-test-ban-treaty/)** — `2024-12-10` | `3 Pages`
 - `[`UN-A-C.5-79-27`]` **[Investigation into the conditions and circumstances resulting in the tragic death of Dag Hammarskjöld and of the members of the party accompanying him : programme budget implications of draft resolution A/79/L.26 — Statement](https://www.indexdata.org/a-c-5-79-27-investigation-into-the-conditions-and-circumstances-resulting-in-the-tragic-death-of-dag-hammarskjold-and-of-the-members-of-the-party-accompanying-him-programme-budget-implications-of/)** — `2024-11-29` | `4 Pages`

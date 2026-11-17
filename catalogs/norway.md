@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/norway/feed/](https://www.indexdata.org/norway/feed/)  
 **Wikidata Sovereign Entity:** [`Q20`](https://www.wikidata.org/wiki/Q20)  
 **Governing Open-Government Framework:** *Åndsverkloven § 14 / NLOD 2.0*  
-**Total Indexed Dossiers in Norway:** `71` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-17 11:56 UTC`
+**Total Indexed Dossiers in Norway:** `73` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-17 13:03 UTC`
 
 ---
 
@@ -17,14 +17,14 @@
 - **[Norwegian Defence Research Establishment (FFI)](https://www.indexdata.org/norway/norwegian-defence-research-establishment-ffi/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-defence-research-establishment-ffi/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-defence-research-establishment-ffi/feed/)
 - **[Statistics Norway (Statistisk sentralbyrå - SSB)](https://www.indexdata.org/norway/statistics-norway-statistisk-sentralbyr-ssb/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/norway/statistics-norway-statistisk-sentralbyr-ssb/) | [RSS Feed](https://www.indexdata.org/norway/statistics-norway-statistisk-sentralbyr-ssb/feed/)
 - **[Norwegian Consumer Council (Forbrukerrådet)](https://www.indexdata.org/norway/norwegian-consumer-council-forbrukerr-det/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-consumer-council-forbrukerr-det/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-consumer-council-forbrukerr-det/feed/)
+- **[Parliamentary Ombud (Sivilombudet)](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/) | [RSS Feed](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/feed/)
 - **[Institute of Marine Research (Havforskningsinstituttet)](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/) | [RSS Feed](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/feed/)
 - **[Norwegian Institute of Bioeconomy Research (NIBIO)](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/feed/)
-- **[Parliamentary Ombud (Sivilombudet)](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/) | [RSS Feed](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/feed/)
 - **[Norwegian Communications Authority (Nasjonal kommunikasjonsmyndighet - Nkom)](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–71 of 71)
+## Indexed Statutory & Regulatory Dossiers (Records 1–73 of 73)
 
 ### [Geological Survey of Norway (Norges geologiske undersøkelse - NGU)](https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/)
 Canonical Authority Archive: [https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/](https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/) | [RSS Feed](https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/feed/)
@@ -103,6 +103,16 @@ Canonical Authority Archive: [https://www.indexdata.org/norway/norwegian-consume
 - `[`NO-FORBRUKERRADET-54306`]` **[2026-02-27 final letter to EU policymakers (2)](https://www.indexdata.org/2026-02-27-final-letter-to-eu-policymakers-2/)** — `2026-02-26` | `4 Pages`
 - `[`NO-FORBRUKERRADET-54292`]` **[2026-02-27 final letter to EU policymakers (1)](https://www.indexdata.org/2026-02-27-final-letter-to-eu-policymakers-1/)** — `2026-02-26` | `4 Pages`
 
+### [Parliamentary Ombud (Sivilombudet)](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/)
+Canonical Authority Archive: [https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/) | [RSS Feed](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/feed/)
+
+- `[`NO-SIVILOMBUDET-63978`]` **[Full report – Children in security cells and restraint beds in Norwegian prisons 2016-2025](https://www.indexdata.org/full-report-children-in-security-cells-and-restraint-beds-in-norwegian-prisons-2016-2025/)** — `2026-11-17` | `24 Pages`
+- `[`NO-SIVILOMBUDET-63971`]` **[Children in security cells and restraint beds in Norwegian prisons 2016-2025](https://www.indexdata.org/children-in-security-cells-and-restraint-beds-in-norwegian-prisons-2016-2025/)** — `2026-11-17` | `24 Pages`
+- `[`NO-SIVILOMBUDET-63790`]` **[Norwegian NPM submission to UN Committee Against Torture 85th session](https://www.indexdata.org/norwegian-npm-submission-to-un-committee-against-torture-85th-session/)** — `2026-10-26` | `28 Pages`
+- `[`NO-SIVILOMBUDET-63486`]` **[Special-report-to-the-Storting-on-extensive-cell-confinement-and-de-facto-isolation-in-Norwegian-prisons-2025 (1)](https://www.indexdata.org/special-report-to-the-storting-on-extensive-cell-confinement-and-de-facto-isolation-in-norwegian-prisons-2025-1/)** — `2026-09-11` | `48 Pages`
+- `[`NO-SIVILOMBUDET-63482`]` **[Special-report-to-the-Storting-on-extensive-cell-confinement-and-de-facto-isolation-in-Norwegian-prisons-2025 (1)](https://www.indexdata.org/special-report-to-the-storting-on-extensive-cell-confinement-and-de-facto-isolation-in-norwegian-prisons-2025-1-2/)** — `2026-09-11` | `48 Pages`
+- `[`NO-SIVILOMBUDET-63153`]` **[Thematic report 2026 – Healthcare services in prison](https://www.indexdata.org/thematic-report-2026-healthcare-services-in-prison/)** — `2026-06-19` | `28 Pages`
+
 ### [Institute of Marine Research (Havforskningsinstituttet)](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/)
 Canonical Authority Archive: [https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/) | [RSS Feed](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/feed/)
 
@@ -119,14 +129,6 @@ Canonical Authority Archive: [https://www.indexdata.org/norway/norwegian-institu
 - `[`NO-CRISTIN-1593789`]` **[Comparing population and incident data for optimal air ambulance base locations in Norway](https://www.indexdata.org/comparing-population-and-incident-data-for-optimal-air-ambulance-base-locations-in-norway/)** — `2025-08-21` | `11 Pages`
 - `[`NO-CRISTIN-1842651`]` **[Increased perinatal survival and improved ventilation skills over a five-year period: An observational study](https://www.indexdata.org/increased-perinatal-survival-and-improved-ventilation-skills-over-a-five-year-period-an-observational-study/)** — `2020-10-12` | `14 Pages`
 - `[`NO-CRISTIN-1253632`]` **[Redefining clinical leadership for team-course development](https://www.indexdata.org/redefining-clinical-leadership-for-team-course-development/)** — `2015-07-10` | `9 Pages`
-
-### [Parliamentary Ombud (Sivilombudet)](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/)
-Canonical Authority Archive: [https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/) | [RSS Feed](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/feed/)
-
-- `[`NO-SIVILOMBUDET-63790`]` **[Norwegian NPM submission to UN Committee Against Torture 85th session](https://www.indexdata.org/norwegian-npm-submission-to-un-committee-against-torture-85th-session/)** — `2026-10-26` | `28 Pages`
-- `[`NO-SIVILOMBUDET-63486`]` **[Special-report-to-the-Storting-on-extensive-cell-confinement-and-de-facto-isolation-in-Norwegian-prisons-2025 (1)](https://www.indexdata.org/special-report-to-the-storting-on-extensive-cell-confinement-and-de-facto-isolation-in-norwegian-prisons-2025-1/)** — `2026-09-11` | `48 Pages`
-- `[`NO-SIVILOMBUDET-63482`]` **[Special-report-to-the-Storting-on-extensive-cell-confinement-and-de-facto-isolation-in-Norwegian-prisons-2025 (1)](https://www.indexdata.org/special-report-to-the-storting-on-extensive-cell-confinement-and-de-facto-isolation-in-norwegian-prisons-2025-1-2/)** — `2026-09-11` | `48 Pages`
-- `[`NO-SIVILOMBUDET-63153`]` **[Thematic report 2026 – Healthcare services in prison](https://www.indexdata.org/thematic-report-2026-healthcare-services-in-prison/)** — `2026-06-19` | `28 Pages`
 
 ### [Norwegian Communications Authority (Nasjonal kommunikasjonsmyndighet - Nkom)](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/)
 Canonical Authority Archive: [https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/feed/)

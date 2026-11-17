@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/belgium/feed/](https://www.indexdata.org/belgium/feed/)  
 **Wikidata Sovereign Entity:** [`Q31`](https://www.wikidata.org/wiki/Q31)  
 **Governing Open-Government Framework:** *Koninklijk besluit van 2 juni 2019 betreffende het hergebruik van overheidsinformatie & Code de droit économique / Wetboek van economisch recht, Art. XI.172*  
-**Total Indexed Dossiers in Belgium:** `91` across `30` issuing authorities  
-**Last Automated Sync:** `2026-11-17 11:56 UTC`
+**Total Indexed Dossiers in Belgium:** `98` across `32` issuing authorities  
+**Last Automated Sync:** `2026-11-17 13:03 UTC`
 
 ---
 
-## Issuing Authorities in Belgium (30 Authorities)
+## Issuing Authorities in Belgium (32 Authorities)
 
-- **[Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
+- **[Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
 - **[Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
 - **[Royal Belgian Institute of Natural Sciences (RBINS) — Geological Survey of Belgium](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/feed/)
 - **[RIZIV](https://www.indexdata.org/belgium/riziv/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
@@ -24,10 +24,10 @@
 - **[Flemish Institute for Technological Research (VITO)](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-institute-for-technological-research-vito/feed/)
 - **[Flemish Peace Institute](https://www.indexdata.org/belgium/flemish-peace-institute/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-peace-institute/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-peace-institute/feed/)
 - **[French Community Commission of Brussels (COCOF)](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/) | [RSS Feed](https://www.indexdata.org/belgium/french-community-commission-of-brussels-cocof/feed/)
+- **[NIHDI](https://www.indexdata.org/belgium/nihdi/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/nihdi/) | [RSS Feed](https://www.indexdata.org/belgium/nihdi/feed/)
 - **[Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
 - **[Royal Institute for Cultural Heritage (KIK-IRPA)](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/) | [RSS Feed](https://www.indexdata.org/belgium/royal-institute-for-cultural-heritage-kik-irpa/feed/)
 - **[Belgian Federal Science Policy Office (BELSPO)](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/) | [RSS Feed](https://www.indexdata.org/belgium/belgian-federal-science-policy-office-belspo/feed/)
-- **[NIHDI](https://www.indexdata.org/belgium/nihdi/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/nihdi/) | [RSS Feed](https://www.indexdata.org/belgium/nihdi/feed/)
 - **[Brussels-Capital Region](https://www.indexdata.org/belgium/brussels-capital-region/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/brussels-capital-region/) | [RSS Feed](https://www.indexdata.org/belgium/brussels-capital-region/feed/)
 - **[FPS BOSA](https://www.indexdata.org/belgium/fps-bosa/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/fps-bosa/) | [RSS Feed](https://www.indexdata.org/belgium/fps-bosa/feed/)
 - **[Federal Planning Bureau (FPB)](https://www.indexdata.org/belgium/federal-planning-bureau-fpb/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/federal-planning-bureau-fpb/) | [RSS Feed](https://www.indexdata.org/belgium/federal-planning-bureau-fpb/feed/)
@@ -42,10 +42,12 @@
 - **[Royal Library of Belgium (KBR)](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/) | [RSS Feed](https://www.indexdata.org/belgium/royal-library-of-belgium-kbr/feed/)
 - **[Royal Meteorological Institute of Belgium (RMI)](https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/) | [RSS Feed](https://www.indexdata.org/belgium/royal-meteorological-institute-of-belgium-rmi/feed/)
 - **[Royal Museum for Central Africa (RMCA)](https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/) | [RSS Feed](https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/feed/)
+- **[SCS Boehringer Ingelheim Comm. V](https://www.indexdata.org/belgium/scs-boehringer-ingelheim-comm-v/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/scs-boehringer-ingelheim-comm-v/) | [RSS Feed](https://www.indexdata.org/belgium/scs-boehringer-ingelheim-comm-v/feed/)
+- **[Spine Society of Belgium](https://www.indexdata.org/belgium/spine-society-of-belgium/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/spine-society-of-belgium/) | [RSS Feed](https://www.indexdata.org/belgium/spine-society-of-belgium/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–91 of 91)
+## Indexed Statutory & Regulatory Dossiers (Records 1–98 of 98)
 
 ### [Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
@@ -74,6 +76,10 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgia
 - `[`BE-SCIENSANO-13162`]` **[Investigating care outcomes and experiences of adults with Long COVID through patient-reported indicators (PROMs and PREMs) in Belgium.](https://www.indexdata.org/investigating-care-outcomes-and-experiences-of-adults-with-long-covid-through-patient-reported-indicators-proms-and-prems-in-belgium/)** — `2026-10-05` | `14 Pages`
 - `[`BE-SCIENSANO-13134`]` **[Wastewater-based epidemiological surveillance - Weekly report 2026 week 40](https://www.indexdata.org/wastewater-based-epidemiological-surveillance-weekly-report-2026-week-40/)** — `2026-10-05` | `29 Pages`
 - `[`BE-SCIENSANO-13087`]` **[Advancing cancer care for adolescents and young adults: the role of the European Network of Expertise](https://www.indexdata.org/advancing-cancer-care-for-adolescents-and-young-adults-the-role-of-the-european-network-of-expertise/)** — `2026-09-23` | `5 Pages`
+- `[`BE-ODP-f4b89350-6e4f-4d28-8bd8-a77b54d9221e`]` **[Surveillance of infectious diseases in children by paediatricians and GPs: Hemolytic Uremic Syndrome](https://www.indexdata.org/surveillance-of-infectious-diseases-in-children-by-paediatricians-and-gps-hemolytic-uremic-syndrome/)** — `2026-08-11` | `16 Pages`
+- `[`BE-ODP-ee80bd1b-3ecc-4d66-a101-21d6d8145561`]` **[Unravelling the long-term and indirect health impact of the COVID-19 crisis in Belgium (HELICON)](https://www.indexdata.org/unravelling-the-long-term-and-indirect-health-impact-of-the-covid-19-crisis-in-belgium-helicon/)** — `2026-08-11` | `10 Pages`
+- `[`BE-ODP-b0359539-7c5a-465a-94ff-fb66f639c843`]` **[Surveillance of infectious diseases in children by paediatricians and GPs: Acute Flaccid Paralysis](https://www.indexdata.org/surveillance-of-infectious-diseases-in-children-by-paediatricians-and-gps-acute-flaccid-paralysis/)** — `2026-08-11` | `16 Pages`
+- `[`BE-ODP-9de33506-3d74-4e85-8538-4f9e91ec1778`]` **[Surveillance of infectious diseases in children by paediatricians and GPs: Mumps](https://www.indexdata.org/surveillance-of-infectious-diseases-in-children-by-paediatricians-and-gps-mumps/)** — `2026-08-11` | `16 Pages`
 - `[`BE-OA-W4210328293`]` **[A Journey of Evaluation and Impact Measurement](https://www.indexdata.org/a-journey-of-evaluation-and-impact-measurement/)** — `2021-01-01` | `36 Pages`
 
 ### [Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)
@@ -162,6 +168,13 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/french-community
 - `[`BE-CCF-CULT-2596`]` **[Règlement 2026-2027- PDF – 164 ko -Télécharger le document](https://www.indexdata.org/reglement-2026-2027-pdf-164-ko-telecharger-le-document/)** — `2026-03-18` | `7 Pages`
 - `[`BE-CCF-IMP-2926`]` **[Conférence pour l’IHECS – MC – Les Publics_Emilie DUVIVIER](https://www.indexdata.org/conference-pour-lihecs-mc-les-publics_emilie-duvivier/)** — `2025-10-13` | `33 Pages`
 
+### [NIHDI](https://www.indexdata.org/belgium/nihdi/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/nihdi/](https://www.indexdata.org/belgium/nihdi/) | [RSS Feed](https://www.indexdata.org/belgium/nihdi/feed/)
+
+- `[`BE-ODP-781c6e2f-6b25-472e-875d-4aa4d6407184`]` **[Quality Electronic Registration of Medical acts, Implants and Devices: Orthopedic Prosthesis Identification Data: Total femur](https://www.indexdata.org/quality-electronic-registration-of-medical-acts-implants-and-devices-orthopedic-prosthesis-identification-data-total-femur/)** — `2026-08-11` | `11 Pages`
+- `[`BE-ODP-61f5b226-aafb-470e-834c-ec5a0a549aa2`]` **[Quality Electronic Registration of Medical acts, Implants and Devices: Coronary stents](https://www.indexdata.org/quality-electronic-registration-of-medical-acts-implants-and-devices-coronary-stents/)** — `2026-08-11` | `11 Pages`
+- `[`BE-ODP-0583de5d-5999-4d77-bb68-3a5a0fb399d9`]` **[Reimbursement of implantable meshes for the repair of prolapse, for vaginal placement](https://www.indexdata.org/reimbursement-of-implantable-meshes-for-the-repair-of-prolapse-for-vaginal-placement/)** — `2026-08-11` | `9 Pages`
+
 ### [Provincial Development Agency West Flanders (POM West-Vlaanderen)](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/) | [RSS Feed](https://www.indexdata.org/belgium/provincial-development-agency-west-flanders-pom-west-vlaanderen/feed/)
 
@@ -181,12 +194,6 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/belgian-federal-
 
 - `[`BE-ZEN-ECON-23471600`]` **[Climate Change Impacts on Biodiversity in Catalonia & California. Key Findings and Recommendations: Drought, Wildfire, and Marine Heat Waves](https://www.indexdata.org/climate-change-impacts-on-biodiversity-in-catalonia-california-key-findings-and-recommendations-drought-wildfire-and-marine-heat-waves/)** — `2026-01-01` | `42 Pages`
 - `[`BE-ZEN-ECON-21508557`]` **[Report on the capacity-building of IPBES and IPCC National Focal Points](https://www.indexdata.org/report-on-the-capacity-building-of-ipbes-and-ipcc-national-focal-points/)** — `2025-11-30` | `43 Pages`
-
-### [NIHDI](https://www.indexdata.org/belgium/nihdi/)
-Canonical Authority Archive: [https://www.indexdata.org/belgium/nihdi/](https://www.indexdata.org/belgium/nihdi/) | [RSS Feed](https://www.indexdata.org/belgium/nihdi/feed/)
-
-- `[`BE-ODP-781c6e2f-6b25-472e-875d-4aa4d6407184`]` **[Quality Electronic Registration of Medical acts, Implants and Devices: Orthopedic Prosthesis Identification Data: Total femur](https://www.indexdata.org/quality-electronic-registration-of-medical-acts-implants-and-devices-orthopedic-prosthesis-identification-data-total-femur/)** — `2026-08-11` | `11 Pages`
-- `[`BE-ODP-0583de5d-5999-4d77-bb68-3a5a0fb399d9`]` **[Reimbursement of implantable meshes for the repair of prolapse, for vaginal placement](https://www.indexdata.org/reimbursement-of-implantable-meshes-for-the-repair-of-prolapse-for-vaginal-placement/)** — `2026-08-11` | `9 Pages`
 
 ### [Brussels-Capital Region](https://www.indexdata.org/belgium/brussels-capital-region/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/brussels-capital-region/](https://www.indexdata.org/belgium/brussels-capital-region/) | [RSS Feed](https://www.indexdata.org/belgium/brussels-capital-region/feed/)
@@ -257,6 +264,16 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-meteorolog
 Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/](https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/) | [RSS Feed](https://www.indexdata.org/belgium/royal-museum-for-central-africa-rmca/feed/)
 
 - `[`BE-ZEN-CULT-14046942`]` **[CoARA Action Plan of the e Research Foundation Flanders (FWO)](https://www.indexdata.org/coara-action-plan-of-the-e-research-foundation-flanders-fwo/)** — `2024-09-25` | `4 Pages`
+
+### [SCS Boehringer Ingelheim Comm. V](https://www.indexdata.org/belgium/scs-boehringer-ingelheim-comm-v/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/scs-boehringer-ingelheim-comm-v/](https://www.indexdata.org/belgium/scs-boehringer-ingelheim-comm-v/) | [RSS Feed](https://www.indexdata.org/belgium/scs-boehringer-ingelheim-comm-v/feed/)
+
+- `[`BE-ODP-858d2247-9f11-4bec-aa4d-e743047d05ba`]` **[Real-world data collection on diagnosis, course and outcomes patients suffering PROgressive Fibrosing Interstitial Lung Disease](https://www.indexdata.org/real-world-data-collection-on-diagnosis-course-and-outcomes-patients-suffering-progressive-fibrosing-interstitial-lung-disease/)** — `2026-08-11` | `8 Pages`
+
+### [Spine Society of Belgium](https://www.indexdata.org/belgium/spine-society-of-belgium/)
+Canonical Authority Archive: [https://www.indexdata.org/belgium/spine-society-of-belgium/](https://www.indexdata.org/belgium/spine-society-of-belgium/) | [RSS Feed](https://www.indexdata.org/belgium/spine-society-of-belgium/feed/)
+
+- `[`BE-ODP-0866a4a5-97e8-4aa1-951d-0efb95fd2e25`]` **[Pilot trial for the development of a Belgian national registry on treatments for degenerative spinal disorders](https://www.indexdata.org/pilot-trial-for-the-development-of-a-belgian-national-registry-on-treatments-for-degenerative-spinal-disorders/)** — `2026-08-11` | `14 Pages`
 
 ---
 
