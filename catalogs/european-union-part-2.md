@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,195` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,201` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | **[Part 2 (Current)]** | [Part 3](european-union-part-3.md) | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-17 14:01 UTC`
+**Last Automated Sync:** `2026-11-17 14:08 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,240` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,246` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`630` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,195)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,201)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -884,12 +884,12 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-PIPE-20080068_nts_en`]` **[EIB Project Environmental Assessment: 20080068 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20080068-non-technical-summary-nts/)** — `2025-04-15` | `14 Pages`
 - `[`EIB-PIPE-20080068_nts1_en`]` **[EIB Project Environmental Assessment: 20080068 Nts1](https://www.indexdata.org/eib-project-environmental-assessment-20080068-nts1/)** — `2025-04-15` | `88 Pages`
 - `[`EIB-PIPE-20080067_eia_en`]` **[EIB Project Environmental Assessment: 20080067 Environmental Impact Assessment (EIA)](https://www.indexdata.org/eib-project-environmental-assessment-20080067-environmental-impact-assessment-eia/)** — `2025-04-15` | `40 Pages`
-- `[`EIB-PIPE-20080067_eia1_en`]` **[EIB Project Environmental Assessment: 20080067 Eia1](https://www.indexdata.org/eib-project-environmental-assessment-20080067-eia1/)** — `2025-04-15` | `43 Pages`
-- `[`EIB-PIPE-20080045_nts_en`]` **[EIB Project Environmental Assessment: 20080045 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20080045-non-technical-summary-nts/)** — `2025-04-15` | `66 Pages`
 
 ### [European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 
+- `[`CELEX-32026R0667`]` **[Regulation (EU) 2026/667 of the European Parliament and of the Council of 11 March 2026 amending Regulation (EU) 2021/1119 as regards the setting of a Union intermediate climate target for 2040](https://www.indexdata.org/regulation-eu-2026-667-of-the-european-parliament-and-of-the-council-of-11-march-2026-amending-regulation-eu-2021-1119-as-regards-the-setting-of-a-union-intermediate-climate-target-for-2040/)** — `2026-03-11` | `8 Pages`
+- `[`CELEX-32026R0608`]` **[Commission Implementing Regulation (EU) 2026/608 of 11 March 2026 on the registration of the traditional speciality guaranteed Kräuterhefe / Herbal yeast / Lievito di erbe / Levure d’herbes / Levadura herbaria (TSG) in the Union register of traditional specialities guaranteed pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council](https://www.indexdata.org/commission-implementing-regulation-eu-2026-608-of-11-march-2026-on-the-registration-of-the-traditional-speciality-guaranteed-krauterhefe-herbal-yeast-lievito-di-erbe-levure-dherb/)** — `2026-03-11` | `2 Pages`
 - `[`CELEX-32026L0706`]` **[Directive (EU) 2026/706 of the European Parliament and of the Council of 11 March 2026 amending Directive 2014/32/EU as regards measuring systems for electric vehicle supply equipment and compressed gas dispensers, and electricity, gas and thermal energy meters (Text with EEA relevance)](https://www.indexdata.org/directive-eu-2026-706-of-the-european-parliament-and-of-the-council-of-11-march-2026-amending-directive-2014-32-eu-as-regards-measuring-systems-for-electric-vehicle-supply-equipment-and-compressed-g/)** — `2026-03-11` | `21 Pages`
 - `[`CELEX-32026D0723`]` **[Decision (EU) 2026/723 of the European Parliament and of the Council of 11 March 2026 on the mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application from Belgium – EGF/2025/004 BE/Tupperware](https://www.indexdata.org/decision-eu-2026-723-of-the-european-parliament-and-of-the-council-of-11-march-2026-on-the-mobilisation-of-the-european-globalisation-adjustment-fund-for-displaced-workers-following-an-application-f/)** — `2026-03-11` | `2 Pages`
 - `[`CELEX-32026D0533`]` **[Commission Implementing Decision (EU) 2026/533 of 11 March 2026 laying down rules for the application of Regulation (EU) 2024/1358 of the European Parliament and of the Council as regards the content of the monthly cross-system statistics using data from Eurodac, the Visa Information System, the European Travel Information and Authorisation System and the Entry/Exit System pursuant to Article 12(3) of that Regulation](https://www.indexdata.org/commission-implementing-decision-eu-2026-533-of-11-march-2026-laying-down-rules-for-the-application-of-regulation-eu-2024-1358-of-the-european-parliament-and-of-the-council-as-regards-th/)** — `2026-03-11` | `9 Pages`

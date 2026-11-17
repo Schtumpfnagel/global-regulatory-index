@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,195` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,201` across `29` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md) | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-17 14:01 UTC`
+**Last Automated Sync:** `2026-11-17 14:08 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,240` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,246` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`630` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,195)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,201)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -1306,8 +1306,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`CELEX-32026R0715`]` **[Regulation (EU) 2026/715 of the European Parliament and of the Council of 11 March 2026 on European Union designs (codification) (Text with EEA relevance)](https://www.indexdata.org/regulation-eu-2026-715-of-the-european-parliament-and-of-the-council-of-11-march-2026-on-european-union-designs-codification-text-with-eea-relevance/)** — `2026-03-11` | `69 Pages`
 - `[`CELEX-32026R0697`]` **[Regulation (EU) 2026/697 of the European Parliament and of the Council of 11 March 2026 on cooperation among enforcement authorities responsible for the enforcement of Directive (EU) 2019/633 on unfair trading practices in business-to-business relationships in the agricultural and food supply chain](https://www.indexdata.org/regulation-eu-2026-697-of-the-european-parliament-and-of-the-council-of-11-march-2026-on-cooperation-among-enforcement-authorities-responsible-for-the-enforcement-of-directive-eu-2019-633-on-unfai/)** — `2026-03-11` | `17 Pages`
 - `[`CELEX-32026R0687`]` **[Regulation (EU) 2026/687 of the European Parliament and of the Council of 11 March 2026 implementing the bilateral safeguard clauses of the EU-Mercosur Partnership Agreement and the EU-Mercosur Interim Trade Agreement for agricultural products](https://www.indexdata.org/regulation-eu-2026-687-of-the-european-parliament-and-of-the-council-of-11-march-2026-implementing-the-bilateral-safeguard-clauses-of-the-eu-mercosur-partnership-agreement-and-the-eu-mercosur-interi/)** — `2026-03-11` | `14 Pages`
-- `[`CELEX-32026R0667`]` **[Regulation (EU) 2026/667 of the European Parliament and of the Council of 11 March 2026 amending Regulation (EU) 2021/1119 as regards the setting of a Union intermediate climate target for 2040](https://www.indexdata.org/regulation-eu-2026-667-of-the-european-parliament-and-of-the-council-of-11-march-2026-amending-regulation-eu-2021-1119-as-regards-the-setting-of-a-union-intermediate-climate-target-for-2040/)** — `2026-03-11` | `8 Pages`
-- `[`CELEX-32026R0608`]` **[Commission Implementing Regulation (EU) 2026/608 of 11 March 2026 on the registration of the traditional speciality guaranteed Kräuterhefe / Herbal yeast / Lievito di erbe / Levure d’herbes / Levadura herbaria (TSG) in the Union register of traditional specialities guaranteed pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council](https://www.indexdata.org/commission-implementing-regulation-eu-2026-608-of-11-march-2026-on-the-registration-of-the-traditional-speciality-guaranteed-krauterhefe-herbal-yeast-lievito-di-erbe-levure-dherb/)** — `2026-03-11` | `2 Pages`
 
 ### [European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-medicines-agency-ema/](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/)
@@ -1507,6 +1505,8 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 
 - `[`EIB-EMN-15780-2-2-r4w_ia_greece_36-2-2`]` **[EIB Institute & European Microfinance: 2.2 r4w ia Greece 36 2 1](https://www.indexdata.org/eib-institute-european-microfinance-2-2-r4w-ia-greece-36-2-1/)** — `2026-11-17` | `91 Pages`
 - `[`EIB-EMN-15779-1-2-r4w_ia_spain_34-2`]` **[EIB Institute & European Microfinance: 1.2 r4w ia Spain 34 1](https://www.indexdata.org/eib-institute-european-microfinance-1-2-r4w-ia-spain-34-1/)** — `2026-11-17` | `83 Pages`
+- `[`EIB-EMN-15775-1-2-r4w_ia_spain_34`]` **[EIB Institute & European Microfinance: 1.2 r4w ia Spain 34](https://www.indexdata.org/eib-institute-european-microfinance-1-2-r4w-ia-spain-34/)** — `2026-11-17` | `83 Pages`
+- `[`EIB-EMN-15774-2-2-r4w_ia_greece_36-2`]` **[EIB Institute & European Microfinance: 2.2 r4w ia Greece 36 2](https://www.indexdata.org/eib-institute-european-microfinance-2-2-r4w-ia-greece-36-2/)** — `2026-11-17` | `91 Pages`
 - `[`EIB-EMN-15737-fhq_r_toolkit_summary_emn_07`]` **[Fhq r Toolkit Summary European Microfinance Network (EMN) 07](https://www.indexdata.org/fhq-r-toolkit-summary-european-microfinance-network-emn-07/)** — `2026-10-30` | `31 Pages`
 - `[`EIB-EMN-15735-r4w_impact_assessment_spain_greece_`]` **[EIB Institute & European Microfinance: R4w Impact Assessment Spain Greece](https://www.indexdata.org/eib-institute-european-microfinance-r4w-impact-assessment-spain-greece/)** — `2026-10-30` | `30 Pages`
 - `[`EIB-EMN-15337-report_25`]` **[EIB Institute & European Microfinance — Report 25](https://www.indexdata.org/eib-institute-european-microfinance-report-25/)** — `2026-09-15` | `84 Pages`
