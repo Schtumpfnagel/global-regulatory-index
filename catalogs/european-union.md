@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,188` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,195` across `29` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md) | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-17 13:03 UTC`
+**Last Automated Sync:** `2026-11-17 14:01 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,233` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,240` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`630` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,188)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,195)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -623,8 +623,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`CELEX-32026D0603`]` **[Commission Implementing Decision (EU) 2026/603 of 12 March 2026 amending Implementing Decision (EU) 2024/2207 concerning certain emergency measures relating to sheep pox and goat pox in Greece (notified under document C(2026) 1782)](https://www.indexdata.org/commission-implementing-decision-eu-2026-603-of-12-march-2026-amending-implementing-decision-eu-2024-2207-concerning-certain-emergency-measures-relating-to-sheep-pox-and-goat-pox-in-gree/)** — `2026-03-12` | `102 Pages`
 - `[`CELEX-32026D0550`]` **[Commission Implementing Decision (EU) 2026/550 of 12 March 2026 amending Implementing Decision (EU) 2022/1954 as regards harmonised standards on power measurements and declarations for electric marine propulsion and on protection from falling overboard and means of reboarding](https://www.indexdata.org/commission-implementing-decision-eu-2026-550-of-12-march-2026-amending-implementing-decision-eu-2022-1954-as-regards-harmonised-standards-on-power-measurements-and-declarations-for-elect/)** — `2026-03-12` | `3 Pages`
 - `[`CELEX-32026D0546`]` **[Commission Implementing Decision (EU) 2026/546 of 12 March 2026 amending Implementing Decision (EU) 2023/1586 as regards harmonised standards for packaging machines, rough-terrain trucks, food processing machinery, cranes, cableway installations, agricultural and forestry machinery, lifts, rescue tools, hand-held tools, equipment in railway applications, aircraft ground support equipment, earth-moving machinery and refuse collection vehicles and correcting that Decision](https://www.indexdata.org/commission-implementing-decision-eu-2026-546-of-12-march-2026-amending-implementing-decision-eu-2023-1586-as-regards-harmonised-standards-for-packaging-machines-rough-terrain-trucks-fo/)** — `2026-03-12` | `6 Pages`
-- `[`CELEX-32026R0540`]` **[Commission Implementing Regulation (EU) 2026/540 of 11 March 2026 concerning the authorisation of acacia gum as a feed additive for all animal species](https://www.indexdata.org/commission-implementing-regulation-eu-2026-540-of-11-march-2026-concerning-the-authorisation-of-acacia-gum-as-a-feed-additive-for-all-animal-species/)** — `2026-03-11` | `6 Pages`
-- `[`CELEX-32026R0538`]` **[Commission Implementing Regulation (EU) 2026/538 of 11 March 2026 concerning the authorisation of xanthan gum produced with Xanthomonas campestris ATCC SD 7012 or DSM 23730 or CNCM I-4861 or CIP 74.23 as a feed additive for all animal species other than cats, dogs and aquatic species](https://www.indexdata.org/commission-implementing-regulation-eu-2026-538-of-11-march-2026-concerning-the-authorisation-of-xanthan-gum-produced-with-xanthomonas-campestris-atcc-sd-7012-or-dsm-23730-or-cncm-i-4861-or-cip/)** — `2026-03-11` | `7 Pages`
 
 ### [Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/council-of-the-european-union/](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -1507,6 +1505,8 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
 
+- `[`EIB-EMN-15780-2-2-r4w_ia_greece_36-2-2`]` **[EIB Institute & European Microfinance: 2.2 r4w ia Greece 36 2 1](https://www.indexdata.org/eib-institute-european-microfinance-2-2-r4w-ia-greece-36-2-1/)** — `2026-11-17` | `91 Pages`
+- `[`EIB-EMN-15779-1-2-r4w_ia_spain_34-2`]` **[EIB Institute & European Microfinance: 1.2 r4w ia Spain 34 1](https://www.indexdata.org/eib-institute-european-microfinance-1-2-r4w-ia-spain-34-1/)** — `2026-11-17` | `83 Pages`
 - `[`EIB-EMN-15737-fhq_r_toolkit_summary_emn_07`]` **[Fhq r Toolkit Summary European Microfinance Network (EMN) 07](https://www.indexdata.org/fhq-r-toolkit-summary-european-microfinance-network-emn-07/)** — `2026-10-30` | `31 Pages`
 - `[`EIB-EMN-15735-r4w_impact_assessment_spain_greece_`]` **[EIB Institute & European Microfinance: R4w Impact Assessment Spain Greece](https://www.indexdata.org/eib-institute-european-microfinance-r4w-impact-assessment-spain-greece/)** — `2026-10-30` | `30 Pages`
 - `[`EIB-EMN-15337-report_25`]` **[EIB Institute & European Microfinance — Report 25](https://www.indexdata.org/eib-institute-european-microfinance-report-25/)** — `2026-09-15` | `84 Pages`

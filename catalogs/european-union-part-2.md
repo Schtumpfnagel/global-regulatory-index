@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,188` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,195` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | **[Part 2 (Current)]** | [Part 3](european-union-part-3.md) | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-17 13:03 UTC`
+**Last Automated Sync:** `2026-11-17 14:01 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,233` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,240` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`630` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,11 +45,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,188)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,195)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 
+- `[`CELEX-32026R0540`]` **[Commission Implementing Regulation (EU) 2026/540 of 11 March 2026 concerning the authorisation of acacia gum as a feed additive for all animal species](https://www.indexdata.org/commission-implementing-regulation-eu-2026-540-of-11-march-2026-concerning-the-authorisation-of-acacia-gum-as-a-feed-additive-for-all-animal-species/)** — `2026-03-11` | `6 Pages`
+- `[`CELEX-32026R0538`]` **[Commission Implementing Regulation (EU) 2026/538 of 11 March 2026 concerning the authorisation of xanthan gum produced with Xanthomonas campestris ATCC SD 7012 or DSM 23730 or CNCM I-4861 or CIP 74.23 as a feed additive for all animal species other than cats, dogs and aquatic species](https://www.indexdata.org/commission-implementing-regulation-eu-2026-538-of-11-march-2026-concerning-the-authorisation-of-xanthan-gum-produced-with-xanthomonas-campestris-atcc-sd-7012-or-dsm-23730-or-cncm-i-4861-or-cip/)** — `2026-03-11` | `7 Pages`
 - `[`CELEX-32026R0534`]` **[Commission Implementing Regulation (EU) 2026/534 of 11 March 2026 concerning the authorisation of a preparation of Duddingtonia flagrans NCIMB 30336 as a feed additive for grazing animals of bovine, ovine and caprine species other than for milk production, and for grazing animals of camelids, cervids, equines, porcine species and rabbits (holder of authorisation: International Animal Health Products Pty Ltd, represented in the Union by SynTech Regulatory Europe GmbH)](https://www.indexdata.org/commission-implementing-regulation-eu-2026-534-of-11-march-2026-concerning-the-authorisation-of-a-preparation-of-duddingtonia-flagrans-ncimb-30336-as-a-feed-additive-for-grazing-animals-of-bovi/)** — `2026-03-11` | `4 Pages`
 - `[`CELEX-32026R0532`]` **[Commission Implementing Regulation (EU) 2026/532 of 11 March 2026 concerning the renewal of the authorisation and the authorisation of new uses of a preparation of monensin sodium (Coxidin) as a feed additive for chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for reproduction (holder of authorisation: Huvepharma N.V.) and repealing Regulation (EC) No 109/2007 and Implementing Regulation (EU) No 140/2012](https://www.indexdata.org/commission-implementing-regulation-eu-2026-532-of-11-march-2026-concerning-the-renewal-of-the-authorisation-and-the-authorisation-of-new-uses-of-a-preparation-of-monensin-sodium-coxidin-as-a/)** — `2026-03-11` | `7 Pages`
 - `[`CELEX-32026R0528`]` **[Commission Implementing Regulation (EU) 2026/528 of 11 March 2026 concerning the authorisation of patchouli essential oil from Pogostemon cablin Benth. as a feed additive for all animal species](https://www.indexdata.org/commission-implementing-regulation-eu-2026-528-of-11-march-2026-concerning-the-authorisation-of-patchouli-essential-oil-from-pogostemon-cablin-benth-as-a-feed-additive-for-all-animal-species/)** — `2026-03-11` | `5 Pages`
@@ -884,8 +886,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-PIPE-20080067_eia_en`]` **[EIB Project Environmental Assessment: 20080067 Environmental Impact Assessment (EIA)](https://www.indexdata.org/eib-project-environmental-assessment-20080067-environmental-impact-assessment-eia/)** — `2025-04-15` | `40 Pages`
 - `[`EIB-PIPE-20080067_eia1_en`]` **[EIB Project Environmental Assessment: 20080067 Eia1](https://www.indexdata.org/eib-project-environmental-assessment-20080067-eia1/)** — `2025-04-15` | `43 Pages`
 - `[`EIB-PIPE-20080045_nts_en`]` **[EIB Project Environmental Assessment: 20080045 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20080045-non-technical-summary-nts/)** — `2025-04-15` | `66 Pages`
-- `[`EIB-PIPE-20080045_eia_en`]` **[EIB Project Environmental Assessment: 20080045 Environmental Impact Assessment (EIA)](https://www.indexdata.org/eib-project-environmental-assessment-20080045-environmental-impact-assessment-eia/)** — `2025-04-15` | `357 Pages`
-- `[`EIB-PIPE-20080021_nts_en`]` **[EIB Project Environmental Assessment: 20080021 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20080021-non-technical-summary-nts/)** — `2025-04-15` | `6 Pages`
 
 ### [European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)

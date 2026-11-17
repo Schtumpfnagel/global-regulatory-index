@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `186` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-17 13:03 UTC`
+**Total Indexed Dossiers in Ireland:** `187` across `38` issuing authorities  
+**Last Automated Sync:** `2026-11-17 14:01 UTC`
 
 ---
 
 ## Issuing Authorities in Ireland (38 Authorities)
 
 - **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
-- **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
+- **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
 - **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
 - **[Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
 - **[Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
@@ -53,7 +53,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–186 of 186)
+## Indexed Statutory & Regulatory Dossiers (Records 1–187 of 187)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -87,6 +87,7 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](ht
 ### [Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
 
+- `[`IE-OA-W7134237866`]` **[A review of residential heat decarbonisation in Ireland](https://www.indexdata.org/a-review-of-residential-heat-decarbonisation-in-ireland/)** — `2026-03-09` | `27 Pages`
 - `[`IE-OA-W7125698991`]` **[School-level patterns of non-attendance, 2022/23 and 2023/24](https://www.indexdata.org/school-level-patterns-of-non-attendance-2022-23-and-2023-24/)** — `2026-01-26` | `187 Pages`
 - `[`IE-OA-W4416310111`]` **[Afterschool care for school-aged children in Ireland](https://www.indexdata.org/afterschool-care-for-school-aged-children-in-ireland/)** — `2025-11-18` | `91 Pages`
 - `[`IE-OA-W4414653055`]` **[Projections of regional demand and bed capacity requirements for public acute hospitals in Ireland, 2023–2040: Based on the Hippocrates model](https://www.indexdata.org/projections-of-regional-demand-and-bed-capacity-requirements-for-public-acute-hospitals-in-ireland-2023-2040-based-on-the-hippocrates-model/)** — `2025-09-30` | `137 Pages`

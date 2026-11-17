@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/belgium/feed/](https://www.indexdata.org/belgium/feed/)  
 **Wikidata Sovereign Entity:** [`Q31`](https://www.wikidata.org/wiki/Q31)  
 **Governing Open-Government Framework:** *Koninklijk besluit van 2 juni 2019 betreffende het hergebruik van overheidsinformatie & Code de droit économique / Wetboek van economisch recht, Art. XI.172*  
-**Total Indexed Dossiers in Belgium:** `98` across `32` issuing authorities  
-**Last Automated Sync:** `2026-11-17 13:03 UTC`
+**Total Indexed Dossiers in Belgium:** `99` across `32` issuing authorities  
+**Last Automated Sync:** `2026-11-17 14:01 UTC`
 
 ---
 
 ## Issuing Authorities in Belgium (32 Authorities)
 
-- **[Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
+- **[Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
 - **[Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
 - **[Royal Belgian Institute of Natural Sciences (RBINS) — Geological Survey of Belgium](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/feed/)
 - **[RIZIV](https://www.indexdata.org/belgium/riziv/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
@@ -47,11 +47,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–98 of 98)
+## Indexed Statutory & Regulatory Dossiers (Records 1–99 of 99)
 
 ### [Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
 
+- `[`BE-SCIENSANO-97766218-eb84-4441-a3f8-82fcd60fd068`]` **[Weather adjusted next-season pollen integrals improve airborne birch pollen forecasts](https://www.indexdata.org/weather-adjusted-next-season-pollen-integrals-improve-airborne-birch-pollen-forecasts-2/)** — `2026-11-17` | `14 Pages`
 - `[`BE-SCIENSANO-96dc82d9-6dd2-4cfa-a9fb-d5a17b6506de`]` **[Boosting telemedicine use in cancer care: passing the baton between the Joint Actions eCAN and eCAN+](https://www.indexdata.org/boosting-telemedicine-use-in-cancer-care-passing-the-baton-between-the-joint-actions-ecan-and-ecan-2/)** — `2026-11-17` | `3 Pages`
 - `[`BE-SCIENSANO-6b8d8857-4e7f-4664-a20b-d372fc42eed4`]` **[EQA Flow cytometry - Global report - 2026-1](https://www.indexdata.org/eqa-flow-cytometry-global-report-2026-1-2/)** — `2026-11-17` | `38 Pages`
 - `[`BE-SCIENSANO-c5ab6bd6-3a7f-4977-9b26-2c8170af7512`]` **[5.C. Round table: From Policy to Practice: Advancing Cancer Control Through Cross-Country Learning and EU Action](https://www.indexdata.org/5-c-round-table-from-policy-to-practice-advancing-cancer-control-through-cross-country-learning-and-eu-action-2/)** — `2026-11-16` | `2 Pages`
