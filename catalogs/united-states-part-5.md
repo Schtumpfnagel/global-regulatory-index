@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,428` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 05:58 UTC`
+**Last Automated Sync:** `2026-11-17 06:57 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,186` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`907` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`331` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`335` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -254,11 +254,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,424)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,428)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-14579`]` **[Amendment of Class D and E Airspace Over Hickory and Morganton, NC](https://www.indexdata.org/amendment-of-class-d-and-e-airspace-over-hickory-and-morganton-nc/)** — `2025-08-01` | `3 Pages`
+- `[`2025-14578`]` **[Amendment of Class D and Class E5 Airspace Over Kinston, NC](https://www.indexdata.org/amendment-of-class-d-and-class-e5-airspace-over-kinston-nc/)** — `2025-08-01` | `3 Pages`
+- `[`2025-14577`]` **[Amendment of Class D and Class E5 Airspace; Revocation of Class E4 Airspace, Dover, DE](https://www.indexdata.org/amendment-of-class-d-and-class-e5-airspace-revocation-of-class-e4-airspace-dover-de/)** — `2025-08-01` | `2 Pages`
 - `[`2025-14488`]` **[Establishment of Helena Very High Frequency Omnidirectional Range/Tactical Air Navigation (VORTAC) as a Domestic Low Altitude Reporting Point in the State of Montana](https://www.indexdata.org/establishment-of-helena-very-high-frequency-omnidirectional-range-tactical-air-navigation-vortac-as-a-domestic-low-altitude-reporting-point-in-the-state-of-montana-2/)** — `2025-07-31` | `2 Pages`
 - `[`2025-14440`]` **[Airworthiness Directives; Dassault Aviation Airplanes](https://www.indexdata.org/airworthiness-directives-dassault-aviation-airplanes-22/)** — `2025-07-30` | `3 Pages`
 - `[`2025-14439`]` **[Airworthiness Directives; Deutsche Aircraft GmbH (Type Certificate Previously Held by 328 Support Services GmbH; AvCraft Aerospace GmbH; Fairchild Dornier GmbH; Dornier Luftfahrt GmbH) Airplanes](https://www.indexdata.org/airworthiness-directives-deutsche-aircraft-gmbh-type-certificate-previously-held-by-328-support-services-gmbh-avcraft-aerospace-gmbh-fairchild-dornier-gmbh-dornier-luftfahrt-gmbh-airplanes/)** — `2025-07-30` | `3 Pages`
@@ -629,14 +632,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-04396`]` **[Establishment of Class E Airspace; Wickenburg, AZ](https://www.indexdata.org/establishment-of-class-e-airspace-wickenburg-az-3/)** — `2025-03-20` | `2 Pages`
 - `[`2025-04395`]` **[Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways; Eastern United States](https://www.indexdata.org/amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-eastern-united-states/)** — `2025-03-20` | `3 Pages`
 - `[`2025-04393`]` **[Establishment of United States Area Navigation Route Q-161 and Amendment of United States Area Navigation Routes Q-97, Q-133, Q-437, Q-439, Q-445, and Q-481; Eastern United States](https://www.indexdata.org/establishment-of-united-states-area-navigation-route-q-161-and-amendment-of-united-states-area-navigation-routes-q-97-q-133-q-437-q-439-q-445-and-q-481-eastern-united-states/)** — `2025-03-20` | `5 Pages`
-- `[`2025-04392`]` **[Establishment of Restricted Areas R-5305A, R-5305B, and R-5305C; Camp Lejeune, NC; and Restricted Areas R-5307A, R-5307B, and R-5307C; Cherry Point, NC](https://www.indexdata.org/establishment-of-restricted-areas-r-5305a-r-5305b-and-r-5305c-camp-lejeune-nc-and-restricted-areas-r-5307a-r-5307b-and-r-5307c-cherry-point-nc-5/)** — `2025-03-20` | `4 Pages`
-- `[`2025-04266`]` **[Establishment of Class E Airspace; Sunbury, NC](https://www.indexdata.org/establishment-of-class-e-airspace-sunbury-nc/)** — `2025-03-20` | `2 Pages`
-- `[`2025-04124`]` **[Establishment of Class E Airspace; Challis Airport, Challis, ID](https://www.indexdata.org/establishment-of-class-e-airspace-challis-airport-challis-id/)** — `2025-03-20` | `2 Pages`
-- `[`2025-03932`]` **[Revocation of Alaskan Very High Frequency Omnidirectional Range Federal Airway V-447 and Jet Route J-155 and Amendment of Jet Route J-115 in Alaska](https://www.indexdata.org/revocation-of-alaskan-very-high-frequency-omnidirectional-range-federal-airway-v-447-and-jet-route-j-155-and-amendment-of-jet-route-j-115-in-alaska/)** — `2025-03-20` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-14572`]` **[Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards](https://www.indexdata.org/reconsideration-of-2009-endangerment-finding-and-greenhouse-gas-vehicle-standards/)** — `2025-08-01` | `78 Pages`
 - `[`2025-14555`]` **[Public Hearing for Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards](https://www.indexdata.org/public-hearing-for-reconsideration-of-2009-endangerment-finding-and-greenhouse-gas-vehicle-standards/)** — `2025-08-01` | `2 Pages`
 - `[`2025-14531`]` **[Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review Final Rule](https://www.indexdata.org/extension-of-deadlines-in-standards-of-performance-for-new-reconstructed-and-modified-sources-and-emissions-guidelines-for-existing-sources-oil-and-natural-gas-sector-climate-review-final-rule/)** — `2025-07-31` | `20 Pages`
 - `[`2025-14528`]` **[Air Plan Approval; California; South Coast Air Quality Management District](https://www.indexdata.org/air-plan-approval-california-south-coast-air-quality-management-district-2/)** — `2025-07-31` | `3 Pages`

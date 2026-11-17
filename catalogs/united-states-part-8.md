@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,428` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 05:58 UTC`
+**Last Automated Sync:** `2026-11-17 06:57 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,186` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`907` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`331` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`335` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,424)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,428)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -616,11 +616,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-04364`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-129/)** — `2024-03-04` | `2 Pages`
 - `[`2024-04363`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-130/)** — `2024-03-04` | `2 Pages`
 - `[`2024-03008`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-78/)** — `2024-03-04` | `6 Pages`
-- `[`2024-04361`]` **[Amendment of Restricted Areas R-2510A and R-2510B in the Vicinity of El Centro, CA](https://www.indexdata.org/amendment-of-restricted-areas-r-2510a-and-r-2510b-in-the-vicinity-of-el-centro-ca/)** — `2024-03-01` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-14351`]` **[B.F. Strain 11604; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/b-f-strain-11604-exemption-from-the-requirement-of-a-tolerance/)** — `2024-07-02` | `3 Pages`
+- `[`2024-14349`]` **[Air Plan Revisions; California; Motor Vehicle Inspection and Maintenance Program](https://www.indexdata.org/air-plan-revisions-california-motor-vehicle-inspection-and-maintenance-program-2/)** — `2024-07-02` | `6 Pages`
+- `[`2024-14336`]` **[Air Plan Revisions; California; Sacramento Metropolitan Air Quality Management District; Reasonably Available Control Technology District](https://www.indexdata.org/air-plan-revisions-california-sacramento-metropolitan-air-quality-management-district-reasonably-available-control-technology-district/)** — `2024-07-02` | `6 Pages`
 - `[`2024-14408`]` **[Receipt of a Pesticide Petition Filed for Residues of Pesticide Chemicals in or on Various Commodities (May 2024)](https://www.indexdata.org/receipt-of-a-pesticide-petition-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-may-2024/)** — `2024-07-01` | `5 Pages`
 - `[`2024-14268`]` **[Air Plan Approval; New Jersey; Interstate Transport Requirements for the 2010 1-Hour Sulfur Dioxide Standard](https://www.indexdata.org/air-plan-approval-new-jersey-interstate-transport-requirements-for-the-2010-1-hour-sulfur-dioxide-standard-2/)** — `2024-07-01` | `3 Pages`
 - `[`2024-14136`]` **[Air Plan Approval; State of Utah; Utah State Implementation Plan Revisions](https://www.indexdata.org/air-plan-approval-state-of-utah-utah-state-implementation-plan-revisions/)** — `2024-07-01` | `5 Pages`
@@ -792,9 +794,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-02305`]` **[National Emission Standards for Hazardous Air Pollutants: Taconite Iron Ore Processing](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-taconite-iron-ore-processing/)** — `2024-03-06` | `34 Pages`
 - `[`2024-04372`]` **[Various Fragrance Components in Pesticide Formulations; Tolerance Exemption](https://www.indexdata.org/various-fragrance-components-in-pesticide-formulations-tolerance-exemption-2/)** — `2024-03-01` | `15 Pages`
 - `[`2024-04366`]` **[Air Plan Approval; Delaware; Amendments to Delaware's Requirements for Public Notice of Certain Permits](https://www.indexdata.org/air-plan-approval-delaware-amendments-to-delawares-requirements-for-public-notice-of-certain-permits-2/)** — `2024-03-01` | `3 Pages`
-- `[`2024-04362`]` **[Air Plan Approval; Tennessee; Revisions to the Continuous Opacity Monitoring System Requirements](https://www.indexdata.org/air-plan-approval-tennessee-revisions-to-the-continuous-opacity-monitoring-system-requirements-2/)** — `2024-03-01` | `4 Pages`
-- `[`2024-04359`]` **[EPA Method 320-Measurement of Vapor Phase Organic and Inorganic Emissions by Extractive Fourier Transform Infrared (FTIR) Spectroscopy](https://www.indexdata.org/epa-method-320-measurement-of-vapor-phase-organic-and-inorganic-emissions-by-extractive-fourier-transform-infrared-ftir-spectroscopy/)** — `2024-03-01` | `15 Pages`
-- `[`2024-04355`]` **[1,4-Bis&#91;&#91;3-&#91;2-(2-hydroxyethoxy)ethoxy&#93;propyl&#93;amino&#93;-9,10-anthracenedione in Pesticide Formulations; Tolerance Exemption](https://www.indexdata.org/14-bis3-2-2-hydroxyethoxyethoxypropylamino-910-anthracenedione-in-pesticide-formulations-tolerance-exemption/)** — `2024-03-01` | `7 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1334,6 +1333,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
 
+- `[`2024-14367`]` **[Categorical Exclusions From Environmental Review](https://www.indexdata.org/categorical-exclusions-from-environmental-review-2/)** — `2024-07-02` | `11 Pages`
 - `[`2024-13984`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM 100 Cask System, Certificate of Compliance No. 1014, Renewed Amendment No. 16](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-100-cask-system-certificate-of-compliance-no-1014-renewed-amendment-no-16/)** — `2024-06-25` | `6 Pages`
 - `[`2024-13734`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM 100 Cask System, Certificate of Compliance No. 1014, Renewed Amendment No. 16](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-100-cask-system-certificate-of-compliance-no-1014-renewed-amendment-no-16-2/)** — `2024-06-25` | `3 Pages`
 - `[`2024-13230`]` **[Fee Schedules; Fee Recovery for Fiscal Year 2024](https://www.indexdata.org/fee-schedules-fee-recovery-for-fiscal-year-2024/)** — `2024-06-20` | `34 Pages`

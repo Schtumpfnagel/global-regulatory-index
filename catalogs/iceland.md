@@ -4,20 +4,22 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/iceland/](https://www.indexdata.org/iceland/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/iceland/feed/](https://www.indexdata.org/iceland/feed/)  
 **Wikidata Sovereign Entity:** [`Q189`](https://www.wikidata.org/wiki/Q189)  
-**Governing Open-Government Framework:** *Lög nr. 45/2018*  
-**Total Indexed Dossiers in Iceland:** `15` across `2` issuing authorities  
-**Last Automated Sync:** `2026-11-17 05:58 UTC`
+**Governing Open-Government Framework:** *Höfundalög nr. 73/1972, Art. 9 / Lög nr. 45/2018*  
+**Total Indexed Dossiers in Iceland:** `17` across `4` issuing authorities  
+**Last Automated Sync:** `2026-11-17 06:57 UTC`
 
 ---
 
-## Issuing Authorities in Iceland (2 Authorities)
+## Issuing Authorities in Iceland (4 Authorities)
 
 - **[Icelandic Competition Authority (Samkeppniseftirlitið)](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/) | [RSS Feed](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/feed/)
+- **[East Iceland Nature Research Centre (Náttúrustofa Austurlands)](https://www.indexdata.org/iceland/east-iceland-nature-research-centre-n-tt-rustofa-austurlands/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/iceland/east-iceland-nature-research-centre-n-tt-rustofa-austurlands/) | [RSS Feed](https://www.indexdata.org/iceland/east-iceland-nature-research-centre-n-tt-rustofa-austurlands/feed/)
 - **[Iceland GeoSurvey (Íslenskar orkurannsóknir)](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/) | [RSS Feed](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/feed/)
+- **[Westfjord Nature Research Centre (Náttúrustofa Vestfjarða)](https://www.indexdata.org/iceland/westfjord-nature-research-centre-n-tt-rustofa-vestfjar-a/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/iceland/westfjord-nature-research-centre-n-tt-rustofa-vestfjar-a/) | [RSS Feed](https://www.indexdata.org/iceland/westfjord-nature-research-centre-n-tt-rustofa-vestfjar-a/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–15 of 15)
+## Indexed Statutory & Regulatory Dossiers (Records 1–17 of 17)
 
 ### [Icelandic Competition Authority (Samkeppniseftirlitið)](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/)
 Canonical Authority Archive: [https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/) | [RSS Feed](https://www.indexdata.org/iceland/icelandic-competition-authority-samkeppniseftirliti/feed/)
@@ -37,10 +39,20 @@ Canonical Authority Archive: [https://www.indexdata.org/iceland/icelandic-compet
 - `[`IS-SAMKEPPNI-187824`]` **[Síminn hf. gegn Samkeppniseftirlitinu í máli nr. 611:2024](https://www.indexdata.org/siminn-hf-gegn-samkeppniseftirlitinu-i-mali-nr-6112024/)** — `2026-10-28` | `36 Pages`
 - `[`IS-SAMKEPPNI-187789`]` **[Síminn hf. gegn Samkeppniseftirlitinu í máli nr. 674:2022](https://www.indexdata.org/siminn-hf-gegn-samkeppniseftirlitinu-i-mali-nr-6742022/)** — `2026-10-28` | `45 Pages`
 
+### [East Iceland Nature Research Centre (Náttúrustofa Austurlands)](https://www.indexdata.org/iceland/east-iceland-nature-research-centre-n-tt-rustofa-austurlands/)
+Canonical Authority Archive: [https://www.indexdata.org/iceland/east-iceland-nature-research-centre-n-tt-rustofa-austurlands/](https://www.indexdata.org/iceland/east-iceland-nature-research-centre-n-tt-rustofa-austurlands/) | [RSS Feed](https://www.indexdata.org/iceland/east-iceland-nature-research-centre-n-tt-rustofa-austurlands/feed/)
+
+- `[`IS-GOV-OA-W4243719948`]` **[Involving private medical practitioners in family planning services in Bangladesh](https://www.indexdata.org/involving-private-medical-practitioners-in-family-planning-services-in-bangladesh/)** — `1998-01-01` | `67 Pages`
+
 ### [Iceland GeoSurvey (Íslenskar orkurannsóknir)](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/)
 Canonical Authority Archive: [https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/) | [RSS Feed](https://www.indexdata.org/iceland/iceland-geosurvey-slenskar-orkuranns-knir/feed/)
 
 - `[`IS-GOV-OA-W3171946734`]` **[The Horizon 2020 Project SURE: Deliverable 6.3 - Report on field scale RJD stimulation for the magmatic site](https://www.indexdata.org/the-horizon-2020-project-sure-deliverable-6-3-report-on-field-scale-rjd-stimulation-for-the-magmatic-site/)** — `2019-01-01` | `76 Pages`
+
+### [Westfjord Nature Research Centre (Náttúrustofa Vestfjarða)](https://www.indexdata.org/iceland/westfjord-nature-research-centre-n-tt-rustofa-vestfjar-a/)
+Canonical Authority Archive: [https://www.indexdata.org/iceland/westfjord-nature-research-centre-n-tt-rustofa-vestfjar-a/](https://www.indexdata.org/iceland/westfjord-nature-research-centre-n-tt-rustofa-vestfjar-a/) | [RSS Feed](https://www.indexdata.org/iceland/westfjord-nature-research-centre-n-tt-rustofa-vestfjar-a/feed/)
+
+- `[`IS-GOV-OA-W3023876150`]` **[U. S. Regional Business Cycles and the Natural Rate of Unemployment](https://www.indexdata.org/u-s-regional-business-cycles-and-the-natural-rate-of-unemployment/)** — `2003-01-01` | `22 Pages`
 
 ---
 

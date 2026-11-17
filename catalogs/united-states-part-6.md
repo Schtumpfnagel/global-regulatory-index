@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,428` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 05:58 UTC`
+**Last Automated Sync:** `2026-11-17 06:57 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,186` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`907` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`331` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`335` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -254,11 +254,15 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,424)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,428)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-04392`]` **[Establishment of Restricted Areas R-5305A, R-5305B, and R-5305C; Camp Lejeune, NC; and Restricted Areas R-5307A, R-5307B, and R-5307C; Cherry Point, NC](https://www.indexdata.org/establishment-of-restricted-areas-r-5305a-r-5305b-and-r-5305c-camp-lejeune-nc-and-restricted-areas-r-5307a-r-5307b-and-r-5307c-cherry-point-nc-5/)** — `2025-03-20` | `4 Pages`
+- `[`2025-04266`]` **[Establishment of Class E Airspace; Sunbury, NC](https://www.indexdata.org/establishment-of-class-e-airspace-sunbury-nc/)** — `2025-03-20` | `2 Pages`
+- `[`2025-04124`]` **[Establishment of Class E Airspace; Challis Airport, Challis, ID](https://www.indexdata.org/establishment-of-class-e-airspace-challis-airport-challis-id/)** — `2025-03-20` | `2 Pages`
+- `[`2025-03932`]` **[Revocation of Alaskan Very High Frequency Omnidirectional Range Federal Airway V-447 and Jet Route J-155 and Amendment of Jet Route J-115 in Alaska](https://www.indexdata.org/revocation-of-alaskan-very-high-frequency-omnidirectional-range-federal-airway-v-447-and-jet-route-j-155-and-amendment-of-jet-route-j-115-in-alaska/)** — `2025-03-20` | `2 Pages`
 - `[`2025-04446`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-137/)** — `2025-03-19` | `3 Pages`
 - `[`2025-04445`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-27/)** — `2025-03-19` | `4 Pages`
 - `[`2025-04441`]` **[Airworthiness Directives; Pratt & Whitney Canada Corp. Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-canada-corp-engines-3/)** — `2025-03-19` | `4 Pages`
@@ -634,7 +638,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-25377`]` **[Airworthiness Directives; General Electric Company Engines](https://www.indexdata.org/airworthiness-directives-general-electric-company-engines-25/)** — `2024-11-01` | `3 Pages`
 - `[`2024-25369`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-39/)** — `2024-11-01` | `4 Pages`
 - `[`2024-25368`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-40/)** — `2024-11-01` | `4 Pages`
-- `[`2024-25390`]` **[Airworthiness Directives; Various Helicopters](https://www.indexdata.org/airworthiness-directives-various-helicopters-9/)** — `2024-10-31` | `5 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -851,8 +854,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-25460`]` **[Air Plan Approval; Delaware; Motor Vehicle Inspection and Maintenance Program](https://www.indexdata.org/air-plan-approval-delaware-motor-vehicle-inspection-and-maintenance-program/)** — `2024-11-04` | `6 Pages`
 - `[`2024-25474`]` **[Receipt of a Pesticide Petition Filed for Residues of Pesticide Chemicals in or on Various Commodities (August 2024)](https://www.indexdata.org/receipt-of-a-pesticide-petition-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-august-2024/)** — `2024-11-01` | `2 Pages`
 - `[`2024-25452`]` **[Air Quality State Implementation Plans; Partial Approval, Partial Disapproval and Promulgation; Texas; Regional Haze; Extension of Comment Period](https://www.indexdata.org/air-quality-state-implementation-plans-partial-approval-partial-disapproval-and-promulgation-texas-regional-haze-extension-of-comment-period/)** — `2024-11-01` | `2 Pages`
-- `[`2024-25392`]` **[Air Plan Approval; Forsyth County, North Carolina; Removal of Excess Emissions Provisions](https://www.indexdata.org/air-plan-approval-forsyth-county-north-carolina-removal-of-excess-emissions-provisions/)** — `2024-10-31` | `4 Pages`
-- `[`2024-25370`]` **[Integrating e-Manifest With Hazardous Waste Exports and Other Manifest-Related Reports, PCB Manifest Amendments, and Technical Corrections; Correction](https://www.indexdata.org/integrating-e-manifest-with-hazardous-waste-exports-and-other-manifest-related-reports-pcb-manifest-amendments-and-technical-corrections-correction/)** — `2024-10-31` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1800,15 +1801,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-el
 - `[`2024-27583`]` **[Contributions Through Untraceable Electronic Payment Methods](https://www.indexdata.org/contributions-through-untraceable-electronic-payment-methods/)** — `2024-11-26` | `2 Pages`
 - `[`2024-27395`]` **[Requirement To File FEC Form 3-Z](https://www.indexdata.org/requirement-to-file-fec-form-3-z/)** — `2024-11-26` | `2 Pages`
 
-### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
-
-- `[`2025-00323`]` **[Asset Management Plans; Management and Monitoring Systems](https://www.indexdata.org/asset-management-plans-management-and-monitoring-systems/)** — `2025-01-21` | `2 Pages`
-- `[`2024-31350`]` **[Buy America Requirements for Manufactured Products](https://www.indexdata.org/buy-america-requirements-for-manufactured-products/)** — `2025-01-14` | `27 Pages`
-- `[`2024-26200`]` **[Asset Management Plans; Management and Monitoring Systems](https://www.indexdata.org/asset-management-plans-management-and-monitoring-systems-2/)** — `2024-11-13` | `14 Pages`
-- `[`2024-25757`]` **[Interstate System Access](https://www.indexdata.org/interstate-system-access/)** — `2024-11-07` | `11 Pages`
-- `[`2024-25065`]` **[Work Zone Safety and Mobility and Temporary Traffic Control Devices](https://www.indexdata.org/work-zone-safety-and-mobility-and-temporary-traffic-control-devices/)** — `2024-11-01` | `18 Pages`
-
 ### [Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
 
@@ -1842,6 +1834,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/council-on
 - `[`2025-00960`]` **[Freedom of Information Act and Privacy Act Regulations](https://www.indexdata.org/freedom-of-information-act-and-privacy-act-regulations/)** — `2025-01-21` | `12 Pages`
 - `[`2025-00473`]` **[Office of Environmental Quality Management Fund](https://www.indexdata.org/office-of-environmental-quality-management-fund/)** — `2025-01-15` | `4 Pages`
 - `[`2024-28871`]` **[Freedom of Information Act and Privacy Act Regulations](https://www.indexdata.org/freedom-of-information-act-and-privacy-act-regulations-2/)** — `2024-12-11` | `11 Pages`
+
+### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
+
+- `[`2025-00323`]` **[Asset Management Plans; Management and Monitoring Systems](https://www.indexdata.org/asset-management-plans-management-and-monitoring-systems/)** — `2025-01-21` | `2 Pages`
+- `[`2024-31350`]` **[Buy America Requirements for Manufactured Products](https://www.indexdata.org/buy-america-requirements-for-manufactured-products/)** — `2025-01-14` | `27 Pages`
+- `[`2024-26200`]` **[Asset Management Plans; Management and Monitoring Systems](https://www.indexdata.org/asset-management-plans-management-and-monitoring-systems-2/)** — `2024-11-13` | `14 Pages`
+- `[`2024-25757`]` **[Interstate System Access](https://www.indexdata.org/interstate-system-access/)** — `2024-11-07` | `11 Pages`
 
 ### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)

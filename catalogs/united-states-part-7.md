@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,428` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 05:58 UTC`
+**Last Automated Sync:** `2026-11-17 06:57 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,186` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`907` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`331` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`335` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -254,11 +254,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,424)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,428)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-25390`]` **[Airworthiness Directives; Various Helicopters](https://www.indexdata.org/airworthiness-directives-various-helicopters-9/)** — `2024-10-31` | `5 Pages`
 - `[`2024-25365`]` **[Airworthiness Directives; Lycoming Engines](https://www.indexdata.org/airworthiness-directives-lycoming-engines-4/)** — `2024-10-31` | `3 Pages`
 - `[`2024-25339`]` **[Modification of Class D Airspace, Establishment of Class E Airspace; San Bernardino International Airport, San Bernardino, CA](https://www.indexdata.org/modification-of-class-d-airspace-establishment-of-class-e-airspace-san-bernardino-international-airport-san-bernardino-ca-2/)** — `2024-10-31` | `2 Pages`
 - `[`2024-25238`]` **[Airworthiness Criteria: Special Class Airworthiness Criteria for the AgustaWestland Philadelphia Corporation Model AW609 Powered-Lift](https://www.indexdata.org/airworthiness-criteria-special-class-airworthiness-criteria-for-the-agustawestland-philadelphia-corporation-model-aw609-powered-lift/)** — `2024-10-31` | `5 Pages`
@@ -583,6 +584,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-25392`]` **[Air Plan Approval; Forsyth County, North Carolina; Removal of Excess Emissions Provisions](https://www.indexdata.org/air-plan-approval-forsyth-county-north-carolina-removal-of-excess-emissions-provisions/)** — `2024-10-31` | `4 Pages`
+- `[`2024-25370`]` **[Integrating e-Manifest With Hazardous Waste Exports and Other Manifest-Related Reports, PCB Manifest Amendments, and Technical Corrections; Correction](https://www.indexdata.org/integrating-e-manifest-with-hazardous-waste-exports-and-other-manifest-related-reports-pcb-manifest-amendments-and-technical-corrections-correction/)** — `2024-10-31` | `2 Pages`
 - `[`2024-25244`]` **[Air Plan Approval; KY; Revisions to Jefferson County Control of Open Burning](https://www.indexdata.org/air-plan-approval-ky-revisions-to-jefferson-county-control-of-open-burning-2/)** — `2024-10-31` | `2 Pages`
 - `[`2024-25243`]` **[Air Plan Approval; Mississippi; PSD and Air Quality Modeling Infrastructure Requirements for the 2015 8-Hour Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-plan-approval-mississippi-psd-and-air-quality-modeling-infrastructure-requirements-for-the-2015-8-hour-ozone-national-ambient-air-quality-standards/)** — `2024-10-31` | `5 Pages`
 - `[`2024-25014`]` **[Regional Office Address](https://www.indexdata.org/regional-office-address/)** — `2024-10-31` | `9 Pages`
@@ -805,9 +808,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-13186`]` **[National Emission Standards for Hazardous Air Pollutants for Coke Ovens: Pushing, Quenching, and Battery Stacks, and Coke Oven Batteries; Residual Risk and Technology Review, and Periodic Technology Review](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-for-coke-ovens-pushing-quenching-and-battery-stacks-and-coke-oven-batteries-residual-risk-and-technology-review-and-periodic-technology-r-2/)** — `2024-07-05` | `74 Pages`
 - `[`2024-14612`]` **[Air Plan Partial Approval and Partial Disapproval; Missouri; Regional Haze](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-missouri-regional-haze/)** — `2024-07-03` | `29 Pages`
 - `[`2024-14434`]` **[Air Plan Approval; New Mexico; Periodic Emission Inventory SIP for the Sunland Park Nonattainment Area for the 2015 Ozone NAAQS](https://www.indexdata.org/air-plan-approval-new-mexico-periodic-emission-inventory-sip-for-the-sunland-park-nonattainment-area-for-the-2015-ozone-naaqs/)** — `2024-07-03` | `5 Pages`
-- `[`2024-14351`]` **[B.F. Strain 11604; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/b-f-strain-11604-exemption-from-the-requirement-of-a-tolerance/)** — `2024-07-02` | `3 Pages`
-- `[`2024-14349`]` **[Air Plan Revisions; California; Motor Vehicle Inspection and Maintenance Program](https://www.indexdata.org/air-plan-revisions-california-motor-vehicle-inspection-and-maintenance-program-2/)** — `2024-07-02` | `6 Pages`
-- `[`2024-14336`]` **[Air Plan Revisions; California; Sacramento Metropolitan Air Quality Management District; Reasonably Available Control Technology District](https://www.indexdata.org/air-plan-revisions-california-sacramento-metropolitan-air-quality-management-district-reasonably-available-control-technology-district/)** — `2024-07-02` | `6 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1263,7 +1263,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 - `[`2024-15479`]` **[Draft Regulatory Guides: Design-Basis Floods for Nuclear Power Plants and Guidance for Assessment of Flooding Hazards Due to Water Control Structure Failures and Incidents](https://www.indexdata.org/draft-regulatory-guides-design-basis-floods-for-nuclear-power-plants-and-guidance-for-assessment-of-flooding-hazards-due-to-water-control-structure-failures-and-incidents-2/)** — `2024-07-15` | `3 Pages`
 - `[`2024-15133`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM FW System, Certificate of Compliance No. 1032, Amendment No. 7](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-fw-system-certificate-of-compliance-no-1032-amendment-no-7/)** — `2024-07-12` | `6 Pages`
 - `[`2024-15131`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM FW System, Certificate of Compliance No. 1032, Amendment No. 7](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-fw-system-certificate-of-compliance-no-1032-amendment-no-7-2/)** — `2024-07-12` | `3 Pages`
-- `[`2024-14367`]` **[Categorical Exclusions From Environmental Review](https://www.indexdata.org/categorical-exclusions-from-environmental-review-2/)** — `2024-07-02` | `11 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1868,6 +1867,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-em
 - `[`2024-17909`]` **[Hazard Mitigation Grant Program Application Period Extension](https://www.indexdata.org/hazard-mitigation-grant-program-application-period-extension/)** — `2024-08-15` | `14 Pages`
 - `[`2024-15169`]` **[Updates to Floodplain Management and Protection of Wetlands Regulations To Implement the Federal Flood Risk Management Standard](https://www.indexdata.org/updates-to-floodplain-management-and-protection-of-wetlands-regulations-to-implement-the-federal-flood-risk-management-standard/)** — `2024-07-11` | `118 Pages`
 
+### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
+
+- `[`2024-25065`]` **[Work Zone Safety and Mobility and Temporary Traffic Control Devices](https://www.indexdata.org/work-zone-safety-and-mobility-and-temporary-traffic-control-devices/)** — `2024-11-01` | `18 Pages`
+- `[`2024-23751`]` **[Procedures for Abatement of Highway Traffic Noise and Construction Noise](https://www.indexdata.org/procedures-for-abatement-of-highway-traffic-noise-and-construction-noise/)** — `2024-10-18` | `25 Pages`
+- `[`2024-14933`]` **[Tribal Transportation Facility Bridge Program](https://www.indexdata.org/tribal-transportation-facility-bridge-program/)** — `2024-07-12` | `8 Pages`
+
 ### [Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-housing-finance-agency/](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 
@@ -1943,12 +1949,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/architectu
 
 - `[`2024-18820`]` **[Americans With Disabilities Act and Architectural Barriers Act Accessibility Guidelines; EV Charging Stations](https://www.indexdata.org/americans-with-disabilities-act-and-architectural-barriers-act-accessibility-guidelines-ev-charging-stations/)** — `2024-09-03` | `15 Pages`
 - `[`2024-16266`]` **[Standards for Accessible Medical Diagnostic Equipment](https://www.indexdata.org/standards-for-accessible-medical-diagnostic-equipment/)** — `2024-07-25` | `8 Pages`
-
-### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
-
-- `[`2024-23751`]` **[Procedures for Abatement of Highway Traffic Noise and Construction Noise](https://www.indexdata.org/procedures-for-abatement-of-highway-traffic-noise-and-construction-noise/)** — `2024-10-18` | `25 Pages`
-- `[`2024-14933`]` **[Tribal Transportation Facility Bridge Program](https://www.indexdata.org/tribal-transportation-facility-bridge-program/)** — `2024-07-12` | `8 Pages`
 
 ### [Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-nutrition-service/](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)

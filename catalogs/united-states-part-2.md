@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,428` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 05:58 UTC`
+**Last Automated Sync:** `2026-11-17 06:57 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,186` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`907` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`528` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`331` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`335` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -254,11 +254,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,424)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,428)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-18776`]` **[Sport Pilot Practical Test Standards Alignment](https://www.indexdata.org/sport-pilot-practical-test-standards-alignment/)** — `2026-09-14` | `9 Pages`
 - `[`2026-18752`]` **[Airworthiness Directives; CFM International, S.A. Engines](https://www.indexdata.org/airworthiness-directives-cfm-international-s-a-engines/)** — `2026-09-14` | `5 Pages`
 - `[`2026-18749`]` **[Airworthiness Directives; Dassault Aviation Airplanes](https://www.indexdata.org/airworthiness-directives-dassault-aviation-airplanes/)** — `2026-09-14` | `4 Pages`
 - `[`2026-18746`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-4/)** — `2026-09-14` | `3 Pages`
@@ -753,12 +754,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-10463`]` **[Safety Zone; Humboldt Bay, Humboldt Bay, CA](https://www.indexdata.org/safety-zone-humboldt-bay-humboldt-bay-ca/)** — `2026-05-27` | `3 Pages`
 - `[`2026-10423`]` **[Security Zone; Ohio River, Cincinnati, OH](https://www.indexdata.org/security-zone-ohio-river-cincinnati-oh-2/)** — `2026-05-26` | `2 Pages`
 - `[`2026-10413`]` **[Foam Fire-Extinguishing Systems](https://www.indexdata.org/foam-fire-extinguishing-systems/)** — `2026-05-26` | `39 Pages`
-- `[`2026-10394`]` **[Safety Zone; Lake Michigan, Milwaukee, WI](https://www.indexdata.org/safety-zone-lake-michigan-milwaukee-wi/)** — `2026-05-26` | `2 Pages`
-- `[`2026-10393`]` **[Safety Zones; Annual Events Requiring Safety Zones in the Captain of the Port Lake Michigan Zone](https://www.indexdata.org/safety-zones-annual-events-requiring-safety-zones-in-the-captain-of-the-port-lake-michigan-zone/)** — `2026-05-26` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-18759`]` **[Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; District of Columbia; Negative Declaration for Existing Other Solid Waste Incinerators](https://www.indexdata.org/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-district-of-columbia-negative-declaration-for-existing-other-solid-waste-incinerators/)** — `2026-09-14` | `2 Pages`
+- `[`2026-18755`]` **[Clean Data Determination; 1997 8-Hour Ozone Standards; California; Sacramento Metro Area](https://www.indexdata.org/clean-data-determination-1997-8-hour-ozone-standards-california-sacramento-metro-area/)** — `2026-09-14` | `7 Pages`
 - `[`2026-18750`]` **[Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Maryland; Negative Declaration for Existing Other Solid Waste Incinerators](https://www.indexdata.org/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-maryland-negative-declaration-for-existing-other-solid-waste-incinerators/)** — `2026-09-14` | `2 Pages`
 - `[`2026-18748`]` **[Approval and Promulgation of Implementation Plans; California; San Joaquin Valley, Revisions to Motor Vehicle Emissions Budgets for Ozone](https://www.indexdata.org/approval-and-promulgation-of-implementation-plans-california-san-joaquin-valley-revisions-to-motor-vehicle-emissions-budgets-for-ozone/)** — `2026-09-14` | `5 Pages`
 - `[`2026-18552`]` **[Wisconsin: Approval of State Coal Combustion Residuals Permit Program](https://www.indexdata.org/wisconsin-approval-of-state-coal-combustion-residuals-permit-program/)** — `2026-09-11` | `13 Pages`
@@ -1120,7 +1121,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2026-12234`]` **[Wireline Competition Bureau and Office of Economics and Analytics Seek Comment on Proposed 2026 Mandatory Data Collection for Incarcerated People's Communications Services](https://www.indexdata.org/wireline-competition-bureau-and-office-of-economics-and-analytics-seek-comment-on-proposed-2026-mandatory-data-collection-for-incarcerated-peoples-communications-services/)** — `2026-06-17` | `8 Pages`
 - `[`2026-11353`]` **[Reforming the High-Cost Program for an All-IP Future, Connect America Fund: A National Broadband Plan for Our Future High-Cost Universal Support](https://www.indexdata.org/reforming-the-high-cost-program-for-an-all-ip-future-connect-america-fund-a-national-broadband-plan-for-our-future-high-cost-universal-support/)** — `2026-06-05` | `9 Pages`
 - `[`2026-10617`]` **[Space Bureau Seeks Comment on GSO Reference Links](https://www.indexdata.org/space-bureau-seeks-comment-on-gso-reference-links/)** — `2026-05-28` | `3 Pages`
-- `[`2026-10407`]` **[Enhancing Know-Your-Customer Requirements](https://www.indexdata.org/enhancing-know-your-customer-requirements/)** — `2026-05-26` | `8 Pages`
 
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
@@ -1406,24 +1406,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-c
 - `[`2026-11559`]` **[Preemption-Federal Credit Union Non-Interest Charges and Fees](https://www.indexdata.org/preemption-federal-credit-union-non-interest-charges-and-fees/)** — `2026-06-09` | `9 Pages`
 - `[`2026-11507`]` **[Dependent Care and Board Member Expense Reimbursement](https://www.indexdata.org/dependent-care-and-board-member-expense-reimbursement/)** — `2026-06-09` | `8 Pages`
 
-### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-
-- `[`2026-18167`]` **[Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-the-repatriation-of-mentally-ill-nationals/)** — `2026-09-04` | `3 Pages`
-- `[`2026-16414`]` **[Adoption and Foster Care Analysis and Reporting System](https://www.indexdata.org/adoption-and-foster-care-analysis-and-reporting-system/)** — `2026-08-12` | `2 Pages`
-- `[`2026-16134`]` **[Reducing Federal Burden for Head Start Programs](https://www.indexdata.org/reducing-federal-burden-for-head-start-programs/)** — `2026-08-07` | `75 Pages`
-- `[`2026-15681`]` **[Reducing Bureaucracy and Burden in Family Violence and Prevention Services](https://www.indexdata.org/reducing-bureaucracy-and-burden-in-family-violence-and-prevention-services/)** — `2026-08-03` | `10 Pages`
-- `[`2026-15567`]` **[Reducing Bureaucracy and Burden for Family Assistance Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-family-assistance-programs/)** — `2026-07-31` | `22 Pages`
-- `[`2026-14131`]` **[Designated Placement Requirements Under Titles IV-E and IV-B for LGBTQI+ Children; Rescission](https://www.indexdata.org/designated-placement-requirements-under-titles-iv-e-and-iv-b-for-lgbtqi-children-rescission/)** — `2026-07-14` | `4 Pages`
-- `[`2026-13451`]` **[Reducing Bureaucracy and Burden for Children, Youth, and Family Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-children-youth-and-family-programs/)** — `2026-07-02` | `9 Pages`
-- `[`2026-12946`]` **[Unaccompanied Children Program Foundational Rule; Sponsor Assessment Update To Include Proof of Identity, Background Check, Placement, and Income Verification Standards](https://www.indexdata.org/unaccompanied-children-program-foundational-rule-sponsor-assessment-update-to-include-proof-of-identity-background-check-placement-and-income-verification-standards/)** — `2026-06-26` | `12 Pages`
-- `[`2026-12324`]` **[Reducing Bureaucracy and Burden for Native American Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-native-american-programs/)** — `2026-06-18` | `5 Pages`
-- `[`2026-12295`]` **[Reducing Bureaucracy and Burden for Child Support Enforcement Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-child-support-enforcement-programs/)** — `2026-06-18` | `7 Pages`
-- `[`2026-12189`]` **[Reducing Bureaucracy and Burden for Human Services and Emergency Response Programs-Repatriation Program](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation-program/)** — `2026-06-17` | `4 Pages`
-- `[`2026-11531`]` **[Reducing Bureaucracy and Burden for Community Services Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-community-services-programs/)** — `2026-06-09` | `5 Pages`
-- `[`2026-11530`]` **[Employment and Training Services for Noncustodial Parents in the Child Support Program; Rescission](https://www.indexdata.org/employment-and-training-services-for-noncustodial-parents-in-the-child-support-program-rescission/)** — `2026-06-09` | `8 Pages`
-- `[`2026-10401`]` **[Reducing Bureaucracy and Burden for Family Assistance Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-family-assistance-programs-2/)** — `2026-05-26` | `20 Pages`
-
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 
@@ -1459,6 +1441,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 - `[`2026-12376`]` **[Final Waivers and Extensions of the Project Periods With Funding for the American Indian Vocational Rehabilitation Services Program and the American Indian Vocational Rehabilitation Training and Technical Assistance Center](https://www.indexdata.org/final-waivers-and-extensions-of-the-project-periods-with-funding-for-the-american-indian-vocational-rehabilitation-services-program-and-the-american-indian-vocational-rehabilitation-training-and-techn/)** — `2026-06-18` | `3 Pages`
 - `[`2026-11366`]` **[Proposed Waiver and Extension of the Project Period With Funding-Elementary and Secondary Education Act of 1965, as Amended, Title VI, Part B, Native Hawaiian Education](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-elementary-and-secondary-education-act-of-1965-as-amended-title-vi-part-b-native-hawaiian-education/)** — `2026-06-05` | `3 Pages`
 - `[`2026-10620`]` **[Proposed Waiver and Extension of the Project Period With Funding for Arts in Education National Program](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program/)** — `2026-05-28` | `2 Pages`
+
+### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+
+- `[`2026-18167`]` **[Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-the-repatriation-of-mentally-ill-nationals/)** — `2026-09-04` | `3 Pages`
+- `[`2026-16414`]` **[Adoption and Foster Care Analysis and Reporting System](https://www.indexdata.org/adoption-and-foster-care-analysis-and-reporting-system/)** — `2026-08-12` | `2 Pages`
+- `[`2026-16134`]` **[Reducing Federal Burden for Head Start Programs](https://www.indexdata.org/reducing-federal-burden-for-head-start-programs/)** — `2026-08-07` | `75 Pages`
+- `[`2026-15681`]` **[Reducing Bureaucracy and Burden in Family Violence and Prevention Services](https://www.indexdata.org/reducing-bureaucracy-and-burden-in-family-violence-and-prevention-services/)** — `2026-08-03` | `10 Pages`
+- `[`2026-15567`]` **[Reducing Bureaucracy and Burden for Family Assistance Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-family-assistance-programs/)** — `2026-07-31` | `22 Pages`
+- `[`2026-14131`]` **[Designated Placement Requirements Under Titles IV-E and IV-B for LGBTQI+ Children; Rescission](https://www.indexdata.org/designated-placement-requirements-under-titles-iv-e-and-iv-b-for-lgbtqi-children-rescission/)** — `2026-07-14` | `4 Pages`
+- `[`2026-13451`]` **[Reducing Bureaucracy and Burden for Children, Youth, and Family Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-children-youth-and-family-programs/)** — `2026-07-02` | `9 Pages`
+- `[`2026-12946`]` **[Unaccompanied Children Program Foundational Rule; Sponsor Assessment Update To Include Proof of Identity, Background Check, Placement, and Income Verification Standards](https://www.indexdata.org/unaccompanied-children-program-foundational-rule-sponsor-assessment-update-to-include-proof-of-identity-background-check-placement-and-income-verification-standards/)** — `2026-06-26` | `12 Pages`
+- `[`2026-12324`]` **[Reducing Bureaucracy and Burden for Native American Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-native-american-programs/)** — `2026-06-18` | `5 Pages`
+- `[`2026-12295`]` **[Reducing Bureaucracy and Burden for Child Support Enforcement Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-child-support-enforcement-programs/)** — `2026-06-18` | `7 Pages`
+- `[`2026-12189`]` **[Reducing Bureaucracy and Burden for Human Services and Emergency Response Programs-Repatriation Program](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation-program/)** — `2026-06-17` | `4 Pages`
+- `[`2026-11531`]` **[Reducing Bureaucracy and Burden for Community Services Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-community-services-programs/)** — `2026-06-09` | `5 Pages`
+- `[`2026-11530`]` **[Employment and Training Services for Noncustodial Parents in the Child Support Program; Rescission](https://www.indexdata.org/employment-and-training-services-for-noncustodial-parents-in-the-child-support-program-rescission/)** — `2026-06-09` | `8 Pages`
 
 ### [Federal Railroad Administration](https://www.indexdata.org/united-states/federal-railroad-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-railroad-administration/](https://www.indexdata.org/united-states/federal-railroad-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-railroad-administration/feed/)
@@ -1628,6 +1627,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-12743`]` **[Joint Request for Comment on Further Definition of “Swap” and “Security-Based Swap” and on Alternative Compliance](https://www.indexdata.org/joint-request-for-comment-on-further-definition-of-swap-and-security-based-swap-and-on-alternative-compliance/)** — `2026-06-24` | `5 Pages`
 - `[`2026-12742`]` **[Joint Request for Comment on Swap and Security-Based Swap Data Reporting](https://www.indexdata.org/joint-request-for-comment-on-swap-and-security-based-swap-data-reporting/)** — `2026-06-24` | `5 Pages`
 
+### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+
+- `[`2026-18766`]` **[Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks](https://www.indexdata.org/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-u-s-branches-and-agencies-of-foreign-banks/)** — `2026-09-14` | `6 Pages`
+- `[`2026-17823`]` **[Unsafe or Unsound Practices, Matters Requiring Attention](https://www.indexdata.org/unsafe-or-unsound-practices-matters-requiring-attention/)** — `2026-09-01` | `19 Pages`
+- `[`2026-17822`]` **[Violations of Laws or Regulations](https://www.indexdata.org/violations-of-laws-or-regulations/)** — `2026-09-01` | `7 Pages`
+- `[`2026-16454`]` **[Community Reinvestment Act Regulations](https://www.indexdata.org/community-reinvestment-act-regulations/)** — `2026-08-12` | `105 Pages`
+- `[`2026-15867`]` **[OCC Rules Regarding the Availability of OCC Information](https://www.indexdata.org/occ-rules-regarding-the-availability-of-occ-information/)** — `2026-08-05` | `33 Pages`
+- `[`2026-12787`]` **[Financial Data Transparency Act Joint Data Standards](https://www.indexdata.org/financial-data-transparency-act-joint-data-standards/)** — `2026-06-25` | `25 Pages`
+- `[`2026-12692`]` **[Permitted Payment Stablecoin Issuer Anti-Money Laundering/Countering the Financing of Terrorism and Sanctions Compliance Risk Management](https://www.indexdata.org/permitted-payment-stablecoin-issuer-anti-money-laundering-countering-the-financing-of-terrorism-and-sanctions-compliance-risk-management/)** — `2026-06-24` | `9 Pages`
+
 ### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 
@@ -1660,16 +1670,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-12163`]` **[The Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS](https://www.indexdata.org/the-trade-through-rule-and-locked-and-crossed-markets-provisions-of-regulation-nms/)** — `2026-06-17` | `80 Pages`
 - `[`2026-11091`]` **[Rescission of Climate-Related Disclosure Rules](https://www.indexdata.org/rescission-of-climate-related-disclosure-rules/)** — `2026-06-03` | `50 Pages`
 - `[`2026-10916`]` **[Holding Foreign Insiders Accountable Act Disclosure; Correction](https://www.indexdata.org/holding-foreign-insiders-accountable-act-disclosure-correction/)** — `2026-06-01` | `2 Pages`
-
-### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
-
-- `[`2026-17823`]` **[Unsafe or Unsound Practices, Matters Requiring Attention](https://www.indexdata.org/unsafe-or-unsound-practices-matters-requiring-attention/)** — `2026-09-01` | `19 Pages`
-- `[`2026-17822`]` **[Violations of Laws or Regulations](https://www.indexdata.org/violations-of-laws-or-regulations/)** — `2026-09-01` | `7 Pages`
-- `[`2026-16454`]` **[Community Reinvestment Act Regulations](https://www.indexdata.org/community-reinvestment-act-regulations/)** — `2026-08-12` | `105 Pages`
-- `[`2026-15867`]` **[OCC Rules Regarding the Availability of OCC Information](https://www.indexdata.org/occ-rules-regarding-the-availability-of-occ-information/)** — `2026-08-05` | `33 Pages`
-- `[`2026-12787`]` **[Financial Data Transparency Act Joint Data Standards](https://www.indexdata.org/financial-data-transparency-act-joint-data-standards/)** — `2026-06-25` | `25 Pages`
-- `[`2026-12692`]` **[Permitted Payment Stablecoin Issuer Anti-Money Laundering/Countering the Financing of Terrorism and Sanctions Compliance Risk Management](https://www.indexdata.org/permitted-payment-stablecoin-issuer-anti-money-laundering-countering-the-financing-of-terrorism-and-sanctions-compliance-risk-management/)** — `2026-06-24` | `9 Pages`
 
 ### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
