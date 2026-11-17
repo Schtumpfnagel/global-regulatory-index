@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,384` across `33` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,385` across `34` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | **[Part 3 (Current)]** | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-17 18:56 UTC`
+**Last Automated Sync:** `2026-11-17 19:58 UTC`
 
 ---
 
-## Issuing Authorities in Canada (33 Authorities)
+## Issuing Authorities in Canada (34 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -46,10 +46,11 @@
 - **[Minister of Veterans Affairs](https://www.indexdata.org/canada/minister-of-veterans-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/minister-of-veterans-affairs/) | [RSS Feed](https://www.indexdata.org/canada/minister-of-veterans-affairs/feed/)
 - **[Office of the Superintendent of Financial Institutions](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/feed/)
 - **[Office of the Superintendent of Financial Institutions Canada](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/feed/)
+- **[Public Service Commission of Canada](https://www.indexdata.org/canada/public-service-commission-of-canada/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/public-service-commission-of-canada/) | [RSS Feed](https://www.indexdata.org/canada/public-service-commission-of-canada/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,384)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,385)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)

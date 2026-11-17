@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/france/feed/](https://www.indexdata.org/france/feed/)  
 **Wikidata Sovereign Entity:** [`Q142`](https://www.wikidata.org/wiki/Q142)  
 **Governing Open-Government Framework:** *CRPA Art. L321-1 to L323-7 / Loi n° 2016-1321*  
-**Total Indexed Dossiers in France:** `492` across `15` issuing authorities  
-**Last Automated Sync:** `2026-11-17 18:56 UTC`
+**Total Indexed Dossiers in France:** `496` across `15` issuing authorities  
+**Last Automated Sync:** `2026-11-17 19:58 UTC`
 
 ---
 
 ## Issuing Authorities in France (15 Authorities)
 
-- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`316` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
+- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`320` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
 - **[Banque de France](https://www.indexdata.org/france/banque-de-france/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/france/banque-de-france/) | [RSS Feed](https://www.indexdata.org/france/banque-de-france/feed/)
 - **[National Institute of Statistics and Economic Studies (INSEE)](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/) | [RSS Feed](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/feed/)
 - **[French Agricultural Research Centre for International Development (CIRAD)](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/) | [RSS Feed](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/feed/)
@@ -30,17 +30,21 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–492 of 492)
+## Indexed Statutory & Regulatory Dossiers (Records 1–496 of 496)
 
 ### [Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)
 Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
 
 - `[`FR-INFOFI-655170_20261117`]` **[SES to Develop European Direct-to-Device Technologies under ESA Partnership Project — Inside Information](https://www.indexdata.org/ses-to-develop-european-direct-to-device-technologies-under-esa-partnership-project-inside-information/)** — `2026-11-17` | `3 Pages`
+- `[`FR-INFOFI-170277_20261117`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-40/)** — `2026-11-17` | `3 Pages`
+- `[`FR-INFOFI-170275_20261117`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-41/)** — `2026-11-17` | `2 Pages`
 - `[`FR-INFOFI-170271_20261117`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-39/)** — `2026-11-17` | `2 Pages`
 - `[`FR-INFOFI-170267_20261117`]` **[Acquisition or disposal of the issuer's own shares / Transaction in own shares (aggregate version)](https://www.indexdata.org/acquisition-or-disposal-of-the-issuers-own-shares-transaction-in-own-shares-aggregate-version-4/)** — `2026-11-17` | `2 Pages`
+- `[`FR-INFOFI-114142_20261117`]` **[ALSTOM S.A: Alstom’s First-Half 2026/27 ; Execution and organisation focus ; Commitment to maintaining Investment Grade — Inside Information](https://www.indexdata.org/alstom-s-a-alstoms-first-half-2026-27-execution-and-organisation-focus-commitment-to-maintaining-investment-grade-inside-information/)** — `2026-11-17` | `17 Pages`
 - `[`FR-INFOFI-114113_20261117`]` **[VINCI Autoroutes and VINCI Airports traffic in October 2026 — Inside Information](https://www.indexdata.org/vinci-autoroutes-and-vinci-airports-traffic-in-october-2026-inside-information/)** — `2026-11-17` | `3 Pages`
 - `[`FR-INFOFI-113981_20261117`]` **[Dassault Systèmes 2026 Capital Markets Day A New Industrial Era. A New Growth Cycle. Targeting Double Digit Revenue and EPS Growth in 2029 — Inside Information](https://www.indexdata.org/dassault-systemes-2026-capital-markets-day-a-new-industrial-era-a-new-growth-cycle-targeting-double-digit-revenue-and-eps-growth-in-2029-inside-information/)** — `2026-11-17` | `6 Pages`
 - `[`FR-INFOFI-113958_20261117`]` **[Plesio’s financial structure: new steps achieved — Inside Information](https://www.indexdata.org/plesios-financial-structure-new-steps-achieved-inside-information/)** — `2026-11-17` | `2 Pages`
+- `[`FR-INFOFI-083784_20261117`]` **[20261117 - Accor - Accor to increase its stake in Ennismore — Inside Information](https://www.indexdata.org/20261117-accor-accor-to-increase-its-stake-in-ennismore-inside-information/)** — `2026-11-17` | `4 Pages`
 - `[`FR-INFOFI-083781_20261117`]` **[SUEZ INTERNATIONAL SAS COMPLETES THE SALE OF C.10.65 MILLION SHARES OF ACEA S.P.A. — Inside Information](https://www.indexdata.org/suez-international-sas-completes-the-sale-of-c-10-65-million-shares-of-acea-s-p-a-inside-information/)** — `2026-11-17` | `2 Pages`
 - `[`FR-INFOFI-083778_20261117`]` **[PR_Carrefour reaffirms its confidence in the hypermarket model, a pillar of its performance — Inside Information](https://www.indexdata.org/pr_carrefour-reaffirms-its-confidence-in-the-hypermarket-model-a-pillar-of-its-performance-inside-information/)** — `2026-11-17` | `3 Pages`
 - `[`FR-INFOFI-082362_20261117`]` **[INDIGO Group S.A. announces the launch of a tender offer on its EUR 800m bonds due 19 April 2028 and its intention to issue new bonds under its EMTN programme — Inside Information](https://www.indexdata.org/indigo-group-s-a-announces-the-launch-of-a-tender-offer-on-its-eur-800m-bonds-due-19-april-2028-and-its-intention-to-issue-new-bonds-under-its-emtn-programme-inside-information/)** — `2026-11-17` | `6 Pages`
@@ -565,7 +569,7 @@ Canonical Authority Archive: [https://www.indexdata.org/france/interministerial-
 ### [Directorate of Legal and Administrative Information (Direction de l'information légale et administrative - DILA)](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/)
 Canonical Authority Archive: [https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/) | [RSS Feed](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/feed/)
 
-- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-258/)** — `2024-03-26` | `7 Pages`
+- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-259/)** — `2024-03-26` | `7 Pages`
 - `[`FR-DILA-ANN-api-lannuaire-administration-documentation_technique_api_annuaire_de_l_administration_pdf`]` **[api-lannuaire-administration — Documentation-technique-API-Annuaire-de-l-administration](https://www.indexdata.org/api-lannuaire-administration-documentation-technique-api-annuaire-de-l-administration/)** — `2023-12-11` | `9 Pages`
 
 ### [National Commission on Informatics and Liberty (Commission nationale de l'informatique et des libertés - CNIL)](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/)

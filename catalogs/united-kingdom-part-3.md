@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,072` across `89` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,078` across `89` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | [Part 2](united-kingdom-part-2.md) | **[Part 3 (Current)]**  
-**Last Automated Sync:** `2026-11-17 18:56 UTC`
+**Last Automated Sync:** `2026-11-17 19:58 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`239` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`192` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
-- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`181` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
+- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`183` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`152` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`142` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`141` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
@@ -40,12 +40,12 @@
 - **[Offshore Petroleum Regulator for Environment and Decommissioning](https://www.indexdata.org/united-kingdom/offshore-petroleum-regulator-for-environment-and-decommissioning/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/offshore-petroleum-regulator-for-environment-and-decommissioning/) | [RSS Feed](https://www.indexdata.org/united-kingdom/offshore-petroleum-regulator-for-environment-and-decommissioning/feed/)
 - **[HM Land Registry](https://www.indexdata.org/united-kingdom/hm-land-registry/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-land-registry/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-land-registry/feed/)
 - **[Maritime and Coastguard Agency](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/feed/)
+- **[HM Prison and Probation Service](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/feed/)
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[Veterinary Medicines Directorate](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/feed/)
 - **[NHS England](https://www.indexdata.org/united-kingdom/nhs-england/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/nhs-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/nhs-england/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[UK Visas and Immigration](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/feed/)
-- **[HM Prison and Probation Service](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/feed/)
 - **[Department for Business, Innovation, Science and Trade](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/feed/)
 - **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
@@ -105,11 +105,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,072 of 3,072)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,078 of 3,078)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2024-140`]` **[The Legal Services Act 2007 (Approved Regulator) Order 2024](https://www.indexdata.org/the-legal-services-act-2007-approved-regulator-order-2024/)** — `2024-02-08` | `2 Pages`
+- `[`UKSI-2024-136`]` **[The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024](https://www.indexdata.org/the-wireless-telegraphy-mobile-repeater-exemption-amendment-regulations-2024/)** — `2024-02-06` | `2 Pages`
 - `[`UKSI-2024-133`]` **[The Finance Act 2009, Sections 101 and 102 (Electronic Sales Suppression) (Appointed Day) Order 2024](https://www.indexdata.org/the-finance-act-2009-sections-101-and-102-electronic-sales-suppression-appointed-day-order-2024/)** — `2024-02-06` | `2 Pages`
 - `[`UKSI-2024-129`]` **[The M25 Junction 28 Development Consent (Correction) Order 2024](https://www.indexdata.org/the-m25-junction-28-development-consent-correction-order-2024/)** — `2024-02-06` | `4 Pages`
 - `[`UKSI-2024-118`]` **[The Windsor Framework (Democratic Scrutiny) Regulations 2024](https://www.indexdata.org/the-windsor-framework-democratic-scrutiny-regulations-2024/)** — `2024-02-01` | `12 Pages`
@@ -128,6 +130,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 
+- `[`UKSI-2024-138`]` **[The North Tyneside (Electoral Changes) Order 2024](https://www.indexdata.org/the-north-tyneside-electoral-changes-order-2024/)** — `2024-02-09` | `8 Pages`
 - `[`UKSI-2024-132`]` **[The Combined Authorities (Mayors) Filling of Vacancies Order 2017 (Amendment) Regulations 2024](https://www.indexdata.org/the-combined-authorities-mayors-filling-of-vacancies-order-2017-amendment-regulations-2024/)** — `2024-02-06` | `4 Pages`
 - `[`UKSI-2024-131`]` **[The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024](https://www.indexdata.org/the-combined-authorities-mayoral-elections-order-2017-amendment-regulations-2024/)** — `2024-02-06` | `28 Pages`
 - `[`UKSI-2024-124`]` **[The Northumberland (Electoral Changes) Order 2024](https://www.indexdata.org/the-northumberland-electoral-changes-order-2024/)** — `2024-02-05` | `12 Pages`
@@ -171,6 +174,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2024-44`]` **[The Environment Act 2021 (Commencement No. 8 and Transitional Provisions) Regulations 2024](https://www.indexdata.org/the-environment-act-2021-commencement-no-8-and-transitional-provisions-regulations-2024/)** — `2024-01-17` | `8 Pages`
 - `[`UKSI-2024-35`]` **[The Flood and Water Management Act 2010 (Commencement No. 10) Order 2024](https://www.indexdata.org/the-flood-and-water-management-act-2010-commencement-no-10-order-2024/)** — `2024-01-11` | `8 Pages`
 
+### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
+
+- `[`UKSI-2024-143`]` **[The Trade Union (Deduction of Union Subscriptions from Wages in the Public Sector) Regulations 2024](https://www.indexdata.org/the-trade-union-deduction-of-union-subscriptions-from-wages-in-the-public-sector-regulations-2024/)** — `2024-02-07` | `16 Pages`
+- `[`UKSI-2024-121`]` **[The Statutory Paternity Pay (Amendment) Regulations 2024](https://www.indexdata.org/the-statutory-paternity-pay-amendment-regulations-2024/)** — `2024-02-01` | `20 Pages`
+- `[`UKSI-2024-103`]` **[The Public Interest Merger Reference (Telegraph Media Group Limited) (Pre-emptive Action) Order 2024](https://www.indexdata.org/the-public-interest-merger-reference-telegraph-media-group-limited-pre-emptive-action-order-2024/)** — `2024-01-30` | `8 Pages`
+- `[`UKSI-2024-54`]` **[The Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024](https://www.indexdata.org/the-registrar-annotation-removal-and-disclosure-restrictions-regulations-2024/)** — `2024-01-17` | `8 Pages`
+- `[`UKSI-2024-53`]` **[The Register of Overseas Entities (Annotation and Removal) Regulations 2024](https://www.indexdata.org/the-register-of-overseas-entities-annotation-and-removal-regulations-2024/)** — `2024-01-17` | `8 Pages`
+
+### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
+
+- `[`UKSI-2024-134`]` **[The Independent System Operator and Planner Transfer Scheme Compensation (Amendment) Regulations 2024](https://www.indexdata.org/the-independent-system-operator-and-planner-transfer-scheme-compensation-amendment-regulations-2024/)** — `2024-02-07` | `2 Pages`
+- `[`UKSI-2024-125`]` **[The Independent System Operator and Planner Transfer Scheme Compensation Regulations 2024](https://www.indexdata.org/the-independent-system-operator-and-planner-transfer-scheme-compensation-regulations-2024/)** — `2024-01-30` | `8 Pages`
+- `[`UKSI-2024-117`]` **[The Hornsea Four Offshore Wind Farm (Correction) Order 2024](https://www.indexdata.org/the-hornsea-four-offshore-wind-farm-correction-order-2024/)** — `2024-01-30` | `8 Pages`
+- `[`UKSI-2024-108`]` **[The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024](https://www.indexdata.org/the-electricity-and-gas-standards-of-performance-suppliers-amendment-regulations-2024/)** — `2024-01-29` | `4 Pages`
+- `[`UKSI-2024-32`]` **[The Energy Act 2023 (Commencement No. 1) Regulations 2024](https://www.indexdata.org/the-energy-act-2023-commencement-no-1-regulations-2024/)** — `2024-01-10` | `4 Pages`
+
 ### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 
@@ -180,22 +201,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2024-15`]` **[The National Health Service (Notifiable Reconfigurations and Transitional Provision) Regulations 2024](https://www.indexdata.org/the-national-health-service-notifiable-reconfigurations-and-transitional-provision-regulations-2024/)** — `2024-01-08` | `2 Pages`
 - `[`UKSI-2024-14`]` **[The Northampton General Hospital National Health Service Trust (Establishment) (Amendment) Order 2024](https://www.indexdata.org/the-northampton-general-hospital-national-health-service-trust-establishment-amendment-order-2024/)** — `2024-01-08` | `2 Pages`
 
-### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
-
-- `[`UKSI-2024-121`]` **[The Statutory Paternity Pay (Amendment) Regulations 2024](https://www.indexdata.org/the-statutory-paternity-pay-amendment-regulations-2024/)** — `2024-02-01` | `20 Pages`
-- `[`UKSI-2024-103`]` **[The Public Interest Merger Reference (Telegraph Media Group Limited) (Pre-emptive Action) Order 2024](https://www.indexdata.org/the-public-interest-merger-reference-telegraph-media-group-limited-pre-emptive-action-order-2024/)** — `2024-01-30` | `8 Pages`
-- `[`UKSI-2024-54`]` **[The Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024](https://www.indexdata.org/the-registrar-annotation-removal-and-disclosure-restrictions-regulations-2024/)** — `2024-01-17` | `8 Pages`
-- `[`UKSI-2024-53`]` **[The Register of Overseas Entities (Annotation and Removal) Regulations 2024](https://www.indexdata.org/the-register-of-overseas-entities-annotation-and-removal-regulations-2024/)** — `2024-01-17` | `8 Pages`
-
-### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
-
-- `[`UKSI-2024-125`]` **[The Independent System Operator and Planner Transfer Scheme Compensation Regulations 2024](https://www.indexdata.org/the-independent-system-operator-and-planner-transfer-scheme-compensation-regulations-2024/)** — `2024-01-30` | `8 Pages`
-- `[`UKSI-2024-117`]` **[The Hornsea Four Offshore Wind Farm (Correction) Order 2024](https://www.indexdata.org/the-hornsea-four-offshore-wind-farm-correction-order-2024/)** — `2024-01-30` | `8 Pages`
-- `[`UKSI-2024-108`]` **[The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024](https://www.indexdata.org/the-electricity-and-gas-standards-of-performance-suppliers-amendment-regulations-2024/)** — `2024-01-29` | `4 Pages`
-- `[`UKSI-2024-32`]` **[The Energy Act 2023 (Commencement No. 1) Regulations 2024](https://www.indexdata.org/the-energy-act-2023-commencement-no-1-regulations-2024/)** — `2024-01-10` | `4 Pages`
-
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 
@@ -204,18 +209,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2024-8`]` **[The Railways and Freight Transport etc. (Revocation) Regulations 2024](https://www.indexdata.org/the-railways-and-freight-transport-etc-revocation-regulations-2024/)** — `2024-01-08` | `8 Pages`
 - `[`UKSI-2024-39`]` **[The A452 Chester Road and A446 Stonebridge Road (High Speed Two (Phase One)) (Trunking) Order 2024](https://www.indexdata.org/the-a452-chester-road-and-a446-stonebridge-road-high-speed-two-phase-one-trunking-order-2024/)** — `2024-01-08` | `4 Pages`
 
+### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
+
+- `[`UKSI-2024-137`]` **[The Sentencing Act 2020 (Amendment of Schedule 21) Regulations 2024](https://www.indexdata.org/the-sentencing-act-2020-amendment-of-schedule-21-regulations-2024/)** — `2024-02-08` | `4 Pages`
+- `[`UKSI-2024-55`]` **[The Immigration (Health Charge) (Amendment) Order 2024](https://www.indexdata.org/the-immigration-health-charge-amendment-order-2024/)** — `2024-01-16` | `4 Pages`
+- `[`UKSI-2024-19`]` **[The Immigration (Age Assessments) Regulations 2024](https://www.indexdata.org/the-immigration-age-assessments-regulations-2024/)** — `2024-01-09` | `2 Pages`
+
 ### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 
 - `[`UKSI-2024-106`]` **[The Civil Procedure (Amendment) Rules 2024](https://www.indexdata.org/the-civil-procedure-amendment-rules-2024/)** — `2024-01-30` | `8 Pages`
 - `[`UKSI-2024-62`]` **[The Criminal Procedure (Amendment) Rules 2024](https://www.indexdata.org/the-criminal-procedure-amendment-rules-2024/)** — `2024-01-18` | `36 Pages`
 - `[`UKSI-2024-58`]` **[The Criminal Legal Aid (General) (Amendment) Regulations 2024](https://www.indexdata.org/the-criminal-legal-aid-general-amendment-regulations-2024/)** — `2024-01-16` | `2 Pages`
-
-### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
-
-- `[`UKSI-2024-55`]` **[The Immigration (Health Charge) (Amendment) Order 2024](https://www.indexdata.org/the-immigration-health-charge-amendment-order-2024/)** — `2024-01-16` | `4 Pages`
-- `[`UKSI-2024-19`]` **[The Immigration (Age Assessments) Regulations 2024](https://www.indexdata.org/the-immigration-age-assessments-regulations-2024/)** — `2024-01-09` | `2 Pages`
 
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)

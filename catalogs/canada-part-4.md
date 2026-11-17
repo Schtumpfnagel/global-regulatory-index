@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,384` across `33` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,385` across `34` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-17 18:56 UTC`
+**Last Automated Sync:** `2026-11-17 19:58 UTC`
 
 ---
 
-## Issuing Authorities in Canada (33 Authorities)
+## Issuing Authorities in Canada (34 Authorities)
 
 - **[Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)** (`3,423` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -46,10 +46,11 @@
 - **[Minister of Veterans Affairs](https://www.indexdata.org/canada/minister-of-veterans-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/minister-of-veterans-affairs/) | [RSS Feed](https://www.indexdata.org/canada/minister-of-veterans-affairs/feed/)
 - **[Office of the Superintendent of Financial Institutions](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions/feed/)
 - **[Office of the Superintendent of Financial Institutions Canada](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/feed/)
+- **[Public Service Commission of Canada](https://www.indexdata.org/canada/public-service-commission-of-canada/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/public-service-commission-of-canada/) | [RSS Feed](https://www.indexdata.org/canada/public-service-commission-of-canada/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,384 of 5,384)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,385 of 5,385)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -1030,6 +1031,11 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/office-of-the-sup
 Canonical Authority Archive: [https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/) | [RSS Feed](https://www.indexdata.org/canada/office-of-the-superintendent-of-financial-institutions-canada/feed/)
 
 - `[`CA-OPEN-c6879faf-2bc7-4c84-999c`]` **[Foreign bank branches — Foreign Bank Branches - User manual](https://www.indexdata.org/foreign-bank-branches-foreign-bank-branches-user-manual/)** — `2026-06-01` | `10 Pages`
+
+### [Public Service Commission of Canada](https://www.indexdata.org/canada/public-service-commission-of-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/public-service-commission-of-canada/](https://www.indexdata.org/canada/public-service-commission-of-canada/) | [RSS Feed](https://www.indexdata.org/canada/public-service-commission-of-canada/feed/)
+
+- `[`CA-OPEN-3fe41e48-850e-4df2-81db`]` **[Federal Student Work Experience Program (FSWEP) Requests for Referrals submitted by hiring departments](https://www.indexdata.org/federal-student-work-experience-program-fswep-requests-for-referrals-submitted-by-hiring-departments/)** — `2021-05-12` | `3 Pages`
 
 ---
 
