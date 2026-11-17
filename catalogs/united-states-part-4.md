@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,461` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,465` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 20:54 UTC`
+**Last Automated Sync:** `2026-11-17 21:56 UTC`
 
 ---
 
@@ -91,7 +91,7 @@
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
+- **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
@@ -147,6 +147,7 @@
 - **[Rural Business-Cooperative Service](https://www.indexdata.org/united-states/rural-business-cooperative-service/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-business-cooperative-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-business-cooperative-service/feed/)
 - **[Agriculture Department](https://www.indexdata.org/united-states/agriculture-department/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/agriculture-department/) | [RSS Feed](https://www.indexdata.org/united-states/agriculture-department/feed/)
 - **[Bureau of the Fiscal Service](https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/) | [RSS Feed](https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/feed/)
+- **[Centers for Medicare & Medicaid Services (CMS)](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/feed/)
 - **[Labor Department](https://www.indexdata.org/united-states/labor-department/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/labor-department/) | [RSS Feed](https://www.indexdata.org/united-states/labor-department/feed/)
 - **[Natural Resources Revenue Office](https://www.indexdata.org/united-states/natural-resources-revenue-office/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/natural-resources-revenue-office/) | [RSS Feed](https://www.indexdata.org/united-states/natural-resources-revenue-office/feed/)
 - **[Rural Utilities Service](https://www.indexdata.org/united-states/rural-utilities-service/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-utilities-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-utilities-service/feed/)
@@ -170,7 +171,6 @@
 - **[National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
 - **[State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)
 - **[U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
-- **[Centers for Medicare & Medicaid Services (CMS)](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/feed/)
 - **[Indian Health Service](https://www.indexdata.org/united-states/indian-health-service/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-health-service/) | [RSS Feed](https://www.indexdata.org/united-states/indian-health-service/feed/)
 - **[National Institute of Standards and Technology](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/feed/)
 - **[National Park Service (NPS)](https://www.indexdata.org/united-states/national-park-service-nps/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service-nps/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service-nps/feed/)
@@ -254,11 +254,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,461)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,465)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-01198`]` **[Airworthiness Directives; Honda Aircraft Company LLC Airplanes](https://www.indexdata.org/airworthiness-directives-honda-aircraft-company-llc-airplanes-3/)** — `2026-01-22` | `3 Pages`
+- `[`2026-01183`]` **[Airworthiness Directives; Leonardo S.p.A. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-19/)** — `2026-01-22` | `3 Pages`
+- `[`2026-01182`]` **[Airworthiness Directives; PZL-Swidnik S.A. Helicopters](https://www.indexdata.org/airworthiness-directives-pzl-swidnik-s-a-helicopters/)** — `2026-01-22` | `4 Pages`
 - `[`2026-01180`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-helicopters-2/)** — `2026-01-22` | `3 Pages`
 - `[`2026-01172`]` **[Amendment of Class D and Class E4 Airspace Over Wilkes-Barre, PA](https://www.indexdata.org/amendment-of-class-d-and-class-e4-airspace-over-wilkes-barre-pa/)** — `2026-01-22` | `3 Pages`
 - `[`2026-01171`]` **[Amendment of Class D and Class E Airspace; Ashland, Bucyrus, and Mansfield, OH](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-ashland-bucyrus-and-mansfield-oh/)** — `2026-01-22` | `3 Pages`
@@ -623,7 +626,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-14870`]` **[Airworthiness Directives; Gulfstream Aerospace LP (Type Certificate Previously Held by Israel Aircraft Industries, Ltd.) Airplanes](https://www.indexdata.org/airworthiness-directives-gulfstream-aerospace-lp-type-certificate-previously-held-by-israel-aircraft-industries-ltd-airplanes-6/)** — `2025-08-06` | `2 Pages`
 - `[`2025-14847`]` **[Airworthiness Directives; Bell Textron Canada Limited Helicopters](https://www.indexdata.org/airworthiness-directives-bell-textron-canada-limited-helicopters-26/)** — `2025-08-05` | `3 Pages`
 - `[`2025-14830`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-30/)** — `2025-08-05` | `4 Pages`
-- `[`2025-14815`]` **[Airworthiness Directives; BAE SYSTEMS (Operations) Limited Airplanes](https://www.indexdata.org/airworthiness-directives-bae-systems-operations-limited-airplanes-2/)** — `2025-08-05` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1277,31 +1279,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enfor
 - `[`2025-15566`]` **[Schedules of Controlled Substances: Temporary Placement of N-pyrrolidino metonitazene and N-pyrrolidino protonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-n-pyrrolidino-metonitazene-and-n-pyrrolidino-protonitazene-in-schedule-i/)** — `2025-08-15` | `6 Pages`
 - `[`2025-15177`]` **[Specific Listing for Dipentylone, a Currently Controlled Schedule I Substance](https://www.indexdata.org/specific-listing-for-dipentylone-a-currently-controlled-schedule-i-substance/)** — `2025-08-08` | `3 Pages`
 
-### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-
-- `[`2026-00734`]` **[Rescission of Regulations Regarding Public Access, Use, and Recreation for Four National Wildlife Refuges](https://www.indexdata.org/rescission-of-regulations-regarding-public-access-use-and-recreation-for-four-national-wildlife-refuges/)** — `2026-01-15` | `4 Pages`
-- `[`2026-00676`]` **[Administrative Requirements; Pittman-Robertson Wildlife Restoration and Dingell-Johnson Sport Fish Restoration Acts](https://www.indexdata.org/administrative-requirements-pittman-robertson-wildlife-restoration-and-dingell-johnson-sport-fish-restoration-acts/)** — `2026-01-15` | `34 Pages`
-- `[`2026-00675`]` **[Implementation of the Pittman-Robertson Wildlife Restoration and Dingell-Johnson Sport Fish Restoration Acts](https://www.indexdata.org/implementation-of-the-pittman-robertson-wildlife-restoration-and-dingell-johnson-sport-fish-restoration-acts/)** — `2026-01-15` | `3 Pages`
-- `[`2025-20552`]` **[Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened-wildlife-and-plants-2/)** — `2025-11-21` | `6 Pages`
-- `[`2025-20551`]` **[Endangered and Threatened Wildlife and Plants; Interagency Cooperation Regulations](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-interagency-cooperation-regulations/)** — `2025-11-21` | `8 Pages`
-- `[`2025-20550`]` **[Endangered and Threatened Wildlife and Plants; Regulations for Designating Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-for-designating-critical-habitat-2/)** — `2025-11-21` | `8 Pages`
-- `[`2025-20549`]` **[Endangered and Threatened Wildlife and Plants; Listing Endangered and Threatened Species and Designating Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-listing-endangered-and-threatened-species-and-designating-critical-habitat/)** — `2025-11-21` | `9 Pages`
-- `[`2025-20154`]` **[Endangered and Threatened Wildlife and Plants; 12-Month Not-Warranted Finding for the Okinawa Woodpecker](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-12-month-not-warranted-finding-for-the-okinawa-woodpecker/)** — `2025-11-18` | `4 Pages`
-- `[`2025-19732`]` **[Endangered and Threatened Wildlife and Plants; Review of Species That Are Candidates for Listing as Endangered or Threatened; Annual Notification of Findings on Resubmitted Petitions; Annual Description of Progress on Listing Actions](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-review-of-species-that-are-candidates-for-listing-as-endangered-or-threatened-annual-notification-of-findings-on-resubmitted-petitions-annual-descripti/)** — `2025-10-31` | `26 Pages`
-- `[`2025-18728`]` **[Endangered and Threatened Wildlife and Plants; Regulations for Eleven Species Treated as Listed Due to Similarity of Appearance](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-for-eleven-species-treated-as-listed-due-to-similarity-of-appearance/)** — `2025-09-26` | `9 Pages`
-- `[`2025-17320`]` **[Endangered and Threatened Wildlife and Plants; Similarity of Appearance Explanation for the Northern Distinct Population Segment of the Southern Subspecies of Scarlet Macaw](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-similarity-of-appearance-explanation-for-the-northern-distinct-population-segment-of-the-southern-subspecies-of-scarlet-macaw/)** — `2025-09-09` | `5 Pages`
-- `[`2025-16933`]` **[Endangered and Threatened Wildlife and Plants; Five Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-five-species-not-warranted-for-listing-as-endangered-or-threatened-species/)** — `2025-09-04` | `10 Pages`
-- `[`2025-16688`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Southern Hognose Snake](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-southern-hognose-snake-2/)** — `2025-08-29` | `28 Pages`
-- `[`2025-16440`]` **[National Wildlife Refuge System; 2025-2026 Station-Specific Hunting and Sport Fishing Regulations](https://www.indexdata.org/national-wildlife-refuge-system-2025-2026-station-specific-hunting-and-sport-fishing-regulations/)** — `2025-08-28` | `22 Pages`
-- `[`2025-16227`]` **[Endangered and Threatened Wildlife and Plants; 90-Day Findings for Nine Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-90-day-findings-for-nine-species/)** — `2025-08-25` | `7 Pages`
-- `[`2025-16209`]` **[Endangered and Threatened Wildlife and Plants; 12-Month Not-Warranted Finding for the Northern California-Southern Oregon Distinct Population Segment of Fisher](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-12-month-not-warranted-finding-for-the-northern-california-southern-oregon-distinct-population-segment-of-fisher/)** — `2025-08-25` | `5 Pages`
-- `[`2025-16192`]` **[Migratory Bird Hunting; 2025-26 Seasons for Certain Migratory Game Birds](https://www.indexdata.org/migratory-bird-hunting-2025-26-seasons-for-certain-migratory-game-birds/)** — `2025-08-25` | `39 Pages`
-- `[`2025-15720`]` **[Civil Penalties; 2025 Inflation Adjustments for Civil Monetary Penalties](https://www.indexdata.org/civil-penalties-2025-inflation-adjustments-for-civil-monetary-penalties/)** — `2025-08-18` | `2 Pages`
-- `[`2025-15703`]` **[Migratory Bird Hunting; Final 2025-26 Frameworks for Migratory Bird Hunting Regulations](https://www.indexdata.org/migratory-bird-hunting-final-2025-26-frameworks-for-migratory-bird-hunting-regulations/)** — `2025-08-18` | `41 Pages`
-- `[`2025-15491`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Borneo Earless Monitor](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-the-borneo-earless-monitor/)** — `2025-08-14` | `13 Pages`
-- `[`2025-14809`]` **[Endangered and Threatened Wildlife and Plants; Removal of Virginia Sneezeweed From the List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-virginia-sneezeweed-from-the-list-of-endangered-and-threatened-plants/)** — `2025-08-05` | `13 Pages`
-
 ### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
 
@@ -1325,6 +1302,30 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2025-15090`]` **[Defining Larger Participants of the International Money Transfer Market](https://www.indexdata.org/defining-larger-participants-of-the-international-money-transfer-market/)** — `2025-08-08` | `4 Pages`
 - `[`2025-15089`]` **[Defining Larger Participants of the Automobile Financing Market](https://www.indexdata.org/defining-larger-participants-of-the-automobile-financing-market/)** — `2025-08-08` | `4 Pages`
 - `[`2025-15088`]` **[Defining Larger Participants of the Consumer Reporting Market](https://www.indexdata.org/defining-larger-participants-of-the-consumer-reporting-market/)** — `2025-08-08` | `4 Pages`
+
+### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
+
+- `[`2026-00734`]` **[Rescission of Regulations Regarding Public Access, Use, and Recreation for Four National Wildlife Refuges](https://www.indexdata.org/rescission-of-regulations-regarding-public-access-use-and-recreation-for-four-national-wildlife-refuges/)** — `2026-01-15` | `4 Pages`
+- `[`2026-00676`]` **[Administrative Requirements; Pittman-Robertson Wildlife Restoration and Dingell-Johnson Sport Fish Restoration Acts](https://www.indexdata.org/administrative-requirements-pittman-robertson-wildlife-restoration-and-dingell-johnson-sport-fish-restoration-acts/)** — `2026-01-15` | `34 Pages`
+- `[`2026-00675`]` **[Implementation of the Pittman-Robertson Wildlife Restoration and Dingell-Johnson Sport Fish Restoration Acts](https://www.indexdata.org/implementation-of-the-pittman-robertson-wildlife-restoration-and-dingell-johnson-sport-fish-restoration-acts/)** — `2026-01-15` | `3 Pages`
+- `[`2025-20552`]` **[Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened-wildlife-and-plants-2/)** — `2025-11-21` | `6 Pages`
+- `[`2025-20551`]` **[Endangered and Threatened Wildlife and Plants; Interagency Cooperation Regulations](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-interagency-cooperation-regulations/)** — `2025-11-21` | `8 Pages`
+- `[`2025-20550`]` **[Endangered and Threatened Wildlife and Plants; Regulations for Designating Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-for-designating-critical-habitat-2/)** — `2025-11-21` | `8 Pages`
+- `[`2025-20549`]` **[Endangered and Threatened Wildlife and Plants; Listing Endangered and Threatened Species and Designating Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-listing-endangered-and-threatened-species-and-designating-critical-habitat/)** — `2025-11-21` | `9 Pages`
+- `[`2025-20154`]` **[Endangered and Threatened Wildlife and Plants; 12-Month Not-Warranted Finding for the Okinawa Woodpecker](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-12-month-not-warranted-finding-for-the-okinawa-woodpecker/)** — `2025-11-18` | `4 Pages`
+- `[`2025-19732`]` **[Endangered and Threatened Wildlife and Plants; Review of Species That Are Candidates for Listing as Endangered or Threatened; Annual Notification of Findings on Resubmitted Petitions; Annual Description of Progress on Listing Actions](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-review-of-species-that-are-candidates-for-listing-as-endangered-or-threatened-annual-notification-of-findings-on-resubmitted-petitions-annual-descripti/)** — `2025-10-31` | `26 Pages`
+- `[`2025-18728`]` **[Endangered and Threatened Wildlife and Plants; Regulations for Eleven Species Treated as Listed Due to Similarity of Appearance](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-for-eleven-species-treated-as-listed-due-to-similarity-of-appearance/)** — `2025-09-26` | `9 Pages`
+- `[`2025-17320`]` **[Endangered and Threatened Wildlife and Plants; Similarity of Appearance Explanation for the Northern Distinct Population Segment of the Southern Subspecies of Scarlet Macaw](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-similarity-of-appearance-explanation-for-the-northern-distinct-population-segment-of-the-southern-subspecies-of-scarlet-macaw/)** — `2025-09-09` | `5 Pages`
+- `[`2025-16933`]` **[Endangered and Threatened Wildlife and Plants; Five Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-five-species-not-warranted-for-listing-as-endangered-or-threatened-species/)** — `2025-09-04` | `10 Pages`
+- `[`2025-16688`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Southern Hognose Snake](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-southern-hognose-snake-2/)** — `2025-08-29` | `28 Pages`
+- `[`2025-16440`]` **[National Wildlife Refuge System; 2025-2026 Station-Specific Hunting and Sport Fishing Regulations](https://www.indexdata.org/national-wildlife-refuge-system-2025-2026-station-specific-hunting-and-sport-fishing-regulations/)** — `2025-08-28` | `22 Pages`
+- `[`2025-16227`]` **[Endangered and Threatened Wildlife and Plants; 90-Day Findings for Nine Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-90-day-findings-for-nine-species/)** — `2025-08-25` | `7 Pages`
+- `[`2025-16209`]` **[Endangered and Threatened Wildlife and Plants; 12-Month Not-Warranted Finding for the Northern California-Southern Oregon Distinct Population Segment of Fisher](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-12-month-not-warranted-finding-for-the-northern-california-southern-oregon-distinct-population-segment-of-fisher/)** — `2025-08-25` | `5 Pages`
+- `[`2025-16192`]` **[Migratory Bird Hunting; 2025-26 Seasons for Certain Migratory Game Birds](https://www.indexdata.org/migratory-bird-hunting-2025-26-seasons-for-certain-migratory-game-birds/)** — `2025-08-25` | `39 Pages`
+- `[`2025-15720`]` **[Civil Penalties; 2025 Inflation Adjustments for Civil Monetary Penalties](https://www.indexdata.org/civil-penalties-2025-inflation-adjustments-for-civil-monetary-penalties/)** — `2025-08-18` | `2 Pages`
+- `[`2025-15703`]` **[Migratory Bird Hunting; Final 2025-26 Frameworks for Migratory Bird Hunting Regulations](https://www.indexdata.org/migratory-bird-hunting-final-2025-26-frameworks-for-migratory-bird-hunting-regulations/)** — `2025-08-18` | `41 Pages`
+- `[`2025-15491`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Borneo Earless Monitor](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-the-borneo-earless-monitor/)** — `2025-08-14` | `13 Pages`
 
 ### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
@@ -1502,6 +1503,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 
+- `[`2026-01188`]` **[Clarification of VA's Processing of Survivors Benefits Claims](https://www.indexdata.org/clarification-of-vas-processing-of-survivors-benefits-claims/)** — `2026-01-22` | `6 Pages`
 - `[`2026-00634`]` **[Edith Nourse Rogers STEM Scholarship](https://www.indexdata.org/edith-nourse-rogers-stem-scholarship/)** — `2026-01-15` | `7 Pages`
 - `[`2026-00237`]` **[Apportionments](https://www.indexdata.org/apportionments/)** — `2026-01-09` | `9 Pages`
 - `[`2025-24061`]` **[Reproductive Health Services](https://www.indexdata.org/reproductive-health-services/)** — `2025-12-31` | `19 Pages`
@@ -1694,18 +1696,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-hi
 - `[`2025-18194`]` **[Rescinding Regulations Regarding Management Systems Pertaining to the Fish and Wildlife Service and the Refuge Roads Program](https://www.indexdata.org/rescinding-regulations-regarding-management-systems-pertaining-to-the-fish-and-wildlife-service-and-the-refuge-roads-program/)** — `2025-09-19` | `3 Pages`
 - `[`2025-16008`]` **[Rescinding Regulations on Procedures for Advance Construction of Federal-Aid Projects](https://www.indexdata.org/rescinding-regulations-on-procedures-for-advance-construction-of-federal-aid-projects/)** — `2025-08-21` | `2 Pages`
 
-### [State Department](https://www.indexdata.org/united-states/state-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
-
-- `[`2026-00482`]` **[Service of Process; Address Change](https://www.indexdata.org/service-of-process-address-change/)** — `2026-01-13` | `2 Pages`
-- `[`2025-23998`]` **[International Traffic in Arms Regulations: Exemption for Defense Trade and Cooperation Among Australia, the United Kingdom, and the United States](https://www.indexdata.org/international-traffic-in-arms-regulations-exemption-for-defense-trade-and-cooperation-among-australia-the-united-kingdom-and-the-united-states/)** — `2025-12-30` | `10 Pages`
-- `[`2025-19822`]` **[International Traffic in Arms Regulations: Changes to Section 126.1](https://www.indexdata.org/international-traffic-in-arms-regulations-changes-to-section-126-1/)** — `2025-11-07` | `2 Pages`
-- `[`2025-18567`]` **[Passports; Procedures for Passport Couriers](https://www.indexdata.org/passports-procedures-for-passport-couriers/)** — `2025-09-25` | `9 Pages`
-- `[`2025-17851`]` **[Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates-Visa Services Fee Changes](https://www.indexdata.org/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and-consulates-visa-services-fee-changes/)** — `2025-09-16` | `4 Pages`
-- `[`2025-17287`]` **[Amendment to the International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales To or From Certain Countries-Cyprus](https://www.indexdata.org/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus-2/)** — `2025-09-09` | `2 Pages`
-- `[`2025-16382`]` **[International Traffic in Arms Regulations: U.S. Munitions List Targeted Revisions](https://www.indexdata.org/international-traffic-in-arms-regulations-u-s-munitions-list-targeted-revisions/)** — `2025-08-27` | `11 Pages`
-- `[`2025-14826`]` **[Visas: Visa Bond Pilot Program](https://www.indexdata.org/visas-visa-bond-pilot-program/)** — `2025-08-05` | `9 Pages`
-
 ### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
 
@@ -1727,6 +1717,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2025-18992`]` **[Revision of Firearms License Requirements](https://www.indexdata.org/revision-of-firearms-license-requirements/)** — `2025-09-30` | `32 Pages`
 - `[`2025-18015`]` **[Adoption and Procedures of the Section 232 Automobile Parts Tariff Inclusions Process](https://www.indexdata.org/adoption-and-procedures-of-the-section-232-automobile-parts-tariff-inclusions-process/)** — `2025-09-17` | `6 Pages`
 - `[`2025-17893`]` **[Additions and Revisions to the Entity List](https://www.indexdata.org/additions-and-revisions-to-the-entity-list/)** — `2025-09-16` | `16 Pages`
+
+### [State Department](https://www.indexdata.org/united-states/state-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+
+- `[`2026-00482`]` **[Service of Process; Address Change](https://www.indexdata.org/service-of-process-address-change/)** — `2026-01-13` | `2 Pages`
+- `[`2025-23998`]` **[International Traffic in Arms Regulations: Exemption for Defense Trade and Cooperation Among Australia, the United Kingdom, and the United States](https://www.indexdata.org/international-traffic-in-arms-regulations-exemption-for-defense-trade-and-cooperation-among-australia-the-united-kingdom-and-the-united-states/)** — `2025-12-30` | `10 Pages`
+- `[`2025-19822`]` **[International Traffic in Arms Regulations: Changes to Section 126.1](https://www.indexdata.org/international-traffic-in-arms-regulations-changes-to-section-126-1/)** — `2025-11-07` | `2 Pages`
+- `[`2025-18567`]` **[Passports; Procedures for Passport Couriers](https://www.indexdata.org/passports-procedures-for-passport-couriers/)** — `2025-09-25` | `9 Pages`
+- `[`2025-17851`]` **[Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates-Visa Services Fee Changes](https://www.indexdata.org/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and-consulates-visa-services-fee-changes/)** — `2025-09-16` | `4 Pages`
+- `[`2025-17287`]` **[Amendment to the International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales To or From Certain Countries-Cyprus](https://www.indexdata.org/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus-2/)** — `2025-09-09` | `2 Pages`
+- `[`2025-16382`]` **[International Traffic in Arms Regulations: U.S. Munitions List Targeted Revisions](https://www.indexdata.org/international-traffic-in-arms-regulations-u-s-munitions-list-targeted-revisions/)** — `2025-08-27` | `11 Pages`
 
 ### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
@@ -1957,13 +1958,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-re
 - `[`2025-23253`]` **[Curing Missed Loan Payments](https://www.indexdata.org/curing-missed-loan-payments/)** — `2025-12-18` | `2 Pages`
 - `[`2025-19538`]` **[Roth In-Plan Conversions](https://www.indexdata.org/roth-in-plan-conversions-2/)** — `2025-10-15` | `2 Pages`
 
-### [Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/ocean-energy-management-bureau/](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)
-
-- `[`2025-22767`]` **[Oil and Gas and Sulfur Operations in the Outer Continental Shelf](https://www.indexdata.org/oil-and-gas-and-sulfur-operations-in-the-outer-continental-shelf/)** — `2025-12-15` | `2 Pages`
-- `[`2025-15325`]` **[Rescission of Expired 1-Year Grace Period for Data Extensions](https://www.indexdata.org/rescission-of-expired-1-year-grace-period-for-data-extensions/)** — `2025-08-12` | `3 Pages`
-- `[`2025-14805`]` **[Rescission of Renewable Energy Leasing Schedule](https://www.indexdata.org/rescission-of-renewable-energy-leasing-schedule/)** — `2025-08-05` | `4 Pages`
-
 ### [Safety and Environmental Enforcement Bureau](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/feed/)
 
@@ -2012,6 +2006,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-i
 
 - `[`2025-19063`]` **[Submission of Gaming Ordinance or Resolution](https://www.indexdata.org/submission-of-gaming-ordinance-or-resolution/)** — `2025-09-30` | `3 Pages`
 - `[`2025-18911`]` **[Facility License Notifications](https://www.indexdata.org/facility-license-notifications/)** — `2025-09-29` | `2 Pages`
+
+### [Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/ocean-energy-management-bureau/](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)
+
+- `[`2025-22767`]` **[Oil and Gas and Sulfur Operations in the Outer Continental Shelf](https://www.indexdata.org/oil-and-gas-and-sulfur-operations-in-the-outer-continental-shelf/)** — `2025-12-15` | `2 Pages`
+- `[`2025-15325`]` **[Rescission of Expired 1-Year Grace Period for Data Extensions](https://www.indexdata.org/rescission-of-expired-1-year-grace-period-for-data-extensions/)** — `2025-08-12` | `3 Pages`
 
 ### [Transportation Department](https://www.indexdata.org/united-states/transportation-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/transportation-department/](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
