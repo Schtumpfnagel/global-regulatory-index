@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,130` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,137` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-17 04:53 UTC`
+**Last Automated Sync:** `2026-11-17 05:00 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,175` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,182` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`630` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,11 +45,15 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,130)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,137)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
 
+- `[`EIB-EVT-warsaw_26112010_suchorzewski_en`]` **[EIB Policy Conference: Warsaw 26112010 Suchorzewski](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-suchorzewski/)** — `2025-04-15` | `10 Pages`
+- `[`EIB-EVT-warsaw_26112010_rop_en`]` **[EIB Policy Conference: Warsaw 26112010 rop](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-rop/)** — `2025-04-15` | `12 Pages`
+- `[`EIB-EVT-warsaw_26112010_programme_en`]` **[EIB Policy Conference: Warsaw 26112010 Programme](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-programme/)** — `2025-04-15` | `4 Pages`
+- `[`EIB-EVT-warsaw_26112010_pereira_coutinho_en`]` **[EIB Policy Conference: Warsaw 26112010 Pereira Coutinho](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-pereira-coutinho/)** — `2025-04-15` | `11 Pages`
 - `[`EIB-EVT-warsaw_26112010_maystadt_en`]` **[EIB Policy Conference: Warsaw 26112010 Maystadt](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-maystadt/)** — `2025-04-15` | `5 Pages`
 - `[`EIB-EVT-warsaw_26112010_ludewig_en`]` **[EIB Policy Conference: Warsaw 26112010 Ludewig](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-ludewig/)** — `2025-04-15` | `11 Pages`
 - `[`EIB-EVT-warsaw_26112010_lappin_en`]` **[EIB Policy Conference: Warsaw 26112010 Lappin](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-lappin/)** — `2025-04-15` | `8 Pages`
@@ -299,6 +303,9 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-apc2009_press_release_en`]` **[EIB Policy Conference: Apc2009 Press Release](https://www.indexdata.org/eib-policy-conference-apc2009-press-release/)** — `2025-04-15` | `2 Pages`
 - `[`EIB-EVT-apc2006_stats_en`]` **[EIB Policy Conference: Apc2006 Stats](https://www.indexdata.org/eib-policy-conference-apc2006-stats/)** — `2025-04-15` | `16 Pages`
 - `[`EIB-EVT-apc2006_pr_en`]` **[EIB Policy Conference — Apc2006 pr](https://www.indexdata.org/eib-policy-conference-apc2006-pr/)** — `2025-04-15` | `6 Pages`
+- `[`EIB-EVT-apc2005_stats_en`]` **[EIB Policy Conference: Apc2005 Stats](https://www.indexdata.org/eib-policy-conference-apc2005-stats/)** — `2025-04-15` | `17 Pages`
+- `[`EIB-EVT-apc2005_pr_en`]` **[EIB Policy Conference — Apc2005 pr](https://www.indexdata.org/eib-policy-conference-apc2005-pr/)** — `2025-04-15` | `6 Pages`
+- `[`EIB-EVT-apc2004_stats_en`]` **[EIB Policy Conference: Apc2004 Stats](https://www.indexdata.org/eib-policy-conference-apc2004-stats/)** — `2025-04-15` | `17 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1543,13 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-DOC-ca-approved-minutes-20200205-en`]` **[EIB Policy Document: Ca Approved Minutes 20200205](https://www.indexdata.org/eib-policy-document-ca-approved-minutes-20200205/)** — `2025-04-14` | `16 Pages`
 - `[`EIB-DOC-ca-approved-minutes-201912-en`]` **[EIB Policy Document: Ca Approved Minutes 201912](https://www.indexdata.org/eib-policy-document-ca-approved-minutes-201912/)** — `2025-04-14` | `22 Pages`
 - `[`EIB-DOC-ca-approved-minutes-201911-en`]` **[EIB Policy Document: Ca Approved Minutes 201911](https://www.indexdata.org/eib-policy-document-ca-approved-minutes-201911/)** — `2025-04-14` | `25 Pages`
-- `[`EIB-DOC-brief_on_implementation_of_the_eibs_public_disclosure_policy_in_2008_en`]` **[Brief on Implementation of the Eibs Public Disclosure Policy in 2008](https://www.indexdata.org/brief-on-implementation-of-the-eibs-public-disclosure-policy-in-2008/)** — `2025-04-14` | `4 Pages`
-- `[`EIB-DOC-brief_on_implementation_of_the_eibs_public_disclosure_policy_in_2007_en`]` **[Brief on Implementation of the Eibs Public Disclosure Policy in 2007](https://www.indexdata.org/brief-on-implementation-of-the-eibs-public-disclosure-policy-in-2007/)** — `2025-04-14` | `7 Pages`
-- `[`EIB-DOC-brief_on_implementation_of_the_eibs_public_disclosure_policy_in_2006_en`]` **[Brief on Implementation of the Eibs Public Disclosure Policy in 2006](https://www.indexdata.org/brief-on-implementation-of-the-eibs-public-disclosure-policy-in-2006/)** — `2025-04-14` | `5 Pages`
-- `[`EIB-DOC-brasov_deloitte_final_report_en`]` **[EIB Policy Document: Brasov Deloitte Final Report](https://www.indexdata.org/eib-policy-document-brasov-deloitte-final-report/)** — `2025-04-14` | `108 Pages`
-- `[`EIB-DOC-board_of_directors_minutes_20220615_en`]` **[EIB Policy Document: Board of Directors Minutes 20220615](https://www.indexdata.org/eib-policy-document-board-of-directors-minutes-20220615/)** — `2025-04-14` | `10 Pages`
-- `[`EIB-DOC-board_of_directors_minutes_20220518_en`]` **[EIB Policy Document: Board of Directors Minutes 20220518](https://www.indexdata.org/eib-policy-document-board-of-directors-minutes-20220518/)** — `2025-04-14` | `12 Pages`
-- `[`EIB-DOC-board_of_directors_minutes_20220407_en`]` **[EIB Policy Document: Board of Directors Minutes 20220407](https://www.indexdata.org/eib-policy-document-board-of-directors-minutes-20220407/)** — `2025-04-14` | `10 Pages`
 
 ---
 
