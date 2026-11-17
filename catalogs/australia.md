@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,319` across `53` issuing authorities  
-**Last Automated Sync:** `2026-11-17 15:06 UTC`
+**Total Indexed Dossiers in Australia:** `1,320` across `53` issuing authorities  
+**Last Automated Sync:** `2026-11-17 16:03 UTC`
 
 ---
 
@@ -52,6 +52,7 @@
 - **[Health and Wellbeing Queensland](https://www.indexdata.org/australia/health-and-wellbeing-queensland/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/health-and-wellbeing-queensland/) | [RSS Feed](https://www.indexdata.org/australia/health-and-wellbeing-queensland/feed/)
 - **[Housing, Local Government and Community Development](https://www.indexdata.org/australia/housing-local-government-and-community-development/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/housing-local-government-and-community-development/) | [RSS Feed](https://www.indexdata.org/australia/housing-local-government-and-community-development/feed/)
 - **[New South Wales — Department of Primary Industries](https://www.indexdata.org/australia/new-south-wales-department-of-primary-industries/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/new-south-wales-department-of-primary-industries/) | [RSS Feed](https://www.indexdata.org/australia/new-south-wales-department-of-primary-industries/feed/)
+- **[New South Wales — Transport for NSW](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/) | [RSS Feed](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/feed/)
 - **[Northern Territory — Chief Minister and Cabinet](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/feed/)
 - **[Victoria State Government](https://www.indexdata.org/australia/victoria-state-government/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/victoria-state-government/) | [RSS Feed](https://www.indexdata.org/australia/victoria-state-government/feed/)
 - **[Western Australia — Department of Primary Industries and Regional Development](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/) | [RSS Feed](https://www.indexdata.org/australia/western-australia-department-of-primary-industries-and-regional-development/feed/)
@@ -61,14 +62,13 @@
 - **[Australian Research Council](https://www.indexdata.org/australia/australian-research-council/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-research-council/) | [RSS Feed](https://www.indexdata.org/australia/australian-research-council/feed/)
 - **[Government of South Australia](https://www.indexdata.org/australia/government-of-south-australia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/government-of-south-australia/) | [RSS Feed](https://www.indexdata.org/australia/government-of-south-australia/feed/)
 - **[Murray-Darling Basin Authority](https://www.indexdata.org/australia/murray-darling-basin-authority/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/murray-darling-basin-authority/) | [RSS Feed](https://www.indexdata.org/australia/murray-darling-basin-authority/feed/)
-- **[New South Wales — Transport for NSW](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/) | [RSS Feed](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/feed/)
 - **[Northern Territory Government](https://www.indexdata.org/australia/northern-territory-government/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-government/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-government/feed/)
 - **[Northern Territory — Tourism and Hospitality](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-tourism-and-hospitality/feed/)
 - **[SIP Register - OptiComm](https://www.indexdata.org/australia/sip-register-opticomm/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/australia/sip-register-opticomm/) | [RSS Feed](https://www.indexdata.org/australia/sip-register-opticomm/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,319 of 1,319)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,320 of 1,320)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1533,6 +1533,12 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/new-south-wale
 - `[`AU-ZEN-15170944`]` **[An intercomparison of climate model bias correction methods across Australia: Supplementary information](https://www.indexdata.org/an-intercomparison-of-climate-model-bias-correction-methods-across-australia-supplementary-information/)** — `2025-04-08` | `11 Pages`
 - `[`AU-ZEN-18415453`]` **[Best practice in high‑frequency water quality monitoring for improved management and assessment; a novel decision workflow](https://www.indexdata.org/best-practice-in-high-frequency-water-quality-monitoring-for-improved-management-and-assessment-a-novel-decision-workflow/)** — `2025-02-19` | `23 Pages`
 
+### [New South Wales — Transport for NSW](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/)
+Canonical Authority Archive: [https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/) | [RSS Feed](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/feed/)
+
+- `[`AU-NSW-TF-ef2b0bd2-db1e-48f3-9ea1-2bb9e6bc6504`]` **[NSW Roads Traffic Volume Counts API](https://www.indexdata.org/nsw-roads-traffic-volume-counts-api/)** — `2026-11-17` | `11 Pages`
+- `[`AU-NSW-TF-d1f68d4f-b778-44df-9823-cf2fa922e47f`]` **[Timetables Complete GTFS](https://www.indexdata.org/timetables-complete-gtfs/)** — `2026-11-17` | `10 Pages`
+
 ### [Northern Territory — Chief Minister and Cabinet](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-chief-minister-and-cabinet/feed/)
 
@@ -1580,11 +1586,6 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/government-of-
 Canonical Authority Archive: [https://www.indexdata.org/australia/murray-darling-basin-authority/](https://www.indexdata.org/australia/murray-darling-basin-authority/) | [RSS Feed](https://www.indexdata.org/australia/murray-darling-basin-authority/feed/)
 
 - `[`AU-DATA-cde1b241-608d-421d-82dd`]` **[River Murray Water Quality Monitoring Program — Metadata Statement - RMWQMP Physico-chemical](https://www.indexdata.org/river-murray-water-quality-monitoring-program-metadata-statement-rmwqmp-physico-chemical/)** — `2026-11-12` | `5 Pages`
-
-### [New South Wales — Transport for NSW](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/)
-Canonical Authority Archive: [https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/) | [RSS Feed](https://www.indexdata.org/australia/new-south-wales-transport-for-nsw/feed/)
-
-- `[`AU-NSW-TF-d1f68d4f-b778-44df-9823-cf2fa922e47f`]` **[Timetables Complete GTFS](https://www.indexdata.org/timetables-complete-gtfs/)** — `2026-11-17` | `10 Pages`
 
 ### [Northern Territory Government](https://www.indexdata.org/australia/northern-territory-government/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/northern-territory-government/](https://www.indexdata.org/australia/northern-territory-government/) | [RSS Feed](https://www.indexdata.org/australia/northern-territory-government/feed/)
