@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `187` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-17 16:03 UTC`
+**Total Indexed Dossiers in Ireland:** `188` across `38` issuing authorities  
+**Last Automated Sync:** `2026-11-17 17:00 UTC`
 
 ---
 
@@ -26,9 +26,9 @@
 - **[The Arts Council](https://www.indexdata.org/ireland/the-arts-council/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-arts-council/) | [RSS Feed](https://www.indexdata.org/ireland/the-arts-council/feed/)
 - **[Department of Agriculture and Fisheries](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/feed/)
 - **[Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
+- **[The Pensions Authority](https://www.indexdata.org/ireland/the-pensions-authority/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-pensions-authority/) | [RSS Feed](https://www.indexdata.org/ireland/the-pensions-authority/feed/)
 - **[Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
 - **[Minister for Climate, Energy and the Environment](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/feed/)
-- **[The Pensions Authority](https://www.indexdata.org/ireland/the-pensions-authority/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-pensions-authority/) | [RSS Feed](https://www.indexdata.org/ireland/the-pensions-authority/feed/)
 - **[Minister for Children, Disability and Equality](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/feed/)
 - **[Minister for Social Protection](https://www.indexdata.org/ireland/minister-for-social-protection/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-social-protection/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-social-protection/feed/)
 - **[Geological Survey Ireland](https://www.indexdata.org/ireland/geological-survey-ireland/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/geological-survey-ireland/) | [RSS Feed](https://www.indexdata.org/ireland/geological-survey-ireland/feed/)
@@ -53,7 +53,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–187 of 187)
+## Indexed Statutory & Regulatory Dossiers (Records 1–188 of 188)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -240,6 +240,16 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-hea
 - `[`IE-ACT-2025-14`]` **[Health Insurance (Amendment) Act 2025](https://www.indexdata.org/health-insurance-amendment-act-2025/)** — `2025-12-10` | `10 Pages`
 - `[`IE-ACT-2024-42`]` **[Health Insurance (Amendment) and Health (Provision of Menopause Products) Act 2024](https://www.indexdata.org/health-insurance-amendment-and-health-provision-of-menopause-products-act-2024/)** — `2024-11-11` | `13 Pages`
 
+### [The Pensions Authority](https://www.indexdata.org/ireland/the-pensions-authority/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/the-pensions-authority/](https://www.indexdata.org/ireland/the-pensions-authority/) | [RSS Feed](https://www.indexdata.org/ireland/the-pensions-authority/feed/)
+
+- `[`IE-PA-9190`]` **[The Pensions Authority Register of Administrators (updated November 2026)](https://www.indexdata.org/the-pensions-authority-register-of-administrators-updated-november-2026/)** — `2026-11-17` | `11 Pages`
+- `[`IE-PA-9092`]` **[Q&A EIOPA data collection v4 no TC](https://www.indexdata.org/qa-eiopa-data-collection-v4-no-tc/)** — `2026-10-22` | `6 Pages`
+- `[`IE-PA-9089`]` **[Payments over €20k in 2026](https://www.indexdata.org/payments-over-e20k-in-2026/)** — `2026-10-21` | `2 Pages`
+- `[`IE-PA-9088`]` **[Contracts over €25k in 2026](https://www.indexdata.org/contracts-over-e25k-in-2026/)** — `2026-10-21` | `2 Pages`
+- `[`IE-PA-9083`]` **[Q&A document EIOPA data reporting](https://www.indexdata.org/qa-document-eiopa-data-reporting/)** — `2026-10-20` | `6 Pages`
+- `[`IE-PA-8910`]` **[Petra Hielkema EIOPA speech](https://www.indexdata.org/petra-hielkema-eiopa-speech/)** — `2026-09-17` | `7 Pages`
+
 ### [Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/irish-fiscal-advisory-council/](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
 
@@ -257,15 +267,6 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-cli
 - `[`IE-ACT-2026-6`]` **[National Oil Reserves Agency (Amendment) Act 2026](https://www.indexdata.org/national-oil-reserves-agency-amendment-act-2026/)** — `2026-03-26` | `6 Pages`
 - `[`IE-ACT-2026-5`]` **[Environment (Miscellaneous Provisions) Act 2026](https://www.indexdata.org/environment-miscellaneous-provisions-act-2026/)** — `2026-03-12` | `34 Pages`
 - `[`IE-ACT-2025-12`]` **[Electricity (Supply) (Amendment) Act 2025](https://www.indexdata.org/electricity-supply-amendment-act-2025/)** — `2025-11-20` | `7 Pages`
-
-### [The Pensions Authority](https://www.indexdata.org/ireland/the-pensions-authority/)
-Canonical Authority Archive: [https://www.indexdata.org/ireland/the-pensions-authority/](https://www.indexdata.org/ireland/the-pensions-authority/) | [RSS Feed](https://www.indexdata.org/ireland/the-pensions-authority/feed/)
-
-- `[`IE-PA-9092`]` **[Q&A EIOPA data collection v4 no TC](https://www.indexdata.org/qa-eiopa-data-collection-v4-no-tc/)** — `2026-10-22` | `6 Pages`
-- `[`IE-PA-9089`]` **[Payments over €20k in 2026](https://www.indexdata.org/payments-over-e20k-in-2026/)** — `2026-10-21` | `2 Pages`
-- `[`IE-PA-9088`]` **[Contracts over €25k in 2026](https://www.indexdata.org/contracts-over-e25k-in-2026/)** — `2026-10-21` | `2 Pages`
-- `[`IE-PA-9083`]` **[Q&A document EIOPA data reporting](https://www.indexdata.org/qa-document-eiopa-data-reporting/)** — `2026-10-20` | `6 Pages`
-- `[`IE-PA-8910`]` **[Petra Hielkema EIOPA speech](https://www.indexdata.org/petra-hielkema-eiopa-speech/)** — `2026-09-17` | `7 Pages`
 
 ### [Minister for Children, Disability and Equality](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/feed/)
