@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q189`](https://www.wikidata.org/wiki/Q189)  
 **Governing Open-Government Framework:** *Höfundalög nr. 73/1972, Art. 9 / Lög nr. 45/2018*  
 **Total Indexed Dossiers in Iceland:** `17` across `4` issuing authorities  
-**Last Automated Sync:** `2026-11-17 06:57 UTC`
+**Last Automated Sync:** `2026-11-17 07:56 UTC`
 
 ---
 
