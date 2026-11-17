@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/australia/feed/](https://www.indexdata.org/australia/feed/)  
 **Wikidata Sovereign Entity:** [`Q408`](https://www.wikidata.org/wiki/Q408)  
 **Governing Open-Government Framework:** *Copyright Act 1968 (Cth) s 182A & CC BY 4.0*  
-**Total Indexed Dossiers in Australia:** `1,308` across `50` issuing authorities  
-**Last Automated Sync:** `2026-11-17 01:59 UTC`
+**Total Indexed Dossiers in Australia:** `1,309` across `50` issuing authorities  
+**Last Automated Sync:** `2026-11-17 02:55 UTC`
 
 ---
 
@@ -29,7 +29,7 @@
 - **[Australian Centre for International Agricultural Research](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/)** (`18` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/) | [RSS Feed](https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/feed/)
 - **[Department of Foreign Affairs and Trade](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/) | [RSS Feed](https://www.indexdata.org/australia/department-of-foreign-affairs-and-trade/feed/)
 - **[Department of Health and Aged Care](https://www.indexdata.org/australia/department-of-health-and-aged-care/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-health-and-aged-care/) | [RSS Feed](https://www.indexdata.org/australia/department-of-health-and-aged-care/feed/)
-- **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
+- **[Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
 - **[Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/) | [RSS Feed](https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts/feed/)
 - **[Department of Social Services](https://www.indexdata.org/australia/department-of-social-services/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/australia/department-of-social-services/) | [RSS Feed](https://www.indexdata.org/australia/department-of-social-services/feed/)
 - **[Australian Securities and Investments Commission (ASIC)](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/) | [RSS Feed](https://www.indexdata.org/australia/australian-securities-and-investments-commission-asic/feed/)
@@ -65,7 +65,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,308 of 1,308)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,309 of 1,309)
 
 ### [Department of the Treasury](https://www.indexdata.org/australia/department-of-the-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-the-treasury/](https://www.indexdata.org/australia/department-of-the-treasury/) | [RSS Feed](https://www.indexdata.org/australia/department-of-the-treasury/feed/)
@@ -1297,6 +1297,7 @@ Canonical Authority Archive: [https://www.indexdata.org/australia/department-of-
 ### [Australian Law Reform Commission](https://www.indexdata.org/australia/australian-law-reform-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/australia/australian-law-reform-commission/](https://www.indexdata.org/australia/australian-law-reform-commission/) | [RSS Feed](https://www.indexdata.org/australia/australian-law-reform-commission/feed/)
 
+- `[`AU-ALRC-23622`]` **[alrc-surrogacy-qanda](https://www.indexdata.org/alrc-surrogacy-qanda/)** — `2026-11-17` | `3 Pages`
 - `[`AU-ALRC-23586`]` **[ALRC Report 146 (Vol 2)](https://www.indexdata.org/alrc-report-146-vol-2/)** — `2026-11-04` | `712 Pages`
 - `[`AU-ALRC-23585`]` **[ALRC Report 146 (Vol 1)](https://www.indexdata.org/alrc-report-146-vol-1/)** — `2026-11-04` | `406 Pages`
 - `[`AU-ALRC-23554`]` **[20250820 FOI – ACL InvitationLetters_Redacted](https://www.indexdata.org/20250820-foi-acl-invitationletters_redacted/)** — `2026-10-19` | `22 Pages`
