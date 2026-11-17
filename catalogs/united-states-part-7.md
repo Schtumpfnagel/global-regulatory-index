@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,423` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 04:00 UTC`
+**Last Automated Sync:** `2026-11-17 04:53 UTC`
 
 ---
 
@@ -58,7 +58,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,423)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,424)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -579,7 +579,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-14522`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-54/)** — `2024-07-03` | `3 Pages`
 - `[`2024-14438`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-235/)** — `2024-07-03` | `4 Pages`
 - `[`2024-14521`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-212/)** — `2024-07-02` | `3 Pages`
-- `[`2024-14272`]` **[Amendment of Class E Airspace; Lady Lake, FL](https://www.indexdata.org/amendment-of-class-e-airspace-lady-lake-fl-2/)** — `2024-07-02` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -813,6 +812,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-25367`]` **[Safety Zone; Bahia de Ponce, Ponce, PR](https://www.indexdata.org/safety-zone-bahia-de-ponce-ponce-pr/)** — `2024-10-31` | `3 Pages`
 - `[`2024-25364`]` **[Safety Zone; Corpus Christi Ship Channel, Corpus Christi, TX](https://www.indexdata.org/safety-zone-corpus-christi-ship-channel-corpus-christi-tx-2/)** — `2024-10-31` | `3 Pages`
 - `[`2024-24780`]` **[TWIC-Reader Requirements; Second Delay of Effective Date](https://www.indexdata.org/twic-reader-requirements-second-delay-of-effective-date/)** — `2024-10-31` | `17 Pages`
 - `[`2024-25199`]` **[Security Zone; Corpus Christi Ship Channel, Corpus Christi, TX](https://www.indexdata.org/security-zone-corpus-christi-ship-channel-corpus-christi-tx-6/)** — `2024-10-30` | `3 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,423` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 04:00 UTC`
+**Last Automated Sync:** `2026-11-17 04:53 UTC`
 
 ---
 
@@ -58,7 +58,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -254,11 +254,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,423)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,424)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-00934`]` **[Amendment of Class E Airspace; Covington, KY](https://www.indexdata.org/amendment-of-class-e-airspace-covington-ky-2/)** — `2026-01-20` | `3 Pages`
 - `[`2026-00933`]` **[Airworthiness Directives; Safran Helicopter Engines, S.A. (Type Certificate Previously Held by Turbomeca, S.A.) Engines](https://www.indexdata.org/airworthiness-directives-safran-helicopter-engines-s-a-type-certificate-previously-held-by-turbomeca-s-a-engines-3/)** — `2026-01-20` | `3 Pages`
 - `[`2026-00842`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-70/)** — `2026-01-16` | `2 Pages`
 - `[`2026-00841`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-22/)** — `2026-01-16` | `3 Pages`
@@ -879,7 +880,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-14887`]` **[Bacillus thuringiensis Cry1A.2 and Cry1B.2 Proteins; Exemptions From the Requirement of a Tolerance](https://www.indexdata.org/bacillus-thuringiensis-cry1a-2-and-cry1b-2-proteins-exemptions-from-the-requirement-of-a-tolerance/)** — `2025-08-06` | `4 Pages`
 - `[`2025-14850`]` **[Air Plan Approval; IA; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-approval-ia-regional-haze-state-implementation-plan-for-the-second-implementation-period/)** — `2025-08-05` | `15 Pages`
 - `[`2025-14572`]` **[Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards](https://www.indexdata.org/reconsideration-of-2009-endangerment-finding-and-greenhouse-gas-vehicle-standards/)** — `2025-08-01` | `78 Pages`
-- `[`2025-14555`]` **[Public Hearing for Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards](https://www.indexdata.org/public-hearing-for-reconsideration-of-2009-endangerment-finding-and-greenhouse-gas-vehicle-standards/)** — `2025-08-01` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)

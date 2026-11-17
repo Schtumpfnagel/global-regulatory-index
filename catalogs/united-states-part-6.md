@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,423` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 04:00 UTC`
+**Last Automated Sync:** `2026-11-17 04:53 UTC`
 
 ---
 
@@ -58,7 +58,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -254,11 +254,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,423)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,424)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-04446`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-137/)** — `2025-03-19` | `3 Pages`
 - `[`2025-04445`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-27/)** — `2025-03-19` | `4 Pages`
 - `[`2025-04441`]` **[Airworthiness Directives; Pratt & Whitney Canada Corp. Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-canada-corp-engines-3/)** — `2025-03-19` | `4 Pages`
 - `[`2025-04440`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-144/)** — `2025-03-19` | `4 Pages`
@@ -922,7 +923,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-25711`]` **[Security Zone; Corpus Christi Ship Channel, Corpus Christi, TX](https://www.indexdata.org/security-zone-corpus-christi-ship-channel-corpus-christi-tx-5/)** — `2024-11-05` | `3 Pages`
 - `[`2024-25644`]` **[Safety Zone; Firework Display Within the Sector Columbia River Captain of the Port Zone](https://www.indexdata.org/safety-zone-firework-display-within-the-sector-columbia-river-captain-of-the-port-zone/)** — `2024-11-05` | `2 Pages`
 - `[`2024-25603`]` **[Drawbridge Operation Regulation; Sacramento River, Rio Vista, CA](https://www.indexdata.org/drawbridge-operation-regulation-sacramento-river-rio-vista-ca/)** — `2024-11-04` | `3 Pages`
-- `[`2024-25367`]` **[Safety Zone; Bahia de Ponce, Ponce, PR](https://www.indexdata.org/safety-zone-bahia-de-ponce-ponce-pr/)** — `2024-10-31` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)

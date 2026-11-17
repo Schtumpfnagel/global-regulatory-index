@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,423` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-17 04:00 UTC`
+**Last Automated Sync:** `2026-11-17 04:53 UTC`
 
 ---
 
@@ -58,7 +58,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,423 of 15,423)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,424 of 15,424)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -849,6 +849,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/community-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 
 - `[`2023-12187`]` **[Quality Control Standards for Automated Valuation Models](https://www.indexdata.org/quality-control-standards-for-automated-valuation-models-2/)** — `2023-06-21` | `38 Pages`
+
+### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
+
+- `[`2023-13668`]` **[Determination of Rates and Terms for Public Broadcasting (PB IV)](https://www.indexdata.org/determination-of-rates-and-terms-for-public-broadcasting-pb-iv/)** — `2023-06-28` | `7 Pages`
 
 ### [Delaware River Basin Commission](https://www.indexdata.org/united-states/delaware-river-basin-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/delaware-river-basin-commission/](https://www.indexdata.org/united-states/delaware-river-basin-commission/) | [RSS Feed](https://www.indexdata.org/united-states/delaware-river-basin-commission/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,423` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 04:00 UTC`
+**Last Automated Sync:** `2026-11-17 04:53 UTC`
 
 ---
 
@@ -58,7 +58,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,423)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,424)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1491,6 +1491,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2023-13981`]` **[Small Business Investment Company Investment Diversification and Growth](https://www.indexdata.org/small-business-investment-company-investment-diversification-and-growth/)** — `2023-07-18` | `33 Pages`
 - `[`2023-13439`]` **[Veteran-Owned Small Business and Service-Disabled, Veteran-Owned Small Business-Certification; Correction](https://www.indexdata.org/veteran-owned-small-business-and-service-disabled-veteran-owned-small-business-certification-correction/)** — `2023-07-03` | `2 Pages`
 
+### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+
+- `[`2023-23315`]` **[Additions to Listing of Exempt Chemical Mixtures](https://www.indexdata.org/additions-to-listing-of-exempt-chemical-mixtures/)** — `2023-10-23` | `4 Pages`
+- `[`2023-22570`]` **[Propionyl Chloride](https://www.indexdata.org/propionyl-chloride/)** — `2023-10-12` | `4 Pages`
+- `[`2023-22406`]` **[Second Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/second-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2023-10-10` | `5 Pages`
+- `[`2023-20439`]` **[Schedules of Controlled Substances: Placement of Ethylphenidate in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-ethylphenidate-in-schedule-i-2/)** — `2023-09-22` | `7 Pages`
+- `[`2023-18885`]` **[Management of Quotas for Controlled Substances and List I Chemicals](https://www.indexdata.org/management-of-quotas-for-controlled-substances-and-list-i-chemicals/)** — `2023-08-31` | `28 Pages`
+- `[`2023-17778`]` **[Schedules of Controlled Substances: Placement of Metonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-metonitazene-in-schedule-i/)** — `2023-08-18` | `4 Pages`
+- `[`2023-16892`]` **[Dispensing of Narcotic Drugs To Relieve Acute Withdrawal Symptoms of Opioid Use Disorder](https://www.indexdata.org/dispensing-of-narcotic-drugs-to-relieve-acute-withdrawal-symptoms-of-opioid-use-disorder/)** — `2023-08-08` | `7 Pages`
+- `[`2023-15747`]` **[Implementation of the Designer Anabolic Steroid Control Act of 2014](https://www.indexdata.org/implementation-of-the-designer-anabolic-steroid-control-act-of-2014/)** — `2023-08-01` | `6 Pages`
+- `[`2023-15847`]` **[Transfer of Electronic Prescriptions for Schedules II-V Controlled Substances Between Pharmacies for Initial Filling](https://www.indexdata.org/transfer-of-electronic-prescriptions-for-schedules-ii-v-controlled-substances-between-pharmacies-for-initial-filling/)** — `2023-07-27` | `16 Pages`
+- `[`2023-15748`]` **[Schedules of Controlled Substances: Temporary Placement of Etizolam, Flualprazolam, Clonazolam, Flubromazolam, and Diclazepam in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-etizolam-flualprazolam-clonazolam-flubromazolam-and-diclazepam-in-schedule-i/)** — `2023-07-26` | `7 Pages`
+- `[`2023-15508`]` **[Partial Filling of Prescriptions for Schedule II Controlled Substances](https://www.indexdata.org/partial-filling-of-prescriptions-for-schedule-ii-controlled-substances/)** — `2023-07-21` | `20 Pages`
+
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 
@@ -1505,20 +1520,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-s
 - `[`2023-15579`]` **[Homeland Security Acquisition Regulation; Safeguarding of Controlled Unclassified Information; Correction](https://www.indexdata.org/homeland-security-acquisition-regulation-safeguarding-of-controlled-unclassified-information-correction/)** — `2023-07-21` | `2 Pages`
 - `[`2023-14485`]` **[Minimum Standards for Driver's Licenses and Identification Cards Acceptable by Federal Agencies for Official Purposes; Corrections](https://www.indexdata.org/minimum-standards-for-drivers-licenses-and-identification-cards-acceptable-by-federal-agencies-for-official-purposes-corrections/)** — `2023-07-12` | `2 Pages`
 - `[`2023-13441`]` **[Brunei Electronic System for Travel Authorization Validity Period](https://www.indexdata.org/brunei-electronic-system-for-travel-authorization-validity-period/)** — `2023-07-06` | `2 Pages`
-
-### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
-
-- `[`2023-22570`]` **[Propionyl Chloride](https://www.indexdata.org/propionyl-chloride/)** — `2023-10-12` | `4 Pages`
-- `[`2023-22406`]` **[Second Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/second-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2023-10-10` | `5 Pages`
-- `[`2023-20439`]` **[Schedules of Controlled Substances: Placement of Ethylphenidate in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-ethylphenidate-in-schedule-i-2/)** — `2023-09-22` | `7 Pages`
-- `[`2023-18885`]` **[Management of Quotas for Controlled Substances and List I Chemicals](https://www.indexdata.org/management-of-quotas-for-controlled-substances-and-list-i-chemicals/)** — `2023-08-31` | `28 Pages`
-- `[`2023-17778`]` **[Schedules of Controlled Substances: Placement of Metonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-metonitazene-in-schedule-i/)** — `2023-08-18` | `4 Pages`
-- `[`2023-16892`]` **[Dispensing of Narcotic Drugs To Relieve Acute Withdrawal Symptoms of Opioid Use Disorder](https://www.indexdata.org/dispensing-of-narcotic-drugs-to-relieve-acute-withdrawal-symptoms-of-opioid-use-disorder/)** — `2023-08-08` | `7 Pages`
-- `[`2023-15747`]` **[Implementation of the Designer Anabolic Steroid Control Act of 2014](https://www.indexdata.org/implementation-of-the-designer-anabolic-steroid-control-act-of-2014/)** — `2023-08-01` | `6 Pages`
-- `[`2023-15847`]` **[Transfer of Electronic Prescriptions for Schedules II-V Controlled Substances Between Pharmacies for Initial Filling](https://www.indexdata.org/transfer-of-electronic-prescriptions-for-schedules-ii-v-controlled-substances-between-pharmacies-for-initial-filling/)** — `2023-07-27` | `16 Pages`
-- `[`2023-15748`]` **[Schedules of Controlled Substances: Temporary Placement of Etizolam, Flualprazolam, Clonazolam, Flubromazolam, and Diclazepam in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-etizolam-flualprazolam-clonazolam-flubromazolam-and-diclazepam-in-schedule-i/)** — `2023-07-26` | `7 Pages`
-- `[`2023-15508`]` **[Partial Filling of Prescriptions for Schedule II Controlled Substances](https://www.indexdata.org/partial-filling-of-prescriptions-for-schedule-ii-controlled-substances/)** — `2023-07-21` | `20 Pages`
 
 ### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
@@ -1807,14 +1808,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2023-18240`]` **[Agency Contact Information; Technical Corrections](https://www.indexdata.org/agency-contact-information-technical-corrections/)** — `2023-08-25` | `7 Pages`
 - `[`2023-14564`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-13/)** — `2023-07-27` | `2 Pages`
 
-### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
-
-- `[`2023-22179`]` **[Determination of Adjustment to Administrative Assessment to Fund Mechanical Licensing Collective](https://www.indexdata.org/determination-of-adjustment-to-administrative-assessment-to-fund-mechanical-licensing-collective/)** — `2023-10-05` | `2 Pages`
-- `[`2023-21123`]` **[Determination of Royalty Rates and Terms for Making Ephemeral Copies of Sound Recordings for Transmission to Business Establishments (Business Establishments IV)](https://www.indexdata.org/determination-of-royalty-rates-and-terms-for-making-ephemeral-copies-of-sound-recordings-for-transmission-to-business-establishments-business-establishments-iv-2/)** — `2023-10-04` | `3 Pages`
-- `[`2023-14925`]` **[Determination of Royalty Rates and Terms for Making and Distributing Phonorecords (Phonorecords III)](https://www.indexdata.org/determination-of-royalty-rates-and-terms-for-making-and-distributing-phonorecords-phonorecords-iii/)** — `2023-08-10` | `81 Pages`
-- `[`2023-13668`]` **[Determination of Rates and Terms for Public Broadcasting (PB IV)](https://www.indexdata.org/determination-of-rates-and-terms-for-public-broadcasting-pb-iv/)** — `2023-06-28` | `7 Pages`
-
 ### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 
@@ -1862,6 +1855,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-custom
 - `[`2023-22170`]` **[Regulatory Implementation of the Centers of Excellence and Expertise](https://www.indexdata.org/regulatory-implementation-of-the-centers-of-excellence-and-expertise/)** — `2023-10-05` | `9 Pages`
 - `[`2023-20335`]` **[Extension and Amendment of Import Restrictions Imposed on Archaeological and Ethnological Material of Cambodia](https://www.indexdata.org/extension-and-amendment-of-import-restrictions-imposed-on-archaeological-and-ethnological-material-of-cambodia/)** — `2023-09-19` | `8 Pages`
 - `[`2023-19768`]` **[Import Restrictions on Ethnological Material of Peru](https://www.indexdata.org/import-restrictions-on-ethnological-material-of-peru/)** — `2023-09-13` | `11 Pages`
+
+### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
+
+- `[`2023-22179`]` **[Determination of Adjustment to Administrative Assessment to Fund Mechanical Licensing Collective](https://www.indexdata.org/determination-of-adjustment-to-administrative-assessment-to-fund-mechanical-licensing-collective/)** — `2023-10-05` | `2 Pages`
+- `[`2023-21123`]` **[Determination of Royalty Rates and Terms for Making Ephemeral Copies of Sound Recordings for Transmission to Business Establishments (Business Establishments IV)](https://www.indexdata.org/determination-of-royalty-rates-and-terms-for-making-ephemeral-copies-of-sound-recordings-for-transmission-to-business-establishments-business-establishments-iv-2/)** — `2023-10-04` | `3 Pages`
+- `[`2023-14925`]` **[Determination of Royalty Rates and Terms for Making and Distributing Phonorecords (Phonorecords III)](https://www.indexdata.org/determination-of-royalty-rates-and-terms-for-making-and-distributing-phonorecords-phonorecords-iii/)** — `2023-08-10` | `81 Pages`
 
 ### [Federal Crop Insurance Corporation](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-crop-insurance-corporation/](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/feed/)

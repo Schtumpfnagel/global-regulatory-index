@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,423` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 04:00 UTC`
+**Last Automated Sync:** `2026-11-17 04:53 UTC`
 
 ---
 
@@ -58,7 +58,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,423)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,424)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -633,11 +633,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-04266`]` **[Establishment of Class E Airspace; Sunbury, NC](https://www.indexdata.org/establishment-of-class-e-airspace-sunbury-nc/)** — `2025-03-20` | `2 Pages`
 - `[`2025-04124`]` **[Establishment of Class E Airspace; Challis Airport, Challis, ID](https://www.indexdata.org/establishment-of-class-e-airspace-challis-airport-challis-id/)** — `2025-03-20` | `2 Pages`
 - `[`2025-03932`]` **[Revocation of Alaskan Very High Frequency Omnidirectional Range Federal Airway V-447 and Jet Route J-155 and Amendment of Jet Route J-115 in Alaska](https://www.indexdata.org/revocation-of-alaskan-very-high-frequency-omnidirectional-range-federal-airway-v-447-and-jet-route-j-155-and-amendment-of-jet-route-j-115-in-alaska/)** — `2025-03-20` | `2 Pages`
-- `[`2025-04446`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-137/)** — `2025-03-19` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-14555`]` **[Public Hearing for Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards](https://www.indexdata.org/public-hearing-for-reconsideration-of-2009-endangerment-finding-and-greenhouse-gas-vehicle-standards/)** — `2025-08-01` | `2 Pages`
 - `[`2025-14531`]` **[Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review Final Rule](https://www.indexdata.org/extension-of-deadlines-in-standards-of-performance-for-new-reconstructed-and-modified-sources-and-emissions-guidelines-for-existing-sources-oil-and-natural-gas-sector-climate-review-final-rule/)** — `2025-07-31` | `20 Pages`
 - `[`2025-14528`]` **[Air Plan Approval; California; South Coast Air Quality Management District](https://www.indexdata.org/air-plan-approval-california-south-coast-air-quality-management-district-2/)** — `2025-07-31` | `3 Pages`
 - `[`2025-14476`]` **[Air Plan Approval; South Carolina; Second Planning Period Regional Haze Plan](https://www.indexdata.org/air-plan-approval-south-carolina-second-planning-period-regional-haze-plan-2/)** — `2025-07-31` | `19 Pages`

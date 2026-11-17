@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,423` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 04:00 UTC`
+**Last Automated Sync:** `2026-11-17 04:53 UTC`
 
 ---
 
@@ -58,7 +58,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,423)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,424)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1299,6 +1299,29 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2023-23055`]` **[Implementation of Additional Export Controls: Certain Advanced Computing Items; Supercomputer and Semiconductor End Use; Updates and Corrections](https://www.indexdata.org/implementation-of-additional-export-controls-certain-advanced-computing-items-supercomputer-and-semiconductor-end-use-updates-and-corrections/)** — `2023-10-25` | `60 Pages`
 - `[`2023-23049`]` **[Export Controls on Semiconductor Manufacturing Items](https://www.indexdata.org/export-controls-on-semiconductor-manufacturing-items/)** — `2023-10-25` | `32 Pages`
 
+### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
+
+- `[`2024-04335`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-2/)** — `2024-03-01` | `15 Pages`
+- `[`2024-03793`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-3/)** — `2024-03-01` | `12 Pages`
+- `[`2024-03559`]` **[Combating Auto Retail Scams Trade Regulation Rule](https://www.indexdata.org/combating-auto-retail-scams-trade-regulation-rule/)** — `2024-02-22` | `2 Pages`
+- `[`2024-02291`]` **[Horseracing Integrity and Safety Authority Oversight](https://www.indexdata.org/horseracing-integrity-and-safety-authority-oversight-2/)** — `2024-02-08` | `5 Pages`
+- `[`2024-02290`]` **[Procedures for Oversight of the Horseracing Integrity and Safety Authority's Annual Budget](https://www.indexdata.org/procedures-for-oversight-of-the-horseracing-integrity-and-safety-authoritys-annual-budget/)** — `2024-02-08` | `4 Pages`
+- `[`2024-02228`]` **[Premerger Notification; Reporting and Waiting Period Requirements](https://www.indexdata.org/premerger-notification-reporting-and-waiting-period-requirements-2/)** — `2024-02-05` | `4 Pages`
+- `[`2024-02036`]` **[Energy Labeling Rule](https://www.indexdata.org/energy-labeling-rule-2/)** — `2024-02-02` | `8 Pages`
+- `[`2024-01601`]` **[Energy Labeling Rule](https://www.indexdata.org/energy-labeling-rule-3/)** — `2024-02-02` | `32 Pages`
+- `[`2024-00678`]` **[Rule on the Use of Consumer Reviews and Testimonials](https://www.indexdata.org/rule-on-the-use-of-consumer-reviews-and-testimonials/)** — `2024-01-16` | `5 Pages`
+- `[`2023-28569`]` **[Children's Online Privacy Protection Rule](https://www.indexdata.org/childrens-online-privacy-protection-rule-2/)** — `2024-01-11` | `43 Pages`
+- `[`2024-00301`]` **[Adjustments to Civil Penalty Amounts](https://www.indexdata.org/adjustments-to-civil-penalty-amounts-2/)** — `2024-01-10` | `3 Pages`
+- `[`2023-27997`]` **[Combating Auto Retail Scams Trade Regulation Rule](https://www.indexdata.org/combating-auto-retail-scams-trade-regulation-rule-2/)** — `2024-01-04` | `106 Pages`
+- `[`2023-28669`]` **[Trade Regulation Rule on Unfair or Deceptive Fees](https://www.indexdata.org/trade-regulation-rule-on-unfair-or-deceptive-fees-3/)** — `2024-01-02` | `2 Pages`
+- `[`2023-26966`]` **[Care Labeling Rule](https://www.indexdata.org/care-labeling-rule/)** — `2023-12-08` | `2 Pages`
+- `[`2023-26946`]` **[Negative Option Rule](https://www.indexdata.org/negative-option-rule-2/)** — `2023-12-08` | `5 Pages`
+- `[`2023-26064`]` **[Regulatory Review Schedule](https://www.indexdata.org/regulatory-review-schedule/)** — `2023-11-30` | `2 Pages`
+- `[`2023-24412`]` **[Standards for Safeguarding Customer Information](https://www.indexdata.org/standards-for-safeguarding-customer-information/)** — `2023-11-13` | `11 Pages`
+- `[`2023-24234`]` **[Trade Regulation Rule on Unfair or Deceptive Fees](https://www.indexdata.org/trade-regulation-rule-on-unfair-or-deceptive-fees-4/)** — `2023-11-09` | `66 Pages`
+- `[`2023-23621`]` **[Labeling Requirements for Alternative Fuels and Alternative Fueled Vehicles](https://www.indexdata.org/labeling-requirements-for-alternative-fuels-and-alternative-fueled-vehicles/)** — `2023-10-26` | `3 Pages`
+
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
 
@@ -1320,28 +1343,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2023-24407`]` **[Medicare Program; Hospital Outpatient Prospective Payment System: Remedy for the 340B-Acquired Drug Payment Policy for Calendar Years 2018-2022](https://www.indexdata.org/medicare-program-hospital-outpatient-prospective-payment-system-remedy-for-the-340b-acquired-drug-payment-policy-for-calendar-years-2018-2022/)** — `2023-11-08` | `45 Pages`
 - `[`2023-23915`]` **[Medicare Program; End-Stage Renal Disease Prospective Payment System, Payment for Renal Dialysis Services Furnished to Individuals With Acute Kidney Injury, End-Stage Renal Disease Quality Incentive Program, and End-Stage Renal Disease Treatment Choices Model](https://www.indexdata.org/medicare-program-end-stage-renal-disease-prospective-payment-system-payment-for-renal-dialysis-services-furnished-to-individuals-with-acute-kidney-injury-end-stage-renal-disease-quality-incentive-p-3/)** — `2023-11-06` | `164 Pages`
 - `[`2023-24068`]` **[21st Century Cures Act: Establishment of Disincentives for Health Care Providers That Have Committed Information Blocking](https://www.indexdata.org/21st-century-cures-act-establishment-of-disincentives-for-health-care-providers-that-have-committed-information-blocking-2/)** — `2023-11-01` | `24 Pages`
-
-### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
-
-- `[`2024-03793`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-3/)** — `2024-03-01` | `12 Pages`
-- `[`2024-03559`]` **[Combating Auto Retail Scams Trade Regulation Rule](https://www.indexdata.org/combating-auto-retail-scams-trade-regulation-rule/)** — `2024-02-22` | `2 Pages`
-- `[`2024-02291`]` **[Horseracing Integrity and Safety Authority Oversight](https://www.indexdata.org/horseracing-integrity-and-safety-authority-oversight-2/)** — `2024-02-08` | `5 Pages`
-- `[`2024-02290`]` **[Procedures for Oversight of the Horseracing Integrity and Safety Authority's Annual Budget](https://www.indexdata.org/procedures-for-oversight-of-the-horseracing-integrity-and-safety-authoritys-annual-budget/)** — `2024-02-08` | `4 Pages`
-- `[`2024-02228`]` **[Premerger Notification; Reporting and Waiting Period Requirements](https://www.indexdata.org/premerger-notification-reporting-and-waiting-period-requirements-2/)** — `2024-02-05` | `4 Pages`
-- `[`2024-02036`]` **[Energy Labeling Rule](https://www.indexdata.org/energy-labeling-rule-2/)** — `2024-02-02` | `8 Pages`
-- `[`2024-01601`]` **[Energy Labeling Rule](https://www.indexdata.org/energy-labeling-rule-3/)** — `2024-02-02` | `32 Pages`
-- `[`2024-00678`]` **[Rule on the Use of Consumer Reviews and Testimonials](https://www.indexdata.org/rule-on-the-use-of-consumer-reviews-and-testimonials/)** — `2024-01-16` | `5 Pages`
-- `[`2023-28569`]` **[Children's Online Privacy Protection Rule](https://www.indexdata.org/childrens-online-privacy-protection-rule-2/)** — `2024-01-11` | `43 Pages`
-- `[`2024-00301`]` **[Adjustments to Civil Penalty Amounts](https://www.indexdata.org/adjustments-to-civil-penalty-amounts-2/)** — `2024-01-10` | `3 Pages`
-- `[`2023-27997`]` **[Combating Auto Retail Scams Trade Regulation Rule](https://www.indexdata.org/combating-auto-retail-scams-trade-regulation-rule-2/)** — `2024-01-04` | `106 Pages`
-- `[`2023-28669`]` **[Trade Regulation Rule on Unfair or Deceptive Fees](https://www.indexdata.org/trade-regulation-rule-on-unfair-or-deceptive-fees-3/)** — `2024-01-02` | `2 Pages`
-- `[`2023-26966`]` **[Care Labeling Rule](https://www.indexdata.org/care-labeling-rule/)** — `2023-12-08` | `2 Pages`
-- `[`2023-26946`]` **[Negative Option Rule](https://www.indexdata.org/negative-option-rule-2/)** — `2023-12-08` | `5 Pages`
-- `[`2023-26064`]` **[Regulatory Review Schedule](https://www.indexdata.org/regulatory-review-schedule/)** — `2023-11-30` | `2 Pages`
-- `[`2023-24412`]` **[Standards for Safeguarding Customer Information](https://www.indexdata.org/standards-for-safeguarding-customer-information/)** — `2023-11-13` | `11 Pages`
-- `[`2023-24234`]` **[Trade Regulation Rule on Unfair or Deceptive Fees](https://www.indexdata.org/trade-regulation-rule-on-unfair-or-deceptive-fees-4/)** — `2023-11-09` | `66 Pages`
-- `[`2023-23621`]` **[Labeling Requirements for Alternative Fuels and Alternative Fueled Vehicles](https://www.indexdata.org/labeling-requirements-for-alternative-fuels-and-alternative-fueled-vehicles/)** — `2023-10-26` | `3 Pages`
 
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
@@ -1566,20 +1567,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 - `[`2023-24774`]` **[Investment of Customer Funds by Futures Commission Merchants and Derivatives Clearing Organizations](https://www.indexdata.org/investment-of-customer-funds-by-futures-commission-merchants-and-derivatives-clearing-organizations-2/)** — `2023-11-21` | `57 Pages`
 - `[`2023-23821`]` **[Fees for Reviews of the Rule Enforcement Programs of Designated Contract Markets and Registered Futures Associations](https://www.indexdata.org/fees-for-reviews-of-the-rule-enforcement-programs-of-designated-contract-markets-and-registered-futures-associations-2/)** — `2023-10-30` | `3 Pages`
 
-### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
-
-- `[`2024-02322`]` **[Conforming Amendment Regarding the Veterinary Medicine Mobility Act of 2014](https://www.indexdata.org/conforming-amendment-regarding-the-veterinary-medicine-mobility-act-of-2014/)** — `2024-02-08` | `2 Pages`
-- `[`2023-27292`]` **[Specific Listing for Three Currently Controlled Schedule I Substances](https://www.indexdata.org/specific-listing-for-three-currently-controlled-schedule-i-substances/)** — `2023-12-13` | `3 Pages`
-- `[`2023-27289`]` **[Schedules of Controlled Substances: Placement of 2,5-dimethoxy-4-iodoamphetamine (DOI) and 2,5-dimethoxy-4-chloroamphetamine (DOC) in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-25-dimethoxy-4-iodoamphetamine-doi-and-25-dimethoxy-4-chloroamphetamine-doc-in-schedule-i/)** — `2023-12-13` | `7 Pages`
-- `[`2023-27243`]` **[Schedules of Controlled Substances: Temporary Placement of MDMB-4en-PINACA, 4F-MDMB-BUTICA, ADB-4en-PINACA, CUMYL-PEGACLONE, 5F-EDMB-PICA, and MMB-FUBICA into Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mdmb-4en-pinaca-4f-mdmb-butica-adb-4en-pinaca-cumyl-pegaclone-5f-edmb-pica-and-mmb-fubica-into-schedule-i/)** — `2023-12-12` | `7 Pages`
-- `[`2023-26694`]` **[Schedules of Controlled Substances: Placement of Nine Specific Fentanyl-Related Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-nine-specific-fentanyl-related-substances-in-schedule-i/)** — `2023-12-07` | `6 Pages`
-- `[`2023-23984`]` **[Controlled Substance Destruction Alternatives to Incineration](https://www.indexdata.org/controlled-substance-destruction-alternatives-to-incineration/)** — `2023-10-31` | `3 Pages`
-- `[`2023-23982`]` **[Schedules of Controlled Substances: Placement of Zuranolone in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-zuranolone-in-schedule-iv-2/)** — `2023-10-31` | `6 Pages`
-- `[`2023-23927`]` **[Designation of Halides of 4-Anilinopiperidine as List I Chemicals](https://www.indexdata.org/designation-of-halides-of-4-anilinopiperidine-as-list-i-chemicals/)** — `2023-10-31` | `8 Pages`
-- `[`2023-23379`]` **[Schedules of Controlled Substances: Temporary Placement of N-Desethyl Isotonitazene and N-Piperidinyl Etonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-n-desethyl-isotonitazene-and-n-piperidinyl-etonitazene-in-schedule-i-2/)** — `2023-10-25` | `5 Pages`
-- `[`2023-23315`]` **[Additions to Listing of Exempt Chemical Mixtures](https://www.indexdata.org/additions-to-listing-of-exempt-chemical-mixtures/)** — `2023-10-23` | `4 Pages`
-
 ### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
 
@@ -1606,6 +1593,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/comptrolle
 - `[`2023-26202`]` **[Long-Term Debt Requirements for Large Bank Holding Companies, Certain Intermediate Holding Companies of Foreign Banking Organizations, and Large Insured Depository Institutions; Extension of Comment Period](https://www.indexdata.org/long-term-debt-requirements-for-large-bank-holding-companies-certain-intermediate-holding-companies-of-foreign-banking-organizations-and-large-insured-depository-institutions-extension-of-comment-p/)** — `2023-11-29` | `2 Pages`
 - `[`2023-25047`]` **[Appraisals for Higher-Priced Mortgage Loans Exemption Threshold](https://www.indexdata.org/appraisals-for-higher-priced-mortgage-loans-exemption-threshold-3/)** — `2023-11-29` | `6 Pages`
 - `[`2023-23671`]` **[Regulatory Capital Rule: Large Banking Organizations and Banking Organizations With Significant Trading Activity; Extension of Comment Period](https://www.indexdata.org/regulatory-capital-rule-large-banking-organizations-and-banking-organizations-with-significant-trading-activity-extension-of-comment-period/)** — `2023-10-27` | `3 Pages`
+
+### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+
+- `[`2024-02322`]` **[Conforming Amendment Regarding the Veterinary Medicine Mobility Act of 2014](https://www.indexdata.org/conforming-amendment-regarding-the-veterinary-medicine-mobility-act-of-2014/)** — `2024-02-08` | `2 Pages`
+- `[`2023-27292`]` **[Specific Listing for Three Currently Controlled Schedule I Substances](https://www.indexdata.org/specific-listing-for-three-currently-controlled-schedule-i-substances/)** — `2023-12-13` | `3 Pages`
+- `[`2023-27289`]` **[Schedules of Controlled Substances: Placement of 2,5-dimethoxy-4-iodoamphetamine (DOI) and 2,5-dimethoxy-4-chloroamphetamine (DOC) in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-25-dimethoxy-4-iodoamphetamine-doi-and-25-dimethoxy-4-chloroamphetamine-doc-in-schedule-i/)** — `2023-12-13` | `7 Pages`
+- `[`2023-27243`]` **[Schedules of Controlled Substances: Temporary Placement of MDMB-4en-PINACA, 4F-MDMB-BUTICA, ADB-4en-PINACA, CUMYL-PEGACLONE, 5F-EDMB-PICA, and MMB-FUBICA into Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-mdmb-4en-pinaca-4f-mdmb-butica-adb-4en-pinaca-cumyl-pegaclone-5f-edmb-pica-and-mmb-fubica-into-schedule-i/)** — `2023-12-12` | `7 Pages`
+- `[`2023-26694`]` **[Schedules of Controlled Substances: Placement of Nine Specific Fentanyl-Related Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-nine-specific-fentanyl-related-substances-in-schedule-i/)** — `2023-12-07` | `6 Pages`
+- `[`2023-23984`]` **[Controlled Substance Destruction Alternatives to Incineration](https://www.indexdata.org/controlled-substance-destruction-alternatives-to-incineration/)** — `2023-10-31` | `3 Pages`
+- `[`2023-23982`]` **[Schedules of Controlled Substances: Placement of Zuranolone in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-zuranolone-in-schedule-iv-2/)** — `2023-10-31` | `6 Pages`
+- `[`2023-23927`]` **[Designation of Halides of 4-Anilinopiperidine as List I Chemicals](https://www.indexdata.org/designation-of-halides-of-4-anilinopiperidine-as-list-i-chemicals/)** — `2023-10-31` | `8 Pages`
+- `[`2023-23379`]` **[Schedules of Controlled Substances: Temporary Placement of N-Desethyl Isotonitazene and N-Piperidinyl Etonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-n-desethyl-isotonitazene-and-n-piperidinyl-etonitazene-in-schedule-i-2/)** — `2023-10-25` | `5 Pages`
 
 ### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)

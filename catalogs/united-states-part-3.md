@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,423` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 04:00 UTC`
+**Last Automated Sync:** `2026-11-17 04:53 UTC`
 
 ---
 
@@ -58,7 +58,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,423)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,424)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -619,7 +619,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-01032`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-21/)** — `2026-01-21` | `3 Pages`
 - `[`2026-01004`]` **[Airworthiness Directives; Gulfstream Aerospace Corporation Airplanes](https://www.indexdata.org/airworthiness-directives-gulfstream-aerospace-corporation-airplanes-2/)** — `2026-01-20` | `3 Pages`
 - `[`2026-00994`]` **[Airworthiness Directives; Gulfstream Aerospace Corporation Airplanes](https://www.indexdata.org/airworthiness-directives-gulfstream-aerospace-corporation-airplanes-3/)** — `2026-01-20` | `4 Pages`
-- `[`2026-00934`]` **[Amendment of Class E Airspace; Covington, KY](https://www.indexdata.org/amendment-of-class-e-airspace-covington-ky-2/)** — `2026-01-20` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -926,6 +925,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2026-10392`]` **[Special Local Regulation, Temporary Anchorage Ground Suspension, and Safety and Security Zones: Sail Boston, 250th Anniversary 2026; Boston Harbor, Boston, MA.](https://www.indexdata.org/special-local-regulation-temporary-anchorage-ground-suspension-and-safety-and-security-zones-sail-boston-250th-anniversary-2026-boston-harbor-boston-ma/)** — `2026-05-26` | `6 Pages`
 - `[`2026-10391`]` **[Safety Zone; Cape Charles Harbor, Cape Charles, VA](https://www.indexdata.org/safety-zone-cape-charles-harbor-cape-charles-va/)** — `2026-05-26` | `2 Pages`
 - `[`2026-10390`]` **[Safety Zones; Fireworks Displays in the USCG East District](https://www.indexdata.org/safety-zones-fireworks-displays-in-the-uscg-east-district/)** — `2026-05-26` | `3 Pages`
 - `[`2026-10265`]` **[Safety Zones; Annual Events in the Captain of the Port Eastern Great Lakes Zone](https://www.indexdata.org/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone-4/)** — `2026-05-22` | `2 Pages`

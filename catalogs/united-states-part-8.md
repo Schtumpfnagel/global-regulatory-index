@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,423` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,424` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-17 04:00 UTC`
+**Last Automated Sync:** `2026-11-17 04:53 UTC`
 
 ---
 
@@ -58,7 +58,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -254,11 +254,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,423)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,424)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-14272`]` **[Amendment of Class E Airspace; Lady Lake, FL](https://www.indexdata.org/amendment-of-class-e-airspace-lady-lake-fl-2/)** — `2024-07-02` | `3 Pages`
 - `[`2024-14271`]` **[Amendment of Class E Airspace; Tallahassee, FL](https://www.indexdata.org/amendment-of-class-e-airspace-tallahassee-fl-2/)** — `2024-07-02` | `2 Pages`
 - `[`2024-14437`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-236/)** — `2024-07-01` | `3 Pages`
 - `[`2024-14281`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-111/)** — `2024-07-01` | `2 Pages`
@@ -1642,18 +1643,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-b
 - `[`2024-08065`]` **[Retirement Security Rule: Definition of an Investment Advice Fiduciary](https://www.indexdata.org/retirement-security-rule-definition-of-an-investment-advice-fiduciary/)** — `2024-04-25` | `137 Pages`
 - `[`2024-06059`]` **[Amendment to Prohibited Transaction Class Exemption 84-14 for Transactions Determined by Independent Qualified Professional Asset Managers (the QPAM Exemption)](https://www.indexdata.org/amendment-to-prohibited-transaction-class-exemption-84-14-for-transactions-determined-by-independent-qualified-professional-asset-managers-the-qpam-exemption/)** — `2024-04-03` | `55 Pages`
 
-### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
-
-- `[`2024-12744`]` **[Trade Regulation Rule Relating to Power Output Claims for Amplifiers Utilized in Home Entertainment Products](https://www.indexdata.org/trade-regulation-rule-relating-to-power-output-claims-for-amplifiers-utilized-in-home-entertainment-products/)** — `2024-06-12` | `6 Pages`
-- `[`2024-10855`]` **[Health Breach Notification Rule](https://www.indexdata.org/health-breach-notification-rule/)** — `2024-05-30` | `37 Pages`
-- `[`2024-09171`]` **[Non-Compete Clause Rule](https://www.indexdata.org/non-compete-clause-rule/)** — `2024-05-07` | `165 Pages`
-- `[`2024-07182`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-2/)** — `2024-04-16` | `10 Pages`
-- `[`2024-07180`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-3/)** — `2024-04-16` | `27 Pages`
-- `[`2024-07077`]` **[Energy Labeling Rule; Extension of Comment Period](https://www.indexdata.org/energy-labeling-rule-extension-of-comment-period/)** — `2024-04-02` | `2 Pages`
-- `[`2024-06468`]` **[Trade Regulation Rule on Unfair or Deceptive Fees](https://www.indexdata.org/trade-regulation-rule-on-unfair-or-deceptive-fees-2/)** — `2024-03-27` | `7 Pages`
-- `[`2024-04335`]` **[Trade Regulation Rule on Impersonation of Government and Businesses](https://www.indexdata.org/trade-regulation-rule-on-impersonation-of-government-and-businesses-2/)** — `2024-03-01` | `15 Pages`
-
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
 
@@ -1722,6 +1711,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 - `[`2024-09368`]` **[Swap Confirmation Requirements for Swap Execution Facilities](https://www.indexdata.org/swap-confirmation-requirements-for-swap-execution-facilities/)** — `2024-05-01` | `14 Pages`
 - `[`2024-08872`]` **[Requirements for Designated Contract Markets and Swap Execution Facilities Regarding Governance and the Mitigation of Conflicts of Interest Impacting Market Regulation Functions](https://www.indexdata.org/requirements-for-designated-contract-markets-and-swap-execution-facilities-regarding-governance-and-the-mitigation-of-conflicts-of-interest-impacting-market-regulation-functions/)** — `2024-04-25` | `2 Pages`
 - `[`2024-04938`]` **[Requirements for Designated Contract Markets and Swap Execution Facilities Regarding Governance and the Mitigation of Conflicts of Interest Impacting Market Regulation Functions](https://www.indexdata.org/requirements-for-designated-contract-markets-and-swap-execution-facilities-regarding-governance-and-the-mitigation-of-conflicts-of-interest-impacting-market-regulation-functions-2/)** — `2024-03-19` | `81 Pages`
+
+### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
+
+- `[`2024-12744`]` **[Trade Regulation Rule Relating to Power Output Claims for Amplifiers Utilized in Home Entertainment Products](https://www.indexdata.org/trade-regulation-rule-relating-to-power-output-claims-for-amplifiers-utilized-in-home-entertainment-products/)** — `2024-06-12` | `6 Pages`
+- `[`2024-10855`]` **[Health Breach Notification Rule](https://www.indexdata.org/health-breach-notification-rule/)** — `2024-05-30` | `37 Pages`
+- `[`2024-09171`]` **[Non-Compete Clause Rule](https://www.indexdata.org/non-compete-clause-rule/)** — `2024-05-07` | `165 Pages`
+- `[`2024-07182`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-2/)** — `2024-04-16` | `10 Pages`
+- `[`2024-07180`]` **[Telemarketing Sales Rule](https://www.indexdata.org/telemarketing-sales-rule-3/)** — `2024-04-16` | `27 Pages`
+- `[`2024-07077`]` **[Energy Labeling Rule; Extension of Comment Period](https://www.indexdata.org/energy-labeling-rule-extension-of-comment-period/)** — `2024-04-02` | `2 Pages`
+- `[`2024-06468`]` **[Trade Regulation Rule on Unfair or Deceptive Fees](https://www.indexdata.org/trade-regulation-rule-on-unfair-or-deceptive-fees-2/)** — `2024-03-27` | `7 Pages`
 
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)

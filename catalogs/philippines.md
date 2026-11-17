@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `404` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-17 04:00 UTC`
+**Total Indexed Dossiers in Philippines:** `405` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-17 04:53 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (11 Authorities)
 
 - **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`117` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
-- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
+- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`66` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`65` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
@@ -26,7 +26,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–404 of 404)
+## Indexed Statutory & Regulatory Dossiers (Records 1–405 of 405)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -152,6 +152,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/department-o
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 
+- `[`PH-MARINA-26287`]` **[PBD – PROCUREMENT OF SECURITY SERVICES FOR MARITIME INDUSTRY AUTHORITY REGIONAL OFFICE VIII](https://www.indexdata.org/pbd-procurement-of-security-services-for-maritime-industry-authority-regional-office-viii/)** — `2026-11-17` | `98 Pages`
 - `[`PH-MARINA-26244`]` **[TECHNICAL SPECIFICATIONS WITH ANNEX A MRO F&F](https://www.indexdata.org/technical-specifications-with-annex-a-mro-ff/)** — `2026-11-12` | `28 Pages`
 - `[`PH-MARINA-26243`]` **[BIDDING DOCUMENTS MRO8 F&F](https://www.indexdata.org/bidding-documents-mro8-ff/)** — `2026-11-12` | `106 Pages`
 - `[`PH-MARINA-26241`]` **[PHILGEPS POSTING MRO8 F&F](https://www.indexdata.org/philgeps-posting-mro8-ff/)** — `2026-11-12` | `3 Pages`
