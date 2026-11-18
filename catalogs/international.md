@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,180` across `26` issuing authorities  
-**Last Automated Sync:** `2026-11-18 13:00 UTC`
+**Total Indexed Dossiers in International:** `1,181` across `26` issuing authorities  
+**Last Automated Sync:** `2026-11-18 13:38 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`198` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`174` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`104` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
-- **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
+- **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`77` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
@@ -40,7 +40,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,180 of 1,180)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,181 of 1,181)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -832,6 +832,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-f
 - `[`EFSA-CELLAR-A475CFD5-CA2C-11EE-95D9-01AA75ED71A1`]` **[Programming document 2024-2026 : science, safe food, sustainability.](https://www.indexdata.org/programming-document-2024-2026-science-safe-food-sustainability/)** — `2024-02-09` | `152 Pages`
 - `[`EFSA-CELLAR-57083FF6-CA40-11EE-95D9-01AA75ED71A1`]` **[Draft Programming Document 2025-2027 : science, safe food, sustainability.](https://www.indexdata.org/draft-programming-document-2025-2027-science-safe-food-sustainability/)** — `2024-02-09` | `148 Pages`
 - `[`EFSA-KJ-10649052`]` **[Guidelines of the Scientific Committee of the Spanish Agency for Food Safety and Nutrition (AESAN) on the information required to perform the assessment of processing aids that are intended to be used in the preparation and production of food](https://www.indexdata.org/guidelines-of-the-scientific-committee-of-the-spanish-agency-for-food-safety-and-nutrition-aesan-on-the-information-required-to-perform-the-assessment-of-processing-aids-that-are-intended-to-be-used/)** — `2023-12-14` | `14 Pages`
+- `[`EFSA-KJ-10374035`]` **[Webinar on NoBa Land Cover Retriever – A web app for retrieving CORINE Land Cover data needed in the statistical assessment and planning of quarantine pest surveys](https://www.indexdata.org/webinar-on-noba-land-cover-retriever-a-web-app-for-retrieving-corine-land-cover-data-needed-in-the-statistical-assessment-and-planning-of-quarantine-pest-surveys/)** — `2023-12-14` | `17 Pages`
 - `[`EFSA-CELLAR-098B5458-8F22-11EE-8AA6-01AA75ED71A1`]` **[Statement of revenue and expenditure for the 2023 financial year – European Food Safety Authority (EFSA) – amending budget No 2](https://www.indexdata.org/statement-of-revenue-and-expenditure-for-the-2023-financial-year-european-food-safety-authority-efsa-amending-budget-no-2/)** — `2023-11-30` | `7 Pages`
 - `[`EFSA-KJ-10125145`]` **[ENCOMRAN Data Report - Assessing the interaction within EU food and feed risk analysis processes](https://www.indexdata.org/encomran-data-report-assessing-the-interaction-within-eu-food-and-feed-risk-analysis-processes/)** — `2023-11-14` | `49 Pages`
 - `[`EFSA-CELLAR-99A284B4-8432-11EE-99BA-01AA75ED71A1`]` **[Surveillance, prevention and control of West Nile virus and Usutu virus infections in the EU/EEA.](https://www.indexdata.org/surveillance-prevention-and-control-of-west-nile-virus-and-usutu-virus-infections-in-the-eu-eea/)** — `2023-11-14` | `49 Pages`

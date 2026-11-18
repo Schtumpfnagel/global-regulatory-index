@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,997` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,005` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-18 13:00 UTC`
+**Last Automated Sync:** `2026-11-18 13:38 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`158` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`166` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,997)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,005)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1171,14 +1171,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-62-L.25-Rev.1`]` **[Human rights implications of the obstruction and denial of humanitarian access and threats to the safety of humanitarian personnel in armed conflict — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-25-rev-1-human-rights-implications-of-the-obstruction-and-denial-of-humanitarian-access-and-threats-to-the-safety-of-humanitarian-personnel-in-armed-conflict-revised-draft-resol/)** — `2026-07-02` | `3 Pages`
 - `[`UN-A-HRC-62-L.24-Rev.1`]` **[Child, early and forced marriage — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-24-rev-1-child-early-and-forced-marriage-revised-draft-resolution/)** — `2026-07-02` | `6 Pages`
 - `[`UN-A-HRC-62-L.22`]` **[Extreme poverty and human rights — draft resolution](https://www.indexdata.org/a-hrc-62-l-22-extreme-poverty-and-human-rights-draft-resolution/)** — `2026-07-02` | `3 Pages`
-- `[`UN-A-HRC-62-L.21-Rev.1`]` **[Promoting, protecting and respecting women's and girls' full enjoyment of human rights in humanitarian situations — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-21-rev-1-promoting-protecting-and-respecting-womens-and-girls-full-enjoyment-of-human-rights-in-humanitarian-situations-revised-draft-resolution/)** — `2026-07-02` | `7 Pages`
-- `[`UN-A-HRC-62-L.19-Rev.1`]` **[Twentieth anniversary of the Human Rights Council — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-19-rev-1-twentieth-anniversary-of-the-human-rights-council-revised-draft-resolution/)** — `2026-07-02` | `4 Pages`
-- `[`UN-A-HRC-62-L.16-Rev.1`]` **[Elimination of all forms of discrimination against women and girls in care and support systems — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-16-rev-1-elimination-of-all-forms-of-discrimination-against-women-and-girls-in-care-and-support-systems-revised-draft-resolution/)** — `2026-07-02` | `8 Pages`
-- `[`UN-A-HRC-62-L.12-Rev.1`]` **[Freedom of opinion and expression — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-12-rev-1-freedom-of-opinion-and-expression-revised-draft-resolution/)** — `2026-07-02` | `11 Pages`
-- `[`UN-A-AC.96-77-1`]` **[Annotated provisional agenda — Executive Committee of the High Commissioner's Programme, 77th session, Geneva, 12-16 October 2026](https://www.indexdata.org/a-ac-96-77-1-annotated-provisional-agenda-executive-committee-of-the-high-commissioners-programme-77th-session-geneva-12-16-october-2026/)** — `2026-07-02` | `4 Pages`
-- `[`UN-A-81-128`]` **[Enjoyment of human rights by persons with albinism — note](https://www.indexdata.org/a-81-128-enjoyment-of-human-rights-by-persons-with-albinism-note/)** — `2026-07-02` | `22 Pages`
-- `[`UN-A-80-L.87`]` **[Scope, modalities, format and organization of the High-Level Meeting on Universal Health Coverage — draft resolution](https://www.indexdata.org/a-80-l-87-scope-modalities-format-and-organization-of-the-high-level-meeting-on-universal-health-coverage-draft-resolution/)** — `2026-07-02` | `4 Pages`
-- `[`UN-A-80-L.83`]` **[New Partnership for Africa's Development : progress in implementation and international support — draft resolution](https://www.indexdata.org/a-80-l-83-new-partnership-for-africas-development-progress-in-implementation-and-international-support-draft-resolution/)** — `2026-07-02` | `14 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
@@ -1563,6 +1555,48 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-2026-L.17`]` **[Dates and provisional agenda of the 26th session of the Committee of Experts on Public Administration — draft decision](https://www.indexdata.org/e-2026-l-17-dates-and-provisional-agenda-of-the-26th-session-of-the-committee-of-experts-on-public-administration-draft-decision/)** — `2026-07-06` | `2 Pages`
 - `[`UN-E-2026-L.15`]` **[Doha Programme of Action for the Least Developed Countries for the decade 2022–2031 — draft resolution](https://www.indexdata.org/e-2026-l-15-doha-programme-of-action-for-the-least-developed-countries-for-the-decade-2022-2031-draft-resolution/)** — `2026-07-03` | `8 Pages`
 
+### [UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/)
+
+- `[`UNHCR-HDX-1567`]` **[Lebanon - Protection Monitoring - Q3 2024](https://www.indexdata.org/lebanon-protection-monitoring-q3-2024/)** — `2026-11-12` | `198 Pages`
+- `[`UNHCR-HDX-1565`]` **[Greece - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/greece-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-12` | `167 Pages`
+- `[`UNHCR-HDX-1564`]` **[Costa Rica - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/costa-rica-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-12` | `167 Pages`
+- `[`UNHCR-HDX-1581`]` **[Congo - Standardised Expanded Nutrition Survey (SENS), Republic of the Congo - 2025](https://www.indexdata.org/congo-standardised-expanded-nutrition-survey-sens-republic-of-the-congo-2025/)** — `2026-11-05` | `91 Pages`
+- `[`UNHCR-HDX-1563`]` **[Romania - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/romania-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-05` | `167 Pages`
+- `[`UNHCR-HDX-1562`]` **[Syrian Arab Republic - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/syrian-arab-republic-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-05` | `168 Pages`
+- `[`UNHCR-HDX-1561`]` **[Burundi - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/burundi-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-05` | `170 Pages`
+- `[`UNHCR-HDX-1560`]` **[Albania - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/albania-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-05` | `166 Pages`
+- `[`UNHCR-NADA-1580`]` **[Mexico — Protection Monitoring 2026, H1](https://www.indexdata.org/mexico-protection-monitoring-2026-h1/)** — `2026-10-23` | `27 Pages`
+- `[`UNHCR-NADA-1579`]` **[Mexico — Protection Monitoring 2025, H2](https://www.indexdata.org/mexico-protection-monitoring-2025-h2/)** — `2026-10-23` | `26 Pages`
+- `[`UNHCR-NADA-1578`]` **[Mexico — Protection Monitoring 2025, H1](https://www.indexdata.org/mexico-protection-monitoring-2025-h1/)** — `2026-10-23` | `19 Pages`
+- `[`UNHCR-HDX-1575`]` **[Ethiopia - Standardised Expanded Nutrition Survey (SENS), Gambella - 2024](https://www.indexdata.org/ethiopia-standardised-expanded-nutrition-survey-sens-gambella-2024/)** — `2026-10-08` | `109 Pages`
+- `[`UNHCR-HDX-1574`]` **[Ethiopia - Standardised Expanded Nutrition Survey (SENS), Assosa - 2024](https://www.indexdata.org/ethiopia-standardised-expanded-nutrition-survey-sens-assosa-2024/)** — `2026-10-08` | `88 Pages`
+- `[`UNHCR-NADA-1573`]` **[Vulnerability Assessment of Syrian Refugees in Lebanon, 2026](https://www.indexdata.org/vulnerability-assessment-of-syrian-refugees-in-lebanon-2026/)** — `2026-10-07` | `122 Pages`
+- `[`UNHCR-NADA-1568`]` **[Lebanon — Protection Monitoring - Q2 2025](https://www.indexdata.org/lebanon-protection-monitoring-q2-2025/)** — `2026-09-18` | `143 Pages`
+- `[`UNHCR-HDX-1427`]` **[Malaysia - Well-Being and Labor Market Outcomes - 2023-2024](https://www.indexdata.org/malaysia-well-being-and-labor-market-outcomes-2023-2024/)** — `2026-09-11` | `38 Pages`
+- `[`UNHCR-NADA-1559`]` **[Malawi — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/malawi-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `167 Pages`
+- `[`UNHCR-NADA-1558`]` **[Cameroon — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/cameroon-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `167 Pages`
+- `[`UNHCR-NADA-1557`]` **[Congo (Democratic Republic of the) — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/congo-democratic-republic-of-the-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `169 Pages`
+- `[`UNHCR-NADA-1556`]` **[Nigeria — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/nigeria-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `168 Pages`
+- `[`UNHCR-NADA-1555`]` **[Honduras — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/honduras-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `168 Pages`
+- `[`UNHCR-NADA-1554`]` **[Angola — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/angola-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `166 Pages`
+- `[`UNHCR-NADA-1553`]` **[Jordan — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/jordan-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `168 Pages`
+- `[`UNHCR-NADA-1552`]` **[Türkiye — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/turkiye-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `169 Pages`
+- `[`UNHCR-NADA-1551`]` **[Kenya — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/kenya-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `171 Pages`
+- `[`UNHCR-NADA-1550`]` **[Chad — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/chad-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `170 Pages`
+- `[`UNHCR-NADA-1549`]` **[Ethiopia — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/ethiopia-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `169 Pages`
+- `[`UNHCR-NADA-1548`]` **[Egypt — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/egypt-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `167 Pages`
+- `[`UNHCR-NADA-1547`]` **[Paraguay — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/paraguay-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `167 Pages`
+- `[`UNHCR-HDX-1566`]` **[Ecuador - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/ecuador-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `166 Pages`
+- `[`UNHCR-HDX-1555`]` **[Honduras - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/honduras-livelihoods-programme-monitoring-beneficiary-survey-2024-2/)** — `2026-07-28` | `168 Pages`
+- `[`UNHCR-HDX-1553`]` **[Jordan - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/jordan-livelihoods-programme-monitoring-beneficiary-survey-2024-2/)** — `2026-07-28` | `168 Pages`
+- `[`UNHCR-HDX-1548`]` **[Egypt - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/egypt-livelihoods-programme-monitoring-beneficiary-survey-2024-2/)** — `2026-07-28` | `167 Pages`
+- `[`UNHCR-HDX-1547`]` **[Paraguay - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/paraguay-livelihoods-programme-monitoring-beneficiary-survey-2024-2/)** — `2026-07-28` | `167 Pages`
+- `[`UNHCR-HDX-1546`]` **[Brazil - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/brazil-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `167 Pages`
+- `[`UNHCR-HDX-1545`]` **[Somalia - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/somalia-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `168 Pages`
+- `[`UNHCR-HDX-1544`]` **[Namibia - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/namibia-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `167 Pages`
+- `[`UNHCR-HDX-1543`]` **[Chile - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/chile-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `167 Pages`
+
 ### [United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-secretariat/](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
 
@@ -1601,40 +1635,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-na
 - `[`UN-NV-2026-34`]` **[Diplomatic relations between The Bahamas and Chad as of 16 July 2026](https://www.indexdata.org/nv-2026-34-diplomatic-relations-between-the-bahamas-and-chad-as-of-16-july-2026/)** — `2026-07-16` | `4 Pages`
 - `[`UN-NV-2026-28`]` **[Diplomatic relations between Bhutan and Brunei Darussalam as of 13 July 2026](https://www.indexdata.org/nv-2026-28-diplomatic-relations-between-bhutan-and-brunei-darussalam-as-of-13-july-2026/)** — `2026-07-13` | `4 Pages`
 - `[`UN-NV-2026-27`]` **[Diplomatic relations between Jordan and Trinidad and Tobago as of 6 July 2026](https://www.indexdata.org/nv-2026-27-diplomatic-relations-between-jordan-and-trinidad-and-tobago-as-of-6-july-2026/)** — `2026-07-06` | `4 Pages`
-
-### [UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/)
-
-- `[`UNHCR-HDX-1567`]` **[Lebanon - Protection Monitoring - Q3 2024](https://www.indexdata.org/lebanon-protection-monitoring-q3-2024/)** — `2026-11-12` | `198 Pages`
-- `[`UNHCR-HDX-1565`]` **[Greece - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/greece-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-12` | `167 Pages`
-- `[`UNHCR-HDX-1564`]` **[Costa Rica - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/costa-rica-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-12` | `167 Pages`
-- `[`UNHCR-HDX-1581`]` **[Congo - Standardised Expanded Nutrition Survey (SENS), Republic of the Congo - 2025](https://www.indexdata.org/congo-standardised-expanded-nutrition-survey-sens-republic-of-the-congo-2025/)** — `2026-11-05` | `91 Pages`
-- `[`UNHCR-HDX-1563`]` **[Romania - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/romania-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-05` | `167 Pages`
-- `[`UNHCR-HDX-1562`]` **[Syrian Arab Republic - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/syrian-arab-republic-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-05` | `168 Pages`
-- `[`UNHCR-HDX-1561`]` **[Burundi - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/burundi-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-05` | `170 Pages`
-- `[`UNHCR-HDX-1560`]` **[Albania - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/albania-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-11-05` | `166 Pages`
-- `[`UNHCR-NADA-1580`]` **[Mexico — Protection Monitoring 2026, H1](https://www.indexdata.org/mexico-protection-monitoring-2026-h1/)** — `2026-10-23` | `27 Pages`
-- `[`UNHCR-NADA-1579`]` **[Mexico — Protection Monitoring 2025, H2](https://www.indexdata.org/mexico-protection-monitoring-2025-h2/)** — `2026-10-23` | `26 Pages`
-- `[`UNHCR-NADA-1578`]` **[Mexico — Protection Monitoring 2025, H1](https://www.indexdata.org/mexico-protection-monitoring-2025-h1/)** — `2026-10-23` | `19 Pages`
-- `[`UNHCR-HDX-1575`]` **[Ethiopia - Standardised Expanded Nutrition Survey (SENS), Gambella - 2024](https://www.indexdata.org/ethiopia-standardised-expanded-nutrition-survey-sens-gambella-2024/)** — `2026-10-08` | `109 Pages`
-- `[`UNHCR-HDX-1574`]` **[Ethiopia - Standardised Expanded Nutrition Survey (SENS), Assosa - 2024](https://www.indexdata.org/ethiopia-standardised-expanded-nutrition-survey-sens-assosa-2024/)** — `2026-10-08` | `88 Pages`
-- `[`UNHCR-NADA-1573`]` **[Vulnerability Assessment of Syrian Refugees in Lebanon, 2026](https://www.indexdata.org/vulnerability-assessment-of-syrian-refugees-in-lebanon-2026/)** — `2026-10-07` | `122 Pages`
-- `[`UNHCR-NADA-1568`]` **[Lebanon — Protection Monitoring - Q2 2025](https://www.indexdata.org/lebanon-protection-monitoring-q2-2025/)** — `2026-09-18` | `143 Pages`
-- `[`UNHCR-HDX-1427`]` **[Malaysia - Well-Being and Labor Market Outcomes - 2023-2024](https://www.indexdata.org/malaysia-well-being-and-labor-market-outcomes-2023-2024/)** — `2026-09-11` | `38 Pages`
-- `[`UNHCR-NADA-1559`]` **[Malawi — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/malawi-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `167 Pages`
-- `[`UNHCR-NADA-1558`]` **[Cameroon — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/cameroon-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `167 Pages`
-- `[`UNHCR-NADA-1557`]` **[Congo (Democratic Republic of the) — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/congo-democratic-republic-of-the-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `169 Pages`
-- `[`UNHCR-NADA-1556`]` **[Nigeria — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/nigeria-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `168 Pages`
-- `[`UNHCR-NADA-1555`]` **[Honduras — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/honduras-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `168 Pages`
-- `[`UNHCR-NADA-1554`]` **[Angola — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/angola-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `166 Pages`
-- `[`UNHCR-NADA-1553`]` **[Jordan — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/jordan-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `168 Pages`
-- `[`UNHCR-NADA-1552`]` **[Türkiye — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/turkiye-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `169 Pages`
-- `[`UNHCR-NADA-1551`]` **[Kenya — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/kenya-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `171 Pages`
-- `[`UNHCR-NADA-1550`]` **[Chad — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/chad-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `170 Pages`
-- `[`UNHCR-NADA-1549`]` **[Ethiopia — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/ethiopia-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `169 Pages`
-- `[`UNHCR-NADA-1548`]` **[Egypt — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/egypt-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `167 Pages`
-- `[`UNHCR-NADA-1547`]` **[Paraguay — Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/paraguay-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `167 Pages`
-- `[`UNHCR-HDX-1566`]` **[Ecuador - Livelihoods Programme Monitoring Beneficiary Survey, 2024](https://www.indexdata.org/ecuador-livelihoods-programme-monitoring-beneficiary-survey-2024/)** — `2026-07-28` | `166 Pages`
 
 ### [UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)

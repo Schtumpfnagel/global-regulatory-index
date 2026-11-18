@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,499` across `242` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,500` across `242` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 13:00 UTC`
+**Last Automated Sync:** `2026-11-18 13:38 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`344` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`345` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -258,7 +258,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,499)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,500)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -591,6 +591,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-25669`]` **[Inflation Adjustment References for Civil Monetary Penalty Amounts in Title 40 of the Code of Federal Regulations](https://www.indexdata.org/inflation-adjustment-references-for-civil-monetary-penalty-amounts-in-title-40-of-the-code-of-federal-regulations/)** — `2024-11-08` | `4 Pages`
 - `[`2024-25679`]` **[Approval and Promulgation of Air Quality Implementation Plans; New Hampshire; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/approval-and-promulgation-of-air-quality-implementation-plans-new-hampshire-regional-haze-state-implementation-plan-for-the-second-implementation-period/)** — `2024-11-07` | `9 Pages`
 - `[`2024-25604`]` **[Air Plan Approval; Pennsylvania; Adoption of Federal Implementation Plan Reasonably Available Control Technology Requirements for Keystone, Conemaugh, Homer City, and Montour Generating Facilities for the 1997 and 2008 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-plan-approval-pennsylvania-adoption-of-federal-implementation-plan-reasonably-available-control-technology-requirements-for-keystone-conemaugh-homer-city-and-montour-generating-facilities-for/)** — `2024-11-06` | `6 Pages`
 - `[`2024-25501`]` **[Federal “Good Neighbor Plan” for the 2015 Ozone National Ambient Air Quality Standards; Response to Judicial Stay](https://www.indexdata.org/federal-good-neighbor-plan-for-the-2015-ozone-national-ambient-air-quality-standards-response-to-judicial-stay/)** — `2024-11-06` | `18 Pages`
@@ -1381,7 +1382,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2024-14769`]` **[Milk in the Northeast and Other Marketing Areas; Proposed Amendments to Marketing Agreements and Orders](https://www.indexdata.org/milk-in-the-northeast-and-other-marketing-areas-proposed-amendments-to-marketing-agreements-and-orders/)** — `2024-07-15` | `108 Pages`
 - `[`2024-15247`]` **[Olives Grown in California; Decreased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-decreased-assessment-rate-3/)** — `2024-07-12` | `4 Pages`
 - `[`2024-15246`]` **[Cranberries Grown in Massachusetts, et al.; Termination of Marketing Order and Data Collection Requirements for Cranberries Not Subject to the Marketing Order](https://www.indexdata.org/cranberries-grown-in-massachusetts-et-al-termination-of-marketing-order-and-data-collection-requirements-for-cranberries-not-subject-to-the-marketing-order/)** — `2024-07-12` | `3 Pages`
-- `[`2024-14937`]` **[Watermelon Research and Promotion Plan; Increased Assessment Rate](https://www.indexdata.org/watermelon-research-and-promotion-plan-increased-assessment-rate-2/)** — `2024-07-09` | `4 Pages`
 
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,499` across `242` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,500` across `242` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 13:00 UTC`
+**Last Automated Sync:** `2026-11-18 13:38 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`344` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`345` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -258,7 +258,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,499)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,500)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -823,7 +823,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-05339`]` **[Partial Administrative Stay of National Emission Standards for Hazardous Air Pollutants: Integrated Iron and Steel Manufacturing Facilities Technology Review](https://www.indexdata.org/partial-administrative-stay-of-national-emission-standards-for-hazardous-air-pollutants-integrated-iron-and-steel-manufacturing-facilities-technology-review/)** — `2025-03-31` | `3 Pages`
 - `[`2025-05382`]` **[Air Plan Approval; Florida; Revisions to Stationary Sources-Removal of Clean Air Interstate Rule Provisions](https://www.indexdata.org/air-plan-approval-florida-revisions-to-stationary-sources-removal-of-clean-air-interstate-rule-provisions-2/)** — `2025-03-28` | `4 Pages`
 - `[`2025-05173`]` **[Pseudomonas Oryzihabitans Strain SYM23945; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/pseudomonas-oryzihabitans-strain-sym23945-exemption-from-the-requirement-of-a-tolerance/)** — `2025-03-27` | `3 Pages`
-- `[`2025-05157`]` **[Interim Final Determination To Stay or Defer Sanctions; California; Antelope Valley Air Quality Management District](https://www.indexdata.org/interim-final-determination-to-stay-or-defer-sanctions-california-antelope-valley-air-quality-management-district/)** — `2025-03-26` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1569,6 +1568,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 - `[`2025-07725`]` **[Practices Before the Department of the Interior; Delay of Effective Date](https://www.indexdata.org/practices-before-the-department-of-the-interior-delay-of-effective-date/)** — `2025-05-05` | `2 Pages`
 - `[`2025-06215`]` **[Removal of Form CD 570 From the Commerce Acquisition Regulation](https://www.indexdata.org/removal-of-form-cd-570-from-the-commerce-acquisition-regulation/)** — `2025-04-11` | `2 Pages`
 
+### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
+
+- `[`2025-15088`]` **[Defining Larger Participants of the Consumer Reporting Market](https://www.indexdata.org/defining-larger-participants-of-the-consumer-reporting-market/)** — `2025-08-08` | `4 Pages`
+- `[`2025-11248`]` **[Consumer Financial Civil Penalty Fund Rule Amendment](https://www.indexdata.org/consumer-financial-civil-penalty-fund-rule-amendment/)** — `2025-06-18` | `3 Pages`
+- `[`2025-11244`]` **[Small Business Lending Under the Equal Credit Opportunity Act (Regulation B); Extension of Compliance Dates](https://www.indexdata.org/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-extension-of-compliance-dates-2/)** — `2025-06-18` | `10 Pages`
+- `[`2025-11241`]` **[Procedure Relating to Rulemaking; Rescission](https://www.indexdata.org/procedure-relating-to-rulemaking-rescission/)** — `2025-06-18` | `2 Pages`
+- `[`2025-08640`]` **[Rescission of State Official Notification Rules](https://www.indexdata.org/rescission-of-state-official-notification-rules/)** — `2025-05-21` | `2 Pages`
+- `[`2025-08643`]` **[Protections for Borrowers Affected by the COVID-19 Emergency Under the Real Estate Settlement Procedures Act (RESPA), Regulation X; Rescission](https://www.indexdata.org/protections-for-borrowers-affected-by-the-covid-19-emergency-under-the-real-estate-settlement-procedures-act-respa-regulation-x-rescission/)** — `2025-05-16` | `5 Pages`
+- `[`2025-08644`]` **[Protecting Americans From Harmful Data Broker Practices (Regulation V); Withdrawal of Proposed Rule](https://www.indexdata.org/protecting-americans-from-harmful-data-broker-practices-regulation-v-withdrawal-of-proposed-rule/)** — `2025-05-15` | `2 Pages`
+- `[`2025-08641`]` **[Authority of States To Enforce the Consumer Financial Protection Act of 2010; Rescission](https://www.indexdata.org/authority-of-states-to-enforce-the-consumer-financial-protection-act-of-2010-rescission/)** — `2025-05-15` | `3 Pages`
+- `[`2025-08347`]` **[Procedures for Supervisory Designation Proceedings](https://www.indexdata.org/procedures-for-supervisory-designation-proceedings-2/)** — `2025-05-14` | `6 Pages`
+- `[`2025-08345`]` **[Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders; Proposed Rescission](https://www.indexdata.org/registry-of-nonbank-covered-persons-subject-to-certain-agency-and-court-orders-proposed-rescission/)** — `2025-05-14` | `3 Pages`
+- `[`2025-08344`]` **[Rules of Practice for Adjudication Proceedings; Rescission](https://www.indexdata.org/rules-of-practice-for-adjudication-proceedings-rescission/)** — `2025-05-13` | `21 Pages`
+- `[`2025-08286`]` **[Interpretive Rules, Policy Statements, and Advisory Opinions; Withdrawal](https://www.indexdata.org/interpretive-rules-policy-statements-and-advisory-opinions-withdrawal/)** — `2025-05-12` | `4 Pages`
+
 ### [Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-transit-administration/](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 
@@ -1599,21 +1614,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2025-09553`]` **[Tobacco Grading and Inspections Services-Rescission of Obsolete Import Grading and Pesticide Testing Provisions](https://www.indexdata.org/tobacco-grading-and-inspections-services-rescission-of-obsolete-import-grading-and-pesticide-testing-provisions/)** — `2025-05-28` | `2 Pages`
 - `[`2025-08219`]` **[Rescinding National Organic Program; Market Development for Mushrooms and Pet Food](https://www.indexdata.org/rescinding-national-organic-program-market-development-for-mushrooms-and-pet-food/)** — `2025-05-12` | `2 Pages`
 - `[`2025-06939`]` **[Reauthorization of Dairy Forward Pricing Program](https://www.indexdata.org/reauthorization-of-dairy-forward-pricing-program-2/)** — `2025-04-23` | `3 Pages`
-
-### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
-
-- `[`2025-11248`]` **[Consumer Financial Civil Penalty Fund Rule Amendment](https://www.indexdata.org/consumer-financial-civil-penalty-fund-rule-amendment/)** — `2025-06-18` | `3 Pages`
-- `[`2025-11244`]` **[Small Business Lending Under the Equal Credit Opportunity Act (Regulation B); Extension of Compliance Dates](https://www.indexdata.org/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-extension-of-compliance-dates-2/)** — `2025-06-18` | `10 Pages`
-- `[`2025-11241`]` **[Procedure Relating to Rulemaking; Rescission](https://www.indexdata.org/procedure-relating-to-rulemaking-rescission/)** — `2025-06-18` | `2 Pages`
-- `[`2025-08640`]` **[Rescission of State Official Notification Rules](https://www.indexdata.org/rescission-of-state-official-notification-rules/)** — `2025-05-21` | `2 Pages`
-- `[`2025-08643`]` **[Protections for Borrowers Affected by the COVID-19 Emergency Under the Real Estate Settlement Procedures Act (RESPA), Regulation X; Rescission](https://www.indexdata.org/protections-for-borrowers-affected-by-the-covid-19-emergency-under-the-real-estate-settlement-procedures-act-respa-regulation-x-rescission/)** — `2025-05-16` | `5 Pages`
-- `[`2025-08644`]` **[Protecting Americans From Harmful Data Broker Practices (Regulation V); Withdrawal of Proposed Rule](https://www.indexdata.org/protecting-americans-from-harmful-data-broker-practices-regulation-v-withdrawal-of-proposed-rule/)** — `2025-05-15` | `2 Pages`
-- `[`2025-08641`]` **[Authority of States To Enforce the Consumer Financial Protection Act of 2010; Rescission](https://www.indexdata.org/authority-of-states-to-enforce-the-consumer-financial-protection-act-of-2010-rescission/)** — `2025-05-15` | `3 Pages`
-- `[`2025-08347`]` **[Procedures for Supervisory Designation Proceedings](https://www.indexdata.org/procedures-for-supervisory-designation-proceedings-2/)** — `2025-05-14` | `6 Pages`
-- `[`2025-08345`]` **[Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders; Proposed Rescission](https://www.indexdata.org/registry-of-nonbank-covered-persons-subject-to-certain-agency-and-court-orders-proposed-rescission/)** — `2025-05-14` | `3 Pages`
-- `[`2025-08344`]` **[Rules of Practice for Adjudication Proceedings; Rescission](https://www.indexdata.org/rules-of-practice-for-adjudication-proceedings-rescission/)** — `2025-05-13` | `21 Pages`
-- `[`2025-08286`]` **[Interpretive Rules, Policy Statements, and Advisory Opinions; Withdrawal](https://www.indexdata.org/interpretive-rules-policy-statements-and-advisory-opinions-withdrawal/)** — `2025-05-12` | `4 Pages`
 
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)

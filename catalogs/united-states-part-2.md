@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,499` across `242` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,500` across `242` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 13:00 UTC`
+**Last Automated Sync:** `2026-11-18 13:38 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`344` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`345` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -258,7 +258,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,499)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,500)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1176,35 +1176,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 - `[`2026-10969`]` **[Pipeline Safety: Breakout Tank Inspection Rule](https://www.indexdata.org/pipeline-safety-breakout-tank-inspection-rule/)** — `2026-06-02` | `9 Pages`
 - `[`2026-10962`]` **[Hazardous Materials: Streamlining Requirements for the Approval of Certain Energetic Materials](https://www.indexdata.org/hazardous-materials-streamlining-requirements-for-the-approval-of-certain-energetic-materials/)** — `2026-06-02` | `18 Pages`
 
-### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
-
-- `[`2026-18470`]` **[Endangered and Threatened Wildlife and Plants; Removal of Gila Chub From the List of Endangered and Threatened Wildlife](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-gila-chub-from-the-list-of-endangered-and-threatened-wildlife/)** — `2026-09-10` | `2 Pages`
-- `[`2026-18123`]` **[Endangered and Threatened Wildlife and Plants; Nine Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-nine-species-not-warranted-for-listing-as-endangered-or-threatened-species/)** — `2026-09-04` | `15 Pages`
-- `[`2026-17895`]` **[National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations](https://www.indexdata.org/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations/)** — `2026-09-01` | `77 Pages`
-- `[`2026-17733`]` **[Process for Authorizing Seasonal Migratory Game Bird Hunting](https://www.indexdata.org/process-for-authorizing-seasonal-migratory-game-bird-hunting/)** — `2026-08-31` | `22 Pages`
-- `[`2026-15299`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Florida Keys Mole Skink; Correction](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-florida-keys-mole-skink-correction/)** — `2026-07-29` | `2 Pages`
-- `[`2026-14638`]` **[Endangered and Threatened Wildlife and Plants; 12-Month Finding for the San Francisco Estuary Distinct Population Segment of White Sturgeon](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-12-month-finding-for-the-san-francisco-estuary-distinct-population-segment-of-white-sturgeon/)** — `2026-07-21` | `15 Pages`
-- `[`2026-14637`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Key Ring-Necked Snake and Rim Rock Crowned Snake](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-key-ring-necked-snake-and-rim-rock-crowned-snake/)** — `2026-07-21` | `27 Pages`
-- `[`2026-14636`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Florida Keys Mole Skink](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-florida-keys-mole-skink/)** — `2026-07-21` | `15 Pages`
-- `[`2026-14633`]` **[Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened-wildlife-and-plants/)** — `2026-07-21` | `14 Pages`
-- `[`2026-14629`]` **[Endangered and Threatened Wildlife and Plants; Regulations for Designating Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-for-designating-critical-habitat/)** — `2026-07-21` | `22 Pages`
-- `[`2026-14550`]` **[Endangered and Threatened Wildlife and Plants; Reclassification of the Hawaiian Stilt (Kukuluae'o or Ae'o) From Endangered to Threatened With a Section 4(d) Rule](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-hawaiian-stilt-kukuluaeo-or-aeo-from-endangered-to-threatened-with-a-section-4d-rule/)** — `2026-07-20` | `34 Pages`
-- `[`2026-14492`]` **[Endangered and Threatened Wildlife and Plants; Reclassification of the Razorback Sucker From Endangered to Threatened With a Section 4(d) Rule](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-razorback-sucker-from-endangered-to-threatened-with-a-section-4d-rule/)** — `2026-07-17` | `23 Pages`
-- `[`2026-14450`]` **[Endangered and Threatened Wildlife and Plants; Grizzly Bear Listing on the List of Endangered and Threatened Wildlife With a Revised Section 4(d) Rule; Proposed Revision of the Protective Regulations Under Section 4(d)](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-grizzly-bear-listing-on-the-list-of-endangered-and-threatened-wildlife-with-a-revised-section-4d-rule-proposed-revision-of-the-protective-regulations/)** — `2026-07-17` | `18 Pages`
-- `[`2026-14299`]` **[Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Contiguous U.S. Distinct Population Segment of the Canada Lynx](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the-contiguous-u-s-distinct-population-segment-of-the-canada-lynx/)** — `2026-07-16` | `41 Pages`
-- `[`2026-14195`]` **[Rescinding the Definition of “Harm” Under the Endangered Species Act](https://www.indexdata.org/rescinding-the-definition-of-harm-under-the-endangered-species-act/)** — `2026-07-14` | `18 Pages`
-- `[`2026-14098`]` **[Endangered and Threatened Wildlife and Plants; 90-Day Findings for 10 Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-90-day-findings-for-10-species/)** — `2026-07-14` | `8 Pages`
-- `[`2026-13719`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Kern Canyon Slender Salamander and Endangered Species Status for the Relictual Slender Salamander; Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-the-kern-canyon-slender-salamander-and-endangered-species-status-for-the-relictual-slender-salamande/)** — `2026-07-07` | `6 Pages`
-- `[`2026-12955`]` **[Process for Authorizing Seasonal Migratory Game Bird Hunting](https://www.indexdata.org/process-for-authorizing-seasonal-migratory-game-bird-hunting-2/)** — `2026-06-26` | `20 Pages`
-- `[`2026-12951`]` **[Process for Authorizing Seasonal Migratory Game Bird Hunting](https://www.indexdata.org/process-for-authorizing-seasonal-migratory-game-bird-hunting-3/)** — `2026-06-26` | `21 Pages`
-- `[`2026-12578`]` **[Definition of Shellfish; Inclusion of Cephalopods](https://www.indexdata.org/definition-of-shellfish-inclusion-of-cephalopods/)** — `2026-06-23` | `5 Pages`
-- `[`2026-12576`]` **[Migratory Bird Subsistence Harvest in Alaska](https://www.indexdata.org/migratory-bird-subsistence-harvest-in-alaska/)** — `2026-06-23` | `6 Pages`
-- `[`2026-12077`]` **[Endangered and Threatened Wildlife and Plants; Two Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-two-species-not-warranted-for-listing-as-endangered-or-threatened-species/)** — `2026-06-16` | `5 Pages`
-- `[`2026-11609`]` **[Endangered and Threatened Wildlife and Plants; Removal of Northeastern Bulrush From the List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-northeastern-bulrush-from-the-list-of-endangered-and-threatened-plants/)** — `2026-06-10` | `9 Pages`
-- `[`2026-11414`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Southern Hognose Snake](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-southern-hognose-snake/)** — `2026-06-08` | `2 Pages`
-- `[`2026-10846`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for the Rusty Patched Bumble Bee](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-rusty-patched-bumble-bee/)** — `2026-06-01` | `38 Pages`
-
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
@@ -1233,6 +1204,34 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2026-11140`]` **[Federal Independent Dispute Resolution Operations](https://www.indexdata.org/federal-independent-dispute-resolution-operations/)** — `2026-06-04` | `182 Pages`
 - `[`2026-11102`]` **[Guidance on Tax-Exempt Refunding Bonds; Hearing](https://www.indexdata.org/guidance-on-tax-exempt-refunding-bonds-hearing/)** — `2026-06-03` | `2 Pages`
 - `[`2026-10963`]` **[Estate Tax Closing Letter User Fee Update](https://www.indexdata.org/estate-tax-closing-letter-user-fee-update-2/)** — `2026-06-02` | `3 Pages`
+
+### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
+
+- `[`2026-18470`]` **[Endangered and Threatened Wildlife and Plants; Removal of Gila Chub From the List of Endangered and Threatened Wildlife](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-gila-chub-from-the-list-of-endangered-and-threatened-wildlife/)** — `2026-09-10` | `2 Pages`
+- `[`2026-18123`]` **[Endangered and Threatened Wildlife and Plants; Nine Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-nine-species-not-warranted-for-listing-as-endangered-or-threatened-species/)** — `2026-09-04` | `15 Pages`
+- `[`2026-17895`]` **[National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations](https://www.indexdata.org/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations/)** — `2026-09-01` | `77 Pages`
+- `[`2026-17733`]` **[Process for Authorizing Seasonal Migratory Game Bird Hunting](https://www.indexdata.org/process-for-authorizing-seasonal-migratory-game-bird-hunting/)** — `2026-08-31` | `22 Pages`
+- `[`2026-15299`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Florida Keys Mole Skink; Correction](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-florida-keys-mole-skink-correction/)** — `2026-07-29` | `2 Pages`
+- `[`2026-14638`]` **[Endangered and Threatened Wildlife and Plants; 12-Month Finding for the San Francisco Estuary Distinct Population Segment of White Sturgeon](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-12-month-finding-for-the-san-francisco-estuary-distinct-population-segment-of-white-sturgeon/)** — `2026-07-21` | `15 Pages`
+- `[`2026-14637`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Key Ring-Necked Snake and Rim Rock Crowned Snake](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-key-ring-necked-snake-and-rim-rock-crowned-snake/)** — `2026-07-21` | `27 Pages`
+- `[`2026-14636`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Florida Keys Mole Skink](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-florida-keys-mole-skink/)** — `2026-07-21` | `15 Pages`
+- `[`2026-14633`]` **[Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened-wildlife-and-plants/)** — `2026-07-21` | `14 Pages`
+- `[`2026-14629`]` **[Endangered and Threatened Wildlife and Plants; Regulations for Designating Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-regulations-for-designating-critical-habitat/)** — `2026-07-21` | `22 Pages`
+- `[`2026-14550`]` **[Endangered and Threatened Wildlife and Plants; Reclassification of the Hawaiian Stilt (Kukuluae'o or Ae'o) From Endangered to Threatened With a Section 4(d) Rule](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-hawaiian-stilt-kukuluaeo-or-aeo-from-endangered-to-threatened-with-a-section-4d-rule/)** — `2026-07-20` | `34 Pages`
+- `[`2026-14492`]` **[Endangered and Threatened Wildlife and Plants; Reclassification of the Razorback Sucker From Endangered to Threatened With a Section 4(d) Rule](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-razorback-sucker-from-endangered-to-threatened-with-a-section-4d-rule/)** — `2026-07-17` | `23 Pages`
+- `[`2026-14450`]` **[Endangered and Threatened Wildlife and Plants; Grizzly Bear Listing on the List of Endangered and Threatened Wildlife With a Revised Section 4(d) Rule; Proposed Revision of the Protective Regulations Under Section 4(d)](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-grizzly-bear-listing-on-the-list-of-endangered-and-threatened-wildlife-with-a-revised-section-4d-rule-proposed-revision-of-the-protective-regulations/)** — `2026-07-17` | `18 Pages`
+- `[`2026-14299`]` **[Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Contiguous U.S. Distinct Population Segment of the Canada Lynx](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the-contiguous-u-s-distinct-population-segment-of-the-canada-lynx/)** — `2026-07-16` | `41 Pages`
+- `[`2026-14195`]` **[Rescinding the Definition of “Harm” Under the Endangered Species Act](https://www.indexdata.org/rescinding-the-definition-of-harm-under-the-endangered-species-act/)** — `2026-07-14` | `18 Pages`
+- `[`2026-14098`]` **[Endangered and Threatened Wildlife and Plants; 90-Day Findings for 10 Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-90-day-findings-for-10-species/)** — `2026-07-14` | `8 Pages`
+- `[`2026-13719`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Kern Canyon Slender Salamander and Endangered Species Status for the Relictual Slender Salamander; Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-the-kern-canyon-slender-salamander-and-endangered-species-status-for-the-relictual-slender-salamande/)** — `2026-07-07` | `6 Pages`
+- `[`2026-12955`]` **[Process for Authorizing Seasonal Migratory Game Bird Hunting](https://www.indexdata.org/process-for-authorizing-seasonal-migratory-game-bird-hunting-2/)** — `2026-06-26` | `20 Pages`
+- `[`2026-12951`]` **[Process for Authorizing Seasonal Migratory Game Bird Hunting](https://www.indexdata.org/process-for-authorizing-seasonal-migratory-game-bird-hunting-3/)** — `2026-06-26` | `21 Pages`
+- `[`2026-12578`]` **[Definition of Shellfish; Inclusion of Cephalopods](https://www.indexdata.org/definition-of-shellfish-inclusion-of-cephalopods/)** — `2026-06-23` | `5 Pages`
+- `[`2026-12576`]` **[Migratory Bird Subsistence Harvest in Alaska](https://www.indexdata.org/migratory-bird-subsistence-harvest-in-alaska/)** — `2026-06-23` | `6 Pages`
+- `[`2026-12077`]` **[Endangered and Threatened Wildlife and Plants; Two Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-two-species-not-warranted-for-listing-as-endangered-or-threatened-species/)** — `2026-06-16` | `5 Pages`
+- `[`2026-11609`]` **[Endangered and Threatened Wildlife and Plants; Removal of Northeastern Bulrush From the List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-northeastern-bulrush-from-the-list-of-endangered-and-threatened-plants/)** — `2026-06-10` | `9 Pages`
+- `[`2026-11414`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Southern Hognose Snake](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-southern-hognose-snake/)** — `2026-06-08` | `2 Pages`
 
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -1438,6 +1437,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2026-12019`]` **[International Traffic in Arms Regulations (ITAR): Part 130 Changes To Reduce Reporting Burden](https://www.indexdata.org/international-traffic-in-arms-regulations-itar-part-130-changes-to-reduce-reporting-burden/)** — `2026-06-15` | `11 Pages`
 - `[`2026-11513`]` **[Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates-Visa and Citizenship Services Fee Changes](https://www.indexdata.org/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and-consulates-visa-and-citizenship-services-fee-changes/)** — `2026-06-09` | `6 Pages`
 
+### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
+
+- `[`US-PLAW-119publ106`]` **[Public Law 119 - 106 - Stop Secret Spending Act of 2025](https://www.indexdata.org/public-law-119-106-stop-secret-spending-act-of-2025/)** — `2026-09-21` | `5 Pages`
+- `[`US-PLAW-119publ103`]` **[Public Law 119 - 103 - Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/public-law-119-103-continuing-appropriations-and-extensions-act-2027/)** — `2026-09-21` | `24 Pages`
+- `[`US-PLAW-111`]` **[Lindsey O. Graham Sanctioning Russia and Iran Act of 2026](https://www.indexdata.org/lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/)** — `2026-09-18` | `25 Pages`
+- `[`US-PLAW-110`]` **[Prison Staff Safety Enhancement Act](https://www.indexdata.org/prison-staff-safety-enhancement-act/)** — `2026-09-16` | `3 Pages`
+- `[`US-CDOC-119tdoc2`]` **[Treaty Doc. 119-2 - TAX CONVENTION WITH CROATIA AND PROTOCOL AMENDING THE TAX CONVENTION WITH CROATIA](https://www.indexdata.org/treaty-doc-119-2-tax-convention-with-croatia-and-protocol-amending-the-tax-convention-with-croatia/)** — `2026-09-15` | `63 Pages`
+- `[`US-PLAW-108`]` **[Doug LaMalfa Federal Disaster Tax Relief Certainty Act](https://www.indexdata.org/doug-lamalfa-federal-disaster-tax-relief-certainty-act/)** — `2026-09-11` | `3 Pages`
+- `[`US-PLAW-106`]` **[Stop Secret Spending Act of 2025](https://www.indexdata.org/stop-secret-spending-act-of-2025/)** — `2026-09-11` | `5 Pages`
+- `[`US-PLAW-105`]` **[An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-09-11` | `2 Pages`
+- `[`US-PLAW-103`]` **[Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/continuing-appropriations-and-extensions-act-2027/)** — `2026-09-02` | `24 Pages`
+- `[`US-PLAW-102`]` **[Emergency Conservation Program Improvement Act of 2025](https://www.indexdata.org/emergency-conservation-program-improvement-act-of-2025/)** — `2026-07-12` | `2 Pages`
+- `[`US-PLAW-101`]` **[21st Century ROAD to Housing Act](https://www.indexdata.org/21st-century-road-to-housing-act/)** — `2026-07-11` | `140 Pages`
+- `[`US-PLAW-99`]` **[Alaska's Right to Ivory Sales and Tradition Act" or the "ARTIST Act](https://www.indexdata.org/alaskas-right-to-ivory-sales-and-tradition-act-or-the-artist-act/)** — `2026-06-12` | `4 Pages`
+- `[`US-PLAW-98`]` **[Secure America Act](https://www.indexdata.org/secure-america-act/)** — `2026-06-10` | `5 Pages`
+- `[`US-PLAW-96`]` **[Gerald E. Connolly Esophageal Cancer Awareness Act of 2025](https://www.indexdata.org/gerald-e-connolly-esophageal-cancer-awareness-act-of-2025/)** — `2026-06-09` | `2 Pages`
+
 ### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 
@@ -1488,23 +1505,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ra
 - `[`2026-15724`]` **[High-Speed Train Noise Emission Standards](https://www.indexdata.org/high-speed-train-noise-emission-standards/)** — `2026-08-03` | `18 Pages`
 - `[`2026-15605`]` **[Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements](https://www.indexdata.org/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency-and-other-requirements/)** — `2026-07-31` | `19 Pages`
 - `[`2026-14160`]` **[Certification of Dispatchers; Extension of Comment Period](https://www.indexdata.org/certification-of-dispatchers-extension-of-comment-period/)** — `2026-07-14` | `2 Pages`
-
-### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
-
-- `[`US-PLAW-119publ103`]` **[Public Law 119 - 103 - Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/public-law-119-103-continuing-appropriations-and-extensions-act-2027/)** — `2026-09-21` | `24 Pages`
-- `[`US-PLAW-111`]` **[Lindsey O. Graham Sanctioning Russia and Iran Act of 2026](https://www.indexdata.org/lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/)** — `2026-09-18` | `25 Pages`
-- `[`US-PLAW-110`]` **[Prison Staff Safety Enhancement Act](https://www.indexdata.org/prison-staff-safety-enhancement-act/)** — `2026-09-16` | `3 Pages`
-- `[`US-CDOC-119tdoc2`]` **[Treaty Doc. 119-2 - TAX CONVENTION WITH CROATIA AND PROTOCOL AMENDING THE TAX CONVENTION WITH CROATIA](https://www.indexdata.org/treaty-doc-119-2-tax-convention-with-croatia-and-protocol-amending-the-tax-convention-with-croatia/)** — `2026-09-15` | `63 Pages`
-- `[`US-PLAW-108`]` **[Doug LaMalfa Federal Disaster Tax Relief Certainty Act](https://www.indexdata.org/doug-lamalfa-federal-disaster-tax-relief-certainty-act/)** — `2026-09-11` | `3 Pages`
-- `[`US-PLAW-106`]` **[Stop Secret Spending Act of 2025](https://www.indexdata.org/stop-secret-spending-act-of-2025/)** — `2026-09-11` | `5 Pages`
-- `[`US-PLAW-105`]` **[An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-09-11` | `2 Pages`
-- `[`US-PLAW-103`]` **[Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/continuing-appropriations-and-extensions-act-2027/)** — `2026-09-02` | `24 Pages`
-- `[`US-PLAW-102`]` **[Emergency Conservation Program Improvement Act of 2025](https://www.indexdata.org/emergency-conservation-program-improvement-act-of-2025/)** — `2026-07-12` | `2 Pages`
-- `[`US-PLAW-101`]` **[21st Century ROAD to Housing Act](https://www.indexdata.org/21st-century-road-to-housing-act/)** — `2026-07-11` | `140 Pages`
-- `[`US-PLAW-99`]` **[Alaska's Right to Ivory Sales and Tradition Act" or the "ARTIST Act](https://www.indexdata.org/alaskas-right-to-ivory-sales-and-tradition-act-or-the-artist-act/)** — `2026-06-12` | `4 Pages`
-- `[`US-PLAW-98`]` **[Secure America Act](https://www.indexdata.org/secure-america-act/)** — `2026-06-10` | `5 Pages`
-- `[`US-PLAW-96`]` **[Gerald E. Connolly Esophageal Cancer Awareness Act of 2025](https://www.indexdata.org/gerald-e-connolly-esophageal-cancer-awareness-act-of-2025/)** — `2026-06-09` | `2 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
