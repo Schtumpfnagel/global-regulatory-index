@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,315` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,321` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-18 06:55 UTC`
+**Last Automated Sync:** `2026-11-18 08:00 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,356` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,362` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,315)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,321)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -154,6 +154,10 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-PIPE-20060319_nts_en`]` **[EIB Project Environmental Assessment: 20060319 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20060319-non-technical-summary-nts/)** — `2025-04-15` | `29 Pages`
 - `[`EIB-PIPE-20060319_eis_en`]` **[EIB Project Environmental Assessment: 20060319 eis](https://www.indexdata.org/eib-project-environmental-assessment-20060319-eis/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-PIPE-20060315_nts_en`]` **[EIB Project Environmental Assessment: 20060315 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20060315-non-technical-summary-nts/)** — `2025-04-15` | `73 Pages`
+- `[`EIB-PIPE-20060295_nts1_en`]` **[EIB Project Environmental Assessment: 20060295 Nts1](https://www.indexdata.org/eib-project-environmental-assessment-20060295-nts1/)** — `2025-04-15` | `7 Pages`
+- `[`EIB-PIPE-20060268_nts_en`]` **[EIB Project Environmental Assessment: 20060268 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20060268-non-technical-summary-nts/)** — `2025-04-15` | `24 Pages`
+- `[`EIB-PIPE-20060268_nts1_en`]` **[EIB Project Environmental Assessment: 20060268 Nts1](https://www.indexdata.org/eib-project-environmental-assessment-20060268-nts1/)** — `2025-04-15` | `11 Pages`
+- `[`EIB-PIPE-20060238_nts_en`]` **[EIB Project Environmental Assessment: 20060238 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20060238-non-technical-summary-nts/)** — `2025-04-15` | `17 Pages`
 - `[`EIB-EVT-warsaw_programme_english`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_programme_en`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme-2/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_26112010_wisniewski_en`]` **[EIB Policy Conference: Warsaw 26112010 Wisniewski](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-wisniewski/)** — `2025-04-15` | `9 Pages`
@@ -484,6 +488,8 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-20160204_supporting_syria_and_the_region_hoyer_speech_en`]` **[EIB Policy Conference: 20160204 Supporting Syria and the Region Hoyer Speech](https://www.indexdata.org/eib-policy-conference-20160204-supporting-syria-and-the-region-hoyer-speech/)** — `2025-04-15` | `5 Pages`
 - `[`EIB-EVT-20160201_cso_board_directors_seminar_presentation_en`]` **[EIB Policy Conference: 20160201 cso Board Directors Seminar Presentation](https://www.indexdata.org/eib-policy-conference-20160201-cso-board-directors-seminar-presentation/)** — `2025-04-15` | `7 Pages`
 - `[`EIB-EVT-20151119_sanergy_presentation_IFE_educational_workshop_en`]` **[EIB Policy Conference: 20151119 Sanergy Presentation ife Educational Workshop](https://www.indexdata.org/eib-policy-conference-20151119-sanergy-presentation-ife-educational-workshop/)** — `2025-04-15` | `17 Pages`
+- `[`EIB-EVT-20151119_novastar_presentation_IFE_educational_workshop_en`]` **[EIB Policy Conference: 20151119 Novastar Presentation ife Educational Workshop](https://www.indexdata.org/eib-policy-conference-20151119-novastar-presentation-ife-educational-workshop/)** — `2025-04-15` | `9 Pages`
+- `[`EIB-EVT-20151119_TCX_presentation_IFE_educational_workshop_en`]` **[EIB Policy Conference: 20151119 tcx Presentation ife Educational Workshop](https://www.indexdata.org/eib-policy-conference-20151119-tcx-presentation-ife-educational-workshop/)** — `2025-04-15` | `13 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1544,12 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-DOC-mooc_factsheet_jaspers_en`]` **[EIB Policy Document: Mooc Factsheet JASPERS](https://www.indexdata.org/eib-policy-document-mooc-factsheet-jaspers/)** — `2025-04-14` | `5 Pages`
 - `[`EIB-DOC-mooc_factsheet_fi_compass_en`]` **[EIB Policy Document: Mooc Factsheet fi Compass](https://www.indexdata.org/eib-policy-document-mooc-factsheet-fi-compass/)** — `2025-04-14` | `2 Pages`
 - `[`EIB-DOC-mooc_factsheet_eib_loans_en`]` **[Mooc Factsheet EIB Loans](https://www.indexdata.org/mooc-factsheet-eib-loans/)** — `2025-04-14` | `4 Pages`
-- `[`EIB-DOC-mooc_factsheet_eib_framework_loans_en`]` **[Mooc Factsheet EIB Framework Loans](https://www.indexdata.org/mooc-factsheet-eib-framework-loans/)** — `2025-04-14` | `10 Pages`
-- `[`EIB-DOC-mdb_tracking_climate_cofinance_en`]` **[EIB Policy Document: Multilateral Development Banks (MDB) Tracking Climate Cofinance](https://www.indexdata.org/eib-policy-document-multilateral-development-banks-mdb-tracking-climate-cofinance/)** — `2025-04-14` | `4 Pages`
-- `[`EIB-DOC-mdb_idfc_mitigation_common_principles_en`]` **[EIB Policy Document: Multilateral Development Banks (MDB) Idfc Mitigation Common Principles](https://www.indexdata.org/eib-policy-document-multilateral-development-banks-mdb-idfc-mitigation-common-principles/)** — `2025-04-14` | `71 Pages`
-- `[`EIB-DOC-mdb_idfc_adaptation_common_principles_en`]` **[EIB Policy Document: Multilateral Development Banks (MDB) Idfc Adaptation Common Principles](https://www.indexdata.org/eib-policy-document-multilateral-development-banks-mdb-idfc-adaptation-common-principles/)** — `2025-04-14` | `3 Pages`
-- `[`EIB-DOC-mdb-principles-for-lts-support-en`]` **[EIB Policy Document: Multilateral Development Banks (MDB) Principles for lts Support](https://www.indexdata.org/eib-policy-document-multilateral-development-banks-mdb-principles-for-lts-support/)** — `2025-04-14` | `4 Pages`
-- `[`EIB-DOC-mdb-nature-people-planet-common-principles-en`]` **[EIB Policy Document: Multilateral Development Banks (MDB) Nature People Planet Common Principles](https://www.indexdata.org/eib-policy-document-multilateral-development-banks-mdb-nature-people-planet-common-principles/)** — `2025-04-14` | `5 Pages`
 
 ---
 

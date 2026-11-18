@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q40`](https://www.wikidata.org/wiki/Q40)  
 **Governing Open-Government Framework:** *UrhG § 7 / IWG 2022 / CC BY 4.0*  
 **Total Indexed Dossiers in Austria:** `189` across `27` issuing authorities  
-**Last Automated Sync:** `2026-11-18 06:55 UTC`
+**Last Automated Sync:** `2026-11-18 08:00 UTC`
 
 ---
 
@@ -152,8 +152,8 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-nationa
 - `[`AT-GOEG-349`]` **[Short PPRI Pharma Profile](https://www.indexdata.org/short-ppri-pharma-profile/)** — `2018-01-01` | `37 Pages`
 - `[`AT-GOEG-429`]` **[Price comparison of high-cost medicines 2017.Study protocol](https://www.indexdata.org/price-comparison-of-high-cost-medicines-2017-study-protocol/)** — `2017-08-01` | `57 Pages`
 - `[`AT-GOEG-367`]` **[Study on impact analysis of Policy Options for strengthened EU cooperation on Health Technology Assessment (HTA)](https://www.indexdata.org/study-on-impact-analysis-of-policy-options-for-strengthened-eu-cooperation-on-health-technology-assessment-hta/)** — `2017-08-01` | `261 Pages`
-- `[`AT-GOEG-Study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health.-European-Commission-Directorate-General-for-Health-and-Food-Safety-Brssel`]` **[Study on better cross-border cooperation for high-cost capital investments in health](https://www.indexdata.org/study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health-23/)** — `2016-01-01` | `209 Pages`
-- `[`AT-GOEG-Pharmaceutical-pricing-and-reimbursement-reform-in-Kyrgyzstan.-WHO-Regional-Office-for-Europe-Copenhagen-ISBN-9789289052191`]` **[Pharmaceutical pricing and reimbursement reform in Kyrgyzstan](https://www.indexdata.org/pharmaceutical-pricing-and-reimbursement-reform-in-kyrgyzstan-22/)** — `2016-01-01` | `84 Pages`
+- `[`AT-GOEG-Study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health.-European-Commission-Directorate-General-for-Health-and-Food-Safety-Brssel`]` **[Study on better cross-border cooperation for high-cost capital investments in health](https://www.indexdata.org/study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health-24/)** — `2016-01-01` | `209 Pages`
+- `[`AT-GOEG-Pharmaceutical-pricing-and-reimbursement-reform-in-Kyrgyzstan.-WHO-Regional-Office-for-Europe-Copenhagen-ISBN-9789289052191`]` **[Pharmaceutical pricing and reimbursement reform in Kyrgyzstan](https://www.indexdata.org/pharmaceutical-pricing-and-reimbursement-reform-in-kyrgyzstan-23/)** — `2016-01-01` | `84 Pages`
 - `[`AT-GOEG-62`]` **[Pharmaceutical pricing and reimbursement reform in Kyrgyzstan](https://www.indexdata.org/pharmaceutical-pricing-and-reimbursement-reform-in-kyrgyzstan/)** — `2016-01-01` | `84 Pages`
 - `[`AT-GOEG-30`]` **[Study on better cross-border cooperation for high-cost capital investments in health](https://www.indexdata.org/study-on-better-cross-border-cooperation-for-high-cost-capital-investments-in-health/)** — `2016-01-01` | `209 Pages`
 - `[`AT-GOEG-221`]` **[Pharmaceutical regulation in 15 European countries. Review](https://www.indexdata.org/pharmaceutical-regulation-in-15-european-countries-review/)** — `2016-01-01` | `143 Pages`
