@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,080` across `89` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,082` across `89` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-17 23:53 UTC`
+**Last Automated Sync:** `2026-11-18 00:56 UTC`
 
 ---
 
@@ -44,10 +44,10 @@
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[Veterinary Medicines Directorate](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/feed/)
 - **[NHS England](https://www.indexdata.org/united-kingdom/nhs-england/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/nhs-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/nhs-england/feed/)
+- **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[UK Visas and Immigration](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/feed/)
 - **[Department for Business, Innovation, Science and Trade](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/feed/)
-- **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
 - **[Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
 - **[Civil Nuclear Police Authority](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/feed/)
@@ -105,7 +105,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,080)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,082)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -457,7 +457,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2026-579`]` **[The A47 Wansford to Sutton Development Consent (Revocation) Order 2026](https://www.indexdata.org/the-a47-wansford-to-sutton-development-consent-revocation-order-2026/)** — `2026-06-02` | `2 Pages`
 - `[`UKSI-2026-570`]` **[The Publication of Information About Tax Avoidance Schemes (Legally Privileged Communications Declarations) Regulations 2026](https://www.indexdata.org/the-publication-of-information-about-tax-avoidance-schemes-legally-privileged-communications-declarations-regulations-2026/)** — `2026-06-01` | `4 Pages`
 - `[`UKSI-2026-560`]` **[The Anti-avoidance Information Notices (Resolution of Disputes as to Privilege) Regulations 2026](https://www.indexdata.org/the-anti-avoidance-information-notices-resolution-of-disputes-as-to-privilege-regulations-2026/)** — `2026-05-27` | `4 Pages`
-- `[`UKSI-2026-556`]` **[The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026](https://www.indexdata.org/the-a46-coventry-junctions-walsgrave-development-consent-correction-order-2026/)** — `2026-05-22` | `8 Pages`
 
 ### [Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
@@ -1241,7 +1240,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-635`]` **[The Offshore Installations (Safety Zones) Order 2026](https://www.indexdata.org/the-offshore-installations-safety-zones-order-2026/)** — `2026-06-15` | `8 Pages`
 - `[`UKSI-2026-608`]` **[The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026](https://www.indexdata.org/the-morecambe-offshore-windfarm-generation-assets-correction-order-2026/)** — `2026-06-05` | `8 Pages`
 - `[`UKSI-2026-606`]` **[The Cory Decarbonisation Project (Correction) Order 2026](https://www.indexdata.org/the-cory-decarbonisation-project-correction-order-2026/)** — `2026-06-05` | `4 Pages`
-- `[`UKSI-2026-667`]` **[The Sunnica Energy Farm (Amendment) Order 2026](https://www.indexdata.org/the-sunnica-energy-farm-amendment-order-2026/)** — `2026-05-21` | `4 Pages`
 
 ### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
@@ -1584,6 +1582,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/nhs-engla
 - `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-11`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Urdu)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-urdu/)** — `2026-11-13` | `12 Pages`
 - `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-10`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Punjabi)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-punjabi/)** — `2026-11-13` | `12 Pages`
 
+### [National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/national-audit-office/](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
+
+- `[`UK-NAO-64624`]` **[National Audit Office: Risk-management-in-government-improving-capability-and-decision‑making-summary](https://www.indexdata.org/national-audit-office-risk-management-in-government-improving-capability-and-decision-making-summary/)** — `2026-11-17` | `13 Pages`
+- `[`UK-NAO-64623`]` **[National Audit Office: Risk-management-in-government-improving-capability-and-decision‑making](https://www.indexdata.org/national-audit-office-risk-management-in-government-improving-capability-and-decision-making/)** — `2026-11-17` | `52 Pages`
+- `[`UK-NAO-64559`]` **[National Audit Office: reducing radicalisation the prevent programme summary](https://www.indexdata.org/national-audit-office-reducing-radicalisation-the-prevent-programme-summary/)** — `2026-11-11` | `13 Pages`
+- `[`UK-NAO-64542`]` **[National Audit Office: defra 2025 26](https://www.indexdata.org/national-audit-office-defra-2025-26/)** — `2026-11-10` | `23 Pages`
+- `[`UK-NAO-64536`]` **[National Audit Office: nao board agenda 21 07 26](https://www.indexdata.org/national-audit-office-nao-board-agenda-21-07-26/)** — `2026-11-10` | `2 Pages`
+- `[`UK-NAO-64535`]` **[National Audit Office: nao board minutes 21 07 26](https://www.indexdata.org/national-audit-office-nao-board-minutes-21-07-26/)** — `2026-11-10` | `6 Pages`
+- `[`UK-NAO-64512`]` **[National Audit Office: restructuring of integrated care boards summary](https://www.indexdata.org/national-audit-office-restructuring-of-integrated-care-boards-summary/)** — `2026-11-03` | `11 Pages`
+- `[`UK-NAO-64511`]` **[National Audit Office: restructuring of integrated care boards](https://www.indexdata.org/national-audit-office-restructuring-of-integrated-care-boards/)** — `2026-11-03` | `56 Pages`
+- `[`UK-NAO-64501`]` **[National Audit Office: hm treasury do 2025 26](https://www.indexdata.org/national-audit-office-hm-treasury-do-2025-26/)** — `2026-11-03` | `22 Pages`
+
 ### [Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/rochdale-borough-council/](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 
@@ -1620,17 +1631,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UK-GOV-9004953c-87ec-4439-9619-9f814512335a-2`]` **[Designated standards: radio equipment — Designated standards: radio equipment – notice of publication, 21 January 2026](https://www.indexdata.org/designated-standards-radio-equipment-designated-standards-radio-equipment-notice-of-publication-21-january-2026/)** — `2026-11-03` | `28 Pages`
 - `[`UK-GOV-9004953c-87ec-4439-9619-9f814512335a-1`]` **[Designated standards: radio equipment — Designated standards: radio equipment – notice of publication, 3 November 2026](https://www.indexdata.org/designated-standards-radio-equipment-designated-standards-radio-equipment-notice-of-publication-3-november-2026/)** — `2026-11-03` | `32 Pages`
 - `[`UKSI-2026-1129`]` **[The Code of Practice (Access and Unfair Practices During the Recognition and Derecognition Process) Order 2026](https://www.indexdata.org/the-code-of-practice-access-and-unfair-practices-during-the-recognition-and-derecognition-process-order-2026/)** — `2026-10-26` | `4 Pages`
-
-### [National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/national-audit-office/](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
-
-- `[`UK-NAO-64559`]` **[National Audit Office: reducing radicalisation the prevent programme summary](https://www.indexdata.org/national-audit-office-reducing-radicalisation-the-prevent-programme-summary/)** — `2026-11-11` | `13 Pages`
-- `[`UK-NAO-64542`]` **[National Audit Office: defra 2025 26](https://www.indexdata.org/national-audit-office-defra-2025-26/)** — `2026-11-10` | `23 Pages`
-- `[`UK-NAO-64536`]` **[National Audit Office: nao board agenda 21 07 26](https://www.indexdata.org/national-audit-office-nao-board-agenda-21-07-26/)** — `2026-11-10` | `2 Pages`
-- `[`UK-NAO-64535`]` **[National Audit Office: nao board minutes 21 07 26](https://www.indexdata.org/national-audit-office-nao-board-minutes-21-07-26/)** — `2026-11-10` | `6 Pages`
-- `[`UK-NAO-64512`]` **[National Audit Office: restructuring of integrated care boards summary](https://www.indexdata.org/national-audit-office-restructuring-of-integrated-care-boards-summary/)** — `2026-11-03` | `11 Pages`
-- `[`UK-NAO-64511`]` **[National Audit Office: restructuring of integrated care boards](https://www.indexdata.org/national-audit-office-restructuring-of-integrated-care-boards/)** — `2026-11-03` | `56 Pages`
-- `[`UK-NAO-64501`]` **[National Audit Office: hm treasury do 2025 26](https://www.indexdata.org/national-audit-office-hm-treasury-do-2025-26/)** — `2026-11-03` | `22 Pages`
 
 ### [Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
