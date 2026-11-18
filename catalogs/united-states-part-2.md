@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,466` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,470` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 05:00 UTC`
+**Last Automated Sync:** `2026-11-18 05:58 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`908` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`530` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`337` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`340` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -57,8 +57,8 @@
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -254,11 +254,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,466)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,470)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-19083`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-22/)** — `2026-09-17` | `3 Pages`
+- `[`2026-19082`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-23/)** — `2026-09-17` | `4 Pages`
 - `[`2026-19052`]` **[Airworthiness Directives; Bell Textron Canada Limited Helicopters](https://www.indexdata.org/airworthiness-directives-bell-textron-canada-limited-helicopters-3/)** — `2026-09-17` | `4 Pages`
 - `[`2026-18956`]` **[Airworthiness Directives; De Havilland Aircraft of Canada Limited (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-de-havilland-aircraft-of-canada-limited-type-certificate-previously-held-by-bombardier-inc-airplanes/)** — `2026-09-16` | `3 Pages`
 - `[`2026-18927`]` **[Airworthiness Directives; MD Helicopters, LLC Helicopters](https://www.indexdata.org/airworthiness-directives-md-helicopters-llc-helicopters-3/)** — `2026-09-15` | `10 Pages`
@@ -757,6 +759,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-19072`]` **[Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111](https://www.indexdata.org/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of-regulations-for-power-plant-greenhouse-gas-emissions-under-clean-air-act-section-111/)** — `2026-09-17` | `45 Pages`
 - `[`2026-19071`]` **[Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units](https://www.indexdata.org/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units/)** — `2026-09-17` | `47 Pages`
 - `[`2026-19027`]` **[Indiana: Approval of State Coal Combustion Residuals Permit Program](https://www.indexdata.org/indiana-approval-of-state-coal-combustion-residuals-permit-program/)** — `2026-09-16` | `10 Pages`
 - `[`2026-18830`]` **[Bacillus amyloliquefaciens strain AT-332; Exemption From the Requirement of a Pesticide Tolerance](https://www.indexdata.org/bacillus-amyloliquefaciens-strain-at-332-exemption-from-the-requirement-of-a-pesticide-tolerance/)** — `2026-09-15` | `4 Pages`
@@ -921,9 +924,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-10744`]` **[South Carolina; Approval of State Plan for Control of Emissions From Commercial and Industrial Solid Waste Incineration Units](https://www.indexdata.org/south-carolina-approval-of-state-plan-for-control-of-emissions-from-commercial-and-industrial-solid-waste-incineration-units/)** — `2026-05-29` | `3 Pages`
 - `[`2026-10739`]` **[Approval and Promulgation of State Air Quality Plans (Negative Declarations) for Designated Facilities and Pollutants; District of Columbia](https://www.indexdata.org/approval-and-promulgation-of-state-air-quality-plans-negative-declarations-for-designated-facilities-and-pollutants-district-of-columbia/)** — `2026-05-29` | `4 Pages`
 - `[`2026-10738`]` **[Air Plan Approval; ID; Update to Materials Incorporated by Reference](https://www.indexdata.org/air-plan-approval-id-update-to-materials-incorporated-by-reference/)** — `2026-05-29` | `8 Pages`
-- `[`2026-10712`]` **[Significant New Use Rules on Certain Chemical Substances (25-2.5e)](https://www.indexdata.org/significant-new-use-rules-on-certain-chemical-substances-25-2-5e/)** — `2026-05-29` | `18 Pages`
-- `[`2026-10711`]` **[Propylene Oxide; Pesticide Tolerances](https://www.indexdata.org/propylene-oxide-pesticide-tolerances/)** — `2026-05-29` | `5 Pages`
-- `[`2026-10709`]` **[Bacillus Thuringiensis Cry1B.34.1, Bacillus Thuringiensis Cry1B.61.1 and Adiantum Trapeziforme var. Braziliense IPD083Cb Proteins; Pesticide Tolerances](https://www.indexdata.org/bacillus-thuringiensis-cry1b-34-1-bacillus-thuringiensis-cry1b-61-1-and-adiantum-trapeziforme-var-braziliense-ipd083cb-proteins-pesticide-tolerances/)** — `2026-05-29` | `5 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1592,19 +1592,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2026-11003`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products/)** — `2026-06-02` | `39 Pages`
 - `[`2026-10968`]` **[Ballot Mail for Federal Elections](https://www.indexdata.org/ballot-mail-for-federal-elections-2/)** — `2026-06-02` | `5 Pages`
 
-### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
-
-- `[`2026-17821`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program/)** — `2026-09-01` | `2 Pages`
-- `[`2026-17333`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-2/)** — `2026-08-25` | `8 Pages`
-- `[`2026-17055`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-3/)** — `2026-08-21` | `6 Pages`
-- `[`2026-16318`]` **[North Dakota Regulatory Program](https://www.indexdata.org/north-dakota-regulatory-program/)** — `2026-08-11` | `5 Pages`
-- `[`2026-16136`]` **[Ohio Regulatory Program](https://www.indexdata.org/ohio-regulatory-program/)** — `2026-08-07` | `35 Pages`
-- `[`2026-14245`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-5/)** — `2026-07-15` | `8 Pages`
-- `[`2026-14244`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-4/)** — `2026-07-15` | `6 Pages`
-- `[`2026-12482`]` **[West Virginia Regulatory Program](https://www.indexdata.org/west-virginia-regulatory-program/)** — `2026-06-22` | `8 Pages`
-- `[`2026-10722`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-6/)** — `2026-05-29` | `12 Pages`
-
 ### [Transportation Department](https://www.indexdata.org/united-states/transportation-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/transportation-department/](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
 
@@ -1629,6 +1616,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-13182`]` **[Joint Request for Comment on Further Implementation of Portfolio Margining and Cross-Margining of Securities and Derivatives](https://www.indexdata.org/joint-request-for-comment-on-further-implementation-of-portfolio-margining-and-cross-margining-of-securities-and-derivatives/)** — `2026-06-30` | `5 Pages`
 - `[`2026-12743`]` **[Joint Request for Comment on Further Definition of “Swap” and “Security-Based Swap” and on Alternative Compliance](https://www.indexdata.org/joint-request-for-comment-on-further-definition-of-swap-and-security-based-swap-and-on-alternative-compliance/)** — `2026-06-24` | `5 Pages`
 - `[`2026-12742`]` **[Joint Request for Comment on Swap and Security-Based Swap Data Reporting](https://www.indexdata.org/joint-request-for-comment-on-swap-and-security-based-swap-data-reporting/)** — `2026-06-24` | `5 Pages`
+
+### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
+
+- `[`2026-17821`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program/)** — `2026-09-01` | `2 Pages`
+- `[`2026-17333`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-2/)** — `2026-08-25` | `8 Pages`
+- `[`2026-17055`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-3/)** — `2026-08-21` | `6 Pages`
+- `[`2026-16318`]` **[North Dakota Regulatory Program](https://www.indexdata.org/north-dakota-regulatory-program/)** — `2026-08-11` | `5 Pages`
+- `[`2026-16136`]` **[Ohio Regulatory Program](https://www.indexdata.org/ohio-regulatory-program/)** — `2026-08-07` | `35 Pages`
+- `[`2026-14245`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-5/)** — `2026-07-15` | `8 Pages`
+- `[`2026-14244`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-4/)** — `2026-07-15` | `6 Pages`
+- `[`2026-12482`]` **[West Virginia Regulatory Program](https://www.indexdata.org/west-virginia-regulatory-program/)** — `2026-06-22` | `8 Pages`
 
 ### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -1926,6 +1925,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2026-15824`]` **[Petition for Rulemaking of Matheus Garcia Pereira](https://www.indexdata.org/petition-for-rulemaking-of-matheus-garcia-pereira/)** — `2026-08-04` | `2 Pages`
 - `[`2026-15182`]` **[Petition for Rulemaking of the National Consumers League, Campaign for Fairer Gambling, the National Council for Problem Gambling, the Public Health Advocacy Institute, and Truth in Advertising, Inc.](https://www.indexdata.org/petition-for-rulemaking-of-the-national-consumers-league-campaign-for-fairer-gambling-the-national-council-for-problem-gambling-the-public-health-advocacy-institute-and-truth-in-advertising-inc/)** — `2026-07-28` | `2 Pages`
 
+### [Food And Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
+
+- `[`2026-19074`]` **[Medical Devices; Exemption From Premarket Notification: Radiology Computer-Aided Detection and/or Diagnosis Devices and Computer-Aided Triage and Notification Devices](https://www.indexdata.org/medical-devices-exemption-from-premarket-notification-radiology-computer-aided-detection-and-or-diagnosis-devices-and-computer-aided-triage-and-notification-devices/)** — `2026-09-17` | `3 Pages`
+- `[`2026-18612`]` **[Medical Devices; Cardiovascular Devices; Classification of the Cardiovascular Machine Learning-Based Notification Software](https://www.indexdata.org/medical-devices-cardiovascular-devices-classification-of-the-cardiovascular-machine-learning-based-notification-software/)** — `2026-09-11` | `3 Pages`
+- `[`2026-18433`]` **[Medical Devices; Cardiovascular Devices; Classification of the Mechanical Deviation Device for Esophageal Protection During Cardiac Ablation Procedures](https://www.indexdata.org/medical-devices-cardiovascular-devices-classification-of-the-mechanical-deviation-device-for-esophageal-protection-during-cardiac-ablation-procedures/)** — `2026-09-10` | `3 Pages`
+
 ### [Food and Nutrition Administration](https://www.indexdata.org/united-states/food-and-nutrition-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-nutrition-administration/](https://www.indexdata.org/united-states/food-and-nutrition-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-administration/feed/)
 
@@ -2048,12 +2054,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-me
 
 - `[`2026-17652`]` **[Requests for Arbitration Panels](https://www.indexdata.org/requests-for-arbitration-panels/)** — `2026-08-28` | `5 Pages`
 - `[`2026-15798`]` **[Requests for Arbitration Panels](https://www.indexdata.org/requests-for-arbitration-panels-2/)** — `2026-08-04` | `6 Pages`
-
-### [Food And Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-
-- `[`2026-18612`]` **[Medical Devices; Cardiovascular Devices; Classification of the Cardiovascular Machine Learning-Based Notification Software](https://www.indexdata.org/medical-devices-cardiovascular-devices-classification-of-the-cardiovascular-machine-learning-based-notification-software/)** — `2026-09-11` | `3 Pages`
-- `[`2026-18433`]` **[Medical Devices; Cardiovascular Devices; Classification of the Mechanical Deviation Device for Esophageal Protection During Cardiac Ablation Procedures](https://www.indexdata.org/medical-devices-cardiovascular-devices-classification-of-the-mechanical-deviation-device-for-esophageal-protection-during-cardiac-ablation-procedures/)** — `2026-09-10` | `3 Pages`
 
 ### [Industry And Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)

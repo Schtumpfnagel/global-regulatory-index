@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,304` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,310` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-18 05:00 UTC`
+**Last Automated Sync:** `2026-11-18 05:58 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,345` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,351` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,304)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,310)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -147,6 +147,10 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-PIPE-20060389_nts1_en`]` **[EIB Project Environmental Assessment: 20060389 Nts1](https://www.indexdata.org/eib-project-environmental-assessment-20060389-nts1/)** — `2025-04-15` | `2 Pages`
 - `[`EIB-PIPE-20060387_nts_en`]` **[EIB Project Environmental Assessment: 20060387 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20060387-non-technical-summary-nts/)** — `2025-04-15` | `191 Pages`
 - `[`EIB-PIPE-20060384_nts_en`]` **[EIB Project Environmental Assessment: 20060384 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20060384-non-technical-summary-nts/)** — `2025-04-15` | `18 Pages`
+- `[`EIB-PIPE-20060376_eia_en`]` **[EIB Project Environmental Assessment: 20060376 Environmental Impact Assessment (EIA)](https://www.indexdata.org/eib-project-environmental-assessment-20060376-environmental-impact-assessment-eia/)** — `2025-04-15` | `75 Pages`
+- `[`EIB-PIPE-20060375_eia_en`]` **[EIB Project Environmental Assessment: 20060375 Environmental Impact Assessment (EIA)](https://www.indexdata.org/eib-project-environmental-assessment-20060375-environmental-impact-assessment-eia/)** — `2025-04-15` | `315 Pages`
+- `[`EIB-PIPE-20060324_eis_en`]` **[EIB Project Environmental Assessment: 20060324 eis](https://www.indexdata.org/eib-project-environmental-assessment-20060324-eis/)** — `2025-04-15` | `282 Pages`
+- `[`EIB-PIPE-20060322_nts_en`]` **[EIB Project Environmental Assessment: 20060322 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20060322-non-technical-summary-nts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EVT-warsaw_programme_english`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_programme_en`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme-2/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_26112010_wisniewski_en`]` **[EIB Policy Conference: Warsaw 26112010 Wisniewski](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-wisniewski/)** — `2025-04-15` | `9 Pages`
@@ -473,6 +477,8 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-20160222_innovfin_seminar_scotland_presentation_en`]` **[EIB Policy Conference: 20160222 Innovfin Seminar Scotland Presentation](https://www.indexdata.org/eib-policy-conference-20160222-innovfin-seminar-scotland-presentation/)** — `2025-04-15` | `51 Pages`
 - `[`EIB-EVT-20160222_innovfin_seminar_scotland_case_study_presentation_ip_group_en`]` **[EIB Policy Conference: 20160222 Innovfin Seminar Scotland Case Study Presentation ip Group](https://www.indexdata.org/eib-policy-conference-20160222-innovfin-seminar-scotland-case-study-presentation-ip-group/)** — `2025-04-15` | `22 Pages`
 - `[`EIB-EVT-20160222_innovfin_seminar_scotland_case_study_presentation_gigaclear_en`]` **[EIB Policy Conference: 20160222 Innovfin Seminar Scotland Case Study Presentation Gigaclear](https://www.indexdata.org/eib-policy-conference-20160222-innovfin-seminar-scotland-case-study-presentation-gigaclear/)** — `2025-04-15` | `9 Pages`
+- `[`EIB-EVT-20160222_innovfin_seminar_scotland_case_study_presentation_en`]` **[EIB Policy Conference: 20160222 Innovfin Seminar Scotland Case Study Presentation](https://www.indexdata.org/eib-policy-conference-20160222-innovfin-seminar-scotland-case-study-presentation/)** — `2025-04-15` | `9 Pages`
+- `[`EIB-EVT-20160204_supporting_syria_and_the_region_hoyer_speech_en`]` **[EIB Policy Conference: 20160204 Supporting Syria and the Region Hoyer Speech](https://www.indexdata.org/eib-policy-conference-20160204-supporting-syria-and-the-region-hoyer-speech/)** — `2025-04-15` | `5 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1544,12 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-DOC-leuven-factsheet-en`]` **[EIB Policy Document: Leuven Factsheet](https://www.indexdata.org/eib-policy-document-leuven-factsheet/)** — `2025-04-14` | `2 Pages`
 - `[`EIB-DOC-jessica_udf_handbook_final_report_120712_en`]` **[JESSICA udf Handbook Final Report 120712](https://www.indexdata.org/jessica-udf-handbook-final-report-120712/)** — `2025-04-14` | `151 Pages`
 - `[`EIB-DOC-jessica_summary_of_key_opportunities_and_challenges_en`]` **[JESSICA Summary of key Opportunities and Challenges](https://www.indexdata.org/jessica-summary-of-key-opportunities-and-challenges/)** — `2025-04-14` | `27 Pages`
-- `[`EIB-DOC-jessica_strategic_udf_final_report_en`]` **[JESSICA Strategic udf Final Report](https://www.indexdata.org/jessica-strategic-udf-final-report/)** — `2025-04-14` | `17 Pages`
-- `[`EIB-DOC-jessica_strategic_udf_appendix4_en`]` **[JESSICA Strategic udf Appendix4](https://www.indexdata.org/jessica-strategic-udf-appendix4/)** — `2025-04-14` | `38 Pages`
-- `[`EIB-DOC-jessica_strategic_udf_appendix3a_en`]` **[JESSICA Strategic udf Appendix3a](https://www.indexdata.org/jessica-strategic-udf-appendix3a/)** — `2025-04-14` | `35 Pages`
-- `[`EIB-DOC-jessica_strategic_udf_appendix2a_en`]` **[JESSICA Strategic udf Appendix2a](https://www.indexdata.org/jessica-strategic-udf-appendix2a/)** — `2025-04-14` | `14 Pages`
-- `[`EIB-DOC-jessica_strategic_udf_appendix1_en`]` **[JESSICA Strategic udf Appendix1](https://www.indexdata.org/jessica-strategic-udf-appendix1/)** — `2025-04-14` | `55 Pages`
-- `[`EIB-DOC-jessica_stocktaking_final_report_en`]` **[JESSICA Stocktaking Final Report](https://www.indexdata.org/jessica-stocktaking-final-report/)** — `2025-04-14` | `153 Pages`
 
 ---
 

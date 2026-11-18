@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,466` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,470` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 05:00 UTC`
+**Last Automated Sync:** `2026-11-18 05:58 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`908` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`530` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`337` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`340` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -57,8 +57,8 @@
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,466)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,470)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -611,11 +611,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-01293`]` **[Establishment of Class E Airspace; Washburn, ND](https://www.indexdata.org/establishment-of-class-e-airspace-washburn-nd/)** — `2026-01-23` | `2 Pages`
 - `[`2026-01265`]` **[Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes](https://www.indexdata.org/airworthiness-directives-pilatus-aircraft-ltd-airplanes-11/)** — `2026-01-23` | `4 Pages`
 - `[`2026-01261`]` **[Revocation of Class E Airspace; Zuni, NM](https://www.indexdata.org/revocation-of-class-e-airspace-zuni-nm-2/)** — `2026-01-23` | `2 Pages`
-- `[`2026-01226`]` **[Flight Restrictions in the Vicinity of Ronald Reagan Washington National Airport (DCA)](https://www.indexdata.org/flight-restrictions-in-the-vicinity-of-ronald-reagan-washington-national-airport-dca/)** — `2026-01-23` | `8 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-10712`]` **[Significant New Use Rules on Certain Chemical Substances (25-2.5e)](https://www.indexdata.org/significant-new-use-rules-on-certain-chemical-substances-25-2-5e/)** — `2026-05-29` | `18 Pages`
+- `[`2026-10711`]` **[Propylene Oxide; Pesticide Tolerances](https://www.indexdata.org/propylene-oxide-pesticide-tolerances/)** — `2026-05-29` | `5 Pages`
+- `[`2026-10709`]` **[Bacillus Thuringiensis Cry1B.34.1, Bacillus Thuringiensis Cry1B.61.1 and Adiantum Trapeziforme var. Braziliense IPD083Cb Proteins; Pesticide Tolerances](https://www.indexdata.org/bacillus-thuringiensis-cry1b-34-1-bacillus-thuringiensis-cry1b-61-1-and-adiantum-trapeziforme-var-braziliense-ipd083cb-proteins-pesticide-tolerances/)** — `2026-05-29` | `5 Pages`
 - `[`2026-10643`]` **[Air Plan Approval; Ohio; Removal of Air Nuisance Rule](https://www.indexdata.org/air-plan-approval-ohio-removal-of-air-nuisance-rule/)** — `2026-05-28` | `7 Pages`
 - `[`2026-10642`]` **[Approval of Source-Specific Air Quality Implementation Plan; New York; Big Six Towers Inc.](https://www.indexdata.org/approval-of-source-specific-air-quality-implementation-plan-new-york-big-six-towers-inc-2/)** — `2026-05-28` | `4 Pages`
 - `[`2026-10641`]` **[Hazardous and Solid Waste Management System: Disposal of Coal Combustion Residuals From Electric Utilities; Federal CCR Permit Program; Reopening of Comment Period](https://www.indexdata.org/hazardous-and-solid-waste-management-system-disposal-of-coal-combustion-residuals-from-electric-utilities-federal-ccr-permit-program-reopening-of-comment-period/)** — `2026-05-28` | `3 Pages`
@@ -1516,6 +1518,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-03460`]` **[Form N-PORT Reporting](https://www.indexdata.org/form-n-port-reporting/)** — `2026-02-23` | `33 Pages`
 - `[`2026-03459`]` **[Investment Company Names Form N-PORT Reporting; Extension of Compliance Date](https://www.indexdata.org/investment-company-names-form-n-port-reporting-extension-of-compliance-date/)** — `2026-02-23` | `3 Pages`
 
+### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
+
+- `[`2026-10722`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-6/)** — `2026-05-29` | `12 Pages`
+- `[`2026-10202`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program/)** — `2026-05-21` | `5 Pages`
+- `[`2026-09024`]` **[Utah Regulatory Program](https://www.indexdata.org/utah-regulatory-program/)** — `2026-05-07` | `3 Pages`
+- `[`2026-06892`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program/)** — `2026-04-09` | `2 Pages`
+- `[`2026-06197`]` **[Backfilling and Grading](https://www.indexdata.org/backfilling-and-grading/)** — `2026-03-31` | `2 Pages`
+- `[`2026-06196`]` **[General Reclamation Requirements](https://www.indexdata.org/general-reclamation-requirements/)** — `2026-03-31` | `2 Pages`
+- `[`2026-03413`]` **[West Virginia Regulatory Program](https://www.indexdata.org/west-virginia-regulatory-program-2/)** — `2026-02-20` | `12 Pages`
+- `[`2026-03301`]` **[Rescission of the “Ten-Day Notices and Corrective Action for State Regulatory Program Issues” Rule, Issued April 9, 2024](https://www.indexdata.org/rescission-of-the-ten-day-notices-and-corrective-action-for-state-regulatory-program-issues-rule-issued-april-9-2024/)** — `2026-02-19` | `21 Pages`
+- `[`2026-02982`]` **[North Dakota Regulatory Program](https://www.indexdata.org/north-dakota-regulatory-program-2/)** — `2026-02-13` | `4 Pages`
+- `[`2026-02981`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-7/)** — `2026-02-13` | `11 Pages`
+- `[`2026-01622`]` **[Rescission of Portions of Permanent Program Performance Standards Regulating Subsidence Controls for Underground Mines](https://www.indexdata.org/rescission-of-portions-of-permanent-program-performance-standards-regulating-subsidence-controls-for-underground-mines/)** — `2026-01-27` | `2 Pages`
+- `[`2026-01570`]` **[Rescission of Portions of Permanent Program Performance Standards Related to Siltation Structures](https://www.indexdata.org/rescission-of-portions-of-permanent-program-performance-standards-related-to-siltation-structures/)** — `2026-01-27` | `2 Pages`
+
 ### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 
@@ -1576,35 +1594,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2026-04085`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations and Web General License 131A](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-and-web-general-license-131a/)** — `2026-03-02` | `2 Pages`
 - `[`2026-04083`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General License 131B](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-license-131b/)** — `2026-03-02` | `2 Pages`
 
-### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
-
-- `[`2026-10202`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program/)** — `2026-05-21` | `5 Pages`
-- `[`2026-09024`]` **[Utah Regulatory Program](https://www.indexdata.org/utah-regulatory-program/)** — `2026-05-07` | `3 Pages`
-- `[`2026-06892`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program/)** — `2026-04-09` | `2 Pages`
-- `[`2026-06197`]` **[Backfilling and Grading](https://www.indexdata.org/backfilling-and-grading/)** — `2026-03-31` | `2 Pages`
-- `[`2026-06196`]` **[General Reclamation Requirements](https://www.indexdata.org/general-reclamation-requirements/)** — `2026-03-31` | `2 Pages`
-- `[`2026-03413`]` **[West Virginia Regulatory Program](https://www.indexdata.org/west-virginia-regulatory-program-2/)** — `2026-02-20` | `12 Pages`
-- `[`2026-03301`]` **[Rescission of the “Ten-Day Notices and Corrective Action for State Regulatory Program Issues” Rule, Issued April 9, 2024](https://www.indexdata.org/rescission-of-the-ten-day-notices-and-corrective-action-for-state-regulatory-program-issues-rule-issued-april-9-2024/)** — `2026-02-19` | `21 Pages`
-- `[`2026-02982`]` **[North Dakota Regulatory Program](https://www.indexdata.org/north-dakota-regulatory-program-2/)** — `2026-02-13` | `4 Pages`
-- `[`2026-02981`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-7/)** — `2026-02-13` | `11 Pages`
-- `[`2026-01622`]` **[Rescission of Portions of Permanent Program Performance Standards Regulating Subsidence Controls for Underground Mines](https://www.indexdata.org/rescission-of-portions-of-permanent-program-performance-standards-regulating-subsidence-controls-for-underground-mines/)** — `2026-01-27` | `2 Pages`
-- `[`2026-01570`]` **[Rescission of Portions of Permanent Program Performance Standards Related to Siltation Structures](https://www.indexdata.org/rescission-of-portions-of-permanent-program-performance-standards-related-to-siltation-structures/)** — `2026-01-27` | `2 Pages`
-
-### [Census Bureau](https://www.indexdata.org/united-states/census-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/census-bureau/](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
-
-- `[`2026-10370`]` **[Foreign Trade Regulations (FTR): Clarification of Filing Requirements Regarding In-Transit Shipments and Other FTR Provisions; Correction](https://www.indexdata.org/foreign-trade-regulations-ftr-clarification-of-filing-requirements-regarding-in-transit-shipments-and-other-ftr-provisions-correction/)** — `2026-05-26` | `2 Pages`
-- `[`2026-06133`]` **[Streamlining the Census Bureau's Foreign Trade Regulations](https://www.indexdata.org/streamlining-the-census-bureaus-foreign-trade-regulations/)** — `2026-03-30` | `2 Pages`
-- `[`2026-03494`]` **[Age Search Service Fee Structure](https://www.indexdata.org/age-search-service-fee-structure/)** — `2026-02-23` | `3 Pages`
-- `[`2026-03384`]` **[Streamlining the Regulations Governing Requests for Special Census Services and Studies](https://www.indexdata.org/streamlining-the-regulations-governing-requests-for-special-census-services-and-studies/)** — `2026-02-20` | `2 Pages`
-- `[`2026-01308`]` **[Streamlining the Regulations Governing the Official Seal of the Census Bureau](https://www.indexdata.org/streamlining-the-regulations-governing-the-official-seal-of-the-census-bureau/)** — `2026-01-23` | `3 Pages`
-- `[`2026-01245`]` **[Removing Redundant Language From the Regulations Governing the Furnishing of Personal Census Data](https://www.indexdata.org/removing-redundant-language-from-the-regulations-governing-the-furnishing-of-personal-census-data/)** — `2026-01-23` | `2 Pages`
-- `[`2026-01244`]` **[Eliminating Unnecessary and Overly-Restrictive Regulations Related to the Release of Decennial Census Population Information](https://www.indexdata.org/eliminating-unnecessary-and-overly-restrictive-regulations-related-to-the-release-of-decennial-census-population-information/)** — `2026-01-23` | `2 Pages`
-- `[`2026-01242`]` **[Eliminating Regulations Contemplating Collaboration With USAID To Train Foreign Participants in Census Procedures and General Statistics](https://www.indexdata.org/eliminating-regulations-contemplating-collaboration-with-usaid-to-train-foreign-participants-in-census-procedures-and-general-statistics/)** — `2026-01-23` | `2 Pages`
-- `[`2026-01241`]` **[Removing Obsolete Regulations Governing the Cutoff Dates for Recognition of Boundary Changes for the 2010 Census](https://www.indexdata.org/removing-obsolete-regulations-governing-the-cutoff-dates-for-recognition-of-boundary-changes-for-the-2010-census/)** — `2026-01-23` | `2 Pages`
-- `[`2026-01239`]` **[Clarifying and Streamlining the Regulatory Procedures for Requesting a Challenge to the Census Bureau's Annual Population Estimates](https://www.indexdata.org/clarifying-and-streamlining-the-regulatory-procedures-for-requesting-a-challenge-to-the-census-bureaus-annual-population-estimates/)** — `2026-01-23` | `4 Pages`
-
 ### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 
@@ -1617,6 +1606,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2026-06027`]` **[Reducing Bureaucracy and Burden for Refugee Resettlement Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-refugee-resettlement-programs/)** — `2026-03-27` | `3 Pages`
 - `[`2026-05997`]` **[Reducing Bureaucracy and Burden for Human Services and Emergency Response Programs-Repatriation Program](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation-program-2/)** — `2026-03-27` | `4 Pages`
 - `[`2026-05994`]` **[Reducing Bureaucracy and Burden for Native American Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-native-american-programs-2/)** — `2026-03-27` | `4 Pages`
+
+### [Census Bureau](https://www.indexdata.org/united-states/census-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/census-bureau/](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
+
+- `[`2026-10370`]` **[Foreign Trade Regulations (FTR): Clarification of Filing Requirements Regarding In-Transit Shipments and Other FTR Provisions; Correction](https://www.indexdata.org/foreign-trade-regulations-ftr-clarification-of-filing-requirements-regarding-in-transit-shipments-and-other-ftr-provisions-correction/)** — `2026-05-26` | `2 Pages`
+- `[`2026-06133`]` **[Streamlining the Census Bureau's Foreign Trade Regulations](https://www.indexdata.org/streamlining-the-census-bureaus-foreign-trade-regulations/)** — `2026-03-30` | `2 Pages`
+- `[`2026-03494`]` **[Age Search Service Fee Structure](https://www.indexdata.org/age-search-service-fee-structure/)** — `2026-02-23` | `3 Pages`
+- `[`2026-03384`]` **[Streamlining the Regulations Governing Requests for Special Census Services and Studies](https://www.indexdata.org/streamlining-the-regulations-governing-requests-for-special-census-services-and-studies/)** — `2026-02-20` | `2 Pages`
+- `[`2026-01308`]` **[Streamlining the Regulations Governing the Official Seal of the Census Bureau](https://www.indexdata.org/streamlining-the-regulations-governing-the-official-seal-of-the-census-bureau/)** — `2026-01-23` | `3 Pages`
+- `[`2026-01245`]` **[Removing Redundant Language From the Regulations Governing the Furnishing of Personal Census Data](https://www.indexdata.org/removing-redundant-language-from-the-regulations-governing-the-furnishing-of-personal-census-data/)** — `2026-01-23` | `2 Pages`
+- `[`2026-01244`]` **[Eliminating Unnecessary and Overly-Restrictive Regulations Related to the Release of Decennial Census Population Information](https://www.indexdata.org/eliminating-unnecessary-and-overly-restrictive-regulations-related-to-the-release-of-decennial-census-population-information/)** — `2026-01-23` | `2 Pages`
+- `[`2026-01242`]` **[Eliminating Regulations Contemplating Collaboration With USAID To Train Foreign Participants in Census Procedures and General Statistics](https://www.indexdata.org/eliminating-regulations-contemplating-collaboration-with-usaid-to-train-foreign-participants-in-census-procedures-and-general-statistics/)** — `2026-01-23` | `2 Pages`
 
 ### [Commerce Department](https://www.indexdata.org/united-states/commerce-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commerce-department/](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
@@ -1720,16 +1721,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-
 - `[`2026-04630`]` **[Determination of Rates and Terms for Digital Performance of Sound Recordings and Making of Ephemeral Copies To Facilitate Those Performances (Web VI)](https://www.indexdata.org/determination-of-rates-and-terms-for-digital-performance-of-sound-recordings-and-making-of-ephemeral-copies-to-facilitate-those-performances-web-vi-4/)** — `2026-03-10` | `4 Pages`
 - `[`2026-04627`]` **[Determination of Rates and Terms for Digital Performance of Sound Recordings by New Subscription Services and Making of Ephemeral Copies To Facilitate Those Performances (NSS V)](https://www.indexdata.org/determination-of-rates-and-terms-for-digital-performance-of-sound-recordings-by-new-subscription-services-and-making-of-ephemeral-copies-to-facilitate-those-performances-nss-v/)** — `2026-03-10` | `4 Pages`
 
-### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
-
-- `[`2026-07772`]` **[Petition for Rulemaking of Andrew Gonzalez](https://www.indexdata.org/petition-for-rulemaking-of-andrew-gonzalez/)** — `2026-04-21` | `2 Pages`
-- `[`2026-07473`]` **[Rule on Unfair or Deceptive Fees in Online Food Delivery Services](https://www.indexdata.org/rule-on-unfair-or-deceptive-fees-in-online-food-delivery-services/)** — `2026-04-16` | `11 Pages`
-- `[`2026-04952`]` **[Rule Concerning the Use of Prenotification Negative Option Plans](https://www.indexdata.org/rule-concerning-the-use-of-prenotification-negative-option-plans/)** — `2026-03-13` | `8 Pages`
-- `[`2026-04907`]` **[Rule on Unfair or Deceptive Rental Housing Fee Practices](https://www.indexdata.org/rule-on-unfair-or-deceptive-rental-housing-fee-practices/)** — `2026-03-13` | `9 Pages`
-- `[`2026-02866`]` **[Revision of the Negative Option Rule, Withdrawal of the CARS Rule, Removal of the Non-Compete Rule To Conform These Rules to Federal Court Decisions](https://www.indexdata.org/revision-of-the-negative-option-rule-withdrawal-of-the-cars-rule-removal-of-the-non-compete-rule-to-conform-these-rules-to-federal-court-decisions/)** — `2026-02-12` | `4 Pages`
-- `[`2026-01230`]` **[Petition for Rulemaking of Andrew Gonzalez](https://www.indexdata.org/petition-for-rulemaking-of-andrew-gonzalez-2/)** — `2026-01-23` | `2 Pages`
-
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 
@@ -1798,6 +1789,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-b
 - `[`2026-04084`]` **[Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure; Extension of Comment Period](https://www.indexdata.org/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure-extension-of-comment-period/)** — `2026-03-02` | `2 Pages`
 - `[`2026-03723`]` **[Requirement To Provide Paper Statements in Certain Cases-Amendments to Electronic Disclosure Safe Harbors](https://www.indexdata.org/requirement-to-provide-paper-statements-in-certain-cases-amendments-to-electronic-disclosure-safe-harbors/)** — `2026-02-25` | `25 Pages`
 - `[`2026-01907`]` **[Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.indexdata.org/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure/)** — `2026-01-30` | `78 Pages`
+
+### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
+
+- `[`2026-07772`]` **[Petition for Rulemaking of Andrew Gonzalez](https://www.indexdata.org/petition-for-rulemaking-of-andrew-gonzalez/)** — `2026-04-21` | `2 Pages`
+- `[`2026-07473`]` **[Rule on Unfair or Deceptive Fees in Online Food Delivery Services](https://www.indexdata.org/rule-on-unfair-or-deceptive-fees-in-online-food-delivery-services/)** — `2026-04-16` | `11 Pages`
+- `[`2026-04952`]` **[Rule Concerning the Use of Prenotification Negative Option Plans](https://www.indexdata.org/rule-concerning-the-use-of-prenotification-negative-option-plans/)** — `2026-03-13` | `8 Pages`
+- `[`2026-04907`]` **[Rule on Unfair or Deceptive Rental Housing Fee Practices](https://www.indexdata.org/rule-on-unfair-or-deceptive-rental-housing-fee-practices/)** — `2026-03-13` | `9 Pages`
+- `[`2026-02866`]` **[Revision of the Negative Option Rule, Withdrawal of the CARS Rule, Removal of the Non-Compete Rule To Conform These Rules to Federal Court Decisions](https://www.indexdata.org/revision-of-the-negative-option-rule-withdrawal-of-the-cars-rule-removal-of-the-non-compete-rule-to-conform-these-rules-to-federal-court-decisions/)** — `2026-02-12` | `4 Pages`
 
 ### [Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-crimes-enforcement-network/](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
