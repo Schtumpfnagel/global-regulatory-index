@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/belgium/feed/](https://www.indexdata.org/belgium/feed/)  
 **Wikidata Sovereign Entity:** [`Q31`](https://www.wikidata.org/wiki/Q31)  
 **Governing Open-Government Framework:** *Koninklijk besluit van 2 juni 2019 betreffende het hergebruik van overheidsinformatie & Code de droit économique / Wetboek van economisch recht, Art. XI.172*  
-**Total Indexed Dossiers in Belgium:** `105` across `32` issuing authorities  
-**Last Automated Sync:** `2026-11-18 21:42 UTC`
+**Total Indexed Dossiers in Belgium:** `107` across `32` issuing authorities  
+**Last Automated Sync:** `2026-11-18 22:49 UTC`
 
 ---
 
 ## Issuing Authorities in Belgium (32 Authorities)
 
-- **[Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
-- **[Royal Belgian Institute for Space Aeronomy (BIRA-IASB)](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/feed/)
+- **[Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
+- **[Royal Belgian Institute for Space Aeronomy (BIRA-IASB)](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/feed/)
 - **[Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)
 - **[Royal Belgian Institute of Natural Sciences (RBINS) — Geological Survey of Belgium](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/) | [RSS Feed](https://www.indexdata.org/belgium/royal-belgian-institute-of-natural-sciences-rbins-geological-survey-of-belgium/feed/)
 - **[RIZIV](https://www.indexdata.org/belgium/riziv/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/belgium/riziv/) | [RSS Feed](https://www.indexdata.org/belgium/riziv/feed/)
@@ -47,7 +47,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–105 of 105)
+## Indexed Statutory & Regulatory Dossiers (Records 1–107 of 107)
 
 ### [Sciensano (Belgian Institute for Health)](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/) | [RSS Feed](https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/feed/)
@@ -83,6 +83,7 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/sciensano-belgia
 - `[`BE-ODP-ee80bd1b-3ecc-4d66-a101-21d6d8145561`]` **[Unravelling the long-term and indirect health impact of the COVID-19 crisis in Belgium (HELICON)](https://www.indexdata.org/unravelling-the-long-term-and-indirect-health-impact-of-the-covid-19-crisis-in-belgium-helicon/)** — `2026-08-11` | `10 Pages`
 - `[`BE-ODP-b0359539-7c5a-465a-94ff-fb66f639c843`]` **[Surveillance of infectious diseases in children by paediatricians and GPs: Acute Flaccid Paralysis](https://www.indexdata.org/surveillance-of-infectious-diseases-in-children-by-paediatricians-and-gps-acute-flaccid-paralysis/)** — `2026-08-11` | `16 Pages`
 - `[`BE-ODP-9de33506-3d74-4e85-8538-4f9e91ec1778`]` **[Surveillance of infectious diseases in children by paediatricians and GPs: Mumps](https://www.indexdata.org/surveillance-of-infectious-diseases-in-children-by-paediatricians-and-gps-mumps/)** — `2026-08-11` | `16 Pages`
+- `[`BE-ODP-6b663c64-7bc2-4482-bd4b-1d24e86e0a58`]` **[Surveillance of infectious diseases in children by paediatricians and GPs](https://www.indexdata.org/surveillance-of-infectious-diseases-in-children-by-paediatricians-and-gps/)** — `2026-08-11` | `16 Pages`
 - `[`BE-OA-W4210328293`]` **[A Journey of Evaluation and Impact Measurement](https://www.indexdata.org/a-journey-of-evaluation-and-impact-measurement/)** — `2021-01-01` | `36 Pages`
 
 ### [Royal Belgian Institute for Space Aeronomy (BIRA-IASB)](https://www.indexdata.org/belgium/royal-belgian-institute-for-space-aeronomy-bira-iasb/)
@@ -95,6 +96,7 @@ Canonical Authority Archive: [https://www.indexdata.org/belgium/royal-belgian-in
 - `[`BE-ODP-3b34d471-3bde-4205-a592-967561b9cc84`]` **[SPENVIS User's Workshop 2013](https://www.indexdata.org/spenvis-users-workshop-2013/)** — `2026-10-23` | `12 Pages`
 - `[`BE-ODP-20de6d59-55a3-41b7-9501-c5f2f3366964`]` **[SPENVIS User's Workshop 2010](https://www.indexdata.org/spenvis-users-workshop-2010/)** — `2026-10-22` | `27 Pages`
 - `[`BE-BIRA-9159da72-ee47-431e-baeb-3a93ce1bd527`]` **[BIRA-IASB Data Repository Policy](https://www.indexdata.org/bira-iasb-data-repository-policy/)** — `2026-06-16` | `4 Pages`
+- `[`BE-BIRA-bbd59990-834b-4b20-8dac-1b621f298f30`]` **[CLIMB annual report 2021](https://www.indexdata.org/climb-annual-report-2021/)** — `2026-05-18` | `23 Pages`
 
 ### [Flemish Radio and Television Broadcasting Organisation (VRT)](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/)
 Canonical Authority Archive: [https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/) | [RSS Feed](https://www.indexdata.org/belgium/flemish-radio-and-television-broadcasting-organisation-vrt/feed/)

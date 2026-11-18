@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `423` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-18 21:42 UTC`
+**Total Indexed Dossiers in Philippines:** `429` across `11` issuing authorities  
+**Last Automated Sync:** `2026-11-18 22:49 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (11 Authorities)
 
-- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`128` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
+- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`134` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`66` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
@@ -26,11 +26,17 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–423 of 423)
+## Indexed Statutory & Regulatory Dossiers (Records 1–429 of 429)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 
+- `[`PH-DA-114201`]` **[Price Monitoring November 18, 2026](https://www.indexdata.org/price-monitoring-november-18-2026/)** — `2026-11-18` | `6 Pages`
+- `[`PH-DA-114200`]` **[Price Monitoring November 17, 2026](https://www.indexdata.org/price-monitoring-november-17-2026/)** — `2026-11-18` | `6 Pages`
+- `[`PH-DA-114197`]` **[Daily Cigarette Price Monitoring November 18, 2026](https://www.indexdata.org/daily-cigarette-price-monitoring-november-18-2026/)** — `2026-11-18` | `15 Pages`
+- `[`PH-DA-114196`]` **[Daily Cigarette Price Monitoring November 17, 2026](https://www.indexdata.org/daily-cigarette-price-monitoring-november-17-2026/)** — `2026-11-18` | `15 Pages`
+- `[`PH-DA-114195`]` **[Daily Price Index November 18, 2026](https://www.indexdata.org/daily-price-index-november-18-2026/)** — `2026-11-18` | `12 Pages`
+- `[`PH-DA-114194`]` **[Daily Price Index November 17, 2026](https://www.indexdata.org/daily-price-index-november-17-2026/)** — `2026-11-18` | `12 Pages`
 - `[`PH-DA-114188`]` **[November-18-2026-Cigarette-Prevailing-Retail-Prices-in-NCR](https://www.indexdata.org/november-18-2026-cigarette-prevailing-retail-prices-in-ncr/)** — `2026-11-18` | `15 Pages`
 - `[`PH-DA-114186`]` **[November 18, 2026 DPI AFC](https://www.indexdata.org/november-18-2026-dpi-afc/)** — `2026-11-18` | `12 Pages`
 - `[`PH-DA-114163`]` **[November-17-2026-Cigarette-Prevailing-Retail-Prices-in-NCR](https://www.indexdata.org/november-17-2026-cigarette-prevailing-retail-prices-in-ncr/)** — `2026-11-17` | `15 Pages`
