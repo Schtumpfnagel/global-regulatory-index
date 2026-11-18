@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,995` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,996` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-18 10:00 UTC`
+**Last Automated Sync:** `2026-11-18 10:59 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`508` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`487` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`488` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,995)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 6,996)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-81-6-Sect.-8`]` **[Proposed programme budget for 2027 — Part 2, — International justice and law — Section 8, — Legal affairs — Programme 6, — Legal affairs](https://www.indexdata.org/a-81-6-sect-8-proposed-programme-budget-for-2027-part-2-international-justice-and-law-section-8-legal-affairs-programme-6-legal-affa/)** — `2026-04-20` | `91 Pages`
 - `[`UN-A-80-711`]` **[Letter dated 20 April 2026 from the Permanent Representative of Estonia to the United Nations addressed to the President of the General Assembly](https://www.indexdata.org/a-80-711-letter-dated-20-april-2026-from-the-permanent-representative-of-estonia-to-the-united-nations-addressed-to-the-president-of-the-general-assembly/)** — `2026-04-20` | `2 Pages`
 - `[`UN-A-80-710`]` **[Letter dated 17 April 2026 from the Permanent Representative of the Russian Federation to the United Nations addressed to the Secretary-General](https://www.indexdata.org/a-80-710-letter-dated-17-april-2026-from-the-permanent-representative-of-the-russian-federation-to-the-united-nations-addressed-to-the-secretary-general/)** — `2026-04-20` | `2 Pages`
 - `[`UN-A-80-604-Add.8`]` **[Proposed budgets for the periods from 1 October 2025 to 30 June 2026 and from 1 July 2026 to 30 June 2027 for the United Nations Support Office in Haiti — report of the Advisory Committee on Administrative and Budgetary Questions](https://www.indexdata.org/a-80-604-add-8-proposed-budgets-for-the-periods-from-1-october-2025-to-30-june-2026-and-from-1-july-2026-to-30-june-2027-for-the-united-nations-support-office-in-haiti-report-of-the-adviso/)** — `2026-04-20` | `22 Pages`
@@ -1228,7 +1229,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 - `[`UN-S-2026-36`]` **[Letter dated 16 January 2026 from the Secretary-General addressed to the President of the Security Council](https://www.indexdata.org/s-2026-36-letter-dated-16-january-2026-from-the-secretary-general-addressed-to-the-president-of-the-security-council/)** — `2026-01-20` | `5 Pages`
 - `[`UN-S-2026-35`]` **[Letter dated 16 January 2026 from the Permanent Representative of the Bolivarian Republic of Venezuela to the United Nations addressed to the President of the Security Council](https://www.indexdata.org/s-2026-35-letter-dated-16-january-2026-from-the-permanent-representative-of-the-bolivarian-republic-of-venezuela-to-the-united-nations-addressed-to-the-president-of-the-security-council/)** — `2026-01-19` | `2 Pages`
 - `[`UN-S-2026-32`]` **[Letter dated 14 January 2026 from the Secretary-General addressed to the President of the Security Council](https://www.indexdata.org/s-2026-32-letter-dated-14-january-2026-from-the-secretary-general-addressed-to-the-president-of-the-security-council/)** — `2026-01-15` | `20 Pages`
-- `[`UN-S-2026-31`]` **[United Nations Integrated Office in Haiti — report of the Secretary-General](https://www.indexdata.org/s-2026-31-united-nations-integrated-office-in-haiti-report-of-the-secretary-general/)** — `2026-01-15` | `27 Pages`
 
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)

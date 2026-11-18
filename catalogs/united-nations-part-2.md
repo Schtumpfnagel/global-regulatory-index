@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,995` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,996` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-18 10:00 UTC`
+**Last Automated Sync:** `2026-11-18 10:59 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`508` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`487` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`488` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,995)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 6,996)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -818,7 +818,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-62-8`]` **[Report of the Working Group on the Universal Periodic Review — Rwanda](https://www.indexdata.org/a-hrc-62-8-report-of-the-working-group-on-the-universal-periodic-review-rwanda/)** — `2026-04-20` | `26 Pages`
 - `[`UN-A-HRC-62-66-Add.1`]` **[Visit to Thailand — report of the Special Rapporteur on the Right of Everyone to the Enjoyment of the Highest Attainable Standard of Physical and Mental Health, Tlaleng Mofokeng](https://www.indexdata.org/a-hrc-62-66-add-1-visit-to-thailand-report-of-the-special-rapporteur-on-the-right-of-everyone-to-the-enjoyment-of-the-highest-attainable-standard-of-physical-and-mental-health-tlaleng-mof/)** — `2026-04-20` | `16 Pages`
 - `[`UN-A-HRC-61-62`]` **[Report of the Independent International Commission of Inquiry on the Syrian Arab Republic](https://www.indexdata.org/a-hrc-61-62-report-of-the-independent-international-commission-of-inquiry-on-the-syrian-arab-republic/)** — `2026-04-20` | `47 Pages`
-- `[`UN-A-81-6-Sect.-8`]` **[Proposed programme budget for 2027 — Part 2, — International justice and law — Section 8, — Legal affairs — Programme 6, — Legal affairs](https://www.indexdata.org/a-81-6-sect-8-proposed-programme-budget-for-2027-part-2-international-justice-and-law-section-8-legal-affairs-programme-6-legal-affa/)** — `2026-04-20` | `91 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -1144,6 +1143,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-2026-541`]` **[Identical letters dated 1 July 2026 from the Permanent Representative of Bahrain to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-541-identical-letters-dated-1-july-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-07-01` | `9 Pages`
 - `[`UN-S-2026-538`]` **[Identical letters dated 30 June 2026 from the Chargé d'affaires a.i. of the Permanent Mission of Kuwait to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-538-identical-letters-dated-30-june-2026-from-the-charge-daffaires-a-i-of-the-permanent-mission-of-kuwait-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the/)** — `2026-07-01` | `2 Pages`
 - `[`UN-S-2026-535`]` **[Identical letters dated 30 June 2026 from the Permanent Representative of Iraq to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-535-identical-letters-dated-30-june-2026-from-the-permanent-representative-of-iraq-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-07-01` | `4 Pages`
 - `[`UN-S-2026-530`]` **[Identical letters dated 27 June 2026 from the Permanent Representative of Bahrain to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-530-identical-letters-dated-27-june-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-07-01` | `3 Pages`
