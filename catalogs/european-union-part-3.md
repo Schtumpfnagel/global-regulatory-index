@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,387` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,392` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-18 18:55 UTC`
+**Last Automated Sync:** `2026-11-18 19:56 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,428` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,433` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,387)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,392)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -199,6 +199,9 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-PIPE-20010071_nts_en`]` **[EIB Project Environmental Assessment: 20010071 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20010071-non-technical-summary-nts/)** — `2025-04-15` | `103 Pages`
 - `[`EIB-PIPE-20010071_nts2_en`]` **[EIB Project Environmental Assessment: 20010071 Nts2](https://www.indexdata.org/eib-project-environmental-assessment-20010071-nts2/)** — `2025-04-15` | `193 Pages`
 - `[`EIB-PIPE-20010071_nts1_en`]` **[EIB Project Environmental Assessment: 20010071 Nts1](https://www.indexdata.org/eib-project-environmental-assessment-20010071-nts1/)** — `2025-04-15` | `50 Pages`
+- `[`EIB-PIPE-19990126_nts_en`]` **[EIB Project Environmental Assessment: 19990126 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-19990126-non-technical-summary-nts/)** — `2025-04-15` | `15 Pages`
+- `[`EIB-PIPE-1819_NTS_en`]` **[EIB Project Environmental Assessment: 1819 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-1819-non-technical-summary-nts/)** — `2025-04-15` | `16 Pages`
+- `[`EIB-PIPE-1754_nts_stratford_en`]` **[EIB Project Environmental Assessment: 1754 Non-Technical Summary (NTS) Stratford](https://www.indexdata.org/eib-project-environmental-assessment-1754-non-technical-summary-nts-stratford/)** — `2025-04-15` | `8 Pages`
 - `[`EIB-EVT-warsaw_programme_english`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_programme_en`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme-2/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_26112010_wisniewski_en`]` **[EIB Policy Conference: Warsaw 26112010 Wisniewski](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-wisniewski/)** — `2025-04-15` | `9 Pages`
@@ -556,6 +559,8 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-20150323_brussels_agriculture_rural_development_financial_backing_en`]` **[EIB Policy Conference: 20150323 Brussels Agriculture Rural Development Financial Backing](https://www.indexdata.org/eib-policy-conference-20150323-brussels-agriculture-rural-development-financial-backing/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-20150319_berlin_investment_partner_neighbouring_countries_ruettgers_en`]` **[EIB Policy Conference: 20150319 Berlin Investment Partner Neighbouring Countries Ruettgers](https://www.indexdata.org/eib-policy-conference-20150319-berlin-investment-partner-neighbouring-countries-ruettgers/)** — `2025-04-15` | `26 Pages`
 - `[`EIB-EVT-20150319_berlin_investment_partner_neighbouring_countries_laloux_en`]` **[EIB Policy Conference: 20150319 Berlin Investment Partner Neighbouring Countries Laloux](https://www.indexdata.org/eib-policy-conference-20150319-berlin-investment-partner-neighbouring-countries-laloux/)** — `2025-04-15` | `10 Pages`
+- `[`EIB-EVT-20150319_berlin_investment_partner_neighbouring_countries_kerpen_en`]` **[EIB Policy Conference: 20150319 Berlin Investment Partner Neighbouring Countries Kerpen](https://www.indexdata.org/eib-policy-conference-20150319-berlin-investment-partner-neighbouring-countries-kerpen/)** — `2025-04-15` | `18 Pages`
+- `[`EIB-EVT-20150303_econ_conference_vujcic_en`]` **[EIB Policy Conference: 20150303 Econ Conference Vujcic](https://www.indexdata.org/eib-policy-conference-20150303-econ-conference-vujcic/)** — `2025-04-15` | `14 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1545,11 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EFS-economic_investment_report_2019_en`]` **[EIB Economics Study: Economic Investment Report 2019](https://www.indexdata.org/eib-economics-study-economic-investment-report-2019/)** — `2025-04-14` | `440 Pages`
 - `[`EIB-EFS-economic_investment_report_2018_key_findings_en`]` **[EIB Economics Study: Economic Investment Report 2018 key Findings](https://www.indexdata.org/eib-economics-study-economic-investment-report-2018-key-findings/)** — `2025-04-14` | `28 Pages`
 - `[`EIB-EFS-economic_investment_report_2018_en`]` **[EIB Economics Study: Economic Investment Report 2018](https://www.indexdata.org/eib-economics-study-economic-investment-report-2018/)** — `2025-04-14` | `412 Pages`
-- `[`EIB-EFS-economic_investment_report_2018_appendices_chapter_4_en`]` **[EIB Economics Study: Economic Investment Report 2018 Appendices Chapter 4](https://www.indexdata.org/eib-economics-study-economic-investment-report-2018-appendices-chapter-4/)** — `2025-04-14` | `6 Pages`
-- `[`EIB-EFS-economic_investment_report_2017_key_findings_en`]` **[EIB Economics Study: Economic Investment Report 2017 key Findings](https://www.indexdata.org/eib-economics-study-economic-investment-report-2017-key-findings/)** — `2025-04-14` | `24 Pages`
-- `[`EIB-EFS-economic_investment_report_2017_en`]` **[EIB Economics Study: Economic Investment Report 2017](https://www.indexdata.org/eib-economics-study-economic-investment-report-2017/)** — `2025-04-14` | `396 Pages`
-- `[`EIB-EFS-econ_synthesis_report_psf_and_the_role_of_rbi_en`]` **[EIB Economics Study: Econ Synthesis Report psf and the Role of rbi](https://www.indexdata.org/eib-economics-study-econ-synthesis-report-psf-and-the-role-of-rbi/)** — `2025-04-14` | `30 Pages`
-- `[`EIB-EFS-econ_study_small_and_medium_entrepreneurship_in_russia_en`]` **[EIB Economics Study: Econ Study Small and Medium Entrepreneurship in Russia](https://www.indexdata.org/eib-economics-study-econ-study-small-and-medium-entrepreneurship-in-russia/)** — `2025-04-14` | `58 Pages`
 
 ---
 
