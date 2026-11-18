@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,364` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,370` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-18 14:45 UTC`
+**Last Automated Sync:** `2026-11-18 16:10 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,405` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,411` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,364)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,370)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -185,6 +185,10 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-PIPE-20040443_nts_en`]` **[EIB Project Environmental Assessment: 20040443 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20040443-non-technical-summary-nts/)** — `2025-04-15` | `8 Pages`
 - `[`EIB-PIPE-20040443_nts6_en`]` **[EIB Project Environmental Assessment: 20040443 Nts6](https://www.indexdata.org/eib-project-environmental-assessment-20040443-nts6/)** — `2025-04-15` | `5 Pages`
 - `[`EIB-PIPE-20040443_nts5_en`]` **[EIB Project Environmental Assessment: 20040443 Nts5](https://www.indexdata.org/eib-project-environmental-assessment-20040443-nts5/)** — `2025-04-15` | `6 Pages`
+- `[`EIB-PIPE-20040443_nts4_en`]` **[EIB Project Environmental Assessment: 20040443 Nts4](https://www.indexdata.org/eib-project-environmental-assessment-20040443-nts4/)** — `2025-04-15` | `8 Pages`
+- `[`EIB-PIPE-20040443_nts3_en`]` **[EIB Project Environmental Assessment: 20040443 Nts3](https://www.indexdata.org/eib-project-environmental-assessment-20040443-nts3/)** — `2025-04-15` | `14 Pages`
+- `[`EIB-PIPE-20040443_nts2_en`]` **[EIB Project Environmental Assessment: 20040443 Nts2](https://www.indexdata.org/eib-project-environmental-assessment-20040443-nts2/)** — `2025-04-15` | `7 Pages`
+- `[`EIB-PIPE-20040443_nts1_en`]` **[EIB Project Environmental Assessment: 20040443 Nts1](https://www.indexdata.org/eib-project-environmental-assessment-20040443-nts1/)** — `2025-04-15` | `25 Pages`
 - `[`EIB-EVT-warsaw_programme_english`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_programme_en`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme-2/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_26112010_wisniewski_en`]` **[EIB Policy Conference: Warsaw 26112010 Wisniewski](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-wisniewski/)** — `2025-04-15` | `9 Pages`
@@ -533,6 +537,8 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-20150612_innovfin_ljubljana_bank_workshop_presentation_en`]` **[EIB Policy Conference: 20150612 Innovfin Ljubljana Bank Workshop Presentation](https://www.indexdata.org/eib-policy-conference-20150612-innovfin-ljubljana-bank-workshop-presentation/)** — `2025-04-15` | `28 Pages`
 - `[`EIB-EVT-20150611_innovfin_zagreb_presentation_en`]` **[EIB Policy Conference: 20150611 Innovfin Zagreb Presentation](https://www.indexdata.org/eib-policy-conference-20150611-innovfin-zagreb-presentation/)** — `2025-04-15` | `37 Pages`
 - `[`EIB-EVT-20150611_innovfin_zagreb_corporate_workshop_presentation_en`]` **[EIB Policy Conference: 20150611 Innovfin Zagreb Corporate Workshop Presentation](https://www.indexdata.org/eib-policy-conference-20150611-innovfin-zagreb-corporate-workshop-presentation/)** — `2025-04-15` | `22 Pages`
+- `[`EIB-EVT-20150611_innovfin_zagreb_bank_workshop_presentation_en`]` **[EIB Policy Conference: 20150611 Innovfin Zagreb Bank Workshop Presentation](https://www.indexdata.org/eib-policy-conference-20150611-innovfin-zagreb-bank-workshop-presentation/)** — `2025-04-15` | `28 Pages`
+- `[`EIB-EVT-20150420_katowice_eec_2015_agenda_en`]` **[EIB Policy Conference: 20150420 Katowice eec 2015 Agenda](https://www.indexdata.org/eib-policy-conference-20150420-katowice-eec-2015-agenda/)** — `2025-04-15` | `37 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1544,12 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EFS-assessment_of_financing_needs_of_smes_serbia_en`]` **[EIB Economics Study: Assessment of Financing Needs of SMEs Serbia](https://www.indexdata.org/eib-economics-study-assessment-of-financing-needs-of-smes-serbia/)** — `2025-04-14` | `40 Pages`
 - `[`EIB-EFS-assessment_of_financing_needs_of_smes_montenegro_en`]` **[EIB Economics Study: Assessment of Financing Needs of SMEs Montenegro](https://www.indexdata.org/eib-economics-study-assessment-of-financing-needs-of-smes-montenegro/)** — `2025-04-14` | `40 Pages`
 - `[`EIB-EFS-assessment_of_financing_needs_of_smes_kosovo_en`]` **[EIB Economics Study: Assessment of Financing Needs of SMEs Kosovo](https://www.indexdata.org/eib-economics-study-assessment-of-financing-needs-of-smes-kosovo/)** — `2025-04-14` | `38 Pages`
-- `[`EIB-EFS-assessment_of_financing_needs_of_smes_in_the_western_balkans_synthesis_en`]` **[EIB Economics Study: Assessment of Financing Needs of SMEs in the Western Balkans Synthesis](https://www.indexdata.org/eib-economics-study-assessment-of-financing-needs-of-smes-in-the-western-balkans-synthesis/)** — `2025-04-14` | `42 Pages`
-- `[`EIB-EFS-assessment_of_financing_needs_of_smes_fyrom_en`]` **[EIB Economics Study: Assessment of Financing Needs of SMEs Fyrom](https://www.indexdata.org/eib-economics-study-assessment-of-financing-needs-of-smes-fyrom/)** — `2025-04-14` | `48 Pages`
-- `[`EIB-EFS-assessment_of_financing_needs_of_smes_bosnia_herzegovina_en`]` **[EIB Economics Study: Assessment of Financing Needs of SMEs Bosnia Herzegovina](https://www.indexdata.org/eib-economics-study-assessment-of-financing-needs-of-smes-bosnia-herzegovina/)** — `2025-04-14` | `40 Pages`
-- `[`EIB-EFS-assessment_of_financing_needs_of_smes_albania_en`]` **[EIB Economics Study: Assessment of Financing Needs of SMEs Albania](https://www.indexdata.org/eib-economics-study-assessment-of-financing-needs-of-smes-albania/)** — `2025-04-14` | `48 Pages`
-- `[`EIB-EFS-assessing_the_macroeconomic_impact_of_the_eib_group_en`]` **[Assessing the Macroeconomic Impact of the EIB Group](https://www.indexdata.org/assessing-the-macroeconomic-impact-of-the-eib-group/)** — `2025-04-14` | `50 Pages`
-- `[`EIB-EFS-2013_11_14_luxembourg_conference_economics_background_material_en`]` **[EIB Economics Study: 2013 11 14 Luxembourg Conference Economics Background Material](https://www.indexdata.org/eib-economics-study-2013-11-14-luxembourg-conference-economics-background-material/)** — `2025-04-14` | `50 Pages`
 
 ---
 
