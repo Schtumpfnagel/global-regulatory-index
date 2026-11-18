@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q148`](https://www.wikidata.org/wiki/Q148)  
 **Governing Open-Government Framework:** *Copyright Law of the PRC, Art. 5(1)*  
 **Total Indexed Dossiers in China:** `40` across `20` issuing authorities  
-**Last Automated Sync:** `2026-11-18 00:56 UTC`
+**Last Automated Sync:** `2026-11-18 01:57 UTC`
 
 ---
 
