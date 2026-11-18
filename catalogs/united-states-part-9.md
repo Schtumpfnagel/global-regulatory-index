@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,498` across `242` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,499` across `242` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 12:02 UTC`
+**Last Automated Sync:** `2026-11-18 13:00 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`343` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`344` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -258,7 +258,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,498)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,499)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1514,22 +1514,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-p
 - `[`2023-23898`]` **[Safety Standard Addressing Blade-Contact Injuries on Table Saws](https://www.indexdata.org/safety-standard-addressing-blade-contact-injuries-on-table-saws/)** — `2023-11-01` | `31 Pages`
 - `[`2023-23655`]` **[Portable Fuel Container Safety Act Regulation](https://www.indexdata.org/portable-fuel-container-safety-act-regulation-2/)** — `2023-10-31` | `6 Pages`
 
-### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
-
-- `[`2024-04117`]` **[Foreign Boards of Trade](https://www.indexdata.org/foreign-boards-of-trade-2/)** — `2024-03-01` | `12 Pages`
-- `[`2024-04107`]` **[Regulations To Address Margin Adequacy and To Account for the Treatment of Separate Accounts by Futures Commission Merchants](https://www.indexdata.org/regulations-to-address-margin-adequacy-and-to-account-for-the-treatment-of-separate-accounts-by-futures-commission-merchants-2/)** — `2024-03-01` | `52 Pages`
-- `[`2024-02234`]` **[Protection of Clearing Member Funds Held by Derivatives Clearing Organizations](https://www.indexdata.org/protection-of-clearing-member-funds-held-by-derivatives-clearing-organizations/)** — `2024-02-06` | `2 Pages`
-- `[`2024-02070`]` **[Notice of Proposed Order and Request for Comment on an Application for a Capital Comparability Determination Submitted on Behalf of Nonbank Swap Dealers Subject to Capital and Financial Reporting Requirements of the United Kingdom and Regulated by the United Kingdom Prudential Regulation Authority](https://www.indexdata.org/notice-of-proposed-order-and-request-for-comment-on-an-application-for-a-capital-comparability-determination-submitted-on-behalf-of-nonbank-swap-dealers-subject-to-capital-and-financial-reporting-requ/)** — `2024-02-05` | `38 Pages`
-- `[`2024-01684`]` **[Privacy Act Regulations](https://www.indexdata.org/privacy-act-regulations-4/)** — `2024-02-02` | `9 Pages`
-- `[`2024-01341`]` **[Annual Adjustment of Civil Monetary Penalties To Reflect Inflation-2024](https://www.indexdata.org/annual-adjustment-of-civil-monetary-penalties-to-reflect-inflation-2024/)** — `2024-01-24` | `4 Pages`
-- `[`2023-28745`]` **[Operational Resilience Framework for Futures Commission Merchants, Swap Dealers, and Major Swap Participants](https://www.indexdata.org/operational-resilience-framework-for-futures-commission-merchants-swap-dealers-and-major-swap-participants/)** — `2024-01-24` | `63 Pages`
-- `[`2023-28649`]` **[Capital and Financial Reporting Requirements for Swap Dealers and Major Swap Participants](https://www.indexdata.org/capital-and-financial-reporting-requirements-for-swap-dealers-and-major-swap-participants-2/)** — `2024-01-16` | `28 Pages`
-- `[`2023-28767`]` **[Protection of Clearing Member Funds Held by Derivatives Clearing Organizations](https://www.indexdata.org/protection-of-clearing-member-funds-held-by-derivatives-clearing-organizations-2/)** — `2024-01-03` | `22 Pages`
-- `[`2023-28350`]` **[Real-Time Public Reporting Requirements and Swap Data Recordkeeping and Reporting Requirements](https://www.indexdata.org/real-time-public-reporting-requirements-and-swap-data-recordkeeping-and-reporting-requirements/)** — `2023-12-28` | `35 Pages`
-- `[`2023-24774`]` **[Investment of Customer Funds by Futures Commission Merchants and Derivatives Clearing Organizations](https://www.indexdata.org/investment-of-customer-funds-by-futures-commission-merchants-and-derivatives-clearing-organizations-2/)** — `2023-11-21` | `57 Pages`
-- `[`2023-23821`]` **[Fees for Reviews of the Rule Enforcement Programs of Designated Contract Markets and Registered Futures Associations](https://www.indexdata.org/fees-for-reviews-of-the-rule-enforcement-programs-of-designated-contract-markets-and-registered-futures-associations-2/)** — `2023-10-30` | `3 Pages`
-
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
 
@@ -1577,6 +1561,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2023-26348`]` **[30-Day Notification Requirement Prior to Termination of Lease for Nonpayment of Rent](https://www.indexdata.org/30-day-notification-requirement-prior-to-termination-of-lease-for-nonpayment-of-rent-3/)** — `2023-12-01` | `11 Pages`
 - `[`2023-24236`]` **[Section 202 Direct Loan Technical Amendments](https://www.indexdata.org/section-202-direct-loan-technical-amendments/)** — `2023-11-02` | `5 Pages`
 - `[`2023-23678`]` **[Removing Criminal Conviction Restrictions for Testers in FHIP- and FHAP-Funded Testing Programs](https://www.indexdata.org/removing-criminal-conviction-restrictions-for-testers-in-fhip-and-fhap-funded-testing-programs/)** — `2023-10-31` | `6 Pages`
+
+### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
+
+- `[`2024-04117`]` **[Foreign Boards of Trade](https://www.indexdata.org/foreign-boards-of-trade-2/)** — `2024-03-01` | `12 Pages`
+- `[`2024-04107`]` **[Regulations To Address Margin Adequacy and To Account for the Treatment of Separate Accounts by Futures Commission Merchants](https://www.indexdata.org/regulations-to-address-margin-adequacy-and-to-account-for-the-treatment-of-separate-accounts-by-futures-commission-merchants-2/)** — `2024-03-01` | `52 Pages`
+- `[`2024-02234`]` **[Protection of Clearing Member Funds Held by Derivatives Clearing Organizations](https://www.indexdata.org/protection-of-clearing-member-funds-held-by-derivatives-clearing-organizations/)** — `2024-02-06` | `2 Pages`
+- `[`2024-02070`]` **[Notice of Proposed Order and Request for Comment on an Application for a Capital Comparability Determination Submitted on Behalf of Nonbank Swap Dealers Subject to Capital and Financial Reporting Requirements of the United Kingdom and Regulated by the United Kingdom Prudential Regulation Authority](https://www.indexdata.org/notice-of-proposed-order-and-request-for-comment-on-an-application-for-a-capital-comparability-determination-submitted-on-behalf-of-nonbank-swap-dealers-subject-to-capital-and-financial-reporting-requ/)** — `2024-02-05` | `38 Pages`
+- `[`2024-01684`]` **[Privacy Act Regulations](https://www.indexdata.org/privacy-act-regulations-4/)** — `2024-02-02` | `9 Pages`
+- `[`2024-01341`]` **[Annual Adjustment of Civil Monetary Penalties To Reflect Inflation-2024](https://www.indexdata.org/annual-adjustment-of-civil-monetary-penalties-to-reflect-inflation-2024/)** — `2024-01-24` | `4 Pages`
+- `[`2023-28745`]` **[Operational Resilience Framework for Futures Commission Merchants, Swap Dealers, and Major Swap Participants](https://www.indexdata.org/operational-resilience-framework-for-futures-commission-merchants-swap-dealers-and-major-swap-participants/)** — `2024-01-24` | `63 Pages`
+- `[`2023-28649`]` **[Capital and Financial Reporting Requirements for Swap Dealers and Major Swap Participants](https://www.indexdata.org/capital-and-financial-reporting-requirements-for-swap-dealers-and-major-swap-participants-2/)** — `2024-01-16` | `28 Pages`
+- `[`2023-28767`]` **[Protection of Clearing Member Funds Held by Derivatives Clearing Organizations](https://www.indexdata.org/protection-of-clearing-member-funds-held-by-derivatives-clearing-organizations-2/)** — `2024-01-03` | `22 Pages`
+- `[`2023-28350`]` **[Real-Time Public Reporting Requirements and Swap Data Recordkeeping and Reporting Requirements](https://www.indexdata.org/real-time-public-reporting-requirements-and-swap-data-recordkeeping-and-reporting-requirements/)** — `2023-12-28` | `35 Pages`
+- `[`2023-24774`]` **[Investment of Customer Funds by Futures Commission Merchants and Derivatives Clearing Organizations](https://www.indexdata.org/investment-of-customer-funds-by-futures-commission-merchants-and-derivatives-clearing-organizations-2/)** — `2023-11-21` | `57 Pages`
 
 ### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
@@ -1638,6 +1637,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-b
 - `[`2023-23780`]` **[Proposed Amendment to Prohibited Transaction Exemption 2020-02](https://www.indexdata.org/proposed-amendment-to-prohibited-transaction-exemption-2020-02/)** — `2023-11-03` | `25 Pages`
 - `[`2023-23779`]` **[Retirement Security Rule: Definition of an Investment Advice Fiduciary](https://www.indexdata.org/retirement-security-rule-definition-of-an-investment-advice-fiduciary-2/)** — `2023-11-03` | `90 Pages`
 
+### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
+
+- `[`2024-04726`]` **[Natural Gas Pipelines; Project Cost and Annual Limits](https://www.indexdata.org/natural-gas-pipelines-project-cost-and-annual-limits/)** — `2024-03-08` | `3 Pages`
+- `[`2024-03609`]` **[Enforcement of Statutes, Orders, Rules, and Regulations](https://www.indexdata.org/enforcement-of-statutes-orders-rules-and-regulations/)** — `2024-02-26` | `5 Pages`
+- `[`2024-01547`]` **[Annual Update to Fee Schedule for the Use of Government Lands by Hydropower Licensees](https://www.indexdata.org/annual-update-to-fee-schedule-for-the-use-of-government-lands-by-hydropower-licensees-3/)** — `2024-01-29` | `15 Pages`
+- `[`2024-00425`]` **[Civil Monetary Penalty Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustments-4/)** — `2024-01-11` | `3 Pages`
+- `[`2024-00045`]` **[Annual Update of Filing Fees](https://www.indexdata.org/annual-update-of-filing-fees-3/)** — `2024-01-09` | `2 Pages`
+- `[`2023-28665`]` **[Federal Power Act Section 203 Blanket Authorizations for Investment Companies](https://www.indexdata.org/federal-power-act-section-203-blanket-authorizations-for-investment-companies/)** — `2023-12-27` | `6 Pages`
+- `[`2023-24095`]` **[Electric Reliability Organization Proposal To Retire Requirements in Reliability Standards Under the NERC Standards Efficiency Review](https://www.indexdata.org/electric-reliability-organization-proposal-to-retire-requirements-in-reliability-standards-under-the-nerc-standards-efficiency-review/)** — `2023-11-01` | `6 Pages`
+
 ### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 
@@ -1680,16 +1690,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-an
 - `[`2024-00059`]` **[Proposed Establishment of the Conneaut Creek Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-conneaut-creek-viticultural-area/)** — `2024-01-05` | `5 Pages`
 - `[`2024-00058`]` **[Proposed Establishment of the Tryon Foothills Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-tryon-foothills-viticultural-area/)** — `2024-01-05` | `6 Pages`
 - `[`2024-00057`]` **[Proposed Renaming of the Mendocino Ridge Viticultural Area](https://www.indexdata.org/proposed-renaming-of-the-mendocino-ridge-viticultural-area/)** — `2024-01-05` | `4 Pages`
-
-### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
-
-- `[`2024-03609`]` **[Enforcement of Statutes, Orders, Rules, and Regulations](https://www.indexdata.org/enforcement-of-statutes-orders-rules-and-regulations/)** — `2024-02-26` | `5 Pages`
-- `[`2024-01547`]` **[Annual Update to Fee Schedule for the Use of Government Lands by Hydropower Licensees](https://www.indexdata.org/annual-update-to-fee-schedule-for-the-use-of-government-lands-by-hydropower-licensees-3/)** — `2024-01-29` | `15 Pages`
-- `[`2024-00425`]` **[Civil Monetary Penalty Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustments-4/)** — `2024-01-11` | `3 Pages`
-- `[`2024-00045`]` **[Annual Update of Filing Fees](https://www.indexdata.org/annual-update-of-filing-fees-3/)** — `2024-01-09` | `2 Pages`
-- `[`2023-28665`]` **[Federal Power Act Section 203 Blanket Authorizations for Investment Companies](https://www.indexdata.org/federal-power-act-section-203-blanket-authorizations-for-investment-companies/)** — `2023-12-27` | `6 Pages`
-- `[`2023-24095`]` **[Electric Reliability Organization Proposal To Retire Requirements in Reliability Standards Under the NERC Standards Efficiency Review](https://www.indexdata.org/electric-reliability-organization-proposal-to-retire-requirements-in-reliability-standards-under-the-nerc-standards-efficiency-review/)** — `2023-11-01` | `6 Pages`
 
 ### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)

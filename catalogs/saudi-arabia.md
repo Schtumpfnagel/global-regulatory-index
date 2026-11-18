@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q851`](https://www.wikidata.org/wiki/Q851)  
 **Governing Open-Government Framework:** *Saudi Open Data Policy (NDMO)*  
 **Total Indexed Dossiers in Saudi Arabia:** `47` across `4` issuing authorities  
-**Last Automated Sync:** `2026-11-18 12:02 UTC`
+**Last Automated Sync:** `2026-11-18 13:00 UTC`
 
 ---
 
@@ -32,6 +32,7 @@ Canonical Authority Archive: [https://www.indexdata.org/saudi-arabia/national-cy
 - `[`SA-NCA-schef-en`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Higher Education Framework (SCHEF)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-higher-education-framework-schef-34/)** — `2026-11-18` | `105 Pages`
 - `[`SA-NCA-sbd_en`]` **[National Cybersecurity Authority (NCA) — Secure by Design Cybersecurity Guidelines](https://www.indexdata.org/national-cybersecurity-authority-nca-secure-by-design-cybersecurity-guidelines-34/)** — `2026-11-18` | `16 Pages`
 - `[`SA-NCA-qb2020q4_en`]` **[National Cybersecurity Authority (NCA) — Cybersecurity Quarterly Bulletin (2020 Q4)](https://www.indexdata.org/national-cybersecurity-authority-nca-cybersecurity-quarterly-bulletin-2020-q4-58/)** — `2026-11-18` | `12 Pages`
+- `[`SA-NCA-The_Saudi_Model_for_Strengthening_Cyber_Resilience_G20-en`]` **[National Cybersecurity Authority (NCA) — The Saudi Model for Strengthening Cyber Resilience (G20 Report)](https://www.indexdata.org/national-cybersecurity-authority-nca-the-saudi-model-for-strengthening-cyber-resilience-g20-report-3/)** — `2026-11-18` | `43 Pages`
 - `[`SA-NCA-otcc_en`]` **[National Cybersecurity Authority (NCA) — Operational Technology Cybersecurity Controls (OTCC)](https://www.indexdata.org/national-cybersecurity-authority-nca-operational-technology-cybersecurity-controls-otcc/)** — `2026-11-16` | `45 Pages`
 - `[`SA-NCA-otcc_draft_en`]` **[National Cybersecurity Authority (NCA) — Operational Technology Cybersecurity Controls (OTCC Draft)](https://www.indexdata.org/national-cybersecurity-authority-nca-operational-technology-cybersecurity-controls-otcc-draft/)** — `2026-11-16` | `33 Pages`
 - `[`SA-NCA-osmacc-en`]` **[National Cybersecurity Authority (NCA) — Organizations' Social Media Accounts Cybersecurity Controls (OSMACC)](https://www.indexdata.org/national-cybersecurity-authority-nca-organizations-social-media-accounts-cybersecurity-controls-osmacc/)** — `2026-11-16` | `23 Pages`
@@ -47,7 +48,6 @@ Canonical Authority Archive: [https://www.indexdata.org/saudi-arabia/national-cy
 - `[`SA-NCA-ccc_methodology_and_mapping_annex_en`]` **[National Cybersecurity Authority (NCA) — Cloud Cybersecurity Controls (CCC) Methodology and Mapping Annex](https://www.indexdata.org/national-cybersecurity-authority-nca-cloud-cybersecurity-controls-ccc-methodology-and-mapping-annex/)** — `2026-11-16` | `36 Pages`
 - `[`SA-NCA-ccc_methodology_and_mapping_annex_draft_en`]` **[National Cybersecurity Authority (NCA) — Cloud Cybersecurity Controls (CCC) Methodology and Mapping Annex (Draft)](https://www.indexdata.org/national-cybersecurity-authority-nca-cloud-cybersecurity-controls-ccc-methodology-and-mapping-annex-draft/)** — `2026-11-16` | `26 Pages`
 - `[`SA-NCA-ccc-en`]` **[National Cybersecurity Authority (NCA) — Cloud Cybersecurity Controls (CCC)](https://www.indexdata.org/national-cybersecurity-authority-nca-cloud-cybersecurity-controls-ccc/)** — `2026-11-16` | `48 Pages`
-- `[`SA-NCA-The_Saudi_Model_for_Strengthening_Cyber_Resilience_G20-en`]` **[National Cybersecurity Authority (NCA) — The Saudi Model for Strengthening Cyber Resilience (G20)](https://www.indexdata.org/national-cybersecurity-authority-nca-the-saudi-model-for-strengthening-cyber-resilience-g20-2/)** — `2026-11-16` | `43 Pages`
 - `[`SA-NCA-THE_SAUDI_MODEL_FOR_STRENGTHENING_CYBER_RESILIENCE_G20-EN`]` **[National Cybersecurity Authority (NCA) — The Saudi Model for Strengthening Cyber Resilience (G20)](https://www.indexdata.org/national-cybersecurity-authority-nca-the-saudi-model-for-strengthening-cyber-resilience-g20/)** — `2026-11-16` | `43 Pages`
 - `[`SA-NCA-TELEWORK_CYBERSECURITY_CONTROLS-EN`]` **[National Cybersecurity Authority (NCA) — Telework Cybersecurity Controls (TCC)](https://www.indexdata.org/national-cybersecurity-authority-nca-telework-cybersecurity-controls-tcc/)** — `2026-11-16` | `28 Pages`
 - `[`SA-NCA-SCYWF_EN`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Workforce Framework (SCyWF)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-workforce-framework-scywf/)** — `2026-11-16` | `120 Pages`

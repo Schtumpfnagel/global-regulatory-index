@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,498` across `242` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,499` across `242` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 12:02 UTC`
+**Last Automated Sync:** `2026-11-18 13:00 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`343` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`344` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -258,7 +258,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,498)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,499)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1146,36 +1146,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 - `[`2026-11182`]` **[Prevailing Rate Systems; Redefinition of the Raven Rock Mountain Complex to the Washington-Baltimore-Arlington Federal Wage System Wage Area](https://www.indexdata.org/prevailing-rate-systems-redefinition-of-the-raven-rock-mountain-complex-to-the-washington-baltimore-arlington-federal-wage-system-wage-area/)** — `2026-06-04` | `6 Pages`
 - `[`2026-11022`]` **[Federal Employees Health Benefits Program: Verification Requirements for Family Member Coverage](https://www.indexdata.org/federal-employees-health-benefits-program-verification-requirements-for-family-member-coverage/)** — `2026-06-02` | `6 Pages`
 
-### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
-
-- `[`2026-19013`]` **[Racial Nondiscrimination in Private Schools; Hearing](https://www.indexdata.org/racial-nondiscrimination-in-private-schools-hearing/)** — `2026-09-16` | `2 Pages`
-- `[`2026-18645`]` **[Allocation and Apportionment of Deductions to Foreign Source Section 951A Category Income and Deduction Eligible Income](https://www.indexdata.org/allocation-and-apportionment-of-deductions-to-foreign-source-section-951a-category-income-and-deduction-eligible-income/)** — `2026-09-11` | `10 Pages`
-- `[`2026-18574`]` **[Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures](https://www.indexdata.org/information-reporting-regarding-qualified-opportunity-zones-and-updated-qualified-opportunity-fund-certification-and-decertification-procedures/)** — `2026-09-11` | `33 Pages`
-- `[`2026-18219`]` **[Car Loan Interest Deduction](https://www.indexdata.org/car-loan-interest-deduction/)** — `2026-09-08` | `31 Pages`
-- `[`2026-18127`]` **[Racial Nondiscrimination in Private Schools](https://www.indexdata.org/racial-nondiscrimination-in-private-schools/)** — `2026-09-04` | `9 Pages`
-- `[`2026-17622`]` **[Federal Independent Dispute Resolution Operations; Correction](https://www.indexdata.org/federal-independent-dispute-resolution-operations-correction/)** — `2026-08-28` | `12 Pages`
-- `[`2026-17365`]` **[Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss](https://www.indexdata.org/pro-rata-share-of-subpart-f-income-tested-income-or-tested-loss/)** — `2026-08-26` | `26 Pages`
-- `[`2026-17154`]` **[Income Taxes](https://www.indexdata.org/income-taxes/)** — `2026-08-21` | `3 Pages`
-- `[`2026-17123`]` **[Guidance on Eligible Investments for Trump Accounts](https://www.indexdata.org/guidance-on-eligible-investments-for-trump-accounts/)** — `2026-08-21` | `16 Pages`
-- `[`2026-17021`]` **[Determination of Target Normal Cost and Funding Target for Single-Employer Defined Benefit Plans](https://www.indexdata.org/determination-of-target-normal-cost-and-funding-target-for-single-employer-defined-benefit-plans/)** — `2026-08-20` | `9 Pages`
-- `[`2026-17019`]` **[Application of Section 250(b)(3)(A)(i)(VII) to Sales or Other Dispositions of Property](https://www.indexdata.org/application-of-section-250b3aivii-to-sales-or-other-dispositions-of-property/)** — `2026-08-20` | `12 Pages`
-- `[`2026-16985`]` **[Application of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to the Refunded Portion of Certain Federal Refundable Tax Credits](https://www.indexdata.org/application-of-the-personal-responsibility-and-work-opportunity-reconciliation-act-of-1996-to-the-refunded-portion-of-certain-federal-refundable-tax-credits/)** — `2026-08-20` | `16 Pages`
-- `[`2026-16769`]` **[Proposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities](https://www.indexdata.org/proposed-removal-of-a-reporting-requirement-for-trusts-whose-charitable-contribution-deductions-are-solely-for-contributions-made-by-passthrough-entities/)** — `2026-08-17` | `5 Pages`
-- `[`2026-16569`]` **[Foreign Currency Gain or Loss of Controlled Foreign Corporations](https://www.indexdata.org/foreign-currency-gain-or-loss-of-controlled-foreign-corporations/)** — `2026-08-14` | `24 Pages`
-- `[`2026-16314`]` **[Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs](https://www.indexdata.org/employer-contributions-to-trump-accounts-and-nondiscrimination-rules-for-dependent-care-assistance-programs/)** — `2026-08-11` | `23 Pages`
-- `[`2026-16269`]` **[Backup Withholding on Third Party Network Transactions](https://www.indexdata.org/backup-withholding-on-third-party-network-transactions/)** — `2026-08-10` | `5 Pages`
-- `[`2026-15614`]` **[Section 898(c) Transition Rule for Allocating Foreign Taxes and Section 960(d)(4) Foreign Tax Credit Disallowance](https://www.indexdata.org/section-898c-transition-rule-for-allocating-foreign-taxes-and-section-960d4-foreign-tax-credit-disallowance/)** — `2026-08-03` | `14 Pages`
-- `[`2026-13925`]` **[Revising Qualified Domestic Trust Regulations Under Section 2056A To Update Outdated References and Procedures](https://www.indexdata.org/revising-qualified-domestic-trust-regulations-under-section-2056a-to-update-outdated-references-and-procedures/)** — `2026-07-10` | `8 Pages`
-- `[`2026-13851`]` **[Charitable Remainder Annuity Trust Listed Transaction](https://www.indexdata.org/charitable-remainder-annuity-trust-listed-transaction/)** — `2026-07-09` | `4 Pages`
-- `[`2026-13830`]` **[Information Reporting and Transfer for Valuable Consideration Rules for Section 1035 Exchanges of Life Insurance and Certain Other Life Insurance Contract Transactions](https://www.indexdata.org/information-reporting-and-transfer-for-valuable-consideration-rules-for-section-1035-exchanges-of-life-insurance-and-certain-other-life-insurance-contract-transactions/)** — `2026-07-09` | `9 Pages`
-- `[`2026-13370`]` **[Increase in Threshold for Requiring Information Reporting With Respect to Certain Payees; Extension and Modification of Limitation on Wagering Losses; Hearing](https://www.indexdata.org/increase-in-threshold-for-requiring-information-reporting-with-respect-to-certain-payees-extension-and-modification-of-limitation-on-wagering-losses-hearing/)** — `2026-07-02` | `2 Pages`
-- `[`2026-11343`]` **[Trump Accounts; Hearing](https://www.indexdata.org/trump-accounts-hearing/)** — `2026-06-05` | `2 Pages`
-- `[`2026-11140`]` **[Federal Independent Dispute Resolution Operations](https://www.indexdata.org/federal-independent-dispute-resolution-operations/)** — `2026-06-04` | `182 Pages`
-- `[`2026-11102`]` **[Guidance on Tax-Exempt Refunding Bonds; Hearing](https://www.indexdata.org/guidance-on-tax-exempt-refunding-bonds-hearing/)** — `2026-06-03` | `2 Pages`
-- `[`2026-10963`]` **[Estate Tax Closing Letter User Fee Update](https://www.indexdata.org/estate-tax-closing-letter-user-fee-update-2/)** — `2026-06-02` | `3 Pages`
-- `[`2026-10841`]` **[Income of Foreign Governments and of International Organizations](https://www.indexdata.org/income-of-foreign-governments-and-of-international-organizations/)** — `2026-06-01` | `4 Pages`
-
 ### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
 
@@ -1234,6 +1204,35 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2026-11609`]` **[Endangered and Threatened Wildlife and Plants; Removal of Northeastern Bulrush From the List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-northeastern-bulrush-from-the-list-of-endangered-and-threatened-plants/)** — `2026-06-10` | `9 Pages`
 - `[`2026-11414`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Southern Hognose Snake](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-southern-hognose-snake/)** — `2026-06-08` | `2 Pages`
 - `[`2026-10846`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for the Rusty Patched Bumble Bee](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-rusty-patched-bumble-bee/)** — `2026-06-01` | `38 Pages`
+
+### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
+
+- `[`2026-19013`]` **[Racial Nondiscrimination in Private Schools; Hearing](https://www.indexdata.org/racial-nondiscrimination-in-private-schools-hearing/)** — `2026-09-16` | `2 Pages`
+- `[`2026-18645`]` **[Allocation and Apportionment of Deductions to Foreign Source Section 951A Category Income and Deduction Eligible Income](https://www.indexdata.org/allocation-and-apportionment-of-deductions-to-foreign-source-section-951a-category-income-and-deduction-eligible-income/)** — `2026-09-11` | `10 Pages`
+- `[`2026-18574`]` **[Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures](https://www.indexdata.org/information-reporting-regarding-qualified-opportunity-zones-and-updated-qualified-opportunity-fund-certification-and-decertification-procedures/)** — `2026-09-11` | `33 Pages`
+- `[`2026-18219`]` **[Car Loan Interest Deduction](https://www.indexdata.org/car-loan-interest-deduction/)** — `2026-09-08` | `31 Pages`
+- `[`2026-18127`]` **[Racial Nondiscrimination in Private Schools](https://www.indexdata.org/racial-nondiscrimination-in-private-schools/)** — `2026-09-04` | `9 Pages`
+- `[`2026-17622`]` **[Federal Independent Dispute Resolution Operations; Correction](https://www.indexdata.org/federal-independent-dispute-resolution-operations-correction/)** — `2026-08-28` | `12 Pages`
+- `[`2026-17365`]` **[Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss](https://www.indexdata.org/pro-rata-share-of-subpart-f-income-tested-income-or-tested-loss/)** — `2026-08-26` | `26 Pages`
+- `[`2026-17154`]` **[Income Taxes](https://www.indexdata.org/income-taxes/)** — `2026-08-21` | `3 Pages`
+- `[`2026-17123`]` **[Guidance on Eligible Investments for Trump Accounts](https://www.indexdata.org/guidance-on-eligible-investments-for-trump-accounts/)** — `2026-08-21` | `16 Pages`
+- `[`2026-17021`]` **[Determination of Target Normal Cost and Funding Target for Single-Employer Defined Benefit Plans](https://www.indexdata.org/determination-of-target-normal-cost-and-funding-target-for-single-employer-defined-benefit-plans/)** — `2026-08-20` | `9 Pages`
+- `[`2026-17019`]` **[Application of Section 250(b)(3)(A)(i)(VII) to Sales or Other Dispositions of Property](https://www.indexdata.org/application-of-section-250b3aivii-to-sales-or-other-dispositions-of-property/)** — `2026-08-20` | `12 Pages`
+- `[`2026-16985`]` **[Application of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to the Refunded Portion of Certain Federal Refundable Tax Credits](https://www.indexdata.org/application-of-the-personal-responsibility-and-work-opportunity-reconciliation-act-of-1996-to-the-refunded-portion-of-certain-federal-refundable-tax-credits/)** — `2026-08-20` | `16 Pages`
+- `[`2026-16769`]` **[Proposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities](https://www.indexdata.org/proposed-removal-of-a-reporting-requirement-for-trusts-whose-charitable-contribution-deductions-are-solely-for-contributions-made-by-passthrough-entities/)** — `2026-08-17` | `5 Pages`
+- `[`2026-16569`]` **[Foreign Currency Gain or Loss of Controlled Foreign Corporations](https://www.indexdata.org/foreign-currency-gain-or-loss-of-controlled-foreign-corporations/)** — `2026-08-14` | `24 Pages`
+- `[`2026-16314`]` **[Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs](https://www.indexdata.org/employer-contributions-to-trump-accounts-and-nondiscrimination-rules-for-dependent-care-assistance-programs/)** — `2026-08-11` | `23 Pages`
+- `[`2026-16269`]` **[Backup Withholding on Third Party Network Transactions](https://www.indexdata.org/backup-withholding-on-third-party-network-transactions/)** — `2026-08-10` | `5 Pages`
+- `[`2026-15614`]` **[Section 898(c) Transition Rule for Allocating Foreign Taxes and Section 960(d)(4) Foreign Tax Credit Disallowance](https://www.indexdata.org/section-898c-transition-rule-for-allocating-foreign-taxes-and-section-960d4-foreign-tax-credit-disallowance/)** — `2026-08-03` | `14 Pages`
+- `[`2026-13925`]` **[Revising Qualified Domestic Trust Regulations Under Section 2056A To Update Outdated References and Procedures](https://www.indexdata.org/revising-qualified-domestic-trust-regulations-under-section-2056a-to-update-outdated-references-and-procedures/)** — `2026-07-10` | `8 Pages`
+- `[`2026-13851`]` **[Charitable Remainder Annuity Trust Listed Transaction](https://www.indexdata.org/charitable-remainder-annuity-trust-listed-transaction/)** — `2026-07-09` | `4 Pages`
+- `[`2026-13830`]` **[Information Reporting and Transfer for Valuable Consideration Rules for Section 1035 Exchanges of Life Insurance and Certain Other Life Insurance Contract Transactions](https://www.indexdata.org/information-reporting-and-transfer-for-valuable-consideration-rules-for-section-1035-exchanges-of-life-insurance-and-certain-other-life-insurance-contract-transactions/)** — `2026-07-09` | `9 Pages`
+- `[`2026-13370`]` **[Increase in Threshold for Requiring Information Reporting With Respect to Certain Payees; Extension and Modification of Limitation on Wagering Losses; Hearing](https://www.indexdata.org/increase-in-threshold-for-requiring-information-reporting-with-respect-to-certain-payees-extension-and-modification-of-limitation-on-wagering-losses-hearing/)** — `2026-07-02` | `2 Pages`
+- `[`2026-11343`]` **[Trump Accounts; Hearing](https://www.indexdata.org/trump-accounts-hearing/)** — `2026-06-05` | `2 Pages`
+- `[`2026-11140`]` **[Federal Independent Dispute Resolution Operations](https://www.indexdata.org/federal-independent-dispute-resolution-operations/)** — `2026-06-04` | `182 Pages`
+- `[`2026-11102`]` **[Guidance on Tax-Exempt Refunding Bonds; Hearing](https://www.indexdata.org/guidance-on-tax-exempt-refunding-bonds-hearing/)** — `2026-06-03` | `2 Pages`
+- `[`2026-10963`]` **[Estate Tax Closing Letter User Fee Update](https://www.indexdata.org/estate-tax-closing-letter-user-fee-update-2/)** — `2026-06-02` | `3 Pages`
 
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -1490,6 +1489,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ra
 - `[`2026-15605`]` **[Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements](https://www.indexdata.org/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency-and-other-requirements/)** — `2026-07-31` | `19 Pages`
 - `[`2026-14160`]` **[Certification of Dispatchers; Extension of Comment Period](https://www.indexdata.org/certification-of-dispatchers-extension-of-comment-period/)** — `2026-07-14` | `2 Pages`
 
+### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
+
+- `[`US-PLAW-119publ103`]` **[Public Law 119 - 103 - Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/public-law-119-103-continuing-appropriations-and-extensions-act-2027/)** — `2026-09-21` | `24 Pages`
+- `[`US-PLAW-111`]` **[Lindsey O. Graham Sanctioning Russia and Iran Act of 2026](https://www.indexdata.org/lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/)** — `2026-09-18` | `25 Pages`
+- `[`US-PLAW-110`]` **[Prison Staff Safety Enhancement Act](https://www.indexdata.org/prison-staff-safety-enhancement-act/)** — `2026-09-16` | `3 Pages`
+- `[`US-CDOC-119tdoc2`]` **[Treaty Doc. 119-2 - TAX CONVENTION WITH CROATIA AND PROTOCOL AMENDING THE TAX CONVENTION WITH CROATIA](https://www.indexdata.org/treaty-doc-119-2-tax-convention-with-croatia-and-protocol-amending-the-tax-convention-with-croatia/)** — `2026-09-15` | `63 Pages`
+- `[`US-PLAW-108`]` **[Doug LaMalfa Federal Disaster Tax Relief Certainty Act](https://www.indexdata.org/doug-lamalfa-federal-disaster-tax-relief-certainty-act/)** — `2026-09-11` | `3 Pages`
+- `[`US-PLAW-106`]` **[Stop Secret Spending Act of 2025](https://www.indexdata.org/stop-secret-spending-act-of-2025/)** — `2026-09-11` | `5 Pages`
+- `[`US-PLAW-105`]` **[An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-09-11` | `2 Pages`
+- `[`US-PLAW-103`]` **[Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/continuing-appropriations-and-extensions-act-2027/)** — `2026-09-02` | `24 Pages`
+- `[`US-PLAW-102`]` **[Emergency Conservation Program Improvement Act of 2025](https://www.indexdata.org/emergency-conservation-program-improvement-act-of-2025/)** — `2026-07-12` | `2 Pages`
+- `[`US-PLAW-101`]` **[21st Century ROAD to Housing Act](https://www.indexdata.org/21st-century-road-to-housing-act/)** — `2026-07-11` | `140 Pages`
+- `[`US-PLAW-99`]` **[Alaska's Right to Ivory Sales and Tradition Act" or the "ARTIST Act](https://www.indexdata.org/alaskas-right-to-ivory-sales-and-tradition-act-or-the-artist-act/)** — `2026-06-12` | `4 Pages`
+- `[`US-PLAW-98`]` **[Secure America Act](https://www.indexdata.org/secure-america-act/)** — `2026-06-10` | `5 Pages`
+- `[`US-PLAW-96`]` **[Gerald E. Connolly Esophageal Cancer Awareness Act of 2025](https://www.indexdata.org/gerald-e-connolly-esophageal-cancer-awareness-act-of-2025/)** — `2026-06-09` | `2 Pages`
+
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
@@ -1521,22 +1537,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2026-13656`]` **[Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; Including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots](https://www.indexdata.org/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment-systems-and-quality-reporting-programs-including-the-hospital-outpatient-quality-reporting-program-an/)** — `2026-07-07` | `299 Pages`
 - `[`2026-11094`]` **[Medicaid Program; Community Engagement Requirement for Certain Individuals](https://www.indexdata.org/medicaid-program-community-engagement-requirement-for-certain-individuals-2/)** — `2026-06-03` | `135 Pages`
 - `[`2026-10890`]` **[Medicare Program; Alternative Payment Model Updates and the Increasing Organ Transplant Access (IOTA) Model](https://www.indexdata.org/medicare-program-alternative-payment-model-updates-and-the-increasing-organ-transplant-access-iota-model/)** — `2026-06-01` | `86 Pages`
-
-### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
-
-- `[`US-PLAW-111`]` **[Lindsey O. Graham Sanctioning Russia and Iran Act of 2026](https://www.indexdata.org/lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/)** — `2026-09-18` | `25 Pages`
-- `[`US-PLAW-110`]` **[Prison Staff Safety Enhancement Act](https://www.indexdata.org/prison-staff-safety-enhancement-act/)** — `2026-09-16` | `3 Pages`
-- `[`US-CDOC-119tdoc2`]` **[Treaty Doc. 119-2 - TAX CONVENTION WITH CROATIA AND PROTOCOL AMENDING THE TAX CONVENTION WITH CROATIA](https://www.indexdata.org/treaty-doc-119-2-tax-convention-with-croatia-and-protocol-amending-the-tax-convention-with-croatia/)** — `2026-09-15` | `63 Pages`
-- `[`US-PLAW-108`]` **[Doug LaMalfa Federal Disaster Tax Relief Certainty Act](https://www.indexdata.org/doug-lamalfa-federal-disaster-tax-relief-certainty-act/)** — `2026-09-11` | `3 Pages`
-- `[`US-PLAW-106`]` **[Stop Secret Spending Act of 2025](https://www.indexdata.org/stop-secret-spending-act-of-2025/)** — `2026-09-11` | `5 Pages`
-- `[`US-PLAW-105`]` **[An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-09-11` | `2 Pages`
-- `[`US-PLAW-103`]` **[Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/continuing-appropriations-and-extensions-act-2027/)** — `2026-09-02` | `24 Pages`
-- `[`US-PLAW-102`]` **[Emergency Conservation Program Improvement Act of 2025](https://www.indexdata.org/emergency-conservation-program-improvement-act-of-2025/)** — `2026-07-12` | `2 Pages`
-- `[`US-PLAW-101`]` **[21st Century ROAD to Housing Act](https://www.indexdata.org/21st-century-road-to-housing-act/)** — `2026-07-11` | `140 Pages`
-- `[`US-PLAW-99`]` **[Alaska's Right to Ivory Sales and Tradition Act" or the "ARTIST Act](https://www.indexdata.org/alaskas-right-to-ivory-sales-and-tradition-act-or-the-artist-act/)** — `2026-06-12` | `4 Pages`
-- `[`US-PLAW-98`]` **[Secure America Act](https://www.indexdata.org/secure-america-act/)** — `2026-06-10` | `5 Pages`
-- `[`US-PLAW-96`]` **[Gerald E. Connolly Esophageal Cancer Awareness Act of 2025](https://www.indexdata.org/gerald-e-connolly-esophageal-cancer-awareness-act-of-2025/)** — `2026-06-09` | `2 Pages`
 
 ### [Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-procurement-policy-office/](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)

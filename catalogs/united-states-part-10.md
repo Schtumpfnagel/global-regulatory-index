@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,498` across `242` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,499` across `242` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 12:02 UTC`
+**Last Automated Sync:** `2026-11-18 13:00 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`343` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`344` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -258,7 +258,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,498)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,499)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1600,6 +1600,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2023-15930`]` **[Request for Information: Meeting the Child Care Needs in Tribal Nations](https://www.indexdata.org/request-for-information-meeting-the-child-care-needs-in-tribal-nations/)** — `2023-07-27` | `6 Pages`
 - `[`2023-14658`]` **[Modifications to Performance Standards During Natural Disasters and Other Calamities](https://www.indexdata.org/modifications-to-performance-standards-during-natural-disasters-and-other-calamities-2/)** — `2023-07-13` | `5 Pages`
 
+### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
+
+- `[`2023-23821`]` **[Fees for Reviews of the Rule Enforcement Programs of Designated Contract Markets and Registered Futures Associations](https://www.indexdata.org/fees-for-reviews-of-the-rule-enforcement-programs-of-designated-contract-markets-and-registered-futures-associations-2/)** — `2023-10-30` | `3 Pages`
+- `[`2023-22324`]` **[Commodity Pool Operators, Commodity Trading Advisors, and Commodity Pools: Updating the `Qualified Eligible Person' Definition; Adding Minimum Disclosure Requirements for Pools and Trading Programs; Permitting Monthly Account Statements for Funds of Funds; Technical Amendments](https://www.indexdata.org/commodity-pool-operators-commodity-trading-advisors-and-commodity-pools-updating-the-qualified-eligible-person-definition-adding-minimum-disclosure-requirements-for-pools-and-trading-programs/)** — `2023-10-12` | `33 Pages`
+- `[`2023-18694`]` **[Provisions Common to Registered Entities](https://www.indexdata.org/provisions-common-to-registered-entities-2/)** — `2023-09-06` | `30 Pages`
+- `[`2023-17747`]` **[Swap Confirmation Requirements for Swap Execution Facilities](https://www.indexdata.org/swap-confirmation-requirements-for-swap-execution-facilities-2/)** — `2023-08-25` | `13 Pages`
+- `[`2023-16591`]` **[Reporting and Information Requirements for Derivatives Clearing Organizations](https://www.indexdata.org/reporting-and-information-requirements-for-derivatives-clearing-organizations/)** — `2023-08-08` | `39 Pages`
+- `[`2023-16572`]` **[Margin Requirements for Uncleared Swaps for Swap Dealers and Major Swap Participants](https://www.indexdata.org/margin-requirements-for-uncleared-swaps-for-swap-dealers-and-major-swap-participants-2/)** — `2023-08-08` | `23 Pages`
+- `[`2023-14457`]` **[Derivatives Clearing Organizations Recovery and Orderly Wind-Down Plans; Information for Resolution Planning](https://www.indexdata.org/derivatives-clearing-organizations-recovery-and-orderly-wind-down-plans-information-for-resolution-planning/)** — `2023-07-28` | `88 Pages`
+- `[`2023-15056`]` **[Risk Management Program Regulations for Swap Dealers, Major Swap Participants, and Futures Commission Merchants](https://www.indexdata.org/risk-management-program-regulations-for-swap-dealers-major-swap-participants-and-futures-commission-merchants/)** — `2023-07-18` | `11 Pages`
+- `[`2023-14361`]` **[Governance Requirements for Derivatives Clearing Organizations](https://www.indexdata.org/governance-requirements-for-derivatives-clearing-organizations/)** — `2023-07-13` | `20 Pages`
+
 ### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
 
@@ -1638,18 +1651,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and
 - `[`2023-15952`]` **[Health Resources Priorities and Allocations System (HRPAS)](https://www.indexdata.org/health-resources-priorities-and-allocations-system-hrpas-2/)** — `2023-08-16` | `17 Pages`
 - `[`2023-14290`]` **[Improving Child Care Access, Affordability, and Stability in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/improving-child-care-access-affordability-and-stability-in-the-child-care-and-development-fund-ccdf-2/)** — `2023-07-13` | `32 Pages`
 - `[`2023-14343`]` **[Control of Communicable Diseases; Foreign Quarantine: Importation of Dogs and Cats](https://www.indexdata.org/control-of-communicable-diseases-foreign-quarantine-importation-of-dogs-and-cats-2/)** — `2023-07-10` | `52 Pages`
-
-### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
-
-- `[`2023-22324`]` **[Commodity Pool Operators, Commodity Trading Advisors, and Commodity Pools: Updating the `Qualified Eligible Person' Definition; Adding Minimum Disclosure Requirements for Pools and Trading Programs; Permitting Monthly Account Statements for Funds of Funds; Technical Amendments](https://www.indexdata.org/commodity-pool-operators-commodity-trading-advisors-and-commodity-pools-updating-the-qualified-eligible-person-definition-adding-minimum-disclosure-requirements-for-pools-and-trading-programs/)** — `2023-10-12` | `33 Pages`
-- `[`2023-18694`]` **[Provisions Common to Registered Entities](https://www.indexdata.org/provisions-common-to-registered-entities-2/)** — `2023-09-06` | `30 Pages`
-- `[`2023-17747`]` **[Swap Confirmation Requirements for Swap Execution Facilities](https://www.indexdata.org/swap-confirmation-requirements-for-swap-execution-facilities-2/)** — `2023-08-25` | `13 Pages`
-- `[`2023-16591`]` **[Reporting and Information Requirements for Derivatives Clearing Organizations](https://www.indexdata.org/reporting-and-information-requirements-for-derivatives-clearing-organizations/)** — `2023-08-08` | `39 Pages`
-- `[`2023-16572`]` **[Margin Requirements for Uncleared Swaps for Swap Dealers and Major Swap Participants](https://www.indexdata.org/margin-requirements-for-uncleared-swaps-for-swap-dealers-and-major-swap-participants-2/)** — `2023-08-08` | `23 Pages`
-- `[`2023-14457`]` **[Derivatives Clearing Organizations Recovery and Orderly Wind-Down Plans; Information for Resolution Planning](https://www.indexdata.org/derivatives-clearing-organizations-recovery-and-orderly-wind-down-plans-information-for-resolution-planning/)** — `2023-07-28` | `88 Pages`
-- `[`2023-15056`]` **[Risk Management Program Regulations for Swap Dealers, Major Swap Participants, and Futures Commission Merchants](https://www.indexdata.org/risk-management-program-regulations-for-swap-dealers-major-swap-participants-and-futures-commission-merchants/)** — `2023-07-18` | `11 Pages`
-- `[`2023-14361`]` **[Governance Requirements for Derivatives Clearing Organizations](https://www.indexdata.org/governance-requirements-for-derivatives-clearing-organizations/)** — `2023-07-13` | `20 Pages`
 
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
@@ -1839,14 +1840,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-n
 - `[`2023-17992`]` **[Child Nutrition Program Integrity](https://www.indexdata.org/child-nutrition-program-integrity/)** — `2023-08-23` | `68 Pages`
 - `[`2023-17467`]` **[Food Distribution Programs: Improving Access and Parity](https://www.indexdata.org/food-distribution-programs-improving-access-and-parity-3/)** — `2023-08-14` | `26 Pages`
 
-### [National Transportation Safety Board](https://www.indexdata.org/united-states/national-transportation-safety-board/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-transportation-safety-board/](https://www.indexdata.org/united-states/national-transportation-safety-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-transportation-safety-board/feed/)
-
-- `[`2023-22193`]` **[Official Seal Description](https://www.indexdata.org/official-seal-description/)** — `2023-10-05` | `3 Pages`
-- `[`2023-18842`]` **[Authority of NTSB in Railroad, Pipeline, and Hazardous Materials Investigations](https://www.indexdata.org/authority-of-ntsb-in-railroad-pipeline-and-hazardous-materials-investigations/)** — `2023-08-31` | `2 Pages`
-- `[`2023-18840`]` **[Authority of NTSB in Railroad, Pipeline, and Hazardous Materials Investigations](https://www.indexdata.org/authority-of-ntsb-in-railroad-pipeline-and-hazardous-materials-investigations-2/)** — `2023-08-31` | `2 Pages`
-- `[`2023-14209`]` **[Official Seal Description](https://www.indexdata.org/official-seal-description-2/)** — `2023-07-06` | `3 Pages`
-
 ### [Natural Resources Revenue Office](https://www.indexdata.org/united-states/natural-resources-revenue-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/natural-resources-revenue-office/](https://www.indexdata.org/united-states/natural-resources-revenue-office/) | [RSS Feed](https://www.indexdata.org/united-states/natural-resources-revenue-office/feed/)
 
@@ -1919,6 +1912,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-l
 - `[`2023-23573`]` **[Standard for Determining Joint Employer Status](https://www.indexdata.org/standard-for-determining-joint-employer-status-2/)** — `2023-10-27` | `73 Pages`
 - `[`2023-18130`]` **[Representation Case Procedures](https://www.indexdata.org/representation-case-procedures-3/)** — `2023-08-25` | `2 Pages`
 - `[`2023-18129`]` **[Representation-Case Procedures](https://www.indexdata.org/representation-case-procedures-2/)** — `2023-08-25` | `27 Pages`
+
+### [National Transportation Safety Board](https://www.indexdata.org/united-states/national-transportation-safety-board/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-transportation-safety-board/](https://www.indexdata.org/united-states/national-transportation-safety-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-transportation-safety-board/feed/)
+
+- `[`2023-22193`]` **[Official Seal Description](https://www.indexdata.org/official-seal-description/)** — `2023-10-05` | `3 Pages`
+- `[`2023-18842`]` **[Authority of NTSB in Railroad, Pipeline, and Hazardous Materials Investigations](https://www.indexdata.org/authority-of-ntsb-in-railroad-pipeline-and-hazardous-materials-investigations/)** — `2023-08-31` | `2 Pages`
+- `[`2023-18840`]` **[Authority of NTSB in Railroad, Pipeline, and Hazardous Materials Investigations](https://www.indexdata.org/authority-of-ntsb-in-railroad-pipeline-and-hazardous-materials-investigations-2/)** — `2023-08-31` | `2 Pages`
 
 ### [Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)

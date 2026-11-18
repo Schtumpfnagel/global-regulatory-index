@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,498` across `242` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,499` across `242` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 12:02 UTC`
+**Last Automated Sync:** `2026-11-18 13:00 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`343` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`344` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -258,7 +258,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,498)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,499)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -824,7 +824,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-05382`]` **[Air Plan Approval; Florida; Revisions to Stationary Sources-Removal of Clean Air Interstate Rule Provisions](https://www.indexdata.org/air-plan-approval-florida-revisions-to-stationary-sources-removal-of-clean-air-interstate-rule-provisions-2/)** — `2025-03-28` | `4 Pages`
 - `[`2025-05173`]` **[Pseudomonas Oryzihabitans Strain SYM23945; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/pseudomonas-oryzihabitans-strain-sym23945-exemption-from-the-requirement-of-a-tolerance/)** — `2025-03-27` | `3 Pages`
 - `[`2025-05157`]` **[Interim Final Determination To Stay or Defer Sanctions; California; Antelope Valley Air Quality Management District](https://www.indexdata.org/interim-final-determination-to-stay-or-defer-sanctions-california-antelope-valley-air-quality-management-district/)** — `2025-03-26` | `3 Pages`
-- `[`2025-05156`]` **[Air Plan Revisions; California; Antelope Valley Air Quality Management District; New Source Review; Stationary Source Permits](https://www.indexdata.org/air-plan-revisions-california-antelope-valley-air-quality-management-district-new-source-review-stationary-source-permits-3/)** — `2025-03-26` | `5 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1932,6 +1931,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and
 - `[`2025-11395`]` **[Import Regulations for Horses; Pre-Export Examination](https://www.indexdata.org/import-regulations-for-horses-pre-export-examination-2/)** — `2025-06-20` | `2 Pages`
 - `[`2025-10797`]` **[Movement of Certain Genetically Engineered Organisms](https://www.indexdata.org/movement-of-certain-genetically-engineered-organisms/)** — `2025-06-16` | `12 Pages`
 
+### [Army Department](https://www.indexdata.org/united-states/army-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/army-department/](https://www.indexdata.org/united-states/army-department/) | [RSS Feed](https://www.indexdata.org/united-states/army-department/feed/)
+
+- `[`2025-15081`]` **[Litigation; Amendment](https://www.indexdata.org/litigation-amendment/)** — `2025-08-08` | `2 Pages`
+- `[`2025-12318`]` **[Environmental Analysis of Army Actions (AR 200-2)](https://www.indexdata.org/environmental-analysis-of-army-actions-ar-200-2/)** — `2025-07-03` | `4 Pages`
+
 ### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
 
@@ -2018,11 +2023,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/air-force-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 
 - `[`2025-05920`]` **[Alcohol Facts Statements in the Labeling of Wines, Distilled Spirits, and Malt Beverages; and Major Food Allergen Labeling for Wines, Distilled Spirits, and Malt Beverages; Comment Period Extension](https://www.indexdata.org/alcohol-facts-statements-in-the-labeling-of-wines-distilled-spirits-and-malt-beverages-and-major-food-allergen-labeling-for-wines-distilled-spirits-and-malt-beverages-comment-period-extension/)** — `2025-04-07` | `2 Pages`
-
-### [Army Department](https://www.indexdata.org/united-states/army-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/army-department/](https://www.indexdata.org/united-states/army-department/) | [RSS Feed](https://www.indexdata.org/united-states/army-department/feed/)
-
-- `[`2025-12318`]` **[Environmental Analysis of Army Actions (AR 200-2)](https://www.indexdata.org/environmental-analysis-of-army-actions-ar-200-2/)** — `2025-07-03` | `4 Pages`
 
 ### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)

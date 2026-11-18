@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `6,996` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `6,997` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-18 12:02 UTC`
+**Last Automated Sync:** `2026-11-18 13:00 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`508` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`488` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`489` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,996)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 6,997)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1362,6 +1362,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 
 - `[`UN-CAT-C-LAO-1`]` **[Initial report submitted by the Lao People's Democratic Republic under article 19 of the Convention, due in 2013 — Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment](https://www.indexdata.org/cat-c-lao-1-initial-report-submitted-by-the-lao-peoples-democratic-republic-under-article-19-of-the-convention-due-in-2013-convention-against-torture-and-other-cruel-inhuman-or-degradi/)** — `2026-11-17` | `39 Pages`
 - `[`UN-CRPD-C-ROU-Q-1`]` **[List of issues in relation to the initial report of Romania — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-rou-q-1-list-of-issues-in-relation-to-the-initial-report-of-romania-committee-on-the-rights-of-persons-with-disabilities/)** — `2026-11-16` | `12 Pages`
+- `[`UN-CRC-C-101-D-146-2021`]` **[Views adopted by the Committee under the Optional Protocol to the Convention on the Rights of the Child on a Communications Procedure, concerning communication No. 146/2021](https://www.indexdata.org/crc-c-101-d-146-2021-views-adopted-by-the-committee-under-the-optional-protocol-to-the-convention-on-the-rights-of-the-child-on-a-communications-procedure-concerning-communication-no-146-2021/)** — `2026-11-16` | `13 Pages`
 - `[`UN-CCPR-C-BRA-FCO-3`]` **[Information received from Brazil on follow-up to the concluding observations on its 3rd periodic report — Human Rights Committee](https://www.indexdata.org/ccpr-c-bra-fco-3-information-received-from-brazil-on-follow-up-to-the-concluding-observations-on-its-3rd-periodic-report-human-rights-committee/)** — `2026-11-13` | `5 Pages`
 - `[`UN-CRPD-C-SMR-QPR-1`]` **[List of issues prior to submission of the initial report of San Marino — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-smr-qpr-1-list-of-issues-prior-to-submission-of-the-initial-report-of-san-marino-committee-on-the-rights-of-persons-with-disabilities/)** — `2026-11-12` | `10 Pages`
 - `[`UN-CRPD-C-LVA-Q-2-3`]` **[List of issues in relation to the combined 2nd and 3rd periodic reports of Latvia — Committee on the Rights of Persons with Disabilities](https://www.indexdata.org/crpd-c-lva-q-2-3-list-of-issues-in-relation-to-the-combined-2nd-and-3rd-periodic-reports-of-latvia-committee-on-the-rights-of-persons-with-disabilities/)** — `2026-11-12` | `7 Pages`
@@ -1724,13 +1725,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/programme
 - `[`UN-DP-2027-2`]` **[Decisions adopted by the Executive Board in 2026 — Executive Board of the United Nations Development Programme, the United Nations Population Fund and the United Nations Office for Project Services](https://www.indexdata.org/dp-2027-2-decisions-adopted-by-the-executive-board-in-2026-executive-board-of-the-united-nations-development-programme-the-united-nations-population-fund-and-the-united-nations-office-for/)** — `2026-09-14` | `32 Pages`
 - `[`UN-DP-2026-24`]` **[Report of the annual session 2026 (8 to 12 June 2026, New York) — Executive Board of the United Nations Development Programme, the United Nations Population Fund and the United Nations Office for Project Services](https://www.indexdata.org/dp-2026-24-report-of-the-annual-session-2026-8-to-12-june-2026-new-york-executive-board-of-the-united-nations-development-programme-the-united-nations-population-fund-and-the-united-na/)** — `2026-07-09` | `16 Pages`
 
-### [Secretariat](https://www.indexdata.org/united-nations/secretariat/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretariat/](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
-
-- `[`UN-ST-IC-2026-4`]` **[Membership of the Senior Review Group](https://www.indexdata.org/st-ic-2026-4-membership-of-the-senior-review-group/)** — `2026-08-17` | `2 Pages`
-- `[`UN-4126070`]` **[Senior Officials of the United Nations and Officers of equivalent rank whose duty station is New York &#91;as of 31 July 2026&#93; = — Hauts fonctionnaires des Nations Unies et des fonctionnaires de rang équivalent dont le lieu d'affectation est à New York = Altos funcionarios de las Naciones Unidas y oficiales del mismo rango cuyo lugar de destino es Nueva York](https://www.indexdata.org/4126070-senior-officials-of-the-united-nations-and-officers-of-equivalent-rank-whose-duty-station-is-new-york-as-of-31-july-2026-hauts-fonctionnaires-des-nations-unies-et-des-fonctionn/)** — `2026-07-31` | `35 Pages`
-- `[`UN-ST-AI-2013-4-Rev.2`]` **[Consultants and individual contractors](https://www.indexdata.org/st-ai-2013-4-rev-2-consultants-and-individual-contractors/)** — `2026-07-01` | `35 Pages`
-
 ### [United Nations Office for Disarmament Affairs](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/feed/)
 
@@ -1743,6 +1737,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/commissio
 
 - `[`UN-CLCS-67-2`]` **[Progress of work in the Commission on the Limits of the Continental Shelf — statement](https://www.indexdata.org/clcs-67-2-progress-of-work-in-the-commission-on-the-limits-of-the-continental-shelf-statement/)** — `2026-08-17` | `14 Pages`
 - `[`UN-CLCS-67-1`]` **[Agenda — Commission on the Limits of the Continental Shelf, 67th session, New York, 6 July-7 August 2026](https://www.indexdata.org/clcs-67-1-agenda-commission-on-the-limits-of-the-continental-shelf-67th-session-new-york-6-july-7-august-2026/)** — `2026-07-06` | `2 Pages`
+
+### [Secretariat](https://www.indexdata.org/united-nations/secretariat/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretariat/](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
+
+- `[`UN-ST-IC-2026-4`]` **[Membership of the Senior Review Group](https://www.indexdata.org/st-ic-2026-4-membership-of-the-senior-review-group/)** — `2026-08-17` | `2 Pages`
+- `[`UN-4126070`]` **[Senior Officials of the United Nations and Officers of equivalent rank whose duty station is New York &#91;as of 31 July 2026&#93; = — Hauts fonctionnaires des Nations Unies et des fonctionnaires de rang équivalent dont le lieu d'affectation est à New York = Altos funcionarios de las Naciones Unidas y oficiales del mismo rango cuyo lugar de destino es Nueva York](https://www.indexdata.org/4126070-senior-officials-of-the-united-nations-and-officers-of-equivalent-rank-whose-duty-station-is-new-york-as-of-31-july-2026-hauts-fonctionnaires-des-nations-unies-et-des-fonctionn/)** — `2026-07-31` | `35 Pages`
 
 ### [UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-trade-and-development-unctad/](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/)

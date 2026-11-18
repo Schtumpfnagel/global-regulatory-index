@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,498` across `242` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,499` across `242` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 12:02 UTC`
+**Last Automated Sync:** `2026-11-18 13:00 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`343` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`344` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -258,11 +258,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,498)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,499)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-14936`]` **[Airworthiness Directives; Pratt & Whitney Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-engines-6/)** — `2024-07-09` | `6 Pages`
 - `[`2024-14890`]` **[Airworthiness Directives; Leonardo S.p.a. Helicopters](https://www.indexdata.org/airworthiness-directives-leonardo-s-p-a-helicopters-40/)** — `2024-07-09` | `3 Pages`
 - `[`2024-14880`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-158/)** — `2024-07-09` | `3 Pages`
 - `[`2024-14868`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-233/)** — `2024-07-09` | `4 Pages`
@@ -1535,20 +1536,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 - `[`2024-06656`]` **[State Personnel Development Grants](https://www.indexdata.org/state-personnel-development-grants-2/)** — `2024-03-28` | `9 Pages`
 - `[`2024-05202`]` **[Final Priorities, Requirements, and Definitions-National Professional Development Program](https://www.indexdata.org/final-priorities-requirements-and-definitions-national-professional-development-program/)** — `2024-03-12` | `7 Pages`
 
-### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
-
-- `[`2024-14667`]` **[Electric Reliability Organization Performance Assessments; Withdrawal](https://www.indexdata.org/electric-reliability-organization-performance-assessments-withdrawal/)** — `2024-07-05` | `2 Pages`
-- `[`2024-10872`]` **[Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.indexdata.org/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation-3/)** — `2024-06-11` | `307 Pages`
-- `[`2024-11896`]` **[Establishment of Categorical Reasonable Period of Time for Action on Requests for Water Quality Certification Under Section 401(a)(1) of the Clean Water Act and Clarifying Types of Hydroelectric Project Proceedings That May Require Water Quality Certification](https://www.indexdata.org/establishment-of-categorical-reasonable-period-of-time-for-action-on-requests-for-water-quality-certification-under-section-401a1-of-the-clean-water-act-and-clarifying-types-of-hydroelectric-proje/)** — `2024-06-06` | `6 Pages`
-- `[`2024-10879`]` **[Applications for Permits To Site Interstate Electric Transmission Facilities](https://www.indexdata.org/applications-for-permits-to-site-interstate-electric-transmission-facilities-2/)** — `2024-05-29` | `59 Pages`
-- `[`2024-09438`]` **[Standards for Business Practices and Communication Protocols for Public Utilities](https://www.indexdata.org/standards-for-business-practices-and-communication-protocols-for-public-utilities-2/)** — `2024-05-06` | `11 Pages`
-- `[`2024-06563`]` **[Improvements to Generator Interconnection Procedures and Agreements](https://www.indexdata.org/improvements-to-generator-interconnection-procedures-and-agreements/)** — `2024-04-16` | `238 Pages`
-- `[`2024-06561`]` **[Standards for Business Practices of Interstate Natural Gas Pipelines](https://www.indexdata.org/standards-for-business-practices-of-interstate-natural-gas-pipelines-4/)** — `2024-04-05` | `7 Pages`
-- `[`2024-06562`]` **[Petition for Rulemaking To Update Commission Regulations Regarding Allocation of Interstate Pipeline Capacity](https://www.indexdata.org/petition-for-rulemaking-to-update-commission-regulations-regarding-allocation-of-interstate-pipeline-capacity/)** — `2024-03-29` | `5 Pages`
-- `[`2024-06556`]` **[Compensation for Reactive Power Within the Standard Power Factor Range](https://www.indexdata.org/compensation-for-reactive-power-within-the-standard-power-factor-range-2/)** — `2024-03-28` | `15 Pages`
-- `[`2024-04726`]` **[Natural Gas Pipelines; Project Cost and Annual Limits](https://www.indexdata.org/natural-gas-pipelines-project-cost-and-annual-limits/)** — `2024-03-08` | `3 Pages`
-
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 
@@ -1589,6 +1576,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-p
 - `[`2024-07706`]` **[Safety Standard for Bassinets and Cradles](https://www.indexdata.org/safety-standard-for-bassinets-and-cradles-2/)** — `2024-04-16` | `40 Pages`
 - `[`2024-05472`]` **[Electric Bicycles; Advance Notice of Proposed Rulemaking; Request for Comments and Information](https://www.indexdata.org/electric-bicycles-advance-notice-of-proposed-rulemaking-request-for-comments-and-information/)** — `2024-03-15` | `6 Pages`
 - `[`2024-05281`]` **[Safety Standard for Automatic Residential Garage Door Operators](https://www.indexdata.org/safety-standard-for-automatic-residential-garage-door-operators/)** — `2024-03-14` | `3 Pages`
+
+### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
+
+- `[`2024-14667`]` **[Electric Reliability Organization Performance Assessments; Withdrawal](https://www.indexdata.org/electric-reliability-organization-performance-assessments-withdrawal/)** — `2024-07-05` | `2 Pages`
+- `[`2024-10872`]` **[Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.indexdata.org/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation-3/)** — `2024-06-11` | `307 Pages`
+- `[`2024-11896`]` **[Establishment of Categorical Reasonable Period of Time for Action on Requests for Water Quality Certification Under Section 401(a)(1) of the Clean Water Act and Clarifying Types of Hydroelectric Project Proceedings That May Require Water Quality Certification](https://www.indexdata.org/establishment-of-categorical-reasonable-period-of-time-for-action-on-requests-for-water-quality-certification-under-section-401a1-of-the-clean-water-act-and-clarifying-types-of-hydroelectric-proje/)** — `2024-06-06` | `6 Pages`
+- `[`2024-10879`]` **[Applications for Permits To Site Interstate Electric Transmission Facilities](https://www.indexdata.org/applications-for-permits-to-site-interstate-electric-transmission-facilities-2/)** — `2024-05-29` | `59 Pages`
+- `[`2024-09438`]` **[Standards for Business Practices and Communication Protocols for Public Utilities](https://www.indexdata.org/standards-for-business-practices-and-communication-protocols-for-public-utilities-2/)** — `2024-05-06` | `11 Pages`
+- `[`2024-06563`]` **[Improvements to Generator Interconnection Procedures and Agreements](https://www.indexdata.org/improvements-to-generator-interconnection-procedures-and-agreements/)** — `2024-04-16` | `238 Pages`
+- `[`2024-06561`]` **[Standards for Business Practices of Interstate Natural Gas Pipelines](https://www.indexdata.org/standards-for-business-practices-of-interstate-natural-gas-pipelines-4/)** — `2024-04-05` | `7 Pages`
+- `[`2024-06562`]` **[Petition for Rulemaking To Update Commission Regulations Regarding Allocation of Interstate Pipeline Capacity](https://www.indexdata.org/petition-for-rulemaking-to-update-commission-regulations-regarding-allocation-of-interstate-pipeline-capacity/)** — `2024-03-29` | `5 Pages`
+- `[`2024-06556`]` **[Compensation for Reactive Power Within the Standard Power Factor Range](https://www.indexdata.org/compensation-for-reactive-power-within-the-standard-power-factor-range-2/)** — `2024-03-28` | `15 Pages`
 
 ### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
