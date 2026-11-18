@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,486` across `240` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,490` across `240` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 08:57 UTC`
+**Last Automated Sync:** `2026-11-18 10:00 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`341` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`343` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -57,7 +57,7 @@
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -256,7 +256,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,486)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,490)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -919,9 +919,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-11052`]` **[Rescinding the Regulations for Arbitration Requirements and Procedures for Small Superfund Cost Recovery Claims](https://www.indexdata.org/rescinding-the-regulations-for-arbitration-requirements-and-procedures-for-small-superfund-cost-recovery-claims/)** — `2026-06-03` | `3 Pages`
 - `[`2026-11047`]` **[National Emission Standards for Hazardous Air Pollutants From Hazardous Waste Combustors: Residual Risk and Technology Review](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-from-hazardous-waste-combustors-residual-risk-and-technology-review/)** — `2026-06-03` | `89 Pages`
 - `[`2026-10875`]` **[Rescission of Title V Emergency Affirmative Defense Rule](https://www.indexdata.org/rescission-of-title-v-emergency-affirmative-defense-rule/)** — `2026-06-01` | `4 Pages`
-- `[`2026-10776`]` **[Air Plan Approval; Indiana; Keystone VOC RACT Alternative Control](https://www.indexdata.org/air-plan-approval-indiana-keystone-voc-ract-alternative-control/)** — `2026-05-29` | `3 Pages`
-- `[`2026-10771`]` **[Air Plan Approval; Pennsylvania; Revision to Philadelphia Gas Works, Richmond Plant Reasonably Available Control Technology Plan Under the 1997 8-Hour Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-plan-approval-pennsylvania-revision-to-philadelphia-gas-works-richmond-plant-reasonably-available-control-technology-plan-under-the-1997-8-hour-ozone-national-ambient-air-quality-standards/)** — `2026-05-29` | `3 Pages`
-- `[`2026-10770`]` **[Approval of Source-Specific Air Quality Implementation Plan; New York; Calpine JFK Energy Center](https://www.indexdata.org/approval-of-source-specific-air-quality-implementation-plan-new-york-calpine-jfk-energy-center/)** — `2026-05-29` | `4 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1121,6 +1118,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 ### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
 
+- `[`2026-19222`]` **[Employment in the Excepted Service](https://www.indexdata.org/employment-in-the-excepted-service/)** — `2026-09-18` | `23 Pages`
 - `[`2026-18944`]` **[Federal Employees Health Benefits Program: Optimizing FEHB Plan Offerings](https://www.indexdata.org/federal-employees-health-benefits-program-optimizing-fehb-plan-offerings/)** — `2026-09-15` | `3 Pages`
 - `[`2026-18943`]` **[Promoting Employee Accountability](https://www.indexdata.org/promoting-employee-accountability/)** — `2026-09-15` | `2 Pages`
 - `[`2026-18828`]` **[Shared Certificates and Pooled Hiring Actions](https://www.indexdata.org/shared-certificates-and-pooled-hiring-actions/)** — `2026-09-15` | `17 Pages`
@@ -1149,37 +1147,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 - `[`2026-12581`]` **[Federal Employees' Retirement System; Present Value Conversion Factors for Spouses of Deceased Separated Employees](https://www.indexdata.org/federal-employees-retirement-system-present-value-conversion-factors-for-spouses-of-deceased-separated-employees/)** — `2026-06-23` | `3 Pages`
 - `[`2026-11182`]` **[Prevailing Rate Systems; Redefinition of the Raven Rock Mountain Complex to the Washington-Baltimore-Arlington Federal Wage System Wage Area](https://www.indexdata.org/prevailing-rate-systems-redefinition-of-the-raven-rock-mountain-complex-to-the-washington-baltimore-arlington-federal-wage-system-wage-area/)** — `2026-06-04` | `6 Pages`
 - `[`2026-11022`]` **[Federal Employees Health Benefits Program: Verification Requirements for Family Member Coverage](https://www.indexdata.org/federal-employees-health-benefits-program-verification-requirements-for-family-member-coverage/)** — `2026-06-02` | `6 Pages`
-
-### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
-
-- `[`2026-16111`]` **[Hazardous Materials: Allowing Fireworks Certification Agencies (FCAs) To Approve Professional Fireworks](https://www.indexdata.org/hazardous-materials-allowing-fireworks-certification-agencies-fcas-to-approve-professional-fireworks/)** — `2026-08-07` | `7 Pages`
-- `[`2026-15823`]` **[Hazardous Materials: Reducing Burdens on Domestic Companies Using Battery-Powered Equipment in Trades](https://www.indexdata.org/hazardous-materials-reducing-burdens-on-domestic-companies-using-battery-powered-equipment-in-trades/)** — `2026-08-04` | `5 Pages`
-- `[`2026-15820`]` **[Hazardous Materials: Adoption of Department of Transportation Special Permit 21478](https://www.indexdata.org/hazardous-materials-adoption-of-department-of-transportation-special-permit-21478/)** — `2026-08-04` | `6 Pages`
-- `[`2026-15819`]` **[Hazardous Materials: Adoption of Department of Transportation Special Permit 14175](https://www.indexdata.org/hazardous-materials-adoption-of-department-of-transportation-special-permit-14175/)** — `2026-08-04` | `5 Pages`
-- `[`2026-15818`]` **[Hazardous Materials: Adoption of Department of Transportation Special Permit 21379](https://www.indexdata.org/hazardous-materials-adoption-of-department-of-transportation-special-permit-21379/)** — `2026-08-04` | `6 Pages`
-- `[`2026-15817`]` **[Hazardous Materials: Adoption of Department of Transportation Special Permit 21287](https://www.indexdata.org/hazardous-materials-adoption-of-department-of-transportation-special-permit-21287/)** — `2026-08-04` | `6 Pages`
-- `[`2026-15816`]` **[Hazardous Materials: Adoption of Department of Transportation Special Permits 12412 and 11646 Into the Hazardous Materials Regulations](https://www.indexdata.org/hazardous-materials-adoption-of-department-of-transportation-special-permits-12412-and-11646-into-the-hazardous-materials-regulations/)** — `2026-08-04` | `6 Pages`
-- `[`2026-15815`]` **[Hazardous Materials: Removing Burdensome Rail Reporting Requirements](https://www.indexdata.org/hazardous-materials-removing-burdensome-rail-reporting-requirements/)** — `2026-08-04` | `6 Pages`
-- `[`2026-15814`]` **[Hazardous Materials: Reduce Training Burdens for America's Farmers](https://www.indexdata.org/hazardous-materials-reduce-training-burdens-for-americas-farmers/)** — `2026-08-04` | `4 Pages`
-- `[`2026-15813`]` **[Hazardous Materials: Reducing Recordkeeping Requirements for Domestic Carriers](https://www.indexdata.org/hazardous-materials-reducing-recordkeeping-requirements-for-domestic-carriers/)** — `2026-08-04` | `4 Pages`
-- `[`2026-15812`]` **[Hazardous Materials: Modernizing Payments To and From America's Bank Account](https://www.indexdata.org/hazardous-materials-modernizing-payments-to-and-from-americas-bank-account/)** — `2026-08-04` | `4 Pages`
-- `[`2026-15811`]` **[Hazardous Materials: Improving Efficiencies for Special Permits and Approvals Renewals](https://www.indexdata.org/hazardous-materials-improving-efficiencies-for-special-permits-and-approvals-renewals/)** — `2026-08-04` | `5 Pages`
-- `[`2026-15810`]` **[Hazardous Materials: Reducing Burdens by Allowing Continued Use of Department of Transportation Special Permit Packagings](https://www.indexdata.org/hazardous-materials-reducing-burdens-by-allowing-continued-use-of-department-of-transportation-special-permit-packagings/)** — `2026-08-04` | `6 Pages`
-- `[`2026-15809`]` **[Hazardous Materials: Remove Redundant List of U.S. EPA CERCLA Hazardous Substances](https://www.indexdata.org/hazardous-materials-remove-redundant-list-of-u-s-epa-cercla-hazardous-substances/)** — `2026-08-04` | `6 Pages`
-- `[`2026-15808`]` **[Hazardous Materials: Reducing Undue Paperwork Burdens to Domestic Carriers](https://www.indexdata.org/hazardous-materials-reducing-undue-paperwork-burdens-to-domestic-carriers/)** — `2026-08-04` | `5 Pages`
-- `[`2026-15805`]` **[Hazardous Materials: Reducing Costs to Domestic Shippers and Carriers of Limited Quantities](https://www.indexdata.org/hazardous-materials-reducing-costs-to-domestic-shippers-and-carriers-of-limited-quantities/)** — `2026-08-04` | `4 Pages`
-- `[`2026-15803`]` **[Hazardous Materials: Reducing Burdens on Domestic Aerosol Shippers](https://www.indexdata.org/hazardous-materials-reducing-burdens-on-domestic-aerosol-shippers/)** — `2026-08-04` | `5 Pages`
-- `[`2026-15583`]` **[Pipeline Safety: Standards Update-ASTM A333/A333M](https://www.indexdata.org/pipeline-safety-standards-update-astm-a333-a333m/)** — `2026-07-31` | `2 Pages`
-- `[`2026-15581`]` **[Pipeline Safety: Standards Update-ASTM A372/A372M](https://www.indexdata.org/pipeline-safety-standards-update-astm-a372-a372m/)** — `2026-07-31` | `2 Pages`
-- `[`2026-15577`]` **[Pipeline Safety: Standards Update-ASTM F2767](https://www.indexdata.org/pipeline-safety-standards-update-astm-f2767/)** — `2026-07-31` | `2 Pages`
-- `[`2026-15572`]` **[Pipeline Safety: Standards Update-NFPA 59](https://www.indexdata.org/pipeline-safety-standards-update-nfpa-59/)** — `2026-07-31` | `2 Pages`
-- `[`2026-15569`]` **[Pipeline Safety: Electronic Retention of Part 194 Response Plans](https://www.indexdata.org/pipeline-safety-electronic-retention-of-part-194-response-plans/)** — `2026-07-31` | `2 Pages`
-- `[`2026-14193`]` **[Pipeline Safety: Crimson Pipeline LP's Petition for Declaratory Order Regarding the Requirements for Baseline Integrity Assessments](https://www.indexdata.org/pipeline-safety-crimson-pipeline-lps-petition-for-declaratory-order-regarding-the-requirements-for-baseline-integrity-assessments/)** — `2026-07-14` | `2 Pages`
-- `[`2026-13805`]` **[Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines](https://www.indexdata.org/pipeline-safety-repair-criteria-for-hazardous-liquid-and-gas-transmission-pipelines/)** — `2026-07-08` | `35 Pages`
-- `[`2026-10969`]` **[Pipeline Safety: Breakout Tank Inspection Rule](https://www.indexdata.org/pipeline-safety-breakout-tank-inspection-rule/)** — `2026-06-02` | `9 Pages`
-- `[`2026-10962`]` **[Hazardous Materials: Streamlining Requirements for the Approval of Certain Energetic Materials](https://www.indexdata.org/hazardous-materials-streamlining-requirements-for-the-approval-of-certain-energetic-materials/)** — `2026-06-02` | `18 Pages`
-- `[`2026-10782`]` **[Pipeline Safety: Class Location Change Requirements; Correction](https://www.indexdata.org/pipeline-safety-class-location-change-requirements-correction/)** — `2026-05-29` | `3 Pages`
 
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -1210,6 +1177,36 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2026-11102`]` **[Guidance on Tax-Exempt Refunding Bonds; Hearing](https://www.indexdata.org/guidance-on-tax-exempt-refunding-bonds-hearing/)** — `2026-06-03` | `2 Pages`
 - `[`2026-10963`]` **[Estate Tax Closing Letter User Fee Update](https://www.indexdata.org/estate-tax-closing-letter-user-fee-update-2/)** — `2026-06-02` | `3 Pages`
 - `[`2026-10841`]` **[Income of Foreign Governments and of International Organizations](https://www.indexdata.org/income-of-foreign-governments-and-of-international-organizations/)** — `2026-06-01` | `4 Pages`
+
+### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)
+
+- `[`2026-16111`]` **[Hazardous Materials: Allowing Fireworks Certification Agencies (FCAs) To Approve Professional Fireworks](https://www.indexdata.org/hazardous-materials-allowing-fireworks-certification-agencies-fcas-to-approve-professional-fireworks/)** — `2026-08-07` | `7 Pages`
+- `[`2026-15823`]` **[Hazardous Materials: Reducing Burdens on Domestic Companies Using Battery-Powered Equipment in Trades](https://www.indexdata.org/hazardous-materials-reducing-burdens-on-domestic-companies-using-battery-powered-equipment-in-trades/)** — `2026-08-04` | `5 Pages`
+- `[`2026-15820`]` **[Hazardous Materials: Adoption of Department of Transportation Special Permit 21478](https://www.indexdata.org/hazardous-materials-adoption-of-department-of-transportation-special-permit-21478/)** — `2026-08-04` | `6 Pages`
+- `[`2026-15819`]` **[Hazardous Materials: Adoption of Department of Transportation Special Permit 14175](https://www.indexdata.org/hazardous-materials-adoption-of-department-of-transportation-special-permit-14175/)** — `2026-08-04` | `5 Pages`
+- `[`2026-15818`]` **[Hazardous Materials: Adoption of Department of Transportation Special Permit 21379](https://www.indexdata.org/hazardous-materials-adoption-of-department-of-transportation-special-permit-21379/)** — `2026-08-04` | `6 Pages`
+- `[`2026-15817`]` **[Hazardous Materials: Adoption of Department of Transportation Special Permit 21287](https://www.indexdata.org/hazardous-materials-adoption-of-department-of-transportation-special-permit-21287/)** — `2026-08-04` | `6 Pages`
+- `[`2026-15816`]` **[Hazardous Materials: Adoption of Department of Transportation Special Permits 12412 and 11646 Into the Hazardous Materials Regulations](https://www.indexdata.org/hazardous-materials-adoption-of-department-of-transportation-special-permits-12412-and-11646-into-the-hazardous-materials-regulations/)** — `2026-08-04` | `6 Pages`
+- `[`2026-15815`]` **[Hazardous Materials: Removing Burdensome Rail Reporting Requirements](https://www.indexdata.org/hazardous-materials-removing-burdensome-rail-reporting-requirements/)** — `2026-08-04` | `6 Pages`
+- `[`2026-15814`]` **[Hazardous Materials: Reduce Training Burdens for America's Farmers](https://www.indexdata.org/hazardous-materials-reduce-training-burdens-for-americas-farmers/)** — `2026-08-04` | `4 Pages`
+- `[`2026-15813`]` **[Hazardous Materials: Reducing Recordkeeping Requirements for Domestic Carriers](https://www.indexdata.org/hazardous-materials-reducing-recordkeeping-requirements-for-domestic-carriers/)** — `2026-08-04` | `4 Pages`
+- `[`2026-15812`]` **[Hazardous Materials: Modernizing Payments To and From America's Bank Account](https://www.indexdata.org/hazardous-materials-modernizing-payments-to-and-from-americas-bank-account/)** — `2026-08-04` | `4 Pages`
+- `[`2026-15811`]` **[Hazardous Materials: Improving Efficiencies for Special Permits and Approvals Renewals](https://www.indexdata.org/hazardous-materials-improving-efficiencies-for-special-permits-and-approvals-renewals/)** — `2026-08-04` | `5 Pages`
+- `[`2026-15810`]` **[Hazardous Materials: Reducing Burdens by Allowing Continued Use of Department of Transportation Special Permit Packagings](https://www.indexdata.org/hazardous-materials-reducing-burdens-by-allowing-continued-use-of-department-of-transportation-special-permit-packagings/)** — `2026-08-04` | `6 Pages`
+- `[`2026-15809`]` **[Hazardous Materials: Remove Redundant List of U.S. EPA CERCLA Hazardous Substances](https://www.indexdata.org/hazardous-materials-remove-redundant-list-of-u-s-epa-cercla-hazardous-substances/)** — `2026-08-04` | `6 Pages`
+- `[`2026-15808`]` **[Hazardous Materials: Reducing Undue Paperwork Burdens to Domestic Carriers](https://www.indexdata.org/hazardous-materials-reducing-undue-paperwork-burdens-to-domestic-carriers/)** — `2026-08-04` | `5 Pages`
+- `[`2026-15805`]` **[Hazardous Materials: Reducing Costs to Domestic Shippers and Carriers of Limited Quantities](https://www.indexdata.org/hazardous-materials-reducing-costs-to-domestic-shippers-and-carriers-of-limited-quantities/)** — `2026-08-04` | `4 Pages`
+- `[`2026-15803`]` **[Hazardous Materials: Reducing Burdens on Domestic Aerosol Shippers](https://www.indexdata.org/hazardous-materials-reducing-burdens-on-domestic-aerosol-shippers/)** — `2026-08-04` | `5 Pages`
+- `[`2026-15583`]` **[Pipeline Safety: Standards Update-ASTM A333/A333M](https://www.indexdata.org/pipeline-safety-standards-update-astm-a333-a333m/)** — `2026-07-31` | `2 Pages`
+- `[`2026-15581`]` **[Pipeline Safety: Standards Update-ASTM A372/A372M](https://www.indexdata.org/pipeline-safety-standards-update-astm-a372-a372m/)** — `2026-07-31` | `2 Pages`
+- `[`2026-15577`]` **[Pipeline Safety: Standards Update-ASTM F2767](https://www.indexdata.org/pipeline-safety-standards-update-astm-f2767/)** — `2026-07-31` | `2 Pages`
+- `[`2026-15572`]` **[Pipeline Safety: Standards Update-NFPA 59](https://www.indexdata.org/pipeline-safety-standards-update-nfpa-59/)** — `2026-07-31` | `2 Pages`
+- `[`2026-15569`]` **[Pipeline Safety: Electronic Retention of Part 194 Response Plans](https://www.indexdata.org/pipeline-safety-electronic-retention-of-part-194-response-plans/)** — `2026-07-31` | `2 Pages`
+- `[`2026-14193`]` **[Pipeline Safety: Crimson Pipeline LP's Petition for Declaratory Order Regarding the Requirements for Baseline Integrity Assessments](https://www.indexdata.org/pipeline-safety-crimson-pipeline-lps-petition-for-declaratory-order-regarding-the-requirements-for-baseline-integrity-assessments/)** — `2026-07-14` | `2 Pages`
+- `[`2026-13805`]` **[Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines](https://www.indexdata.org/pipeline-safety-repair-criteria-for-hazardous-liquid-and-gas-transmission-pipelines/)** — `2026-07-08` | `35 Pages`
+- `[`2026-10969`]` **[Pipeline Safety: Breakout Tank Inspection Rule](https://www.indexdata.org/pipeline-safety-breakout-tank-inspection-rule/)** — `2026-06-02` | `9 Pages`
+- `[`2026-10962`]` **[Hazardous Materials: Streamlining Requirements for the Approval of Certain Energetic Materials](https://www.indexdata.org/hazardous-materials-streamlining-requirements-for-the-approval-of-certain-energetic-materials/)** — `2026-06-02` | `18 Pages`
 
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
@@ -1324,6 +1321,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 
+- `[`2026-19207`]` **[Homeland Security Acquisition Regulation, Make Personal Protective Equipment in America Act Restrictions on Foreign Acquisition (HSAR Case 2024-003)](https://www.indexdata.org/homeland-security-acquisition-regulation-make-personal-protective-equipment-in-america-act-restrictions-on-foreign-acquisition-hsar-case-2024-003/)** — `2026-09-18` | `10 Pages`
 - `[`2026-18949`]` **[Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States; Correction](https://www.indexdata.org/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the-united-states-correction/)** — `2026-09-16` | `2 Pages`
 - `[`2026-18631`]` **[Eliminating the Discretionary 60-Day Grace Period](https://www.indexdata.org/eliminating-the-discretionary-60-day-grace-period/)** — `2026-09-11` | `22 Pages`
 - `[`2026-18345`]` **[Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States](https://www.indexdata.org/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the-united-states/)** — `2026-09-09` | `10 Pages`
@@ -1474,6 +1472,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ra
 - `[`2026-15605`]` **[Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements](https://www.indexdata.org/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency-and-other-requirements/)** — `2026-07-31` | `19 Pages`
 - `[`2026-14160`]` **[Certification of Dispatchers; Extension of Comment Period](https://www.indexdata.org/certification-of-dispatchers-extension-of-comment-period/)** — `2026-07-14` | `2 Pages`
 
+### [State Department](https://www.indexdata.org/united-states/state-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+
+- `[`2026-19211`]` **[International Traffic in Arms Regulations: Modification of U.S. Munitions List Category XX(a)](https://www.indexdata.org/international-traffic-in-arms-regulations-modification-of-u-s-munitions-list-category-xxa/)** — `2026-09-18` | `3 Pages`
+- `[`2026-19161`]` **[International Traffic in Arms Regulations: Clarifying Policies of Denial, Updating the Major Non-NATO Ally List, and Minor Corrections](https://www.indexdata.org/international-traffic-in-arms-regulations-clarifying-policies-of-denial-updating-the-major-non-nato-ally-list-and-minor-corrections/)** — `2026-09-18` | `5 Pages`
+- `[`2026-18630`]` **[Amendment to the International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus/)** — `2026-09-11` | `3 Pages`
+- `[`2026-17660`]` **[International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment](https://www.indexdata.org/international-traffic-in-arms-regulations-modification-of-civil-aircraft-to-incorporate-aircraft-survivability-equipment/)** — `2026-08-28` | `5 Pages`
+- `[`2026-17655`]` **[Passports: Expanding Online Passport Renewal Overseas](https://www.indexdata.org/passports-expanding-online-passport-renewal-overseas/)** — `2026-08-28` | `5 Pages`
+- `[`2026-17576`]` **[International Traffic in Arms Regulations: Extension of Temporary Modification of Category XI(b) of the U.S. Munitions List](https://www.indexdata.org/international-traffic-in-arms-regulations-extension-of-temporary-modification-of-category-xib-of-the-u-s-munitions-list/)** — `2026-08-28` | `2 Pages`
+- `[`2026-16207`]` **[Implementation of the Administrative False Claims Act](https://www.indexdata.org/implementation-of-the-administrative-false-claims-act/)** — `2026-08-10` | `6 Pages`
+- `[`2026-15726`]` **[Visas: Visa Bond Program](https://www.indexdata.org/visas-visa-bond-program/)** — `2026-08-03` | `10 Pages`
+- `[`2026-15450`]` **[Exchange Visitor Program-Termination of Program Participation, Extension of Program and Reinstatement to Valid Program Status](https://www.indexdata.org/exchange-visitor-program-termination-of-program-participation-extension-of-program-and-reinstatement-to-valid-program-status/)** — `2026-07-30` | `7 Pages`
+- `[`2026-14943`]` **[International Traffic in Arms Regulations: USML Category I Firearm Suppressors](https://www.indexdata.org/international-traffic-in-arms-regulations-usml-category-i-firearm-suppressors/)** — `2026-07-23` | `3 Pages`
+- `[`2026-13860`]` **[Rescinding Portions of Department of State Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281](https://www.indexdata.org/rescinding-portions-of-department-of-state-title-vi-regulations-to-conform-more-closely-with-the-statutory-text-and-to-implement-executive-order-14281/)** — `2026-07-09` | `7 Pages`
+- `[`2026-12019`]` **[International Traffic in Arms Regulations (ITAR): Part 130 Changes To Reduce Reporting Burden](https://www.indexdata.org/international-traffic-in-arms-regulations-itar-part-130-changes-to-reduce-reporting-burden/)** — `2026-06-15` | `11 Pages`
+- `[`2026-11513`]` **[Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates-Visa and Citizenship Services Fee Changes](https://www.indexdata.org/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and-consulates-visa-and-citizenship-services-fee-changes/)** — `2026-06-09` | `6 Pages`
+
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
@@ -1506,21 +1521,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2026-11094`]` **[Medicaid Program; Community Engagement Requirement for Certain Individuals](https://www.indexdata.org/medicaid-program-community-engagement-requirement-for-certain-individuals-2/)** — `2026-06-03` | `135 Pages`
 - `[`2026-10890`]` **[Medicare Program; Alternative Payment Model Updates and the Increasing Organ Transplant Access (IOTA) Model](https://www.indexdata.org/medicare-program-alternative-payment-model-updates-and-the-increasing-organ-transplant-access-iota-model/)** — `2026-06-01` | `86 Pages`
 
-### [State Department](https://www.indexdata.org/united-states/state-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
 
-- `[`2026-19161`]` **[International Traffic in Arms Regulations: Clarifying Policies of Denial, Updating the Major Non-NATO Ally List, and Minor Corrections](https://www.indexdata.org/international-traffic-in-arms-regulations-clarifying-policies-of-denial-updating-the-major-non-nato-ally-list-and-minor-corrections/)** — `2026-09-18` | `5 Pages`
-- `[`2026-18630`]` **[Amendment to the International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus/)** — `2026-09-11` | `3 Pages`
-- `[`2026-17660`]` **[International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment](https://www.indexdata.org/international-traffic-in-arms-regulations-modification-of-civil-aircraft-to-incorporate-aircraft-survivability-equipment/)** — `2026-08-28` | `5 Pages`
-- `[`2026-17655`]` **[Passports: Expanding Online Passport Renewal Overseas](https://www.indexdata.org/passports-expanding-online-passport-renewal-overseas/)** — `2026-08-28` | `5 Pages`
-- `[`2026-17576`]` **[International Traffic in Arms Regulations: Extension of Temporary Modification of Category XI(b) of the U.S. Munitions List](https://www.indexdata.org/international-traffic-in-arms-regulations-extension-of-temporary-modification-of-category-xib-of-the-u-s-munitions-list/)** — `2026-08-28` | `2 Pages`
-- `[`2026-16207`]` **[Implementation of the Administrative False Claims Act](https://www.indexdata.org/implementation-of-the-administrative-false-claims-act/)** — `2026-08-10` | `6 Pages`
-- `[`2026-15726`]` **[Visas: Visa Bond Program](https://www.indexdata.org/visas-visa-bond-program/)** — `2026-08-03` | `10 Pages`
-- `[`2026-15450`]` **[Exchange Visitor Program-Termination of Program Participation, Extension of Program and Reinstatement to Valid Program Status](https://www.indexdata.org/exchange-visitor-program-termination-of-program-participation-extension-of-program-and-reinstatement-to-valid-program-status/)** — `2026-07-30` | `7 Pages`
-- `[`2026-14943`]` **[International Traffic in Arms Regulations: USML Category I Firearm Suppressors](https://www.indexdata.org/international-traffic-in-arms-regulations-usml-category-i-firearm-suppressors/)** — `2026-07-23` | `3 Pages`
-- `[`2026-13860`]` **[Rescinding Portions of Department of State Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281](https://www.indexdata.org/rescinding-portions-of-department-of-state-title-vi-regulations-to-conform-more-closely-with-the-statutory-text-and-to-implement-executive-order-14281/)** — `2026-07-09` | `7 Pages`
-- `[`2026-12019`]` **[International Traffic in Arms Regulations (ITAR): Part 130 Changes To Reduce Reporting Burden](https://www.indexdata.org/international-traffic-in-arms-regulations-itar-part-130-changes-to-reduce-reporting-burden/)** — `2026-06-15` | `11 Pages`
-- `[`2026-11513`]` **[Schedule of Fees for Consular Services, Department of State and Overseas Embassies and Consulates-Visa and Citizenship Services Fee Changes](https://www.indexdata.org/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and-consulates-visa-and-citizenship-services-fee-changes/)** — `2026-06-09` | `6 Pages`
+- `[`US-PLAW-111`]` **[Lindsey O. Graham Sanctioning Russia and Iran Act of 2026](https://www.indexdata.org/lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/)** — `2026-09-18` | `25 Pages`
+- `[`US-PLAW-110`]` **[Prison Staff Safety Enhancement Act](https://www.indexdata.org/prison-staff-safety-enhancement-act/)** — `2026-09-16` | `3 Pages`
+- `[`US-CDOC-119tdoc2`]` **[Treaty Doc. 119-2 - TAX CONVENTION WITH CROATIA AND PROTOCOL AMENDING THE TAX CONVENTION WITH CROATIA](https://www.indexdata.org/treaty-doc-119-2-tax-convention-with-croatia-and-protocol-amending-the-tax-convention-with-croatia/)** — `2026-09-15` | `63 Pages`
+- `[`US-PLAW-108`]` **[Doug LaMalfa Federal Disaster Tax Relief Certainty Act](https://www.indexdata.org/doug-lamalfa-federal-disaster-tax-relief-certainty-act/)** — `2026-09-11` | `3 Pages`
+- `[`US-PLAW-106`]` **[Stop Secret Spending Act of 2025](https://www.indexdata.org/stop-secret-spending-act-of-2025/)** — `2026-09-11` | `5 Pages`
+- `[`US-PLAW-105`]` **[An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-09-11` | `2 Pages`
+- `[`US-PLAW-103`]` **[Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/continuing-appropriations-and-extensions-act-2027/)** — `2026-09-02` | `24 Pages`
+- `[`US-PLAW-102`]` **[Emergency Conservation Program Improvement Act of 2025](https://www.indexdata.org/emergency-conservation-program-improvement-act-of-2025/)** — `2026-07-12` | `2 Pages`
+- `[`US-PLAW-101`]` **[21st Century ROAD to Housing Act](https://www.indexdata.org/21st-century-road-to-housing-act/)** — `2026-07-11` | `140 Pages`
+- `[`US-PLAW-99`]` **[Alaska's Right to Ivory Sales and Tradition Act" or the "ARTIST Act](https://www.indexdata.org/alaskas-right-to-ivory-sales-and-tradition-act-or-the-artist-act/)** — `2026-06-12` | `4 Pages`
+- `[`US-PLAW-98`]` **[Secure America Act](https://www.indexdata.org/secure-america-act/)** — `2026-06-10` | `5 Pages`
+- `[`US-PLAW-96`]` **[Gerald E. Connolly Esophageal Cancer Awareness Act of 2025](https://www.indexdata.org/gerald-e-connolly-esophageal-cancer-awareness-act-of-2025/)** — `2026-06-09` | `2 Pages`
 
 ### [Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-procurement-policy-office/](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
@@ -1536,21 +1551,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-pr
 - `[`2026-12561`]` **[Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 5, 24, and 29](https://www.indexdata.org/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-5-24-and-29/)** — `2026-06-23` | `20 Pages`
 - `[`2026-12560`]` **[Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 6, 7, 10, 18, 26, 37, and 41](https://www.indexdata.org/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-6-7-10-18-26-37-and-41/)** — `2026-06-23` | `39 Pages`
 - `[`2026-12559`]` **[Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 1, 2, 4, 33, 39, 40, and 53](https://www.indexdata.org/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-1-2-4-33-39-40-and-53/)** — `2026-06-23` | `85 Pages`
-
-### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
-
-- `[`US-PLAW-110`]` **[Prison Staff Safety Enhancement Act](https://www.indexdata.org/prison-staff-safety-enhancement-act/)** — `2026-09-16` | `3 Pages`
-- `[`US-CDOC-119tdoc2`]` **[Treaty Doc. 119-2 - TAX CONVENTION WITH CROATIA AND PROTOCOL AMENDING THE TAX CONVENTION WITH CROATIA](https://www.indexdata.org/treaty-doc-119-2-tax-convention-with-croatia-and-protocol-amending-the-tax-convention-with-croatia/)** — `2026-09-15` | `63 Pages`
-- `[`US-PLAW-108`]` **[Doug LaMalfa Federal Disaster Tax Relief Certainty Act](https://www.indexdata.org/doug-lamalfa-federal-disaster-tax-relief-certainty-act/)** — `2026-09-11` | `3 Pages`
-- `[`US-PLAW-106`]` **[Stop Secret Spending Act of 2025](https://www.indexdata.org/stop-secret-spending-act-of-2025/)** — `2026-09-11` | `5 Pages`
-- `[`US-PLAW-105`]` **[An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-09-11` | `2 Pages`
-- `[`US-PLAW-103`]` **[Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/continuing-appropriations-and-extensions-act-2027/)** — `2026-09-02` | `24 Pages`
-- `[`US-PLAW-102`]` **[Emergency Conservation Program Improvement Act of 2025](https://www.indexdata.org/emergency-conservation-program-improvement-act-of-2025/)** — `2026-07-12` | `2 Pages`
-- `[`US-PLAW-101`]` **[21st Century ROAD to Housing Act](https://www.indexdata.org/21st-century-road-to-housing-act/)** — `2026-07-11` | `140 Pages`
-- `[`US-PLAW-99`]` **[Alaska's Right to Ivory Sales and Tradition Act" or the "ARTIST Act](https://www.indexdata.org/alaskas-right-to-ivory-sales-and-tradition-act-or-the-artist-act/)** — `2026-06-12` | `4 Pages`
-- `[`US-PLAW-98`]` **[Secure America Act](https://www.indexdata.org/secure-america-act/)** — `2026-06-10` | `5 Pages`
-- `[`US-PLAW-96`]` **[Gerald E. Connolly Esophageal Cancer Awareness Act of 2025](https://www.indexdata.org/gerald-e-connolly-esophageal-cancer-awareness-act-of-2025/)** — `2026-06-09` | `2 Pages`
 
 ### [Occupational Safety And Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)

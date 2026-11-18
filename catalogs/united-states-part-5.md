@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,486` across `240` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,490` across `240` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 08:57 UTC`
+**Last Automated Sync:** `2026-11-18 10:00 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`341` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`343` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -57,7 +57,7 @@
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -256,7 +256,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,486)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,490)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -631,12 +631,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-05119`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-161/)** — `2025-03-26` | `3 Pages`
 - `[`2025-05031`]` **[Airworthiness Directives; Embraer S.A. Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-airplanes-9/)** — `2025-03-26` | `3 Pages`
 - `[`2025-05026`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-41/)** — `2025-03-26` | `8 Pages`
-- `[`2025-04567`]` **[Special Conditions: Carson Helicopters Inc., Sikorsky Model S-61A, S-61L, and S-61N (Including Those Modified by Supplemental Type Certificate (STC) No. SH640NE) Helicopters; Overload Protection Device in a Hoist](https://www.indexdata.org/special-conditions-carson-helicopters-inc-sikorsky-model-s-61a-s-61l-and-s-61n-including-those-modified-by-supplemental-type-certificate-stc-no-sh640ne-helicopters-overload-protection-devic/)** — `2025-03-26` | `3 Pages`
-- `[`2025-04986`]` **[Amendment of Class D Airspace; Jupiter, FL](https://www.indexdata.org/amendment-of-class-d-airspace-jupiter-fl-3/)** — `2025-03-25` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-14983`]` **[Air Plan Approval; Wyoming; Revisions to Regional Haze State Implementation Plan](https://www.indexdata.org/air-plan-approval-wyoming-revisions-to-regional-haze-state-implementation-plan/)** — `2025-08-07` | `5 Pages`
+- `[`2025-14982`]` **[Air Plan Approval; Colorado; Inspection and Maintenance Program Revision](https://www.indexdata.org/air-plan-approval-colorado-inspection-and-maintenance-program-revision-2/)** — `2025-08-07` | `5 Pages`
+- `[`2025-14980`]` **[Air Plan Approval; State of Kansas; Attainment Redesignation for the 2008 Lead NAAQS and Associated Maintenance Plan](https://www.indexdata.org/air-plan-approval-state-of-kansas-attainment-redesignation-for-the-2008-lead-naaqs-and-associated-maintenance-plan/)** — `2025-08-07` | `8 Pages`
+- `[`2025-14971`]` **[Air Plan Approval; OR; Update to Materials Incorporated by Reference](https://www.indexdata.org/air-plan-approval-or-update-to-materials-incorporated-by-reference-2/)** — `2025-08-07` | `37 Pages`
 - `[`2025-14889`]` **[Ethyl Formate; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/ethyl-formate-exemption-from-the-requirement-of-a-tolerance/)** — `2025-08-06` | `5 Pages`
 - `[`2025-14887`]` **[Bacillus thuringiensis Cry1A.2 and Cry1B.2 Proteins; Exemptions From the Requirement of a Tolerance](https://www.indexdata.org/bacillus-thuringiensis-cry1a-2-and-cry1b-2-proteins-exemptions-from-the-requirement-of-a-tolerance/)** — `2025-08-06` | `4 Pages`
 - `[`2025-14850`]` **[Air Plan Approval; IA; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-approval-ia-regional-haze-state-implementation-plan-for-the-second-implementation-period/)** — `2025-08-05` | `15 Pages`
@@ -820,7 +822,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-05173`]` **[Pseudomonas Oryzihabitans Strain SYM23945; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/pseudomonas-oryzihabitans-strain-sym23945-exemption-from-the-requirement-of-a-tolerance/)** — `2025-03-27` | `3 Pages`
 - `[`2025-05157`]` **[Interim Final Determination To Stay or Defer Sanctions; California; Antelope Valley Air Quality Management District](https://www.indexdata.org/interim-final-determination-to-stay-or-defer-sanctions-california-antelope-valley-air-quality-management-district/)** — `2025-03-26` | `3 Pages`
 - `[`2025-05156`]` **[Air Plan Revisions; California; Antelope Valley Air Quality Management District; New Source Review; Stationary Source Permits](https://www.indexdata.org/air-plan-revisions-california-antelope-valley-air-quality-management-district-new-source-review-stationary-source-permits-3/)** — `2025-03-26` | `5 Pages`
-- `[`2025-04990`]` **[Review of New Source Performance Standards for Stationary Combustion Turbines and Stationary Gas Turbines; Reopening of Comment Period](https://www.indexdata.org/review-of-new-source-performance-standards-for-stationary-combustion-turbines-and-stationary-gas-turbines-reopening-of-comment-period/)** — `2025-03-25` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1305,7 +1306,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2025-05848`]` **[Radio Broadcasting Services; Various Locations](https://www.indexdata.org/radio-broadcasting-services-various-locations-5/)** — `2025-04-04` | `2 Pages`
 - `[`2025-05614`]` **[Wireless Telecommunications Bureau Seeks Comment on Petition Seeking Clarification and Reconsideration of the Alaska Connect Fund Order](https://www.indexdata.org/wireless-telecommunications-bureau-seeks-comment-on-petition-seeking-clarification-and-reconsideration-of-the-alaska-connect-fund-order/)** — `2025-04-02` | `2 Pages`
 - `[`2025-05104`]` **[Radio Broadcasting Services; Matador, Texas](https://www.indexdata.org/radio-broadcasting-services-matador-texas/)** — `2025-03-26` | `2 Pages`
-- `[`2025-05014`]` **[Television Broadcasting Services Las Vegas, Nevada](https://www.indexdata.org/television-broadcasting-services-las-vegas-nevada-2/)** — `2025-03-25` | `2 Pages`
 
 ### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)

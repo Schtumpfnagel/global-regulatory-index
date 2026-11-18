@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,486` across `240` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,490` across `240` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 08:57 UTC`
+**Last Automated Sync:** `2026-11-18 10:00 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`341` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`343` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -57,7 +57,7 @@
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -256,7 +256,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,486)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,490)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -355,6 +355,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr9614eh`]` **[H.R. 9614 (EH) - NRC Staff Pay Alignment Act](https://www.indexdata.org/h-r-9614-eh-nrc-staff-pay-alignment-act/)** — `2026-11-01` | `6 Pages`
 - `[`US-BILLS-119hr9613eh`]` **[H.R. 9613 (EH) - Nuclear Advisory Committee Reform Act](https://www.indexdata.org/h-r-9613-eh-nuclear-advisory-committee-reform-act/)** — `2026-11-01` | `8 Pages`
 - `[`US-BILLS-119hr9612eh`]` **[H.R. 9612 (EH) - American Enrichment Deployment Act](https://www.indexdata.org/h-r-9612-eh-american-enrichment-deployment-act/)** — `2026-11-01` | `4 Pages`
+- `[`US-BILLS-119hr9608rh`]` **[H.R. 9608 (RH) - Less Bureaucracy, Better Family Engagement Act](https://www.indexdata.org/h-r-9608-rh-less-bureaucracy-better-family-engagement-act/)** — `2026-11-01` | `12 Pages`
 - `[`US-BILLS-119hr8552enr`]` **[H.R. 8552 (ENR) - Veterans’ Compensation Cost-of-Living Adjustment Act of 2026](https://www.indexdata.org/h-r-8552-enr-veterans-compensation-cost-of-living-adjustment-act-of-2026/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr5525rh`]` **[H.R. 5525 (RH) - Stop DC Capital Authoritarian Motorvehicle Enforcement and Restoration of Autonomy Act](https://www.indexdata.org/h-r-5525-rh-stop-dc-capital-authoritarian-motorvehicle-enforcement-and-restoration-of-autonomy-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr3978eh`]` **[H.R. 3978 (EH) - Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act](https://www.indexdata.org/h-r-3978-eh-nuclear-refuel-recycling-efficient-fuels-utilizing-expedited-licensing-act/)** — `2026-11-01` | `4 Pages`
@@ -390,6 +391,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr10329rfs`]` **[H.R. 10329 (RFS) - Combating Foreign Threats to Main Street Act of 2026](https://www.indexdata.org/h-r-10329-rfs-combating-foreign-threats-to-main-street-act-of-2026/)** — `2026-11-01` | `6 Pages`
 - `[`US-BILLS-119hr10238rfs`]` **[H.R. 10238 (RFS) - Cybersecurity for Small Businesses Act of 2026](https://www.indexdata.org/h-r-10238-rfs-cybersecurity-for-small-businesses-act-of-2026/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr1013rfs`]` **[H.R. 1013 (RFS) - Retirement Fairness for Charities and Educational Institutions Act of 2025](https://www.indexdata.org/h-r-1013-rfs-retirement-fairness-for-charities-and-educational-institutions-act-of-2025/)** — `2026-11-01` | `7 Pages`
+- `[`US-BILLS-119hjres222ih`]` **[H.J. Res. 222 (IH) - Proposing an amendment to the Constitution of the United States to prohibit any person who has citizenship of a country other than the United States from serving as a Representative or Senator in Congress.](https://www.indexdata.org/h-j-res-222-ih-proposing-an-amendment-to-the-constitution-of-the-united-states-to-prohibit-any-person-who-has-citizenship-of-a-country-other-than-the-united-states-from-serving-as-a-representati/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hconres126ih`]` **[H. Con. Res. 126 (IH) - Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.](https://www.indexdata.org/h-con-res-126-ih-directing-the-president-pursuant-to-section-5c-of-the-war-powers-resolution-to-remove-united-states-armed-forces-from-hostilities-with-iran/)** — `2026-11-01` | `2 Pages`
 - `[`US-CRPT-119hrpt856`]` **[H. Rept. 119-856](https://www.indexdata.org/h-rept-119-856/)** — `2026-10-31` | `4 Pages`
 - `[`US-BILLS-119hr10933ih`]` **[H.R. 10933 (IH) - EMS Supporting Personnel, Operations, Upgrades, Resources, and Training Act of 2026](https://www.indexdata.org/h-r-10933-ih-ems-supporting-personnel-operations-upgrades-resources-and-training-act-of-2026/)** — `2026-10-31` | `12 Pages`
@@ -733,6 +735,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-CHRG-119shrg63867`]` **[S. Hrg. 119-422 - OPEN HEARING: NOMINATIONS OF DR. ROGER MASON TO BE DIRECTOR OF THE NATIONAL RECONNAISSANCE OFFICE AND MR. MICHAEL VANCE TO BE ASSISTANT SECRETARY OF STATE FOR INTELLIGENCE AND RESEARCH](https://www.indexdata.org/s-hrg-119-422-open-hearing-nominations-of-dr-roger-mason-to-be-director-of-the-national-reconnaissance-office-and-mr-michael-vance-to-be-assistant-secretary-of-state-for-intelligence-and-resear/)** — `2026-11-01` | `119 Pages`
 - `[`US-BILLS-119sres722is`]` **[S. Res. 722 (IS) - Addressing the politicization of war crimes allegations against allied special operations forces.](https://www.indexdata.org/s-res-722-is-addressing-the-politicization-of-war-crimes-allegations-against-allied-special-operations-forces/)** — `2026-11-01` | `5 Pages`
 - `[`US-BILLS-119sres718ats`]` **[S. Res. 718 (ATS) - A resolution commending and congratulating the University of California, Los Angeles Bruins women’s basketball team for winning the 2026 National Collegiate Athletic Association Division I Women’s Basketball National Championship.](https://www.indexdata.org/s-res-718-ats-a-resolution-commending-and-congratulating-the-university-of-california-los-angeles-bruins-womens-basketball-team-for-winning-the-2026-national-collegiate-athletic-associ/)** — `2026-11-01` | `3 Pages`
+- `[`US-BILLS-119s5718is`]` **[S. 5718 (IS) - Trucker Bathroom Access Act](https://www.indexdata.org/s-5718-is-trucker-bathroom-access-act/)** — `2026-11-01` | `5 Pages`
+- `[`US-BILLS-119s5715is`]` **[S. 5715 (IS) - End Veteran Homelessness Act of 2026](https://www.indexdata.org/s-5715-is-end-veteran-homelessness-act-of-2026/)** — `2026-11-01` | `10 Pages`
 - `[`US-BILLS-119s5714is`]` **[S. 5714 (IS) - Competition in Professional Baseball Act](https://www.indexdata.org/s-5714-is-competition-in-professional-baseball-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119s5708is`]` **[S. 5708 (IS) - Master Sergeant Roy P. Benavidez VA Clinic Act of 2026](https://www.indexdata.org/s-5708-is-master-sergeant-roy-p-benavidez-va-clinic-act-of-2026/)** — `2026-11-01` | `9 Pages`
 - `[`US-BILLS-119s5704is`]` **[S. 5704 (IS) - Helping Emergency Responders Overcome Act](https://www.indexdata.org/s-5704-is-helping-emergency-responders-overcome-act/)** — `2026-11-01` | `13 Pages`
@@ -947,7 +951,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-PLAW-119publ108`]` **[Public Law 119 - 108 - Doug LaMalfa Federal Disaster Tax Relief Certainty Act](https://www.indexdata.org/public-law-119-108-doug-lamalfa-federal-disaster-tax-relief-certainty-act/)** — `2026-09-23` | `3 Pages`
 - `[`US-PLAW-119publ106`]` **[Public Law 119 - 106 - Stop Secret Spending Act of 2025](https://www.indexdata.org/public-law-119-106-stop-secret-spending-act-of-2025/)** — `2026-09-21` | `5 Pages`
 - `[`US-PLAW-119publ103`]` **[Public Law 119 - 103 - Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/public-law-119-103-continuing-appropriations-and-extensions-act-2027/)** — `2026-09-21` | `24 Pages`
-- `[`US-PLAW-111`]` **[Lindsey O. Graham Sanctioning Russia and Iran Act of 2026](https://www.indexdata.org/lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/)** — `2026-09-18` | `25 Pages`
 
 ### [U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-energy-doe/](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
@@ -1635,18 +1638,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-19260`]` **[Rescission of Rule 14a-8's Federal Regulation of Shareholder Proposals and Amendments to Rule 14a-4](https://www.indexdata.org/rescission-of-rule-14a-8s-federal-regulation-of-shareholder-proposals-and-amendments-to-rule-14a-4/)** — `2026-09-21` | `64 Pages`
 - `[`2026-19259`]` **[Proxy Solicitation Modernization](https://www.indexdata.org/proxy-solicitation-modernization/)** — `2026-09-21` | `50 Pages`
 
-### [State Department](https://www.indexdata.org/united-states/state-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
-
-- `[`US-FR-2026-23317`]` **[Pilot for Online Version of Application for a U.S. Passport (Form DS-11)](https://www.indexdata.org/pilot-for-online-version-of-application-for-a-u-s-passport-form-ds-11/)** — `2026-11-14` | `3 Pages`
-- `[`US-FRPI-2026-23240`]` **[Designation as Terrorist or Global Terrorist: Los Lorenzanas](https://www.indexdata.org/designation-as-terrorist-or-global-terrorist-los-lorenzanas/)** — `2026-11-13` | `2 Pages`
-- `[`US-FRPI-2026-23317`]` **[Pilot for Online Version of Application for a U.S. Passport](https://www.indexdata.org/pilot-for-online-version-of-application-for-a-u-s-passport/)** — `2026-11-12` | `7 Pages`
-- `[`US-FRPI-2026-22875`]` **[Agency Information Collection Activities; Proposals, Submissions, and Approvals: Improving Customer Experience (OMB Circular A-11, Section 280 Implementation)](https://www.indexdata.org/agency-information-collection-activities-proposals-submissions-and-approvals-improving-customer-experience-omb-circular-a-11-section-280-implementation/)** — `2026-11-09` | `4 Pages`
-- `[`2026-20082`]` **[International Traffic in Arms Regulations: Syria Country Policy Revision](https://www.indexdata.org/international-traffic-in-arms-regulations-syria-country-policy-revision/)** — `2026-10-01` | `2 Pages`
-- `[`2026-20079`]` **[International Traffic in Arms Regulations (ITAR): Review of the U.S. Munitions List and Related Definitions and License Exemptions](https://www.indexdata.org/international-traffic-in-arms-regulations-itar-review-of-the-u-s-munitions-list-and-related-definitions-and-license-exemptions/)** — `2026-10-01` | `8 Pages`
-- `[`2026-19223`]` **[Public Access to Information](https://www.indexdata.org/public-access-to-information/)** — `2026-09-21` | `8 Pages`
-- `[`2026-19211`]` **[International Traffic in Arms Regulations: Modification of U.S. Munitions List Category XX(a)](https://www.indexdata.org/international-traffic-in-arms-regulations-modification-of-u-s-munitions-list-category-xxa/)** — `2026-09-18` | `3 Pages`
-
 ### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 
@@ -1680,6 +1671,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2026-19370`]` **[Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M)](https://www.indexdata.org/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult-male-dummy-thor-50m/)** — `2026-09-22` | `9 Pages`
 - `[`2026-19242`]` **[Federal Motor Vehicle Safety Standards; Denial of a Petition for Rulemaking](https://www.indexdata.org/federal-motor-vehicle-safety-standards-denial-of-a-petition-for-rulemaking/)** — `2026-09-21` | `2 Pages`
 
+### [State Department](https://www.indexdata.org/united-states/state-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+
+- `[`US-FR-2026-23317`]` **[Pilot for Online Version of Application for a U.S. Passport (Form DS-11)](https://www.indexdata.org/pilot-for-online-version-of-application-for-a-u-s-passport-form-ds-11/)** — `2026-11-14` | `3 Pages`
+- `[`US-FRPI-2026-23240`]` **[Designation as Terrorist or Global Terrorist: Los Lorenzanas](https://www.indexdata.org/designation-as-terrorist-or-global-terrorist-los-lorenzanas/)** — `2026-11-13` | `2 Pages`
+- `[`US-FRPI-2026-23317`]` **[Pilot for Online Version of Application for a U.S. Passport](https://www.indexdata.org/pilot-for-online-version-of-application-for-a-u-s-passport/)** — `2026-11-12` | `7 Pages`
+- `[`US-FRPI-2026-22875`]` **[Agency Information Collection Activities; Proposals, Submissions, and Approvals: Improving Customer Experience (OMB Circular A-11, Section 280 Implementation)](https://www.indexdata.org/agency-information-collection-activities-proposals-submissions-and-approvals-improving-customer-experience-omb-circular-a-11-section-280-implementation/)** — `2026-11-09` | `4 Pages`
+- `[`2026-20082`]` **[International Traffic in Arms Regulations: Syria Country Policy Revision](https://www.indexdata.org/international-traffic-in-arms-regulations-syria-country-policy-revision/)** — `2026-10-01` | `2 Pages`
+- `[`2026-20079`]` **[International Traffic in Arms Regulations (ITAR): Review of the U.S. Munitions List and Related Definitions and License Exemptions](https://www.indexdata.org/international-traffic-in-arms-regulations-itar-review-of-the-u-s-munitions-list-and-related-definitions-and-license-exemptions/)** — `2026-10-01` | `8 Pages`
+- `[`2026-19223`]` **[Public Access to Information](https://www.indexdata.org/public-access-to-information/)** — `2026-09-21` | `8 Pages`
+
 ### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 
@@ -1711,16 +1713,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-n
 - `[`2026-22679`]` **[Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Online Ordering and Transactions and Food Delivery Revisions To Meet the Needs of a Modern, Data-Driven Program](https://www.indexdata.org/special-supplemental-nutrition-program-for-women-infants-and-children-wic-online-ordering-and-transactions-and-food-delivery-revisions-to-meet-the-needs-of-a-modern-data-driven-program/)** — `2026-11-06` | `32 Pages`
 - `[`2026-21658`]` **[Supplemental Nutrition Assistance Program: Electronic Benefits Transfer Card Security Measures](https://www.indexdata.org/supplemental-nutrition-assistance-program-electronic-benefits-transfer-card-security-measures/)** — `2026-10-23` | `40 Pages`
 
-### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
-
-- `[`2026-20956`]` **[Removing 30-Day Refugee Termination Notice](https://www.indexdata.org/removing-30-day-refugee-termination-notice/)** — `2026-10-14` | `15 Pages`
-- `[`2026-20955`]` **[Removal of Automatic Extensions for Certain Employment Authorization Documents](https://www.indexdata.org/removal-of-automatic-extensions-for-certain-employment-authorization-documents/)** — `2026-10-14` | `63 Pages`
-- `[`2026-20941`]` **[Removing Deference to Prior USCIS Determinations of Eligibility](https://www.indexdata.org/removing-deference-to-prior-uscis-determinations-of-eligibility/)** — `2026-10-14` | `15 Pages`
-- `[`2026-20660`]` **[Optional Practical Training Fees](https://www.indexdata.org/optional-practical-training-fees/)** — `2026-10-08` | `35 Pages`
-- `[`2026-20016`]` **[U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule](https://www.indexdata.org/u-s-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee-rule/)** — `2026-09-30` | `46 Pages`
-- `[`2026-19207`]` **[Homeland Security Acquisition Regulation, Make Personal Protective Equipment in America Act Restrictions on Foreign Acquisition (HSAR Case 2024-003)](https://www.indexdata.org/homeland-security-acquisition-regulation-make-personal-protective-equipment-in-america-act-restrictions-on-foreign-acquisition-hsar-case-2024-003/)** — `2026-09-18` | `10 Pages`
-
 ### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 
@@ -1730,16 +1722,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2026-21060`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-2/)** — `2026-10-15` | `3 Pages`
 - `[`2026-20532`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-4/)** — `2026-10-07` | `4 Pages`
 - `[`2026-19642`]` **[Department of Justice; Response to Correspondence Requesting Rulemaking](https://www.indexdata.org/department-of-justice-response-to-correspondence-requesting-rulemaking/)** — `2026-09-25` | `4 Pages`
-
-### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
-
-- `[`US-FR-2026-22837`]` **[Privacy Act of 1974; System of Records](https://www.indexdata.org/privacy-act-of-1974-system-of-records-2/)** — `2026-11-08` | `4 Pages`
-- `[`2026-22093`]` **[Personnel Management in Agencies: Strategic Human Capital Management](https://www.indexdata.org/personnel-management-in-agencies-strategic-human-capital-management-2/)** — `2026-10-29` | `13 Pages`
-- `[`2026-21320`]` **[Administrative Leave for Workforce Realignment and Other Purposes](https://www.indexdata.org/administrative-leave-for-workforce-realignment-and-other-purposes/)** — `2026-10-19` | `17 Pages`
-- `[`2026-21319`]` **[Elimination of Time-in-Grade](https://www.indexdata.org/elimination-of-time-in-grade/)** — `2026-10-19` | `18 Pages`
-- `[`2026-21104`]` **[Family and Medical Leave Act](https://www.indexdata.org/family-and-medical-leave-act/)** — `2026-10-15` | `5 Pages`
-- `[`2026-19222`]` **[Employment in the Excepted Service](https://www.indexdata.org/employment-in-the-excepted-service/)** — `2026-09-18` | `23 Pages`
 
 ### [U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
@@ -1778,6 +1760,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2026-20123`]` **[General Provisions; Revised List of Birds Protected by the Migratory Bird Treaty Act](https://www.indexdata.org/general-provisions-revised-list-of-birds-protected-by-the-migratory-bird-treaty-act/)** — `2026-10-01` | `47 Pages`
 - `[`2026-19723`]` **[National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations; Correction](https://www.indexdata.org/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations-correction/)** — `2026-09-25` | `3 Pages`
 
+### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
+
+- `[`2026-20956`]` **[Removing 30-Day Refugee Termination Notice](https://www.indexdata.org/removing-30-day-refugee-termination-notice/)** — `2026-10-14` | `15 Pages`
+- `[`2026-20955`]` **[Removal of Automatic Extensions for Certain Employment Authorization Documents](https://www.indexdata.org/removal-of-automatic-extensions-for-certain-employment-authorization-documents/)** — `2026-10-14` | `63 Pages`
+- `[`2026-20941`]` **[Removing Deference to Prior USCIS Determinations of Eligibility](https://www.indexdata.org/removing-deference-to-prior-uscis-determinations-of-eligibility/)** — `2026-10-14` | `15 Pages`
+- `[`2026-20660`]` **[Optional Practical Training Fees](https://www.indexdata.org/optional-practical-training-fees/)** — `2026-10-08` | `35 Pages`
+- `[`2026-20016`]` **[U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule](https://www.indexdata.org/u-s-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee-rule/)** — `2026-09-30` | `46 Pages`
+
 ### [International Trade Administration](https://www.indexdata.org/united-states/international-trade-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/international-trade-administration/](https://www.indexdata.org/united-states/international-trade-administration/) | [RSS Feed](https://www.indexdata.org/united-states/international-trade-administration/feed/)
 
@@ -1804,6 +1795,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-p
 - `[`US-FRPI-2026-22986`]` **[Repatriation of Cultural Items: Longyear Museum of Anthropology, Colgate University, Hamilton, NY](https://www.indexdata.org/repatriation-of-cultural-items-longyear-museum-of-anthropology-colgate-university-hamilton-ny/)** — `2026-11-10` | `4 Pages`
 - `[`US-FRPI-2026-22985`]` **[Inventory Completion: Verde Valley Archaeology Center and Museum, Camp Verde, AZ](https://www.indexdata.org/inventory-completion-verde-valley-archaeology-center-and-museum-camp-verde-az/)** — `2026-11-10` | `3 Pages`
 - `[`US-FRPI-2026-22984`]` **[Inventory Completion: U.S. Department of Agriculture, Forest Service, Fremont-Winema National Forest, Lakeview, OR](https://www.indexdata.org/inventory-completion-u-s-department-of-agriculture-forest-service-fremont-winema-national-forest-lakeview-or/)** — `2026-11-10` | `3 Pages`
+
+### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
+
+- `[`US-FR-2026-22837`]` **[Privacy Act of 1974; System of Records](https://www.indexdata.org/privacy-act-of-1974-system-of-records-2/)** — `2026-11-08` | `4 Pages`
+- `[`2026-22093`]` **[Personnel Management in Agencies: Strategic Human Capital Management](https://www.indexdata.org/personnel-management-in-agencies-strategic-human-capital-management-2/)** — `2026-10-29` | `13 Pages`
+- `[`2026-21320`]` **[Administrative Leave for Workforce Realignment and Other Purposes](https://www.indexdata.org/administrative-leave-for-workforce-realignment-and-other-purposes/)** — `2026-10-19` | `17 Pages`
+- `[`2026-21319`]` **[Elimination of Time-in-Grade](https://www.indexdata.org/elimination-of-time-in-grade/)** — `2026-10-19` | `18 Pages`
+- `[`2026-21104`]` **[Family and Medical Leave Act](https://www.indexdata.org/family-and-medical-leave-act/)** — `2026-10-15` | `5 Pages`
 
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
