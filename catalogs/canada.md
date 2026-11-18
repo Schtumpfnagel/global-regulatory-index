@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,388` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,392` across `34` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-18 19:56 UTC`
+**Last Automated Sync:** `2026-11-18 20:55 UTC`
 
 ---
 
@@ -32,7 +32,7 @@
 - **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
 - **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
-- **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
+- **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
@@ -50,7 +50,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,388)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,392)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -960,10 +960,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-78-148`]` **[Special Voting Rules](https://www.indexdata.org/special-voting-rules/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-78-145`]` **[Protection of Personal Information Regulations](https://www.indexdata.org/protection-of-personal-information-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-78-136`]` **[Winter Pears Stabilization Regulations](https://www.indexdata.org/winter-pears-stabilization-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-77-665`]` **[Kananaskis Falls Water Power Regulations](https://www.indexdata.org/kananaskis-falls-water-power-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-77-664`]` **[Horseshoe Falls Water Power Regulations](https://www.indexdata.org/horseshoe-falls-water-power-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-76-40`]` **[Astoria River Water Power Regulations](https://www.indexdata.org/astoria-river-water-power-regulations/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-75-24`]` **[Home Buyer Grant Regulations](https://www.indexdata.org/home-buyer-grant-regulations/)** — `2026-09-30` | `7 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1580,6 +1576,10 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/agriculture-and-a
 ### [Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/government-of-northwest-territories/](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 
+- `[`CA-OPEN-a800e17b-5c79-f46b-532f`]` **[Mineral Tenure All — Mineral Tenure Viewer User Manual](https://www.indexdata.org/mineral-tenure-all-mineral-tenure-viewer-user-manual/)** — `2026-11-18` | `19 Pages`
+- `[`CA-OPEN-9e17b0bc-8ad5-07ad-601e`]` **[Commissioner of Lands Administration Atlas Website — Atlas Map Viewer User Manual](https://www.indexdata.org/commissioner-of-lands-administration-atlas-website-atlas-map-viewer-user-manual/)** — `2026-11-18` | `26 Pages`
+- `[`CA-OPEN-945d430c-03e6-5869-27b5`]` **[NWT Species and Habitat Viewer — Species and Habitat Viewer Map Legend](https://www.indexdata.org/nwt-species-and-habitat-viewer-species-and-habitat-viewer-map-legend/)** — `2026-11-18` | `4 Pages`
+- `[`CA-OPEN-0c2daee6-af2e-e019-a235`]` **[NWT Cumulative Impact Monitoring Program (CIMP) Inventory of Landscape Change Web Viewer — Inventory of Landscape Change Map Legend](https://www.indexdata.org/nwt-cumulative-impact-monitoring-program-cimp-inventory-of-landscape-change-web-viewer-inventory-of-landscape-change-map-legend/)** — `2026-11-18` | `2 Pages`
 - `[`CA-OPEN-9f5ae44b-8bc2-eaae-f3cb-6e40b3ef19f3`]` **[Blank community map of Fort Mcpherson](https://www.indexdata.org/blank-community-map-of-fort-mcpherson/)** — `2026-10-28` | `2 Pages`
 - `[`CA-OPEN-945d430c-03e6-5869-27b5-b897a086938a`]` **[NWT Species and Habitat Viewer](https://www.indexdata.org/nwt-species-and-habitat-viewer/)** — `2026-10-28` | `4 Pages`
 - `[`CA-OPEN-0c2daee6-af2e-e019-a235-594d97399118`]` **[NWT Cumulative Impact Monitoring Program (CIMP) Inventory of Landscape Change Web Viewer](https://www.indexdata.org/nwt-cumulative-impact-monitoring-program-cimp-inventory-of-landscape-change-web-viewer/)** — `2026-10-28` | `2 Pages`

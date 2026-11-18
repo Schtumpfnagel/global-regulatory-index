@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,388` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,392` across `34` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | **[Part 2 (Current)]** | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-18 19:56 UTC`
+**Last Automated Sync:** `2026-11-18 20:55 UTC`
 
 ---
 
@@ -32,7 +32,7 @@
 - **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
 - **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
-- **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
+- **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
@@ -50,11 +50,15 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,388)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,392)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`SOR-77-665`]` **[Kananaskis Falls Water Power Regulations](https://www.indexdata.org/kananaskis-falls-water-power-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-77-664`]` **[Horseshoe Falls Water Power Regulations](https://www.indexdata.org/horseshoe-falls-water-power-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-76-40`]` **[Astoria River Water Power Regulations](https://www.indexdata.org/astoria-river-water-power-regulations/)** — `2026-09-30` | `5 Pages`
+- `[`SOR-75-24`]` **[Home Buyer Grant Regulations](https://www.indexdata.org/home-buyer-grant-regulations/)** — `2026-09-30` | `7 Pages`
 - `[`SOR-74-431`]` **[Teslin Exploration Limited Order](https://www.indexdata.org/teslin-exploration-limited-order/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-73-681`]` **[Foreign Claims (Czechoslovakia) Settlement Regulations](https://www.indexdata.org/foreign-claims-czechoslovakia-settlement-regulations/)** — `2026-09-30` | `9 Pages`
 - `[`SOR-73-558`]` **[Rosabel Jeanette Pryce Housing Regulations](https://www.indexdata.org/rosabel-jeanette-pryce-housing-regulations/)** — `2026-09-30` | `5 Pages`
@@ -1030,9 +1034,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-2002-102`]` **[Index-linked Deposits Interest Disclosure Regulations](https://www.indexdata.org/index-linked-deposits-interest-disclosure-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-2001-8`]` **[Order Binding Certain Agents of Her Majesty for the Purposes of Part 1 of the Personal Information Protection and Electronic Documents Act](https://www.indexdata.org/order-binding-certain-agents-of-her-majesty-for-the-purposes-of-part-1-of-the-personal-information-protection-and-electronic-documents-act/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-2001-7`]` **[Regulations Specifying Publicly Available Information](https://www.indexdata.org/regulations-specifying-publicly-available-information/)** — `2026-09-30` | `5 Pages`
-- `[`SOR-2001-6`]` **[Regulations Specifying Investigative Bodies](https://www.indexdata.org/regulations-specifying-investigative-bodies/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2001-59`]` **[Supervisory Information (Banks) Regulations](https://www.indexdata.org/supervisory-information-banks-regulations/)** — `2026-09-30` | `7 Pages`
-- `[`SOR-2001-58`]` **[Supervisory Information (Authorized Foreign Banks) Regulations](https://www.indexdata.org/supervisory-information-authorized-foreign-banks-regulations/)** — `2026-09-30` | `6 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1303,7 +1304,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-fin
 - `[`SOR-2002-106`]` **[Notice of Branch Closure (Trust and Loan Companies) Regulations](https://www.indexdata.org/notice-of-branch-closure-trust-and-loan-companies-regulations/)** — `2026-09-30` | `13 Pages`
 - `[`SOR-2002-101`]` **[Financial Consumer Agency of Canada Designated Violations Regulations](https://www.indexdata.org/financial-consumer-agency-of-canada-designated-violations-regulations/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-2001-66`]` **[Property Supplied by Auction (GST/HST) Regulations](https://www.indexdata.org/property-supplied-by-auction-gst-hst-regulations/)** — `2026-09-30` | `6 Pages`
-- `[`SOR-2001-65`]` **[Deduction for Provincial Rebate (GST/HST) Regulations](https://www.indexdata.org/deduction-for-provincial-rebate-gst-hst-regulations/)** — `2026-09-30` | `18 Pages`
 
 ### [Global Affairs Canada](https://www.indexdata.org/canada/global-affairs-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/global-affairs-canada/](https://www.indexdata.org/canada/global-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/global-affairs-canada/feed/)

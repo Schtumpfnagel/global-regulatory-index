@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,388` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,392` across `34` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-18 19:56 UTC`
+**Last Automated Sync:** `2026-11-18 20:55 UTC`
 
 ---
 
@@ -32,7 +32,7 @@
 - **[Fisheries and Oceans Canada](https://www.indexdata.org/canada/fisheries-and-oceans-canada/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/canada/fisheries-and-oceans-canada/) | [RSS Feed](https://www.indexdata.org/canada/fisheries-and-oceans-canada/feed/)
 - **[Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)
 - **[International Development Research Centre](https://www.indexdata.org/canada/international-development-research-centre/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/canada/international-development-research-centre/) | [RSS Feed](https://www.indexdata.org/canada/international-development-research-centre/feed/)
-- **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
+- **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
 - **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
@@ -50,11 +50,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,388 of 5,388)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,392 of 5,392)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`R-4`]` **[Railway Relocation and Crossing Act](https://www.indexdata.org/railway-relocation-and-crossing-act/)** — `2026-09-30` | `15 Pages`
+- `[`R-3.3`]` **[Railway Continuation Act, 2007](https://www.indexdata.org/railway-continuation-act-2007/)** — `2026-09-30` | `3 Pages`
+- `[`R-3.25`]` **[Railway Belt Water Act](https://www.indexdata.org/railway-belt-water-act/)** — `2026-09-30` | `10 Pages`
 - `[`R-3.2`]` **[Railway Belt Act](https://www.indexdata.org/railway-belt-act/)** — `2026-09-30` | `6 Pages`
 - `[`R-12.1`]` **[Royal Style and Titles Act, 2023](https://www.indexdata.org/royal-style-and-titles-act-2023/)** — `2026-09-30` | `4 Pages`
 - `[`R-12`]` **[Royal Style and Titles Act](https://www.indexdata.org/royal-style-and-titles-act/)** — `2026-09-30` | `5 Pages`
@@ -734,6 +737,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/government-and-mu
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
 
+- `[`R-4.2`]` **[Railway Safety Act](https://www.indexdata.org/railway-safety-act/)** — `2026-09-30` | `95 Pages`
 - `[`Q-1.7`]` **[Quebec Harbor, Port Warden Act](https://www.indexdata.org/quebec-harbor-port-warden-act/)** — `2026-09-30` | `12 Pages`
 - `[`P-15.44`]` **[Port of Montreal Operations Act, 2021](https://www.indexdata.org/port-of-montreal-operations-act-2021/)** — `2026-09-30` | `11 Pages`
 - `[`P-14`]` **[Pilotage Act](https://www.indexdata.org/pilotage-act/)** — `2026-09-30` | `69 Pages`
