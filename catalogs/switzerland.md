@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/switzerland/feed/](https://www.indexdata.org/switzerland/feed/)  
 **Wikidata Sovereign Entity:** [`Q39`](https://www.wikidata.org/wiki/Q39)  
 **Governing Open-Government Framework:** *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)*  
-**Total Indexed Dossiers in Switzerland:** `190` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-18 10:59 UTC`
+**Total Indexed Dossiers in Switzerland:** `191` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-18 12:02 UTC`
 
 ---
 
 ## Issuing Authorities in Switzerland (5 Authorities)
 
-- **[Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
+- **[Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)** (`119` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
 - **[Federal Department of Justice and Police (FDJP)](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/feed/)
 - **[EnviDat: the Environmental Data Portal](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/) | [RSS Feed](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/feed/)
 - **[Federal Department of Economic Affairs, Education and Research (EAER)](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/feed/)
@@ -20,7 +20,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–190 of 190)
+## Indexed Statutory & Regulatory Dossiers (Records 1–191 of 191)
 
 ### [Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)
 Canonical Authority Archive: [https://www.indexdata.org/switzerland/federal-statistical-office-fso/](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
@@ -79,6 +79,7 @@ Canonical Authority Archive: [https://www.indexdata.org/switzerland/federal-stat
 - `[`CH-OGD-6b82f4be-3c90-42`]` **[Healthcare - Pocket Statistics 2022](https://www.indexdata.org/healthcare-pocket-statistics-2022/)** — `2022-02-18` | `36 Pages`
 - `[`CH-OGD-bda1f1c9-2d1f-46`]` **[Swiss tourism statistics 2020](https://www.indexdata.org/swiss-tourism-statistics-2020/)** — `2022-02-10` | `48 Pages`
 - `[`CH-OGD-96c1cd18-48c2-48`]` **[Agglomeration portraits 2021](https://www.indexdata.org/agglomeration-portraits-2021/)** — `2022-01-25` | `23 Pages`
+- `[`CH-OGD-83018287-aec7-40`]` **[City Portraits 2021](https://www.indexdata.org/city-portraits-2021/)** — `2022-01-25` | `23 Pages`
 - `[`CH-OGD-cceadc95-0985-42`]` **[Switzerland in 23 infographics](https://www.indexdata.org/switzerland-in-23-infographics-7/)** — `2021-10-08` | `28 Pages`
 - `[`CH-OGD-35b1392f-a357-45`]` **[Education Statistics 2020](https://www.indexdata.org/education-statistics-2020/)** — `2021-04-29` | `8 Pages`
 - `[`CH-OGD-1952193a-ca0b-4c`]` **[Death and its main causes in Switzerland, 2018](https://www.indexdata.org/death-and-its-main-causes-in-switzerland-2018/)** — `2021-03-30` | `8 Pages`

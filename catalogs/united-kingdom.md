@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,100` across `91` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,108` across `92` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-18 10:59 UTC`
+**Last Automated Sync:** `2026-11-18 12:02 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (91 Authorities)
+## Issuing Authorities in United Kingdom (92 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -30,7 +30,7 @@
 - **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
-- **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
+- **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`43` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
 - **[Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
@@ -50,6 +50,7 @@
 - **[Planning Inspectorate](https://www.indexdata.org/united-kingdom/planning-inspectorate/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/planning-inspectorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/planning-inspectorate/feed/)
 - **[Department for Business, Innovation, Science and Trade](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/feed/)
 - **[Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
+- **[Building Digital UK](https://www.indexdata.org/united-kingdom/building-digital-uk/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/building-digital-uk/) | [RSS Feed](https://www.indexdata.org/united-kingdom/building-digital-uk/feed/)
 - **[Intellectual Property Office](https://www.indexdata.org/united-kingdom/intellectual-property-office/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/intellectual-property-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/intellectual-property-office/feed/)
 - **[Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
 - **[Civil Nuclear Police Authority](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/feed/)
@@ -59,10 +60,10 @@
 - **[UK Parliament — Central Arbitration Committee](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/feed/)
 - **[Gov Facility Services Limited](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/) | [RSS Feed](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
+- **[Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
 - **[Teaching Regulation Agency](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/feed/)
 - **[Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
-- **[Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
 - **[Companies House](https://www.indexdata.org/united-kingdom/companies-house/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/companies-house/) | [RSS Feed](https://www.indexdata.org/united-kingdom/companies-house/feed/)
 - **[Education and Skills Funding Agency](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/feed/)
 - **[Foreign, Commonwealth & Development Office](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/feed/)
@@ -107,7 +108,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,100)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,108)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -461,8 +462,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2026-623`]` **[The National Savings (Remediation Scheme) Regulations 2026](https://www.indexdata.org/the-national-savings-remediation-scheme-regulations-2026/)** — `2026-06-10` | `4 Pages`
 - `[`UKSI-2026-602`]` **[The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026](https://www.indexdata.org/the-dangerous-dogs-exemption-schemes-england-and-wales-amendment-order-2026/)** — `2026-06-09` | `4 Pages`
 - `[`UKSI-2026-615`]` **[The Provision of Information (Contractual Control) (Registered Land) Regulations 2026](https://www.indexdata.org/the-provision-of-information-contractual-control-registered-land-regulations-2026/)** — `2026-06-08` | `12 Pages`
-- `[`UKSI-2026-902`]` **[The Greater Cambridge Development Corporation (Establishment) Order 2026](https://www.indexdata.org/the-greater-cambridge-development-corporation-establishment-order-2026/)** — `2026-06-03` | `4 Pages`
-- `[`UKSI-2026-592`]` **[The Ministerial and other Salaries Act 1975 (Amendment) Order 2026](https://www.indexdata.org/the-ministerial-and-other-salaries-act-1975-amendment-order-2026/)** — `2026-06-03` | `8 Pages`
 
 ### [Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
@@ -968,7 +967,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2026-605`]` **[The Customs (Miscellaneous Amendments) Regulations 2026](https://www.indexdata.org/the-customs-miscellaneous-amendments-regulations-2026/)** — `2026-06-08` | `8 Pages`
 - `[`UKSI-2026-610`]` **[The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2026](https://www.indexdata.org/the-income-tax-pay-as-you-earn-amendment-no-2-regulations-2026/)** — `2026-06-05` | `2 Pages`
 - `[`UKSI-2026-604`]` **[The Customs (Safety and Security Procedures) (Amendment) Regulations 2026](https://www.indexdata.org/the-customs-safety-and-security-procedures-amendment-regulations-2026/)** — `2026-06-05` | `4 Pages`
-- `[`UKSI-2026-587`]` **[The Financial Services and Markets Act 2023 (Commencement No. 14) Regulations 2026](https://www.indexdata.org/the-financial-services-and-markets-act-2023-commencement-no-14-regulations-2026/)** — `2026-06-03` | `8 Pages`
 
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
@@ -1018,8 +1016,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-641`]` **[The Planning and Infrastructure Act 2025 (Commencement No. 4 and Transitional Provisions) Regulations 2026](https://www.indexdata.org/the-planning-and-infrastructure-act-2025-commencement-no-4-and-transitional-provisions-regulations-2026/)** — `2026-06-16` | `8 Pages`
 - `[`UKSI-2026-598`]` **[The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2026](https://www.indexdata.org/the-merchant-shipping-maritime-labour-convention-miscellaneous-amendments-regulations-2026/)** — `2026-06-15` | `4 Pages`
 - `[`UKSI-2026-632`]` **[The Carbon Dioxide Transport and Storage (Financing of Costs of Offshore Decommissioning) Regulations 2026](https://www.indexdata.org/the-carbon-dioxide-transport-and-storage-financing-of-costs-of-offshore-decommissioning-regulations-2026/)** — `2026-06-11` | `44 Pages`
-- `[`UKSI-2026-595`]` **[The Hampshire and the Solent Combined County Authority Regulations 2026](https://www.indexdata.org/the-hampshire-and-the-solent-combined-county-authority-regulations-2026/)** — `2026-06-03` | `16 Pages`
-- `[`UKSI-2026-591`]` **[The Network Rail (Old Oak Common Great Western Mainline Track Access) Order 2026](https://www.indexdata.org/the-network-rail-old-oak-common-great-western-mainline-track-access-order-2026/)** — `2026-06-03` | `16 Pages`
 
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
@@ -1068,11 +1064,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-639`]` **[The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026](https://www.indexdata.org/the-education-information-about-individual-pupils-england-amendment-regulations-2026/)** — `2026-06-15` | `12 Pages`
 - `[`UKSI-2026-625`]` **[The Diocese of Salisbury (Educational Endowments) (Shaw Church of England Primary School Teacher’s House) Order 2026](https://www.indexdata.org/the-diocese-of-salisbury-educational-endowments-shaw-church-of-england-primary-school-teachers-house-order-2026/)** — `2026-06-12` | `4 Pages`
 - `[`UKSI-2026-628`]` **[The Power to Award Degrees etc. (New Model Institute for Technology and Engineering) (Amendment) Order 2026](https://www.indexdata.org/the-power-to-award-degrees-etc-new-model-institute-for-technology-and-engineering-amendment-order-2026/)** — `2026-06-11` | `2 Pages`
-- `[`UKSI-2026-590`]` **[The Inspectors of Education, Children’s Services and Skills (No. 2) Order 2026](https://www.indexdata.org/the-inspectors-of-education-childrens-services-and-skills-no-2-order-2026/)** — `2026-06-03` | `4 Pages`
 
 ### [Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 
+- `[`UK-GOV-5402dc0c-3fad-44ce-a8d9-8ed469e11b99-9`]` **[DUS protocols for testing plant varieties — Italian ryegrass](https://www.indexdata.org/dus-protocols-for-testing-plant-varieties-italian-ryegrass/)** — `2026-11-18` | `36 Pages`
 - `[`UK-GOV-ebb306f3-c78f-47c3-a5fc-e1a561d62ded-1`]` **[FOI/EIR responses published by APHA: October 2025 — Response: Commercial import of dogs per country for 2023 - 2025 - FOI2025/22650](https://www.indexdata.org/foi-eir-responses-published-by-apha-october-2025-response-commercial-import-of-dogs-per-country-for-2023-2025-foi2025-22650/)** — `2026-11-17` | `4 Pages`
 - `[`UK-GOV-7d167b77-f652-4f90-96c4-744d0c6134de-1`]` **[FOI/EIR responses published by APHA: April 2026 — Response: Number of dogs or puppies imported into the UK from Ireland 2021 - 2025 - FOI2026/07774](https://www.indexdata.org/foi-eir-responses-published-by-apha-april-2026-response-number-of-dogs-or-puppies-imported-into-the-uk-from-ireland-2021-2025-foi2026-07774/)** — `2026-11-17` | `3 Pages`
 - `[`UK-GOV-741cc09c-baf3-42e4-aada-d765bddd4a9c-2`]` **[Export of used veterinary equipment to Australia: certificate 8972 — Export of used veterinary equipment to Australia: EHC 8972, version 1](https://www.indexdata.org/export-of-used-veterinary-equipment-to-australia-certificate-8972-export-of-used-veterinary-equipment-to-australia-ehc-8972-version-1/)** — `2026-11-17` | `2 Pages`
@@ -1158,7 +1154,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 - `[`UKSI-2026-609`]` **[The Sentencing Act 2026 (Commencement No. 4) Regulations 2026 (revoked)](https://www.indexdata.org/the-sentencing-act-2026-commencement-no-4-regulations-2026-revoked/)** — `2026-06-08` | `4 Pages`
 - `[`UKSI-2026-607`]` **[The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026](https://www.indexdata.org/the-controlled-drugs-drug-precursors-amendment-and-revocation-regulations-2026/)** — `2026-06-08` | `20 Pages`
 - `[`UKSI-2026-597`]` **[The Police (Conduct) (Amendment) Regulations 2026](https://www.indexdata.org/the-police-conduct-amendment-regulations-2026/)** — `2026-06-04` | `4 Pages`
-- `[`UKSI-2026-589`]` **[The Criminal Justice (International Co-operation) Act 1990 (Amendment) Order 2026](https://www.indexdata.org/the-criminal-justice-international-co-operation-act-1990-amendment-order-2026/)** — `2026-06-03` | `4 Pages`
 
 ### [HM Government](https://www.indexdata.org/united-kingdom/hm-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government/](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
@@ -1265,7 +1260,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2026-665`]` **[The Court and Tribunal Fees (Miscellaneous Amendments) (Change of coming into force) Order 2026](https://www.indexdata.org/the-court-and-tribunal-fees-miscellaneous-amendments-change-of-coming-into-force-order-2026/)** — `2026-06-18` | `4 Pages`
 - `[`UKSI-2026-664`]` **[The Prison (Governor’s and Adjudicators’ Punishments) (Amendment) Rules 2026](https://www.indexdata.org/the-prison-governors-and-adjudicators-punishments-amendment-rules-2026/)** — `2026-06-17` | `4 Pages`
 - `[`UKSI-2026-642`]` **[The Court and Tribunal Fees (Miscellaneous Amendments) Order 2026](https://www.indexdata.org/the-court-and-tribunal-fees-miscellaneous-amendments-order-2026/)** — `2026-06-11` | `28 Pages`
-- `[`UKSI-2026-593`]` **[The Court Funds (Amendment) Rules 2026](https://www.indexdata.org/the-court-funds-amendment-rules-2026/)** — `2026-06-03` | `4 Pages`
 
 ### [Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/marine-management-organisation/](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
@@ -1646,6 +1640,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-1135`]` **[The Football Governance Act 2025 (Commencement No. 5) Regulations 2026](https://www.indexdata.org/the-football-governance-act-2025-commencement-no-5-regulations-2026/)** — `2026-10-27` | `8 Pages`
 - `[`UKSI-2026-1119`]` **[The Electronic Communications and Wireless Telegraphy (Amendment and Saving Provision) Regulations 2026](https://www.indexdata.org/the-electronic-communications-and-wireless-telegraphy-amendment-and-saving-provision-regulations-2026/)** — `2026-10-22` | `4 Pages`
 
+### [Building Digital UK](https://www.indexdata.org/united-kingdom/building-digital-uk/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/building-digital-uk/](https://www.indexdata.org/united-kingdom/building-digital-uk/) | [RSS Feed](https://www.indexdata.org/united-kingdom/building-digital-uk/feed/)
+
+- `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-7`]` **[Resources for communications network providers — DPS supplier guide](https://www.indexdata.org/resources-for-communications-network-providers-dps-supplier-guide/)** — `2026-11-18` | `16 Pages`
+- `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-6`]` **[Resources for communications network providers — January 2021: Outside In Programme: Very Large Frameworks (Type C)](https://www.indexdata.org/resources-for-communications-network-providers-january-2021-outside-in-programme-very-large-frameworks-type-c/)** — `2026-11-18` | `15 Pages`
+- `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-5`]` **[Resources for communications network providers — Planning for Gigabit Delivery in 2021](https://www.indexdata.org/resources-for-communications-network-providers-planning-for-gigabit-delivery-in-2021/)** — `2026-11-18` | `30 Pages`
+- `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-4`]` **[Resources for communications network providers — 30 June 2020: Market Engagement Event Slide Deck](https://www.indexdata.org/resources-for-communications-network-providers-30-june-2020-market-engagement-event-slide-deck/)** — `2026-11-18` | `49 Pages`
+- `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-2`]` **[Resources for communications network providers — 23 June 2020: Market Engagement Event Slide Deck](https://www.indexdata.org/resources-for-communications-network-providers-23-june-2020-market-engagement-event-slide-deck/)** — `2026-11-18` | `41 Pages`
+- `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-1`]` **[Resources for communications network providers — February 2020: Market engagement presentation](https://www.indexdata.org/resources-for-communications-network-providers-february-2020-market-engagement-presentation/)** — `2026-11-18` | `37 Pages`
+
 ### [Intellectual Property Office](https://www.indexdata.org/united-kingdom/intellectual-property-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/intellectual-property-office/](https://www.indexdata.org/united-kingdom/intellectual-property-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/intellectual-property-office/feed/)
 
@@ -1726,6 +1730,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/legal-aid
 - `[`UK-GOV-030da3ab-e9c0-45e9-aa54-1a21bb02496c-7`]` **[Submit a Bulk Claim (SaBC) — Guidance for reporting crime lower work](https://www.indexdata.org/submit-a-bulk-claim-sabc-guidance-for-reporting-crime-lower-work/)** — `2026-11-03` | `136 Pages`
 - `[`UK-GOV-030da3ab-e9c0-45e9-aa54-1a21bb02496c-6`]` **[Submit a Bulk Claim (SaBC) — Guidance for Reporting Legal Help and Mediation Work on SaBC_V8.0_ 26 October 2026](https://www.indexdata.org/submit-a-bulk-claim-sabc-guidance-for-reporting-legal-help-and-mediation-work-on-sabc_v8-0_-26-october-2026/)** — `2026-11-03` | `191 Pages`
 
+### [Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/northern-ireland-office/](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
+
+- `[`UK-GOV-763cf23c-2034-4a98-ba12-e5ac549f1889-1`]` **[Letter from the Secretary of State for Northern Ireland regarding Stormont Brake decision 2026 — Secretary of State Correspondence to Northern Ireland Assembly Speaker](https://www.indexdata.org/letter-from-the-secretary-of-state-for-northern-ireland-regarding-stormont-brake-decision-2026-secretary-of-state-correspondence-to-northern-ireland-assembly-speaker/)** — `2026-11-18` | `8 Pages`
+- `[`UK-GOV-93825179-2b29-42c4-9804-a28f68589d9f-1`]` **[Section 75 Equality Screening Form for Northern Ireland Office Consultation: Non-jury trial Provisions under the Justice and Security (Northern Ireland) Act 2007 — Section 75 Equality Screening Form: Non-Jury Trial Provisions under the Justice and Security (Northern Ireland) Act 2007](https://www.indexdata.org/section-75-equality-screening-form-for-northern-ireland-office-consultation-non-jury-trial-provisions-under-the-justice-and-security-northern-ireland-act-2007-section-75-equality-screenin/)** — `2026-11-16` | `23 Pages`
+- `[`UK-GOV-8110b05d-a585-40a1-b0fb-af932175067d-1`]` **[NIO launches consultation on the use of non-jury trials in Northern Ireland — Consultation: Non-Jury Trials Justice and Security (Northern Ireland) Act 2007](https://www.indexdata.org/nio-launches-consultation-on-the-use-of-non-jury-trials-in-northern-ireland-consultation-non-jury-trials-justice-and-security-northern-ireland-act-2007/)** — `2026-11-16` | `29 Pages`
+- `[`UKSI-2026-1140`]` **[The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) (Amendment No. 2) Regulations 2026](https://www.indexdata.org/the-northern-ireland-troubles-legacy-and-reconciliation-act-2023-commencement-no-2-and-transitional-provisions-amendment-no-2-regulations-2026/)** — `2026-10-29` | `2 Pages`
+
 ### [Teaching Regulation Agency](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/teaching-regulation-agency/](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/feed/)
 
@@ -1747,13 +1759,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/governmen
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-3`]` **[The Consultancy Playbook — Annex 1 - Definitions of Extended Workforce Services (PDF)](https://www.indexdata.org/the-consultancy-playbook-annex-1-definitions-of-extended-workforce-services-pdf/)** — `2026-11-06` | `11 Pages`
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-2`]` **[The Consultancy Playbook — Knowledge and Skills: Generation, Transfer and Sharing - Guidance Note (PDF)](https://www.indexdata.org/the-consultancy-playbook-knowledge-and-skills-generation-transfer-and-sharing-guidance-note-pdf/)** — `2026-11-06` | `22 Pages`
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-1`]` **[The Consultancy Playbook — The Consultancy Playbook (PDF)](https://www.indexdata.org/the-consultancy-playbook-the-consultancy-playbook-pdf/)** — `2026-11-06` | `56 Pages`
-
-### [Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/northern-ireland-office/](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
-
-- `[`UK-GOV-93825179-2b29-42c4-9804-a28f68589d9f-1`]` **[Section 75 Equality Screening Form for Northern Ireland Office Consultation: Non-jury trial Provisions under the Justice and Security (Northern Ireland) Act 2007 — Section 75 Equality Screening Form: Non-Jury Trial Provisions under the Justice and Security (Northern Ireland) Act 2007](https://www.indexdata.org/section-75-equality-screening-form-for-northern-ireland-office-consultation-non-jury-trial-provisions-under-the-justice-and-security-northern-ireland-act-2007-section-75-equality-screenin/)** — `2026-11-16` | `23 Pages`
-- `[`UK-GOV-8110b05d-a585-40a1-b0fb-af932175067d-1`]` **[NIO launches consultation on the use of non-jury trials in Northern Ireland — Consultation: Non-Jury Trials Justice and Security (Northern Ireland) Act 2007](https://www.indexdata.org/nio-launches-consultation-on-the-use-of-non-jury-trials-in-northern-ireland-consultation-non-jury-trials-justice-and-security-northern-ireland-act-2007/)** — `2026-11-16` | `29 Pages`
-- `[`UKSI-2026-1140`]` **[The Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Commencement No. 2 and Transitional Provisions) (Amendment No. 2) Regulations 2026](https://www.indexdata.org/the-northern-ireland-troubles-legacy-and-reconciliation-act-2023-commencement-no-2-and-transitional-provisions-amendment-no-2-regulations-2026/)** — `2026-10-29` | `2 Pages`
 
 ### [Companies House](https://www.indexdata.org/united-kingdom/companies-house/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/companies-house/](https://www.indexdata.org/united-kingdom/companies-house/) | [RSS Feed](https://www.indexdata.org/united-kingdom/companies-house/feed/)
