@@ -4,15 +4,15 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,173` across `26` issuing authorities  
-**Last Automated Sync:** `2026-11-18 04:06 UTC`
+**Total Indexed Dossiers in International:** `1,175` across `26` issuing authorities  
+**Last Automated Sync:** `2026-11-18 05:00 UTC`
 
 ---
 
 ## Issuing Authorities in International (26 Authorities)
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`222` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
-- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`196` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
+- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`198` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`174` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`104` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
@@ -40,7 +40,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,173 of 1,173)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,175 of 1,175)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -275,6 +275,8 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 - `[`FAO-CE2585EN`]` **[Promoting the Safe and Effective Use of Treated Wastewater and Sludge to Improve Soil Quality, Address Land Degradation and Mitigate Climate Change in Türkiye](https://www.indexdata.org/promoting-the-safe-and-effective-use-of-treated-wastewater-and-sludge-to-improve-soil-quality-address-land-degradation-and-mitigate-climate-change-in-turkiye/)** — `2026-11-17` | `58 Pages`
 - `[`FAO-CE2571EN`]` **[Increasing the Sustainability and Resilience of Agriculture - Food System through Nature-Based Solutions in Turkiye](https://www.indexdata.org/increasing-the-sustainability-and-resilience-of-agriculture-food-system-through-nature-based-solutions-in-turkiye/)** — `2026-11-17` | `75 Pages`
 - `[`FAO-CE2565EN`]` **[Monthly price update. Oilseeds, Oils and Meals, No. 208 &#124; Nov 2026](https://www.indexdata.org/monthly-price-update-oilseeds-oils-and-meals-no-208-nov-2026/)** — `2026-11-17` | `3 Pages`
+- `[`FAO-CE2552EN`]` **[Mangroves for adaptation and resilience](https://www.indexdata.org/mangroves-for-adaptation-and-resilience/)** — `2026-11-17` | `84 Pages`
+- `[`FAO-CE2543EN`]` **[Cash+ transfer programmes and women’s economic empowerment](https://www.indexdata.org/cash-transfer-programmes-and-womens-economic-empowerment/)** — `2026-11-17` | `91 Pages`
 - `[`FAO-CE2520EN`]` **[Terminal evaluation of the project “Integrated natural resources management in drought-prone and salt-affected agricultural production landscapes in Central Asia and Türkiye”](https://www.indexdata.org/terminal-evaluation-of-the-project-integrated-natural-resources-management-in-drought-prone-and-salt-affected-agricultural-production-landscapes-in-central-asia-and-turkiye/)** — `2026-11-17` | `134 Pages`
 - `[`FAO-CE2422EN`]` **[Chad: DIEM-Monitoring emergency agriculture support brief, september 2026 (round 10)](https://www.indexdata.org/chad-diem-monitoring-emergency-agriculture-support-brief-september-2026-round-10/)** — `2026-11-17` | `12 Pages`
 - `[`FAO-CE1942EN`]` **[Standard operating procedure for determining the analytical method validation and verification process in soil testing laboratories](https://www.indexdata.org/standard-operating-procedure-for-determining-the-analytical-method-validation-and-verification-process-in-soil-testing-laboratories/)** — `2026-11-17` | `39 Pages`
