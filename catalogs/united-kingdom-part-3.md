@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,082` across `89` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,084` across `90` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | [Part 2](united-kingdom-part-2.md) | **[Part 3 (Current)]**  
-**Last Automated Sync:** `2026-11-18 02:58 UTC`
+**Last Automated Sync:** `2026-11-18 03:58 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (89 Authorities)
+## Issuing Authorities in United Kingdom (90 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -48,7 +48,7 @@
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[UK Visas and Immigration](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/feed/)
 - **[Department for Business, Innovation, Science and Trade](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/feed/)
-- **[Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
+- **[Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
 - **[Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
 - **[Civil Nuclear Police Authority](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/feed/)
 - **[HM Revenue & Customs](https://www.indexdata.org/united-kingdom/hm-revenue-customs/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-revenue-customs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-revenue-customs/feed/)
@@ -78,6 +78,7 @@
 - **[Building Safety Regulator](https://www.indexdata.org/united-kingdom/building-safety-regulator/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/building-safety-regulator/) | [RSS Feed](https://www.indexdata.org/united-kingdom/building-safety-regulator/feed/)
 - **[Commissioners for His Majesty’s Revenue and Customs](https://www.indexdata.org/united-kingdom/commissioners-for-his-majesty-s-revenue-and-customs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/commissioners-for-his-majesty-s-revenue-and-customs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/commissioners-for-his-majesty-s-revenue-and-customs/feed/)
 - **[Department for Education and Welsh Ministers](https://www.indexdata.org/united-kingdom/department-for-education-and-welsh-ministers/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education-and-welsh-ministers/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education-and-welsh-ministers/feed/)
+- **[Department for Infrastructure](https://www.indexdata.org/united-kingdom/department-for-infrastructure/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-infrastructure/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-infrastructure/feed/)
 - **[Department for Levelling Up, Housing and Communities](https://www.indexdata.org/united-kingdom/department-for-levelling-up-housing-and-communities/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-levelling-up-housing-and-communities/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-levelling-up-housing-and-communities/feed/)
 - **[Driver and Vehicle Standards Agency](https://www.indexdata.org/united-kingdom/driver-and-vehicle-standards-agency/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/driver-and-vehicle-standards-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/driver-and-vehicle-standards-agency/feed/)
 - **[Family Procedure Rule Committee](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/feed/)
@@ -105,11 +106,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,082 of 3,082)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,084 of 3,084)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2024-150`]` **[The Communications (Television Licensing) (Amendment) Regulations 2024](https://www.indexdata.org/the-communications-television-licensing-amendment-regulations-2024/)** — `2024-02-14` | `8 Pages`
 - `[`UKSI-2024-148`]` **[The Supreme Court Fees Order 2024](https://www.indexdata.org/the-supreme-court-fees-order-2024/)** — `2024-02-13` | `16 Pages`
 - `[`UKSI-2024-140`]` **[The Legal Services Act 2007 (Approved Regulator) Order 2024](https://www.indexdata.org/the-legal-services-act-2007-approved-regulator-order-2024/)** — `2024-02-08` | `2 Pages`
 - `[`UKSI-2024-136`]` **[The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024](https://www.indexdata.org/the-wireless-telegraphy-mobile-repeater-exemption-amendment-regulations-2024/)** — `2024-02-06` | `2 Pages`
@@ -180,6 +182,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 
+- `[`UKSI-2024-153`]` **[The Registrar of Companies (Fees) (Register of Overseas Entities) Regulations 2024](https://www.indexdata.org/the-registrar-of-companies-fees-register-of-overseas-entities-regulations-2024/)** — `2024-02-14` | `4 Pages`
 - `[`UKSI-2024-143`]` **[The Trade Union (Deduction of Union Subscriptions from Wages in the Public Sector) Regulations 2024](https://www.indexdata.org/the-trade-union-deduction-of-union-subscriptions-from-wages-in-the-public-sector-regulations-2024/)** — `2024-02-07` | `16 Pages`
 - `[`UKSI-2024-121`]` **[The Statutory Paternity Pay (Amendment) Regulations 2024](https://www.indexdata.org/the-statutory-paternity-pay-amendment-regulations-2024/)** — `2024-02-01` | `20 Pages`
 - `[`UKSI-2024-103`]` **[The Public Interest Merger Reference (Telegraph Media Group Limited) (Pre-emptive Action) Order 2024](https://www.indexdata.org/the-public-interest-merger-reference-telegraph-media-group-limited-pre-emptive-action-order-2024/)** — `2024-01-30` | `8 Pages`

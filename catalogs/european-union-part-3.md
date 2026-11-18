@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,291` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,294` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-18 02:58 UTC`
+**Last Automated Sync:** `2026-11-18 03:58 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,332` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,335` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,036` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,291)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,294)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -137,6 +137,9 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-PIPE-20070015_nts1_en`]` **[EIB Project Environmental Assessment: 20070015 Nts1](https://www.indexdata.org/eib-project-environmental-assessment-20070015-nts1/)** — `2025-04-15` | `30 Pages`
 - `[`EIB-PIPE-20070015_esia1_en`]` **[EIB Project Environmental Assessment: 20070015 Esia1](https://www.indexdata.org/eib-project-environmental-assessment-20070015-esia1/)** — `2025-04-15` | `222 Pages`
 - `[`EIB-PIPE-20070004-nts-en`]` **[EIB Project Environmental Assessment: 20070004 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20070004-non-technical-summary-nts/)** — `2025-04-15` | `68 Pages`
+- `[`EIB-PIPE-20060588_nts1_en`]` **[EIB Project Environmental Assessment: 20060588 Nts1](https://www.indexdata.org/eib-project-environmental-assessment-20060588-nts1/)** — `2025-04-15` | `31 Pages`
+- `[`EIB-PIPE-20060563_eia_en`]` **[EIB Project Environmental Assessment: 20060563 Environmental Impact Assessment (EIA)](https://www.indexdata.org/eib-project-environmental-assessment-20060563-environmental-impact-assessment-eia/)** — `2025-04-15` | `4 Pages`
+- `[`EIB-PIPE-20060563_eia3_en`]` **[EIB Project Environmental Assessment: 20060563 Eia3](https://www.indexdata.org/eib-project-environmental-assessment-20060563-eia3/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_programme_english`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_programme_en`]` **[EIB Policy Conference: Warsaw Programme](https://www.indexdata.org/eib-policy-conference-warsaw-programme-2/)** — `2025-04-15` | `4 Pages`
 - `[`EIB-EVT-warsaw_26112010_wisniewski_en`]` **[EIB Policy Conference: Warsaw 26112010 Wisniewski](https://www.indexdata.org/eib-policy-conference-warsaw-26112010-wisniewski/)** — `2025-04-15` | `9 Pages`
@@ -1547,9 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-DOC-jessica_moravia_silesia_supplementary_study_en`]` **[JESSICA Moravia Silesia Supplementary Study](https://www.indexdata.org/jessica-moravia-silesia-supplementary-study/)** — `2025-04-14` | `96 Pages`
 - `[`EIB-DOC-jessica_marche_report_en`]` **[JESSICA Marche Report](https://www.indexdata.org/jessica-marche-report/)** — `2025-04-14` | `56 Pages`
 - `[`EIB-DOC-jessica_marche_ecosfera_en`]` **[JESSICA Marche Ecosfera](https://www.indexdata.org/jessica-marche-ecosfera/)** — `2025-04-14` | `110 Pages`
-- `[`EIB-DOC-jessica_marche_calafati_en`]` **[JESSICA Marche Calafati](https://www.indexdata.org/jessica-marche-calafati/)** — `2025-04-14` | `79 Pages`
-- `[`EIB-DOC-jessica_legislative_provision_en`]` **[JESSICA Legislative Provision](https://www.indexdata.org/jessica-legislative-provision/)** — `2025-04-14` | `8 Pages`
-- `[`EIB-DOC-jessica_italy_multi_region_en`]` **[JESSICA Italy Multi Region](https://www.indexdata.org/jessica-italy-multi-region/)** — `2025-04-14` | `112 Pages`
 
 ---
 
