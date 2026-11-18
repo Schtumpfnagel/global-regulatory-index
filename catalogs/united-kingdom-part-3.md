@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,122` across `92` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,126` across `92` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | [Part 2](united-kingdom-part-2.md) | **[Part 3 (Current)]**  
-**Last Automated Sync:** `2026-11-18 13:38 UTC`
+**Last Automated Sync:** `2026-11-18 14:45 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`248` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`252` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`192` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`152` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
@@ -108,7 +108,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,122 of 3,122)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,126 of 3,126)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -144,6 +144,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 
+- `[`UKSI-2024-412`]` **[The Town and Country Planning (Former RAF Scampton) (Accommodation for Asylum-Seekers etc.) Special Development Order 2024](https://www.indexdata.org/the-town-and-country-planning-former-raf-scampton-accommodation-for-asylum-seekers-etc-special-development-order-2024/)** — `2024-03-20` | `24 Pages`
+- `[`UKSI-2024-411`]` **[The Town and Country Planning (Former RAF Airfield Wethersfield) (Accommodation for Asylum-Seekers etc.) Special Development Order 2024](https://www.indexdata.org/the-town-and-country-planning-former-raf-airfield-wethersfield-accommodation-for-asylum-seekers-etc-special-development-order-2024/)** — `2024-03-20` | `24 Pages`
 - `[`UKSI-2024-371`]` **[The Homelessness (Suitability of Accommodation) (England) (Amendment) Order 2024](https://www.indexdata.org/the-homelessness-suitability-of-accommodation-england-amendment-order-2024/)** — `2024-03-13` | `2 Pages`
 - `[`UKSI-2024-157`]` **[The North Northamptonshire (Electoral Changes) Order 2024](https://www.indexdata.org/the-north-northamptonshire-electoral-changes-order-2024/)** — `2024-02-16` | `8 Pages`
 - `[`UKSI-2024-156`]` **[The Dudley (Electoral Changes) Order 2024](https://www.indexdata.org/the-dudley-electoral-changes-order-2024/)** — `2024-02-16` | `4 Pages`
@@ -219,6 +221,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 
+- `[`UKSI-2024-409`]` **[The Energy-Intensive Industry Electricity Support Payments and Levy Regulations 2024](https://www.indexdata.org/the-energy-intensive-industry-electricity-support-payments-and-levy-regulations-2024/)** — `2024-03-20` | `16 Pages`
 - `[`UKSI-2024-403`]` **[The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2024](https://www.indexdata.org/the-renewables-obligation-amendment-energy-intensive-industries-order-2024/)** — `2024-03-20` | `4 Pages`
 - `[`UKSI-2024-393`]` **[The National Grid (Yorkshire Green Energy Enablement Project) Development Consent Order 2024](https://www.indexdata.org/the-national-grid-yorkshire-green-energy-enablement-project-development-consent-order-2024/)** — `2024-03-14` | `164 Pages`
 - `[`UKSI-2024-162`]` **[The Offshore Installations (Safety Zones) Order 2024](https://www.indexdata.org/the-offshore-installations-safety-zones-order-2024/)** — `2024-02-19` | `4 Pages`
@@ -231,6 +234,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 
+- `[`UKSI-2024-410`]` **[The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024](https://www.indexdata.org/the-economic-crime-and-corporate-transparency-act-2023-consequential-supplementary-and-incidental-provisions-regulations-2024/)** — `2024-03-20` | `12 Pages`
 - `[`UKSI-2024-155`]` **[The Registrar of Companies (Fees) (Amendment) Regulations 2024](https://www.indexdata.org/the-registrar-of-companies-fees-amendment-regulations-2024/)** — `2024-02-14` | `12 Pages`
 - `[`UKSI-2024-153`]` **[The Registrar of Companies (Fees) (Register of Overseas Entities) Regulations 2024](https://www.indexdata.org/the-registrar-of-companies-fees-register-of-overseas-entities-regulations-2024/)** — `2024-02-14` | `4 Pages`
 - `[`UKSI-2024-143`]` **[The Trade Union (Deduction of Union Subscriptions from Wages in the Public Sector) Regulations 2024](https://www.indexdata.org/the-trade-union-deduction-of-union-subscriptions-from-wages-in-the-public-sector-regulations-2024/)** — `2024-02-07` | `16 Pages`

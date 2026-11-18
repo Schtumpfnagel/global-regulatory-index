@@ -5,24 +5,24 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,005` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,014` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-18 13:38 UTC`
+**Last Automated Sync:** `2026-11-18 14:45 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`508` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`489` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`493` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`166` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`170` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,005)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,014)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1234,6 +1234,9 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 
+- `[`UN-E-ICEF-2026-AB-L.5`]` **[Private Fundraising and Partnerships: Financial report for the year ended 31 December 2025 — United Nations Children's Fund](https://www.indexdata.org/e-icef-2026-ab-l-5-private-fundraising-and-partnerships-financial-report-for-the-year-ended-31-december-2025-united-nations-childrens-fund/)** — `2026-04-20` | `17 Pages`
+- `[`UN-E-ICEF-2026-9`]` **[Provisional annotated agenda, timetable and organization of work — United Nations Children's Fund, Executive Board, annual session 2026 16–19 June 2026](https://www.indexdata.org/e-icef-2026-9-provisional-annotated-agenda-timetable-and-organization-of-work-united-nations-childrens-fund-executive-board-annual-session-2026-16-19-june-2026/)** — `2026-04-20` | `11 Pages`
+- `[`UN-E-FFDF-2026-L.2`]` **[Draft report — Economic and Social Council Forum on Financing for Development Follow-up, New York, 20–24 April 2026](https://www.indexdata.org/e-ffdf-2026-l-2-draft-report-economic-and-social-council-forum-on-financing-for-development-follow-up-new-york-20-24-april-2026/)** — `2026-04-20` | `2 Pages`
 - `[`UN-E-FFDF-2026-L.1`]` **[Follow-up and review of the financing for development outcomes and the means of implementation of the 2030 Agenda for Sustainable Development — draft intergovernmentally agreed conclusions and recommendations](https://www.indexdata.org/e-ffdf-2026-l-1-follow-up-and-review-of-the-financing-for-development-outcomes-and-the-means-of-implementation-of-the-2030-agenda-for-sustainable-development-draft-intergovernmentally-agre/)** — `2026-04-20` | `11 Pages`
 - `[`UN-E-2026-20`]` **[Summary of the work of the Economic and Social Commission for Western Asia, 2025-2026 — note](https://www.indexdata.org/e-2026-20-summary-of-the-work-of-the-economic-and-social-commission-for-western-asia-2025-2026-note/)** — `2026-04-20` | `7 Pages`
 - `[`UN-E-ICEF-2026-AB-L.3`]` **[UNICEF Office of Internal Audit and Investigations 2025 annual report to the Executive Board](https://www.indexdata.org/e-icef-2026-ab-l-3-unicef-office-of-internal-audit-and-investigations-2025-annual-report-to-the-executive-board/)** — `2026-04-16` | `25 Pages`
@@ -1388,11 +1391,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-CN.6-2026-NGO-196`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-196-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-195`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-195-statement/)** — `2026-01-19` | `3 Pages`
 - `[`UN-E-CN.6-2026-NGO-194`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-194-statement/)** — `2026-01-19` | `4 Pages`
-- `[`UN-E-CN.6-2026-NGO-193`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-193-statement/)** — `2026-01-19` | `3 Pages`
-- `[`UN-E-CN.6-2026-NGO-192`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-192-statement/)** — `2026-01-19` | `4 Pages`
-- `[`UN-E-CN.6-2026-NGO-191`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-191-statement/)** — `2026-01-19` | `4 Pages`
-- `[`UN-E-CN.6-2026-NGO-190`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-190-statement/)** — `2026-01-19` | `4 Pages`
-- `[`UN-E-CN.6-2026-NGO-189`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-189-statement/)** — `2026-01-19` | `4 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -1603,6 +1601,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-na
 ### [2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons](https://www.indexdata.org/united-nations/2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/](https://www.indexdata.org/united-nations/2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/) | [RSS Feed](https://www.indexdata.org/united-nations/2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/feed/)
 
+- `[`UN-NPT-CONF.2026-WP.51`]` **[Meeting the growing demand for peaceful uses: financing for nuclear energy, science and technology to support the inalienable right under article IV — working paper](https://www.indexdata.org/npt-conf-2026-wp-51-meeting-the-growing-demand-for-peaceful-uses-financing-for-nuclear-energy-science-and-technology-to-support-the-inalienable-right-under-article-iv-working-paper/)** — `2026-04-20` | `3 Pages`
 - `[`UN-NPT-CONF.2026-WP.48`]` **[Atoms for heritage: peaceful use of nuclear techniques for heritage science — working paper](https://www.indexdata.org/npt-conf-2026-wp-48-atoms-for-heritage-peaceful-use-of-nuclear-techniques-for-heritage-science-working-paper/)** — `2026-04-16` | `5 Pages`
 - `[`UN-NPT-CONF.2026-WP.35`]` **[Accelerating Scientific Collaboration and Excellence in Nuclear Technology (ASCENT) for expanded access to peaceful uses in support of article IV — working paper](https://www.indexdata.org/npt-conf-2026-wp-35-accelerating-scientific-collaboration-and-excellence-in-nuclear-technology-ascent-for-expanded-access-to-peaceful-uses-in-support-of-article-iv-working-paper/)** — `2026-03-30` | `4 Pages`
 - `[`UN-NPT-CONF.2026-26`]` **[Measures to promote the establishment of a nuclear-weapon-free zone in the Middle East and the realization of the objectives set forth in the 1995 resolution on the Middle East — report](https://www.indexdata.org/npt-conf-2026-26-measures-to-promote-the-establishment-of-a-nuclear-weapon-free-zone-in-the-middle-east-and-the-realization-of-the-objectives-set-forth-in-the-1995-resolution-on-the-middle-east/)** — `2026-03-20` | `3 Pages`
@@ -1894,6 +1893,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/president
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/republic-of-cuba/](https://www.indexdata.org/united-nations/republic-of-cuba/) | [RSS Feed](https://www.indexdata.org/united-nations/republic-of-cuba/feed/)
 
 - `[`UN-NPT-CONF.2026-11`]` **[Implementation of the Treaty on the Non-Proliferation of Nuclear Weapons — report](https://www.indexdata.org/npt-conf-2026-11-implementation-of-the-treaty-on-the-non-proliferation-of-nuclear-weapons-report/)** — `2026-03-02` | `11 Pages`
+
+### [Republic of Kazakhstan](https://www.indexdata.org/united-nations/republic-of-kazakhstan/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/republic-of-kazakhstan/](https://www.indexdata.org/united-nations/republic-of-kazakhstan/) | [RSS Feed](https://www.indexdata.org/united-nations/republic-of-kazakhstan/feed/)
+
+- `[`UN-NPT-CONF.2026-WP.50`]` **[Chair's summary at the conclusion of the workshop on fostering cooperation and enhancing consultation: mechanisms among the existing nuclear-weapon-free zones, Astana, Kazakhstan, 27 and 28 August 2024 — working paper](https://www.indexdata.org/npt-conf-2026-wp-50-chairs-summary-at-the-conclusion-of-the-workshop-on-fostering-cooperation-and-enhancing-consultation-mechanisms-among-the-existing-nuclear-weapon-free-zones-astana-kazakhsta/)** — `2026-04-20` | `4 Pages`
 
 ### [Republic of Türkiye](https://www.indexdata.org/united-nations/republic-of-t-rkiye/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/republic-of-t-rkiye/](https://www.indexdata.org/united-nations/republic-of-t-rkiye/) | [RSS Feed](https://www.indexdata.org/united-nations/republic-of-t-rkiye/feed/)

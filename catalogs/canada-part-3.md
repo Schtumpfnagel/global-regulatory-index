@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,386` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,387` across `34` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | **[Part 3 (Current)]** | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-18 13:38 UTC`
+**Last Automated Sync:** `2026-11-18 14:45 UTC`
 
 ---
 
@@ -35,12 +35,12 @@
 - **[Government of Northwest Territories](https://www.indexdata.org/canada/government-of-northwest-territories/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-northwest-territories/) | [RSS Feed](https://www.indexdata.org/canada/government-of-northwest-territories/feed/)
 - **[Governor in Council](https://www.indexdata.org/canada/governor-in-council/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/governor-in-council/) | [RSS Feed](https://www.indexdata.org/canada/governor-in-council/feed/)
 - **[Telefilm Canada](https://www.indexdata.org/canada/telefilm-canada/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/canada/telefilm-canada/) | [RSS Feed](https://www.indexdata.org/canada/telefilm-canada/feed/)
+- **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of British Columbia](https://www.indexdata.org/canada/government-of-british-columbia/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-british-columbia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-british-columbia/feed/)
 - **[Government of Ontario](https://www.indexdata.org/canada/government-of-ontario/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-ontario/) | [RSS Feed](https://www.indexdata.org/canada/government-of-ontario/feed/)
 - **[Canada Economic Development for Quebec Regions](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/) | [RSS Feed](https://www.indexdata.org/canada/canada-economic-development-for-quebec-regions/feed/)
 - **[Canada Revenue Agency](https://www.indexdata.org/canada/canada-revenue-agency/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/canada-revenue-agency/) | [RSS Feed](https://www.indexdata.org/canada/canada-revenue-agency/feed/)
 - **[Department of Indian Affairs and Northern Development](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/) | [RSS Feed](https://www.indexdata.org/canada/department-of-indian-affairs-and-northern-development/feed/)
-- **[Government of Alberta](https://www.indexdata.org/canada/government-of-alberta/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-alberta/) | [RSS Feed](https://www.indexdata.org/canada/government-of-alberta/feed/)
 - **[Government of Nova Scotia](https://www.indexdata.org/canada/government-of-nova-scotia/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-nova-scotia/) | [RSS Feed](https://www.indexdata.org/canada/government-of-nova-scotia/feed/)
 - **[Government of Quebec — Ministry of Ministère des Ressources naturelles et des Forêts](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/) | [RSS Feed](https://www.indexdata.org/canada/government-of-quebec-ministry-of-minist-re-des-ressources-naturelles-et-des-for-ts/feed/)
 - **[Minister of Veterans Affairs](https://www.indexdata.org/canada/minister-of-veterans-affairs/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/canada/minister-of-veterans-affairs/) | [RSS Feed](https://www.indexdata.org/canada/minister-of-veterans-affairs/feed/)
@@ -50,7 +50,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,386)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,387)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -1232,6 +1232,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 
+- `[`SOR-2001-56`]` **[Supervisory Information (Insurance Companies) Regulations](https://www.indexdata.org/supervisory-information-insurance-companies-regulations/)** — `2026-09-30` | `7 Pages`
 - `[`SOR-2001-55`]` **[Supervisory Information (Trust and Loan Companies) Regulations](https://www.indexdata.org/supervisory-information-trust-and-loan-companies-regulations/)** — `2026-09-30` | `7 Pages`
 - `[`SOR-2001-496`]` **[Special Duty Area Pension Order](https://www.indexdata.org/special-duty-area-pension-order/)** — `2026-09-30` | `9 Pages`
 - `[`SOR-2001-474`]` **[Financial Consumer Agency of Canada Assessment of Financial Institutions Regulations](https://www.indexdata.org/financial-consumer-agency-of-canada-assessment-of-financial-institutions-regulations/)** — `2026-09-30` | `12 Pages`
@@ -1560,18 +1561,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/global-affairs-ca
 - `[`SI-2003-208`]` **[Order Transferring from the Minister of Foreign Affairs to the Minister of International Trade the Control and Supervision of the Department of International Trade](https://www.indexdata.org/order-transferring-from-the-minister-of-foreign-affairs-to-the-minister-of-international-trade-the-control-and-supervision-of-the-department-of-international-trade/)** — `2026-09-30` | `4 Pages`
 - `[`S-14.5`]` **[Special Economic Measures Act](https://www.indexdata.org/special-economic-measures-act/)** — `2026-09-30` | `22 Pages`
 
-### [Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)
-Canonical Authority Archive: [https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
-
-- `[`SOR-2001-532`]` **[Telecommunications Apparatus Regulations](https://www.indexdata.org/telecommunications-apparatus-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-2001-512`]` **[Canada Business Corporations Regulations, 2001](https://www.indexdata.org/canada-business-corporations-regulations-2001/)** — `2026-09-30` | `66 Pages`
-- `[`SOR-2001-206`]` **[Radiocommunication Act (Paragraph 9(1)(c)) Exemption Order](https://www.indexdata.org/radiocommunication-act-paragraph-91c-exemption-order/)** — `2026-09-30` | `5 Pages`
-- `[`SI-93-146`]` **[Order Transferring to the Department of External Affairs the Control and Supervision of the Investment Development Division in Investment Canada](https://www.indexdata.org/order-transferring-to-the-department-of-external-affairs-the-control-and-supervision-of-the-investment-development-division-in-investment-canada/)** — `2026-09-30` | `4 Pages`
-- `[`SI-93-138`]` **[Order Transferring to the Department of Supply and Services the Control and Supervision of the Government Telecommunications Agency and the Translation Bureau and Transferring to the Minister of Supply and Services the Powers, Duties and Functions of the Minister of Public Works and Amalgamating and Combining the Department of Supply and Services and the Department of Public Works Under the Minister of Supply and Services](https://www.indexdata.org/order-transferring-to-the-department-of-supply-and-services-the-control-and-supervision-of-the-government-telecommunications-agency-and-the-translation-bureau-and-transferring-to-the-minister-of-suppl/)** — `2026-09-30` | `5 Pages`
-- `[`SI-86-216`]` **[Order Designating the Registrar of the Competition Tribunal as Deputy Head with Respect to the Registry of the Competition Tribunal](https://www.indexdata.org/order-designating-the-registrar-of-the-competition-tribunal-as-deputy-head-with-respect-to-the-registry-of-the-competition-tribunal/)** — `2026-09-30` | `3 Pages`
-- `[`SI-2022-11`]` **[Remission Order for Certain Fees Under the Bankruptcy and Insolvency General Rules from March 31 to August 31, 2020](https://www.indexdata.org/remission-order-for-certain-fees-under-the-bankruptcy-and-insolvency-general-rules-from-march-31-to-august-31-2020/)** — `2026-09-30` | `4 Pages`
-- `[`R-2`]` **[Radiocommunication Act](https://www.indexdata.org/radiocommunication-act/)** — `2026-09-30` | `39 Pages`
-
 ### [Employment and Social Development Canada](https://www.indexdata.org/canada/employment-and-social-development-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/employment-and-social-development-canada/](https://www.indexdata.org/canada/employment-and-social-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/employment-and-social-development-canada/feed/)
 
@@ -1582,6 +1571,17 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/employment-and-so
 - `[`SI-2021-19`]` **[Canada Emergency Response Benefit and Employment Insurance Emergency Response Benefit Remission Order](https://www.indexdata.org/canada-emergency-response-benefit-and-employment-insurance-emergency-response-benefit-remission-order/)** — `2026-09-30` | `6 Pages`
 - `[`SI-2002-60`]` **[Remission Order Concerning Interest Accruing on Certain Unemployment Insurance Overpayments](https://www.indexdata.org/remission-order-concerning-interest-accruing-on-certain-unemployment-insurance-overpayments/)** — `2026-09-30` | `5 Pages`
 - `[`S-23`]` **[Canada Student Loans Act](https://www.indexdata.org/canada-student-loans-act/)** — `2026-09-30` | `32 Pages`
+
+### [Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)
+Canonical Authority Archive: [https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
+
+- `[`SOR-2001-532`]` **[Telecommunications Apparatus Regulations](https://www.indexdata.org/telecommunications-apparatus-regulations/)** — `2026-09-30` | `3 Pages`
+- `[`SOR-2001-512`]` **[Canada Business Corporations Regulations, 2001](https://www.indexdata.org/canada-business-corporations-regulations-2001/)** — `2026-09-30` | `66 Pages`
+- `[`SOR-2001-206`]` **[Radiocommunication Act (Paragraph 9(1)(c)) Exemption Order](https://www.indexdata.org/radiocommunication-act-paragraph-91c-exemption-order/)** — `2026-09-30` | `5 Pages`
+- `[`SI-93-146`]` **[Order Transferring to the Department of External Affairs the Control and Supervision of the Investment Development Division in Investment Canada](https://www.indexdata.org/order-transferring-to-the-department-of-external-affairs-the-control-and-supervision-of-the-investment-development-division-in-investment-canada/)** — `2026-09-30` | `4 Pages`
+- `[`SI-93-138`]` **[Order Transferring to the Department of Supply and Services the Control and Supervision of the Government Telecommunications Agency and the Translation Bureau and Transferring to the Minister of Supply and Services the Powers, Duties and Functions of the Minister of Public Works and Amalgamating and Combining the Department of Supply and Services and the Department of Public Works Under the Minister of Supply and Services](https://www.indexdata.org/order-transferring-to-the-department-of-supply-and-services-the-control-and-supervision-of-the-government-telecommunications-agency-and-the-translation-bureau-and-transferring-to-the-minister-of-suppl/)** — `2026-09-30` | `5 Pages`
+- `[`SI-86-216`]` **[Order Designating the Registrar of the Competition Tribunal as Deputy Head with Respect to the Registry of the Competition Tribunal](https://www.indexdata.org/order-designating-the-registrar-of-the-competition-tribunal-as-deputy-head-with-respect-to-the-registry-of-the-competition-tribunal/)** — `2026-09-30` | `3 Pages`
+- `[`SI-2022-11`]` **[Remission Order for Certain Fees Under the Bankruptcy and Insolvency General Rules from March 31 to August 31, 2020](https://www.indexdata.org/remission-order-for-certain-fees-under-the-bankruptcy-and-insolvency-general-rules-from-march-31-to-august-31-2020/)** — `2026-09-30` | `4 Pages`
 
 ### [Department of National Defence](https://www.indexdata.org/canada/department-of-national-defence/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-national-defence/](https://www.indexdata.org/canada/department-of-national-defence/) | [RSS Feed](https://www.indexdata.org/canada/department-of-national-defence/feed/)

@@ -5,24 +5,24 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,005` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,014` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-18 13:38 UTC`
+**Last Automated Sync:** `2026-11-18 14:45 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`537` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`508` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`489` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`493` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`166` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`170` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 7,005)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 7,014)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -627,7 +627,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-RES-79-148`]` **[Strengthening volunteerism for the achievement of the Sustainable Development Goals, leaving no one behind — resolution](https://www.indexdata.org/a-res-79-148-strengthening-volunteerism-for-the-achievement-of-the-sustainable-development-goals-leaving-no-one-behind-resolution/)** — `2024-12-19` | `5 Pages`
 - `[`UN-A-RES-79-146`]` **[Implementation of the outcome of the World Summit for Social Development and of the 24th special session of the General Assembly — resolution](https://www.indexdata.org/a-res-79-146-implementation-of-the-outcome-of-the-world-summit-for-social-development-and-of-the-24th-special-session-of-the-general-assembly-resolution/)** — `2024-12-19` | `20 Pages`
 - `[`UN-A-RES-79-233`]` **[Programme of Action for Landlocked Developing Countries for the Decade 2024–2034 — resolution](https://www.indexdata.org/a-res-79-233-programme-of-action-for-landlocked-developing-countries-for-the-decade-2024-2034-resolution/)** — `2024-12-18` | `48 Pages`
-- `[`UN-A-79-L.43`]` **[Cooperation between the United Nations and the Community of Portuguese-speaking Countries — draft resolution](https://www.indexdata.org/a-79-l-43-cooperation-between-the-united-nations-and-the-community-of-portuguese-speaking-countries-draft-resolution/)** — `2024-12-11` | `5 Pages`
 
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -936,7 +935,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-genera
 - `[`UN-A-79-318-Add.1`]` **[Implementation of General Assembly resolutions 55/235 and 55/236 — Report of the Secretary-General : addendum](https://www.indexdata.org/a-79-318-add-1-implementation-of-general-assembly-resolutions-55-235-and-55-236-report-of-the-secretary-general-addendum/)** — `2024-12-31` | `7 Pages`
 - `[`UN-A-79-712`]` **[Appointment of members of the Independent Audit Advisory Committee](https://www.indexdata.org/a-79-712-appointment-of-members-of-the-independent-audit-advisory-committee/)** — `2024-12-30` | `2 Pages`
 - `[`UN-A-79-711`]` **[Letter dated 28 December 2024 from the Permanent Representative of Türkiye to the United Nations addressed to the Secretary-General](https://www.indexdata.org/a-79-711-letter-dated-28-december-2024-from-the-permanent-representative-of-turkiye-to-the-united-nations-addressed-to-the-secretary-general/)** — `2024-12-30` | `3 Pages`
-- `[`UN-A-79-689`]` **[Letter dated 11 December 2024 from the Permanent Representative of Ukraine to the United Nations addressed to the Secretary-General](https://www.indexdata.org/a-79-689-letter-dated-11-december-2024-from-the-permanent-representative-of-ukraine-to-the-united-nations-addressed-to-the-secretary-general/)** — `2024-12-11` | `5 Pages`
 
 ### [UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-security-council-unsc/](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -1277,9 +1275,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-human-
 - `[`UN-CCPR-SP-99`]` **[Election of one member of the Human Rights Committee to fill the vacancy created by the resignation of Farid Ahmadov (Azerbaijan), whose term was due to expire on 31 December 2026](https://www.indexdata.org/ccpr-sp-99-election-of-one-member-of-the-human-rights-committee-to-fill-the-vacancy-created-by-the-resignation-of-farid-ahmadov-azerbaijan-whose-term-was-due-to-expire-on-31-december-2026/)** — `2024-12-11` | `14 Pages`
 - `[`UN-CCPR-C-POL-QPR-8`]` **[List of issues prior to submission of the 8th periodic report of Poland — Human Rights Committee](https://www.indexdata.org/ccpr-c-pol-qpr-8-list-of-issues-prior-to-submission-of-the-8th-periodic-report-of-poland-human-rights-committee/)** — `2024-12-11` | `6 Pages`
 - `[`UN-CCPR-C-CMR-QPR-6`]` **[List of issues prior to submission of the 6th periodic report of Cameroon — Human Rights Committee](https://www.indexdata.org/ccpr-c-cmr-qpr-6-list-of-issues-prior-to-submission-of-the-6th-periodic-report-of-cameroon-human-rights-committee/)** — `2024-12-11` | `7 Pages`
-- `[`UN-CAT-C-MNG-CO-3`]` **[Concluding observations on the 3rd periodic report of Mongolia — Committee against Torture](https://www.indexdata.org/cat-c-mng-co-3-concluding-observations-on-the-3rd-periodic-report-of-mongolia-committee-against-torture/)** — `2024-12-11` | `13 Pages`
-- `[`UN-A-HRC-PRST-OS-18-1`]` **[Efficiency of the Human Rights Council — Addressing financial and time constraints : statement](https://www.indexdata.org/a-hrc-prst-os-18-1-efficiency-of-the-human-rights-council-addressing-financial-and-time-constraints-statement/)** — `2024-12-11` | `4 Pages`
-- `[`UN-A-HRC-57-69`]` **[Report of the Ad Hoc Committee of the Human Rights Council on the Elaboration of Complementary Standards to the International Convention on the Elimination of All Forms of Racial Discrimination on its 14th session](https://www.indexdata.org/a-hrc-57-69-report-of-the-ad-hoc-committee-of-the-human-rights-council-on-the-elaboration-of-complementary-standards-to-the-international-convention-on-the-elimination-of-all-forms-of-racial-discrim/)** — `2024-12-11` | `21 Pages`
 
 ### [UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
@@ -1388,6 +1383,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-econom
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 
+- `[`UN-E-CN.6-2026-NGO-193`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-193-statement/)** — `2026-01-19` | `3 Pages`
+- `[`UN-E-CN.6-2026-NGO-192`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-192-statement/)** — `2026-01-19` | `4 Pages`
+- `[`UN-E-CN.6-2026-NGO-191`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-191-statement/)** — `2026-01-19` | `4 Pages`
+- `[`UN-E-CN.6-2026-NGO-190`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-190-statement/)** — `2026-01-19` | `4 Pages`
+- `[`UN-E-CN.6-2026-NGO-189`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-189-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-188`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-188-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-3`]` **[Ensuring and strengthening access to justice for all women and girls, including by promoting inclusive and equitable legal systems, eliminating discriminatory laws, policies and practices, and addressing structural barriers — report of the Secretary-General](https://www.indexdata.org/e-cn-6-2026-3-ensuring-and-strengthening-access-to-justice-for-all-women-and-girls-including-by-promoting-inclusive-and-equitable-legal-systems-eliminating-discriminatory-laws-policies-and-practi/)** — `2026-01-15` | `19 Pages`
 - `[`UN-E-C.12-AGO-RQ-6`]` **[Replies of Angola to the list of issues in relation to its 6th periodic report — Committee on Economic, Social and Cultural Rights](https://www.indexdata.org/e-c-12-ago-rq-6-replies-of-angola-to-the-list-of-issues-in-relation-to-its-6th-periodic-report-committee-on-economic-social-and-cultural-rights/)** — `2026-01-15` | `18 Pages`

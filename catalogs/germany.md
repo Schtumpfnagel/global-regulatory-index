@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/germany/feed/](https://www.indexdata.org/germany/feed/)  
 **Wikidata Sovereign Entity:** [`Q183`](https://www.wikidata.org/wiki/Q183)  
 **Governing Open-Government Framework:** *UrhG § 5 / DL-DE->BY-2.0*  
-**Total Indexed Dossiers in Germany:** `150` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-18 13:38 UTC`
+**Total Indexed Dossiers in Germany:** `151` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-18 14:45 UTC`
 
 ---
 
@@ -16,11 +16,11 @@
 - **[Federal Agency for Nature Conservation (Bundesamt für Naturschutz - BfN)](https://www.indexdata.org/germany/federal-agency-for-nature-conservation-bundesamt-f-r-naturschutz-bfn/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/germany/federal-agency-for-nature-conservation-bundesamt-f-r-naturschutz-bfn/) | [RSS Feed](https://www.indexdata.org/germany/federal-agency-for-nature-conservation-bundesamt-f-r-naturschutz-bfn/feed/)
 - **[Federal Environment Agency (Umweltbundesamt - UBA)](https://www.indexdata.org/germany/federal-environment-agency-umweltbundesamt-uba/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/germany/federal-environment-agency-umweltbundesamt-uba/) | [RSS Feed](https://www.indexdata.org/germany/federal-environment-agency-umweltbundesamt-uba/feed/)
 - **[Physikalisch-Technische Bundesanstalt (PTB)](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/) | [RSS Feed](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/feed/)
-- **[Robert Koch Institute (RKI)](https://www.indexdata.org/germany/robert-koch-institute-rki/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/germany/robert-koch-institute-rki/) | [RSS Feed](https://www.indexdata.org/germany/robert-koch-institute-rki/feed/)
+- **[Robert Koch Institute (RKI)](https://www.indexdata.org/germany/robert-koch-institute-rki/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/germany/robert-koch-institute-rki/) | [RSS Feed](https://www.indexdata.org/germany/robert-koch-institute-rki/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–150 of 150)
+## Indexed Statutory & Regulatory Dossiers (Records 1–151 of 151)
 
 ### [Federal Ministry of Justice (BMJ)](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/)
 Canonical Authority Archive: [https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/) | [RSS Feed](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/feed/)
@@ -184,6 +184,7 @@ Canonical Authority Archive: [https://www.indexdata.org/germany/physikalisch-tec
 ### [Robert Koch Institute (RKI)](https://www.indexdata.org/germany/robert-koch-institute-rki/)
 Canonical Authority Archive: [https://www.indexdata.org/germany/robert-koch-institute-rki/](https://www.indexdata.org/germany/robert-koch-institute-rki/) | [RSS Feed](https://www.indexdata.org/germany/robert-koch-institute-rki/feed/)
 
+- `[`DE-RKI-14590`]` **[Self-rated quality of care in adults with chronic conditions: results of the 2024 ‘Health in Germany’ panel](https://www.indexdata.org/self-rated-quality-of-care-in-adults-with-chronic-conditions-results-of-the-2024-health-in-germany-panel/)** — `2026-11-18` | `14 Pages`
 - `[`DE-RKI-14442`]` **[Suicidal thoughts and suicide attempts in Germany: Prevalence estimates from the Panel ‘Health in Germany’ 2024](https://www.indexdata.org/suicidal-thoughts-and-suicide-attempts-in-germany-prevalence-estimates-from-the-panel-health-in-germany-2024/)** — `2026-11-11` | `14 Pages`
 - `[`DE-RKI-14469`]` **[What Is There to Gain? A Systematic Review on Psychosocial Co-Benefits of Climate Policie](https://www.indexdata.org/what-is-there-to-gain-a-systematic-review-on-psychosocial-co-benefits-of-climate-policie/)** — `2026-11-05` | `18 Pages`
 - `[`DE-RKI-14592`]` **[Who Takes Long Daytime Naps? Results of the 'German Health Update' (GEDA 2023)](https://www.indexdata.org/who-takes-long-daytime-naps-results-of-the-german-health-update-geda-2023/)** — `2026-11-04` | `5 Pages`
