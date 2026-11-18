@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,513` across `243` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,514` across `243` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 17:57 UTC`
+**Last Automated Sync:** `2026-11-18 18:55 UTC`
 
 ---
 
@@ -69,7 +69,7 @@
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
@@ -259,7 +259,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,513)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,514)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -715,7 +715,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-19561`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-3/)** — `2026-09-24` | `6 Pages`
 - `[`2026-19411`]` **[Airworthiness Directives; Textron Aviation, Inc. (Type Certificate Previously Held by Cessna Aircraft Company) Airplanes](https://www.indexdata.org/airworthiness-directives-textron-aviation-inc-type-certificate-previously-held-by-cessna-aircraft-company-airplanes/)** — `2026-09-23` | `3 Pages`
 - `[`2026-19391`]` **[Establishment of Class E Airspace; Ottawa, IL](https://www.indexdata.org/establishment-of-class-e-airspace-ottawa-il/)** — `2026-09-22` | `2 Pages`
-- `[`2026-19360`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-11/)** — `2026-09-22` | `3 Pages`
 
 ### [United States Senate](https://www.indexdata.org/united-states/united-states-senate/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-senate/](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
@@ -1008,6 +1007,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-depart
 
 - `[`US-DOE-OSTI-17429009`]` **[Enzymatic deamidation softens thermal-induced whey protein gels by reducing covalent crosslinking and aggregate size](https://www.indexdata.org/enzymatic-deamidation-softens-thermal-induced-whey-protein-gels-by-reducing-covalent-crosslinking-and-aggregate-size/)** — `2026-11-18` | `55 Pages`
 - `[`US-DOE-OSTI-17429007`]` **[Upscaling Shock Wave Electrodialysis for Scalable Deionization](https://www.indexdata.org/upscaling-shock-wave-electrodialysis-for-scalable-deionization/)** — `2026-11-18` | `10 Pages`
+- `[`US-DOE-OSTI-17428951`]` **[Precision sorting of municipal solid waste using dynamic disc screen](https://www.indexdata.org/precision-sorting-of-municipal-solid-waste-using-dynamic-disc-screen/)** — `2026-11-18` | `10 Pages`
 - `[`US-DOE-OSTI-17428828`]` **[Influence of microstructural heterogeneity on water diffusion in porous clay media: A case study of illite](https://www.indexdata.org/influence-of-microstructural-heterogeneity-on-water-diffusion-in-porous-clay-media-a-case-study-of-illite/)** — `2026-11-17` | `11 Pages`
 - `[`US-DOE-OSTI-17428826`]` **[Adaptive rewiring of NADPH electron flow reveals escape routes from redox-balance-based growth coupling in Escherichia coli](https://www.indexdata.org/adaptive-rewiring-of-nadph-electron-flow-reveals-escape-routes-from-redox-balance-based-growth-coupling-in-escherichia-coli/)** — `2026-11-17` | `12 Pages`
 - `[`US-DOE-OSTI-17428825`]` **[Field-scale soil carbon analysis: Correcting for moisture and bulk density effects in Inelastic Neutron Scattering](https://www.indexdata.org/field-scale-soil-carbon-analysis-correcting-for-moisture-and-bulk-density-effects-in-inelastic-neutron-scattering/)** — `2026-11-17` | `11 Pages`

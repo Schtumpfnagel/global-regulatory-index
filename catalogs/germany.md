@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q183`](https://www.wikidata.org/wiki/Q183)  
 **Governing Open-Government Framework:** *UrhG § 5 / DL-DE->BY-2.0*  
 **Total Indexed Dossiers in Germany:** `152` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-18 17:57 UTC`
+**Last Automated Sync:** `2026-11-18 18:55 UTC`
 
 ---
 

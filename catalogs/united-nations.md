@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,014` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,015` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-18 17:57 UTC`
+**Last Automated Sync:** `2026-11-18 18:55 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`508` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`493` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,014)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,015)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1172,6 +1172,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-PV.10269`]` **[Security Council, 81st year — 10269th meeting, Thursday, 12 November 2026, New York](https://www.indexdata.org/s-pv-10269-security-council-81st-year-10269th-meeting-thursday-12-november-2026-new-york/)** — `2026-11-18` | `8 Pages`
 - `[`UN-S-PV.10264`]` **[Security Council, 81st year — 10264th meeting Thursday, 5 November 2026, New York](https://www.indexdata.org/s-pv-10264-security-council-81st-year-10264th-meeting-thursday-5-november-2026-new-york/)** — `2026-11-13` | `2 Pages`
 - `[`UN-S-RES-2837-2026`]` **[Resolution 2837 (2026)](https://www.indexdata.org/s-res-2837-2026-resolution-2837-2026/)** — `2026-11-12` | `7 Pages`
 - `[`UN-S-RES-2836-2026`]` **[Resolution 2836 (2026)](https://www.indexdata.org/s-res-2836-2026-resolution-2836-2026/)** — `2026-11-12` | `11 Pages`
@@ -1344,7 +1345,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 - `[`UN-S-2026-548`]` **[Identical letters dated 3 July 2026 from the Permanent Representative of Bahrain to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-548-identical-letters-dated-3-july-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-07-06` | `8 Pages`
 - `[`UN-S-2026-10-Add.27`]` **[Summary statement of matters of which the Security Council is seized and of the stage reached in their consideration — addendum](https://www.indexdata.org/s-2026-10-add-27-summary-statement-of-matters-of-which-the-security-council-is-seized-and-of-the-stage-reached-in-their-consideration-addendum/)** — `2026-07-06` | `4 Pages`
 - `[`UN-S-2026-545`]` **[Letter dated 1 July 2026 from the Permanent Representative of the Democratic Republic of the Congo to the United Nations addressed to the Secretary-General](https://www.indexdata.org/s-2026-545-letter-dated-1-july-2026-from-the-permanent-representative-of-the-democratic-republic-of-the-congo-to-the-united-nations-addressed-to-the-secretary-general/)** — `2026-07-02` | `4 Pages`
-- `[`UN-S-2026-544`]` **[Letter dated 1 July 2026 from the Secretary-General addressed to the President of the Security Council](https://www.indexdata.org/s-2026-544-letter-dated-1-july-2026-from-the-secretary-general-addressed-to-the-president-of-the-security-council/)** — `2026-07-02` | `4 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)

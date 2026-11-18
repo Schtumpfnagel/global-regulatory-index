@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,014` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,015` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-18 17:57 UTC`
+**Last Automated Sync:** `2026-11-18 18:55 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`508` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`493` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,014)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,015)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1144,6 +1144,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-2026-544`]` **[Letter dated 1 July 2026 from the Secretary-General addressed to the President of the Security Council](https://www.indexdata.org/s-2026-544-letter-dated-1-july-2026-from-the-secretary-general-addressed-to-the-president-of-the-security-council/)** — `2026-07-02` | `4 Pages`
 - `[`UN-S-2026-541`]` **[Identical letters dated 1 July 2026 from the Permanent Representative of Bahrain to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-541-identical-letters-dated-1-july-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-07-01` | `9 Pages`
 - `[`UN-S-2026-538`]` **[Identical letters dated 30 June 2026 from the Chargé d'affaires a.i. of the Permanent Mission of Kuwait to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-538-identical-letters-dated-30-june-2026-from-the-charge-daffaires-a-i-of-the-permanent-mission-of-kuwait-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the/)** — `2026-07-01` | `2 Pages`
 - `[`UN-S-2026-535`]` **[Identical letters dated 30 June 2026 from the Permanent Representative of Iraq to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-535-identical-letters-dated-30-june-2026-from-the-permanent-representative-of-iraq-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-07-01` | `4 Pages`
@@ -1272,7 +1273,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 - `[`UN-S-2026-339`]` **[Letter dated 17 April 2026 from the Permanent Representative of the United Arab Emirates to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-339-letter-dated-17-april-2026-from-the-permanent-representative-of-the-united-arab-emirates-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-20` | `2 Pages`
 - `[`UN-S-2026-338`]` **[Identical letters dated 17 April 2026 from the Permanent Representative of Saudi Arabia to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-338-identical-letters-dated-17-april-2026-from-the-permanent-representative-of-saudi-arabia-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-20` | `2 Pages`
 - `[`UN-S-2026-334`]` **[Identical letters dated 16 April 2026 from the Permanent Representative of Iraq to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-334-identical-letters-dated-16-april-2026-from-the-permanent-representative-of-iraq-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-20` | `2 Pages`
-- `[`UN-S-2026-10-Add.16`]` **[Summary statement of matters of which the Security Council is seized and of the stage reached in their consideration — addendum](https://www.indexdata.org/s-2026-10-add-16-summary-statement-of-matters-of-which-the-security-council-is-seized-and-of-the-stage-reached-in-their-consideration-addendum/)** — `2026-04-20` | `2 Pages`
 
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)

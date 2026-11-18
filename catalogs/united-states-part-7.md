@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,513` across `243` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,514` across `243` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 17:57 UTC`
+**Last Automated Sync:** `2026-11-18 18:55 UTC`
 
 ---
 
@@ -69,7 +69,7 @@
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
@@ -259,7 +259,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,513)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,514)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1167,11 +1167,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2024-17090`]` **[GNT USA, LLC; Filing of Color Additive Petition](https://www.indexdata.org/gnt-usa-llc-filing-of-color-additive-petition/)** — `2024-08-05` | `2 Pages`
 - `[`2024-16337`]` **[Filing of Food Additive Petition From Environmental Defense Fund, Breast Cancer Prevention Partners, Center for Food Safety, Environmental Working Group, Tom Neltner, and Maricel Maffini; Request To Amend the Food Additive Regulations To Remove Authorization of Fluorinated Polyethylene; Reopening of the Comment Period; Correction](https://www.indexdata.org/filing-of-food-additive-petition-from-environmental-defense-fund-breast-cancer-prevention-partners-center-for-food-safety-environmental-working-group-tom-neltner-and-maricel-maffini-request-to-a/)** — `2024-07-25` | `2 Pages`
 - `[`2024-15228`]` **[Blood Pressure and Pulse Donor Eligibility Requirements: Compliance Policy; Guidance for Industry; Availability](https://www.indexdata.org/blood-pressure-and-pulse-donor-eligibility-requirements-compliance-policy-guidance-for-industry-availability/)** — `2024-07-18` | `2 Pages`
-- `[`2024-15136`]` **[Advisory Committee; Allergenic Products Advisory Committee; Termination; Removal From List of Standing Committees](https://www.indexdata.org/advisory-committee-allergenic-products-advisory-committee-termination-removal-from-list-of-standing-committees/)** — `2024-07-10` | `2 Pages`
 
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
+- `[`2024-26014`]` **[Extension of Certain Timeframes for Employee Benefit Plans, Participants, Beneficiaries, Qualified Beneficiaries, and Claimants Affected by Hurricane Helene, Tropical Storm Helene, or Hurricane Milton](https://www.indexdata.org/extension-of-certain-timeframes-for-employee-benefit-plans-participants-beneficiaries-qualified-beneficiaries-and-claimants-affected-by-hurricane-helene-tropical-storm-helene-or-hurricane-milton/)** — `2024-11-08` | `5 Pages`
 - `[`2024-25464`]` **[Modernizing Regulations on Sales of Seized Property](https://www.indexdata.org/modernizing-regulations-on-sales-of-seized-property/)** — `2024-11-05` | `4 Pages`
 - `[`2024-24840`]` **[Advanced Manufacturing Production Credit](https://www.indexdata.org/advanced-manufacturing-production-credit/)** — `2024-10-28` | `49 Pages`
 - `[`2024-24675`]` **[Enhancing Coverage of Preventive Services Under the Affordable Care Act](https://www.indexdata.org/enhancing-coverage-of-preventive-services-under-the-affordable-care-act-2/)** — `2024-10-28` | `46 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,513` across `243` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,514` across `243` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 17:57 UTC`
+**Last Automated Sync:** `2026-11-18 18:55 UTC`
 
 ---
 
@@ -69,7 +69,7 @@
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`46` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
@@ -259,7 +259,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,513)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,514)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1273,7 +1273,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enfor
 - `[`2025-19292`]` **[Requiring Online Submission of Applications for and Renewals of DEA Registration: Technical Correction](https://www.indexdata.org/requiring-online-submission-of-applications-for-and-renewals-of-dea-registration-technical-correction/)** — `2025-10-02` | `3 Pages`
 - `[`2025-18103`]` **[Schedules of Controlled Substances: Placement of Seven Specific Fentanyl-Related Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i/)** — `2025-09-18` | `6 Pages`
 - `[`2025-15566`]` **[Schedules of Controlled Substances: Temporary Placement of N-pyrrolidino metonitazene and N-pyrrolidino protonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-n-pyrrolidino-metonitazene-and-n-pyrrolidino-protonitazene-in-schedule-i/)** — `2025-08-15` | `6 Pages`
-- `[`2025-15177`]` **[Specific Listing for Dipentylone, a Currently Controlled Schedule I Substance](https://www.indexdata.org/specific-listing-for-dipentylone-a-currently-controlled-schedule-i-substance/)** — `2025-08-08` | `3 Pages`
 
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
@@ -1646,6 +1645,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-p
 - `[`2025-17439`]` **[Notification of Availability and Request for Comment: Revision to the Voluntary Standard for Bassinets and Cradles](https://www.indexdata.org/notification-of-availability-and-request-for-comment-revision-to-the-voluntary-standard-for-bassinets-and-cradles/)** — `2025-09-10` | `2 Pages`
 - `[`2025-16545`]` **[Information Disclosure Under Section 6(b) of the Consumer Product Safety Act](https://www.indexdata.org/information-disclosure-under-section-6b-of-the-consumer-product-safety-act/)** — `2025-08-28` | `2 Pages`
 
+### [Education Department](https://www.indexdata.org/united-states/education-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
+
+- `[`2026-01620`]` **[Intent To Establish Negotiated Rulemaking Committee](https://www.indexdata.org/intent-to-establish-negotiated-rulemaking-committee/)** — `2026-01-27` | `3 Pages`
+- `[`2026-00959`]` **[Amendments to Definitions and Related Provisions Under the Randolph-Sheppard Vending Facility Program; Withdrawal](https://www.indexdata.org/amendments-to-definitions-and-related-provisions-under-the-randolph-sheppard-vending-facility-program-withdrawal/)** — `2026-01-20` | `2 Pages`
+- `[`2025-19729`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program/)** — `2025-10-31` | `37 Pages`
+- `[`2025-19019`]` **[Contingent Additional Meeting Dates for Negotiated Rulemaking Committee](https://www.indexdata.org/contingent-additional-meeting-dates-for-negotiated-rulemaking-committee/)** — `2025-09-30` | `2 Pages`
+- `[`2025-18640`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Meaningful Learning Opportunities](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-meaningful-learning-opportunities/)** — `2025-09-25` | `4 Pages`
+- `[`2025-18639`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-career-pathways-and-workforce-readiness/)** — `2025-09-25` | `4 Pages`
+- `[`2025-17960`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Promoting Patriotic Education](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-promoting-patriotic-education/)** — `2025-09-17` | `3 Pages`
+- `[`2025-17310`]` **[Final Priorities and Definitions-Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States](https://www.indexdata.org/final-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions-on-evidence-based-literacy-education-choice-and-returning-education-to-the-states/)** — `2025-09-09` | `19 Pages`
+- `[`2025-15665`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program-2/)** — `2025-08-18` | `23 Pages`
+
 ### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
 
@@ -1670,18 +1682,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 - `[`2025-18924`]` **[Revisions to Business Conduct and Swap Documentation Requirements for Swap Dealers and Major Swap Participants](https://www.indexdata.org/revisions-to-business-conduct-and-swap-documentation-requirements-for-swap-dealers-and-major-swap-participants-2/)** — `2025-09-30` | `33 Pages`
 - `[`2025-17793`]` **[Withdrawal of Commission Guidance](https://www.indexdata.org/withdrawal-of-commission-guidance/)** — `2025-09-15` | `2 Pages`
 - `[`2025-17555`]` **[Operational Resilience Framework for Futures Commission Merchants, Swap Dealers, and Major Swap Participants; Withdrawal of Proposed Regulatory Action](https://www.indexdata.org/operational-resilience-framework-for-futures-commission-merchants-swap-dealers-and-major-swap-participants-withdrawal-of-proposed-regulatory-action/)** — `2025-09-11` | `2 Pages`
-
-### [Education Department](https://www.indexdata.org/united-states/education-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
-
-- `[`2026-00959`]` **[Amendments to Definitions and Related Provisions Under the Randolph-Sheppard Vending Facility Program; Withdrawal](https://www.indexdata.org/amendments-to-definitions-and-related-provisions-under-the-randolph-sheppard-vending-facility-program-withdrawal/)** — `2026-01-20` | `2 Pages`
-- `[`2025-19729`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program/)** — `2025-10-31` | `37 Pages`
-- `[`2025-19019`]` **[Contingent Additional Meeting Dates for Negotiated Rulemaking Committee](https://www.indexdata.org/contingent-additional-meeting-dates-for-negotiated-rulemaking-committee/)** — `2025-09-30` | `2 Pages`
-- `[`2025-18640`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Meaningful Learning Opportunities](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-meaningful-learning-opportunities/)** — `2025-09-25` | `4 Pages`
-- `[`2025-18639`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-career-pathways-and-workforce-readiness/)** — `2025-09-25` | `4 Pages`
-- `[`2025-17960`]` **[Proposed Priority and Definitions-Secretary's Supplemental Priority and Definitions on Promoting Patriotic Education](https://www.indexdata.org/proposed-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-promoting-patriotic-education/)** — `2025-09-17` | `3 Pages`
-- `[`2025-17310`]` **[Final Priorities and Definitions-Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States](https://www.indexdata.org/final-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions-on-evidence-based-literacy-education-choice-and-returning-education-to-the-states/)** — `2025-09-09` | `19 Pages`
-- `[`2025-15665`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program-2/)** — `2025-08-18` | `23 Pages`
 
 ### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
