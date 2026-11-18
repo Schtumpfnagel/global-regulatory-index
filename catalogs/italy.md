@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/italy/feed/](https://www.indexdata.org/italy/feed/)  
 **Wikidata Sovereign Entity:** [`Q38`](https://www.wikidata.org/wiki/Q38)  
 **Governing Open-Government Framework:** *Decreto Legislativo n. 36/2006 & Legge n. 633/1941 art. 5*  
-**Total Indexed Dossiers in Italy:** `78` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-18 16:10 UTC`
+**Total Indexed Dossiers in Italy:** `79` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-18 17:11 UTC`
 
 ---
 
 ## Issuing Authorities in Italy (5 Authorities)
 
-- **[National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
+- **[National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
 - **[National Research Council of Italy (CNR)](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/) | [RSS Feed](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/feed/)
 - **[Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
 - **[Italian National Institute of Statistics (ISTAT)](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/) | [RSS Feed](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/feed/)
@@ -20,11 +20,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–78 of 78)
+## Indexed Statutory & Regulatory Dossiers (Records 1–79 of 79)
 
 ### [National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
 
+- `[`IT-INAPP-7137`]` **[From OPAC to knowledge graph IN.LOD and the semantic enrichment of institutional library ecosystems](https://www.indexdata.org/from-opac-to-knowledge-graph-in-lod-and-the-semantic-enrichment-of-institutional-library-ecosystems/)** — `2026-11-18` | `25 Pages`
 - `[`IT-INAPP-7134`]` **[Skills and occupational mobility in the green transition: evidence from italian administrative data](https://www.indexdata.org/skills-and-occupational-mobility-in-the-green-transition-evidence-from-italian-administrative-data/)** — `2026-11-18` | `59 Pages`
 - `[`IT-INAPP-7131`]` **[Il supporto del Grant Agreement EQF 2024-2026 (Project 101163296-ToNQFit) alla referenziazione del Quadro nazionale delle qualificazioni regionali (QNQR) al Quadro europeo EQF](https://www.indexdata.org/il-supporto-del-grant-agreement-eqf-2024-2026-project-101163296-tonqfit-alla-referenziazione-del-quadro-nazionale-delle-qualificazioni-regionali-qnqr-al-quadro-europeo-eqf/)** — `2026-11-17` | `14 Pages`
 - `[`IT-INAPP-7105`]` **[Beyond compliance: internal roles for evidence-informed peer review and organisational learning in vocational education and training](https://www.indexdata.org/beyond-compliance-internal-roles-for-evidence-informed-peer-review-and-organisational-learning-in-vocational-education-and-training/)** — `2026-11-06` | `17 Pages`
