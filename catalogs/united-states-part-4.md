@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,514` across `243` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,515` across `243` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 20:55 UTC`
+**Last Automated Sync:** `2026-11-18 21:42 UTC`
 
 ---
 
@@ -65,11 +65,11 @@
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 - **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 - **[Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
@@ -259,7 +259,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,514)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,515)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -887,7 +887,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-15442`]` **[Air Plan Approval; IA; Alter Metal Recycling Permit Modification](https://www.indexdata.org/air-plan-approval-ia-alter-metal-recycling-permit-modification/)** — `2025-08-14` | `2 Pages`
 - `[`2025-15441`]` **[Air Plan Approval; Oregon; Lane Regional Air Protection Agency, Outdoor Burning](https://www.indexdata.org/air-plan-approval-oregon-lane-regional-air-protection-agency-outdoor-burning/)** — `2025-08-14` | `3 Pages`
 - `[`2025-15440`]` **[Air Plan Approval; Missouri; Removal of Obsolete Rules on Control of NOX Emissions](https://www.indexdata.org/air-plan-approval-missouri-removal-of-obsolete-rules-on-control-of-nox-emissions/)** — `2025-08-14` | `3 Pages`
-- `[`2025-15183`]` **[North Dakota: Approval of State Coal Combustion Residuals Permit Program; Reopening of Comment Period](https://www.indexdata.org/north-dakota-approval-of-state-coal-combustion-residuals-permit-program-reopening-of-comment-period/)** — `2025-08-11` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1193,6 +1192,35 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2025-16031`]` **[Medical Devices; Immunology and Microbiology Devices; Classification of the Anti-Phospholipase A2 Receptor Immunological Test System](https://www.indexdata.org/medical-devices-immunology-and-microbiology-devices-classification-of-the-anti-phospholipase-a2-receptor-immunological-test-system/)** — `2025-08-21` | `3 Pages`
 - `[`2025-16030`]` **[Medical Devices; Immunology and Microbiology Devices; Classification of the Device That Detects Nucleic Acid Sequences From Microorganisms Associated With Vaginitis and Bacterial Vaginosis](https://www.indexdata.org/medical-devices-immunology-and-microbiology-devices-classification-of-the-device-that-detects-nucleic-acid-sequences-from-microorganisms-associated-with-vaginitis-and-bacterial-vaginosis/)** — `2025-08-21` | `3 Pages`
 
+### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
+
+- `[`2026-01622`]` **[Rescission of Portions of Permanent Program Performance Standards Regulating Subsidence Controls for Underground Mines](https://www.indexdata.org/rescission-of-portions-of-permanent-program-performance-standards-regulating-subsidence-controls-for-underground-mines/)** — `2026-01-27` | `2 Pages`
+- `[`2026-01570`]` **[Rescission of Portions of Permanent Program Performance Standards Related to Siltation Structures](https://www.indexdata.org/rescission-of-portions-of-permanent-program-performance-standards-related-to-siltation-structures/)** — `2026-01-27` | `2 Pages`
+- `[`2026-00875`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-2/)** — `2026-01-16` | `3 Pages`
+- `[`2026-00701`]` **[Pennsylvania Regulatory Program](https://www.indexdata.org/pennsylvania-regulatory-program/)** — `2026-01-15` | `11 Pages`
+- `[`2026-00577`]` **[Texas Regulatory Program](https://www.indexdata.org/texas-regulatory-program/)** — `2026-01-14` | `4 Pages`
+- `[`2025-23264`]` **[North Dakota Reclamation Plan](https://www.indexdata.org/north-dakota-reclamation-plan/)** — `2025-12-18` | `3 Pages`
+- `[`2025-21791`]` **[West Virginia Regulatory Program](https://www.indexdata.org/west-virginia-regulatory-program-3/)** — `2025-12-03` | `10 Pages`
+- `[`2025-21782`]` **[West Virginia Regulatory Program](https://www.indexdata.org/west-virginia-regulatory-program-5/)** — `2025-12-03` | `14 Pages`
+- `[`2025-21450`]` **[General Reclamation Requirements](https://www.indexdata.org/general-reclamation-requirements-2/)** — `2025-11-28` | `2 Pages`
+- `[`2025-21449`]` **[Applicability of Federal Regulations Implementing the Surface Mining Control and Reclamation Act of 1977](https://www.indexdata.org/applicability-of-federal-regulations-implementing-the-surface-mining-control-and-reclamation-act-of-1977/)** — `2025-11-28` | `3 Pages`
+- `[`2025-21444`]` **[Rescission of Portions of Permanent Program Performance Standards Regulating Subsidence Controls for Underground Mines](https://www.indexdata.org/rescission-of-portions-of-permanent-program-performance-standards-regulating-subsidence-controls-for-underground-mines-2/)** — `2025-11-28` | `3 Pages`
+- `[`2025-21443`]` **[Rescission of Fee Rates](https://www.indexdata.org/rescission-of-fee-rates/)** — `2025-11-28` | `3 Pages`
+- `[`2025-21442`]` **[Certification and Noncoal Reclamation](https://www.indexdata.org/certification-and-noncoal-reclamation/)** — `2025-11-28` | `3 Pages`
+- `[`2025-21441`]` **[Rescission of Portions of Permanent Program Performance Standards Related to Siltation Structures](https://www.indexdata.org/rescission-of-portions-of-permanent-program-performance-standards-related-to-siltation-structures-2/)** — `2025-11-28` | `3 Pages`
+- `[`2025-21440`]` **[Backfilling and Grading](https://www.indexdata.org/backfilling-and-grading-2/)** — `2025-11-28` | `3 Pages`
+- `[`2025-20835`]` **[Scope of Federal Regulations Implementing the Surface Mining Control and Reclamation Act of 1977](https://www.indexdata.org/scope-of-federal-regulations-implementing-the-surface-mining-control-and-reclamation-act-of-1977/)** — `2025-11-24` | `3 Pages`
+- `[`2025-20831`]` **[Prior Balance Replacement Funds](https://www.indexdata.org/prior-balance-replacement-funds/)** — `2025-11-24` | `4 Pages`
+- `[`2025-20830`]` **[Prior Balance Replacement Funds](https://www.indexdata.org/prior-balance-replacement-funds-2/)** — `2025-11-24` | `2 Pages`
+- `[`2025-20828`]` **[Prior Balance Replacement Funds](https://www.indexdata.org/prior-balance-replacement-funds-3/)** — `2025-11-24` | `3 Pages`
+- `[`2025-20827`]` **[Prior Balance Replacement Funds](https://www.indexdata.org/prior-balance-replacement-funds-4/)** — `2025-11-24` | `3 Pages`
+- `[`2025-20826`]` **[Minimum Program Make Up Funds](https://www.indexdata.org/minimum-program-make-up-funds/)** — `2025-11-24` | `3 Pages`
+- `[`2025-20825`]` **[Grants for Certified States and Indian Tribes](https://www.indexdata.org/grants-for-certified-states-and-indian-tribes/)** — `2025-11-24` | `3 Pages`
+- `[`2025-20019`]` **[Ohio Regulatory Program](https://www.indexdata.org/ohio-regulatory-program-2/)** — `2025-11-17` | `4 Pages`
+- `[`2025-20018`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program-2/)** — `2025-11-17` | `3 Pages`
+- `[`2025-15985`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-8/)** — `2025-08-21` | `2 Pages`
+
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
@@ -1220,34 +1248,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2025-17865`]` **[Catch-Up Contributions](https://www.indexdata.org/catch-up-contributions/)** — `2025-09-16` | `27 Pages`
 - `[`2025-16866`]` **[Disclosure of Returns and Return Information in Connection With Written Contracts or Agreements for the Acquisition of Property or Services for Tax Administration Purposes; Withdrawal](https://www.indexdata.org/disclosure-of-returns-and-return-information-in-connection-with-written-contracts-or-agreements-for-the-acquisition-of-property-or-services-for-tax-administration-purposes-withdrawal/)** — `2025-09-03` | `2 Pages`
 - `[`2025-15750`]` **[Returns Relating to Sales or Exchanges of Certain Partnership Interests](https://www.indexdata.org/returns-relating-to-sales-or-exchanges-of-certain-partnership-interests-2/)** — `2025-08-19` | `4 Pages`
-
-### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
-
-- `[`2026-01570`]` **[Rescission of Portions of Permanent Program Performance Standards Related to Siltation Structures](https://www.indexdata.org/rescission-of-portions-of-permanent-program-performance-standards-related-to-siltation-structures/)** — `2026-01-27` | `2 Pages`
-- `[`2026-00875`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-2/)** — `2026-01-16` | `3 Pages`
-- `[`2026-00701`]` **[Pennsylvania Regulatory Program](https://www.indexdata.org/pennsylvania-regulatory-program/)** — `2026-01-15` | `11 Pages`
-- `[`2026-00577`]` **[Texas Regulatory Program](https://www.indexdata.org/texas-regulatory-program/)** — `2026-01-14` | `4 Pages`
-- `[`2025-23264`]` **[North Dakota Reclamation Plan](https://www.indexdata.org/north-dakota-reclamation-plan/)** — `2025-12-18` | `3 Pages`
-- `[`2025-21791`]` **[West Virginia Regulatory Program](https://www.indexdata.org/west-virginia-regulatory-program-3/)** — `2025-12-03` | `10 Pages`
-- `[`2025-21782`]` **[West Virginia Regulatory Program](https://www.indexdata.org/west-virginia-regulatory-program-5/)** — `2025-12-03` | `14 Pages`
-- `[`2025-21450`]` **[General Reclamation Requirements](https://www.indexdata.org/general-reclamation-requirements-2/)** — `2025-11-28` | `2 Pages`
-- `[`2025-21449`]` **[Applicability of Federal Regulations Implementing the Surface Mining Control and Reclamation Act of 1977](https://www.indexdata.org/applicability-of-federal-regulations-implementing-the-surface-mining-control-and-reclamation-act-of-1977/)** — `2025-11-28` | `3 Pages`
-- `[`2025-21444`]` **[Rescission of Portions of Permanent Program Performance Standards Regulating Subsidence Controls for Underground Mines](https://www.indexdata.org/rescission-of-portions-of-permanent-program-performance-standards-regulating-subsidence-controls-for-underground-mines-2/)** — `2025-11-28` | `3 Pages`
-- `[`2025-21443`]` **[Rescission of Fee Rates](https://www.indexdata.org/rescission-of-fee-rates/)** — `2025-11-28` | `3 Pages`
-- `[`2025-21442`]` **[Certification and Noncoal Reclamation](https://www.indexdata.org/certification-and-noncoal-reclamation/)** — `2025-11-28` | `3 Pages`
-- `[`2025-21441`]` **[Rescission of Portions of Permanent Program Performance Standards Related to Siltation Structures](https://www.indexdata.org/rescission-of-portions-of-permanent-program-performance-standards-related-to-siltation-structures-2/)** — `2025-11-28` | `3 Pages`
-- `[`2025-21440`]` **[Backfilling and Grading](https://www.indexdata.org/backfilling-and-grading-2/)** — `2025-11-28` | `3 Pages`
-- `[`2025-20835`]` **[Scope of Federal Regulations Implementing the Surface Mining Control and Reclamation Act of 1977](https://www.indexdata.org/scope-of-federal-regulations-implementing-the-surface-mining-control-and-reclamation-act-of-1977/)** — `2025-11-24` | `3 Pages`
-- `[`2025-20831`]` **[Prior Balance Replacement Funds](https://www.indexdata.org/prior-balance-replacement-funds/)** — `2025-11-24` | `4 Pages`
-- `[`2025-20830`]` **[Prior Balance Replacement Funds](https://www.indexdata.org/prior-balance-replacement-funds-2/)** — `2025-11-24` | `2 Pages`
-- `[`2025-20828`]` **[Prior Balance Replacement Funds](https://www.indexdata.org/prior-balance-replacement-funds-3/)** — `2025-11-24` | `3 Pages`
-- `[`2025-20827`]` **[Prior Balance Replacement Funds](https://www.indexdata.org/prior-balance-replacement-funds-4/)** — `2025-11-24` | `3 Pages`
-- `[`2025-20826`]` **[Minimum Program Make Up Funds](https://www.indexdata.org/minimum-program-make-up-funds/)** — `2025-11-24` | `3 Pages`
-- `[`2025-20825`]` **[Grants for Certified States and Indian Tribes](https://www.indexdata.org/grants-for-certified-states-and-indian-tribes/)** — `2025-11-24` | `3 Pages`
-- `[`2025-20019`]` **[Ohio Regulatory Program](https://www.indexdata.org/ohio-regulatory-program-2/)** — `2025-11-17` | `4 Pages`
-- `[`2025-20018`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program-2/)** — `2025-11-17` | `3 Pages`
-- `[`2025-15985`]` **[Montana Regulatory Program](https://www.indexdata.org/montana-regulatory-program-8/)** — `2025-08-21` | `2 Pages`
 
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
