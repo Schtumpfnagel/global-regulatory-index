@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,175` across `26` issuing authorities  
-**Last Automated Sync:** `2026-11-18 05:58 UTC`
+**Total Indexed Dossiers in International:** `1,176` across `26` issuing authorities  
+**Last Automated Sync:** `2026-11-18 06:55 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`174` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`104` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
-- **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`83` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
+- **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`77` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
@@ -40,7 +40,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,175 of 1,175)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,176 of 1,176)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -906,6 +906,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-c
 - `[`ECDC-CELLAR-CC98236D-9B74-11F1-B25C-01AA75ED71A1`]` **[After-action review of leptospirosis outbreak response in Latvia in 2025](https://www.indexdata.org/after-action-review-of-leptospirosis-outbreak-response-in-latvia-in-2025/)** — `2026-08-18` | `18 Pages`
 - `[`ECDC-CELLAR-6974FE1C-9787-11F1-9262-01AA75ED71A1`]` **[Transmission of selected arboviruses through substances of human origin (SoHO) : a scoping review](https://www.indexdata.org/transmission-of-selected-arboviruses-through-substances-of-human-origin-soho-a-scoping-review/)** — `2026-08-13` | `48 Pages`
 - `[`ECDC-OA-W7202148093`]` **[Self-reported hepatitis B diagnoses and vaccination history in trans and non-binary communities in Germany, the TASG-study* 2022](https://www.indexdata.org/self-reported-hepatitis-b-diagnoses-and-vaccination-history-in-trans-and-non-binary-communities-in-germany-the-tasg-study-2022/)** — `2026-08-10` | `12 Pages`
+- `[`ECDC-DOC-VACCINE-MONITORING-PLATFORM-VMP-RESEARCH-AGENDA`]` **[Vaccine Monitoring Platform (VMP) research agenda](https://www.indexdata.org/vaccine-monitoring-platform-vmp-research-agenda/)** — `2026-08-10` | `13 Pages`
 - `[`ECDC-OA-W7201832849`]` **[Estimating the impact of doxycycline post-exposure prophylaxis on antibiotic consumption among men who have sex with men using PrEP in the EU/EEA](https://www.indexdata.org/estimating-the-impact-of-doxycycline-post-exposure-prophylaxis-on-antibiotic-consumption-among-men-who-have-sex-with-men-using-prep-in-the-eu-eea/)** — `2026-08-06` | `9 Pages`
 - `[`ECDC-OA-W7172523507`]` **[Dynamics of Myelin-Specific T-Cell Repertoires Mirror Disease Activity and Central Nervous System Trafficking in Multiple Sclerosis](https://www.indexdata.org/dynamics-of-myelin-specific-t-cell-repertoires-mirror-disease-activity-and-central-nervous-system-trafficking-in-multiple-sclerosis/)** — `2026-08-05` | `21 Pages`
 - `[`ECDC-CELLAR-864AAFC2-9162-11F1-9262-01AA75ED71A1`]` **[External quality assessment for identification, antimicrobial susceptibility testing and molecular typing of Neisseria meningitidis, 2026](https://www.indexdata.org/external-quality-assessment-for-identification-antimicrobial-susceptibility-testing-and-molecular-typing-of-neisseria-meningitidis-2026/)** — `2026-08-04` | `26 Pages`

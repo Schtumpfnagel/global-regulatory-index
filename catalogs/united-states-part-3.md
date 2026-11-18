@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,470` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,472` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 05:58 UTC`
+**Last Automated Sync:** `2026-11-18 06:55 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`908` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`530` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`340` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`341` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -57,7 +57,7 @@
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,470)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,472)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1419,6 +1419,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 
+- `[`2026-10729`]` **[Zero-Based Regulating](https://www.indexdata.org/zero-based-regulating-2/)** — `2026-05-29` | `8 Pages`
+- `[`2026-10727`]` **[Zero-Based Regulating](https://www.indexdata.org/zero-based-regulating-3/)** — `2026-05-29` | `9 Pages`
 - `[`2026-10064`]` **[Renewable Energy Production Incentives](https://www.indexdata.org/renewable-energy-production-incentives/)** — `2026-05-20` | `4 Pages`
 - `[`2026-08201`]` **[Energy Conservation Program: Exempt Power Supplies Under the EPS Service Parts Act of 2014](https://www.indexdata.org/energy-conservation-program-exempt-power-supplies-under-the-eps-service-parts-act-of-2014/)** — `2026-04-28` | `8 Pages`
 - `[`2026-08145`]` **[Energy Conservation Program: Notification of Petition for Rulemaking](https://www.indexdata.org/energy-conservation-program-notification-of-petition-for-rulemaking/)** — `2026-04-27` | `5 Pages`
@@ -1607,18 +1609,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2026-05997`]` **[Reducing Bureaucracy and Burden for Human Services and Emergency Response Programs-Repatriation Program](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation-program-2/)** — `2026-03-27` | `4 Pages`
 - `[`2026-05994`]` **[Reducing Bureaucracy and Burden for Native American Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-native-american-programs-2/)** — `2026-03-27` | `4 Pages`
 
-### [Census Bureau](https://www.indexdata.org/united-states/census-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/census-bureau/](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
-
-- `[`2026-10370`]` **[Foreign Trade Regulations (FTR): Clarification of Filing Requirements Regarding In-Transit Shipments and Other FTR Provisions; Correction](https://www.indexdata.org/foreign-trade-regulations-ftr-clarification-of-filing-requirements-regarding-in-transit-shipments-and-other-ftr-provisions-correction/)** — `2026-05-26` | `2 Pages`
-- `[`2026-06133`]` **[Streamlining the Census Bureau's Foreign Trade Regulations](https://www.indexdata.org/streamlining-the-census-bureaus-foreign-trade-regulations/)** — `2026-03-30` | `2 Pages`
-- `[`2026-03494`]` **[Age Search Service Fee Structure](https://www.indexdata.org/age-search-service-fee-structure/)** — `2026-02-23` | `3 Pages`
-- `[`2026-03384`]` **[Streamlining the Regulations Governing Requests for Special Census Services and Studies](https://www.indexdata.org/streamlining-the-regulations-governing-requests-for-special-census-services-and-studies/)** — `2026-02-20` | `2 Pages`
-- `[`2026-01308`]` **[Streamlining the Regulations Governing the Official Seal of the Census Bureau](https://www.indexdata.org/streamlining-the-regulations-governing-the-official-seal-of-the-census-bureau/)** — `2026-01-23` | `3 Pages`
-- `[`2026-01245`]` **[Removing Redundant Language From the Regulations Governing the Furnishing of Personal Census Data](https://www.indexdata.org/removing-redundant-language-from-the-regulations-governing-the-furnishing-of-personal-census-data/)** — `2026-01-23` | `2 Pages`
-- `[`2026-01244`]` **[Eliminating Unnecessary and Overly-Restrictive Regulations Related to the Release of Decennial Census Population Information](https://www.indexdata.org/eliminating-unnecessary-and-overly-restrictive-regulations-related-to-the-release-of-decennial-census-population-information/)** — `2026-01-23` | `2 Pages`
-- `[`2026-01242`]` **[Eliminating Regulations Contemplating Collaboration With USAID To Train Foreign Participants in Census Procedures and General Statistics](https://www.indexdata.org/eliminating-regulations-contemplating-collaboration-with-usaid-to-train-foreign-participants-in-census-procedures-and-general-statistics/)** — `2026-01-23` | `2 Pages`
-
 ### [Commerce Department](https://www.indexdata.org/united-states/commerce-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commerce-department/](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
 
@@ -1710,6 +1700,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-a
 - `[`2026-03068`]` **[Evaluative Rating: Impact of Medication](https://www.indexdata.org/evaluative-rating-impact-of-medication/)** — `2026-02-17` | `3 Pages`
 - `[`2026-02978`]` **[Home Visits in Program of Comprehensive Assistance for Family Caregivers During COVID-19 National Emergency](https://www.indexdata.org/home-visits-in-program-of-comprehensive-assistance-for-family-caregivers-during-covid-19-national-emergency/)** — `2026-02-13` | `4 Pages`
 - `[`2026-01875`]` **[Providing a Minimum Evaluation for Bradycardia](https://www.indexdata.org/providing-a-minimum-evaluation-for-bradycardia/)** — `2026-01-30` | `3 Pages`
+
+### [Census Bureau](https://www.indexdata.org/united-states/census-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/census-bureau/](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
+
+- `[`2026-10370`]` **[Foreign Trade Regulations (FTR): Clarification of Filing Requirements Regarding In-Transit Shipments and Other FTR Provisions; Correction](https://www.indexdata.org/foreign-trade-regulations-ftr-clarification-of-filing-requirements-regarding-in-transit-shipments-and-other-ftr-provisions-correction/)** — `2026-05-26` | `2 Pages`
+- `[`2026-06133`]` **[Streamlining the Census Bureau's Foreign Trade Regulations](https://www.indexdata.org/streamlining-the-census-bureaus-foreign-trade-regulations/)** — `2026-03-30` | `2 Pages`
+- `[`2026-03494`]` **[Age Search Service Fee Structure](https://www.indexdata.org/age-search-service-fee-structure/)** — `2026-02-23` | `3 Pages`
+- `[`2026-03384`]` **[Streamlining the Regulations Governing Requests for Special Census Services and Studies](https://www.indexdata.org/streamlining-the-regulations-governing-requests-for-special-census-services-and-studies/)** — `2026-02-20` | `2 Pages`
+- `[`2026-01308`]` **[Streamlining the Regulations Governing the Official Seal of the Census Bureau](https://www.indexdata.org/streamlining-the-regulations-governing-the-official-seal-of-the-census-bureau/)** — `2026-01-23` | `3 Pages`
+- `[`2026-01245`]` **[Removing Redundant Language From the Regulations Governing the Furnishing of Personal Census Data](https://www.indexdata.org/removing-redundant-language-from-the-regulations-governing-the-furnishing-of-personal-census-data/)** — `2026-01-23` | `2 Pages`
 
 ### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)

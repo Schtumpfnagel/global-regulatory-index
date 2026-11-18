@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,470` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,472` across `238` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 05:58 UTC`
+**Last Automated Sync:** `2026-11-18 06:55 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`908` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`530` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`340` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`341` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -57,7 +57,7 @@
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,470)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,472)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -640,8 +640,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-14007`]` **[Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes](https://www.indexdata.org/airworthiness-directives-pilatus-aircraft-ltd-airplanes-23/)** — `2023-07-03` | `3 Pages`
 - `[`2023-14006`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-87/)** — `2023-07-03` | `4 Pages`
 - `[`2023-14005`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-330/)** — `2023-07-03` | `3 Pages`
-- `[`2023-14004`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-329/)** — `2023-07-03` | `3 Pages`
-- `[`2023-14003`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-112/)** — `2023-07-03` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1622,6 +1620,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and
 - `[`2023-14290`]` **[Improving Child Care Access, Affordability, and Stability in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/improving-child-care-access-affordability-and-stability-in-the-child-care-and-development-fund-ccdf-2/)** — `2023-07-13` | `32 Pages`
 - `[`2023-14343`]` **[Control of Communicable Diseases; Foreign Quarantine: Importation of Dogs and Cats](https://www.indexdata.org/control-of-communicable-diseases-foreign-quarantine-importation-of-dogs-and-cats-2/)** — `2023-07-10` | `52 Pages`
 
+### [State Department](https://www.indexdata.org/united-states/state-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+
+- `[`2023-23501`]` **[Public Access to Information; Correction](https://www.indexdata.org/public-access-to-information-correction/)** — `2023-10-27` | `2 Pages`
+- `[`2023-22380`]` **[Public Access to Information](https://www.indexdata.org/public-access-to-information-2/)** — `2023-10-18` | `18 Pages`
+- `[`2023-21666`]` **[Publication, Coordination, and Reporting of International Agreements: Amendments](https://www.indexdata.org/publication-coordination-and-reporting-of-international-agreements-amendments/)** — `2023-10-02` | `9 Pages`
+- `[`2023-21559`]` **[Schedule of Fees for Consular Services-Administrative Processing of Request for Certificate of Loss of Nationality (CLN) Fee](https://www.indexdata.org/schedule-of-fees-for-consular-services-administrative-processing-of-request-for-certificate-of-loss-of-nationality-cln-fee/)** — `2023-10-02` | `4 Pages`
+- `[`2023-19851`]` **[International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus/)** — `2023-09-14` | `2 Pages`
+- `[`2023-19047`]` **[Visas: Ineligibility Based on Public Charge](https://www.indexdata.org/visas-ineligibility-based-on-public-charge/)** — `2023-09-05` | `10 Pages`
+- `[`2023-18143`]` **[Access to Information; Privacy Act Provisions](https://www.indexdata.org/access-to-information-privacy-act-provisions-2/)** — `2023-08-25` | `4 Pages`
+- `[`2023-15744`]` **[Third-Party Attendance at Appointments for Passport, Consular Report of Birth Abroad (CRBA), and Certain Other Services](https://www.indexdata.org/third-party-attendance-at-appointments-for-passport-consular-report-of-birth-abroad-crba-and-certain-other-services-2/)** — `2023-07-26` | `3 Pages`
+- `[`2023-14538`]` **[Visas: Nonimmigrant Visas; Immigrant Visas](https://www.indexdata.org/visas-nonimmigrant-visas-immigrant-visas/)** — `2023-07-14` | `10 Pages`
+
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 
@@ -1658,18 +1669,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2023-14795`]` **[Guides Concerning the Use of Endorsements and Testimonials in Advertising](https://www.indexdata.org/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising/)** — `2023-07-26` | `21 Pages`
 - `[`2023-15415`]` **[Children's Online Privacy Protection Rule Proposed Parental Consent Method; Application of the ESRB Group for Approval of Parental Consent Method](https://www.indexdata.org/childrens-online-privacy-protection-rule-proposed-parental-consent-method-application-of-the-esrb-group-for-approval-of-parental-consent-method/)** — `2023-07-20` | `2 Pages`
 - `[`2023-12630`]` **[Rules of Practice](https://www.indexdata.org/rules-of-practice-4/)** — `2023-07-05` | `7 Pages`
-
-### [State Department](https://www.indexdata.org/united-states/state-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
-
-- `[`2023-22380`]` **[Public Access to Information](https://www.indexdata.org/public-access-to-information-2/)** — `2023-10-18` | `18 Pages`
-- `[`2023-21666`]` **[Publication, Coordination, and Reporting of International Agreements: Amendments](https://www.indexdata.org/publication-coordination-and-reporting-of-international-agreements-amendments/)** — `2023-10-02` | `9 Pages`
-- `[`2023-21559`]` **[Schedule of Fees for Consular Services-Administrative Processing of Request for Certificate of Loss of Nationality (CLN) Fee](https://www.indexdata.org/schedule-of-fees-for-consular-services-administrative-processing-of-request-for-certificate-of-loss-of-nationality-cln-fee/)** — `2023-10-02` | `4 Pages`
-- `[`2023-19851`]` **[International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus](https://www.indexdata.org/international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to-or-from-certain-countries-cyprus/)** — `2023-09-14` | `2 Pages`
-- `[`2023-19047`]` **[Visas: Ineligibility Based on Public Charge](https://www.indexdata.org/visas-ineligibility-based-on-public-charge/)** — `2023-09-05` | `10 Pages`
-- `[`2023-18143`]` **[Access to Information; Privacy Act Provisions](https://www.indexdata.org/access-to-information-privacy-act-provisions-2/)** — `2023-08-25` | `4 Pages`
-- `[`2023-15744`]` **[Third-Party Attendance at Appointments for Passport, Consular Report of Birth Abroad (CRBA), and Certain Other Services](https://www.indexdata.org/third-party-attendance-at-appointments-for-passport-consular-report-of-birth-abroad-crba-and-certain-other-services-2/)** — `2023-07-26` | `3 Pages`
-- `[`2023-14538`]` **[Visas: Nonimmigrant Visas; Immigrant Visas](https://www.indexdata.org/visas-nonimmigrant-visas-immigrant-visas/)** — `2023-07-14` | `10 Pages`
 
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -1903,6 +1902,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-c
 - `[`2023-20950`]` **[Financial Innovation: Loan Participations, Eligible Obligations, and Notes of Liquidating Credit Unions](https://www.indexdata.org/financial-innovation-loan-participations-eligible-obligations-and-notes-of-liquidating-credit-unions/)** — `2023-09-29` | `32 Pages`
 - `[`2023-15715`]` **[Federal Credit Union Bylaws](https://www.indexdata.org/federal-credit-union-bylaws/)** — `2023-07-26` | `13 Pages`
 
+### [National Labor Relations Board](https://www.indexdata.org/united-states/national-labor-relations-board/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-labor-relations-board/](https://www.indexdata.org/united-states/national-labor-relations-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-labor-relations-board/feed/)
+
+- `[`2023-23573`]` **[Standard for Determining Joint Employer Status](https://www.indexdata.org/standard-for-determining-joint-employer-status-2/)** — `2023-10-27` | `73 Pages`
+- `[`2023-18130`]` **[Representation Case Procedures](https://www.indexdata.org/representation-case-procedures-3/)** — `2023-08-25` | `2 Pages`
+- `[`2023-18129`]` **[Representation-Case Procedures](https://www.indexdata.org/representation-case-procedures-2/)** — `2023-08-25` | `27 Pages`
+
 ### [Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
 
@@ -2023,12 +2029,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/mine-safet
 
 - `[`2023-15592`]` **[Lowering Miners' Exposure to Respirable Crystalline Silica and Improving Respiratory Protection](https://www.indexdata.org/lowering-miners-exposure-to-respirable-crystalline-silica-and-improving-respiratory-protection-2/)** — `2023-07-26` | `2 Pages`
 - `[`2023-14199`]` **[Lowering Miners' Exposure to Respirable Crystalline Silica and Improving Respiratory Protection](https://www.indexdata.org/lowering-miners-exposure-to-respirable-crystalline-silica-and-improving-respiratory-protection-3/)** — `2023-07-13` | `168 Pages`
-
-### [National Labor Relations Board](https://www.indexdata.org/united-states/national-labor-relations-board/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-labor-relations-board/](https://www.indexdata.org/united-states/national-labor-relations-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-labor-relations-board/feed/)
-
-- `[`2023-18130`]` **[Representation Case Procedures](https://www.indexdata.org/representation-case-procedures-3/)** — `2023-08-25` | `2 Pages`
-- `[`2023-18129`]` **[Representation-Case Procedures](https://www.indexdata.org/representation-case-procedures-2/)** — `2023-08-25` | `27 Pages`
 
 ### [Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/ocean-energy-management-bureau/](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)

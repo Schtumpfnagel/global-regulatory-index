@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,470` across `238` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,472` across `238` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-18 05:58 UTC`
+**Last Automated Sync:** `2026-11-18 06:55 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`908` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`530` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`340` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`341` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -57,7 +57,7 @@
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`59` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`60` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -254,7 +254,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,470)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,472)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -335,6 +335,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CHRG-119hhrg64505`]` **[Serial No. 119-47 - TSA MODERNIZATION: INDUSTRY PERSPECTIVES ON KEY SECURITY AND TRAVEL REFORMS 25 YEARS AFTER 9/11](https://www.indexdata.org/serial-no-119-47-tsa-modernization-industry-perspectives-on-key-security-and-travel-reforms-25-years-after-9-11/)** — `2026-11-01` | `68 Pages`
 - `[`US-CHRG-119hhrg64103`]` **[House Hearing, 119th Congress - THE CONGRESSIONAL RESEARCH SERVICE AND THE FUTURE OF AI-ENABLED POLICY ANALYSIS](https://www.indexdata.org/house-hearing-119th-congress-the-congressional-research-service-and-the-future-of-ai-enabled-policy-analysis/)** — `2026-11-01` | `104 Pages`
 - `[`US-CHRG-119hhrg63913`]` **[House Hearing, 119th Congress - OVERSIGHT OF THE ARCHITECT OF THE CAPITOL: ADDRESSING PAST LESSONS, PRESENT PROJECTS, AND FUTURE CHALLENGES](https://www.indexdata.org/house-hearing-119th-congress-oversight-of-the-architect-of-the-capitol-addressing-past-lessons-present-projects-and-future-challenges/)** — `2026-11-01` | `32 Pages`
+- `[`US-BILLS-119hres1667ih`]` **[H. Res. 1667 (IH) - Expressing support for designating November 2026 as "National Career Development Month".](https://www.indexdata.org/h-res-1667-ih-expressing-support-for-designating-november-2026-as-national-career-development-month/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hres1665rh`]` **[H. Res. 1665 (RH) - Providing for consideration of the bill (H.R. 3495) to amend the Fair Labor Standards Act of 1938 to clarify the definition of employee as it relates to direct sellers and real estate agents, and for other purposes, and providing for consideration of the bill (H.R. 5267) to preserve the franchise business model.](https://www.indexdata.org/h-res-1665-rh-providing-for-consideration-of-the-bill-h-r-3495-to-amend-the-fair-labor-standards-act-of-1938-to-clarify-the-definition-of-employee-as-it-relates-to-direct-sellers-and-real-est/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hres1664ih`]` **[H. Res. 1664 (IH) - Expressing support for the designation of "Prematurity Awareness Month".](https://www.indexdata.org/h-res-1664-ih-expressing-support-for-the-designation-of-prematurity-awareness-month/)** — `2026-11-01` | `5 Pages`
 - `[`US-BILLS-119hres1663ih`]` **[H. Res. 1663 (IH) - Expressing opposition to the use of State power against people in the United States seeking essential health care, including criminalization of the full range of sexual and reproductive health care such as abortion, gender-affirming care, and contraceptive care, and disapproving of State punishment of people for their pregnancy outcomes.](https://www.indexdata.org/h-res-1663-ih-expressing-opposition-to-the-use-of-state-power-against-people-in-the-united-states-seeking-essential-health-care-including-criminalization-of-the-full-range-of-sexual-and-reprodu/)** — `2026-11-01` | `8 Pages`
@@ -717,8 +718,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-19143`]` **[Amendment of Class E Airspace; Alma, MI](https://www.indexdata.org/amendment-of-class-e-airspace-alma-mi/)** — `2026-09-18` | `2 Pages`
 - `[`2026-19094`]` **[Airworthiness Directives; Pratt & Whitney Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-engines/)** — `2026-09-17` | `4 Pages`
 - `[`2026-19090`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-13/)** — `2026-09-17` | `4 Pages`
-- `[`2026-19089`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes/)** — `2026-09-17` | `4 Pages`
-- `[`2026-19084`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-14/)** — `2026-09-17` | `3 Pages`
 
 ### [United States Senate](https://www.indexdata.org/united-states/united-states-senate/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-senate/](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
@@ -740,6 +739,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-BILLS-119sres722is`]` **[S. Res. 722 (IS) - Addressing the politicization of war crimes allegations against allied special operations forces.](https://www.indexdata.org/s-res-722-is-addressing-the-politicization-of-war-crimes-allegations-against-allied-special-operations-forces/)** — `2026-11-01` | `5 Pages`
 - `[`US-BILLS-119sres718ats`]` **[S. Res. 718 (ATS) - A resolution commending and congratulating the University of California, Los Angeles Bruins women’s basketball team for winning the 2026 National Collegiate Athletic Association Division I Women’s Basketball National Championship.](https://www.indexdata.org/s-res-718-ats-a-resolution-commending-and-congratulating-the-university-of-california-los-angeles-bruins-womens-basketball-team-for-winning-the-2026-national-collegiate-athletic-associ/)** — `2026-11-01` | `3 Pages`
 - `[`US-BILLS-119s5714is`]` **[S. 5714 (IS) - Competition in Professional Baseball Act](https://www.indexdata.org/s-5714-is-competition-in-professional-baseball-act/)** — `2026-11-01` | `2 Pages`
+- `[`US-BILLS-119s5708is`]` **[S. 5708 (IS) - Master Sergeant Roy P. Benavidez VA Clinic Act of 2026](https://www.indexdata.org/s-5708-is-master-sergeant-roy-p-benavidez-va-clinic-act-of-2026/)** — `2026-11-01` | `9 Pages`
 - `[`US-BILLS-119s5704is`]` **[S. 5704 (IS) - Helping Emergency Responders Overcome Act](https://www.indexdata.org/s-5704-is-helping-emergency-responders-overcome-act/)** — `2026-11-01` | `13 Pages`
 - `[`US-BILLS-119s5701is`]` **[S. 5701 (IS) - Law Enforcement Officers Equity Act](https://www.indexdata.org/s-5701-is-law-enforcement-officers-equity-act/)** — `2026-11-01` | `10 Pages`
 - `[`US-BILLS-119s5696is`]` **[S. 5696 (IS) - New PACT for Iran Veterans Act](https://www.indexdata.org/s-5696-is-new-pact-for-iran-veterans-act/)** — `2026-11-01` | `5 Pages`
