@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,016` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,017` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-19 09:55 UTC`
+**Last Automated Sync:** `2026-11-19 10:59 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,022` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,023` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`493` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,016 of 7,016)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,017 of 7,017)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -1043,6 +1043,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretari
 ### [UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 
+- `[`UN-CCPR-SP-99`]` **[Election of one member of the Human Rights Committee to fill the vacancy created by the resignation of Farid Ahmadov (Azerbaijan), whose term was due to expire on 31 December 2026](https://www.indexdata.org/ccpr-sp-99-election-of-one-member-of-the-human-rights-committee-to-fill-the-vacancy-created-by-the-resignation-of-farid-ahmadov-azerbaijan-whose-term-was-due-to-expire-on-31-december-2026/)** — `2024-12-11` | `14 Pages`
 - `[`UN-CCPR-C-POL-QPR-8`]` **[List of issues prior to submission of the 8th periodic report of Poland — Human Rights Committee](https://www.indexdata.org/ccpr-c-pol-qpr-8-list-of-issues-prior-to-submission-of-the-8th-periodic-report-of-poland-human-rights-committee/)** — `2024-12-11` | `6 Pages`
 - `[`UN-CCPR-C-CMR-QPR-6`]` **[List of issues prior to submission of the 6th periodic report of Cameroon — Human Rights Committee](https://www.indexdata.org/ccpr-c-cmr-qpr-6-list-of-issues-prior-to-submission-of-the-6th-periodic-report-of-cameroon-human-rights-committee/)** — `2024-12-11` | `7 Pages`
 - `[`UN-CAT-C-MNG-CO-3`]` **[Concluding observations on the 3rd periodic report of Mongolia — Committee against Torture](https://www.indexdata.org/cat-c-mng-co-3-concluding-observations-on-the-3rd-periodic-report-of-mongolia-committee-against-torture/)** — `2024-12-11` | `13 Pages`

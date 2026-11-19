@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,478` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,479` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-19 09:55 UTC`
+**Last Automated Sync:** `2026-11-19 10:59 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,509` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,510` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,046` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,478)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,479)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -647,6 +647,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-2014_07_10_transparency_policy_kick_off_presentation_en`]` **[EIB Policy Conference: 2014 07 10 Transparency Policy Kick off Presentation](https://www.indexdata.org/eib-policy-conference-2014-07-10-transparency-policy-kick-off-presentation/)** — `2025-04-15` | `15 Pages`
 - `[`EIB-EVT-2014_07_08_innvofin_luxembourg_presentation_en`]` **[EIB Policy Conference: 2014 07 08 Innvofin Luxembourg Presentation](https://www.indexdata.org/eib-policy-conference-2014-07-08-innvofin-luxembourg-presentation/)** — `2025-04-15` | `17 Pages`
 - `[`EIB-EVT-2014_06_23_european_financial_congress_programme_en`]` **[EIB Policy Conference: 2014 06 23 European Financial Congress Programme](https://www.indexdata.org/eib-policy-conference-2014-06-23-european-financial-congress-programme/)** — `2025-04-15` | `51 Pages`
+- `[`EIB-EVT-2014_03_24_investment_finance_in_croatia_scannapieco_revoltella_en`]` **[EIB Policy Conference: 2014 03 24 Investment Finance in Croatia Scannapieco Revoltella](https://www.indexdata.org/eib-policy-conference-2014-03-24-investment-finance-in-croatia-scannapieco-revoltella/)** — `2025-04-15` | `32 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1549,7 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EFS-economics_working_paper_2019_05_en`]` **[EIB Economics Study: Economics Working Paper 2019 05](https://www.indexdata.org/eib-economics-study-economics-working-paper-2019-05/)** — `2025-04-14` | `38 Pages`
 - `[`EIB-EFS-economics_working_paper_2019_04_en`]` **[EIB Economics Study: Economics Working Paper 2019 04](https://www.indexdata.org/eib-economics-study-economics-working-paper-2019-04/)** — `2025-04-14` | `38 Pages`
 - `[`EIB-EFS-economics_working_paper_2019_03_en`]` **[EIB Economics Study: Economics Working Paper 2019 03](https://www.indexdata.org/eib-economics-study-economics-working-paper-2019-03/)** — `2025-04-14` | `34 Pages`
-- `[`EIB-EFS-economics_working_paper_2019_02_en`]` **[EIB Economics Study: Economics Working Paper 2019 02](https://www.indexdata.org/eib-economics-study-economics-working-paper-2019-02/)** — `2025-04-14` | `26 Pages`
 
 ---
 

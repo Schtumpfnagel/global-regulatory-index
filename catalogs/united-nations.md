@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,016` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,017` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-19 09:55 UTC`
+**Last Automated Sync:** `2026-11-19 10:59 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,022` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,023` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`493` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,12 +187,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,016)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,017)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
 - `[`UN-A-AC.96-SR.788`]` **[Summary record of the 788th meeting, held at the Palais des Nations, Geneva, on Wednesday, 14 October 2026 — Executive Committee of the Programme of the United Nations High Commissioner for Refugees, 77th session](https://www.indexdata.org/a-ac-96-sr-788-summary-record-of-the-788th-meeting-held-at-the-palais-des-nations-geneva-on-wednesday-14-october-2026-executive-committee-of-the-programme-of-the-united-nations-high-co/)** — `2026-11-18` | `20 Pages`
+- `[`UN-A-C.3-81-L.76`]` **[Implementation of resolution 13/1 of the Conference of the Parties to the United Nations Convention against Transnational Organized Crime : Programme budget implications of draft resolution A/C.3/81/L.8/Rev.1 — statement submitted by the Secretary-General in accordance with rule 153 of the rules of procedure of the General Assembly](https://www.indexdata.org/a-c-3-81-l-76-implementation-of-resolution-13-1-of-the-conference-of-the-parties-to-the-united-nations-convention-against-transnational-organized-crime-programme-budget-implications-of-draft-resol/)** — `2026-11-17` | `6 Pages`
 - `[`UN-A-HRC-63-SR.42`]` **[Summary record of the 42nd meeting, held at the Palais des Nations, Geneva, on Tuesday, 6 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-42-summary-record-of-the-42nd-meeting-held-at-the-palais-des-nations-geneva-on-tuesday-6-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `26 Pages`
 - `[`UN-A-HRC-63-SR.41`]` **[Summary record of the 41st meeting, held at the Palais des Nations, Geneva, on Tuesday, 6 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-41-summary-record-of-the-41st-meeting-held-at-the-palais-des-nations-geneva-on-tuesday-6-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `30 Pages`
 - `[`UN-A-HRC-63-SR.40`]` **[Summary record of the 40th meeting, held at the Palais des Nations, Geneva, on Monday, 5 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-40-summary-record-of-the-40th-meeting-held-at-the-palais-des-nations-geneva-on-monday-5-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `27 Pages`
@@ -1168,7 +1169,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-62-L.26-Rev.1`]` **[Protection of healthcare in armed conflict — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-26-rev-1-protection-of-healthcare-in-armed-conflict-revised-draft-resolution/)** — `2026-07-03` | `7 Pages`
 - `[`UN-A-HRC-62-L.23`]` **[Technical assistance and capacity-building for South Sudan — draft resolution](https://www.indexdata.org/a-hrc-62-l-23-technical-assistance-and-capacity-building-for-south-sudan-draft-resolution/)** — `2026-07-03` | `4 Pages`
 - `[`UN-A-HRC-62-L.18-Rev.1`]` **[Human rights and climate change — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-18-rev-1-human-rights-and-climate-change-revised-draft-resolution/)** — `2026-07-03` | `8 Pages`
-- `[`UN-A-AC.96-77-2`]` **[Report of the Standing Committee on its 95th meeting, 24-26 March 2026 — Executive Committee of the High Commissioner's Programme](https://www.indexdata.org/a-ac-96-77-2-report-of-the-standing-committee-on-its-95th-meeting-24-26-march-2026-executive-committee-of-the-high-commissioners-programme/)** — `2026-07-03` | `6 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)

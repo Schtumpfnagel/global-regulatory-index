@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/norway/feed/](https://www.indexdata.org/norway/feed/)  
 **Wikidata Sovereign Entity:** [`Q20`](https://www.wikidata.org/wiki/Q20)  
 **Governing Open-Government Framework:** *Åndsverkloven § 14 / NLOD 2.0*  
-**Total Indexed Dossiers in Norway:** `73` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-19 09:55 UTC`
+**Total Indexed Dossiers in Norway:** `74` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-19 10:59 UTC`
 
 ---
 
@@ -17,14 +17,14 @@
 - **[Norwegian Defence Research Establishment (FFI)](https://www.indexdata.org/norway/norwegian-defence-research-establishment-ffi/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-defence-research-establishment-ffi/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-defence-research-establishment-ffi/feed/)
 - **[Statistics Norway (Statistisk sentralbyrå - SSB)](https://www.indexdata.org/norway/statistics-norway-statistisk-sentralbyr-ssb/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/norway/statistics-norway-statistisk-sentralbyr-ssb/) | [RSS Feed](https://www.indexdata.org/norway/statistics-norway-statistisk-sentralbyr-ssb/feed/)
 - **[Norwegian Consumer Council (Forbrukerrådet)](https://www.indexdata.org/norway/norwegian-consumer-council-forbrukerr-det/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-consumer-council-forbrukerr-det/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-consumer-council-forbrukerr-det/feed/)
-- **[Parliamentary Ombud (Sivilombudet)](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/) | [RSS Feed](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/feed/)
+- **[Parliamentary Ombud (Sivilombudet)](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/) | [RSS Feed](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/feed/)
 - **[Institute of Marine Research (Havforskningsinstituttet)](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/) | [RSS Feed](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/feed/)
 - **[Norwegian Institute of Bioeconomy Research (NIBIO)](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/feed/)
 - **[Norwegian Communications Authority (Nasjonal kommunikasjonsmyndighet - Nkom)](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–73 of 73)
+## Indexed Statutory & Regulatory Dossiers (Records 1–74 of 74)
 
 ### [Geological Survey of Norway (Norges geologiske undersøkelse - NGU)](https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/)
 Canonical Authority Archive: [https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/](https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/) | [RSS Feed](https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/feed/)
@@ -106,6 +106,7 @@ Canonical Authority Archive: [https://www.indexdata.org/norway/norwegian-consume
 ### [Parliamentary Ombud (Sivilombudet)](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/)
 Canonical Authority Archive: [https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/) | [RSS Feed](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/feed/)
 
+- `[`NO-SIVILOMBUDET-64034`]` **[261115 Statement to the UN Committee Against Torture](https://www.indexdata.org/261115-statement-to-the-un-committee-against-torture/)** — `2026-11-19` | `4 Pages`
 - `[`NO-SIVILOMBUDET-63978`]` **[Full report – Children in security cells and restraint beds in Norwegian prisons 2016-2025](https://www.indexdata.org/full-report-children-in-security-cells-and-restraint-beds-in-norwegian-prisons-2016-2025/)** — `2026-11-17` | `24 Pages`
 - `[`NO-SIVILOMBUDET-63971`]` **[Children in security cells and restraint beds in Norwegian prisons 2016-2025](https://www.indexdata.org/children-in-security-cells-and-restraint-beds-in-norwegian-prisons-2016-2025/)** — `2026-11-17` | `24 Pages`
 - `[`NO-SIVILOMBUDET-63790`]` **[Norwegian NPM submission to UN Committee Against Torture 85th session](https://www.indexdata.org/norwegian-npm-submission-to-un-committee-against-torture-85th-session/)** — `2026-10-26` | `28 Pages`
