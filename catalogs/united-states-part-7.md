@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,519` across `243` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,521` across `243` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-19 04:56 UTC`
+**Last Automated Sync:** `2026-11-19 05:57 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`345` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`346` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -51,8 +51,8 @@
 - **[Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
 - **[National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
 - **[State Department](https://www.indexdata.org/united-states/state-department/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)** (`66` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
 - **[Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)** (`64` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
@@ -259,7 +259,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,519)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,521)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -584,11 +584,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-15306`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-63/)** — `2024-07-12` | `3 Pages`
 - `[`2024-15305`]` **[Airworthiness Directives; Dassault Aviation Airplanes](https://www.indexdata.org/airworthiness-directives-dassault-aviation-airplanes-35/)** — `2024-07-12` | `3 Pages`
 - `[`2024-15266`]` **[Special Conditions: Gulfstream Aerospace Corporation (Gulfstream) Model GVII-G400 Airplane; Seats With Inflatable Lapbelts](https://www.indexdata.org/special-conditions-gulfstream-aerospace-corporation-gulfstream-model-gvii-g400-airplane-seats-with-inflatable-lapbelts/)** — `2024-07-12` | `4 Pages`
-- `[`2024-15034`]` **[Valparaiso, Florida Terminal Area; Correction](https://www.indexdata.org/valparaiso-florida-terminal-area-correction/)** — `2024-07-11` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-25764`]` **[Receipt of a Pesticide Petition Filed for Residues of Pesticide Chemicals in or on Various Commodities (September 2024)](https://www.indexdata.org/receipt-of-a-pesticide-petition-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-september-2024/)** — `2024-11-12` | `2 Pages`
 - `[`2024-25070`]` **[Reconsideration of the Dust-Lead Hazard Standards and Dust-Lead Post-Abatement Clearance Levels](https://www.indexdata.org/reconsideration-of-the-dust-lead-hazard-standards-and-dust-lead-post-abatement-clearance-levels/)** — `2024-11-12` | `46 Pages`
 - `[`2024-25947`]` **[Air Plan Revisions; Arizona; Maricopa County Air Quality Department](https://www.indexdata.org/air-plan-revisions-arizona-maricopa-county-air-quality-department-3/)** — `2024-11-08` | `5 Pages`
 - `[`2024-25917`]` **[Fluindapyr; Pesticide Tolerances](https://www.indexdata.org/fluindapyr-pesticide-tolerances/)** — `2024-11-08` | `4 Pages`
@@ -942,7 +942,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-15283`]` **[Safety Zone; Corpus Christi Ship Channel, Corpus Christi, TX](https://www.indexdata.org/safety-zone-corpus-christi-ship-channel-corpus-christi-tx-4/)** — `2024-07-12` | `2 Pages`
 - `[`2024-15282`]` **[Safety Zone; Captain of the Port Corpus Christi, TX](https://www.indexdata.org/safety-zone-captain-of-the-port-corpus-christi-tx/)** — `2024-07-12` | `3 Pages`
 - `[`2024-15236`]` **[Special Local Regulation; San Francisco Bay, San Francisco, CA](https://www.indexdata.org/special-local-regulation-san-francisco-bay-san-francisco-ca/)** — `2024-07-12` | `4 Pages`
-- `[`2024-15119`]` **[Safety Zone; Annual Fireworks Displays Within the Sector Columbia River Captain of the Port Zone](https://www.indexdata.org/safety-zone-annual-fireworks-displays-within-the-sector-columbia-river-captain-of-the-port-zone-3/)** — `2024-07-11` | `2 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1061,6 +1060,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2024-25912`]` **[Implementation of the National Suicide Hotline Act of 2018](https://www.indexdata.org/implementation-of-the-national-suicide-hotline-act-of-2018-4/)** — `2024-11-12` | `16 Pages`
 - `[`2024-25913`]` **[Incarcerated People's Communication Services; Implementation of the Martha Wright-Reed Act; Rates for Interstate Inmate Calling Services](https://www.indexdata.org/incarcerated-peoples-communication-services-implementation-of-the-martha-wright-reed-act-rates-for-interstate-inmate-calling-services-5/)** — `2024-11-08` | `2 Pages`
 - `[`2024-25672`]` **[All-In Pricing for Cable and Satellite Television Service](https://www.indexdata.org/all-in-pricing-for-cable-and-satellite-television-service/)** — `2024-11-06` | `2 Pages`
 - `[`2024-24908`]` **[Rules and Regulations Implementing the Telephone Consumer Protection Act of 1991](https://www.indexdata.org/rules-and-regulations-implementing-the-telephone-consumer-protection-act-of-1991/)** — `2024-11-06` | `2 Pages`

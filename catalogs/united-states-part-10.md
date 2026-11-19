@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,519` across `243` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,521` across `243` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-19 04:56 UTC`
+**Last Automated Sync:** `2026-11-19 05:57 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`345` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`346` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -51,8 +51,8 @@
 - **[Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
 - **[National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
 - **[State Department](https://www.indexdata.org/united-states/state-department/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)** (`66` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
 - **[Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)** (`64` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
@@ -259,11 +259,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,519)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,521)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-23989`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-290/)** — `2023-10-31` | `4 Pages`
 - `[`2023-23724`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-289/)** — `2023-10-31` | `4 Pages`
 - `[`2023-23520`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-263/)** — `2023-10-31` | `5 Pages`
 - `[`2023-23929`]` **[Airworthiness Directives; International Aero Engines, LLC Engines](https://www.indexdata.org/airworthiness-directives-international-aero-engines-llc-engines-8/)** — `2023-10-30` | `2 Pages`
@@ -636,7 +637,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-14357`]` **[Establishment of Class E Airspace; Whiteriver, AZ](https://www.indexdata.org/establishment-of-class-e-airspace-whiteriver-az/)** — `2023-07-10` | `2 Pages`
 - `[`2023-14356`]` **[Amendment of Class E Airspace; Devils Lake, ND](https://www.indexdata.org/amendment-of-class-e-airspace-devils-lake-nd/)** — `2023-07-10` | `2 Pages`
 - `[`2023-14350`]` **[Amendment of Class E Airspace; Hartington, NE](https://www.indexdata.org/amendment-of-class-e-airspace-hartington-ne/)** — `2023-07-10` | `2 Pages`
-- `[`2023-14330`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-290/)** — `2023-07-10` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1138,6 +1138,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 
+- `[`2023-23994`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Oblong Rocksnail (Leptoxis compacta)](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-oblong-rocksnail-leptoxis-compacta/)** — `2023-10-31` | `11 Pages`
 - `[`2023-23847`]` **[National Wildlife Refuge System; 2023-2024 Station-Specific Hunting and Sport Fishing Regulations](https://www.indexdata.org/national-wildlife-refuge-system-2023-2024-station-specific-hunting-and-sport-fishing-regulations/)** — `2023-10-30` | `17 Pages`
 - `[`2023-22759`]` **[Endangered and Threatened Wildlife and Plants; Removing Nelson's Checker-Mallow From the Federal List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removing-nelsons-checker-mallow-from-the-federal-list-of-endangered-and-threatened-plants/)** — `2023-10-17` | `14 Pages`
 - `[`2023-22377`]` **[Endangered and Threatened Wildlife and Plants; Removal of 21 Species From the List of Endangered and Threatened Wildlife](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-21-species-from-the-list-of-endangered-and-threatened-wildlife/)** — `2023-10-17` | `39 Pages`
@@ -1647,7 +1648,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and
 - `[`2023-19149`]` **[Discrimination on the Basis of Disability in Health and Human Service Programs or Activities](https://www.indexdata.org/discrimination-on-the-basis-of-disability-in-health-and-human-service-programs-or-activities/)** — `2023-09-14` | `121 Pages`
 - `[`2023-15952`]` **[Health Resources Priorities and Allocations System (HRPAS)](https://www.indexdata.org/health-resources-priorities-and-allocations-system-hrpas-2/)** — `2023-08-16` | `17 Pages`
 - `[`2023-14290`]` **[Improving Child Care Access, Affordability, and Stability in the Child Care and Development Fund (CCDF)](https://www.indexdata.org/improving-child-care-access-affordability-and-stability-in-the-child-care-and-development-fund-ccdf-2/)** — `2023-07-13` | `32 Pages`
-- `[`2023-14343`]` **[Control of Communicable Diseases; Foreign Quarantine: Importation of Dogs and Cats](https://www.indexdata.org/control-of-communicable-diseases-foreign-quarantine-importation-of-dogs-and-cats-2/)** — `2023-07-10` | `52 Pages`
 
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)

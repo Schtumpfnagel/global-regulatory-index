@@ -1,5 +1,5 @@
 # Wikidata QuickStatements Batch for Q142071440 (Index Data — Global Regulatory & Statutory Open Metadata Index)
-# Generated UTC: 2026-11-19 04:56 UTC | Total Dossiers: 42147 | Active Jurisdictions: 41
+# Generated UTC: 2026-11-19 05:57 UTC | Total Dossiers: 42154 | Active Jurisdictions: 40
 Q142071440	P856	"https://www.indexdata.org/"
 Q142071440	P973	"https://www.indexdata.org/methodology/"
 Q142071440	P973	"https://www.indexdata.org/llms.txt"
@@ -11,7 +11,7 @@ Q142071440	P356	"10.5281/ZENODO.23612006"
 Q142071440	P356	"10.7910/DVN/QUYKAG"
 Q142071440	P356	"10.6084/M9.FIGSHARE.34942678"
 Q142071440	P355	Q142090813
-Q142071440	P1114	42147
+Q142071440	P1114	42154
 Q142071440	P1269	Q30	S854	"https://www.indexdata.org/united-states/"
 Q142071440	P1269	Q145	S854	"https://www.indexdata.org/united-kingdom/"
 Q142071440	P1269	Q16	S854	"https://www.indexdata.org/canada/"
@@ -36,7 +36,6 @@ Q142071440	P1269	Q17	S854	"https://www.indexdata.org/japan/"
 Q142071440	P1269	Q55	S854	"https://www.indexdata.org/netherlands/"
 Q142071440	P1269	Q159	S854	"https://www.indexdata.org/russia/"
 Q142071440	P1269	Q34	S854	"https://www.indexdata.org/sweden/"
-Q142071440	P973	"https://www.indexdata.org/angola/"
 Q142071440	P1269	Q40	S854	"https://www.indexdata.org/austria/"
 Q142071440	P973	"https://www.indexdata.org/bahrain/"
 Q142071440	P1269	Q148	S854	"https://www.indexdata.org/china/"

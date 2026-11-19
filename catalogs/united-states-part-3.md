@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,519` across `243` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,521` across `243` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-19 04:56 UTC`
+**Last Automated Sync:** `2026-11-19 05:57 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`345` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`346` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -51,8 +51,8 @@
 - **[Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
 - **[National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
 - **[State Department](https://www.indexdata.org/united-states/state-department/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)** (`66` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
 - **[Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)** (`64` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
@@ -259,7 +259,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,519)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,521)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1085,6 +1085,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
+- `[`2026-10905`]` **[Medical Devices; Anesthesiology Devices; Classification of the Adjunctive Pain Measurement Device for Anesthesiology](https://www.indexdata.org/medical-devices-anesthesiology-devices-classification-of-the-adjunctive-pain-measurement-device-for-anesthesiology/)** — `2026-06-01` | `4 Pages`
+- `[`2026-10904`]` **[Medical Devices; Gastroenterology-Urology Devices; Classification of the Orally Ingested Transient Device for Constipation](https://www.indexdata.org/medical-devices-gastroenterology-urology-devices-classification-of-the-orally-ingested-transient-device-for-constipation/)** — `2026-06-01` | `3 Pages`
 - `[`2026-10899`]` **[Medical Devices; Dental Devices; Classification of the Intraoral Cooling Device](https://www.indexdata.org/medical-devices-dental-devices-classification-of-the-intraoral-cooling-device/)** — `2026-06-01` | `3 Pages`
 - `[`2026-10898`]` **[Medical Devices; Hematology and Pathology Devices; Classification of the Von Willebrand Factor Assay](https://www.indexdata.org/medical-devices-hematology-and-pathology-devices-classification-of-the-von-willebrand-factor-assay/)** — `2026-06-01` | `3 Pages`
 - `[`2026-10894`]` **[Medical Devices; Ear, Nose, and Throat Devices; Classification of the Oropharyngeal Electrical Stimulator](https://www.indexdata.org/medical-devices-ear-nose-and-throat-devices-classification-of-the-oropharyngeal-electrical-stimulator/)** — `2026-06-01` | `3 Pages`
@@ -1208,37 +1210,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-to
 - `[`2026-08912`]` **[Removing CLEO Notification Under the National Firearms Act](https://www.indexdata.org/removing-cleo-notification-under-the-national-firearms-act/)** — `2026-05-06` | `8 Pages`
 - `[`2026-08911`]` **[Update to Proscribed Countries for Import Restrictions](https://www.indexdata.org/update-to-proscribed-countries-for-import-restrictions/)** — `2026-05-06` | `6 Pages`
 
-### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
-
-- `[`2026-10869`]` **[Adjustment of Civil Penalties for Inflation for Fiscal Year 2026](https://www.indexdata.org/adjustment-of-civil-penalties-for-inflation-for-fiscal-year-2026/)** — `2026-06-01` | `2 Pages`
-- `[`2026-10224`]` **[Modernizing NRC Regulations for Byproduct Material Use](https://www.indexdata.org/modernizing-nrc-regulations-for-byproduct-material-use/)** — `2026-05-21` | `2 Pages`
-- `[`2026-09877`]` **[Modernizing NRC Regulations for Byproduct Material Use](https://www.indexdata.org/modernizing-nrc-regulations-for-byproduct-material-use-2/)** — `2026-05-18` | `39 Pages`
-- `[`C1-2026-08550`]` **[Licensing Requirements for Microreactors and Other Reactors With Comparable Risk Profiles](https://www.indexdata.org/licensing-requirements-for-microreactors-and-other-reactors-with-comparable-risk-profiles/)** — `2026-05-15` | `2 Pages`
-- `[`2026-08550`]` **[Licensing Requirements for Microreactors and Other Reactors With Comparable Risk Profiles](https://www.indexdata.org/licensing-requirements-for-microreactors-and-other-reactors-with-comparable-risk-profiles-2/)** — `2026-05-01` | `139 Pages`
-- `[`2026-08535`]` **[State of Wyoming: Discontinuance of Certain Commission Regulatory Authority Within the State; Notice of Amended Agreement Between the NRC and the State of Wyoming](https://www.indexdata.org/state-of-wyoming-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice-of-amended-agreement-between-the-nrc-and-the-state-of-wyoming/)** — `2026-05-01` | `2 Pages`
-- `[`2026-08024`]` **[Cost Expenditure Criteria for Research and Development Utilization Facilities](https://www.indexdata.org/cost-expenditure-criteria-for-research-and-development-utilization-facilities/)** — `2026-04-24` | `4 Pages`
-- `[`2026-08015`]` **[Generic Environmental Impact Statement for Licensing of New Nuclear Reactors](https://www.indexdata.org/generic-environmental-impact-statement-for-licensing-of-new-nuclear-reactors/)** — `2026-04-24` | `32 Pages`
-- `[`2026-07918`]` **[Exceptions From Foreign Ownership, Control or Domination](https://www.indexdata.org/exceptions-from-foreign-ownership-control-or-domination/)** — `2026-04-23` | `3 Pages`
-- `[`2026-07917`]` **[Exceptions From Foreign Ownership, Control, or Domination](https://www.indexdata.org/exceptions-from-foreign-ownership-control-or-domination-2/)** — `2026-04-23` | `5 Pages`
-- `[`2026-07301`]` **[Increased Flexibility in the Mandatory Hearing Process](https://www.indexdata.org/increased-flexibility-in-the-mandatory-hearing-process/)** — `2026-04-15` | `6 Pages`
-- `[`2026-07090`]` **[Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors; Correction](https://www.indexdata.org/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors-correction-2/)** — `2026-04-13` | `2 Pages`
-- `[`2026-06877`]` **[Modernizing Requirements Relating to Physical Protection of Category 1 and Category 2 Quantities of Radioactive Material](https://www.indexdata.org/modernizing-requirements-relating-to-physical-protection-of-category-1-and-category-2-quantities-of-radioactive-material/)** — `2026-04-09` | `14 Pages`
-- `[`2026-06747`]` **[The Sunset Rule-Aircraft Impact Assessment](https://www.indexdata.org/the-sunset-rule-aircraft-impact-assessment/)** — `2026-04-08` | `6 Pages`
-- `[`2026-06414`]` **[NRC Reviews of Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War](https://www.indexdata.org/nrc-reviews-of-reactor-designs-previously-authorized-by-u-s-department-of-energy-or-department-of-war/)** — `2026-04-02` | `5 Pages`
-- `[`2026-06374`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM UMAX Canister Storage System, Certificate of Compliance No. 1040, Amendment No. 5](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-umax-canister-storage-system-certificate-of-compliance-no-1040-amendment-no-5/)** — `2026-04-02` | `3 Pages`
-- `[`2026-06373`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM UMAX Canister Storage System, Certificate of Compliance No. 1040, Amendment No. 5](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-umax-canister-storage-system-certificate-of-compliance-no-1040-amendment-no-5-2/)** — `2026-04-02` | `6 Pages`
-- `[`2026-06049`]` **[Categorical Exclusions From Environmental Review](https://www.indexdata.org/categorical-exclusions-from-environmental-review/)** — `2026-03-30` | `16 Pages`
-- `[`2026-06048`]` **[Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors](https://www.indexdata.org/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors/)** — `2026-03-30` | `186 Pages`
-- `[`2026-04823`]` **[Fee Schedules; Fee Recovery for Fiscal Year 2026](https://www.indexdata.org/fee-schedules-fee-recovery-for-fiscal-year-2026-2/)** — `2026-03-12` | `35 Pages`
-- `[`2026-04475`]` **[Freedom of Information Act Implementing Regulations](https://www.indexdata.org/freedom-of-information-act-implementing-regulations/)** — `2026-03-06` | `16 Pages`
-- `[`2026-04187`]` **[Streamlining Contested Adjudications in Licensing Proceedings](https://www.indexdata.org/streamlining-contested-adjudications-in-licensing-proceedings/)** — `2026-03-03` | `40 Pages`
-- `[`2026-03993`]` **[Approval of the 2023 Edition of the American Society of Mechanical Engineers Boiler and Pressure Vessel Code and Code Cases, Revision 41](https://www.indexdata.org/approval-of-the-2023-edition-of-the-american-society-of-mechanical-engineers-boiler-and-pressure-vessel-code-and-code-cases-revision-41/)** — `2026-02-27` | `28 Pages`
-- `[`2026-03865`]` **[Regulatory Framework for Fusion Machines](https://www.indexdata.org/regulatory-framework-for-fusion-machines/)** — `2026-02-26` | `23 Pages`
-- `[`2026-03791`]` **[Rulemaking Activities Being Discontinued by the NRC](https://www.indexdata.org/rulemaking-activities-being-discontinued-by-the-nrc/)** — `2026-02-25` | `2 Pages`
-- `[`2026-01948`]` **[List of Approved Spent Fuel Storage Casks: TN Americas LLC, NUHOMS® EOS Dry Spent Fuel Storage System, Certificate of Compliance No. 1042, Amendment Nos. 3 and 4; Corrections](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-nuhoms-eos-dry-spent-fuel-storage-system-certificate-of-compliance-no-1042-amendment-nos-3-and-4-corrections/)** — `2026-02-02` | `2 Pages`
-- `[`2026-01650`]` **[List of Approved Spent Fuel Storage Casks: TN Americas LLC, NUHOMS® EOS Dry Spent Fuel Storage System, Certificate of Compliance No. 1042, Amendment No. 5](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-nuhoms-eos-dry-spent-fuel-storage-system-certificate-of-compliance-no-1042-amendment-no-5/)** — `2026-01-28` | `3 Pages`
-
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
@@ -1268,6 +1239,36 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2026-02589`]` **[Onions Grown in Certain Designated Counties in Idaho and Malheur County, Oregon; Decreased Assessment Rate](https://www.indexdata.org/onions-grown-in-certain-designated-counties-in-idaho-and-malheur-county-oregon-decreased-assessment-rate/)** — `2026-02-10` | `4 Pages`
 - `[`2026-02548`]` **[National Organic Program: 2026 Sunset Review and Substance Renewals](https://www.indexdata.org/national-organic-program-2026-sunset-review-and-substance-renewals/)** — `2026-02-09` | `2 Pages`
 - `[`2026-02372`]` **[Kiwifruit Grown in California and Imported Kiwifruit; Modification of Handling Regulations](https://www.indexdata.org/kiwifruit-grown-in-california-and-imported-kiwifruit-modification-of-handling-regulations/)** — `2026-02-06` | `4 Pages`
+
+### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
+
+- `[`2026-10869`]` **[Adjustment of Civil Penalties for Inflation for Fiscal Year 2026](https://www.indexdata.org/adjustment-of-civil-penalties-for-inflation-for-fiscal-year-2026/)** — `2026-06-01` | `2 Pages`
+- `[`2026-10224`]` **[Modernizing NRC Regulations for Byproduct Material Use](https://www.indexdata.org/modernizing-nrc-regulations-for-byproduct-material-use/)** — `2026-05-21` | `2 Pages`
+- `[`2026-09877`]` **[Modernizing NRC Regulations for Byproduct Material Use](https://www.indexdata.org/modernizing-nrc-regulations-for-byproduct-material-use-2/)** — `2026-05-18` | `39 Pages`
+- `[`C1-2026-08550`]` **[Licensing Requirements for Microreactors and Other Reactors With Comparable Risk Profiles](https://www.indexdata.org/licensing-requirements-for-microreactors-and-other-reactors-with-comparable-risk-profiles/)** — `2026-05-15` | `2 Pages`
+- `[`2026-08550`]` **[Licensing Requirements for Microreactors and Other Reactors With Comparable Risk Profiles](https://www.indexdata.org/licensing-requirements-for-microreactors-and-other-reactors-with-comparable-risk-profiles-2/)** — `2026-05-01` | `139 Pages`
+- `[`2026-08535`]` **[State of Wyoming: Discontinuance of Certain Commission Regulatory Authority Within the State; Notice of Amended Agreement Between the NRC and the State of Wyoming](https://www.indexdata.org/state-of-wyoming-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice-of-amended-agreement-between-the-nrc-and-the-state-of-wyoming/)** — `2026-05-01` | `2 Pages`
+- `[`2026-08024`]` **[Cost Expenditure Criteria for Research and Development Utilization Facilities](https://www.indexdata.org/cost-expenditure-criteria-for-research-and-development-utilization-facilities/)** — `2026-04-24` | `4 Pages`
+- `[`2026-08015`]` **[Generic Environmental Impact Statement for Licensing of New Nuclear Reactors](https://www.indexdata.org/generic-environmental-impact-statement-for-licensing-of-new-nuclear-reactors/)** — `2026-04-24` | `32 Pages`
+- `[`2026-07918`]` **[Exceptions From Foreign Ownership, Control or Domination](https://www.indexdata.org/exceptions-from-foreign-ownership-control-or-domination/)** — `2026-04-23` | `3 Pages`
+- `[`2026-07917`]` **[Exceptions From Foreign Ownership, Control, or Domination](https://www.indexdata.org/exceptions-from-foreign-ownership-control-or-domination-2/)** — `2026-04-23` | `5 Pages`
+- `[`2026-07301`]` **[Increased Flexibility in the Mandatory Hearing Process](https://www.indexdata.org/increased-flexibility-in-the-mandatory-hearing-process/)** — `2026-04-15` | `6 Pages`
+- `[`2026-07090`]` **[Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors; Correction](https://www.indexdata.org/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors-correction-2/)** — `2026-04-13` | `2 Pages`
+- `[`2026-06877`]` **[Modernizing Requirements Relating to Physical Protection of Category 1 and Category 2 Quantities of Radioactive Material](https://www.indexdata.org/modernizing-requirements-relating-to-physical-protection-of-category-1-and-category-2-quantities-of-radioactive-material/)** — `2026-04-09` | `14 Pages`
+- `[`2026-06747`]` **[The Sunset Rule-Aircraft Impact Assessment](https://www.indexdata.org/the-sunset-rule-aircraft-impact-assessment/)** — `2026-04-08` | `6 Pages`
+- `[`2026-06414`]` **[NRC Reviews of Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War](https://www.indexdata.org/nrc-reviews-of-reactor-designs-previously-authorized-by-u-s-department-of-energy-or-department-of-war/)** — `2026-04-02` | `5 Pages`
+- `[`2026-06374`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM UMAX Canister Storage System, Certificate of Compliance No. 1040, Amendment No. 5](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-umax-canister-storage-system-certificate-of-compliance-no-1040-amendment-no-5/)** — `2026-04-02` | `3 Pages`
+- `[`2026-06373`]` **[List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM UMAX Canister Storage System, Certificate of Compliance No. 1040, Amendment No. 5](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-umax-canister-storage-system-certificate-of-compliance-no-1040-amendment-no-5-2/)** — `2026-04-02` | `6 Pages`
+- `[`2026-06049`]` **[Categorical Exclusions From Environmental Review](https://www.indexdata.org/categorical-exclusions-from-environmental-review/)** — `2026-03-30` | `16 Pages`
+- `[`2026-06048`]` **[Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors](https://www.indexdata.org/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors/)** — `2026-03-30` | `186 Pages`
+- `[`2026-04823`]` **[Fee Schedules; Fee Recovery for Fiscal Year 2026](https://www.indexdata.org/fee-schedules-fee-recovery-for-fiscal-year-2026-2/)** — `2026-03-12` | `35 Pages`
+- `[`2026-04475`]` **[Freedom of Information Act Implementing Regulations](https://www.indexdata.org/freedom-of-information-act-implementing-regulations/)** — `2026-03-06` | `16 Pages`
+- `[`2026-04187`]` **[Streamlining Contested Adjudications in Licensing Proceedings](https://www.indexdata.org/streamlining-contested-adjudications-in-licensing-proceedings/)** — `2026-03-03` | `40 Pages`
+- `[`2026-03993`]` **[Approval of the 2023 Edition of the American Society of Mechanical Engineers Boiler and Pressure Vessel Code and Code Cases, Revision 41](https://www.indexdata.org/approval-of-the-2023-edition-of-the-american-society-of-mechanical-engineers-boiler-and-pressure-vessel-code-and-code-cases-revision-41/)** — `2026-02-27` | `28 Pages`
+- `[`2026-03865`]` **[Regulatory Framework for Fusion Machines](https://www.indexdata.org/regulatory-framework-for-fusion-machines/)** — `2026-02-26` | `23 Pages`
+- `[`2026-03791`]` **[Rulemaking Activities Being Discontinued by the NRC](https://www.indexdata.org/rulemaking-activities-being-discontinued-by-the-nrc/)** — `2026-02-25` | `2 Pages`
+- `[`2026-01948`]` **[List of Approved Spent Fuel Storage Casks: TN Americas LLC, NUHOMS® EOS Dry Spent Fuel Storage System, Certificate of Compliance No. 1042, Amendment Nos. 3 and 4; Corrections](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-nuhoms-eos-dry-spent-fuel-storage-system-certificate-of-compliance-no-1042-amendment-nos-3-and-4-corrections/)** — `2026-02-02` | `2 Pages`
 
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -1823,14 +1824,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2026-04931`]` **[Schedule of Fees for Consular Services-Fee for Administrative Processing of Request for Certificate of Loss of Nationality of the United States](https://www.indexdata.org/schedule-of-fees-for-consular-services-fee-for-administrative-processing-of-request-for-certificate-of-loss-of-nationality-of-the-united-states/)** — `2026-03-13` | `6 Pages`
 - `[`2026-04737`]` **[Visas: Enhancing Vetting and Combatting Fraud in the Diversity Immigrant Visa Program](https://www.indexdata.org/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program/)** — `2026-03-11` | `12 Pages`
 
-### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
-
-- `[`2026-06955`]` **[Import Regulations for Horses; Pre-Export Examination](https://www.indexdata.org/import-regulations-for-horses-pre-export-examination/)** — `2026-04-10` | `3 Pages`
-- `[`2026-05684`]` **[Standards for the Care of Breeding Female Dogs and Exercise and Socialization of Dogs](https://www.indexdata.org/standards-for-the-care-of-breeding-female-dogs-and-exercise-and-socialization-of-dogs/)** — `2026-03-24` | `2 Pages`
-- `[`2026-03077`]` **[Standards for the Care of Breeding Female Dogs and Exercise and Socialization of Dogs](https://www.indexdata.org/standards-for-the-care-of-breeding-female-dogs-and-exercise-and-socialization-of-dogs-2/)** — `2026-02-17` | `2 Pages`
-- `[`2026-01648`]` **[Horse Protection Amendments; Further Postponement of Regulations](https://www.indexdata.org/horse-protection-amendments-further-postponement-of-regulations/)** — `2026-01-28` | `3 Pages`
-
 ### [Census Bureau](https://www.indexdata.org/united-states/census-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/census-bureau/](https://www.indexdata.org/united-states/census-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/census-bureau/feed/)
 
@@ -1901,6 +1894,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-an
 - `[`2026-05741`]` **[Proposed Establishment of the Champlain Valley of Vermont Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-champlain-valley-of-vermont-viticultural-area/)** — `2026-03-24` | `6 Pages`
 - `[`2026-05731`]` **[Establishment of the Nine Lakes of East Tennessee Viticultural Area](https://www.indexdata.org/establishment-of-the-nine-lakes-of-east-tennessee-viticultural-area/)** — `2026-03-24` | `5 Pages`
 - `[`2026-05730`]` **[Establishment of the Nashoba Valley Viticultural Area](https://www.indexdata.org/establishment-of-the-nashoba-valley-viticultural-area/)** — `2026-03-24` | `4 Pages`
+
+### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
+
+- `[`2026-06955`]` **[Import Regulations for Horses; Pre-Export Examination](https://www.indexdata.org/import-regulations-for-horses-pre-export-examination/)** — `2026-04-10` | `3 Pages`
+- `[`2026-05684`]` **[Standards for the Care of Breeding Female Dogs and Exercise and Socialization of Dogs](https://www.indexdata.org/standards-for-the-care-of-breeding-female-dogs-and-exercise-and-socialization-of-dogs/)** — `2026-03-24` | `2 Pages`
+- `[`2026-03077`]` **[Standards for the Care of Breeding Female Dogs and Exercise and Socialization of Dogs](https://www.indexdata.org/standards-for-the-care-of-breeding-female-dogs-and-exercise-and-socialization-of-dogs-2/)** — `2026-02-17` | `2 Pages`
 
 ### [Comptroller Of The Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
