@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,184` across `26` issuing authorities  
-**Last Automated Sync:** `2026-11-19 00:55 UTC`
+**Total Indexed Dossiers in International:** `1,186` across `26` issuing authorities  
+**Last Automated Sync:** `2026-11-19 01:55 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`176` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`104` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
-- **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
+- **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`89` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`78` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
@@ -40,7 +40,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,184 of 1,184)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,186 of 1,186)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -947,6 +947,8 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-c
 - `[`ECDC-CELLAR-9076B7CF-63AC-11F1-9B18-01AA75ED71A1`]` **[Results of the survey of carbapenem- and/or colistin-resistant Enterobacterales, 2019](https://www.indexdata.org/results-of-the-survey-of-carbapenem-and-or-colistin-resistant-enterobacterales-2019/)** — `2026-06-08` | `104 Pages`
 - `[`ECDC-CELLAR-8DBA56EC-63AC-11F1-9B18-01AA75ED71A1`]` **[Preliminary findings from the first cycle of public health emergency preparedness assessments : interim report, June 2026](https://www.indexdata.org/preliminary-findings-from-the-first-cycle-of-public-health-emergency-preparedness-assessments-interim-report-june-2026/)** — `2026-06-08` | `32 Pages`
 - `[`ECDC-DOC-ESAC-NET-REPORTING-PROTOCOL-ANTIMICROBIAL-CONSUM`]` **[ESAC-Net Reporting protocol for antimicrobial consumption (AMC)](https://www.indexdata.org/esac-net-reporting-protocol-for-antimicrobial-consumption-amc/)** — `2026-03-24` | `40 Pages`
+- `[`ECDC-DOC-CONTINUUM-HIV-CARE-MONITORING-IMPLEMENTATION-DUB`]` **[Continuum of HIV care: Monitoring the implementation of the Dublin Declaration on partnership to fight HIV/AIDS in Europe and Central Asia: 2025 progress report (2024 data)](https://www.indexdata.org/continuum-of-hiv-care-monitoring-the-implementation-of-the-dublin-declaration-on-partnership-to-fight-hiv-aids-in-europe-and-central-asia-2025-progress-report-2024-data/)** — `2025-11-27` | `45 Pages`
+- `[`ECDC-DOC-SURVEILLANCE-ANTIMICROBIAL-RESISTANCE-EUROPE-202`]` **[Surveillance of antimicrobial resistance in Europe, 2024 data](https://www.indexdata.org/surveillance-of-antimicrobial-resistance-in-europe-2024-data/)** — `2025-11-18` | `10 Pages`
 - `[`ECDC-DOC-ZOONOTIC-INFLUENZA-VIRUS-REPORTING-PROTOCOL`]` **[Reporting protocol for zoonotic influenza virus](https://www.indexdata.org/reporting-protocol-for-zoonotic-influenza-virus/)** — `2025-09-24` | `25 Pages`
 - `[`ECDC-DOC-HELICSWINNET-HWN`]` **[HelicsWin.Net (HWN)](https://www.indexdata.org/helicswin-net-hwn/)** — `2025-08-22` | `234 Pages`
 - `[`ECDC-DOC-TOOLS-AND-METHODS-PROMOTING-VACCINATION-ACCEPTAN`]` **[Tools and methods for promoting vaccination acceptance and uptake: a social and behavioural science approach](https://www.indexdata.org/tools-and-methods-for-promoting-vaccination-acceptance-and-uptake-a-social-and-behavioural-science-approach-2/)** — `2025-04-28` | `40 Pages`
