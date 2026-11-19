@@ -5,7 +5,7 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/bahrain/feed/](https://www.indexdata.org/bahrain/feed/)  
 **Governing Open-Government Framework:** *Legislative Decree No. (22) of 2006*  
 **Total Indexed Dossiers in Bahrain:** `33` across `1` issuing authorities  
-**Last Automated Sync:** `2026-11-19 03:58 UTC`
+**Last Automated Sync:** `2026-11-19 04:56 UTC`
 
 ---
 

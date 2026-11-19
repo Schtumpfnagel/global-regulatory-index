@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,515` across `243` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,519` across `243` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-19 03:58 UTC`
+**Last Automated Sync:** `2026-11-19 04:56 UTC`
 
 ---
 
@@ -52,10 +52,10 @@
 - **[National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
 - **[State Department](https://www.indexdata.org/united-states/state-department/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
 - **[Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)** (`66` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
 - **[Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)** (`64` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
@@ -259,7 +259,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,515)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,519)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -714,7 +714,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-19584`]` **[Flight Operations: Pilot requirements; Use of oxygen](https://www.indexdata.org/flight-operations-pilot-requirements-use-of-oxygen/)** — `2026-09-24` | `17 Pages`
 - `[`2026-19561`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-3/)** — `2026-09-24` | `6 Pages`
 - `[`2026-19411`]` **[Airworthiness Directives; Textron Aviation, Inc. (Type Certificate Previously Held by Cessna Aircraft Company) Airplanes](https://www.indexdata.org/airworthiness-directives-textron-aviation-inc-type-certificate-previously-held-by-cessna-aircraft-company-airplanes/)** — `2026-09-23` | `3 Pages`
-- `[`2026-19391`]` **[Establishment of Class E Airspace; Ottawa, IL](https://www.indexdata.org/establishment-of-class-e-airspace-ottawa-il/)** — `2026-09-22` | `2 Pages`
 
 ### [United States Senate](https://www.indexdata.org/united-states/united-states-senate/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-senate/](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
@@ -734,8 +733,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-CHRG-119shrg63976`]` **[S. Hrg. 119-436 - THE FEDERAL HIGHWAY ADMINISTRATION'S PROPOSED FISCAL YEAR 2027 BUDGET](https://www.indexdata.org/s-hrg-119-436-the-federal-highway-administrations-proposed-fiscal-year-2027-budget/)** — `2026-11-01` | `62 Pages`
 - `[`US-CHRG-119shrg63973`]` **[S. Hrg. 119-434 - HEARING TO EXAMINE THE U.S. NUCLEAR REGULATORY COMMISSION'S PROPOSED FISCAL YEAR 2027 BUDGET](https://www.indexdata.org/s-hrg-119-434-hearing-to-examine-the-u-s-nuclear-regulatory-commissions-proposed-fiscal-year-2027-budget/)** — `2026-11-01` | `82 Pages`
 - `[`US-CHRG-119shrg63867`]` **[S. Hrg. 119-422 - OPEN HEARING: NOMINATIONS OF DR. ROGER MASON TO BE DIRECTOR OF THE NATIONAL RECONNAISSANCE OFFICE AND MR. MICHAEL VANCE TO BE ASSISTANT SECRETARY OF STATE FOR INTELLIGENCE AND RESEARCH](https://www.indexdata.org/s-hrg-119-422-open-hearing-nominations-of-dr-roger-mason-to-be-director-of-the-national-reconnaissance-office-and-mr-michael-vance-to-be-assistant-secretary-of-state-for-intelligence-and-resear/)** — `2026-11-01` | `119 Pages`
+- `[`US-BILLS-119sres959ats`]` **[S. Res. 959 (ATS) - Recognizing the death of John Davison "Jay" Rockefeller IV, former Senator for the State of West Virginia.](https://www.indexdata.org/s-res-959-ats-recognizing-the-death-of-john-davison-jay-rockefeller-iv-former-senator-for-the-state-of-west-virginia/)** — `2026-11-01` | `3 Pages`
+- `[`US-BILLS-119sres949ats`]` **[S. Res. 949 (ATS) - Designating October 12, 2026, as "National Loggers Day".](https://www.indexdata.org/s-res-949-ats-designating-october-12-2026-as-national-loggers-day/)** — `2026-11-01` | `2 Pages`
+- `[`US-BILLS-119sres908ats`]` **[S. Res. 908 (ATS) - Supporting the designation of the week of September 21 through September 25, 2026, as "National Hazing Awareness Week".](https://www.indexdata.org/s-res-908-ats-supporting-the-designation-of-the-week-of-september-21-through-september-25-2026-as-national-hazing-awareness-week/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119sres722is`]` **[S. Res. 722 (IS) - Addressing the politicization of war crimes allegations against allied special operations forces.](https://www.indexdata.org/s-res-722-is-addressing-the-politicization-of-war-crimes-allegations-against-allied-special-operations-forces/)** — `2026-11-01` | `5 Pages`
 - `[`US-BILLS-119sres718ats`]` **[S. Res. 718 (ATS) - A resolution commending and congratulating the University of California, Los Angeles Bruins women’s basketball team for winning the 2026 National Collegiate Athletic Association Division I Women’s Basketball National Championship.](https://www.indexdata.org/s-res-718-ats-a-resolution-commending-and-congratulating-the-university-of-california-los-angeles-bruins-womens-basketball-team-for-winning-the-2026-national-collegiate-athletic-associ/)** — `2026-11-01` | `3 Pages`
+- `[`US-BILLS-119s5723is`]` **[S. 5723 (IS) - No Forced Arbitration for Child Sexual Exploitation and Cyber Injuries Act](https://www.indexdata.org/s-5723-is-no-forced-arbitration-for-child-sexual-exploitation-and-cyber-injuries-act/)** — `2026-11-01` | `6 Pages`
 - `[`US-BILLS-119s5718is`]` **[S. 5718 (IS) - Trucker Bathroom Access Act](https://www.indexdata.org/s-5718-is-trucker-bathroom-access-act/)** — `2026-11-01` | `5 Pages`
 - `[`US-BILLS-119s5715is`]` **[S. 5715 (IS) - End Veteran Homelessness Act of 2026](https://www.indexdata.org/s-5715-is-end-veteran-homelessness-act-of-2026/)** — `2026-11-01` | `10 Pages`
 - `[`US-BILLS-119s5714is`]` **[S. 5714 (IS) - Competition in Professional Baseball Act](https://www.indexdata.org/s-5714-is-competition-in-professional-baseball-act/)** — `2026-11-01` | `2 Pages`
@@ -1692,16 +1695,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2026-20532`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-4/)** — `2026-10-07` | `4 Pages`
 - `[`2026-19642`]` **[Department of Justice; Response to Correspondence Requesting Rulemaking](https://www.indexdata.org/department-of-justice-response-to-correspondence-requesting-rulemaking/)** — `2026-09-25` | `4 Pages`
 
-### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
-
-- `[`2026-23239`]` **[Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles](https://www.indexdata.org/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped-vehicles-2/)** — `2026-11-14` | `2 Pages`
-- `[`2026-21794`]` **[Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles](https://www.indexdata.org/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped-vehicles/)** — `2026-10-24` | `19 Pages`
-- `[`2026-21730`]` **[Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M); Extension of Comment Period](https://www.indexdata.org/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult-male-dummy-thor-50m-extension-of-comment-period/)** — `2026-10-23` | `2 Pages`
-- `[`2026-19964`]` **[The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks](https://www.indexdata.org/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger-cars-and-light-trucks/)** — `2026-09-30` | `304 Pages`
-- `[`2026-19403`]` **[Amendment to the Uniform Procedures for State Highway Safety Grant Programs](https://www.indexdata.org/amendment-to-the-uniform-procedures-for-state-highway-safety-grant-programs/)** — `2026-09-23` | `4 Pages`
-- `[`2026-19370`]` **[Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M)](https://www.indexdata.org/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult-male-dummy-thor-50m/)** — `2026-09-22` | `9 Pages`
-
 ### [National Park Service (NPS)](https://www.indexdata.org/united-states/national-park-service-nps/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-park-service-nps/](https://www.indexdata.org/united-states/national-park-service-nps/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service-nps/feed/)
 
@@ -1742,15 +1735,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-nuclea
 - `[`US-FRPI-2026-22869`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act-3/)** — `2026-11-08` | `2 Pages`
 - `[`US-FRPI-2026-22858`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act-2/)** — `2026-11-08` | `3 Pages`
 
-### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
-
-- `[`2026-22826`]` **[Pecans Grown in the States of Alabama, Arkansas, Arizona, California, Florida, Georgia, Kansas, Louisiana, Missouri, Mississippi, North Carolina, New Mexico, Oklahoma, South Carolina, and Texas; Changes to Membership and Handling Requirements](https://www.indexdata.org/pecans-grown-in-the-states-of-alabama-arkansas-arizona-california-florida-georgia-kansas-louisiana-missouri-mississippi-north-carolina-new-mexico-oklahoma-south-carolina-and-texas-chang/)** — `2026-11-08` | `5 Pages`
-- `[`2026-20792`]` **[Raisins Produced From Grapes Grown in California; Order Amending Marketing Order No. 989](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-order-amending-marketing-order-no-989/)** — `2026-10-09` | `6 Pages`
-- `[`2026-20622`]` **[Almonds Grown in California; Amendment to the Marketing Order](https://www.indexdata.org/almonds-grown-in-california-amendment-to-the-marketing-order/)** — `2026-10-08` | `4 Pages`
-- `[`2026-19887`]` **[Almonds Grown in California; Extension of Inedible Disposition Obligation Deadline](https://www.indexdata.org/almonds-grown-in-california-extension-of-inedible-disposition-obligation-deadline/)** — `2026-09-29` | `3 Pages`
-- `[`2026-19389`]` **[Softwood Lumber Board Assessment Rate Clarification and Changes to Membership](https://www.indexdata.org/softwood-lumber-board-assessment-rate-clarification-and-changes-to-membership/)** — `2026-09-22` | `7 Pages`
-
 ### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 
@@ -1786,6 +1770,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internatio
 - `[`US-FR-2026-22942`]` **[Polytetramethylene Ether Glycol From the People's Republic of China: Preliminary Affirmative Determination of Sales at Less Than Fair Value](https://www.indexdata.org/polytetramethylene-ether-glycol-from-the-peoples-republic-of-china-preliminary-affirmative-determination-of-sales-at-less-than-fair-value/)** — `2026-11-10` | `3 Pages`
 - `[`US-FR-2026-22836`]` **[Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From India: Initiation of Countervailing Duty Investigation](https://www.indexdata.org/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-india-initiation-of-countervailing-duty-investigation/)** — `2026-11-08` | `5 Pages`
 - `[`US-FR-2026-22835`]` **[Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From Georgia and India: Initiation of Less-Than-Fair-Value Investigations](https://www.indexdata.org/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-georgia-and-india-initiation-of-less-than-fair-value-investigations/)** — `2026-11-08` | `7 Pages`
+
+### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
+
+- `[`2026-23239`]` **[Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles](https://www.indexdata.org/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped-vehicles-2/)** — `2026-11-14` | `2 Pages`
+- `[`2026-21794`]` **[Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles](https://www.indexdata.org/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped-vehicles/)** — `2026-10-24` | `19 Pages`
+- `[`2026-21730`]` **[Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M); Extension of Comment Period](https://www.indexdata.org/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult-male-dummy-thor-50m-extension-of-comment-period/)** — `2026-10-23` | `2 Pages`
+- `[`2026-19964`]` **[The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks](https://www.indexdata.org/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger-cars-and-light-trucks/)** — `2026-09-30` | `304 Pages`
+- `[`2026-19403`]` **[Amendment to the Uniform Procedures for State Highway Safety Grant Programs](https://www.indexdata.org/amendment-to-the-uniform-procedures-for-state-highway-safety-grant-programs/)** — `2026-09-23` | `4 Pages`
 
 ### [National Park Service](https://www.indexdata.org/united-states/national-park-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-park-service/](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
@@ -1831,6 +1824,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-securi
 - `[`US-FRPI-2026-23339`]` **[Self-Regulatory Organizations; Proposed Rule Changes: Financial Industry Regulatory Authority, Inc.](https://www.indexdata.org/self-regulatory-organizations-proposed-rule-changes-financial-industry-regulatory-authority-inc/)** — `2026-11-16` | `9 Pages`
 - `[`US-FRPI-2026-23338`]` **[Self-Regulatory Organizations; Proposed Rule Changes: 24X National Exchange LLC](https://www.indexdata.org/self-regulatory-organizations-proposed-rule-changes-24x-national-exchange-llc/)** — `2026-11-16` | `9 Pages`
 - `[`US-FR-2026-22741`]` **[Amendments to the “Small Business” and “Small Organization” Definitions for Investment Companies and Investment Advisers for Purposes of the Regulatory Flexibility Act](https://www.indexdata.org/amendments-to-the-small-business-and-small-organization-definitions-for-investment-companies-and-investment-advisers-for-purposes-of-the-regulatory-flexibility-act-2/)** — `2026-11-06` | `23 Pages`
+
+### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
+
+- `[`2026-22826`]` **[Pecans Grown in the States of Alabama, Arkansas, Arizona, California, Florida, Georgia, Kansas, Louisiana, Missouri, Mississippi, North Carolina, New Mexico, Oklahoma, South Carolina, and Texas; Changes to Membership and Handling Requirements](https://www.indexdata.org/pecans-grown-in-the-states-of-alabama-arkansas-arizona-california-florida-georgia-kansas-louisiana-missouri-mississippi-north-carolina-new-mexico-oklahoma-south-carolina-and-texas-chang/)** — `2026-11-08` | `5 Pages`
+- `[`2026-20792`]` **[Raisins Produced From Grapes Grown in California; Order Amending Marketing Order No. 989](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-order-amending-marketing-order-no-989/)** — `2026-10-09` | `6 Pages`
+- `[`2026-20622`]` **[Almonds Grown in California; Amendment to the Marketing Order](https://www.indexdata.org/almonds-grown-in-california-amendment-to-the-marketing-order/)** — `2026-10-08` | `4 Pages`
+- `[`2026-19887`]` **[Almonds Grown in California; Extension of Inedible Disposition Obligation Deadline](https://www.indexdata.org/almonds-grown-in-california-extension-of-inedible-disposition-obligation-deadline/)** — `2026-09-29` | `3 Pages`
 
 ### [Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
@@ -2023,12 +2024,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/](https://
 - `[`GDI-419532`]` **[Withdrawal from Disposal of Certain Tracts of Territorial Lands in the Northwest Territories (South Slave and North Slave Regions) Order](https://www.indexdata.org/withdrawal-from-disposal-of-certain-tracts-of-territorial-lands-in-the-northwest-territories-south-slave-and-north-slave-regions-order/)** — `2026-09-30` | `2 Pages`
 - `[`GDI-419042`]` **[Order (1) repealing Order in Council P.C. 2018-1200 of September 25, 2018; and (2) designating the Minister of Democratic Institutions to be the Minister referred to in the Act](https://www.indexdata.org/order-1-repealing-order-in-council-p-c-2018-1200-of-september-25-2018-and-2-designating-the-minister-of-democratic-institutions-to-be-the-minister-referred-to-in-the-act/)** — `2026-09-30` | `2 Pages`
 
-### [Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/maritime-administration/](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
-
-- `[`2026-22617`]` **[Deepwater Port Application Processing and Licensing](https://www.indexdata.org/deepwater-port-application-processing-and-licensing/)** — `2026-11-05` | `21 Pages`
-- `[`2026-19367`]` **[Capital Construction Fund Revision](https://www.indexdata.org/capital-construction-fund-revision/)** — `2026-09-22` | `10 Pages`
-
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
 
@@ -2186,6 +2181,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/labor-depa
 Canonical Authority Archive: [https://www.indexdata.org/united-states/management-and-budget-office/](https://www.indexdata.org/united-states/management-and-budget-office/) | [RSS Feed](https://www.indexdata.org/united-states/management-and-budget-office/feed/)
 
 - `[`2026-21316`]` **[Managing Senior Professional Performance](https://www.indexdata.org/managing-senior-professional-performance/)** — `2026-10-19` | `21 Pages`
+
+### [Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/maritime-administration/](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
+
+- `[`2026-22617`]` **[Deepwater Port Application Processing and Licensing](https://www.indexdata.org/deepwater-port-application-processing-and-licensing/)** — `2026-11-05` | `21 Pages`
 
 ### [National Environmental Satellite, Data, and Information Service (NESDIS)](https://www.indexdata.org/united-states/national-environmental-satellite-data-and-information-service-nesdis/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-environmental-satellite-data-and-information-service-nesdis/](https://www.indexdata.org/united-states/national-environmental-satellite-data-and-information-service-nesdis/) | [RSS Feed](https://www.indexdata.org/united-states/national-environmental-satellite-data-and-information-service-nesdis/feed/)

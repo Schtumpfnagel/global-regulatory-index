@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,515` across `243` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,519` across `243` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-19 03:58 UTC`
+**Last Automated Sync:** `2026-11-19 04:56 UTC`
 
 ---
 
@@ -52,10 +52,10 @@
 - **[National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
 - **[State Department](https://www.indexdata.org/united-states/state-department/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
 - **[Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)** (`66` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
 - **[Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)** (`64` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
@@ -259,11 +259,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,515)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,519)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-01644`]` **[Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations; Reopening of Comment Period](https://www.indexdata.org/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment-period/)** — `2026-01-28` | `2 Pages`
+- `[`2026-01642`]` **[Special Conditions: Safran Electric & Power S.A. ENGINeTM US100 Series Electric Engines](https://www.indexdata.org/special-conditions-safran-electric-power-s-a-enginetm-us100-series-electric-engines/)** — `2026-01-27` | `13 Pages`
 - `[`2026-01514`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-20/)** — `2026-01-27` | `3 Pages`
 - `[`2026-01495`]` **[Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc-airplanes-5/)** — `2026-01-27` | `4 Pages`
 - `[`2026-01464`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters-14/)** — `2026-01-26` | `3 Pages`
@@ -624,7 +626,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-15297`]` **[Airworthiness Directives; Bombardier Inc. Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-29/)** — `2025-08-12` | `4 Pages`
 - `[`2025-15218`]` **[Amendment of Class D and Class E Airspace, Establishment of Class E Airspace, and Revocation of Class E; Wichita, KS](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-establishment-of-class-e-airspace-and-revocation-of-class-e-wichita-ks-3/)** — `2025-08-11` | `4 Pages`
 - `[`2025-15217`]` **[Amendment of Class E Airspace; George West, TX](https://www.indexdata.org/amendment-of-class-e-airspace-george-west-tx-3/)** — `2025-08-11` | `2 Pages`
-- `[`2025-15212`]` **[Proposed Amendment of Class C Airspace at Daytona Beach International Airport, FL; Public Meeting](https://www.indexdata.org/proposed-amendment-of-class-c-airspace-at-daytona-beach-international-airport-fl-public-meeting/)** — `2025-08-11` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1089,8 +1090,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2025-15311`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Bering Sea and Aleutian Islands Management Area](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-bering-sea-and-aleutian-islands-management-area-6/)** — `2025-08-12` | `2 Pages`
 - `[`2025-15303`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Angling Category Fishery for 2025](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category-fishery-for-2025/)** — `2025-08-12` | `2 Pages`
 - `[`2025-15285`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Angling Category Gulf of Maine Area Trophy Fishery for 2025](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category-gulf-of-maine-area-trophy-fishery-for-2025/)** — `2025-08-12` | `2 Pages`
-- `[`2025-15204`]` **[Fisheries of the Northeastern United States; Atlantic Herring Fishery; 2025 Management Area 1A Possession Limit Adjustment](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-herring-fishery-2025-management-area-1a-possession-limit-adjustment/)** — `2025-08-11` | `2 Pages`
-- `[`2025-15198`]` **[Pacific Halibut Fisheries of the West Coast; 2025 Catch Sharing Plan; Inseason Action](https://www.indexdata.org/pacific-halibut-fisheries-of-the-west-coast-2025-catch-sharing-plan-inseason-action/)** — `2025-08-11` | `3 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1320,6 +1319,27 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2025-17700`]` **[Domestic Dates Produced or Packed in Riverside County, California; Decreased Assessment Rate](https://www.indexdata.org/domestic-dates-produced-or-packed-in-riverside-county-california-decreased-assessment-rate-2/)** — `2025-09-12` | `3 Pages`
 - `[`2025-16409`]` **[Oranges and Grapefruit Grown in Lower Rio Grande Valley in Texas; Increased Assessment Rate](https://www.indexdata.org/oranges-and-grapefruit-grown-in-lower-rio-grande-valley-in-texas-increased-assessment-rate-2/)** — `2025-08-27` | `4 Pages`
 
+### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
+
+- `[`2026-01647`]` **[List of Approved Spent Fuel Storage Casks: TN Americas LLC, NUHOMS® EOS Dry Spent Fuel Storage System, Certificate of Compliance No. 1042, Amendment No. 5](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-nuhoms-eos-dry-spent-fuel-storage-system-certificate-of-compliance-no-1042-amendment-no-5-2/)** — `2026-01-28` | `6 Pages`
+- `[`2026-01534`]` **[Incorporation by Reference of Institute of Electrical and Electronics Engineers Standard 603-2018](https://www.indexdata.org/incorporation-by-reference-of-institute-of-electrical-and-electronics-engineers-standard-603-2018/)** — `2026-01-27` | `2 Pages`
+- `[`2026-01494`]` **[Approval of American Society of Mechanical Engineers Unconditioned Code Cases](https://www.indexdata.org/approval-of-american-society-of-mechanical-engineers-unconditioned-code-cases/)** — `2026-01-27` | `2 Pages`
+- `[`2026-00904`]` **[Commercial Non-Power Production or Utilization Facilities](https://www.indexdata.org/commercial-non-power-production-or-utilization-facilities/)** — `2026-01-20` | `4 Pages`
+- `[`2025-23428`]` **[Incorporation by Reference of Institute of Electrical and Electronics Engineers Standard 603-2018](https://www.indexdata.org/incorporation-by-reference-of-institute-of-electrical-and-electronics-engineers-standard-603-2018-2/)** — `2025-12-19` | `7 Pages`
+- `[`2025-22230`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS® Universal Storage System, Certificate of Compliance No. 1015, Renewed Amendment No. 10, and Revision 1 to Renewed Amendment Nos. 5 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewed-amendment-no-10-and-revision-1-to-renewed-amen/)** — `2025-12-08` | `3 Pages`
+- `[`2025-22229`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS® Universal Storage System, Certificate of Compliance No. 1015, Renewed Amendment No. 10, and Revision 1 to Renewed Amendment Nos. 5 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewed-amendment-no-10-and-revision-1-to-renewed-amen-2/)** — `2025-12-08` | `6 Pages`
+- `[`2025-21785`]` **[The Sunset Rule](https://www.indexdata.org/the-sunset-rule/)** — `2025-12-03` | `3 Pages`
+- `[`2025-21784`]` **[The Sunset Rule](https://www.indexdata.org/the-sunset-rule-2/)** — `2025-12-03` | `14 Pages`
+- `[`2025-21305`]` **[Streamlining Select Rules of Practice and Procedure](https://www.indexdata.org/streamlining-select-rules-of-practice-and-procedure/)** — `2025-11-26` | `4 Pages`
+- `[`2025-18841`]` **[State of Connecticut: Discontinuance of Certain Commission Regulatory Authority Within the State; Notice of Agreement Between the NRC and the State of Connecticut](https://www.indexdata.org/state-of-connecticut-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice-of-agreement-between-the-nrc-and-the-state-of-connecticut/)** — `2025-09-29` | `2 Pages`
+- `[`2025-18769`]` **[Approval of American Society of Mechanical Engineers Unconditioned Code Cases](https://www.indexdata.org/approval-of-american-society-of-mechanical-engineers-unconditioned-code-cases-2/)** — `2025-09-26` | `12 Pages`
+- `[`2025-18768`]` **[Approval of American Society of Mechanical Engineers Unconditioned Code Cases](https://www.indexdata.org/approval-of-american-society-of-mechanical-engineers-unconditioned-code-cases-3/)** — `2025-09-26` | `3 Pages`
+- `[`2025-18633`]` **[Regulatory Guide: Emergency Response Planning and Preparedness for Nuclear Power Reactors](https://www.indexdata.org/regulatory-guide-emergency-response-planning-and-preparedness-for-nuclear-power-reactors/)** — `2025-09-25` | `2 Pages`
+- `[`2025-17201`]` **[List of Approved Spent Fuel Storage Casks: TN Americas LLC NUHOMS® EOS Dry Spent Fuel Storage System Certificate of Compliance No. 1042, Amendment No. 4](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-nuhoms-eos-dry-spent-fuel-storage-system-certificate-of-compliance-no-1042-amendment-no-4/)** — `2025-09-08` | `2 Pages`
+- `[`2025-16286`]` **[Revising the Duration of Design Certifications](https://www.indexdata.org/revising-the-duration-of-design-certifications/)** — `2025-08-26` | `3 Pages`
+- `[`2025-15565`]` **[Interim Enforcement Policy for Enforcement Discretion for General Licensee Adoption of Certificate of Compliance Holder-Generated Changes](https://www.indexdata.org/interim-enforcement-policy-for-enforcement-discretion-for-general-licensee-adoption-of-certificate-of-compliance-holder-generated-changes/)** — `2025-08-15` | `5 Pages`
+
 ### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
 
@@ -1400,26 +1420,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-s
 - `[`2025-16978`]` **[Codification of Certain U.S. Citizenship and Immigration Services Law Enforcement Authorities](https://www.indexdata.org/codification-of-certain-u-s-citizenship-and-immigration-services-law-enforcement-authorities/)** — `2025-09-05` | `8 Pages`
 - `[`2025-16809`]` **[Ratification of Department Action](https://www.indexdata.org/ratification-of-department-action-3/)** — `2025-09-02` | `2 Pages`
 - `[`2025-16554`]` **[Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media](https://www.indexdata.org/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant-academic-students-exchange-visitors-and-representatives-of-foreign-information-media-2/)** — `2025-08-28` | `46 Pages`
-
-### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
-
-- `[`2026-01534`]` **[Incorporation by Reference of Institute of Electrical and Electronics Engineers Standard 603-2018](https://www.indexdata.org/incorporation-by-reference-of-institute-of-electrical-and-electronics-engineers-standard-603-2018/)** — `2026-01-27` | `2 Pages`
-- `[`2026-01494`]` **[Approval of American Society of Mechanical Engineers Unconditioned Code Cases](https://www.indexdata.org/approval-of-american-society-of-mechanical-engineers-unconditioned-code-cases/)** — `2026-01-27` | `2 Pages`
-- `[`2026-00904`]` **[Commercial Non-Power Production or Utilization Facilities](https://www.indexdata.org/commercial-non-power-production-or-utilization-facilities/)** — `2026-01-20` | `4 Pages`
-- `[`2025-23428`]` **[Incorporation by Reference of Institute of Electrical and Electronics Engineers Standard 603-2018](https://www.indexdata.org/incorporation-by-reference-of-institute-of-electrical-and-electronics-engineers-standard-603-2018-2/)** — `2025-12-19` | `7 Pages`
-- `[`2025-22230`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS® Universal Storage System, Certificate of Compliance No. 1015, Renewed Amendment No. 10, and Revision 1 to Renewed Amendment Nos. 5 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewed-amendment-no-10-and-revision-1-to-renewed-amen/)** — `2025-12-08` | `3 Pages`
-- `[`2025-22229`]` **[List of Approved Spent Fuel Storage Casks: NAC International, Inc., NAC-UMS® Universal Storage System, Certificate of Compliance No. 1015, Renewed Amendment No. 10, and Revision 1 to Renewed Amendment Nos. 5 Through 9](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-nac-international-inc-nac-ums-universal-storage-system-certificate-of-compliance-no-1015-renewed-amendment-no-10-and-revision-1-to-renewed-amen-2/)** — `2025-12-08` | `6 Pages`
-- `[`2025-21785`]` **[The Sunset Rule](https://www.indexdata.org/the-sunset-rule/)** — `2025-12-03` | `3 Pages`
-- `[`2025-21784`]` **[The Sunset Rule](https://www.indexdata.org/the-sunset-rule-2/)** — `2025-12-03` | `14 Pages`
-- `[`2025-21305`]` **[Streamlining Select Rules of Practice and Procedure](https://www.indexdata.org/streamlining-select-rules-of-practice-and-procedure/)** — `2025-11-26` | `4 Pages`
-- `[`2025-18841`]` **[State of Connecticut: Discontinuance of Certain Commission Regulatory Authority Within the State; Notice of Agreement Between the NRC and the State of Connecticut](https://www.indexdata.org/state-of-connecticut-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice-of-agreement-between-the-nrc-and-the-state-of-connecticut/)** — `2025-09-29` | `2 Pages`
-- `[`2025-18769`]` **[Approval of American Society of Mechanical Engineers Unconditioned Code Cases](https://www.indexdata.org/approval-of-american-society-of-mechanical-engineers-unconditioned-code-cases-2/)** — `2025-09-26` | `12 Pages`
-- `[`2025-18768`]` **[Approval of American Society of Mechanical Engineers Unconditioned Code Cases](https://www.indexdata.org/approval-of-american-society-of-mechanical-engineers-unconditioned-code-cases-3/)** — `2025-09-26` | `3 Pages`
-- `[`2025-18633`]` **[Regulatory Guide: Emergency Response Planning and Preparedness for Nuclear Power Reactors](https://www.indexdata.org/regulatory-guide-emergency-response-planning-and-preparedness-for-nuclear-power-reactors/)** — `2025-09-25` | `2 Pages`
-- `[`2025-17201`]` **[List of Approved Spent Fuel Storage Casks: TN Americas LLC NUHOMS® EOS Dry Spent Fuel Storage System Certificate of Compliance No. 1042, Amendment No. 4](https://www.indexdata.org/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-nuhoms-eos-dry-spent-fuel-storage-system-certificate-of-compliance-no-1042-amendment-no-4/)** — `2025-09-08` | `2 Pages`
-- `[`2025-16286`]` **[Revising the Duration of Design Certifications](https://www.indexdata.org/revising-the-duration-of-design-certifications/)** — `2025-08-26` | `3 Pages`
-- `[`2025-15565`]` **[Interim Enforcement Policy for Enforcement Discretion for General Licensee Adoption of Certificate of Compliance Holder-Generated Changes](https://www.indexdata.org/interim-enforcement-policy-for-enforcement-discretion-for-general-licensee-adoption-of-certificate-of-compliance-holder-generated-changes/)** — `2025-08-15` | `5 Pages`
 
 ### [Office of the Secretary](https://www.indexdata.org/united-states/office-of-the-secretary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-secretary/](https://www.indexdata.org/united-states/office-of-the-secretary/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-secretary/feed/)
@@ -1828,6 +1828,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-be
 - `[`2025-16140`]` **[Miscellaneous Corrections, Clarifications, and Improvements; Correction](https://www.indexdata.org/miscellaneous-corrections-clarifications-and-improvements-correction/)** — `2025-08-22` | `2 Pages`
 - `[`2025-15610`]` **[Miscellaneous Corrections, Clarifications, and Improvements](https://www.indexdata.org/miscellaneous-corrections-clarifications-and-improvements/)** — `2025-08-15` | `11 Pages`
 
+### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+
+- `[`2026-01637`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-6/)** — `2026-01-27` | `2 Pages`
+- `[`2026-00902`]` **[System for Regulating Rates and Classes for Market Dominant Products](https://www.indexdata.org/system-for-regulating-rates-and-classes-for-market-dominant-products/)** — `2026-01-16` | `2 Pages`
+- `[`2026-00871`]` **[System for Regulating Rates and Classes for Market Dominant Products](https://www.indexdata.org/system-for-regulating-rates-and-classes-for-market-dominant-products-2/)** — `2026-01-16` | `2 Pages`
+- `[`2025-23260`]` **[Service Performance Reporting](https://www.indexdata.org/service-performance-reporting/)** — `2025-12-18` | `3 Pages`
+- `[`2025-19557`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-7/)** — `2025-10-15` | `3 Pages`
+
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 
@@ -1895,14 +1904,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and
 - `[`2025-19358`]` **[International Trademark Classification Changes](https://www.indexdata.org/international-trademark-classification-changes-2/)** — `2025-10-02` | `4 Pages`
 - `[`2025-15497`]` **[Eliminating Expedited Examination of Design Applications](https://www.indexdata.org/eliminating-expedited-examination-of-design-applications/)** — `2025-08-14` | `3 Pages`
 
-### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-
-- `[`2026-00902`]` **[System for Regulating Rates and Classes for Market Dominant Products](https://www.indexdata.org/system-for-regulating-rates-and-classes-for-market-dominant-products/)** — `2026-01-16` | `2 Pages`
-- `[`2026-00871`]` **[System for Regulating Rates and Classes for Market Dominant Products](https://www.indexdata.org/system-for-regulating-rates-and-classes-for-market-dominant-products-2/)** — `2026-01-16` | `2 Pages`
-- `[`2025-23260`]` **[Service Performance Reporting](https://www.indexdata.org/service-performance-reporting/)** — `2025-12-18` | `3 Pages`
-- `[`2025-19557`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-7/)** — `2025-10-15` | `3 Pages`
-
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 
@@ -1931,13 +1932,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-servi
 - `[`2026-00313`]` **[Changes to Agriculture Risk Coverage, Price Loss Coverage, and Dairy Margin Coverage Programs](https://www.indexdata.org/changes-to-agriculture-risk-coverage-price-loss-coverage-and-dairy-margin-coverage-programs/)** — `2026-01-12` | `17 Pages`
 - `[`2025-20132`]` **[Agricultural Disaster Indemnity Programs](https://www.indexdata.org/agricultural-disaster-indemnity-programs/)** — `2025-11-18` | `33 Pages`
 - `[`2025-17742`]` **[Emergency Livestock Relief Programs](https://www.indexdata.org/emergency-livestock-relief-programs/)** — `2025-09-15` | `15 Pages`
-
-### [Federal Crop Insurance Corporation](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-crop-insurance-corporation/](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/feed/)
-
-- `[`2025-21482`]` **[Expanding Access to Risk Protection (EARP)](https://www.indexdata.org/expanding-access-to-risk-protection-earp/)** — `2025-11-28` | `22 Pages`
-- `[`2025-15487`]` **[Removal of Obsolete Regulations](https://www.indexdata.org/removal-of-obsolete-regulations/)** — `2025-08-14` | `2 Pages`
-- `[`2025-15191`]` **[Additional Payment II Program](https://www.indexdata.org/additional-payment-ii-program/)** — `2025-08-11` | `4 Pages`
 
 ### [Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-housing-finance-agency/](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
@@ -1996,6 +1990,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-credi
 
 - `[`2026-01368`]` **[Organization, Loan Policies and Operations, Disclosure to Shareholders, Nondiscrimination in Lending, Capital Adequacy of System Institutions, Disclosure to Investors](https://www.indexdata.org/organization-loan-policies-and-operations-disclosure-to-shareholders-nondiscrimination-in-lending-capital-adequacy-of-system-institutions-disclosure-to-investors/)** — `2026-01-26` | `4 Pages`
 - `[`2025-22015`]` **[Loan Performance Categories and Financial Reporting](https://www.indexdata.org/loan-performance-categories-and-financial-reporting-2/)** — `2025-12-05` | `5 Pages`
+
+### [Federal Crop Insurance Corporation](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-crop-insurance-corporation/](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/feed/)
+
+- `[`2025-21482`]` **[Expanding Access to Risk Protection (EARP)](https://www.indexdata.org/expanding-access-to-risk-protection-earp/)** — `2025-11-28` | `22 Pages`
+- `[`2025-15487`]` **[Removal of Obsolete Regulations](https://www.indexdata.org/removal-of-obsolete-regulations/)** — `2025-08-14` | `2 Pages`
 
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)

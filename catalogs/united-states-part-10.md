@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,515` across `243` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,519` across `243` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-19 03:58 UTC`
+**Last Automated Sync:** `2026-11-19 04:56 UTC`
 
 ---
 
@@ -52,10 +52,10 @@
 - **[National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
 - **[State Department](https://www.indexdata.org/united-states/state-department/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
 - **[Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`67` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)** (`66` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
 - **[Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)** (`64` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 - **[United States Congress](https://www.indexdata.org/united-states/united-states-congress/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`63` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
@@ -259,7 +259,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,515)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,519)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -825,8 +825,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2023-13462`]` **[Renewable Fuel Standard (RFS) Program: Standards for 2023-2025 and Other Changes](https://www.indexdata.org/renewable-fuel-standard-rfs-program-standards-for-2023-2025-and-other-changes/)** — `2023-07-12` | `126 Pages`
 - `[`2023-14535`]` **[Air Plan Approval; New Hampshire; Reasonably Available Control Technology for the 2008 and 2015 Ozone Standards](https://www.indexdata.org/air-plan-approval-new-hampshire-reasonably-available-control-technology-for-the-2008-and-2015-ozone-standards/)** — `2023-07-10` | `7 Pages`
 - `[`2023-14404`]` **[Benzpyrimoxan; Pesticide Tolerances](https://www.indexdata.org/benzpyrimoxan-pesticide-tolerances/)** — `2023-07-10` | `5 Pages`
-- `[`2023-14168`]` **[Air Plan Approval; Ohio; Consumer Products Rule](https://www.indexdata.org/air-plan-approval-ohio-consumer-products-rule/)** — `2023-07-10` | `2 Pages`
-- `[`2023-14132`]` **[Air Plan Revisions; California; San Joaquin Valley Air Pollution Control District; Stationary Source Permits](https://www.indexdata.org/air-plan-revisions-california-san-joaquin-valley-air-pollution-control-district-stationary-source-permits/)** — `2023-07-10` | `7 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1072,6 +1070,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2023-23932`]` **[Wireline Competition Bureau Seeks Comment on Petitions Seeking Reconsideration of the RIF Remand Order](https://www.indexdata.org/wireline-competition-bureau-seeks-comment-on-petitions-seeking-reconsideration-of-the-rif-remand-order/)** — `2023-10-31` | `2 Pages`
 - `[`2023-23903`]` **[Numbering Policies for Modern Communications](https://www.indexdata.org/numbering-policies-for-modern-communications-4/)** — `2023-10-30` | `10 Pages`
 - `[`2023-23738`]` **[Wireless Telecommunications Bureau Seeks To Refresh the Record in 70/80/90 GHz Bands Proceeding](https://www.indexdata.org/wireless-telecommunications-bureau-seeks-to-refresh-the-record-in-70-80-90-ghz-bands-proceeding/)** — `2023-10-30` | `2 Pages`
 - `[`2023-23760`]` **[Video Description: Implementation of the Twenty-First Century Communications and Video Accessibility Act of 2010](https://www.indexdata.org/video-description-implementation-of-the-twenty-first-century-communications-and-video-accessibility-act-of-2010/)** — `2023-10-27` | `5 Pages`
@@ -1135,7 +1134,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2023-15009`]` **[Radio Broadcasting Services; Lihue, Hawaii](https://www.indexdata.org/radio-broadcasting-services-lihue-hawaii/)** — `2023-07-14` | `2 Pages`
 - `[`2023-14498`]` **[Closure of FCC Lockbox 979097 Used To File Fees for Services Provided by the Wireless Telecommunications Bureau](https://www.indexdata.org/closure-of-fcc-lockbox-979097-used-to-file-fees-for-services-provided-by-the-wireless-telecommunications-bureau/)** — `2023-07-13` | `3 Pages`
 - `[`2023-14402`]` **[Facilitating Implementation of Next Generation 911 Services (NG911)](https://www.indexdata.org/facilitating-implementation-of-next-generation-911-services-ng911/)** — `2023-07-10` | `30 Pages`
-- `[`2023-13503`]` **[Expanding Flexible Use of the 12.2-12.7 GHz Band](https://www.indexdata.org/expanding-flexible-use-of-the-12-2-12-7-ghz-band/)** — `2023-07-10` | `15 Pages`
 
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
@@ -1338,7 +1336,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 - `[`2023-14768`]` **[Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Payment for Intensive Outpatient Services in Rural Health Clinics, Federally Qualified Health Centers, and Opioid Treatment Programs; Hospital Price Transparency; Changes to Community Mental Health Centers Conditions of Participation, Proposed Changes to the Inpatient Prospective Payment System Medicare Code Editor; Rural Emergency Hospital Conditions of Participation Technical Correction](https://www.indexdata.org/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment-systems-quality-reporting-programs-payment-for-intensive-outpatient-services-in-rural-health-clinics-2/)** — `2023-07-31` | `370 Pages`
 - `[`2023-15169`]` **[Request for Information; Episode-Based Payment Model](https://www.indexdata.org/request-for-information-episode-based-payment-model/)** — `2023-07-18` | `10 Pages`
 - `[`2023-14623`]` **[Medicare Program; Hospital Outpatient Prospective Payment System: Remedy for the 340B-Acquired Drug Payment Policy for Calendar Years 2018-2022](https://www.indexdata.org/medicare-program-hospital-outpatient-prospective-payment-system-remedy-for-the-340b-acquired-drug-payment-policy-for-calendar-years-2018-2022-2/)** — `2023-07-11` | `19 Pages`
-- `[`2023-14044`]` **[Medicare Program; Calendar Year (CY) 2024 Home Health (HH) Prospective Payment System Rate Update; HH Quality Reporting Program Requirements; HH Value-Based Purchasing Expanded Model Requirements; Home Intravenous Immune Globulin Items and Services; Hospice Informal Dispute Resolution and Special Focus Program Requirements, Certain Requirements for Durable Medical Equipment Prosthetics and Orthotics Supplies; and Provider and Supplier Enrollment Requirements](https://www.indexdata.org/medicare-program-calendar-year-cy-2024-home-health-hh-prospective-payment-system-rate-update-hh-quality-reporting-program-requirements-hh-value-based-purchasing-expanded-model-requirements-hom-3/)** — `2023-07-10` | `164 Pages`
 
 ### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
@@ -1407,6 +1404,25 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2023-16750`]` **[Commerce Control List: Updates Based on the Latest Nuclear Suppliers Group (NSG) Plenary Meetings](https://www.indexdata.org/commerce-control-list-updates-based-on-the-latest-nuclear-suppliers-group-nsg-plenary-meetings/)** — `2023-08-18` | `4 Pages`
 - `[`2023-17243`]` **[Expansion of Nuclear Nonproliferation Controls on the People's Republic of China and Macau](https://www.indexdata.org/expansion-of-nuclear-nonproliferation-controls-on-the-peoples-republic-of-china-and-macau/)** — `2023-08-14` | `3 Pages`
 - `[`2023-15343`]` **[Additions to the Entity List](https://www.indexdata.org/additions-to-the-entity-list-7/)** — `2023-07-19` | `3 Pages`
+
+### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
+
+- `[`2023-23984`]` **[Controlled Substance Destruction Alternatives to Incineration](https://www.indexdata.org/controlled-substance-destruction-alternatives-to-incineration/)** — `2023-10-31` | `3 Pages`
+- `[`2023-23982`]` **[Schedules of Controlled Substances: Placement of Zuranolone in Schedule IV](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-zuranolone-in-schedule-iv-2/)** — `2023-10-31` | `6 Pages`
+- `[`2023-23927`]` **[Designation of Halides of 4-Anilinopiperidine as List I Chemicals](https://www.indexdata.org/designation-of-halides-of-4-anilinopiperidine-as-list-i-chemicals/)** — `2023-10-31` | `8 Pages`
+- `[`2023-23379`]` **[Schedules of Controlled Substances: Temporary Placement of N-Desethyl Isotonitazene and N-Piperidinyl Etonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-n-desethyl-isotonitazene-and-n-piperidinyl-etonitazene-in-schedule-i-2/)** — `2023-10-25` | `5 Pages`
+- `[`2023-23315`]` **[Additions to Listing of Exempt Chemical Mixtures](https://www.indexdata.org/additions-to-listing-of-exempt-chemical-mixtures/)** — `2023-10-23` | `4 Pages`
+- `[`2023-22570`]` **[Propionyl Chloride](https://www.indexdata.org/propionyl-chloride/)** — `2023-10-12` | `4 Pages`
+- `[`2023-22406`]` **[Second Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/second-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2023-10-10` | `5 Pages`
+- `[`2023-20439`]` **[Schedules of Controlled Substances: Placement of Ethylphenidate in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-ethylphenidate-in-schedule-i-2/)** — `2023-09-22` | `7 Pages`
+- `[`2023-18885`]` **[Management of Quotas for Controlled Substances and List I Chemicals](https://www.indexdata.org/management-of-quotas-for-controlled-substances-and-list-i-chemicals/)** — `2023-08-31` | `28 Pages`
+- `[`2023-17778`]` **[Schedules of Controlled Substances: Placement of Metonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-metonitazene-in-schedule-i/)** — `2023-08-18` | `4 Pages`
+- `[`2023-16892`]` **[Dispensing of Narcotic Drugs To Relieve Acute Withdrawal Symptoms of Opioid Use Disorder](https://www.indexdata.org/dispensing-of-narcotic-drugs-to-relieve-acute-withdrawal-symptoms-of-opioid-use-disorder/)** — `2023-08-08` | `7 Pages`
+- `[`2023-15747`]` **[Implementation of the Designer Anabolic Steroid Control Act of 2014](https://www.indexdata.org/implementation-of-the-designer-anabolic-steroid-control-act-of-2014/)** — `2023-08-01` | `6 Pages`
+- `[`2023-15847`]` **[Transfer of Electronic Prescriptions for Schedules II-V Controlled Substances Between Pharmacies for Initial Filling](https://www.indexdata.org/transfer-of-electronic-prescriptions-for-schedules-ii-v-controlled-substances-between-pharmacies-for-initial-filling/)** — `2023-07-27` | `16 Pages`
+- `[`2023-15748`]` **[Schedules of Controlled Substances: Temporary Placement of Etizolam, Flualprazolam, Clonazolam, Flubromazolam, and Diclazepam in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-etizolam-flualprazolam-clonazolam-flubromazolam-and-diclazepam-in-schedule-i/)** — `2023-07-26` | `7 Pages`
+- `[`2023-15508`]` **[Partial Filling of Prescriptions for Schedule II Controlled Substances](https://www.indexdata.org/partial-filling-of-prescriptions-for-schedule-ii-controlled-substances/)** — `2023-07-21` | `20 Pages`
 
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
@@ -1479,23 +1495,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-ac
 - `[`2023-15154`]` **[Defense Federal Acquisition Regulation Supplement: Restriction on Acquisition of Personal Protective Equipment and Certain Items From Non-Allied Foreign Nations (DFARS Case 2022-D009)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-restriction-on-acquisition-of-personal-protective-equipment-and-certain-items-from-non-allied-foreign-nations-dfars-case-2022-d009/)** — `2023-07-20` | `2 Pages`
 - `[`2023-15153`]` **[Defense Federal Acquisition Regulation Supplement: Source Restrictions on Auxiliary Ship Components (DFARS Case 2020-D017)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-source-restrictions-on-auxiliary-ship-components-dfars-case-2020-d017/)** — `2023-07-20` | `4 Pages`
 - `[`2023-15152`]` **[Defense Federal Acquisition Regulation Supplement: Repeal of Major Automated Information Systems Provisions (DFARS Case 2017-D028)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-repeal-of-major-automated-information-systems-provisions-dfars-case-2017-d028/)** — `2023-07-20` | `2 Pages`
-
-### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
-
-- `[`2023-23927`]` **[Designation of Halides of 4-Anilinopiperidine as List I Chemicals](https://www.indexdata.org/designation-of-halides-of-4-anilinopiperidine-as-list-i-chemicals/)** — `2023-10-31` | `8 Pages`
-- `[`2023-23379`]` **[Schedules of Controlled Substances: Temporary Placement of N-Desethyl Isotonitazene and N-Piperidinyl Etonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-n-desethyl-isotonitazene-and-n-piperidinyl-etonitazene-in-schedule-i-2/)** — `2023-10-25` | `5 Pages`
-- `[`2023-23315`]` **[Additions to Listing of Exempt Chemical Mixtures](https://www.indexdata.org/additions-to-listing-of-exempt-chemical-mixtures/)** — `2023-10-23` | `4 Pages`
-- `[`2023-22570`]` **[Propionyl Chloride](https://www.indexdata.org/propionyl-chloride/)** — `2023-10-12` | `4 Pages`
-- `[`2023-22406`]` **[Second Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/second-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2023-10-10` | `5 Pages`
-- `[`2023-20439`]` **[Schedules of Controlled Substances: Placement of Ethylphenidate in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-ethylphenidate-in-schedule-i-2/)** — `2023-09-22` | `7 Pages`
-- `[`2023-18885`]` **[Management of Quotas for Controlled Substances and List I Chemicals](https://www.indexdata.org/management-of-quotas-for-controlled-substances-and-list-i-chemicals/)** — `2023-08-31` | `28 Pages`
-- `[`2023-17778`]` **[Schedules of Controlled Substances: Placement of Metonitazene in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-metonitazene-in-schedule-i/)** — `2023-08-18` | `4 Pages`
-- `[`2023-16892`]` **[Dispensing of Narcotic Drugs To Relieve Acute Withdrawal Symptoms of Opioid Use Disorder](https://www.indexdata.org/dispensing-of-narcotic-drugs-to-relieve-acute-withdrawal-symptoms-of-opioid-use-disorder/)** — `2023-08-08` | `7 Pages`
-- `[`2023-15747`]` **[Implementation of the Designer Anabolic Steroid Control Act of 2014](https://www.indexdata.org/implementation-of-the-designer-anabolic-steroid-control-act-of-2014/)** — `2023-08-01` | `6 Pages`
-- `[`2023-15847`]` **[Transfer of Electronic Prescriptions for Schedules II-V Controlled Substances Between Pharmacies for Initial Filling](https://www.indexdata.org/transfer-of-electronic-prescriptions-for-schedules-ii-v-controlled-substances-between-pharmacies-for-initial-filling/)** — `2023-07-27` | `16 Pages`
-- `[`2023-15748`]` **[Schedules of Controlled Substances: Temporary Placement of Etizolam, Flualprazolam, Clonazolam, Flubromazolam, and Diclazepam in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-etizolam-flualprazolam-clonazolam-flubromazolam-and-diclazepam-in-schedule-i/)** — `2023-07-26` | `7 Pages`
-- `[`2023-15508`]` **[Partial Filling of Prescriptions for Schedule II Controlled Substances](https://www.indexdata.org/partial-filling-of-prescriptions-for-schedule-ii-controlled-substances/)** — `2023-07-21` | `20 Pages`
 
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
@@ -1662,6 +1661,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-a
 - `[`2023-15062`]` **[VA Vocational Rehabilitation and Employment Nomenclature Change for Position Title-Revision](https://www.indexdata.org/va-vocational-rehabilitation-and-employment-nomenclature-change-for-position-title-revision/)** — `2023-07-18` | `4 Pages`
 - `[`2023-14517`]` **[Names for National Cemeteries and Features](https://www.indexdata.org/names-for-national-cemeteries-and-features/)** — `2023-07-12` | `2 Pages`
 
+### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
+
+- `[`2023-23938`]` **[Horse Protection; Licensing of Designated Qualified Persons and Other Amendments; Withdrawal](https://www.indexdata.org/horse-protection-licensing-of-designated-qualified-persons-and-other-amendments-withdrawal/)** — `2023-10-31` | `6 Pages`
+- `[`2023-20952`]` **[Importation of Live Dogs for Resale From Regions Where African Swine Fever Exists or Is Reasonably Believed to Exist](https://www.indexdata.org/importation-of-live-dogs-for-resale-from-regions-where-african-swine-fever-exists-or-is-reasonably-believed-to-exist/)** — `2023-09-27` | `3 Pages`
+- `[`2023-18379`]` **[National List of Reportable Animal Diseases; Revising Proposed Rule, and Reopening of Comment Period](https://www.indexdata.org/national-list-of-reportable-animal-diseases-revising-proposed-rule-and-reopening-of-comment-period/)** — `2023-08-28` | `2 Pages`
+- `[`2023-17814`]` **[Horse Protection](https://www.indexdata.org/horse-protection/)** — `2023-08-21` | `39 Pages`
+- `[`2023-17045`]` **[User Fees for Agricultural Quarantine and Inspection Services](https://www.indexdata.org/user-fees-for-agricultural-quarantine-and-inspection-services-2/)** — `2023-08-11` | `32 Pages`
+- `[`2023-16278`]` **[Process for Establishing Rates for Veterinary Services User Fees](https://www.indexdata.org/process-for-establishing-rates-for-veterinary-services-user-fees/)** — `2023-08-01` | `9 Pages`
+- `[`2023-15462`]` **[Horse Protection; Licensing of Designated Qualified Persons and Other Amendments](https://www.indexdata.org/horse-protection-licensing-of-designated-qualified-persons-and-other-amendments/)** — `2023-07-21` | `4 Pages`
+
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
 
@@ -1672,16 +1682,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2023-15581`]` **[Trade Regulation Rule on the Use of Consumer Reviews and Testimonials](https://www.indexdata.org/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials-2/)** — `2023-07-31` | `29 Pages`
 - `[`2023-14795`]` **[Guides Concerning the Use of Endorsements and Testimonials in Advertising](https://www.indexdata.org/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising/)** — `2023-07-26` | `21 Pages`
 - `[`2023-15415`]` **[Children's Online Privacy Protection Rule Proposed Parental Consent Method; Application of the ESRB Group for Approval of Parental Consent Method](https://www.indexdata.org/childrens-online-privacy-protection-rule-proposed-parental-consent-method-application-of-the-esrb-group-for-approval-of-parental-consent-method/)** — `2023-07-20` | `2 Pages`
-
-### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
-
-- `[`2023-20952`]` **[Importation of Live Dogs for Resale From Regions Where African Swine Fever Exists or Is Reasonably Believed to Exist](https://www.indexdata.org/importation-of-live-dogs-for-resale-from-regions-where-african-swine-fever-exists-or-is-reasonably-believed-to-exist/)** — `2023-09-27` | `3 Pages`
-- `[`2023-18379`]` **[National List of Reportable Animal Diseases; Revising Proposed Rule, and Reopening of Comment Period](https://www.indexdata.org/national-list-of-reportable-animal-diseases-revising-proposed-rule-and-reopening-of-comment-period/)** — `2023-08-28` | `2 Pages`
-- `[`2023-17814`]` **[Horse Protection](https://www.indexdata.org/horse-protection/)** — `2023-08-21` | `39 Pages`
-- `[`2023-17045`]` **[User Fees for Agricultural Quarantine and Inspection Services](https://www.indexdata.org/user-fees-for-agricultural-quarantine-and-inspection-services-2/)** — `2023-08-11` | `32 Pages`
-- `[`2023-16278`]` **[Process for Establishing Rates for Veterinary Services User Fees](https://www.indexdata.org/process-for-establishing-rates-for-veterinary-services-user-fees/)** — `2023-08-01` | `9 Pages`
-- `[`2023-15462`]` **[Horse Protection; Licensing of Designated Qualified Persons and Other Amendments](https://www.indexdata.org/horse-protection-licensing-of-designated-qualified-persons-and-other-amendments/)** — `2023-07-21` | `4 Pages`
 
 ### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
