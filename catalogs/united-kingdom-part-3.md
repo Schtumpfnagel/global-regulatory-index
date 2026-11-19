@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,159` across `94` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,160` across `94` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | [Part 2](united-kingdom-part-2.md) | **[Part 3 (Current)]**  
-**Last Automated Sync:** `2026-11-19 03:03 UTC`
+**Last Automated Sync:** `2026-11-19 03:58 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`257` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`192` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
-- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
+- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`185` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`152` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`142` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`141` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
@@ -110,7 +110,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,159 of 3,159)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,160 of 3,160)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -228,6 +228,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 
+- `[`UKSI-2024-454`]` **[The Registrar of Companies and Register of Overseas Entities (Fees) (Amendment) Regulations 2024](https://www.indexdata.org/the-registrar-of-companies-and-register-of-overseas-entities-fees-amendment-regulations-2024/)** — `2024-04-01` | `4 Pages`
 - `[`UKSI-2024-445`]` **[The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024](https://www.indexdata.org/the-economic-crime-and-corporate-transparency-act-2023-financial-penalty-regulations-2024/)** — `2024-03-26` | `8 Pages`
 - `[`UKSI-2024-444`]` **[The Reporting on Payment Practices and Performance (Amendment) Regulations 2024](https://www.indexdata.org/the-reporting-on-payment-practices-and-performance-amendment-regulations-2024/)** — `2024-03-25` | `4 Pages`
 - `[`UKSI-2024-438`]` **[The Employment Relations (Flexible Working) Act 2023 (Commencement) Regulations 2024](https://www.indexdata.org/the-employment-relations-flexible-working-act-2023-commencement-regulations-2024/)** — `2024-03-25` | `2 Pages`

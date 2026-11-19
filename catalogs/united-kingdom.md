@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,159` across `94` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,160` across `94` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-19 03:03 UTC`
+**Last Automated Sync:** `2026-11-19 03:58 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`257` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`192` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
-- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`184` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
+- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`185` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`152` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`142` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`141` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
@@ -110,7 +110,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,159)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,160)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -1033,6 +1033,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UK-GOV-38049a22-1187-466a-8278-695e5a40581c-2`]` **[DfT major projects: appointment letters for Senior Responsible Owners (SROs) — Midland Main Line programme SRO appointment letter](https://www.indexdata.org/dft-major-projects-appointment-letters-for-senior-responsible-owners-sros-midland-main-line-programme-sro-appointment-letter/)** — `2026-11-17` | `6 Pages`
 - `[`UK-GOV-38049a22-1187-466a-8278-695e5a40581c-10`]` **[DfT major projects: appointment letters for Senior Responsible Owners (SROs) — Thameslink programme SRO appointment letter](https://www.indexdata.org/dft-major-projects-appointment-letters-for-senior-responsible-owners-sros-thameslink-programme-sro-appointment-letter/)** — `2026-11-17` | `5 Pages`
 - `[`UK-GOV-38049a22-1187-466a-8278-695e5a40581c-1`]` **[DfT major projects: appointment letters for Senior Responsible Owners (SROs) — East Coast Main Line enhancement programme SRO appointment letter](https://www.indexdata.org/dft-major-projects-appointment-letters-for-senior-responsible-owners-sros-east-coast-main-line-enhancement-programme-sro-appointment-letter/)** — `2026-11-17` | `6 Pages`
+- `[`UKSI-2026-1208`]` **[The Planning and Infrastructure Act 2025 (Commencement No. 5 and Transitional Provisions) Regulations 2026](https://www.indexdata.org/the-planning-and-infrastructure-act-2025-commencement-no-5-and-transitional-provisions-regulations-2026/)** — `2026-11-16` | `4 Pages`
 - `[`UKSI-2026-1191`]` **[The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 10) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-helicopter-flight-no-10-regulations-2026/)** — `2026-11-13` | `4 Pages`
 - `[`UKSI-2026-1178`]` **[The Air Navigation (Restriction of Flying) (RAF Mildenhall, Norfolk) (Emergency) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-raf-mildenhall-norfolk-emergency-regulations-2026/)** — `2026-11-10` | `2 Pages`
 - `[`UKSI-2026-1177`]` **[The Air Navigation (Restriction of Flying) (RAF Feltwell, Norfolk) (Emergency) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-raf-feltwell-norfolk-emergency-regulations-2026/)** — `2026-11-10` | `2 Pages`
@@ -1362,28 +1363,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-822`]` **[The Nursing and Midwifery Council (Fees) (Practice Committee) (Fitness to Practise) (Amendment) Rules Order of Council 2026](https://www.indexdata.org/the-nursing-and-midwifery-council-fees-practice-committee-fitness-to-practise-amendment-rules-order-of-council-2026/)** — `2026-07-09` | `12 Pages`
 - `[`UKSI-2026-702`]` **[The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2026](https://www.indexdata.org/the-national-health-service-pharmaceutical-and-local-pharmaceutical-services-amendment-regulations-2026/)** — `2026-06-29` | `2 Pages`
 
-### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
-
-- `[`UKSI-2026-1207`]` **[The Social Security (Non-Benefit Payments) Regulations 2026](https://www.indexdata.org/the-social-security-non-benefit-payments-regulations-2026/)** — `2026-11-16` | `2 Pages`
-- `[`UK-GOV-3c340256-cf14-4096-a468-77a079c338f7-1`]` **[Benefit and pension rates: 2027 to 2028 — Proposed benefit and pension rates 2027 to 2028](https://www.indexdata.org/benefit-and-pension-rates-2027-to-2028-proposed-benefit-and-pension-rates-2027-to-2028/)** — `2026-11-11` | `14 Pages`
-- `[`UK-GOV-f56dbbe8-6317-4575-b6a5-ba189213c3b4-2`]` **[Guided retirement: policy consultation — High level member journey (accessible)](https://www.indexdata.org/guided-retirement-policy-consultation-high-level-member-journey-accessible/)** — `2026-11-03` | `2 Pages`
-- `[`UK-GOV-f56dbbe8-6317-4575-b6a5-ba189213c3b4-1`]` **[Guided retirement: policy consultation — Example non-advised member journey (accessible)](https://www.indexdata.org/guided-retirement-policy-consultation-example-non-advised-member-journey-accessible/)** — `2026-11-03` | `2 Pages`
-- `[`UKSI-2026-1153`]` **[The Control of Asbestos (Amendment etc.) Regulations 2026](https://www.indexdata.org/the-control-of-asbestos-amendment-etc-regulations-2026/)** — `2026-11-02` | `4 Pages`
-- `[`UKSI-2026-1148`]` **[The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-mesothelioma-lump-sum-payments-conditions-and-amounts-amendment-no-2-regulations-2026/)** — `2026-10-30` | `4 Pages`
-- `[`UKSI-2026-1146`]` **[The Pneumoconiosis etc. (Workers’ Compensation) (Payment of Claims) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-pneumoconiosis-etc-workers-compensation-payment-of-claims-amendment-no-2-regulations-2026/)** — `2026-10-30` | `4 Pages`
-- `[`UKSI-2026-1079`]` **[The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026](https://www.indexdata.org/the-income-related-benefits-subsidy-to-authorities-amendment-order-2026/)** — `2026-10-13` | `20 Pages`
-- `[`UKSI-2026-1072`]` **[The Social Security (Income and Capital Disregards) (Amendment) Regulations 2026](https://www.indexdata.org/the-social-security-income-and-capital-disregards-amendment-regulations-2026/)** — `2026-10-08` | `8 Pages`
-- `[`UKSI-2026-1069`]` **[The Social Security (Further Methods of Recovery) Regulations 2026](https://www.indexdata.org/the-social-security-further-methods-of-recovery-regulations-2026/)** — `2026-10-06` | `24 Pages`
-- `[`UKSI-2026-1063`]` **[The Social Security (Miscellaneous Amendments) Regulations 2026](https://www.indexdata.org/the-social-security-miscellaneous-amendments-regulations-2026/)** — `2026-10-06` | `12 Pages`
-- `[`UKSI-2026-867`]` **[The Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026](https://www.indexdata.org/the-supply-of-machinery-safety-amendment-etc-and-the-eu-machinery-regulation-enforcement-etc-in-northern-ireland-regulations-2026/)** — `2026-07-22` | `16 Pages`
-- `[`UKSI-2026-813`]` **[The Welfare Reform Act 2012 (Commencement No. 30 and Transitory Provisions) (Amendment) (England) Order 2026](https://www.indexdata.org/the-welfare-reform-act-2012-commencement-no-30-and-transitory-provisions-amendment-england-order-2026/)** — `2026-07-13` | `2 Pages`
-- `[`UKSI-2026-795`]` **[The Social Security (Contributions) (Isle of Man) Order 2026](https://www.indexdata.org/the-social-security-contributions-isle-of-man-order-2026/)** — `2026-07-08` | `16 Pages`
-- `[`UKSI-2026-794`]` **[The Social Security (Contributions) (Republic of India) (Amendment) Order 2026](https://www.indexdata.org/the-social-security-contributions-republic-of-india-amendment-order-2026/)** — `2026-07-08` | `2 Pages`
-- `[`UKSI-2026-706`]` **[The Education (Free School Lunches in Maintained Nursery Schools) (Universal Credit) (England) Order 2026](https://www.indexdata.org/the-education-free-school-lunches-in-maintained-nursery-schools-universal-credit-england-order-2026/)** — `2026-06-29` | `2 Pages`
-- `[`UKSI-2026-684`]` **[The Social Security (Contributions) (Amendment No. 4) Regulations 2026](https://www.indexdata.org/the-social-security-contributions-amendment-no-4-regulations-2026/)** — `2026-06-24` | `8 Pages`
-- `[`UKSI-2026-679`]` **[The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026](https://www.indexdata.org/the-social-security-scotland-act-2018-disability-and-carer-benefits-consequential-amendments-order-2026/)** — `2026-06-23` | `12 Pages`
-
 ### [British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/british-geological-survey/](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
 
@@ -1404,6 +1383,27 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/british-g
 - `[`UK-DGOV-70b78c87-05e-d0142457-6c4`]` **[Photos, XRF elements, total N and C, and isotopic data (d18O, d13C) from Deep Sea Drilling Project Site 225 cores, central Red Sea — Deep Sea Drilling project Report](https://www.indexdata.org/photos-xrf-elements-total-n-and-c-and-isotopic-data-d18o-d13c-from-deep-sea-drilling-project-site-225-cores-central-red-sea-deep-sea-drilling-project-report/)** — `2026-10-30` | `56 Pages`
 - `[`UK-DGOV-5b97702b-c55-aabf183b-2c3`]` **[EU Project Report: SiteChar - Characterisation of European CO2 storage, Final Report — Resource locator](https://www.indexdata.org/eu-project-report-sitechar-characterisation-of-european-co2-storage-final-report-resource-locator/)** — `2026-10-30` | `31 Pages`
 - `[`UK-DGOV-091eaae6-318-d8707634-386`]` **[EU Project Report: The RISCS Guide - A guide to potential impacts of leakage from CO2 storage — Resource locator](https://www.indexdata.org/eu-project-report-the-riscs-guide-a-guide-to-potential-impacts-of-leakage-from-co2-storage-resource-locator/)** — `2026-10-30` | `70 Pages`
+
+### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
+
+- `[`UKSI-2026-1207`]` **[The Social Security (Non-Benefit Payments) Regulations 2026](https://www.indexdata.org/the-social-security-non-benefit-payments-regulations-2026/)** — `2026-11-16` | `2 Pages`
+- `[`UK-GOV-3c340256-cf14-4096-a468-77a079c338f7-1`]` **[Benefit and pension rates: 2027 to 2028 — Proposed benefit and pension rates 2027 to 2028](https://www.indexdata.org/benefit-and-pension-rates-2027-to-2028-proposed-benefit-and-pension-rates-2027-to-2028/)** — `2026-11-11` | `14 Pages`
+- `[`UK-GOV-f56dbbe8-6317-4575-b6a5-ba189213c3b4-2`]` **[Guided retirement: policy consultation — High level member journey (accessible)](https://www.indexdata.org/guided-retirement-policy-consultation-high-level-member-journey-accessible/)** — `2026-11-03` | `2 Pages`
+- `[`UK-GOV-f56dbbe8-6317-4575-b6a5-ba189213c3b4-1`]` **[Guided retirement: policy consultation — Example non-advised member journey (accessible)](https://www.indexdata.org/guided-retirement-policy-consultation-example-non-advised-member-journey-accessible/)** — `2026-11-03` | `2 Pages`
+- `[`UKSI-2026-1153`]` **[The Control of Asbestos (Amendment etc.) Regulations 2026](https://www.indexdata.org/the-control-of-asbestos-amendment-etc-regulations-2026/)** — `2026-11-02` | `4 Pages`
+- `[`UKSI-2026-1148`]` **[The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-mesothelioma-lump-sum-payments-conditions-and-amounts-amendment-no-2-regulations-2026/)** — `2026-10-30` | `4 Pages`
+- `[`UKSI-2026-1146`]` **[The Pneumoconiosis etc. (Workers’ Compensation) (Payment of Claims) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-pneumoconiosis-etc-workers-compensation-payment-of-claims-amendment-no-2-regulations-2026/)** — `2026-10-30` | `4 Pages`
+- `[`UKSI-2026-1079`]` **[The Income-related Benefits (Subsidy to Authorities) Amendment Order 2026](https://www.indexdata.org/the-income-related-benefits-subsidy-to-authorities-amendment-order-2026/)** — `2026-10-13` | `20 Pages`
+- `[`UKSI-2026-1072`]` **[The Social Security (Income and Capital Disregards) (Amendment) Regulations 2026](https://www.indexdata.org/the-social-security-income-and-capital-disregards-amendment-regulations-2026/)** — `2026-10-08` | `8 Pages`
+- `[`UKSI-2026-1069`]` **[The Social Security (Further Methods of Recovery) Regulations 2026](https://www.indexdata.org/the-social-security-further-methods-of-recovery-regulations-2026/)** — `2026-10-06` | `24 Pages`
+- `[`UKSI-2026-1063`]` **[The Social Security (Miscellaneous Amendments) Regulations 2026](https://www.indexdata.org/the-social-security-miscellaneous-amendments-regulations-2026/)** — `2026-10-06` | `12 Pages`
+- `[`UKSI-2026-867`]` **[The Supply of Machinery (Safety) (Amendment etc.) and the EU Machinery Regulation (Enforcement etc. in Northern Ireland) Regulations 2026](https://www.indexdata.org/the-supply-of-machinery-safety-amendment-etc-and-the-eu-machinery-regulation-enforcement-etc-in-northern-ireland-regulations-2026/)** — `2026-07-22` | `16 Pages`
+- `[`UKSI-2026-813`]` **[The Welfare Reform Act 2012 (Commencement No. 30 and Transitory Provisions) (Amendment) (England) Order 2026](https://www.indexdata.org/the-welfare-reform-act-2012-commencement-no-30-and-transitory-provisions-amendment-england-order-2026/)** — `2026-07-13` | `2 Pages`
+- `[`UKSI-2026-795`]` **[The Social Security (Contributions) (Isle of Man) Order 2026](https://www.indexdata.org/the-social-security-contributions-isle-of-man-order-2026/)** — `2026-07-08` | `16 Pages`
+- `[`UKSI-2026-794`]` **[The Social Security (Contributions) (Republic of India) (Amendment) Order 2026](https://www.indexdata.org/the-social-security-contributions-republic-of-india-amendment-order-2026/)** — `2026-07-08` | `2 Pages`
+- `[`UKSI-2026-706`]` **[The Education (Free School Lunches in Maintained Nursery Schools) (Universal Credit) (England) Order 2026](https://www.indexdata.org/the-education-free-school-lunches-in-maintained-nursery-schools-universal-credit-england-order-2026/)** — `2026-06-29` | `2 Pages`
+- `[`UKSI-2026-684`]` **[The Social Security (Contributions) (Amendment No. 4) Regulations 2026](https://www.indexdata.org/the-social-security-contributions-amendment-no-4-regulations-2026/)** — `2026-06-24` | `8 Pages`
 
 ### [UK Visas and Immigration](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/feed/)
