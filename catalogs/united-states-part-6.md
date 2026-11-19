@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,538` across `243` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,548` across `243` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-19 10:59 UTC`
+**Last Automated Sync:** `2026-11-19 12:25 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`909` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`531` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`350` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`352` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`278` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -64,9 +64,9 @@
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
-- **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`49` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
+- **[Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`49` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)
 - **[Justice Department](https://www.indexdata.org/united-states/justice-department/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
 - **[Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
@@ -92,6 +92,7 @@
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
 - **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
+- **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
 - **[Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)
 - **[Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 - **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
@@ -99,7 +100,6 @@
 - **[Surface Transportation Board](https://www.indexdata.org/united-states/surface-transportation-board/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-transportation-board/) | [RSS Feed](https://www.indexdata.org/united-states/surface-transportation-board/feed/)
 - **[Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
 - **[Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)
-- **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
 - **[Federal Labor Relations Authority](https://www.indexdata.org/united-states/federal-labor-relations-authority/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-labor-relations-authority/) | [RSS Feed](https://www.indexdata.org/united-states/federal-labor-relations-authority/feed/)
 - **[Food Safety and Inspection Service](https://www.indexdata.org/united-states/food-safety-and-inspection-service/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-safety-and-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-safety-and-inspection-service/feed/)
 - **[U.S. Department of Transportation (USDOT)](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/feed/)
@@ -259,11 +259,16 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,538)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,548)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`R1-2025-04334`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-159/)** — `2025-04-01` | `4 Pages`
+- `[`2025-05545`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-75/)** — `2025-04-01` | `2 Pages`
+- `[`2025-05544`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-74/)** — `2025-04-01` | `3 Pages`
+- `[`2025-05541`]` **[Removal of Class E Airspace; Sunbury, PA](https://www.indexdata.org/removal-of-class-e-airspace-sunbury-pa-2/)** — `2025-04-01` | `2 Pages`
+- `[`2025-05490`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-138/)** — `2025-04-01` | `4 Pages`
 - `[`2025-05489`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-32/)** — `2025-04-01` | `4 Pages`
 - `[`2025-05492`]` **[Amendment of Class D and Class E Airspace; Morgantown, WV](https://www.indexdata.org/amendment-of-class-d-and-class-e-airspace-morgantown-wv-4/)** — `2025-03-31` | `2 Pages`
 - `[`2025-05483`]` **[Establishment of Class E Airspace; Sparta, KY](https://www.indexdata.org/establishment-of-class-e-airspace-sparta-ky-2/)** — `2025-03-31` | `2 Pages`
@@ -653,13 +658,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-26734`]` **[Establishment of Class E Airspace; Rose Hill, KS](https://www.indexdata.org/establishment-of-class-e-airspace-rose-hill-ks-2/)** — `2024-11-18` | `2 Pages`
 - `[`2024-26260`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-37/)** — `2024-11-14` | `3 Pages`
 - `[`2024-26205`]` **[Establishment of Class E Airspace; Faith, SD](https://www.indexdata.org/establishment-of-class-e-airspace-faith-sd/)** — `2024-11-13` | `2 Pages`
-- `[`2024-26153`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-94/)** — `2024-11-13` | `2 Pages`
-- `[`2024-26150`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-95/)** — `2024-11-13` | `2 Pages`
-- `[`2024-26146`]` **[Amendment of Class E Airspace; Zanesville, OH](https://www.indexdata.org/amendment-of-class-e-airspace-zanesville-oh/)** — `2024-11-13` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-05376`]` **[Interim Final Determination To Defer Sanctions, Placer County Air Pollution Control District](https://www.indexdata.org/interim-final-determination-to-defer-sanctions-placer-county-air-pollution-control-district/)** — `2025-04-02` | `2 Pages`
+- `[`2025-05375`]` **[Air Plan Revision; California; Placer County Air Pollution Control District; New Source Review](https://www.indexdata.org/air-plan-revision-california-placer-county-air-pollution-control-district-new-source-review-2/)** — `2025-04-02` | `4 Pages`
 - `[`2025-05378`]` **[Air Plan Approval; Connecticut; Approval of State Implementation Plan Requirements for the 2008 Ozone Standard](https://www.indexdata.org/air-plan-approval-connecticut-approval-of-state-implementation-plan-requirements-for-the-2008-ozone-standard/)** — `2025-04-01` | `2 Pages`
 - `[`2025-05385`]` **[Section 610 Review of National Emission Standards for Hazardous Air Pollutants for Brick and Structural Clay Products Manufacturing and Clay Ceramics Manufacturing](https://www.indexdata.org/section-610-review-of-national-emission-standards-for-hazardous-air-pollutants-for-brick-and-structural-clay-products-manufacturing-and-clay-ceramics-manufacturing/)** — `2025-03-31` | `2 Pages`
 - `[`2025-05369`]` **[Air Plan Approval; California; State Implementation Plan Revision for Chico, Modesto, and Stockton Carbon Monoxide Maintenance Areas](https://www.indexdata.org/air-plan-approval-california-state-implementation-plan-revision-for-chico-modesto-and-stockton-carbon-monoxide-maintenance-areas-2/)** — `2025-03-31` | `4 Pages`
@@ -876,6 +880,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2025-05495`]` **[Fisheries of the Northeastern United States; Mid-Atlantic Blueline Tilefish and Golden Tilefish Fisheries; 2025-2027 Golden Tilefish Specifications and 2025 Blueline Tilefish Specifications](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-mid-atlantic-blueline-tilefish-and-golden-tilefish-fisheries-2025-2027-golden-tilefish-specifications-and-2025-blueline-tilefish-specifications/)** — `2025-04-01` | `3 Pages`
 - `[`2025-05499`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pollock in the Bering Sea and Aleutian Islands](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pollock-in-the-bering-sea-and-aleutian-islands-4/)** — `2025-03-31` | `2 Pages`
 - `[`2025-05284`]` **[Fisheries Off West Coast States; West Coast Salmon Fisheries; Federal Salmon Regulations for Overfished Species Rebuilding Plans](https://www.indexdata.org/fisheries-off-west-coast-states-west-coast-salmon-fisheries-federal-salmon-regulations-for-overfished-species-rebuilding-plans-2/)** — `2025-03-28` | `2 Pages`
 - `[`2025-05259`]` **[Fisheries Off West Coast States; Modification of the West Coast Salmon Fisheries; Inseason Actions #17 Through #18](https://www.indexdata.org/fisheries-off-west-coast-states-modification-of-the-west-coast-salmon-fisheries-inseason-actions-17-through-18/)** — `2025-03-27` | `3 Pages`
@@ -944,7 +949,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-27699`]` **[Reef Fish Resources of the Gulf of Mexico; 2024 Commercial and Recreational Accountability Measure and Closures for Gulf of Mexico Lane Snapper](https://www.indexdata.org/reef-fish-resources-of-the-gulf-of-mexico-2024-commercial-and-recreational-accountability-measure-and-closures-for-gulf-of-mexico-lane-snapper/)** — `2024-11-26` | `2 Pages`
 - `[`2024-26946`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; General Category December Quota Transfer](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-general-category-december-quota-transfer/)** — `2024-11-19` | `2 Pages`
 - `[`2024-26798`]` **[Revisions to Framework Adjustment 66 to the Northeast Multispecies Fishery Management Plan and Sector Annual Catch Entitlements; Updated Annual Catch Limits for Sectors and the Common Pool for Fishing Year 2024](https://www.indexdata.org/revisions-to-framework-adjustment-66-to-the-northeast-multispecies-fishery-management-plan-and-sector-annual-catch-entitlements-updated-annual-catch-limits-for-sectors-and-the-common-pool-for-fishing/)** — `2024-11-19` | `7 Pages`
-- `[`2024-26069`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Lower Columbia River Dredged Material Management Plan, Oregon and Washington](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the-lower-columbia-river-dredged-material-management-plan-oregon-and-washington-2/)** — `2024-11-13` | `26 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1077,7 +1081,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2024-27480`]` **[Jurisdictional Separations and Referral to the Federal-State Joint Board](https://www.indexdata.org/jurisdictional-separations-and-referral-to-the-federal-state-joint-board/)** — `2024-11-25` | `6 Pages`
 - `[`2024-26795`]` **[Implementation of the National Suicide Hotline Act of 2018](https://www.indexdata.org/implementation-of-the-national-suicide-hotline-act-of-2018-3/)** — `2024-11-20` | `13 Pages`
 - `[`2024-26794`]` **[Improving Public Safety Communications in the 4.9 GHz Band](https://www.indexdata.org/improving-public-safety-communications-in-the-4-9-ghz-band-2/)** — `2024-11-20` | `8 Pages`
-- `[`2024-25088`]` **[Achieving 100% Wireless Handset Model Hearing Aid Compatibility](https://www.indexdata.org/achieving-100-wireless-handset-model-hearing-aid-compatibility-2/)** — `2024-11-13` | `37 Pages`
 
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
@@ -1431,6 +1434,25 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`2024-29373`]` **[Federal Acquisition Regulation: Training To Prevent Human Trafficking for Certain Air Carriers](https://www.indexdata.org/federal-acquisition-regulation-training-to-prevent-human-trafficking-for-certain-air-carriers/)** — `2024-12-16` | `2 Pages`
 - `[`2024-27851`]` **[Federal Acquisition Regulation: Inflation Adjustment of Acquisition-Related Thresholds](https://www.indexdata.org/federal-acquisition-regulation-inflation-adjustment-of-acquisition-related-thresholds-2/)** — `2024-11-29` | `8 Pages`
 
+### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
+
+- `[`2025-05514`]` **[Priority Mail Express Service Standard](https://www.indexdata.org/priority-mail-express-service-standard/)** — `2025-04-01` | `4 Pages`
+- `[`2025-03902`]` **[Securing Bundles of Flats](https://www.indexdata.org/securing-bundles-of-flats/)** — `2025-03-12` | `3 Pages`
+- `[`2025-03168`]` **[Service Standards for Market-Dominant Mail Products](https://www.indexdata.org/service-standards-for-market-dominant-mail-products/)** — `2025-02-28` | `16 Pages`
+- `[`2025-02544`]` **[Cremated Remains Packaging Requirements](https://www.indexdata.org/cremated-remains-packaging-requirements/)** — `2025-02-19` | `2 Pages`
+- `[`2025-02338`]` **[Debt Collection Act Petitions Against Current Employees](https://www.indexdata.org/debt-collection-act-petitions-against-current-employees/)** — `2025-02-10` | `3 Pages`
+- `[`2025-02212`]` **[Optional 5-Digit/3-Digit/ADC Sortation](https://www.indexdata.org/optional-5-digit-3-digit-adc-sortation-2/)** — `2025-02-05` | `3 Pages`
+- `[`2025-01938`]` **[International Competitive Services and Price Changes](https://www.indexdata.org/international-competitive-services-and-price-changes/)** — `2025-01-30` | `3 Pages`
+- `[`2025-01618`]` **[New Mailing Standards for Hazardous Materials Outer Packaging and Nonregulated Toxic Materials](https://www.indexdata.org/new-mailing-standards-for-hazardous-materials-outer-packaging-and-nonregulated-toxic-materials/)** — `2025-01-27` | `6 Pages`
+- `[`2025-01062`]` **[Inspection Service Authority; Civil Monetary Penalty Inflation Adjustment](https://www.indexdata.org/inspection-service-authority-civil-monetary-penalty-inflation-adjustment/)** — `2025-01-17` | `3 Pages`
+- `[`2024-31517`]` **[International Return Receipt](https://www.indexdata.org/international-return-receipt/)** — `2025-01-03` | `2 Pages`
+- `[`2024-31225`]` **[Labeling List Updates](https://www.indexdata.org/labeling-list-updates/)** — `2024-12-31` | `10 Pages`
+- `[`2024-29435`]` **[Dual Shipping Labels Discontinued](https://www.indexdata.org/dual-shipping-labels-discontinued/)** — `2024-12-13` | `2 Pages`
+- `[`2024-27463`]` **[Domestic Competitive Products Pricing and Mailing Standards Changes](https://www.indexdata.org/domestic-competitive-products-pricing-and-mailing-standards-changes-4/)** — `2024-11-27` | `8 Pages`
+- `[`2024-27537`]` **[Cremated Remains Packaging Requirements](https://www.indexdata.org/cremated-remains-packaging-requirements-2/)** — `2024-11-26` | `2 Pages`
+- `[`2024-26434`]` **[Service Standards for Market-Dominant Mail Products](https://www.indexdata.org/service-standards-for-market-dominant-mail-products-2/)** — `2024-11-15` | `9 Pages`
+
 ### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 
@@ -1468,24 +1490,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-s
 - `[`2024-27631`]` **[Homeland Security Acquisition Regulation, Rescinding Reserve Officer Training Corps and Military Recruiting on Campus Clause (HSAR Case 2024-001)](https://www.indexdata.org/homeland-security-acquisition-regulation-rescinding-reserve-officer-training-corps-and-military-recruiting-on-campus-clause-hsar-case-2024-001/)** — `2024-11-25` | `3 Pages`
 - `[`2024-27456`]` **[Homeland Security Acquisition Regulation, Restrictions on Foreign Acquisition Update (HSAR Case 2024-002)](https://www.indexdata.org/homeland-security-acquisition-regulation-restrictions-on-foreign-acquisition-update-hsar-case-2024-002/)** — `2024-11-25` | `4 Pages`
 
-### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
-
-- `[`2025-03902`]` **[Securing Bundles of Flats](https://www.indexdata.org/securing-bundles-of-flats/)** — `2025-03-12` | `3 Pages`
-- `[`2025-03168`]` **[Service Standards for Market-Dominant Mail Products](https://www.indexdata.org/service-standards-for-market-dominant-mail-products/)** — `2025-02-28` | `16 Pages`
-- `[`2025-02544`]` **[Cremated Remains Packaging Requirements](https://www.indexdata.org/cremated-remains-packaging-requirements/)** — `2025-02-19` | `2 Pages`
-- `[`2025-02338`]` **[Debt Collection Act Petitions Against Current Employees](https://www.indexdata.org/debt-collection-act-petitions-against-current-employees/)** — `2025-02-10` | `3 Pages`
-- `[`2025-02212`]` **[Optional 5-Digit/3-Digit/ADC Sortation](https://www.indexdata.org/optional-5-digit-3-digit-adc-sortation-2/)** — `2025-02-05` | `3 Pages`
-- `[`2025-01938`]` **[International Competitive Services and Price Changes](https://www.indexdata.org/international-competitive-services-and-price-changes/)** — `2025-01-30` | `3 Pages`
-- `[`2025-01618`]` **[New Mailing Standards for Hazardous Materials Outer Packaging and Nonregulated Toxic Materials](https://www.indexdata.org/new-mailing-standards-for-hazardous-materials-outer-packaging-and-nonregulated-toxic-materials/)** — `2025-01-27` | `6 Pages`
-- `[`2025-01062`]` **[Inspection Service Authority; Civil Monetary Penalty Inflation Adjustment](https://www.indexdata.org/inspection-service-authority-civil-monetary-penalty-inflation-adjustment/)** — `2025-01-17` | `3 Pages`
-- `[`2024-31517`]` **[International Return Receipt](https://www.indexdata.org/international-return-receipt/)** — `2025-01-03` | `2 Pages`
-- `[`2024-31225`]` **[Labeling List Updates](https://www.indexdata.org/labeling-list-updates/)** — `2024-12-31` | `10 Pages`
-- `[`2024-29435`]` **[Dual Shipping Labels Discontinued](https://www.indexdata.org/dual-shipping-labels-discontinued/)** — `2024-12-13` | `2 Pages`
-- `[`2024-27463`]` **[Domestic Competitive Products Pricing and Mailing Standards Changes](https://www.indexdata.org/domestic-competitive-products-pricing-and-mailing-standards-changes-4/)** — `2024-11-27` | `8 Pages`
-- `[`2024-27537`]` **[Cremated Remains Packaging Requirements](https://www.indexdata.org/cremated-remains-packaging-requirements-2/)** — `2024-11-26` | `2 Pages`
-- `[`2024-26434`]` **[Service Standards for Market-Dominant Mail Products](https://www.indexdata.org/service-standards-for-market-dominant-mail-products-2/)** — `2024-11-15` | `9 Pages`
-
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 
@@ -1501,7 +1505,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and
 - `[`2024-27410`]` **[Organ Procurement and Transplantation: Implementation of the HIV Organ Policy Equity (HOPE) Act](https://www.indexdata.org/organ-procurement-and-transplantation-implementation-of-the-hiv-organ-policy-equity-hope-act/)** — `2024-11-27` | `15 Pages`
 - `[`2024-25810`]` **[Final Scientific Integrity Policy](https://www.indexdata.org/final-scientific-integrity-policy/)** — `2024-11-25` | `11 Pages`
 - `[`2024-26909`]` **[Increase Flexibility for Tribes in Child Care and Development Fund (CCDF) Eligibility](https://www.indexdata.org/increase-flexibility-for-tribes-in-child-care-and-development-fund-ccdf-eligibility/)** — `2024-11-18` | `4 Pages`
-- `[`2024-25722`]` **[Use of Federal Real Property To Assist the Homeless](https://www.indexdata.org/use-of-federal-real-property-to-assist-the-homeless/)** — `2024-11-13` | `36 Pages`
 
 ### [National Park Service](https://www.indexdata.org/united-states/national-park-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-park-service/](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
@@ -1518,22 +1521,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-p
 - `[`2024-28348`]` **[Rights of Way](https://www.indexdata.org/rights-of-way/)** — `2024-12-05` | `20 Pages`
 - `[`2024-27373`]` **[World Heritage Convention](https://www.indexdata.org/world-heritage-convention/)** — `2024-12-04` | `9 Pages`
 - `[`2024-27571`]` **[Hot Springs National Park; Use of Thermal Water and Commercial Passenger-Carrying Vehicles](https://www.indexdata.org/hot-springs-national-park-use-of-thermal-water-and-commercial-passenger-carrying-vehicles/)** — `2024-11-27` | `8 Pages`
-
-### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
-
-- `[`2024-29907`]` **[Post-9/11 Improvements, Fry Scholarship, and Interval Payments Amendments](https://www.indexdata.org/post-9-11-improvements-fry-scholarship-and-interval-payments-amendments/)** — `2025-01-16` | `35 Pages`
-- `[`2025-00094`]` **[Federal Civil Penalties Inflation Adjustment Act Amendments](https://www.indexdata.org/federal-civil-penalties-inflation-adjustment-act-amendments/)** — `2025-01-10` | `2 Pages`
-- `[`2024-31776`]` **[Presumptive Service Connection for Leukemias, Multiple Myelomas, Myelodysplastic Syndromes, and Myelofibrosis Due to Exposure to Fine Particulate Matter](https://www.indexdata.org/presumptive-service-connection-for-leukemias-multiple-myelomas-myelodysplastic-syndromes-and-myelofibrosis-due-to-exposure-to-fine-particulate-matter/)** — `2025-01-10` | `8 Pages`
-- `[`2024-31494`]` **[Exempting Whole Health Well-Being Services From Copayment](https://www.indexdata.org/exempting-whole-health-well-being-services-from-copayment-2/)** — `2025-01-03` | `4 Pages`
-- `[`2024-31220`]` **[Presumptive Service Connection for Bladder, Ureter, and Related Genitourinary Cancers Due to Exposure to Fine Particulate Matter](https://www.indexdata.org/presumptive-service-connection-for-bladder-ureter-and-related-genitourinary-cancers-due-to-exposure-to-fine-particulate-matter/)** — `2025-01-02` | `8 Pages`
-- `[`2024-31230`]` **[Veterans Legacy Grants Program Improvements](https://www.indexdata.org/veterans-legacy-grants-program-improvements/)** — `2024-12-31` | `3 Pages`
-- `[`2024-28999`]` **[Updates to Waiver of Charges for Copayments](https://www.indexdata.org/updates-to-waiver-of-charges-for-copayments-2/)** — `2024-12-17` | `4 Pages`
-- `[`2024-28079`]` **[Amendments to the Program of Comprehensive Assistance for Family Caregivers](https://www.indexdata.org/amendments-to-the-program-of-comprehensive-assistance-for-family-caregivers/)** — `2024-12-06` | `54 Pages`
-- `[`2024-28138`]` **[Servicemembers' Group Life Insurance and Veterans' Group Life Insurance-Accelerated Benefit Option Regulation Update](https://www.indexdata.org/servicemembers-group-life-insurance-and-veterans-group-life-insurance-accelerated-benefit-option-regulation-update-2/)** — `2024-12-05` | `5 Pages`
-- `[`2024-26776`]` **[Loan Guaranty: Loan Reporting and Partial or Total Loss of Guaranty or Insurance](https://www.indexdata.org/loan-guaranty-loan-reporting-and-partial-or-total-loss-of-guaranty-or-insurance/)** — `2024-11-20` | `12 Pages`
-- `[`2024-25964`]` **[Legal Services for Homeless Veterans and Veterans At-Risk for Homelessness Grant Program](https://www.indexdata.org/legal-services-for-homeless-veterans-and-veterans-at-risk-for-homelessness-grant-program/)** — `2024-11-13` | `8 Pages`
-- `[`2024-25892`]` **[Telehealth Grant Program](https://www.indexdata.org/telehealth-grant-program/)** — `2024-11-13` | `25 Pages`
 
 ### [Issuing Authority](https://www.indexdata.org/united-states/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/](https://www.indexdata.org/united-states/) | [RSS Feed](https://www.indexdata.org/united-states/feed/)
@@ -1578,19 +1565,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-en
 - `[`2024-27981`]` **[Establishing Reasonable Period of Time and Clarifications Regarding Clean Water Act Section 401(a)(1) Certifications for Hydroelectric Proceedings](https://www.indexdata.org/establishing-reasonable-period-of-time-and-clarifications-regarding-clean-water-act-section-401a1-certifications-for-hydroelectric-proceedings/)** — `2024-12-05` | `8 Pages`
 - `[`2024-24528`]` **[Compensation for Reactive Power Within the Standard Power Factor Range](https://www.indexdata.org/compensation-for-reactive-power-within-the-standard-power-factor-range/)** — `2024-11-26` | `47 Pages`
 
-### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
+### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 
-- `[`2025-04864`]` **[Reporting, Procedures and Penalties Regulations](https://www.indexdata.org/reporting-procedures-and-penalties-regulations/)** — `2025-03-21` | `2 Pages`
-- `[`2025-00786`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-3/)** — `2025-01-15` | `7 Pages`
-- `[`2024-30344`]` **[Updating Authorizations for Payments for Legal Services](https://www.indexdata.org/updating-authorizations-for-payments-for-legal-services/)** — `2024-12-19` | `11 Pages`
-- `[`2024-29991`]` **[Publication of Venezuela Sanctions Regulations Web General Licenses 5Q and 8O](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-licenses-5q-and-8o/)** — `2024-12-19` | `2 Pages`
-- `[`2024-29676`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 53A, 55C, 113, and 114](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-53a-55c-113-and-114/)** — `2024-12-18` | `3 Pages`
-- `[`2024-28470`]` **[Publication of Western Balkans Stabilization Regulations Web General License 5A](https://www.indexdata.org/publication-of-western-balkans-stabilization-regulations-web-general-license-5a/)** — `2024-12-06` | `2 Pages`
-- `[`2024-26800`]` **[Publication of an Iran-Related Determination](https://www.indexdata.org/publication-of-an-iran-related-determination-2/)** — `2024-11-19` | `2 Pages`
-- `[`2024-26796`]` **[Publication of Covid-Related Web General License Related to Iranian Transactions and Sanctions Regulations and Global Terrorism Sanctions Regulations](https://www.indexdata.org/publication-of-covid-related-web-general-license-related-to-iranian-transactions-and-sanctions-regulations-and-global-terrorism-sanctions-regulations/)** — `2024-11-19` | `2 Pages`
-- `[`2024-26229`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 8K, 25G, 110, 111, and 112](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-8k-25g-110-111-and-112/)** — `2024-11-14` | `3 Pages`
-- `[`2024-26127`]` **[Burma Sanctions Regulations](https://www.indexdata.org/burma-sanctions-regulations/)** — `2024-11-13` | `13 Pages`
+- `[`2024-29907`]` **[Post-9/11 Improvements, Fry Scholarship, and Interval Payments Amendments](https://www.indexdata.org/post-9-11-improvements-fry-scholarship-and-interval-payments-amendments/)** — `2025-01-16` | `35 Pages`
+- `[`2025-00094`]` **[Federal Civil Penalties Inflation Adjustment Act Amendments](https://www.indexdata.org/federal-civil-penalties-inflation-adjustment-act-amendments/)** — `2025-01-10` | `2 Pages`
+- `[`2024-31776`]` **[Presumptive Service Connection for Leukemias, Multiple Myelomas, Myelodysplastic Syndromes, and Myelofibrosis Due to Exposure to Fine Particulate Matter](https://www.indexdata.org/presumptive-service-connection-for-leukemias-multiple-myelomas-myelodysplastic-syndromes-and-myelofibrosis-due-to-exposure-to-fine-particulate-matter/)** — `2025-01-10` | `8 Pages`
+- `[`2024-31494`]` **[Exempting Whole Health Well-Being Services From Copayment](https://www.indexdata.org/exempting-whole-health-well-being-services-from-copayment-2/)** — `2025-01-03` | `4 Pages`
+- `[`2024-31220`]` **[Presumptive Service Connection for Bladder, Ureter, and Related Genitourinary Cancers Due to Exposure to Fine Particulate Matter](https://www.indexdata.org/presumptive-service-connection-for-bladder-ureter-and-related-genitourinary-cancers-due-to-exposure-to-fine-particulate-matter/)** — `2025-01-02` | `8 Pages`
+- `[`2024-31230`]` **[Veterans Legacy Grants Program Improvements](https://www.indexdata.org/veterans-legacy-grants-program-improvements/)** — `2024-12-31` | `3 Pages`
+- `[`2024-28999`]` **[Updates to Waiver of Charges for Copayments](https://www.indexdata.org/updates-to-waiver-of-charges-for-copayments-2/)** — `2024-12-17` | `4 Pages`
+- `[`2024-28079`]` **[Amendments to the Program of Comprehensive Assistance for Family Caregivers](https://www.indexdata.org/amendments-to-the-program-of-comprehensive-assistance-for-family-caregivers/)** — `2024-12-06` | `54 Pages`
+- `[`2024-28138`]` **[Servicemembers' Group Life Insurance and Veterans' Group Life Insurance-Accelerated Benefit Option Regulation Update](https://www.indexdata.org/servicemembers-group-life-insurance-and-veterans-group-life-insurance-accelerated-benefit-option-regulation-update-2/)** — `2024-12-05` | `5 Pages`
+- `[`2024-26776`]` **[Loan Guaranty: Loan Reporting and Partial or Total Loss of Guaranty or Insurance](https://www.indexdata.org/loan-guaranty-loan-reporting-and-partial-or-total-loss-of-guaranty-or-insurance/)** — `2024-11-20` | `12 Pages`
 
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
@@ -1604,6 +1591,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enfor
 - `[`2024-30798`]` **[Schedules of Controlled Substances: Placement of Seven Specific Fentanyl-Related Substances in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-seven-specific-fentanyl-related-substances-in-schedule-i-2/)** — `2024-12-30` | `10 Pages`
 - `[`2024-30359`]` **[Schedules of Controlled Substances: Placement of 4-Chloromethcathinone in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-chloromethcathinone-in-schedule-i-2/)** — `2024-12-30` | `9 Pages`
 - `[`2024-27018`]` **[Third Temporary Extension of COVID-19 Telemedicine Flexibilities for Prescription of Controlled Medications](https://www.indexdata.org/third-temporary-extension-of-covid-19-telemedicine-flexibilities-for-prescription-of-controlled-medications/)** — `2024-11-19` | `5 Pages`
+
+### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
+
+- `[`2025-04864`]` **[Reporting, Procedures and Penalties Regulations](https://www.indexdata.org/reporting-procedures-and-penalties-regulations/)** — `2025-03-21` | `2 Pages`
+- `[`2025-00786`]` **[Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/inflation-adjustment-of-civil-monetary-penalties-3/)** — `2025-01-15` | `7 Pages`
+- `[`2024-30344`]` **[Updating Authorizations for Payments for Legal Services](https://www.indexdata.org/updating-authorizations-for-payments-for-legal-services/)** — `2024-12-19` | `11 Pages`
+- `[`2024-29991`]` **[Publication of Venezuela Sanctions Regulations Web General Licenses 5Q and 8O](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-licenses-5q-and-8o/)** — `2024-12-19` | `2 Pages`
+- `[`2024-29676`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 53A, 55C, 113, and 114](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-53a-55c-113-and-114/)** — `2024-12-18` | `3 Pages`
+- `[`2024-28470`]` **[Publication of Western Balkans Stabilization Regulations Web General License 5A](https://www.indexdata.org/publication-of-western-balkans-stabilization-regulations-web-general-license-5a/)** — `2024-12-06` | `2 Pages`
+- `[`2024-26800`]` **[Publication of an Iran-Related Determination](https://www.indexdata.org/publication-of-an-iran-related-determination-2/)** — `2024-11-19` | `2 Pages`
+- `[`2024-26796`]` **[Publication of Covid-Related Web General License Related to Iranian Transactions and Sanctions Regulations and Global Terrorism Sanctions Regulations](https://www.indexdata.org/publication-of-covid-related-web-general-license-related-to-iranian-transactions-and-sanctions-regulations-and-global-terrorism-sanctions-regulations/)** — `2024-11-19` | `2 Pages`
+- `[`2024-26229`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 8K, 25G, 110, 111, and 112](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-8k-25g-110-111-and-112/)** — `2024-11-14` | `3 Pages`
 
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
@@ -1938,13 +1938,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-
 - `[`2025-04099`]` **[Issuance of a Geographic Targeting Order Imposing Additional Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border](https://www.indexdata.org/issuance-of-a-geographic-targeting-order-imposing-additional-recordkeeping-and-reporting-requirements-on-certain-money-services-businesses-along-the-southwest-border/)** — `2025-03-14` | `3 Pages`
 - `[`2025-01374`]` **[Financial Crimes Enforcement Network; Inflation Adjustment of Civil Monetary Penalties](https://www.indexdata.org/financial-crimes-enforcement-network-inflation-adjustment-of-civil-monetary-penalties/)** — `2025-01-17` | `2 Pages`
 
-### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
-
-- `[`2025-00434`]` **[Subsistence Management Regulations for Public Lands in Alaska-2026-27 and 2027-28 Subsistence Taking of Wildlife Regulations](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-2026-27-and-2027-28-subsistence-taking-of-wildlife-regulations/)** — `2025-01-21` | `6 Pages`
-- `[`2024-27555`]` **[Law Enforcement; Criminal Prohibitions](https://www.indexdata.org/law-enforcement-criminal-prohibitions/)** — `2024-11-25` | `9 Pages`
-- `[`2024-26119`]` **[Subsistence Management Regulations for Public Lands in Alaska-Subpart B, Federal Subsistence Board Membership; Correction](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-subpart-b-federal-subsistence-board-membership-correction/)** — `2024-11-13` | `2 Pages`
-
 ### [Indian Affairs Bureau](https://www.indexdata.org/united-states/indian-affairs-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/indian-affairs-bureau/](https://www.indexdata.org/united-states/indian-affairs-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/indian-affairs-bureau/feed/)
 
@@ -2026,6 +2019,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-safet
 
 - `[`2024-27864`]` **[Uniform Compliance Date for Food Labeling Regulations](https://www.indexdata.org/uniform-compliance-date-for-food-labeling-regulations-2/)** — `2024-11-27` | `2 Pages`
 - `[`2024-27280`]` **[Salmonella Framework for Raw Poultry Products](https://www.indexdata.org/salmonella-framework-for-raw-poultry-products-2/)** — `2024-11-22` | `2 Pages`
+
+### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
+
+- `[`2025-00434`]` **[Subsistence Management Regulations for Public Lands in Alaska-2026-27 and 2027-28 Subsistence Taking of Wildlife Regulations](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-2026-27-and-2027-28-subsistence-taking-of-wildlife-regulations/)** — `2025-01-21` | `6 Pages`
+- `[`2024-27555`]` **[Law Enforcement; Criminal Prohibitions](https://www.indexdata.org/law-enforcement-criminal-prohibitions/)** — `2024-11-25` | `9 Pages`
 
 ### [Great Lakes St. Lawrence Seaway Development Corporation](https://www.indexdata.org/united-states/great-lakes-st-lawrence-seaway-development-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/great-lakes-st-lawrence-seaway-development-corporation/](https://www.indexdata.org/united-states/great-lakes-st-lawrence-seaway-development-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/great-lakes-st-lawrence-seaway-development-corporation/feed/)
@@ -2131,6 +2130,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mi
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-transit-administration/](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 
 - `[`2024-30970`]` **[Charter Service](https://www.indexdata.org/charter-service-2/)** — `2025-01-08` | `14 Pages`
+
+### [Financial Research Office](https://www.indexdata.org/united-states/financial-research-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-research-office/](https://www.indexdata.org/united-states/financial-research-office/) | [RSS Feed](https://www.indexdata.org/united-states/financial-research-office/feed/)
+
+- `[`2025-05504`]` **[Ongoing Data Collection of Non-Centrally Cleared Bilateral Transactions in the U.S. Repurchase Agreement Market](https://www.indexdata.org/ongoing-data-collection-of-non-centrally-cleared-bilateral-transactions-in-the-u-s-repurchase-agreement-market/)** — `2025-04-02` | `3 Pages`
 
 ### [Government Ethics Office](https://www.indexdata.org/united-states/government-ethics-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/government-ethics-office/](https://www.indexdata.org/united-states/government-ethics-office/) | [RSS Feed](https://www.indexdata.org/united-states/government-ethics-office/feed/)
