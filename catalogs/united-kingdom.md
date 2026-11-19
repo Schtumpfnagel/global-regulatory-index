@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,160` across `94` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,161` across `94` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-19 06:55 UTC`
+**Last Automated Sync:** `2026-11-19 07:55 UTC`
 
 ---
 
@@ -58,11 +58,11 @@
 - **[Office of the Schools Adjudicator](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/feed/)
 - **[Regulator of Social Housing](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/) | [RSS Feed](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/feed/)
 - **[UK Parliament — Central Arbitration Committee](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/feed/)
+- **[Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
 - **[Gov Facility Services Limited](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/) | [RSS Feed](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
 - **[Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
 - **[Teaching Regulation Agency](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/feed/)
-- **[Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
 - **[Companies House](https://www.indexdata.org/united-kingdom/companies-house/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/companies-house/) | [RSS Feed](https://www.indexdata.org/united-kingdom/companies-house/feed/)
 - **[Education and Skills Funding Agency](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/feed/)
@@ -110,7 +110,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,160)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,161)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -568,7 +568,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2026-713`]` **[The Scotland Act 1998 (Increase of Borrowing Limits) Order 2026](https://www.indexdata.org/the-scotland-act-1998-increase-of-borrowing-limits-order-2026/)** — `2026-06-29` | `2 Pages`
 - `[`UKSI-2026-708`]` **[The Access to the Countryside (Coastal Margin) (Aldeburgh to Hopton-on-Sea) (No. 2) Order 2026](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-aldeburgh-to-hopton-on-sea-no-2-order-2026/)** — `2026-06-29` | `2 Pages`
 - `[`UKSI-2026-716`]` **[The Judicial Review and Courts Act 2022 (Commencement No. 7) Regulations 2026](https://www.indexdata.org/the-judicial-review-and-courts-act-2022-commencement-no-7-regulations-2026/)** — `2026-06-23` | `4 Pages`
-- `[`UKSI-2026-696`]` **[CIVIL PROCEEDINGS, ENGLAND AND WALES](https://www.indexdata.org/civil-proceedings-england-and-wales/)** — `2026-06-23` | `8 Pages`
 
 ### [Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
@@ -1713,6 +1712,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/uk-parlia
 - `[`UK-GOV-b6a87318-664f-4d48-a602-761fdbfe491f-1`]` **[Employer’s application for a determination where a trade union and employer have not entered into an access agreement — Application under section 70ZE of Trade Union and Labour Relations (Consolidation) Act 1992](https://www.indexdata.org/employers-application-for-a-determination-where-a-trade-union-and-employer-have-not-entered-into-an-access-agreement-application-under-section-70ze-of-trade-union-and-labour-relatio/)** — `2026-11-09` | `6 Pages`
 - `[`UK-GOV-4448d334-c76f-4f5f-a207-daf23e3071b0-2`]` **[Complaint that a party has breached a statutory access agreement, or a third party has taken steps to prevent access — Response to a complaint under section 70ZH of the Trade Union and Labour Relations (Consolidation) Act 1992](https://www.indexdata.org/complaint-that-a-party-has-breached-a-statutory-access-agreement-or-a-third-party-has-taken-steps-to-prevent-access-response-to-a-complaint-under-section-70zh-of-the-trade-union-and-labour/)** — `2026-11-09` | `5 Pages`
 
+### [Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/competition-and-markets-authority/](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
+
+- `[`UK-GOV-94d662dd-4ff4-4e12-bad9-47b68483b894-2`]` **[Vivisol / Air Liquide (home oxygen services business) merger inquiry — Summary of phase 1 decision (PDF, 116KB)](https://www.indexdata.org/vivisol-air-liquide-home-oxygen-services-business-merger-inquiry-summary-of-phase-1-decision-pdf-116kb/)** — `2026-11-19` | `3 Pages`
+- `[`UK-GOV-96593b97-6271-412f-a19c-b0fa734a38ab-2`]` **[McCormick / Unilever merger inquiry — Summary of phase 1 decision (PDF, 116KB)](https://www.indexdata.org/mccormick-unilever-merger-inquiry-summary-of-phase-1-decision-pdf-116kb/)** — `2026-11-11` | `3 Pages`
+- `[`UK-GOV-8abf70db-eaf6-4ac8-a655-12815b0df1d3-2`]` **[AkzoNobel / Axalta merger inquiry — Summary of phase 1 decision (PDF, 115KB)](https://www.indexdata.org/akzonobel-axalta-merger-inquiry-summary-of-phase-1-decision-pdf-115kb/)** — `2026-11-11` | `3 Pages`
+- `[`UK-GOV-ead4f699-cf77-4b38-98db-26e47a3a70a8-9`]` **[Google's general search and search advertising services — Roadmap (PDF, 353KB)](https://www.indexdata.org/googles-general-search-and-search-advertising-services-roadmap-pdf-353kb/)** — `2026-11-05` | `27 Pages`
+
 ### [Gov Facility Services Limited](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/gov-facility-services-limited/](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/) | [RSS Feed](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/feed/)
 
@@ -1744,13 +1751,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/teaching-
 - `[`UK-GOV-e7e80a0d-319c-4162-bbbb-ace93367bd08-1`]` **[Teacher misconduct panel outcome: Ms Amanda Rogers — No order made: Ms Amanda Rogers](https://www.indexdata.org/teacher-misconduct-panel-outcome-ms-amanda-rogers-no-order-made-ms-amanda-rogers/)** — `2026-11-13` | `15 Pages`
 - `[`UK-GOV-0ac00951-0717-4bd7-a396-436c5e9f2db2-1`]` **[Teacher misconduct panel outcome: Ms Evangelina Tsadiosou — Prohibition order: Ms Evangelina Tsadiosou](https://www.indexdata.org/teacher-misconduct-panel-outcome-ms-evangelina-tsadiosou-prohibition-order-ms-evangelina-tsadiosou/)** — `2026-11-13` | `23 Pages`
 - `[`UK-GOV-ce2eddc5-7958-489d-8b5c-4ffd1b425402-1`]` **[Teacher misconduct panel outcome: Mr Sam Piggott — Prohibition order: Mr Sam Piggott](https://www.indexdata.org/teacher-misconduct-panel-outcome-mr-sam-piggott-prohibition-order-mr-sam-piggott/)** — `2026-11-05` | `34 Pages`
-
-### [Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/competition-and-markets-authority/](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
-
-- `[`UK-GOV-96593b97-6271-412f-a19c-b0fa734a38ab-2`]` **[McCormick / Unilever merger inquiry — Summary of phase 1 decision (PDF, 116KB)](https://www.indexdata.org/mccormick-unilever-merger-inquiry-summary-of-phase-1-decision-pdf-116kb/)** — `2026-11-11` | `3 Pages`
-- `[`UK-GOV-8abf70db-eaf6-4ac8-a655-12815b0df1d3-2`]` **[AkzoNobel / Axalta merger inquiry — Summary of phase 1 decision (PDF, 115KB)](https://www.indexdata.org/akzonobel-axalta-merger-inquiry-summary-of-phase-1-decision-pdf-115kb/)** — `2026-11-11` | `3 Pages`
-- `[`UK-GOV-ead4f699-cf77-4b38-98db-26e47a3a70a8-9`]` **[Google's general search and search advertising services — Roadmap (PDF, 353KB)](https://www.indexdata.org/googles-general-search-and-search-advertising-services-roadmap-pdf-353kb/)** — `2026-11-05` | `27 Pages`
 
 ### [Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/government-commercial-function/](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
