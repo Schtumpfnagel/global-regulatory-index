@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/france/feed/](https://www.indexdata.org/france/feed/)  
 **Wikidata Sovereign Entity:** [`Q142`](https://www.wikidata.org/wiki/Q142)  
 **Governing Open-Government Framework:** *CRPA Art. L321-1 to L323-7 / Loi n° 2016-1321*  
-**Total Indexed Dossiers in France:** `531` across `15` issuing authorities  
-**Last Automated Sync:** `2026-11-19 08:57 UTC`
+**Total Indexed Dossiers in France:** `536` across `15` issuing authorities  
+**Last Automated Sync:** `2026-11-19 09:55 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[Banque de France](https://www.indexdata.org/france/banque-de-france/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/france/banque-de-france/) | [RSS Feed](https://www.indexdata.org/france/banque-de-france/feed/)
 - **[National Institute of Statistics and Economic Studies (INSEE)](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/) | [RSS Feed](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/feed/)
 - **[French Agricultural Research Centre for International Development (CIRAD)](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/) | [RSS Feed](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/feed/)
-- **[Bretagne Développement Innovation (BDI)](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/) | [RSS Feed](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/feed/)
+- **[Bretagne Développement Innovation (BDI)](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/) | [RSS Feed](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/feed/)
 - **[French Polar Institute Paul-Émile Victor (Institut polaire français Paul-Émile Victor - IPEV)](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/) | [RSS Feed](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/feed/)
 - **[National Cybersecurity Agency of France (Agence nationale de la sécurité des systèmes d'information - ANSSI)](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/) | [RSS Feed](https://www.indexdata.org/france/national-cybersecurity-agency-of-france-agence-nationale-de-la-s-curit-des-syst-mes-d-information-anssi/feed/)
 - **[French Alternative Energies and Atomic Energy Commission (CEA — Cité des Énergies)](https://www.indexdata.org/france/french-alternative-energies-and-atomic-energy-commission-cea-cit-des-nergies/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-alternative-energies-and-atomic-energy-commission-cea-cit-des-nergies/) | [RSS Feed](https://www.indexdata.org/france/french-alternative-energies-and-atomic-energy-commission-cea-cit-des-nergies/feed/)
@@ -30,7 +30,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–531 of 531)
+## Indexed Statutory & Regulatory Dossiers (Records 1–536 of 536)
 
 ### [Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)
 Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
@@ -497,6 +497,11 @@ Canonical Authority Archive: [https://www.indexdata.org/france/french-agricultur
 ### [Bretagne Développement Innovation (BDI)](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/)
 Canonical Authority Archive: [https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/) | [RSS Feed](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/feed/)
 
+- `[`FR-BDI-146911`]` **[ICE PROJECT DELIVERABLE T3.3.1 AN OPTIMIZED SMART ENERGY SYSTEM](https://www.indexdata.org/ice-project-deliverable-t3-3-1-an-optimized-smart-energy-system/)** — `2026-11-19` | `57 Pages`
+- `[`FR-BDI-146910`]` **[ICE PROJECT DELIVRABLE ICE L3.2.1 SMART ENERGY SYSTEM](https://www.indexdata.org/ice-project-delivrable-ice-l3-2-1-smart-energy-system/)** — `2026-11-19` | `41 Pages`
+- `[`FR-BDI-146909`]` **[ICE PROJECT D_3_1_1 DESIGN OF INTERVENTIONS AND TECHNICAL SOLUTIONS – Full_Eng (1)](https://www.indexdata.org/ice-project-d_3_1_1-design-of-interventions-and-technical-solutions-full_eng-1/)** — `2026-11-19` | `44 Pages`
+- `[`FR-BDI-146908`]` **[ICE PROJECT D_2_6_2_AWARDING PROJECTS PRESENTATION](https://www.indexdata.org/ice-project-d_2_6_2_awarding-projects-presentation/)** — `2026-11-19` | `12 Pages`
+- `[`FR-BDI-146907`]` **[ICE PROJECT D_2_4_1_ICE_MRE_resources_Molene_Chaussey_Scillies_Lundy](https://www.indexdata.org/ice-project-d_2_4_1_ice_mre_resources_molene_chaussey_scillies_lundy/)** — `2026-11-19` | `46 Pages`
 - `[`FR-BDI-146548`]` **[ICE project – Chausey – Final_EN](https://www.indexdata.org/ice-project-chausey-final_en/)** — `2025-07-18` | `54 Pages`
 - `[`FR-BDI-146547`]` **[ICE – project Isles of Scilly – Final_EN](https://www.indexdata.org/ice-project-isles-of-scilly-final_en/)** — `2025-07-18` | `100 Pages`
 - `[`FR-BDI-146546`]` **[ICE project – Lundy – Final_EN](https://www.indexdata.org/ice-project-lundy-final_en/)** — `2025-07-18` | `77 Pages`
@@ -604,7 +609,7 @@ Canonical Authority Archive: [https://www.indexdata.org/france/interministerial-
 ### [Directorate of Legal and Administrative Information (Direction de l'information légale et administrative - DILA)](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/)
 Canonical Authority Archive: [https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/) | [RSS Feed](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/feed/)
 
-- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-298/)** — `2024-03-26` | `7 Pages`
+- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-299/)** — `2024-03-26` | `7 Pages`
 - `[`FR-DILA-ANN-api-lannuaire-administration-documentation_technique_api_annuaire_de_l_administration_pdf`]` **[api-lannuaire-administration — Documentation-technique-API-Annuaire-de-l-administration](https://www.indexdata.org/api-lannuaire-administration-documentation-technique-api-annuaire-de-l-administration/)** — `2023-12-11` | `9 Pages`
 
 ### [National Commission on Informatics and Liberty (Commission nationale de l'informatique et des libertés - CNIL)](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/)

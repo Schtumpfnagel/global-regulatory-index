@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `192` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-19 08:57 UTC`
+**Total Indexed Dossiers in Ireland:** `193` across `38` issuing authorities  
+**Last Automated Sync:** `2026-11-19 09:55 UTC`
 
 ---
 
 ## Issuing Authorities in Ireland (38 Authorities)
 
-- **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
+- **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
 - **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
 - **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
 - **[Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
@@ -53,11 +53,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–192 of 192)
+## Indexed Statutory & Regulatory Dossiers (Records 1–193 of 193)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
 
+- `[`IE-BILL-2026-113`]` **[Data Centre Transparency Bill 2026](https://www.indexdata.org/data-centre-transparency-bill-2026/)** — `2026-11-18` | `10 Pages`
 - `[`IE-BILL-2026-112`]` **[Power of Local Authorities to Set Rents Bill 2026](https://www.indexdata.org/power-of-local-authorities-to-set-rents-bill-2026/)** — `2026-11-17` | `6 Pages`
 - `[`IE-BILL-2026-111`]` **[Retained Firefighters (Extension of Service and Fitness Assessment) Bill 2026](https://www.indexdata.org/retained-firefighters-extension-of-service-and-fitness-assessment-bill-2026/)** — `2026-11-17` | `9 Pages`
 - `[`IE-BILL-2026-109`]` **[Planning and Development (Wind Turbines) Bill 2026](https://www.indexdata.org/planning-and-development-wind-turbines-bill-2026/)** — `2026-11-11` | `10 Pages`
