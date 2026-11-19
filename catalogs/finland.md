@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/finland/feed/](https://www.indexdata.org/finland/feed/)  
 **Wikidata Sovereign Entity:** [`Q33`](https://www.wikidata.org/wiki/Q33)  
 **Governing Open-Government Framework:** *Copyright Act (404/1961) § 9 & Act on the Openness of Government Activities (621/1999) / CC BY 4.0*  
-**Total Indexed Dossiers in Finland:** `67` across `13` issuing authorities  
-**Last Automated Sync:** `2026-11-19 12:25 UTC`
+**Total Indexed Dossiers in Finland:** `68` across `13` issuing authorities  
+**Last Automated Sync:** `2026-11-19 21:08 UTC`
 
 ---
 
@@ -14,8 +14,8 @@
 
 - **[National Audit Office of Finland (VTV)](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/) | [RSS Feed](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/feed/)
 - **[Natural Resources Institute Finland (Luke)](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/) | [RSS Feed](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/feed/)
+- **[Sitra (The Finnish Innovation Fund)](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/) | [RSS Feed](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/feed/)
 - **[Finnish Environment Institute (SYKE)](https://www.indexdata.org/finland/finnish-environment-institute-syke/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/finland/finnish-environment-institute-syke/) | [RSS Feed](https://www.indexdata.org/finland/finnish-environment-institute-syke/feed/)
-- **[Sitra (The Finnish Innovation Fund)](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/) | [RSS Feed](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/feed/)
 - **[Ministry of Education and Culture of Finland (Opetus- ja kulttuuriministeriö)](https://www.indexdata.org/finland/ministry-of-education-and-culture-of-finland-opetus-ja-kulttuuriministeri/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/finland/ministry-of-education-and-culture-of-finland-opetus-ja-kulttuuriministeri/) | [RSS Feed](https://www.indexdata.org/finland/ministry-of-education-and-culture-of-finland-opetus-ja-kulttuuriministeri/feed/)
 - **[Finnish Government (Valtioneuvosto)](https://www.indexdata.org/finland/finnish-government-valtioneuvosto/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/finland/finnish-government-valtioneuvosto/) | [RSS Feed](https://www.indexdata.org/finland/finnish-government-valtioneuvosto/feed/)
 - **[Ministry of the Environment of Finland (Ympäristöministeriö)](https://www.indexdata.org/finland/ministry-of-the-environment-of-finland-ymp-rist-ministeri/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/finland/ministry-of-the-environment-of-finland-ymp-rist-ministeri/) | [RSS Feed](https://www.indexdata.org/finland/ministry-of-the-environment-of-finland-ymp-rist-ministeri/feed/)
@@ -28,7 +28,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–67 of 67)
+## Indexed Statutory & Regulatory Dossiers (Records 1–68 of 68)
 
 ### [National Audit Office of Finland (VTV)](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/)
 Canonical Authority Archive: [https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/) | [RSS Feed](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/feed/)
@@ -77,6 +77,17 @@ Canonical Authority Archive: [https://www.indexdata.org/finland/natural-resource
 - `[`FI-LUKE-104200`]` **[Optimizing MaxEnt to project habitat shifts of Idesia polycarpa var. vestita Diels, a bioenergy tree, in China under climate change scenarios](https://www.indexdata.org/optimizing-maxent-to-project-habitat-shifts-of-idesia-polycarpa-var-vestita-diels-a-bioenergy-tree-in-china-under-climate-change-scenarios/)** — `2026-11-06` | `17 Pages`
 - `[`FI-LUKE-104170`]` **[A living lab approach to promote sustainable management of agricultural peatlands in Finland](https://www.indexdata.org/a-living-lab-approach-to-promote-sustainable-management-of-agricultural-peatlands-in-finland/)** — `2026-01-01` | `22 Pages`
 
+### [Sitra (The Finnish Innovation Fund)](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/)
+Canonical Authority Archive: [https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/) | [RSS Feed](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/feed/)
+
+- `[`FI-SITRA-216832`]` **[261113 Rules of the Competition – EU CERC Business Awards 2027](https://www.indexdata.org/261113-rules-of-the-competition-eu-cerc-business-awards-2027/)** — `2026-11-19` | `17 Pages`
+- `[`FI-SITRA-214503`]` **[WCEF_2026_Summary report_fixed](https://www.indexdata.org/wcef_2026_summary-report_fixed/)** — `2026-10-27` | `20 Pages`
+- `[`FI-SITRA-214221`]` **[VALO2 non-small cell lung cancer (NSCLC) pilot_lessons learned](https://www.indexdata.org/valo2-non-small-cell-lung-cancer-nsclc-pilot_lessons-learned/)** — `2026-10-24` | `67 Pages`
+- `[`FI-SITRA-214217`]` **[VALO2 non-small cell lung cancer (NSCLC) pilot study](https://www.indexdata.org/valo2-non-small-cell-lung-cancer-nsclc-pilot-study/)** — `2026-10-24` | `96 Pages`
+- `[`FI-SITRA-214208`]` **[Nordic model for collaboration on the secondary use of health data_steps towards implementation](https://www.indexdata.org/nordic-model-for-collaboration-on-the-secondary-use-of-health-data_steps-towards-implementation/)** — `2026-10-24` | `44 Pages`
+- `[`FI-SITRA-213242`]` **[WCEF2026 summary report](https://www.indexdata.org/wcef2026-summary-report/)** — `2026-10-16` | `20 Pages`
+- `[`FI-SITRA-213113`]` **[Towards a Nordic guide to efficient and secure access to health data for secondary use under the EHDS](https://www.indexdata.org/towards-a-nordic-guide-to-efficient-and-secure-access-to-health-data-for-secondary-use-under-the-ehds/)** — `2026-10-15` | `237 Pages`
+
 ### [Finnish Environment Institute (SYKE)](https://www.indexdata.org/finland/finnish-environment-institute-syke/)
 Canonical Authority Archive: [https://www.indexdata.org/finland/finnish-environment-institute-syke/](https://www.indexdata.org/finland/finnish-environment-institute-syke/) | [RSS Feed](https://www.indexdata.org/finland/finnish-environment-institute-syke/feed/)
 
@@ -86,16 +97,6 @@ Canonical Authority Archive: [https://www.indexdata.org/finland/finnish-environm
 - `[`FI-SYKE-1fc7e255-978`]` **[FI IIR 2026 Part 6 Waste and Other](https://www.indexdata.org/fi-iir-2026-part-6-waste-and-other/)** — `2026-03-18` | `35 Pages`
 - `[`FI-SYKE-025a75fb-aa2`]` **[FI IIR 2026 Part 1B General](https://www.indexdata.org/fi-iir-2026-part-1b-general/)** — `2026-03-18` | `108 Pages`
 - `[`FI-SYKE-00ac17cc-727`]` **[FI IIR 2026 Part 1A General](https://www.indexdata.org/fi-iir-2026-part-1a-general/)** — `2026-03-18` | `104 Pages`
-
-### [Sitra (The Finnish Innovation Fund)](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/)
-Canonical Authority Archive: [https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/) | [RSS Feed](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/feed/)
-
-- `[`FI-SITRA-214503`]` **[WCEF_2026_Summary report_fixed](https://www.indexdata.org/wcef_2026_summary-report_fixed/)** — `2026-10-27` | `20 Pages`
-- `[`FI-SITRA-214221`]` **[VALO2 non-small cell lung cancer (NSCLC) pilot_lessons learned](https://www.indexdata.org/valo2-non-small-cell-lung-cancer-nsclc-pilot_lessons-learned/)** — `2026-10-24` | `67 Pages`
-- `[`FI-SITRA-214217`]` **[VALO2 non-small cell lung cancer (NSCLC) pilot study](https://www.indexdata.org/valo2-non-small-cell-lung-cancer-nsclc-pilot-study/)** — `2026-10-24` | `96 Pages`
-- `[`FI-SITRA-214208`]` **[Nordic model for collaboration on the secondary use of health data_steps towards implementation](https://www.indexdata.org/nordic-model-for-collaboration-on-the-secondary-use-of-health-data_steps-towards-implementation/)** — `2026-10-24` | `44 Pages`
-- `[`FI-SITRA-213242`]` **[WCEF2026 summary report](https://www.indexdata.org/wcef2026-summary-report/)** — `2026-10-16` | `20 Pages`
-- `[`FI-SITRA-213113`]` **[Towards a Nordic guide to efficient and secure access to health data for secondary use under the EHDS](https://www.indexdata.org/towards-a-nordic-guide-to-efficient-and-secure-access-to-health-data-for-secondary-use-under-the-ehds/)** — `2026-10-15` | `237 Pages`
 
 ### [Ministry of Education and Culture of Finland (Opetus- ja kulttuuriministeriö)](https://www.indexdata.org/finland/ministry-of-education-and-culture-of-finland-opetus-ja-kulttuuriministeri/)
 Canonical Authority Archive: [https://www.indexdata.org/finland/ministry-of-education-and-culture-of-finland-opetus-ja-kulttuuriministeri/](https://www.indexdata.org/finland/ministry-of-education-and-culture-of-finland-opetus-ja-kulttuuriministeri/) | [RSS Feed](https://www.indexdata.org/finland/ministry-of-education-and-culture-of-finland-opetus-ja-kulttuuriministeri/feed/)

@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/sweden/feed/](https://www.indexdata.org/sweden/feed/)  
 **Wikidata Sovereign Entity:** [`Q34`](https://www.wikidata.org/wiki/Q34)  
 **Governing Open-Government Framework:** *URL 9 § (1960:729) / SFS 2022:818 / CC BY 4.0*  
-**Total Indexed Dossiers in Sweden:** `49` across `7` issuing authorities  
-**Last Automated Sync:** `2026-11-19 12:25 UTC`
+**Total Indexed Dossiers in Sweden:** `50` across `8` issuing authorities  
+**Last Automated Sync:** `2026-11-19 21:08 UTC`
 
 ---
 
-## Issuing Authorities in Sweden (7 Authorities)
+## Issuing Authorities in Sweden (8 Authorities)
 
 - **[Swedish Transport Administration (Trafikverket)](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/feed/)
 - **[Swedish Meteorological and Hydrological Institute (SMHI)](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-meteorological-and-hydrological-institute-smhi/feed/)
@@ -19,10 +19,11 @@
 - **[Government Offices of Sweden (Departementsserien)](https://www.indexdata.org/sweden/government-offices-of-sweden-departementsserien/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/government-offices-of-sweden-departementsserien/) | [RSS Feed](https://www.indexdata.org/sweden/government-offices-of-sweden-departementsserien/feed/)
 - **[Swedish National Road and Transport Research Institute (VTI)](https://www.indexdata.org/sweden/swedish-national-road-and-transport-research-institute-vti/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/swedish-national-road-and-transport-research-institute-vti/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-national-road-and-transport-research-institute-vti/feed/)
 - **[Nordic Council of Ministers — Swedish & Nordic Cooperation Reports](https://www.indexdata.org/sweden/nordic-council-of-ministers-swedish-nordic-cooperation-reports/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/nordic-council-of-ministers-swedish-nordic-cooperation-reports/) | [RSS Feed](https://www.indexdata.org/sweden/nordic-council-of-ministers-swedish-nordic-cooperation-reports/feed/)
+- **[Sweden's Innovation Agency (Vinnova)](https://www.indexdata.org/sweden/sweden-s-innovation-agency-vinnova/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/sweden/sweden-s-innovation-agency-vinnova/) | [RSS Feed](https://www.indexdata.org/sweden/sweden-s-innovation-agency-vinnova/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–49 of 49)
+## Indexed Statutory & Regulatory Dossiers (Records 1–50 of 50)
 
 ### [Swedish Transport Administration (Trafikverket)](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/)
 Canonical Authority Archive: [https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/) | [RSS Feed](https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/feed/)
@@ -100,6 +101,11 @@ Canonical Authority Archive: [https://www.indexdata.org/sweden/swedish-national-
 Canonical Authority Archive: [https://www.indexdata.org/sweden/nordic-council-of-ministers-swedish-nordic-cooperation-reports/](https://www.indexdata.org/sweden/nordic-council-of-ministers-swedish-nordic-cooperation-reports/) | [RSS Feed](https://www.indexdata.org/sweden/nordic-council-of-ministers-swedish-nordic-cooperation-reports/feed/)
 
 - `[`SE-NORDEN-907718`]` **[10 facts about the Nordic region and co-operation](https://www.indexdata.org/10-facts-about-the-nordic-region-and-co-operation/)** — `2018-01-01` | `4 Pages`
+
+### [Sweden's Innovation Agency (Vinnova)](https://www.indexdata.org/sweden/sweden-s-innovation-agency-vinnova/)
+Canonical Authority Archive: [https://www.indexdata.org/sweden/sweden-s-innovation-agency-vinnova/](https://www.indexdata.org/sweden/sweden-s-innovation-agency-vinnova/) | [RSS Feed](https://www.indexdata.org/sweden/sweden-s-innovation-agency-vinnova/feed/)
+
+- `[`SE-OA-VINN-W4353010753`]` **[XRF analysis of Gotlandic box brooch](https://www.indexdata.org/xrf-analysis-of-gotlandic-box-brooch/)** — `2022-12-19` | `2 Pages`
 
 ---
 

@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/norway/feed/](https://www.indexdata.org/norway/feed/)  
 **Wikidata Sovereign Entity:** [`Q20`](https://www.wikidata.org/wiki/Q20)  
 **Governing Open-Government Framework:** *Åndsverkloven § 14 / NLOD 2.0*  
-**Total Indexed Dossiers in Norway:** `74` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-19 12:25 UTC`
+**Total Indexed Dossiers in Norway:** `78` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-19 21:08 UTC`
 
 ---
 
@@ -19,12 +19,12 @@
 - **[Norwegian Consumer Council (Forbrukerrådet)](https://www.indexdata.org/norway/norwegian-consumer-council-forbrukerr-det/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-consumer-council-forbrukerr-det/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-consumer-council-forbrukerr-det/feed/)
 - **[Parliamentary Ombud (Sivilombudet)](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/) | [RSS Feed](https://www.indexdata.org/norway/parliamentary-ombud-sivilombudet/feed/)
 - **[Institute of Marine Research (Havforskningsinstituttet)](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/) | [RSS Feed](https://www.indexdata.org/norway/institute-of-marine-research-havforskningsinstituttet/feed/)
+- **[Norwegian Communications Authority (Nasjonal kommunikasjonsmyndighet - Nkom)](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/feed/)
 - **[Norwegian Institute of Bioeconomy Research (NIBIO)](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/feed/)
-- **[Norwegian Communications Authority (Nasjonal kommunikasjonsmyndighet - Nkom)](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–74 of 74)
+## Indexed Statutory & Regulatory Dossiers (Records 1–78 of 78)
 
 ### [Geological Survey of Norway (Norges geologiske undersøkelse - NGU)](https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/)
 Canonical Authority Archive: [https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/](https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/) | [RSS Feed](https://www.indexdata.org/norway/geological-survey-of-norway-norges-geologiske-unders-kelse-ngu/feed/)
@@ -123,6 +123,15 @@ Canonical Authority Archive: [https://www.indexdata.org/norway/institute-of-mari
 - `[`NO-CRISTIN-10329705`]` **[The German Energiewende and the role of the EU: are misfits an Achilles heel of the energy transition in Germany? &#124; Energy, Sustainability and Society &#124; Springer Nature Link](https://www.indexdata.org/the-german-energiewende-and-the-role-of-the-eu-are-misfits-an-achilles-heel-of-the-energy-transition-in-germany-energy-sustainability-and-society-springer-nature-link/)** — `2026-01-27` | `12 Pages`
 - `[`NO-CRISTIN-10331667`]` **[Norway’s net-zero emissions target for 2030 too ambitious to be true?](https://www.indexdata.org/norways-net-zero-emissions-target-for-2030-too-ambitious-to-be-true/)** — `2025-11-05` | `33 Pages`
 
+### [Norwegian Communications Authority (Nasjonal kommunikasjonsmyndighet - Nkom)](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/)
+Canonical Authority Archive: [https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/feed/)
+
+- `[`NO-OA-W4367794832`]` **[Prioritizing public health and social epidemic intervention research: A protocol](https://www.indexdata.org/prioritizing-public-health-and-social-epidemic-intervention-research-a-protocol/)** — `2023-05-03` | `6 Pages`
+- `[`NO-OA-W4293154845`]` **[The effect of working at home versus at the office on risk of transmission of SARS-CoV-2 and other respiratory agents – Statistical analysis plan](https://www.indexdata.org/the-effect-of-working-at-home-versus-at-the-office-on-risk-of-transmission-of-sars-cov-2-and-other-respiratory-agents-statistical-analysis-plan/)** — `2022-08-26` | `8 Pages`
+- `[`NO-OA-W4301511907`]` **[Assessing potential "far transfer" of learning: protocol for development and evaluation of questionnaire items &#91;Version 1, awaiting peer review&#93;](https://www.indexdata.org/assessing-potential-far-transfer-of-learning-protocol-for-development-and-evaluation-of-questionnaire-items-version-1-awaiting-peer-review/)** — `2022-08-09` | `29 Pages`
+- `[`NO-OA-W4220775910`]` **[Samtale med fastlegen som tiltak for å øke vaksinasjonsdekningen, studieprotokoll &#91;Conversation with GP to increase vaccine coverage, study protocol&#93;](https://www.indexdata.org/samtale-med-fastlegen-som-tiltak-for-a-oke-vaksinasjonsdekningen-studieprotokoll-conversation-with-gp-to-increase-vaccine-coverage-study-protocol/)** — `2022-03-24` | `5 Pages`
+- `[`NO-OA-W4313682321`]` **[Informed Health Choices Newsletter 2019](https://www.indexdata.org/informed-health-choices-newsletter-2019/)** — `2022-03-20` | `42 Pages`
+
 ### [Norwegian Institute of Bioeconomy Research (NIBIO)](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/)
 Canonical Authority Archive: [https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-institute-of-bioeconomy-research-nibio/feed/)
 
@@ -130,11 +139,6 @@ Canonical Authority Archive: [https://www.indexdata.org/norway/norwegian-institu
 - `[`NO-CRISTIN-1593789`]` **[Comparing population and incident data for optimal air ambulance base locations in Norway](https://www.indexdata.org/comparing-population-and-incident-data-for-optimal-air-ambulance-base-locations-in-norway/)** — `2025-08-21` | `11 Pages`
 - `[`NO-CRISTIN-1842651`]` **[Increased perinatal survival and improved ventilation skills over a five-year period: An observational study](https://www.indexdata.org/increased-perinatal-survival-and-improved-ventilation-skills-over-a-five-year-period-an-observational-study/)** — `2020-10-12` | `14 Pages`
 - `[`NO-CRISTIN-1253632`]` **[Redefining clinical leadership for team-course development](https://www.indexdata.org/redefining-clinical-leadership-for-team-course-development/)** — `2015-07-10` | `9 Pages`
-
-### [Norwegian Communications Authority (Nasjonal kommunikasjonsmyndighet - Nkom)](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/)
-Canonical Authority Archive: [https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/) | [RSS Feed](https://www.indexdata.org/norway/norwegian-communications-authority-nasjonal-kommunikasjonsmyndighet-nkom/feed/)
-
-- `[`NO-OA-W4367794832`]` **[Prioritizing public health and social epidemic intervention research: A protocol](https://www.indexdata.org/prioritizing-public-health-and-social-epidemic-intervention-research-a-protocol/)** — `2023-05-03` | `6 Pages`
 
 ---
 

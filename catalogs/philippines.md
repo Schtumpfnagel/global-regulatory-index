@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `442` across `11` issuing authorities  
-**Last Automated Sync:** `2026-11-19 12:25 UTC`
+**Total Indexed Dossiers in Philippines:** `444` across `12` issuing authorities  
+**Last Automated Sync:** `2026-11-19 21:08 UTC`
 
 ---
 
-## Issuing Authorities in Philippines (11 Authorities)
+## Issuing Authorities in Philippines (12 Authorities)
 
-- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`143` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
+- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`144` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`66` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
@@ -22,15 +22,17 @@
 - **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 - **[Food and Nutrition Research Institute](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/feed/)
+- **[Philippine Rice Research Institute](https://www.indexdata.org/philippines/philippine-rice-research-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-rice-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-rice-research-institute/feed/)
 - **[Science Education Institute](https://www.indexdata.org/philippines/science-education-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/science-education-institute/) | [RSS Feed](https://www.indexdata.org/philippines/science-education-institute/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–442 of 442)
+## Indexed Statutory & Regulatory Dossiers (Records 1–444 of 444)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 
+- `[`PH-DA-114247`]` **[November-19-2026-Cigarette-Prevailing-Retail-Prices-in-NCR](https://www.indexdata.org/november-19-2026-cigarette-prevailing-retail-prices-in-ncr/)** — `2026-11-19` | `15 Pages`
 - `[`PH-DA-114245`]` **[Daily Price Index November 19, 2026](https://www.indexdata.org/daily-price-index-november-19-2026/)** — `2026-11-19` | `12 Pages`
 - `[`PH-DA-114228`]` **[Price Monitoring November 19, 2026](https://www.indexdata.org/price-monitoring-november-19-2026/)** — `2026-11-19` | `6 Pages`
 - `[`PH-DA-114226`]` **[November 19, 2026 DPI AFC](https://www.indexdata.org/november-19-2026-dpi-afc/)** — `2026-11-19` | `12 Pages`
@@ -508,6 +510,11 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/philippine-c
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-nutrition-research-institute/](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/feed/)
 
 - `[`PH-OA-W2990808914`]` **[Transformational adaptation of key root and tuber crops in Asia: Assessing crop suitability amidst climate change by species distribution modelling](https://www.indexdata.org/transformational-adaptation-of-key-root-and-tuber-crops-in-asia-assessing-crop-suitability-amidst-climate-change-by-species-distribution-modelling/)** — `2019-01-01` | `36 Pages`
+
+### [Philippine Rice Research Institute](https://www.indexdata.org/philippines/philippine-rice-research-institute/)
+Canonical Authority Archive: [https://www.indexdata.org/philippines/philippine-rice-research-institute/](https://www.indexdata.org/philippines/philippine-rice-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-rice-research-institute/feed/)
+
+- `[`PH-OA-W3037133474`]` **[Why are so Many Children Stunted in the Philippines?](https://www.indexdata.org/why-are-so-many-children-stunted-in-the-philippines/)** — `2020-06-01` | `67 Pages`
 
 ### [Science Education Institute](https://www.indexdata.org/philippines/science-education-institute/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/science-education-institute/](https://www.indexdata.org/philippines/science-education-institute/) | [RSS Feed](https://www.indexdata.org/philippines/science-education-institute/feed/)

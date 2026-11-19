@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/portugal/feed/](https://www.indexdata.org/portugal/feed/)  
 **Wikidata Sovereign Entity:** [`Q45`](https://www.wikidata.org/wiki/Q45)  
 **Governing Open-Government Framework:** *Lei n.º 68/2021*  
-**Total Indexed Dossiers in Portugal:** `42` across `6` issuing authorities  
-**Last Automated Sync:** `2026-11-19 12:25 UTC`
+**Total Indexed Dossiers in Portugal:** `49` across `6` issuing authorities  
+**Last Automated Sync:** `2026-11-19 21:08 UTC`
 
 ---
 
@@ -14,14 +14,14 @@
 
 - **[Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
 - **[High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
+- **[National Institute of Health Doutor Ricardo Jorge (INSA)](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/) | [RSS Feed](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/feed/)
 - **[Regional Directorate for the Sea — Madeira (DRM)](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/) | [RSS Feed](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/feed/)
-- **[National Institute of Health Doutor Ricardo Jorge (INSA)](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/) | [RSS Feed](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/feed/)
 - **[National Laboratory of Energy and Geology (LNEG)](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/) | [RSS Feed](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/feed/)
 - **[Agency for Administrative Modernization (AMA)](https://www.indexdata.org/portugal/agency-for-administrative-modernization-ama/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/agency-for-administrative-modernization-ama/) | [RSS Feed](https://www.indexdata.org/portugal/agency-for-administrative-modernization-ama/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–42 of 42)
+## Indexed Statutory & Regulatory Dossiers (Records 1–49 of 49)
 
 ### [Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
@@ -64,6 +64,19 @@ Canonical Authority Archive: [https://www.indexdata.org/portugal/high-council-fo
 - `[`PT-CSM-WP-54648`]` **[202611_Base para diálogo aberto com novos Juíze(a)s](https://www.indexdata.org/202611_base-para-dialogo-aberto-com-novos-juizeas/)** — `2026-11-01` | `12 Pages`
 - `[`PT-CSM-WP-54647`]` **[202611_Listagem das Áreas Inspetivas – Serviços de Inspeção do CSM](https://www.indexdata.org/202611_listagem-das-areas-inspetivas-servicos-de-inspecao-do-csm/)** — `2026-11-01` | `15 Pages`
 
+### [National Institute of Health Doutor Ricardo Jorge (INSA)](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/)
+Canonical Authority Archive: [https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/) | [RSS Feed](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/feed/)
+
+- `[`PT-OA-W7223687117`]` **[Metabolomic signatures associated with muscle dysfunction during the SIRIUS-21 space analog mission](https://www.indexdata.org/metabolomic-signatures-associated-with-muscle-dysfunction-during-the-sirius-21-space-analog-mission/)** — `2026-10-26` | `14 Pages`
+- `[`PT-OA-W7170529045`]` **[A call for sharing phenotypic antimicrobial susceptibility data alongside bacterial genome sequence data in public archives](https://www.indexdata.org/a-call-for-sharing-phenotypic-antimicrobial-susceptibility-data-alongside-bacterial-genome-sequence-data-in-public-archives/)** — `2026-10-13` | `9 Pages`
+- `[`PT-OA-W4362738244`]` **[D-JRP17-WP2-Del1: Set-up of a human brucellosis network](https://www.indexdata.org/d-jrp17-wp2-del1-set-up-of-a-human-brucellosis-network/)** — `2023-04-10` | `3 Pages`
+- `[`PT-OA-W4312088836`]` **[Deliverable D-JRP15–FED-AMR-WP3.2: Overview of genetic overlap between human and non-human Clostridiodes difficile isolates](https://www.indexdata.org/deliverable-d-jrp15-fed-amr-wp3-2-overview-of-genetic-overlap-between-human-and-non-human-clostridiodes-difficile-isolates/)** — `2022-12-22` | `19 Pages`
+- `[`PT-OA-W4226024095`]` **[FED-AMR D2.5: Shotgun Sequencing: ARG Diversity in Tested Environmental Compartments (T2.3.1)](https://www.indexdata.org/fed-amr-d2-5-shotgun-sequencing-arg-diversity-in-tested-environmental-compartments-t2-3-1/)** — `2021-11-10` | `7 Pages`
+- `[`PT-OA-W4288306884`]` **[FED-AMR Deliverable D2.1 Annex 15](https://www.indexdata.org/fed-amr-deliverable-d2-1-annex-15/)** — `2020-09-01` | `24 Pages`
+- `[`PT-OA-W4288498544`]` **[FED-AMR Deliverable D2.1 Annex 6](https://www.indexdata.org/fed-amr-deliverable-d2-1-annex-6/)** — `2020-05-01` | `7 Pages`
+- `[`PT-OA-W4288355458`]` **[FED-AMR Deliverable D2.1 Annex1](https://www.indexdata.org/fed-amr-deliverable-d2-1-annex1/)** — `2020-05-01` | `3 Pages`
+- `[`PT-OA-W4288306936`]` **[FED-AMR Deliverable D2.1 Annex 14](https://www.indexdata.org/fed-amr-deliverable-d2-1-annex-14/)** — `2020-05-01` | `7 Pages`
+
 ### [Regional Directorate for the Sea — Madeira (DRM)](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/) | [RSS Feed](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/feed/)
 
@@ -71,12 +84,6 @@ Canonical Authority Archive: [https://www.indexdata.org/portugal/regional-direct
 - `[`PT-MARMAD-WP-6632`]` **[Licença exploração 1. 2017](https://www.indexdata.org/licenca-exploracao-1-2017/)** — `2026-08-01` | `2 Pages`
 - `[`PT-MARMAD-WP-6631`]` **[Licença exploração 1 2008 com averbamento 08.08.2017](https://www.indexdata.org/licenca-exploracao-1-2008-com-averbamento-08-08-2017/)** — `2026-08-01` | `3 Pages`
 - `[`PT-MARMAD-WP-6621`]` **[Lista Lotes Marismar Atualizada](https://www.indexdata.org/lista-lotes-marismar-atualizada/)** — `2026-08-01` | `3 Pages`
-
-### [National Institute of Health Doutor Ricardo Jorge (INSA)](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/)
-Canonical Authority Archive: [https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/) | [RSS Feed](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/feed/)
-
-- `[`PT-OA-W7223687117`]` **[Metabolomic signatures associated with muscle dysfunction during the SIRIUS-21 space analog mission](https://www.indexdata.org/metabolomic-signatures-associated-with-muscle-dysfunction-during-the-sirius-21-space-analog-mission/)** — `2026-10-26` | `14 Pages`
-- `[`PT-OA-W7170529045`]` **[A call for sharing phenotypic antimicrobial susceptibility data alongside bacterial genome sequence data in public archives](https://www.indexdata.org/a-call-for-sharing-phenotypic-antimicrobial-susceptibility-data-alongside-bacterial-genome-sequence-data-in-public-archives/)** — `2026-10-13` | `9 Pages`
 
 ### [National Laboratory of Energy and Geology (LNEG)](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/) | [RSS Feed](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/feed/)

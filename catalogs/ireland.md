@@ -5,19 +5,19 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `196` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-19 12:25 UTC`
+**Total Indexed Dossiers in Ireland:** `198` across `38` issuing authorities  
+**Last Automated Sync:** `2026-11-19 21:08 UTC`
 
 ---
 
 ## Issuing Authorities in Ireland (38 Authorities)
 
 - **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
-- **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
+- **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
+- **[Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
 - **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
 - **[Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
 - **[Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
-- **[Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
 - **[Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
 - **[Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
 - **[Minister for Finance](https://www.indexdata.org/ireland/minister-for-finance/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-finance/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-finance/feed/)
@@ -53,7 +53,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–196 of 196)
+## Indexed Statutory & Regulatory Dossiers (Records 1–198 of 198)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -92,6 +92,7 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](ht
 ### [Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
 
+- `[`IE-OA-W7234587531`]` **[Chronic absence in Irish schools, 2022/23 and 2023/24: Prevalence, intensity and reasons](https://www.indexdata.org/chronic-absence-in-irish-schools-2022-23-and-2023-24-prevalence-intensity-and-reasons/)** — `2026-11-16` | `120 Pages`
 - `[`IE-OA-W7134237866`]` **[A review of residential heat decarbonisation in Ireland](https://www.indexdata.org/a-review-of-residential-heat-decarbonisation-in-ireland/)** — `2026-03-09` | `27 Pages`
 - `[`IE-OA-W7125698991`]` **[School-level patterns of non-attendance, 2022/23 and 2023/24](https://www.indexdata.org/school-level-patterns-of-non-attendance-2022-23-and-2023-24/)** — `2026-01-26` | `187 Pages`
 - `[`IE-OA-W4416310111`]` **[Afterschool care for school-aged children in Ireland](https://www.indexdata.org/afterschool-care-for-school-aged-children-in-ireland/)** — `2025-11-18` | `91 Pages`
@@ -104,6 +105,20 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/economic-and-soc
 - `[`IE-OA-W4389548308`]` **[Distributional impact of tax and welfare policies: Budget 2024](https://www.indexdata.org/distributional-impact-of-tax-and-welfare-policies-budget-2024/)** — `2023-12-11` | `19 Pages`
 - `[`IE-OA-W4224233040`]` **[Origin and Integration: Housing and Family among migrants in the 2016 Irish Census](https://www.indexdata.org/origin-and-integration-housing-and-family-among-migrants-in-the-2016-irish-census/)** — `2022-04-07` | `152 Pages`
 - `[`IE-OA-W4317179106`]` **[Wages and working conditions of non-Irish nationals in Ireland](https://www.indexdata.org/wages-and-working-conditions-of-non-irish-nationals-in-ireland/)** — `2022-01-19` | `141 Pages`
+
+### [Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/health-research-board-hrb/](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
+
+- `[`IE-HRB-33519`]` **[HRB FAQs THCS JTC2027](https://www.indexdata.org/hrb-faqs-thcs-jtc2027/)** — `2026-11-19` | `5 Pages`
+- `[`IE-HRB-33500`]` **[HRB FAQs OHAMR JTC2027](https://www.indexdata.org/hrb-faqs-ohamr-jtc2027/)** — `2026-11-18` | `6 Pages`
+- `[`IE-HRB-33479`]` **[HRB Evidence Review 10](https://www.indexdata.org/hrb-evidence-review-10/)** — `2026-11-16` | `162 Pages`
+- `[`IE-HRB-33353`]` **[RESSA Plain Language Summary of Findings and Recommendations](https://www.indexdata.org/ressa-plain-language-summary-of-findings-and-recommendations/)** — `2026-11-06` | `6 Pages`
+- `[`IE-HRB-33311`]` **[HRB ERA4Health JTC Budget Guidance 2027](https://www.indexdata.org/hrb-era4health-jtc-budget-guidance-2027/)** — `2026-10-30` | `6 Pages`
+- `[`IE-HRB-33292`]` **[Annual Report on the Activities of Irish Psychiatric Units and Hospitals 2025](https://www.indexdata.org/annual-report-on-the-activities-of-irish-psychiatric-units-and-hospitals-2025/)** — `2026-10-29` | `37 Pages`
+- `[`IE-HRB-33287`]` **[Drugnet 96](https://www.indexdata.org/drugnet-96/)** — `2026-10-28` | `52 Pages`
+- `[`IE-HRB-33250`]` **[An-Bord-Taighde-Slainte-Tuarascail-Bhliantuil-2025](https://www.indexdata.org/an-bord-taighde-slainte-tuarascail-bhliantuil-2025/)** — `2026-10-19` | `48 Pages`
+- `[`IE-HRB-33226`]` **[HRB Public Review Form General](https://www.indexdata.org/hrb-public-review-form-general/)** — `2026-10-16` | `7 Pages`
+- `[`IE-HRB-33066`]` **[Evidence review on assitive technology](https://www.indexdata.org/evidence-review-on-assitive-technology/)** — `2026-10-05` | `249 Pages`
 
 ### [Marine Institute](https://www.indexdata.org/ireland/marine-institute/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/marine-institute/](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
@@ -146,19 +161,6 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/seanad-ireann/](
 - `[`IE-BILL-2026-60`]` **[Electoral (Amendment) (Voting Age) Bill 2026](https://www.indexdata.org/electoral-amendment-voting-age-bill-2026/)** — `2026-06-10` | `8 Pages`
 - `[`IE-BILL-2026-56`]` **[Prohibition of Lethal Autonomous Weapons Systems Bill 2026](https://www.indexdata.org/prohibition-of-lethal-autonomous-weapons-systems-bill-2026/)** — `2026-05-27` | `8 Pages`
 - `[`IE-BILL-2026-55`]` **[Air Navigation and Transport (Amendment) Bill 2026](https://www.indexdata.org/air-navigation-and-transport-amendment-bill-2026/)** — `2026-05-27` | `10 Pages`
-
-### [Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)
-Canonical Authority Archive: [https://www.indexdata.org/ireland/health-research-board-hrb/](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
-
-- `[`IE-HRB-33500`]` **[HRB FAQs OHAMR JTC2027](https://www.indexdata.org/hrb-faqs-ohamr-jtc2027/)** — `2026-11-18` | `6 Pages`
-- `[`IE-HRB-33479`]` **[HRB Evidence Review 10](https://www.indexdata.org/hrb-evidence-review-10/)** — `2026-11-16` | `162 Pages`
-- `[`IE-HRB-33353`]` **[RESSA Plain Language Summary of Findings and Recommendations](https://www.indexdata.org/ressa-plain-language-summary-of-findings-and-recommendations/)** — `2026-11-06` | `6 Pages`
-- `[`IE-HRB-33311`]` **[HRB ERA4Health JTC Budget Guidance 2027](https://www.indexdata.org/hrb-era4health-jtc-budget-guidance-2027/)** — `2026-10-30` | `6 Pages`
-- `[`IE-HRB-33292`]` **[Annual Report on the Activities of Irish Psychiatric Units and Hospitals 2025](https://www.indexdata.org/annual-report-on-the-activities-of-irish-psychiatric-units-and-hospitals-2025/)** — `2026-10-29` | `37 Pages`
-- `[`IE-HRB-33287`]` **[Drugnet 96](https://www.indexdata.org/drugnet-96/)** — `2026-10-28` | `52 Pages`
-- `[`IE-HRB-33250`]` **[An-Bord-Taighde-Slainte-Tuarascail-Bhliantuil-2025](https://www.indexdata.org/an-bord-taighde-slainte-tuarascail-bhliantuil-2025/)** — `2026-10-19` | `48 Pages`
-- `[`IE-HRB-33226`]` **[HRB Public Review Form General](https://www.indexdata.org/hrb-public-review-form-general/)** — `2026-10-16` | `7 Pages`
-- `[`IE-HRB-33066`]` **[Evidence review on assitive technology](https://www.indexdata.org/evidence-review-on-assitive-technology/)** — `2026-10-05` | `249 Pages`
 
 ### [Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
