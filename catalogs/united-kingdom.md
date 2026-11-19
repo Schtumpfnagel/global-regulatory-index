@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,161` across `94` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,164` across `95` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-19 07:55 UTC`
+**Last Automated Sync:** `2026-11-19 08:57 UTC`
 
 ---
 
-## Issuing Authorities in United Kingdom (94 Authorities)
+## Issuing Authorities in United Kingdom (95 Authorities)
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`298` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -64,6 +64,7 @@
 - **[Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
 - **[Teaching Regulation Agency](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/feed/)
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
+- **[Homes England](https://www.indexdata.org/united-kingdom/homes-england/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/homes-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/homes-england/feed/)
 - **[Companies House](https://www.indexdata.org/united-kingdom/companies-house/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/companies-house/) | [RSS Feed](https://www.indexdata.org/united-kingdom/companies-house/feed/)
 - **[Education and Skills Funding Agency](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/feed/)
 - **[Foreign, Commonwealth & Development Office](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/feed/)
@@ -110,7 +111,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,161)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,164)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -567,7 +568,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2026-718`]` **[The Access to the Countryside (Coastal Margin) (Bawdsey to Aldeburgh) Order 2026](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-bawdsey-to-aldeburgh-order-2026/)** — `2026-06-29` | `4 Pages`
 - `[`UKSI-2026-713`]` **[The Scotland Act 1998 (Increase of Borrowing Limits) Order 2026](https://www.indexdata.org/the-scotland-act-1998-increase-of-borrowing-limits-order-2026/)** — `2026-06-29` | `2 Pages`
 - `[`UKSI-2026-708`]` **[The Access to the Countryside (Coastal Margin) (Aldeburgh to Hopton-on-Sea) (No. 2) Order 2026](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-aldeburgh-to-hopton-on-sea-no-2-order-2026/)** — `2026-06-29` | `2 Pages`
-- `[`UKSI-2026-716`]` **[The Judicial Review and Courts Act 2022 (Commencement No. 7) Regulations 2026](https://www.indexdata.org/the-judicial-review-and-courts-act-2022-commencement-no-7-regulations-2026/)** — `2026-06-23` | `4 Pages`
 
 ### [Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
@@ -1221,7 +1221,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2026-744`]` **[The Criminal Legal Aid (Remuneration) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-criminal-legal-aid-remuneration-amendment-no-2-regulations-2026/)** — `2026-07-01` | `2 Pages`
 - `[`UKSI-2026-721`]` **[The Criminal Procedure (Amendment) (No. 2) Rules 2026](https://www.indexdata.org/the-criminal-procedure-amendment-no-2-rules-2026/)** — `2026-06-29` | `20 Pages`
 - `[`UKSI-2026-699`]` **[The Family Procedure (Amendment) Rules 2026](https://www.indexdata.org/the-family-procedure-amendment-rules-2026/)** — `2026-06-25` | `4 Pages`
-- `[`UKSI-2026-697`]` **[The Register of Judgments, Orders and Fines (Amendment and Transitional Provision) Regulations 2026](https://www.indexdata.org/the-register-of-judgments-orders-and-fines-amendment-and-transitional-provision-regulations-2026/)** — `2026-06-23` | `4 Pages`
 
 ### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
@@ -1251,7 +1250,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-835`]` **[The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026](https://www.indexdata.org/the-nuclear-safeguards-eu-exit-and-fees-amendment-regulations-2026/)** — `2026-07-09` | `48 Pages`
 - `[`UKSI-2026-786`]` **[The Civil Nuclear Constabulary (Barred List and Advisory List) Regulations 2026](https://www.indexdata.org/the-civil-nuclear-constabulary-barred-list-and-advisory-list-regulations-2026/)** — `2026-07-08` | `12 Pages`
 - `[`UKSI-2026-750`]` **[The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026](https://www.indexdata.org/the-ecodesign-for-energy-related-products-and-energy-information-amendment-regulations-2026/)** — `2026-07-03` | `8 Pages`
-- `[`UKSI-2026-701`]` **[The Energy Savings Opportunity Scheme (Amendment) Regulations 2026](https://www.indexdata.org/the-energy-savings-opportunity-scheme-amendment-regulations-2026/)** — `2026-06-23` | `16 Pages`
 
 ### [Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
@@ -1758,6 +1756,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/governmen
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-3`]` **[The Consultancy Playbook — Annex 1 - Definitions of Extended Workforce Services (PDF)](https://www.indexdata.org/the-consultancy-playbook-annex-1-definitions-of-extended-workforce-services-pdf/)** — `2026-11-06` | `11 Pages`
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-2`]` **[The Consultancy Playbook — Knowledge and Skills: Generation, Transfer and Sharing - Guidance Note (PDF)](https://www.indexdata.org/the-consultancy-playbook-knowledge-and-skills-generation-transfer-and-sharing-guidance-note-pdf/)** — `2026-11-06` | `22 Pages`
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-1`]` **[The Consultancy Playbook — The Consultancy Playbook (PDF)](https://www.indexdata.org/the-consultancy-playbook-the-consultancy-playbook-pdf/)** — `2026-11-06` | `56 Pages`
+
+### [Homes England](https://www.indexdata.org/united-kingdom/homes-england/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/homes-england/](https://www.indexdata.org/united-kingdom/homes-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/homes-england/feed/)
+
+- `[`UK-GOV-40b0aa0a-43cb-43e0-9d7b-0bcc45bca744-1`]` **[Legacy — Download a checklist to use when exploring stewardship of a garden community](https://www.indexdata.org/legacy-download-a-checklist-to-use-when-exploring-stewardship-of-a-garden-community/)** — `2026-11-19` | `4 Pages`
+- `[`UK-GOV-17828e0b-76c4-4125-8d6b-1954616795a0-2`]` **[Masterplanning and design — Download a garden community masterplan checklist](https://www.indexdata.org/masterplanning-and-design-download-a-garden-community-masterplan-checklist/)** — `2026-11-19` | `3 Pages`
+- `[`UK-GOV-17828e0b-76c4-4125-8d6b-1954616795a0-1`]` **[Masterplanning and design — Download information about the level of masterplan detail you can expect at each stage (PDF)](https://www.indexdata.org/masterplanning-and-design-download-information-about-the-level-of-masterplan-detail-you-can-expect-at-each-stage-pdf/)** — `2026-11-19` | `3 Pages`
 
 ### [Companies House](https://www.indexdata.org/united-kingdom/companies-house/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/companies-house/](https://www.indexdata.org/united-kingdom/companies-house/) | [RSS Feed](https://www.indexdata.org/united-kingdom/companies-house/feed/)

@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,015` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,016` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-19 07:55 UTC`
+**Last Automated Sync:** `2026-11-19 08:57 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,022` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`493` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,015)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,016)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1069,6 +1069,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-2026-334`]` **[Identical letters dated 16 April 2026 from the Permanent Representative of Iraq to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-334-identical-letters-dated-16-april-2026-from-the-permanent-representative-of-iraq-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-20` | `2 Pages`
 - `[`UN-S-2026-10-Add.16`]` **[Summary statement of matters of which the Security Council is seized and of the stage reached in their consideration — addendum](https://www.indexdata.org/s-2026-10-add-16-summary-statement-of-matters-of-which-the-security-council-is-seized-and-of-the-stage-reached-in-their-consideration-addendum/)** — `2026-04-20` | `2 Pages`
 - `[`UN-S-2026-336`]` **[Identical letters dated 17 April 2026 from the Permanent Representative of Kuwait to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-336-identical-letters-dated-17-april-2026-from-the-permanent-representative-of-kuwait-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-17` | `2 Pages`
 - `[`UN-S-2026-335`]` **[Identical letters dated 16 April 2026 from the Permanent Representative of Bahrain to the United Nations addressed to th](https://www.indexdata.org/s-2026-335-identical-letters-dated-16-april-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-th/)** — `2026-04-17` | `3 Pages`
@@ -1390,7 +1391,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-CN.6-2026-NGO-198`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-198-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-197`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-197-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-196`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-196-statement/)** — `2026-01-19` | `4 Pages`
-- `[`UN-E-CN.6-2026-NGO-195`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-195-statement/)** — `2026-01-19` | `3 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)

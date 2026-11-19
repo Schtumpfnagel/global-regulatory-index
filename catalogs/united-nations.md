@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,015` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,016` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-19 07:55 UTC`
+**Last Automated Sync:** `2026-11-19 08:57 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,021` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,022` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`493` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,015)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,016)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-AC.96-SR.788`]` **[Summary record of the 788th meeting, held at the Palais des Nations, Geneva, on Wednesday, 14 October 2026 — Executive Committee of the Programme of the United Nations High Commissioner for Refugees, 77th session](https://www.indexdata.org/a-ac-96-sr-788-summary-record-of-the-788th-meeting-held-at-the-palais-des-nations-geneva-on-wednesday-14-october-2026-executive-committee-of-the-programme-of-the-united-nations-high-co/)** — `2026-11-18` | `20 Pages`
 - `[`UN-A-HRC-63-SR.42`]` **[Summary record of the 42nd meeting, held at the Palais des Nations, Geneva, on Tuesday, 6 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-42-summary-record-of-the-42nd-meeting-held-at-the-palais-des-nations-geneva-on-tuesday-6-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `26 Pages`
 - `[`UN-A-HRC-63-SR.41`]` **[Summary record of the 41st meeting, held at the Palais des Nations, Geneva, on Tuesday, 6 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-41-summary-record-of-the-41st-meeting-held-at-the-palais-des-nations-geneva-on-tuesday-6-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `30 Pages`
 - `[`UN-A-HRC-63-SR.40`]` **[Summary record of the 40th meeting, held at the Palais des Nations, Geneva, on Monday, 5 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-40-summary-record-of-the-40th-meeting-held-at-the-palais-des-nations-geneva-on-monday-5-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `27 Pages`
@@ -1344,7 +1345,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 - `[`UN-S-2026-549`]` **[Letter dated 2 July 2026 from the Secretary-General addressed to the President of the Security Council](https://www.indexdata.org/s-2026-549-letter-dated-2-july-2026-from-the-secretary-general-addressed-to-the-president-of-the-security-council/)** — `2026-07-06` | `10 Pages`
 - `[`UN-S-2026-548`]` **[Identical letters dated 3 July 2026 from the Permanent Representative of Bahrain to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/s-2026-548-identical-letters-dated-3-july-2026-from-the-permanent-representative-of-bahrain-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-07-06` | `8 Pages`
 - `[`UN-S-2026-10-Add.27`]` **[Summary statement of matters of which the Security Council is seized and of the stage reached in their consideration — addendum](https://www.indexdata.org/s-2026-10-add-27-summary-statement-of-matters-of-which-the-security-council-is-seized-and-of-the-stage-reached-in-their-consideration-addendum/)** — `2026-07-06` | `4 Pages`
-- `[`UN-S-2026-545`]` **[Letter dated 1 July 2026 from the Permanent Representative of the Democratic Republic of the Congo to the United Nations addressed to the Secretary-General](https://www.indexdata.org/s-2026-545-letter-dated-1-july-2026-from-the-permanent-representative-of-the-democratic-republic-of-the-congo-to-the-united-nations-addressed-to-the-secretary-general/)** — `2026-07-02` | `4 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
