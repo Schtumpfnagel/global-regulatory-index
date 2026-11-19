@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,462` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,466` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-19 05:57 UTC`
+**Last Automated Sync:** `2026-11-19 06:55 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,497` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,501` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,042` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,462)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,466)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -631,6 +631,10 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-20150204_innovfin_sweden_bartels_en`]` **[EIB Policy Conference: 20150204 Innovfin Sweden Bartels](https://www.indexdata.org/eib-policy-conference-20150204-innovfin-sweden-bartels/)** — `2025-04-15` | `15 Pages`
 - `[`EIB-EVT-20150204_innovfin_finland_workshop_en`]` **[EIB Policy Conference: 20150204 Innovfin Finland Workshop](https://www.indexdata.org/eib-policy-conference-20150204-innovfin-finland-workshop/)** — `2025-04-15` | `24 Pages`
 - `[`EIB-EVT-2014_11_03_2nd_africa_finance_programme_en`]` **[EIB Policy Conference: 2014 11 03 2nd Africa Finance Programme](https://www.indexdata.org/eib-policy-conference-2014-11-03-2nd-africa-finance-programme/)** — `2025-04-15` | `4 Pages`
+- `[`EIB-EVT-2014_10_30_14th_femip_naples_programme_en`]` **[2014 10 30 14th FEMIP Naples Programme](https://www.indexdata.org/2014-10-30-14th-femip-naples-programme/)** — `2025-04-15` | `4 Pages`
+- `[`EIB-EVT-2014_10_30_14th_femip_naples_hoyer_en`]` **[2014 10 30 14th FEMIP Naples Hoyer](https://www.indexdata.org/2014-10-30-14th-femip-naples-hoyer/)** — `2025-04-15` | `8 Pages`
+- `[`EIB-EVT-2014_10_22_econ_conference_agenda_en`]` **[EIB Policy Conference: 2014 10 22 Econ Conference Agenda](https://www.indexdata.org/eib-policy-conference-2014-10-22-econ-conference-agenda/)** — `2025-04-15` | `2 Pages`
+- `[`EIB-EVT-2014_10_08_innovfin_netherlands_waasdorp_en`]` **[EIB Policy Conference: 2014 10 08 Innovfin Netherlands Waasdorp](https://www.indexdata.org/eib-policy-conference-2014-10-08-innovfin-netherlands-waasdorp/)** — `2025-04-15` | `13 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1546,10 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EFS-economics_working_paper_2017_03_en`]` **[EIB Economics Study: Economics Working Paper 2017 03](https://www.indexdata.org/eib-economics-study-economics-working-paper-2017-03/)** — `2025-04-14` | `36 Pages`
 - `[`EIB-EFS-economics_working_paper_2017_02_en`]` **[EIB Economics Study: Economics Working Paper 2017 02](https://www.indexdata.org/eib-economics-study-economics-working-paper-2017-02/)** — `2025-04-14` | `60 Pages`
 - `[`EIB-EFS-economics_working_paper_2017_01_en`]` **[EIB Economics Study: Economics Working Paper 2017 01](https://www.indexdata.org/eib-economics-study-economics-working-paper-2017-01/)** — `2025-04-14` | `24 Pages`
-- `[`EIB-EFS-economics_working_paper_2016_08_en`]` **[EIB Economics Study: Economics Working Paper 2016 08](https://www.indexdata.org/eib-economics-study-economics-working-paper-2016-08/)** — `2025-04-14` | `60 Pages`
-- `[`EIB-EFS-economics_working_paper_2016_07_en`]` **[EIB Economics Study: Economics Working Paper 2016 07](https://www.indexdata.org/eib-economics-study-economics-working-paper-2016-07/)** — `2025-04-14` | `40 Pages`
-- `[`EIB-EFS-economics_working_paper_2016_06_en`]` **[EIB Economics Study: Economics Working Paper 2016 06](https://www.indexdata.org/eib-economics-study-economics-working-paper-2016-06/)** — `2025-04-14` | `42 Pages`
-- `[`EIB-EFS-economics_working_paper_2016_05_en`]` **[EIB Economics Study: Economics Working Paper 2016 05](https://www.indexdata.org/eib-economics-study-economics-working-paper-2016-05/)** — `2025-04-14` | `40 Pages`
 
 ---
 
