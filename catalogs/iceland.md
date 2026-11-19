@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q189`](https://www.wikidata.org/wiki/Q189)  
 **Governing Open-Government Framework:** *Open Government / Statutory Public Sector Reuse Framework*  
 **Total Indexed Dossiers in Iceland:** `17` across `4` issuing authorities  
-**Last Automated Sync:** `2026-11-19 02:56 UTC`
+**Last Automated Sync:** `2026-11-19 03:03 UTC`
 
 ---
 
