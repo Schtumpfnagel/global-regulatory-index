@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,556` across `244` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,557` across `244` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-19 21:08 UTC`
+**Last Automated Sync:** `2026-11-20 02:47 UTC`
 
 ---
 
@@ -163,6 +163,7 @@
 - **[Inspector General Office, Health and Human Services Department](https://www.indexdata.org/united-states/inspector-general-office-health-and-human-services-department/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/inspector-general-office-health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/inspector-general-office-health-and-human-services-department/feed/)
 - **[National Transportation Safety Board](https://www.indexdata.org/united-states/national-transportation-safety-board/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-transportation-safety-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-transportation-safety-board/feed/)
 - **[Selective Service System](https://www.indexdata.org/united-states/selective-service-system/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/selective-service-system/) | [RSS Feed](https://www.indexdata.org/united-states/selective-service-system/feed/)
+- **[U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
 - **[Workers' Compensation Programs Office](https://www.indexdata.org/united-states/workers-compensation-programs-office/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/workers-compensation-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/workers-compensation-programs-office/feed/)
 - **[Defense Nuclear Facilities Safety Board](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/) | [RSS Feed](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/feed/)
 - **[Labor-Management Standards Office](https://www.indexdata.org/united-states/labor-management-standards-office/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/labor-management-standards-office/) | [RSS Feed](https://www.indexdata.org/united-states/labor-management-standards-office/feed/)
@@ -171,7 +172,6 @@
 - **[National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
 - **[National Park Service (NPS)](https://www.indexdata.org/united-states/national-park-service-nps/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service-nps/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service-nps/feed/)
 - **[State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)
-- **[U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
 - **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Indian Health Service](https://www.indexdata.org/united-states/indian-health-service/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-health-service/) | [RSS Feed](https://www.indexdata.org/united-states/indian-health-service/feed/)
 - **[National Institute of Standards and Technology](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/feed/)
@@ -260,7 +260,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,556)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,557)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1108,6 +1108,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 
+- `[`US-CPRT-119HPRT62660`]` **[House Committee Print 119-3 - NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2026](https://www.indexdata.org/house-committee-print-119-3-national-defense-authorization-act-for-fiscal-year-2026/)** — `2026-09-24` | `948 Pages`
 - `[`US-CDOC-119hdoc191`]` **[H. Doc. 119-191 - AN AGREEMENT OF COOPERATION BETWEEN THE GOVERNMENT OF THE UNITED STATES AND THE GOVERNMENT OF THE KINGDOM OF SAUDI ARABIA](https://www.indexdata.org/h-doc-119-191-an-agreement-of-cooperation-between-the-government-of-the-united-states-and-the-government-of-the-kingdom-of-saudi-arabia/)** — `2026-09-24` | `72 Pages`
 - `[`US-CDOC-119hdoc188`]` **[H. Doc. 119-188 - AGREEMENT BETWEEN THE PARTIES TO THE NORTH ATLANTIC TREATY FOR CO- OPERATION REGARDING ATOMIC INFORMATION](https://www.indexdata.org/h-doc-119-188-agreement-between-the-parties-to-the-north-atlantic-treaty-for-co-operation-regarding-atomic-information/)** — `2026-09-24` | `71 Pages`
 - `[`US-CDOC-119hdoc187`]` **[H. Doc. 119-187 - Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components Into the United States](https://www.indexdata.org/h-doc-119-187-adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/)** — `2026-09-24` | `20 Pages`
@@ -1431,7 +1432,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2026-11770`]` **[Uniform Procedures for State Highway Safety Grant Programs](https://www.indexdata.org/uniform-procedures-for-state-highway-safety-grant-programs/)** — `2026-06-11` | `7 Pages`
 - `[`2026-11082`]` **[Federal Motor Vehicle Safety Standards No. 205; Glazing Materials; No. 205(a), Glazing Equipment Manufactured Before September 1, 2006, and Glazing Materials Used in Vehicles Manufactured Before November 1, 2006](https://www.indexdata.org/federal-motor-vehicle-safety-standards-no-205-glazing-materials-no-205a-glazing-equipment-manufactured-before-september-1-2006-and-glazing-materials-used-in-vehicles-manufactured-before-novem/)** — `2026-06-03` | `5 Pages`
 - `[`2026-11081`]` **[Federal Motor Vehicle Safety Standards No. 210; Seat Belt Assembly Anchorages](https://www.indexdata.org/federal-motor-vehicle-safety-standards-no-210-seat-belt-assembly-anchorages/)** — `2026-06-03` | `4 Pages`
-- `[`2026-11080`]` **[Federal Motor Vehicle Safety Standards No. 204; Steering Control Rearward Displacement](https://www.indexdata.org/federal-motor-vehicle-safety-standards-no-204-steering-control-rearward-displacement/)** — `2026-06-03` | `4 Pages`
 
 ### [State Department](https://www.indexdata.org/united-states/state-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)

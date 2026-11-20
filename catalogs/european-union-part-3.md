@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,486` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,489` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-19 21:08 UTC`
+**Last Automated Sync:** `2026-11-20 02:47 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,517` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,520` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,046` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,486)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,489)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -655,6 +655,9 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-2014_03_12_luxembourg_sme_financing_enca_olbers_en`]` **[EIB Policy Conference: 2014 03 12 Luxembourg SME Financing Enca Olbers](https://www.indexdata.org/eib-policy-conference-2014-03-12-luxembourg-sme-financing-enca-olbers/)** — `2025-04-15` | `13 Pages`
 - `[`EIB-EVT-2014_03_12_luxembourg_sme_financing_enca_hauser_en`]` **[EIB Policy Conference: 2014 03 12 Luxembourg SME Financing Enca Hauser](https://www.indexdata.org/eib-policy-conference-2014-03-12-luxembourg-sme-financing-enca-hauser/)** — `2025-04-15` | `8 Pages`
 - `[`EIB-EVT-2014_03_12_luxembourg_sme_financing_enca_godemann_en`]` **[EIB Policy Conference: 2014 03 12 Luxembourg SME Financing Enca Godemann](https://www.indexdata.org/eib-policy-conference-2014-03-12-luxembourg-sme-financing-enca-godemann/)** — `2025-04-15` | `5 Pages`
+- `[`EIB-EVT-2014_03_12_luxembourg_sme_financing_enca_deuber_en`]` **[EIB Policy Conference: 2014 03 12 Luxembourg SME Financing Enca Deuber](https://www.indexdata.org/eib-policy-conference-2014-03-12-luxembourg-sme-financing-enca-deuber/)** — `2025-04-15` | `15 Pages`
+- `[`EIB-EVT-2014_03_10_investment_in_europe_molterer_revoltella_en`]` **[EIB Policy Conference: 2014 03 10 Investment in Europe Molterer Revoltella](https://www.indexdata.org/eib-policy-conference-2014-03-10-investment-in-europe-molterer-revoltella/)** — `2025-04-15` | `35 Pages`
+- `[`EIB-EVT-2014_03_10_investment_in_europe_grunwald_en`]` **[EIB Policy Conference: 2014 03 10 Investment in Europe Grunwald](https://www.indexdata.org/eib-policy-conference-2014-03-10-investment-in-europe-grunwald/)** — `2025-04-15` | `9 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1547,9 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EFS-economics_working_paper_2020_04_en`]` **[EIB Economics Study: Economics Working Paper 2020 04](https://www.indexdata.org/eib-economics-study-economics-working-paper-2020-04/)** — `2025-04-14` | `50 Pages`
 - `[`EIB-EFS-economics_working_paper_2020_03_en`]` **[EIB Economics Study: Economics Working Paper 2020 03](https://www.indexdata.org/eib-economics-study-economics-working-paper-2020-03/)** — `2025-04-14` | `50 Pages`
 - `[`EIB-EFS-economics_working_paper_2020_02_en`]` **[EIB Economics Study: Economics Working Paper 2020 02](https://www.indexdata.org/eib-economics-study-economics-working-paper-2020-02/)** — `2025-04-14` | `42 Pages`
-- `[`EIB-EFS-economics_working_paper_2020_01_en`]` **[EIB Economics Study: Economics Working Paper 2020 01](https://www.indexdata.org/eib-economics-study-economics-working-paper-2020-01/)** — `2025-04-14` | `24 Pages`
-- `[`EIB-EFS-economics_working_paper_2019_11_en`]` **[EIB Economics Study: Economics Working Paper 2019 11](https://www.indexdata.org/eib-economics-study-economics-working-paper-2019-11/)** — `2025-04-14` | `70 Pages`
-- `[`EIB-EFS-economics_working_paper_2019_10_en`]` **[EIB Economics Study: Economics Working Paper 2019 10](https://www.indexdata.org/eib-economics-study-economics-working-paper-2019-10/)** — `2025-04-14` | `40 Pages`
 
 ---
 

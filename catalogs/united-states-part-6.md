@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,556` across `244` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,557` across `244` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-19 21:08 UTC`
+**Last Automated Sync:** `2026-11-20 02:47 UTC`
 
 ---
 
@@ -163,6 +163,7 @@
 - **[Inspector General Office, Health and Human Services Department](https://www.indexdata.org/united-states/inspector-general-office-health-and-human-services-department/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/inspector-general-office-health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/inspector-general-office-health-and-human-services-department/feed/)
 - **[National Transportation Safety Board](https://www.indexdata.org/united-states/national-transportation-safety-board/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-transportation-safety-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-transportation-safety-board/feed/)
 - **[Selective Service System](https://www.indexdata.org/united-states/selective-service-system/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/selective-service-system/) | [RSS Feed](https://www.indexdata.org/united-states/selective-service-system/feed/)
+- **[U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
 - **[Workers' Compensation Programs Office](https://www.indexdata.org/united-states/workers-compensation-programs-office/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/workers-compensation-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/workers-compensation-programs-office/feed/)
 - **[Defense Nuclear Facilities Safety Board](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/) | [RSS Feed](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/feed/)
 - **[Labor-Management Standards Office](https://www.indexdata.org/united-states/labor-management-standards-office/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/labor-management-standards-office/) | [RSS Feed](https://www.indexdata.org/united-states/labor-management-standards-office/feed/)
@@ -171,7 +172,6 @@
 - **[National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
 - **[National Park Service (NPS)](https://www.indexdata.org/united-states/national-park-service-nps/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service-nps/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service-nps/feed/)
 - **[State of Hawaii — Hawaii Invasive Species Council](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-hawaii-invasive-species-council/feed/)
-- **[U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
 - **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Indian Health Service](https://www.indexdata.org/united-states/indian-health-service/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/indian-health-service/) | [RSS Feed](https://www.indexdata.org/united-states/indian-health-service/feed/)
 - **[National Institute of Standards and Technology](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/feed/)
@@ -260,7 +260,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,556)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,557)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1789,16 +1789,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-n
 - `[`2024-26845`]` **[Supplemental Nutrition Assistance Program: Standardization of State Heating and Cooling Standard Utility Allowances](https://www.indexdata.org/supplemental-nutrition-assistance-program-standardization-of-state-heating-and-cooling-standard-utility-allowances/)** — `2024-11-18` | `48 Pages`
 - `[`2024-26809`]` **[Supplemental Nutrition Assistance Program (SNAP): Employment and Training Program Monitoring, Oversight and Reporting Measures](https://www.indexdata.org/supplemental-nutrition-assistance-program-snap-employment-and-training-program-monitoring-oversight-and-reporting-measures/)** — `2024-11-18` | `23 Pages`
 
-### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
-
-- `[`2025-01073`]` **[Onshore Oil and Gas Operations and Coal Trespass-Annual Civil Penalties Inflation Adjustments](https://www.indexdata.org/onshore-oil-and-gas-operations-and-coal-trespass-annual-civil-penalties-inflation-adjustments/)** — `2025-01-17` | `4 Pages`
-- `[`2024-30400`]` **[Rights-of-Way, Leasing, and Operations for Renewable Energy; Technical Corrections](https://www.indexdata.org/rights-of-way-leasing-and-operations-for-renewable-energy-technical-corrections/)** — `2024-12-26` | `2 Pages`
-- `[`2024-30218`]` **[Final Supplementary Rule for Public Lands in the Colorado River Valley, Grand Junction and Kremmling Field Offices, and the Dominguez-Escalante National Conservation Area, CO](https://www.indexdata.org/final-supplementary-rule-for-public-lands-in-the-colorado-river-valley-grand-junction-and-kremmling-field-offices-and-the-dominguez-escalante-national-conservation-area-co/)** — `2024-12-19` | `10 Pages`
-- `[`2024-30059`]` **[Notice of Final Supplementary Rule for Public Lands Administered by the Tres Rios Field Office in Archuleta, La Plata, Montezuma, Dolores, San Miguel, and Montrose Counties, and by the Gunnison Field Office in Gunnison, Ouray, San Juan, and Hinsdale Counties, Colorado](https://www.indexdata.org/notice-of-final-supplementary-rule-for-public-lands-administered-by-the-tres-rios-field-office-in-archuleta-la-plata-montezuma-dolores-san-miguel-and-montrose-counties-and-by-the-gunnison-field/)** — `2024-12-19` | `6 Pages`
-- `[`2024-27333`]` **[Waste Prevention, Production Subject to Royalties, and Resource Conservation](https://www.indexdata.org/waste-prevention-production-subject-to-royalties-and-resource-conservation/)** — `2024-11-22` | `5 Pages`
-- `[`2024-26396`]` **[Notice of Final Supplementary Rule for Canyons of the Ancients National Monument in Dolores and Montezuma Counties, CO](https://www.indexdata.org/notice-of-final-supplementary-rule-for-canyons-of-the-ancients-national-monument-in-dolores-and-montezuma-counties-co/)** — `2024-11-14` | `5 Pages`
-
 ### [Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
 
@@ -1826,6 +1816,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internatio
 - `[`2024-30257`]` **[Modernizing the Annexes of the Antidumping and Countervailing Duty Trade Remedy Regulations](https://www.indexdata.org/modernizing-the-annexes-of-the-antidumping-and-countervailing-duty-trade-remedy-regulations/)** — `2024-12-19` | `9 Pages`
 - `[`2024-29245`]` **[Regulations Enhancing the Administration of the Antidumping and Countervailing Duty Trade Remedy Laws](https://www.indexdata.org/regulations-enhancing-the-administration-of-the-antidumping-and-countervailing-duty-trade-remedy-laws/)** — `2024-12-16` | `76 Pages`
 - `[`2024-29091`]` **[Procedures and Rules for Article 10.12 of the United States-Mexico-Canada Agreement; Correction](https://www.indexdata.org/procedures-and-rules-for-article-10-12-of-the-united-states-mexico-canada-agreement-correction/)** — `2024-12-12` | `2 Pages`
+
+### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
+
+- `[`2025-01073`]` **[Onshore Oil and Gas Operations and Coal Trespass-Annual Civil Penalties Inflation Adjustments](https://www.indexdata.org/onshore-oil-and-gas-operations-and-coal-trespass-annual-civil-penalties-inflation-adjustments/)** — `2025-01-17` | `4 Pages`
+- `[`2024-30400`]` **[Rights-of-Way, Leasing, and Operations for Renewable Energy; Technical Corrections](https://www.indexdata.org/rights-of-way-leasing-and-operations-for-renewable-energy-technical-corrections/)** — `2024-12-26` | `2 Pages`
+- `[`2024-30218`]` **[Final Supplementary Rule for Public Lands in the Colorado River Valley, Grand Junction and Kremmling Field Offices, and the Dominguez-Escalante National Conservation Area, CO](https://www.indexdata.org/final-supplementary-rule-for-public-lands-in-the-colorado-river-valley-grand-junction-and-kremmling-field-offices-and-the-dominguez-escalante-national-conservation-area-co/)** — `2024-12-19` | `10 Pages`
+- `[`2024-30059`]` **[Notice of Final Supplementary Rule for Public Lands Administered by the Tres Rios Field Office in Archuleta, La Plata, Montezuma, Dolores, San Miguel, and Montrose Counties, and by the Gunnison Field Office in Gunnison, Ouray, San Juan, and Hinsdale Counties, Colorado](https://www.indexdata.org/notice-of-final-supplementary-rule-for-public-lands-administered-by-the-tres-rios-field-office-in-archuleta-la-plata-montezuma-dolores-san-miguel-and-montrose-counties-and-by-the-gunnison-field/)** — `2024-12-19` | `6 Pages`
+- `[`2024-27333`]` **[Waste Prevention, Production Subject to Royalties, and Resource Conservation](https://www.indexdata.org/waste-prevention-production-subject-to-royalties-and-resource-conservation/)** — `2024-11-22` | `5 Pages`
 
 ### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
@@ -1962,6 +1961,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/social-sec
 - `[`2024-30593`]` **[Use of Electronic Payroll Data To Improve Program Administration](https://www.indexdata.org/use-of-electronic-payroll-data-to-improve-program-administration/)** — `2024-12-31` | `26 Pages`
 - `[`2024-29647`]` **[Availability of Information and Records to the Public](https://www.indexdata.org/availability-of-information-and-records-to-the-public/)** — `2024-12-18` | `18 Pages`
 
+### [Transportation Department](https://www.indexdata.org/united-states/transportation-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/transportation-department/](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
+
+- `[`2025-05557`]` **[Ensuring Lawful Regulation; Reducing Regulation and Controlling Regulatory Costs](https://www.indexdata.org/ensuring-lawful-regulation-reducing-regulation-and-controlling-regulatory-costs/)** — `2025-04-03` | `3 Pages`
+- `[`2025-02814`]` **[Periodic Revisions to Denied Boarding Compensation and Domestic Baggage Liability Limits](https://www.indexdata.org/periodic-revisions-to-denied-boarding-compensation-and-domestic-baggage-liability-limits/)** — `2025-02-20` | `2 Pages`
+- `[`2025-02811`]` **[Transportation for Individuals With Disabilities; Adoption of Accessibility Standards for Pedestrian Facilities in the Public Right-of-Way](https://www.indexdata.org/transportation-for-individuals-with-disabilities-adoption-of-accessibility-standards-for-pedestrian-facilities-in-the-public-right-of-way/)** — `2025-02-19` | `2 Pages`
+
 ### [Commerce Department](https://www.indexdata.org/united-states/commerce-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commerce-department/](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
 
@@ -2057,12 +2063,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 
 - `[`2025-00073`]` **[Pipeline Safety: Safety of Gas Transmission Pipelines: Repair Criteria, Integrity Management Improvements, Cathodic Protection, Management of Change, and Other Related Amendments: Corrections To Conform to Judicial Review](https://www.indexdata.org/pipeline-safety-safety-of-gas-transmission-pipelines-repair-criteria-integrity-management-improvements-cathodic-protection-management-of-change-and-other-related-amendments-corrections-to-confo/)** — `2025-01-15` | `4 Pages`
 - `[`2024-31077`]` **[Hazardous Materials: Advancing Safety of Highway, Rail, and Vessel Transportation; Extension of Comment Period](https://www.indexdata.org/hazardous-materials-advancing-safety-of-highway-rail-and-vessel-transportation-extension-of-comment-period/)** — `2025-01-08` | `2 Pages`
-
-### [Transportation Department](https://www.indexdata.org/united-states/transportation-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/transportation-department/](https://www.indexdata.org/united-states/transportation-department/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-department/feed/)
-
-- `[`2025-02814`]` **[Periodic Revisions to Denied Boarding Compensation and Domestic Baggage Liability Limits](https://www.indexdata.org/periodic-revisions-to-denied-boarding-compensation-and-domestic-baggage-liability-limits/)** — `2025-02-20` | `2 Pages`
-- `[`2025-02811`]` **[Transportation for Individuals With Disabilities; Adoption of Accessibility Standards for Pedestrian Facilities in the Public Right-of-Way](https://www.indexdata.org/transportation-for-individuals-with-disabilities-adoption-of-accessibility-standards-for-pedestrian-facilities-in-the-public-right-of-way/)** — `2025-02-19` | `2 Pages`
 
 ### [Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/transportation-security-administration/](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
