@@ -5,21 +5,21 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `451` across `12` issuing authorities  
-**Last Automated Sync:** `2026-11-20 02:47 UTC`
+**Total Indexed Dossiers in Philippines:** `460` across `12` issuing authorities  
+**Last Automated Sync:** `2026-11-20 10:44 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (12 Authorities)
 
-- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`145` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
+- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`149` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
+- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
-- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
-- **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
+- **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 - **[Food and Nutrition Research Institute](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/feed/)
 - **[Philippine Rice Research Institute](https://www.indexdata.org/philippines/philippine-rice-research-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-rice-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-rice-research-institute/feed/)
@@ -27,11 +27,15 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–451 of 451)
+## Indexed Statutory & Regulatory Dossiers (Records 1–460 of 460)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 
+- `[`PH-DA-114282`]` **[so1631 s2026](https://www.indexdata.org/so1631-s2026/)** — `2026-11-20` | `10 Pages`
+- `[`PH-DA-114281`]` **[so1630 s2026](https://www.indexdata.org/so1630-s2026/)** — `2026-11-20` | `2 Pages`
+- `[`PH-DA-114280`]` **[so1629 s2026](https://www.indexdata.org/so1629-s2026/)** — `2026-11-20` | `3 Pages`
+- `[`PH-DA-114279`]` **[so1628 s2026](https://www.indexdata.org/so1628-s2026/)** — `2026-11-20` | `5 Pages`
 - `[`PH-DA-114251`]` **[Daily Cigarette Price Monitoring November 19, 2026](https://www.indexdata.org/daily-cigarette-price-monitoring-november-19-2026/)** — `2026-11-20` | `15 Pages`
 - `[`PH-DA-114247`]` **[November-19-2026-Cigarette-Prevailing-Retail-Prices-in-NCR](https://www.indexdata.org/november-19-2026-cigarette-prevailing-retail-prices-in-ncr/)** — `2026-11-19` | `15 Pages`
 - `[`PH-DA-114245`]` **[Daily Price Index November 19, 2026](https://www.indexdata.org/daily-price-index-november-19-2026/)** — `2026-11-19` | `12 Pages`
@@ -375,6 +379,52 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-inv
 - `[`PH-BOI-20107`]` **[IIPS BOI Endorsement to SEC for Establishment of RHQ ROHQ or Conversion of RHQ to ROHQ](https://www.indexdata.org/iips-boi-endorsement-to-sec-for-establishment-of-rhq-rohq-or-conversion-of-rhq-to-rohq/)** — `2026-06-05` | `3 Pages`
 - `[`PH-BOI-20105`]` **[IDS Application for Registration under RA 11534 as amended by RA 12066 and Book 1 of Executive Order No 226](https://www.indexdata.org/ids-application-for-registration-under-ra-11534-as-amended-by-ra-12066-and-book-1-of-executive-order-no-226/)** — `2026-06-05` | `9 Pages`
 
+### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
+
+- `[`PH-FDA-123999`]` **[ODG-IOIII (2)](https://www.indexdata.org/odg-ioiii-2/)** — `2026-11-20` | `3 Pages`
+- `[`PH-FDA-123998`]` **[ODG-ATTYIV](https://www.indexdata.org/odg-attyiv/)** — `2026-11-20` | `3 Pages`
+- `[`PH-FDA-123997`]` **[Draft Joint Circular](https://www.indexdata.org/draft-joint-circular/)** — `2026-11-20` | `38 Pages`
+- `[`PH-FDA-123984`]` **[ACM 006 – ENUMERATION OF TOTAL AEROBIC MESOPHILIC MICROORGANISMS (BACTERIA, YEAST AND MOULDS)](https://www.indexdata.org/acm-006-enumeration-of-total-aerobic-mesophilic-microorganisms-bacteria-yeast-and-moulds/)** — `2026-11-20` | `16 Pages`
+- `[`PH-FDA-123980`]` **[ACM 013 – IDENTIFICATION AND DETERMINATION OF ISOPROPYLPARABEN AND ISOBUTYLPARABEN IN COSMETIC PRODUCTS BY HPLC](https://www.indexdata.org/acm-013-identification-and-determination-of-isopropylparaben-and-isobutylparaben-in-cosmetic-products-by-hplc/)** — `2026-11-20` | `5 Pages`
+- `[`PH-FDA-123976`]` **[ACM 008 – EVALUATION OF THE ANTIMICROBIAL PROTECTION OF A COSMETIC PRODUCT](https://www.indexdata.org/acm-008-evaluation-of-the-antimicrobial-protection-of-a-cosmetic-product/)** — `2026-11-20` | `7 Pages`
+- `[`PH-FDA-123654`]` **[FDAC-IO2](https://www.indexdata.org/fdac-io2/)** — `2026-11-12` | `3 Pages`
+- `[`PH-FDA-123524`]` **[LSSC-AA VI](https://www.indexdata.org/lssc-aa-vi/)** — `2026-11-12` | `3 Pages`
+- `[`PH-FDA-123523`]` **[FDAC-IO1](https://www.indexdata.org/fdac-io1/)** — `2026-11-12` | `3 Pages`
+- `[`PH-FDA-123519`]` **[DSN V4 I3 July 2026 (2)](https://www.indexdata.org/dsn-v4-i3-july-2026-2/)** — `2026-11-12` | `4 Pages`
+- `[`PH-FDA-123506`]` **[DSN V4 I3 July 2026 (1)](https://www.indexdata.org/dsn-v4-i3-july-2026-1/)** — `2026-11-12` | `4 Pages`
+- `[`PH-FDA-123463`]` **[DSN V4 I4 October 2026](https://www.indexdata.org/dsn-v4-i4-october-2026/)** — `2026-11-12` | `4 Pages`
+- `[`PH-FDA-123462`]` **[DSN V4 I3 July 2026](https://www.indexdata.org/dsn-v4-i3-july-2026/)** — `2026-11-12` | `4 Pages`
+- `[`PH-FDA-123454`]` **[CDRR – FDRO I (PRSDD)](https://www.indexdata.org/cdrr-fdro-i-prsdd-2/)** — `2026-11-10` | `3 Pages`
+- `[`PH-FDA-123279`]` **[AFO-PLMD-ADA3](https://www.indexdata.org/afo-plmd-ada3/)** — `2026-11-06` | `3 Pages`
+- `[`PH-FDA-123273`]` **[2025 PV Annual Report](https://www.indexdata.org/2025-pv-annual-report/)** — `2026-11-05` | `21 Pages`
+- `[`PH-FDA-123192`]` **[TS2-HRDD](https://www.indexdata.org/ts2-hrdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123191`]` **[DDG AFO – PO II](https://www.indexdata.org/ddg-afo-po-ii/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123190`]` **[CDRR – MO III (PRSDD)](https://www.indexdata.org/cdrr-mo-iii-prsdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123189`]` **[CDRR – FDRO IV (LRD)](https://www.indexdata.org/cdrr-fdro-iv-lrd/)** — `2026-11-04` | `4 Pages`
+- `[`PH-FDA-123188`]` **[CDRR – FDRO II (LRD)](https://www.indexdata.org/cdrr-fdro-ii-lrd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123187`]` **[CDRR – FDRO I (PRSDD)](https://www.indexdata.org/cdrr-fdro-i-prsdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123186`]` **[CDRR – FDRO I (LRD)](https://www.indexdata.org/cdrr-fdro-i-lrd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123185`]` **[AO4-HRDD](https://www.indexdata.org/ao4-hrdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123184`]` **[AO2-HRDD](https://www.indexdata.org/ao2-hrdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123183`]` **[ADAS2-AFMD](https://www.indexdata.org/adas2-afmd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123182`]` **[ADAS1-HRDD](https://www.indexdata.org/adas1-hrdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123181`]` **[ADA5-CARPENTER2-PLMD](https://www.indexdata.org/ada5-carpenter2-plmd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123180`]` **[ADA4-PLMD](https://www.indexdata.org/ada4-plmd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123179`]` **[ADA3-PLMD](https://www.indexdata.org/ada3-plmd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123178`]` **[ADA3-HRDD](https://www.indexdata.org/ada3-hrdd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123177`]` **[ADA1-PLMD](https://www.indexdata.org/ada1-plmd/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123176`]` **[ADA1-PLMD](https://www.indexdata.org/ada1-plmd-2/)** — `2026-11-04` | `3 Pages`
+- `[`PH-FDA-123023`]` **[FO-PD-AO2(1)](https://www.indexdata.org/fo-pd-ao21/)** — `2026-11-03` | `3 Pages`
+- `[`PH-FDA-123022`]` **[AFO-PLMD-ENG.2](https://www.indexdata.org/afo-plmd-eng-2/)** — `2026-11-03` | `3 Pages`
+- `[`PH-FDA-123021`]` **[AFO-PLMD-AO2(1)](https://www.indexdata.org/afo-plmd-ao21/)** — `2026-11-03` | `3 Pages`
+- `[`PH-FDA-123020`]` **[AFO-HRDD-AO2(2)](https://www.indexdata.org/afo-hrdd-ao22/)** — `2026-11-03` | `3 Pages`
+- `[`PH-FDA-123019`]` **[AFO-COA-AA6](https://www.indexdata.org/afo-coa-aa6/)** — `2026-11-03` | `3 Pages`
+- `[`PH-FDA-123018`]` **[AFO-AFMD-CASHIER-AO2(2)](https://www.indexdata.org/afo-afmd-cashier-ao22/)** — `2026-11-03` | `3 Pages`
+- `[`PH-FDA-123017`]` **[AFO-AFMD-ACCNTG-AO2(2)](https://www.indexdata.org/afo-afmd-accntg-ao22/)** — `2026-11-03` | `3 Pages`
+- `[`PH-FDA-123008`]` **[Draft Administraive Order for comments](https://www.indexdata.org/draft-administraive-order-for-comments/)** — `2026-11-03` | `12 Pages`
+- `[`PH-FDA-122967`]` **[ITB NO. 2026-0105-AFO SBB No. 3](https://www.indexdata.org/itb-no-2026-0105-afo-sbb-no-3/)** — `2026-10-30` | `2 Pages`
+
 ### [Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-development-authority/](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 
@@ -419,49 +469,6 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-
 - `[`PH-CDA-69906`]` **[Table](https://www.indexdata.org/table/)** — `2026-08-03` | `2 Pages`
 - `[`PH-CDA-69871`]` **[MIMAROPA NGPA APP 2026 Revised No. 1](https://www.indexdata.org/mimaropa-ngpa-app-2026-revised-no-1/)** — `2026-07-31` | `2 Pages`
 
-### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
-
-- `[`PH-FDA-123984`]` **[ACM 006 – ENUMERATION OF TOTAL AEROBIC MESOPHILIC MICROORGANISMS (BACTERIA, YEAST AND MOULDS)](https://www.indexdata.org/acm-006-enumeration-of-total-aerobic-mesophilic-microorganisms-bacteria-yeast-and-moulds/)** — `2026-11-20` | `16 Pages`
-- `[`PH-FDA-123980`]` **[ACM 013 – IDENTIFICATION AND DETERMINATION OF ISOPROPYLPARABEN AND ISOBUTYLPARABEN IN COSMETIC PRODUCTS BY HPLC](https://www.indexdata.org/acm-013-identification-and-determination-of-isopropylparaben-and-isobutylparaben-in-cosmetic-products-by-hplc/)** — `2026-11-20` | `5 Pages`
-- `[`PH-FDA-123976`]` **[ACM 008 – EVALUATION OF THE ANTIMICROBIAL PROTECTION OF A COSMETIC PRODUCT](https://www.indexdata.org/acm-008-evaluation-of-the-antimicrobial-protection-of-a-cosmetic-product/)** — `2026-11-20` | `7 Pages`
-- `[`PH-FDA-123654`]` **[FDAC-IO2](https://www.indexdata.org/fdac-io2/)** — `2026-11-12` | `3 Pages`
-- `[`PH-FDA-123524`]` **[LSSC-AA VI](https://www.indexdata.org/lssc-aa-vi/)** — `2026-11-12` | `3 Pages`
-- `[`PH-FDA-123523`]` **[FDAC-IO1](https://www.indexdata.org/fdac-io1/)** — `2026-11-12` | `3 Pages`
-- `[`PH-FDA-123519`]` **[DSN V4 I3 July 2026 (2)](https://www.indexdata.org/dsn-v4-i3-july-2026-2/)** — `2026-11-12` | `4 Pages`
-- `[`PH-FDA-123506`]` **[DSN V4 I3 July 2026 (1)](https://www.indexdata.org/dsn-v4-i3-july-2026-1/)** — `2026-11-12` | `4 Pages`
-- `[`PH-FDA-123463`]` **[DSN V4 I4 October 2026](https://www.indexdata.org/dsn-v4-i4-october-2026/)** — `2026-11-12` | `4 Pages`
-- `[`PH-FDA-123462`]` **[DSN V4 I3 July 2026](https://www.indexdata.org/dsn-v4-i3-july-2026/)** — `2026-11-12` | `4 Pages`
-- `[`PH-FDA-123454`]` **[CDRR – FDRO I (PRSDD)](https://www.indexdata.org/cdrr-fdro-i-prsdd-2/)** — `2026-11-10` | `3 Pages`
-- `[`PH-FDA-123279`]` **[AFO-PLMD-ADA3](https://www.indexdata.org/afo-plmd-ada3/)** — `2026-11-06` | `3 Pages`
-- `[`PH-FDA-123273`]` **[2025 PV Annual Report](https://www.indexdata.org/2025-pv-annual-report/)** — `2026-11-05` | `21 Pages`
-- `[`PH-FDA-123192`]` **[TS2-HRDD](https://www.indexdata.org/ts2-hrdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123191`]` **[DDG AFO – PO II](https://www.indexdata.org/ddg-afo-po-ii/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123190`]` **[CDRR – MO III (PRSDD)](https://www.indexdata.org/cdrr-mo-iii-prsdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123189`]` **[CDRR – FDRO IV (LRD)](https://www.indexdata.org/cdrr-fdro-iv-lrd/)** — `2026-11-04` | `4 Pages`
-- `[`PH-FDA-123188`]` **[CDRR – FDRO II (LRD)](https://www.indexdata.org/cdrr-fdro-ii-lrd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123187`]` **[CDRR – FDRO I (PRSDD)](https://www.indexdata.org/cdrr-fdro-i-prsdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123186`]` **[CDRR – FDRO I (LRD)](https://www.indexdata.org/cdrr-fdro-i-lrd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123185`]` **[AO4-HRDD](https://www.indexdata.org/ao4-hrdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123184`]` **[AO2-HRDD](https://www.indexdata.org/ao2-hrdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123183`]` **[ADAS2-AFMD](https://www.indexdata.org/adas2-afmd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123182`]` **[ADAS1-HRDD](https://www.indexdata.org/adas1-hrdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123181`]` **[ADA5-CARPENTER2-PLMD](https://www.indexdata.org/ada5-carpenter2-plmd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123180`]` **[ADA4-PLMD](https://www.indexdata.org/ada4-plmd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123179`]` **[ADA3-PLMD](https://www.indexdata.org/ada3-plmd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123178`]` **[ADA3-HRDD](https://www.indexdata.org/ada3-hrdd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123177`]` **[ADA1-PLMD](https://www.indexdata.org/ada1-plmd/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123176`]` **[ADA1-PLMD](https://www.indexdata.org/ada1-plmd-2/)** — `2026-11-04` | `3 Pages`
-- `[`PH-FDA-123023`]` **[FO-PD-AO2(1)](https://www.indexdata.org/fo-pd-ao21/)** — `2026-11-03` | `3 Pages`
-- `[`PH-FDA-123022`]` **[AFO-PLMD-ENG.2](https://www.indexdata.org/afo-plmd-eng-2/)** — `2026-11-03` | `3 Pages`
-- `[`PH-FDA-123021`]` **[AFO-PLMD-AO2(1)](https://www.indexdata.org/afo-plmd-ao21/)** — `2026-11-03` | `3 Pages`
-- `[`PH-FDA-123020`]` **[AFO-HRDD-AO2(2)](https://www.indexdata.org/afo-hrdd-ao22/)** — `2026-11-03` | `3 Pages`
-- `[`PH-FDA-123019`]` **[AFO-COA-AA6](https://www.indexdata.org/afo-coa-aa6/)** — `2026-11-03` | `3 Pages`
-- `[`PH-FDA-123018`]` **[AFO-AFMD-CASHIER-AO2(2)](https://www.indexdata.org/afo-afmd-cashier-ao22/)** — `2026-11-03` | `3 Pages`
-- `[`PH-FDA-123017`]` **[AFO-AFMD-ACCNTG-AO2(2)](https://www.indexdata.org/afo-afmd-accntg-ao22/)** — `2026-11-03` | `3 Pages`
-- `[`PH-FDA-123008`]` **[Draft Administraive Order for comments](https://www.indexdata.org/draft-administraive-order-for-comments/)** — `2026-11-03` | `12 Pages`
-- `[`PH-FDA-122967`]` **[ITB NO. 2026-0105-AFO SBB No. 3](https://www.indexdata.org/itb-no-2026-0105-afo-sbb-no-3/)** — `2026-10-30` | `2 Pages`
-
 ### [Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/commission-on-human-rights/](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
 
@@ -495,6 +502,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/commission-o
 ### [Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/government-procurement-policy-board/](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 
+- `[`PH-GPPB-16745`]` **[Bid-Bulletin-BAC-GDS-AD-006 (EPA) – Procurement of Security Services for GPBB-TSO (1)](https://www.indexdata.org/bid-bulletin-bac-gds-ad-006-epa-procurement-of-security-services-for-gpbb-tso-1/)** — `2026-11-20` | `3 Pages`
+- `[`PH-GPPB-16742`]` **[19th Update of APP for FY 2026 (1) (1)](https://www.indexdata.org/19th-update-of-app-for-fy-2026-1-1/)** — `2026-11-20` | `6 Pages`
 - `[`PH-GPPB-16740`]` **[FY 2024 PL as of 15 Nov 2026](https://www.indexdata.org/fy-2024-pl-as-of-15-nov-2026/)** — `2026-11-19` | `35 Pages`
 - `[`PH-GPPB-16734`]` **[SIGNED BED No. 2 v2 sgd wdd 11122026](https://www.indexdata.org/signed-bed-no-2-v2-sgd-wdd-11122026/)** — `2026-11-19` | `2 Pages`
 - `[`PH-GPPB-16714`]` **[RFQ-AD-2026 Additional Furniture and Fixtures (1)](https://www.indexdata.org/rfq-ad-2026-additional-furniture-and-fixtures-1/)** — `2026-11-13` | `11 Pages`

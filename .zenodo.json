@@ -1,13 +1,13 @@
 {
   "upload_type": "dataset",
-  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 42,338 Official Dossiers Across 42 Jurisdictions",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 42,405 Official Dossiers Across 42 Jurisdictions",
   "creators": [
     {
       "name": "Index Data",
       "affiliation": "Index Data (indexdata.org)"
     }
   ],
-  "description": "<p>Automated, machine-readable bibliographic metadata catalog (CSV, JSONL, Frictionless Data Package, and complete per-jurisdiction Markdown directories) indexing <strong>42,338</strong> official primary and secondary laws, final and proposed rules, statutory instruments, central bank circulars, supreme audit reports, and multilateral resolutions across <strong>973</strong> government departments, ministries, regulatory agencies, and multilateral organs in <strong>42</strong> active jurisdictions: <a href='https://www.indexdata.org/united-states/'><strong>United States</strong></a> (15,557 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/united-states.md'>Catalog</a>), <a href='https://www.indexdata.org/united-kingdom/'><strong>United Kingdom</strong></a> (3,197 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/united-kingdom.md'>Catalog</a>), <a href='https://www.indexdata.org/canada/'><strong>Canada</strong></a> (5,392 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/canada.md'>Catalog</a>), <a href='https://www.indexdata.org/european-union/'><strong>European Union</strong></a> (5,489 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/european-union.md'>Catalog</a>), <a href='https://www.indexdata.org/united-nations/'><strong>United Nations</strong></a> (7,018 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/united-nations.md'>Catalog</a>), <a href='https://www.indexdata.org/ireland/'><strong>Ireland</strong></a> (198 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/ireland.md'>Catalog</a>), <a href='https://www.indexdata.org/australia/'><strong>Australia</strong></a> (1,326 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/australia.md'>Catalog</a>), <a href='https://www.indexdata.org/international/'><strong>International</strong></a> (1,215 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/international.md'>Catalog</a>), <a href='https://www.indexdata.org/switzerland/'><strong>Switzerland</strong></a> (191 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/switzerland.md'>Catalog</a>), <a href='https://www.indexdata.org/finland/'><strong>Finland</strong></a> (68 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/finland.md'>Catalog</a>), <a href='https://www.indexdata.org/france/'><strong>France</strong></a> (557 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/france.md'>Catalog</a>), <a href='https://www.indexdata.org/south-korea/'><strong>South Korea</strong></a> (66 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/south-korea.md'>Catalog</a>), <a href='https://www.indexdata.org/norway/'><strong>Norway</strong></a> (78 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/norway.md'>Catalog</a>), <a href='https://www.indexdata.org/italy/'><strong>Italy</strong></a> (79 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/italy.md'>Catalog</a>), <a href='https://www.indexdata.org/philippines/'><strong>Philippines</strong></a> (451 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/philippines.md'>Catalog</a>), <a href='https://www.indexdata.org/poland/'><strong>Poland</strong></a> (43 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/poland.md'>Catalog</a>), <a href='https://www.indexdata.org/south-africa/'><strong>South Africa</strong></a> (46 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/south-africa.md'>Catalog</a>), <a href='https://www.indexdata.org/india/'><strong>India</strong></a> (15 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/india.md'>Catalog</a>), <a href='https://www.indexdata.org/belgium/'><strong>Belgium</strong></a> (107 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/belgium.md'>Catalog</a>), <a href='https://www.indexdata.org/brazil/'><strong>Brazil</strong></a> (85 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/brazil.md'>Catalog</a>), <a href='https://www.indexdata.org/japan/'><strong>Japan</strong></a> (97 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/japan.md'>Catalog</a>), <a href='https://www.indexdata.org/netherlands/'><strong>Netherlands</strong></a> (36 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/netherlands.md'>Catalog</a>), <a href='https://www.indexdata.org/russia/'><strong>Russia</strong></a> (34 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/russia.md'>Catalog</a>), <a href='https://www.indexdata.org/sweden/'><strong>Sweden</strong></a> (50 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/sweden.md'>Catalog</a>), <a href='https://www.indexdata.org/albania/'><strong>Albania</strong></a> (0 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/albania.md'>Catalog</a>), <a href='https://www.indexdata.org/armenia/'><strong>Armenia</strong></a> (0 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/armenia.md'>Catalog</a>), <a href='https://www.indexdata.org/austria/'><strong>Austria</strong></a> (190 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/austria.md'>Catalog</a>), <a href='https://www.indexdata.org/bahrain/'><strong>Bahrain</strong></a> (33 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/bahrain.md'>Catalog</a>), <a href='https://www.indexdata.org/china/'><strong>China</strong></a> (41 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/china.md'>Catalog</a>), <a href='https://www.indexdata.org/czechia/'><strong>Czechia</strong></a> (36 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/czechia.md'>Catalog</a>), <a href='https://www.indexdata.org/germany/'><strong>Germany</strong></a> (152 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/germany.md'>Catalog</a>), <a href='https://www.indexdata.org/denmark/'><strong>Denmark</strong></a> (43 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/denmark.md'>Catalog</a>), <a href='https://www.indexdata.org/estonia/'><strong>Estonia</strong></a> (16 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/estonia.md'>Catalog</a>), <a href='https://www.indexdata.org/spain/'><strong>Spain</strong></a> (43 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/spain.md'>Catalog</a>), <a href='https://www.indexdata.org/israel/'><strong>Israel</strong></a> (139 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/israel.md'>Catalog</a>), <a href='https://www.indexdata.org/liechtenstein/'><strong>Liechtenstein</strong></a> (54 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/liechtenstein.md'>Catalog</a>), <a href='https://www.indexdata.org/lithuania/'><strong>Lithuania</strong></a> (0 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/lithuania.md'>Catalog</a>), <a href='https://www.indexdata.org/portugal/'><strong>Portugal</strong></a> (49 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/portugal.md'>Catalog</a>), <a href='https://www.indexdata.org/saudi-arabia/'><strong>Saudi Arabia</strong></a> (47 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/saudi-arabia.md'>Catalog</a>), <a href='https://www.indexdata.org/singapore/'><strong>Singapore</strong></a> (82 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/singapore.md'>Catalog</a>), <a href='https://www.indexdata.org/ukraine/'><strong>Ukraine</strong></a> (1 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/ukraine.md'>Catalog</a>), <a href='https://www.indexdata.org/iceland/'><strong>Iceland</strong></a> (17 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/iceland.md'>Catalog</a>).</p><p>Full plain-English executive briefings, structured HTML compliance matrices, semantic definition lists, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are accessible via each record's canonical URL on <a href='https://www.indexdata.org/'>https://www.indexdata.org</a>, the <a href='https://www.indexdata.org/methodology/'>Complete Issuing Authority Directory</a>, the AI/LLM manifests (<a href='https://www.indexdata.org/llms.txt'>llms.txt</a> and <a href='https://www.indexdata.org/llms-full.txt'>llms-full.txt</a>), and Wikidata entity <a href='https://www.wikidata.org/wiki/Q142071440'>Q142071440</a>.</p><h3>Indexed Issuing Authorities (973)</h3><p><a href='https://www.indexdata.org/united-states/federal-aviation-administration/'>Federal Aviation Administration (United States)</a> &bull; <a href='https://www.indexdata.org/canada/department-of-justice-canada/'>Department of Justice Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-nations/general-assembly/'>General Assembly (United Nations)</a> &bull; <a href='https://www.indexdata.org/european-union/european-investment-bank-eib/'>European Investment Bank (EIB) (European Union)</a> &bull; <a href='https://www.indexdata.org/united-states/environmental-protection-agency/'>Environmental Protection Agency (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/coast-guard/'>Coast Guard (United States)</a> &bull; <a href='https://www.indexdata.org/european-union/european-commission/'>European Commission (European Union)</a> &bull; <a href='https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/'>National Oceanic and Atmospheric Administration (United States)</a> &bull; <a href='https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/'>European Parliament and Council of the EU (European Union)</a> &bull; <a href='https://www.indexdata.org/canada/transport-canada/'>Transport Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/european-union/council-of-the-european-union/'>Council of the European Union (European Union)</a> &bull; <a href='https://www.indexdata.org/united-nations/economic-and-social-council/'>Economic and Social Council (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-communications-commission/'>Federal Communications Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-nations/security-council/'>Security Council (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/hm-government-legislation/'>HM Government Legislation (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-nations/human-rights-bodies/'>Human Rights Bodies (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-general-assembly-unga/'>UN General Assembly (UNGA) (United Nations)</a> &bull; <a href='https://www.indexdata.org/european-union/european-investment-fund-eif/'>European Investment Fund (EIF) (European Union)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-the-treasury/'>Department of the Treasury (Australia)</a> &bull; <a href='https://www.indexdata.org/canada/department-of-finance-canada/'>Department of Finance Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/'>Financial Markets Authority (Autorité des marchés financiers - AMF) (France)</a> &bull; <a href='https://www.indexdata.org/united-states/u-s-house-of-representatives/'>U.S. House of Representatives (United States)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-security-council-unsc/'>UN Security Council (UNSC) (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/food-and-drug-administration/'>Food and Drug Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/hm-treasury/'>HM Treasury (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-states/fish-and-wildlife-service/'>Fish and Wildlife Service (United States)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/'>UN Human Rights Council & Treaty Bodies (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/energy-department/'>Energy Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/internal-revenue-service/'>Internal Revenue Service (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/'>HM Courts & Tribunals Service (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-development-programme-undp/'>UN Development Programme (UNDP) (United Nations)</a> &bull; <a href='https://www.indexdata.org/international/european-securities-and-markets-authority-esma/'>European Securities and Markets Authority (ESMA) (International)</a> &bull; <a href='https://www.indexdata.org/united-states/nuclear-regulatory-commission/'>Nuclear Regulatory Commission (United States)</a> &bull; <a href='https://www.indexdata.org/international/food-and-agriculture-organization-fao/'>Food and Agriculture Organization (FAO) (International)</a> &bull; <a href='https://www.indexdata.org/united-nations/united-nations-secretariat/'>United Nations Secretariat (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/'>Ministry of Housing, Communities and Local Government (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-states/agricultural-marketing-service/'>Agricultural Marketing Service (United States)</a> &bull; <a href='https://www.indexdata.org/international/world-bank/'>World Bank (International)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-transport/'>Department for Transport (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/australia/attorney-general-s-department/'>Attorney-General's Department (Australia)</a> &bull; <a href='https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/'>Centers for Medicare & Medicaid Services (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/office-of-the-secretary/'>Office of the Secretary (United States)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/'>UN High Commissioner for Refugees (UNHCR) (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/'>Pipeline and Hazardous Materials Safety Administration (United States)</a> &bull; <a href='https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/'>Crown-Indigenous Relations and Northern Affairs Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-education/'>Department for Education (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/philippines/department-of-agriculture/'>Department of Agriculture (Philippines)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/'>Department for Environment, Food and Rural Affairs (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/home-office/'>Home Office (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-health-disability-and-ageing/'>Department of Health, Disability and Ageing (Australia)</a> &bull; <a href='https://www.indexdata.org/canada/natural-resources-canada/'>Natural Resources Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-states/education-department/'>Education Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/foreign-assets-control-office/'>Foreign Assets Control Office (United States)</a> &bull; <a href='https://www.indexdata.org/european-union/european-medicines-agency-ema/'>European Medicines Agency (EMA) (European Union)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/'>Department for Energy Security and Net Zero (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/switzerland/federal-statistical-office-fso/'>Federal Statistical Office (FSO) (Switzerland)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-business-and-trade/'>Department for Business and Trade (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-states/drug-enforcement-administration/'>Drug Enforcement Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/securities-and-exchange-commission/'>Securities and Exchange Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/industry-and-security-bureau/'>Industry and Security Bureau (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/veterans-affairs-department/'>Veterans Affairs Department (United States)</a> &bull; <a href='https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/'>Federal Ministry of Justice (BMJ) (Germany)</a> &bull; <a href='https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/'>National Highway Traffic Safety Administration (United States)</a> &bull; <a href='https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/'>Organisation for Economic Co-operation and Development (OECD) (International)</a> &bull; <a href='https://www.indexdata.org/united-states/personnel-management-office/'>Personnel Management Office (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-railroad-administration/'>Federal Railroad Administration (United States)</a> &bull; <a href='https://www.indexdata.org/international/european-food-safety-authority-efsa/'>European Food Safety Authority (EFSA) (International)</a> &bull; <a href='https://www.indexdata.org/united-states/postal-service/'>Postal Service (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/'>Department of Health and Social Care (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/'>UN Economic and Social Council (ECOSOC) (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/homeland-security-department/'>Homeland Security Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/'>Traffic Commissioners for Great Britain (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-trade-and-development-unctad/'>UN Trade and Development (UNCTAD) (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/consumer-financial-protection-bureau/'>Consumer Financial Protection Bureau (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/'>Courts and Tribunals Judiciary (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/'>European Centre for Disease Prevention and Control (ECDC) (International)</a> &bull; <a href='https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/'>Surface Mining Reclamation and Enforcement Office (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/consumer-product-safety-commission/'>Consumer Product Safety Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/'>National Aeronautics and Space Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-energy-regulatory-commission/'>Federal Energy Regulatory Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/housing-and-urban-development-department/'>Housing and Urban Development Department (United States)</a> &bull; <a href='https://www.indexdata.org/canada/health-canada/'>Health Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-states/defense-acquisition-regulations-system/'>Defense Acquisition Regulations System (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/ministry-of-justice/'>Ministry of Justice (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-nations/programmes-and-funds/'>Programmes and Funds (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/'>Federal Motor Carrier Safety Administration (United States)</a> &bull; <a href='https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/'>Central Bank of Brazil (Banco Central do Brasil) (Brazil)</a> &bull; <a href='https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/'>Innovation, Science and Economic Development Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-states/land-management-bureau/'>Land Management Bureau (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/commodity-futures-trading-commission/'>Commodity Futures Trading Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/national-credit-union-administration/'>National Credit Union Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/state-department/'>State Department (United States)</a> &bull; <a href='https://www.indexdata.org/international/european-court-of-auditors-eca/'>European Court of Auditors (ECA) (International)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/'>Department for Work and Pensions (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-climate-change-energy-the-environment-and-water/'>Department of Climate Change, Energy, the Environment and Water (Australia)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/ministry-of-defence/'>Ministry of Defence (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/canada/environment-and-climate-change-canada/'>Environment and Climate Change Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/'>European Insurance and Occupational Pensions Authority (EIOPA) (International)</a> &bull; <a href='https://www.indexdata.org/philippines/national-privacy-commission/'>National Privacy Commission (Philippines)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/environment-agency/'>Environment Agency (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/philippines/maritime-industry-authority/'>Maritime Industry Authority (Philippines)</a> &bull; <a href='https://www.indexdata.org/united-nations/secretariat/'>Secretariat (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/united-states-senate/'>United States Senate (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-trade-commission/'>Federal Trade Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/occupational-safety-and-health-administration/'>Occupational Safety and Health Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/small-business-administration/'>Small Business Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/united-states-congress/'>United States Congress (United States)</a> &bull; <a href='https://www.indexdata.org/canada/global-affairs-canada/'>Global Affairs Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-states/general-services-administration/'>General Services Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/health-and-human-services-department/'>Health and Human Services Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/children-and-families-administration/'>Children and Families Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/congressional-research-service-crs/'>Congressional Research Service (CRS) (United States)</a> &bull; <a href='https://www.indexdata.org/canada/government-and-municipalities-of-qu-bec/'>Government and Municipalities of Québec (Canada)</a> &bull; <a href='https://www.indexdata.org/liechtenstein/financial-market-authority-liechtenstein-fma/'>Financial Market Authority Liechtenstein (FMA) (Liechtenstein)</a> &bull; <a href='https://www.indexdata.org/united-states/comptroller-of-the-currency/'>Comptroller of the Currency (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-reserve-system/'>Federal Reserve System (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-highway-administration/'>Federal Highway Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/u-s-customs-and-border-protection/'>U.S. Customs and Border Protection (United States)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-home-affairs/'>Department of Home Affairs (Australia)</a> &bull; <a href='https://www.indexdata.org/international/european-banking-authority-eba/'>European Banking Authority (EBA) (International)</a> &bull; <a href='https://www.indexdata.org/united-states/financial-crimes-enforcement-network/'>Financial Crimes Enforcement Network (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/u-s-department-of-energy-doe/'>U.S. Department of Energy (DOE) (United States)</a> &bull; <a href='https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/'>Federal Chancellery of Austria (Bundeskanzleramt) (Austria)</a> &bull; <a href='https://www.indexdata.org/canada/public-safety-canada/'>Public Safety Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/philippines/board-of-investments/'>Board of Investments (Philippines)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/hm-government/'>HM Government (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/'>Centers for Disease Control and Prevention (CDC) (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/'>Animal and Plant Health Agency (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/'>Alcohol, Tobacco, Firearms, and Explosives Bureau (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/justice-department/'>Justice Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/postal-regulatory-commission/'>Postal Regulatory Commission (United States)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-and-the-arts/'>Department of Infrastructure, Transport, Regional Development, Communications and the Arts (Australia)</a> &bull; <a href='https://www.indexdata.org/canada/agriculture-and-agri-food-canada/'>Agriculture and Agri-Food Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-defence/'>Department of Defence (Australia)</a> &bull; <a href='https://www.indexdata.org/united-nations/united-nations-general-assembly/'>United Nations General Assembly (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/'>Federal Deposit Insurance Corporation (United States)</a> &bull; <a href='https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/'>Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW) (Austria)</a> &bull; <a href='https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/'>Federal Department of Justice and Police (FDJP) (Switzerland)</a> &bull; <a href='https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/'>Alcohol and Tobacco Tax and Trade Bureau (United States)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-agriculture-fisheries-and-forestry/'>Department of Agriculture, Fisheries and Forestry (Australia)</a> &bull; <a href='https://www.indexdata.org/united-states/rural-housing-service/'>Rural Housing Service (United States)</a> &bull; <a href='https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/'>National Institute for Public Policy Analysis (INAPP) (Italy)</a> &bull; <a href='https://www.indexdata.org/philippines/cooperative-development-authority/'>Cooperative Development Authority (Philippines)</a> &bull; <a href='https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/'>Polish Investment and Trade Agency (PAIH) (Poland)</a> &bull; <a href='https://www.indexdata.org/united-states/forest-service/'>Forest Service (United States)</a> &bull; <a href='https://www.indexdata.org/philippines/food-and-drug-administration/'>Food and Drug Administration (Philippines)</a> &bull; <a href='https://www.indexdata.org/united-states/patent-and-trademark-office/'>Patent and Trademark Office (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/'>State of Hawaii — Department of Land and Natural Resources (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/'>Animal and Plant Health Inspection Service (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/national-park-service/'>National Park Service (United States)</a> &bull; <a href='https://www.indexdata.org/canada/employment-and-social-development-canada/'>Employment and Social Development Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-states/mine-safety-and-health-administration/'>Mine Safety and Health Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/employment-and-training-administration/'>Employment and Training Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-aviation-administration-faa/'>Federal Aviation Administration (FAA) (United States)</a> &bull; <a href='https://www.indexdata.org/france/banque-de-france/'>Banque de France (France)</a> &bull; <a href='https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/'>National Institute of Statistics and Economic Studies (INSEE) (France)</a> &bull; <a href='https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/'>National Cybersecurity Authority (NCA) (Saudi Arabia)</a> &bull; <a href='https://www.indexdata.org/united-nations/united-nations/'>United Nations (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/'>U.S. Government Accountability Office (GAO) (United States)</a> &bull; <a href='https://www.indexdata.org/bahrain/education-training-quality-authority-bqa/'>Education & Training Quality Authority (BQA) (Bahrain)</a> &bull; <a href='https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/'>Sciensano (Belgian Institute for Health) (Belgium)</a> &bull; <a href='https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/'>Immigration, Refugees and Citizenship Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-veterans-affairs/'>Department of Veterans' Affairs (Australia)</a> &bull; <a href='https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/'>Austrian National Public Health Institute (Gesundheit Österreich GmbH - GÖG) (Austria)</a> &bull; <a href='https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/'>National Audit Office of Finland (VTV) (Finland)</a> &bull; <a href='https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/'>Pension Benefit Guaranty Corporation (United States)</a> &bull; <a href='https://www.indexdata.org/canada/governor-general-in-council/'>Governor General in Council (Canada)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/marine-management-organisation/'>Marine Management Organisation (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-employment-and-workplace-relations/'>Department of Employment and Workplace Relations (Australia)</a> &bull; <a href='https://www.indexdata.org/canada/government-of-yukon/'>Government of Yukon (Canada)</a> &bull; <a href='https://www.indexdata.org/international/european-central-bank-ecb/'>European Central Bank (ECB) (International)</a> &bull; <a href='https://www.indexdata.org/ireland/d-il-ireann/'>Dáil Éireann (Ireland)</a> &bull; <a href='https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/'>Swedish Transport Administration (Trafikverket) (Sweden)</a> &bull; <a href='https://www.indexdata.org/united-nations/2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/'>2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/employee-benefits-security-administration/'>Employee Benefits Security Administration (United States)</a> &bull; <a href='https://www.indexdata.org/canada/fisheries-and-oceans-canada/'>Fisheries and Oceans Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/'>Bretagne Développement Innovation (BDI) (France)</a> &bull; <a href='https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/'>French Agricultural Research Centre for International Development (CIRAD) (France)</a> &bull; <a href='https://www.indexdata.org/united-states/commerce-department/'>Commerce Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/copyright-office-library-of-congress/'>Copyright Office, Library of Congress (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-procurement-policy-office/'>Federal Procurement Policy Office (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-transit-administration/'>Federal Transit Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/food-and-nutrition-service/'>Food and Nutrition Service (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/'>National Aeronautics and Space Administration (NASA) (United States)</a> &bull; <a href='https://www.indexdata.org/israel/israel-innovation-authority-iia/'>Israel Innovation Authority (IIA) (Israel)</a> &bull; <a href='https://www.indexdata.org/united-states/u-s-geological-survey-usgs/'>U.S. Geological Survey (USGS) (United States)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-finance/'>Department of Finance (Australia)</a> &bull; <a href='https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/'>Israel Nature and Parks Authority (INPA) (Israel)</a> &bull; <a href='https://www.indexdata.org/japan/fukuoka-city/'>Fukuoka City (Japan)</a> &bull; <a href='https://www.indexdata.org/philippines/commission-on-human-rights/'>Commission on Human Rights (Philippines)</a> &bull; <a href='https://www.indexdata.org/czechia/czech-national-bank-cnb/'>Czech National Bank (CNB) (Czechia)</a> &bull; <a href='https://www.indexdata.org/european-union/european-central-bank-ecb/'>European Central Bank (ECB) (European Union)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/'>Department for Environment, Food & Rural Affairs (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-nations/other-un-bodies-and-entities/'>Other UN Bodies and Entities (United Nations)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-education/'>Department of Education (Australia)</a> &bull; <a href='https://www.indexdata.org/methodology/'><strong>+778 additional issuing authorities in the Complete Authority Directory</strong></a></p><h3>Latest Published Statutory &amp; Regulatory Dossiers</h3><ul><li><a href='https://www.indexdata.org/meetings-sunshine-act-12/'>[US-FRPI-2026-23819] Meetings; Sunshine Act</a> (U.S. Nuclear Regulatory Commission (NRC), 2026-11-20)</li><li><a href='https://www.indexdata.org/2026-11-19-rfq-privacy-in-the-spotligt-pits-tokens/'>[PH-NPC-54366] 2026.11.19 RFQ Privacy in the Spotligt- PITS Tokens</a> (National Privacy Commission, 2026-11-20)</li><li><a href='https://www.indexdata.org/mphilgeps-posting-procurement-of-international-shipment-services/'>[PH-MARINA-26301] mPhilgeps Posting – Procurement of International Shipment Services</a> (Maritime Industry Authority, 2026-11-20)</li><li><a href='https://www.indexdata.org/request-for-quotation-procurement-of-international-shipment-services/'>[PH-MARINA-26300] Request for Quotation – Procurement of International Shipment Services</a> (Maritime Industry Authority, 2026-11-20)</li><li><a href='https://www.indexdata.org/acm-006-enumeration-of-total-aerobic-mesophilic-microorganisms-bacteria-yeast-and-moulds/'>[PH-FDA-123984] ACM 006 – ENUMERATION OF TOTAL AEROBIC MESOPHILIC MICROORGANISMS (BACTERIA, YEAST AND MOULDS)</a> (Food and Drug Administration, 2026-11-20)</li><li><a href='https://www.indexdata.org/acm-013-identification-and-determination-of-isopropylparaben-and-isobutylparaben-in-cosmetic-products-by-hplc/'>[PH-FDA-123980] ACM 013 – IDENTIFICATION AND DETERMINATION OF ISOPROPYLPARABEN AND ISOBUTYLPARABEN IN COSMETIC PRODUCTS BY HPLC</a> (Food and Drug Administration, 2026-11-20)</li><li><a href='https://www.indexdata.org/acm-008-evaluation-of-the-antimicrobial-protection-of-a-cosmetic-product/'>[PH-FDA-123976] ACM 008 – EVALUATION OF THE ANTIMICROBIAL PROTECTION OF A COSMETIC PRODUCT</a> (Food and Drug Administration, 2026-11-20)</li><li><a href='https://www.indexdata.org/daily-cigarette-price-monitoring-november-19-2026/'>[PH-DA-114251] Daily Cigarette Price Monitoring November 19, 2026</a> (Department of Agriculture, 2026-11-20)</li><li><a href='https://www.indexdata.org/connecting-rural-areas-roads-and-structural-transformation-in-mali/'>[WB-WPS-11504] Connecting Rural Areas : Roads and Structural Transformation in Mali</a> (World Bank, 2026-11-19)</li><li><a href='https://www.indexdata.org/closing-the-energy-efficiency-gap-unlocking-private-sector-investment-in-poland-and-romania/'>[WB-WDS-217307] Closing the Energy Efficiency Gap : Unlocking Private-Sector Investment in Poland and Romania</a> (World Bank, 2026-11-19)</li><li><a href='https://www.indexdata.org/what-made-diia-a-success-ukraines-remarkable-digital-transformation-case-study/'>[WB-WDS-217262] What Made Diia a Success? : Ukraine’s Remarkable Digital Transformation - Case Study</a> (World Bank, 2026-11-19)</li><li><a href='https://www.indexdata.org/algeria-economic-update-hydrocarbon-revenues-and-fiscal-resilience-fall-2026/'>[WB-WDS-217213] Algeria Economic Update : Hydrocarbon Revenues and Fiscal Resilience - Fall 2026</a> (World Bank, 2026-11-19)</li><li><a href='https://www.indexdata.org/cameroon-2026-economic-update-bridging-the-gap-between-ambition-and-reality-options-for-development-financing-in-cameroon-fifth-edition/'>[WB-WDS-217212] Cameroon 2026 Economic Update : Bridging the Gap between Ambition and Reality - Options for Development Financing in Cameroon (Fifth Edition)</a> (World Bank, 2026-11-19)</li><li><a href='https://www.indexdata.org/meetings-sunshine-act-11/'>[US-FRPI-2026-23787] Meetings; Sunshine Act</a> (Election Assistance Commission, 2026-11-19)</li><li><a href='https://www.indexdata.org/application-advisers-investment-trust-and-state-farm-investment-management-corp/'>[US-FRPI-2026-23658] Application: Advisers Investment Trust and State Farm Investment Management Corp.</a> (U.S. Securities and Exchange Commission (SEC), 2026-11-19)</li><li><a href='https://www.indexdata.org/exemption-acquisition-bogalusa-central-railroad-llc-rail-lines-of-illinois-central-railroad-company/'>[US-FRPI-2026-23657] Exemption: Acquisition; Bogalusa Central Railroad LLC, Rail Lines of Illinois Central Railroad Company</a> (Surface Transportation Board, 2026-11-19)</li><li><a href='https://www.indexdata.org/arms-sales/'>[US-FRPI-2026-23656] Arms Sales</a> (Defense Department, 2026-11-19)</li><li><a href='https://www.indexdata.org/arms-sales-2/'>[US-FRPI-2026-23655] Arms Sales</a> (Defense Department, 2026-11-19)</li><li><a href='https://www.indexdata.org/arms-sales-3/'>[US-FRPI-2026-23654] Arms Sales</a> (Defense Department, 2026-11-19)</li><li><a href='https://www.indexdata.org/airworthiness-directives-general-atomics-aerotec-systems-gmbh-type-certificate-previously-held-by-ruag-aerospace-services-gmbh-airplanes-3/'>[US-FR-2026-23633] Airworthiness Directives; General Atomics AeroTec Systems GmbH (Type Certificate Previously Held by RUAG Aerospace Services GmbH) Airplanes</a> (Federal Aviation Administration (FAA), 2026-11-19)</li><li><a href='https://www.indexdata.org/privacy-act-of-1974-matching-program/'>[US-FR-2026-23616] Privacy Act of 1974; Matching Program</a> (Education Department, 2026-11-19)</li><li><a href='https://www.indexdata.org/aquatic-nuisance-species-task-force-meeting/'>[US-FR-2026-23615] Aquatic Nuisance Species Task Force Meeting</a> (U.S. Fish and Wildlife Service (USFWS), 2026-11-19)</li><li><a href='https://www.indexdata.org/customer-due-diligence-requirements-for-covered-financial-institutions-2/'>[US-FR-2026-23614] Customer Due Diligence Requirements for Covered Financial Institutions</a> (Financial Crimes Enforcement Network, 2026-11-19)</li><li><a href='https://www.indexdata.org/final-report-gas-separations-using-polymer-grafted-nanoparticle-membranes/'>[US-DOE-OSTI-3628747] Final report, Gas separations using polymer-grafted nanoparticle membranes</a> (U.S. Department of Energy (DOE), 2026-11-19)</li><li><a href='https://www.indexdata.org/bridging-reliability-visibility-gaps-through-data-readiness-in-municipal-utilities/'>[US-DOE-OSTI-17429314] Bridging reliability visibility gaps through data readiness in municipal utilities</a> (U.S. Department of Energy (DOE), 2026-11-19)</li><li><a href='https://www.indexdata.org/ccpr-c-145-d-3717-2020-views-adopted-by-the-committee-under-the-optional-protocol-concerning-communication-no-3717-2020-human-rights-committee/'>[UN-CCPR-C-145-D-3717-2020] Views adopted by the Committee under the Optional Protocol, concerning communication No. 3717/2020 — Human Rights Committee</a> (Human Rights Bodies, 2026-11-19)</li><li><a href='https://www.indexdata.org/the-individual-savings-account-amendment-and-revocation-regulations-2026/'>[UKSI-2026-1218] The Individual Savings Account (Amendment and Revocation) Regulations 2026</a> (HM Treasury, 2026-11-19)</li><li><a href='https://www.indexdata.org/the-value-added-tax-drugs-and-medicines-health-and-welfare-order-2026/'>[UKSI-2026-1217] The Value Added Tax (Drugs and Medicines) (Health and Welfare) Order 2026</a> (HM Treasury, 2026-11-19)</li><li><a href='https://www.indexdata.org/national-audit-office-hm-revenue-customs-do-2025-26/'>[UK-NAO-64660] National Audit Office: hm revenue customs do 2025 26</a> (National Audit Office, 2026-11-19)</li><li><a href='https://www.indexdata.org/courts-and-tribunals-judiciary-2026ewhc-2907-kb-kb-2026-bhm-000315-bcc-v-bridge-ors-approved-judgment-for-publication-002/'>[UK-JUD-133419] Courts and Tribunals Judiciary: 2026EWHC 2907 (KB) KB-2026-BHM-000315 BCC v Bridge Ors APPROVED JUDGMENT FOR PUBLICATION (002)</a> (Courts and Tribunals Judiciary, 2026-11-19)</li><li><a href='https://www.indexdata.org/courts-and-tribunals-judiciary-crown-court-compendium-part-ii-november-2026/'>[UK-JUD-133407] Courts and Tribunals Judiciary: Crown Court Compendium Part II (November 2026)</a> (Courts and Tribunals Judiciary, 2026-11-19)</li><li><a href='https://www.indexdata.org/courts-and-tribunals-judiciary-crown-court-compendium-part-i-november-2026/'>[UK-JUD-133406] Courts and Tribunals Judiciary: Crown Court Compendium Part I (November 2026)</a> (Courts and Tribunals Judiciary, 2026-11-19)</li><li><a href='https://www.indexdata.org/courts-and-tribunals-judiciary-open-judgment-apple-inc-and-privacy-int-ors/'>[UK-JUD-133396] Courts and Tribunals Judiciary: OPEN Judgment Apple Inc. and Privacy Int. Ors</a> (Courts and Tribunals Judiciary, 2026-11-19)</li><li><a href='https://www.indexdata.org/courts-and-tribunals-judiciary-final-consequential-judgment-foster-hitchens-v-wargrave/'>[UK-JUD-133389] Courts and Tribunals Judiciary: FINAL CONSEQUENTIAL JUDGMENT Foster Hitchens v Wargrave</a> (Courts and Tribunals Judiciary, 2026-11-19)</li><li><a href='https://www.indexdata.org/courts-and-tribunals-judiciary-the-family-holdings-v-ammar-approved-judgment-03-11-26/'>[UK-JUD-133386] Courts and Tribunals Judiciary: The Family (Holdings) v Ammar – Approved Judgment – 03.11.26</a> (Courts and Tribunals Judiciary, 2026-11-19)</li><li><a href='https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-neafc-vessel-licence-conditions-uk-vessels-2022/'>[UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-8] United Kingdom Single Issuing Authority (UKSIA) — NEAFC Vessel Licence Conditions (UK Vessels) 2022</a> (Marine Management Organisation, 2026-11-19)</li><li><a href='https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-vessel-licence-external-waters-nafo-cod-3m-conditions-2024/'>[UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-79] United Kingdom Single Issuing Authority (UKSIA) — UK Vessel Licence - External Waters (NAFO -COD 3M) Conditions 2024</a> (Marine Management Organisation, 2026-11-19)</li><li><a href='https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-nor-vessels-variation-1-conditions-26-march-2024/'>[UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-78] United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (NOR Vessels) Variation 1 Conditions 26 March 2024</a> (Marine Management Organisation, 2026-11-19)</li><li><a href='https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-eu-vessels-variation-3-conditions-26-march-2024/'>[UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-77] United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (EU Vessels) Variation 3 Conditions 26 March 2024</a> (Marine Management Organisation, 2026-11-19)</li><li><a href='https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-eu-vessels-variation-2-conditions-14-march-2024/'>[UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-76] United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (EU Vessels) Variation 2 Conditions 14 March 2024</a> (Marine Management Organisation, 2026-11-19)</li></ul>",
+  "description": "<p>Automated, machine-readable bibliographic metadata catalog (CSV, JSONL, Frictionless Data Package, and complete per-jurisdiction Markdown directories) indexing <strong>42,405</strong> official primary and secondary laws, final and proposed rules, statutory instruments, central bank circulars, supreme audit reports, and multilateral resolutions across <strong>975</strong> government departments, ministries, regulatory agencies, and multilateral organs in <strong>42</strong> active jurisdictions: <a href='https://www.indexdata.org/united-states/'><strong>United States</strong></a> (15,574 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/united-states.md'>Catalog</a>), <a href='https://www.indexdata.org/united-kingdom/'><strong>United Kingdom</strong></a> (3,205 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/united-kingdom.md'>Catalog</a>), <a href='https://www.indexdata.org/canada/'><strong>Canada</strong></a> (5,392 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/canada.md'>Catalog</a>), <a href='https://www.indexdata.org/european-union/'><strong>European Union</strong></a> (5,496 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/european-union.md'>Catalog</a>), <a href='https://www.indexdata.org/united-nations/'><strong>United Nations</strong></a> (7,018 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/united-nations.md'>Catalog</a>), <a href='https://www.indexdata.org/ireland/'><strong>Ireland</strong></a> (198 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/ireland.md'>Catalog</a>), <a href='https://www.indexdata.org/australia/'><strong>Australia</strong></a> (1,326 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/australia.md'>Catalog</a>), <a href='https://www.indexdata.org/international/'><strong>International</strong></a> (1,232 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/international.md'>Catalog</a>), <a href='https://www.indexdata.org/switzerland/'><strong>Switzerland</strong></a> (192 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/switzerland.md'>Catalog</a>), <a href='https://www.indexdata.org/finland/'><strong>Finland</strong></a> (68 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/finland.md'>Catalog</a>), <a href='https://www.indexdata.org/france/'><strong>France</strong></a> (565 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/france.md'>Catalog</a>), <a href='https://www.indexdata.org/south-korea/'><strong>South Korea</strong></a> (66 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/south-korea.md'>Catalog</a>), <a href='https://www.indexdata.org/norway/'><strong>Norway</strong></a> (78 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/norway.md'>Catalog</a>), <a href='https://www.indexdata.org/italy/'><strong>Italy</strong></a> (79 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/italy.md'>Catalog</a>), <a href='https://www.indexdata.org/philippines/'><strong>Philippines</strong></a> (460 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/philippines.md'>Catalog</a>), <a href='https://www.indexdata.org/poland/'><strong>Poland</strong></a> (43 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/poland.md'>Catalog</a>), <a href='https://www.indexdata.org/south-africa/'><strong>South Africa</strong></a> (46 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/south-africa.md'>Catalog</a>), <a href='https://www.indexdata.org/india/'><strong>India</strong></a> (15 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/india.md'>Catalog</a>), <a href='https://www.indexdata.org/belgium/'><strong>Belgium</strong></a> (107 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/belgium.md'>Catalog</a>), <a href='https://www.indexdata.org/brazil/'><strong>Brazil</strong></a> (85 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/brazil.md'>Catalog</a>), <a href='https://www.indexdata.org/japan/'><strong>Japan</strong></a> (97 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/japan.md'>Catalog</a>), <a href='https://www.indexdata.org/netherlands/'><strong>Netherlands</strong></a> (36 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/netherlands.md'>Catalog</a>), <a href='https://www.indexdata.org/russia/'><strong>Russia</strong></a> (34 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/russia.md'>Catalog</a>), <a href='https://www.indexdata.org/sweden/'><strong>Sweden</strong></a> (50 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/sweden.md'>Catalog</a>), <a href='https://www.indexdata.org/albania/'><strong>Albania</strong></a> (0 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/albania.md'>Catalog</a>), <a href='https://www.indexdata.org/armenia/'><strong>Armenia</strong></a> (0 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/armenia.md'>Catalog</a>), <a href='https://www.indexdata.org/austria/'><strong>Austria</strong></a> (190 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/austria.md'>Catalog</a>), <a href='https://www.indexdata.org/bahrain/'><strong>Bahrain</strong></a> (33 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/bahrain.md'>Catalog</a>), <a href='https://www.indexdata.org/china/'><strong>China</strong></a> (41 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/china.md'>Catalog</a>), <a href='https://www.indexdata.org/czechia/'><strong>Czechia</strong></a> (36 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/czechia.md'>Catalog</a>), <a href='https://www.indexdata.org/germany/'><strong>Germany</strong></a> (152 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/germany.md'>Catalog</a>), <a href='https://www.indexdata.org/denmark/'><strong>Denmark</strong></a> (43 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/denmark.md'>Catalog</a>), <a href='https://www.indexdata.org/estonia/'><strong>Estonia</strong></a> (16 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/estonia.md'>Catalog</a>), <a href='https://www.indexdata.org/spain/'><strong>Spain</strong></a> (43 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/spain.md'>Catalog</a>), <a href='https://www.indexdata.org/israel/'><strong>Israel</strong></a> (139 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/israel.md'>Catalog</a>), <a href='https://www.indexdata.org/liechtenstein/'><strong>Liechtenstein</strong></a> (54 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/liechtenstein.md'>Catalog</a>), <a href='https://www.indexdata.org/lithuania/'><strong>Lithuania</strong></a> (0 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/lithuania.md'>Catalog</a>), <a href='https://www.indexdata.org/portugal/'><strong>Portugal</strong></a> (49 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/portugal.md'>Catalog</a>), <a href='https://www.indexdata.org/saudi-arabia/'><strong>Saudi Arabia</strong></a> (47 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/saudi-arabia.md'>Catalog</a>), <a href='https://www.indexdata.org/singapore/'><strong>Singapore</strong></a> (82 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/singapore.md'>Catalog</a>), <a href='https://www.indexdata.org/ukraine/'><strong>Ukraine</strong></a> (1 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/ukraine.md'>Catalog</a>), <a href='https://www.indexdata.org/iceland/'><strong>Iceland</strong></a> (17 dossiers | <a href='https://github.com/Schtumpfnagel/global-regulatory-index/blob/main/catalogs/iceland.md'>Catalog</a>).</p><p>Full plain-English executive briefings, structured HTML compliance matrices, semantic definition lists, two-stage Tables of Contents, authority RSS syndication feeds, and unabridged source PDF dossiers are accessible via each record's canonical URL on <a href='https://www.indexdata.org/'>https://www.indexdata.org</a>, the <a href='https://www.indexdata.org/methodology/'>Complete Issuing Authority Directory</a>, the AI/LLM manifests (<a href='https://www.indexdata.org/llms.txt'>llms.txt</a> and <a href='https://www.indexdata.org/llms-full.txt'>llms-full.txt</a>), and Wikidata entity <a href='https://www.wikidata.org/wiki/Q142071440'>Q142071440</a>.</p><h3>Indexed Issuing Authorities (975)</h3><p><a href='https://www.indexdata.org/united-states/federal-aviation-administration/'>Federal Aviation Administration (United States)</a> &bull; <a href='https://www.indexdata.org/canada/department-of-justice-canada/'>Department of Justice Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-nations/general-assembly/'>General Assembly (United Nations)</a> &bull; <a href='https://www.indexdata.org/european-union/european-investment-bank-eib/'>European Investment Bank (EIB) (European Union)</a> &bull; <a href='https://www.indexdata.org/united-states/environmental-protection-agency/'>Environmental Protection Agency (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/coast-guard/'>Coast Guard (United States)</a> &bull; <a href='https://www.indexdata.org/european-union/european-commission/'>European Commission (European Union)</a> &bull; <a href='https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/'>National Oceanic and Atmospheric Administration (United States)</a> &bull; <a href='https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/'>European Parliament and Council of the EU (European Union)</a> &bull; <a href='https://www.indexdata.org/canada/transport-canada/'>Transport Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/european-union/council-of-the-european-union/'>Council of the European Union (European Union)</a> &bull; <a href='https://www.indexdata.org/united-nations/economic-and-social-council/'>Economic and Social Council (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-communications-commission/'>Federal Communications Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-nations/security-council/'>Security Council (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/hm-government-legislation/'>HM Government Legislation (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-nations/human-rights-bodies/'>Human Rights Bodies (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-general-assembly-unga/'>UN General Assembly (UNGA) (United Nations)</a> &bull; <a href='https://www.indexdata.org/european-union/european-investment-fund-eif/'>European Investment Fund (EIF) (European Union)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-the-treasury/'>Department of the Treasury (Australia)</a> &bull; <a href='https://www.indexdata.org/canada/department-of-finance-canada/'>Department of Finance Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/'>Financial Markets Authority (Autorité des marchés financiers - AMF) (France)</a> &bull; <a href='https://www.indexdata.org/united-states/u-s-house-of-representatives/'>U.S. House of Representatives (United States)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-security-council-unsc/'>UN Security Council (UNSC) (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/food-and-drug-administration/'>Food and Drug Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/hm-treasury/'>HM Treasury (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-states/fish-and-wildlife-service/'>Fish and Wildlife Service (United States)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/'>UN Human Rights Council & Treaty Bodies (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/energy-department/'>Energy Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/internal-revenue-service/'>Internal Revenue Service (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/'>HM Courts & Tribunals Service (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-development-programme-undp/'>UN Development Programme (UNDP) (United Nations)</a> &bull; <a href='https://www.indexdata.org/international/european-securities-and-markets-authority-esma/'>European Securities and Markets Authority (ESMA) (International)</a> &bull; <a href='https://www.indexdata.org/united-states/nuclear-regulatory-commission/'>Nuclear Regulatory Commission (United States)</a> &bull; <a href='https://www.indexdata.org/international/food-and-agriculture-organization-fao/'>Food and Agriculture Organization (FAO) (International)</a> &bull; <a href='https://www.indexdata.org/united-nations/united-nations-secretariat/'>United Nations Secretariat (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/'>Ministry of Housing, Communities and Local Government (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-states/agricultural-marketing-service/'>Agricultural Marketing Service (United States)</a> &bull; <a href='https://www.indexdata.org/international/world-bank/'>World Bank (International)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-transport/'>Department for Transport (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/australia/attorney-general-s-department/'>Attorney-General's Department (Australia)</a> &bull; <a href='https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/'>Centers for Medicare & Medicaid Services (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/office-of-the-secretary/'>Office of the Secretary (United States)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/'>UN High Commissioner for Refugees (UNHCR) (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/'>Pipeline and Hazardous Materials Safety Administration (United States)</a> &bull; <a href='https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/'>Crown-Indigenous Relations and Northern Affairs Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-education/'>Department for Education (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/philippines/department-of-agriculture/'>Department of Agriculture (Philippines)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/'>Department for Environment, Food and Rural Affairs (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/home-office/'>Home Office (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-health-disability-and-ageing/'>Department of Health, Disability and Ageing (Australia)</a> &bull; <a href='https://www.indexdata.org/canada/natural-resources-canada/'>Natural Resources Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-states/education-department/'>Education Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/foreign-assets-control-office/'>Foreign Assets Control Office (United States)</a> &bull; <a href='https://www.indexdata.org/european-union/european-medicines-agency-ema/'>European Medicines Agency (EMA) (European Union)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/'>Department for Energy Security and Net Zero (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/switzerland/federal-statistical-office-fso/'>Federal Statistical Office (FSO) (Switzerland)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-business-and-trade/'>Department for Business and Trade (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-states/drug-enforcement-administration/'>Drug Enforcement Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/securities-and-exchange-commission/'>Securities and Exchange Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/industry-and-security-bureau/'>Industry and Security Bureau (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/veterans-affairs-department/'>Veterans Affairs Department (United States)</a> &bull; <a href='https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/'>Federal Ministry of Justice (BMJ) (Germany)</a> &bull; <a href='https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/'>National Highway Traffic Safety Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/personnel-management-office/'>Personnel Management Office (United States)</a> &bull; <a href='https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/'>Organisation for Economic Co-operation and Development (OECD) (International)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-railroad-administration/'>Federal Railroad Administration (United States)</a> &bull; <a href='https://www.indexdata.org/international/european-food-safety-authority-efsa/'>European Food Safety Authority (EFSA) (International)</a> &bull; <a href='https://www.indexdata.org/united-states/postal-service/'>Postal Service (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/'>Department of Health and Social Care (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-states/homeland-security-department/'>Homeland Security Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/'>UN Economic and Social Council (ECOSOC) (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/'>Traffic Commissioners for Great Britain (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-nations/un-trade-and-development-unctad/'>UN Trade and Development (UNCTAD) (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/consumer-financial-protection-bureau/'>Consumer Financial Protection Bureau (United States)</a> &bull; <a href='https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/'>European Centre for Disease Prevention and Control (ECDC) (International)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/'>Courts and Tribunals Judiciary (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/'>Surface Mining Reclamation and Enforcement Office (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/consumer-product-safety-commission/'>Consumer Product Safety Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/'>National Aeronautics and Space Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-energy-regulatory-commission/'>Federal Energy Regulatory Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/housing-and-urban-development-department/'>Housing and Urban Development Department (United States)</a> &bull; <a href='https://www.indexdata.org/canada/health-canada/'>Health Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-states/defense-acquisition-regulations-system/'>Defense Acquisition Regulations System (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/ministry-of-justice/'>Ministry of Justice (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-nations/programmes-and-funds/'>Programmes and Funds (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/'>Federal Motor Carrier Safety Administration (United States)</a> &bull; <a href='https://www.indexdata.org/brazil/central-bank-of-brazil-banco-central-do-brasil/'>Central Bank of Brazil (Banco Central do Brasil) (Brazil)</a> &bull; <a href='https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/'>Innovation, Science and Economic Development Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/international/european-court-of-auditors-eca/'>European Court of Auditors (ECA) (International)</a> &bull; <a href='https://www.indexdata.org/united-states/land-management-bureau/'>Land Management Bureau (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/commodity-futures-trading-commission/'>Commodity Futures Trading Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/national-credit-union-administration/'>National Credit Union Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/state-department/'>State Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/'>Department for Work and Pensions (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-climate-change-energy-the-environment-and-water/'>Department of Climate Change, Energy, the Environment and Water (Australia)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/ministry-of-defence/'>Ministry of Defence (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/canada/environment-and-climate-change-canada/'>Environment and Climate Change Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/'>European Insurance and Occupational Pensions Authority (EIOPA) (International)</a> &bull; <a href='https://www.indexdata.org/philippines/national-privacy-commission/'>National Privacy Commission (Philippines)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/environment-agency/'>Environment Agency (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/philippines/maritime-industry-authority/'>Maritime Industry Authority (Philippines)</a> &bull; <a href='https://www.indexdata.org/united-nations/secretariat/'>Secretariat (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/united-states-senate/'>United States Senate (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-trade-commission/'>Federal Trade Commission (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/occupational-safety-and-health-administration/'>Occupational Safety and Health Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/small-business-administration/'>Small Business Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/united-states-congress/'>United States Congress (United States)</a> &bull; <a href='https://www.indexdata.org/canada/global-affairs-canada/'>Global Affairs Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-states/general-services-administration/'>General Services Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/health-and-human-services-department/'>Health and Human Services Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/children-and-families-administration/'>Children and Families Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/congressional-research-service-crs/'>Congressional Research Service (CRS) (United States)</a> &bull; <a href='https://www.indexdata.org/canada/government-and-municipalities-of-qu-bec/'>Government and Municipalities of Québec (Canada)</a> &bull; <a href='https://www.indexdata.org/liechtenstein/financial-market-authority-liechtenstein-fma/'>Financial Market Authority Liechtenstein (FMA) (Liechtenstein)</a> &bull; <a href='https://www.indexdata.org/united-states/comptroller-of-the-currency/'>Comptroller of the Currency (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-reserve-system/'>Federal Reserve System (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/u-s-customs-and-border-protection/'>U.S. Customs and Border Protection (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-highway-administration/'>Federal Highway Administration (United States)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-home-affairs/'>Department of Home Affairs (Australia)</a> &bull; <a href='https://www.indexdata.org/international/european-banking-authority-eba/'>European Banking Authority (EBA) (International)</a> &bull; <a href='https://www.indexdata.org/united-states/financial-crimes-enforcement-network/'>Financial Crimes Enforcement Network (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/u-s-department-of-energy-doe/'>U.S. Department of Energy (DOE) (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/'>Centers for Disease Control and Prevention (CDC) (United States)</a> &bull; <a href='https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/'>Federal Chancellery of Austria (Bundeskanzleramt) (Austria)</a> &bull; <a href='https://www.indexdata.org/canada/public-safety-canada/'>Public Safety Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/philippines/board-of-investments/'>Board of Investments (Philippines)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/hm-government/'>HM Government (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/'>Animal and Plant Health Agency (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/'>Alcohol, Tobacco, Firearms, and Explosives Bureau (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/justice-department/'>Justice Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/postal-regulatory-commission/'>Postal Regulatory Commission (United States)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-infrastructure-transport-regional-development-communications-and-the-arts/'>Department of Infrastructure, Transport, Regional Development, Communications and the Arts (Australia)</a> &bull; <a href='https://www.indexdata.org/canada/agriculture-and-agri-food-canada/'>Agriculture and Agri-Food Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-defence/'>Department of Defence (Australia)</a> &bull; <a href='https://www.indexdata.org/united-nations/united-nations-general-assembly/'>United Nations General Assembly (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/'>Federal Deposit Insurance Corporation (United States)</a> &bull; <a href='https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/'>Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW) (Austria)</a> &bull; <a href='https://www.indexdata.org/philippines/food-and-drug-administration/'>Food and Drug Administration (Philippines)</a> &bull; <a href='https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/'>Federal Department of Justice and Police (FDJP) (Switzerland)</a> &bull; <a href='https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/'>Alcohol and Tobacco Tax and Trade Bureau (United States)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-agriculture-fisheries-and-forestry/'>Department of Agriculture, Fisheries and Forestry (Australia)</a> &bull; <a href='https://www.indexdata.org/united-states/rural-housing-service/'>Rural Housing Service (United States)</a> &bull; <a href='https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/'>National Institute for Public Policy Analysis (INAPP) (Italy)</a> &bull; <a href='https://www.indexdata.org/philippines/cooperative-development-authority/'>Cooperative Development Authority (Philippines)</a> &bull; <a href='https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/'>Polish Investment and Trade Agency (PAIH) (Poland)</a> &bull; <a href='https://www.indexdata.org/united-states/forest-service/'>Forest Service (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/patent-and-trademark-office/'>Patent and Trademark Office (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/'>State of Hawaii — Department of Land and Natural Resources (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/'>Animal and Plant Health Inspection Service (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/national-park-service/'>National Park Service (United States)</a> &bull; <a href='https://www.indexdata.org/canada/employment-and-social-development-canada/'>Employment and Social Development Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/united-states/mine-safety-and-health-administration/'>Mine Safety and Health Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/employment-and-training-administration/'>Employment and Training Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-aviation-administration-faa/'>Federal Aviation Administration (FAA) (United States)</a> &bull; <a href='https://www.indexdata.org/france/banque-de-france/'>Banque de France (France)</a> &bull; <a href='https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/'>National Institute of Statistics and Economic Studies (INSEE) (France)</a> &bull; <a href='https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/'>National Cybersecurity Authority (NCA) (Saudi Arabia)</a> &bull; <a href='https://www.indexdata.org/united-nations/united-nations/'>United Nations (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/'>U.S. Government Accountability Office (GAO) (United States)</a> &bull; <a href='https://www.indexdata.org/bahrain/education-training-quality-authority-bqa/'>Education & Training Quality Authority (BQA) (Bahrain)</a> &bull; <a href='https://www.indexdata.org/belgium/sciensano-belgian-institute-for-health/'>Sciensano (Belgian Institute for Health) (Belgium)</a> &bull; <a href='https://www.indexdata.org/canada/immigration-refugees-and-citizenship-canada/'>Immigration, Refugees and Citizenship Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-veterans-affairs/'>Department of Veterans' Affairs (Australia)</a> &bull; <a href='https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/'>Austrian National Public Health Institute (Gesundheit Österreich GmbH - GÖG) (Austria)</a> &bull; <a href='https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/'>National Audit Office of Finland (VTV) (Finland)</a> &bull; <a href='https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/'>Pension Benefit Guaranty Corporation (United States)</a> &bull; <a href='https://www.indexdata.org/canada/governor-general-in-council/'>Governor General in Council (Canada)</a> &bull; <a href='https://www.indexdata.org/international/european-central-bank-ecb/'>European Central Bank (ECB) (International)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/marine-management-organisation/'>Marine Management Organisation (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-employment-and-workplace-relations/'>Department of Employment and Workplace Relations (Australia)</a> &bull; <a href='https://www.indexdata.org/canada/government-of-yukon/'>Government of Yukon (Canada)</a> &bull; <a href='https://www.indexdata.org/ireland/d-il-ireann/'>Dáil Éireann (Ireland)</a> &bull; <a href='https://www.indexdata.org/sweden/swedish-transport-administration-trafikverket/'>Swedish Transport Administration (Trafikverket) (Sweden)</a> &bull; <a href='https://www.indexdata.org/united-nations/2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/'>2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons (United Nations)</a> &bull; <a href='https://www.indexdata.org/united-states/employee-benefits-security-administration/'>Employee Benefits Security Administration (United States)</a> &bull; <a href='https://www.indexdata.org/canada/fisheries-and-oceans-canada/'>Fisheries and Oceans Canada (Canada)</a> &bull; <a href='https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/'>Bretagne Développement Innovation (BDI) (France)</a> &bull; <a href='https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/'>French Agricultural Research Centre for International Development (CIRAD) (France)</a> &bull; <a href='https://www.indexdata.org/united-states/commerce-department/'>Commerce Department (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/copyright-office-library-of-congress/'>Copyright Office, Library of Congress (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-procurement-policy-office/'>Federal Procurement Policy Office (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/federal-transit-administration/'>Federal Transit Administration (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/food-and-nutrition-service/'>Food and Nutrition Service (United States)</a> &bull; <a href='https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/'>National Aeronautics and Space Administration (NASA) (United States)</a> &bull; <a href='https://www.indexdata.org/israel/israel-innovation-authority-iia/'>Israel Innovation Authority (IIA) (Israel)</a> &bull; <a href='https://www.indexdata.org/united-states/u-s-geological-survey-usgs/'>U.S. Geological Survey (USGS) (United States)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-finance/'>Department of Finance (Australia)</a> &bull; <a href='https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/'>Israel Nature and Parks Authority (INPA) (Israel)</a> &bull; <a href='https://www.indexdata.org/japan/fukuoka-city/'>Fukuoka City (Japan)</a> &bull; <a href='https://www.indexdata.org/philippines/commission-on-human-rights/'>Commission on Human Rights (Philippines)</a> &bull; <a href='https://www.indexdata.org/czechia/czech-national-bank-cnb/'>Czech National Bank (CNB) (Czechia)</a> &bull; <a href='https://www.indexdata.org/european-union/european-central-bank-ecb/'>European Central Bank (ECB) (European Union)</a> &bull; <a href='https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/'>Department for Environment, Food & Rural Affairs (United Kingdom)</a> &bull; <a href='https://www.indexdata.org/united-nations/other-un-bodies-and-entities/'>Other UN Bodies and Entities (United Nations)</a> &bull; <a href='https://www.indexdata.org/australia/department-of-education/'>Department of Education (Australia)</a> &bull; <a href='https://www.indexdata.org/methodology/'><strong>+780 additional issuing authorities in the Complete Authority Directory</strong></a></p><h3>Latest Published Statutory &amp; Regulatory Dossiers</h3><ul><li><a href='https://www.indexdata.org/access-to-information-appeals-board-decision-case-number-ai10146-documents-concerning-the-integrated-feeder-road-development-project-in-mozambique/'>[WB-WDS-217322] Access to Information Appeals Board Decision Case Number AI10146 : Documents Concerning the Integrated Feeder Road Development Project in Mozambique</a> (World Bank, 2026-11-20)</li><li><a href='https://www.indexdata.org/water-human-economy-nature-when-the-time-is-now-advancing-water-nexus-governance-in-china-from-policy-to-practice/'>[WB-WDS-211028] Water Human Economy Nature (WHEN) the Time is Now : Advancing Water Nexus Governance in China from Policy to Practice</a> (World Bank, 2026-11-20)</li><li><a href='https://www.indexdata.org/meetings-sunshine-act-12/'>[US-FRPI-2026-23819] Meetings; Sunshine Act</a> (U.S. Nuclear Regulatory Commission (NRC), 2026-11-20)</li><li><a href='https://www.indexdata.org/updates-and-amendments-to-the-civil-service-rules-3/'>[US-FR-2026-23732] Updates and Amendments to the Civil Service Rules</a> (Personnel Management Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/procedures-for-settling-claims-3/'>[US-FR-2026-23731] Procedures for Settling Claims</a> (Personnel Management Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/the-air-navigation-restriction-of-flying-helicopter-flight-no-11-regulations-2026/'>[UKSI-2026-1211] The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 11) Regulations 2026</a> (Department for Transport, 2026-11-20)</li><li><a href='https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-17-march-2026/'>[UK-GOV-afa320c6-4d57-4b3e-add0-47ef39af8011-9] Russia: list of designations and sanctions notices — Sanctions Notice, Russia, 17 March 2026</a> (Foreign, Commonwealth & Development Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-16-march-2026/'>[UK-GOV-afa320c6-4d57-4b3e-add0-47ef39af8011-8] Russia: list of designations and sanctions notices — Sanctions Notice, Russia, 16 March 2026</a> (Foreign, Commonwealth & Development Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-12-march-2026/'>[UK-GOV-afa320c6-4d57-4b3e-add0-47ef39af8011-7] Russia: list of designations and sanctions notices — Sanctions Notice, Russia: 12 March 2026</a> (Foreign, Commonwealth & Development Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-6-march-2026/'>[UK-GOV-afa320c6-4d57-4b3e-add0-47ef39af8011-6] Russia: list of designations and sanctions notices — Sanctions Notice, Russia: 6 March 2026</a> (Foreign, Commonwealth & Development Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-2-march-2026/'>[UK-GOV-afa320c6-4d57-4b3e-add0-47ef39af8011-5] Russia: list of designations and sanctions notices — Sanctions Notice, Russia: 2 March 2026</a> (Foreign, Commonwealth & Development Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-20-november-2026/'>[UK-GOV-afa320c6-4d57-4b3e-add0-47ef39af8011-41] Russia: list of designations and sanctions notices — Sanctions Notice, Russia, 20 November 2026</a> (Foreign, Commonwealth & Development Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-17-november-2026/'>[UK-GOV-afa320c6-4d57-4b3e-add0-47ef39af8011-40] Russia: list of designations and sanctions notices — Sanctions Notice, Russia, 17 November 2026</a> (Foreign, Commonwealth & Development Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/2026-11-19-rfq-privacy-in-the-spotligt-pits-tokens/'>[PH-NPC-54366] 2026.11.19 RFQ Privacy in the Spotligt- PITS Tokens</a> (National Privacy Commission, 2026-11-20)</li><li><a href='https://www.indexdata.org/mphilgeps-posting-procurement-of-international-shipment-services/'>[PH-MARINA-26301] mPhilgeps Posting – Procurement of International Shipment Services</a> (Maritime Industry Authority, 2026-11-20)</li><li><a href='https://www.indexdata.org/request-for-quotation-procurement-of-international-shipment-services/'>[PH-MARINA-26300] Request for Quotation – Procurement of International Shipment Services</a> (Maritime Industry Authority, 2026-11-20)</li><li><a href='https://www.indexdata.org/bid-bulletin-bac-gds-ad-006-epa-procurement-of-security-services-for-gpbb-tso-1/'>[PH-GPPB-16745] Bid-Bulletin-BAC-GDS-AD-006 (EPA) – Procurement of Security Services for GPBB-TSO (1)</a> (Government Procurement Policy Board, 2026-11-20)</li><li><a href='https://www.indexdata.org/19th-update-of-app-for-fy-2026-1-1/'>[PH-GPPB-16742] 19th Update of APP for FY 2026 (1) (1)</a> (Government Procurement Policy Board, 2026-11-20)</li><li><a href='https://www.indexdata.org/odg-ioiii-2/'>[PH-FDA-123999] ODG-IOIII (2)</a> (Food and Drug Administration, 2026-11-20)</li><li><a href='https://www.indexdata.org/odg-attyiv/'>[PH-FDA-123998] ODG-ATTYIV</a> (Food and Drug Administration, 2026-11-20)</li><li><a href='https://www.indexdata.org/draft-joint-circular/'>[PH-FDA-123997] Draft Joint Circular</a> (Food and Drug Administration, 2026-11-20)</li><li><a href='https://www.indexdata.org/acm-006-enumeration-of-total-aerobic-mesophilic-microorganisms-bacteria-yeast-and-moulds/'>[PH-FDA-123984] ACM 006 – ENUMERATION OF TOTAL AEROBIC MESOPHILIC MICROORGANISMS (BACTERIA, YEAST AND MOULDS)</a> (Food and Drug Administration, 2026-11-20)</li><li><a href='https://www.indexdata.org/acm-013-identification-and-determination-of-isopropylparaben-and-isobutylparaben-in-cosmetic-products-by-hplc/'>[PH-FDA-123980] ACM 013 – IDENTIFICATION AND DETERMINATION OF ISOPROPYLPARABEN AND ISOBUTYLPARABEN IN COSMETIC PRODUCTS BY HPLC</a> (Food and Drug Administration, 2026-11-20)</li><li><a href='https://www.indexdata.org/acm-008-evaluation-of-the-antimicrobial-protection-of-a-cosmetic-product/'>[PH-FDA-123976] ACM 008 – EVALUATION OF THE ANTIMICROBIAL PROTECTION OF A COSMETIC PRODUCT</a> (Food and Drug Administration, 2026-11-20)</li><li><a href='https://www.indexdata.org/so1631-s2026/'>[PH-DA-114282] so1631 s2026</a> (Department of Agriculture, 2026-11-20)</li><li><a href='https://www.indexdata.org/so1630-s2026/'>[PH-DA-114281] so1630 s2026</a> (Department of Agriculture, 2026-11-20)</li><li><a href='https://www.indexdata.org/so1629-s2026/'>[PH-DA-114280] so1629 s2026</a> (Department of Agriculture, 2026-11-20)</li><li><a href='https://www.indexdata.org/so1628-s2026/'>[PH-DA-114279] so1628 s2026</a> (Department of Agriculture, 2026-11-20)</li><li><a href='https://www.indexdata.org/daily-cigarette-price-monitoring-november-19-2026/'>[PH-DA-114251] Daily Cigarette Price Monitoring November 19, 2026</a> (Department of Agriculture, 2026-11-20)</li><li><a href='https://www.indexdata.org/inside-information-other-news-releases-51/'>[FR-INFOFI-170303_20261120] Inside Information / Other news releases</a> (Financial Markets Authority (Autorité des marchés financiers - AMF), 2026-11-20)</li><li><a href='https://www.indexdata.org/vallourec-third-quarter-2026-results-inside-information/'>[FR-INFOFI-114578_20261120] Vallourec Third Quarter 2026 Results — Inside Information</a> (Financial Markets Authority (Autorité des marchés financiers - AMF), 2026-11-20)</li><li><a href='https://www.indexdata.org/eca-content-pages-documents-eca-decision/'>[ECA-SP-1122E1B1-854] ECA Content Pages Documents — ECA Decision</a> (European Court of Auditors (ECA), 2026-11-20)</li><li><a href='https://www.indexdata.org/information-to-be-provided-pursuant-to-article-52-establishment-of-a-european-grouping-of-territorial-cooperation-egtc-regulation-ec-no-1082-2006-of-the-european-parliament-and-of-the-2/'>[CELEX-C-2026-06158] Information to be provided pursuant to Article 5(2) – Establishment of a European Grouping of Territorial Cooperation (EGTC) (Regulation (EC) No 1082/2006 of the European Parliament and of the Council of 5 July 2006) (OJ C 210, 31.7.2006)</a> (European Commission, 2026-11-20)</li><li><a href='https://www.indexdata.org/summary-of-european-union-decisions-on-marketing-authorisations-in-respect-of-medicinal-products-from-1-october-2026-to-31-october-2026-published-pursuant-to-article-13-or-article-38-of-regulation-e/'>[CELEX-52026XC06137] Summary of European Union decisions on marketing authorisations in respect of medicinal products from 1 October 2026 to 31 October 2026 (Published pursuant to Article 13 or Article 38 of Regulation (EC) No 726/2004 of the European Parliament and of the Council or Article 5 of Regulation (EU) 2019/6 of the European Parliament and of the Council)</a> (European Commission, 2026-11-20)</li><li><a href='https://www.indexdata.org/publication-of-the-communication-of-an-approved-standard-amendment-to-a-product-specification-of-a-geographical-indication-in-accordance-with-article-54-of-commission-delegated-regulation-eu-2025-19/'>[CELEX-52026XC06061] Publication of the communication of an approved standard amendment to a product specification of a geographical indication in accordance with Article 5(4) of Commission Delegated Regulation (EU) 2025/27</a> (European Commission, 2026-11-20)</li><li><a href='https://www.indexdata.org/publication-of-the-communication-of-an-approved-standard-amendment-to-a-product-specification-of-a-geographical-indication-in-accordance-with-article-54-of-commission-delegated-regulation-eu-2025-20/'>[CELEX-52026XC06055] Publication of the communication of an approved standard amendment to a product specification of a geographical indication in accordance with Article 5(4) of Commission Delegated Regulation (EU) 2025/27</a> (European Commission, 2026-11-20)</li><li><a href='https://www.indexdata.org/updates-and-amendments-to-the-civil-service-rules-2/'>[2026-23732] Updates and Amendments to the Civil Service Rules</a> (Personnel Management Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/procedures-for-settling-claims-2/'>[2026-23731] Procedures for Settling Claims</a> (Personnel Management Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/flsa-claims-and-compliance-2/'>[2026-23730] FLSA Claims and Compliance</a> (Personnel Management Office, 2026-11-20)</li><li><a href='https://www.indexdata.org/federal-employees-retirement-system-present-value-conversion-factors-for-spouses-of-deceased-separated-employees-4/'>[2026-23729] Federal Employees' Retirement System; Present Value Conversion Factors for Spouses of Deceased Separated Employees</a> (Personnel Management Office, 2026-11-20)</li></ul>",
   "access_right": "open",
   "license": "cc-by-4.0",
   "language": "eng",
@@ -730,12 +730,12 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/",
+      "identifier": "https://www.indexdata.org/united-states/personnel-management-office/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/united-states/personnel-management-office/",
+      "identifier": "https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -760,12 +760,12 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/",
+      "identifier": "https://www.indexdata.org/united-states/homeland-security-department/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/united-states/homeland-security-department/",
+      "identifier": "https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -785,12 +785,12 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/",
+      "identifier": "https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/",
+      "identifier": "https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -855,6 +855,11 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.indexdata.org/international/european-court-of-auditors-eca/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.indexdata.org/united-states/land-management-bureau/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
@@ -871,11 +876,6 @@
     },
     {
       "identifier": "https://www.indexdata.org/united-states/state-department/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    },
-    {
-      "identifier": "https://www.indexdata.org/international/european-court-of-auditors-eca/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -995,12 +995,12 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/united-states/federal-highway-administration/",
+      "identifier": "https://www.indexdata.org/united-states/u-s-customs-and-border-protection/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/united-states/u-s-customs-and-border-protection/",
+      "identifier": "https://www.indexdata.org/united-states/federal-highway-administration/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -1025,6 +1025,11 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
@@ -1041,11 +1046,6 @@
     },
     {
       "identifier": "https://www.indexdata.org/united-kingdom/hm-government/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    },
-    {
-      "identifier": "https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -1100,6 +1100,11 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.indexdata.org/philippines/food-and-drug-administration/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
@@ -1136,11 +1141,6 @@
     },
     {
       "identifier": "https://www.indexdata.org/united-states/forest-service/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    },
-    {
-      "identifier": "https://www.indexdata.org/philippines/food-and-drug-administration/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -1250,6 +1250,11 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.indexdata.org/international/european-central-bank-ecb/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.indexdata.org/united-kingdom/marine-management-organisation/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
@@ -1261,11 +1266,6 @@
     },
     {
       "identifier": "https://www.indexdata.org/canada/government-of-yukon/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    },
-    {
-      "identifier": "https://www.indexdata.org/international/european-central-bank-ecb/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -1440,6 +1440,11 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.indexdata.org/united-states/surface-transportation-board/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
@@ -1451,11 +1456,6 @@
     },
     {
       "identifier": "https://www.indexdata.org/united-states/federal-election-commission/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    },
-    {
-      "identifier": "https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -1480,6 +1480,11 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.indexdata.org/international/world-intellectual-property-organization-wipo/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
@@ -1500,17 +1505,17 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    },
-    {
       "identifier": "https://www.indexdata.org/australia/australian-centre-for-international-agricultural-research/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
       "identifier": "https://www.indexdata.org/united-states/engineers-corps/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.indexdata.org/united-states/federal-railroad-administration-fra/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -1571,11 +1576,6 @@
     },
     {
       "identifier": "https://www.indexdata.org/united-states/federal-maritime-commission/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    },
-    {
-      "identifier": "https://www.indexdata.org/united-states/federal-railroad-administration-fra/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -1800,6 +1800,11 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.indexdata.org/philippines/government-procurement-policy-board/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
@@ -1850,7 +1855,17 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.indexdata.org/france/interministerial-digital-directorate-direction-interminist-rielle-du-num-rique-dinum/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://www.indexdata.org/germany/federal-environment-agency-umweltbundesamt-uba/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -1965,11 +1980,6 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    },
-    {
       "identifier": "https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
@@ -1980,12 +1990,12 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/philippines/government-procurement-policy-board/",
+      "identifier": "https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/",
+      "identifier": "https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -2161,11 +2171,6 @@
     },
     {
       "identifier": "https://www.indexdata.org/france/french-national-centre-for-scientific-research-cnrs/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
-    },
-    {
-      "identifier": "https://www.indexdata.org/france/interministerial-digital-directorate-direction-interminist-rielle-du-num-rique-dinum/",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
@@ -2530,12 +2535,67 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://www.indexdata.org/south-africa/parliament-of-south-africa/",
-      "relation": "isSupplementTo",
-      "resource_type": "dataset"
+      "identifier": "https://www.indexdata.org/access-to-information-appeals-board-decision-case-number-ai10146-documents-concerning-the-integrated-feeder-road-development-project-in-mozambique/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/water-human-economy-nature-when-the-time-is-now-advancing-water-nexus-governance-in-china-from-policy-to-practice/",
+      "relation": "references",
+      "resource_type": "publication-report"
     },
     {
       "identifier": "https://www.indexdata.org/meetings-sunshine-act-12/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/updates-and-amendments-to-the-civil-service-rules-3/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/procedures-for-settling-claims-3/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/the-air-navigation-restriction-of-flying-helicopter-flight-no-11-regulations-2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-17-march-2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-16-march-2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-12-march-2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-6-march-2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-2-march-2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-20-november-2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-17-november-2026/",
       "relation": "references",
       "resource_type": "publication-report"
     },
@@ -2555,6 +2615,31 @@
       "resource_type": "publication-report"
     },
     {
+      "identifier": "https://www.indexdata.org/bid-bulletin-bac-gds-ad-006-epa-procurement-of-security-services-for-gpbb-tso-1/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/19th-update-of-app-for-fy-2026-1-1/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/odg-ioiii-2/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/odg-attyiv/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/draft-joint-circular/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
       "identifier": "https://www.indexdata.org/acm-006-enumeration-of-total-aerobic-mesophilic-microorganisms-bacteria-yeast-and-moulds/",
       "relation": "references",
       "resource_type": "publication-report"
@@ -2570,7 +2655,107 @@
       "resource_type": "publication-report"
     },
     {
+      "identifier": "https://www.indexdata.org/so1631-s2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/so1630-s2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/so1629-s2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/so1628-s2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
       "identifier": "https://www.indexdata.org/daily-cigarette-price-monitoring-november-19-2026/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/inside-information-other-news-releases-51/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/vallourec-third-quarter-2026-results-inside-information/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/eca-content-pages-documents-eca-decision/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/information-to-be-provided-pursuant-to-article-52-establishment-of-a-european-grouping-of-territorial-cooperation-egtc-regulation-ec-no-1082-2006-of-the-european-parliament-and-of-the-2/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/summary-of-european-union-decisions-on-marketing-authorisations-in-respect-of-medicinal-products-from-1-october-2026-to-31-october-2026-published-pursuant-to-article-13-or-article-38-of-regulation-e/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/publication-of-the-communication-of-an-approved-standard-amendment-to-a-product-specification-of-a-geographical-indication-in-accordance-with-article-54-of-commission-delegated-regulation-eu-2025-19/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/publication-of-the-communication-of-an-approved-standard-amendment-to-a-product-specification-of-a-geographical-indication-in-accordance-with-article-54-of-commission-delegated-regulation-eu-2025-20/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/updates-and-amendments-to-the-civil-service-rules-2/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/procedures-for-settling-claims-2/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/flsa-claims-and-compliance-2/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/federal-employees-retirement-system-present-value-conversion-factors-for-spouses-of-deceased-separated-employees-4/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/extension-of-import-restrictions-imposed-on-archaeological-and-ethnological-material-of-greece/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/implementation-of-havana-act-of-2021-6/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-white-sands-pupfish-and-critical-habitat-determination/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2026-tribal-fishery-allocations-for-pacific-whiting-reapportionment-between-tribal-and-non-tribal-s/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-mazama-newt/",
       "relation": "references",
       "resource_type": "publication-report"
     },
@@ -2596,6 +2781,11 @@
     },
     {
       "identifier": "https://www.indexdata.org/cameroon-2026-economic-update-bridging-the-gap-between-ambition-and-reality-options-for-development-financing-in-cameroon-fifth-edition/",
+      "relation": "references",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.indexdata.org/dtap-diphtheria-tetanus-pertussis-vaccine-what-you-need-to-know-2020/",
       "relation": "references",
       "resource_type": "publication-report"
     },
@@ -2641,196 +2831,6 @@
     },
     {
       "identifier": "https://www.indexdata.org/aquatic-nuisance-species-task-force-meeting/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/customer-due-diligence-requirements-for-covered-financial-institutions-2/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/final-report-gas-separations-using-polymer-grafted-nanoparticle-membranes/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/bridging-reliability-visibility-gaps-through-data-readiness-in-municipal-utilities/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/ccpr-c-145-d-3717-2020-views-adopted-by-the-committee-under-the-optional-protocol-concerning-communication-no-3717-2020-human-rights-committee/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/the-individual-savings-account-amendment-and-revocation-regulations-2026/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/the-value-added-tax-drugs-and-medicines-health-and-welfare-order-2026/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/national-audit-office-hm-revenue-customs-do-2025-26/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/courts-and-tribunals-judiciary-2026ewhc-2907-kb-kb-2026-bhm-000315-bcc-v-bridge-ors-approved-judgment-for-publication-002/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/courts-and-tribunals-judiciary-crown-court-compendium-part-ii-november-2026/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/courts-and-tribunals-judiciary-crown-court-compendium-part-i-november-2026/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/courts-and-tribunals-judiciary-open-judgment-apple-inc-and-privacy-int-ors/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/courts-and-tribunals-judiciary-final-consequential-judgment-foster-hitchens-v-wargrave/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/courts-and-tribunals-judiciary-the-family-holdings-v-ammar-approved-judgment-03-11-26/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-neafc-vessel-licence-conditions-uk-vessels-2022/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-vessel-licence-external-waters-nafo-cod-3m-conditions-2024/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-nor-vessels-variation-1-conditions-26-march-2024/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-eu-vessels-variation-3-conditions-26-march-2024/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-eu-vessels-variation-2-conditions-14-march-2024/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-2025-sia-application-to-fish-in-third-country-waters-faroe-islands/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-vessel-licence-external-waters-norway-variation-1-conditions-23-february-2024/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/foundering-of-the-sailing-yacht-bayesian-with-the-loss-of-seven-lives-maib-investigation-report-22-2026-bayesian/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/generic-parole-process-policy-framework-annex-a-revisions-table/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/generic-parole-process-policy-framework/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/vaccinations-for-older-adults-guide-to-vaccinations-for-adults-over-65/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/12-month-just-energy-transition-partnership-leaders-update-2026-ipg-projects-update-2026/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/rpc-meeting-minutes-13-july-2026-july-2026-minutes/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/department-for-education-consolidated-annual-report-and-accounts-2025-to-2026-dfe-consolidated-annual-report-and-accounts-2025-to-2026-print-ready-version/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/department-for-education-consolidated-annual-report-and-accounts-2025-to-2026-dfe-consolidated-annual-report-and-accounts-2025-to-2026-web-optimised-version/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/vivisol-air-liquide-home-oxygen-services-business-merger-inquiry-summary-of-phase-1-decision-pdf-116kb/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/intelligence-collection-and-analysis-policy-framework/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/rpc-meeting-minutes-11-may-2026-may-2026-minutes/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/disqualification-from-childcare-registration-and-how-to-apply-for-a-waiver-early-years-provision-in-schools-waiver-application-form/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/disqualification-from-childcare-registration-and-how-to-apply-for-a-waiver-childcare-on-non-domestic-premises-waiver-application-form/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/disqualification-from-childcare-registration-and-how-to-apply-for-a-waiver-childminders-waiver-application-form/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/providing-information-about-international-general-aviation-flights-civil-penalties-guidance-for-general-aviation/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/providing-information-about-international-general-aviation-flights-authority-to-carry-scheme/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/providing-information-about-international-general-aviation-flights-general-aviation-guidance/",
-      "relation": "references",
-      "resource_type": "publication-report"
-    },
-    {
-      "identifier": "https://www.indexdata.org/is-your-vessel-vulnerable-to-the-effects-of-extreme-weather-printable-pdf-version/",
       "relation": "references",
       "resource_type": "publication-report"
     }

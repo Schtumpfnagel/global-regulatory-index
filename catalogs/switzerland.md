@@ -5,22 +5,23 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/switzerland/feed/](https://www.indexdata.org/switzerland/feed/)  
 **Wikidata Sovereign Entity:** [`Q39`](https://www.wikidata.org/wiki/Q39)  
 **Governing Open-Government Framework:** *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)*  
-**Total Indexed Dossiers in Switzerland:** `191` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-20 02:47 UTC`
+**Total Indexed Dossiers in Switzerland:** `192` across `6` issuing authorities  
+**Last Automated Sync:** `2026-11-20 10:44 UTC`
 
 ---
 
-## Issuing Authorities in Switzerland (5 Authorities)
+## Issuing Authorities in Switzerland (6 Authorities)
 
 - **[Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)** (`119` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
 - **[Federal Department of Justice and Police (FDJP)](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/feed/)
 - **[EnviDat: the Environmental Data Portal](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/) | [RSS Feed](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/feed/)
 - **[Federal Department of Economic Affairs, Education and Research (EAER)](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/feed/)
 - **[Federal Department of Home Affairs (FDHA)](https://www.indexdata.org/switzerland/federal-department-of-home-affairs-fdha/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-home-affairs-fdha/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-home-affairs-fdha/feed/)
+- **[Federal Office of Public Health (FOPH)](https://www.indexdata.org/switzerland/federal-office-of-public-health-foph/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-office-of-public-health-foph/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-office-of-public-health-foph/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–191 of 191)
+## Indexed Statutory & Regulatory Dossiers (Records 1–192 of 192)
 
 ### [Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)
 Canonical Authority Archive: [https://www.indexdata.org/switzerland/federal-statistical-office-fso/](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
@@ -232,6 +233,11 @@ Canonical Authority Archive: [https://www.indexdata.org/switzerland/federal-depa
 - `[`CH-FEDLEX-cc-2020-711-20220101`]` **[Federal Act on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic (COVID-19 Act)](https://www.indexdata.org/federal-act-on-the-statutory-principles-for-federal-council-ordinances-on-combating-the-covid-19-epidemic-covid-19-act/)** — `2022-01-01` | `22 Pages`
 - `[`CH-FEDLEX-cc-2020-711-20210701`]` **[Federal Act on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic (COVID-19 Act)](https://www.indexdata.org/federal-act-on-the-statutory-principles-for-federal-council-ordinances-on-combating-the-covid-19-epidemic-covid-19-act-2/)** — `2021-07-01` | `22 Pages`
 - `[`CH-FEDLEX-cc-2020-711-20210401`]` **[SR 818.102 — Federal Act of 25 September 2020 on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic (COVID-19 Act)](https://www.indexdata.org/sr-818-102-federal-act-of-25-september-2020-on-the-statutory-principles-for-federal-council-ordinances-on-combating-the-covid-19-epidemic-covid-19-act/)** — `2021-04-01` | `22 Pages`
+
+### [Federal Office of Public Health (FOPH)](https://www.indexdata.org/switzerland/federal-office-of-public-health-foph/)
+Canonical Authority Archive: [https://www.indexdata.org/switzerland/federal-office-of-public-health-foph/](https://www.indexdata.org/switzerland/federal-office-of-public-health-foph/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-office-of-public-health-foph/feed/)
+
+- `[`CH-OGD-13345431-7cd8-44`]` **[Health insurance premiums](https://www.indexdata.org/health-insurance-premiums/)** — `2026-09-29` | `2 Pages`
 
 ---
 
