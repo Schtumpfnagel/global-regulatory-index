@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,232` across `28` issuing authorities  
-**Last Automated Sync:** `2026-11-20 10:44 UTC`
+**Total Indexed Dossiers in International:** `1,235` across `28` issuing authorities  
+**Last Automated Sync:** `2026-11-20 18:59 UTC`
 
 ---
 
@@ -13,7 +13,7 @@
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`233` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`208` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
-- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`188` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
+- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`191` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`106` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`91` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
@@ -42,7 +42,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,232 of 1,232)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,235 of 1,235)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -496,6 +496,8 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 ### [World Bank](https://www.indexdata.org/international/world-bank/)
 Canonical Authority Archive: [https://www.indexdata.org/international/world-bank/](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/)
 
+- `[`WB-WDS-40140044`]` **[Labor Management Procedures Water Infrastructure for Sustainability Efficiency and Resilience (P517530)](https://www.indexdata.org/labor-management-procedures-water-infrastructure-for-sustainability-efficiency-and-resilience-p517530/)** — `2026-11-20` | `45 Pages`
+- `[`WB-WDS-217373`]` **[Driving Electric Rides : Experimental Evidence on Vehicle Access Contracts, Labor Productivity, and Driver-Firm Incidence](https://www.indexdata.org/driving-electric-rides-experimental-evidence-on-vehicle-access-contracts-labor-productivity-and-driver-firm-incidence/)** — `2026-11-20` | `51 Pages`
 - `[`WB-WDS-217322`]` **[Access to Information Appeals Board Decision Case Number AI10146 : Documents Concerning the Integrated Feeder Road Development Project in Mozambique](https://www.indexdata.org/access-to-information-appeals-board-decision-case-number-ai10146-documents-concerning-the-integrated-feeder-road-development-project-in-mozambique/)** — `2026-11-20` | `4 Pages`
 - `[`WB-WDS-211028`]` **[Water Human Economy Nature (WHEN) the Time is Now : Advancing Water Nexus Governance in China from Policy to Practice](https://www.indexdata.org/water-human-economy-nature-when-the-time-is-now-advancing-water-nexus-governance-in-china-from-policy-to-practice/)** — `2026-11-20` | `44 Pages`
 - `[`WB-WPS-11504`]` **[Connecting Rural Areas : Roads and Structural Transformation in Mali](https://www.indexdata.org/connecting-rural-areas-roads-and-structural-transformation-in-mali/)** — `2026-11-19` | `54 Pages`
@@ -520,6 +522,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/world-bank
 - `[`WB-WDS-217131`]` **[Going Beyond one-size-fits-all : A One World Bank Group Framework for Supporting Women Entrepreneurs - Operational Guidance Note](https://www.indexdata.org/going-beyond-one-size-fits-all-a-one-world-bank-group-framework-for-supporting-women-entrepreneurs-operational-guidance-note/)** — `2026-11-13` | `36 Pages`
 - `[`WB-WDS-217122`]` **[Unlocking the Potential of Sports in Africa](https://www.indexdata.org/unlocking-the-potential-of-sports-in-africa/)** — `2026-11-13` | `332 Pages`
 - `[`WB-WDS-217120`]` **[MSPglobal Rapid Assessment for South Africa](https://www.indexdata.org/mspglobal-rapid-assessment-for-south-africa/)** — `2026-11-13` | `116 Pages`
+- `[`WB-OA-W7235813876`]` **[Fiscal Multipliers of Government Health and Education Expenditures: Evidence from Electoral Budget Cycles](https://www.indexdata.org/fiscal-multipliers-of-government-health-and-education-expenditures-evidence-from-electoral-budget-cycles-2/)** — `2026-11-13` | `60 Pages`
 - `[`WB-WDS-40138720`]` **[Revised Labor Management Procedures Second Timor-Leste Branch Roads Project (P516518)](https://www.indexdata.org/revised-labor-management-procedures-second-timor-leste-branch-roads-project-p516518/)** — `2026-11-12` | `38 Pages`
 - `[`WB-WDS-202237`]` **[Adoption of Al-powered Chest Radiography at a Commune Health Station in Ho Chi Minh City, Viet Nam : Pilot Evaluation Report](https://www.indexdata.org/adoption-of-al-powered-chest-radiography-at-a-commune-health-station-in-ho-chi-minh-city-viet-nam-pilot-evaluation-report/)** — `2026-11-12` | `26 Pages`
 - `[`WB-WDS-217040`]` **[Shifting Sands : Is Trade Still a Path to Development? - Overview](https://www.indexdata.org/shifting-sands-is-trade-still-a-path-to-development-overview/)** — `2026-11-11` | `34 Pages`

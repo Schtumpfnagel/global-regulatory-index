@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/italy/feed/](https://www.indexdata.org/italy/feed/)  
 **Wikidata Sovereign Entity:** [`Q38`](https://www.wikidata.org/wiki/Q38)  
 **Governing Open-Government Framework:** *Decreto Legislativo n. 36/2006 & Legge n. 633/1941 art. 5*  
-**Total Indexed Dossiers in Italy:** `79` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-20 10:44 UTC`
+**Total Indexed Dossiers in Italy:** `80` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-20 18:59 UTC`
 
 ---
 
@@ -14,13 +14,13 @@
 
 - **[National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
 - **[National Research Council of Italy (CNR)](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/) | [RSS Feed](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/feed/)
-- **[Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
+- **[Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
 - **[Italian National Institute of Statistics (ISTAT)](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/) | [RSS Feed](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/feed/)
 - **[National Institute for Astrophysics (INAF)](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–79 of 79)
+## Indexed Statutory & Regulatory Dossiers (Records 1–80 of 80)
 
 ### [National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
@@ -90,6 +90,7 @@ Canonical Authority Archive: [https://www.indexdata.org/italy/national-research-
 ### [Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
 
+- `[`IT-ENAC-83904`]` **[richiesta AdR](https://www.indexdata.org/richiesta-adr/)** — `2026-11-20` | `2 Pages`
 - `[`IT-ENAC-83667`]` **[2026 11 11 All D Viaggio con cani assistenza REV GNR ADP](https://www.indexdata.org/2026-11-11-all-d-viaggio-con-cani-assistenza-rev-gnr-adp/)** — `2026-11-11` | `8 Pages`
 - `[`IT-ENAC-83665`]` **[2026 11 11 All C Informazioni siti web REV GNR ADP](https://www.indexdata.org/2026-11-11-all-c-informazioni-siti-web-rev-gnr-adp/)** — `2026-11-11` | `9 Pages`
 - `[`IT-ENAC-83663`]` **[2026 11 11 All B Formazione REV GNR ADP](https://www.indexdata.org/2026-11-11-all-b-formazione-rev-gnr-adp/)** — `2026-11-11` | `16 Pages`

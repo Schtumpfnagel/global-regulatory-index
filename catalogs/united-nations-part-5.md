@@ -5,18 +5,18 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,018` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,020` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-20 10:44 UTC`
+**Last Automated Sync:** `2026-11-20 18:59 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,023` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,024` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`494` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`495` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,018 of 7,018)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,020 of 7,020)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -1253,6 +1253,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/office-of
 
 - `[`UN-4024634`]` **[Report to the Ad Hoc Liaison Committee — May 2023](https://www.indexdata.org/4024634-report-to-the-ad-hoc-liaison-committee-may-2023/)** — `2023-05-03` | `20 Pages`
 - `[`UN-4024638`]` **[Report to the Ad Hoc Liaison Committee — September 2022](https://www.indexdata.org/4024638-report-to-the-ad-hoc-liaison-committee-september-2022/)** — `2022-09-22` | `18 Pages`
+
+### [UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
+
+- `[`UN-E-CN.18-2025-5`]` **[Monitoring, assessment and reporting : voluntary national reports; capacity-building for reporting; the global core set of forest-related indicators; and the next Global Forest Goals Report](https://www.indexdata.org/e-cn-18-2025-5-monitoring-assessment-and-reporting-voluntary-national-reports-capacity-building-for-reporting-the-global-core-set-of-forest-related-indicators-and-the-next-global-forest-goals/)** — `2024-12-11` | `21 Pages`
+- `[`UN-E-CN.18-2025-1`]` **[Provisional agenda and annotations — United Nations Forum on Forests, 20th session, New York, 5–9 May 2025](https://www.indexdata.org/e-cn-18-2025-1-provisional-agenda-and-annotations-united-nations-forum-on-forests-20th-session-new-york-5-9-may-2025/)** — `2024-12-11` | `7 Pages`
 
 ### [United Nations Official Documents](https://www.indexdata.org/united-nations/united-nations-official-documents/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-official-documents/](https://www.indexdata.org/united-nations/united-nations-official-documents/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-official-documents/feed/)

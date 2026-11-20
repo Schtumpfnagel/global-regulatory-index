@@ -5,20 +5,21 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/poland/feed/](https://www.indexdata.org/poland/feed/)  
 **Wikidata Sovereign Entity:** [`Q36`](https://www.wikidata.org/wiki/Q36)  
 **Governing Open-Government Framework:** *Polish Copyright Act (Dz.U. 1994 nr 24 poz. 83, Art. 4) & Open Data Act (Dz.U. 2021 poz. 1641)*  
-**Total Indexed Dossiers in Poland:** `43` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-20 10:44 UTC`
+**Total Indexed Dossiers in Poland:** `44` across `4` issuing authorities  
+**Last Automated Sync:** `2026-11-20 18:59 UTC`
 
 ---
 
-## Issuing Authorities in Poland (3 Authorities)
+## Issuing Authorities in Poland (4 Authorities)
 
 - **[Polish Investment and Trade Agency (PAIH)](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/) | [RSS Feed](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/feed/)
 - **[Chancellery of the Prime Minister of Poland](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/) | [RSS Feed](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/feed/)
 - **[Ministry of Science and Higher Education (POL-on)](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/) | [RSS Feed](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/feed/)
+- **[Polish National Energy Conservation Agency](https://www.indexdata.org/poland/polish-national-energy-conservation-agency/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/poland/polish-national-energy-conservation-agency/) | [RSS Feed](https://www.indexdata.org/poland/polish-national-energy-conservation-agency/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–43 of 43)
+## Indexed Statutory & Regulatory Dossiers (Records 1–44 of 44)
 
 ### [Polish Investment and Trade Agency (PAIH)](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/)
 Canonical Authority Archive: [https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/) | [RSS Feed](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/feed/)
@@ -74,6 +75,11 @@ Canonical Authority Archive: [https://www.indexdata.org/poland/chancellery-of-th
 Canonical Authority Archive: [https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/) | [RSS Feed](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/feed/)
 
 - `[`PL-POLON-497463`]` **[pol on self assessment report 30 march 2025](https://www.indexdata.org/pol-on-self-assessment-report-30-march-2025/)** — `2025-05-20` | `2 Pages`
+
+### [Polish National Energy Conservation Agency](https://www.indexdata.org/poland/polish-national-energy-conservation-agency/)
+Canonical Authority Archive: [https://www.indexdata.org/poland/polish-national-energy-conservation-agency/](https://www.indexdata.org/poland/polish-national-energy-conservation-agency/) | [RSS Feed](https://www.indexdata.org/poland/polish-national-energy-conservation-agency/feed/)
+
+- `[`PL-OA-W4316926998`]` **[Report on Tailor-Made Business Models for RECs in four selected Target Regions](https://www.indexdata.org/report-on-tailor-made-business-models-for-recs-in-four-selected-target-regions/)** — `2023-01-17` | `50 Pages`
 
 ---
 

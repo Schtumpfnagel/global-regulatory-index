@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `198` across `38` issuing authorities  
-**Last Automated Sync:** `2026-11-20 10:44 UTC`
+**Total Indexed Dossiers in Ireland:** `199` across `39` issuing authorities  
+**Last Automated Sync:** `2026-11-20 18:59 UTC`
 
 ---
 
-## Issuing Authorities in Ireland (38 Authorities)
+## Issuing Authorities in Ireland (39 Authorities)
 
 - **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
 - **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
@@ -44,6 +44,7 @@
 - **[Waterways Ireland](https://www.indexdata.org/ireland/waterways-ireland/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/waterways-ireland/) | [RSS Feed](https://www.indexdata.org/ireland/waterways-ireland/feed/)
 - **[Department of Fisheries](https://www.indexdata.org/ireland/department-of-fisheries/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-fisheries/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-fisheries/feed/)
 - **[Department of Fisheries and Forestry](https://www.indexdata.org/ireland/department-of-fisheries-and-forestry/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-fisheries-and-forestry/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-fisheries-and-forestry/feed/)
+- **[Department of Public Expenditure, NDP Delivery and Reform](https://www.indexdata.org/ireland/department-of-public-expenditure-ndp-delivery-and-reform/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-public-expenditure-ndp-delivery-and-reform/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-public-expenditure-ndp-delivery-and-reform/feed/)
 - **[Department of Transport](https://www.indexdata.org/ireland/department-of-transport/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-transport/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-transport/feed/)
 - **[Government of Ireland](https://www.indexdata.org/ireland/government-of-ireland/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/government-of-ireland/) | [RSS Feed](https://www.indexdata.org/ireland/government-of-ireland/feed/)
 - **[Health Information and Quality Authority (HIQA)](https://www.indexdata.org/ireland/health-information-and-quality-authority-hiqa/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/health-information-and-quality-authority-hiqa/) | [RSS Feed](https://www.indexdata.org/ireland/health-information-and-quality-authority-hiqa/feed/)
@@ -53,7 +54,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–198 of 198)
+## Indexed Statutory & Regulatory Dossiers (Records 1–199 of 199)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -374,6 +375,11 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-fi
 Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-fisheries-and-forestry/](https://www.indexdata.org/ireland/department-of-fisheries-and-forestry/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-fisheries-and-forestry/feed/)
 
 - `[`IE-MARINE-10793-523`]` **[Interaction between seals and salmon drift net fisheries in the west of Ireland](https://www.indexdata.org/interaction-between-seals-and-salmon-drift-net-fisheries-in-the-west-of-ireland/)** — `2011-07-25` | `7 Pages`
+
+### [Department of Public Expenditure, NDP Delivery and Reform](https://www.indexdata.org/ireland/department-of-public-expenditure-ndp-delivery-and-reform/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-public-expenditure-ndp-delivery-and-reform/](https://www.indexdata.org/ireland/department-of-public-expenditure-ndp-delivery-and-reform/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-public-expenditure-ndp-delivery-and-reform/feed/)
+
+- `[`IE-OA-W4307220292`]` **[Summative Assessment of Literacy and Numeracy (V1)](https://www.indexdata.org/summative-assessment-of-literacy-and-numeracy-v1/)** — `2022-10-24` | `42 Pages`
 
 ### [Department of Transport](https://www.indexdata.org/ireland/department-of-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-transport/](https://www.indexdata.org/ireland/department-of-transport/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-transport/feed/)

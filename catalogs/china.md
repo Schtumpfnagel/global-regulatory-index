@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/china/feed/](https://www.indexdata.org/china/feed/)  
 **Wikidata Sovereign Entity:** [`Q148`](https://www.wikidata.org/wiki/Q148)  
 **Governing Open-Government Framework:** *Copyright Law of the PRC, Art. 5(1)*  
-**Total Indexed Dossiers in China:** `41` across `20` issuing authorities  
-**Last Automated Sync:** `2026-11-20 10:44 UTC`
+**Total Indexed Dossiers in China:** `42` across `20` issuing authorities  
+**Last Automated Sync:** `2026-11-20 18:59 UTC`
 
 ---
 
 ## Issuing Authorities in China (20 Authorities)
 
-- **[Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
+- **[Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
 - **[Government of the Hong Kong SAR — Intellectual Property Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/feed/)
 - **[Government of the Hong Kong SAR — Civil Engineering and Development Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-civil-engineering-and-development-department/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-civil-engineering-and-development-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-civil-engineering-and-development-department/feed/)
 - **[Government of the Hong Kong SAR — Department of Justice](https://www.indexdata.org/china/government-of-the-hong-kong-sar-department-of-justice/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-department-of-justice/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-department-of-justice/feed/)
@@ -35,11 +35,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–41 of 41)
+## Indexed Statutory & Regulatory Dossiers (Records 1–42 of 42)
 
 ### [Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)
 Canonical Authority Archive: [https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
 
+- `[`CN-HK-DATAGOV-ee8df2e4-b904-4674-813e-3084c8f4dfe2-spec`]` **[Statistics on Labour Force, Unemployment and Underemployment - Table 210-06101 : Statistics on labour force, employment, unemployment and underemployment — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/statistics-on-labour-force-unemployment-and-underemployment-table-210-06101-statistics-on-labour-force-employment-unemployment-and-underemployment-official-data-specification-census/)** — `2026-11-17` | `4 Pages`
 - `[`CN-HK-DATAGOV-2ddd8aaf-a2e4-4da6-af7f-1bb4e45f1bc6-spec`]` **[Housing and Property - Table 920-04001 : Stock of permanent living quarters by District Council district — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/housing-and-property-table-920-04001-stock-of-permanent-living-quarters-by-district-council-district-official-data-specification-census-and-statistics-department/)** — `2026-11-17` | `4 Pages`
 - `[`CN-HK-DATAGOV-f5813618-fb9e-4cf9-8a87-317346a625b3-spec`]` **[Health - Table 930-92084 : Expenditure of Department of Health and Hospital Authority — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/health-table-930-92084-expenditure-of-department-of-health-and-hospital-authority-official-data-specification-census-and-statistics-department/)** — `2026-11-05` | `4 Pages`
 - `[`CN-HK-DATAGOV-3e643770-8d02-4ef5-8225-d662370810f8-spec`]` **[Hong Kong Energy Statistics - Table 915-91101 : Value of net imports of oil products and coal products — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/hong-kong-energy-statistics-table-915-91101-value-of-net-imports-of-oil-products-and-coal-products-official-data-specification-census-and-statistics-department/)** — `2026-10-30` | `4 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,392` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,394` across `34` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-20 10:44 UTC`
+**Last Automated Sync:** `2026-11-20 18:59 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
 - **[Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)** (`360` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 - **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** (`156` dossiers) — [Authority Archive](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/)
-- **[Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)** (`137` dossiers) — [Authority Archive](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
+- **[Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
 - **[Health Canada](https://www.indexdata.org/canada/health-canada/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)
 - **[Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)** (`81` dossiers) — [Authority Archive](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
 - **[Environment and Climate Change Canada](https://www.indexdata.org/canada/environment-and-climate-change-canada/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/canada/environment-and-climate-change-canada/) | [RSS Feed](https://www.indexdata.org/canada/environment-and-climate-change-canada/feed/)
@@ -50,7 +50,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,392)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,394)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -958,8 +958,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-78-168`]` **[Apricot Stabilization Regulations, 1977](https://www.indexdata.org/apricot-stabilization-regulations-1977/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-78-151`]` **[Sweet Cherry Stabilization Regulations](https://www.indexdata.org/sweet-cherry-stabilization-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-78-148`]` **[Special Voting Rules](https://www.indexdata.org/special-voting-rules/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-78-145`]` **[Protection of Personal Information Regulations](https://www.indexdata.org/protection-of-personal-information-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-78-136`]` **[Winter Pears Stabilization Regulations](https://www.indexdata.org/winter-pears-stabilization-regulations/)** — `2026-09-30` | `3 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1330,6 +1328,8 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-fin
 ### [Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/natural-resources-canada/](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
 
+- `[`CA-OPEN-fe83a604-aa5a-4e46-903c`]` **[Historical Flood Events (HFE) — Historical Flood Events - Product specifications](https://www.indexdata.org/historical-flood-events-hfe-historical-flood-events-product-specifications/)** — `2026-11-20` | `21 Pages`
+- `[`CA-OPEN-7069387e-9986-4297-9f55`]` **[LiDAR Point Clouds - CanElevation Series — LiDAR Point Clouds - CanElevation Series - Provincial and territorial lidar download portals](https://www.indexdata.org/lidar-point-clouds-canelevation-series-lidar-point-clouds-canelevation-series-provincial-and-territorial-lidar-download-portals/)** — `2026-11-17` | `2 Pages`
 - `[`CA-FOSRC-1845-351646`]` **[Wildland fires in the circumboreal forest under climate overshoot](https://www.indexdata.org/wildland-fires-in-the-circumboreal-forest-under-climate-overshoot/)** — `2026-11-16` | `64 Pages`
 - `[`CA-FOSRC-1845-351948`]` **[Novel calibration procedure to update rare earth element analyses using a portable X-ray fluorescence spectrometer](https://www.indexdata.org/novel-calibration-procedure-to-update-rare-earth-element-analyses-using-a-portable-x-ray-fluorescence-spectrometer/)** — `2026-11-10` | `176 Pages`
 - `[`CA-FOSRC-1845-351919`]` **[Geological characterization of the basal clastics of the Western Canada Sedimentary Basin, Alberta and Saskatchewan, for carbon storage and geothermal energy](https://www.indexdata.org/geological-characterization-of-the-basal-clastics-of-the-western-canada-sedimentary-basin-alberta-and-saskatchewan-for-carbon-storage-and-geothermal-energy/)** — `2026-11-09` | `27 Pages`
