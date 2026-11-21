@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `199` across `39` issuing authorities  
-**Last Automated Sync:** `2026-11-21 08:59 UTC`
+**Total Indexed Dossiers in Ireland:** `201` across `39` issuing authorities  
+**Last Automated Sync:** `2026-11-21 17:05 UTC`
 
 ---
 
 ## Issuing Authorities in Ireland (39 Authorities)
 
 - **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
-- **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
+- **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
 - **[Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
 - **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
 - **[Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
@@ -54,7 +54,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–199 of 199)
+## Indexed Statutory & Regulatory Dossiers (Records 1–201 of 201)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -101,6 +101,8 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/economic-and-soc
 - `[`IE-OA-W4413705277`]` **[Experience of bullying and bullying behaviours in childhood and adolescence](https://www.indexdata.org/experience-of-bullying-and-bullying-behaviours-in-childhood-and-adolescence/)** — `2025-08-26` | `88 Pages`
 - `[`IE-OA-W4411245221`]` **[Including non-resident fathers in cohort research: a scoping study](https://www.indexdata.org/including-non-resident-fathers-in-cohort-research-a-scoping-study/)** — `2025-06-04` | `86 Pages`
 - `[`IE-OA-W4405297299`]` **[Quarterly Economic Commentary, Winter 2024](https://www.indexdata.org/quarterly-economic-commentary-winter-2024/)** — `2024-12-12` | `128 Pages`
+- `[`IE-OA-W4404918616`]` **[Non-EU nationals in irregular employment in Ireland](https://www.indexdata.org/non-eu-nationals-in-irregular-employment-in-ireland/)** — `2024-12-03` | `71 Pages`
+- `[`IE-OA-W4403394686`]` **[An analysis of Population-Based Resource Allocation for health and social care in Ireland](https://www.indexdata.org/an-analysis-of-population-based-resource-allocation-for-health-and-social-care-in-ireland/)** — `2024-10-15` | `95 Pages`
 - `[`IE-OA-W4402192158`]` **[Poverty, income inequality and living standards in Ireland: Fourth annual report](https://www.indexdata.org/poverty-income-inequality-and-living-standards-in-ireland-fourth-annual-report/)** — `2024-09-03` | `63 Pages`
 - `[`IE-OA-W4408360575`]` **[Adjusting estimates of poverty for the cost of disability](https://www.indexdata.org/adjusting-estimates-of-poverty-for-the-cost-of-disability/)** — `2024-03-12` | `70 Pages`
 - `[`IE-OA-W4389548308`]` **[Distributional impact of tax and welfare policies: Budget 2024](https://www.indexdata.org/distributional-impact-of-tax-and-welfare-policies-budget-2024/)** — `2023-12-11` | `19 Pages`
