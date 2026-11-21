@@ -4,14 +4,14 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,253` across `28` issuing authorities  
-**Last Automated Sync:** `2026-11-21 17:05 UTC`
+**Total Indexed Dossiers in International:** `1,254` across `28` issuing authorities  
+**Last Automated Sync:** `2026-11-21 22:33 UTC`
 
 ---
 
 ## Issuing Authorities in International (28 Authorities)
 
-- **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`243` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
+- **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`244` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`209` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`192` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
@@ -42,7 +42,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,253 of 1,253)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,254 of 1,254)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -57,6 +57,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-s
 - `[`ESMA-PRIII-48583478`]` **[ESMA Prospectus Register: DRIVER UK MASTER S.A. - 529900MRO80NKJYUH055 — Base prospectus without Final terms &#91;Ref. C-033297 &#124; Luxembourg&#93;](https://www.indexdata.org/esma-prospectus-register-driver-uk-master-s-a-529900mro80nkjyuh055-base-prospectus-without-final-terms-ref-c-033297-luxembourg/)** — `2026-11-20` | `312 Pages`
 - `[`ESMA-PRIII-48583471`]` **[ESMA Prospectus Register: VCL Master Netherlands B.V. - 529900HPHD9YZZ504R69 — Base prospectus without Final terms &#91;Ref. C-033313 &#124; Luxembourg&#93;](https://www.indexdata.org/esma-prospectus-register-vcl-master-netherlands-b-v-529900hphd9yzz504r69-base-prospectus-without-final-terms-ref-c-033313-luxembourg/)** — `2026-11-20` | `251 Pages`
 - `[`ESMA-PRIII-48583441`]` **[ESMA Prospectus Register: UNICREDIT, SOCIETA' PER AZIONI - 549300TRUWO2CD2G5692 — Securities note — (Base Prospectus) &#91;Ref. C-033253-SctiesNt &#124; Luxembourg&#93;](https://www.indexdata.org/esma-prospectus-register-unicredit-societa-per-azioni-549300truwo2cd2g5692-securities-note-base-prospectus-ref-c-033253-sctiesnt-luxembourg/)** — `2026-11-20` | `106 Pages`
+- `[`ESMA-PRIII-48583407`]` **[ESMA Prospectus Register: SG Issuer - 549300QNMDBVTHX8H127 — Base prospectus without Final terms &#91;Ref. C-033318 &#124; Luxembourg&#93;](https://www.indexdata.org/esma-prospectus-register-sg-issuer-549300qnmdbvthx8h127-base-prospectus-without-final-terms-ref-c-033318-luxembourg/)** — `2026-11-20` | `303 Pages`
 - `[`ESMA-PRIII-48546523`]` **[ESMA Prospectus Register: NATIXIS - KX1WK48MPD4Y2NCUIZ63, Natixis Structured Issuance SA - 549300YZ10WOWPBPDW20 — Base prospectus without Final terms &#91;Ref. C-033279 &#124; Luxembourg&#93;](https://www.indexdata.org/esma-prospectus-register-natixis-kx1wk48mpd4y2ncuiz63-natixis-structured-issuance-sa-549300yz10wowpbpdw20-base-prospectus-without-final-terms-ref-c-033279-luxembourg/)** — `2026-11-19` | `433 Pages`
 - `[`ESMA-PRIII-48546042`]` **[ESMA Prospectus Register: CARS ALLIANCE AUTO LEASES FRANCE V 2026-1 - 969500I84A0L592VT863 — Standalone prospectus &#91;ISIN FR001401ADA1, FR001401ADA1, FR001401ADB9, FR001401ADB9 &#124; Ref. C-033069 &#124; Luxembourg&#93;](https://www.indexdata.org/esma-prospectus-register-cars-alliance-auto-leases-france-v-2026-1-969500i84a0l592vt863-standalone-prospectus-isin-fr001401ada1-fr001401ada1-fr001401adb9-fr001401adb9-ref-c-033069/)** — `2026-11-19` | `346 Pages`
 - `[`ESMA-PRIII-48545942`]` **[ESMA Prospectus Register: Sp-Kiinnitysluottopankki Oyj - 7437001BISR7R2A9KX89 — Base prospectus without Final terms &#91;Ref. DOC01031412 &#124; Ireland&#93;](https://www.indexdata.org/esma-prospectus-register-sp-kiinnitysluottopankki-oyj-7437001bisr7r2a9kx89-base-prospectus-without-final-terms-ref-doc01031412-ireland/)** — `2026-11-19` | `166 Pages`
