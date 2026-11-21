@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,506` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,510` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-21 01:04 UTC`
+**Last Automated Sync:** `2026-11-21 08:59 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,530` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,534` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,052` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,506)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,510)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -675,6 +675,10 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-2014_01_30_csi_europe_field_en`]` **[EIB Policy Conference: 2014 01 30 csi Europe Field](https://www.indexdata.org/eib-policy-conference-2014-01-30-csi-europe-field/)** — `2025-04-15` | `11 Pages`
 - `[`EIB-EVT-2014_01_30_csi_europe_crome_en`]` **[EIB Policy Conference: 2014 01 30 csi Europe Crome](https://www.indexdata.org/eib-policy-conference-2014-01-30-csi-europe-crome/)** — `2025-04-15` | `17 Pages`
 - `[`EIB-EVT-2014_01_30_csi_europe_coppens_en`]` **[EIB Policy Conference: 2014 01 30 csi Europe Coppens](https://www.indexdata.org/eib-policy-conference-2014-01-30-csi-europe-coppens/)** — `2025-04-15` | `24 Pages`
+- `[`EIB-EVT-2014_01_30_csi_europe_celio_en`]` **[EIB Policy Conference: 2014 01 30 csi Europe Celio](https://www.indexdata.org/eib-policy-conference-2014-01-30-csi-europe-celio/)** — `2025-04-15` | `11 Pages`
+- `[`EIB-EVT-20141211_innovfin_oslo_product_presentation_en`]` **[EIB Policy Conference: 20141211 Innovfin Oslo Product Presentation](https://www.indexdata.org/eib-policy-conference-20141211-innovfin-oslo-product-presentation/)** — `2025-04-15` | `34 Pages`
+- `[`EIB-EVT-20141211_innovfin_oslo_mgf_workshop_en`]` **[EIB Policy Conference: 20141211 Innovfin Oslo mgf Workshop](https://www.indexdata.org/eib-policy-conference-20141211-innovfin-oslo-mgf-workshop/)** — `2025-04-15` | `17 Pages`
+- `[`EIB-EVT-20141211_innovfin_oslo_kiiha_en`]` **[EIB Policy Conference: 20141211 Innovfin Oslo Kiiha](https://www.indexdata.org/eib-policy-conference-20141211-innovfin-oslo-kiiha/)** — `2025-04-15` | `14 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1546,10 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EFS-efr_2002_v01_en`]` **[EIB Economics Study: Efr 2002 V01](https://www.indexdata.org/eib-economics-study-efr-2002-v01/)** — `2025-04-14` | `58 Pages`
 - `[`EIB-EFS-efr_2001_v03_en`]` **[EIB Economics Study: Efr 2001 V03](https://www.indexdata.org/eib-economics-study-efr-2001-v03/)** — `2025-04-14` | `17 Pages`
 - `[`EIB-EFS-efr_2001_v02_en`]` **[EIB Economics Study: Efr 2001 V02](https://www.indexdata.org/eib-economics-study-efr-2001-v02/)** — `2025-04-14` | `42 Pages`
-- `[`EIB-EFS-efr_2001_v01_en`]` **[EIB Economics Study: Efr 2001 V01](https://www.indexdata.org/eib-economics-study-efr-2001-v01/)** — `2025-04-14` | `32 Pages`
-- `[`EIB-EFS-efr_2000_v02_en`]` **[EIB Economics Study: Efr 2000 V02](https://www.indexdata.org/eib-economics-study-efr-2000-v02/)** — `2025-04-14` | `14 Pages`
-- `[`EIB-EFS-efr_2000_v01_en`]` **[EIB Economics Study: Efr 2000 V01](https://www.indexdata.org/eib-economics-study-efr-2000-v01/)** — `2025-04-14` | `41 Pages`
-- `[`EIB-EFS-efr_1999_v02_en`]` **[EIB Economics Study: Efr 1999 V02](https://www.indexdata.org/eib-economics-study-efr-1999-v02/)** — `2025-04-14` | `18 Pages`
 
 ---
 

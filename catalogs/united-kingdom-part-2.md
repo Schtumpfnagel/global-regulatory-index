@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,207` across `96` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,208` across `96` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]** | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-21 01:04 UTC`
+**Last Automated Sync:** `2026-11-21 08:59 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`259` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`192` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
-- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`187` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
+- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`188` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`154` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`142` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`141` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
@@ -112,7 +112,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,207)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,208)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -495,6 +495,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2026-730`]` **[The Pensions Act 2004 (Code of Practice) (Authorisation and Supervision of Collective Defined Contribution Schemes) Appointed Day and Revocation Order 2026](https://www.indexdata.org/the-pensions-act-2004-code-of-practice-authorisation-and-supervision-of-collective-defined-contribution-schemes-appointed-day-and-revocation-order-2026/)** — `2026-07-02` | `2 Pages`
 - `[`UKSI-2026-709`]` **[The Pensions Act 2004 (Code of Practice) (Revocation) Order 2026](https://www.indexdata.org/the-pensions-act-2004-code-of-practice-revocation-order-2026/)** — `2026-07-02` | `2 Pages`
 - `[`UKSI-2026-726`]` **[The Financial Services Act 2012 (Relevant Functions in relation to Complaints Scheme) (Amendment) Order 2026](https://www.indexdata.org/the-financial-services-act-2012-relevant-functions-in-relation-to-complaints-scheme-amendment-order-2026/)** — `2026-07-01` | `4 Pages`
 - `[`UKSI-2026-725`]` **[The Taxation of Chargeable Gains (Gilt-edged Securities) Order 2026](https://www.indexdata.org/the-taxation-of-chargeable-gains-gilt-edged-securities-order-2026/)** — `2026-06-30` | `2 Pages`
@@ -974,7 +975,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2024-577`]` **[The Education (Pupil Information, School Performance Information and National Curriculum Attainment Targets and Programmes of Study) (England) (Amendment) Regulations 2024](https://www.indexdata.org/the-education-pupil-information-school-performance-information-and-national-curriculum-attainment-targets-and-programmes-of-study-england-amendment-regulations-2024/)** — `2024-04-29` | `4 Pages`
 - `[`UKSI-2024-566`]` **[The Higher Education (Freedom of Speech) Act 2023 (Commencement No. 2) Regulations 2024 (revoked)](https://www.indexdata.org/the-higher-education-freedom-of-speech-act-2023-commencement-no-2-regulations-2024-revoked/)** — `2024-04-25` | `2 Pages`
 - `[`UKSI-2024-534`]` **[The Diocese of Leeds (Educational Endowments) (Startforth Morritt Church of England Primary School) Order 2024](https://www.indexdata.org/the-diocese-of-leeds-educational-endowments-startforth-morritt-church-of-england-primary-school-order-2024/)** — `2024-04-19` | `4 Pages`
-- `[`UKSI-2024-535`]` **[The Special Educational Needs and Disability (Amendment) Regulations 2024](https://www.indexdata.org/the-special-educational-needs-and-disability-amendment-regulations-2024/)** — `2024-04-18` | `4 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
