@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/japan/feed/](https://www.indexdata.org/japan/feed/)  
 **Wikidata Sovereign Entity:** [`Q17`](https://www.wikidata.org/wiki/Q17)  
 **Governing Open-Government Framework:** *Copyright Act, Act No. 48 of 1970, Article 13*  
-**Total Indexed Dossiers in Japan:** `97` across `13` issuing authorities  
-**Last Automated Sync:** `2026-11-22 10:27 UTC`
+**Total Indexed Dossiers in Japan:** `102` across `13` issuing authorities  
+**Last Automated Sync:** `2026-11-22 18:12 UTC`
 
 ---
 
 ## Issuing Authorities in Japan (13 Authorities)
 
-- **[Fukuoka City](https://www.indexdata.org/japan/fukuoka-city/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/japan/fukuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/fukuoka-city/feed/)
+- **[Fukuoka City](https://www.indexdata.org/japan/fukuoka-city/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/japan/fukuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/fukuoka-city/feed/)
 - **[National Agriculture and Food Research Organization (NARO)](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/) | [RSS Feed](https://www.indexdata.org/japan/national-agriculture-and-food-research-organization-naro/feed/)
 - **[Ministry of Justice of Japan (MOJ)](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/) | [RSS Feed](https://www.indexdata.org/japan/ministry-of-justice-of-japan-moj/feed/)
 - **[Forestry and Forest Products Research Institute (FFPRI)](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/) | [RSS Feed](https://www.indexdata.org/japan/forestry-and-forest-products-research-institute-ffpri/feed/)
@@ -28,12 +28,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–97 of 97)
+## Indexed Statutory & Regulatory Dossiers (Records 1–102 of 102)
 
 ### [Fukuoka City](https://www.indexdata.org/japan/fukuoka-city/)
 Canonical Authority Archive: [https://www.indexdata.org/japan/fukuoka-city/](https://www.indexdata.org/japan/fukuoka-city/) | [RSS Feed](https://www.indexdata.org/japan/fukuoka-city/feed/)
 
+- `[`JP-EGOV-FC562BDD`]` **[Fukuoka City — 20240520Zennsiitiran (2025-01-20)](https://www.indexdata.org/fukuoka-city-20240520zennsiitiran-2025-01-20/)** — `2026-10-15` | `2 Pages`
 - `[`JP-EGOV-E9677846`]` **[Fukuoka City — Taiki23 (2025-01-07)](https://www.indexdata.org/fukuoka-city-taiki23-2025-01-07/)** — `2026-10-15` | `162 Pages`
+- `[`JP-EGOV-DE56D678`]` **[Fukuoka City — Official Regulatory Document (2025-01-07)](https://www.indexdata.org/fukuoka-city-official-regulatory-document-2025-01-07/)** — `2026-10-15` | `2 Pages`
 - `[`JP-EGOV-D35DABFD`]` **[Fukuoka City — Suishitsu2018 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2018-2025-01-07/)** — `2026-10-15` | `234 Pages`
 - `[`JP-EGOV-D24A2EA5`]` **[Fukuoka City — Suishitsu2010 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2010-2025-01-07/)** — `2026-10-15` | `238 Pages`
 - `[`JP-EGOV-CAF204A9`]` **[Fukuoka City — Taiki R4 (2025-01-07)](https://www.indexdata.org/fukuoka-city-taiki-r4-2025-01-07/)** — `2026-10-15` | `154 Pages`
@@ -48,12 +50,15 @@ Canonical Authority Archive: [https://www.indexdata.org/japan/fukuoka-city/](htt
 - `[`JP-EGOV-82DC769C`]` **[Fukuoka City — Suishitsu2015 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2015-2025-01-07/)** — `2026-10-15` | `234 Pages`
 - `[`JP-EGOV-80A010BE`]` **[Fukuoka City — All Seika Nenpo 30 (2025-01-07)](https://www.indexdata.org/fukuoka-city-all-seika-nenpo-30-2025-01-07/)** — `2026-10-15` | `80 Pages`
 - `[`JP-EGOV-6C9E0FE9`]` **[Fukuoka City — Suishitsu2011 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2011-2025-01-07/)** — `2026-10-15` | `237 Pages`
+- `[`JP-EGOV-6C1E15E6`]` **[Fukuoka City — Official Regulatory Document (2025-01-07)](https://www.indexdata.org/fukuoka-city-official-regulatory-document-2025-01-07-2/)** — `2026-10-15` | `2 Pages`
+- `[`JP-EGOV-668D0590`]` **[Fukuoka City — 2026Kazeijyoukyoushirabe2 (2026-11-18)](https://www.indexdata.org/fukuoka-city-2026kazeijyoukyoushirabe2-2026-11-18/)** — `2026-10-15` | `115 Pages`
 - `[`JP-EGOV-5A15359A`]` **[Fukuoka City — All Seika Nenpo 02 (2025-01-07)](https://www.indexdata.org/fukuoka-city-all-seika-nenpo-02-2025-01-07/)** — `2026-10-15` | `84 Pages`
 - `[`JP-EGOV-56C9A7B0`]` **[Fukuoka City — 2 R5Jissijyoukyou (2025-01-07)](https://www.indexdata.org/fukuoka-city-2-r5jissijyoukyou-2025-01-07/)** — `2026-10-15` | `2 Pages`
 - `[`JP-EGOV-557DD041`]` **[Fukuoka City — All Seika Nenpo 05 (2025-07-24)](https://www.indexdata.org/fukuoka-city-all-seika-nenpo-05-2025-07-24/)** — `2026-10-15` | `85 Pages`
 - `[`JP-EGOV-3DCC410D`]` **[Fukuoka City — Official Regulatory Document (2026-10-28)](https://www.indexdata.org/fukuoka-city-official-regulatory-document-2026-10-28/)** — `2026-10-15` | `242 Pages`
 - `[`JP-EGOV-335BCEFE`]` **[Fukuoka City — Suishitsu2017 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2017-2025-01-07/)** — `2026-10-15` | `235 Pages`
 - `[`JP-EGOV-2C9A9672`]` **[Fukuoka City — Suishitsu2016 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2016-2025-01-07/)** — `2026-10-15` | `243 Pages`
+- `[`JP-EGOV-2A573993`]` **[Fukuoka City — 01 Mokuji (2025-01-07)](https://www.indexdata.org/fukuoka-city-01-mokuji-2025-01-07/)** — `2026-10-15` | `3 Pages`
 - `[`JP-EGOV-2105DF81`]` **[Fukuoka City — Suishitsu2012 (2025-01-07)](https://www.indexdata.org/fukuoka-city-suishitsu2012-2025-01-07/)** — `2026-10-15` | `241 Pages`
 - `[`JP-EGOV-1897187E`]` **[Fukuoka City — 20241227 Waterspot Teigi (2026-11-02)](https://www.indexdata.org/fukuoka-city-20241227-waterspot-teigi-2026-11-02/)** — `2026-10-15` | `2 Pages`
 - `[`JP-EGOV-11232A14`]` **[Fukuoka City — Taiki27 (2025-01-07)](https://www.indexdata.org/fukuoka-city-taiki27-2025-01-07/)** — `2026-10-15` | `176 Pages`

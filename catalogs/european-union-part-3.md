@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,525` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,527` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | [Part 2](european-union-part-2.md) | **[Part 3 (Current)]** | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-22 10:27 UTC`
+**Last Automated Sync:** `2026-11-22 18:12 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,549` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,551` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
 - **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,052` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,525)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,527)
 
 ### [European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-investment-bank-eib/](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/)
@@ -694,6 +694,8 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EVT-2013_11_07_roundtable_added_value_presentation_en`]` **[EIB Policy Conference: 2013 11 07 Roundtable Added Value Presentation](https://www.indexdata.org/eib-policy-conference-2013-11-07-roundtable-added-value-presentation/)** — `2025-04-15` | `19 Pages`
 - `[`EIB-EVT-2013_11_07_roundtable_added_value_briefing_note_en`]` **[EIB Policy Conference: 2013 11 07 Roundtable Added Value Briefing Note](https://www.indexdata.org/eib-policy-conference-2013-11-07-roundtable-added-value-briefing-note/)** — `2025-04-15` | `2 Pages`
 - `[`EIB-EVT-20131128_2nd_eastern_partnership_declaration_en`]` **[EIB Policy Conference: 20131128 2nd Eastern Partnership Declaration](https://www.indexdata.org/eib-policy-conference-20131128-2nd-eastern-partnership-declaration/)** — `2025-04-15` | `2 Pages`
+- `[`EIB-EVT-20130916_roundtable_banking_med_speakers_profiles_en`]` **[EIB Policy Conference: 20130916 Roundtable Banking med Speakers Profiles](https://www.indexdata.org/eib-policy-conference-20130916-roundtable-banking-med-speakers-profiles/)** — `2025-04-15` | `4 Pages`
+- `[`EIB-EVT-20130912_brussels_acp_water_schoelzel_en`]` **[EIB Policy Conference: 20130912 Brussels ACP Water Schoelzel](https://www.indexdata.org/eib-policy-conference-20130912-brussels-acp-water-schoelzel/)** — `2025-04-15` | `9 Pages`
 - `[`EIB-EPEC-epec_vat_and_ppp_contracts_en`]` **[EPEC vat and PPP Contracts](https://www.indexdata.org/epec-vat-and-ppp-contracts/)** — `2025-04-15` | `50 Pages`
 - `[`EIB-EPEC-epec_value_for_money_assessment_en`]` **[EPEC Value for Money Assessment](https://www.indexdata.org/epec-value-for-money-assessment/)** — `2025-04-15` | `96 Pages`
 - `[`EIB-EPEC-epec_using_eu_funds_in_ppps_en`]` **[EPEC Using EU Funds in PPPs](https://www.indexdata.org/epec-using-eu-funds-in-ppps/)** — `2025-04-15` | `42 Pages`
@@ -1548,8 +1550,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-EFS-efr_2010_v01_en`]` **[EIB Economics Study: Efr 2010 V01](https://www.indexdata.org/eib-economics-study-efr-2010-v01/)** — `2025-04-14` | `44 Pages`
 - `[`EIB-EFS-efr_2009_v01_en`]` **[EIB Economics Study: Efr 2009 V01](https://www.indexdata.org/eib-economics-study-efr-2009-v01/)** — `2025-04-14` | `42 Pages`
 - `[`EIB-EFS-efr_2008_v01_en`]` **[EIB Economics Study: Efr 2008 V01](https://www.indexdata.org/eib-economics-study-efr-2008-v01/)** — `2025-04-14` | `34 Pages`
-- `[`EIB-EFS-efr_2007_v03_en`]` **[EIB Economics Study: Efr 2007 V03](https://www.indexdata.org/eib-economics-study-efr-2007-v03/)** — `2025-04-14` | `24 Pages`
-- `[`EIB-EFS-efr_2007_v02_en`]` **[EIB Economics Study: Efr 2007 V02](https://www.indexdata.org/eib-economics-study-efr-2007-v02/)** — `2025-04-14` | `41 Pages`
 
 ---
 

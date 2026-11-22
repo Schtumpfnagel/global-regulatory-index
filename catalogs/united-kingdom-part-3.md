@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,235` across `97` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,237` across `97` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | [Part 2](united-kingdom-part-2.md) | **[Part 3 (Current)]**  
-**Last Automated Sync:** `2026-11-22 10:27 UTC`
+**Last Automated Sync:** `2026-11-22 18:12 UTC`
 
 ---
 
@@ -42,10 +42,10 @@
 - **[HM Land Registry](https://www.indexdata.org/united-kingdom/hm-land-registry/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-land-registry/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-land-registry/feed/)
 - **[Maritime and Coastguard Agency](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/feed/)
 - **[HM Prison and Probation Service](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/feed/)
+- **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Veterinary Medicines Directorate](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/feed/)
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[NHS England](https://www.indexdata.org/united-kingdom/nhs-england/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/nhs-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/nhs-england/feed/)
-- **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Foreign, Commonwealth & Development Office](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[Planning Inspectorate](https://www.indexdata.org/united-kingdom/planning-inspectorate/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/planning-inspectorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/planning-inspectorate/feed/)
@@ -113,7 +113,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,235 of 3,235)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,237 of 3,237)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -332,6 +332,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 
+- `[`UKSI-2024-575`]` **[The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024](https://www.indexdata.org/the-national-health-service-primary-medical-services-and-performers-lists-amendment-regulations-2024/)** — `2024-04-26` | `12 Pages`
 - `[`UKSI-2024-567`]` **[The Veterinary Medicines (Amendment etc.) Regulations 2024](https://www.indexdata.org/the-veterinary-medicines-amendment-etc-regulations-2024/)** — `2024-04-25` | `92 Pages`
 - `[`UKSI-2024-547`]` **[The Official Controls (Fees and Charges) (Amendment) Regulations 2024](https://www.indexdata.org/the-official-controls-fees-and-charges-amendment-regulations-2024/)** — `2024-04-22` | `4 Pages`
 - `[`UKSI-2024-541`]` **[The Official Controls (Miscellaneous Amendments) Regulations 2024](https://www.indexdata.org/the-official-controls-miscellaneous-amendments-regulations-2024/)** — `2024-04-22` | `44 Pages`
@@ -349,6 +350,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 
+- `[`UKSI-2024-573`]` **[The Immigration (Guidance on Detention of Vulnerable Persons) Regulations 2024](https://www.indexdata.org/the-immigration-guidance-on-detention-of-vulnerable-persons-regulations-2024/)** — `2024-04-29` | `2 Pages`
 - `[`UKSI-2024-569`]` **[The Terrorism Act 2000 (Proscribed Organisations) (Amendment) (No. 2) Order 2024](https://www.indexdata.org/the-terrorism-act-2000-proscribed-organisations-amendment-no-2-order-2024/)** — `2024-04-25` | `2 Pages`
 - `[`UKSI-2024-552`]` **[The Proceeds of Crime Act 2002 and Terrorism Act 2000 (Certain Information Orders: Code of Practice) Regulations 2024](https://www.indexdata.org/the-proceeds-of-crime-act-2002-and-terrorism-act-2000-certain-information-orders-code-of-practice-regulations-2024/)** — `2024-04-22` | `2 Pages`
 - `[`UKSI-2024-550`]` **[The Terrorism Act 2000 (Code of Practice for Authorised Officers) Order 2024](https://www.indexdata.org/the-terrorism-act-2000-code-of-practice-for-authorised-officers-order-2024/)** — `2024-04-22` | `2 Pages`

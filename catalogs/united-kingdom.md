@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,235` across `97` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,237` across `97` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-22 10:27 UTC`
+**Last Automated Sync:** `2026-11-22 18:12 UTC`
 
 ---
 
@@ -42,10 +42,10 @@
 - **[HM Land Registry](https://www.indexdata.org/united-kingdom/hm-land-registry/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-land-registry/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-land-registry/feed/)
 - **[Maritime and Coastguard Agency](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/feed/)
 - **[HM Prison and Probation Service](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/feed/)
+- **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Veterinary Medicines Directorate](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/feed/)
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[NHS England](https://www.indexdata.org/united-kingdom/nhs-england/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/nhs-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/nhs-england/feed/)
-- **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Foreign, Commonwealth & Development Office](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[Planning Inspectorate](https://www.indexdata.org/united-kingdom/planning-inspectorate/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/planning-inspectorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/planning-inspectorate/feed/)
@@ -113,7 +113,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,235)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,237)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -1240,34 +1240,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-835`]` **[The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026](https://www.indexdata.org/the-nuclear-safeguards-eu-exit-and-fees-amendment-regulations-2026/)** — `2026-07-09` | `48 Pages`
 - `[`UKSI-2026-786`]` **[The Civil Nuclear Constabulary (Barred List and Advisory List) Regulations 2026](https://www.indexdata.org/the-civil-nuclear-constabulary-barred-list-and-advisory-list-regulations-2026/)** — `2026-07-08` | `12 Pages`
 
-### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
-
-- `[`UK-GOV-a680e1b5-e6ee-4843-8d03-06577844b719-1`]` **[Immigration Enforcement: live facial recognition legal mandate](https://www.indexdata.org/immigration-enforcement-live-facial-recognition-legal-mandate/)** — `2026-11-17` | `17 Pages`
-- `[`UK-GOV-67afd60f-6e39-4a75-bce7-35de8e7cb041-1`]` **[Live facial recognition: equality impact assessment (EIA)](https://www.indexdata.org/live-facial-recognition-equality-impact-assessment-eia/)** — `2026-11-17` | `17 Pages`
-- `[`UKSI-2026-1194`]` **[The Border Security, Asylum and Immigration Act 2025 (Specified Purposes Related to Policing) Regulations 2026](https://www.indexdata.org/the-border-security-asylum-and-immigration-act-2025-specified-purposes-related-to-policing-regulations-2026/)** — `2026-11-10` | `2 Pages`
-- `[`UKSI-2026-1168`]` **[The Registration of Births and Deaths (England and Wales) (Specified Requirements) Regulations 2026](https://www.indexdata.org/the-registration-of-births-and-deaths-england-and-wales-specified-requirements-regulations-2026/)** — `2026-11-04` | `4 Pages`
-- `[`UKSI-2026-1167`]` **[The Data (Use and Access) Act 2025 (Commencement No. 10) Regulations 2026](https://www.indexdata.org/the-data-use-and-access-act-2025-commencement-no-10-regulations-2026/)** — `2026-11-04` | `8 Pages`
-- `[`UKSI-2026-1158`]` **[The Crime and Policing Act 2026 (Commencement No. 5) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-5-regulations-2026/)** — `2026-11-03` | `8 Pages`
-- `[`UKSI-2026-1090`]` **[The Crime and Policing Act 2026 (Commencement No. 4) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-4-regulations-2026/)** — `2026-10-15` | `4 Pages`
-- `[`UKSI-2026-1050`]` **[The Firearms (Amendment) Rules 2026](https://www.indexdata.org/the-firearms-amendment-rules-2026/)** — `2026-09-23` | `48 Pages`
-- `[`UKSI-2026-1021`]` **[The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026](https://www.indexdata.org/the-ministry-of-defence-police-conduct-performance-and-appeals-tribunals-amendment-regulations-2026/)** — `2026-09-10` | `32 Pages`
-- `[`UKSI-2026-1008`]` **[The Immigration and Nationality (Fees) (Amendment) Regulations 2026](https://www.indexdata.org/the-immigration-and-nationality-fees-amendment-regulations-2026/)** — `2026-09-09` | `8 Pages`
-- `[`UKSI-2026-1005`]` **[The Terrorism (Protection of Premises) (Principal Use of Premises) Regulations 2026](https://www.indexdata.org/the-terrorism-protection-of-premises-principal-use-of-premises-regulations-2026/)** — `2026-09-08` | `4 Pages`
-- `[`UKSI-2026-999`]` **[The Police Act 1997 (Criminal Records and Registration) (Guernsey) (Amendment) Regulations 2026](https://www.indexdata.org/the-police-act-1997-criminal-records-and-registration-guernsey-amendment-regulations-2026/)** — `2026-09-07` | `2 Pages`
-- `[`UKSI-2026-993`]` **[The Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) Regulations 2026](https://www.indexdata.org/the-sentencing-act-2020-special-procedures-for-community-and-suspended-sentence-orders-regulations-2026/)** — `2026-09-07` | `4 Pages`
-- `[`UKSI-2026-990`]` **[The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) (Amendment) Regulations 2026](https://www.indexdata.org/the-immigration-collection-use-and-retention-of-biometric-information-and-related-amendments-amendment-regulations-2026/)** — `2026-09-07` | `2 Pages`
-- `[`UKSI-2026-985`]` **[The Police Act 1997 (Criminal Records) (Amendment) Regulations 2026](https://www.indexdata.org/the-police-act-1997-criminal-records-amendment-regulations-2026/)** — `2026-09-07` | `2 Pages`
-- `[`UKSI-2026-1004`]` **[The Police Act 1997 (Criminal Records and Registration) (Jersey) (Amendment) Regulations 2026](https://www.indexdata.org/the-police-act-1997-criminal-records-and-registration-jersey-amendment-regulations-2026/)** — `2026-09-07` | `2 Pages`
-- `[`UKSI-2026-1001`]` **[The Police Act 1997 (Criminal Records and Registration) (Isle of Man) (Amendment) Regulations 2026](https://www.indexdata.org/the-police-act-1997-criminal-records-and-registration-isle-of-man-amendment-regulations-2026/)** — `2026-09-07` | `4 Pages`
-- `[`UKSI-2026-960`]` **[The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-regulations-2026/)** — `2026-09-02` | `8 Pages`
-- `[`UKSI-2026-953`]` **[The Sentencing Act 2026 (Commencement No. 6 and Revocation) Regulations 2026](https://www.indexdata.org/the-sentencing-act-2026-commencement-no-6-and-revocation-regulations-2026/)** — `2026-09-01` | `12 Pages`
-- `[`UKSI-2026-948`]` **[The Sentencing Act 2026 (Commencement No. 5) (Amendment) Regulations 2026](https://www.indexdata.org/the-sentencing-act-2026-commencement-no-5-amendment-regulations-2026/)** — `2026-09-01` | `2 Pages`
-- `[`UKSI-2026-911`]` **[The Criminal Justice (Sentencing) (Licence Conditions) (Amendment and Revocation) Order 2026](https://www.indexdata.org/the-criminal-justice-sentencing-licence-conditions-amendment-and-revocation-order-2026/)** — `2026-08-07` | `4 Pages`
-- `[`UKSI-2026-836`]` **[The Criminal Justice Act 1988 (Offensive Weapons) (Amendment) (England and Wales) Order 2026](https://www.indexdata.org/the-criminal-justice-act-1988-offensive-weapons-amendment-england-and-wales-order-2026/)** — `2026-07-15` | `4 Pages`
-- `[`UKSI-2026-793`]` **[The Terrorism (Protection of Premises) (Notification Requirements) Regulations 2026](https://www.indexdata.org/the-terrorism-protection-of-premises-notification-requirements-regulations-2026/)** — `2026-07-09` | `12 Pages`
-- `[`UKSI-2026-766`]` **[The Border Security, Asylum and Immigration Act 2025 (Commencement No. 5) Regulations 2026](https://www.indexdata.org/the-border-security-asylum-and-immigration-act-2025-commencement-no-5-regulations-2026/)** — `2026-07-08` | `4 Pages`
-
 ### [Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/natural-history-museum/](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
 
@@ -1296,6 +1268,33 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/natural-h
 - `[`UK-DGOV-b584179f-692-0e8ae72b-1ed`]` **[The Natural History Museum expenditure over £25,000 — FOI report: expenditure >£500, April 2015](https://www.indexdata.org/the-natural-history-museum-expenditure-over-25000-foi-report-expenditure-500-april-2015/)** — `2026-11-11` | `188 Pages`
 - `[`UK-DGOV-b584179f-692-0369191c-309`]` **[The Natural History Museum expenditure over £25,000 — FOI report: expenditure >£500, October 2016](https://www.indexdata.org/the-natural-history-museum-expenditure-over-25000-foi-report-expenditure-500-october-2016/)** — `2026-11-11` | `83 Pages`
 
+### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
+
+- `[`UK-GOV-a680e1b5-e6ee-4843-8d03-06577844b719-1`]` **[Immigration Enforcement: live facial recognition legal mandate](https://www.indexdata.org/immigration-enforcement-live-facial-recognition-legal-mandate/)** — `2026-11-17` | `17 Pages`
+- `[`UK-GOV-67afd60f-6e39-4a75-bce7-35de8e7cb041-1`]` **[Live facial recognition: equality impact assessment (EIA)](https://www.indexdata.org/live-facial-recognition-equality-impact-assessment-eia/)** — `2026-11-17` | `17 Pages`
+- `[`UKSI-2026-1194`]` **[The Border Security, Asylum and Immigration Act 2025 (Specified Purposes Related to Policing) Regulations 2026](https://www.indexdata.org/the-border-security-asylum-and-immigration-act-2025-specified-purposes-related-to-policing-regulations-2026/)** — `2026-11-10` | `2 Pages`
+- `[`UKSI-2026-1168`]` **[The Registration of Births and Deaths (England and Wales) (Specified Requirements) Regulations 2026](https://www.indexdata.org/the-registration-of-births-and-deaths-england-and-wales-specified-requirements-regulations-2026/)** — `2026-11-04` | `4 Pages`
+- `[`UKSI-2026-1167`]` **[The Data (Use and Access) Act 2025 (Commencement No. 10) Regulations 2026](https://www.indexdata.org/the-data-use-and-access-act-2025-commencement-no-10-regulations-2026/)** — `2026-11-04` | `8 Pages`
+- `[`UKSI-2026-1158`]` **[The Crime and Policing Act 2026 (Commencement No. 5) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-5-regulations-2026/)** — `2026-11-03` | `8 Pages`
+- `[`UKSI-2026-1090`]` **[The Crime and Policing Act 2026 (Commencement No. 4) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-4-regulations-2026/)** — `2026-10-15` | `4 Pages`
+- `[`UKSI-2026-1050`]` **[The Firearms (Amendment) Rules 2026](https://www.indexdata.org/the-firearms-amendment-rules-2026/)** — `2026-09-23` | `48 Pages`
+- `[`UKSI-2026-1021`]` **[The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026](https://www.indexdata.org/the-ministry-of-defence-police-conduct-performance-and-appeals-tribunals-amendment-regulations-2026/)** — `2026-09-10` | `32 Pages`
+- `[`UKSI-2026-1008`]` **[The Immigration and Nationality (Fees) (Amendment) Regulations 2026](https://www.indexdata.org/the-immigration-and-nationality-fees-amendment-regulations-2026/)** — `2026-09-09` | `8 Pages`
+- `[`UKSI-2026-1005`]` **[The Terrorism (Protection of Premises) (Principal Use of Premises) Regulations 2026](https://www.indexdata.org/the-terrorism-protection-of-premises-principal-use-of-premises-regulations-2026/)** — `2026-09-08` | `4 Pages`
+- `[`UKSI-2026-999`]` **[The Police Act 1997 (Criminal Records and Registration) (Guernsey) (Amendment) Regulations 2026](https://www.indexdata.org/the-police-act-1997-criminal-records-and-registration-guernsey-amendment-regulations-2026/)** — `2026-09-07` | `2 Pages`
+- `[`UKSI-2026-993`]` **[The Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) Regulations 2026](https://www.indexdata.org/the-sentencing-act-2020-special-procedures-for-community-and-suspended-sentence-orders-regulations-2026/)** — `2026-09-07` | `4 Pages`
+- `[`UKSI-2026-990`]` **[The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) (Amendment) Regulations 2026](https://www.indexdata.org/the-immigration-collection-use-and-retention-of-biometric-information-and-related-amendments-amendment-regulations-2026/)** — `2026-09-07` | `2 Pages`
+- `[`UKSI-2026-985`]` **[The Police Act 1997 (Criminal Records) (Amendment) Regulations 2026](https://www.indexdata.org/the-police-act-1997-criminal-records-amendment-regulations-2026/)** — `2026-09-07` | `2 Pages`
+- `[`UKSI-2026-1004`]` **[The Police Act 1997 (Criminal Records and Registration) (Jersey) (Amendment) Regulations 2026](https://www.indexdata.org/the-police-act-1997-criminal-records-and-registration-jersey-amendment-regulations-2026/)** — `2026-09-07` | `2 Pages`
+- `[`UKSI-2026-1001`]` **[The Police Act 1997 (Criminal Records and Registration) (Isle of Man) (Amendment) Regulations 2026](https://www.indexdata.org/the-police-act-1997-criminal-records-and-registration-isle-of-man-amendment-regulations-2026/)** — `2026-09-07` | `4 Pages`
+- `[`UKSI-2026-960`]` **[The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-regulations-2026/)** — `2026-09-02` | `8 Pages`
+- `[`UKSI-2026-953`]` **[The Sentencing Act 2026 (Commencement No. 6 and Revocation) Regulations 2026](https://www.indexdata.org/the-sentencing-act-2026-commencement-no-6-and-revocation-regulations-2026/)** — `2026-09-01` | `12 Pages`
+- `[`UKSI-2026-948`]` **[The Sentencing Act 2026 (Commencement No. 5) (Amendment) Regulations 2026](https://www.indexdata.org/the-sentencing-act-2026-commencement-no-5-amendment-regulations-2026/)** — `2026-09-01` | `2 Pages`
+- `[`UKSI-2026-911`]` **[The Criminal Justice (Sentencing) (Licence Conditions) (Amendment and Revocation) Order 2026](https://www.indexdata.org/the-criminal-justice-sentencing-licence-conditions-amendment-and-revocation-order-2026/)** — `2026-08-07` | `4 Pages`
+- `[`UKSI-2026-836`]` **[The Criminal Justice Act 1988 (Offensive Weapons) (Amendment) (England and Wales) Order 2026](https://www.indexdata.org/the-criminal-justice-act-1988-offensive-weapons-amendment-england-and-wales-order-2026/)** — `2026-07-15` | `4 Pages`
+- `[`UKSI-2026-793`]` **[The Terrorism (Protection of Premises) (Notification Requirements) Regulations 2026](https://www.indexdata.org/the-terrorism-protection-of-premises-notification-requirements-regulations-2026/)** — `2026-07-09` | `12 Pages`
+
 ### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 
@@ -1320,7 +1319,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2026-955`]` **[The Criminal Legal Aid (General) (Amendment) Regulations 2026](https://www.indexdata.org/the-criminal-legal-aid-general-amendment-regulations-2026/)** — `2026-09-01` | `4 Pages`
 - `[`UKSI-2026-861`]` **[The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026](https://www.indexdata.org/the-legal-aid-sentencing-and-punishment-of-offenders-act-2012-legal-aid-anti-social-behaviour-and-prevention-and-investigation-measures-miscellaneous-amendments-order-2026/)** — `2026-07-21` | `4 Pages`
 - `[`UKSI-2026-817`]` **[The Civil Procedure (Amendment No. 2) Rules 2026](https://www.indexdata.org/the-civil-procedure-amendment-no-2-rules-2026/)** — `2026-07-09` | `20 Pages`
-- `[`UKSI-2026-723`]` **[The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026](https://www.indexdata.org/the-senior-courts-transfer-amendment-and-consequential-provision-order-2026/)** — `2026-07-08` | `16 Pages`
 
 ### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
@@ -1514,6 +1512,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-prison
 - `[`UK-GOV-a88038b0-ca1c-4c5f-98d5-a450abaf0260-4`]` **[Probation Service public protection inspection action plans — London Probation region public protection action plan - Aug 2026](https://www.indexdata.org/probation-service-public-protection-inspection-action-plans-london-probation-region-public-protection-action-plan-aug-2026/)** — `2026-11-10` | `9 Pages`
 - `[`UK-GOV-a88038b0-ca1c-4c5f-98d5-a450abaf0260-3`]` **[Probation Service public protection inspection action plans — Kent, Surrey and Sussex Probation - Public protection action plan - Feb 2026](https://www.indexdata.org/probation-service-public-protection-inspection-action-plans-kent-surrey-and-sussex-probation-public-protection-action-plan-feb-2026/)** — `2026-11-10` | `7 Pages`
 
+### [National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/national-audit-office/](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
+
+- `[`UK-NAO-64660`]` **[National Audit Office: hm revenue customs do 2025 26](https://www.indexdata.org/national-audit-office-hm-revenue-customs-do-2025-26/)** — `2026-11-19` | `25 Pages`
+- `[`UK-NAO-64652`]` **[National Audit Office: BBC savings and reinvestment](https://www.indexdata.org/national-audit-office-bbc-savings-and-reinvestment/)** — `2026-11-18` | `52 Pages`
+- `[`UK-NAO-64651`]` **[National Audit Office: BBC savings and reinvestment summary](https://www.indexdata.org/national-audit-office-bbc-savings-and-reinvestment-summary/)** — `2026-11-18` | `10 Pages`
+- `[`UK-NAO-64624`]` **[National Audit Office: Risk-management-in-government-improving-capability-and-decision‑making-summary](https://www.indexdata.org/national-audit-office-risk-management-in-government-improving-capability-and-decision-making-summary/)** — `2026-11-17` | `13 Pages`
+- `[`UK-NAO-64623`]` **[National Audit Office: Risk-management-in-government-improving-capability-and-decision‑making](https://www.indexdata.org/national-audit-office-risk-management-in-government-improving-capability-and-decision-making/)** — `2026-11-17` | `52 Pages`
+- `[`UK-NAO-64559`]` **[National Audit Office: reducing radicalisation the prevent programme summary](https://www.indexdata.org/national-audit-office-reducing-radicalisation-the-prevent-programme-summary/)** — `2026-11-11` | `13 Pages`
+- `[`UK-NAO-64542`]` **[National Audit Office: defra 2025 26](https://www.indexdata.org/national-audit-office-defra-2025-26/)** — `2026-11-10` | `23 Pages`
+- `[`UK-NAO-64536`]` **[National Audit Office: nao board agenda 21 07 26](https://www.indexdata.org/national-audit-office-nao-board-agenda-21-07-26/)** — `2026-11-10` | `2 Pages`
+- `[`UK-NAO-64535`]` **[National Audit Office: nao board minutes 21 07 26](https://www.indexdata.org/national-audit-office-nao-board-minutes-21-07-26/)** — `2026-11-10` | `6 Pages`
+- `[`UK-NAO-64512`]` **[National Audit Office: restructuring of integrated care boards summary](https://www.indexdata.org/national-audit-office-restructuring-of-integrated-care-boards-summary/)** — `2026-11-03` | `11 Pages`
+- `[`UK-NAO-64511`]` **[National Audit Office: restructuring of integrated care boards](https://www.indexdata.org/national-audit-office-restructuring-of-integrated-care-boards/)** — `2026-11-03` | `56 Pages`
+- `[`UK-NAO-64501`]` **[National Audit Office: hm treasury do 2025 26](https://www.indexdata.org/national-audit-office-hm-treasury-do-2025-26/)** — `2026-11-03` | `22 Pages`
+
 ### [Veterinary Medicines Directorate](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/feed/)
 
@@ -1558,20 +1572,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/nhs-engla
 - `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-2`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Arabic)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-arabic/)** — `2026-11-13` | `12 Pages`
 - `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-11`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Urdu)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-urdu/)** — `2026-11-13` | `12 Pages`
 - `[`UK-GOV-fa0d7da0-d7b6-460b-814b-5d0fd314dcd6-10`]` **[Cervical screening: colposcopy — Cervical screening: having a colposcopy (Punjabi)](https://www.indexdata.org/cervical-screening-colposcopy-cervical-screening-having-a-colposcopy-punjabi/)** — `2026-11-13` | `12 Pages`
-
-### [National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/national-audit-office/](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
-
-- `[`UK-NAO-64660`]` **[National Audit Office: hm revenue customs do 2025 26](https://www.indexdata.org/national-audit-office-hm-revenue-customs-do-2025-26/)** — `2026-11-19` | `25 Pages`
-- `[`UK-NAO-64624`]` **[National Audit Office: Risk-management-in-government-improving-capability-and-decision‑making-summary](https://www.indexdata.org/national-audit-office-risk-management-in-government-improving-capability-and-decision-making-summary/)** — `2026-11-17` | `13 Pages`
-- `[`UK-NAO-64623`]` **[National Audit Office: Risk-management-in-government-improving-capability-and-decision‑making](https://www.indexdata.org/national-audit-office-risk-management-in-government-improving-capability-and-decision-making/)** — `2026-11-17` | `52 Pages`
-- `[`UK-NAO-64559`]` **[National Audit Office: reducing radicalisation the prevent programme summary](https://www.indexdata.org/national-audit-office-reducing-radicalisation-the-prevent-programme-summary/)** — `2026-11-11` | `13 Pages`
-- `[`UK-NAO-64542`]` **[National Audit Office: defra 2025 26](https://www.indexdata.org/national-audit-office-defra-2025-26/)** — `2026-11-10` | `23 Pages`
-- `[`UK-NAO-64536`]` **[National Audit Office: nao board agenda 21 07 26](https://www.indexdata.org/national-audit-office-nao-board-agenda-21-07-26/)** — `2026-11-10` | `2 Pages`
-- `[`UK-NAO-64535`]` **[National Audit Office: nao board minutes 21 07 26](https://www.indexdata.org/national-audit-office-nao-board-minutes-21-07-26/)** — `2026-11-10` | `6 Pages`
-- `[`UK-NAO-64512`]` **[National Audit Office: restructuring of integrated care boards summary](https://www.indexdata.org/national-audit-office-restructuring-of-integrated-care-boards-summary/)** — `2026-11-03` | `11 Pages`
-- `[`UK-NAO-64511`]` **[National Audit Office: restructuring of integrated care boards](https://www.indexdata.org/national-audit-office-restructuring-of-integrated-care-boards/)** — `2026-11-03` | `56 Pages`
-- `[`UK-NAO-64501`]` **[National Audit Office: hm treasury do 2025 26](https://www.indexdata.org/national-audit-office-hm-treasury-do-2025-26/)** — `2026-11-03` | `22 Pages`
 
 ### [Foreign, Commonwealth & Development Office](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/feed/)

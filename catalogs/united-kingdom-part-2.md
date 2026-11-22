@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,235` across `97` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,237` across `97` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]** | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-22 10:27 UTC`
+**Last Automated Sync:** `2026-11-22 18:12 UTC`
 
 ---
 
@@ -42,10 +42,10 @@
 - **[HM Land Registry](https://www.indexdata.org/united-kingdom/hm-land-registry/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-land-registry/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-land-registry/feed/)
 - **[Maritime and Coastguard Agency](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/feed/)
 - **[HM Prison and Probation Service](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-prison-and-probation-service/feed/)
+- **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Veterinary Medicines Directorate](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/feed/)
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[NHS England](https://www.indexdata.org/united-kingdom/nhs-england/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/nhs-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/nhs-england/feed/)
-- **[National Audit Office](https://www.indexdata.org/united-kingdom/national-audit-office/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/national-audit-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/national-audit-office/feed/)
 - **[Foreign, Commonwealth & Development Office](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/foreign-commonwealth-development-office/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[Planning Inspectorate](https://www.indexdata.org/united-kingdom/planning-inspectorate/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/planning-inspectorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/planning-inspectorate/feed/)
@@ -113,7 +113,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,235)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,237)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -981,6 +981,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 
+- `[`UKSI-2026-766`]` **[The Border Security, Asylum and Immigration Act 2025 (Commencement No. 5) Regulations 2026](https://www.indexdata.org/the-border-security-asylum-and-immigration-act-2025-commencement-no-5-regulations-2026/)** — `2026-07-08` | `4 Pages`
 - `[`UKSI-2026-769`]` **[The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026](https://www.indexdata.org/the-ministry-of-defence-police-barred-list-and-advisory-list-regulations-2026/)** — `2026-07-07` | `12 Pages`
 - `[`UKSI-2026-761`]` **[The Compulsory Electronic Monitoring Licence Condition (Amendment) Order 2026](https://www.indexdata.org/the-compulsory-electronic-monitoring-licence-condition-amendment-order-2026/)** — `2026-07-07` | `2 Pages`
 - `[`UKSI-2026-760`]` **[The Criminal Justice (Sentencing) (Licence Conditions) (Amendment) Order 2026 (revoked)](https://www.indexdata.org/the-criminal-justice-sentencing-licence-conditions-amendment-order-2026-revoked/)** — `2026-07-07` | `4 Pages`
@@ -1085,7 +1086,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 - `[`UKSI-2024-588`]` **[The Tribunal Procedure (Upper Tribunal) (Immigration and Asylum Chamber) (Amendment) Rules 2024](https://www.indexdata.org/the-tribunal-procedure-upper-tribunal-immigration-and-asylum-chamber-amendment-rules-2024/)** — `2024-05-01` | `12 Pages`
 - `[`UKSI-2024-586`]` **[The Illegal Migration Act 2023 (Commencement No. 2) Regulations 2024](https://www.indexdata.org/the-illegal-migration-act-2023-commencement-no-2-regulations-2024/)** — `2024-04-30` | `2 Pages`
 - `[`UKSI-2024-583`]` **[Criminal Law, England And Wales](https://www.indexdata.org/criminal-law-england-and-wales-3/)** — `2024-04-30` | `16 Pages`
-- `[`UKSI-2024-573`]` **[The Immigration (Guidance on Detention of Vulnerable Persons) Regulations 2024](https://www.indexdata.org/the-immigration-guidance-on-detention-of-vulnerable-persons-regulations-2024/)** — `2024-04-29` | `2 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
@@ -1532,7 +1532,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2024-728`]` **[The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) (Amendment) Regulations 2024](https://www.indexdata.org/the-national-health-service-general-medical-services-contracts-prescription-of-drugs-etc-amendment-regulations-2024/)** — `2024-05-29` | `4 Pages`
 - `[`UKSI-2024-727`]` **[The Medicines (Gonadotrophin-Releasing Hormone Analogues) (Emergency Prohibition) (England, Wales and Scotland) Order 2024 (revoked)](https://www.indexdata.org/the-medicines-gonadotrophin-releasing-hormone-analogues-emergency-prohibition-england-wales-and-scotland-order-2024-revoked/)** — `2024-05-29` | `8 Pages`
 - `[`UKSI-2024-608`]` **[The Official Controls (Establishment Lists) (Revocation) Regulations 2024](https://www.indexdata.org/the-official-controls-establishment-lists-revocation-regulations-2024/)** — `2024-05-07` | `4 Pages`
-- `[`UKSI-2024-575`]` **[The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024](https://www.indexdata.org/the-national-health-service-primary-medical-services-and-performers-lists-amendment-regulations-2024/)** — `2024-04-26` | `12 Pages`
 
 ### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
@@ -1595,6 +1594,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 
+- `[`UKSI-2026-723`]` **[The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026](https://www.indexdata.org/the-senior-courts-transfer-amendment-and-consequential-provision-order-2026/)** — `2026-07-08` | `16 Pages`
 - `[`UKSI-2026-771`]` **[The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment) Order 2026](https://www.indexdata.org/the-first-tier-tribunal-and-upper-tribunal-chambers-amendment-order-2026/)** — `2026-07-07` | `4 Pages`
 - `[`UKSI-2026-770`]` **[The Tribunal Procedure (First-tier Tribunal) (Property Chamber) (Amendment No. 2) Rules 2026](https://www.indexdata.org/the-tribunal-procedure-first-tier-tribunal-property-chamber-amendment-no-2-rules-2026/)** — `2026-07-07` | `4 Pages`
 - `[`UKSI-2026-744`]` **[The Criminal Legal Aid (Remuneration) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-criminal-legal-aid-remuneration-amendment-no-2-regulations-2026/)** — `2026-07-01` | `2 Pages`
