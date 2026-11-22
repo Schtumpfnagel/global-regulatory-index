@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,254` across `28` issuing authorities  
-**Last Automated Sync:** `2026-11-21 22:33 UTC`
+**Total Indexed Dossiers in International:** `1,259` across `28` issuing authorities  
+**Last Automated Sync:** `2026-11-22 02:46 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`192` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
-- **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`92` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
+- **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`81` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
@@ -42,7 +42,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,254 of 1,254)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,259 of 1,259)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -922,6 +922,10 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-f
 ### [European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/)
 
+- `[`ECDC-DOC-RAPID-RISK-ASSESSMENT-CARBAPENEM-RESISTANT-ENTER`]` **[Rapid risk assessment – Carbapenem-resistant Enterobacterales, fourth update](https://www.indexdata.org/rapid-risk-assessment-carbapenem-resistant-enterobacterales-fourth-update/)** — `2026-11-18` | `16 Pages`
+- `[`ECDC-DOC-EUROPEAN-ANTIBIOTIC-AWARENESS-DAY-EAAD-MEDIA-TOO`]` **[European Antibiotic Awareness Day (EAAD): Media toolkit](https://www.indexdata.org/european-antibiotic-awareness-day-eaad-media-toolkit/)** — `2026-11-18` | `2 Pages`
+- `[`ECDC-DOC-ANTIMICROBIAL-RESISTANCE-EUEEA-EARS-NET-ANNUAL-E`]` **[Antimicrobial resistance in the EU/EEA (EARS-Net) - Annual Epidemiological Report for 2025](https://www.indexdata.org/antimicrobial-resistance-in-the-eu-eea-ears-net-annual-epidemiological-report-for-2025/)** — `2026-11-18` | `45 Pages`
+- `[`ECDC-DOC-ANTIMICROBIAL-CONSUMPTION-EUEEA-ESAC-NET-ANNUAL`]` **[Antimicrobial consumption in the EU/EEA (ESAC-Net) - Annual Epidemiological Report 2025](https://www.indexdata.org/antimicrobial-consumption-in-the-eu-eea-esac-net-annual-epidemiological-report-2025/)** — `2026-11-18` | `19 Pages`
 - `[`ECDC-CELLAR-DF1D0D7D-E491-11F1-B745-01AA75ED71A1`]` **[Carbapenem-resistant enterobacterales : fourth update](https://www.indexdata.org/carbapenem-resistant-enterobacterales-fourth-update/)** — `2026-11-18` | `16 Pages`
 - `[`ECDC-CELLAR-D791188D-E490-11F1-B745-01AA75ED71A1`]` **[European SARS-CoV-2 and influenza virus bioinformatics external quality assessment (ESIB-EQA), 2025](https://www.indexdata.org/european-sars-cov-2-and-influenza-virus-bioinformatics-external-quality-assessment-esib-eqa-2025/)** — `2026-11-17` | `34 Pages`
 - `[`ECDC-OA-W7226010624`]` **[Re-emergence of diphtheria in Germany: a national population-based surveillance study of Corynebacterium diphtheriae and Corynebacterium ulcerans, 2017 to 2025](https://www.indexdata.org/re-emergence-of-diphtheria-in-germany-a-national-population-based-surveillance-study-of-corynebacterium-diphtheriae-and-corynebacterium-ulcerans-2017-to-2025/)** — `2026-11-12` | `12 Pages`
@@ -1012,6 +1016,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-c
 - `[`ECDC-DOC-TOOLS-AND-METHODS-PROMOTING-VACCINATION-ACCEPTAN`]` **[Tools and methods for promoting vaccination acceptance and uptake: a social and behavioural science approach](https://www.indexdata.org/tools-and-methods-for-promoting-vaccination-acceptance-and-uptake-a-social-and-behavioural-science-approach-2/)** — `2025-04-28` | `40 Pages`
 - `[`ECDC-DOC-GIARDIASIS-ANNUAL-EPIDEMIOLOGICAL-REPORT-2021`]` **[Giardiasis - Annual Epidemiological Report for 2021](https://www.indexdata.org/giardiasis-annual-epidemiological-report-for-2021/)** — `2024-12-17` | `5 Pages`
 - `[`ECDC-DOC-GIARDIASIS-ANNUAL-EPIDEMIOLOGICAL-REPORT-2020`]` **[Giardiasis - Annual Epidemiological Report for 2020](https://www.indexdata.org/giardiasis-annual-epidemiological-report-for-2020/)** — `2024-12-16` | `5 Pages`
+- `[`ECDC-DOC-ALL-ANNUAL-EPIDEMIOLOGICAL-REPORTS`]` **[Annual Epidemiological Reports (AERs)](https://www.indexdata.org/annual-epidemiological-reports-aers/)** — `2024-05-13` | `5 Pages`
 - `[`ECDC-DOC-DATA-PROTECTION-NOTICE-TESSY`]` **[Data protection notice for TESSy](https://www.indexdata.org/data-protection-notice-for-tessy/)** — `2023-10-19` | `3 Pages`
 - `[`ECDC-DOC-POLICY-DATA-SUBMISSION-ACCESS-AND-USE-DATA-WITHI`]` **[Policy on data submission, access and the use of data within TESSy, 2015](https://www.indexdata.org/policy-on-data-submission-access-and-the-use-of-data-within-tessy-2015/)** — `2023-08-16` | `8 Pages`
 
