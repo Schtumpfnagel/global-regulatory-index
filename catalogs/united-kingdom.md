@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,237` across `97` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,238` across `97` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-22 18:12 UTC`
+**Last Automated Sync:** `2026-11-22 23:58 UTC`
 
 ---
 
@@ -33,7 +33,7 @@
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
-- **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
+- **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
 - **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
 - **[UK Visas and Immigration](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/feed/)
@@ -113,7 +113,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,237)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,238)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -1143,7 +1143,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2026-818`]` **[The Registered Pension Schemes (Provision of Information) (Miscellaneous Amendments) Regulations 2026](https://www.indexdata.org/the-registered-pension-schemes-provision-of-information-miscellaneous-amendments-regulations-2026/)** — `2026-07-13` | `16 Pages`
 - `[`UKSI-2026-801`]` **[The Customs Tariff (Suspension of Import Duty Rates) (Amendment) Regulations 2026](https://www.indexdata.org/the-customs-tariff-suspension-of-import-duty-rates-amendment-regulations-2026/)** — `2026-07-13` | `2 Pages`
 - `[`UKSI-2026-779`]` **[The Central Counterparties (Equivalence) Regulations 2026](https://www.indexdata.org/the-central-counterparties-equivalence-regulations-2026/)** — `2026-07-08` | `8 Pages`
-- `[`UKSI-2026-777`]` **[The Critical Third Parties (Designation) Regulations 2026](https://www.indexdata.org/the-critical-third-parties-designation-regulations-2026/)** — `2026-07-08` | `2 Pages`
 
 ### [Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/marine-management-organisation/](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
@@ -1183,6 +1182,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/marine-ma
 ### [Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 
+- `[`UK-GOV-285db646-7ad8-479e-b97a-fd0608dc942e-1`]` **[Bird flu: Northallerton, North Yorkshire, North Yorkshire (AIV 2026/34) — Download the declaration of an avian influenza protection zone and surveillance zone (PDF)](https://www.indexdata.org/bird-flu-northallerton-north-yorkshire-north-yorkshire-aiv-2026-34-download-the-declaration-of-an-avian-influenza-protection-zone-and-surveillance-zone-pdf/)** — `2026-11-22` | `16 Pages`
 - `[`UK-GOV-7e37460b-fdf9-4afe-91ab-7aefd747e959-1`]` **[Bird flu: near Dereham Breckland, Norfolk (AIV 2026/33) — declaration of an avian influenza protection zone and surveillance zone (PDF)](https://www.indexdata.org/bird-flu-near-dereham-breckland-norfolk-aiv-2026-33-declaration-of-an-avian-influenza-protection-zone-and-surveillance-zone-pdf/)** — `2026-11-21` | `17 Pages`
 - `[`UK-GOV-3bb0a007-49c7-4f4c-87e9-df581c4ed166-1`]` **[Bird flu: Driffield, East Riding of Yorkshire, East Riding of Yorkshire (AIV2026/32) — Download the declaration of an avian influenza protection zone and surveillance zone (PDF)](https://www.indexdata.org/bird-flu-driffield-east-riding-of-yorkshire-east-riding-of-yorkshire-aiv2026-32-download-the-declaration-of-an-avian-influenza-protection-zone-and-surveillance-zone-pdf/)** — `2026-11-20` | `16 Pages`
 - `[`UK-GOV-0ef0a433-9099-4f37-91c6-8aef5b8dfc12-2`]` **[Bluetongue: leaflets, videos and posters — Leaflet: key information about bluetongue](https://www.indexdata.org/bluetongue-leaflets-videos-and-posters-leaflet-key-information-about-bluetongue/)** — `2026-11-20` | `2 Pages`
