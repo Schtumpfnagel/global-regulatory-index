@@ -1,10 +1,10 @@
 {
   "profile": "tabular-data-package",
   "name": "global-regulatory-index",
-  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 42,631 Official Dossiers",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 42,659 Official Dossiers",
   "homepage": "https://www.indexdata.org/",
-  "version": "2026.11.22",
-  "created": "2026-11-22",
+  "version": "2026.11.23",
+  "created": "2026-11-23",
   "id": "https://doi.org/10.5281/zenodo.23612006",
   "licenses": [
     {
@@ -225,6 +225,10 @@
     {
       "title": "Bahrain Official Statutory Archive",
       "path": "https://www.indexdata.org/bahrain/"
+    },
+    {
+      "title": "Benin Official Statutory Archive",
+      "path": "https://www.indexdata.org/benin/"
     },
     {
       "title": "China Official Statutory Archive",

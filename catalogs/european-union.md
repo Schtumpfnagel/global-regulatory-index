@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,531` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,536` across `29` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md) | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-22 23:58 UTC`
+**Last Automated Sync:** `2026-11-23 08:25 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,555` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
-- **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,052` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,558` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,054` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
 - **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`447` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
@@ -45,11 +45,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,531)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,536)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 
+- `[`CELEX-52026M12697`]` **[Prior notification of a concentration (Case M.12697 – LBG / APOLLO FUNDS / FERNANDO GROUP) – Candidate case for simplified procedure](https://www.indexdata.org/prior-notification-of-a-concentration-case-m-12697-lbg-apollo-funds-fernando-group-candidate-case-for-simplified-procedure/)** — `2026-11-23` | `2 Pages`
+- `[`CELEX-52026M12500`]` **[Prior notification of a concentration (Case M.12500 – TCL ELECTRONICS / SONY (HOME ENTERTAINMENT BUSINESS)) – Candidate case for simplified procedure](https://www.indexdata.org/prior-notification-of-a-concentration-case-m-12500-tcl-electronics-sony-home-entertainment-business-candidate-case-for-simplified-procedure/)** — `2026-11-23` | `2 Pages`
 - `[`CELEX-C-2026-06158`]` **[Information to be provided pursuant to Article 5(2) – Establishment of a European Grouping of Territorial Cooperation (EGTC) (Regulation (EC) No 1082/2006 of the European Parliament and of the Council of 5 July 2006) (OJ C 210, 31.7.2006)](https://www.indexdata.org/information-to-be-provided-pursuant-to-article-52-establishment-of-a-european-grouping-of-territorial-cooperation-egtc-regulation-ec-no-1082-2006-of-the-european-parliament-and-of-the-2/)** — `2026-11-20` | `2 Pages`
 - `[`CELEX-C-2026-06153`]` **[Common catalogue of varieties of agricultural plant species Supplement A 2026/11](https://www.indexdata.org/common-catalogue-of-varieties-of-agricultural-plant-species-supplement-a-2026-11/)** — `2026-11-20` | `14 Pages`
 - `[`CELEX-C-2026-06147`]` **[Common catalogue of varieties of vegetable species Supplement H 2026/11](https://www.indexdata.org/common-catalogue-of-varieties-of-vegetable-species-supplement-h-2026-11/)** — `2026-11-20` | `12 Pages`
@@ -1002,8 +1004,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/council-o
 - `[`CELEX-32026D0614`]` **[Council Decision (CFSP) 2026/614 of 16 March 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine](https://www.indexdata.org/council-decision-cfsp-2026-614-of-16-march-2026-amending-decision-2014-145-cfsp-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignt/)** — `2026-03-16` | `8 Pages`
 - `[`CELEX-32026D0612`]` **[Council Decision (CFSP) 2026/612 of 16 March 2026 in support of a global reporting mechanism on illicit conventional arms and their ammunition to reduce the risk of their diversion and illicit transfer (‘iTrace VI’)](https://www.indexdata.org/council-decision-cfsp-2026-612-of-16-march-2026-in-support-of-a-global-reporting-mechanism-on-illicit-conventional-arms-and-their-ammunition-to-reduce-the-risk-of-their-diversion-and-illicit-transfe/)** — `2026-03-16` | `12 Pages`
 - `[`CELEX-32026D0588`]` **[Council Decision (CFSP) 2026/588 of 16 March 2026 amending Decision (CFSP) 2019/797 concerning restrictive measures against cyber-attacks threatening the Union or its Member States](https://www.indexdata.org/council-decision-cfsp-2026-588-of-16-march-2026-amending-decision-cfsp-2019-797-concerning-restrictive-measures-against-cyber-attacks-threatening-the-union-or-its-member-states/)** — `2026-03-16` | `6 Pages`
-- `[`CELEX-32026D0584`]` **[Council Decision (CFSP) 2026/584 of 16 March 2026 in support of building African capacities towards a mine-free Africa](https://www.indexdata.org/council-decision-cfsp-2026-584-of-16-march-2026-in-support-of-building-african-capacities-towards-a-mine-free-africa/)** — `2026-03-16` | `11 Pages`
-- `[`CELEX-32026D0571`]` **[Council Decision (EU) 2026/571 of 16 March 2026 on the position to be taken on behalf of the European Union in the Preparatory Commission and at the first Conference of the Parties to the Agreement under the United Nations Convention on the Law of the Sea on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction](https://www.indexdata.org/council-decision-eu-2026-571-of-16-march-2026-on-the-position-to-be-taken-on-behalf-of-the-european-union-in-the-preparatory-commission-and-at-the-first-conference-of-the-parties-to-the-agreement-un/)** — `2026-03-16` | `3 Pages`
 
 ### [European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)

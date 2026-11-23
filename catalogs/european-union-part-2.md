@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,531` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,536` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | **[Part 2 (Current)]** | [Part 3](european-union-part-3.md) | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-22 23:58 UTC`
+**Last Automated Sync:** `2026-11-23 08:25 UTC`
 
 ---
 
 ## Issuing Authorities in European Union (29 Authorities)
 
-- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,555` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
-- **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,052` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
+- **[European Investment Bank (EIB)](https://www.indexdata.org/european-union/european-investment-bank-eib/)** (`2,558` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-bank-eib/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-bank-eib/feed/) | [Wikidata `Q192247`](https://www.wikidata.org/wiki/Q192247)
+- **[European Commission](https://www.indexdata.org/european-union/european-commission/)** (`1,054` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
 - **[European Parliament and Council of the EU](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/)** (`646` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-eu/feed/)
 - **[Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)** (`633` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
 - **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`447` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,531)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 5,536)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -1227,12 +1227,12 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`EIB-PIPE-20080231_nts_en`]` **[EIB Project Environmental Assessment: 20080231 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20080231-non-technical-summary-nts/)** — `2025-04-15` | `13 Pages`
 - `[`EIB-PIPE-20080231_eis1_en`]` **[EIB Project Environmental Assessment: 20080231 Eis1](https://www.indexdata.org/eib-project-environmental-assessment-20080231-eis1/)** — `2025-04-15` | `145 Pages`
 - `[`EIB-PIPE-20080226_nts_en`]` **[EIB Project Environmental Assessment: 20080226 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20080226-non-technical-summary-nts/)** — `2025-04-15` | `33 Pages`
-- `[`EIB-PIPE-20080226_nts1_en`]` **[EIB Project Environmental Assessment: 20080226 Nts1](https://www.indexdata.org/eib-project-environmental-assessment-20080226-nts1/)** — `2025-04-15` | `22 Pages`
-- `[`EIB-PIPE-20080170_nts_en`]` **[EIB Project Environmental Assessment: 20080170 Non-Technical Summary (NTS)](https://www.indexdata.org/eib-project-environmental-assessment-20080170-non-technical-summary-nts/)** — `2025-04-15` | `24 Pages`
 
 ### [Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/council-of-the-european-union/](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
 
+- `[`CELEX-32026D0584`]` **[Council Decision (CFSP) 2026/584 of 16 March 2026 in support of building African capacities towards a mine-free Africa](https://www.indexdata.org/council-decision-cfsp-2026-584-of-16-march-2026-in-support-of-building-african-capacities-towards-a-mine-free-africa/)** — `2026-03-16` | `11 Pages`
+- `[`CELEX-32026D0571`]` **[Council Decision (EU) 2026/571 of 16 March 2026 on the position to be taken on behalf of the European Union in the Preparatory Commission and at the first Conference of the Parties to the Agreement under the United Nations Convention on the Law of the Sea on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction](https://www.indexdata.org/council-decision-eu-2026-571-of-16-march-2026-on-the-position-to-be-taken-on-behalf-of-the-european-union-in-the-preparatory-commission-and-at-the-first-conference-of-the-parties-to-the-agreement-un/)** — `2026-03-16` | `3 Pages`
 - `[`CELEX-32026R0695`]` **[Council Implementing Regulation (EU) 2026/695 of 14 March 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine](https://www.indexdata.org/council-implementing-regulation-eu-2026-695-of-14-march-2026-implementing-regulation-eu-no-269-2014-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial/)** — `2026-03-14` | `163 Pages`
 - `[`CELEX-32026D0696`]` **[Council Decision (CFSP) 2026/696 of 14 March 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine](https://www.indexdata.org/council-decision-cfsp-2026-696-of-14-march-2026-amending-decision-2014-145-cfsp-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignt/)** — `2026-03-14` | `164 Pages`
 - `[`CELEX-32026R0561`]` **[Commission Implementing Regulation (EU) 2026/561 of 9 March 2026 amending for the 354th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations](https://www.indexdata.org/commission-implementing-regulation-eu-2026-561-of-9-march-2026-amending-for-the-354th-time-council-regulation-ec-no-881-2002-imposing-certain-specific-restrictive-measures-directed-again/)** — `2026-03-09` | `2 Pages`
