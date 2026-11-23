@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,250` across `97` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,251` across `97` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-23 08:25 UTC`
+**Last Automated Sync:** `2026-11-23 20:54 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`259` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`193` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
-- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`189` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
+- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`190` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`154` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`142` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`141` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
@@ -113,7 +113,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,250)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,251)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -1019,6 +1019,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 
+- `[`UKSI-2026-1229`]` **[The Air Navigation (Restriction of Flying) (Portmoak, Perth and Kinross) (Emergency) (Revocation) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-portmoak-perth-and-kinross-emergency-revocation-regulations-2026/)** — `2026-11-23` | `2 Pages`
 - `[`UKSI-2026-1216`]` **[The Air Navigation (Restriction of Flying) (Loch Goil) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-loch-goil-regulations-2026/)** — `2026-11-21` | `2 Pages`
 - `[`UKSI-2026-1224`]` **[The Air Navigation (Restriction of Flying) (Portmoak, Perth and Kinross) (Emergency) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-portmoak-perth-and-kinross-emergency-regulations-2026/)** — `2026-11-20` | `2 Pages`
 - `[`UKSI-2026-1211`]` **[The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 11) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-helicopter-flight-no-11-regulations-2026/)** — `2026-11-20` | `3 Pages`
@@ -1316,30 +1317,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 - `[`UKSI-2026-911`]` **[The Criminal Justice (Sentencing) (Licence Conditions) (Amendment and Revocation) Order 2026](https://www.indexdata.org/the-criminal-justice-sentencing-licence-conditions-amendment-and-revocation-order-2026/)** — `2026-08-07` | `4 Pages`
 - `[`UKSI-2026-836`]` **[The Criminal Justice Act 1988 (Offensive Weapons) (Amendment) (England and Wales) Order 2026](https://www.indexdata.org/the-criminal-justice-act-1988-offensive-weapons-amendment-england-and-wales-order-2026/)** — `2026-07-15` | `4 Pages`
 
-### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
-
-- `[`UK-GOV-8b9ebcf2-78a8-415a-9f0f-d0ea14318435-1`]` **[DHSC annual report and accounts: 2025 to 2026 — DHSC annual report and accounts: 2025 to 2026 (print ready)](https://www.indexdata.org/dhsc-annual-report-and-accounts-2025-to-2026-dhsc-annual-report-and-accounts-2025-to-2026-print-ready/)** — `2026-11-17` | `361 Pages`
-- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-6`]` **[Working for DHSC — Working group members candidate information pack](https://www.indexdata.org/working-for-dhsc-working-group-members-candidate-information-pack/)** — `2026-11-17` | `16 Pages`
-- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-5`]` **[Working for DHSC — Chair of the IAPs for Part IX of the Drug Tariff candidate information pack](https://www.indexdata.org/working-for-dhsc-chair-of-the-iaps-for-part-ix-of-the-drug-tariff-candidate-information-pack/)** — `2026-11-17` | `14 Pages`
-- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-4`]` **[Working for DHSC — COMEAP members candidate information pack](https://www.indexdata.org/working-for-dhsc-comeap-members-candidate-information-pack/)** — `2026-11-17` | `17 Pages`
-- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-3`]` **[Working for DHSC — UKAP layperson candidate information pack](https://www.indexdata.org/working-for-dhsc-ukap-layperson-candidate-information-pack/)** — `2026-11-17` | `16 Pages`
-- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-2`]` **[Working for DHSC — Monitoring form](https://www.indexdata.org/working-for-dhsc-monitoring-form/)** — `2026-11-17` | `16 Pages`
-- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-1`]` **[Working for DHSC — APRHAI members candidate information pack](https://www.indexdata.org/working-for-dhsc-aprhai-members-candidate-information-pack/)** — `2026-11-17` | `17 Pages`
-- `[`UKSI-2026-1184`]` **[The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 3) Regulations 2026](https://www.indexdata.org/the-national-health-service-pharmaceutical-and-local-pharmaceutical-services-amendment-no-3-regulations-2026/)** — `2026-11-11` | `8 Pages`
-- `[`UK-GOV-c1dcb42a-b78b-44da-a00b-cafbf6d11044-1`]` **[Free sugars in processed fruit and vegetables: SACN statement — Free sugars in processed fruit and vegetables: SACN statement - full report](https://www.indexdata.org/free-sugars-in-processed-fruit-and-vegetables-sacn-statement-free-sugars-in-processed-fruit-and-vegetables-sacn-statement-full-report/)** — `2026-11-10` | `63 Pages`
-- `[`UKSI-2026-1092`]` **[The Welfare Food (Amendment) (England and Wales) Regulations 2026](https://www.indexdata.org/the-welfare-food-amendment-england-and-wales-regulations-2026/)** — `2026-10-13` | `8 Pages`
-- `[`UKSI-2026-1028`]` **[The Care and Support (Charging and Assessment of Resources) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-care-and-support-charging-and-assessment-of-resources-amendment-no-2-regulations-2026/)** — `2026-09-15` | `2 Pages`
-- `[`UKSI-2026-1019`]` **[The Medical Training (Prioritisation for Specialty Training Programmes) Regulations 2026](https://www.indexdata.org/the-medical-training-prioritisation-for-specialty-training-programmes-regulations-2026/)** — `2026-09-10` | `4 Pages`
-- `[`UKSI-2026-996`]` **[The Tobacco and Vapes Act 2026 (Age of Sale Notices and Consequential Amendments) (England) Regulations 2026](https://www.indexdata.org/the-tobacco-and-vapes-act-2026-age-of-sale-notices-and-consequential-amendments-england-regulations-2026/)** — `2026-09-07` | `4 Pages`
-- `[`UKSI-2026-982`]` **[The Care Quality Commission (Additional Functions) (Amendment) Regulations 2026](https://www.indexdata.org/the-care-quality-commission-additional-functions-amendment-regulations-2026/)** — `2026-09-07` | `2 Pages`
-- `[`UKSI-2026-1003`]` **[The Northampton General Hospital NHS Trust (Establishment) (Amendment) Order 2026](https://www.indexdata.org/the-northampton-general-hospital-nhs-trust-establishment-amendment-order-2026/)** — `2026-09-07` | `2 Pages`
-- `[`UKSI-2026-961`]` **[The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-national-health-service-pharmaceutical-and-local-pharmaceutical-services-amendment-no-2-regulations-2026/)** — `2026-09-02` | `8 Pages`
-- `[`UKSI-2026-962`]` **[The Personal Injuries (NHS Charges) (Information Provision and Amounts) (Amendment) Regulations 2026](https://www.indexdata.org/the-personal-injuries-nhs-charges-information-provision-and-amounts-amendment-regulations-2026/)** — `2026-09-01` | `4 Pages`
-- `[`UKSI-2026-852`]` **[The Health and Social Care Act 2012 (Commencement No. 12) Order 2026](https://www.indexdata.org/the-health-and-social-care-act-2012-commencement-no-12-order-2026/)** — `2026-07-15` | `8 Pages`
-- `[`UKSI-2026-803`]` **[The Children’s Wellbeing and Schools Act 2026 (Commencement No. 2) (England) Regulations 2026](https://www.indexdata.org/the-childrens-wellbeing-and-schools-act-2026-commencement-no-2-england-regulations-2026/)** — `2026-07-13` | `8 Pages`
-- `[`UKSI-2026-822`]` **[The Nursing and Midwifery Council (Fees) (Practice Committee) (Fitness to Practise) (Amendment) Rules Order of Council 2026](https://www.indexdata.org/the-nursing-and-midwifery-council-fees-practice-committee-fitness-to-practise-amendment-rules-order-of-council-2026/)** — `2026-07-09` | `12 Pages`
-
 ### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 
@@ -1386,6 +1363,29 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/british-g
 - `[`UK-DGOV-70b78c87-05e-d0142457-6c4`]` **[Photos, XRF elements, total N and C, and isotopic data (d18O, d13C) from Deep Sea Drilling Project Site 225 cores, central Red Sea — Deep Sea Drilling project Report](https://www.indexdata.org/photos-xrf-elements-total-n-and-c-and-isotopic-data-d18o-d13c-from-deep-sea-drilling-project-site-225-cores-central-red-sea-deep-sea-drilling-project-report/)** — `2026-10-30` | `56 Pages`
 - `[`UK-DGOV-5b97702b-c55-aabf183b-2c3`]` **[EU Project Report: SiteChar - Characterisation of European CO2 storage, Final Report — Resource locator](https://www.indexdata.org/eu-project-report-sitechar-characterisation-of-european-co2-storage-final-report-resource-locator/)** — `2026-10-30` | `31 Pages`
 - `[`UK-DGOV-091eaae6-318-d8707634-386`]` **[EU Project Report: The RISCS Guide - A guide to potential impacts of leakage from CO2 storage — Resource locator](https://www.indexdata.org/eu-project-report-the-riscs-guide-a-guide-to-potential-impacts-of-leakage-from-co2-storage-resource-locator/)** — `2026-10-30` | `70 Pages`
+
+### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
+
+- `[`UK-GOV-8b9ebcf2-78a8-415a-9f0f-d0ea14318435-1`]` **[DHSC annual report and accounts: 2025 to 2026 — DHSC annual report and accounts: 2025 to 2026 (print ready)](https://www.indexdata.org/dhsc-annual-report-and-accounts-2025-to-2026-dhsc-annual-report-and-accounts-2025-to-2026-print-ready/)** — `2026-11-17` | `361 Pages`
+- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-6`]` **[Working for DHSC — Working group members candidate information pack](https://www.indexdata.org/working-for-dhsc-working-group-members-candidate-information-pack/)** — `2026-11-17` | `16 Pages`
+- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-5`]` **[Working for DHSC — Chair of the IAPs for Part IX of the Drug Tariff candidate information pack](https://www.indexdata.org/working-for-dhsc-chair-of-the-iaps-for-part-ix-of-the-drug-tariff-candidate-information-pack/)** — `2026-11-17` | `14 Pages`
+- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-4`]` **[Working for DHSC — COMEAP members candidate information pack](https://www.indexdata.org/working-for-dhsc-comeap-members-candidate-information-pack/)** — `2026-11-17` | `17 Pages`
+- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-3`]` **[Working for DHSC — UKAP layperson candidate information pack](https://www.indexdata.org/working-for-dhsc-ukap-layperson-candidate-information-pack/)** — `2026-11-17` | `16 Pages`
+- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-2`]` **[Working for DHSC — Monitoring form](https://www.indexdata.org/working-for-dhsc-monitoring-form/)** — `2026-11-17` | `16 Pages`
+- `[`UK-GOV-5f54e968-7631-11e4-a3cb-005056011aef-1`]` **[Working for DHSC — APRHAI members candidate information pack](https://www.indexdata.org/working-for-dhsc-aprhai-members-candidate-information-pack/)** — `2026-11-17` | `17 Pages`
+- `[`UKSI-2026-1184`]` **[The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 3) Regulations 2026](https://www.indexdata.org/the-national-health-service-pharmaceutical-and-local-pharmaceutical-services-amendment-no-3-regulations-2026/)** — `2026-11-11` | `8 Pages`
+- `[`UK-GOV-c1dcb42a-b78b-44da-a00b-cafbf6d11044-1`]` **[Free sugars in processed fruit and vegetables: SACN statement — Free sugars in processed fruit and vegetables: SACN statement - full report](https://www.indexdata.org/free-sugars-in-processed-fruit-and-vegetables-sacn-statement-free-sugars-in-processed-fruit-and-vegetables-sacn-statement-full-report/)** — `2026-11-10` | `63 Pages`
+- `[`UKSI-2026-1092`]` **[The Welfare Food (Amendment) (England and Wales) Regulations 2026](https://www.indexdata.org/the-welfare-food-amendment-england-and-wales-regulations-2026/)** — `2026-10-13` | `8 Pages`
+- `[`UKSI-2026-1028`]` **[The Care and Support (Charging and Assessment of Resources) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-care-and-support-charging-and-assessment-of-resources-amendment-no-2-regulations-2026/)** — `2026-09-15` | `2 Pages`
+- `[`UKSI-2026-1019`]` **[The Medical Training (Prioritisation for Specialty Training Programmes) Regulations 2026](https://www.indexdata.org/the-medical-training-prioritisation-for-specialty-training-programmes-regulations-2026/)** — `2026-09-10` | `4 Pages`
+- `[`UKSI-2026-996`]` **[The Tobacco and Vapes Act 2026 (Age of Sale Notices and Consequential Amendments) (England) Regulations 2026](https://www.indexdata.org/the-tobacco-and-vapes-act-2026-age-of-sale-notices-and-consequential-amendments-england-regulations-2026/)** — `2026-09-07` | `4 Pages`
+- `[`UKSI-2026-982`]` **[The Care Quality Commission (Additional Functions) (Amendment) Regulations 2026](https://www.indexdata.org/the-care-quality-commission-additional-functions-amendment-regulations-2026/)** — `2026-09-07` | `2 Pages`
+- `[`UKSI-2026-1003`]` **[The Northampton General Hospital NHS Trust (Establishment) (Amendment) Order 2026](https://www.indexdata.org/the-northampton-general-hospital-nhs-trust-establishment-amendment-order-2026/)** — `2026-09-07` | `2 Pages`
+- `[`UKSI-2026-961`]` **[The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-national-health-service-pharmaceutical-and-local-pharmaceutical-services-amendment-no-2-regulations-2026/)** — `2026-09-02` | `8 Pages`
+- `[`UKSI-2026-962`]` **[The Personal Injuries (NHS Charges) (Information Provision and Amounts) (Amendment) Regulations 2026](https://www.indexdata.org/the-personal-injuries-nhs-charges-information-provision-and-amounts-amendment-regulations-2026/)** — `2026-09-01` | `4 Pages`
+- `[`UKSI-2026-852`]` **[The Health and Social Care Act 2012 (Commencement No. 12) Order 2026](https://www.indexdata.org/the-health-and-social-care-act-2012-commencement-no-12-order-2026/)** — `2026-07-15` | `8 Pages`
+- `[`UKSI-2026-803`]` **[The Children’s Wellbeing and Schools Act 2026 (Commencement No. 2) (England) Regulations 2026](https://www.indexdata.org/the-childrens-wellbeing-and-schools-act-2026-commencement-no-2-england-regulations-2026/)** — `2026-07-13` | `8 Pages`
 
 ### [UK Visas and Immigration](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,020` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,021` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-23 08:25 UTC`
+**Last Automated Sync:** `2026-11-23 20:54 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,024` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`495` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,020)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,021)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-62-NI-7`]` **[Written submission by the Office of the Ombudsman of Colombia — note](https://www.indexdata.org/a-hrc-62-ni-7-written-submission-by-the-office-of-the-ombudsman-of-colombia-note/)** — `2026-07-03` | `4 Pages`
 - `[`UN-A-HRC-62-L.26-Rev.1`]` **[Protection of healthcare in armed conflict — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-26-rev-1-protection-of-healthcare-in-armed-conflict-revised-draft-resolution/)** — `2026-07-03` | `7 Pages`
 - `[`UN-A-HRC-62-L.23`]` **[Technical assistance and capacity-building for South Sudan — draft resolution](https://www.indexdata.org/a-hrc-62-l-23-technical-assistance-and-capacity-building-for-south-sudan-draft-resolution/)** — `2026-07-03` | `4 Pages`
 - `[`UN-A-HRC-62-L.18-Rev.1`]` **[Human rights and climate change — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-18-rev-1-human-rights-and-climate-change-revised-draft-resolution/)** — `2026-07-03` | `8 Pages`
@@ -1689,7 +1690,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/other-un-
 - `[`UN-UNW-2026-2`]` **[Report of the Under-Secretary-General/Executive Director of the United Nations Entity for Gender Equality and the Empowerment of Women on the implementation of the Strategic Plan 2022–2025](https://www.indexdata.org/unw-2026-2-report-of-the-under-secretary-general-executive-director-of-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women-on-the-implementation-of-the-strategic-plan-2022/)** — `2026-05-21` | `31 Pages`
 - `[`UN-UNW-2026-5`]` **[Report on the Activities of the UN-Women Ethics Function in 2025](https://www.indexdata.org/unw-2026-5-report-on-the-activities-of-the-un-women-ethics-function-in-2025/)** — `2026-05-20` | `14 Pages`
 - `[`UN-UNW-2026-1`]` **[Report on the 1st regular session 2026, 18 to 19 February 2026 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women](https://www.indexdata.org/unw-2026-1-report-on-the-1st-regular-session-2026-18-to-19-february-2026-executive-board-of-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women/)** — `2026-04-20` | `28 Pages`
-- `[`UN-UNW-2012-6-Rev.2`]` **[Financial Regulations and Rules for the United Nations Entity for Gender Equality and the Empowerment of Women](https://www.indexdata.org/unw-2012-6-rev-2-financial-regulations-and-rules-for-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women/)** — `2026-04-20` | `42 Pages`
 
 ### [United Nations Office for Disarmament Affairs](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/feed/)

@@ -5,21 +5,21 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `485` across `12` issuing authorities  
-**Last Automated Sync:** `2026-11-23 08:25 UTC`
+**Total Indexed Dossiers in Philippines:** `494` across `12` issuing authorities  
+**Last Automated Sync:** `2026-11-23 20:54 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (12 Authorities)
 
-- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`167` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
-- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`70` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
-- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
+- **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`168` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
+- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
+- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`69` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
-- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`45` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
-- **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
+- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
+- **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
-- **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
+- **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 - **[Food and Nutrition Research Institute](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/feed/)
 - **[Philippine Rice Research Institute](https://www.indexdata.org/philippines/philippine-rice-research-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-rice-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-rice-research-institute/feed/)
@@ -27,11 +27,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–485 of 485)
+## Indexed Statutory & Regulatory Dossiers (Records 1–494 of 494)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 
+- `[`PH-DA-114343`]` **[November-23-2026-Cigarette-Prevailing-Retail-Prices-in-NCR](https://www.indexdata.org/november-23-2026-cigarette-prevailing-retail-prices-in-ncr/)** — `2026-11-23` | `15 Pages`
 - `[`PH-DA-114340`]` **[November 23, 2026 DPI AFC](https://www.indexdata.org/november-23-2026-dpi-afc/)** — `2026-11-23` | `12 Pages`
 - `[`PH-DA-114322`]` **[Price Monitoring November 22, 2026](https://www.indexdata.org/price-monitoring-november-22-2026/)** — `2026-11-22` | `6 Pages`
 - `[`PH-DA-114321`]` **[Price Monitoring November 21, 2026](https://www.indexdata.org/price-monitoring-november-21-2026/)** — `2026-11-22` | `6 Pages`
@@ -203,6 +204,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/department-o
 ### [National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/national-privacy-commission/](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 
+- `[`PH-NPC-54393`]` **[CBD Advance Management Process Analytics Digital Platform (DAMPA) Phase 2A](https://www.indexdata.org/cbd-advance-management-process-analytics-digital-platform-dampa-phase-2a/)** — `2026-11-23` | `152 Pages`
+- `[`PH-NPC-54392`]` **[Invitation to Bid - Advance Data Management Process Analytics Digital Platform (DaMPA) Phase 2A](https://www.indexdata.org/invitation-to-bid-advance-data-management-process-analytics-digital-platform-dampa-phase-2a/)** — `2026-11-23` | `5 Pages`
 - `[`PH-NPC-54371`]` **[2026.11.20 RFQ Refill and Replacement of Fire Extinguisher](https://www.indexdata.org/2026-11-20-rfq-refill-and-replacement-of-fire-extinguisher/)** — `2026-11-20` | `7 Pages`
 - `[`PH-NPC-54366`]` **[2026.11.19 RFQ Privacy in the Spotligt- PITS Tokens](https://www.indexdata.org/2026-11-19-rfq-privacy-in-the-spotligt-pits-tokens/)** — `2026-11-20` | `21 Pages`
 - `[`PH-NPC-54356`]` **[Notice - Result of Ranking of Dark Web Monitoring (APP Item No. 2026-047)](https://www.indexdata.org/notice-result-of-ranking-of-dark-web-monitoring-app-item-no-2026-047/)** — `2026-11-17` | `4 Pages`
@@ -277,6 +280,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/national-pri
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 
+- `[`PH-MARINA-26316`]` **[MARINA Advisory No.2026-64](https://www.indexdata.org/marina-advisory-no-2026-64/)** — `2026-11-23` | `11 Pages`
 - `[`PH-MARINA-26301`]` **[mPhilgeps Posting – Procurement of International Shipment Services](https://www.indexdata.org/mphilgeps-posting-procurement-of-international-shipment-services/)** — `2026-11-20` | `3 Pages`
 - `[`PH-MARINA-26300`]` **[Request for Quotation – Procurement of International Shipment Services](https://www.indexdata.org/request-for-quotation-procurement-of-international-shipment-services/)** — `2026-11-20` | `8 Pages`
 - `[`PH-MARINA-26287`]` **[PBD – PROCUREMENT OF SECURITY SERVICES FOR MARITIME INDUSTRY AUTHORITY REGIONAL OFFICE VIII](https://www.indexdata.org/pbd-procurement-of-security-services-for-maritime-industry-authority-regional-office-viii/)** — `2026-11-17` | `98 Pages`
@@ -401,6 +405,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/board-of-inv
 ### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 
+- `[`PH-FDA-124112`]` **[SLC-FDROIV-NCR-CS (FOR REPOSTING)](https://www.indexdata.org/slc-fdroiv-ncr-cs-for-reposting/)** — `2026-11-23` | `3 Pages`
+- `[`PH-FDA-124111`]` **[SLC-FDRO2-RFO5-GDP(FOR POSTING)](https://www.indexdata.org/slc-fdro2-rfo5-gdpfor-posting/)** — `2026-11-23` | `3 Pages`
 - `[`PH-FDA-124067`]` **[Annex D. ACM 008 – EVALUATION OF THE ANTIMICROBIAL PROTECTION OF A COSMETIC PRODUCT](https://www.indexdata.org/annex-d-acm-008-evaluation-of-the-antimicrobial-protection-of-a-cosmetic-product/)** — `2026-11-23` | `7 Pages`
 - `[`PH-FDA-124066`]` **[Annex C. ACM 006 – ENUMERATION OF TOTAL AEROBIC MESOPHILIC MICROORGANISMS (BACTERIA, YEAST AND MOULDS)](https://www.indexdata.org/annex-c-acm-006-enumeration-of-total-aerobic-mesophilic-microorganisms-bacteria-yeast-and-moulds/)** — `2026-11-23` | `16 Pages`
 - `[`PH-FDA-123999`]` **[ODG-IOIII (2)](https://www.indexdata.org/odg-ioiii-2/)** — `2026-11-20` | `3 Pages`
@@ -450,6 +456,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-dru
 ### [Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-development-authority/](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 
+- `[`PH-CDA-71644`]` **[Cooperative Statistics as of December 2025 (1).xlsx – Data Website](https://www.indexdata.org/cooperative-statistics-as-of-december-2025-1-xlsx-data-website/)** — `2026-11-23` | `2 Pages`
 - `[`PH-CDA-71544`]` **[CDA REGION V NGPA Indicative-Final-Updated-APP .xlsx – APP VS 2 – Melvin Astibe](https://www.indexdata.org/cda-region-v-ngpa-indicative-final-updated-app-xlsx-app-vs-2-melvin-astibe/)** — `2026-11-16` | `3 Pages`
 - `[`PH-CDA-71185`]` **[RFQ Procurement of Full board Accommodation Services – Koronadal Sept 27-Oct 2](https://www.indexdata.org/rfq-procurement-of-full-board-accommodation-services-koronadal-sept-27-oct-2/)** — `2026-10-23` | `3 Pages`
 - `[`PH-CDA-71184`]` **[RFQ Procurement of Full board Accommodation Services – KIDAPAWAN Oct 19-21, 2026](https://www.indexdata.org/rfq-procurement-of-full-board-accommodation-services-kidapawan-oct-19-21-2026/)** — `2026-10-23` | `3 Pages`
@@ -524,6 +531,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/commission-o
 ### [Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/government-procurement-policy-board/](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 
+- `[`PH-GPPB-16755`]` **[RFQ-CDDA-2026-017 Customized GPPB-Recognized Trainer Corporate Jacket 3388](https://www.indexdata.org/rfq-cdda-2026-017-customized-gppb-recognized-trainer-corporate-jacket-3388/)** — `2026-11-23` | `6 Pages`
+- `[`PH-GPPB-16754`]` **[RFQ-CDDA-2026-018 Catering Service for the 2026 Year-End Activity for GPPB-Recognized Trainers 3015 6089](https://www.indexdata.org/rfq-cdda-2026-018-catering-service-for-the-2026-year-end-activity-for-gppb-recognized-trainers-3015-6089/)** — `2026-11-23` | `6 Pages`
 - `[`PH-GPPB-16751`]` **[RFQ-IMD-2026-019 – Procurement of Audio and Video Equipment 3](https://www.indexdata.org/rfq-imd-2026-019-procurement-of-audio-and-video-equipment-3/)** — `2026-11-23` | `6 Pages`
 - `[`PH-GPPB-16749`]` **[BED 3 NEP LEVEL FY 2027 sgd SCQ 11112026](https://www.indexdata.org/bed-3-nep-level-fy-2027-sgd-scq-11112026/)** — `2026-11-23` | `2 Pages`
 - `[`PH-GPPB-16748`]` **[BED 1 NEP LEVEL FY 2027 sgd SCQ 11112026](https://www.indexdata.org/bed-1-nep-level-fy-2027-sgd-scq-11112026/)** — `2026-11-23` | `4 Pages`

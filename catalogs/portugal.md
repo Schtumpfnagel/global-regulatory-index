@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/portugal/feed/](https://www.indexdata.org/portugal/feed/)  
 **Wikidata Sovereign Entity:** [`Q45`](https://www.wikidata.org/wiki/Q45)  
 **Governing Open-Government Framework:** *Lei n.º 68/2021*  
-**Total Indexed Dossiers in Portugal:** `49` across `6` issuing authorities  
-**Last Automated Sync:** `2026-11-23 08:25 UTC`
+**Total Indexed Dossiers in Portugal:** `50` across `6` issuing authorities  
+**Last Automated Sync:** `2026-11-23 20:54 UTC`
 
 ---
 
 ## Issuing Authorities in Portugal (6 Authorities)
 
 - **[Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
-- **[High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
+- **[High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
 - **[National Institute of Health Doutor Ricardo Jorge (INSA)](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/) | [RSS Feed](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/feed/)
 - **[Regional Directorate for the Sea — Madeira (DRM)](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/) | [RSS Feed](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/feed/)
 - **[National Laboratory of Energy and Geology (LNEG)](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/) | [RSS Feed](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/feed/)
@@ -21,7 +21,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–49 of 49)
+## Indexed Statutory & Regulatory Dossiers (Records 1–50 of 50)
 
 ### [Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
@@ -52,6 +52,7 @@ Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-m
 ### [High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
 
+- `[`PT-CSM-WP-54851`]` **[2026_Intervenção encerramento XX ENCONTRO CSM](https://www.indexdata.org/2026_intervencao-encerramento-xx-encontro-csm/)** — `2026-11-01` | `9 Pages`
 - `[`PT-CSM-WP-54807`]` **[2026_Recomendação Controlo da Prisão Preventiva e OPH](https://www.indexdata.org/2026_recomendacao-controlo-da-prisao-preventiva-e-oph/)** — `2026-11-01` | `3 Pages`
 - `[`PT-CSM-WP-54806`]` **[2026_AS BOAS PRÁTICAS E A AVALIAÇÃO – Inspetora Ana Cláudia Nogueira](https://www.indexdata.org/2026_as-boas-praticas-e-a-avaliacao-inspetora-ana-claudia-nogueira/)** — `2026-11-01` | `34 Pages`
 - `[`PT-CSM-WP-54792`]` **[Acta_25_2026 (08OUTUBRO-(Plenário EXT) – (publicação)](https://www.indexdata.org/acta_25_2026-08outubro-plenario-ext-publicacao/)** — `2026-11-01` | `4 Pages`

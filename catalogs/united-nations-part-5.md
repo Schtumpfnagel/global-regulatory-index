@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,020` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,021` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-23 08:25 UTC`
+**Last Automated Sync:** `2026-11-23 20:54 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,024` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`495` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,020 of 7,020)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,021 of 7,021)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -527,6 +527,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 ### [UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-security-council-unsc/](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 
+- `[`UN-S-2024-904`]` **[Letter dated 11 December 2024 from the Permanent Representative of the Sudan to the United Nations addressed to the President of the Security Council](https://www.indexdata.org/s-2024-904-letter-dated-11-december-2024-from-the-permanent-representative-of-the-sudan-to-the-united-nations-addressed-to-the-president-of-the-security-council/)** — `2024-12-11` | `24 Pages`
 - `[`UN-S-2024-865`]` **[The situation in Central Africa and the activities of the United Nations Regional Office for Central Africa — Report of the Secretary-General](https://www.indexdata.org/s-2024-865-the-situation-in-central-africa-and-the-activities-of-the-united-nations-regional-office-for-central-africa-report-of-the-secretary-general/)** — `2024-11-29` | `17 Pages`
 - `[`UN-S-2024-863`]` **[United Nations Organization Stabilization Mission in the Democratic Republic of the Congo — Report of the Secretary-General](https://www.indexdata.org/s-2024-863-united-nations-organization-stabilization-mission-in-the-democratic-republic-of-the-congo-report-of-the-secretary-general/)** — `2024-11-29` | `20 Pages`
 - `[`UN-S-2024-861`]` **[Letter dated 26 November 2024 from the Secretary-General addressed to the President of the Security Council](https://www.indexdata.org/s-2024-861-letter-dated-26-november-2024-from-the-secretary-general-addressed-to-the-president-of-the-security-council/)** — `2024-11-27` | `8 Pages`

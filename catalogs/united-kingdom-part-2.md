@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,250` across `97` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,251` across `97` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]** | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-23 08:25 UTC`
+**Last Automated Sync:** `2026-11-23 20:54 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`302` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`259` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`193` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
-- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`189` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
+- **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`190` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`154` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`142` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`141` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
@@ -113,7 +113,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,250)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,251)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -729,7 +729,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2024-620`]` **[The Financial Services and Markets Act 2023 (Commencement No. 6) Regulations 2024](https://www.indexdata.org/the-financial-services-and-markets-act-2023-commencement-no-6-regulations-2024/)** — `2024-05-09` | `12 Pages`
 - `[`UKSI-2024-622`]` **[The Insolvency (England and Wales) (Amendment) Rules 2024](https://www.indexdata.org/the-insolvency-england-and-wales-amendment-rules-2024/)** — `2024-05-08` | `2 Pages`
 - `[`UKSI-2024-609`]` **[The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2024](https://www.indexdata.org/the-somalia-sanctions-eu-exit-amendment-regulations-2024/)** — `2024-05-07` | `4 Pages`
-- `[`UKSI-2024-594`]` **[The Insurance and Reinsurance Undertakings (Prudential Requirements) (Transitional Provisions and Consequential Amendments) Regulations 2024](https://www.indexdata.org/the-insurance-and-reinsurance-undertakings-prudential-requirements-transitional-provisions-and-consequential-amendments-regulations-2024/)** — `2024-05-01` | `8 Pages`
 
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
@@ -1463,6 +1462,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 
+- `[`UKSI-2026-822`]` **[The Nursing and Midwifery Council (Fees) (Practice Committee) (Fitness to Practise) (Amendment) Rules Order of Council 2026](https://www.indexdata.org/the-nursing-and-midwifery-council-fees-practice-committee-fitness-to-practise-amendment-rules-order-of-council-2026/)** — `2026-07-09` | `12 Pages`
 - `[`UKSI-2026-702`]` **[The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2026](https://www.indexdata.org/the-national-health-service-pharmaceutical-and-local-pharmaceutical-services-amendment-regulations-2026/)** — `2026-06-29` | `2 Pages`
 - `[`UKSI-2026-680`]` **[The Food Supplements Purity Criteria (Magnesium L-threonate monohydrate) (England) Regulations 2026](https://www.indexdata.org/the-food-supplements-purity-criteria-magnesium-l-threonate-monohydrate-england-regulations-2026/)** — `2026-06-22` | `4 Pages`
 - `[`UKSI-2026-614`]` **[NATIONAL HEALTH SERVICE, ENGLAND AND WALES](https://www.indexdata.org/national-health-service-england-and-wales/)** — `2026-06-09` | `4 Pages`

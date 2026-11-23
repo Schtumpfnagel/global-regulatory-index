@@ -1,5 +1,5 @@
 # Wikidata QuickStatements Batch for Q142071440 (Index Data — Global Regulatory & Statutory Open Metadata Index)
-# Generated UTC: 2026-11-23 08:25 UTC | Total Dossiers: 42659 | Active Jurisdictions: 43
+# Generated UTC: 2026-11-23 20:54 UTC | Total Dossiers: 42685 | Active Jurisdictions: 48
 Q142071440	P856	"https://www.indexdata.org/"
 Q142071440	P973	"https://www.indexdata.org/methodology/"
 Q142071440	P973	"https://www.indexdata.org/llms.txt"
@@ -11,7 +11,7 @@ Q142071440	P356	"10.5281/ZENODO.23612006"
 Q142071440	P356	"10.7910/DVN/QUYKAG"
 Q142071440	P356	"10.6084/M9.FIGSHARE.34942678"
 Q142071440	P355	Q142090813
-Q142071440	P1114	42659
+Q142071440	P1114	42685
 Q142071440	P1269	Q30	S854	"https://www.indexdata.org/united-states/"
 Q142071440	P1269	Q145	S854	"https://www.indexdata.org/united-kingdom/"
 Q142071440	P1269	Q16	S854	"https://www.indexdata.org/canada/"
@@ -39,13 +39,18 @@ Q142071440	P1269	Q34	S854	"https://www.indexdata.org/sweden/"
 Q142071440	P973	"https://www.indexdata.org/albania/"
 Q142071440	P973	"https://www.indexdata.org/armenia/"
 Q142071440	P1269	Q40	S854	"https://www.indexdata.org/austria/"
+Q142071440	P973	"https://www.indexdata.org/bosnia-and-herzegovina/"
+Q142071440	P973	"https://www.indexdata.org/barbados/"
 Q142071440	P973	"https://www.indexdata.org/bahrain/"
+Q142071440	P973	"https://www.indexdata.org/burundi/"
 Q142071440	P973	"https://www.indexdata.org/benin/"
 Q142071440	P1269	Q148	S854	"https://www.indexdata.org/china/"
+Q142071440	P973	"https://www.indexdata.org/cyprus/"
 Q142071440	P1269	Q213	S854	"https://www.indexdata.org/czechia/"
 Q142071440	P1269	Q183	S854	"https://www.indexdata.org/germany/"
 Q142071440	P1269	Q35	S854	"https://www.indexdata.org/denmark/"
 Q142071440	P1269	Q191	S854	"https://www.indexdata.org/estonia/"
+Q142071440	P1269	Q79	S854	"https://www.indexdata.org/egypt/"
 Q142071440	P1269	Q29	S854	"https://www.indexdata.org/spain/"
 Q142071440	P1269	Q801	S854	"https://www.indexdata.org/israel/"
 Q142071440	P973	"https://www.indexdata.org/liechtenstein/"

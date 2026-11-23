@@ -1,7 +1,7 @@
 {
   "profile": "tabular-data-package",
   "name": "global-regulatory-index",
-  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 42,659 Official Dossiers",
+  "title": "Global Regulatory & Statutory Open Metadata Index (2024–2026) — 42,685 Official Dossiers",
   "homepage": "https://www.indexdata.org/",
   "version": "2026.11.23",
   "created": "2026-11-23",
@@ -223,8 +223,20 @@
       "path": "https://www.indexdata.org/austria/"
     },
     {
+      "title": "Bosnia and Herzegovina Official Statutory Archive",
+      "path": "https://www.indexdata.org/bosnia-and-herzegovina/"
+    },
+    {
+      "title": "Barbados Official Statutory Archive",
+      "path": "https://www.indexdata.org/barbados/"
+    },
+    {
       "title": "Bahrain Official Statutory Archive",
       "path": "https://www.indexdata.org/bahrain/"
+    },
+    {
+      "title": "Burundi Official Statutory Archive",
+      "path": "https://www.indexdata.org/burundi/"
     },
     {
       "title": "Benin Official Statutory Archive",
@@ -233,6 +245,10 @@
     {
       "title": "China Official Statutory Archive",
       "path": "https://www.indexdata.org/china/"
+    },
+    {
+      "title": "Cyprus Official Statutory Archive",
+      "path": "https://www.indexdata.org/cyprus/"
     },
     {
       "title": "Czechia Official Statutory Archive",
@@ -249,6 +265,10 @@
     {
       "title": "Estonia Official Statutory Archive",
       "path": "https://www.indexdata.org/estonia/"
+    },
+    {
+      "title": "Egypt Official Statutory Archive",
+      "path": "https://www.indexdata.org/egypt/"
     },
     {
       "title": "Spain Official Statutory Archive",

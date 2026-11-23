@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/finland/feed/](https://www.indexdata.org/finland/feed/)  
 **Wikidata Sovereign Entity:** [`Q33`](https://www.wikidata.org/wiki/Q33)  
 **Governing Open-Government Framework:** *Copyright Act (404/1961) § 9 & Act on the Openness of Government Activities (621/1999) / CC BY 4.0*  
-**Total Indexed Dossiers in Finland:** `68` across `13` issuing authorities  
-**Last Automated Sync:** `2026-11-23 08:25 UTC`
+**Total Indexed Dossiers in Finland:** `69` across `13` issuing authorities  
+**Last Automated Sync:** `2026-11-23 20:54 UTC`
 
 ---
 
 ## Issuing Authorities in Finland (13 Authorities)
 
-- **[National Audit Office of Finland (VTV)](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/) | [RSS Feed](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/feed/)
+- **[National Audit Office of Finland (VTV)](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/) | [RSS Feed](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/feed/)
 - **[Natural Resources Institute Finland (Luke)](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/) | [RSS Feed](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/feed/)
 - **[Sitra (The Finnish Innovation Fund)](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/) | [RSS Feed](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/feed/)
 - **[Finnish Environment Institute (SYKE)](https://www.indexdata.org/finland/finnish-environment-institute-syke/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/finland/finnish-environment-institute-syke/) | [RSS Feed](https://www.indexdata.org/finland/finnish-environment-institute-syke/feed/)
@@ -28,11 +28,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–68 of 68)
+## Indexed Statutory & Regulatory Dossiers (Records 1–69 of 69)
 
 ### [National Audit Office of Finland (VTV)](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/)
 Canonical Authority Archive: [https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/) | [RSS Feed](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/feed/)
 
+- `[`FI-VTV-28993`]` **[NAOF’s conclusions and recommendations: Investigation of economic crimes and recovery of criminal proceeds](https://www.indexdata.org/naofs-conclusions-and-recommendations-investigation-of-economic-crimes-and-recovery-of-criminal-proceeds/)** — `2026-11-23` | `3 Pages`
 - `[`FI-VTV-25221`]` **[Privacy statement on the case and document management system (PDF)](https://www.indexdata.org/privacy-statement-on-the-case-and-document-management-system-pdf/)** — `2026-10-15` | `3 Pages`
 - `[`FI-VTV-25220`]` **[Privacy statement on the customer and stakeholder register (PDF)](https://www.indexdata.org/privacy-statement-on-the-customer-and-stakeholder-register-pdf/)** — `2026-10-15` | `3 Pages`
 - `[`FI-VTV-28785`]` **[Oversight of the Transparency Register in 2023–2026 – Report of the National Audit Office](https://www.indexdata.org/oversight-of-the-transparency-register-in-2023-2026-report-of-the-national-audit-office/)** — `2026-10-14` | `92 Pages`

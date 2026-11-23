@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,020` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,021` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-23 08:25 UTC`
+**Last Automated Sync:** `2026-11-23 20:54 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,024` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`495` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,020)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,021)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1166,7 +1166,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-63-30`]` **[Historical and contemporary forms of violations against the sexual and reproductive health and rights of Indigenous women and girls — report of the Special Rapporteur on the Rights of Indigenous Peoples, Albert K. Barume](https://www.indexdata.org/a-hrc-63-30-historical-and-contemporary-forms-of-violations-against-the-sexual-and-reproductive-health-and-rights-of-indigenous-women-and-girls-report-of-the-special-rapporteur-on-the-righ/)** — `2026-07-03` | `21 Pages`
 - `[`UN-A-HRC-63-27-Add.1`]` **[Visit to Mexico — report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Marcos Orellana](https://www.indexdata.org/a-hrc-63-27-add-1-visit-to-mexico-report-of-the-special-rapporteur-on-the-implications-for-human-rights-of-the-environmentally-sound-management-and-disposal-of-hazardous-substances-and-was/)** — `2026-07-03` | `20 Pages`
 - `[`UN-A-HRC-63-24-Add.1`]` **[Visit to Iceland — report of the Independent Expert on the Promotion of a Democratic and Equitable International Order, George Katrougalos](https://www.indexdata.org/a-hrc-63-24-add-1-visit-to-iceland-report-of-the-independent-expert-on-the-promotion-of-a-democratic-and-equitable-international-order-george-katrougalos/)** — `2026-07-03` | `15 Pages`
-- `[`UN-A-HRC-62-NI-7`]` **[Written submission by the Office of the Ombudsman of Colombia — note](https://www.indexdata.org/a-hrc-62-ni-7-written-submission-by-the-office-of-the-ombudsman-of-colombia-note/)** — `2026-07-03` | `4 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
@@ -1349,6 +1348,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 
 - `[`UN-CERD-C-CAN-24-25`]` **[Combined 24th and 25th periodic reports submitted by Canada under article 9 of the Convention, due in 2021 — International Convention on the Elimination of All Forms of Racial Discrimination](https://www.indexdata.org/cerd-c-can-24-25-combined-24th-and-25th-periodic-reports-submitted-by-canada-under-article-9-of-the-convention-due-in-2021-international-convention-on-the-elimination-of-all-forms-of-raci/)** — `2026-11-19` | `31 Pages`
 - `[`UN-CCPR-C-145-D-3717-2020`]` **[Views adopted by the Committee under the Optional Protocol, concerning communication No. 3717/2020 — Human Rights Committee](https://www.indexdata.org/ccpr-c-145-d-3717-2020-views-adopted-by-the-committee-under-the-optional-protocol-concerning-communication-no-3717-2020-human-rights-committee/)** — `2026-11-19` | `9 Pages`
+- `[`UN-CCPR-C-LIE-3`]` **[Third periodic report submitted by Liechtenstein under article 40 of the Covenant pursuant to the optional reporting procedure, due in 2026 — International Covenant on Civil and Political Rights](https://www.indexdata.org/ccpr-c-lie-3-third-periodic-report-submitted-by-liechtenstein-under-article-40-of-the-covenant-pursuant-to-the-optional-reporting-procedure-due-in-2026-international-covenant-on-civil-and/)** — `2026-11-18` | `34 Pages`
 - `[`UN-CCPR-C-ISR-FCO-5`]` **[Information received from Israel on follow-up to the concluding observations on its 5th periodic report — Human Rights Committee](https://www.indexdata.org/ccpr-c-isr-fco-5-information-received-from-israel-on-follow-up-to-the-concluding-observations-on-its-5th-periodic-report-human-rights-committee/)** — `2026-11-18` | `8 Pages`
 - `[`UN-CRPD-C-SR.848`]` **[Summary record of the 848th meeting, held at the Palais des Nations, Geneva, on Friday, 14 August 2026 — Committee on the Rights of Persons with Disabilities, 35th session](https://www.indexdata.org/crpd-c-sr-848-summary-record-of-the-848th-meeting-held-at-the-palais-des-nations-geneva-on-friday-14-august-2026-committee-on-the-rights-of-persons-with-disabilities-35th-session/)** — `2026-11-17` | `11 Pages`
 - `[`UN-CRPD-C-SR.847`]` **[Summary record of the 847th meeting, held at the Palais des Nations, Geneva, on Friday, 14 August 2026 — Committee on the Rights of Persons with Disabilities, 35th session](https://www.indexdata.org/crpd-c-sr-847-summary-record-of-the-847th-meeting-held-at-the-palais-des-nations-geneva-on-friday-14-august-2026-committee-on-the-rights-of-persons-with-disabilities-35th-session/)** — `2026-11-17` | `13 Pages`
