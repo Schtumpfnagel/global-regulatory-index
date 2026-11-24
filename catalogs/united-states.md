@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,639` across `246` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,643` across `246` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-23 20:54 UTC`
+**Last Automated Sync:** `2026-11-24 05:16 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`533` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`366` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`370` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -262,7 +262,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,639)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,643)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -341,6 +341,10 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CRPT-119hrpt872`]` **[H. Rept. 119-872](https://www.indexdata.org/h-rept-119-872/)** — `2026-11-01` | `13 Pages`
 - `[`US-CRPT-119hrpt870`]` **[H. Rept. 119-870](https://www.indexdata.org/h-rept-119-870/)** — `2026-11-01` | `19 Pages`
 - `[`US-CRPT-119hrpt869`]` **[H. Rept. 119-869](https://www.indexdata.org/h-rept-119-869/)** — `2026-11-01` | `18 Pages`
+- `[`US-CPRT-119HPRT66004`]` **[House Committee Print 119-39 - TEXT OF H.R. 4795, THE PROTECT ECONOMIC AND ACADEMIC FREEDOM ACT OF 2026 66-004](https://www.indexdata.org/house-committee-print-119-39-text-of-h-r-4795-the-protect-economic-and-academic-freedom-act-of-2026-66-004/)** — `2026-11-01` | `4 Pages`
+- `[`US-CPRT-119HPRT66002`]` **[House Committee Print 119-37 - TEXT OF H.Con. Res.____, ESTABLISHING THE CONGRESSIONAL BUDGET FOR THE UNITED STATES GOVERNMENT FOR FISCAL YEAR 2027 AND SETTING FORTH THE APPROPRIATE BUDGETARY LEVELS FOR FISCAL YEAR 2028 THROUGH 2026](https://www.indexdata.org/house-committee-print-119-37-text-of-h-con-res-____-establishing-the-congressional-budget-for-the-united-states-government-for-fiscal-year-2027-and-setting-forth-the-appropriate-budgetary-levels-f/)** — `2026-11-01` | `55 Pages`
+- `[`US-CPRT-119HPRT66001`]` **[House Committee Print 119-36 - TEXT OF H.R. 7008, THE STOP INSIDER TRADING ACT](https://www.indexdata.org/house-committee-print-119-36-text-of-h-r-7008-the-stop-insider-trading-act/)** — `2026-11-01` | `16 Pages`
+- `[`US-CPRT-119HPRT66000`]` **[House Committee Print 119-35 - TEXT OF H.R. 6955, THE MAIN STREET CAPITAL ACCESS ACT](https://www.indexdata.org/house-committee-print-119-35-text-of-h-r-6955-the-main-street-capital-access-act/)** — `2026-11-01` | `148 Pages`
 - `[`US-CPRT-119HPRT65999`]` **[House Committee Print 119-34 - TEXT OF H.R. 8884, THE REMOVING BARRIERS TO WORK FOR DISABLED AMERICANS ACT](https://www.indexdata.org/house-committee-print-119-34-text-of-h-r-8884-the-removing-barriers-to-work-for-disabled-americans-act/)** — `2026-11-01` | `3 Pages`
 - `[`US-CPRT-119HPRT65998`]` **[House Committee Print 119-33 - TEXT OF H.R. 8800, THE NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2027](https://www.indexdata.org/house-committee-print-119-33-text-of-h-r-8800-the-national-defense-authorization-act-for-fiscal-year-2027/)** — `2026-11-01` | `1642 Pages`
 - `[`US-CHRG-119hhrg65620`]` **[Serial No. 119-43 - FUTURE OF UNITED STATES MARITIME: REVIEW OF FISCAL YEAR 2027 MARITIME ADMINISTRATION AND FEDERAL MARITIME COMMISSION BUDGET REQUESTS](https://www.indexdata.org/serial-no-119-43-future-of-united-states-maritime-review-of-fiscal-year-2027-maritime-administration-and-federal-maritime-commission-budget-requests/)** — `2026-11-01` | `63 Pages`
@@ -1404,7 +1408,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2026-20464`]` **[Radio Broadcasting Services; Selmer, Tennessee](https://www.indexdata.org/radio-broadcasting-services-selmer-tennessee/)** — `2026-10-06` | `2 Pages`
 - `[`2026-20362`]` **[Wireline Competition Bureau and Office of Economics and Analytics Adopt 2026 Mandatory Data Collection for Incarcerated People's Communications Services](https://www.indexdata.org/wireline-competition-bureau-and-office-of-economics-and-analytics-adopt-2026-mandatory-data-collection-for-incarcerated-peoples-communications-services/)** — `2026-10-05` | `8 Pages`
 - `[`2026-20192`]` **[&#91;WC Docket Nos. 25-208, 25-209; FCC 26-19; FR ID 370342&#93; Reducing Barriers to Network Improvements and Service Changes, Accelerating Network Modernization](https://www.indexdata.org/wc-docket-nos-25-208-25-209-fcc-26-19-fr-id-370342-reducing-barriers-to-network-improvements-and-service-changes-accelerating-network-modernization/)** — `2026-10-01` | `7 Pages`
-- `[`2026-20038`]` **[Television Broadcasting Services Savannah, Georgia](https://www.indexdata.org/television-broadcasting-services-savannah-georgia/)** — `2026-09-30` | `2 Pages`
 
 ### [U.S. Department of Transportation (USDOT)](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-transportation-usdot/feed/)
@@ -1580,19 +1583,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-
 - `[`US-FR-2026-22787`]` **[Anti-Communism Week, 2026](https://www.indexdata.org/anti-communism-week-2026/)** — `2026-11-06` | `2 Pages`
 - `[`US-EOP-WH-2026ModifyingAuto338.prc_.AnnexII-2`]` **[2026ModifyingAuto338.prc .AnnexII-2](https://www.indexdata.org/2026modifyingauto338-prc-annexii-2/)** — `2026-10-01` | `2 Pages`
 
-### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
-
-- `[`2026-22792`]` **[Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program](https://www.indexdata.org/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program-2/)** — `2026-11-08` | `215 Pages`
-- `[`2026-22381`]` **[Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Conditions for Coverage](https://www.indexdata.org/medicare-and-medicaid-programs-organ-procurement-organizations-conditions-for-coverage-revisions-to-the-conditions-for-coverage-2/)** — `2026-11-03` | `55 Pages`
-- `[`2026-22194`]` **[Medicare Program; CY 2027 Changes to the End-Stage Renal Disease (ESRD) Prospective Payment System, Acute Kidney Injury (AKI) Dialysis Payment, and ESRD Quality Incentive Program](https://www.indexdata.org/medicare-program-cy-2027-changes-to-the-end-stage-renal-disease-esrd-prospective-payment-system-acute-kidney-injury-aki-dialysis-payment-and-esrd-quality-incentive-program/)** — `2026-10-30` | `123 Pages`
-- `[`2026-21420`]` **[Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026](https://www.indexdata.org/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations-act-2026/)** — `2026-10-20` | `82 Pages`
-- `[`2026-20613`]` **[Clinical Laboratory Improvement Amendments of 1988 (CLIA); Virtual Access, Gynecologic Cytology Proficiency Testing (PT), Personnel Qualifications, and Other Changes](https://www.indexdata.org/clinical-laboratory-improvement-amendments-of-1988-clia-virtual-access-gynecologic-cytology-proficiency-testing-pt-personnel-qualifications-and-other-changes/)** — `2026-10-08` | `51 Pages`
-- `[`2026-20281`]` **[Global Benchmark for Efficient Drug Pricing (GLOBE) Model](https://www.indexdata.org/global-benchmark-for-efficient-drug-pricing-globe-model/)** — `2026-10-02` | `181 Pages`
-- `[`2026-20134`]` **[Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update; Correction](https://www.indexdata.org/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update-correction/)** — `2026-10-01` | `5 Pages`
-- `[`2026-20131`]` **[Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2027 and Updates to the IRF Quality Reporting Program; Correction](https://www.indexdata.org/medicare-program-inpatient-rehabilitation-facility-prospective-payment-system-for-federal-fiscal-year-2027-and-updates-to-the-irf-quality-reporting-program-correction/)** — `2026-10-01` | `8 Pages`
-- `[`2026-20067`]` **[Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements; Correction](https://www.indexdata.org/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting-program-requirements-correction/)** — `2026-09-30` | `5 Pages`
-
 ### [Centers for Medicare & Medicaid Services (CMS)](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services-cms/feed/)
 
@@ -1657,6 +1647,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-nuclea
 - `[`US-FRPI-2026-23236`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act-4/)** — `2026-11-12` | `2 Pages`
 - `[`US-FRPI-2026-22869`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act-3/)** — `2026-11-08` | `2 Pages`
 - `[`US-FRPI-2026-22858`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act-2/)** — `2026-11-08` | `3 Pages`
+
+### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
+
+- `[`2026-22792`]` **[Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program](https://www.indexdata.org/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program-2/)** — `2026-11-08` | `215 Pages`
+- `[`2026-22381`]` **[Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Conditions for Coverage](https://www.indexdata.org/medicare-and-medicaid-programs-organ-procurement-organizations-conditions-for-coverage-revisions-to-the-conditions-for-coverage-2/)** — `2026-11-03` | `55 Pages`
+- `[`2026-22194`]` **[Medicare Program; CY 2027 Changes to the End-Stage Renal Disease (ESRD) Prospective Payment System, Acute Kidney Injury (AKI) Dialysis Payment, and ESRD Quality Incentive Program](https://www.indexdata.org/medicare-program-cy-2027-changes-to-the-end-stage-renal-disease-esrd-prospective-payment-system-acute-kidney-injury-aki-dialysis-payment-and-esrd-quality-incentive-program/)** — `2026-10-30` | `123 Pages`
+- `[`2026-21420`]` **[Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026](https://www.indexdata.org/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations-act-2026/)** — `2026-10-20` | `82 Pages`
+- `[`2026-20613`]` **[Clinical Laboratory Improvement Amendments of 1988 (CLIA); Virtual Access, Gynecologic Cytology Proficiency Testing (PT), Personnel Qualifications, and Other Changes](https://www.indexdata.org/clinical-laboratory-improvement-amendments-of-1988-clia-virtual-access-gynecologic-cytology-proficiency-testing-pt-personnel-qualifications-and-other-changes/)** — `2026-10-08` | `51 Pages`
+- `[`2026-20281`]` **[Global Benchmark for Efficient Drug Pricing (GLOBE) Model](https://www.indexdata.org/global-benchmark-for-efficient-drug-pricing-globe-model/)** — `2026-10-02` | `181 Pages`
+- `[`2026-20134`]` **[Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update; Correction](https://www.indexdata.org/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update-correction/)** — `2026-10-01` | `5 Pages`
+- `[`2026-20131`]` **[Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2027 and Updates to the IRF Quality Reporting Program; Correction](https://www.indexdata.org/medicare-program-inpatient-rehabilitation-facility-prospective-payment-system-for-federal-fiscal-year-2027-and-updates-to-the-irf-quality-reporting-program-correction/)** — `2026-10-01` | `8 Pages`
 
 ### [Financial Crimes Enforcement Network](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-crimes-enforcement-network/](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/) | [RSS Feed](https://www.indexdata.org/united-states/financial-crimes-enforcement-network/feed/)
@@ -1789,15 +1791,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`US-FR-2026-23400`]` **[Protecting Consumers From SIM-Swap and Port-Out Fraud](https://www.indexdata.org/protecting-consumers-from-sim-swap-and-port-out-fraud-4/)** — `2026-11-17` | `2 Pages`
 - `[`US-FRPI-2026-23467`]` **[Meetings; Sunshine Act](https://www.indexdata.org/meetings-sunshine-act-9/)** — `2026-11-16` | `5 Pages`
 
-### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
-
-- `[`2026-23060`]` **[Federal Reserve Bank Capital Stock](https://www.indexdata.org/federal-reserve-bank-capital-stock-4/)** — `2026-11-11` | `2 Pages`
-- `[`2026-20247`]` **[Enhanced Transparency and Public Accountability of the Supervisory Stress Test Models and Scenarios; Modifications to the Capital Planning and Stress Capital Buffer Requirement Rule, Enhanced Prudential Standards Rule, and Regulation LL](https://www.indexdata.org/enhanced-transparency-and-public-accountability-of-the-supervisory-stress-test-models-and-scenarios-modifications-to-the-capital-planning-and-stress-capital-buffer-requirement-rule-enhanced-prudenti/)** — `2026-10-02` | `64 Pages`
-- `[`2026-20246`]` **[Modifications to the Capital Plan Rule and Stress Capital Buffer Requirement](https://www.indexdata.org/modifications-to-the-capital-plan-rule-and-stress-capital-buffer-requirement/)** — `2026-10-02` | `19 Pages`
-- `[`2026-20037`]` **[Regulation D: Reserve Requirements of Depository Institutions](https://www.indexdata.org/regulation-d-reserve-requirements-of-depository-institutions/)** — `2026-09-30` | `2 Pages`
-- `[`2026-20036`]` **[Regulation A: Extensions of Credit by Federal Reserve Banks](https://www.indexdata.org/regulation-a-extensions-of-credit-by-federal-reserve-banks/)** — `2026-09-30` | `2 Pages`
-
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 
@@ -1911,6 +1904,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-de
 - `[`US-FRPI-2026-23656`]` **[Arms Sales](https://www.indexdata.org/arms-sales/)** — `2026-11-19` | `4 Pages`
 - `[`US-FRPI-2026-23655`]` **[Arms Sales](https://www.indexdata.org/arms-sales-2/)** — `2026-11-19` | `6 Pages`
 - `[`US-FRPI-2026-23654`]` **[Arms Sales](https://www.indexdata.org/arms-sales-3/)** — `2026-11-19` | `4 Pages`
+
+### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
+
+- `[`2026-23060`]` **[Federal Reserve Bank Capital Stock](https://www.indexdata.org/federal-reserve-bank-capital-stock-4/)** — `2026-11-11` | `2 Pages`
+- `[`2026-20247`]` **[Enhanced Transparency and Public Accountability of the Supervisory Stress Test Models and Scenarios; Modifications to the Capital Planning and Stress Capital Buffer Requirement Rule, Enhanced Prudential Standards Rule, and Regulation LL](https://www.indexdata.org/enhanced-transparency-and-public-accountability-of-the-supervisory-stress-test-models-and-scenarios-modifications-to-the-capital-planning-and-stress-capital-buffer-requirement-rule-enhanced-prudenti/)** — `2026-10-02` | `64 Pages`
+- `[`2026-20246`]` **[Modifications to the Capital Plan Rule and Stress Capital Buffer Requirement](https://www.indexdata.org/modifications-to-the-capital-plan-rule-and-stress-capital-buffer-requirement/)** — `2026-10-02` | `19 Pages`
 
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)

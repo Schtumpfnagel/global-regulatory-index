@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,639` across `246` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,643` across `246` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-23 20:54 UTC`
+**Last Automated Sync:** `2026-11-24 05:16 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`533` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`366` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`370` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -262,11 +262,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,639 of 15,639)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,643 of 15,643)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-15176`]` **[Airworthiness Directives; Survitec Group Limited (RFD Beaufort Ltd.) Life Jackets](https://www.indexdata.org/airworthiness-directives-survitec-group-limited-rfd-beaufort-ltd-life-jackets/)** — `2023-07-19` | `4 Pages`
 - `[`2023-14927`]` **[Demonstration of Radio Altimeter Tolerant Aircraft](https://www.indexdata.org/demonstration-of-radio-altimeter-tolerant-aircraft/)** — `2023-07-19` | `3 Pages`
 - `[`2023-15204`]` **[Revocation of Colored Federal Airway Red 39 (R-39); Bethel, AK](https://www.indexdata.org/revocation-of-colored-federal-airway-red-39-r-39-bethel-ak/)** — `2023-07-18` | `2 Pages`
 - `[`2023-15168`]` **[Amendment of Class E Airspace; Carrabassett, ME](https://www.indexdata.org/amendment-of-class-e-airspace-carrabassett-me/)** — `2023-07-18` | `2 Pages`
@@ -539,6 +540,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2023-15026`]` **[Security Zones; Corpus Christi Ship Channel, Corpus Christi, TX](https://www.indexdata.org/security-zones-corpus-christi-ship-channel-corpus-christi-tx-2/)** — `2023-07-19` | `3 Pages`
 - `[`2023-15049`]` **[Safety Zones; Annual Events in the Captain of the Port Buffalo Zone](https://www.indexdata.org/safety-zones-annual-events-in-the-captain-of-the-port-buffalo-zone-2/)** — `2023-07-17` | `2 Pages`
 - `[`2023-15028`]` **[Safety Zone; Presque Isle Bay, Erie, PA](https://www.indexdata.org/safety-zone-presque-isle-bay-erie-pa-4/)** — `2023-07-17` | `2 Pages`
 - `[`2023-14945`]` **[Safety Zone; Hurricanes and Tropical Storms in Captain of the Port Zone North Carolina](https://www.indexdata.org/safety-zone-hurricanes-and-tropical-storms-in-captain-of-the-port-zone-north-carolina/)** — `2023-07-14` | `4 Pages`
@@ -684,6 +686,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 
+- `[`2023-14971`]` **[Endangered and Threatened Wildlife and Plants; Removing Golden Paintbrush From the Federal List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removing-golden-paintbrush-from-the-federal-list-of-endangered-and-threatened-plants/)** — `2023-07-19` | `23 Pages`
 - `[`2023-14225`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for Green Sea Turtle](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-green-sea-turtle/)** — `2023-07-19` | `195 Pages`
 - `[`2023-13859`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Dunes Sagebrush Lizard](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-dunes-sagebrush-lizard-2/)** — `2023-07-03` | `17 Pages`
 - `[`2023-13672`]` **[Endangered and Threatened Wildlife and Plants; Designation of Experimental Populations](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-experimental-populations/)** — `2023-07-03` | `11 Pages`
@@ -927,6 +930,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 - `[`2023-13467`]` **[Hazardous Materials: FAST Act Requirements for Real-Time Train Consist Information](https://www.indexdata.org/hazardous-materials-fast-act-requirements-for-real-time-train-consist-information-3/)** — `2023-06-27` | `20 Pages`
 - `[`2023-07109`]` **[Hazardous Materials: Harmonization With International Standards](https://www.indexdata.org/hazardous-materials-harmonization-with-international-standards-5/)** — `2023-05-30` | `55 Pages`
 
+### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
+
+- `[`2023-15078`]` **[Small Business Size Standards: Adjustment of Monetary-Based Size Standards, Disadvantage Thresholds, and 8(a) Eligibility Thresholds for Inflation](https://www.indexdata.org/small-business-size-standards-adjustment-of-monetary-based-size-standards-disadvantage-thresholds-and-8a-eligibility-thresholds-for-inflation/)** — `2023-07-19` | `8 Pages`
+- `[`2023-13981`]` **[Small Business Investment Company Investment Diversification and Growth](https://www.indexdata.org/small-business-investment-company-investment-diversification-and-growth/)** — `2023-07-18` | `33 Pages`
+- `[`2023-13439`]` **[Veteran-Owned Small Business and Service-Disabled, Veteran-Owned Small Business-Certification; Correction](https://www.indexdata.org/veteran-owned-small-business-and-service-disabled-veteran-owned-small-business-certification-correction/)** — `2023-07-03` | `2 Pages`
+- `[`2023-12779`]` **[Disaster Assistance Loan Program Changes to Maximum Loan Amounts and Miscellaneous Updates](https://www.indexdata.org/disaster-assistance-loan-program-changes-to-maximum-loan-amounts-and-miscellaneous-updates/)** — `2023-06-16` | `7 Pages`
+
 ### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
 
@@ -968,13 +979,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-reg
 - `[`2023-12895`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-24/)** — `2023-06-16` | `3 Pages`
 - `[`2023-12109`]` **[Non-Public Materials](https://www.indexdata.org/non-public-materials/)** — `2023-06-07` | `4 Pages`
 - `[`2023-11935`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-25/)** — `2023-06-06` | `2 Pages`
-
-### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
-
-- `[`2023-13981`]` **[Small Business Investment Company Investment Diversification and Growth](https://www.indexdata.org/small-business-investment-company-investment-diversification-and-growth/)** — `2023-07-18` | `33 Pages`
-- `[`2023-13439`]` **[Veteran-Owned Small Business and Service-Disabled, Veteran-Owned Small Business-Certification; Correction](https://www.indexdata.org/veteran-owned-small-business-and-service-disabled-veteran-owned-small-business-certification-correction/)** — `2023-07-03` | `2 Pages`
-- `[`2023-12779`]` **[Disaster Assistance Loan Program Changes to Maximum Loan Amounts and Miscellaneous Updates](https://www.indexdata.org/disaster-assistance-loan-program-changes-to-maximum-loan-amounts-and-miscellaneous-updates/)** — `2023-06-16` | `7 Pages`
 
 ### [State Department](https://www.indexdata.org/united-states/state-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)

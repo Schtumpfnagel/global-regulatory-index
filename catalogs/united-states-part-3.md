@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,639` across `246` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,643` across `246` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-23 20:54 UTC`
+**Last Automated Sync:** `2026-11-24 05:16 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`533` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`366` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`370` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -262,11 +262,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,639)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,643)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-11560`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-31/)** — `2026-06-09` | `5 Pages`
 - `[`2026-11528`]` **[Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes](https://www.indexdata.org/airworthiness-directives-pilatus-aircraft-ltd-airplanes-4/)** — `2026-06-09` | `3 Pages`
 - `[`2026-11512`]` **[Airworthiness Directives; Gulfstream Aerospace LP Airplanes (Type Certificate Previously Held by Israel Aircraft Industries, Ltd.)](https://www.indexdata.org/airworthiness-directives-gulfstream-aerospace-lp-airplanes-type-certificate-previously-held-by-israel-aircraft-industries-ltd/)** — `2026-06-09` | `4 Pages`
 - `[`2026-11511`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-34/)** — `2026-06-09` | `3 Pages`
@@ -610,7 +611,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-02747`]` **[Establishment of Class E Airspace; Clyde, NC](https://www.indexdata.org/establishment-of-class-e-airspace-clyde-nc/)** — `2026-02-11` | `2 Pages`
 - `[`2026-02736`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-66/)** — `2026-02-11` | `4 Pages`
 - `[`2026-02727`]` **[Establishment of Class D and Class E Airspace; Ceiba, PR](https://www.indexdata.org/establishment-of-class-d-and-class-e-airspace-ceiba-pr-2/)** — `2026-02-11` | `2 Pages`
-- `[`2026-02564`]` **[Amendment of United States Area Navigation Route T-388 in the Vicinity of Kodiak, Alaska.](https://www.indexdata.org/amendment-of-united-states-area-navigation-route-t-388-in-the-vicinity-of-kodiak-alaska-2/)** — `2026-02-09` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -925,7 +925,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-02724`]` **[Special Local Regulation, Temporary Anchorage Ground Suspension, and Safety and Security Zones: Sail Boston, 250th Anniversary 2026; Boston Harbor, Boston, MA](https://www.indexdata.org/special-local-regulation-temporary-anchorage-ground-suspension-and-safety-and-security-zones-sail-boston-250th-anniversary-2026-boston-harbor-boston-ma-2/)** — `2026-02-11` | `7 Pages`
 - `[`2026-02690`]` **[Drawbridge Operation Regulation; Passaic River, Between the City of Newark and Town of Kearny, NJ](https://www.indexdata.org/drawbridge-operation-regulation-passaic-river-between-the-city-of-newark-and-town-of-kearny-nj/)** — `2026-02-11` | `3 Pages`
 - `[`2026-02594`]` **[Security Zone; Potomac River and Anacostia River, and Adjacent Waters; Washington, DC](https://www.indexdata.org/security-zone-potomac-river-and-anacostia-river-and-adjacent-waters-washington-dc/)** — `2026-02-10` | `2 Pages`
-- `[`2026-02567`]` **[Safety Zone; Ice Accumulations; Ohio River, Pittsburgh, PA](https://www.indexdata.org/safety-zone-ice-accumulations-ohio-river-pittsburgh-pa/)** — `2026-02-09` | `2 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1124,7 +1123,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 - `[`2026-08046`]` **[Pipeline Safety: Standards Update-ASTM D2513](https://www.indexdata.org/pipeline-safety-standards-update-astm-d2513/)** — `2026-04-24` | `5 Pages`
 - `[`2026-08045`]` **[Pipeline Safety: Standards Update-ASTM F2620](https://www.indexdata.org/pipeline-safety-standards-update-astm-f2620/)** — `2026-04-24` | `5 Pages`
 - `[`2026-08044`]` **[Pipeline Safety: Standards Update-ASTM A333/A333M](https://www.indexdata.org/pipeline-safety-standards-update-astm-a333-a333m-2/)** — `2026-04-24` | `4 Pages`
-- `[`2026-02575`]` **[Hazardous Materials: Harmonization With International Standards](https://www.indexdata.org/hazardous-materials-harmonization-with-international-standards/)** — `2026-02-10` | `76 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1238,35 +1236,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2026-04431`]` **[Electronic Furnishing of Payee Statements Regarding Digital Asset Sales by Brokers](https://www.indexdata.org/electronic-furnishing-of-payee-statements-regarding-digital-asset-sales-by-brokers/)** — `2026-03-06` | `21 Pages`
 - `[`2026-03798`]` **[Private Health Insurance; Transparency in Coverage; Extension of Comment Period](https://www.indexdata.org/private-health-insurance-transparency-in-coverage-extension-of-comment-period/)** — `2026-02-25` | `2 Pages`
 
-### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
-
-- `[`2026-10880`]` **[Poultry Grower Payment Systems and Capital Improvement Systems; Delay of Effective Date](https://www.indexdata.org/poultry-grower-payment-systems-and-capital-improvement-systems-delay-of-effective-date/)** — `2026-06-01` | `10 Pages`
-- `[`2026-10378`]` **[Onions Grown in South Texas; Temporary Suspension of Continuance Referendum](https://www.indexdata.org/onions-grown-in-south-texas-temporary-suspension-of-continuance-referendum/)** — `2026-05-26` | `3 Pages`
-- `[`2026-09502`]` **[Domestic Dates Produced or Packed in Riverside County, California; Decreased Assessment Rate](https://www.indexdata.org/domestic-dates-produced-or-packed-in-riverside-county-california-decreased-assessment-rate/)** — `2026-05-13` | `3 Pages`
-- `[`2026-09058`]` **[Spearmint Oil Produced in the Far West; Salable Quantities and Allotment Percentages for the 2025-2026 Marketing Year](https://www.indexdata.org/spearmint-oil-produced-in-the-far-west-salable-quantities-and-allotment-percentages-for-the-2025-2026-marketing-year/)** — `2026-05-07` | `7 Pages`
-- `[`2026-08358`]` **[Oranges, Grapefruit, Tangerines, and Pummelos Grown in Florida; Increased Assessment Rate](https://www.indexdata.org/oranges-grapefruit-tangerines-and-pummelos-grown-in-florida-increased-assessment-rate/)** — `2026-04-29` | `4 Pages`
-- `[`2026-08335`]` **[Oranges and Grapefruit Grown in Lower Rio Grande Valley in Texas; Increased Assessment Rate](https://www.indexdata.org/oranges-and-grapefruit-grown-in-lower-rio-grande-valley-in-texas-increased-assessment-rate/)** — `2026-04-29` | `3 Pages`
-- `[`2026-06891`]` **[Grapes Grown in a Designated Area of Southeastern California; Decreased Assessment Rate](https://www.indexdata.org/grapes-grown-in-a-designated-area-of-southeastern-california-decreased-assessment-rate-2/)** — `2026-04-09` | `3 Pages`
-- `[`2026-06375`]` **[Sweet Onions Grown in the Walla Walla Valley of Southeast Washington and Northeast Oregon; Decreased Assessment Rate](https://www.indexdata.org/sweet-onions-grown-in-the-walla-walla-valley-of-southeast-washington-and-northeast-oregon-decreased-assessment-rate/)** — `2026-04-02` | `3 Pages`
-- `[`2026-06103`]` **[Softwood Lumber Board Assessment Rate Clarification and Changes to Membership](https://www.indexdata.org/softwood-lumber-board-assessment-rate-clarification-and-changes-to-membership-2/)** — `2026-03-30` | `7 Pages`
-- `[`2026-05598`]` **[National Organic Program: National List of Allowed and Prohibited Substances per October 2021, October 2022, and October 2024 Recommendations (Crops and Livestock)](https://www.indexdata.org/national-organic-program-national-list-of-allowed-and-prohibited-substances-per-october-2021-october-2022-and-october-2024-recommendations-crops-and-livestock/)** — `2026-03-23` | `10 Pages`
-- `[`2026-05542`]` **[Almonds Grown in California; Amendment to the Marketing Order](https://www.indexdata.org/almonds-grown-in-california-amendment-to-the-marketing-order-2/)** — `2026-03-20` | `3 Pages`
-- `[`2026-05330`]` **[Poultry Grower Payment Systems and Capital Improvement Systems; Delay of Effective Date](https://www.indexdata.org/poultry-grower-payment-systems-and-capital-improvement-systems-delay-of-effective-date-2/)** — `2026-03-18` | `7 Pages`
-- `[`2026-04694`]` **[Updates to the Popcorn Promotion, Research, and Consumer Information Order](https://www.indexdata.org/updates-to-the-popcorn-promotion-research-and-consumer-information-order/)** — `2026-03-10` | `3 Pages`
-- `[`2026-04586`]` **[Christmas Tree Promotion, Research, and Information Order](https://www.indexdata.org/christmas-tree-promotion-research-and-information-order/)** — `2026-03-09` | `6 Pages`
-- `[`2026-04584`]` **[Avocados Grown in South Florida and Imported Avocados; Change in Maturity Requirements](https://www.indexdata.org/avocados-grown-in-south-florida-and-imported-avocados-change-in-maturity-requirements/)** — `2026-03-09` | `4 Pages`
-- `[`2026-04580`]` **[Olives Grown in California; Decreased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-decreased-assessment-rate-2/)** — `2026-03-09` | `4 Pages`
-- `[`2026-04573`]` **[Almonds Grown in California; Extension of Inedible Disposition Obligation Deadline](https://www.indexdata.org/almonds-grown-in-california-extension-of-inedible-disposition-obligation-deadline-2/)** — `2026-03-09` | `3 Pages`
-- `[`2026-04571`]` **[Sweet Cherries Grown in Designated Counties in Washington; Modification of Handling Regulations](https://www.indexdata.org/sweet-cherries-grown-in-designated-counties-in-washington-modification-of-handling-regulations-2/)** — `2026-03-09` | `4 Pages`
-- `[`2026-04570`]` **[Paper and Paper-Based Packaging Promotion, Research and Information Order Termination](https://www.indexdata.org/paper-and-paper-based-packaging-promotion-research-and-information-order-termination/)** — `2026-03-09` | `2 Pages`
-- `[`2026-04567`]` **[Honey Packers and Importers; Increased Assessment Rate](https://www.indexdata.org/honey-packers-and-importers-increased-assessment-rate-2/)** — `2026-03-09` | `3 Pages`
-- `[`2026-04013`]` **[Mandatory Manufacturing Cost Survey Advanced Notice of Proposed Rulemaking](https://www.indexdata.org/mandatory-manufacturing-cost-survey-advanced-notice-of-proposed-rulemaking/)** — `2026-02-27` | `2 Pages`
-- `[`2026-03985`]` **[Reauthorization of Dairy Forward Pricing Program](https://www.indexdata.org/reauthorization-of-dairy-forward-pricing-program/)** — `2026-02-27` | `3 Pages`
-- `[`2026-03645`]` **[Economic Adjustment Assistance for Textile Mills-Payment Rate](https://www.indexdata.org/economic-adjustment-assistance-for-textile-mills-payment-rate/)** — `2026-02-24` | `2 Pages`
-- `[`2026-02589`]` **[Onions Grown in Certain Designated Counties in Idaho and Malheur County, Oregon; Decreased Assessment Rate](https://www.indexdata.org/onions-grown-in-certain-designated-counties-in-idaho-and-malheur-county-oregon-decreased-assessment-rate/)** — `2026-02-10` | `4 Pages`
-- `[`2026-02548`]` **[National Organic Program: 2026 Sunset Review and Substance Renewals](https://www.indexdata.org/national-organic-program-2026-sunset-review-and-substance-renewals/)** — `2026-02-09` | `2 Pages`
-
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
 
@@ -1296,6 +1265,34 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 - `[`2026-03865`]` **[Regulatory Framework for Fusion Machines](https://www.indexdata.org/regulatory-framework-for-fusion-machines/)** — `2026-02-26` | `23 Pages`
 - `[`2026-03791`]` **[Rulemaking Activities Being Discontinued by the NRC](https://www.indexdata.org/rulemaking-activities-being-discontinued-by-the-nrc/)** — `2026-02-25` | `2 Pages`
 
+### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
+
+- `[`2026-10880`]` **[Poultry Grower Payment Systems and Capital Improvement Systems; Delay of Effective Date](https://www.indexdata.org/poultry-grower-payment-systems-and-capital-improvement-systems-delay-of-effective-date/)** — `2026-06-01` | `10 Pages`
+- `[`2026-10378`]` **[Onions Grown in South Texas; Temporary Suspension of Continuance Referendum](https://www.indexdata.org/onions-grown-in-south-texas-temporary-suspension-of-continuance-referendum/)** — `2026-05-26` | `3 Pages`
+- `[`2026-09502`]` **[Domestic Dates Produced or Packed in Riverside County, California; Decreased Assessment Rate](https://www.indexdata.org/domestic-dates-produced-or-packed-in-riverside-county-california-decreased-assessment-rate/)** — `2026-05-13` | `3 Pages`
+- `[`2026-09058`]` **[Spearmint Oil Produced in the Far West; Salable Quantities and Allotment Percentages for the 2025-2026 Marketing Year](https://www.indexdata.org/spearmint-oil-produced-in-the-far-west-salable-quantities-and-allotment-percentages-for-the-2025-2026-marketing-year/)** — `2026-05-07` | `7 Pages`
+- `[`2026-08358`]` **[Oranges, Grapefruit, Tangerines, and Pummelos Grown in Florida; Increased Assessment Rate](https://www.indexdata.org/oranges-grapefruit-tangerines-and-pummelos-grown-in-florida-increased-assessment-rate/)** — `2026-04-29` | `4 Pages`
+- `[`2026-08335`]` **[Oranges and Grapefruit Grown in Lower Rio Grande Valley in Texas; Increased Assessment Rate](https://www.indexdata.org/oranges-and-grapefruit-grown-in-lower-rio-grande-valley-in-texas-increased-assessment-rate/)** — `2026-04-29` | `3 Pages`
+- `[`2026-06891`]` **[Grapes Grown in a Designated Area of Southeastern California; Decreased Assessment Rate](https://www.indexdata.org/grapes-grown-in-a-designated-area-of-southeastern-california-decreased-assessment-rate-2/)** — `2026-04-09` | `3 Pages`
+- `[`2026-06375`]` **[Sweet Onions Grown in the Walla Walla Valley of Southeast Washington and Northeast Oregon; Decreased Assessment Rate](https://www.indexdata.org/sweet-onions-grown-in-the-walla-walla-valley-of-southeast-washington-and-northeast-oregon-decreased-assessment-rate/)** — `2026-04-02` | `3 Pages`
+- `[`2026-06103`]` **[Softwood Lumber Board Assessment Rate Clarification and Changes to Membership](https://www.indexdata.org/softwood-lumber-board-assessment-rate-clarification-and-changes-to-membership-2/)** — `2026-03-30` | `7 Pages`
+- `[`2026-05598`]` **[National Organic Program: National List of Allowed and Prohibited Substances per October 2021, October 2022, and October 2024 Recommendations (Crops and Livestock)](https://www.indexdata.org/national-organic-program-national-list-of-allowed-and-prohibited-substances-per-october-2021-october-2022-and-october-2024-recommendations-crops-and-livestock/)** — `2026-03-23` | `10 Pages`
+- `[`2026-05542`]` **[Almonds Grown in California; Amendment to the Marketing Order](https://www.indexdata.org/almonds-grown-in-california-amendment-to-the-marketing-order-2/)** — `2026-03-20` | `3 Pages`
+- `[`2026-05330`]` **[Poultry Grower Payment Systems and Capital Improvement Systems; Delay of Effective Date](https://www.indexdata.org/poultry-grower-payment-systems-and-capital-improvement-systems-delay-of-effective-date-2/)** — `2026-03-18` | `7 Pages`
+- `[`2026-04694`]` **[Updates to the Popcorn Promotion, Research, and Consumer Information Order](https://www.indexdata.org/updates-to-the-popcorn-promotion-research-and-consumer-information-order/)** — `2026-03-10` | `3 Pages`
+- `[`2026-04586`]` **[Christmas Tree Promotion, Research, and Information Order](https://www.indexdata.org/christmas-tree-promotion-research-and-information-order/)** — `2026-03-09` | `6 Pages`
+- `[`2026-04584`]` **[Avocados Grown in South Florida and Imported Avocados; Change in Maturity Requirements](https://www.indexdata.org/avocados-grown-in-south-florida-and-imported-avocados-change-in-maturity-requirements/)** — `2026-03-09` | `4 Pages`
+- `[`2026-04580`]` **[Olives Grown in California; Decreased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-decreased-assessment-rate-2/)** — `2026-03-09` | `4 Pages`
+- `[`2026-04573`]` **[Almonds Grown in California; Extension of Inedible Disposition Obligation Deadline](https://www.indexdata.org/almonds-grown-in-california-extension-of-inedible-disposition-obligation-deadline-2/)** — `2026-03-09` | `3 Pages`
+- `[`2026-04571`]` **[Sweet Cherries Grown in Designated Counties in Washington; Modification of Handling Regulations](https://www.indexdata.org/sweet-cherries-grown-in-designated-counties-in-washington-modification-of-handling-regulations-2/)** — `2026-03-09` | `4 Pages`
+- `[`2026-04570`]` **[Paper and Paper-Based Packaging Promotion, Research and Information Order Termination](https://www.indexdata.org/paper-and-paper-based-packaging-promotion-research-and-information-order-termination/)** — `2026-03-09` | `2 Pages`
+- `[`2026-04567`]` **[Honey Packers and Importers; Increased Assessment Rate](https://www.indexdata.org/honey-packers-and-importers-increased-assessment-rate-2/)** — `2026-03-09` | `3 Pages`
+- `[`2026-04013`]` **[Mandatory Manufacturing Cost Survey Advanced Notice of Proposed Rulemaking](https://www.indexdata.org/mandatory-manufacturing-cost-survey-advanced-notice-of-proposed-rulemaking/)** — `2026-02-27` | `2 Pages`
+- `[`2026-03985`]` **[Reauthorization of Dairy Forward Pricing Program](https://www.indexdata.org/reauthorization-of-dairy-forward-pricing-program/)** — `2026-02-27` | `3 Pages`
+- `[`2026-03645`]` **[Economic Adjustment Assistance for Textile Mills-Payment Rate](https://www.indexdata.org/economic-adjustment-assistance-for-textile-mills-payment-rate/)** — `2026-02-24` | `2 Pages`
+- `[`2026-02589`]` **[Onions Grown in Certain Designated Counties in Idaho and Malheur County, Oregon; Decreased Assessment Rate](https://www.indexdata.org/onions-grown-in-certain-designated-counties-in-idaho-and-malheur-county-oregon-decreased-assessment-rate/)** — `2026-02-10` | `4 Pages`
+
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 
@@ -1318,6 +1315,29 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2026-03882`]` **[Endangered and Threatened Wildlife and Plants; Status Review for the Lesser Prairie-Chicken](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-status-review-for-the-lesser-prairie-chicken/)** — `2026-02-26` | `2 Pages`
 - `[`2026-03831`]` **[Endangered and Threatened Wildlife and Plants; Removal of Geocarpon Minimum From the List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-geocarpon-minimum-from-the-list-of-endangered-and-threatened-plants/)** — `2026-02-26` | `16 Pages`
 - `[`2026-02588`]` **[Endangered and Threatened Wildlife and Plants; Removal of the Southeast U.S. Distinct Population Segment of the Wood Stork From the List of Endangered and Threatened Wildlife](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-the-southeast-u-s-distinct-population-segment-of-the-wood-stork-from-the-list-of-endangered-and-threatened-wildlife/)** — `2026-02-10` | `30 Pages`
+
+### [National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-credit-union-administration/](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
+
+- `[`2026-11559`]` **[Preemption-Federal Credit Union Non-Interest Charges and Fees](https://www.indexdata.org/preemption-federal-credit-union-non-interest-charges-and-fees/)** — `2026-06-09` | `9 Pages`
+- `[`2026-11507`]` **[Dependent Care and Board Member Expense Reimbursement](https://www.indexdata.org/dependent-care-and-board-member-expense-reimbursement/)** — `2026-06-09` | `8 Pages`
+- `[`2026-09915`]` **[Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the National Credit Union Administration](https://www.indexdata.org/implementing-the-guiding-and-establishing-national-innovation-for-u-s-stablecoins-act-for-the-issuance-of-stablecoins-by-entities-subject-to-the-jurisdiction-of-the-national-credit-union-administrati/)** — `2026-05-18` | `80 Pages`
+- `[`2026-09010`]` **[Requirements for Insurance](https://www.indexdata.org/requirements-for-insurance-2/)** — `2026-05-07` | `4 Pages`
+- `[`2026-09009`]` **[Thresholds Increase for the Major Assets Prohibition of the Depository Institution Management Interlocks Act Rule](https://www.indexdata.org/thresholds-increase-for-the-major-assets-prohibition-of-the-depository-institution-management-interlocks-act-rule/)** — `2026-05-07` | `5 Pages`
+- `[`2026-07806`]` **[Bank Conversions and Mergers, Subpart C-Merger of Insured Credit Unions Into Banks](https://www.indexdata.org/bank-conversions-and-mergers-subpart-c-merger-of-insured-credit-unions-into-banks/)** — `2026-04-22` | `4 Pages`
+- `[`2026-06757`]` **[Chartering and Field of Membership](https://www.indexdata.org/chartering-and-field-of-membership/)** — `2026-04-08` | `4 Pages`
+- `[`2026-05797`]` **[Third-Party Servicing of Indirect Vehicle Loans](https://www.indexdata.org/third-party-servicing-of-indirect-vehicle-loans-2/)** — `2026-03-25` | `3 Pages`
+- `[`2026-04761`]` **[Records Preservation Program and Appendices-Record Retention Guidelines; Catastrophic Act Preparedness Guidelines](https://www.indexdata.org/records-preservation-program-and-appendices-record-retention-guidelines-catastrophic-act-preparedness-guidelines-2/)** — `2026-03-11` | `11 Pages`
+- `[`2026-03758`]` **[Statutory Liens](https://www.indexdata.org/statutory-liens/)** — `2026-02-25` | `2 Pages`
+- `[`2026-03757`]` **[Credit Union Service Contracts](https://www.indexdata.org/credit-union-service-contracts-2/)** — `2026-02-25` | `4 Pages`
+- `[`2026-03756`]` **[Refund of Interest](https://www.indexdata.org/refund-of-interest/)** — `2026-02-25` | `3 Pages`
+- `[`2026-03755`]` **[Purchase, Sale, and Pledge of Eligible Obligations](https://www.indexdata.org/purchase-sale-and-pledge-of-eligible-obligations-2/)** — `2026-02-25` | `4 Pages`
+- `[`2026-03754`]` **[Compensation in Connection With Loans to Members and Lines of Credit to Members](https://www.indexdata.org/compensation-in-connection-with-loans-to-members-and-lines-of-credit-to-members/)** — `2026-02-25` | `4 Pages`
+- `[`2026-03753`]` **[Post-Election Training for New Board Members](https://www.indexdata.org/post-election-training-for-new-board-members/)** — `2026-02-25` | `3 Pages`
+- `[`2026-02868`]` **[Investments in and Licensing of Permitted Payment Stablecoins Issuers](https://www.indexdata.org/investments-in-and-licensing-of-permitted-payment-stablecoins-issuers/)** — `2026-02-12` | `22 Pages`
+- `[`2026-02765`]` **[Chartering and Field of Membership for Federal Credit Unions-Interpretive Rulings and Policy Statements](https://www.indexdata.org/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-rulings-and-policy-statements/)** — `2026-02-11` | `4 Pages`
+- `[`2026-02764`]` **[Mergers of Insured Credit Unions Into Other Credit Unions; Voluntary Termination or Conversion of Insured Status](https://www.indexdata.org/mergers-of-insured-credit-unions-into-other-credit-unions-voluntary-termination-or-conversion-of-insured-status/)** — `2026-02-11` | `4 Pages`
+- `[`2026-02763`]` **[Bank Conversions and Mergers, Subpart A-Conversion of Insured Credit Unions to Mutual Savings Banks](https://www.indexdata.org/bank-conversions-and-mergers-subpart-a-conversion-of-insured-credit-unions-to-mutual-savings-banks/)** — `2026-02-11` | `4 Pages`
 
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -1385,28 +1405,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mo
 - `[`2026-03256`]` **[Parts and Accessories Necessary for Safe Operation; Brakes on Portable Conveyors](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-brakes-on-portable-conveyors/)** — `2026-02-19` | `4 Pages`
 - `[`2026-03255`]` **[Parts and Accessories Necessary for Safe Operation; Certification and Labeling Requirements for Rear Impact Protection Guards](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-certification-and-labeling-requirements-for-rear-impact-protection-guards/)** — `2026-02-19` | `4 Pages`
 - `[`2026-02965`]` **[Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.indexdata.org/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl/)** — `2026-02-13` | `60 Pages`
-
-### [National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-credit-union-administration/](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
-
-- `[`2026-11507`]` **[Dependent Care and Board Member Expense Reimbursement](https://www.indexdata.org/dependent-care-and-board-member-expense-reimbursement/)** — `2026-06-09` | `8 Pages`
-- `[`2026-09915`]` **[Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the National Credit Union Administration](https://www.indexdata.org/implementing-the-guiding-and-establishing-national-innovation-for-u-s-stablecoins-act-for-the-issuance-of-stablecoins-by-entities-subject-to-the-jurisdiction-of-the-national-credit-union-administrati/)** — `2026-05-18` | `80 Pages`
-- `[`2026-09010`]` **[Requirements for Insurance](https://www.indexdata.org/requirements-for-insurance-2/)** — `2026-05-07` | `4 Pages`
-- `[`2026-09009`]` **[Thresholds Increase for the Major Assets Prohibition of the Depository Institution Management Interlocks Act Rule](https://www.indexdata.org/thresholds-increase-for-the-major-assets-prohibition-of-the-depository-institution-management-interlocks-act-rule/)** — `2026-05-07` | `5 Pages`
-- `[`2026-07806`]` **[Bank Conversions and Mergers, Subpart C-Merger of Insured Credit Unions Into Banks](https://www.indexdata.org/bank-conversions-and-mergers-subpart-c-merger-of-insured-credit-unions-into-banks/)** — `2026-04-22` | `4 Pages`
-- `[`2026-06757`]` **[Chartering and Field of Membership](https://www.indexdata.org/chartering-and-field-of-membership/)** — `2026-04-08` | `4 Pages`
-- `[`2026-05797`]` **[Third-Party Servicing of Indirect Vehicle Loans](https://www.indexdata.org/third-party-servicing-of-indirect-vehicle-loans-2/)** — `2026-03-25` | `3 Pages`
-- `[`2026-04761`]` **[Records Preservation Program and Appendices-Record Retention Guidelines; Catastrophic Act Preparedness Guidelines](https://www.indexdata.org/records-preservation-program-and-appendices-record-retention-guidelines-catastrophic-act-preparedness-guidelines-2/)** — `2026-03-11` | `11 Pages`
-- `[`2026-03758`]` **[Statutory Liens](https://www.indexdata.org/statutory-liens/)** — `2026-02-25` | `2 Pages`
-- `[`2026-03757`]` **[Credit Union Service Contracts](https://www.indexdata.org/credit-union-service-contracts-2/)** — `2026-02-25` | `4 Pages`
-- `[`2026-03756`]` **[Refund of Interest](https://www.indexdata.org/refund-of-interest/)** — `2026-02-25` | `3 Pages`
-- `[`2026-03755`]` **[Purchase, Sale, and Pledge of Eligible Obligations](https://www.indexdata.org/purchase-sale-and-pledge-of-eligible-obligations-2/)** — `2026-02-25` | `4 Pages`
-- `[`2026-03754`]` **[Compensation in Connection With Loans to Members and Lines of Credit to Members](https://www.indexdata.org/compensation-in-connection-with-loans-to-members-and-lines-of-credit-to-members/)** — `2026-02-25` | `4 Pages`
-- `[`2026-03753`]` **[Post-Election Training for New Board Members](https://www.indexdata.org/post-election-training-for-new-board-members/)** — `2026-02-25` | `3 Pages`
-- `[`2026-02868`]` **[Investments in and Licensing of Permitted Payment Stablecoins Issuers](https://www.indexdata.org/investments-in-and-licensing-of-permitted-payment-stablecoins-issuers/)** — `2026-02-12` | `22 Pages`
-- `[`2026-02765`]` **[Chartering and Field of Membership for Federal Credit Unions-Interpretive Rulings and Policy Statements](https://www.indexdata.org/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-rulings-and-policy-statements/)** — `2026-02-11` | `4 Pages`
-- `[`2026-02764`]` **[Mergers of Insured Credit Unions Into Other Credit Unions; Voluntary Termination or Conversion of Insured Status](https://www.indexdata.org/mergers-of-insured-credit-unions-into-other-credit-unions-voluntary-termination-or-conversion-of-insured-status/)** — `2026-02-11` | `4 Pages`
-- `[`2026-02763`]` **[Bank Conversions and Mergers, Subpart A-Conversion of Insured Credit Unions to Mutual Savings Banks](https://www.indexdata.org/bank-conversions-and-mergers-subpart-a-conversion-of-insured-credit-unions-to-mutual-savings-banks/)** — `2026-02-11` | `4 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1549,6 +1547,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2026-03460`]` **[Form N-PORT Reporting](https://www.indexdata.org/form-n-port-reporting/)** — `2026-02-23` | `33 Pages`
 - `[`2026-03459`]` **[Investment Company Names Form N-PORT Reporting; Extension of Compliance Date](https://www.indexdata.org/investment-company-names-form-n-port-reporting-extension-of-compliance-date/)** — `2026-02-23` | `3 Pages`
 
+### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+
+- `[`2026-11531`]` **[Reducing Bureaucracy and Burden for Community Services Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-community-services-programs/)** — `2026-06-09` | `5 Pages`
+- `[`2026-11530`]` **[Employment and Training Services for Noncustodial Parents in the Child Support Program; Rescission](https://www.indexdata.org/employment-and-training-services-for-noncustodial-parents-in-the-child-support-program-rescission/)** — `2026-06-09` | `8 Pages`
+- `[`2026-10401`]` **[Reducing Bureaucracy and Burden for Family Assistance Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-family-assistance-programs-2/)** — `2026-05-26` | `20 Pages`
+- `[`2026-09383`]` **[Restoring Flexibility To Support Head Start Program Access](https://www.indexdata.org/restoring-flexibility-to-support-head-start-program-access/)** — `2026-05-12` | `8 Pages`
+- `[`2026-06760`]` **[Reducing Bureaucracy and Burden for Community Services Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-community-services-programs-2/)** — `2026-04-08` | `4 Pages`
+- `[`2026-06646`]` **[Reducing Bureaucracy and Burden for Children, Youth, and Family Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-children-youth-and-family-programs-2/)** — `2026-04-06` | `5 Pages`
+- `[`2026-06633`]` **[Reducing Bureaucracy and Burden in Family Violence and Prevention Services](https://www.indexdata.org/reducing-bureaucracy-and-burden-in-family-violence-and-prevention-services-2/)** — `2026-04-06` | `4 Pages`
+- `[`2026-06632`]` **[Work Participation Rate Calculation Changes: Recalibration of the Caseload Reduction Credit and Prohibition of Small Checks in Work Participation Rate Calculation](https://www.indexdata.org/work-participation-rate-calculation-changes-recalibration-of-the-caseload-reduction-credit-and-prohibition-of-small-checks-in-work-participation-rate-calculation/)** — `2026-04-06` | `6 Pages`
+- `[`2026-06027`]` **[Reducing Bureaucracy and Burden for Refugee Resettlement Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-refugee-resettlement-programs/)** — `2026-03-27` | `3 Pages`
+- `[`2026-05997`]` **[Reducing Bureaucracy and Burden for Human Services and Emergency Response Programs-Repatriation Program](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation-program-2/)** — `2026-03-27` | `4 Pages`
+- `[`2026-05994`]` **[Reducing Bureaucracy and Burden for Native American Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-native-american-programs-2/)** — `2026-03-27` | `4 Pages`
+
 ### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 
@@ -1578,20 +1591,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2026-04087`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 124A, 126, 127, and 128](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-124a-126-127-and-128/)** — `2026-03-02` | `3 Pages`
 - `[`2026-04085`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations and Web General License 131A](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-and-web-general-license-131a/)** — `2026-03-02` | `2 Pages`
 - `[`2026-04083`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General License 131B](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-license-131b/)** — `2026-03-02` | `2 Pages`
-
-### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-
-- `[`2026-11530`]` **[Employment and Training Services for Noncustodial Parents in the Child Support Program; Rescission](https://www.indexdata.org/employment-and-training-services-for-noncustodial-parents-in-the-child-support-program-rescission/)** — `2026-06-09` | `8 Pages`
-- `[`2026-10401`]` **[Reducing Bureaucracy and Burden for Family Assistance Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-family-assistance-programs-2/)** — `2026-05-26` | `20 Pages`
-- `[`2026-09383`]` **[Restoring Flexibility To Support Head Start Program Access](https://www.indexdata.org/restoring-flexibility-to-support-head-start-program-access/)** — `2026-05-12` | `8 Pages`
-- `[`2026-06760`]` **[Reducing Bureaucracy and Burden for Community Services Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-community-services-programs-2/)** — `2026-04-08` | `4 Pages`
-- `[`2026-06646`]` **[Reducing Bureaucracy and Burden for Children, Youth, and Family Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-children-youth-and-family-programs-2/)** — `2026-04-06` | `5 Pages`
-- `[`2026-06633`]` **[Reducing Bureaucracy and Burden in Family Violence and Prevention Services](https://www.indexdata.org/reducing-bureaucracy-and-burden-in-family-violence-and-prevention-services-2/)** — `2026-04-06` | `4 Pages`
-- `[`2026-06632`]` **[Work Participation Rate Calculation Changes: Recalibration of the Caseload Reduction Credit and Prohibition of Small Checks in Work Participation Rate Calculation](https://www.indexdata.org/work-participation-rate-calculation-changes-recalibration-of-the-caseload-reduction-credit-and-prohibition-of-small-checks-in-work-participation-rate-calculation/)** — `2026-04-06` | `6 Pages`
-- `[`2026-06027`]` **[Reducing Bureaucracy and Burden for Refugee Resettlement Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-refugee-resettlement-programs/)** — `2026-03-27` | `3 Pages`
-- `[`2026-05997`]` **[Reducing Bureaucracy and Burden for Human Services and Emergency Response Programs-Repatriation Program](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation-program-2/)** — `2026-03-27` | `4 Pages`
-- `[`2026-05994`]` **[Reducing Bureaucracy and Burden for Native American Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-native-american-programs-2/)** — `2026-03-27` | `4 Pages`
 
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
@@ -1979,6 +1978,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/advisory-c
 - `[`2026-11298`]` **[Rescission of Procedures for Implementing the National Environmental Policy Act (NEPA)](https://www.indexdata.org/rescission-of-procedures-for-implementing-the-national-environmental-policy-act-nepa/)** — `2026-06-05` | `3 Pages`
 - `[`2026-11297`]` **[Rescission of Historic Preservation Requirements of the Urban Development Action Grant Program](https://www.indexdata.org/rescission-of-historic-preservation-requirements-of-the-urban-development-action-grant-program/)** — `2026-06-05` | `2 Pages`
 
+### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
+
+- `[`2026-11545`]` **[Exemptions To Permit Circumvention of Access Controls on Copyrighted Works](https://www.indexdata.org/exemptions-to-permit-circumvention-of-access-controls-on-copyrighted-works/)** — `2026-06-09` | `4 Pages`
+- `[`2026-05529`]` **[Copyright Office Fees](https://www.indexdata.org/copyright-office-fees/)** — `2026-03-20` | `15 Pages`
+
 ### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
 
@@ -2093,11 +2098,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 Canonical Authority Archive: [https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/) | [RSS Feed](https://www.indexdata.org/united-states/committee-for-purchase-from-people-who-are-blind-or-severely-disabled/feed/)
 
 - `[`2026-08392`]` **[Revising Central Nonprofit Agencies' Requirements To Charge Fees and Clarifying the Permissibility of Subcontracting Within the AbilityOne Program](https://www.indexdata.org/revising-central-nonprofit-agencies-requirements-to-charge-fees-and-clarifying-the-permissibility-of-subcontracting-within-the-abilityone-program/)** — `2026-04-30` | `8 Pages`
-
-### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
-
-- `[`2026-05529`]` **[Copyright Office Fees](https://www.indexdata.org/copyright-office-fees/)** — `2026-03-20` | `15 Pages`
 
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)

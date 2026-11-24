@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,639` across `246` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,643` across `246` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-23 20:54 UTC`
+**Last Automated Sync:** `2026-11-24 05:16 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`533` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`366` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`370` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -262,11 +262,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,639)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,643)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-27266`]` **[Amendment of Class E Airspace; Lady Lake, FL](https://www.indexdata.org/amendment-of-class-e-airspace-lady-lake-fl/)** — `2024-11-21` | `2 Pages`
 - `[`2024-27131`]` **[Special Conditions: Gulfstream Aerospace Corporation, Model GVII-G400 Airplane; Installation of a Therapeutic Oxygen System for Medical Use](https://www.indexdata.org/special-conditions-gulfstream-aerospace-corporation-model-gvii-g400-airplane-installation-of-a-therapeutic-oxygen-system-for-medical-use/)** — `2024-11-21` | `2 Pages`
 - `[`2024-27062`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-92/)** — `2024-11-21` | `2 Pages`
 - `[`2024-27061`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-93/)** — `2024-11-21` | `2 Pages`
@@ -588,12 +589,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-15924`]` **[Robinson Helicopter R-22 and R-44 Special Training and Experience Requirements](https://www.indexdata.org/robinson-helicopter-r-22-and-r-44-special-training-and-experience-requirements/)** — `2024-07-23` | `9 Pages`
 - `[`2024-15854`]` **[Special Conditions: Aerocon Engineering Company, Airbus Model A330-300 Series Airplane; Lower Deck Crew Rest Compartment Installation](https://www.indexdata.org/special-conditions-aerocon-engineering-company-airbus-model-a330-300-series-airplane-lower-deck-crew-rest-compartment-installation/)** — `2024-07-23` | `6 Pages`
 - `[`2024-16012`]` **[Airworthiness Directives; Centerpointe Aerospace Inc. Helicopters](https://www.indexdata.org/airworthiness-directives-centerpointe-aerospace-inc-helicopters/)** — `2024-07-22` | `3 Pages`
-- `[`2024-15995`]` **[Establishment of Class E Airspace; Lubbock, TX](https://www.indexdata.org/establishment-of-class-e-airspace-lubbock-tx/)** — `2024-07-22` | `2 Pages`
-- `[`2024-15972`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-62/)** — `2024-07-22` | `5 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-26114`]` **[Air Plan Approval; Wisconsin; Nitrogen Oxide Emissions Control Requirements](https://www.indexdata.org/air-plan-approval-wisconsin-nitrogen-oxide-emissions-control-requirements/)** — `2024-11-22` | `3 Pages`
 - `[`2024-27050`]` **[Air Plan Approval; Connecticut; Approval of State Implementation Plan Requirements for the 2008 Ozone Standard](https://www.indexdata.org/air-plan-approval-connecticut-approval-of-state-implementation-plan-requirements-for-the-2008-ozone-standard-2/)** — `2024-11-21` | `6 Pages`
 - `[`2024-26977`]` **[Air Plan Approval; Georgia; Second Period Regional Haze Plan](https://www.indexdata.org/air-plan-approval-georgia-second-period-regional-haze-plan/)** — `2024-11-21` | `29 Pages`
 - `[`2024-26905`]` **[Texas: Incorporation by Reference of State Hazardous Waste Management Program](https://www.indexdata.org/texas-incorporation-by-reference-of-state-hazardous-waste-management-program/)** — `2024-11-21` | `10 Pages`
@@ -821,6 +821,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2024-27429`]` **[Safety Zone; Hackensack River, Kearny and Secaucus, NJ](https://www.indexdata.org/safety-zone-hackensack-river-kearny-and-secaucus-nj/)** — `2024-11-21` | `5 Pages`
 - `[`2024-27106`]` **[Safety Zone; San Pedro Bay, Los Angeles, CA](https://www.indexdata.org/safety-zone-san-pedro-bay-los-angeles-ca-2/)** — `2024-11-20` | `3 Pages`
 - `[`2024-27092`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az-3/)** — `2024-11-20` | `3 Pages`
 - `[`2024-27067`]` **[Security Zone; Corpus Christi Ship Channel, Corpus Christi, TX](https://www.indexdata.org/security-zone-corpus-christi-ship-channel-corpus-christi-tx-3/)** — `2024-11-20` | `3 Pages`
@@ -1050,7 +1051,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-16111`]` **[Fisheries of the Northeastern United States; 2024-2026 Specifications for the Mackerel, Squid, and Butterfish Fishery Management Plan](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-2024-2026-specifications-for-the-mackerel-squid-and-butterfish-fishery-management-plan/)** — `2024-07-23` | `4 Pages`
 - `[`2024-16010`]` **[Magnuson-Stevens Act Provisions; Fisheries off West Coast States; Tribal Usual and Accustomed Fishing Areas](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-tribal-usual-and-accustomed-fishing-areas/)** — `2024-07-23` | `3 Pages`
 - `[`2024-16052`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Re-Opening of Golden Tilefish for Commercial Harvest With Bottom Longline Gear in the South Atlantic](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-re-opening-of-golden-tilefish-for-commercial-harvest-with-bottom-longline-gear-in-the-south-atlantic/)** — `2024-07-22` | `2 Pages`
-- `[`2024-16002`]` **[Fisheries of the Northeastern United States; Northeast Multispecies Fishery; 2024-2026 Small-Mesh Multispecies Specifications](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-northeast-multispecies-fishery-2024-2026-small-mesh-multispecies-specifications-2/)** — `2024-07-22` | `3 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1440,26 +1440,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2024-16177`]` **[Energy Conservation Program: Energy Conservation Standards for Consumer Water Heaters](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-consumer-water-heaters/)** — `2024-07-23` | `18 Pages`
 - `[`2024-16136`]` **[Procedures for Determining Eligibility for Access to Classified Matter or Special Nuclear Material](https://www.indexdata.org/procedures-for-determining-eligibility-for-access-to-classified-matter-or-special-nuclear-material/)** — `2024-07-23` | `7 Pages`
 
-### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
-
-- `[`2024-26787`]` **[Soybean Promotion and Research: Adjustments to Representation on the United Soybean Board](https://www.indexdata.org/soybean-promotion-and-research-adjustments-to-representation-on-the-united-soybean-board/)** — `2024-11-18` | `4 Pages`
-- `[`2024-24733`]` **[Pistachios Grown in California, Arizona and New Mexico; Decreased Assessment Rate](https://www.indexdata.org/pistachios-grown-in-california-arizona-and-new-mexico-decreased-assessment-rate-2/)** — `2024-10-30` | `3 Pages`
-- `[`2024-24773`]` **[Pears Grown in Oregon and Washington; Increased Assessment Rate for Fresh Pears](https://www.indexdata.org/pears-grown-in-oregon-and-washington-increased-assessment-rate-for-fresh-pears-2/)** — `2024-10-24` | `4 Pages`
-- `[`2024-23528`]` **[Price Discovery and Competition in Markets for Fed Cattle](https://www.indexdata.org/price-discovery-and-competition-in-markets-for-fed-cattle/)** — `2024-10-11` | `19 Pages`
-- `[`2024-23192`]` **[Formulas for Calculating Hourly and Unit Fees for FGIS Services](https://www.indexdata.org/formulas-for-calculating-hourly-and-unit-fees-for-fgis-services-2/)** — `2024-10-08` | `8 Pages`
-- `[`2024-22213`]` **[Irish Potatoes Grown in Certain Designated Counties in Idaho, and Malheur County, Oregon; Increased Assessment Rate](https://www.indexdata.org/irish-potatoes-grown-in-certain-designated-counties-in-idaho-and-malheur-county-oregon-increased-assessment-rate-2/)** — `2024-09-27` | `4 Pages`
-- `[`2024-21522`]` **[Avocados Grown in South Florida and Imported Avocados; Change in Maturity Requirements](https://www.indexdata.org/avocados-grown-in-south-florida-and-imported-avocados-change-in-maturity-requirements-2/)** — `2024-09-20` | `4 Pages`
-- `[`2024-20783`]` **[Cotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2024 Amendments)](https://www.indexdata.org/cotton-board-rules-and-regulations-adjusting-supplemental-assessment-on-imports-2024-amendments/)** — `2024-09-16` | `16 Pages`
-- `[`2024-20079`]` **[Raisins Produced From Grapes Grown in California; Recommended Decision and Opportunity To File Written Exceptions to Proposed Amendment of Marketing Order No. 989](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-recommended-decision-and-opportunity-to-file-written-exceptions-to-proposed-amendment-of-marketing-order-no-989/)** — `2024-09-13` | `16 Pages`
-- `[`2024-18709`]` **[Onions Grown in South Texas; Increased Assessment Rate](https://www.indexdata.org/onions-grown-in-south-texas-increased-assessment-rate/)** — `2024-08-21` | `3 Pages`
-- `[`2024-18287`]` **[Walnuts Grown in California; Increased Assessment Rate](https://www.indexdata.org/walnuts-grown-in-california-increased-assessment-rate-2/)** — `2024-08-16` | `3 Pages`
-- `[`2024-17902`]` **[Tart Cherries Grown in the States of Michigan, et al.; Free and Restricted Percentages for the 2023-24 Crop Year](https://www.indexdata.org/tart-cherries-grown-in-the-states-of-michigan-et-al-free-and-restricted-percentages-for-the-2023-24-crop-year/)** — `2024-08-12` | `6 Pages`
-- `[`2024-17378`]` **[National Organic Program: 2025 Sunset Review and Substance Renewals](https://www.indexdata.org/national-organic-program-2025-sunset-review-and-substance-renewals/)** — `2024-08-08` | `3 Pages`
-- `[`2024-16960`]` **[Onions Grown in South Texas; Redistricting and Reapportionment of Committee Membership](https://www.indexdata.org/onions-grown-in-south-texas-redistricting-and-reapportionment-of-committee-membership/)** — `2024-08-02` | `4 Pages`
-- `[`2024-16173`]` **[Raisins Produced From Grapes Grown in California; Temporary Relaxation of Substandard and Maturity Dockage Requirements](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-temporary-relaxation-of-substandard-and-maturity-dockage-requirements/)** — `2024-07-24` | `5 Pages`
-- `[`2024-15975`]` **[Oranges, Grapefruit, Tangerines, and Pummelos Grown in Florida; Increased Assessment Rate](https://www.indexdata.org/oranges-grapefruit-tangerines-and-pummelos-grown-in-florida-increased-assessment-rate-3/)** — `2024-07-22` | `4 Pages`
-
 ### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
 
@@ -1479,6 +1459,25 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-p
 - `[`2024-16466`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-2/)** — `2024-08-16` | `7 Pages`
 - `[`2024-17472`]` **[Safety Standard for Toys: Requirements for Toys Containing Button Cell or Coin Cell Batteries](https://www.indexdata.org/safety-standard-for-toys-requirements-for-toys-containing-button-cell-or-coin-cell-batteries/)** — `2024-08-13` | `25 Pages`
 - `[`2024-16716`]` **[Banned Hazardous Substances: Aerosol Duster Products Containing More Than 18 mg in Any Combination of HFC-152a and/or HFC-134a](https://www.indexdata.org/banned-hazardous-substances-aerosol-duster-products-containing-more-than-18-mg-in-any-combination-of-hfc-152a-and-or-hfc-134a/)** — `2024-07-31` | `19 Pages`
+
+### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
+
+- `[`2024-26787`]` **[Soybean Promotion and Research: Adjustments to Representation on the United Soybean Board](https://www.indexdata.org/soybean-promotion-and-research-adjustments-to-representation-on-the-united-soybean-board/)** — `2024-11-18` | `4 Pages`
+- `[`2024-24733`]` **[Pistachios Grown in California, Arizona and New Mexico; Decreased Assessment Rate](https://www.indexdata.org/pistachios-grown-in-california-arizona-and-new-mexico-decreased-assessment-rate-2/)** — `2024-10-30` | `3 Pages`
+- `[`2024-24773`]` **[Pears Grown in Oregon and Washington; Increased Assessment Rate for Fresh Pears](https://www.indexdata.org/pears-grown-in-oregon-and-washington-increased-assessment-rate-for-fresh-pears-2/)** — `2024-10-24` | `4 Pages`
+- `[`2024-23528`]` **[Price Discovery and Competition in Markets for Fed Cattle](https://www.indexdata.org/price-discovery-and-competition-in-markets-for-fed-cattle/)** — `2024-10-11` | `19 Pages`
+- `[`2024-23192`]` **[Formulas for Calculating Hourly and Unit Fees for FGIS Services](https://www.indexdata.org/formulas-for-calculating-hourly-and-unit-fees-for-fgis-services-2/)** — `2024-10-08` | `8 Pages`
+- `[`2024-22213`]` **[Irish Potatoes Grown in Certain Designated Counties in Idaho, and Malheur County, Oregon; Increased Assessment Rate](https://www.indexdata.org/irish-potatoes-grown-in-certain-designated-counties-in-idaho-and-malheur-county-oregon-increased-assessment-rate-2/)** — `2024-09-27` | `4 Pages`
+- `[`2024-21522`]` **[Avocados Grown in South Florida and Imported Avocados; Change in Maturity Requirements](https://www.indexdata.org/avocados-grown-in-south-florida-and-imported-avocados-change-in-maturity-requirements-2/)** — `2024-09-20` | `4 Pages`
+- `[`2024-20783`]` **[Cotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2024 Amendments)](https://www.indexdata.org/cotton-board-rules-and-regulations-adjusting-supplemental-assessment-on-imports-2024-amendments/)** — `2024-09-16` | `16 Pages`
+- `[`2024-20079`]` **[Raisins Produced From Grapes Grown in California; Recommended Decision and Opportunity To File Written Exceptions to Proposed Amendment of Marketing Order No. 989](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-recommended-decision-and-opportunity-to-file-written-exceptions-to-proposed-amendment-of-marketing-order-no-989/)** — `2024-09-13` | `16 Pages`
+- `[`2024-18709`]` **[Onions Grown in South Texas; Increased Assessment Rate](https://www.indexdata.org/onions-grown-in-south-texas-increased-assessment-rate/)** — `2024-08-21` | `3 Pages`
+- `[`2024-18287`]` **[Walnuts Grown in California; Increased Assessment Rate](https://www.indexdata.org/walnuts-grown-in-california-increased-assessment-rate-2/)** — `2024-08-16` | `3 Pages`
+- `[`2024-17902`]` **[Tart Cherries Grown in the States of Michigan, et al.; Free and Restricted Percentages for the 2023-24 Crop Year](https://www.indexdata.org/tart-cherries-grown-in-the-states-of-michigan-et-al-free-and-restricted-percentages-for-the-2023-24-crop-year/)** — `2024-08-12` | `6 Pages`
+- `[`2024-17378`]` **[National Organic Program: 2025 Sunset Review and Substance Renewals](https://www.indexdata.org/national-organic-program-2025-sunset-review-and-substance-renewals/)** — `2024-08-08` | `3 Pages`
+- `[`2024-16960`]` **[Onions Grown in South Texas; Redistricting and Reapportionment of Committee Membership](https://www.indexdata.org/onions-grown-in-south-texas-redistricting-and-reapportionment-of-committee-membership/)** — `2024-08-02` | `4 Pages`
+- `[`2024-16173`]` **[Raisins Produced From Grapes Grown in California; Temporary Relaxation of Substandard and Maturity Dockage Requirements](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-temporary-relaxation-of-substandard-and-maturity-dockage-requirements/)** — `2024-07-24` | `5 Pages`
 
 ### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
@@ -1893,6 +1892,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-
 - `[`2024-22907`]` **[Copyright Claims Board: Final Determination Certification](https://www.indexdata.org/copyright-claims-board-final-determination-certification/)** — `2024-10-04` | `3 Pages`
 - `[`2024-19538`]` **[Termination Rights, Royalty Distributions, Ownership Transfers, Disputes, and the Music Modernization Act](https://www.indexdata.org/termination-rights-royalty-distributions-ownership-transfers-disputes-and-the-music-modernization-act/)** — `2024-08-30` | `2 Pages`
 
+### [Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/equal-employment-opportunity-commission/](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
+
+- `[`2024-27286`]` **[Recordkeeping and Reporting Requirements Under Title VII, the ADA, GINA, and the PWFA](https://www.indexdata.org/recordkeeping-and-reporting-requirements-under-title-vii-the-ada-gina-and-the-pwfa-2/)** — `2024-11-21` | `4 Pages`
+- `[`2024-23327`]` **[Recordkeeping and Reporting Requirements Under Title VII, the ADA, GINA, and the PWFA](https://www.indexdata.org/recordkeeping-and-reporting-requirements-under-title-vii-the-ada-gina-and-the-pwfa-3/)** — `2024-10-11` | `4 Pages`
+- `[`2024-18238`]` **[Withdrawal of NPRM Addressing Official Time in the Federal Equal Employment Opportunity Process](https://www.indexdata.org/withdrawal-of-nprm-addressing-official-time-in-the-federal-equal-employment-opportunity-process/)** — `2024-08-16` | `3 Pages`
+
 ### [Federal Emergency Management Agency](https://www.indexdata.org/united-states/federal-emergency-management-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-emergency-management-agency/](https://www.indexdata.org/united-states/federal-emergency-management-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-emergency-management-agency/feed/)
 
@@ -1968,12 +1974,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/architectu
 
 - `[`2024-18820`]` **[Americans With Disabilities Act and Architectural Barriers Act Accessibility Guidelines; EV Charging Stations](https://www.indexdata.org/americans-with-disabilities-act-and-architectural-barriers-act-accessibility-guidelines-ev-charging-stations/)** — `2024-09-03` | `15 Pages`
 - `[`2024-16266`]` **[Standards for Accessible Medical Diagnostic Equipment](https://www.indexdata.org/standards-for-accessible-medical-diagnostic-equipment/)** — `2024-07-25` | `8 Pages`
-
-### [Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/equal-employment-opportunity-commission/](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
-
-- `[`2024-23327`]` **[Recordkeeping and Reporting Requirements Under Title VII, the ADA, GINA, and the PWFA](https://www.indexdata.org/recordkeeping-and-reporting-requirements-under-title-vii-the-ada-gina-and-the-pwfa-3/)** — `2024-10-11` | `4 Pages`
-- `[`2024-18238`]` **[Withdrawal of NPRM Addressing Official Time in the Federal Equal Employment Opportunity Process](https://www.indexdata.org/withdrawal-of-nprm-addressing-official-time-in-the-federal-equal-employment-opportunity-process/)** — `2024-08-16` | `3 Pages`
 
 ### [Food Safety and Inspection Service](https://www.indexdata.org/united-states/food-safety-and-inspection-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-safety-and-inspection-service/](https://www.indexdata.org/united-states/food-safety-and-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-safety-and-inspection-service/feed/)

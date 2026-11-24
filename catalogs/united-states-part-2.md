@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,639` across `246` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,643` across `246` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-23 20:54 UTC`
+**Last Automated Sync:** `2026-11-24 05:16 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`533` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`366` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`370` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -262,7 +262,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,639)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,643)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -573,7 +573,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-11729`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-18/)** — `2026-06-11` | `2 Pages`
 - `[`2026-11637`]` **[Establishment of Class E Airspace; Crown Point, IN](https://www.indexdata.org/establishment-of-class-e-airspace-crown-point-in-2/)** — `2026-06-10` | `2 Pages`
 - `[`2026-11576`]` **[IFR Altitudes; Miscellaneous Amendments](https://www.indexdata.org/ifr-altitudes-miscellaneous-amendments-3/)** — `2026-06-10` | `5 Pages`
-- `[`2026-11560`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-31/)** — `2026-06-09` | `5 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1053,6 +1052,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2026-20038`]` **[Television Broadcasting Services Savannah, Georgia](https://www.indexdata.org/television-broadcasting-services-savannah-georgia/)** — `2026-09-30` | `2 Pages`
 - `[`2026-19311`]` **[Reinstatement of Radio Non-Duplication Rule for Commercial FM Stations; Correction](https://www.indexdata.org/reinstatement-of-radio-non-duplication-rule-for-commercial-fm-stations-correction/)** — `2026-09-22` | `2 Pages`
 - `[`2026-18780`]` **[Promoting Fair and Open Competitive Bidding in the E-Rate Program; Schools and Libraries Universal Service Support Mechanism](https://www.indexdata.org/promoting-fair-and-open-competitive-bidding-in-the-e-rate-program-schools-and-libraries-universal-service-support-mechanism/)** — `2026-09-14` | `2 Pages`
 - `[`2026-18778`]` **[Review of the Commission's Assessment and Collection of Regulatory Fees for Fiscal Year 2026](https://www.indexdata.org/review-of-the-commissions-assessment-and-collection-of-regulatory-fees-for-fiscal-year-2026/)** — `2026-09-14` | `50 Pages`
@@ -1418,23 +1418,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enfor
 - `[`2026-12654`]` **[Schedules of Controlled Substances: Temporary Placement of O-Desmethyltramadol in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-temporary-placement-of-o-desmethyltramadol-in-schedule-i-2/)** — `2026-06-24` | `5 Pages`
 - `[`2026-12653`]` **[Schedules of Controlled Substances: Placement of Bromazolam in Schedule I; Correction](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-bromazolam-in-schedule-i-correction/)** — `2026-06-24` | `2 Pages`
 
-### [National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-credit-union-administration/](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
+### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
 
-- `[`2026-16035`]` **[Limits on Loans to Other Credit Unions](https://www.indexdata.org/limits-on-loans-to-other-credit-unions/)** — `2026-08-06` | `3 Pages`
-- `[`2026-16031`]` **[Chartering and Field of Membership for Federal Credit Unions-Interpretive Ruling and Policy Statement 08-2](https://www.indexdata.org/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-ruling-and-policy-statement-08-2/)** — `2026-08-06` | `4 Pages`
-- `[`2026-16030`]` **[Purchase, Sale, and Pledge Of Eligible Obligations](https://www.indexdata.org/purchase-sale-and-pledge-of-eligible-obligations/)** — `2026-08-06` | `5 Pages`
-- `[`2026-16029`]` **[Third-Party Servicing of Indirect Vehicle Loans](https://www.indexdata.org/third-party-servicing-of-indirect-vehicle-loans/)** — `2026-08-06` | `4 Pages`
-- `[`2026-16028`]` **[Chartering and Field of Membership for Federal Credit Unions-Interpretive Ruling and Policy Statement 06-1](https://www.indexdata.org/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-ruling-and-policy-statement-06-1/)** — `2026-08-06` | `4 Pages`
-- `[`2026-16027`]` **[Suretyship and Guaranty; Segregated Deposit and Collateral](https://www.indexdata.org/suretyship-and-guaranty-segregated-deposit-and-collateral/)** — `2026-08-06` | `4 Pages`
-- `[`2026-16026`]` **[Termination of Excess Insurance Coverage](https://www.indexdata.org/termination-of-excess-insurance-coverage/)** — `2026-08-06` | `4 Pages`
-- `[`2026-16024`]` **[Chartering and Field of Membership for Federal Credit Unions-Interpretive Ruling and Policy Statement 10-1](https://www.indexdata.org/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-ruling-and-policy-statement-10-1/)** — `2026-08-06` | `3 Pages`
-- `[`2026-16023`]` **[Requirements for Insurance](https://www.indexdata.org/requirements-for-insurance/)** — `2026-08-06` | `3 Pages`
-- `[`2026-16022`]` **[Corporate Credit Unions](https://www.indexdata.org/corporate-credit-unions/)** — `2026-08-06` | `3 Pages`
-- `[`2026-16021`]` **[Credit Union Service Contracts](https://www.indexdata.org/credit-union-service-contracts/)** — `2026-08-06` | `4 Pages`
-- `[`2026-12856`]` **[Prohibition on the Use of Reputation Risk](https://www.indexdata.org/prohibition-on-the-use-of-reputation-risk/)** — `2026-06-25` | `6 Pages`
-- `[`2026-12058`]` **[Records Preservation Program and Appendices-Record Retention Guidelines; Catastrophic Act Preparedness Guidelines](https://www.indexdata.org/records-preservation-program-and-appendices-record-retention-guidelines-catastrophic-act-preparedness-guidelines/)** — `2026-06-16` | `5 Pages`
-- `[`2026-11559`]` **[Preemption-Federal Credit Union Non-Interest Charges and Fees](https://www.indexdata.org/preemption-federal-credit-union-non-interest-charges-and-fees/)** — `2026-06-09` | `9 Pages`
+- `[`2026-20067`]` **[Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements; Correction](https://www.indexdata.org/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting-program-requirements-correction/)** — `2026-09-30` | `5 Pages`
+- `[`2026-19959`]` **[Medicare Program; Prospective Payment System and Consolidated Billing for Skilled Nursing Facilities; Updates to the Quality Reporting Program for Federal Fiscal Year 2027; Correction](https://www.indexdata.org/medicare-program-prospective-payment-system-and-consolidated-billing-for-skilled-nursing-facilities-updates-to-the-quality-reporting-program-for-federal-fiscal-year-2027-correction/)** — `2026-09-30` | `10 Pages`
+- `[`2026-19946`]` **[Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of Certain Health Information Technology Standards; Correction](https://www.indexdata.org/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and-the-long-term-care-hospital-prospective-payment-system-and-policy-changes-and-fiscal-year-fy-2027-2/)** — `2026-09-29` | `16 Pages`
+- `[`2026-19535`]` **[Request for Information; Medicare Part D Reasonable and Relevant Pharmacy Contracting Standards](https://www.indexdata.org/request-for-information-medicare-part-d-reasonable-and-relevant-pharmacy-contracting-standards/)** — `2026-09-24` | `5 Pages`
+- `[`2026-16508`]` **[Medicaid Program; Prohibition on Federal Medicaid and Children's Health Insurance Program Funding for Sex-Rejecting Procedures Furnished to Children](https://www.indexdata.org/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for-sex-rejecting-procedures-furnished-to-children/)** — `2026-08-13` | `69 Pages`
+- `[`2026-15686`]` **[Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements](https://www.indexdata.org/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting-program-requirements/)** — `2026-08-03` | `59 Pages`
+- `[`2026-15652`]` **[Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2027 and Updates to the IRF Quality Reporting Program](https://www.indexdata.org/medicare-program-inpatient-rehabilitation-facility-prospective-payment-system-for-federal-fiscal-year-2027-and-updates-to-the-irf-quality-reporting-program/)** — `2026-08-03` | `51 Pages`
+- `[`2026-15588`]` **[Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update](https://www.indexdata.org/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update/)** — `2026-07-31` | `73 Pages`
+- `[`2026-15562`]` **[Medicare Program; Prospective Payment System and Consolidated Billing for Skilled Nursing Facilities; Updates to the Quality Reporting Program for Federal Fiscal Year 2027](https://www.indexdata.org/medicare-program-prospective-payment-system-and-consolidated-billing-for-skilled-nursing-facilities-updates-to-the-quality-reporting-program-for-federal-fiscal-year-2027/)** — `2026-07-31` | `67 Pages`
+- `[`2026-15446`]` **[Medicare Program; Updates to the Master List of Items Potentially Subject to Face-to-Face Encounter and Written Order Prior to Delivery and/or Prior Authorization Requirements; Updates to the Required Face-to-Face Encounter and Written Order Prior to Delivery List; and Updates to the Required Prior Authorization List](https://www.indexdata.org/medicare-program-updates-to-the-master-list-of-items-potentially-subject-to-face-to-face-encounter-and-written-order-prior-to-delivery-and-or-prior-authorization-requirements-updates-to-the-required/)** — `2026-07-30` | `7 Pages`
+- `[`2026-14897`]` **[Medicaid Program; Amending the Indirect Hold Harmless Threshold of Health Care-Related Taxes](https://www.indexdata.org/medicaid-program-amending-the-indirect-hold-harmless-threshold-of-health-care-related-taxes/)** — `2026-07-23` | `38 Pages`
+- `[`2026-14358`]` **[Request for Information; Clinical Laboratory Improvement Amendments of 1988 (CLIA) Regulations](https://www.indexdata.org/request-for-information-clinical-laboratory-improvement-amendments-of-1988-clia-regulations/)** — `2026-07-16` | `6 Pages`
+- `[`2026-14327`]` **[Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program](https://www.indexdata.org/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other-changes-to-part-b-payment-and-coverage-policies-medicare-shared-savings-program-requirements-and-m/)** — `2026-07-16` | `716 Pages`
+- `[`2026-13656`]` **[Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; Including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots](https://www.indexdata.org/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment-systems-and-quality-reporting-programs-including-the-hospital-outpatient-quality-reporting-program-an/)** — `2026-07-07` | `299 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
@@ -1452,23 +1452,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2026-14918`]` **[Grapes Grown in a Designated Area of Southeastern California; Decreased Assessment Rate](https://www.indexdata.org/grapes-grown-in-a-designated-area-of-southeastern-california-decreased-assessment-rate/)** — `2026-07-23` | `3 Pages`
 - `[`2026-12563`]` **[Cotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2025 Amendments)](https://www.indexdata.org/cotton-board-rules-and-regulations-adjusting-supplemental-assessment-on-imports-2025-amendments/)** — `2026-06-23` | `16 Pages`
 - `[`2026-12341`]` **[Domestic Dates Produced or Packed in Riverside County, California; Increased Assessment Rate](https://www.indexdata.org/domestic-dates-produced-or-packed-in-riverside-county-california-increased-assessment-rate/)** — `2026-06-18` | `3 Pages`
-
-### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
-
-- `[`2026-19959`]` **[Medicare Program; Prospective Payment System and Consolidated Billing for Skilled Nursing Facilities; Updates to the Quality Reporting Program for Federal Fiscal Year 2027; Correction](https://www.indexdata.org/medicare-program-prospective-payment-system-and-consolidated-billing-for-skilled-nursing-facilities-updates-to-the-quality-reporting-program-for-federal-fiscal-year-2027-correction/)** — `2026-09-30` | `10 Pages`
-- `[`2026-19946`]` **[Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of Certain Health Information Technology Standards; Correction](https://www.indexdata.org/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and-the-long-term-care-hospital-prospective-payment-system-and-policy-changes-and-fiscal-year-fy-2027-2/)** — `2026-09-29` | `16 Pages`
-- `[`2026-19535`]` **[Request for Information; Medicare Part D Reasonable and Relevant Pharmacy Contracting Standards](https://www.indexdata.org/request-for-information-medicare-part-d-reasonable-and-relevant-pharmacy-contracting-standards/)** — `2026-09-24` | `5 Pages`
-- `[`2026-16508`]` **[Medicaid Program; Prohibition on Federal Medicaid and Children's Health Insurance Program Funding for Sex-Rejecting Procedures Furnished to Children](https://www.indexdata.org/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for-sex-rejecting-procedures-furnished-to-children/)** — `2026-08-13` | `69 Pages`
-- `[`2026-15686`]` **[Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements](https://www.indexdata.org/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting-program-requirements/)** — `2026-08-03` | `59 Pages`
-- `[`2026-15652`]` **[Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2027 and Updates to the IRF Quality Reporting Program](https://www.indexdata.org/medicare-program-inpatient-rehabilitation-facility-prospective-payment-system-for-federal-fiscal-year-2027-and-updates-to-the-irf-quality-reporting-program/)** — `2026-08-03` | `51 Pages`
-- `[`2026-15588`]` **[Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update](https://www.indexdata.org/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update/)** — `2026-07-31` | `73 Pages`
-- `[`2026-15562`]` **[Medicare Program; Prospective Payment System and Consolidated Billing for Skilled Nursing Facilities; Updates to the Quality Reporting Program for Federal Fiscal Year 2027](https://www.indexdata.org/medicare-program-prospective-payment-system-and-consolidated-billing-for-skilled-nursing-facilities-updates-to-the-quality-reporting-program-for-federal-fiscal-year-2027/)** — `2026-07-31` | `67 Pages`
-- `[`2026-15446`]` **[Medicare Program; Updates to the Master List of Items Potentially Subject to Face-to-Face Encounter and Written Order Prior to Delivery and/or Prior Authorization Requirements; Updates to the Required Face-to-Face Encounter and Written Order Prior to Delivery List; and Updates to the Required Prior Authorization List](https://www.indexdata.org/medicare-program-updates-to-the-master-list-of-items-potentially-subject-to-face-to-face-encounter-and-written-order-prior-to-delivery-and-or-prior-authorization-requirements-updates-to-the-required/)** — `2026-07-30` | `7 Pages`
-- `[`2026-14897`]` **[Medicaid Program; Amending the Indirect Hold Harmless Threshold of Health Care-Related Taxes](https://www.indexdata.org/medicaid-program-amending-the-indirect-hold-harmless-threshold-of-health-care-related-taxes/)** — `2026-07-23` | `38 Pages`
-- `[`2026-14358`]` **[Request for Information; Clinical Laboratory Improvement Amendments of 1988 (CLIA) Regulations](https://www.indexdata.org/request-for-information-clinical-laboratory-improvement-amendments-of-1988-clia-regulations/)** — `2026-07-16` | `6 Pages`
-- `[`2026-14327`]` **[Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program](https://www.indexdata.org/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other-changes-to-part-b-payment-and-coverage-policies-medicare-shared-savings-program-requirements-and-m/)** — `2026-07-16` | `716 Pages`
-- `[`2026-13656`]` **[Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; Including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots](https://www.indexdata.org/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment-systems-and-quality-reporting-programs-including-the-hospital-outpatient-quality-reporting-program-an/)** — `2026-07-07` | `299 Pages`
 
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
@@ -1503,6 +1486,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ra
 - `[`2026-15724`]` **[High-Speed Train Noise Emission Standards](https://www.indexdata.org/high-speed-train-noise-emission-standards/)** — `2026-08-03` | `18 Pages`
 - `[`2026-15605`]` **[Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements](https://www.indexdata.org/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency-and-other-requirements/)** — `2026-07-31` | `19 Pages`
 - `[`2026-14160`]` **[Certification of Dispatchers; Extension of Comment Period](https://www.indexdata.org/certification-of-dispatchers-extension-of-comment-period/)** — `2026-07-14` | `2 Pages`
+
+### [National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-credit-union-administration/](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
+
+- `[`2026-16035`]` **[Limits on Loans to Other Credit Unions](https://www.indexdata.org/limits-on-loans-to-other-credit-unions/)** — `2026-08-06` | `3 Pages`
+- `[`2026-16031`]` **[Chartering and Field of Membership for Federal Credit Unions-Interpretive Ruling and Policy Statement 08-2](https://www.indexdata.org/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-ruling-and-policy-statement-08-2/)** — `2026-08-06` | `4 Pages`
+- `[`2026-16030`]` **[Purchase, Sale, and Pledge Of Eligible Obligations](https://www.indexdata.org/purchase-sale-and-pledge-of-eligible-obligations/)** — `2026-08-06` | `5 Pages`
+- `[`2026-16029`]` **[Third-Party Servicing of Indirect Vehicle Loans](https://www.indexdata.org/third-party-servicing-of-indirect-vehicle-loans/)** — `2026-08-06` | `4 Pages`
+- `[`2026-16028`]` **[Chartering and Field of Membership for Federal Credit Unions-Interpretive Ruling and Policy Statement 06-1](https://www.indexdata.org/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-ruling-and-policy-statement-06-1/)** — `2026-08-06` | `4 Pages`
+- `[`2026-16027`]` **[Suretyship and Guaranty; Segregated Deposit and Collateral](https://www.indexdata.org/suretyship-and-guaranty-segregated-deposit-and-collateral/)** — `2026-08-06` | `4 Pages`
+- `[`2026-16026`]` **[Termination of Excess Insurance Coverage](https://www.indexdata.org/termination-of-excess-insurance-coverage/)** — `2026-08-06` | `4 Pages`
+- `[`2026-16024`]` **[Chartering and Field of Membership for Federal Credit Unions-Interpretive Ruling and Policy Statement 10-1](https://www.indexdata.org/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-ruling-and-policy-statement-10-1/)** — `2026-08-06` | `3 Pages`
+- `[`2026-16023`]` **[Requirements for Insurance](https://www.indexdata.org/requirements-for-insurance/)** — `2026-08-06` | `3 Pages`
+- `[`2026-16022`]` **[Corporate Credit Unions](https://www.indexdata.org/corporate-credit-unions/)** — `2026-08-06` | `3 Pages`
+- `[`2026-16021`]` **[Credit Union Service Contracts](https://www.indexdata.org/credit-union-service-contracts/)** — `2026-08-06` | `4 Pages`
+- `[`2026-12856`]` **[Prohibition on the Use of Reputation Risk](https://www.indexdata.org/prohibition-on-the-use-of-reputation-risk/)** — `2026-06-25` | `6 Pages`
+- `[`2026-12058`]` **[Records Preservation Program and Appendices-Record Retention Guidelines; Catastrophic Act Preparedness Guidelines](https://www.indexdata.org/records-preservation-program-and-appendices-record-retention-guidelines-catastrophic-act-preparedness-guidelines/)** — `2026-06-16` | `5 Pages`
 
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
@@ -1552,7 +1552,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2026-12324`]` **[Reducing Bureaucracy and Burden for Native American Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-native-american-programs/)** — `2026-06-18` | `5 Pages`
 - `[`2026-12295`]` **[Reducing Bureaucracy and Burden for Child Support Enforcement Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-child-support-enforcement-programs/)** — `2026-06-18` | `7 Pages`
 - `[`2026-12189`]` **[Reducing Bureaucracy and Burden for Human Services and Emergency Response Programs-Repatriation Program](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation-program/)** — `2026-06-17` | `4 Pages`
-- `[`2026-11531`]` **[Reducing Bureaucracy and Burden for Community Services Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-community-services-programs/)** — `2026-06-09` | `5 Pages`
 
 ### [Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-procurement-policy-office/](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
@@ -1680,6 +1679,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-de
 - `[`2026-13191`]` **[Resolution Submissions Required for Covered Insured Depository Institutions](https://www.indexdata.org/resolution-submissions-required-for-covered-insured-depository-institutions/)** — `2026-06-30` | `23 Pages`
 - `[`2026-13123`]` **[Disclosure of Information](https://www.indexdata.org/disclosure-of-information/)** — `2026-06-30` | `27 Pages`
 
+### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
+
+- `[`2026-20037`]` **[Regulation D: Reserve Requirements of Depository Institutions](https://www.indexdata.org/regulation-d-reserve-requirements-of-depository-institutions/)** — `2026-09-30` | `2 Pages`
+- `[`2026-20036`]` **[Regulation A: Extensions of Credit by Federal Reserve Banks](https://www.indexdata.org/regulation-a-extensions-of-credit-by-federal-reserve-banks/)** — `2026-09-30` | `2 Pages`
+- `[`2026-19899`]` **[Application Procedures for Board-Supervised Insured Depository Institutions Seeking Approval for a Subsidiary To Issue Payment Stablecoins](https://www.indexdata.org/application-procedures-for-board-supervised-insured-depository-institutions-seeking-approval-for-a-subsidiary-to-issue-payment-stablecoins/)** — `2026-09-29` | `16 Pages`
+- `[`2026-19860`]` **[Implementing the Federal Reserve Board's Responsibilities Under the GENIUS Act](https://www.indexdata.org/implementing-the-federal-reserve-boards-responsibilities-under-the-genius-act/)** — `2026-09-29` | `104 Pages`
+- `[`2026-15777`]` **[Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks; Bank Holding Companies](https://www.indexdata.org/loans-to-executive-officers-directors-and-principal-shareholders-of-member-banks-bank-holding-companies/)** — `2026-08-04` | `43 Pages`
+- `[`2026-15774`]` **[Regulatory Modernization and Relief for Mutual Holding Companies](https://www.indexdata.org/regulatory-modernization-and-relief-for-mutual-holding-companies/)** — `2026-08-04` | `35 Pages`
+- `[`2026-13919`]` **[Anti-Money Laundering and Countering the Financing of Terrorism Programs](https://www.indexdata.org/anti-money-laundering-and-countering-the-financing-of-terrorism-programs/)** — `2026-07-09` | `20 Pages`
+
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 
@@ -1776,15 +1786,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/equal-empl
 - `[`2026-14937`]` **[Removal of Reporting Requirements](https://www.indexdata.org/removal-of-reporting-requirements/)** — `2026-07-23` | `18 Pages`
 - `[`2026-14303`]` **[FEP Agency Designation Procedures: Revising Location of FEP Agency Lists](https://www.indexdata.org/fep-agency-designation-procedures-revising-location-of-fep-agency-lists/)** — `2026-07-16` | `3 Pages`
 - `[`2026-13637`]` **[Rescission of Guidelines on Affirmative Action Appropriate Under Title VII of the Civil Rights Act of 1964, as Amended](https://www.indexdata.org/rescission-of-guidelines-on-affirmative-action-appropriate-under-title-vii-of-the-civil-rights-act-of-1964-as-amended/)** — `2026-07-06` | `7 Pages`
-
-### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
-
-- `[`2026-19899`]` **[Application Procedures for Board-Supervised Insured Depository Institutions Seeking Approval for a Subsidiary To Issue Payment Stablecoins](https://www.indexdata.org/application-procedures-for-board-supervised-insured-depository-institutions-seeking-approval-for-a-subsidiary-to-issue-payment-stablecoins/)** — `2026-09-29` | `16 Pages`
-- `[`2026-19860`]` **[Implementing the Federal Reserve Board's Responsibilities Under the GENIUS Act](https://www.indexdata.org/implementing-the-federal-reserve-boards-responsibilities-under-the-genius-act/)** — `2026-09-29` | `104 Pages`
-- `[`2026-15777`]` **[Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks; Bank Holding Companies](https://www.indexdata.org/loans-to-executive-officers-directors-and-principal-shareholders-of-member-banks-bank-holding-companies/)** — `2026-08-04` | `43 Pages`
-- `[`2026-15774`]` **[Regulatory Modernization and Relief for Mutual Holding Companies](https://www.indexdata.org/regulatory-modernization-and-relief-for-mutual-holding-companies/)** — `2026-08-04` | `35 Pages`
-- `[`2026-13919`]` **[Anti-Money Laundering and Countering the Financing of Terrorism Programs](https://www.indexdata.org/anti-money-laundering-and-countering-the-financing-of-terrorism-programs/)** — `2026-07-09` | `20 Pages`
 
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
@@ -2014,12 +2015,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 - `[`2026-13834`]` **[Request for Information Regarding Promoting Access to Mortgage Credit](https://www.indexdata.org/request-for-information-regarding-promoting-access-to-mortgage-credit/)** — `2026-07-09` | `5 Pages`
 - `[`2026-12149`]` **[Equal Credit Opportunity (Regulation B); Special Purpose Credit Programs; Rescission](https://www.indexdata.org/equal-credit-opportunity-regulation-b-special-purpose-credit-programs-rescission/)** — `2026-06-17` | `3 Pages`
 
-### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
-
-- `[`2026-16465`]` **[Group Registration of Updates to a News Website](https://www.indexdata.org/group-registration-of-updates-to-a-news-website/)** — `2026-08-13` | `3 Pages`
-- `[`2026-11545`]` **[Exemptions To Permit Circumvention of Access Controls on Copyrighted Works](https://www.indexdata.org/exemptions-to-permit-circumvention-of-access-controls-on-copyrighted-works/)** — `2026-06-09` | `4 Pages`
-
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
 
@@ -2096,6 +2091,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/workers-co
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commerce-department/](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
 
 - `[`2026-11772`]` **[Eliminating Regulations Regarding the Operation of Vending Stands](https://www.indexdata.org/eliminating-regulations-regarding-the-operation-of-vending-stands/)** — `2026-06-11` | `2 Pages`
+
+### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
+
+- `[`2026-16465`]` **[Group Registration of Updates to a News Website](https://www.indexdata.org/group-registration-of-updates-to-a-news-website/)** — `2026-08-13` | `3 Pages`
 
 ### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)

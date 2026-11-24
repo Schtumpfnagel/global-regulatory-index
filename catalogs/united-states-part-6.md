@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,639` across `246` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,643` across `246` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-23 20:54 UTC`
+**Last Automated Sync:** `2026-11-24 05:16 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`533` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`366` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`370` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -262,11 +262,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,639)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,643)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-06367`]` **[Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc-airplanes-13/)** — `2025-04-15` | `4 Pages`
 - `[`2025-06274`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-131/)** — `2025-04-15` | `3 Pages`
 - `[`2025-06186`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-126/)** — `2025-04-15` | `4 Pages`
 - `[`2025-06185`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-125/)** — `2025-04-15` | `4 Pages`
@@ -688,7 +689,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-27378`]` **[Modification of Class D Airspace; Torrance Airport, Torrance, CA](https://www.indexdata.org/modification-of-class-d-airspace-torrance-airport-torrance-ca-2/)** — `2024-11-25` | `3 Pages`
 - `[`2024-27330`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-179/)** — `2024-11-22` | `3 Pages`
 - `[`2024-27327`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-178/)** — `2024-11-22` | `3 Pages`
-- `[`2024-27266`]` **[Amendment of Class E Airspace; Lady Lake, FL](https://www.indexdata.org/amendment-of-class-e-airspace-lady-lake-fl/)** — `2024-11-21` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -902,7 +902,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-27450`]` **[Various Fragrance Components in Pesticide Formulations; Tolerance Exemption](https://www.indexdata.org/various-fragrance-components-in-pesticide-formulations-tolerance-exemption/)** — `2024-11-25` | `10 Pages`
 - `[`2024-27382`]` **[Finding of Failure To Attain and Reclassification of the Missouri Portion of the St. Louis Nonattainment Area as Serious for the 2015 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/finding-of-failure-to-attain-and-reclassification-of-the-missouri-portion-of-the-st-louis-nonattainment-area-as-serious-for-the-2015-ozone-national-ambient-air-quality-standards/)** — `2024-11-25` | `6 Pages`
 - `[`2024-26980`]` **[Air Plan Partial Approval and Partial Disapproval; North Carolina; Second Period Regional Haze Plan](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-north-carolina-second-period-regional-haze-plan/)** — `2024-11-22` | `28 Pages`
-- `[`2024-26114`]` **[Air Plan Approval; Wisconsin; Nitrogen Oxide Emissions Control Requirements](https://www.indexdata.org/air-plan-approval-wisconsin-nitrogen-oxide-emissions-control-requirements/)** — `2024-11-22` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -987,6 +986,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2025-06374`]` **[Special Local Regulation; Bush River and Otter Point Creek; Between Perryman, MD and Edgewood, MD](https://www.indexdata.org/special-local-regulation-bush-river-and-otter-point-creek-between-perryman-md-and-edgewood-md-2/)** — `2025-04-15` | `4 Pages`
+- `[`2025-06370`]` **[Special Local Regulation; Neuse and Trent Rivers, New Bern, NC](https://www.indexdata.org/special-local-regulation-neuse-and-trent-rivers-new-bern-nc-2/)** — `2025-04-15` | `3 Pages`
 - `[`2025-06238`]` **[Security Zone; Intracoastal Waterway, Palm Beach, FL](https://www.indexdata.org/security-zone-intracoastal-waterway-palm-beach-fl-4/)** — `2025-04-11` | `3 Pages`
 - `[`2025-06188`]` **[Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0512, Offshore New York and New Jersey, Atlantic Ocean](https://www.indexdata.org/safety-zone-empire-wind-1-wind-farm-project-area-outer-continental-shelf-lease-ocs-a-0512-offshore-new-york-and-new-jersey-atlantic-ocean/)** — `2025-04-11` | `9 Pages`
 - `[`2025-05993`]` **[Safety Zone; Milwaukee Air and Water Show, Milwaukee, WI](https://www.indexdata.org/safety-zone-milwaukee-air-and-water-show-milwaukee-wi-2/)** — `2025-04-08` | `3 Pages`
@@ -1052,7 +1053,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2024-27557`]` **[Regulated Navigation Area; Cuyahoga River, Cleveland, OH](https://www.indexdata.org/regulated-navigation-area-cuyahoga-river-cleveland-oh-3/)** — `2024-11-25` | `5 Pages`
 - `[`2024-24271`]` **[Electronic Submission of Mariner Course Completion Data](https://www.indexdata.org/electronic-submission-of-mariner-course-completion-data/)** — `2024-11-25` | `101 Pages`
 - `[`2024-27454`]` **[Safety Zone; Gulf of Mexico and South Bay, Boca Chica Beach, TX](https://www.indexdata.org/safety-zone-gulf-of-mexico-and-south-bay-boca-chica-beach-tx/)** — `2024-11-22` | `3 Pages`
-- `[`2024-27429`]` **[Safety Zone; Hackensack River, Kearny and Secaucus, NJ](https://www.indexdata.org/safety-zone-hackensack-river-kearny-and-secaucus-nj/)** — `2024-11-21` | `5 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1983,12 +1983,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-b
 - `[`2025-00328`]` **[Prohibited Transaction Exemption (PTE) 2002-51 To Permit Certain Transactions Identified in the Voluntary Fiduciary Correction Program](https://www.indexdata.org/prohibited-transaction-exemption-pte-2002-51-to-permit-certain-transactions-identified-in-the-voluntary-fiduciary-correction-program/)** — `2025-01-15` | `7 Pages`
 - `[`2025-00327`]` **[Voluntary Fiduciary Correction Program](https://www.indexdata.org/voluntary-fiduciary-correction-program/)** — `2025-01-15` | `40 Pages`
 
-### [Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/equal-employment-opportunity-commission/](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
-
-- `[`2024-31751`]` **[Recordkeeping and Reporting Requirements Under Title VII, the ADA, GINA, and the PWFA](https://www.indexdata.org/recordkeeping-and-reporting-requirements-under-title-vii-the-ada-gina-and-the-pwfa/)** — `2025-01-10` | `3 Pages`
-- `[`2024-27286`]` **[Recordkeeping and Reporting Requirements Under Title VII, the ADA, GINA, and the PWFA](https://www.indexdata.org/recordkeeping-and-reporting-requirements-under-title-vii-the-ada-gina-and-the-pwfa-2/)** — `2024-11-21` | `4 Pages`
-
 ### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
 
@@ -2105,6 +2099,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/comptrolle
 
 - `[`2025-00374`]` **[Notification of Inflation Adjustments for Civil Money Penalties](https://www.indexdata.org/notification-of-inflation-adjustments-for-civil-money-penalties/)** — `2025-01-10` | `3 Pages`
 
+### [Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/equal-employment-opportunity-commission/](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
+
+- `[`2024-31751`]` **[Recordkeeping and Reporting Requirements Under Title VII, the ADA, GINA, and the PWFA](https://www.indexdata.org/recordkeeping-and-reporting-requirements-under-title-vii-the-ada-gina-and-the-pwfa/)** — `2025-01-10` | `3 Pages`
+
 ### [Federal Crop Insurance Corporation](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-crop-insurance-corporation/](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/feed/)
 
@@ -2214,6 +2213,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-tr
 Canonical Authority Archive: [https://www.indexdata.org/united-states/tennessee-valley-authority/](https://www.indexdata.org/united-states/tennessee-valley-authority/) | [RSS Feed](https://www.indexdata.org/united-states/tennessee-valley-authority/feed/)
 
 - `[`2024-30420`]` **[Floating Cabins](https://www.indexdata.org/floating-cabins/)** — `2024-12-26` | `5 Pages`
+
+### [Treasury Department](https://www.indexdata.org/united-states/treasury-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/treasury-department/](https://www.indexdata.org/united-states/treasury-department/) | [RSS Feed](https://www.indexdata.org/united-states/treasury-department/feed/)
+
+- `[`2025-06353`]` **[Eliminating Unnecessary Regulations](https://www.indexdata.org/eliminating-unnecessary-regulations-2/)** — `2025-04-15` | `3 Pages`
 
 ### [United States Agency for Global Media](https://www.indexdata.org/united-states/united-states-agency-for-global-media/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-agency-for-global-media/](https://www.indexdata.org/united-states/united-states-agency-for-global-media/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-agency-for-global-media/feed/)

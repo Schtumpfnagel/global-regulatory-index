@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,639` across `246` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,643` across `246` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-23 20:54 UTC`
+**Last Automated Sync:** `2026-11-24 05:16 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`533` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`366` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`370` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -262,11 +262,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,639)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,643)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-24661`]` **[Amendment of VOR Federal Airways V-5, V-47, V-97, V-128, V-275, and V-517, and United States Area Navigation (RNAV) Route T-315, and Revocation of VOR Federal Airway V-19 in the Vicinity of Cincinnati, KY](https://www.indexdata.org/amendment-of-vor-federal-airways-v-5-v-47-v-97-v-128-v-275-and-v-517-and-united-states-area-navigation-rnav-route-t-315-and-revocation-of-vor-federal-airway-v-19-in-the-vicinity-of-cincinnati-2/)** — `2023-11-09` | `5 Pages`
+- `[`2023-24660`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-145/)** — `2023-11-09` | `3 Pages`
+- `[`2023-24659`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-146/)** — `2023-11-09` | `2 Pages`
 - `[`2023-24562`]` **[Airworthiness Directives; Pratt & Whitney Canada Corp. Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-canada-corp-engines-7/)** — `2023-11-09` | `3 Pages`
 - `[`2023-24328`]` **[Airworthiness Directives; Diamond Aircraft Industries GmbH Airplanes](https://www.indexdata.org/airworthiness-directives-diamond-aircraft-industries-gmbh-airplanes-4/)** — `2023-11-08` | `5 Pages`
 - `[`2023-24008`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-93/)** — `2023-11-08` | `17 Pages`
@@ -629,11 +632,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-15192`]` **[Airworthiness Directives; Dassault Aviation Airplanes](https://www.indexdata.org/airworthiness-directives-dassault-aviation-airplanes-66/)** — `2023-07-19` | `4 Pages`
 - `[`2023-15178`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-325/)** — `2023-07-19` | `4 Pages`
 - `[`2023-15177`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-105/)** — `2023-07-19` | `4 Pages`
-- `[`2023-15176`]` **[Airworthiness Directives; Survitec Group Limited (RFD Beaufort Ltd.) Life Jackets](https://www.indexdata.org/airworthiness-directives-survitec-group-limited-rfd-beaufort-ltd-life-jackets/)** — `2023-07-19` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-24616`]` **[Approval and Promulgation of Implementation Plans; New York; Elements of the 2008 and 2015 Ozone National Air Quality Standards](https://www.indexdata.org/approval-and-promulgation-of-implementation-plans-new-york-elements-of-the-2008-and-2015-ozone-national-air-quality-standards/)** — `2023-11-09` | `4 Pages`
 - `[`2023-24513`]` **[Locomotives and Locomotive Engines; Preemption of State and Local Regulations](https://www.indexdata.org/locomotives-and-locomotive-engines-preemption-of-state-and-local-regulations/)** — `2023-11-08` | `6 Pages`
 - `[`2023-24233`]` **[Privacy Act Regulations for EPA-100](https://www.indexdata.org/privacy-act-regulations-for-epa-100/)** — `2023-11-08` | `6 Pages`
 - `[`2023-24232`]` **[Privacy Act Regulations for EPA-100](https://www.indexdata.org/privacy-act-regulations-for-epa-100-2/)** — `2023-11-08` | `5 Pages`
@@ -939,7 +942,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2023-15535`]` **[Safety Zone; Port of Los Angeles, San Pedro Bay, CA](https://www.indexdata.org/safety-zone-port-of-los-angeles-san-pedro-bay-ca/)** — `2023-07-21` | `3 Pages`
 - `[`2023-15444`]` **[Safety Zone; St. Johns River, Jacksonville, FL](https://www.indexdata.org/safety-zone-st-johns-river-jacksonville-fl-2/)** — `2023-07-20` | `3 Pages`
 - `[`2023-15227`]` **[Special Local Regulation; Iron Man 70.3 Triathlon, Lake Erie; Sandusky, OH](https://www.indexdata.org/special-local-regulation-iron-man-70-3-triathlon-lake-erie-sandusky-oh/)** — `2023-07-19` | `3 Pages`
-- `[`2023-15026`]` **[Security Zones; Corpus Christi Ship Channel, Corpus Christi, TX](https://www.indexdata.org/security-zones-corpus-christi-ship-channel-corpus-christi-tx-2/)** — `2023-07-19` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1175,7 +1177,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2023-15360`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Salina Mucket and Mexican Fawnsfoot and Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-salina-mucket-and-mexican-fawnsfoot-and-designation-of-critical-habitat/)** — `2023-07-25` | `37 Pages`
 - `[`2023-15453`]` **[Streamlining U.S. Fish and Wildlife Service Permitting of Rights-of-Way Across National Wildlife Refuges and Other U.S. Fish and Wildlife Service-Administered Lands](https://www.indexdata.org/streamlining-u-s-fish-and-wildlife-service-permitting-of-rights-of-way-across-national-wildlife-refuges-and-other-u-s-fish-and-wildlife-service-administered-lands/)** — `2023-07-24` | `12 Pages`
 - `[`2023-14486`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Cactus Ferruginous Pygmy-Owl](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-cactus-ferruginous-pygmy-owl/)** — `2023-07-20` | `41 Pages`
-- `[`2023-14971`]` **[Endangered and Threatened Wildlife and Plants; Removing Golden Paintbrush From the Federal List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removing-golden-paintbrush-from-the-federal-list-of-endangered-and-threatened-plants/)** — `2023-07-19` | `23 Pages`
 
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -1514,21 +1515,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 - `[`2023-15852`]` **[Final Priority and Requirements-Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate IDEA Data To Address Significant Disproportionality](https://www.indexdata.org/final-priority-and-requirements-technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state-capacity-to-collect-report-analyze-and-use-accurate-idea-data-to/)** — `2023-07-26` | `7 Pages`
 - `[`2023-15436`]` **[Federal Preemption and Joint Federal-State Regulation and Oversight of the Department of Education's Federal Student Loan Programs and Federal Student Loan Servicers](https://www.indexdata.org/federal-preemption-and-joint-federal-state-regulation-and-oversight-of-the-department-of-educations-federal-student-loan-programs-and-federal-student-loan-servicers/)** — `2023-07-24` | `6 Pages`
 
-### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
-
-- `[`2023-22164`]` **[Small Business Development Centers](https://www.indexdata.org/small-business-development-centers/)** — `2023-11-07` | `28 Pages`
-- `[`2023-22169`]` **[Debt Refinancing in the 504 Loan Program](https://www.indexdata.org/debt-refinancing-in-the-504-loan-program/)** — `2023-10-12` | `7 Pages`
-- `[`2023-22466`]` **[National Defense Authorization Act of 2020, Credit for Lower Tier Subcontracting and Other Amendments](https://www.indexdata.org/national-defense-authorization-act-of-2020-credit-for-lower-tier-subcontracting-and-other-amendments/)** — `2023-10-11` | `5 Pages`
-- `[`2023-22370`]` **[Ownership and Control and Contractual Assistance Requirements for the 8(a) Business Development Program; Correction](https://www.indexdata.org/ownership-and-control-and-contractual-assistance-requirements-for-the-8a-business-development-program-correction/)** — `2023-10-11` | `2 Pages`
-- `[`2023-22171`]` **[ALP Express Pilot Program](https://www.indexdata.org/alp-express-pilot-program/)** — `2023-10-06` | `3 Pages`
-- `[`2023-22185`]` **[Community Advantage Pilot Program](https://www.indexdata.org/community-advantage-pilot-program/)** — `2023-10-05` | `6 Pages`
-- `[`2023-19183`]` **[Criminal Justice Reviews for the SBA Business Loan Programs and Surety Bond Guaranty Program](https://www.indexdata.org/criminal-justice-reviews-for-the-sba-business-loan-programs-and-surety-bond-guaranty-program/)** — `2023-09-15` | `6 Pages`
-- `[`2023-16217`]` **[Civil Monetary Penalties Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustments-3/)** — `2023-08-01` | `3 Pages`
-- `[`2023-15899`]` **[Small Business Size Standards: Adjustment of Alternative Size Standard for SBA's 7(a) and CDC/504 Loan Programs for Inflation; and Surety Bond Limits: Adjustments for Inflation](https://www.indexdata.org/small-business-size-standards-adjustment-of-alternative-size-standard-for-sbas-7a-and-cdc-504-loan-programs-for-inflation-and-surety-bond-limits-adjustments-for-inflation-2/)** — `2023-07-28` | `22 Pages`
-- `[`2023-14552`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-15/)** — `2023-07-27` | `3 Pages`
-- `[`2023-15078`]` **[Small Business Size Standards: Adjustment of Monetary-Based Size Standards, Disadvantage Thresholds, and 8(a) Eligibility Thresholds for Inflation](https://www.indexdata.org/small-business-size-standards-adjustment-of-monetary-based-size-standards-disadvantage-thresholds-and-8a-eligibility-thresholds-for-inflation/)** — `2023-07-19` | `8 Pages`
-
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
 
@@ -1571,6 +1557,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-s
 - `[`2023-15533`]` **[Optional Alternative 1 to the Physical Document Examination Associated With Employment Eligibility Verification (Form I-9)](https://www.indexdata.org/optional-alternative-1-to-the-physical-document-examination-associated-with-employment-eligibility-verification-form-i-9/)** — `2023-07-25` | `6 Pages`
 - `[`2023-15532`]` **[Optional Alternatives to the Physical Document Examination Associated With Employment Eligibility Verification (Form I-9)](https://www.indexdata.org/optional-alternatives-to-the-physical-document-examination-associated-with-employment-eligibility-verification-form-i-9/)** — `2023-07-25` | `33 Pages`
 - `[`2023-15579`]` **[Homeland Security Acquisition Regulation; Safeguarding of Controlled Unclassified Information; Correction](https://www.indexdata.org/homeland-security-acquisition-regulation-safeguarding-of-controlled-unclassified-information-correction/)** — `2023-07-21` | `2 Pages`
+
+### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
+
+- `[`2023-22164`]` **[Small Business Development Centers](https://www.indexdata.org/small-business-development-centers/)** — `2023-11-07` | `28 Pages`
+- `[`2023-22169`]` **[Debt Refinancing in the 504 Loan Program](https://www.indexdata.org/debt-refinancing-in-the-504-loan-program/)** — `2023-10-12` | `7 Pages`
+- `[`2023-22466`]` **[National Defense Authorization Act of 2020, Credit for Lower Tier Subcontracting and Other Amendments](https://www.indexdata.org/national-defense-authorization-act-of-2020-credit-for-lower-tier-subcontracting-and-other-amendments/)** — `2023-10-11` | `5 Pages`
+- `[`2023-22370`]` **[Ownership and Control and Contractual Assistance Requirements for the 8(a) Business Development Program; Correction](https://www.indexdata.org/ownership-and-control-and-contractual-assistance-requirements-for-the-8a-business-development-program-correction/)** — `2023-10-11` | `2 Pages`
+- `[`2023-22171`]` **[ALP Express Pilot Program](https://www.indexdata.org/alp-express-pilot-program/)** — `2023-10-06` | `3 Pages`
+- `[`2023-22185`]` **[Community Advantage Pilot Program](https://www.indexdata.org/community-advantage-pilot-program/)** — `2023-10-05` | `6 Pages`
+- `[`2023-19183`]` **[Criminal Justice Reviews for the SBA Business Loan Programs and Surety Bond Guaranty Program](https://www.indexdata.org/criminal-justice-reviews-for-the-sba-business-loan-programs-and-surety-bond-guaranty-program/)** — `2023-09-15` | `6 Pages`
+- `[`2023-16217`]` **[Civil Monetary Penalties Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustments-3/)** — `2023-08-01` | `3 Pages`
+- `[`2023-15899`]` **[Small Business Size Standards: Adjustment of Alternative Size Standard for SBA's 7(a) and CDC/504 Loan Programs for Inflation; and Surety Bond Limits: Adjustments for Inflation](https://www.indexdata.org/small-business-size-standards-adjustment-of-alternative-size-standard-for-sbas-7a-and-cdc-504-loan-programs-for-inflation-and-surety-bond-limits-adjustments-for-inflation-2/)** — `2023-07-28` | `22 Pages`
+- `[`2023-14552`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-15/)** — `2023-07-27` | `3 Pages`
 
 ### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)

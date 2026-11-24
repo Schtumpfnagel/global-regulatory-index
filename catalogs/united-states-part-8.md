@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,639` across `246` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,643` across `246` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-23 20:54 UTC`
+**Last Automated Sync:** `2026-11-24 05:16 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,187` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`533` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`366` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`370` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`310` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -262,11 +262,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,639)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,643)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-15995`]` **[Establishment of Class E Airspace; Lubbock, TX](https://www.indexdata.org/establishment-of-class-e-airspace-lubbock-tx/)** — `2024-07-22` | `2 Pages`
+- `[`2024-15972`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-62/)** — `2024-07-22` | `5 Pages`
 - `[`2024-15869`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-110/)** — `2024-07-19` | `2 Pages`
 - `[`2024-15868`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-109/)** — `2024-07-19` | `2 Pages`
 - `[`2024-15853`]` **[Special Conditions: Airbus Model A321neo Extra-Long Range (XLR) Airplane; Cabin Evacuation-Protection From Fuel Tank Explosion Due to External Fuel-Fed Ground Fire](https://www.indexdata.org/special-conditions-airbus-model-a321neo-extra-long-range-xlr-airplane-cabin-evacuation-protection-from-fuel-tank-explosion-due-to-external-fuel-fed-ground-fire/)** — `2024-07-18` | `5 Pages`
@@ -606,7 +608,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-05394`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-66/)** — `2024-03-21` | `3 Pages`
 - `[`2024-05393`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-64/)** — `2024-03-21` | `3 Pages`
 - `[`2024-05825`]` **[Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates; Correction](https://www.indexdata.org/inspection-programs-for-single-engine-turbine-powered-airplanes-and-unmanned-aircraft-and-miscellaneous-maintenance-related-updates-correction/)** — `2024-03-20` | `2 Pages`
-- `[`2024-05101`]` **[Special Conditions: Safran Electric & Power S.A. Model ENGINe US100A1 Electric Engines](https://www.indexdata.org/special-conditions-safran-electric-power-s-a-model-engine-us100a1-electric-engines/)** — `2024-03-20` | `13 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -798,7 +799,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-06145`]` **[Receipt of a Pesticide Petition Filed for Residues of Pesticide Chemicals in or on Various Commodities (February 2024)](https://www.indexdata.org/receipt-of-a-pesticide-petition-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-february-2024/)** — `2024-03-22` | `2 Pages`
 - `[`2024-06105`]` **[Approval and Promulgation of Air Quality Implementation Plans; New York; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/approval-and-promulgation-of-air-quality-implementation-plans-new-york-regional-haze-state-implementation-plan-for-the-second-implementation-period-2/)** — `2024-03-22` | `27 Pages`
 - `[`2024-05894`]` **[Clean Air Act Title V Operating Permit Program Revision; West Virginia](https://www.indexdata.org/clean-air-act-title-v-operating-permit-program-revision-west-virginia-2/)** — `2024-03-21` | `4 Pages`
-- `[`2024-05088`]` **[Revisions to Standards for the Open Burning/Open Detonation of Waste Explosives](https://www.indexdata.org/revisions-to-standards-for-the-open-burning-open-detonation-of-waste-explosives/)** — `2024-03-20` | `79 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -970,6 +970,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-16002`]` **[Fisheries of the Northeastern United States; Northeast Multispecies Fishery; 2024-2026 Small-Mesh Multispecies Specifications](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-northeast-multispecies-fishery-2024-2026-small-mesh-multispecies-specifications-2/)** — `2024-07-22` | `3 Pages`
 - `[`2024-15873`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Fishery of the Gulf of Mexico; Greater Amberjack and Red Snapper Management Measures](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-reef-fish-fishery-of-the-gulf-of-mexico-greater-amberjack-and-red-snapper-management-measures/)** — `2024-07-22` | `7 Pages`
 - `[`2024-15930`]` **[Fisheries of the Exclusive Economic Zone off Alaska; Essential Fish Habitat Amendments](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-essential-fish-habitat-amendments/)** — `2024-07-19` | `4 Pages`
 - `[`2024-15654`]` **[International Fisheries; Pacific Tuna Fisheries; Fish Aggregating Device Design and Reporting Requirements in the Eastern Pacific Ocean](https://www.indexdata.org/international-fisheries-pacific-tuna-fisheries-fish-aggregating-device-design-and-reporting-requirements-in-the-eastern-pacific-ocean-2/)** — `2024-07-19` | `5 Pages`
@@ -1068,7 +1069,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-05782`]` **[Fisheries of the Northeastern United States; Framework Adjustment 38 to the Atlantic Sea Scallop Fishery Management Plan](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-framework-adjustment-38-to-the-atlantic-sea-scallop-fishery-management-plan/)** — `2024-03-22` | `13 Pages`
 - `[`2024-05936`]` **[International Affairs; Antarctic Marine Living Resources Convention Act](https://www.indexdata.org/international-affairs-antarctic-marine-living-resources-convention-act/)** — `2024-03-21` | `6 Pages`
 - `[`2024-05915`]` **[Fisheries of the Northeastern United States; Mid-Atlantic Blueline Tilefish and Golden Tilefish Fisheries; 2024 Specifications](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-mid-atlantic-blueline-tilefish-and-golden-tilefish-fisheries-2024-specifications/)** — `2024-03-20` | `3 Pages`
-- `[`2024-05795`]` **[Endangered and Threatened Species; Designation of Critical Habitat for Threatened Caribbean Corals; Correcting Amendment](https://www.indexdata.org/endangered-and-threatened-species-designation-of-critical-habitat-for-threatened-caribbean-corals-correcting-amendment/)** — `2024-03-19` | `2 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1197,6 +1197,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
+- `[`2024-15975`]` **[Oranges, Grapefruit, Tangerines, and Pummelos Grown in Florida; Increased Assessment Rate](https://www.indexdata.org/oranges-grapefruit-tangerines-and-pummelos-grown-in-florida-increased-assessment-rate-3/)** — `2024-07-22` | `4 Pages`
 - `[`2024-15629`]` **[Tart Cherries Grown in the States of Michigan, New York, Pennsylvania, Oregon, Utah, Washington, and Wisconsin; Amendments to the Marketing Order](https://www.indexdata.org/tart-cherries-grown-in-the-states-of-michigan-new-york-pennsylvania-oregon-utah-washington-and-wisconsin-amendments-to-the-marketing-order-2/)** — `2024-07-19` | `9 Pages`
 - `[`2024-15238`]` **[Softwood Lumber Research, Promotion, Consumer Education, and Information Order; Adjustment to Membership](https://www.indexdata.org/softwood-lumber-research-promotion-consumer-education-and-information-order-adjustment-to-membership/)** — `2024-07-18` | `7 Pages`
 - `[`2024-15138`]` **[Paper and Paper-Based Packaging Promotion, Research and Information Order; Clarifying Changes](https://www.indexdata.org/paper-and-paper-based-packaging-promotion-research-and-information-order-clarifying-changes-3/)** — `2024-07-15` | `5 Pages`
@@ -1410,26 +1411,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-ac
 - `[`2024-06004`]` **[Defense Federal Acquisition Regulation Supplement: Modification of Notification of Intent To Transport Supplies by Sea (DFARS Case 2020-D026)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-modification-of-notification-of-intent-to-transport-supplies-by-sea-dfars-case-2020-d026-2/)** — `2024-03-26` | `4 Pages`
 - `[`2024-06003`]` **[Defense Federal Acquisition Regulation Supplement: Replacement of Fluorinated Aqueous Film-Forming Foam (DFARS Case 2020-D011)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-replacement-of-fluorinated-aqueous-film-forming-foam-dfars-case-2020-d011/)** — `2024-03-26` | `3 Pages`
 
-### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
-
-- `[`2024-15532`]` **[Reconsideration of Prior Interment and Memorialization Decisions](https://www.indexdata.org/reconsideration-of-prior-interment-and-memorialization-decisions/)** — `2024-07-17` | `5 Pages`
-- `[`2024-13389`]` **[Loan Guaranty: Adjustable Rate Mortgages, Hybrid Adjustable Rate Mortgages, and Temporary Buydown Agreements](https://www.indexdata.org/loan-guaranty-adjustable-rate-mortgages-hybrid-adjustable-rate-mortgages-and-temporary-buydown-agreements/)** — `2024-06-21` | `8 Pages`
-- `[`2024-13384`]` **[Exemption of “Diversity and Equal Employment Opportunity (EEO) Program Records” (203VA08)](https://www.indexdata.org/exemption-of-diversity-and-equal-employment-opportunity-eeo-program-records-203va08/)** — `2024-06-18` | `3 Pages`
-- `[`2024-13367`]` **[VA Health Professional Scholarship Program](https://www.indexdata.org/va-health-professional-scholarship-program/)** — `2024-06-18` | `3 Pages`
-- `[`2024-13116`]` **[Adaptive Equipment Allowance](https://www.indexdata.org/adaptive-equipment-allowance/)** — `2024-06-17` | `11 Pages`
-- `[`2024-11715`]` **[Update to Delegations of Authority to Certain Officials](https://www.indexdata.org/update-to-delegations-of-authority-to-certain-officials/)** — `2024-05-29` | `3 Pages`
-- `[`2024-10897`]` **[Changes to the Provision of Health Care for World War II Veterans](https://www.indexdata.org/changes-to-the-provision-of-health-care-for-world-war-ii-veterans/)** — `2024-05-23` | `3 Pages`
-- `[`2024-09862`]` **[Veteran and Spouse Transitional Assistance Grant Program](https://www.indexdata.org/veteran-and-spouse-transitional-assistance-grant-program/)** — `2024-05-13` | `8 Pages`
-- `[`2024-10194`]` **[Commemorative Plaques and Urns](https://www.indexdata.org/commemorative-plaques-and-urns/)** — `2024-05-10` | `6 Pages`
-- `[`2024-09072`]` **[CHAMPVA Coverage of Audio-Only Telehealth, Mental Health Services, and Cost Sharing for Certain Contraceptive Services and Contraceptive Products Approved, Cleared, or Granted by FDA](https://www.indexdata.org/champva-coverage-of-audio-only-telehealth-mental-health-services-and-cost-sharing-for-certain-contraceptive-services-and-contraceptive-products-approved-cleared-or-granted-by-fda/)** — `2024-04-30` | `5 Pages`
-- `[`2024-09012`]` **[Update and Clarify Regulatory Bars to Benefits Based on Character of Discharge](https://www.indexdata.org/update-and-clarify-regulatory-bars-to-benefits-based-on-character-of-discharge/)** — `2024-04-26` | `13 Pages`
-- `[`2024-08023`]` **[Expansion of Prohibition of Interment or Memorialization of Persons Who Committed Certain Crimes](https://www.indexdata.org/expansion-of-prohibition-of-interment-or-memorialization-of-persons-who-committed-certain-crimes/)** — `2024-04-25` | `4 Pages`
-- `[`2024-07113`]` **[Loan Guaranty: Servicer Regulation Changes](https://www.indexdata.org/loan-guaranty-servicer-regulation-changes/)** — `2024-04-10` | `3 Pages`
-- `[`2024-06984`]` **[Monthly Assistance Allowance for Veterans in United States Olympic or Paralympic Events](https://www.indexdata.org/monthly-assistance-allowance-for-veterans-in-united-states-olympic-or-paralympic-events/)** — `2024-04-09` | `7 Pages`
-- `[`2024-07040`]` **[Instructions for Determining Eligibility for In Vitro Fertilization (IVF) Benefit](https://www.indexdata.org/instructions-for-determining-eligibility-for-in-vitro-fertilization-ivf-benefit/)** — `2024-04-04` | `4 Pages`
-- `[`2024-05138`]` **[Schedule for Rating Disabilities: The Digestive System](https://www.indexdata.org/schedule-for-rating-disabilities-the-digestive-system/)** — `2024-03-20` | `20 Pages`
-
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 
@@ -1467,6 +1448,25 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2024-06977`]` **[Expanding the Fair Housing Testing Pool for FHIP and FHAP Funded Entities](https://www.indexdata.org/expanding-the-fair-housing-testing-pool-for-fhip-and-fhap-funded-entities/)** — `2024-04-03` | `9 Pages`
 - `[`2024-06676`]` **[Strengthening the Section 184 Indian Housing Loan Guarantee Program; Correction](https://www.indexdata.org/strengthening-the-section-184-indian-housing-loan-guarantee-program-correction/)** — `2024-03-29` | `2 Pages`
 - `[`2024-05515`]` **[Strengthening the Section 184 Indian Housing Loan Guarantee Program](https://www.indexdata.org/strengthening-the-section-184-indian-housing-loan-guarantee-program/)** — `2024-03-20` | `61 Pages`
+
+### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
+
+- `[`2024-15532`]` **[Reconsideration of Prior Interment and Memorialization Decisions](https://www.indexdata.org/reconsideration-of-prior-interment-and-memorialization-decisions/)** — `2024-07-17` | `5 Pages`
+- `[`2024-13389`]` **[Loan Guaranty: Adjustable Rate Mortgages, Hybrid Adjustable Rate Mortgages, and Temporary Buydown Agreements](https://www.indexdata.org/loan-guaranty-adjustable-rate-mortgages-hybrid-adjustable-rate-mortgages-and-temporary-buydown-agreements/)** — `2024-06-21` | `8 Pages`
+- `[`2024-13384`]` **[Exemption of “Diversity and Equal Employment Opportunity (EEO) Program Records” (203VA08)](https://www.indexdata.org/exemption-of-diversity-and-equal-employment-opportunity-eeo-program-records-203va08/)** — `2024-06-18` | `3 Pages`
+- `[`2024-13367`]` **[VA Health Professional Scholarship Program](https://www.indexdata.org/va-health-professional-scholarship-program/)** — `2024-06-18` | `3 Pages`
+- `[`2024-13116`]` **[Adaptive Equipment Allowance](https://www.indexdata.org/adaptive-equipment-allowance/)** — `2024-06-17` | `11 Pages`
+- `[`2024-11715`]` **[Update to Delegations of Authority to Certain Officials](https://www.indexdata.org/update-to-delegations-of-authority-to-certain-officials/)** — `2024-05-29` | `3 Pages`
+- `[`2024-10897`]` **[Changes to the Provision of Health Care for World War II Veterans](https://www.indexdata.org/changes-to-the-provision-of-health-care-for-world-war-ii-veterans/)** — `2024-05-23` | `3 Pages`
+- `[`2024-09862`]` **[Veteran and Spouse Transitional Assistance Grant Program](https://www.indexdata.org/veteran-and-spouse-transitional-assistance-grant-program/)** — `2024-05-13` | `8 Pages`
+- `[`2024-10194`]` **[Commemorative Plaques and Urns](https://www.indexdata.org/commemorative-plaques-and-urns/)** — `2024-05-10` | `6 Pages`
+- `[`2024-09072`]` **[CHAMPVA Coverage of Audio-Only Telehealth, Mental Health Services, and Cost Sharing for Certain Contraceptive Services and Contraceptive Products Approved, Cleared, or Granted by FDA](https://www.indexdata.org/champva-coverage-of-audio-only-telehealth-mental-health-services-and-cost-sharing-for-certain-contraceptive-services-and-contraceptive-products-approved-cleared-or-granted-by-fda/)** — `2024-04-30` | `5 Pages`
+- `[`2024-09012`]` **[Update and Clarify Regulatory Bars to Benefits Based on Character of Discharge](https://www.indexdata.org/update-and-clarify-regulatory-bars-to-benefits-based-on-character-of-discharge/)** — `2024-04-26` | `13 Pages`
+- `[`2024-08023`]` **[Expansion of Prohibition of Interment or Memorialization of Persons Who Committed Certain Crimes](https://www.indexdata.org/expansion-of-prohibition-of-interment-or-memorialization-of-persons-who-committed-certain-crimes/)** — `2024-04-25` | `4 Pages`
+- `[`2024-07113`]` **[Loan Guaranty: Servicer Regulation Changes](https://www.indexdata.org/loan-guaranty-servicer-regulation-changes/)** — `2024-04-10` | `3 Pages`
+- `[`2024-06984`]` **[Monthly Assistance Allowance for Veterans in United States Olympic or Paralympic Events](https://www.indexdata.org/monthly-assistance-allowance-for-veterans-in-united-states-olympic-or-paralympic-events/)** — `2024-04-09` | `7 Pages`
+- `[`2024-07040`]` **[Instructions for Determining Eligibility for In Vitro Fertilization (IVF) Benefit](https://www.indexdata.org/instructions-for-determining-eligibility-for-in-vitro-fertilization-ivf-benefit/)** — `2024-04-04` | `4 Pages`
 
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
