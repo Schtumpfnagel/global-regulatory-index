@@ -5,22 +5,22 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/netherlands/feed/](https://www.indexdata.org/netherlands/feed/)  
 **Wikidata Sovereign Entity:** [`Q55`](https://www.wikidata.org/wiki/Q55)  
 **Governing Open-Government Framework:** *Auteurswet Art. 11 & Art. 15b / Who / CC0 1.0 / CC BY 4.0*  
-**Total Indexed Dossiers in Netherlands:** `36` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-24 05:16 UTC`
+**Total Indexed Dossiers in Netherlands:** `39` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-24 17:13 UTC`
 
 ---
 
 ## Issuing Authorities in Netherlands (5 Authorities)
 
 - **[Royal Netherlands Aerospace Centre (NLR)](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/) | [RSS Feed](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/feed/)
-- **[Centrum Wiskunde & Informatica (CWI)](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/) | [RSS Feed](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/feed/)
+- **[Centrum Wiskunde & Informatica (CWI)](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/) | [RSS Feed](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/feed/)
 - **[Research and Data Centre - Ministry of Justice and Security (WODC)](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/) | [RSS Feed](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/feed/)
 - **[House of Representatives of the Netherlands (Tweede Kamer)](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/) | [RSS Feed](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/feed/)
 - **[Netherlands Controlling Authority for Milk and Milk Products (COKZ)](https://www.indexdata.org/netherlands/netherlands-controlling-authority-for-milk-and-milk-products-cokz/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/netherlands-controlling-authority-for-milk-and-milk-products-cokz/) | [RSS Feed](https://www.indexdata.org/netherlands/netherlands-controlling-authority-for-milk-and-milk-products-cokz/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–36 of 36)
+## Indexed Statutory & Regulatory Dossiers (Records 1–39 of 39)
 
 ### [Royal Netherlands Aerospace Centre (NLR)](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/)
 Canonical Authority Archive: [https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/) | [RSS Feed](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/feed/)
@@ -47,6 +47,9 @@ Canonical Authority Archive: [https://www.indexdata.org/netherlands/royal-nether
 Canonical Authority Archive: [https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/) | [RSS Feed](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/feed/)
 
 - `[`NL-CWI-36834`]` **[Controlling avalanche sizes in the Abelian sandpile model](https://www.indexdata.org/controlling-avalanche-sizes-in-the-abelian-sandpile-model/)** — `2026-11-11` | `37 Pages`
+- `[`NL-CWI-36853`]` **[Cryptology ePrint Archive](https://www.indexdata.org/cryptology-eprint-archive-3/)** — `2026-10-16` | `23 Pages`
+- `[`NL-CWI-36858`]` **[Cryptology ePrint Archive](https://www.indexdata.org/cryptology-eprint-archive/)** — `2026-10-06` | `75 Pages`
+- `[`NL-CWI-36855`]` **[Cryptology ePrint Archive](https://www.indexdata.org/cryptology-eprint-archive-2/)** — `2026-09-22` | `32 Pages`
 - `[`NL-CWI-36844`]` **[Time integration as filtering: A space-time discretization-aware LES formulation](https://www.indexdata.org/time-integration-as-filtering-a-space-time-discretization-aware-les-formulation/)** — `2026-06-16` | `6 Pages`
 - `[`NL-CWI-36683`]` **[Welcome Message from the SIGMM Executives](https://www.indexdata.org/welcome-message-from-the-sigmm-executives/)** — `2026-05-29` | `2 Pages`
 - `[`NL-CWI-36815`]` **[Towards reproducible multimorbidity clustering in electronic health records: a transparent pipeline for aligning research aims and methodology](https://www.indexdata.org/towards-reproducible-multimorbidity-clustering-in-electronic-health-records-a-transparent-pipeline-for-aligning-research-aims-and-methodology/)** — `2026-05-26` | `35 Pages`

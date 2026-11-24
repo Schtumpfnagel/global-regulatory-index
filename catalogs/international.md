@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,273` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-24 05:16 UTC`
+**Total Indexed Dossiers in International:** `1,274` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-24 17:13 UTC`
 
 ---
 
@@ -13,7 +13,7 @@
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`244` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`211` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
-- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`195` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
+- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`196` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
@@ -43,7 +43,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,273 of 1,273)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,274 of 1,274)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -511,6 +511,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 ### [World Bank](https://www.indexdata.org/international/world-bank/)
 Canonical Authority Archive: [https://www.indexdata.org/international/world-bank/](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/)
 
+- `[`WB-WDS-40140552`]` **[Labor Management Procedures Sustainable Urban and Peri-Urban Agriculture for Women Empowerment Project (P510360)](https://www.indexdata.org/labor-management-procedures-sustainable-urban-and-peri-urban-agriculture-for-women-empowerment-project-p510360/)** — `2026-11-24` | `37 Pages`
 - `[`WB-WDS-217441`]` **[Partnership for Market Implementation (PMI) Facility Annual Report 2026](https://www.indexdata.org/partnership-for-market-implementation-pmi-facility-annual-report-2026/)** — `2026-11-23` | `61 Pages`
 - `[`WB-WDS-217398`]` **[Thailand Monthly Economic Monitor](https://www.indexdata.org/thailand-monthly-economic-monitor/)** — `2026-11-23` | `4 Pages`
 - `[`WB-WDS-217380`]` **[Virtual Labor Mobility : Bringing Opportunities Home - A Report on Cross-Border Online Work](https://www.indexdata.org/virtual-labor-mobility-bringing-opportunities-home-a-report-on-cross-border-online-work/)** — `2026-11-23` | `92 Pages`

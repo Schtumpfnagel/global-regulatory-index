@@ -5,17 +5,17 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/france/feed/](https://www.indexdata.org/france/feed/)  
 **Wikidata Sovereign Entity:** [`Q142`](https://www.wikidata.org/wiki/Q142)  
 **Governing Open-Government Framework:** *CRPA Art. L321-1 to L323-7 / Loi n° 2016-1321*  
-**Total Indexed Dossiers in France:** `609` across `19` issuing authorities  
-**Last Automated Sync:** `2026-11-24 05:16 UTC`
+**Total Indexed Dossiers in France:** `611` across `19` issuing authorities  
+**Last Automated Sync:** `2026-11-24 17:13 UTC`
 
 ---
 
 ## Issuing Authorities in France (19 Authorities)
 
-- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`375` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
+- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`376` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
 - **[Banque de France](https://www.indexdata.org/france/banque-de-france/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/france/banque-de-france/) | [RSS Feed](https://www.indexdata.org/france/banque-de-france/feed/)
 - **[National Institute of Statistics and Economic Studies (INSEE)](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/) | [RSS Feed](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/feed/)
-- **[French Agricultural Research Centre for International Development (CIRAD)](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/) | [RSS Feed](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/feed/)
+- **[French Agricultural Research Centre for International Development (CIRAD)](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/) | [RSS Feed](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/feed/)
 - **[Bretagne Développement Innovation (BDI)](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/) | [RSS Feed](https://www.indexdata.org/france/bretagne-d-veloppement-innovation-bdi/feed/)
 - **[French Institute of Oriental Archaeology (IFAO)](https://www.indexdata.org/france/french-institute-of-oriental-archaeology-ifao/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-institute-of-oriental-archaeology-ifao/) | [RSS Feed](https://www.indexdata.org/france/french-institute-of-oriental-archaeology-ifao/feed/)
 - **[French Polar Institute Paul-Émile Victor (Institut polaire français Paul-Émile Victor - IPEV)](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/) | [RSS Feed](https://www.indexdata.org/france/french-polar-institute-paul-mile-victor-institut-polaire-fran-ais-paul-mile-victor-ipev/feed/)
@@ -34,11 +34,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–609 of 609)
+## Indexed Statutory & Regulatory Dossiers (Records 1–611 of 611)
 
 ### [Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)
 Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
 
+- `[`FR-INFOFI-115208_20261124`]` **[Information regarding executed transactions within the framework of a share buyback programme (outside the liquidity agreement) from 16 November to 20 November 2026 — Acquisition or disposal of the issuer's own shares](https://www.indexdata.org/information-regarding-executed-transactions-within-the-framework-of-a-share-buyback-programme-outside-the-liquidity-agreement-from-16-november-to-20-november-2026-acquisition-or-disposal-o/)** — `2026-11-24` | `2 Pages`
 - `[`FR-INFOFI-170319_20261123`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-53/)** — `2026-11-23` | `4 Pages`
 - `[`FR-INFOFI-115125_20261123`]` **[Inventiva Reports Unaudited 2026 Third Quarter Financial Results¹ — Inside Information](https://www.indexdata.org/inventiva-reports-unaudited-2026-third-quarter-financial-results%c2%b9-inside-information/)** — `2026-11-23` | `4 Pages`
 - `[`FR-INFOFI-115105_20261123`]` **[EUROAPI strengthens bioproduction at Saint-Aubin-lès-Elbeuf and continues site decarbonisation with Cascadya — Inside Information](https://www.indexdata.org/euroapi-strengthens-bioproduction-at-saint-aubin-les-elbeuf-and-continues-site-decarbonisation-with-cascadya-inside-information/)** — `2026-11-23` | `3 Pages`
@@ -495,6 +496,7 @@ Canonical Authority Archive: [https://www.indexdata.org/france/national-institut
 ### [French Agricultural Research Centre for International Development (CIRAD)](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/)
 Canonical Authority Archive: [https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/) | [RSS Feed](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/feed/)
 
+- `[`FR-CIRAD-620184`]` **[Quantitative estimation of the risk of Rift Valley fever virus spread via legal livestock movements from north-eastern KwaZulu-Natal, South Africa](https://www.indexdata.org/quantitative-estimation-of-the-risk-of-rift-valley-fever-virus-spread-via-legal-livestock-movements-from-north-eastern-kwazulu-natal-south-africa/)** — `2026-11-24` | `14 Pages`
 - `[`FR-CIRAD-620170`]` **[Map simulator of tick abundance in heterogeneous agricultural landscapes](https://www.indexdata.org/map-simulator-of-tick-abundance-in-heterogeneous-agricultural-landscapes/)** — `2026-11-23` | `15 Pages`
 - `[`FR-CIRAD-620092`]` **[Is #Arachis pintoi# associated with effective native rhizobial strains in the Central Highlands of Vietnam?](https://www.indexdata.org/is-arachis-pintoi-associated-with-effective-native-rhizobial-strains-in-the-central-highlands-of-vietnam/)** — `2026-11-18` | `10 Pages`
 - `[`FR-CIRAD-619908`]` **[Microbiome insights into zoonotic risk at wildlife-human interfaces in a transitioning landscape in Thailand](https://www.indexdata.org/microbiome-insights-into-zoonotic-risk-at-wildlife-human-interfaces-in-a-transitioning-landscape-in-thailand/)** — `2026-11-18` | `15 Pages`
@@ -702,7 +704,7 @@ Canonical Authority Archive: [https://www.indexdata.org/france/french-research-i
 ### [Directorate of Legal and Administrative Information (Direction de l'information légale et administrative - DILA)](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/)
 Canonical Authority Archive: [https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/) | [RSS Feed](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/feed/)
 
-- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-316/)** — `2024-03-26` | `7 Pages`
+- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-317/)** — `2024-03-26` | `7 Pages`
 - `[`FR-DILA-ANN-api-lannuaire-administration-documentation_technique_api_annuaire_de_l_administration_pdf`]` **[api-lannuaire-administration — Documentation-technique-API-Annuaire-de-l-administration](https://www.indexdata.org/api-lannuaire-administration-documentation-technique-api-annuaire-de-l-administration/)** — `2023-12-11` | `9 Pages`
 
 ### [National Commission on Informatics and Liberty (Commission nationale de l'informatique et des libertés - CNIL)](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/)
