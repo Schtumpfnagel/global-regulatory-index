@@ -5,13 +5,13 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,699` across `247` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,702` across `248` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-25 20:37 UTC`
+**Last Automated Sync:** `2026-11-25 21:31 UTC`
 
 ---
 
-## Issuing Authorities in United States (247 Authorities)
+## Issuing Authorities in United States (248 Authorities)
 
 - **[Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)** (`3,467` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 - **[Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)** (`1,884` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -61,7 +61,7 @@
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 - **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
-- **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+- **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`54` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`51` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
@@ -196,6 +196,7 @@
 - **[Advisory Council on Historic Preservation](https://www.indexdata.org/united-states/advisory-council-on-historic-preservation/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/advisory-council-on-historic-preservation/) | [RSS Feed](https://www.indexdata.org/united-states/advisory-council-on-historic-preservation/feed/)
 - **[Army Department](https://www.indexdata.org/united-states/army-department/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/army-department/) | [RSS Feed](https://www.indexdata.org/united-states/army-department/feed/)
 - **[Bureau of Transportation Statistics (BTS)](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/) | [RSS Feed](https://www.indexdata.org/united-states/bureau-of-transportation-statistics-bts/feed/)
+- **[Consumer Financial Protection Bureau (CFPB)](https://www.indexdata.org/united-states/consumer-financial-protection-bureau-cfpb/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-financial-protection-bureau-cfpb/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau-cfpb/feed/)
 - **[Economic Analysis Bureau](https://www.indexdata.org/united-states/economic-analysis-bureau/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/economic-analysis-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/economic-analysis-bureau/feed/)
 - **[Federal Mine Safety and Health Review Commission](https://www.indexdata.org/united-states/federal-mine-safety-and-health-review-commission/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-mine-safety-and-health-review-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-mine-safety-and-health-review-commission/feed/)
 - **[Financial Research Office](https://www.indexdata.org/united-states/financial-research-office/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/financial-research-office/) | [RSS Feed](https://www.indexdata.org/united-states/financial-research-office/feed/)
@@ -263,11 +264,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,699)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,702)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-16404`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-112/)** — `2025-08-27` | `4 Pages`
+- `[`2025-16403`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-111/)** — `2025-08-27` | `3 Pages`
+- `[`2025-16402`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-113/)** — `2025-08-27` | `3 Pages`
 - `[`2025-16401`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-19/)** — `2025-08-27` | `4 Pages`
 - `[`2025-16358`]` **[Special Conditions: Gulfstream Aerospace Corporation, Model GVII-G400 Airplane; Automatic Speed Protection for Design Dive Speed (Dive Speed Definition)](https://www.indexdata.org/special-conditions-gulfstream-aerospace-corporation-model-gvii-g400-airplane-automatic-speed-protection-for-design-dive-speed-dive-speed-definition/)** — `2025-08-27` | `3 Pages`
 - `[`2025-16319`]` **[Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes](https://www.indexdata.org/airworthiness-directives-atr-gie-avions-de-transport-regional-airplanes-20/)** — `2025-08-26` | `3 Pages`
@@ -912,7 +916,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2025-07058`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway; West Palm Beach, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-west-palm-beach-fl/)** — `2025-04-24` | `4 Pages`
 - `[`2025-06947`]` **[Safety Zone; Matagorda Ship Channel, Port Lavaca, TX](https://www.indexdata.org/safety-zone-matagorda-ship-channel-port-lavaca-tx/)** — `2025-04-23` | `3 Pages`
 - `[`2025-06946`]` **[Special Local Regulations & Safety Zones; USCG Sector Eastern Great Lakes](https://www.indexdata.org/special-local-regulations-uscg-sector-eastern-great-lakes/)** — `2025-04-23` | `6 Pages`
-- `[`2025-06945`]` **[Special Local Regulation; York River, Yorktown, VA](https://www.indexdata.org/special-local-regulation-york-river-yorktown-va-2/)** — `2025-04-23` | `4 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1599,21 +1602,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2025-12140`]` **[Transit Asset Management](https://www.indexdata.org/transit-asset-management/)** — `2025-07-01` | `2 Pages`
 - `[`2025-12139`]` **[Organization, Functions, and Procedures](https://www.indexdata.org/organization-functions-and-procedures/)** — `2025-07-01` | `8 Pages`
 
-### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
-
-- `[`2025-10717`]` **[Christmas Tree Promotion, Research, and Information Order](https://www.indexdata.org/christmas-tree-promotion-research-and-information-order-2/)** — `2025-06-13` | `6 Pages`
-- `[`2025-10671`]` **[Marketing Order Regulating the Handling of Spearmint Oil Produced in the Far West; Revision of the Salable Quantity and Allotment Percentage for Class 3 (Native) Spearmint Oil for the 2024-2025 Marketing Year](https://www.indexdata.org/marketing-order-regulating-the-handling-of-spearmint-oil-produced-in-the-far-west-revision-of-the-salable-quantity-and-allotment-percentage-for-class-3-native-spearmint-oil-for-the-2024-2025-market/)** — `2025-06-12` | `5 Pages`
-- `[`2025-10469`]` **[Updates to the Popcorn Promotion, Research, and Consumer Information Order](https://www.indexdata.org/updates-to-the-popcorn-promotion-research-and-consumer-information-order-2/)** — `2025-06-10` | `3 Pages`
-- `[`2025-10053`]` **[Paper and Paper-Based Packaging Promotion, Research and Information Order; Continuance Referendum and Moratorium on Assessment Collection](https://www.indexdata.org/paper-and-paper-based-packaging-promotion-research-and-information-order-continuance-referendum-and-moratorium-on-assessment-collection/)** — `2025-06-03` | `2 Pages`
-- `[`2025-09552`]` **[Tobacco Grading and Inspections Services-Rescission of Regulations Establishing Tobacco Price Support Provisions](https://www.indexdata.org/tobacco-grading-and-inspections-services-rescission-of-regulations-establishing-tobacco-price-support-provisions/)** — `2025-05-30` | `3 Pages`
-- `[`2025-09697`]` **[Rescinding Natural Grass Sod Promotion, Research, and Information Order; Referendum Procedures](https://www.indexdata.org/rescinding-natural-grass-sod-promotion-research-and-information-order-referendum-procedures/)** — `2025-05-29` | `3 Pages`
-- `[`2025-09582`]` **[Rescission of the Dairy Donation Program](https://www.indexdata.org/rescission-of-the-dairy-donation-program/)** — `2025-05-29` | `3 Pages`
-- `[`2025-09550`]` **[Tobacco Grading and Inspections Services-Rescission of Tobacco Quota Provisions](https://www.indexdata.org/tobacco-grading-and-inspections-services-rescission-of-tobacco-quota-provisions/)** — `2025-05-29` | `3 Pages`
-- `[`2025-09553`]` **[Tobacco Grading and Inspections Services-Rescission of Obsolete Import Grading and Pesticide Testing Provisions](https://www.indexdata.org/tobacco-grading-and-inspections-services-rescission-of-obsolete-import-grading-and-pesticide-testing-provisions/)** — `2025-05-28` | `2 Pages`
-- `[`2025-08219`]` **[Rescinding National Organic Program; Market Development for Mushrooms and Pet Food](https://www.indexdata.org/rescinding-national-organic-program-market-development-for-mushrooms-and-pet-food/)** — `2025-05-12` | `2 Pages`
-- `[`2025-06939`]` **[Reauthorization of Dairy Forward Pricing Program](https://www.indexdata.org/reauthorization-of-dairy-forward-pricing-program-2/)** — `2025-04-23` | `3 Pages`
-
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
 
@@ -1628,6 +1616,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mi
 - `[`2025-11906`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-3/)** — `2025-06-27` | `3 Pages`
 - `[`2025-10999`]` **[Rescission of the “Ten-Day Notices and Corrective Action for State Regulatory Program Issues” Rule, Issued April 9, 2024](https://www.indexdata.org/rescission-of-the-ten-day-notices-and-corrective-action-for-state-regulatory-program-issues-rule-issued-april-9-2024-2/)** — `2025-06-16` | `7 Pages`
 - `[`2025-10064`]` **[Civil Monetary Penalty Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustments/)** — `2025-06-03` | `5 Pages`
+
+### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
+
+- `[`2025-10717`]` **[Christmas Tree Promotion, Research, and Information Order](https://www.indexdata.org/christmas-tree-promotion-research-and-information-order-2/)** — `2025-06-13` | `6 Pages`
+- `[`2025-10671`]` **[Marketing Order Regulating the Handling of Spearmint Oil Produced in the Far West; Revision of the Salable Quantity and Allotment Percentage for Class 3 (Native) Spearmint Oil for the 2024-2025 Marketing Year](https://www.indexdata.org/marketing-order-regulating-the-handling-of-spearmint-oil-produced-in-the-far-west-revision-of-the-salable-quantity-and-allotment-percentage-for-class-3-native-spearmint-oil-for-the-2024-2025-market/)** — `2025-06-12` | `5 Pages`
+- `[`2025-10469`]` **[Updates to the Popcorn Promotion, Research, and Consumer Information Order](https://www.indexdata.org/updates-to-the-popcorn-promotion-research-and-consumer-information-order-2/)** — `2025-06-10` | `3 Pages`
+- `[`2025-10053`]` **[Paper and Paper-Based Packaging Promotion, Research and Information Order; Continuance Referendum and Moratorium on Assessment Collection](https://www.indexdata.org/paper-and-paper-based-packaging-promotion-research-and-information-order-continuance-referendum-and-moratorium-on-assessment-collection/)** — `2025-06-03` | `2 Pages`
+- `[`2025-09552`]` **[Tobacco Grading and Inspections Services-Rescission of Regulations Establishing Tobacco Price Support Provisions](https://www.indexdata.org/tobacco-grading-and-inspections-services-rescission-of-regulations-establishing-tobacco-price-support-provisions/)** — `2025-05-30` | `3 Pages`
+- `[`2025-09697`]` **[Rescinding Natural Grass Sod Promotion, Research, and Information Order; Referendum Procedures](https://www.indexdata.org/rescinding-natural-grass-sod-promotion-research-and-information-order-referendum-procedures/)** — `2025-05-29` | `3 Pages`
+- `[`2025-09582`]` **[Rescission of the Dairy Donation Program](https://www.indexdata.org/rescission-of-the-dairy-donation-program/)** — `2025-05-29` | `3 Pages`
+- `[`2025-09550`]` **[Tobacco Grading and Inspections Services-Rescission of Tobacco Quota Provisions](https://www.indexdata.org/tobacco-grading-and-inspections-services-rescission-of-tobacco-quota-provisions/)** — `2025-05-29` | `3 Pages`
+- `[`2025-09553`]` **[Tobacco Grading and Inspections Services-Rescission of Obsolete Import Grading and Pesticide Testing Provisions](https://www.indexdata.org/tobacco-grading-and-inspections-services-rescission-of-obsolete-import-grading-and-pesticide-testing-provisions/)** — `2025-05-28` | `2 Pages`
+- `[`2025-08219`]` **[Rescinding National Organic Program; Market Development for Mushrooms and Pet Food](https://www.indexdata.org/rescinding-national-organic-program-market-development-for-mushrooms-and-pet-food/)** — `2025-05-12` | `2 Pages`
 
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
@@ -1655,7 +1657,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 - `[`2025-09931`]` **[Prevailing Rate Systems; Abolishment of Hennepin, Minnesota, as a Nonappropriated Fund Federal Wage System Wage Area](https://www.indexdata.org/prevailing-rate-systems-abolishment-of-hennepin-minnesota-as-a-nonappropriated-fund-federal-wage-system-wage-area-2/)** — `2025-06-02` | `3 Pages`
 - `[`2025-09081`]` **[Program Fraud Civil Remedies: Civil Monetary Penalty Inflation Adjustment](https://www.indexdata.org/program-fraud-civil-remedies-civil-monetary-penalty-inflation-adjustment/)** — `2025-05-21` | `2 Pages`
 - `[`2025-07575`]` **[Assuring Responsive and Accountable Federal Executive Management](https://www.indexdata.org/assuring-responsive-and-accountable-federal-executive-management-2/)** — `2025-05-02` | `7 Pages`
-- `[`2025-06904`]` **[Improving Performance, Accountability and Responsiveness in the Civil Service](https://www.indexdata.org/improving-performance-accountability-and-responsiveness-in-the-civil-service-2/)** — `2025-04-23` | `43 Pages`
 
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)

@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,292` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-25 20:37 UTC`
+**Total Indexed Dossiers in International:** `1,293` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-25 21:31 UTC`
 
 ---
 
@@ -13,7 +13,7 @@
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`247` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`214` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
-- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`204` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
+- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`205` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
@@ -43,7 +43,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,292 of 1,292)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,293 of 1,293)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -523,6 +523,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/world-bank
 - `[`WB-WDS-217512`]` **[Democratic Republic of Congo - Benchmarking Infrastructure Development : PPP Regulatory Reforms Case Study](https://www.indexdata.org/democratic-republic-of-congo-benchmarking-infrastructure-development-ppp-regulatory-reforms-case-study/)** — `2026-11-25` | `6 Pages`
 - `[`WB-WDS-217511`]` **[Mongolia - Benchmarking Infrastructure Development : PPP Regulatory Reforms Case Study](https://www.indexdata.org/mongolia-benchmarking-infrastructure-development-ppp-regulatory-reforms-case-study/)** — `2026-11-25` | `5 Pages`
 - `[`WB-WDS-217510`]` **[Ecuador - Benchmarking Infrastructure Development : PPP Regulatory Reforms Case Study](https://www.indexdata.org/ecuador-benchmarking-infrastructure-development-ppp-regulatory-reforms-case-study/)** — `2026-11-25` | `7 Pages`
+- `[`WB-OKR-217194`]` **[Digital and AI Skills for Jobs in the Middle East, North Africa, Afghanistan, and Pakistan: Assessing Demand for and Supply of Digital and AI Skills with Country Insights from Saudi Arabia, Egypt, and Lebanon](https://www.indexdata.org/digital-and-ai-skills-for-jobs-in-the-middle-east-north-africa-afghanistan-and-pakistan-assessing-demand-for-and-supply-of-digital-and-ai-skills-with-country-insights-from-saudi-arabia-egypt-and/)** — `2026-11-25` | `208 Pages`
 - `[`WB-WDS-40140552`]` **[Labor Management Procedures Sustainable Urban and Peri-Urban Agriculture for Women Empowerment Project (P510360)](https://www.indexdata.org/labor-management-procedures-sustainable-urban-and-peri-urban-agriculture-for-women-empowerment-project-p510360/)** — `2026-11-24` | `37 Pages`
 - `[`WB-WDS-214316`]` **[Where Paths Divide : Transforming Secondary Education in Latin America and the Caribbean](https://www.indexdata.org/where-paths-divide-transforming-secondary-education-in-latin-america-and-the-caribbean/)** — `2026-11-24` | `178 Pages`
 - `[`WB-WDS-217441`]` **[Partnership for Market Implementation (PMI) Facility Annual Report 2026](https://www.indexdata.org/partnership-for-market-implementation-pmi-facility-annual-report-2026/)** — `2026-11-23` | `61 Pages`
