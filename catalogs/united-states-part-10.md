@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,685` across `247` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,687` across `247` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-25 15:13 UTC`
+**Last Automated Sync:** `2026-11-25 16:25 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`375` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`377` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -263,11 +263,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,685)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,687)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-25185`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-169/)** — `2023-11-14` | `5 Pages`
+- `[`2023-25099`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-48/)** — `2023-11-14` | `3 Pages`
 - `[`2023-24639`]` **[Airworthiness Directives; GE Aviation Czech s.r.o. (Type Certificate Previously Held by WALTER Engines a.s., Walter a.s., and MOTORLET a.s.) Engines](https://www.indexdata.org/airworthiness-directives-ge-aviation-czech-s-r-o-type-certificate-previously-held-by-walter-engines-a-s-walter-a-s-and-motorlet-a-s-engines-7/)** — `2023-11-14` | `4 Pages`
 - `[`2023-23058`]` **[Accepted Means of Compliance; Remote Identification of Unmanned Aircraft; Correction](https://www.indexdata.org/accepted-means-of-compliance-remote-identification-of-unmanned-aircraft-correction/)** — `2023-11-14` | `2 Pages`
 - `[`2023-25046`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-262/)** — `2023-11-13` | `3 Pages`
@@ -934,7 +936,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2023-15593`]` **[Safety Zone; Mercury Powerboat Race; Sheboygan Harbor, Sheboygan, Wisconsin](https://www.indexdata.org/safety-zone-mercury-powerboat-race-sheboygan-harbor-sheboygan-wisconsin-2/)** — `2023-07-24` | `3 Pages`
 - `[`2023-15559`]` **[Safety Zone, Upper Mississippi River MM 660.5-659.5, Lansing, IA](https://www.indexdata.org/safety-zone-upper-mississippi-river-mm-660-5-659-5-lansing-ia-3/)** — `2023-07-21` | `3 Pages`
 - `[`2023-15535`]` **[Safety Zone; Port of Los Angeles, San Pedro Bay, CA](https://www.indexdata.org/safety-zone-port-of-los-angeles-san-pedro-bay-ca/)** — `2023-07-21` | `3 Pages`
-- `[`2023-15444`]` **[Safety Zone; St. Johns River, Jacksonville, FL](https://www.indexdata.org/safety-zone-st-johns-river-jacksonville-fl-2/)** — `2023-07-20` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1751,15 +1752,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-an
 - `[`2023-18590`]` **[Proposed Establishment of the Upper Cumberland Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-upper-cumberland-viticultural-area/)** — `2023-08-29` | `8 Pages`
 - `[`2023-18588`]` **[Establishment of the Winters Highlands Viticultural Area](https://www.indexdata.org/establishment-of-the-winters-highlands-viticultural-area/)** — `2023-08-29` | `4 Pages`
 
-### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
-
-- `[`2023-23671`]` **[Regulatory Capital Rule: Large Banking Organizations and Banking Organizations With Significant Trading Activity; Extension of Comment Period](https://www.indexdata.org/regulatory-capital-rule-large-banking-organizations-and-banking-organizations-with-significant-trading-activity-extension-of-comment-period/)** — `2023-10-27` | `3 Pages`
-- `[`2023-20187`]` **[National Bank Community Development Investments](https://www.indexdata.org/national-bank-community-development-investments/)** — `2023-09-19` | `8 Pages`
-- `[`2023-19265`]` **[Long-Term Debt Requirements for Large Bank Holding Companies, Certain Intermediate Holding Companies of Foreign Banking Organizations, and Large Insured Depository Institutions](https://www.indexdata.org/long-term-debt-requirements-for-large-bank-holding-companies-certain-intermediate-holding-companies-of-foreign-banking-organizations-and-large-insured-depository-institutions/)** — `2023-09-19` | `56 Pages`
-- `[`2023-19200`]` **[Regulatory Capital Rule: Large Banking Organizations and Banking Organizations With Significant Trading Activity](https://www.indexdata.org/regulatory-capital-rule-large-banking-organizations-and-banking-organizations-with-significant-trading-activity/)** — `2023-09-18` | `316 Pages`
-- `[`2023-12609`]` **[Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations](https://www.indexdata.org/interagency-guidance-on-reconsiderations-of-value-of-residential-real-estate-valuations-2/)** — `2023-07-21` | `7 Pages`
-
 ### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
 
@@ -1822,6 +1814,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/social-sec
 - `[`2023-21550`]` **[Expand the Definition of a Public Assistance Household](https://www.indexdata.org/expand-the-definition-of-a-public-assistance-household-2/)** — `2023-09-29` | `10 Pages`
 - `[`2023-18213`]` **[Expansion of the Rental Subsidy Policy for Supplemental Security Income (SSI) Applicants and Recipients](https://www.indexdata.org/expansion-of-the-rental-subsidy-policy-for-supplemental-security-income-ssi-applicants-and-recipients-2/)** — `2023-08-24` | `6 Pages`
 - `[`2023-16405`]` **[Changes to the Administrative Rules for Claimant Representation and Provisions for Direct Payment to Entities](https://www.indexdata.org/changes-to-the-administrative-rules-for-claimant-representation-and-provisions-for-direct-payment-to-entities-2/)** — `2023-08-04` | `10 Pages`
+
+### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+
+- `[`2023-23671`]` **[Regulatory Capital Rule: Large Banking Organizations and Banking Organizations With Significant Trading Activity; Extension of Comment Period](https://www.indexdata.org/regulatory-capital-rule-large-banking-organizations-and-banking-organizations-with-significant-trading-activity-extension-of-comment-period/)** — `2023-10-27` | `3 Pages`
+- `[`2023-20187`]` **[National Bank Community Development Investments](https://www.indexdata.org/national-bank-community-development-investments/)** — `2023-09-19` | `8 Pages`
+- `[`2023-19265`]` **[Long-Term Debt Requirements for Large Bank Holding Companies, Certain Intermediate Holding Companies of Foreign Banking Organizations, and Large Insured Depository Institutions](https://www.indexdata.org/long-term-debt-requirements-for-large-bank-holding-companies-certain-intermediate-holding-companies-of-foreign-banking-organizations-and-large-insured-depository-institutions/)** — `2023-09-19` | `56 Pages`
+- `[`2023-19200`]` **[Regulatory Capital Rule: Large Banking Organizations and Banking Organizations With Significant Trading Activity](https://www.indexdata.org/regulatory-capital-rule-large-banking-organizations-and-banking-organizations-with-significant-trading-activity/)** — `2023-09-18` | `316 Pages`
 
 ### [Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-benefits-security-administration/](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)

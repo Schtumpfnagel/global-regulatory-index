@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,685` across `247` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,687` across `247` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-25 15:13 UTC`
+**Last Automated Sync:** `2026-11-25 16:25 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`375` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`377` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -263,7 +263,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,685)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,687)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -610,7 +610,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-02986`]` **[Establishment, Modification, and Revocation of Class E Airspace; Jacqueline Cochran Regional Airport, Palm Springs, CA](https://www.indexdata.org/establishment-modification-and-revocation-of-class-e-airspace-jacqueline-cochran-regional-airport-palm-springs-ca-2/)** — `2026-02-13` | `2 Pages`
 - `[`2026-02985`]` **[Modification of Class D, Establishment and Revocation of Class E Airspaces; Travis Air Force Base (SUU), Fairfield, CA](https://www.indexdata.org/modification-of-class-d-establishment-and-revocation-of-class-e-airspaces-travis-air-force-base-suu-fairfield-ca/)** — `2026-02-13` | `2 Pages`
 - `[`2026-02929`]` **[Establishment of Class E Airspace; Wall Municipal Airport, Wall, SD](https://www.indexdata.org/establishment-of-class-e-airspace-wall-municipal-airport-wall-sd-2/)** — `2026-02-13` | `2 Pages`
-- `[`2026-02923`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters-11/)** — `2026-02-13` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -809,7 +808,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-03072`]` **[Partial Approval and Partial Disapproval of Air Quality Implementation Plans; Hawaii; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/partial-approval-and-partial-disapproval-of-air-quality-implementation-plans-hawaii-regional-haze-state-implementation-plan-for-the-second-implementation-period-2/)** — `2026-02-17` | `19 Pages`
 - `[`2026-02933`]` **[Afidopyropen; Pesticide Tolerances](https://www.indexdata.org/afidopyropen-pesticide-tolerances/)** — `2026-02-13` | `5 Pages`
 - `[`2026-02926`]` **[Rice Bran Wax in Pesticide Formulations; Exemption From the Requirement for a Tolerance](https://www.indexdata.org/rice-bran-wax-in-pesticide-formulations-exemption-from-the-requirement-for-a-tolerance/)** — `2026-02-13` | `5 Pages`
-- `[`2026-02922`]` **[Sulfonic Acids, C14-16-Alkane Hydroxy and C14-16-Alkene, Sodium Salts in Pesticide Formulations; Exemption From the Requirement for a Tolerance](https://www.indexdata.org/sulfonic-acids-c14-16-alkane-hydroxy-and-c14-16-alkene-sodium-salts-in-pesticide-formulations-exemption-from-the-requirement-for-a-tolerance/)** — `2026-02-13` | `5 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1871,6 +1869,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2026-04952`]` **[Rule Concerning the Use of Prenotification Negative Option Plans](https://www.indexdata.org/rule-concerning-the-use-of-prenotification-negative-option-plans/)** — `2026-03-13` | `8 Pages`
 - `[`2026-04907`]` **[Rule on Unfair or Deceptive Rental Housing Fee Practices](https://www.indexdata.org/rule-on-unfair-or-deceptive-rental-housing-fee-practices/)** — `2026-03-13` | `9 Pages`
 
+### [National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
+
+- `[`US-NIST-nist.nsrds.100-2026`]` **[Simulation of electron spectra for surface analysis (SESSA) — version 2.3 user’s guide](https://www.indexdata.org/simulation-of-electron-spectra-for-surface-analysis-sessa-version-2-3-users-guide/)** — `2026-06-11` | `163 Pages`
+- `[`US-NIST-nist.ir.8374r1`]` **[Ransomware risk management — a cybersecurity framework 2.0 community profile](https://www.indexdata.org/ransomware-risk-management-a-cybersecurity-framework-2-0-community-profile/)** — `2026-06-11` | `23 Pages`
+- `[`US-NIST-nist.ams.100-78`]` **[Photopolymer additive manufacturing 2025 workshop report — building a unified vision from research to regulation](https://www.indexdata.org/photopolymer-additive-manufacturing-2025-workshop-report-building-a-unified-vision-from-research-to-regulation/)** — `2026-06-10` | `24 Pages`
+- `[`US-NIST-nist.sp.800-126r4`]` **[Technical specification for the security content automation protocol (SCAP) — SCAP version 1.4](https://www.indexdata.org/technical-specification-for-the-security-content-automation-protocol-scap-scap-version-1-4/)** — `2026-06-08` | `71 Pages`
+
 ### [Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 
@@ -2050,12 +2056,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-i
 
 - `[`2026-08018`]` **[Eliminating Regulations Establishing Fellowships in Laboratory Standardization and Testing for Foreign Citizens](https://www.indexdata.org/eliminating-regulations-establishing-fellowships-in-laboratory-standardization-and-testing-for-foreign-citizens/)** — `2026-04-24` | `2 Pages`
 - `[`2026-03307`]` **[Eliminating Obsolete Marking Requirements for Toy, Look-Alike, and Imitation Firearms](https://www.indexdata.org/eliminating-obsolete-marking-requirements-for-toy-look-alike-and-imitation-firearms/)** — `2026-02-19` | `2 Pages`
-
-### [National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
-
-- `[`US-NIST-nist.ams.100-78`]` **[Photopolymer additive manufacturing 2025 workshop report — building a unified vision from research to regulation](https://www.indexdata.org/photopolymer-additive-manufacturing-2025-workshop-report-building-a-unified-vision-from-research-to-regulation/)** — `2026-06-10` | `24 Pages`
-- `[`US-NIST-nist.sp.800-126r4`]` **[Technical specification for the security content automation protocol (SCAP) — SCAP version 1.4](https://www.indexdata.org/technical-specification-for-the-security-content-automation-protocol-scap-scap-version-1-4/)** — `2026-06-08` | `71 Pages`
 
 ### [Office of the Attorney General](https://www.indexdata.org/united-states/office-of-the-attorney-general/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-the-attorney-general/](https://www.indexdata.org/united-states/office-of-the-attorney-general/) | [RSS Feed](https://www.indexdata.org/united-states/office-of-the-attorney-general/feed/)

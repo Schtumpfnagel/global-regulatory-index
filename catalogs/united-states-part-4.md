@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,685` across `247` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,687` across `247` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-25 15:13 UTC`
+**Last Automated Sync:** `2026-11-25 16:25 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`375` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`377` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -263,11 +263,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,685)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,687)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-02923`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters-11/)** — `2026-02-13` | `4 Pages`
 - `[`2026-02919`]` **[Amendment of Class D and E Airspace; Miami, FL](https://www.indexdata.org/amendment-of-class-d-and-e-airspace-miami-fl/)** — `2026-02-13` | `2 Pages`
 - `[`2026-02912`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-65/)** — `2026-02-13` | `4 Pages`
 - `[`2026-02910`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-73/)** — `2026-02-13` | `3 Pages`
@@ -630,6 +631,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-02922`]` **[Sulfonic Acids, C14-16-Alkane Hydroxy and C14-16-Alkene, Sodium Salts in Pesticide Formulations; Exemption From the Requirement for a Tolerance](https://www.indexdata.org/sulfonic-acids-c14-16-alkane-hydroxy-and-c14-16-alkene-sodium-salts-in-pesticide-formulations-exemption-from-the-requirement-for-a-tolerance/)** — `2026-02-13` | `5 Pages`
 - `[`2026-02916`]` **[Hexythiazox; Pesticide Tolerances](https://www.indexdata.org/hexythiazox-pesticide-tolerances/)** — `2026-02-13` | `5 Pages`
 - `[`2026-02845`]` **[Air Plan Revisions; Arizona; Arizona Department of Environmental Quality; Gila County Reasonably Available Control Technology](https://www.indexdata.org/air-plan-revisions-arizona-arizona-department-of-environmental-quality-gila-county-reasonably-available-control-technology-2/)** — `2026-02-12` | `5 Pages`
 - `[`2026-02843`]` **[Approval and Promulgation of Air Quality Implementation Plans; Oklahoma; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/approval-and-promulgation-of-air-quality-implementation-plans-oklahoma-regional-haze-state-implementation-plan-for-the-second-implementation-period/)** — `2026-02-12` | `23 Pages`
@@ -1163,8 +1165,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2025-16375`]` **[Expediting Initial Processing of Satellite and Earth Station Applications; Space Innovation](https://www.indexdata.org/expediting-initial-processing-of-satellite-and-earth-station-applications-space-innovation/)** — `2025-08-27` | `12 Pages`
 - `[`2025-16374`]` **[Telecommunications Relay Service ASCII Format Requirement](https://www.indexdata.org/telecommunications-relay-service-ascii-format-requirement-2/)** — `2025-08-27` | `3 Pages`
 - `[`2025-16351`]` **[Delete, Delete, Delete; Removal of Obsolete Regulations](https://www.indexdata.org/delete-delete-delete-removal-of-obsolete-regulations-2/)** — `2025-08-26` | `2 Pages`
-- `[`2025-16333`]` **[Modernization of the Nation's Alerting Systems](https://www.indexdata.org/modernization-of-the-nations-alerting-systems/)** — `2025-08-26` | `13 Pages`
-- `[`2025-16332`]` **[Accelerating Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment](https://www.indexdata.org/accelerating-wireline-broadband-deployment-by-removing-barriers-to-infrastructure-investment-2/)** — `2025-08-26` | `31 Pages`
 
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)

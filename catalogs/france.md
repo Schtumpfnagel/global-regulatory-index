@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/france/feed/](https://www.indexdata.org/france/feed/)  
 **Wikidata Sovereign Entity:** [`Q142`](https://www.wikidata.org/wiki/Q142)  
 **Governing Open-Government Framework:** *CRPA Art. L321-1 to L323-7 / Loi n° 2016-1321*  
-**Total Indexed Dossiers in France:** `624` across `19` issuing authorities  
-**Last Automated Sync:** `2026-11-25 15:13 UTC`
+**Total Indexed Dossiers in France:** `627` across `19` issuing authorities  
+**Last Automated Sync:** `2026-11-25 16:25 UTC`
 
 ---
 
 ## Issuing Authorities in France (19 Authorities)
 
-- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`389` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
+- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`392` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
 - **[Banque de France](https://www.indexdata.org/france/banque-de-france/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/france/banque-de-france/) | [RSS Feed](https://www.indexdata.org/france/banque-de-france/feed/)
 - **[National Institute of Statistics and Economic Studies (INSEE)](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/) | [RSS Feed](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/feed/)
 - **[French Agricultural Research Centre for International Development (CIRAD)](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/) | [RSS Feed](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/feed/)
@@ -34,7 +34,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–624 of 624)
+## Indexed Statutory & Regulatory Dossiers (Records 1–627 of 627)
 
 ### [Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)
 Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
@@ -42,12 +42,15 @@ Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets
 - `[`FR-INFOFI-115303_20261125`]` **[EQUASENS enters into exclusive negotiations to acquire a majority stake in Synapse Medicine, the developer of MedGPT and a pharmaceutical database — Inside Information](https://www.indexdata.org/equasens-enters-into-exclusive-negotiations-to-acquire-a-majority-stake-in-synapse-medicine-the-developer-of-medgpt-and-a-pharmaceutical-database-inside-information/)** — `2026-11-25` | `3 Pages`
 - `[`FR-INFOFI-170333_20261124`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-54/)** — `2026-11-24` | `2 Pages`
 - `[`FR-INFOFI-170331_20261124`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-55/)** — `2026-11-24` | `2 Pages`
+- `[`FR-INFOFI-170325_20261124`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-57/)** — `2026-11-24` | `3 Pages`
 - `[`FR-INFOFI-170323_20261124`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-56/)** — `2026-11-24` | `2 Pages`
 - `[`FR-INFOFI-115337_20261124`]` **[BIGBEN: Overwhelming support from shareholders and creditors of Bigben Interactive voting within classes of affected parties on the draft accelerated safeguard plan — Inside Information](https://www.indexdata.org/bigben-overwhelming-support-from-shareholders-and-creditors-of-bigben-interactive-voting-within-classes-of-affected-parties-on-the-draft-accelerated-safeguard-plan-inside-information/)** — `2026-11-24` | `5 Pages`
 - `[`FR-INFOFI-115309_20261124`]` **[Appointment of Guillaume Hintzy as Group Chief Financial Officer of Voltalia — Inside Information](https://www.indexdata.org/appointment-of-guillaume-hintzy-as-group-chief-financial-officer-of-voltalia-inside-information/)** — `2026-11-24` | `2 Pages`
 - `[`FR-INFOFI-115294_20261124`]` **[JCDecaux Dicon receives the “Spirit of Excellence Award” from Dubai Airports — Inside Information](https://www.indexdata.org/jcdecaux-dicon-receives-the-spirit-of-excellence-award-from-dubai-airports-inside-information/)** — `2026-11-24` | `2 Pages`
 - `[`FR-INFOFI-115232_20261124`]` **[Solutions30 completes its transformation and opens a new cycle of development - Strategic webinar of November 24, 2026 — Inside Information](https://www.indexdata.org/solutions30-completes-its-transformation-and-opens-a-new-cycle-of-development-strategic-webinar-of-november-24-2026-inside-information/)** — `2026-11-24` | `4 Pages`
 - `[`FR-INFOFI-115208_20261124`]` **[Information regarding executed transactions within the framework of a share buyback programme (outside the liquidity agreement) from 16 November to 20 November 2026 — Acquisition or disposal of the issuer's own shares](https://www.indexdata.org/information-regarding-executed-transactions-within-the-framework-of-a-share-buyback-programme-outside-the-liquidity-agreement-from-16-november-to-20-november-2026-acquisition-or-disposal-o/)** — `2026-11-24` | `2 Pages`
+- `[`FR-INFOFI-115175_20261124`]` **[Ramsay Health Care shareholders approve the distribution of the stake of Ramsay Health Care in Ramsay Santé — Inside Information](https://www.indexdata.org/ramsay-health-care-shareholders-approve-the-distribution-of-the-stake-of-ramsay-health-care-in-ramsay-sante-inside-information/)** — `2026-11-24` | `2 Pages`
+- `[`FR-INFOFI-115145_20261124`]` **[Quadient Extends Its Global CCM Market Leadership for a Second Consecutive Year — Inside Information](https://www.indexdata.org/quadient-extends-its-global-ccm-market-leadership-for-a-second-consecutive-year-inside-information/)** — `2026-11-24` | `2 Pages`
 - `[`FR-INFOFI-115080_20261124`]` **[Nexans appoints Marie Ollier as Executive Vice President Human Resources & ESG Officer and member of the Executive Committee — Inside Information](https://www.indexdata.org/nexans-appoints-marie-ollier-as-executive-vice-president-human-resources-esg-officer-and-member-of-the-executive-committee-inside-information/)** — `2026-11-24` | `2 Pages`
 - `[`FR-INFOFI-114641_20261124`]` **[NACON: Broad support from shareholders and creditors of Nacon voting within classes of affected parties on the draft reorganisation plan — Inside Information](https://www.indexdata.org/nacon-broad-support-from-shareholders-and-creditors-of-nacon-voting-within-classes-of-affected-parties-on-the-draft-reorganisation-plan-inside-information/)** — `2026-11-24` | `6 Pages`
 - `[`FR-INFOFI-083823_20261124`]` **[2025/26 Annual Results — Inside Information](https://www.indexdata.org/2025-26-annual-results-inside-information/)** — `2026-11-24` | `8 Pages`

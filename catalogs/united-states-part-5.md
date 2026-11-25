@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,685` across `247` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,687` across `247` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-25 15:13 UTC`
+**Last Automated Sync:** `2026-11-25 16:25 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`375` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`377` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -263,7 +263,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,685)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,687)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -985,7 +985,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2025-07635`]` **[Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Fishing Year 2025 Measures](https://www.indexdata.org/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern-united-states-northeast-multispecies-fishery-fishing-year-2025-measures/)** — `2025-05-02` | `16 Pages`
 - `[`2025-07399`]` **[Fisheries of the Northeastern United States; Atlantic Sea Scallop Fishery; Final 2025 Closure of the Northern Gulf of Maine Scallop Management Area to the Limited Access General Category Fishery](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-sea-scallop-fishery-final-2025-closure-of-the-northern-gulf-of-maine-scallop-management-area-to-the-limited-access-general-category-fishery/)** — `2025-04-30` | `2 Pages`
 - `[`2025-07166`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Angling Category Gulf of America Trophy Fishery for 2025](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category-gulf-of-america-trophy-fishery-for-2025/)** — `2025-04-25` | `2 Pages`
-- `[`2025-06826`]` **[Fisheries of the Northeastern United States; Framework Adjustment 39 to the Atlantic Sea Scallop Fishery Management Plan](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-framework-adjustment-39-to-the-atlantic-sea-scallop-fishery-management-plan/)** — `2025-04-21` | `11 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -1233,6 +1232,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-a
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2025-16333`]` **[Modernization of the Nation's Alerting Systems](https://www.indexdata.org/modernization-of-the-nations-alerting-systems/)** — `2025-08-26` | `13 Pages`
+- `[`2025-16332`]` **[Accelerating Wireline Broadband Deployment by Removing Barriers to Infrastructure Investment](https://www.indexdata.org/accelerating-wireline-broadband-deployment-by-removing-barriers-to-infrastructure-investment-2/)** — `2025-08-26` | `31 Pages`
 - `[`2025-16285`]` **[Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program; Correction](https://www.indexdata.org/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement-facilities-and-the-equipment-authorization-program-correction/)** — `2025-08-26` | `2 Pages`
 - `[`2025-16162`]` **[Television Broadcasting Services West Point, Mississippi](https://www.indexdata.org/television-broadcasting-services-west-point-mississippi/)** — `2025-08-22` | `2 Pages`
 - `[`2025-16089`]` **[Protecting Consumers From Unauthorized Carrier Changes and Related Unauthorized Charges: Truth-in-Billing and Billing Format](https://www.indexdata.org/protecting-consumers-from-unauthorized-carrier-changes-and-related-unauthorized-charges-truth-in-billing-and-billing-format/)** — `2025-08-22` | `7 Pages`
@@ -1842,14 +1843,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-re
 - `[`2025-08221`]` **[Curing Missed Loan Payments](https://www.indexdata.org/curing-missed-loan-payments-2/)** — `2025-05-12` | `2 Pages`
 - `[`2025-07977`]` **[Method of Correcting Errors Involving Retired Lifecycle Funds](https://www.indexdata.org/method-of-correcting-errors-involving-retired-lifecycle-funds-2/)** — `2025-05-08` | `2 Pages`
 
-### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
-
-- `[`2025-13516`]` **[Subsistence Management Regulations for Public Lands in Alaska-2025-26 and 2026-27 Subsistence Taking of Fish and Shellfish Regulations](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-2025-26-and-2026-27-subsistence-taking-of-fish-and-shellfish-regulations/)** — `2025-07-18` | `13 Pages`
-- `[`2025-13497`]` **[Federal Subsistence Management Program; Transfer of Regulations](https://www.indexdata.org/federal-subsistence-management-program-transfer-of-regulations/)** — `2025-07-18` | `8 Pages`
-- `[`2025-10248`]` **[Conversion of Ski Area Authorizations](https://www.indexdata.org/conversion-of-ski-area-authorizations/)** — `2025-06-05` | `3 Pages`
-- `[`2025-06801`]` **[Grazing Advisory Boards](https://www.indexdata.org/grazing-advisory-boards/)** — `2025-04-21` | `3 Pages`
-
 ### [Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/ocean-energy-management-bureau/](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)
 
@@ -1894,6 +1887,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-cr
 - `[`2025-15487`]` **[Removal of Obsolete Regulations](https://www.indexdata.org/removal-of-obsolete-regulations/)** — `2025-08-14` | `2 Pages`
 - `[`2025-15191`]` **[Additional Payment II Program](https://www.indexdata.org/additional-payment-ii-program/)** — `2025-08-11` | `4 Pages`
 - `[`2025-12877`]` **[Removal of Unconstitutional Preferences Based on Race and Sex in Response to Court Ruling](https://www.indexdata.org/removal-of-unconstitutional-preferences-based-on-race-and-sex-in-response-to-court-ruling/)** — `2025-07-10` | `7 Pages`
+
+### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
+
+- `[`2025-13516`]` **[Subsistence Management Regulations for Public Lands in Alaska-2025-26 and 2026-27 Subsistence Taking of Fish and Shellfish Regulations](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-2025-26-and-2026-27-subsistence-taking-of-fish-and-shellfish-regulations/)** — `2025-07-18` | `13 Pages`
+- `[`2025-13497`]` **[Federal Subsistence Management Program; Transfer of Regulations](https://www.indexdata.org/federal-subsistence-management-program-transfer-of-regulations/)** — `2025-07-18` | `8 Pages`
+- `[`2025-10248`]` **[Conversion of Ski Area Authorizations](https://www.indexdata.org/conversion-of-ski-area-authorizations/)** — `2025-06-05` | `3 Pages`
 
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)

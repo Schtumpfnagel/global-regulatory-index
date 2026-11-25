@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,685` across `247` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,687` across `247` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-25 15:13 UTC`
+**Last Automated Sync:** `2026-11-25 16:25 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`375` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`377` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -263,7 +263,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,685)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,687)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1172,6 +1172,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
+- `[`2026-20264`]` **[Federal Scholarship Tax Credit](https://www.indexdata.org/federal-scholarship-tax-credit/)** — `2026-10-02` | `18 Pages`
 - `[`2026-20027`]` **[Trump Accounts](https://www.indexdata.org/trump-accounts/)** — `2026-09-30` | `6 Pages`
 - `[`2026-20026`]` **[Trump Accounts](https://www.indexdata.org/trump-accounts-2/)** — `2026-09-30` | `23 Pages`
 - `[`2026-19888`]` **[Election To Pay in Installments Tax on Gain From Certain Farmland Property](https://www.indexdata.org/election-to-pay-in-installments-tax-on-gain-from-certain-farmland-property/)** — `2026-09-29` | `17 Pages`
@@ -1258,6 +1259,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
 
+- `[`2026-20276`]` **[State of Indiana: Discontinuance of Certain Commission Regulatory Authority Within the State, Notice of Agreement Between the Nuclear Regulatory Commission and the State of Indiana](https://www.indexdata.org/state-of-indiana-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice-of-agreement-between-the-nuclear-regulatory-commission-and-the-state-of-indiana/)** — `2026-10-02` | `2 Pages`
 - `[`2026-19963`]` **[NRC Modernization: Rulemaking Procedure, Federal Advisory Committee Act Alignment, Access, and Security; Correction and Confirmation of Effective Date](https://www.indexdata.org/nrc-modernization-rulemaking-procedure-federal-advisory-committee-act-alignment-access-and-security-correction-and-confirmation-of-effective-date/)** — `2026-09-30` | `2 Pages`
 - `[`2026-19568`]` **[Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight](https://www.indexdata.org/regulatory-enhancements-for-reactor-licensing-decommissioning-and-operational-oversight/)** — `2026-09-24` | `89 Pages`
 - `[`2026-18504`]` **[In Situ Recovery Monitoring and Decommissioning Timeliness](https://www.indexdata.org/in-situ-recovery-monitoring-and-decommissioning-timeliness/)** — `2026-09-10` | `30 Pages`
@@ -1971,13 +1973,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/merit-syst
 - `[`2026-16456`]` **[Appellate Jurisdiction Update II](https://www.indexdata.org/appellate-jurisdiction-update-ii/)** — `2026-08-12` | `2 Pages`
 - `[`2026-13445`]` **[Promoting Employee Accountability](https://www.indexdata.org/promoting-employee-accountability-2/)** — `2026-07-02` | `24 Pages`
 
-### [National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
-
-- `[`US-NIST-nist.sp.1351`]` **[Critical mineral & material research at NIST — a review and future directions](https://www.indexdata.org/critical-mineral-material-research-at-nist-a-review-and-future-directions/)** — `2026-06-15` | `42 Pages`
-- `[`US-NIST-nist.nsrds.100-2026`]` **[Simulation of electron spectra for surface analysis (SESSA) — version 2.3 user’s guide](https://www.indexdata.org/simulation-of-electron-spectra-for-surface-analysis-sessa-version-2-3-users-guide/)** — `2026-06-11` | `163 Pages`
-- `[`US-NIST-nist.ir.8374r1`]` **[Ransomware risk management — a cybersecurity framework 2.0 community profile](https://www.indexdata.org/ransomware-risk-management-a-cybersecurity-framework-2-0-community-profile/)** — `2026-06-11` | `23 Pages`
-
 ### [Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/railroad-retirement-board/](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
 
@@ -2188,6 +2183,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-f
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology/feed/)
 
 - `[`2026-17082`]` **[Traffic and Conduct on the Grounds of Certain National Institute of Standards and Technology Sites](https://www.indexdata.org/traffic-and-conduct-on-the-grounds-of-certain-national-institute-of-standards-and-technology-sites/)** — `2026-08-21` | `3 Pages`
+
+### [National Institute of Standards and Technology (NIST)](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/) | [RSS Feed](https://www.indexdata.org/united-states/national-institute-of-standards-and-technology-nist/feed/)
+
+- `[`US-NIST-nist.sp.1351`]` **[Critical mineral & material research at NIST — a review and future directions](https://www.indexdata.org/critical-mineral-material-research-at-nist-a-review-and-future-directions/)** — `2026-06-15` | `42 Pages`
 
 ### [National Science Foundation](https://www.indexdata.org/united-states/national-science-foundation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-science-foundation/](https://www.indexdata.org/united-states/national-science-foundation/) | [RSS Feed](https://www.indexdata.org/united-states/national-science-foundation/feed/)

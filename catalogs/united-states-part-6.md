@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,685` across `247` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,687` across `247` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-25 15:13 UTC`
+**Last Automated Sync:** `2026-11-25 16:25 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`375` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`377` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -263,7 +263,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,685)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,687)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -697,8 +697,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-27593`]` **[Airworthiness Directives; De Havilland Aircraft of Canada Limited (Type Certificate Previously Held by Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-de-havilland-aircraft-of-canada-limited-type-certificate-previously-held-by-bombardier-inc-airplanes-9/)** — `2024-11-26` | `3 Pages`
 - `[`2024-27591`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-45/)** — `2024-11-26` | `6 Pages`
 - `[`2024-27589`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-203/)** — `2024-11-26` | `3 Pages`
-- `[`2024-27562`]` **[Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-1, V-29, V-38, V-139, and V-286; Eastern United States](https://www.indexdata.org/amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-v-1-v-29-v-38-v-139-and-v-286-eastern-united-states-2/)** — `2024-11-26` | `3 Pages`
-- `[`2024-27560`]` **[Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-7, V-35, V-157, V-159, and V-198; Eastern United States](https://www.indexdata.org/amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-v-7-v-35-v-157-v-159-and-v-198-eastern-united-states-2/)** — `2024-11-26` | `4 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -915,6 +913,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2025-06826`]` **[Fisheries of the Northeastern United States; Framework Adjustment 39 to the Atlantic Sea Scallop Fishery Management Plan](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-framework-adjustment-39-to-the-atlantic-sea-scallop-fishery-management-plan/)** — `2025-04-21` | `11 Pages`
 - `[`2025-06713`]` **[Fisheries of the Northeastern United States; Northeast Skate Complex; 2025 Specifications](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-northeast-skate-complex-2025-specifications/)** — `2025-04-18` | `2 Pages`
 - `[`2025-06623`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Recreational Fishing for Chinook Salmon in the Cook Inlet Exclusive Economic Zone Area](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-recreational-fishing-for-chinook-salmon-in-the-cook-inlet-exclusive-economic-zone-area/)** — `2025-04-17` | `2 Pages`
 - `[`2025-06584`]` **[Fisheries Off West Coast States; Modification of the West Coast Salmon Fisheries; Inseason Action #19](https://www.indexdata.org/fisheries-off-west-coast-states-modification-of-the-west-coast-salmon-fisheries-inseason-action-19/)** — `2025-04-17` | `2 Pages`
@@ -2017,6 +2016,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-pr
 - `[`2025-00012`]` **[Conformance of the Cost Accounting Standards to Generally Accepted Accounting Principles for CAS 404 Capitalization of Tangible Assets and CAS 411 Accounting for Acquisition Costs of Material](https://www.indexdata.org/conformance-of-the-cost-accounting-standards-to-generally-accepted-accounting-principles-for-cas-404-capitalization-of-tangible-assets-and-cas-411-accounting-for-acquisition-costs-of-material/)** — `2025-01-17` | `6 Pages`
 - `[`2025-00118`]` **[Office of Federal Procurement Policy; Federal Acquisition Regulation: Pay Equity and Transparency in Federal Contracting](https://www.indexdata.org/office-of-federal-procurement-policy-federal-acquisition-regulation-pay-equity-and-transparency-in-federal-contracting/)** — `2025-01-08` | `2 Pages`
 
+### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
+
+- `[`2025-06801`]` **[Grazing Advisory Boards](https://www.indexdata.org/grazing-advisory-boards/)** — `2025-04-21` | `3 Pages`
+- `[`2025-00434`]` **[Subsistence Management Regulations for Public Lands in Alaska-2026-27 and 2027-28 Subsistence Taking of Wildlife Regulations](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-2026-27-and-2027-28-subsistence-taking-of-wildlife-regulations/)** — `2025-01-21` | `6 Pages`
+
 ### [Great Lakes St. Lawrence Seaway Development Corporation](https://www.indexdata.org/united-states/great-lakes-st-lawrence-seaway-development-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/great-lakes-st-lawrence-seaway-development-corporation/](https://www.indexdata.org/united-states/great-lakes-st-lawrence-seaway-development-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/great-lakes-st-lawrence-seaway-development-corporation/feed/)
 
@@ -2130,11 +2135,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-safety-and-inspection-service/](https://www.indexdata.org/united-states/food-safety-and-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-safety-and-inspection-service/feed/)
 
 - `[`2024-27864`]` **[Uniform Compliance Date for Food Labeling Regulations](https://www.indexdata.org/uniform-compliance-date-for-food-labeling-regulations-2/)** — `2024-11-27` | `2 Pages`
-
-### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
-
-- `[`2025-00434`]` **[Subsistence Management Regulations for Public Lands in Alaska-2026-27 and 2027-28 Subsistence Taking of Wildlife Regulations](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-2026-27-and-2027-28-subsistence-taking-of-wildlife-regulations/)** — `2025-01-21` | `6 Pages`
 
 ### [Government Ethics Office](https://www.indexdata.org/united-states/government-ethics-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/government-ethics-office/](https://www.indexdata.org/united-states/government-ethics-office/) | [RSS Feed](https://www.indexdata.org/united-states/government-ethics-office/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,685` across `247` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,687` across `247` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-25 15:13 UTC`
+**Last Automated Sync:** `2026-11-25 16:25 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`375` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`377` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -263,7 +263,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,685 of 15,685)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,687 of 15,687)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -566,6 +566,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2023-15444`]` **[Safety Zone; St. Johns River, Jacksonville, FL](https://www.indexdata.org/safety-zone-st-johns-river-jacksonville-fl-2/)** — `2023-07-20` | `3 Pages`
 - `[`2023-15227`]` **[Special Local Regulation; Iron Man 70.3 Triathlon, Lake Erie; Sandusky, OH](https://www.indexdata.org/special-local-regulation-iron-man-70-3-triathlon-lake-erie-sandusky-oh/)** — `2023-07-19` | `3 Pages`
 - `[`2023-15026`]` **[Security Zones; Corpus Christi Ship Channel, Corpus Christi, TX](https://www.indexdata.org/security-zones-corpus-christi-ship-channel-corpus-christi-tx-2/)** — `2023-07-19` | `3 Pages`
 - `[`2023-15049`]` **[Safety Zones; Annual Events in the Captain of the Port Buffalo Zone](https://www.indexdata.org/safety-zones-annual-events-in-the-captain-of-the-port-buffalo-zone-2/)** — `2023-07-17` | `2 Pages`
@@ -1052,6 +1053,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commerce-d
 - `[`2023-12925`]` **[Securing the Information and Communications Technology and Services Supply Chain; Connected Software Applications](https://www.indexdata.org/securing-the-information-and-communications-technology-and-services-supply-chain-connected-software-applications/)** — `2023-06-16` | `6 Pages`
 - `[`2023-12123`]` **[Foreign-Trade Zones Board Proceedings](https://www.indexdata.org/foreign-trade-zones-board-proceedings-2/)** — `2023-06-09` | `5 Pages`
 
+### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+
+- `[`2023-12609`]` **[Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations](https://www.indexdata.org/interagency-guidance-on-reconsiderations-of-value-of-residential-real-estate-valuations-2/)** — `2023-07-21` | `7 Pages`
+- `[`2023-12187`]` **[Quality Control Standards for Automated Valuation Models](https://www.indexdata.org/quality-control-standards-for-automated-valuation-models-2/)** — `2023-06-21` | `38 Pages`
+
 ### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
 
@@ -1143,11 +1150,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/committee-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/community-living-administration/](https://www.indexdata.org/united-states/community-living-administration/) | [RSS Feed](https://www.indexdata.org/united-states/community-living-administration/feed/)
 
 - `[`2023-12829`]` **[Older Americans Act: Grants to State and Community Programs on Aging; Grants to Indian Tribes for Support and Nutrition Services; Grants for Supportive and Nutritional Services to Older Hawaiian Natives; and Allotments for Vulnerable Elder Rights Protection Activities](https://www.indexdata.org/older-americans-act-grants-to-state-and-community-programs-on-aging-grants-to-indian-tribes-for-support-and-nutrition-services-grants-for-supportive-and-nutritional-services-to-older-hawaiian-nativ/)** — `2023-06-16` | `83 Pages`
-
-### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
-
-- `[`2023-12187`]` **[Quality Control Standards for Automated Valuation Models](https://www.indexdata.org/quality-control-standards-for-automated-valuation-models-2/)** — `2023-06-21` | `38 Pages`
 
 ### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
