@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/china/feed/](https://www.indexdata.org/china/feed/)  
 **Wikidata Sovereign Entity:** [`Q148`](https://www.wikidata.org/wiki/Q148)  
 **Governing Open-Government Framework:** *Copyright Law of the PRC, Art. 5(1)*  
-**Total Indexed Dossiers in China:** `50` across `20` issuing authorities  
-**Last Automated Sync:** `2026-11-25 16:25 UTC`
+**Total Indexed Dossiers in China:** `51` across `20` issuing authorities  
+**Last Automated Sync:** `2026-11-25 17:24 UTC`
 
 ---
 
 ## Issuing Authorities in China (20 Authorities)
 
-- **[Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
+- **[Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
 - **[Government of the Hong Kong SAR — Intellectual Property Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/feed/)
 - **[Government of the Hong Kong SAR — Department of Justice](https://www.indexdata.org/china/government-of-the-hong-kong-sar-department-of-justice/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-department-of-justice/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-department-of-justice/feed/)
 - **[Hong Kong Housing Authority](https://www.indexdata.org/china/hong-kong-housing-authority/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/china/hong-kong-housing-authority/) | [RSS Feed](https://www.indexdata.org/china/hong-kong-housing-authority/feed/)
@@ -35,11 +35,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–50 of 50)
+## Indexed Statutory & Regulatory Dossiers (Records 1–51 of 51)
 
 ### [Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)
 Canonical Authority Archive: [https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
 
+- `[`CN-HK-DATAGOV-4efa2ee5-c584-4231-83eb-95f28b67fb8f-spec`]` **[Environment, Climate and Geography - Table 950-92062 : Air pollutant emissions — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/environment-climate-and-geography-table-950-92062-air-pollutant-emissions-official-data-specification-census-and-statistics-department/)** — `2026-11-25` | `4 Pages`
 - `[`CN-HK-DATAGOV-ee8df2e4-b904-4674-813e-3084c8f4dfe2-spec`]` **[Statistics on Labour Force, Unemployment and Underemployment - Table 210-06101 : Statistics on labour force, employment, unemployment and underemployment — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/statistics-on-labour-force-unemployment-and-underemployment-table-210-06101-statistics-on-labour-force-employment-unemployment-and-underemployment-official-data-specification-census/)** — `2026-11-17` | `4 Pages`
 - `[`CN-HK-DATAGOV-c9330dc9-b02f-4026-9d9a-6d7349a313de-spec`]` **[Statistics on Labour Force, Unemployment and Underemployment (excluding foreign domestic helpers) - Table 210-06314A : Median monthly employment earnings of employed persons by age and sex (excluding foreign domestic helpers) — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/statistics-on-labour-force-unemployment-and-underemployment-excluding-foreign-domestic-helpers-table-210-06314a-median-monthly-employment-earnings-of-employed-persons-by-age-and-sex-excluding/)** — `2026-11-17` | `4 Pages`
 - `[`CN-HK-DATAGOV-adccdacd-9c55-4582-a785-3cba235e63b4-spec`]` **[Statistics on Labour Force, Unemployment and Underemployment - Table 210-06316 : Median monthly employment earnings of employed persons by industry of main employment and sex — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/statistics-on-labour-force-unemployment-and-underemployment-table-210-06316-median-monthly-employment-earnings-of-employed-persons-by-industry-of-main-employment-and-sex-official-data-s/)** — `2026-11-17` | `4 Pages`

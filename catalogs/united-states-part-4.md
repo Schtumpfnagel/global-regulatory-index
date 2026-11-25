@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,687` across `247` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,689` across `247` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-25 16:25 UTC`
+**Last Automated Sync:** `2026-11-25 17:24 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`377` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`378` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -59,8 +59,8 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -263,11 +263,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,687)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,689)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-02929`]` **[Establishment of Class E Airspace; Wall Municipal Airport, Wall, SD](https://www.indexdata.org/establishment-of-class-e-airspace-wall-municipal-airport-wall-sd-2/)** — `2026-02-13` | `2 Pages`
 - `[`2026-02923`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters-11/)** — `2026-02-13` | `4 Pages`
 - `[`2026-02919`]` **[Amendment of Class D and E Airspace; Miami, FL](https://www.indexdata.org/amendment-of-class-d-and-e-airspace-miami-fl/)** — `2026-02-13` | `2 Pages`
 - `[`2026-02912`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-65/)** — `2026-02-13` | `4 Pages`
@@ -631,6 +632,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-02926`]` **[Rice Bran Wax in Pesticide Formulations; Exemption From the Requirement for a Tolerance](https://www.indexdata.org/rice-bran-wax-in-pesticide-formulations-exemption-from-the-requirement-for-a-tolerance/)** — `2026-02-13` | `5 Pages`
 - `[`2026-02922`]` **[Sulfonic Acids, C14-16-Alkane Hydroxy and C14-16-Alkene, Sodium Salts in Pesticide Formulations; Exemption From the Requirement for a Tolerance](https://www.indexdata.org/sulfonic-acids-c14-16-alkane-hydroxy-and-c14-16-alkene-sodium-salts-in-pesticide-formulations-exemption-from-the-requirement-for-a-tolerance/)** — `2026-02-13` | `5 Pages`
 - `[`2026-02916`]` **[Hexythiazox; Pesticide Tolerances](https://www.indexdata.org/hexythiazox-pesticide-tolerances/)** — `2026-02-13` | `5 Pages`
 - `[`2026-02845`]` **[Air Plan Revisions; Arizona; Arizona Department of Environmental Quality; Gila County Reasonably Available Control Technology](https://www.indexdata.org/air-plan-revisions-arizona-arizona-department-of-environmental-quality-gila-county-reasonably-available-control-technology-2/)** — `2026-02-12` | `5 Pages`
@@ -1164,7 +1166,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2025-16540`]` **[Reducing Barriers to Network Improvements and Service Changes](https://www.indexdata.org/reducing-barriers-to-network-improvements-and-service-changes-2/)** — `2025-08-28` | `26 Pages`
 - `[`2025-16375`]` **[Expediting Initial Processing of Satellite and Earth Station Applications; Space Innovation](https://www.indexdata.org/expediting-initial-processing-of-satellite-and-earth-station-applications-space-innovation/)** — `2025-08-27` | `12 Pages`
 - `[`2025-16374`]` **[Telecommunications Relay Service ASCII Format Requirement](https://www.indexdata.org/telecommunications-relay-service-ascii-format-requirement-2/)** — `2025-08-27` | `3 Pages`
-- `[`2025-16351`]` **[Delete, Delete, Delete; Removal of Obsolete Regulations](https://www.indexdata.org/delete-delete-delete-removal-of-obsolete-regulations-2/)** — `2025-08-26` | `2 Pages`
 
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -1446,25 +1447,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/office-of-
 - `[`2025-17237`]` **[Standards of Conduct; Revocation of Superseded Regulations; Revision of Residual Provisions; Correction](https://www.indexdata.org/standards-of-conduct-revocation-of-superseded-regulations-revision-of-residual-provisions-correction/)** — `2025-09-08` | `2 Pages`
 - `[`2025-16720`]` **[Procedures for Transportation Workplace Drug and Alcohol Testing Programs: Addition of Fentanyl to the Department of Transportation's Drug-Testing Panel; Harmonization With Certain Items in the HHS Mandatory Guidelines for Urine and Oral Fluid; and Technical Amendments](https://www.indexdata.org/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-addition-of-fentanyl-to-the-department-of-transportations-drug-testing-panel-harmonization-with-certain-items-in-the-hhs-m/)** — `2025-09-02` | `19 Pages`
 
-### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
-
-- `[`2026-00087`]` **[Home Mortgage Disclosure (Regulation C) Adjustment to Asset-Size Exemption Threshold](https://www.indexdata.org/home-mortgage-disclosure-regulation-c-adjustment-to-asset-size-exemption-threshold/)** — `2026-01-07` | `3 Pages`
-- `[`2026-00085`]` **[Truth in Lending Act (Regulation Z) Adjustment to Asset-Size Exemption Threshold](https://www.indexdata.org/truth-in-lending-act-regulation-z-adjustment-to-asset-size-exemption-threshold/)** — `2026-01-07` | `6 Pages`
-- `[`2025-22814`]` **[Truth in Lending (Regulation Z)](https://www.indexdata.org/truth-in-lending-regulation-z/)** — `2025-12-15` | `7 Pages`
-- `[`2025-22813`]` **[Consumer Leasing (Regulation M)](https://www.indexdata.org/consumer-leasing-regulation-m/)** — `2025-12-15` | `5 Pages`
-- `[`2025-22773`]` **[Truth in Lending (Regulation Z) Annual Threshold Adjustments (Credit Cards, HOEPA, and Qualified Mortgages)](https://www.indexdata.org/truth-in-lending-regulation-z-annual-threshold-adjustments-credit-cards-hoepa-and-qualified-mortgages/)** — `2025-12-15` | `7 Pages`
-- `[`2025-22772`]` **[Fair Credit Reporting Act Disclosures](https://www.indexdata.org/fair-credit-reporting-act-disclosures/)** — `2025-12-15` | `3 Pages`
-- `[`2025-19865`]` **[Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)](https://www.indexdata.org/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-2/)** — `2025-11-13` | `60 Pages`
-- `[`2025-19864`]` **[Equal Credit Opportunity Act (Regulation B)](https://www.indexdata.org/equal-credit-opportunity-act-regulation-b-3/)** — `2025-11-13` | `23 Pages`
-- `[`2025-19690`]` **[Registry of Supervised Nonbanks That Use Form Contracts To Impose Terms and Conditions That Seek To Waive or Limit Consumer Legal Protections; Withdrawal of Proposed Rule](https://www.indexdata.org/registry-of-supervised-nonbanks-that-use-form-contracts-to-impose-terms-and-conditions-that-seek-to-waive-or-limit-consumer-legal-protections-withdrawal-of-proposed-rule/)** — `2025-10-29` | `6 Pages`
-- `[`2025-19689`]` **[Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders; Rescission](https://www.indexdata.org/registry-of-nonbank-covered-persons-subject-to-certain-agency-and-court-orders-rescission/)** — `2025-10-29` | `17 Pages`
-- `[`2025-19687`]` **[Rules of Practice for Adjudication Proceedings](https://www.indexdata.org/rules-of-practice-for-adjudication-proceedings/)** — `2025-10-29` | `24 Pages`
-- `[`2025-19671`]` **[Fair Credit Reporting Act; Preemption of State Laws](https://www.indexdata.org/fair-credit-reporting-act-preemption-of-state-laws/)** — `2025-10-28` | `6 Pages`
-- `[`2025-19370`]` **[Small Business Lending Under the Equal Credit Opportunity Act (Regulation B); Extension of Compliance Dates](https://www.indexdata.org/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-extension-of-compliance-dates/)** — `2025-10-02` | `10 Pages`
-- `[`2025-18622`]` **[Procedures for Supervisory Designation Proceedings](https://www.indexdata.org/procedures-for-supervisory-designation-proceedings/)** — `2025-09-25` | `10 Pages`
-- `[`2025-16352`]` **[Legal Standard Applicable to Supervisory Designation Proceedings](https://www.indexdata.org/legal-standard-applicable-to-supervisory-designation-proceedings/)** — `2025-08-26` | `4 Pages`
-
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 
@@ -1483,6 +1465,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-a
 - `[`2025-18827`]` **[Extension of Program of Comprehensive Assistance for Family Caregivers Eligibility for Legacy Participants and Legacy Applicants](https://www.indexdata.org/extension-of-program-of-comprehensive-assistance-for-family-caregivers-eligibility-for-legacy-participants-and-legacy-applicants/)** — `2025-09-29` | `4 Pages`
 - `[`2025-18663`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-7/)** — `2025-09-25` | `2 Pages`
 - `[`2025-16836`]` **[State Approving Agency Jurisdiction Rule](https://www.indexdata.org/state-approving-agency-jurisdiction-rule/)** — `2025-09-03` | `5 Pages`
+
+### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
+
+- `[`2026-00087`]` **[Home Mortgage Disclosure (Regulation C) Adjustment to Asset-Size Exemption Threshold](https://www.indexdata.org/home-mortgage-disclosure-regulation-c-adjustment-to-asset-size-exemption-threshold/)** — `2026-01-07` | `3 Pages`
+- `[`2026-00085`]` **[Truth in Lending Act (Regulation Z) Adjustment to Asset-Size Exemption Threshold](https://www.indexdata.org/truth-in-lending-act-regulation-z-adjustment-to-asset-size-exemption-threshold/)** — `2026-01-07` | `6 Pages`
+- `[`2025-22814`]` **[Truth in Lending (Regulation Z)](https://www.indexdata.org/truth-in-lending-regulation-z/)** — `2025-12-15` | `7 Pages`
+- `[`2025-22813`]` **[Consumer Leasing (Regulation M)](https://www.indexdata.org/consumer-leasing-regulation-m/)** — `2025-12-15` | `5 Pages`
+- `[`2025-22773`]` **[Truth in Lending (Regulation Z) Annual Threshold Adjustments (Credit Cards, HOEPA, and Qualified Mortgages)](https://www.indexdata.org/truth-in-lending-regulation-z-annual-threshold-adjustments-credit-cards-hoepa-and-qualified-mortgages/)** — `2025-12-15` | `7 Pages`
+- `[`2025-22772`]` **[Fair Credit Reporting Act Disclosures](https://www.indexdata.org/fair-credit-reporting-act-disclosures/)** — `2025-12-15` | `3 Pages`
+- `[`2025-19865`]` **[Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)](https://www.indexdata.org/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-2/)** — `2025-11-13` | `60 Pages`
+- `[`2025-19864`]` **[Equal Credit Opportunity Act (Regulation B)](https://www.indexdata.org/equal-credit-opportunity-act-regulation-b-3/)** — `2025-11-13` | `23 Pages`
+- `[`2025-19690`]` **[Registry of Supervised Nonbanks That Use Form Contracts To Impose Terms and Conditions That Seek To Waive or Limit Consumer Legal Protections; Withdrawal of Proposed Rule](https://www.indexdata.org/registry-of-supervised-nonbanks-that-use-form-contracts-to-impose-terms-and-conditions-that-seek-to-waive-or-limit-consumer-legal-protections-withdrawal-of-proposed-rule/)** — `2025-10-29` | `6 Pages`
+- `[`2025-19689`]` **[Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders; Rescission](https://www.indexdata.org/registry-of-nonbank-covered-persons-subject-to-certain-agency-and-court-orders-rescission/)** — `2025-10-29` | `17 Pages`
+- `[`2025-19687`]` **[Rules of Practice for Adjudication Proceedings](https://www.indexdata.org/rules-of-practice-for-adjudication-proceedings/)** — `2025-10-29` | `24 Pages`
+- `[`2025-19671`]` **[Fair Credit Reporting Act; Preemption of State Laws](https://www.indexdata.org/fair-credit-reporting-act-preemption-of-state-laws/)** — `2025-10-28` | `6 Pages`
+- `[`2025-19370`]` **[Small Business Lending Under the Equal Credit Opportunity Act (Regulation B); Extension of Compliance Dates](https://www.indexdata.org/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-extension-of-compliance-dates/)** — `2025-10-02` | `10 Pages`
+- `[`2025-18622`]` **[Procedures for Supervisory Designation Proceedings](https://www.indexdata.org/procedures-for-supervisory-designation-proceedings/)** — `2025-09-25` | `10 Pages`
 
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)

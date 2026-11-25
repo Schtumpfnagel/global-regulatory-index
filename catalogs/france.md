@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q142`](https://www.wikidata.org/wiki/Q142)  
 **Governing Open-Government Framework:** *CRPA Art. L321-1 to L323-7 / Loi n° 2016-1321*  
 **Total Indexed Dossiers in France:** `627` across `19` issuing authorities  
-**Last Automated Sync:** `2026-11-25 16:25 UTC`
+**Last Automated Sync:** `2026-11-25 17:24 UTC`
 
 ---
 

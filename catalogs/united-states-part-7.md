@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,687` across `247` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,689` across `247` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-25 16:25 UTC`
+**Last Automated Sync:** `2026-11-25 17:24 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`377` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`378` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -59,8 +59,8 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -263,7 +263,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,687)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,689)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1041,8 +1041,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-15931`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Amendment 126 to the Fishery Management Plans for Groundfish of the Bering Sea and Aleutian Islands Management Area and Amendment 114 to the Fishery Management Plan for Groundfish of the Gulf of Alaska To Expand Electronic Monitoring to the Pollock Fisheries](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-amendment-126-to-the-fishery-management-plans-for-groundfish-of-the-bering-sea-and-aleutian-islands-management-area-and-amendment-114-to-the-fisher/)** — `2024-07-29` | `22 Pages`
 - `[`2024-16476`]` **[Coastal Migratory Pelagic Resources of the Gulf of Mexico and Atlantic Region; Commercial Closure for Atlantic Spanish Mackerel in the Northern Zone](https://www.indexdata.org/coastal-migratory-pelagic-resources-of-the-gulf-of-mexico-and-atlantic-region-commercial-closure-for-atlantic-spanish-mackerel-in-the-northern-zone/)** — `2024-07-26` | `2 Pages`
 - `[`2024-14970`]` **[Endangered and Threatened Wildlife and Plants; Proposed Listing Determinations for Ten Species of Giant Clams Under the Endangered Species Act](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-proposed-listing-determinations-for-ten-species-of-giant-clams-under-the-endangered-species-act/)** — `2024-07-25` | `50 Pages`
-- `[`2024-16259`]` **[Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Fishing Year 2024 Recreational Management Measures](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-northeast-multispecies-fishery-fishing-year-2024-recreational-management-measures/)** — `2024-07-24` | `6 Pages`
-- `[`2024-16253`]` **[Endangered and Threatened Wildlife; 90-Day Finding on a Petition To List the Alabama Shad as Threatened or Endangered Under the Endangered Species Act](https://www.indexdata.org/endangered-and-threatened-wildlife-90-day-finding-on-a-petition-to-list-the-alabama-shad-as-threatened-or-endangered-under-the-endangered-species-act/)** — `2024-07-24` | `8 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1576,6 +1574,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 - `[`2024-16834`]` **[Transitioning Gang-Involved Youth to Higher Education Program](https://www.indexdata.org/transitioning-gang-involved-youth-to-higher-education-program/)** — `2024-08-01` | `4 Pages`
 - `[`2024-16206`]` **[Indian Education Discretionary Grant Programs; Professional Development Program](https://www.indexdata.org/indian-education-discretionary-grant-programs-professional-development-program-2/)** — `2024-07-29` | `10 Pages`
 
+### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
+
+- `[`2024-27565`]` **[Federal Management Regulation; Updating Transportation Management, With Diversity, Equity, Inclusion, and Accessibility Language](https://www.indexdata.org/federal-management-regulation-updating-transportation-management-with-diversity-equity-inclusion-and-accessibility-language/)** — `2024-11-26` | `2 Pages`
+- `[`2024-27552`]` **[Federal Management Regulation; Transportation Payment and Audit Regulations](https://www.indexdata.org/federal-management-regulation-transportation-payment-and-audit-regulations/)** — `2024-11-26` | `7 Pages`
+- `[`2024-25967`]` **[General Services Administration Acquisition Regulation; SAM Representation for Leases](https://www.indexdata.org/general-services-administration-acquisition-regulation-sam-representation-for-leases/)** — `2024-11-15` | `3 Pages`
+- `[`2024-26241`]` **[Federal Travel Regulation; Removing References to Title and Narrative Format and Other Changes Addressing Relocation](https://www.indexdata.org/federal-travel-regulation-removing-references-to-title-and-narrative-format-and-other-changes-addressing-relocation/)** — `2024-11-13` | `4 Pages`
+- `[`2024-25656`]` **[General Services Administration Acquisition Regulation (GSAR); Construction Labor Requirements for Lease Acquisitions](https://www.indexdata.org/general-services-administration-acquisition-regulation-gsar-construction-labor-requirements-for-lease-acquisitions/)** — `2024-11-06` | `6 Pages`
+- `[`2024-25361`]` **[Federal Travel Regulation (FTR); Relocation Allowances-Waiver of Certain Provisions for Official Relocation Travel to Locations in Alabama, Florida, Georgia, North Carolina, South Carolina, Tennessee, and Virginia Impacted by Hurricane/Tropical Storm/Post-Tropical Cyclone Helene, Hurricane Milton, or Both](https://www.indexdata.org/federal-travel-regulation-ftr-relocation-allowances-waiver-of-certain-provisions-for-official-relocation-travel-to-locations-in-alabama-florida-georgia-north-carolina-south-carolina-tennessee/)** — `2024-10-30` | `2 Pages`
+- `[`2024-21467`]` **[Federal Travel Regulation; Updating Glossary of Terms and E-Gov Travel Service Requirements](https://www.indexdata.org/federal-travel-regulation-updating-glossary-of-terms-and-e-gov-travel-service-requirements/)** — `2024-09-20` | `4 Pages`
+- `[`2024-18460`]` **[Federal Management Regulation; Updating the FMR With Diversity, Equity, Inclusion, and Accessibility Language](https://www.indexdata.org/federal-management-regulation-updating-the-fmr-with-diversity-equity-inclusion-and-accessibility-language/)** — `2024-08-22` | `3 Pages`
+- `[`2024-16472`]` **[Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/unified-agenda-of-federal-regulatory-and-deregulatory-actions-2/)** — `2024-08-16` | `5 Pages`
+- `[`2024-16980`]` **[General Services Administration Acquisition Regulation; Federal Supply Schedule Economic Price Adjustment](https://www.indexdata.org/general-services-administration-acquisition-regulation-federal-supply-schedule-economic-price-adjustment/)** — `2024-08-05` | `4 Pages`
+- `[`2024-16918`]` **[General Services Administration Acquisition Regulation; GSAR Case 2024-G503; Updates to References to GSA Sustainable Leasing](https://www.indexdata.org/general-services-administration-acquisition-regulation-gsar-case-2024-g503-updates-to-references-to-gsa-sustainable-leasing/)** — `2024-08-02` | `2 Pages`
+
 ### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
 
@@ -1605,20 +1618,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2024-16501`]` **[International Traffic in Arms Regulations: Revisions to Definition and Controls Related to Defense Services](https://www.indexdata.org/international-traffic-in-arms-regulations-revisions-to-definition-and-controls-related-to-defense-services/)** — `2024-07-29` | `6 Pages`
 - `[`2024-16452`]` **[Visas: Immigrant Visas; Correction](https://www.indexdata.org/visas-immigrant-visas-correction/)** — `2024-07-26` | `2 Pages`
 - `[`2024-16363`]` **[Passports: Form DS-3053 Statement of Consent](https://www.indexdata.org/passports-form-ds-3053-statement-of-consent/)** — `2024-07-26` | `3 Pages`
-
-### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
-
-- `[`2024-27552`]` **[Federal Management Regulation; Transportation Payment and Audit Regulations](https://www.indexdata.org/federal-management-regulation-transportation-payment-and-audit-regulations/)** — `2024-11-26` | `7 Pages`
-- `[`2024-25967`]` **[General Services Administration Acquisition Regulation; SAM Representation for Leases](https://www.indexdata.org/general-services-administration-acquisition-regulation-sam-representation-for-leases/)** — `2024-11-15` | `3 Pages`
-- `[`2024-26241`]` **[Federal Travel Regulation; Removing References to Title and Narrative Format and Other Changes Addressing Relocation](https://www.indexdata.org/federal-travel-regulation-removing-references-to-title-and-narrative-format-and-other-changes-addressing-relocation/)** — `2024-11-13` | `4 Pages`
-- `[`2024-25656`]` **[General Services Administration Acquisition Regulation (GSAR); Construction Labor Requirements for Lease Acquisitions](https://www.indexdata.org/general-services-administration-acquisition-regulation-gsar-construction-labor-requirements-for-lease-acquisitions/)** — `2024-11-06` | `6 Pages`
-- `[`2024-25361`]` **[Federal Travel Regulation (FTR); Relocation Allowances-Waiver of Certain Provisions for Official Relocation Travel to Locations in Alabama, Florida, Georgia, North Carolina, South Carolina, Tennessee, and Virginia Impacted by Hurricane/Tropical Storm/Post-Tropical Cyclone Helene, Hurricane Milton, or Both](https://www.indexdata.org/federal-travel-regulation-ftr-relocation-allowances-waiver-of-certain-provisions-for-official-relocation-travel-to-locations-in-alabama-florida-georgia-north-carolina-south-carolina-tennessee/)** — `2024-10-30` | `2 Pages`
-- `[`2024-21467`]` **[Federal Travel Regulation; Updating Glossary of Terms and E-Gov Travel Service Requirements](https://www.indexdata.org/federal-travel-regulation-updating-glossary-of-terms-and-e-gov-travel-service-requirements/)** — `2024-09-20` | `4 Pages`
-- `[`2024-18460`]` **[Federal Management Regulation; Updating the FMR With Diversity, Equity, Inclusion, and Accessibility Language](https://www.indexdata.org/federal-management-regulation-updating-the-fmr-with-diversity-equity-inclusion-and-accessibility-language/)** — `2024-08-22` | `3 Pages`
-- `[`2024-16472`]` **[Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/unified-agenda-of-federal-regulatory-and-deregulatory-actions-2/)** — `2024-08-16` | `5 Pages`
-- `[`2024-16980`]` **[General Services Administration Acquisition Regulation; Federal Supply Schedule Economic Price Adjustment](https://www.indexdata.org/general-services-administration-acquisition-regulation-federal-supply-schedule-economic-price-adjustment/)** — `2024-08-05` | `4 Pages`
-- `[`2024-16918`]` **[General Services Administration Acquisition Regulation; GSAR Case 2024-G503; Updates to References to GSA Sustainable Leasing](https://www.indexdata.org/general-services-administration-acquisition-regulation-gsar-case-2024-g503-updates-to-references-to-gsa-sustainable-leasing/)** — `2024-08-02` | `2 Pages`
 
 ### [Federal Deposit Insurance Corporation](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-deposit-insurance-corporation/feed/)
@@ -1751,6 +1750,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2024-17113`]` **[Address Correction Notices IMpb](https://www.indexdata.org/address-correction-notices-impb-2/)** — `2024-08-06` | `2 Pages`
 - `[`2024-16428`]` **[Rules of Procedure Before the Judicial Officer](https://www.indexdata.org/rules-of-procedure-before-the-judicial-officer/)** — `2024-07-30` | `4 Pages`
 
+### [Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-election-commission/](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
+
+- `[`2024-27583`]` **[Contributions Through Untraceable Electronic Payment Methods](https://www.indexdata.org/contributions-through-untraceable-electronic-payment-methods/)** — `2024-11-26` | `2 Pages`
+- `[`2024-27395`]` **[Requirement To File FEC Form 3-Z](https://www.indexdata.org/requirement-to-file-fec-form-3-z/)** — `2024-11-26` | `2 Pages`
+- `[`2024-21918`]` **[Use of Campaign Funds for Candidate and Officeholder Security](https://www.indexdata.org/use-of-campaign-funds-for-candidate-and-officeholder-security/)** — `2024-09-25` | `6 Pages`
+- `[`2024-19900`]` **[Requiring Reporting of Exchanges of Email Lists](https://www.indexdata.org/requiring-reporting-of-exchanges-of-email-lists/)** — `2024-09-05` | `3 Pages`
+- `[`2024-16843`]` **[Requirement To File FEC Form 3-Z](https://www.indexdata.org/requirement-to-file-fec-form-3-z-2/)** — `2024-08-01` | `2 Pages`
+- `[`2024-16841`]` **[Administrative Fines Program Expansion](https://www.indexdata.org/administrative-fines-program-expansion/)** — `2024-08-01` | `6 Pages`
+
 ### [Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-energy-regulatory-commission/](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
 
@@ -1789,15 +1798,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 - `[`2024-21682`]` **[Commodity Pool Operators, Commodity Trading Advisors, and Commodity Pools Operated: Updating the `Qualified Eligible Person' Definition; Adding Minimum Disclosure Requirements for Pools and Trading Programs; Permitting Monthly Account Statements for Funds of Funds; Technical Amendments](https://www.indexdata.org/commodity-pool-operators-commodity-trading-advisors-and-commodity-pools-operated-updating-the-qualified-eligible-person-definition-adding-minimum-disclosure-requirements-for-pools-and-trading-p/)** — `2024-09-26` | `23 Pages`
 - `[`2024-18445`]` **[Incorporation of Changes in the Commission's Administrative Structure, Remove Superfluous Verbiage, and Correct Inaccurate Text](https://www.indexdata.org/incorporation-of-changes-in-the-commissions-administrative-structure-remove-superfluous-verbiage-and-correct-inaccurate-text/)** — `2024-09-04` | `19 Pages`
 - `[`2024-17828`]` **[Foreign Boards of Trade](https://www.indexdata.org/foreign-boards-of-trade/)** — `2024-08-15` | `10 Pages`
-
-### [Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-election-commission/](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
-
-- `[`2024-27395`]` **[Requirement To File FEC Form 3-Z](https://www.indexdata.org/requirement-to-file-fec-form-3-z/)** — `2024-11-26` | `2 Pages`
-- `[`2024-21918`]` **[Use of Campaign Funds for Candidate and Officeholder Security](https://www.indexdata.org/use-of-campaign-funds-for-candidate-and-officeholder-security/)** — `2024-09-25` | `6 Pages`
-- `[`2024-19900`]` **[Requiring Reporting of Exchanges of Email Lists](https://www.indexdata.org/requiring-reporting-of-exchanges-of-email-lists/)** — `2024-09-05` | `3 Pages`
-- `[`2024-16843`]` **[Requirement To File FEC Form 3-Z](https://www.indexdata.org/requirement-to-file-fec-form-3-z-2/)** — `2024-08-01` | `2 Pages`
-- `[`2024-16841`]` **[Administrative Fines Program Expansion](https://www.indexdata.org/administrative-fines-program-expansion/)** — `2024-08-01` | `6 Pages`
 
 ### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,687` across `247` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,689` across `247` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-25 16:25 UTC`
+**Last Automated Sync:** `2026-11-25 17:24 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`377` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`378` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -59,8 +59,8 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
 - **[U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 - **[Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)
@@ -263,7 +263,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,687)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,689)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -609,11 +609,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-02987`]` **[Modification of Class D and Class E Airspace; Palm Springs International Airport, Palm Springs, CA](https://www.indexdata.org/modification-of-class-d-and-class-e-airspace-palm-springs-international-airport-palm-springs-ca-2/)** — `2026-02-13` | `3 Pages`
 - `[`2026-02986`]` **[Establishment, Modification, and Revocation of Class E Airspace; Jacqueline Cochran Regional Airport, Palm Springs, CA](https://www.indexdata.org/establishment-modification-and-revocation-of-class-e-airspace-jacqueline-cochran-regional-airport-palm-springs-ca-2/)** — `2026-02-13` | `2 Pages`
 - `[`2026-02985`]` **[Modification of Class D, Establishment and Revocation of Class E Airspaces; Travis Air Force Base (SUU), Fairfield, CA](https://www.indexdata.org/modification-of-class-d-establishment-and-revocation-of-class-e-airspaces-travis-air-force-base-suu-fairfield-ca/)** — `2026-02-13` | `2 Pages`
-- `[`2026-02929`]` **[Establishment of Class E Airspace; Wall Municipal Airport, Wall, SD](https://www.indexdata.org/establishment-of-class-e-airspace-wall-municipal-airport-wall-sd-2/)** — `2026-02-13` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-11843`]` **[Ozone Reclassification State Implementation Plan Rule](https://www.indexdata.org/ozone-reclassification-state-implementation-plan-rule/)** — `2026-06-12` | `11 Pages`
 - `[`2026-11736`]` **[Attainment Date Extension for the South Coast, California 2012 Annual PM2.5 Fine Particulate Matter Nonattainment Area](https://www.indexdata.org/attainment-date-extension-for-the-south-coast-california-2012-annual-pm2-5-fine-particulate-matter-nonattainment-area-2/)** — `2026-06-11` | `11 Pages`
 - `[`2026-11735`]` **[Attainment Date Extension for the San Joaquin Valley, California 2012 Annual PM2.5 Fine Particulate Matter Nonattainment Area](https://www.indexdata.org/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm2-5-fine-particulate-matter-nonattainment-area/)** — `2026-06-11` | `9 Pages`
 - `[`2026-11732`]` **[Air Plan Approval; New York; New York Metropolitan Area Second Ten-Year Limited Maintenance Plan for the 2006 24-Hour PM2.5 Standard](https://www.indexdata.org/air-plan-approval-new-york-new-york-metropolitan-area-second-ten-year-limited-maintenance-plan-for-the-2006-24-hour-pm2-5-standard/)** — `2026-06-11` | `3 Pages`
@@ -807,11 +807,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`C1-2025-20399`]` **[Glufosinate; Pesticide Tolerances](https://www.indexdata.org/glufosinate-pesticide-tolerances/)** — `2026-02-17` | `2 Pages`
 - `[`2026-03072`]` **[Partial Approval and Partial Disapproval of Air Quality Implementation Plans; Hawaii; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/partial-approval-and-partial-disapproval-of-air-quality-implementation-plans-hawaii-regional-haze-state-implementation-plan-for-the-second-implementation-period-2/)** — `2026-02-17` | `19 Pages`
 - `[`2026-02933`]` **[Afidopyropen; Pesticide Tolerances](https://www.indexdata.org/afidopyropen-pesticide-tolerances/)** — `2026-02-13` | `5 Pages`
-- `[`2026-02926`]` **[Rice Bran Wax in Pesticide Formulations; Exemption From the Requirement for a Tolerance](https://www.indexdata.org/rice-bran-wax-in-pesticide-formulations-exemption-from-the-requirement-for-a-tolerance/)** — `2026-02-13` | `5 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2026-11838`]` **[Drawbridge Operation Regulation; Big Carlos Pass, Estero Island, FL](https://www.indexdata.org/drawbridge-operation-regulation-big-carlos-pass-estero-island-fl/)** — `2026-06-12` | `3 Pages`
 - `[`2026-11789`]` **[Special Local Regulation; Ohio River, Henderson, KY](https://www.indexdata.org/special-local-regulation-ohio-river-henderson-ky/)** — `2026-06-11` | `2 Pages`
 - `[`2026-11725`]` **[Regulated Navigation Area; Piscataqua River, Newington, NH](https://www.indexdata.org/regulated-navigation-area-piscataqua-river-newington-nh/)** — `2026-06-11` | `4 Pages`
 - `[`2026-11724`]` **[Safety Zones; Annual Events in the Captain of the Port Detroit Zone](https://www.indexdata.org/safety-zones-annual-events-in-the-captain-of-the-port-detroit-zone/)** — `2026-06-11` | `2 Pages`
