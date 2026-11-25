@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/france/feed/](https://www.indexdata.org/france/feed/)  
 **Wikidata Sovereign Entity:** [`Q142`](https://www.wikidata.org/wiki/Q142)  
 **Governing Open-Government Framework:** *CRPA Art. L321-1 to L323-7 / Loi n° 2016-1321*  
-**Total Indexed Dossiers in France:** `617` across `19` issuing authorities  
-**Last Automated Sync:** `2026-11-25 01:20 UTC`
+**Total Indexed Dossiers in France:** `619` across `19` issuing authorities  
+**Last Automated Sync:** `2026-11-25 10:56 UTC`
 
 ---
 
 ## Issuing Authorities in France (19 Authorities)
 
-- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`382` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
+- **[Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)** (`384` dossiers) — [Authority Archive](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
 - **[Banque de France](https://www.indexdata.org/france/banque-de-france/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/france/banque-de-france/) | [RSS Feed](https://www.indexdata.org/france/banque-de-france/feed/)
 - **[National Institute of Statistics and Economic Studies (INSEE)](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/)** (`34` dossiers) — [Authority Archive](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/) | [RSS Feed](https://www.indexdata.org/france/national-institute-of-statistics-and-economic-studies-insee/feed/)
 - **[French Agricultural Research Centre for International Development (CIRAD)](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/) | [RSS Feed](https://www.indexdata.org/france/french-agricultural-research-centre-for-international-development-cirad/feed/)
@@ -34,11 +34,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–617 of 617)
+## Indexed Statutory & Regulatory Dossiers (Records 1–619 of 619)
 
 ### [Financial Markets Authority (Autorité des marchés financiers - AMF)](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/)
 Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/) | [RSS Feed](https://www.indexdata.org/france/financial-markets-authority-autorit-des-march-s-financiers-amf/feed/)
 
+- `[`FR-INFOFI-115303_20261125`]` **[EQUASENS enters into exclusive negotiations to acquire a majority stake in Synapse Medicine, the developer of MedGPT and a pharmaceutical database — Inside Information](https://www.indexdata.org/equasens-enters-into-exclusive-negotiations-to-acquire-a-majority-stake-in-synapse-medicine-the-developer-of-medgpt-and-a-pharmaceutical-database-inside-information/)** — `2026-11-25` | `3 Pages`
 - `[`FR-INFOFI-170333_20261124`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-54/)** — `2026-11-24` | `2 Pages`
 - `[`FR-INFOFI-170331_20261124`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-55/)** — `2026-11-24` | `2 Pages`
 - `[`FR-INFOFI-115337_20261124`]` **[BIGBEN: Overwhelming support from shareholders and creditors of Bigben Interactive voting within classes of affected parties on the draft accelerated safeguard plan — Inside Information](https://www.indexdata.org/bigben-overwhelming-support-from-shareholders-and-creditors-of-bigben-interactive-voting-within-classes-of-affected-parties-on-the-draft-accelerated-safeguard-plan-inside-information/)** — `2026-11-24` | `5 Pages`
@@ -46,6 +47,7 @@ Canonical Authority Archive: [https://www.indexdata.org/france/financial-markets
 - `[`FR-INFOFI-115208_20261124`]` **[Information regarding executed transactions within the framework of a share buyback programme (outside the liquidity agreement) from 16 November to 20 November 2026 — Acquisition or disposal of the issuer's own shares](https://www.indexdata.org/information-regarding-executed-transactions-within-the-framework-of-a-share-buyback-programme-outside-the-liquidity-agreement-from-16-november-to-20-november-2026-acquisition-or-disposal-o/)** — `2026-11-24` | `2 Pages`
 - `[`FR-INFOFI-114641_20261124`]` **[NACON: Broad support from shareholders and creditors of Nacon voting within classes of affected parties on the draft reorganisation plan — Inside Information](https://www.indexdata.org/nacon-broad-support-from-shareholders-and-creditors-of-nacon-voting-within-classes-of-affected-parties-on-the-draft-reorganisation-plan-inside-information/)** — `2026-11-24` | `6 Pages`
 - `[`FR-INFOFI-082441_20261124`]` **[STRATEGIC AP-HP CONTRACT AWARD AND RENEWAL OF THE UGAP CONTRACT — Inside Information](https://www.indexdata.org/strategic-ap-hp-contract-award-and-renewal-of-the-ugap-contract-inside-information/)** — `2026-11-24` | `3 Pages`
+- `[`FR-INFOFI-082396_20261124`]` **[MACOMPTA.FR - Number of outstanding shares and voting rights — Total number of voting rights and capital](https://www.indexdata.org/macompta-fr-number-of-outstanding-shares-and-voting-rights-total-number-of-voting-rights-and-capital-2/)** — `2026-11-24` | `2 Pages`
 - `[`FR-INFOFI-170319_20261123`]` **[Inside Information / Other news releases](https://www.indexdata.org/inside-information-other-news-releases-53/)** — `2026-11-23` | `4 Pages`
 - `[`FR-INFOFI-115125_20261123`]` **[Inventiva Reports Unaudited 2026 Third Quarter Financial Results¹ — Inside Information](https://www.indexdata.org/inventiva-reports-unaudited-2026-third-quarter-financial-results%c2%b9-inside-information/)** — `2026-11-23` | `4 Pages`
 - `[`FR-INFOFI-115105_20261123`]` **[EUROAPI strengthens bioproduction at Saint-Aubin-lès-Elbeuf and continues site decarbonisation with Cascadya — Inside Information](https://www.indexdata.org/euroapi-strengthens-bioproduction-at-saint-aubin-les-elbeuf-and-continues-site-decarbonisation-with-cascadya-inside-information/)** — `2026-11-23` | `3 Pages`
@@ -710,7 +712,7 @@ Canonical Authority Archive: [https://www.indexdata.org/france/french-research-i
 ### [Directorate of Legal and Administrative Information (Direction de l'information légale et administrative - DILA)](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/)
 Canonical Authority Archive: [https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/) | [RSS Feed](https://www.indexdata.org/france/directorate-of-legal-and-administrative-information-direction-de-l-information-l-gale-et-administrative-dila/feed/)
 
-- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-318/)** — `2024-03-26` | `7 Pages`
+- `[`FR-DILA-ANN-api-lannuaire-administration-locale-competence-geographique-documentation_technique_api_annuaire_administration_competence_geographique_pdf`]` **[api-lannuaire-administration-locale-competence-geographique — Documentation-technique-API-Annuaire-administration-competence-geographique](https://www.indexdata.org/api-lannuaire-administration-locale-competence-geographique-documentation-technique-api-annuaire-administration-competence-geographique-319/)** — `2024-03-26` | `7 Pages`
 - `[`FR-DILA-ANN-api-lannuaire-administration-documentation_technique_api_annuaire_de_l_administration_pdf`]` **[api-lannuaire-administration — Documentation-technique-API-Annuaire-de-l-administration](https://www.indexdata.org/api-lannuaire-administration-documentation-technique-api-annuaire-de-l-administration/)** — `2023-12-11` | `9 Pages`
 
 ### [National Commission on Informatics and Liberty (Commission nationale de l'informatique et des libertés - CNIL)](https://www.indexdata.org/france/national-commission-on-informatics-and-liberty-commission-nationale-de-l-informatique-et-des-libert-s-cnil/)

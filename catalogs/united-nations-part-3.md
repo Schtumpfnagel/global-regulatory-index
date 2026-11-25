@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,022` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,024` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-25 01:20 UTC`
+**Last Automated Sync:** `2026-11-25 10:56 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,024` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,022)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,024)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-80-712`]` **[Identical letters dated 21 April 2026 from the Permanent Representative of Lebanon to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/a-80-712-identical-letters-dated-21-april-2026-from-the-permanent-representative-of-lebanon-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-21` | `4 Pages`
 - `[`UN-A-RES-80-243-B`]` **[Special subjects relating to the programme budget for 2026 — resolution](https://www.indexdata.org/a-res-80-243-b-special-subjects-relating-to-the-programme-budget-for-2026-resolution/)** — `2026-04-20` | `3 Pages`
 - `[`UN-A-HRC-62-9-Add.1`]` **[Report of the Working Group on the Universal Periodic Review — Nepal](https://www.indexdata.org/a-hrc-62-9-add-1-report-of-the-working-group-on-the-universal-periodic-review-nepal/)** — `2026-04-20` | `11 Pages`
 - `[`UN-A-HRC-62-8`]` **[Report of the Working Group on the Universal Periodic Review — Rwanda](https://www.indexdata.org/a-hrc-62-8-report-of-the-working-group-on-the-universal-periodic-review-rwanda/)** — `2026-04-20` | `26 Pages`
@@ -1544,8 +1545,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-CN.6-2026-NGO-206`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-206-statement/)** — `2026-01-19` | `3 Pages`
 - `[`UN-E-CN.6-2026-NGO-205`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-205-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-204`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-204-statement/)** — `2026-01-19` | `4 Pages`
-- `[`UN-E-CN.6-2026-NGO-203`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-203-statement/)** — `2026-01-19` | `2 Pages`
-- `[`UN-E-CN.6-2026-NGO-202`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-202-statement/)** — `2026-01-19` | `4 Pages`
 
 ### [Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/programmes-and-funds/](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -1657,6 +1656,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-develo
 - `[`UNDP-EB-4111847`]` **[&#91;DP/2026/15/Add.1&#93; Report of the UNDP on the recommendations of the Joint Inspection Unit in 2025](https://www.indexdata.org/dp-2026-15-add-1-report-of-the-undp-on-the-recommendations-of-the-joint-inspection-unit-in-2025-2/)** — `2026-04-08` | `18 Pages`
 - `[`UNDP-EB-4111846`]` **[&#91;DP/2026/13&#93; UNDP : annual report of the Office of Audit and Investigations on internal audit and investigation activities in 2025](https://www.indexdata.org/dp-2026-13-undp-annual-report-of-the-office-of-audit-and-investigations-on-internal-audit-and-investigation-activities-in-2025-2/)** — `2026-04-08` | `25 Pages`
 
+### [Secretariat](https://www.indexdata.org/united-nations/secretariat/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretariat/](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
+
+- `[`UN-4130178`]` **[Conflict-related sexual violence — report of the United Nations Secretary-General](https://www.indexdata.org/4130178-conflict-related-sexual-violence-report-of-the-united-nations-secretary-general/)** — `2026-04-21` | `30 Pages`
+- `[`UN-4121052`]` **[Senior Officials of the United Nations and Officers of equivalent rank whose duty station is New York &#91;as of 30 Mar. 2026&#93; = — Hauts fonctionnaires des Nations Unies et des fonctionnaires de rang équivalent dont le lieu d'affectation est à New York = Altos funcionarios de las Naciones Unidas y oficiales del mismo rango cuyo lugar de destino es Nueva York](https://www.indexdata.org/4121052-senior-officials-of-the-united-nations-and-officers-of-equivalent-rank-whose-duty-station-is-new-york-as-of-30-mar-2026-hauts-fonctionnaires-des-nations-unies-et-des-fonctionn/)** — `2026-03-30` | `36 Pages`
+- `[`UN-4106339`]` **[Forced displacement — from territory of Ukraine occupied by the Russian Federation: forcible transfer and deportation bariers to retun, and the rights of internally displaced persons - 24 Feb. 2022-31 Dec. 2025](https://www.indexdata.org/4106339-forced-displacement-from-territory-of-ukraine-occupied-by-the-russian-federation-forcible-transfer-and-deportation-bariers-to-retun-and-the-rights-of-internally-displaced-persons/)** — `2026-03-20` | `30 Pages`
+- `[`UN-ST-AI-2026-1`]` **[Establishment and management of trust funds](https://www.indexdata.org/st-ai-2026-1-establishment-and-management-of-trust-funds/)** — `2026-03-15` | `9 Pages`
+- `[`UN-ST-AI-2021-3-Rev.1`]` **[Evaluation in the United Nations Secretariat](https://www.indexdata.org/st-ai-2021-3-rev-1-evaluation-in-the-united-nations-secretariat/)** — `2026-02-25` | `7 Pages`
+- `[`UN-ST-IC-2026-1`]` **[Payment of 2025 income taxes](https://www.indexdata.org/st-ic-2026-1-payment-of-2025-income-taxes/)** — `2026-01-29` | `38 Pages`
+
 ### [Other UN Bodies and Entities](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/other-un-bodies-and-entities/](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/) | [RSS Feed](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/feed/)
 
@@ -1665,15 +1674,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/other-un-
 - `[`UN-PBC-20-OC-SR.1`]` **[Summary record of the 1st meeting, held at Headquarters, New York, on Thursday, 29 January 2026 — Peacebuilding Commission, 20th session, Organizational Committee](https://www.indexdata.org/pbc-20-oc-sr-1-summary-record-of-the-1st-meeting-held-at-headquarters-new-york-on-thursday-29-january-2026-peacebuilding-commission-20th-session-organizational-committee/)** — `2026-03-18` | `16 Pages`
 - `[`UN-UNW-2026-L.1-Rev.2`]` **[Annotated provisional agenda and workplan for the 1st regular session, 18 and 19 February 2026 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women : note](https://www.indexdata.org/unw-2026-l-1-rev-2-annotated-provisional-agenda-and-workplan-for-the-1st-regular-session-18-and-19-february-2026-executive-board-of-the-united-nations-entity-for-gender-equality-and-the-e/)** — `2026-02-10` | `7 Pages`
 - `[`UN-UNW-2026-L.1-Rev.1`]` **[Annotated provisional agenda and workplan for the 1st regular session, 18 and 19 February 2026 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women : note](https://www.indexdata.org/unw-2026-l-1-rev-1-annotated-provisional-agenda-and-workplan-for-the-1st-regular-session-18-and-19-february-2026-executive-board-of-the-united-nations-entity-for-gender-equality-and-the-e/)** — `2026-01-26` | `6 Pages`
-
-### [Secretariat](https://www.indexdata.org/united-nations/secretariat/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretariat/](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
-
-- `[`UN-4121052`]` **[Senior Officials of the United Nations and Officers of equivalent rank whose duty station is New York &#91;as of 30 Mar. 2026&#93; = — Hauts fonctionnaires des Nations Unies et des fonctionnaires de rang équivalent dont le lieu d'affectation est à New York = Altos funcionarios de las Naciones Unidas y oficiales del mismo rango cuyo lugar de destino es Nueva York](https://www.indexdata.org/4121052-senior-officials-of-the-united-nations-and-officers-of-equivalent-rank-whose-duty-station-is-new-york-as-of-30-mar-2026-hauts-fonctionnaires-des-nations-unies-et-des-fonctionn/)** — `2026-03-30` | `36 Pages`
-- `[`UN-4106339`]` **[Forced displacement — from territory of Ukraine occupied by the Russian Federation: forcible transfer and deportation bariers to retun, and the rights of internally displaced persons - 24 Feb. 2022-31 Dec. 2025](https://www.indexdata.org/4106339-forced-displacement-from-territory-of-ukraine-occupied-by-the-russian-federation-forcible-transfer-and-deportation-bariers-to-retun-and-the-rights-of-internally-displaced-persons/)** — `2026-03-20` | `30 Pages`
-- `[`UN-ST-AI-2026-1`]` **[Establishment and management of trust funds](https://www.indexdata.org/st-ai-2026-1-establishment-and-management-of-trust-funds/)** — `2026-03-15` | `9 Pages`
-- `[`UN-ST-AI-2021-3-Rev.1`]` **[Evaluation in the United Nations Secretariat](https://www.indexdata.org/st-ai-2021-3-rev-1-evaluation-in-the-united-nations-secretariat/)** — `2026-02-25` | `7 Pages`
-- `[`UN-ST-IC-2026-1`]` **[Payment of 2025 income taxes](https://www.indexdata.org/st-ic-2026-1-payment-of-2025-income-taxes/)** — `2026-01-29` | `38 Pages`
 
 ### [Russian Federation](https://www.indexdata.org/united-nations/russian-federation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/russian-federation/](https://www.indexdata.org/united-nations/russian-federation/) | [RSS Feed](https://www.indexdata.org/united-nations/russian-federation/feed/)

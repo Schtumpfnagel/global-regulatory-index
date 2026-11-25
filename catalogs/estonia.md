@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q191`](https://www.wikidata.org/wiki/Q191)  
 **Governing Open-Government Framework:** *Estonian Copyright Act § 5(3)-(4), Public Information Act § 3¹ & Riigikogu Open Data Licence*  
 **Total Indexed Dossiers in Estonia:** `16` across `3` issuing authorities  
-**Last Automated Sync:** `2026-11-25 01:20 UTC`
+**Last Automated Sync:** `2026-11-25 10:56 UTC`
 
 ---
 

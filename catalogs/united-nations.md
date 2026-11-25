@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,022` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,024` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-25 01:20 UTC`
+**Last Automated Sync:** `2026-11-25 10:56 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,024` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,12 +187,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,022)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,024)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
 - `[`UN-A-AC.96-SR.791`]` **[Summary record of the 791st meeting, held at the Palais des Nations, Geneva, on Thursday, 15 October 2026 — Executive Committee of the Programme of the United Nations High Commissioner for Refugees, 77th session](https://www.indexdata.org/a-ac-96-sr-791-summary-record-of-the-791st-meeting-held-at-the-palais-des-nations-geneva-on-thursday-15-october-2026-executive-committee-of-the-programme-of-the-united-nations-high-com/)** — `2026-11-20` | `25 Pages`
+- `[`UN-A-C.2-81-L.58`]` **[International financial system and development — amendment to draft resolution A/C.2/81/L.47](https://www.indexdata.org/a-c-2-81-l-58-international-financial-system-and-development-amendment-to-draft-resolution-a-c-2-81-l-47/)** — `2026-11-19` | `2 Pages`
+- `[`UN-A-C.2-81-L.57`]` **[External debt sustainability and development — amendment to revised draft resolution A/C.2/81/L.9/Rev.1](https://www.indexdata.org/a-c-2-81-l-57-external-debt-sustainability-and-development-amendment-to-revised-draft-resolution-a-c-2-81-l-9-rev-1/)** — `2026-11-19` | `3 Pages`
 - `[`UN-A-AC.96-SR.788`]` **[Summary record of the 788th meeting, held at the Palais des Nations, Geneva, on Wednesday, 14 October 2026 — Executive Committee of the Programme of the United Nations High Commissioner for Refugees, 77th session](https://www.indexdata.org/a-ac-96-sr-788-summary-record-of-the-788th-meeting-held-at-the-palais-des-nations-geneva-on-wednesday-14-october-2026-executive-committee-of-the-programme-of-the-united-nations-high-co/)** — `2026-11-18` | `20 Pages`
 - `[`UN-A-C.3-81-L.76`]` **[Implementation of resolution 13/1 of the Conference of the Parties to the United Nations Convention against Transnational Organized Crime : Programme budget implications of draft resolution A/C.3/81/L.8/Rev.1 — statement submitted by the Secretary-General in accordance with rule 153 of the rules of procedure of the General Assembly](https://www.indexdata.org/a-c-3-81-l-76-implementation-of-resolution-13-1-of-the-conference-of-the-parties-to-the-united-nations-convention-against-transnational-organized-crime-programme-budget-implications-of-draft-resol/)** — `2026-11-17` | `6 Pages`
 - `[`UN-A-HRC-63-SR.42`]` **[Summary record of the 42nd meeting, held at the Palais des Nations, Geneva, on Tuesday, 6 October 2026 — Human Rights Council, 63rd session](https://www.indexdata.org/a-hrc-63-sr-42-summary-record-of-the-42nd-meeting-held-at-the-palais-des-nations-geneva-on-tuesday-6-october-2026-human-rights-council-63rd-session/)** — `2026-11-12` | `26 Pages`
@@ -1163,8 +1165,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-62-L.48`]` **[Human rights situation in and around El Obeid, in the context of the ongoing conflict in the Sudan — draft resolution](https://www.indexdata.org/a-hrc-62-l-48-human-rights-situation-in-and-around-el-obeid-in-the-context-of-the-ongoing-conflict-in-the-sudan-draft-resolution/)** — `2026-07-06` | `5 Pages`
 - `[`UN-A-HRC-61-SR.52`]` **[Summary record of the 52nd meeting, held at the Palais des Nations, Geneva, on Monday, 30 March 2026 — Human Rights Council, 61st session](https://www.indexdata.org/a-hrc-61-sr-52-summary-record-of-the-52nd-meeting-held-at-the-palais-des-nations-geneva-on-monday-30-march-2026-human-rights-council-61st-session/)** — `2026-07-06` | `25 Pages`
 - `[`UN-A-81-130`]` **[Promotion of truth, justice, reparation and guarantees of non-recurrence — note](https://www.indexdata.org/a-81-130-promotion-of-truth-justice-reparation-and-guarantees-of-non-recurrence-note/)** — `2026-07-06` | `22 Pages`
-- `[`UN-A-HRC-63-30`]` **[Historical and contemporary forms of violations against the sexual and reproductive health and rights of Indigenous women and girls — report of the Special Rapporteur on the Rights of Indigenous Peoples, Albert K. Barume](https://www.indexdata.org/a-hrc-63-30-historical-and-contemporary-forms-of-violations-against-the-sexual-and-reproductive-health-and-rights-of-indigenous-women-and-girls-report-of-the-special-rapporteur-on-the-righ/)** — `2026-07-03` | `21 Pages`
-- `[`UN-A-HRC-63-27-Add.1`]` **[Visit to Mexico — report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Marcos Orellana](https://www.indexdata.org/a-hrc-63-27-add-1-visit-to-mexico-report-of-the-special-rapporteur-on-the-implications-for-human-rights-of-the-environmentally-sound-management-and-disposal-of-hazardous-substances-and-was/)** — `2026-07-03` | `20 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)

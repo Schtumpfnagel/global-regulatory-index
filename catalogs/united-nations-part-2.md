@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,022` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,024` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-25 01:20 UTC`
+**Last Automated Sync:** `2026-11-25 10:56 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,024` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,11 +187,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,022)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,024)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-63-30`]` **[Historical and contemporary forms of violations against the sexual and reproductive health and rights of Indigenous women and girls — report of the Special Rapporteur on the Rights of Indigenous Peoples, Albert K. Barume](https://www.indexdata.org/a-hrc-63-30-historical-and-contemporary-forms-of-violations-against-the-sexual-and-reproductive-health-and-rights-of-indigenous-women-and-girls-report-of-the-special-rapporteur-on-the-righ/)** — `2026-07-03` | `21 Pages`
+- `[`UN-A-HRC-63-27-Add.1`]` **[Visit to Mexico — report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Marcos Orellana](https://www.indexdata.org/a-hrc-63-27-add-1-visit-to-mexico-report-of-the-special-rapporteur-on-the-implications-for-human-rights-of-the-environmentally-sound-management-and-disposal-of-hazardous-substances-and-was/)** — `2026-07-03` | `20 Pages`
 - `[`UN-A-HRC-63-24-Add.1`]` **[Visit to Iceland — report of the Independent Expert on the Promotion of a Democratic and Equitable International Order, George Katrougalos](https://www.indexdata.org/a-hrc-63-24-add-1-visit-to-iceland-report-of-the-independent-expert-on-the-promotion-of-a-democratic-and-equitable-international-order-george-katrougalos/)** — `2026-07-03` | `15 Pages`
 - `[`UN-A-HRC-62-NI-7`]` **[Written submission by the Office of the Ombudsman of Colombia — note](https://www.indexdata.org/a-hrc-62-ni-7-written-submission-by-the-office-of-the-ombudsman-of-colombia-note/)** — `2026-07-03` | `4 Pages`
 - `[`UN-A-HRC-62-L.26-Rev.1`]` **[Protection of healthcare in armed conflict — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-26-rev-1-protection-of-healthcare-in-armed-conflict-revised-draft-resolution/)** — `2026-07-03` | `7 Pages`
@@ -829,7 +831,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-C.5-80-L.31`]` **[Status of preparedness of documentation for the 5th Committee during the 2nd part of the resumed 80th session of the General Assembly — note](https://www.indexdata.org/a-c-5-80-l-31-status-of-preparedness-of-documentation-for-the-5th-committee-during-the-2nd-part-of-the-resumed-80th-session-of-the-general-assembly-note/)** — `2026-04-21` | `7 Pages`
 - `[`UN-A-81-6-Sect.-9`]` **[Proposed programme budget for 2027 — Part 4, — International cooperation for development — Section 9, — Economic and social affairs — Programme 7, — Economic and social affairs](https://www.indexdata.org/a-81-6-sect-9-proposed-programme-budget-for-2027-part-4-international-cooperation-for-development-section-9-economic-and-social-affairs-program/)** — `2026-04-21` | `88 Pages`
 - `[`UN-A-81-6-Sect.-28`]` **[Proposed programme budget for 2027 — Part 7, — Global communications — Section 28, — Global communications — Programme 24, — Global communications](https://www.indexdata.org/a-81-6-sect-28-proposed-programme-budget-for-2027-part-7-global-communications-section-28-global-communications-programme-24-global/)** — `2026-04-21` | `32 Pages`
-- `[`UN-A-80-712`]` **[Identical letters dated 21 April 2026 from the Permanent Representative of Lebanon to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/a-80-712-identical-letters-dated-21-april-2026-from-the-permanent-representative-of-lebanon-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-21` | `4 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -1701,14 +1702,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/other-un-
 - `[`UN-UNW-2026-2`]` **[Report of the Under-Secretary-General/Executive Director of the United Nations Entity for Gender Equality and the Empowerment of Women on the implementation of the Strategic Plan 2022–2025](https://www.indexdata.org/unw-2026-2-report-of-the-under-secretary-general-executive-director-of-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women-on-the-implementation-of-the-strategic-plan-2022/)** — `2026-05-21` | `31 Pages`
 - `[`UN-UNW-2026-5`]` **[Report on the Activities of the UN-Women Ethics Function in 2025](https://www.indexdata.org/unw-2026-5-report-on-the-activities-of-the-un-women-ethics-function-in-2025/)** — `2026-05-20` | `14 Pages`
 
-### [Secretariat](https://www.indexdata.org/united-nations/secretariat/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretariat/](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
-
-- `[`UN-ST-AI-2013-4-Rev.2`]` **[Consultants and individual contractors](https://www.indexdata.org/st-ai-2013-4-rev-2-consultants-and-individual-contractors/)** — `2026-07-01` | `35 Pages`
-- `[`UN-ST-IC-2026-3`]` **[Renewal of the Medical Insurance Plan for United Nations locally recruited staff at designated duty stations away from Headquarters, effective 1 July 2026](https://www.indexdata.org/st-ic-2026-3-renewal-of-the-medical-insurance-plan-for-united-nations-locally-recruited-staff-at-designated-duty-stations-away-from-headquarters-effective-1-july-2026/)** — `2026-06-01` | `48 Pages`
-- `[`UN-ST-IC-2026-2`]` **[Renewal of the United Nations Headquarters-administered health insurance programme, effective 1 July 2026 — from the Controller](https://www.indexdata.org/st-ic-2026-2-renewal-of-the-united-nations-headquarters-administered-health-insurance-programme-effective-1-july-2026-from-the-controller/)** — `2026-06-01` | `66 Pages`
-- `[`UN-4130178`]` **[Conflict-related sexual violence — report of the United Nations Secretary-General](https://www.indexdata.org/4130178-conflict-related-sexual-violence-report-of-the-united-nations-secretary-general/)** — `2026-04-21` | `30 Pages`
-
 ### [United Nations Official Documents](https://www.indexdata.org/united-nations/united-nations-official-documents/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-official-documents/](https://www.indexdata.org/united-nations/united-nations-official-documents/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-official-documents/feed/)
 
@@ -1716,6 +1709,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-na
 - `[`UN-A-AC.182-L.170`]` **[Identification of new subjects — obligations of Member States in relation to unilateral coercive measures : guidelines on ways and means to prevent, remove, minimize and redress the adverse impacts of unilateral coercive measures : further revised proposal](https://www.indexdata.org/a-ac-182-l-170-identification-of-new-subjects-obligations-of-member-states-in-relation-to-unilateral-coercive-measures-guidelines-on-ways-and-means-to-prevent-remove-minimize-and-redre/)** — `2026-06-01` | `6 Pages`
 - `[`UN-A-AC.182-2026-L.3`]` **[Draft report — Special Committee on the Charter of the United Nations and on the Strengthening of the Role of the Organization, New York, 18–26 February 2026](https://www.indexdata.org/a-ac-182-2026-l-3-draft-report-special-committee-on-the-charter-of-the-united-nations-and-on-the-strengthening-of-the-role-of-the-organization-new-york-18-26-february-2026/)** — `2026-06-01` | `3 Pages`
 - `[`UN-A-AC.182-2026-L.2`]` **[Draft report — Special Committee on the Charter of the United Nations and on the Strengthening of the Role of the Organization, New York, 18–26 February 2026](https://www.indexdata.org/a-ac-182-2026-l-2-draft-report-special-committee-on-the-charter-of-the-united-nations-and-on-the-strengthening-of-the-role-of-the-organization-new-york-18-26-february-2026/)** — `2026-06-01` | `2 Pages`
+
+### [Secretariat](https://www.indexdata.org/united-nations/secretariat/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretariat/](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
+
+- `[`UN-ST-AI-2013-4-Rev.2`]` **[Consultants and individual contractors](https://www.indexdata.org/st-ai-2013-4-rev-2-consultants-and-individual-contractors/)** — `2026-07-01` | `35 Pages`
+- `[`UN-ST-IC-2026-3`]` **[Renewal of the Medical Insurance Plan for United Nations locally recruited staff at designated duty stations away from Headquarters, effective 1 July 2026](https://www.indexdata.org/st-ic-2026-3-renewal-of-the-medical-insurance-plan-for-united-nations-locally-recruited-staff-at-designated-duty-stations-away-from-headquarters-effective-1-july-2026/)** — `2026-06-01` | `48 Pages`
+- `[`UN-ST-IC-2026-2`]` **[Renewal of the United Nations Headquarters-administered health insurance programme, effective 1 July 2026 — from the Controller](https://www.indexdata.org/st-ic-2026-2-renewal-of-the-united-nations-headquarters-administered-health-insurance-programme-effective-1-july-2026-from-the-controller/)** — `2026-06-01` | `66 Pages`
 
 ### [United Nations Office for Disarmament Affairs (UNODA)](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs-unoda/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs-unoda/](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs-unoda/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs-unoda/feed/)

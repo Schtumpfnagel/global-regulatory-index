@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,022` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,024` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-25 01:20 UTC`
+**Last Automated Sync:** `2026-11-25 10:56 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,024` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,022 of 7,022)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,024 of 7,024)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -418,6 +418,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-develo
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-RES-79-148`]` **[Strengthening volunteerism for the achievement of the Sustainable Development Goals, leaving no one behind — resolution](https://www.indexdata.org/a-res-79-148-strengthening-volunteerism-for-the-achievement-of-the-sustainable-development-goals-leaving-no-one-behind-resolution/)** — `2024-12-19` | `5 Pages`
+- `[`UN-A-RES-79-146`]` **[Implementation of the outcome of the World Summit for Social Development and of the 24th special session of the General Assembly — resolution](https://www.indexdata.org/a-res-79-146-implementation-of-the-outcome-of-the-world-summit-for-social-development-and-of-the-24th-special-session-of-the-general-assembly-resolution/)** — `2024-12-19` | `20 Pages`
 - `[`UN-A-RES-79-233`]` **[Programme of Action for Landlocked Developing Countries for the Decade 2024–2034 — resolution](https://www.indexdata.org/a-res-79-233-programme-of-action-for-landlocked-developing-countries-for-the-decade-2024-2034-resolution/)** — `2024-12-18` | `48 Pages`
 - `[`UN-A-79-L.43`]` **[Cooperation between the United Nations and the Community of Portuguese-speaking Countries — draft resolution](https://www.indexdata.org/a-79-l-43-cooperation-between-the-united-nations-and-the-community-of-portuguese-speaking-countries-draft-resolution/)** — `2024-12-11` | `5 Pages`
 - `[`UN-A-79-7-Add.33`]` **[Programme of Action for Landlocked Developing Countries for the Decade 2024-2034 : programme budget implications of draft resolution A/79/L.21 — 34th report of the Advisory Committee on Administrative and Budgetary Questions on the proposed programme budget for 2025](https://www.indexdata.org/a-79-7-add-33-programme-of-action-for-landlocked-developing-countries-for-the-decade-2024-2034-programme-budget-implications-of-draft-resolution-a-79-l-21-34th-report-of-the-advisory-com/)** — `2024-12-10` | `4 Pages`

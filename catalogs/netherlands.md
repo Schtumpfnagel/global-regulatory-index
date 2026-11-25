@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/netherlands/feed/](https://www.indexdata.org/netherlands/feed/)  
 **Wikidata Sovereign Entity:** [`Q55`](https://www.wikidata.org/wiki/Q55)  
 **Governing Open-Government Framework:** *Auteurswet Art. 11 & Art. 15b / Who / CC0 1.0 / CC BY 4.0*  
-**Total Indexed Dossiers in Netherlands:** `40` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-25 01:20 UTC`
+**Total Indexed Dossiers in Netherlands:** `41` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-25 10:56 UTC`
 
 ---
 
@@ -14,13 +14,13 @@
 
 - **[Royal Netherlands Aerospace Centre (NLR)](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/) | [RSS Feed](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/feed/)
 - **[Centrum Wiskunde & Informatica (CWI)](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/) | [RSS Feed](https://www.indexdata.org/netherlands/centrum-wiskunde-informatica-cwi/feed/)
-- **[Research and Data Centre - Ministry of Justice and Security (WODC)](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/) | [RSS Feed](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/feed/)
+- **[Research and Data Centre - Ministry of Justice and Security (WODC)](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/) | [RSS Feed](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/feed/)
 - **[House of Representatives of the Netherlands (Tweede Kamer)](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/) | [RSS Feed](https://www.indexdata.org/netherlands/house-of-representatives-of-the-netherlands-tweede-kamer/feed/)
 - **[Netherlands Controlling Authority for Milk and Milk Products (COKZ)](https://www.indexdata.org/netherlands/netherlands-controlling-authority-for-milk-and-milk-products-cokz/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/netherlands/netherlands-controlling-authority-for-milk-and-milk-products-cokz/) | [RSS Feed](https://www.indexdata.org/netherlands/netherlands-controlling-authority-for-milk-and-milk-products-cokz/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–40 of 40)
+## Indexed Statutory & Regulatory Dossiers (Records 1–41 of 41)
 
 ### [Royal Netherlands Aerospace Centre (NLR)](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/)
 Canonical Authority Archive: [https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/) | [RSS Feed](https://www.indexdata.org/netherlands/royal-netherlands-aerospace-centre-nlr/feed/)
@@ -63,6 +63,7 @@ Canonical Authority Archive: [https://www.indexdata.org/netherlands/centrum-wisk
 ### [Research and Data Centre - Ministry of Justice and Security (WODC)](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/)
 Canonical Authority Archive: [https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/) | [RSS Feed](https://www.indexdata.org/netherlands/research-and-data-centre-ministry-of-justice-and-security-wodc/feed/)
 
+- `[`NL-WODC-3602`]` **[Usefulness and necessity of the Dutch bankruptcy proceeding for natural persons (full text only available in Dutch](https://www.indexdata.org/usefulness-and-necessity-of-the-dutch-bankruptcy-proceeding-for-natural-persons-full-text-only-available-in-dutch/)** — `2026-11-25` | `11 Pages`
 - `[`NL-WODC-3594`]` **[Public Access to Criminal Proceedings in Relation to Privacy and Security](https://www.indexdata.org/public-access-to-criminal-proceedings-in-relation-to-privacy-and-security/)** — `2026-11-05` | `18 Pages`
 - `[`NL-WODC-3591`]` **[Deelname aan kansspelen in Caribisch Nederland - meting 2026](https://www.indexdata.org/deelname-aan-kansspelen-in-caribisch-nederland-meting-2026/)** — `2026-10-29` | `13 Pages`
 - `[`NL-WODC-3576`]` **[Continuity of Care Monitor - The alignment between forensic and regular care](https://www.indexdata.org/continuity-of-care-monitor-the-alignment-between-forensic-and-regular-care/)** — `2026-09-22` | `9 Pages`

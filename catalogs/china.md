@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/china/feed/](https://www.indexdata.org/china/feed/)  
 **Wikidata Sovereign Entity:** [`Q148`](https://www.wikidata.org/wiki/Q148)  
 **Governing Open-Government Framework:** *Copyright Law of the PRC, Art. 5(1)*  
-**Total Indexed Dossiers in China:** `49` across `20` issuing authorities  
-**Last Automated Sync:** `2026-11-25 01:20 UTC`
+**Total Indexed Dossiers in China:** `50` across `20` issuing authorities  
+**Last Automated Sync:** `2026-11-25 10:56 UTC`
 
 ---
 
 ## Issuing Authorities in China (20 Authorities)
 
-- **[Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
+- **[Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
 - **[Government of the Hong Kong SAR — Intellectual Property Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-intellectual-property-department/feed/)
 - **[Government of the Hong Kong SAR — Department of Justice](https://www.indexdata.org/china/government-of-the-hong-kong-sar-department-of-justice/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/china/government-of-the-hong-kong-sar-department-of-justice/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-department-of-justice/feed/)
 - **[Hong Kong Housing Authority](https://www.indexdata.org/china/hong-kong-housing-authority/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/china/hong-kong-housing-authority/) | [RSS Feed](https://www.indexdata.org/china/hong-kong-housing-authority/feed/)
@@ -35,13 +35,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–49 of 49)
+## Indexed Statutory & Regulatory Dossiers (Records 1–50 of 50)
 
 ### [Government of the Hong Kong SAR — Census and Statistics Department](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/)
 Canonical Authority Archive: [https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/) | [RSS Feed](https://www.indexdata.org/china/government-of-the-hong-kong-sar-census-and-statistics-department/feed/)
 
 - `[`CN-HK-DATAGOV-ee8df2e4-b904-4674-813e-3084c8f4dfe2-spec`]` **[Statistics on Labour Force, Unemployment and Underemployment - Table 210-06101 : Statistics on labour force, employment, unemployment and underemployment — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/statistics-on-labour-force-unemployment-and-underemployment-table-210-06101-statistics-on-labour-force-employment-unemployment-and-underemployment-official-data-specification-census/)** — `2026-11-17` | `4 Pages`
 - `[`CN-HK-DATAGOV-c9330dc9-b02f-4026-9d9a-6d7349a313de-spec`]` **[Statistics on Labour Force, Unemployment and Underemployment (excluding foreign domestic helpers) - Table 210-06314A : Median monthly employment earnings of employed persons by age and sex (excluding foreign domestic helpers) — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/statistics-on-labour-force-unemployment-and-underemployment-excluding-foreign-domestic-helpers-table-210-06314a-median-monthly-employment-earnings-of-employed-persons-by-age-and-sex-excluding/)** — `2026-11-17` | `4 Pages`
+- `[`CN-HK-DATAGOV-adccdacd-9c55-4582-a785-3cba235e63b4-spec`]` **[Statistics on Labour Force, Unemployment and Underemployment - Table 210-06316 : Median monthly employment earnings of employed persons by industry of main employment and sex — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/statistics-on-labour-force-unemployment-and-underemployment-table-210-06316-median-monthly-employment-earnings-of-employed-persons-by-industry-of-main-employment-and-sex-official-data-s/)** — `2026-11-17` | `4 Pages`
 - `[`CN-HK-DATAGOV-4671843a-761d-4cf9-8b4f-e1b9b5c29053-spec`]` **[Statistics on Labour Force, Unemployment and Underemployment - Table 210-06305 : Employed persons by detailed industry of main employment and sex — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/statistics-on-labour-force-unemployment-and-underemployment-table-210-06305-employed-persons-by-detailed-industry-of-main-employment-and-sex-official-data-specification-census-and-stat/)** — `2026-11-17` | `4 Pages`
 - `[`CN-HK-DATAGOV-2ddd8aaf-a2e4-4da6-af7f-1bb4e45f1bc6-spec`]` **[Housing and Property - Table 920-04001 : Stock of permanent living quarters by District Council district — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/housing-and-property-table-920-04001-stock-of-permanent-living-quarters-by-district-council-district-official-data-specification-census-and-statistics-department/)** — `2026-11-17` | `4 Pages`
 - `[`CN-HK-DATAGOV-f5813618-fb9e-4cf9-8a87-317346a625b3-spec`]` **[Health - Table 930-92084 : Expenditure of Department of Health and Hospital Authority — Official Data Specification (Census and Statistics Department)](https://www.indexdata.org/health-table-930-92084-expenditure-of-department-of-health-and-hospital-authority-official-data-specification-census-and-statistics-department/)** — `2026-11-05` | `4 Pages`
