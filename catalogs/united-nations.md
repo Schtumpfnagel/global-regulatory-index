@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,021` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,022` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-24 17:13 UTC`
+**Last Automated Sync:** `2026-11-25 01:20 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,024` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,021)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,022)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1165,11 +1165,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-81-130`]` **[Promotion of truth, justice, reparation and guarantees of non-recurrence — note](https://www.indexdata.org/a-81-130-promotion-of-truth-justice-reparation-and-guarantees-of-non-recurrence-note/)** — `2026-07-06` | `22 Pages`
 - `[`UN-A-HRC-63-30`]` **[Historical and contemporary forms of violations against the sexual and reproductive health and rights of Indigenous women and girls — report of the Special Rapporteur on the Rights of Indigenous Peoples, Albert K. Barume](https://www.indexdata.org/a-hrc-63-30-historical-and-contemporary-forms-of-violations-against-the-sexual-and-reproductive-health-and-rights-of-indigenous-women-and-girls-report-of-the-special-rapporteur-on-the-righ/)** — `2026-07-03` | `21 Pages`
 - `[`UN-A-HRC-63-27-Add.1`]` **[Visit to Mexico — report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Marcos Orellana](https://www.indexdata.org/a-hrc-63-27-add-1-visit-to-mexico-report-of-the-special-rapporteur-on-the-implications-for-human-rights-of-the-environmentally-sound-management-and-disposal-of-hazardous-substances-and-was/)** — `2026-07-03` | `20 Pages`
-- `[`UN-A-HRC-63-24-Add.1`]` **[Visit to Iceland — report of the Independent Expert on the Promotion of a Democratic and Equitable International Order, George Katrougalos](https://www.indexdata.org/a-hrc-63-24-add-1-visit-to-iceland-report-of-the-independent-expert-on-the-promotion-of-a-democratic-and-equitable-international-order-george-katrougalos/)** — `2026-07-03` | `15 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 
+- `[`UN-S-PV.10272`]` **[Security Council, 81st year — 10272nd meeting, Friday, 13 November 2026, New York](https://www.indexdata.org/s-pv-10272-security-council-81st-year-10272nd-meeting-friday-13-november-2026-new-york/)** — `2026-11-25` | `7 Pages`
 - `[`UN-S-PV.10269`]` **[Security Council, 81st year — 10269th meeting, Thursday, 12 November 2026, New York](https://www.indexdata.org/s-pv-10269-security-council-81st-year-10269th-meeting-thursday-12-november-2026-new-york/)** — `2026-11-18` | `8 Pages`
 - `[`UN-S-PV.10264`]` **[Security Council, 81st year — 10264th meeting Thursday, 5 November 2026, New York](https://www.indexdata.org/s-pv-10264-security-council-81st-year-10264th-meeting-thursday-5-november-2026-new-york/)** — `2026-11-13` | `2 Pages`
 - `[`UN-S-RES-2837-2026`]` **[Resolution 2837 (2026)](https://www.indexdata.org/s-res-2837-2026-resolution-2837-2026/)** — `2026-11-12` | `7 Pages`

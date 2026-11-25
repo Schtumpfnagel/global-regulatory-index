@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,021` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,022` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-24 17:13 UTC`
+**Last Automated Sync:** `2026-11-25 01:20 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,024` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,021)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,022)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-63-24-Add.1`]` **[Visit to Iceland — report of the Independent Expert on the Promotion of a Democratic and Equitable International Order, George Katrougalos](https://www.indexdata.org/a-hrc-63-24-add-1-visit-to-iceland-report-of-the-independent-expert-on-the-promotion-of-a-democratic-and-equitable-international-order-george-katrougalos/)** — `2026-07-03` | `15 Pages`
 - `[`UN-A-HRC-62-NI-7`]` **[Written submission by the Office of the Ombudsman of Colombia — note](https://www.indexdata.org/a-hrc-62-ni-7-written-submission-by-the-office-of-the-ombudsman-of-colombia-note/)** — `2026-07-03` | `4 Pages`
 - `[`UN-A-HRC-62-L.26-Rev.1`]` **[Protection of healthcare in armed conflict — revised draft resolution](https://www.indexdata.org/a-hrc-62-l-26-rev-1-protection-of-healthcare-in-armed-conflict-revised-draft-resolution/)** — `2026-07-03` | `7 Pages`
 - `[`UN-A-HRC-62-L.23`]` **[Technical assistance and capacity-building for South Sudan — draft resolution](https://www.indexdata.org/a-hrc-62-l-23-technical-assistance-and-capacity-building-for-south-sudan-draft-resolution/)** — `2026-07-03` | `4 Pages`
@@ -1681,16 +1682,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-high-c
 - `[`UNHCR-NADA-1455`]` **[Sudan — Multi Sectoral Needs Assessment - 2025](https://www.indexdata.org/sudan-multi-sectoral-needs-assessment-2025/)** — `2026-05-06` | `31 Pages`
 - `[`UNHCR-NADA-1398`]` **[Afghanistan — Household Multi-Sectoral Need Assessment (MSNA) - 2025 H1](https://www.indexdata.org/afghanistan-household-multi-sectoral-need-assessment-msna-2025-h1/)** — `2026-04-22` | `74 Pages`
 
-### [Other UN Bodies and Entities](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/other-un-bodies-and-entities/](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/) | [RSS Feed](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/feed/)
-
-- `[`UN-UNW-2026-L.3`]` **[Annotated provisional agenda and workplan for the annual session, 23-25 June 2026 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women : note](https://www.indexdata.org/unw-2026-l-3-annotated-provisional-agenda-and-workplan-for-the-annual-session-23-25-june-2026-executive-board-of-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women/)** — `2026-05-21` | `7 Pages`
-- `[`UN-UNW-2026-4`]` **[Report of the evaluation function of the United Nations Entity for Gender Equality and the Empowerment of Women, 2025](https://www.indexdata.org/unw-2026-4-report-of-the-evaluation-function-of-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women-2025/)** — `2026-05-21` | `23 Pages`
-- `[`UN-UNW-2026-3`]` **[Report on internal audit and investigation activities for the period from 1 January to 31 December 2025 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women](https://www.indexdata.org/unw-2026-3-report-on-internal-audit-and-investigation-activities-for-the-period-from-1-january-to-31-december-2025-executive-board-of-the-united-nations-entity-for-gender-equality-and-the/)** — `2026-05-21` | `24 Pages`
-- `[`UN-UNW-2026-2`]` **[Report of the Under-Secretary-General/Executive Director of the United Nations Entity for Gender Equality and the Empowerment of Women on the implementation of the Strategic Plan 2022–2025](https://www.indexdata.org/unw-2026-2-report-of-the-under-secretary-general-executive-director-of-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women-on-the-implementation-of-the-strategic-plan-2022/)** — `2026-05-21` | `31 Pages`
-- `[`UN-UNW-2026-5`]` **[Report on the Activities of the UN-Women Ethics Function in 2025](https://www.indexdata.org/unw-2026-5-report-on-the-activities-of-the-un-women-ethics-function-in-2025/)** — `2026-05-20` | `14 Pages`
-- `[`UN-UNW-2026-1`]` **[Report on the 1st regular session 2026, 18 to 19 February 2026 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women](https://www.indexdata.org/unw-2026-1-report-on-the-1st-regular-session-2026-18-to-19-february-2026-executive-board-of-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women/)** — `2026-04-20` | `28 Pages`
-
 ### [United Nations Office for Disarmament Affairs](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/feed/)
 
@@ -1700,6 +1691,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-na
 - `[`UN-NPT-CONF.2026-MC.II-INF-2`]` **[Draft indicative table, 4-15 May 2026, Main Committee II and Subsidiary Body 2 — 2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons, New York, 27 April-22 May 2026](https://www.indexdata.org/npt-conf-2026-mc-ii-inf-2-draft-indicative-table-4-15-may-2026-main-committee-ii-and-subsidiary-body-2-2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuc/)** — `2026-05-01` | `3 Pages`
 - `[`UN-NPT-CONF.2026-MC.I-INF-2`]` **[Draft indicative table, 30 April-14 May 2026, Main Committee I and Subsidiary Body I — 2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons, New York, 27 April-22 May 2026](https://www.indexdata.org/npt-conf-2026-mc-i-inf-2-draft-indicative-table-30-april-14-may-2026-main-committee-i-and-subsidiary-body-i-2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-o/)** — `2026-04-30` | `3 Pages`
 - `[`UN-NPT-CONF.2026-INF-4-Rev.2`]` **[Revised draft proposed programme of work — 2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons, New York, 27 April-22 May 2026](https://www.indexdata.org/npt-conf-2026-inf-4-rev-2-revised-draft-proposed-programme-of-work-2026-review-conference-of-the-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons-new-york-27-april-22-ma/)** — `2026-04-30` | `2 Pages`
+
+### [Other UN Bodies and Entities](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/other-un-bodies-and-entities/](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/) | [RSS Feed](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/feed/)
+
+- `[`UN-UNW-2026-L.3`]` **[Annotated provisional agenda and workplan for the annual session, 23-25 June 2026 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women : note](https://www.indexdata.org/unw-2026-l-3-annotated-provisional-agenda-and-workplan-for-the-annual-session-23-25-june-2026-executive-board-of-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women/)** — `2026-05-21` | `7 Pages`
+- `[`UN-UNW-2026-4`]` **[Report of the evaluation function of the United Nations Entity for Gender Equality and the Empowerment of Women, 2025](https://www.indexdata.org/unw-2026-4-report-of-the-evaluation-function-of-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women-2025/)** — `2026-05-21` | `23 Pages`
+- `[`UN-UNW-2026-3`]` **[Report on internal audit and investigation activities for the period from 1 January to 31 December 2025 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women](https://www.indexdata.org/unw-2026-3-report-on-internal-audit-and-investigation-activities-for-the-period-from-1-january-to-31-december-2025-executive-board-of-the-united-nations-entity-for-gender-equality-and-the/)** — `2026-05-21` | `24 Pages`
+- `[`UN-UNW-2026-2`]` **[Report of the Under-Secretary-General/Executive Director of the United Nations Entity for Gender Equality and the Empowerment of Women on the implementation of the Strategic Plan 2022–2025](https://www.indexdata.org/unw-2026-2-report-of-the-under-secretary-general-executive-director-of-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women-on-the-implementation-of-the-strategic-plan-2022/)** — `2026-05-21` | `31 Pages`
+- `[`UN-UNW-2026-5`]` **[Report on the Activities of the UN-Women Ethics Function in 2025](https://www.indexdata.org/unw-2026-5-report-on-the-activities-of-the-un-women-ethics-function-in-2025/)** — `2026-05-20` | `14 Pages`
 
 ### [Secretariat](https://www.indexdata.org/united-nations/secretariat/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretariat/](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)

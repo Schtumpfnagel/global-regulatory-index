@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `201` across `39` issuing authorities  
-**Last Automated Sync:** `2026-11-24 17:13 UTC`
+**Total Indexed Dossiers in Ireland:** `202` across `39` issuing authorities  
+**Last Automated Sync:** `2026-11-25 01:20 UTC`
 
 ---
 
@@ -21,12 +21,12 @@
 - **[Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
 - **[Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
 - **[Minister for Finance](https://www.indexdata.org/ireland/minister-for-finance/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-finance/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-finance/feed/)
+- **[Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
 - **[Minister for Housing, Local Government and Heritage](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/feed/)
 - **[National Treasury Management Agency (NTMA)](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/) | [RSS Feed](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/feed/)
 - **[The Arts Council](https://www.indexdata.org/ireland/the-arts-council/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-arts-council/) | [RSS Feed](https://www.indexdata.org/ireland/the-arts-council/feed/)
 - **[Department of Agriculture and Fisheries](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/feed/)
 - **[Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
-- **[Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
 - **[The Pensions Authority](https://www.indexdata.org/ireland/the-pensions-authority/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-pensions-authority/) | [RSS Feed](https://www.indexdata.org/ireland/the-pensions-authority/feed/)
 - **[Minister for Climate, Energy and the Environment](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/feed/)
 - **[Minister for Children, Disability and Equality](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/feed/)
@@ -54,7 +54,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–201 of 201)
+## Indexed Statutory & Regulatory Dossiers (Records 1–202 of 202)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -199,6 +199,17 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-fin
 - `[`IE-ACT-2025-6`]` **[Finance (Local Property Tax And Other Provisions) (Amendment) Act 2025](https://www.indexdata.org/finance-local-property-tax-and-other-provisions-amendment-act-2025/)** — `2025-07-02` | `11 Pages`
 - `[`IE-ACT-2024-43`]` **[Finance Act 2024](https://www.indexdata.org/finance-act-2024/)** — `2024-11-12` | `223 Pages`
 
+### [Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-health/](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
+
+- `[`IE-BILL-2026-116`]` **[Health Insurance (Amendment) Bill 2026](https://www.indexdata.org/health-insurance-amendment-bill-2026/)** — `2026-11-24` | `10 Pages`
+- `[`IE-ACT-2026-38`]` **[Public Health (Tobacco Products and Nicotine Inhaling Products) (Amendment) Act 2026](https://www.indexdata.org/public-health-tobacco-products-and-nicotine-inhaling-products-amendment-act-2026/)** — `2026-10-27` | `38 Pages`
+- `[`IE-ACT-2026-32`]` **[Health (Provision of Contraception Prescribing Service in Retail Pharmacy Businesses) Act 2026](https://www.indexdata.org/health-provision-of-contraception-prescribing-service-in-retail-pharmacy-businesses-act-2026/)** — `2026-07-21` | `7 Pages`
+- `[`IE-ACT-2026-20`]` **[Public Health (Single-Use Vapes) Act 2026](https://www.indexdata.org/public-health-single-use-vapes-act-2026/)** — `2026-07-15` | `16 Pages`
+- `[`IE-ACT-2026-17`]` **[Health (Amendment) (Home Support Providers) Act 2026](https://www.indexdata.org/health-amendment-home-support-providers-act-2026/)** — `2026-07-01` | `45 Pages`
+- `[`IE-ACT-2025-14`]` **[Health Insurance (Amendment) Act 2025](https://www.indexdata.org/health-insurance-amendment-act-2025/)** — `2025-12-10` | `10 Pages`
+- `[`IE-ACT-2024-42`]` **[Health Insurance (Amendment) and Health (Provision of Menopause Products) Act 2024](https://www.indexdata.org/health-insurance-amendment-and-health-provision-of-menopause-products-act-2024/)** — `2024-11-11` | `13 Pages`
+
 ### [Minister for Housing, Local Government and Heritage](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/feed/)
 
@@ -251,16 +262,6 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/irish-fiscal-adv
 - `[`IE-IFAC-11638`]` **[Fiscal Council Press Release Peer Review 2026](https://www.indexdata.org/fiscal-council-press-release-peer-review-2026/)** — `2026-09-11` | `3 Pages`
 - `[`IE-IFAC-11636`]` **[OECD-review-of-the-Irish-Fiscal-Advisory-Council-2026](https://www.indexdata.org/oecd-review-of-the-irish-fiscal-advisory-council-2026/)** — `2026-09-10` | `37 Pages`
 - `[`IE-IFAC-11627`]` **[Supporting items for Pre-Budget Statement, Budget 2027](https://www.indexdata.org/supporting-items-for-pre-budget-statement-budget-2027/)** — `2026-08-24` | `2 Pages`
-
-### [Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)
-Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-health/](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
-
-- `[`IE-ACT-2026-38`]` **[Public Health (Tobacco Products and Nicotine Inhaling Products) (Amendment) Act 2026](https://www.indexdata.org/public-health-tobacco-products-and-nicotine-inhaling-products-amendment-act-2026/)** — `2026-10-27` | `38 Pages`
-- `[`IE-ACT-2026-32`]` **[Health (Provision of Contraception Prescribing Service in Retail Pharmacy Businesses) Act 2026](https://www.indexdata.org/health-provision-of-contraception-prescribing-service-in-retail-pharmacy-businesses-act-2026/)** — `2026-07-21` | `7 Pages`
-- `[`IE-ACT-2026-20`]` **[Public Health (Single-Use Vapes) Act 2026](https://www.indexdata.org/public-health-single-use-vapes-act-2026/)** — `2026-07-15` | `16 Pages`
-- `[`IE-ACT-2026-17`]` **[Health (Amendment) (Home Support Providers) Act 2026](https://www.indexdata.org/health-amendment-home-support-providers-act-2026/)** — `2026-07-01` | `45 Pages`
-- `[`IE-ACT-2025-14`]` **[Health Insurance (Amendment) Act 2025](https://www.indexdata.org/health-insurance-amendment-act-2025/)** — `2025-12-10` | `10 Pages`
-- `[`IE-ACT-2024-42`]` **[Health Insurance (Amendment) and Health (Provision of Menopause Products) Act 2024](https://www.indexdata.org/health-insurance-amendment-and-health-provision-of-menopause-products-act-2024/)** — `2024-11-11` | `13 Pages`
 
 ### [The Pensions Authority](https://www.indexdata.org/ireland/the-pensions-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/the-pensions-authority/](https://www.indexdata.org/ireland/the-pensions-authority/) | [RSS Feed](https://www.indexdata.org/ireland/the-pensions-authority/feed/)

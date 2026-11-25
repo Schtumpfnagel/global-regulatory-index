@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,021` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,022` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-24 17:13 UTC`
+**Last Automated Sync:** `2026-11-25 01:20 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,024` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
-- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`509` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
+- **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,021)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,022)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1546,7 +1546,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-CN.6-2026-NGO-204`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-204-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-203`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-203-statement/)** — `2026-01-19` | `2 Pages`
 - `[`UN-E-CN.6-2026-NGO-202`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-202-statement/)** — `2026-01-19` | `4 Pages`
-- `[`UN-E-CN.6-2026-NGO-201`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-201-statement/)** — `2026-01-19` | `5 Pages`
 
 ### [Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/programmes-and-funds/](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -1658,6 +1657,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-develo
 - `[`UNDP-EB-4111847`]` **[&#91;DP/2026/15/Add.1&#93; Report of the UNDP on the recommendations of the Joint Inspection Unit in 2025](https://www.indexdata.org/dp-2026-15-add-1-report-of-the-undp-on-the-recommendations-of-the-joint-inspection-unit-in-2025-2/)** — `2026-04-08` | `18 Pages`
 - `[`UNDP-EB-4111846`]` **[&#91;DP/2026/13&#93; UNDP : annual report of the Office of Audit and Investigations on internal audit and investigation activities in 2025](https://www.indexdata.org/dp-2026-13-undp-annual-report-of-the-office-of-audit-and-investigations-on-internal-audit-and-investigation-activities-in-2025-2/)** — `2026-04-08` | `25 Pages`
 
+### [Other UN Bodies and Entities](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/other-un-bodies-and-entities/](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/) | [RSS Feed](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/feed/)
+
+- `[`UN-UNW-2026-1`]` **[Report on the 1st regular session 2026, 18 to 19 February 2026 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women](https://www.indexdata.org/unw-2026-1-report-on-the-1st-regular-session-2026-18-to-19-february-2026-executive-board-of-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women/)** — `2026-04-20` | `28 Pages`
+- `[`UN-UNW-2012-6-Rev.2`]` **[Financial Regulations and Rules for the United Nations Entity for Gender Equality and the Empowerment of Women](https://www.indexdata.org/unw-2012-6-rev-2-financial-regulations-and-rules-for-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women/)** — `2026-04-20` | `42 Pages`
+- `[`UN-PBC-20-OC-SR.1`]` **[Summary record of the 1st meeting, held at Headquarters, New York, on Thursday, 29 January 2026 — Peacebuilding Commission, 20th session, Organizational Committee](https://www.indexdata.org/pbc-20-oc-sr-1-summary-record-of-the-1st-meeting-held-at-headquarters-new-york-on-thursday-29-january-2026-peacebuilding-commission-20th-session-organizational-committee/)** — `2026-03-18` | `16 Pages`
+- `[`UN-UNW-2026-L.1-Rev.2`]` **[Annotated provisional agenda and workplan for the 1st regular session, 18 and 19 February 2026 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women : note](https://www.indexdata.org/unw-2026-l-1-rev-2-annotated-provisional-agenda-and-workplan-for-the-1st-regular-session-18-and-19-february-2026-executive-board-of-the-united-nations-entity-for-gender-equality-and-the-e/)** — `2026-02-10` | `7 Pages`
+- `[`UN-UNW-2026-L.1-Rev.1`]` **[Annotated provisional agenda and workplan for the 1st regular session, 18 and 19 February 2026 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women : note](https://www.indexdata.org/unw-2026-l-1-rev-1-annotated-provisional-agenda-and-workplan-for-the-1st-regular-session-18-and-19-february-2026-executive-board-of-the-united-nations-entity-for-gender-equality-and-the-e/)** — `2026-01-26` | `6 Pages`
+
 ### [Secretariat](https://www.indexdata.org/united-nations/secretariat/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretariat/](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
 
@@ -1666,14 +1674,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretari
 - `[`UN-ST-AI-2026-1`]` **[Establishment and management of trust funds](https://www.indexdata.org/st-ai-2026-1-establishment-and-management-of-trust-funds/)** — `2026-03-15` | `9 Pages`
 - `[`UN-ST-AI-2021-3-Rev.1`]` **[Evaluation in the United Nations Secretariat](https://www.indexdata.org/st-ai-2021-3-rev-1-evaluation-in-the-united-nations-secretariat/)** — `2026-02-25` | `7 Pages`
 - `[`UN-ST-IC-2026-1`]` **[Payment of 2025 income taxes](https://www.indexdata.org/st-ic-2026-1-payment-of-2025-income-taxes/)** — `2026-01-29` | `38 Pages`
-
-### [Other UN Bodies and Entities](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/other-un-bodies-and-entities/](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/) | [RSS Feed](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/feed/)
-
-- `[`UN-UNW-2012-6-Rev.2`]` **[Financial Regulations and Rules for the United Nations Entity for Gender Equality and the Empowerment of Women](https://www.indexdata.org/unw-2012-6-rev-2-financial-regulations-and-rules-for-the-united-nations-entity-for-gender-equality-and-the-empowerment-of-women/)** — `2026-04-20` | `42 Pages`
-- `[`UN-PBC-20-OC-SR.1`]` **[Summary record of the 1st meeting, held at Headquarters, New York, on Thursday, 29 January 2026 — Peacebuilding Commission, 20th session, Organizational Committee](https://www.indexdata.org/pbc-20-oc-sr-1-summary-record-of-the-1st-meeting-held-at-headquarters-new-york-on-thursday-29-january-2026-peacebuilding-commission-20th-session-organizational-committee/)** — `2026-03-18` | `16 Pages`
-- `[`UN-UNW-2026-L.1-Rev.2`]` **[Annotated provisional agenda and workplan for the 1st regular session, 18 and 19 February 2026 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women : note](https://www.indexdata.org/unw-2026-l-1-rev-2-annotated-provisional-agenda-and-workplan-for-the-1st-regular-session-18-and-19-february-2026-executive-board-of-the-united-nations-entity-for-gender-equality-and-the-e/)** — `2026-02-10` | `7 Pages`
-- `[`UN-UNW-2026-L.1-Rev.1`]` **[Annotated provisional agenda and workplan for the 1st regular session, 18 and 19 February 2026 — Executive Board of the United Nations Entity for Gender Equality and the Empowerment of Women : note](https://www.indexdata.org/unw-2026-l-1-rev-1-annotated-provisional-agenda-and-workplan-for-the-1st-regular-session-18-and-19-february-2026-executive-board-of-the-united-nations-entity-for-gender-equality-and-the-e/)** — `2026-01-26` | `6 Pages`
 
 ### [Russian Federation](https://www.indexdata.org/united-nations/russian-federation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/russian-federation/](https://www.indexdata.org/united-nations/russian-federation/) | [RSS Feed](https://www.indexdata.org/united-nations/russian-federation/feed/)

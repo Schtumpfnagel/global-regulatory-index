@@ -4,16 +4,16 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,274` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-24 17:13 UTC`
+**Total Indexed Dossiers in International:** `1,277` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-25 01:20 UTC`
 
 ---
 
 ## Issuing Authorities in International (29 Authorities)
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`244` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
-- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`211` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
-- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`196` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
+- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`212` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
+- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`198` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
@@ -43,7 +43,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,274 of 1,274)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,277 of 1,277)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -306,6 +306,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 - `[`FAO-CE2630EN`]` **[BurAG/2026/11/23/02 – Funding](https://www.indexdata.org/burag-2026-11-23-02-funding/)** — `2026-11-18` | `5 Pages`
 - `[`FAO-CE2629EN`]` **[Emergency Agriculture Support for El Niño Drought-Affected Agro-Pastoral Households in Eastern Equatoria state South Sudan](https://www.indexdata.org/emergency-agriculture-support-for-el-nino-drought-affected-agro-pastoral-households-in-eastern-equatoria-state-south-sudan/)** — `2026-11-18` | `20 Pages`
 - `[`FAO-CE2618EN`]` **[Forest Resilience of Armenia, Enhancing Adaptation and Rural Green Growth via Mitigation](https://www.indexdata.org/forest-resilience-of-armenia-enhancing-adaptation-and-rural-green-growth-via-mitigation/)** — `2026-11-18` | `51 Pages`
+- `[`FAO-CE2497EN`]` **[Communities and forest carbon projects in Zambia](https://www.indexdata.org/communities-and-forest-carbon-projects-in-zambia/)** — `2026-11-18` | `59 Pages`
 - `[`FAO-CE2439EN`]` **[Enhancing national capacities for irrigation management in Saudi Arabia](https://www.indexdata.org/enhancing-national-capacities-for-irrigation-management-in-saudi-arabia/)** — `2026-11-18` | `30 Pages`
 - `[`FAO-CE2349EN`]` **[Solomon Islands &#124; cassava value chain](https://www.indexdata.org/solomon-islands-cassava-value-chain/)** — `2026-11-18` | `7 Pages`
 - `[`FAO-CE2323EN`]` **[Tonga &#124; sweet yam value chain](https://www.indexdata.org/tonga-sweet-yam-value-chain/)** — `2026-11-18` | `7 Pages`
@@ -512,6 +513,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 Canonical Authority Archive: [https://www.indexdata.org/international/world-bank/](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/)
 
 - `[`WB-WDS-40140552`]` **[Labor Management Procedures Sustainable Urban and Peri-Urban Agriculture for Women Empowerment Project (P510360)](https://www.indexdata.org/labor-management-procedures-sustainable-urban-and-peri-urban-agriculture-for-women-empowerment-project-p510360/)** — `2026-11-24` | `37 Pages`
+- `[`WB-WDS-214316`]` **[Where Paths Divide : Transforming Secondary Education in Latin America and the Caribbean](https://www.indexdata.org/where-paths-divide-transforming-secondary-education-in-latin-america-and-the-caribbean/)** — `2026-11-24` | `178 Pages`
 - `[`WB-WDS-217441`]` **[Partnership for Market Implementation (PMI) Facility Annual Report 2026](https://www.indexdata.org/partnership-for-market-implementation-pmi-facility-annual-report-2026/)** — `2026-11-23` | `61 Pages`
 - `[`WB-WDS-217398`]` **[Thailand Monthly Economic Monitor](https://www.indexdata.org/thailand-monthly-economic-monitor/)** — `2026-11-23` | `4 Pages`
 - `[`WB-WDS-217380`]` **[Virtual Labor Mobility : Bringing Opportunities Home - A Report on Cross-Border Online Work](https://www.indexdata.org/virtual-labor-mobility-bringing-opportunities-home-a-report-on-cross-border-online-work/)** — `2026-11-23` | `92 Pages`
@@ -585,6 +587,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/world-bank
 - `[`WB-OKR-10986-45754`]` **[Beyond the Headcount: The Changing Geography and Composition of Global Poverty, 2003–2024](https://www.indexdata.org/beyond-the-headcount-the-changing-geography-and-composition-of-global-poverty-2003-2024/)** — `2026-10-21` | `49 Pages`
 - `[`WB-OKR-10986-45129`]` **[Trade Diversion and Jobs: Evidence from Mexican Municipalities](https://www.indexdata.org/trade-diversion-and-jobs-evidence-from-mexican-municipalities/)** — `2026-06-29` | `29 Pages`
 - `[`WB-OKR-10986-44673`]` **[Policy Pulse: Sensing the Sentiment toward Climate Policies in the Public Sphere](https://www.indexdata.org/policy-pulse-sensing-the-sentiment-toward-climate-policies-in-the-public-sphere/)** — `2026-04-15` | `29 Pages`
+- `[`WB-OA-W4410256359`]` **[Promoting Innovative Startups: Quasi-Experimental Evidence from Tunisia](https://www.indexdata.org/promoting-innovative-startups-quasi-experimental-evidence-from-tunisia/)** — `2025-05-09` | `56 Pages`
 - `[`WB-34466400`]` **[Trust Fund Contribution Arrangement with the Government of Canada, represented by the Minister for International Development, acting through the DFATD, for TF069040](https://www.indexdata.org/trust-fund-contribution-arrangement-with-the-government-of-canada-represented-by-the-minister-for-international-development-acting-through-the-dfatd-for-tf069040/)** — `2025-03-12` | `3 Pages`
 - `[`WB-34466258`]` **[Amendment to the Loan Agreement for Loan 8797-IN](https://www.indexdata.org/amendment-to-the-loan-agreement-for-loan-8797-in/)** — `2025-03-12` | `4 Pages`
 - `[`WB-WDS-STEP110352`]` **[Tanzania - EASTERN AND SOUTHERN AFRICA- P166415- Higher Education for Economic Transformation Project - Procurement Plan](https://www.indexdata.org/tanzania-eastern-and-southern-africa-p166415-higher-education-for-economic-transformation-project-procurement-plan-2/)** — `2025-03-11` | `4 Pages`
