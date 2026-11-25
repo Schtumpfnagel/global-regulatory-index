@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,024` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,026` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-25 10:56 UTC`
+**Last Automated Sync:** `2026-11-25 15:13 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`539` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -33,7 +33,7 @@
 - **[Other UN Bodies and Entities](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/) | [RSS Feed](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/feed/)
 - **[Economic and Social Commission for Asia and the Pacific](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific/feed/)
 - **[Economic and Social Commission for Asia and the Pacific (ESCAP)](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific-escap/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific-escap/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific-escap/feed/)
-- **[United Nations Office for Disarmament Affairs](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/feed/)
+- **[United Nations Office for Disarmament Affairs](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/feed/)
 - **[Group of Non-Aligned States Parties to the Treaty on the Non-Proliferation of Nuclear Weapons](https://www.indexdata.org/united-nations/group-of-non-aligned-states-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/group-of-non-aligned-states-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/) | [RSS Feed](https://www.indexdata.org/united-nations/group-of-non-aligned-states-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/feed/)
 - **[Islamic Republic of Iran](https://www.indexdata.org/united-nations/islamic-republic-of-iran/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/islamic-republic-of-iran/) | [RSS Feed](https://www.indexdata.org/united-nations/islamic-republic-of-iran/feed/)
 - **[United Nations Office for the Coordination of Humanitarian Affairs (OCHA)](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,024)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,026)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-81-130`]` **[Promotion of truth, justice, reparation and guarantees of non-recurrence — note](https://www.indexdata.org/a-81-130-promotion-of-truth-justice-reparation-and-guarantees-of-non-recurrence-note/)** — `2026-07-06` | `22 Pages`
 - `[`UN-A-HRC-63-30`]` **[Historical and contemporary forms of violations against the sexual and reproductive health and rights of Indigenous women and girls — report of the Special Rapporteur on the Rights of Indigenous Peoples, Albert K. Barume](https://www.indexdata.org/a-hrc-63-30-historical-and-contemporary-forms-of-violations-against-the-sexual-and-reproductive-health-and-rights-of-indigenous-women-and-girls-report-of-the-special-rapporteur-on-the-righ/)** — `2026-07-03` | `21 Pages`
 - `[`UN-A-HRC-63-27-Add.1`]` **[Visit to Mexico — report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Marcos Orellana](https://www.indexdata.org/a-hrc-63-27-add-1-visit-to-mexico-report-of-the-special-rapporteur-on-the-implications-for-human-rights-of-the-environmentally-sound-management-and-disposal-of-hazardous-substances-and-was/)** — `2026-07-03` | `20 Pages`
 - `[`UN-A-HRC-63-24-Add.1`]` **[Visit to Iceland — report of the Independent Expert on the Promotion of a Democratic and Equitable International Order, George Katrougalos](https://www.indexdata.org/a-hrc-63-24-add-1-visit-to-iceland-report-of-the-independent-expert-on-the-promotion-of-a-democratic-and-equitable-international-order-george-katrougalos/)** — `2026-07-03` | `15 Pages`
@@ -829,8 +830,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-62-12`]` **[Report of the Working Group on the Universal Periodic Review — Austria](https://www.indexdata.org/a-hrc-62-12-report-of-the-working-group-on-the-universal-periodic-review-austria/)** — `2026-04-21` | `24 Pages`
 - `[`UN-A-HRC-61-G-5`]` **[Note verbale dated 20 April 2026 from the Permanent Mission of Cyprus to the United Nations Office at Geneva addressed to the Office of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-g-5-note-verbale-dated-20-april-2026-from-the-permanent-mission-of-cyprus-to-the-united-nations-office-at-geneva-addressed-to-the-office-of-the-united-nations-high-commissioner-for-human-ri/)** — `2026-04-21` | `3 Pages`
 - `[`UN-A-C.5-80-L.31`]` **[Status of preparedness of documentation for the 5th Committee during the 2nd part of the resumed 80th session of the General Assembly — note](https://www.indexdata.org/a-c-5-80-l-31-status-of-preparedness-of-documentation-for-the-5th-committee-during-the-2nd-part-of-the-resumed-80th-session-of-the-general-assembly-note/)** — `2026-04-21` | `7 Pages`
-- `[`UN-A-81-6-Sect.-9`]` **[Proposed programme budget for 2027 — Part 4, — International cooperation for development — Section 9, — Economic and social affairs — Programme 7, — Economic and social affairs](https://www.indexdata.org/a-81-6-sect-9-proposed-programme-budget-for-2027-part-4-international-cooperation-for-development-section-9-economic-and-social-affairs-program/)** — `2026-04-21` | `88 Pages`
-- `[`UN-A-81-6-Sect.-28`]` **[Proposed programme budget for 2027 — Part 7, — Global communications — Section 28, — Global communications — Programme 24, — Global communications](https://www.indexdata.org/a-81-6-sect-28-proposed-programme-budget-for-2027-part-7-global-communications-section-28-global-communications-programme-24-global/)** — `2026-04-21` | `32 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -1008,6 +1007,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rig
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 
+- `[`UN-E-2026-L.15`]` **[Doha Programme of Action for the Least Developed Countries for the decade 2022–2031 — draft resolution](https://www.indexdata.org/e-2026-l-15-doha-programme-of-action-for-the-least-developed-countries-for-the-decade-2022-2031-draft-resolution/)** — `2026-07-03` | `8 Pages`
 - `[`UN-E-ICEF-2026-P-L.20`]` **[Country programme document — United Nations Children's Fund : Tajikistan](https://www.indexdata.org/e-icef-2026-p-l-20-country-programme-document-united-nations-childrens-fund-tajikistan/)** — `2026-07-01` | `17 Pages`
 - `[`UN-E-ICEF-2026-P-L.19`]` **[Country programme document — United Nations Children's Fund : Albania](https://www.indexdata.org/e-icef-2026-p-l-19-country-programme-document-united-nations-childrens-fund-albania/)** — `2026-07-01` | `17 Pages`
 - `[`UN-E-ICEF-2026-24`]` **[Compendium of decisions adopted by the Executive Board at its annual session of 2025 — United Nations Children's Fund](https://www.indexdata.org/e-icef-2026-24-compendium-of-decisions-adopted-by-the-executive-board-at-its-annual-session-of-2025-united-nations-childrens-fund/)** — `2026-07-01` | `10 Pages`

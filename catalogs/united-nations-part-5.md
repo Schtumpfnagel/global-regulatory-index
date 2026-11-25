@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,024` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,026` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-25 10:56 UTC`
+**Last Automated Sync:** `2026-11-25 15:13 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`539` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -33,7 +33,7 @@
 - **[Other UN Bodies and Entities](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/) | [RSS Feed](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/feed/)
 - **[Economic and Social Commission for Asia and the Pacific](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific/feed/)
 - **[Economic and Social Commission for Asia and the Pacific (ESCAP)](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific-escap/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific-escap/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific-escap/feed/)
-- **[United Nations Office for Disarmament Affairs](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/feed/)
+- **[United Nations Office for Disarmament Affairs](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/feed/)
 - **[Group of Non-Aligned States Parties to the Treaty on the Non-Proliferation of Nuclear Weapons](https://www.indexdata.org/united-nations/group-of-non-aligned-states-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/group-of-non-aligned-states-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/) | [RSS Feed](https://www.indexdata.org/united-nations/group-of-non-aligned-states-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/feed/)
 - **[Islamic Republic of Iran](https://www.indexdata.org/united-nations/islamic-republic-of-iran/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/islamic-republic-of-iran/) | [RSS Feed](https://www.indexdata.org/united-nations/islamic-republic-of-iran/feed/)
 - **[United Nations Office for the Coordination of Humanitarian Affairs (OCHA)](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,024 of 7,024)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,026 of 7,026)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -418,6 +418,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-develo
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-RES-79-150`]` **[Observance of the 30th anniversary of the International Year of the Family in 2024 — resolution](https://www.indexdata.org/a-res-79-150-observance-of-the-30th-anniversary-of-the-international-year-of-the-family-in-2024-resolution/)** — `2024-12-19` | `8 Pages`
+- `[`UN-A-RES-79-149`]` **[Inclusive development for and with persons with disabilities — resolution](https://www.indexdata.org/a-res-79-149-inclusive-development-for-and-with-persons-with-disabilities-resolution/)** — `2024-12-19` | `12 Pages`
 - `[`UN-A-RES-79-148`]` **[Strengthening volunteerism for the achievement of the Sustainable Development Goals, leaving no one behind — resolution](https://www.indexdata.org/a-res-79-148-strengthening-volunteerism-for-the-achievement-of-the-sustainable-development-goals-leaving-no-one-behind-resolution/)** — `2024-12-19` | `5 Pages`
 - `[`UN-A-RES-79-146`]` **[Implementation of the outcome of the World Summit for Social Development and of the 24th special session of the General Assembly — resolution](https://www.indexdata.org/a-res-79-146-implementation-of-the-outcome-of-the-world-summit-for-social-development-and-of-the-24th-special-session-of-the-general-assembly-resolution/)** — `2024-12-19` | `20 Pages`
 - `[`UN-A-RES-79-233`]` **[Programme of Action for Landlocked Developing Countries for the Decade 2024–2034 — resolution](https://www.indexdata.org/a-res-79-233-programme-of-action-for-landlocked-developing-countries-for-the-decade-2024-2034-resolution/)** — `2024-12-18` | `48 Pages`

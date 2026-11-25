@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q851`](https://www.wikidata.org/wiki/Q851)  
 **Governing Open-Government Framework:** *Saudi Open Data Policy (NDMO)*  
 **Total Indexed Dossiers in Saudi Arabia:** `47` across `4` issuing authorities  
-**Last Automated Sync:** `2026-11-25 10:56 UTC`
+**Last Automated Sync:** `2026-11-25 15:13 UTC`
 
 ---
 
@@ -24,7 +24,6 @@
 ### [National Cybersecurity Authority (NCA)](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/)
 Canonical Authority Archive: [https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/) | [RSS Feed](https://www.indexdata.org/saudi-arabia/national-cybersecurity-authority-nca/feed/)
 
-- `[`SA-NCA-The_Saudi_Model_for_Strengthening_Cyber_Resilience_G20-en`]` **[National Cybersecurity Authority (NCA) — The Saudi Model for Strengthening Cyber Resilience (G20 Report)](https://www.indexdata.org/national-cybersecurity-authority-nca-the-saudi-model-for-strengthening-cyber-resilience-g20-report-19/)** — `2026-11-19` | `43 Pages`
 - `[`SA-NCA-telework_cybersecurity_controls-en`]` **[National Cybersecurity Authority (NCA) — Telework Cybersecurity Controls (TCC)](https://www.indexdata.org/national-cybersecurity-authority-nca-telework-cybersecurity-controls-tcc-2/)** — `2026-11-16` | `28 Pages`
 - `[`SA-NCA-scywfg_en`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Workforce Framework Guidelines (SCyWFG)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-workforce-framework-guidelines-scywfg/)** — `2026-11-16` | `12 Pages`
 - `[`SA-NCA-scywf_en`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Workforce Framework (SCyWF)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-workforce-framework-scywf-2/)** — `2026-11-16` | `120 Pages`
@@ -48,6 +47,7 @@ Canonical Authority Archive: [https://www.indexdata.org/saudi-arabia/national-cy
 - `[`SA-NCA-ccc_methodology_and_mapping_annex_en`]` **[National Cybersecurity Authority (NCA) — Cloud Cybersecurity Controls (CCC) Methodology and Mapping Annex](https://www.indexdata.org/national-cybersecurity-authority-nca-cloud-cybersecurity-controls-ccc-methodology-and-mapping-annex/)** — `2026-11-16` | `36 Pages`
 - `[`SA-NCA-ccc_methodology_and_mapping_annex_draft_en`]` **[National Cybersecurity Authority (NCA) — Cloud Cybersecurity Controls (CCC) Methodology and Mapping Annex (Draft)](https://www.indexdata.org/national-cybersecurity-authority-nca-cloud-cybersecurity-controls-ccc-methodology-and-mapping-annex-draft/)** — `2026-11-16` | `26 Pages`
 - `[`SA-NCA-ccc-en`]` **[National Cybersecurity Authority (NCA) — Cloud Cybersecurity Controls (CCC)](https://www.indexdata.org/national-cybersecurity-authority-nca-cloud-cybersecurity-controls-ccc/)** — `2026-11-16` | `48 Pages`
+- `[`SA-NCA-The_Saudi_Model_for_Strengthening_Cyber_Resilience_G20-en`]` **[National Cybersecurity Authority (NCA) — The Saudi Model for Strengthening Cyber Resilience (G20)](https://www.indexdata.org/national-cybersecurity-authority-nca-the-saudi-model-for-strengthening-cyber-resilience-g20-2/)** — `2026-11-16` | `43 Pages`
 - `[`SA-NCA-THE_SAUDI_MODEL_FOR_STRENGTHENING_CYBER_RESILIENCE_G20-EN`]` **[National Cybersecurity Authority (NCA) — The Saudi Model for Strengthening Cyber Resilience (G20)](https://www.indexdata.org/national-cybersecurity-authority-nca-the-saudi-model-for-strengthening-cyber-resilience-g20/)** — `2026-11-16` | `43 Pages`
 - `[`SA-NCA-TELEWORK_CYBERSECURITY_CONTROLS-EN`]` **[National Cybersecurity Authority (NCA) — Telework Cybersecurity Controls (TCC)](https://www.indexdata.org/national-cybersecurity-authority-nca-telework-cybersecurity-controls-tcc/)** — `2026-11-16` | `28 Pages`
 - `[`SA-NCA-SCYWF_EN`]` **[National Cybersecurity Authority (NCA) — Saudi Cybersecurity Workforce Framework (SCyWF)](https://www.indexdata.org/national-cybersecurity-authority-nca-saudi-cybersecurity-workforce-framework-scywf/)** — `2026-11-16` | `120 Pages`

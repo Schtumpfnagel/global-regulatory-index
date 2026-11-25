@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/germany/feed/](https://www.indexdata.org/germany/feed/)  
 **Wikidata Sovereign Entity:** [`Q183`](https://www.wikidata.org/wiki/Q183)  
 **Governing Open-Government Framework:** *UrhG § 5 / DL-DE->BY-2.0*  
-**Total Indexed Dossiers in Germany:** `152` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-25 10:56 UTC`
+**Total Indexed Dossiers in Germany:** `153` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-25 15:13 UTC`
 
 ---
 
@@ -15,12 +15,12 @@
 - **[Federal Ministry of Justice (BMJ)](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/)** (`113` dossiers) — [Authority Archive](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/) | [RSS Feed](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/feed/)
 - **[Federal Agency for Nature Conservation (Bundesamt für Naturschutz - BfN)](https://www.indexdata.org/germany/federal-agency-for-nature-conservation-bundesamt-f-r-naturschutz-bfn/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/germany/federal-agency-for-nature-conservation-bundesamt-f-r-naturschutz-bfn/) | [RSS Feed](https://www.indexdata.org/germany/federal-agency-for-nature-conservation-bundesamt-f-r-naturschutz-bfn/feed/)
 - **[Federal Environment Agency (Umweltbundesamt - UBA)](https://www.indexdata.org/germany/federal-environment-agency-umweltbundesamt-uba/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/germany/federal-environment-agency-umweltbundesamt-uba/) | [RSS Feed](https://www.indexdata.org/germany/federal-environment-agency-umweltbundesamt-uba/feed/)
+- **[Robert Koch Institute (RKI)](https://www.indexdata.org/germany/robert-koch-institute-rki/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/germany/robert-koch-institute-rki/) | [RSS Feed](https://www.indexdata.org/germany/robert-koch-institute-rki/feed/)
 - **[Physikalisch-Technische Bundesanstalt (PTB)](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/) | [RSS Feed](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/feed/)
-- **[Robert Koch Institute (RKI)](https://www.indexdata.org/germany/robert-koch-institute-rki/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/germany/robert-koch-institute-rki/) | [RSS Feed](https://www.indexdata.org/germany/robert-koch-institute-rki/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–152 of 152)
+## Indexed Statutory & Regulatory Dossiers (Records 1–153 of 153)
 
 ### [Federal Ministry of Justice (BMJ)](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/)
 Canonical Authority Archive: [https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/) | [RSS Feed](https://www.indexdata.org/germany/federal-ministry-of-justice-bmj/feed/)
@@ -168,6 +168,20 @@ Canonical Authority Archive: [https://www.indexdata.org/germany/federal-environm
 - `[`DE-UBA-123456789-11185`]` **[Pricing supply chain emissions of natural gas](https://www.indexdata.org/pricing-supply-chain-emissions-of-natural-gas/)** — `2026-06-04` | `45 Pages`
 - `[`DE-UBA-123456789-11506`]` **[Commonalities and Differences Between the EU ETS 1 and the UK ETS](https://www.indexdata.org/commonalities-and-differences-between-the-eu-ets-1-and-the-uk-ets/)** — `2026-04-15` | `27 Pages`
 
+### [Robert Koch Institute (RKI)](https://www.indexdata.org/germany/robert-koch-institute-rki/)
+Canonical Authority Archive: [https://www.indexdata.org/germany/robert-koch-institute-rki/](https://www.indexdata.org/germany/robert-koch-institute-rki/) | [RSS Feed](https://www.indexdata.org/germany/robert-koch-institute-rki/feed/)
+
+- `[`DE-RKI-14616`]` **[The Robert Koch Institute’s COVID-19 lessons learned process: Scientific assessment for future pandemics.](https://www.indexdata.org/the-robert-koch-institutes-covid-19-lessons-learned-process-scientific-assessment-for-future-pandemics/)** — `2026-11-25` | `2 Pages`
+- `[`DE-RKI-14590`]` **[Self-rated quality of care in adults with chronic conditions: results of the 2024 ‘Health in Germany’ panel](https://www.indexdata.org/self-rated-quality-of-care-in-adults-with-chronic-conditions-results-of-the-2024-health-in-germany-panel/)** — `2026-11-18` | `14 Pages`
+- `[`DE-RKI-14589`]` **[Myocardial infarction – frequency, trends and regional distribution in inpatient care in Germany. An analysis based on health insurance claims data](https://www.indexdata.org/myocardial-infarction-frequency-trends-and-regional-distribution-in-inpatient-care-in-germany-an-analysis-based-on-health-insurance-claims-data/)** — `2026-11-18` | `9 Pages`
+- `[`DE-RKI-14442`]` **[Suicidal thoughts and suicide attempts in Germany: Prevalence estimates from the Panel ‘Health in Germany’ 2024](https://www.indexdata.org/suicidal-thoughts-and-suicide-attempts-in-germany-prevalence-estimates-from-the-panel-health-in-germany-2024/)** — `2026-11-11` | `14 Pages`
+- `[`DE-RKI-14469`]` **[What Is There to Gain? A Systematic Review on Psychosocial Co-Benefits of Climate Policie](https://www.indexdata.org/what-is-there-to-gain-a-systematic-review-on-psychosocial-co-benefits-of-climate-policie/)** — `2026-11-05` | `18 Pages`
+- `[`DE-RKI-14592`]` **[Who Takes Long Daytime Naps? Results of the 'German Health Update' (GEDA 2023)](https://www.indexdata.org/who-takes-long-daytime-naps-results-of-the-german-health-update-geda-2023/)** — `2026-11-04` | `5 Pages`
+- `[`DE-RKI-14574`]` **[Who gets enough sleep? – Sleep duration and classification based on sleep recommendations among the adult population in Germany](https://www.indexdata.org/who-gets-enough-sleep-sleep-duration-and-classification-based-on-sleep-recommendations-among-the-adult-population-in-germany/)** — `2026-11-04` | `10 Pages`
+- `[`DE-RKI-14462`]` **[Ten years of the Journal of Health Monitoring: Familiarity as a strength, openness as a responsibility](https://www.indexdata.org/ten-years-of-the-journal-of-health-monitoring-familiarity-as-a-strength-openness-as-a-responsibility/)** — `2026-10-06` | `2 Pages`
+- `[`DE-RKI-14443`]` **[Socioeconomic differences in return to work after oncological rehabilitation: An analysis using data from German Pension Insurance](https://www.indexdata.org/socioeconomic-differences-in-return-to-work-after-oncological-rehabilitation-an-analysis-using-data-from-german-pension-insurance/)** — `2026-09-30` | `10 Pages`
+- `[`DE-RKI-14402`]` **[Accidents at work among employed persons in Germany: Results from the 2024 ‘Health in Germany’ panel](https://www.indexdata.org/accidents-at-work-among-employed-persons-in-germany-results-from-the-2024-health-in-germany-panel/)** — `2026-09-23` | `5 Pages`
+
 ### [Physikalisch-Technische Bundesanstalt (PTB)](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/)
 Canonical Authority Archive: [https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/) | [RSS Feed](https://www.indexdata.org/germany/physikalisch-technische-bundesanstalt-ptb/feed/)
 
@@ -180,19 +194,6 @@ Canonical Authority Archive: [https://www.indexdata.org/germany/physikalisch-tec
 - `[`DE-PTB-10.7795-810.20130620K`]` **[Subnanometer absolute measurements by means of mixed synthetic-optical homodyne interferometer](https://www.indexdata.org/subnanometer-absolute-measurements-by-means-of-mixed-synthetic-optical-homodyne-interferometer/)** — `2026-07-21` | `6 Pages`
 - `[`DE-PTB-10.7795-810.20130620F`]` **[Precision angle comparator using self-calibration of scale errors based on the equal-division-averaged method](https://www.indexdata.org/precision-angle-comparator-using-self-calibration-of-scale-errors-based-on-the-equal-division-averaged-method/)** — `2026-07-21` | `4 Pages`
 - `[`DE-PTB-10.7795-110.20130617A`]` **[Reality – governed by six invariant fundamental constants: A metrological view on the unity of physics](https://www.indexdata.org/reality-governed-by-six-invariant-fundamental-constants-a-metrological-view-on-the-unity-of-physics/)** — `2013-12-20` | `30 Pages`
-
-### [Robert Koch Institute (RKI)](https://www.indexdata.org/germany/robert-koch-institute-rki/)
-Canonical Authority Archive: [https://www.indexdata.org/germany/robert-koch-institute-rki/](https://www.indexdata.org/germany/robert-koch-institute-rki/) | [RSS Feed](https://www.indexdata.org/germany/robert-koch-institute-rki/feed/)
-
-- `[`DE-RKI-14590`]` **[Self-rated quality of care in adults with chronic conditions: results of the 2024 ‘Health in Germany’ panel](https://www.indexdata.org/self-rated-quality-of-care-in-adults-with-chronic-conditions-results-of-the-2024-health-in-germany-panel/)** — `2026-11-18` | `14 Pages`
-- `[`DE-RKI-14589`]` **[Myocardial infarction – frequency, trends and regional distribution in inpatient care in Germany. An analysis based on health insurance claims data](https://www.indexdata.org/myocardial-infarction-frequency-trends-and-regional-distribution-in-inpatient-care-in-germany-an-analysis-based-on-health-insurance-claims-data/)** — `2026-11-18` | `9 Pages`
-- `[`DE-RKI-14442`]` **[Suicidal thoughts and suicide attempts in Germany: Prevalence estimates from the Panel ‘Health in Germany’ 2024](https://www.indexdata.org/suicidal-thoughts-and-suicide-attempts-in-germany-prevalence-estimates-from-the-panel-health-in-germany-2024/)** — `2026-11-11` | `14 Pages`
-- `[`DE-RKI-14469`]` **[What Is There to Gain? A Systematic Review on Psychosocial Co-Benefits of Climate Policie](https://www.indexdata.org/what-is-there-to-gain-a-systematic-review-on-psychosocial-co-benefits-of-climate-policie/)** — `2026-11-05` | `18 Pages`
-- `[`DE-RKI-14592`]` **[Who Takes Long Daytime Naps? Results of the 'German Health Update' (GEDA 2023)](https://www.indexdata.org/who-takes-long-daytime-naps-results-of-the-german-health-update-geda-2023/)** — `2026-11-04` | `5 Pages`
-- `[`DE-RKI-14574`]` **[Who gets enough sleep? – Sleep duration and classification based on sleep recommendations among the adult population in Germany](https://www.indexdata.org/who-gets-enough-sleep-sleep-duration-and-classification-based-on-sleep-recommendations-among-the-adult-population-in-germany/)** — `2026-11-04` | `10 Pages`
-- `[`DE-RKI-14462`]` **[Ten years of the Journal of Health Monitoring: Familiarity as a strength, openness as a responsibility](https://www.indexdata.org/ten-years-of-the-journal-of-health-monitoring-familiarity-as-a-strength-openness-as-a-responsibility/)** — `2026-10-06` | `2 Pages`
-- `[`DE-RKI-14443`]` **[Socioeconomic differences in return to work after oncological rehabilitation: An analysis using data from German Pension Insurance](https://www.indexdata.org/socioeconomic-differences-in-return-to-work-after-oncological-rehabilitation-an-analysis-using-data-from-german-pension-insurance/)** — `2026-09-30` | `10 Pages`
-- `[`DE-RKI-14402`]` **[Accidents at work among employed persons in Germany: Results from the 2024 ‘Health in Germany’ panel](https://www.indexdata.org/accidents-at-work-among-employed-persons-in-germany-results-from-the-2024-health-in-germany-panel/)** — `2026-09-23` | `5 Pages`
 
 ---
 

@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q45`](https://www.wikidata.org/wiki/Q45)  
 **Governing Open-Government Framework:** *Lei n.º 68/2021*  
 **Total Indexed Dossiers in Portugal:** `52` across `6` issuing authorities  
-**Last Automated Sync:** `2026-11-25 10:56 UTC`
+**Last Automated Sync:** `2026-11-25 15:13 UTC`
 
 ---
 
@@ -53,7 +53,7 @@ Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-m
 Canonical Authority Archive: [https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
 
 - `[`PT-CSM-WP-54915`]` **[Aviso14_2026](https://www.indexdata.org/aviso14_2026/)** — `2026-11-01` | `2 Pages`
-- `[`PT-CSM-WP-54900`]` **[Livro 2 Projeto Meenos digital II &#8211; CSM](https://www.indexdata.org/livro-2-projeto-meenos-digital-ii-csm/)** — `2026-11-01` | `42 Pages`
+- `[`PT-CSM-WP-54900`]` **[Livro 2 Projeto Meenos digital II – CSM](https://www.indexdata.org/livro-2-projeto-meenos-digital-ii-csm/)** — `2026-11-01` | `42 Pages`
 - `[`PT-CSM-WP-54851`]` **[2026_Intervenção encerramento XX ENCONTRO CSM](https://www.indexdata.org/2026_intervencao-encerramento-xx-encontro-csm/)** — `2026-11-01` | `9 Pages`
 - `[`PT-CSM-WP-54807`]` **[2026_Recomendação Controlo da Prisão Preventiva e OPH](https://www.indexdata.org/2026_recomendacao-controlo-da-prisao-preventiva-e-oph/)** — `2026-11-01` | `3 Pages`
 - `[`PT-CSM-WP-54806`]` **[2026_AS BOAS PRÁTICAS E A AVALIAÇÃO – Inspetora Ana Cláudia Nogueira](https://www.indexdata.org/2026_as-boas-praticas-e-a-avaliacao-inspetora-ana-claudia-nogueira/)** — `2026-11-01` | `34 Pages`

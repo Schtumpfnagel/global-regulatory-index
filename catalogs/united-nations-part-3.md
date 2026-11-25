@@ -5,16 +5,16 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,024` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,026` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-25 10:56 UTC`
+**Last Automated Sync:** `2026-11-25 15:13 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
-- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`538` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
+- **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`539` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -33,7 +33,7 @@
 - **[Other UN Bodies and Entities](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/) | [RSS Feed](https://www.indexdata.org/united-nations/other-un-bodies-and-entities/feed/)
 - **[Economic and Social Commission for Asia and the Pacific](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific/feed/)
 - **[Economic and Social Commission for Asia and the Pacific (ESCAP)](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific-escap/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific-escap/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-commission-for-asia-and-the-pacific-escap/feed/)
-- **[United Nations Office for Disarmament Affairs](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/feed/)
+- **[United Nations Office for Disarmament Affairs](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-disarmament-affairs/feed/)
 - **[Group of Non-Aligned States Parties to the Treaty on the Non-Proliferation of Nuclear Weapons](https://www.indexdata.org/united-nations/group-of-non-aligned-states-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/group-of-non-aligned-states-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/) | [RSS Feed](https://www.indexdata.org/united-nations/group-of-non-aligned-states-parties-to-the-treaty-on-the-non-proliferation-of-nuclear-weapons/feed/)
 - **[Islamic Republic of Iran](https://www.indexdata.org/united-nations/islamic-republic-of-iran/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/islamic-republic-of-iran/) | [RSS Feed](https://www.indexdata.org/united-nations/islamic-republic-of-iran/feed/)
 - **[United Nations Office for the Coordination of Humanitarian Affairs (OCHA)](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha/feed/)
@@ -187,11 +187,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,024)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,026)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-81-6-Sect.-9`]` **[Proposed programme budget for 2027 — Part 4, — International cooperation for development — Section 9, — Economic and social affairs — Programme 7, — Economic and social affairs](https://www.indexdata.org/a-81-6-sect-9-proposed-programme-budget-for-2027-part-4-international-cooperation-for-development-section-9-economic-and-social-affairs-program/)** — `2026-04-21` | `88 Pages`
+- `[`UN-A-81-6-Sect.-28`]` **[Proposed programme budget for 2027 — Part 7, — Global communications — Section 28, — Global communications — Programme 24, — Global communications](https://www.indexdata.org/a-81-6-sect-28-proposed-programme-budget-for-2027-part-7-global-communications-section-28-global-communications-programme-24-global/)** — `2026-04-21` | `32 Pages`
 - `[`UN-A-80-712`]` **[Identical letters dated 21 April 2026 from the Permanent Representative of Lebanon to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/a-80-712-identical-letters-dated-21-april-2026-from-the-permanent-representative-of-lebanon-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-21` | `4 Pages`
 - `[`UN-A-RES-80-243-B`]` **[Special subjects relating to the programme budget for 2026 — resolution](https://www.indexdata.org/a-res-80-243-b-special-subjects-relating-to-the-programme-budget-for-2026-resolution/)** — `2026-04-20` | `3 Pages`
 - `[`UN-A-HRC-62-9-Add.1`]` **[Report of the Working Group on the Universal Periodic Review — Nepal](https://www.indexdata.org/a-hrc-62-9-add-1-report-of-the-working-group-on-the-universal-periodic-review-nepal/)** — `2026-04-20` | `11 Pages`
@@ -1543,8 +1545,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-CN.6-2026-NGO-208`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-208-statement/)** — `2026-01-19` | `2 Pages`
 - `[`UN-E-CN.6-2026-NGO-207`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-207-statement/)** — `2026-01-19` | `2 Pages`
 - `[`UN-E-CN.6-2026-NGO-206`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-206-statement/)** — `2026-01-19` | `3 Pages`
-- `[`UN-E-CN.6-2026-NGO-205`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-205-statement/)** — `2026-01-19` | `4 Pages`
-- `[`UN-E-CN.6-2026-NGO-204`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-204-statement/)** — `2026-01-19` | `4 Pages`
 
 ### [Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/programmes-and-funds/](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
