@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/european-union/feed/](https://www.indexdata.org/european-union/feed/)  
 **Wikidata Sovereign Entity:** [`Q458`](https://www.wikidata.org/wiki/Q458)  
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
-**Total Indexed Dossiers in European Union:** `5,547` across `29` issuing authorities  
+**Total Indexed Dossiers in European Union:** `5,548` across `29` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](european-union-part-2.md) | [Part 3](european-union-part-3.md) | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-25 17:24 UTC`
+**Last Automated Sync:** `2026-11-25 19:11 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[European Investment Fund (EIF)](https://www.indexdata.org/european-union/european-investment-fund-eif/)** (`447` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-investment-fund-eif/) | [RSS Feed](https://www.indexdata.org/european-union/european-investment-fund-eif/feed/)
 - **[European Medicines Agency (EMA)](https://www.indexdata.org/european-union/european-medicines-agency-ema/)** (`129` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-medicines-agency-ema/) | [RSS Feed](https://www.indexdata.org/european-union/european-medicines-agency-ema/feed/) | [Wikidata `Q130146`](https://www.wikidata.org/wiki/Q130146)
 - **[European Central Bank (ECB)](https://www.indexdata.org/european-union/european-central-bank-ecb/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/european-union/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
-- **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
+- **[European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/) | [Wikidata `Q693152`](https://www.wikidata.org/wiki/Q693152)
 - **[Court of Justice of the European Union](https://www.indexdata.org/european-union/court-of-justice-of-the-european-union/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/court-of-justice-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/court-of-justice-of-the-european-union/feed/)
 - **[European Parliament and Council of the European Union](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-european-union/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/european-parliament-and-council-of-the-european-union/feed/)
 - **[EFTA Surveillance Authority](https://www.indexdata.org/european-union/efta-surveillance-authority/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/european-union/efta-surveillance-authority/) | [RSS Feed](https://www.indexdata.org/european-union/efta-surveillance-authority/feed/)
@@ -45,7 +45,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,547)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,548)
 
 ### [European Commission](https://www.indexdata.org/european-union/european-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-commission/](https://www.indexdata.org/european-union/european-commission/) | [RSS Feed](https://www.indexdata.org/european-union/european-commission/feed/)
@@ -634,7 +634,6 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 - `[`CELEX-32026D0717`]` **[Commission Implementing Decision (EU) 2026/717 of 20 March 2026 amending the Annex to Implementing Decision (EU) 2025/2256 concerning emergency measures in relation to outbreaks of Newcastle disease in Poland (notified under document C(2026) 1995)](https://www.indexdata.org/commission-implementing-decision-eu-2026-717-of-20-march-2026-amending-the-annex-to-implementing-decision-eu-2025-2256-concerning-emergency-measures-in-relation-to-outbreaks-of-newcastle/)** — `2026-03-20` | `14 Pages`
 - `[`CELEX-32026R0693`]` **[Commission Implementing Regulation (EU) 2026/693 of 19 March 2026 amending Implementing Regulation (EU) 2023/1695 as regards new testing specifications, a set of reduced specifications and transitional measures](https://www.indexdata.org/commission-implementing-regulation-eu-2026-693-of-19-march-2026-amending-implementing-regulation-eu-2023-1695-as-regards-new-testing-specifications-a-set-of-reduced-specifications-and-t/)** — `2026-03-19` | `186 Pages`
 - `[`CELEX-32026R0586`]` **[Commission Implementing Regulation (EU) 2026/586 of 17 March 2026 imposing a definitive anti-dumping duty and definitively collecting the provisional duty imposed on imports of phosphorous acid originating in the People’s Republic of China](https://www.indexdata.org/commission-implementing-regulation-eu-2026-586-of-17-march-2026-imposing-a-definitive-anti-dumping-duty-and-definitively-collecting-the-provisional-duty-imposed-on-imports-of-phosphorous-acid-o/)** — `2026-03-17` | `7 Pages`
-- `[`CELEX-32026R0562`]` **[Commission Regulation (EU) 2026/562 of 16 March 2026 declaring certain categories of aid in the rail, inland waterways and multimodal transport sector compatible with the internal market in application of Articles 93, 107 and 108 of the Treaty on the Functioning of the European Union](https://www.indexdata.org/commission-regulation-eu-2026-562-of-16-march-2026-declaring-certain-categories-of-aid-in-the-rail-inland-waterways-and-multimodal-transport-sector-compatible-with-the-internal-market-in-appli/)** — `2026-03-16` | `37 Pages`
 
 ### [Council of the European Union](https://www.indexdata.org/european-union/council-of-the-european-union/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/council-of-the-european-union/](https://www.indexdata.org/european-union/council-of-the-european-union/) | [RSS Feed](https://www.indexdata.org/european-union/council-of-the-european-union/feed/)
@@ -1541,6 +1540,7 @@ Canonical Authority Archive: [https://www.indexdata.org/european-union/european-
 ### [European Environment Agency (EEA)](https://www.indexdata.org/european-union/european-environment-agency-eea/)
 Canonical Authority Archive: [https://www.indexdata.org/european-union/european-environment-agency-eea/](https://www.indexdata.org/european-union/european-environment-agency-eea/) | [RSS Feed](https://www.indexdata.org/european-union/european-environment-agency-eea/feed/)
 
+- `[`EEA-RPT-ESJERO19C9CC`]` **[EEA Report: Exploring Socially Just Energy Renovation of Residential Buildings](https://www.indexdata.org/eea-report-exploring-socially-just-energy-renovation-of-residential-buildings/)** — `2026-11-25` | `63 Pages`
 - `[`EEA-RPT-TAPIE22026D4309A`]` **[EEA Report: Trends and Projections in Europe 2026](https://www.indexdata.org/eea-report-trends-and-projections-in-europe-2026/)** — `2026-11-09` | `93 Pages`
 - `[`EEA-RPT-ECRAE22365573`]` **[European Climate Risk Assessment EUCRA 2](https://www.indexdata.org/european-climate-risk-assessment-eucra-2/)** — `2026-10-27` | `73 Pages`
 - `[`EEA-RPT-GGETADECA913`]` **[EEA Report: Greenhouse Gas Emissions Trends and Drivers in the EU Agricultural Sector](https://www.indexdata.org/eea-report-greenhouse-gas-emissions-trends-and-drivers-in-the-eu-agricultural-sector/)** — `2026-10-21` | `153 Pages`

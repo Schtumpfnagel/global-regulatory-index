@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,279` across `97` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,281` across `97` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-25 17:24 UTC`
+**Last Automated Sync:** `2026-11-25 19:11 UTC`
 
 ---
 
@@ -19,16 +19,16 @@
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`193` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`193` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`154` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
+- **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`143` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`143` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
-- **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`142` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`128` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 - **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
+- **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`77` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)** (`77` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
-- **[Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)** (`76` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
@@ -113,7 +113,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,279)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,281)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -800,8 +800,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2026-827`]` **[The Biodiversity Beyond National Jurisdiction Act 2026 (Commencement and Transitional Provision) Regulations 2026](https://www.indexdata.org/the-biodiversity-beyond-national-jurisdiction-act-2026-commencement-and-transitional-provision-regulations-2026/)** — `2026-07-15` | `4 Pages`
 - `[`UKSI-2026-825`]` **[The Government of Wales Act 2006 (Increase of Capital Borrowing Limits) Order 2026](https://www.indexdata.org/the-government-of-wales-act-2006-increase-of-capital-borrowing-limits-order-2026/)** — `2026-07-15` | `2 Pages`
 - `[`UKPGA-2026-27`]` **[Steel Industry (Nationalisation) Act 2026](https://www.indexdata.org/steel-industry-nationalisation-act-2026/)** — `2026-07-15` | `49 Pages`
-- `[`UKPGA-2026-25`]` **[Supply and Appropriation (Main Estimates) Act 2026](https://www.indexdata.org/supply-and-appropriation-main-estimates-act-2026/)** — `2026-07-15` | `103 Pages`
-- `[`UKSI-2026-883`]` **[The Abuse Redress Rules 2026](https://www.indexdata.org/the-abuse-redress-rules-2026/)** — `2026-07-14` | `20 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
@@ -965,6 +963,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/animal-an
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 
+- `[`UKSI-2026-1237`]` **[The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2026](https://www.indexdata.org/the-water-supply-and-sewerage-services-customer-service-standards-amendment-regulations-2026/)** — `2026-11-24` | `4 Pages`
 - `[`UK-DGOV-4698a65d-1a3-1e0a2685-3d3`]` **[EU and EFTA countries approved to export animals and animal products to Great Britain — Poultry and poultry products &#91;EUR 2008/ 798&#93;](https://www.indexdata.org/eu-and-efta-countries-approved-to-export-animals-and-animal-products-to-great-britain-poultry-and-poultry-products-eur-2008-798/)** — `2026-11-12` | `23 Pages`
 - `[`UK-DGOV-4698a65d-1a3-0a23b0bc-b53`]` **[EU and EFTA countries approved to export animals and animal products to Great Britain — Bivalve molluscs, echinoderms, tunicates and marine gastropods &#91;2019/626&#93;](https://www.indexdata.org/eu-and-efta-countries-approved-to-export-animals-and-animal-products-to-great-britain-bivalve-molluscs-echinoderms-tunicates-and-marine-gastropods-2019-626/)** — `2026-11-12` | `3 Pages`
 - `[`UK-DGOV-4698a65d-1a3-08b495bd-aa4`]` **[EU and EFTA countries approved to export animals and animal products to Great Britain — Equidae &#91;EUR 2018/ 659&#93;](https://www.indexdata.org/eu-and-efta-countries-approved-to-export-animals-and-animal-products-to-great-britain-equidae-eur-2018-659/)** — `2026-11-12` | `3 Pages`
@@ -1455,6 +1454,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/maritime-
 ### [Department for Work and Pensions](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-work-and-pensions/feed/)
 
+- `[`UKSI-2026-1226`]` **[The State Pension Debits and Credits (Revaluation) Order 2026](https://www.indexdata.org/the-state-pension-debits-and-credits-revaluation-order-2026/)** — `2026-11-23` | `4 Pages`
 - `[`UKSI-2026-1207`]` **[The Social Security (Non-Benefit Payments) Regulations 2026](https://www.indexdata.org/the-social-security-non-benefit-payments-regulations-2026/)** — `2026-11-16` | `2 Pages`
 - `[`UK-GOV-3c340256-cf14-4096-a468-77a079c338f7-1`]` **[Benefit and pension rates: 2027 to 2028 — Proposed benefit and pension rates 2027 to 2028](https://www.indexdata.org/benefit-and-pension-rates-2027-to-2028-proposed-benefit-and-pension-rates-2027-to-2028/)** — `2026-11-11` | `14 Pages`
 - `[`UK-GOV-f56dbbe8-6317-4575-b6a5-ba189213c3b4-2`]` **[Guided retirement: policy consultation — High level member journey (accessible)](https://www.indexdata.org/guided-retirement-policy-consultation-high-level-member-journey-accessible/)** — `2026-11-03` | `2 Pages`
