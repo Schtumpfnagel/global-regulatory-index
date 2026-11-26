@@ -5,12 +5,12 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `202` across `39` issuing authorities  
-**Last Automated Sync:** `2026-11-26 11:07 UTC`
+**Total Indexed Dossiers in Ireland:** `204` across `40` issuing authorities  
+**Last Automated Sync:** `2026-11-26 12:03 UTC`
 
 ---
 
-## Issuing Authorities in Ireland (39 Authorities)
+## Issuing Authorities in Ireland (40 Authorities)
 
 - **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
 - **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
@@ -36,6 +36,7 @@
 - **[Minister for Enterprise, Tourism and Employment](https://www.indexdata.org/ireland/minister-for-enterprise-tourism-and-employment/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-enterprise-tourism-and-employment/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-enterprise-tourism-and-employment/feed/)
 - **[Minister for Public Expenditure, National Development Plan Delivery and Reform](https://www.indexdata.org/ireland/minister-for-public-expenditure-national-development-plan-delivery-and-reform/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-public-expenditure-national-development-plan-delivery-and-reform/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-public-expenditure-national-development-plan-delivery-and-reform/feed/)
 - **[Minister for Transport](https://www.indexdata.org/ireland/minister-for-transport/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-transport/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-transport/feed/)
+- **[Commission for Communications Regulation (ComReg)](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/) | [RSS Feed](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/feed/)
 - **[Department of the Marine](https://www.indexdata.org/ireland/department-of-the-marine/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-the-marine/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-the-marine/feed/)
 - **[Higher Education Authority (HEA)](https://www.indexdata.org/ireland/higher-education-authority-hea/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/higher-education-authority-hea/) | [RSS Feed](https://www.indexdata.org/ireland/higher-education-authority-hea/feed/)
 - **[Minister for Enterprise, Trade and Employment](https://www.indexdata.org/ireland/minister-for-enterprise-trade-and-employment/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-enterprise-trade-and-employment/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-enterprise-trade-and-employment/feed/)
@@ -54,7 +55,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–202 of 202)
+## Indexed Statutory & Regulatory Dossiers (Records 1–204 of 204)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -332,6 +333,12 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-tra
 - `[`IE-BILL-2026-83`]` **[National Vehicle and Driver File, Road Traffic and Roads Bill 2026](https://www.indexdata.org/national-vehicle-and-driver-file-road-traffic-and-roads-bill-2026/)** — `2026-09-04` | `26 Pages`
 - `[`IE-BILL-2026-82`]` **[Railway Safety Bill 2026](https://www.indexdata.org/railway-safety-bill-2026/)** — `2026-07-24` | `48 Pages`
 - `[`IE-ACT-2026-25`]` **[Dublin Airport (Passenger Capacity) Act 2026](https://www.indexdata.org/dublin-airport-passenger-capacity-act-2026/)** — `2026-07-16` | `38 Pages`
+
+### [Commission for Communications Regulation (ComReg)](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/) | [RSS Feed](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/feed/)
+
+- `[`IE-OA-W7124159104`]` **[Student Success in Their Own Words: Insights from Higher Education in Ireland](https://www.indexdata.org/student-success-in-their-own-words-insights-from-higher-education-in-ireland/)** — `2026-01-14` | `44 Pages`
+- `[`IE-OA-W7124131038`]` **[Between Metrics: Rethinking 21st Century Student Success in Ireland](https://www.indexdata.org/between-metrics-rethinking-21st-century-student-success-in-ireland/)** — `2026-01-14` | `39 Pages`
 
 ### [Department of the Marine](https://www.indexdata.org/ireland/department-of-the-marine/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-the-marine/](https://www.indexdata.org/ireland/department-of-the-marine/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-the-marine/feed/)
