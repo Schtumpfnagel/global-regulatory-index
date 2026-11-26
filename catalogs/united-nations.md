@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,029` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,030` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-26 10:12 UTC`
+**Last Automated Sync:** `2026-11-26 11:07 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,027` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`539` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`499` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,029)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,030)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-81-7-Add.16`]` **[Revised estimates resulting from resolutions and decisions adopted by the General Assembly at its 80th session — 17th report of the Advisory Committee on Administrative and Budgetary Questions on the proposed programme budget for 2027](https://www.indexdata.org/a-81-7-add-16-revised-estimates-resulting-from-resolutions-and-decisions-adopted-by-the-general-assembly-at-its-80th-session-17th-report-of-the-advisory-committee-on-administrative-and-bud/)** — `2026-11-24` | `4 Pages`
 - `[`UN-A-AC.96-SR.791`]` **[Summary record of the 791st meeting, held at the Palais des Nations, Geneva, on Thursday, 15 October 2026 — Executive Committee of the Programme of the United Nations High Commissioner for Refugees, 77th session](https://www.indexdata.org/a-ac-96-sr-791-summary-record-of-the-791st-meeting-held-at-the-palais-des-nations-geneva-on-thursday-15-october-2026-executive-committee-of-the-programme-of-the-united-nations-high-com/)** — `2026-11-20` | `25 Pages`
 - `[`UN-A-C.2-81-L.58`]` **[International financial system and development — amendment to draft resolution A/C.2/81/L.47](https://www.indexdata.org/a-c-2-81-l-58-international-financial-system-and-development-amendment-to-draft-resolution-a-c-2-81-l-47/)** — `2026-11-19` | `2 Pages`
 - `[`UN-A-C.2-81-L.57`]` **[External debt sustainability and development — amendment to revised draft resolution A/C.2/81/L.9/Rev.1](https://www.indexdata.org/a-c-2-81-l-57-external-debt-sustainability-and-development-amendment-to-revised-draft-resolution-a-c-2-81-l-9-rev-1/)** — `2026-11-19` | `3 Pages`
@@ -1160,7 +1161,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-63-41`]` **[Progress report on the 7th session of the Open-Ended Intergovernmental Working Group to Elaborate the Content of an International Regulatory Framework on the Regulation, Monitoring and Oversight of the Activities of Private Military and Security Companies](https://www.indexdata.org/a-hrc-63-41-progress-report-on-the-7th-session-of-the-open-ended-intergovernmental-working-group-to-elaborate-the-content-of-an-international-regulatory-framework-on-the-regulation-monitoring-and-o/)** — `2026-07-06` | `12 Pages`
 - `[`UN-A-HRC-63-37`]` **[Report of the Working Group on the Right to Development on its 27th session, Geneva, 18-21 May 2026](https://www.indexdata.org/a-hrc-63-37-report-of-the-working-group-on-the-right-to-development-on-its-27th-session-geneva-18-21-may-2026/)** — `2026-07-06` | `20 Pages`
 - `[`UN-A-HRC-63-30-Add.1`]` **[Visit to Botswana — report of the Special Rapporteur on the Rights of Indigenous Peoples on his visit to Botswana](https://www.indexdata.org/a-hrc-63-30-add-1-visit-to-botswana-report-of-the-special-rapporteur-on-the-rights-of-indigenous-peoples-on-his-visit-to-botswana/)** — `2026-07-06` | `22 Pages`
-- `[`UN-A-HRC-63-27`]` **[Forever chemicals and human rights — report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Marcos Orellana](https://www.indexdata.org/a-hrc-63-27-forever-chemicals-and-human-rights-report-of-the-special-rapporteur-on-the-implications-for-human-rights-of-the-environmentally-sound-management-and-disposal-of-hazardous-subst/)** — `2026-07-06` | `20 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)

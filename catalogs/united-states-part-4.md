@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,740` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,741` across `248` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 10:12 UTC`
+**Last Automated Sync:** `2026-11-26 11:07 UTC`
 
 ---
 
@@ -81,7 +81,7 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
+- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
@@ -264,7 +264,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,740)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,741)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -890,7 +890,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2025-17008`]` **[Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities-June 2025](https://www.indexdata.org/receipt-of-pesticide-petitions-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-june-2025/)** — `2025-09-05` | `3 Pages`
 - `[`2025-16868`]` **[Clean Water Act Effluent Limitations Guidelines and Standards for the Meat and Poultry Products Point Source Category](https://www.indexdata.org/clean-water-act-effluent-limitations-guidelines-and-standards-for-the-meat-and-poultry-products-point-source-category/)** — `2025-09-03` | `6 Pages`
 - `[`2025-16801`]` **[Wyoming: Approval of State Coal Combustion Residuals Permit Program](https://www.indexdata.org/wyoming-approval-of-state-coal-combustion-residuals-permit-program-2/)** — `2025-09-02` | `9 Pages`
-- `[`2025-16744`]` **[National Emission Standards for Hazardous Air Pollutants for the Polyether Polyols Production Industry: Removal of Affirmative Defense](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-for-the-polyether-polyols-production-industry-removal-of-affirmative-defense/)** — `2025-09-02` | `6 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1511,6 +1510,22 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-ser
 - `[`2025-18917`]` **[Administrative Wage Garnishment](https://www.indexdata.org/administrative-wage-garnishment/)** — `2025-09-29` | `3 Pages`
 - `[`2025-17659`]` **[Manifest Mailing System Retired](https://www.indexdata.org/manifest-mailing-system-retired-2/)** — `2025-09-12` | `3 Pages`
 
+### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
+
+- `[`2026-03259`]` **[Parts and Accessories Necessary for Safe Operation; License Plate Lamps](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-license-plate-lamps/)** — `2026-02-19` | `4 Pages`
+- `[`2026-03258`]` **[Qualifications of Drivers; Vision Standards Grandfathering Provision](https://www.indexdata.org/qualifications-of-drivers-vision-standards-grandfathering-provision/)** — `2026-02-19` | `4 Pages`
+- `[`2026-03257`]` **[Parts and Accessories Necessary for Safe Operation; Auxiliary Fuel Tanks](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-auxiliary-fuel-tanks/)** — `2026-02-19` | `4 Pages`
+- `[`2026-03256`]` **[Parts and Accessories Necessary for Safe Operation; Brakes on Portable Conveyors](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-brakes-on-portable-conveyors/)** — `2026-02-19` | `4 Pages`
+- `[`2026-03255`]` **[Parts and Accessories Necessary for Safe Operation; Certification and Labeling Requirements for Rear Impact Protection Guards](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-certification-and-labeling-requirements-for-rear-impact-protection-guards/)** — `2026-02-19` | `4 Pages`
+- `[`2026-02965`]` **[Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.indexdata.org/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl/)** — `2026-02-13` | `60 Pages`
+- `[`2026-00269`]` **[Transportation of Fuel for Agricultural Aircraft Operations](https://www.indexdata.org/transportation-of-fuel-for-agricultural-aircraft-operations/)** — `2026-01-09` | `11 Pages`
+- `[`2026-00268`]` **[Clarification to the Applicability of Emergency Exemptions; Response to Petitions for Reconsideration](https://www.indexdata.org/clarification-to-the-applicability-of-emergency-exemptions-response-to-petitions-for-reconsideration-2/)** — `2026-01-09` | `6 Pages`
+- `[`2025-20282`]` **[Incorporation by Reference; North American Standard Out-of-Service Criteria; Hazardous Materials Safety Permits (2025)](https://www.indexdata.org/incorporation-by-reference-north-american-standard-out-of-service-criteria-hazardous-materials-safety-permits-2025/)** — `2025-11-19` | `7 Pages`
+- `[`2025-19230`]` **[Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL); Correction](https://www.indexdata.org/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl-correction/)** — `2025-10-02` | `2 Pages`
+- `[`2025-18869`]` **[Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.indexdata.org/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl-2/)** — `2025-09-29` | `18 Pages`
+- `[`2025-17939`]` **[Hours of Service of Drivers; Pilot Program To Allow Commercial Drivers To Split Sleeper Berth Time](https://www.indexdata.org/hours-of-service-of-drivers-pilot-program-to-allow-commercial-drivers-to-split-sleeper-berth-time/)** — `2025-09-17` | `9 Pages`
+
 ### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
 
@@ -1573,21 +1588,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-p
 - `[`2025-18810`]` **[Withdrawal of Proposed Regulatory Actions](https://www.indexdata.org/withdrawal-of-proposed-regulatory-actions/)** — `2025-09-29` | `2 Pages`
 - `[`2025-18521`]` **[Certificates of Compliance; Correction](https://www.indexdata.org/certificates-of-compliance-correction/)** — `2025-09-24` | `2 Pages`
 - `[`2025-17439`]` **[Notification of Availability and Request for Comment: Revision to the Voluntary Standard for Bassinets and Cradles](https://www.indexdata.org/notification-of-availability-and-request-for-comment-revision-to-the-voluntary-standard-for-bassinets-and-cradles/)** — `2025-09-10` | `2 Pages`
-
-### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
-
-- `[`2026-03258`]` **[Qualifications of Drivers; Vision Standards Grandfathering Provision](https://www.indexdata.org/qualifications-of-drivers-vision-standards-grandfathering-provision/)** — `2026-02-19` | `4 Pages`
-- `[`2026-03257`]` **[Parts and Accessories Necessary for Safe Operation; Auxiliary Fuel Tanks](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-auxiliary-fuel-tanks/)** — `2026-02-19` | `4 Pages`
-- `[`2026-03256`]` **[Parts and Accessories Necessary for Safe Operation; Brakes on Portable Conveyors](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-brakes-on-portable-conveyors/)** — `2026-02-19` | `4 Pages`
-- `[`2026-03255`]` **[Parts and Accessories Necessary for Safe Operation; Certification and Labeling Requirements for Rear Impact Protection Guards](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-certification-and-labeling-requirements-for-rear-impact-protection-guards/)** — `2026-02-19` | `4 Pages`
-- `[`2026-02965`]` **[Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.indexdata.org/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl/)** — `2026-02-13` | `60 Pages`
-- `[`2026-00269`]` **[Transportation of Fuel for Agricultural Aircraft Operations](https://www.indexdata.org/transportation-of-fuel-for-agricultural-aircraft-operations/)** — `2026-01-09` | `11 Pages`
-- `[`2026-00268`]` **[Clarification to the Applicability of Emergency Exemptions; Response to Petitions for Reconsideration](https://www.indexdata.org/clarification-to-the-applicability-of-emergency-exemptions-response-to-petitions-for-reconsideration-2/)** — `2026-01-09` | `6 Pages`
-- `[`2025-20282`]` **[Incorporation by Reference; North American Standard Out-of-Service Criteria; Hazardous Materials Safety Permits (2025)](https://www.indexdata.org/incorporation-by-reference-north-american-standard-out-of-service-criteria-hazardous-materials-safety-permits-2025/)** — `2025-11-19` | `7 Pages`
-- `[`2025-19230`]` **[Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL); Correction](https://www.indexdata.org/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl-correction/)** — `2025-10-02` | `2 Pages`
-- `[`2025-18869`]` **[Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.indexdata.org/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl-2/)** — `2025-09-29` | `18 Pages`
-- `[`2025-17939`]` **[Hours of Service of Drivers; Pilot Program To Allow Commercial Drivers To Split Sleeper Berth Time](https://www.indexdata.org/hours-of-service-of-drivers-pilot-program-to-allow-commercial-drivers-to-split-sleeper-berth-time/)** — `2025-09-17` | `9 Pages`
 
 ### [Federal Reserve System](https://www.indexdata.org/united-states/federal-reserve-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-reserve-system/](https://www.indexdata.org/united-states/federal-reserve-system/) | [RSS Feed](https://www.indexdata.org/united-states/federal-reserve-system/feed/)

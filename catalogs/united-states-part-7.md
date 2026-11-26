@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,740` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,741` across `248` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 10:12 UTC`
+**Last Automated Sync:** `2026-11-26 11:07 UTC`
 
 ---
 
@@ -81,7 +81,7 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
+- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
@@ -264,7 +264,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,740)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,741)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1192,6 +1192,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
+- `[`2024-27227`]` **[Previously Taxed Earnings and Profits and Related Basis Adjustments](https://www.indexdata.org/previously-taxed-earnings-and-profits-and-related-basis-adjustments/)** — `2024-12-02` | `103 Pages`
 - `[`2024-27588`]` **[Advanced Manufacturing Production Credit; Correction](https://www.indexdata.org/advanced-manufacturing-production-credit-correction/)** — `2024-11-26` | `2 Pages`
 - `[`2024-27072`]` **[Disclosures of Return Information Reflected on Returns to Officers and Employees of the Department of Commerce, Including the Bureau of the Census, for Certain Statistical Purposes and Related Activities](https://www.indexdata.org/disclosures-of-return-information-reflected-on-returns-to-officers-and-employees-of-the-department-of-commerce-including-the-bureau-of-the-census-for-certain-statistical-purposes-and-related-activit/)** — `2024-11-26` | `8 Pages`
 - `[`2024-27427`]` **[Advanced Manufacturing Investment Credit Rules Under Sections 48D and 50; Correction](https://www.indexdata.org/advanced-manufacturing-investment-credit-rules-under-sections-48d-and-50-correction/)** — `2024-11-25` | `2 Pages`
@@ -1490,7 +1491,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`2024-16284`]` **[Federal Acquisition Regulation; Technical Amendments](https://www.indexdata.org/federal-acquisition-regulation-technical-amendments-5/)** — `2024-07-30` | `2 Pages`
 - `[`2024-16283`]` **[Federal Acquisition Regulation: Limitation of Authority Regarding Extraordinary Contractual Actions](https://www.indexdata.org/federal-acquisition-regulation-limitation-of-authority-regarding-extraordinary-contractual-actions/)** — `2024-07-30` | `2 Pages`
 - `[`2024-16282`]` **[Federal Acquisition Regulation: Protests of Orders Set Aside for Small Business](https://www.indexdata.org/federal-acquisition-regulation-protests-of-orders-set-aside-for-small-business/)** — `2024-07-30` | `5 Pages`
-- `[`2024-16281`]` **[Federal Acquisition Regulation: Reverse Auction Guidance](https://www.indexdata.org/federal-acquisition-regulation-reverse-auction-guidance/)** — `2024-07-30` | `7 Pages`
 
 ### [Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and-human-services-department/](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)

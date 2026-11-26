@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,740` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,741` across `248` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 10:12 UTC`
+**Last Automated Sync:** `2026-11-26 11:07 UTC`
 
 ---
 
@@ -81,7 +81,7 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
+- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
@@ -264,7 +264,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,740)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,741)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1030,6 +1030,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2024-05940`]` **[Review of the Commission's Broadcast and Cable Equal Employment Opportunity Rules and Policies](https://www.indexdata.org/review-of-the-commissions-broadcast-and-cable-equal-employment-opportunity-rules-and-policies-2/)** — `2024-03-28` | `5 Pages`
 - `[`2024-06092`]` **[Resilient Networks; Disruptions to Communications](https://www.indexdata.org/resilient-networks-disruptions-to-communications-4/)** — `2024-03-26` | `10 Pages`
 - `[`2024-06249`]` **[Cybersecurity Labeling for Internet of Things](https://www.indexdata.org/cybersecurity-labeling-for-internet-of-things-2/)** — `2024-03-25` | `3 Pages`
 - `[`2024-06158`]` **[Facilitating Shared Use in the 3100-3550 MHz Band](https://www.indexdata.org/facilitating-shared-use-in-the-3100-3550-mhz-band/)** — `2024-03-25` | `3 Pages`
@@ -2112,11 +2113,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/community-
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-department/](https://www.indexdata.org/united-states/defense-department/) | [RSS Feed](https://www.indexdata.org/united-states/defense-department/feed/)
 
 - `[`2024-00516`]` **[Improving Government Regulations; Unified Agenda of Federal Regulatory and Deregulatory Actions](https://www.indexdata.org/improving-government-regulations-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2/)** — `2024-02-09` | `2 Pages`
-
-### [Defense Nuclear Facilities Safety Board](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/) | [RSS Feed](https://www.indexdata.org/united-states/defense-nuclear-facilities-safety-board/feed/)
-
-- `[`2023-25536`]` **[Federal Employee Salary Offset Procedures for the Collection of a Debt Owed to the Federal Government](https://www.indexdata.org/federal-employee-salary-offset-procedures-for-the-collection-of-a-debt-owed-to-the-federal-government/)** — `2023-11-22` | `2 Pages`
 
 ### [Federal Mediation and Conciliation Service](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/) | [RSS Feed](https://www.indexdata.org/united-states/federal-mediation-and-conciliation-service/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,740` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,741` across `248` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 10:12 UTC`
+**Last Automated Sync:** `2026-11-26 11:07 UTC`
 
 ---
 
@@ -81,7 +81,7 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
+- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
@@ -264,7 +264,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,740)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,741)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -593,6 +593,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-16744`]` **[National Emission Standards for Hazardous Air Pollutants for the Polyether Polyols Production Industry: Removal of Affirmative Defense](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-for-the-polyether-polyols-production-industry-removal-of-affirmative-defense/)** — `2025-09-02` | `6 Pages`
 - `[`2025-16723`]` **[Air Plan Approval; GA; Removal of Nonattainment Area New Source Review](https://www.indexdata.org/air-plan-approval-ga-removal-of-nonattainment-area-new-source-review-2/)** — `2025-09-02` | `5 Pages`
 - `[`2025-16486`]` **[Approval of the Clean Air Act, Section 112(l), Authority for Hazardous Air Pollutants; State of Connecticut Department of Energy and Environmental Protection; Approval of the Clean Air Act Section 502, State Operating Permit Programs, State of Connecticut Department of Energy and Environmental Protection](https://www.indexdata.org/approval-of-the-clean-air-act-section-112l-authority-for-hazardous-air-pollutants-state-of-connecticut-department-of-energy-and-environmental-protection-approval-of-the-clean-air-act-section-502-2/)** — `2025-08-28` | `3 Pages`
 - `[`2025-16484`]` **[Air Plan Approval; Ohio; 2015 Ozone Moderate Reasonably Available Control Technology SIP](https://www.indexdata.org/air-plan-approval-ohio-2015-ozone-moderate-reasonably-available-control-technology-sip/)** — `2025-08-28` | `6 Pages`
@@ -979,7 +980,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2025-07797`]` **[International Fisheries; Pacific Tuna Fisheries; 2025-2026 Commercial Fishing Restrictions for Pacific Bluefin Tuna in the Eastern Pacific Ocean](https://www.indexdata.org/international-fisheries-pacific-tuna-fisheries-2025-2026-commercial-fishing-restrictions-for-pacific-bluefin-tuna-in-the-eastern-pacific-ocean/)** — `2025-05-06` | `4 Pages`
 - `[`2025-07490`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; General Category and Harpoon Category Retention Limit Adjustments](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-general-category-and-harpoon-category-retention-limit-adjustments/)** — `2025-05-06` | `4 Pages`
 - `[`2025-07635`]` **[Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Fishing Year 2025 Measures](https://www.indexdata.org/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern-united-states-northeast-multispecies-fishery-fishing-year-2025-measures/)** — `2025-05-02` | `16 Pages`
-- `[`2025-07399`]` **[Fisheries of the Northeastern United States; Atlantic Sea Scallop Fishery; Final 2025 Closure of the Northern Gulf of Maine Scallop Management Area to the Limited Access General Category Fishery](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-sea-scallop-fishery-final-2025-closure-of-the-northern-gulf-of-maine-scallop-management-area-to-the-limited-access-general-category-fishery/)** — `2025-04-30` | `2 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)

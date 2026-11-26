@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,740` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,741` across `248` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 10:12 UTC`
+**Last Automated Sync:** `2026-11-26 11:07 UTC`
 
 ---
 
@@ -81,7 +81,7 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
+- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
@@ -264,7 +264,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,740)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,741)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -799,7 +799,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-CRPT-119srpt153`]` **[S. Rept. 119-153](https://www.indexdata.org/s-rept-119-153/)** — `2026-10-06` | `5 Pages`
 - `[`US-CRPT-119srpt148`]` **[S. Rept. 119-148](https://www.indexdata.org/s-rept-119-148/)** — `2026-10-06` | `5 Pages`
 - `[`US-CRPT-119srpt147`]` **[S. Rept. 119-147](https://www.indexdata.org/s-rept-119-147/)** — `2026-10-06` | `5 Pages`
-- `[`US-CRPT-119srpt146`]` **[S. Rept. 119-146](https://www.indexdata.org/s-rept-119-146/)** — `2026-10-06` | `15 Pages`
 
 ### [U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-energy-doe/](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
@@ -1171,6 +1170,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`US-DOC-NOAA-77765`]` **[A Program to Increase the Demand for Underutilized Species Among Recreational Fishermen in the North Atlantic and Mid-Atlantic Regions](https://www.indexdata.org/a-program-to-increase-the-demand-for-underutilized-species-among-recreational-fishermen-in-the-north-atlantic-and-mid-atlantic-regions/)** — `2026-11-25` | `61 Pages`
 - `[`US-DOC-NOAA-77764`]` **[Final Report : Grant NA-88-EA-H-00015, March 1, 1988 - November 30, 1990](https://www.indexdata.org/final-report-grant-na-88-ea-h-00015-march-1-1988-november-30-1990/)** — `2026-11-25` | `40 Pages`
 - `[`US-DOC-NOAA-77763`]` **[Final Report : Atlantic Mackerel Marketing Council Feasibility, Saltonstall-Kennedy Cooperative Agreement #NA-88-EAH-00013](https://www.indexdata.org/final-report-atlantic-mackerel-marketing-council-feasibility-saltonstall-kennedy-cooperative-agreement-na-88-eah-00013/)** — `2026-11-25` | `44 Pages`
+- `[`US-DOC-NOAA-77762`]` **[Raw Bivalve Shellfish : Safety and Quality Assurance, Final Report](https://www.indexdata.org/raw-bivalve-shellfish-safety-and-quality-assurance-final-report/)** — `2026-11-25` | `36 Pages`
 - `[`US-DOC-NOAA-73914`]` **[Report of the external review for Cooperative Institute for Research to Operations in Hydrology (CIROH)](https://www.indexdata.org/report-of-the-external-review-for-cooperative-institute-for-research-to-operations-in-hydrology-ciroh/)** — `2026-11-23` | `26 Pages`
 - `[`US-DOC-NOAA-77730`]` **[Final reports : Saltonstall-Kennedy Cooperative Agreements Awarded to New England Fisheries Development Foundation Relating to On-Board Quality](https://www.indexdata.org/final-reports-saltonstall-kennedy-cooperative-agreements-awarded-to-new-england-fisheries-development-foundation-relating-to-on-board-quality/)** — `2026-11-20` | `166 Pages`
 - `[`US-DOC-NOAA-77729`]` **[Final report on a quality seafood testing program for the Mid-Atlantic region, part III](https://www.indexdata.org/final-report-on-a-quality-seafood-testing-program-for-the-mid-atlantic-region-part-iii/)** — `2026-11-20` | `70 Pages`

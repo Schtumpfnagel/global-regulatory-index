@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/switzerland/feed/](https://www.indexdata.org/switzerland/feed/)  
 **Wikidata Sovereign Entity:** [`Q39`](https://www.wikidata.org/wiki/Q39)  
 **Governing Open-Government Framework:** *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)*  
-**Total Indexed Dossiers in Switzerland:** `193` across `6` issuing authorities  
-**Last Automated Sync:** `2026-11-26 10:12 UTC`
+**Total Indexed Dossiers in Switzerland:** `194` across `6` issuing authorities  
+**Last Automated Sync:** `2026-11-26 11:07 UTC`
 
 ---
 
 ## Issuing Authorities in Switzerland (6 Authorities)
 
-- **[Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)** (`120` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
+- **[Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)** (`121` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
 - **[Federal Department of Justice and Police (FDJP)](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/feed/)
 - **[EnviDat: the Environmental Data Portal](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/) | [RSS Feed](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/feed/)
 - **[Federal Department of Economic Affairs, Education and Research (EAER)](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/feed/)
@@ -21,7 +21,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–193 of 193)
+## Indexed Statutory & Regulatory Dossiers (Records 1–194 of 194)
 
 ### [Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)
 Canonical Authority Archive: [https://www.indexdata.org/switzerland/federal-statistical-office-fso/](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
@@ -46,6 +46,7 @@ Canonical Authority Archive: [https://www.indexdata.org/switzerland/federal-stat
 - `[`CH-OGD-7f8a78e3-ab63-45`]` **[Educational institutions](https://www.indexdata.org/educational-institutions/)** — `2024-10-02` | `32 Pages`
 - `[`CH-OGD-a2803523-0717-41`]` **[Environment. Pocket Statistics 2024](https://www.indexdata.org/environment-pocket-statistics-2024/)** — `2024-09-26` | `10 Pages`
 - `[`CH-OGD-dd377341-a870-4c`]` **[A Panorama of Swiss Society 2024](https://www.indexdata.org/a-panorama-of-swiss-society-2024/)** — `2024-08-26` | `117 Pages`
+- `[`CH-OGD-1785cfe4-8517-43`]` **[SLFS 2023 in brief](https://www.indexdata.org/slfs-2023-in-brief/)** — `2024-08-15` | `10 Pages`
 - `[`CH-OGD-013ddb00-277b-40`]` **[Mobility and Transport](https://www.indexdata.org/mobility-and-transport-5/)** — `2024-08-07` | `10 Pages`
 - `[`CH-OGD-12b64533-f9b5-45`]` **[Agriculture](https://www.indexdata.org/agriculture-3/)** — `2024-06-20` | `10 Pages`
 - `[`CH-OGD-a743d9c4-bbe0-42`]` **[Switzerland in infographics](https://www.indexdata.org/switzerland-in-infographics/)** — `2024-04-19` | `28 Pages`

@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,029` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,030` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-26 10:12 UTC`
+**Last Automated Sync:** `2026-11-26 11:07 UTC`
 
 ---
 
 ## Issuing Authorities in United Nations (171 Authorities)
 
-- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
+- **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,027` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`539` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
 - **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`499` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,029)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,030)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-62-24`]` **[Conscientious objection to military service — analytical report of the Office of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-62-24-conscientious-objection-to-military-service-analytical-report-of-the-office-of-the-united-nations-high-commissioner-for-human-rights/)** — `2026-04-21` | `15 Pages`
 - `[`UN-A-HRC-62-12`]` **[Report of the Working Group on the Universal Periodic Review — Austria](https://www.indexdata.org/a-hrc-62-12-report-of-the-working-group-on-the-universal-periodic-review-austria/)** — `2026-04-21` | `24 Pages`
 - `[`UN-A-HRC-61-G-5`]` **[Note verbale dated 20 April 2026 from the Permanent Mission of Cyprus to the United Nations Office at Geneva addressed to the Office of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-g-5-note-verbale-dated-20-april-2026-from-the-permanent-mission-of-cyprus-to-the-united-nations-office-at-geneva-addressed-to-the-office-of-the-united-nations-high-commissioner-for-human-ri/)** — `2026-04-21` | `3 Pages`
 - `[`UN-A-C.5-80-L.31`]` **[Status of preparedness of documentation for the 5th Committee during the 2nd part of the resumed 80th session of the General Assembly — note](https://www.indexdata.org/a-c-5-80-l-31-status-of-preparedness-of-documentation-for-the-5th-committee-during-the-2nd-part-of-the-resumed-80th-session-of-the-general-assembly-note/)** — `2026-04-21` | `7 Pages`
@@ -1544,7 +1545,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-CN.6-2026-NGO-213`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-213-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-211`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-211-statement/)** — `2026-01-19` | `2 Pages`
 - `[`UN-E-CN.6-2026-NGO-210`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-210-statement/)** — `2026-01-19` | `5 Pages`
-- `[`UN-E-CN.6-2026-NGO-209`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-209-statement/)** — `2026-01-19` | `4 Pages`
 
 ### [Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/programmes-and-funds/](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)

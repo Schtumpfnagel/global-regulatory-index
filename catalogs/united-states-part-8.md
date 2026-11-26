@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,740` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,741` across `248` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 10:12 UTC`
+**Last Automated Sync:** `2026-11-26 11:07 UTC`
 
 ---
 
@@ -81,7 +81,7 @@
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
+- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
@@ -264,7 +264,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,740)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,741)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1119,7 +1119,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2024-07170`]` **[Facilitating Shared Use in the 3100-3550 MHz Band; Correction](https://www.indexdata.org/facilitating-shared-use-in-the-3100-3550-mhz-band-correction-2/)** — `2024-04-04` | `2 Pages`
 - `[`2024-06664`]` **[Amendments to Resilient Networks Disruptions to Communications; New Considerations Concerning Disruptions to Communications](https://www.indexdata.org/amendments-to-resilient-networks-disruptions-to-communications-new-considerations-concerning-disruptions-to-communications/)** — `2024-03-29` | `10 Pages`
 - `[`2024-06616`]` **[Radio Broadcasting Services; Mattoon, Illinois](https://www.indexdata.org/radio-broadcasting-services-mattoon-illinois/)** — `2024-03-28` | `2 Pages`
-- `[`2024-05940`]` **[Review of the Commission's Broadcast and Cable Equal Employment Opportunity Rules and Policies](https://www.indexdata.org/review-of-the-commissions-broadcast-and-cable-equal-employment-opportunity-rules-and-policies-2/)** — `2024-03-28` | `5 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -1489,6 +1488,23 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-an
 - `[`2024-06977`]` **[Expanding the Fair Housing Testing Pool for FHIP and FHAP Funded Entities](https://www.indexdata.org/expanding-the-fair-housing-testing-pool-for-fhip-and-fhap-funded-entities/)** — `2024-04-03` | `9 Pages`
 - `[`2024-06676`]` **[Strengthening the Section 184 Indian Housing Loan Guarantee Program; Correction](https://www.indexdata.org/strengthening-the-section-184-indian-housing-loan-guarantee-program-correction/)** — `2024-03-29` | `2 Pages`
 
+### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
+
+- `[`2024-16281`]` **[Federal Acquisition Regulation: Reverse Auction Guidance](https://www.indexdata.org/federal-acquisition-regulation-reverse-auction-guidance/)** — `2024-07-30` | `7 Pages`
+- `[`2024-15565`]` **[Federal Acquisition Regulation: Combating Trafficking in Persons-Definition and Agency Responsibilities](https://www.indexdata.org/federal-acquisition-regulation-combating-trafficking-in-persons-definition-and-agency-responsibilities/)** — `2024-07-18` | `4 Pages`
+- `[`2024-13819`]` **[Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services](https://www.indexdata.org/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services-2/)** — `2024-06-26` | `2 Pages`
+- `[`2024-12570`]` **[Federal Acquisition Regulation: HUBZone Program](https://www.indexdata.org/federal-acquisition-regulation-hubzone-program/)** — `2024-06-07` | `6 Pages`
+- `[`2024-12501`]` **[Federal Acquisition Regulation: Subcontracting to Puerto Rican and Covered Territory Small Businesses](https://www.indexdata.org/federal-acquisition-regulation-subcontracting-to-puerto-rican-and-covered-territory-small-businesses-2/)** — `2024-06-07` | `5 Pages`
+- `[`2024-10499`]` **[Federal Acquisition Regulation; Technical Amendments; Correction](https://www.indexdata.org/federal-acquisition-regulation-technical-amendments-correction/)** — `2024-05-14` | `2 Pages`
+- `[`2024-08735`]` **[Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services](https://www.indexdata.org/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services-3/)** — `2024-05-03` | `5 Pages`
+- `[`2024-07932`]` **[Federal Acquisition Regulation; Technical Amendments](https://www.indexdata.org/federal-acquisition-regulation-technical-amendments-6/)** — `2024-04-22` | `3 Pages`
+- `[`2024-07931`]` **[Federal Acquisition Regulation: Sustainable Procurement](https://www.indexdata.org/federal-acquisition-regulation-sustainable-procurement/)** — `2024-04-22` | `39 Pages`
+- `[`2024-07421`]` **[Delegations and Designations](https://www.indexdata.org/delegations-and-designations/)** — `2024-04-16` | `4 Pages`
+- `[`2024-07006`]` **[Procedures for Implementing the National Environmental Policy Act](https://www.indexdata.org/procedures-for-implementing-the-national-environmental-policy-act-2/)** — `2024-04-11` | `7 Pages`
+- `[`2024-06412`]` **[Federal Acquisition Regulation; Federal Acquisition Circular 2024-04; Small Entity Compliance Guide](https://www.indexdata.org/federal-acquisition-regulation-federal-acquisition-circular-2024-04-small-entity-compliance-guide/)** — `2024-04-01` | `2 Pages`
+- `[`2024-06411`]` **[Federal Acquisition Regulation: Establishing Federal Acquisition Regulation Part 40](https://www.indexdata.org/federal-acquisition-regulation-establishing-federal-acquisition-regulation-part-40/)** — `2024-04-01` | `2 Pages`
+
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 
@@ -1504,22 +1520,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-s
 - `[`2024-07169`]` **[Procedures for Debarring Vessels From Entering U.S. Ports](https://www.indexdata.org/procedures-for-debarring-vessels-from-entering-u-s-ports/)** — `2024-04-04` | `4 Pages`
 - `[`2024-06526`]` **[Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA) Reporting Requirements](https://www.indexdata.org/cyber-incident-reporting-for-critical-infrastructure-act-circia-reporting-requirements/)** — `2024-04-04` | `133 Pages`
 - `[`2024-06851`]` **[Harmonization of the Fees and Application Procedures for the Global Entry and SENTRI Programs and Other Changes](https://www.indexdata.org/harmonization-of-the-fees-and-application-procedures-for-the-global-entry-and-sentri-programs-and-other-changes/)** — `2024-04-02` | `24 Pages`
-
-### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
-
-- `[`2024-15565`]` **[Federal Acquisition Regulation: Combating Trafficking in Persons-Definition and Agency Responsibilities](https://www.indexdata.org/federal-acquisition-regulation-combating-trafficking-in-persons-definition-and-agency-responsibilities/)** — `2024-07-18` | `4 Pages`
-- `[`2024-13819`]` **[Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services](https://www.indexdata.org/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services-2/)** — `2024-06-26` | `2 Pages`
-- `[`2024-12570`]` **[Federal Acquisition Regulation: HUBZone Program](https://www.indexdata.org/federal-acquisition-regulation-hubzone-program/)** — `2024-06-07` | `6 Pages`
-- `[`2024-12501`]` **[Federal Acquisition Regulation: Subcontracting to Puerto Rican and Covered Territory Small Businesses](https://www.indexdata.org/federal-acquisition-regulation-subcontracting-to-puerto-rican-and-covered-territory-small-businesses-2/)** — `2024-06-07` | `5 Pages`
-- `[`2024-10499`]` **[Federal Acquisition Regulation; Technical Amendments; Correction](https://www.indexdata.org/federal-acquisition-regulation-technical-amendments-correction/)** — `2024-05-14` | `2 Pages`
-- `[`2024-08735`]` **[Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services](https://www.indexdata.org/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services-3/)** — `2024-05-03` | `5 Pages`
-- `[`2024-07932`]` **[Federal Acquisition Regulation; Technical Amendments](https://www.indexdata.org/federal-acquisition-regulation-technical-amendments-6/)** — `2024-04-22` | `3 Pages`
-- `[`2024-07931`]` **[Federal Acquisition Regulation: Sustainable Procurement](https://www.indexdata.org/federal-acquisition-regulation-sustainable-procurement/)** — `2024-04-22` | `39 Pages`
-- `[`2024-07421`]` **[Delegations and Designations](https://www.indexdata.org/delegations-and-designations/)** — `2024-04-16` | `4 Pages`
-- `[`2024-07006`]` **[Procedures for Implementing the National Environmental Policy Act](https://www.indexdata.org/procedures-for-implementing-the-national-environmental-policy-act-2/)** — `2024-04-11` | `7 Pages`
-- `[`2024-06412`]` **[Federal Acquisition Regulation; Federal Acquisition Circular 2024-04; Small Entity Compliance Guide](https://www.indexdata.org/federal-acquisition-regulation-federal-acquisition-circular-2024-04-small-entity-compliance-guide/)** — `2024-04-01` | `2 Pages`
-- `[`2024-06411`]` **[Federal Acquisition Regulation: Establishing Federal Acquisition Regulation Part 40](https://www.indexdata.org/federal-acquisition-regulation-establishing-federal-acquisition-regulation-part-40/)** — `2024-04-01` | `2 Pages`
 
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
