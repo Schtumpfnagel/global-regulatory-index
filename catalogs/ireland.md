@@ -5,26 +5,26 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `205` across `40` issuing authorities  
-**Last Automated Sync:** `2026-11-26 13:25 UTC`
+**Total Indexed Dossiers in Ireland:** `207` across `40` issuing authorities  
+**Last Automated Sync:** `2026-11-26 14:41 UTC`
 
 ---
 
 ## Issuing Authorities in Ireland (40 Authorities)
 
-- **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
+- **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
 - **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
 - **[Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
 - **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
 - **[Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
 - **[Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
 - **[Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
+- **[The Arts Council](https://www.indexdata.org/ireland/the-arts-council/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-arts-council/) | [RSS Feed](https://www.indexdata.org/ireland/the-arts-council/feed/)
 - **[Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
 - **[Minister for Finance](https://www.indexdata.org/ireland/minister-for-finance/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-finance/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-finance/feed/)
 - **[Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
 - **[Minister for Housing, Local Government and Heritage](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/feed/)
 - **[National Treasury Management Agency (NTMA)](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/) | [RSS Feed](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/feed/)
-- **[The Arts Council](https://www.indexdata.org/ireland/the-arts-council/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-arts-council/) | [RSS Feed](https://www.indexdata.org/ireland/the-arts-council/feed/)
 - **[Department of Agriculture and Fisheries](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/feed/)
 - **[Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
 - **[The Pensions Authority](https://www.indexdata.org/ireland/the-pensions-authority/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-pensions-authority/) | [RSS Feed](https://www.indexdata.org/ireland/the-pensions-authority/feed/)
@@ -55,11 +55,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–205 of 205)
+## Indexed Statutory & Regulatory Dossiers (Records 1–207 of 207)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
 
+- `[`IE-BILL-2026-118`]` **[Electricity Regulation (Consumer Protection) Bill 2026](https://www.indexdata.org/electricity-regulation-consumer-protection-bill-2026/)** — `2026-11-25` | `8 Pages`
 - `[`IE-BILL-2026-117`]` **[Agentic Artificial Intelligence in Public Services Bill 2026](https://www.indexdata.org/agentic-artificial-intelligence-in-public-services-bill-2026/)** — `2026-11-24` | `18 Pages`
 - `[`IE-BILL-2026-115`]` **[Property Services (Regulation) (Amendment) Bill 2026](https://www.indexdata.org/property-services-regulation-amendment-bill-2026/)** — `2026-11-18` | `8 Pages`
 - `[`IE-BILL-2026-114`]` **[Electricity Regulation (Amendment) (Hardship Meters) Bill 2026](https://www.indexdata.org/electricity-regulation-amendment-hardship-meters-bill-2026/)** — `2026-11-18` | `10 Pages`
@@ -179,6 +180,18 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/irish-human-righ
 - `[`IE-IHREC-ihrec-2025-annual-report-and-appendices-ac`]` **[IHREC 2025 Annual Report and Appendices Accessible](https://www.indexdata.org/ihrec-2025-annual-report-and-appendices-accessible/)** — `2026-07-29` | `146 Pages`
 - `[`IE-IHREC-review-of-the-compliance-of-the-disability`]` **[Review of the compliance of the Disability Act 2005 with the UN Convention on the Rights of Persons with Disabilities](https://www.indexdata.org/review-of-the-compliance-of-the-disability-act-2005-with-the-un-convention-on-the-rights-of-persons-with-disabilities/)** — `2026-06-05` | `61 Pages`
 
+### [The Arts Council](https://www.indexdata.org/ireland/the-arts-council/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/the-arts-council/](https://www.indexdata.org/ireland/the-arts-council/) | [RSS Feed](https://www.indexdata.org/ireland/the-arts-council/feed/)
+
+- `[`IE-AC-37264`]` **[2028 Advance Planning Touring Guidelines](https://www.indexdata.org/2028-advance-planning-touring-guidelines/)** — `2026-11-26` | `43 Pages`
+- `[`IE-AC-36895`]` **[COCandidateInformationBooklet](https://www.indexdata.org/cocandidateinformationbooklet/)** — `2026-11-10` | `8 Pages`
+- `[`IE-AC-36894`]` **[RP Traditional Arts Assistant Oct26](https://www.indexdata.org/rp-traditional-arts-assistant-oct26/)** — `2026-11-10` | `3 Pages`
+- `[`IE-AC-36832`]` **[School Coordinator Calendar](https://www.indexdata.org/school-coordinator-calendar/)** — `2026-11-04` | `3 Pages`
+- `[`IE-AC-36610`]` **[2027 Visual Arts Bursary Award, Round 1 Guidelines](https://www.indexdata.org/2027-visual-arts-bursary-award-round-1-guidelines/)** — `2026-11-02` | `56 Pages`
+- `[`IE-AC-36605`]` **[2027 Children and Young People’s Arts Bursary Award Guidelines, Round 1 (1)](https://www.indexdata.org/2027-children-and-young-peoples-arts-bursary-award-guidelines-round-1-1/)** — `2026-11-02` | `47 Pages`
+- `[`IE-AC-36601`]` **[2027 Dámhachtain Sparánachta Ceoil Treoirlínte](https://www.indexdata.org/2027-damhachtain-sparanachta-ceoil-treoirlinte/)** — `2026-11-02` | `52 Pages`
+- `[`IE-AC-36598`]` **[2027 Dámhachtain Sparánachta na nAmharc-Ealaíon Babhta 1 Treoirlínte](https://www.indexdata.org/2027-damhachtain-sparanachta-na-namharc-ealaion-babhta-1-treoirlinte/)** — `2026-11-02` | `60 Pages`
+
 ### [Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
 
@@ -233,17 +246,6 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/national-treasur
 - `[`IE-NTMA-ntma-annual-report-financial-statements-20`]` **[NTMA Annual Report Financial Statements 2025](https://www.indexdata.org/ntma-annual-report-financial-statements-2025/)** — `2026-07-08` | `356 Pages`
 - `[`IE-NTMA-carbon-fund-annual-report-2025`]` **[Carbon Fund Annual Report 2025](https://www.indexdata.org/carbon-fund-annual-report-2025/)** — `2026-07-08` | `14 Pages`
 - `[`IE-NTMA-ntma-climate-strategy-2026-final`]` **[NTMA Climate Strategy 2026 final](https://www.indexdata.org/ntma-climate-strategy-2026-final/)** — `2026-07-01` | `13 Pages`
-
-### [The Arts Council](https://www.indexdata.org/ireland/the-arts-council/)
-Canonical Authority Archive: [https://www.indexdata.org/ireland/the-arts-council/](https://www.indexdata.org/ireland/the-arts-council/) | [RSS Feed](https://www.indexdata.org/ireland/the-arts-council/feed/)
-
-- `[`IE-AC-36895`]` **[COCandidateInformationBooklet](https://www.indexdata.org/cocandidateinformationbooklet/)** — `2026-11-10` | `8 Pages`
-- `[`IE-AC-36894`]` **[RP Traditional Arts Assistant Oct26](https://www.indexdata.org/rp-traditional-arts-assistant-oct26/)** — `2026-11-10` | `3 Pages`
-- `[`IE-AC-36832`]` **[School Coordinator Calendar](https://www.indexdata.org/school-coordinator-calendar/)** — `2026-11-04` | `3 Pages`
-- `[`IE-AC-36610`]` **[2027 Visual Arts Bursary Award, Round 1 Guidelines](https://www.indexdata.org/2027-visual-arts-bursary-award-round-1-guidelines/)** — `2026-11-02` | `56 Pages`
-- `[`IE-AC-36605`]` **[2027 Children and Young People’s Arts Bursary Award Guidelines, Round 1 (1)](https://www.indexdata.org/2027-children-and-young-peoples-arts-bursary-award-guidelines-round-1-1/)** — `2026-11-02` | `47 Pages`
-- `[`IE-AC-36601`]` **[2027 Dámhachtain Sparánachta Ceoil Treoirlínte](https://www.indexdata.org/2027-damhachtain-sparanachta-ceoil-treoirlinte/)** — `2026-11-02` | `52 Pages`
-- `[`IE-AC-36598`]` **[2027 Dámhachtain Sparánachta na nAmharc-Ealaíon Babhta 1 Treoirlínte](https://www.indexdata.org/2027-damhachtain-sparanachta-na-namharc-ealaion-babhta-1-treoirlinte/)** — `2026-11-02` | `60 Pages`
 
 ### [Department of Agriculture and Fisheries](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/feed/)

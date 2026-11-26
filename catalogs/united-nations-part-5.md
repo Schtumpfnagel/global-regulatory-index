@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,031` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,033` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-26 13:25 UTC`
+**Last Automated Sync:** `2026-11-26 14:41 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
 - **[UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/) | [Wikidata `Q161718`](https://www.wikidata.org/wiki/Q161718)
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
-- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`170` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
+- **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`172` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
 - **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`96` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,031 of 7,031)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,033 of 7,033)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -679,6 +679,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-high-c
 - `[`UNHCR-HDX-595`]` **[South Sudan - Standardized Expanded Nutrition Survey (SENS), Maban Refugee Camps - 2019](https://www.indexdata.org/south-sudan-standardized-expanded-nutrition-survey-sens-maban-refugee-camps-2019/)** — `2023-07-03` | `35 Pages`
 - `[`UNHCR-HDX-802`]` **[Jordan - Post Distribution Monitoring: Multi Purpose Cash Assistance Mid-Year 2022](https://www.indexdata.org/jordan-post-distribution-monitoring-multi-purpose-cash-assistance-mid-year-2022/)** — `2023-05-16` | `151 Pages`
 - `[`UNHCR-HDX-829`]` **[Mali - Cash-Based Interventions Post-Distribution Monitoring - AUG 2021](https://www.indexdata.org/mali-cash-based-interventions-post-distribution-monitoring-aug-2021/)** — `2023-04-05` | `5 Pages`
+- `[`UNHCR-HDX-478`]` **[Rwanda - Joint UNHCR/WFP Post Distribution Monitoring - December, 2020](https://www.indexdata.org/rwanda-joint-unhcr-wfp-post-distribution-monitoring-december-2020/)** — `2023-03-16` | `145 Pages`
 - `[`UNHCR-HDX-852`]` **[Jordan - Mobile Needs Assessment for non-Syrian Refugees - 2021](https://www.indexdata.org/jordan-mobile-needs-assessment-for-non-syrian-refugees-2021/)** — `2023-03-14` | `158 Pages`
 - `[`UNHCR-HDX-851`]` **[Jordan - Post Distribution Monitoring: COVID-19 Emergency Response Assistance, 2021](https://www.indexdata.org/jordan-post-distribution-monitoring-covid-19-emergency-response-assistance-2021/)** — `2023-03-13` | `127 Pages`
 - `[`UNHCR-HDX-850`]` **[Jordan - Post Distribution Monitoring: Multi Purpose Cash Assistance, 2021](https://www.indexdata.org/jordan-post-distribution-monitoring-multi-purpose-cash-assistance-2021/)** — `2023-03-13` | `156 Pages`
@@ -693,6 +694,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-high-c
 - `[`UNHCR-HDX-693`]` **[Sudan - Durable Solutions Analysis Survey: Blue Nile State, 2021](https://www.indexdata.org/sudan-durable-solutions-analysis-survey-blue-nile-state-2021/)** — `2022-06-27` | `51 Pages`
 - `[`UNHCR-HDX-692`]` **[Syrian Arab Republic - Participatory Assessment for Refugees, 2021](https://www.indexdata.org/syrian-arab-republic-participatory-assessment-for-refugees-2021/)** — `2022-06-18` | `48 Pages`
 - `[`UNHCR-HDX-643`]` **[Mexico - Socioeconomic Impact of COVID-19, 2021](https://www.indexdata.org/mexico-socioeconomic-impact-of-covid-19-2021/)** — `2022-03-22` | `28 Pages`
+- `[`UNHCR-HDX-498`]` **[Ecuador - High Frequency Survey - Q1Q2 2021](https://www.indexdata.org/ecuador-high-frequency-survey-q1q2-2021/)** — `2021-10-11` | `13 Pages`
 - `[`UNHCR-HDX-215`]` **[Lebanon - Vulnerability Assessment of Syrian Refugees - 2019](https://www.indexdata.org/lebanon-vulnerability-assessment-of-syrian-refugees-2019/)** — `2020-05-20` | `176 Pages`
 - `[`UNHCR-HDX-213`]` **[Uganda - WASH KAP Survey Kyangwali Refugee Camp, November 2019](https://www.indexdata.org/uganda-wash-kap-survey-kyangwali-refugee-camp-november-2019/)** — `2020-05-20` | `40 Pages`
 - `[`UNHCR-HDX-189`]` **[Lebanon - Vulnerability Assessment of Syrian Refugees in Lebanon, 2018](https://www.indexdata.org/lebanon-vulnerability-assessment-of-syrian-refugees-in-lebanon-2018/)** — `2020-05-20` | `179 Pages`
