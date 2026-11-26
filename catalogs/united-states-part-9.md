@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,702` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,709` across `248` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 02:06 UTC`
+**Last Automated Sync:** `2026-11-26 03:07 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`379` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`380` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -48,7 +48,7 @@
 - **[Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
 - **[Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
 - **[National Credit Union Administration](https://www.indexdata.org/united-states/national-credit-union-administration/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-credit-union-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-credit-union-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`81` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)** (`80` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
 - **[Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
 - **[State Department](https://www.indexdata.org/united-states/state-department/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
@@ -84,6 +84,7 @@
 - **[U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
 - **[Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
 - **[Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
+- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)
 - **[Commerce Department](https://www.indexdata.org/united-states/commerce-department/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commerce-department/) | [RSS Feed](https://www.indexdata.org/united-states/commerce-department/feed/)
 - **[Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)
@@ -91,7 +92,6 @@
 - **[Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
 - **[Food and Nutrition Service](https://www.indexdata.org/united-states/food-and-nutrition-service/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-nutrition-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-nutrition-service/feed/)
 - **[National Aeronautics and Space Administration (NASA)](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration-nasa/feed/)
-- **[National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)
 - **[Federal Highway Administration (FHWA)](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration-fhwa/feed/)
 - **[Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)** (`25` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
 - **[Surface Transportation Board](https://www.indexdata.org/united-states/surface-transportation-board/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-transportation-board/) | [RSS Feed](https://www.indexdata.org/united-states/surface-transportation-board/feed/)
@@ -117,17 +117,18 @@
 - **[Farm Credit Administration](https://www.indexdata.org/united-states/farm-credit-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-credit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/farm-credit-administration/feed/)
 - **[Maritime Administration](https://www.indexdata.org/united-states/maritime-administration/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/maritime-administration/) | [RSS Feed](https://www.indexdata.org/united-states/maritime-administration/feed/)
 - **[National Marine Fisheries Service (NOAA Fisheries)](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/) | [RSS Feed](https://www.indexdata.org/united-states/national-marine-fisheries-service-noaa-fisheries/feed/)
+- **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Corporation for National and Community Service](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/) | [RSS Feed](https://www.indexdata.org/united-states/corporation-for-national-and-community-service/feed/)
 - **[Legal Services Corporation](https://www.indexdata.org/united-states/legal-services-corporation/)** (`14` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/legal-services-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/legal-services-corporation/feed/)
 - **[Executive Office of the President (The White House)](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-of-the-president-the-white-house/feed/)
 - **[Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
-- **[U.S. Securities and Exchange Commission (SEC)](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-securities-and-exchange-commission-sec/feed/)
 - **[Railroad Retirement Board](https://www.indexdata.org/united-states/railroad-retirement-board/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/railroad-retirement-board/) | [RSS Feed](https://www.indexdata.org/united-states/railroad-retirement-board/feed/)
 - **[Wage and Hour Division](https://www.indexdata.org/united-states/wage-and-hour-division/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/wage-and-hour-division/) | [RSS Feed](https://www.indexdata.org/united-states/wage-and-hour-division/feed/)
 - **[Federal Retirement Thrift Investment Board](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 - **[National Highway Traffic Safety Administration (NHTSA)](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration-nhtsa/feed/)
 - **[Securities And Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 - **[Transportation Security Administration](https://www.indexdata.org/united-states/transportation-security-administration/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/transportation-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/transportation-security-administration/feed/)
+- **[U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
 - **[Commodity Credit Corporation](https://www.indexdata.org/united-states/commodity-credit-corporation/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/commodity-credit-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-credit-corporation/feed/)
 - **[Federal Crop Insurance Corporation](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/feed/)
 - **[Federal Emergency Management Agency](https://www.indexdata.org/united-states/federal-emergency-management-agency/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-emergency-management-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-emergency-management-agency/feed/)
@@ -147,7 +148,6 @@
 - **[National Labor Relations Board](https://www.indexdata.org/united-states/national-labor-relations-board/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-labor-relations-board/) | [RSS Feed](https://www.indexdata.org/united-states/national-labor-relations-board/feed/)
 - **[Prisons Bureau](https://www.indexdata.org/united-states/prisons-bureau/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/prisons-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/prisons-bureau/feed/)
 - **[Rural Business-Cooperative Service](https://www.indexdata.org/united-states/rural-business-cooperative-service/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-business-cooperative-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-business-cooperative-service/feed/)
-- **[U.S. Nuclear Regulatory Commission (NRC)](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-nuclear-regulatory-commission-nrc/feed/)
 - **[Agriculture Department](https://www.indexdata.org/united-states/agriculture-department/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/agriculture-department/) | [RSS Feed](https://www.indexdata.org/united-states/agriculture-department/feed/)
 - **[Bureau of the Fiscal Service](https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/) | [RSS Feed](https://www.indexdata.org/united-states/bureau-of-the-fiscal-service/feed/)
 - **[Labor Department](https://www.indexdata.org/united-states/labor-department/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/labor-department/) | [RSS Feed](https://www.indexdata.org/united-states/labor-department/feed/)
@@ -264,7 +264,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,702)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,709)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -639,7 +639,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-25527`]` **[Airworthiness Directives; Safran Helicopter Engines, S.A. (Type Certificate Previously Held by Turbomeca, S.A.) Engines](https://www.indexdata.org/airworthiness-directives-safran-helicopter-engines-s-a-type-certificate-previously-held-by-turbomeca-s-a-engines-11/)** — `2023-11-20` | `3 Pages`
 - `[`2023-25525`]` **[Airworthiness Directives; Embraer S.A. Airplanes](https://www.indexdata.org/airworthiness-directives-embraer-s-a-airplanes-21/)** — `2023-11-20` | `3 Pages`
 - `[`2023-25524`]` **[Airworthiness Directives; Pratt & Whitney Division Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-division-engines-6/)** — `2023-11-20` | `4 Pages`
-- `[`2023-25521`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-47/)** — `2023-11-20` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -809,6 +808,114 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2023-25751`]` **[Receipt of a Pesticide Petition Filed for Residues of Pesticide Chemicals in or on Various Commodities (October 2023)](https://www.indexdata.org/receipt-of-a-pesticide-petition-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-october-2023/)** — `2023-11-21` | `2 Pages`
 - `[`2023-25580`]` **[New Source Performance Standards for Greenhouse Gas Emissions From New, Modified, and Reconstructed Fossil Fuel-Fired Electric Generating Units; Emission Guidelines for Greenhouse Gas Emissions From Existing Fossil Fuel-Fired Electric Generating Units; and Repeal of the Affordable Clean Energy Rule](https://www.indexdata.org/new-source-performance-standards-for-greenhouse-gas-emissions-from-new-modified-and-reconstructed-fossil-fuel-fired-electric-generating-units-emission-guidelines-for-greenhouse-gas-emissions-from-e-3/)** — `2023-11-20` | `4 Pages`
 
+### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
+
+- `[`2024-06244`]` **[Special Local Regulation; Red River, Shreveport, LA](https://www.indexdata.org/special-local-regulation-red-river-shreveport-la-2/)** — `2024-03-25` | `3 Pages`
+- `[`2024-06224`]` **[Regulated Navigation Area; NW Natural Gasco Sediment Site Field Pilot Study, Willamette River, Portland, Oregon](https://www.indexdata.org/regulated-navigation-area-nw-natural-gasco-sediment-site-field-pilot-study-willamette-river-portland-oregon-2/)** — `2024-03-25` | `4 Pages`
+- `[`2024-05904`]` **[Safety Zone; Gulf of Mexico, Marathon, FL](https://www.indexdata.org/safety-zone-gulf-of-mexico-marathon-fl/)** — `2024-03-22` | `3 Pages`
+- `[`2024-06017`]` **[Safety Zone, Delaware River, Camden, NJ](https://www.indexdata.org/safety-zone-delaware-river-camden-nj/)** — `2024-03-21` | `2 Pages`
+- `[`2024-06015`]` **[Special Local Regulation; Bonita Tideway, Brigantine, NJ](https://www.indexdata.org/special-local-regulation-bonita-tideway-brigantine-nj/)** — `2024-03-21` | `3 Pages`
+- `[`2024-05992`]` **[Safety Zone; Revolution Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0486, Offshore Rhode Island, Atlantic Ocean](https://www.indexdata.org/safety-zone-revolution-wind-farm-project-area-outer-continental-shelf-lease-ocs-a-0486-offshore-rhode-island-atlantic-ocean-3/)** — `2024-03-21` | `8 Pages`
+- `[`2024-05930`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Beaufort, SC](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-beaufort-sc-3/)** — `2024-03-20` | `2 Pages`
+- `[`2024-05803`]` **[Safety Zone; Storms With High Winds; Sector Maryland-National Capital Region Captain of the Port Zone](https://www.indexdata.org/safety-zone-storms-with-high-winds-sector-maryland-national-capital-region-captain-of-the-port-zone/)** — `2024-03-20` | `4 Pages`
+- `[`2024-05586`]` **[Safety Zones; Coast Guard Sector Ohio Valley Annual and Recurring Safety Zones Update](https://www.indexdata.org/safety-zones-coast-guard-sector-ohio-valley-annual-and-recurring-safety-zones-update/)** — `2024-03-15` | `7 Pages`
+- `[`2024-05422`]` **[Safety Zone; Reoccurring Firework Displays Near Convention Center on the Mobile River, Mobile, AL](https://www.indexdata.org/safety-zone-reoccurring-firework-displays-near-convention-center-on-the-mobile-river-mobile-al-2/)** — `2024-03-14` | `3 Pages`
+- `[`2024-05397`]` **[Special Local Regulation; Mission Bay, San Diego, CA](https://www.indexdata.org/special-local-regulation-mission-bay-san-diego-ca/)** — `2024-03-14` | `3 Pages`
+- `[`2024-04351`]` **[Mariner Credentialing Program Transformation](https://www.indexdata.org/mariner-credentialing-program-transformation-2/)** — `2024-03-14` | `36 Pages`
+- `[`2024-05339`]` **[Safety Zone; Inner Harbor, Baltimore MD](https://www.indexdata.org/safety-zone-inner-harbor-baltimore-md-3/)** — `2024-03-13` | `3 Pages`
+- `[`2024-05205`]` **[Safety Zone; Gulf of Mexico and South Bay, Boca Chica Beach, TX](https://www.indexdata.org/safety-zone-gulf-of-mexico-and-south-bay-boca-chica-beach-tx-3/)** — `2024-03-12` | `3 Pages`
+- `[`2024-05130`]` **[Safety Zone; Indian Island, Port Townsend Bay, WA](https://www.indexdata.org/safety-zone-indian-island-port-townsend-bay-wa/)** — `2024-03-11` | `3 Pages`
+- `[`2024-05089`]` **[Security Zone; Cooper River, Charleston County, SC](https://www.indexdata.org/security-zone-cooper-river-charleston-county-sc/)** — `2024-03-11` | `4 Pages`
+- `[`2024-05009`]` **[Special Local Regulations; Recurring Marine Events, Sector St. Petersburg](https://www.indexdata.org/special-local-regulations-recurring-marine-events-sector-st-petersburg-7/)** — `2024-03-08` | `4 Pages`
+- `[`2024-05008`]` **[Regulated Navigation Area; Tampa Bay, Tampa, FL](https://www.indexdata.org/regulated-navigation-area-tampa-bay-tampa-fl/)** — `2024-03-08` | `3 Pages`
+- `[`2024-05007`]` **[Drawbridge Operation Regulation; Old River, Between Victoria Island and Byron Tract, CA](https://www.indexdata.org/drawbridge-operation-regulation-old-river-between-victoria-island-and-byron-tract-ca/)** — `2024-03-08` | `3 Pages`
+- `[`2024-04952`]` **[Drawbridge Operation Regulation; Portage River, Port Clinton, OH](https://www.indexdata.org/drawbridge-operation-regulation-portage-river-port-clinton-oh/)** — `2024-03-08` | `4 Pages`
+- `[`2024-04951`]` **[Safety Zone; St. Petersburg, Florida](https://www.indexdata.org/safety-zone-st-petersburg-florida/)** — `2024-03-08` | `3 Pages`
+- `[`2024-04872`]` **[Safety Zone; Sabine River, Orange, TX](https://www.indexdata.org/safety-zone-sabine-river-orange-tx-2/)** — `2024-03-07` | `3 Pages`
+- `[`2024-04841`]` **[Regulated Navigation Area; St. Louis River/Duluth-Superior Harbor, Duluth, MN](https://www.indexdata.org/regulated-navigation-area-st-louis-river-duluth-superior-harbor-duluth-mn/)** — `2024-03-07` | `6 Pages`
+- `[`2024-04274`]` **[Drawbridge Operation Regulation; Ashtabula River, Ashtabula, OH](https://www.indexdata.org/drawbridge-operation-regulation-ashtabula-river-ashtabula-oh/)** — `2024-02-29` | `3 Pages`
+- `[`2024-03463`]` **[Drawbridge Operation Regulation; Long Creek, Nassau County, NY](https://www.indexdata.org/drawbridge-operation-regulation-long-creek-nassau-county-ny/)** — `2024-02-23` | `2 Pages`
+- `[`2024-03462`]` **[Drawbridge Operation Regulation; Sloop Channel, Nassau County, NY](https://www.indexdata.org/drawbridge-operation-regulation-sloop-channel-nassau-county-ny-2/)** — `2024-02-23` | `3 Pages`
+- `[`2024-03590`]` **[Safety Zone, Installation Area for Offshore Wind Power Transmission Export Cables, Atlantic Ocean, Virginia Beach, Virginia](https://www.indexdata.org/safety-zone-installation-area-for-offshore-wind-power-transmission-export-cables-atlantic-ocean-virginia-beach-virginia/)** — `2024-02-22` | `3 Pages`
+- `[`2024-03075`]` **[Cybersecurity in the Marine Transportation System](https://www.indexdata.org/cybersecurity-in-the-marine-transportation-system-2/)** — `2024-02-22` | `111 Pages`
+- `[`2024-03486`]` **[Security Zone; Port Valdez and Valdez Narrows, Valdez, AK](https://www.indexdata.org/security-zone-port-valdez-and-valdez-narrows-valdez-ak-2/)** — `2024-02-21` | `3 Pages`
+- `[`2024-03455`]` **[Drawbridge Operation Regulation; Reynolds Channel, Atlantic Beach, NY](https://www.indexdata.org/drawbridge-operation-regulation-reynolds-channel-atlantic-beach-ny-2/)** — `2024-02-21` | `3 Pages`
+- `[`2024-03406`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-6/)** — `2024-02-20` | `3 Pages`
+- `[`2024-03369`]` **[Emergency Safety Zone; Pacific Ocean, Bodega Bay, CA](https://www.indexdata.org/emergency-safety-zone-pacific-ocean-bodega-bay-ca/)** — `2024-02-16` | `3 Pages`
+- `[`2024-03235`]` **[Special Local Regulations; Sector Ohio Valley Annual and Recurring Special Local Regulations](https://www.indexdata.org/special-local-regulations-sector-ohio-valley-annual-and-recurring-special-local-regulations/)** — `2024-02-16` | `5 Pages`
+- `[`2024-02703`]` **[Safety Zone; Biscayne Bay, Homestead, FL](https://www.indexdata.org/safety-zone-biscayne-bay-homestead-fl/)** — `2024-02-12` | `4 Pages`
+- `[`2024-02701`]` **[Safety Zone; Fireworks Scattering; San Francisco Bay, San Francisco, CA](https://www.indexdata.org/safety-zone-fireworks-scattering-san-francisco-bay-san-francisco-ca/)** — `2024-02-12` | `3 Pages`
+- `[`2024-02704`]` **[Safety Zones; Delaware River Dredging, Marcus Hook, PA](https://www.indexdata.org/safety-zones-delaware-river-dredging-marcus-hook-pa-4/)** — `2024-02-09` | `3 Pages`
+- `[`2024-02410`]` **[Great Lakes Pilotage Rates-2024 Annual Review](https://www.indexdata.org/great-lakes-pilotage-rates-2024-annual-review/)** — `2024-02-09` | `35 Pages`
+- `[`2024-02404`]` **[Safety Zones in Reentry Sites; Jacksonville, Florida](https://www.indexdata.org/safety-zones-in-reentry-sites-jacksonville-florida/)** — `2024-02-07` | `2 Pages`
+- `[`2024-02389`]` **[Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL](https://www.indexdata.org/drawbridge-operation-regulation-okeechobee-waterway-stuart-fl-5/)** — `2024-02-06` | `2 Pages`
+- `[`2024-02187`]` **[Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL](https://www.indexdata.org/drawbridge-operation-regulation-okeechobee-waterway-stuart-fl-6/)** — `2024-02-05` | `3 Pages`
+- `[`2024-02127`]` **[Safety Zone; Military Ocean Terminal Concord Safety Zone, Suisun Bay, Concord, CA](https://www.indexdata.org/safety-zone-military-ocean-terminal-concord-safety-zone-suisun-bay-concord-ca/)** — `2024-02-02` | `2 Pages`
+- `[`2024-02084`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Jupiter, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-jupiter-fl-2/)** — `2024-02-02` | `2 Pages`
+- `[`2024-01857`]` **[Safety Zone; North Pacific Ocean, Dutch Harbor, AK](https://www.indexdata.org/safety-zone-north-pacific-ocean-dutch-harbor-ak/)** — `2024-01-30` | `3 Pages`
+- `[`2024-01548`]` **[Safety Zone; Atlantic Ocean, Virginia Beach, Virginia](https://www.indexdata.org/safety-zone-atlantic-ocean-virginia-beach-virginia/)** — `2024-01-26` | `3 Pages`
+- `[`2024-01546`]` **[Safety Zone; Coastal Virginia Offshore Wind-Commercial Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0483, Offshore Virginia, Atlantic Ocean](https://www.indexdata.org/safety-zone-coastal-virginia-offshore-wind-commercial-wind-farm-project-area-outer-continental-shelf-lease-ocs-a-0483-offshore-virginia-atlantic-ocean-2/)** — `2024-01-26` | `10 Pages`
+- `[`2024-01499`]` **[Safety Zone; Ports of Los Angeles and Long Beach, San Pedro Bay, CA](https://www.indexdata.org/safety-zone-ports-of-los-angeles-and-long-beach-san-pedro-bay-ca/)** — `2024-01-25` | `3 Pages`
+- `[`2024-01497`]` **[Safety Zone; Choctawhatchee Bay, FL](https://www.indexdata.org/safety-zone-choctawhatchee-bay-fl-2/)** — `2024-01-25` | `3 Pages`
+- `[`2024-01450`]` **[Safety Zone; Ohio River Mile Markers 2.5-3, Brunot Island, PA](https://www.indexdata.org/safety-zone-ohio-river-mile-markers-2-5-3-brunot-island-pa/)** — `2024-01-25` | `3 Pages`
+- `[`2024-01417`]` **[Security Zone; Lower Mississippi River, Mile Marker 94 to 97 Above Head of Passes, New Orleans, LA](https://www.indexdata.org/security-zone-lower-mississippi-river-mile-marker-94-to-97-above-head-of-passes-new-orleans-la-3/)** — `2024-01-25` | `2 Pages`
+- `[`2024-01360`]` **[Drawbridge Operation Regulation; Mianus River, Greenwich, CT](https://www.indexdata.org/drawbridge-operation-regulation-mianus-river-greenwich-ct/)** — `2024-01-24` | `2 Pages`
+- `[`2024-01359`]` **[Drawbridge Operation Regulation; Housatonic River, Stratford, CT](https://www.indexdata.org/drawbridge-operation-regulation-housatonic-river-stratford-ct/)** — `2024-01-24` | `3 Pages`
+- `[`2024-01358`]` **[Drawbridge Operation Regulation; Saugatuck River, Westport, CT](https://www.indexdata.org/drawbridge-operation-regulation-saugatuck-river-westport-ct/)** — `2024-01-24` | `3 Pages`
+- `[`2024-01186`]` **[Safety Zones; Coast Guard Sector Ohio Valley Annual and Recurring Safety Zones Update](https://www.indexdata.org/safety-zones-coast-guard-sector-ohio-valley-annual-and-recurring-safety-zones-update-2/)** — `2024-01-23` | `8 Pages`
+- `[`2024-00757`]` **[Shipping Safety Fairways Along the Atlantic Coast](https://www.indexdata.org/shipping-safety-fairways-along-the-atlantic-coast-2/)** — `2024-01-19` | `27 Pages`
+- `[`2024-00875`]` **[Safety Zone; Storms With High Winds; Sector Maryland-National Capital Region Captain of the Port Zone](https://www.indexdata.org/safety-zone-storms-with-high-winds-sector-maryland-national-capital-region-captain-of-the-port-zone-2/)** — `2024-01-18` | `3 Pages`
+- `[`2024-00765`]` **[Special Local Regulations; Recurring Marine Events, Sector St. Petersburg](https://www.indexdata.org/special-local-regulations-recurring-marine-events-sector-st-petersburg-8/)** — `2024-01-17` | `2 Pages`
+- `[`2024-00694`]` **[Safety Zone; Little Potato Slough, Stockton, CA](https://www.indexdata.org/safety-zone-little-potato-slough-stockton-ca-2/)** — `2024-01-16` | `3 Pages`
+- `[`2024-00437`]` **[Safety Zone; North Pacific Ocean, Dutch Harbor, AK](https://www.indexdata.org/safety-zone-north-pacific-ocean-dutch-harbor-ak-2/)** — `2024-01-10` | `2 Pages`
+- `[`2024-00004`]` **[Safety Zone; North Pacific Ocean, Dutch Harbor, AK](https://www.indexdata.org/safety-zone-north-pacific-ocean-dutch-harbor-ak-3/)** — `2024-01-04` | `2 Pages`
+- `[`C1-2023-25026`]` **[2022 Liquid Chemical Categorization Updates](https://www.indexdata.org/2022-liquid-chemical-categorization-updates/)** — `2023-12-29` | `2 Pages`
+- `[`2023-28757`]` **[Safety Zone; Fireworks Display, Pacific Ocean, Westport, WA](https://www.indexdata.org/safety-zone-fireworks-display-pacific-ocean-westport-wa/)** — `2023-12-29` | `3 Pages`
+- `[`2023-28756`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-7/)** — `2023-12-29` | `3 Pages`
+- `[`2023-28656`]` **[Establish Anchorage Ground; Rice Island Anchorage, Columbia River, Oregon and Washington](https://www.indexdata.org/establish-anchorage-ground-rice-island-anchorage-columbia-river-oregon-and-washington-2/)** — `2023-12-28` | `3 Pages`
+- `[`2023-28654`]` **[Establish Anchorage Ground; Crims Island Anchorage, Columbia River, Oregon and Washington](https://www.indexdata.org/establish-anchorage-ground-crims-island-anchorage-columbia-river-oregon-and-washington/)** — `2023-12-28` | `3 Pages`
+- `[`2023-28652`]` **[Establish Anchorage Ground; Port Westward Anchorage, Columbia River, Oregon and Washington](https://www.indexdata.org/establish-anchorage-ground-port-westward-anchorage-columbia-river-oregon-and-washington-3/)** — `2023-12-28` | `3 Pages`
+- `[`2023-28650`]` **[Safety Zone; Erie Canal, North Tonawanda, NY](https://www.indexdata.org/safety-zone-erie-canal-north-tonawanda-ny-3/)** — `2023-12-28` | `3 Pages`
+- `[`2023-28645`]` **[Drawbridge Operation Regulation; River Rouge, Detroit, MI](https://www.indexdata.org/drawbridge-operation-regulation-river-rouge-detroit-mi/)** — `2023-12-28` | `3 Pages`
+- `[`2023-28632`]` **[Safety Zone; Marina Del Rey, California](https://www.indexdata.org/safety-zone-marina-del-rey-california-2/)** — `2023-12-28` | `3 Pages`
+- `[`2023-28631`]` **[Safety Zone; Marina del Rey, California](https://www.indexdata.org/safety-zone-marina-del-rey-california/)** — `2023-12-28` | `2 Pages`
+- `[`2023-28112`]` **[User Fees for Inspected Towing Vessels](https://www.indexdata.org/user-fees-for-inspected-towing-vessels/)** — `2023-12-28` | `14 Pages`
+- `[`2023-28146`]` **[Drawbridge Operation Regulation; Turner Cut, Near Stockton, CA](https://www.indexdata.org/drawbridge-operation-regulation-turner-cut-near-stockton-ca/)** — `2023-12-21` | `3 Pages`
+- `[`2023-28103`]` **[Coast Guard Sector Sault Sainte Marie; Sector Name Conforming Amendment](https://www.indexdata.org/coast-guard-sector-sault-sainte-marie-sector-name-conforming-amendment/)** — `2023-12-21` | `3 Pages`
+- `[`2023-28001`]` **[Safety Zone; Laguna de Lobina, Culebra, Puerto Rico](https://www.indexdata.org/safety-zone-laguna-de-lobina-culebra-puerto-rico/)** — `2023-12-20` | `3 Pages`
+- `[`2023-27943`]` **[Coast Guard Sector Buffalo; Sector Name Conforming Amendment](https://www.indexdata.org/coast-guard-sector-buffalo-sector-name-conforming-amendment/)** — `2023-12-20` | `3 Pages`
+- `[`2023-27842`]` **[Safety Zone; Lower Mississippi River, Mile Markers 94 to 97 Above Head of Passes, New Orleans, LA](https://www.indexdata.org/safety-zone-lower-mississippi-river-mile-markers-94-to-97-above-head-of-passes-new-orleans-la/)** — `2023-12-19` | `2 Pages`
+- `[`2023-27774`]` **[Safety Zone; South Fork Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0517, Offshore Rhode Island, Atlantic Ocean](https://www.indexdata.org/safety-zone-south-fork-wind-farm-project-area-outer-continental-shelf-lease-ocs-a-0517-offshore-rhode-island-atlantic-ocean/)** — `2023-12-19` | `4 Pages`
+- `[`2023-27757`]` **[Safety Zone, Illinois River MM 165-166, Peoria, IL](https://www.indexdata.org/safety-zone-illinois-river-mm-165-166-peoria-il/)** — `2023-12-18` | `3 Pages`
+- `[`2023-27738`]` **[Safety Zone; Upper Galveston Bay, Kemah, TX](https://www.indexdata.org/safety-zone-upper-galveston-bay-kemah-tx-4/)** — `2023-12-18` | `2 Pages`
+- `[`2023-27617`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Savannah, GA](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-savannah-ga/)** — `2023-12-15` | `2 Pages`
+- `[`2023-27507`]` **[Safety Zone; Annual Fireworks Displays and Other Events in the Eighth Coast Guard District Requiring Safety Zones](https://www.indexdata.org/safety-zone-annual-fireworks-displays-and-other-events-in-the-eighth-coast-guard-district-requiring-safety-zones-2/)** — `2023-12-14` | `2 Pages`
+- `[`2023-27385`]` **[Drawbridge Operation Regulation; Saginaw River, Bay City, MI](https://www.indexdata.org/drawbridge-operation-regulation-saginaw-river-bay-city-mi/)** — `2023-12-13` | `3 Pages`
+- `[`2023-27306`]` **[Special Local Regulations; Sector Ohio Valley Annual and Recurring Special Local Regulations](https://www.indexdata.org/special-local-regulations-sector-ohio-valley-annual-and-recurring-special-local-regulations-2/)** — `2023-12-13` | `7 Pages`
+- `[`2023-27090`]` **[Safety Zone; Fireworks Display; Hood River, Hood River, Oregon](https://www.indexdata.org/safety-zone-fireworks-display-hood-river-hood-river-oregon/)** — `2023-12-12` | `3 Pages`
+- `[`2023-27036`]` **[Safety Zone; Kaneohe Bay, Oahu, HI-Navy P8 Aircraft Salvage Operations](https://www.indexdata.org/safety-zone-kaneohe-bay-oahu-hi-navy-p8-aircraft-salvage-operations/)** — `2023-12-12` | `3 Pages`
+- `[`2023-27038`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az-5/)** — `2023-12-08` | `3 Pages`
+- `[`2023-26986`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Addison Point, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-addison-point-fl/)** — `2023-12-08` | `2 Pages`
+- `[`2023-26808`]` **[Safety Zone; Lahaina Boat Basin, Maui, HI-Emergency Operations and Port Recovery](https://www.indexdata.org/safety-zone-lahaina-boat-basin-maui-hi-emergency-operations-and-port-recovery/)** — `2023-12-08` | `3 Pages`
+- `[`2023-26850`]` **[Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL](https://www.indexdata.org/drawbridge-operation-regulation-okeechobee-waterway-stuart-fl-7/)** — `2023-12-07` | `2 Pages`
+- `[`2023-26844`]` **[Special Local Regulations; Marine Events Within the Captain of the Port Charleston](https://www.indexdata.org/special-local-regulations-marine-events-within-the-captain-of-the-port-charleston-4/)** — `2023-12-07` | `2 Pages`
+- `[`2023-26675`]` **[Safety Zone; Fireworks Display, Pacific Ocean, Westport, WA](https://www.indexdata.org/safety-zone-fireworks-display-pacific-ocean-westport-wa-2/)** — `2023-12-05` | `3 Pages`
+- `[`2023-26537`]` **[2023 Quarterly Listings; Safety Zones, Security Zones, and Special Local Regulations](https://www.indexdata.org/2023-quarterly-listings-safety-zones-security-zones-and-special-local-regulations/)** — `2023-12-05` | `2 Pages`
+- `[`2023-26377`]` **[Safety Zone, Upper Mississippi River MM 660.5-659.5, Lansing, IA](https://www.indexdata.org/safety-zone-upper-mississippi-river-mm-660-5-659-5-lansing-ia/)** — `2023-12-01` | `3 Pages`
+- `[`2023-26341`]` **[Safety Zone; Marina Del Rey, California](https://www.indexdata.org/safety-zone-marina-del-rey-california-3/)** — `2023-11-30` | `4 Pages`
+- `[`2023-26334`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-8/)** — `2023-11-30` | `3 Pages`
+- `[`2023-26295`]` **[Safety Zone; Gulf of Mexico, Lower Mississippi River Below Head of Passes](https://www.indexdata.org/safety-zone-gulf-of-mexico-lower-mississippi-river-below-head-of-passes/)** — `2023-11-30` | `2 Pages`
+- `[`2023-26152`]` **[Safety Zone; Fireworks Displays Within the Fifth Coast Guard District](https://www.indexdata.org/safety-zone-fireworks-displays-within-the-fifth-coast-guard-district-2/)** — `2023-11-28` | `2 Pages`
+- `[`2023-26149`]` **[Safety Zone; Ashtabula Power Plant Breakwater Armor Stone Removal, Lake Erie, Ashtabula, OH](https://www.indexdata.org/safety-zone-ashtabula-power-plant-breakwater-armor-stone-removal-lake-erie-ashtabula-oh/)** — `2023-11-28` | `3 Pages`
+- `[`2023-26017`]` **[Drawbridge Operation Regulation; Old River, Between Victoria Island and Byron Tract, CA](https://www.indexdata.org/drawbridge-operation-regulation-old-river-between-victoria-island-and-byron-tract-ca-2/)** — `2023-11-28` | `3 Pages`
+- `[`2023-25981`]` **[Safety Zone; Lake Charles, Lake Charles, LA](https://www.indexdata.org/safety-zone-lake-charles-lake-charles-la/)** — `2023-11-24` | `2 Pages`
+- `[`2023-25956`]` **[Security Zone; Nantucket Memorial Airport and Abrams Point, Nantucket, MA](https://www.indexdata.org/security-zone-nantucket-memorial-airport-and-abrams-point-nantucket-ma/)** — `2023-11-22` | `3 Pages`
+- `[`2023-25425`]` **[Great Lakes Pilotage Modernization](https://www.indexdata.org/great-lakes-pilotage-modernization-2/)** — `2023-11-21` | `43 Pages`
+- `[`2023-25026`]` **[2022 Liquid Chemical Categorization Updates](https://www.indexdata.org/2022-liquid-chemical-categorization-updates-2/)** — `2023-11-21` | `51 Pages`
+- `[`2023-25635`]` **[Security Zone; Helicopter Crash, Read Island, AK](https://www.indexdata.org/security-zone-helicopter-crash-read-island-ak/)** — `2023-11-20` | `3 Pages`
+- `[`2023-25582`]` **[Safety Zone; Oswego River, Oswego, NY](https://www.indexdata.org/safety-zone-oswego-river-oswego-ny-2/)** — `2023-11-20` | `3 Pages`
+
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
@@ -917,115 +1024,10 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2023-25703`]` **[Fisheries Off West Coast States; West Coast Groundfish Electronic Monitoring Program; Service Provider Revisions](https://www.indexdata.org/fisheries-off-west-coast-states-west-coast-groundfish-electronic-monitoring-program-service-provider-revisions/)** — `2023-11-22` | `7 Pages`
 - `[`2023-25579`]` **[Fisheries of the Northeastern United States; Atlantic Bluefish Fishery; Quota Transfers From NY and MD to NC](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfers-from-ny-and-md-to-nc/)** — `2023-11-20` | `2 Pages`
 
-### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
-
-- `[`2024-05904`]` **[Safety Zone; Gulf of Mexico, Marathon, FL](https://www.indexdata.org/safety-zone-gulf-of-mexico-marathon-fl/)** — `2024-03-22` | `3 Pages`
-- `[`2024-06017`]` **[Safety Zone, Delaware River, Camden, NJ](https://www.indexdata.org/safety-zone-delaware-river-camden-nj/)** — `2024-03-21` | `2 Pages`
-- `[`2024-06015`]` **[Special Local Regulation; Bonita Tideway, Brigantine, NJ](https://www.indexdata.org/special-local-regulation-bonita-tideway-brigantine-nj/)** — `2024-03-21` | `3 Pages`
-- `[`2024-05992`]` **[Safety Zone; Revolution Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0486, Offshore Rhode Island, Atlantic Ocean](https://www.indexdata.org/safety-zone-revolution-wind-farm-project-area-outer-continental-shelf-lease-ocs-a-0486-offshore-rhode-island-atlantic-ocean-3/)** — `2024-03-21` | `8 Pages`
-- `[`2024-05930`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Beaufort, SC](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-beaufort-sc-3/)** — `2024-03-20` | `2 Pages`
-- `[`2024-05803`]` **[Safety Zone; Storms With High Winds; Sector Maryland-National Capital Region Captain of the Port Zone](https://www.indexdata.org/safety-zone-storms-with-high-winds-sector-maryland-national-capital-region-captain-of-the-port-zone/)** — `2024-03-20` | `4 Pages`
-- `[`2024-05586`]` **[Safety Zones; Coast Guard Sector Ohio Valley Annual and Recurring Safety Zones Update](https://www.indexdata.org/safety-zones-coast-guard-sector-ohio-valley-annual-and-recurring-safety-zones-update/)** — `2024-03-15` | `7 Pages`
-- `[`2024-05422`]` **[Safety Zone; Reoccurring Firework Displays Near Convention Center on the Mobile River, Mobile, AL](https://www.indexdata.org/safety-zone-reoccurring-firework-displays-near-convention-center-on-the-mobile-river-mobile-al-2/)** — `2024-03-14` | `3 Pages`
-- `[`2024-05397`]` **[Special Local Regulation; Mission Bay, San Diego, CA](https://www.indexdata.org/special-local-regulation-mission-bay-san-diego-ca/)** — `2024-03-14` | `3 Pages`
-- `[`2024-04351`]` **[Mariner Credentialing Program Transformation](https://www.indexdata.org/mariner-credentialing-program-transformation-2/)** — `2024-03-14` | `36 Pages`
-- `[`2024-05339`]` **[Safety Zone; Inner Harbor, Baltimore MD](https://www.indexdata.org/safety-zone-inner-harbor-baltimore-md-3/)** — `2024-03-13` | `3 Pages`
-- `[`2024-05205`]` **[Safety Zone; Gulf of Mexico and South Bay, Boca Chica Beach, TX](https://www.indexdata.org/safety-zone-gulf-of-mexico-and-south-bay-boca-chica-beach-tx-3/)** — `2024-03-12` | `3 Pages`
-- `[`2024-05130`]` **[Safety Zone; Indian Island, Port Townsend Bay, WA](https://www.indexdata.org/safety-zone-indian-island-port-townsend-bay-wa/)** — `2024-03-11` | `3 Pages`
-- `[`2024-05089`]` **[Security Zone; Cooper River, Charleston County, SC](https://www.indexdata.org/security-zone-cooper-river-charleston-county-sc/)** — `2024-03-11` | `4 Pages`
-- `[`2024-05009`]` **[Special Local Regulations; Recurring Marine Events, Sector St. Petersburg](https://www.indexdata.org/special-local-regulations-recurring-marine-events-sector-st-petersburg-7/)** — `2024-03-08` | `4 Pages`
-- `[`2024-05008`]` **[Regulated Navigation Area; Tampa Bay, Tampa, FL](https://www.indexdata.org/regulated-navigation-area-tampa-bay-tampa-fl/)** — `2024-03-08` | `3 Pages`
-- `[`2024-05007`]` **[Drawbridge Operation Regulation; Old River, Between Victoria Island and Byron Tract, CA](https://www.indexdata.org/drawbridge-operation-regulation-old-river-between-victoria-island-and-byron-tract-ca/)** — `2024-03-08` | `3 Pages`
-- `[`2024-04952`]` **[Drawbridge Operation Regulation; Portage River, Port Clinton, OH](https://www.indexdata.org/drawbridge-operation-regulation-portage-river-port-clinton-oh/)** — `2024-03-08` | `4 Pages`
-- `[`2024-04951`]` **[Safety Zone; St. Petersburg, Florida](https://www.indexdata.org/safety-zone-st-petersburg-florida/)** — `2024-03-08` | `3 Pages`
-- `[`2024-04872`]` **[Safety Zone; Sabine River, Orange, TX](https://www.indexdata.org/safety-zone-sabine-river-orange-tx-2/)** — `2024-03-07` | `3 Pages`
-- `[`2024-04841`]` **[Regulated Navigation Area; St. Louis River/Duluth-Superior Harbor, Duluth, MN](https://www.indexdata.org/regulated-navigation-area-st-louis-river-duluth-superior-harbor-duluth-mn/)** — `2024-03-07` | `6 Pages`
-- `[`2024-04274`]` **[Drawbridge Operation Regulation; Ashtabula River, Ashtabula, OH](https://www.indexdata.org/drawbridge-operation-regulation-ashtabula-river-ashtabula-oh/)** — `2024-02-29` | `3 Pages`
-- `[`2024-03463`]` **[Drawbridge Operation Regulation; Long Creek, Nassau County, NY](https://www.indexdata.org/drawbridge-operation-regulation-long-creek-nassau-county-ny/)** — `2024-02-23` | `2 Pages`
-- `[`2024-03462`]` **[Drawbridge Operation Regulation; Sloop Channel, Nassau County, NY](https://www.indexdata.org/drawbridge-operation-regulation-sloop-channel-nassau-county-ny-2/)** — `2024-02-23` | `3 Pages`
-- `[`2024-03590`]` **[Safety Zone, Installation Area for Offshore Wind Power Transmission Export Cables, Atlantic Ocean, Virginia Beach, Virginia](https://www.indexdata.org/safety-zone-installation-area-for-offshore-wind-power-transmission-export-cables-atlantic-ocean-virginia-beach-virginia/)** — `2024-02-22` | `3 Pages`
-- `[`2024-03075`]` **[Cybersecurity in the Marine Transportation System](https://www.indexdata.org/cybersecurity-in-the-marine-transportation-system-2/)** — `2024-02-22` | `111 Pages`
-- `[`2024-03486`]` **[Security Zone; Port Valdez and Valdez Narrows, Valdez, AK](https://www.indexdata.org/security-zone-port-valdez-and-valdez-narrows-valdez-ak-2/)** — `2024-02-21` | `3 Pages`
-- `[`2024-03455`]` **[Drawbridge Operation Regulation; Reynolds Channel, Atlantic Beach, NY](https://www.indexdata.org/drawbridge-operation-regulation-reynolds-channel-atlantic-beach-ny-2/)** — `2024-02-21` | `3 Pages`
-- `[`2024-03406`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-6/)** — `2024-02-20` | `3 Pages`
-- `[`2024-03369`]` **[Emergency Safety Zone; Pacific Ocean, Bodega Bay, CA](https://www.indexdata.org/emergency-safety-zone-pacific-ocean-bodega-bay-ca/)** — `2024-02-16` | `3 Pages`
-- `[`2024-03235`]` **[Special Local Regulations; Sector Ohio Valley Annual and Recurring Special Local Regulations](https://www.indexdata.org/special-local-regulations-sector-ohio-valley-annual-and-recurring-special-local-regulations/)** — `2024-02-16` | `5 Pages`
-- `[`2024-02703`]` **[Safety Zone; Biscayne Bay, Homestead, FL](https://www.indexdata.org/safety-zone-biscayne-bay-homestead-fl/)** — `2024-02-12` | `4 Pages`
-- `[`2024-02701`]` **[Safety Zone; Fireworks Scattering; San Francisco Bay, San Francisco, CA](https://www.indexdata.org/safety-zone-fireworks-scattering-san-francisco-bay-san-francisco-ca/)** — `2024-02-12` | `3 Pages`
-- `[`2024-02704`]` **[Safety Zones; Delaware River Dredging, Marcus Hook, PA](https://www.indexdata.org/safety-zones-delaware-river-dredging-marcus-hook-pa-4/)** — `2024-02-09` | `3 Pages`
-- `[`2024-02410`]` **[Great Lakes Pilotage Rates-2024 Annual Review](https://www.indexdata.org/great-lakes-pilotage-rates-2024-annual-review/)** — `2024-02-09` | `35 Pages`
-- `[`2024-02404`]` **[Safety Zones in Reentry Sites; Jacksonville, Florida](https://www.indexdata.org/safety-zones-in-reentry-sites-jacksonville-florida/)** — `2024-02-07` | `2 Pages`
-- `[`2024-02389`]` **[Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL](https://www.indexdata.org/drawbridge-operation-regulation-okeechobee-waterway-stuart-fl-5/)** — `2024-02-06` | `2 Pages`
-- `[`2024-02187`]` **[Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL](https://www.indexdata.org/drawbridge-operation-regulation-okeechobee-waterway-stuart-fl-6/)** — `2024-02-05` | `3 Pages`
-- `[`2024-02127`]` **[Safety Zone; Military Ocean Terminal Concord Safety Zone, Suisun Bay, Concord, CA](https://www.indexdata.org/safety-zone-military-ocean-terminal-concord-safety-zone-suisun-bay-concord-ca/)** — `2024-02-02` | `2 Pages`
-- `[`2024-02084`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Jupiter, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-jupiter-fl-2/)** — `2024-02-02` | `2 Pages`
-- `[`2024-01857`]` **[Safety Zone; North Pacific Ocean, Dutch Harbor, AK](https://www.indexdata.org/safety-zone-north-pacific-ocean-dutch-harbor-ak/)** — `2024-01-30` | `3 Pages`
-- `[`2024-01548`]` **[Safety Zone; Atlantic Ocean, Virginia Beach, Virginia](https://www.indexdata.org/safety-zone-atlantic-ocean-virginia-beach-virginia/)** — `2024-01-26` | `3 Pages`
-- `[`2024-01546`]` **[Safety Zone; Coastal Virginia Offshore Wind-Commercial Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0483, Offshore Virginia, Atlantic Ocean](https://www.indexdata.org/safety-zone-coastal-virginia-offshore-wind-commercial-wind-farm-project-area-outer-continental-shelf-lease-ocs-a-0483-offshore-virginia-atlantic-ocean-2/)** — `2024-01-26` | `10 Pages`
-- `[`2024-01499`]` **[Safety Zone; Ports of Los Angeles and Long Beach, San Pedro Bay, CA](https://www.indexdata.org/safety-zone-ports-of-los-angeles-and-long-beach-san-pedro-bay-ca/)** — `2024-01-25` | `3 Pages`
-- `[`2024-01497`]` **[Safety Zone; Choctawhatchee Bay, FL](https://www.indexdata.org/safety-zone-choctawhatchee-bay-fl-2/)** — `2024-01-25` | `3 Pages`
-- `[`2024-01450`]` **[Safety Zone; Ohio River Mile Markers 2.5-3, Brunot Island, PA](https://www.indexdata.org/safety-zone-ohio-river-mile-markers-2-5-3-brunot-island-pa/)** — `2024-01-25` | `3 Pages`
-- `[`2024-01417`]` **[Security Zone; Lower Mississippi River, Mile Marker 94 to 97 Above Head of Passes, New Orleans, LA](https://www.indexdata.org/security-zone-lower-mississippi-river-mile-marker-94-to-97-above-head-of-passes-new-orleans-la-3/)** — `2024-01-25` | `2 Pages`
-- `[`2024-01360`]` **[Drawbridge Operation Regulation; Mianus River, Greenwich, CT](https://www.indexdata.org/drawbridge-operation-regulation-mianus-river-greenwich-ct/)** — `2024-01-24` | `2 Pages`
-- `[`2024-01359`]` **[Drawbridge Operation Regulation; Housatonic River, Stratford, CT](https://www.indexdata.org/drawbridge-operation-regulation-housatonic-river-stratford-ct/)** — `2024-01-24` | `3 Pages`
-- `[`2024-01358`]` **[Drawbridge Operation Regulation; Saugatuck River, Westport, CT](https://www.indexdata.org/drawbridge-operation-regulation-saugatuck-river-westport-ct/)** — `2024-01-24` | `3 Pages`
-- `[`2024-01186`]` **[Safety Zones; Coast Guard Sector Ohio Valley Annual and Recurring Safety Zones Update](https://www.indexdata.org/safety-zones-coast-guard-sector-ohio-valley-annual-and-recurring-safety-zones-update-2/)** — `2024-01-23` | `8 Pages`
-- `[`2024-00757`]` **[Shipping Safety Fairways Along the Atlantic Coast](https://www.indexdata.org/shipping-safety-fairways-along-the-atlantic-coast-2/)** — `2024-01-19` | `27 Pages`
-- `[`2024-00875`]` **[Safety Zone; Storms With High Winds; Sector Maryland-National Capital Region Captain of the Port Zone](https://www.indexdata.org/safety-zone-storms-with-high-winds-sector-maryland-national-capital-region-captain-of-the-port-zone-2/)** — `2024-01-18` | `3 Pages`
-- `[`2024-00765`]` **[Special Local Regulations; Recurring Marine Events, Sector St. Petersburg](https://www.indexdata.org/special-local-regulations-recurring-marine-events-sector-st-petersburg-8/)** — `2024-01-17` | `2 Pages`
-- `[`2024-00694`]` **[Safety Zone; Little Potato Slough, Stockton, CA](https://www.indexdata.org/safety-zone-little-potato-slough-stockton-ca-2/)** — `2024-01-16` | `3 Pages`
-- `[`2024-00437`]` **[Safety Zone; North Pacific Ocean, Dutch Harbor, AK](https://www.indexdata.org/safety-zone-north-pacific-ocean-dutch-harbor-ak-2/)** — `2024-01-10` | `2 Pages`
-- `[`2024-00004`]` **[Safety Zone; North Pacific Ocean, Dutch Harbor, AK](https://www.indexdata.org/safety-zone-north-pacific-ocean-dutch-harbor-ak-3/)** — `2024-01-04` | `2 Pages`
-- `[`C1-2023-25026`]` **[2022 Liquid Chemical Categorization Updates](https://www.indexdata.org/2022-liquid-chemical-categorization-updates/)** — `2023-12-29` | `2 Pages`
-- `[`2023-28757`]` **[Safety Zone; Fireworks Display, Pacific Ocean, Westport, WA](https://www.indexdata.org/safety-zone-fireworks-display-pacific-ocean-westport-wa/)** — `2023-12-29` | `3 Pages`
-- `[`2023-28756`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-7/)** — `2023-12-29` | `3 Pages`
-- `[`2023-28656`]` **[Establish Anchorage Ground; Rice Island Anchorage, Columbia River, Oregon and Washington](https://www.indexdata.org/establish-anchorage-ground-rice-island-anchorage-columbia-river-oregon-and-washington-2/)** — `2023-12-28` | `3 Pages`
-- `[`2023-28654`]` **[Establish Anchorage Ground; Crims Island Anchorage, Columbia River, Oregon and Washington](https://www.indexdata.org/establish-anchorage-ground-crims-island-anchorage-columbia-river-oregon-and-washington/)** — `2023-12-28` | `3 Pages`
-- `[`2023-28652`]` **[Establish Anchorage Ground; Port Westward Anchorage, Columbia River, Oregon and Washington](https://www.indexdata.org/establish-anchorage-ground-port-westward-anchorage-columbia-river-oregon-and-washington-3/)** — `2023-12-28` | `3 Pages`
-- `[`2023-28650`]` **[Safety Zone; Erie Canal, North Tonawanda, NY](https://www.indexdata.org/safety-zone-erie-canal-north-tonawanda-ny-3/)** — `2023-12-28` | `3 Pages`
-- `[`2023-28645`]` **[Drawbridge Operation Regulation; River Rouge, Detroit, MI](https://www.indexdata.org/drawbridge-operation-regulation-river-rouge-detroit-mi/)** — `2023-12-28` | `3 Pages`
-- `[`2023-28632`]` **[Safety Zone; Marina Del Rey, California](https://www.indexdata.org/safety-zone-marina-del-rey-california-2/)** — `2023-12-28` | `3 Pages`
-- `[`2023-28631`]` **[Safety Zone; Marina del Rey, California](https://www.indexdata.org/safety-zone-marina-del-rey-california/)** — `2023-12-28` | `2 Pages`
-- `[`2023-28112`]` **[User Fees for Inspected Towing Vessels](https://www.indexdata.org/user-fees-for-inspected-towing-vessels/)** — `2023-12-28` | `14 Pages`
-- `[`2023-28146`]` **[Drawbridge Operation Regulation; Turner Cut, Near Stockton, CA](https://www.indexdata.org/drawbridge-operation-regulation-turner-cut-near-stockton-ca/)** — `2023-12-21` | `3 Pages`
-- `[`2023-28103`]` **[Coast Guard Sector Sault Sainte Marie; Sector Name Conforming Amendment](https://www.indexdata.org/coast-guard-sector-sault-sainte-marie-sector-name-conforming-amendment/)** — `2023-12-21` | `3 Pages`
-- `[`2023-28001`]` **[Safety Zone; Laguna de Lobina, Culebra, Puerto Rico](https://www.indexdata.org/safety-zone-laguna-de-lobina-culebra-puerto-rico/)** — `2023-12-20` | `3 Pages`
-- `[`2023-27943`]` **[Coast Guard Sector Buffalo; Sector Name Conforming Amendment](https://www.indexdata.org/coast-guard-sector-buffalo-sector-name-conforming-amendment/)** — `2023-12-20` | `3 Pages`
-- `[`2023-27842`]` **[Safety Zone; Lower Mississippi River, Mile Markers 94 to 97 Above Head of Passes, New Orleans, LA](https://www.indexdata.org/safety-zone-lower-mississippi-river-mile-markers-94-to-97-above-head-of-passes-new-orleans-la/)** — `2023-12-19` | `2 Pages`
-- `[`2023-27774`]` **[Safety Zone; South Fork Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0517, Offshore Rhode Island, Atlantic Ocean](https://www.indexdata.org/safety-zone-south-fork-wind-farm-project-area-outer-continental-shelf-lease-ocs-a-0517-offshore-rhode-island-atlantic-ocean/)** — `2023-12-19` | `4 Pages`
-- `[`2023-27757`]` **[Safety Zone, Illinois River MM 165-166, Peoria, IL](https://www.indexdata.org/safety-zone-illinois-river-mm-165-166-peoria-il/)** — `2023-12-18` | `3 Pages`
-- `[`2023-27738`]` **[Safety Zone; Upper Galveston Bay, Kemah, TX](https://www.indexdata.org/safety-zone-upper-galveston-bay-kemah-tx-4/)** — `2023-12-18` | `2 Pages`
-- `[`2023-27617`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Savannah, GA](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-savannah-ga/)** — `2023-12-15` | `2 Pages`
-- `[`2023-27507`]` **[Safety Zone; Annual Fireworks Displays and Other Events in the Eighth Coast Guard District Requiring Safety Zones](https://www.indexdata.org/safety-zone-annual-fireworks-displays-and-other-events-in-the-eighth-coast-guard-district-requiring-safety-zones-2/)** — `2023-12-14` | `2 Pages`
-- `[`2023-27385`]` **[Drawbridge Operation Regulation; Saginaw River, Bay City, MI](https://www.indexdata.org/drawbridge-operation-regulation-saginaw-river-bay-city-mi/)** — `2023-12-13` | `3 Pages`
-- `[`2023-27306`]` **[Special Local Regulations; Sector Ohio Valley Annual and Recurring Special Local Regulations](https://www.indexdata.org/special-local-regulations-sector-ohio-valley-annual-and-recurring-special-local-regulations-2/)** — `2023-12-13` | `7 Pages`
-- `[`2023-27090`]` **[Safety Zone; Fireworks Display; Hood River, Hood River, Oregon](https://www.indexdata.org/safety-zone-fireworks-display-hood-river-hood-river-oregon/)** — `2023-12-12` | `3 Pages`
-- `[`2023-27036`]` **[Safety Zone; Kaneohe Bay, Oahu, HI-Navy P8 Aircraft Salvage Operations](https://www.indexdata.org/safety-zone-kaneohe-bay-oahu-hi-navy-p8-aircraft-salvage-operations/)** — `2023-12-12` | `3 Pages`
-- `[`2023-27038`]` **[Special Local Regulation; Lake Havasu, Lake Havasu City, AZ](https://www.indexdata.org/special-local-regulation-lake-havasu-lake-havasu-city-az-5/)** — `2023-12-08` | `3 Pages`
-- `[`2023-26986`]` **[Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Addison Point, FL](https://www.indexdata.org/drawbridge-operation-regulation-atlantic-intracoastal-waterway-addison-point-fl/)** — `2023-12-08` | `2 Pages`
-- `[`2023-26808`]` **[Safety Zone; Lahaina Boat Basin, Maui, HI-Emergency Operations and Port Recovery](https://www.indexdata.org/safety-zone-lahaina-boat-basin-maui-hi-emergency-operations-and-port-recovery/)** — `2023-12-08` | `3 Pages`
-- `[`2023-26850`]` **[Drawbridge Operation Regulation; Okeechobee Waterway, Stuart, FL](https://www.indexdata.org/drawbridge-operation-regulation-okeechobee-waterway-stuart-fl-7/)** — `2023-12-07` | `2 Pages`
-- `[`2023-26844`]` **[Special Local Regulations; Marine Events Within the Captain of the Port Charleston](https://www.indexdata.org/special-local-regulations-marine-events-within-the-captain-of-the-port-charleston-4/)** — `2023-12-07` | `2 Pages`
-- `[`2023-26675`]` **[Safety Zone; Fireworks Display, Pacific Ocean, Westport, WA](https://www.indexdata.org/safety-zone-fireworks-display-pacific-ocean-westport-wa-2/)** — `2023-12-05` | `3 Pages`
-- `[`2023-26537`]` **[2023 Quarterly Listings; Safety Zones, Security Zones, and Special Local Regulations](https://www.indexdata.org/2023-quarterly-listings-safety-zones-security-zones-and-special-local-regulations/)** — `2023-12-05` | `2 Pages`
-- `[`2023-26377`]` **[Safety Zone, Upper Mississippi River MM 660.5-659.5, Lansing, IA](https://www.indexdata.org/safety-zone-upper-mississippi-river-mm-660-5-659-5-lansing-ia/)** — `2023-12-01` | `3 Pages`
-- `[`2023-26341`]` **[Safety Zone; Marina Del Rey, California](https://www.indexdata.org/safety-zone-marina-del-rey-california-3/)** — `2023-11-30` | `4 Pages`
-- `[`2023-26334`]` **[Safety Zone; Laguna Madre, South Padre Island, TX](https://www.indexdata.org/safety-zone-laguna-madre-south-padre-island-tx-8/)** — `2023-11-30` | `3 Pages`
-- `[`2023-26295`]` **[Safety Zone; Gulf of Mexico, Lower Mississippi River Below Head of Passes](https://www.indexdata.org/safety-zone-gulf-of-mexico-lower-mississippi-river-below-head-of-passes/)** — `2023-11-30` | `2 Pages`
-- `[`2023-26152`]` **[Safety Zone; Fireworks Displays Within the Fifth Coast Guard District](https://www.indexdata.org/safety-zone-fireworks-displays-within-the-fifth-coast-guard-district-2/)** — `2023-11-28` | `2 Pages`
-- `[`2023-26149`]` **[Safety Zone; Ashtabula Power Plant Breakwater Armor Stone Removal, Lake Erie, Ashtabula, OH](https://www.indexdata.org/safety-zone-ashtabula-power-plant-breakwater-armor-stone-removal-lake-erie-ashtabula-oh/)** — `2023-11-28` | `3 Pages`
-- `[`2023-26017`]` **[Drawbridge Operation Regulation; Old River, Between Victoria Island and Byron Tract, CA](https://www.indexdata.org/drawbridge-operation-regulation-old-river-between-victoria-island-and-byron-tract-ca-2/)** — `2023-11-28` | `3 Pages`
-- `[`2023-25981`]` **[Safety Zone; Lake Charles, Lake Charles, LA](https://www.indexdata.org/safety-zone-lake-charles-lake-charles-la/)** — `2023-11-24` | `2 Pages`
-- `[`2023-25956`]` **[Security Zone; Nantucket Memorial Airport and Abrams Point, Nantucket, MA](https://www.indexdata.org/security-zone-nantucket-memorial-airport-and-abrams-point-nantucket-ma/)** — `2023-11-22` | `3 Pages`
-- `[`2023-25425`]` **[Great Lakes Pilotage Modernization](https://www.indexdata.org/great-lakes-pilotage-modernization-2/)** — `2023-11-21` | `43 Pages`
-- `[`2023-25026`]` **[2022 Liquid Chemical Categorization Updates](https://www.indexdata.org/2022-liquid-chemical-categorization-updates-2/)** — `2023-11-21` | `51 Pages`
-- `[`2023-25635`]` **[Security Zone; Helicopter Crash, Read Island, AK](https://www.indexdata.org/security-zone-helicopter-crash-read-island-ak/)** — `2023-11-20` | `3 Pages`
-- `[`2023-25582`]` **[Safety Zone; Oswego River, Oswego, NY](https://www.indexdata.org/safety-zone-oswego-river-oswego-ny-2/)** — `2023-11-20` | `3 Pages`
-
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
 
+- `[`2024-06249`]` **[Cybersecurity Labeling for Internet of Things](https://www.indexdata.org/cybersecurity-labeling-for-internet-of-things-2/)** — `2024-03-25` | `3 Pages`
 - `[`2024-06158`]` **[Facilitating Shared Use in the 3100-3550 MHz Band](https://www.indexdata.org/facilitating-shared-use-in-the-3100-3550-mhz-band/)** — `2024-03-25` | `3 Pages`
 - `[`2024-05996`]` **[Assessment and Collection of Space and Earth Station Regulatory Fees for Fiscal Year 2024; Review of the Commission's Assessment and Collection of Regulatory Fees for Fiscal Year 2024](https://www.indexdata.org/assessment-and-collection-of-space-and-earth-station-regulatory-fees-for-fiscal-year-2024-review-of-the-commissions-assessment-and-collection-of-regulatory-fees-for-fiscal-year-2024-2/)** — `2024-03-25` | `22 Pages`
 - `[`2024-05941`]` **[Radio Broadcasting Services; Various Locations](https://www.indexdata.org/radio-broadcasting-services-various-locations-7/)** — `2024-03-22` | `2 Pages`
@@ -1238,6 +1240,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 
+- `[`2024-05724`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Pygmy Three-Toed Sloth](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-pygmy-three-toed-sloth/)** — `2024-03-26` | `12 Pages`
 - `[`2024-05700`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for Bushy Whitlow-Wort and Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-bushy-whitlow-wort-and-designation-of-critical-habitat/)** — `2024-03-19` | `21 Pages`
 - `[`2024-05674`]` **[Endangered and Threatened Wildlife and Plants; Removal of the North Park Phacelia From the List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removal-of-the-north-park-phacelia-from-the-list-of-endangered-and-threatened-plants-2/)** — `2024-03-19` | `21 Pages`
 - `[`2024-04588`]` **[Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for 12 Species on Hawai`i Island](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-12-species-on-hawaii-island/)** — `2024-03-12` | `80 Pages`
@@ -1338,7 +1341,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2023-26532`]` **[Allied Governments Favorable Treatment: Revisions to Certain Australia Group Controls; Revisions to Certain Crime Control and Detection Controls](https://www.indexdata.org/allied-governments-favorable-treatment-revisions-to-certain-australia-group-controls-revisions-to-certain-crime-control-and-detection-controls/)** — `2023-12-08` | `9 Pages`
 - `[`2023-26935`]` **[Addition of Entities to the Entity List](https://www.indexdata.org/addition-of-entities-to-the-entity-list-2/)** — `2023-12-07` | `10 Pages`
 - `[`2023-25684`]` **[Additions to the Entity List](https://www.indexdata.org/additions-to-the-entity-list-6/)** — `2023-11-21` | `4 Pages`
-- `[`2023-25557`]` **[Entity List Removal](https://www.indexdata.org/entity-list-removal/)** — `2023-11-17` | `2 Pages`
 
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
@@ -1418,7 +1420,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 - `[`2024-00145`]` **[Draft Regulatory Guide: Installation Design and Installation of Vented Lead-Acid Storage Batteries for Production and Utilization Facilities](https://www.indexdata.org/draft-regulatory-guide-installation-design-and-installation-of-vented-lead-acid-storage-batteries-for-production-and-utilization-facilities/)** — `2024-01-08` | `2 Pages`
 - `[`2023-27961`]` **[Draft Regulatory Guide: Installation, Inspection, and Testing for Class 1E Power, Instrumentation, and Control Equipment at Production and Utilization Facilities](https://www.indexdata.org/draft-regulatory-guide-installation-inspection-and-testing-for-class-1e-power-instrumentation-and-control-equipment-at-production-and-utilization-facilities/)** — `2023-12-20` | `2 Pages`
 - `[`2023-27070`]` **[Regulatory Guide: Damping Values for Seismic Design of Nuclear Power Plants](https://www.indexdata.org/regulatory-guide-damping-values-for-seismic-design-of-nuclear-power-plants/)** — `2023-12-11` | `2 Pages`
-- `[`2023-25422`]` **[Draft Regulatory Guide: Dedication of Commercial-Grade Items for Use in Nuclear Power Plants](https://www.indexdata.org/draft-regulatory-guide-dedication-of-commercial-grade-items-for-use-in-nuclear-power-plants/)** — `2023-11-17` | `2 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1584,6 +1585,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/comptrolle
 ### [Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-acquisition-regulations-system/](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
 
+- `[`2024-06003`]` **[Defense Federal Acquisition Regulation Supplement: Replacement of Fluorinated Aqueous Film-Forming Foam (DFARS Case 2020-D011)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-replacement-of-fluorinated-aqueous-film-forming-foam-dfars-case-2020-d011/)** — `2024-03-26` | `3 Pages`
 - `[`2024-02748`]` **[Defense Federal Acquisition Regulation Supplement; Technical Amendments](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-technical-amendments-6/)** — `2024-02-15` | `2 Pages`
 - `[`2024-02744`]` **[Defense Federal Acquisition Regulation Supplement: Use of DoD Program Nomenclature (DFARS Case 2021-D002)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-use-of-dod-program-nomenclature-dfars-case-2021-d002/)** — `2024-02-15` | `6 Pages`
 - `[`2024-02743`]` **[Defense Federal Acquisition Regulation Supplement: Transfer and Adoption of Military Animals (DFARS Case 2020-D021)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-transfer-and-adoption-of-military-animals-dfars-case-2020-d021/)** — `2024-02-15` | `3 Pages`
@@ -1702,26 +1704,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-
 - `[`2023-27973`]` **[Beneficial Ownership Information Access and Safeguards](https://www.indexdata.org/beneficial-ownership-information-access-and-safeguards/)** — `2023-12-22` | `82 Pages`
 - `[`2023-26399`]` **[Beneficial Ownership Information Reporting Deadline Extension for Reporting Companies Created or Registered in 2024](https://www.indexdata.org/beneficial-ownership-information-reporting-deadline-extension-for-reporting-companies-created-or-registered-in-2024/)** — `2023-11-30` | `6 Pages`
 
-### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
-
-- `[`2024-03732`]` **[Public Lands Administered by the Tres Rios Field Office in Archuleta, La Plata, Montezuma, Dolores, San Miguel, and Montrose Counties; and by the Gunnison Field Office in Gunnison, Ouray, San Juan, and Hinsdale Counties, CO](https://www.indexdata.org/public-lands-administered-by-the-tres-rios-field-office-in-archuleta-la-plata-montezuma-dolores-san-miguel-and-montrose-counties-and-by-the-gunnison-field-office-in-gunnison-ouray-san-juan-an/)** — `2024-02-28` | `7 Pages`
-- `[`2024-03842`]` **[Onshore Oil and Gas Operations and Coal Trespass-Annual Civil Penalties Inflation Adjustments](https://www.indexdata.org/onshore-oil-and-gas-operations-and-coal-trespass-annual-civil-penalties-inflation-adjustments-2/)** — `2024-02-26` | `3 Pages`
-- `[`2024-01399`]` **[Public Lands in the Colorado River Valley, Grand Junction and Kremmling Field Offices, and the Dominguez-Escalante National Conservation Area, CO](https://www.indexdata.org/public-lands-in-the-colorado-river-valley-grand-junction-and-kremmling-field-offices-and-the-dominguez-escalante-national-conservation-area-co/)** — `2024-01-25` | `9 Pages`
-- `[`2023-27746`]` **[Final Supplementary Rule for Roped and Aerial Activities in the Moab Canyons Special Wildlife Area (In and Near Mineral and Hell Roaring Canyons) in Grand County, Utah](https://www.indexdata.org/final-supplementary-rule-for-roped-and-aerial-activities-in-the-moab-canyons-special-wildlife-area-in-and-near-mineral-and-hell-roaring-canyons-in-grand-county-utah/)** — `2023-12-18` | `3 Pages`
-- `[`2023-25698`]` **[Temporary Closure and Restriction Orders](https://www.indexdata.org/temporary-closure-and-restriction-orders-2/)** — `2023-11-21` | `7 Pages`
-- `[`2023-25486`]` **[Management and Protection of the National Petroleum Reserve in Alaska; Extension of Comment Period](https://www.indexdata.org/management-and-protection-of-the-national-petroleum-reserve-in-alaska-extension-of-comment-period/)** — `2023-11-17` | `2 Pages`
-
-### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
-
-- `[`2024-03270`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-17/)** — `2024-02-16` | `3 Pages`
-- `[`2024-03060`]` **[Update to Product Lists](https://www.indexdata.org/update-to-product-lists/)** — `2024-02-15` | `11 Pages`
-- `[`2024-02281`]` **[Competitive Postal Products](https://www.indexdata.org/competitive-postal-products-2/)** — `2024-02-07` | `9 Pages`
-- `[`2023-26393`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-18/)** — `2023-12-01` | `3 Pages`
-- `[`2023-25933`]` **[Market Dominant Postal Products](https://www.indexdata.org/market-dominant-postal-products-3/)** — `2023-11-24` | `2 Pages`
-- `[`2023-25430`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-19/)** — `2023-11-17` | `2 Pages`
-
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 
@@ -1731,15 +1713,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2024-00460`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-7/)** — `2024-02-09` | `3 Pages`
 - `[`2024-00559`]` **[Small Business Investment Company Investment Diversification and Growth; Technical Amendments and Clarifications](https://www.indexdata.org/small-business-investment-company-investment-diversification-and-growth-technical-amendments-and-clarifications/)** — `2024-01-19` | `8 Pages`
 - `[`2023-27053`]` **[Small Business Size Standards: Revised Size Standards Methodology](https://www.indexdata.org/small-business-size-standards-revised-size-standards-methodology-3/)** — `2023-12-11` | `5 Pages`
-
-### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-
-- `[`2024-04244`]` **[Modifications to Performance Standards During Natural Disasters and Other Calamities](https://www.indexdata.org/modifications-to-performance-standards-during-natural-disasters-and-other-calamities/)** — `2024-03-04` | `6 Pages`
-- `[`2024-03373`]` **[Adoption and Foster Care Analysis and Reporting System](https://www.indexdata.org/adoption-and-foster-care-analysis-and-reporting-system-3/)** — `2024-02-23` | `16 Pages`
-- `[`2024-03160`]` **[Notice for Public Comment on Administration for Native Americans' Program Policies and Procedures](https://www.indexdata.org/notice-for-public-comment-on-administration-for-native-americans-program-policies-and-procedures/)** — `2024-02-15` | `3 Pages`
-- `[`2024-02110`]` **[Elimination of the Tribal Non-Federal Share Requirement](https://www.indexdata.org/elimination-of-the-tribal-non-federal-share-requirement/)** — `2024-02-12` | `10 Pages`
-- `[`2023-25038`]` **[Supporting the Head Start Workforce and Consistent Quality Programming](https://www.indexdata.org/supporting-the-head-start-workforce-and-consistent-quality-programming-2/)** — `2023-11-20` | `91 Pages`
 
 ### [Copyright Royalty Board](https://www.indexdata.org/united-states/copyright-royalty-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-royalty-board/](https://www.indexdata.org/united-states/copyright-royalty-board/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-royalty-board/feed/)
@@ -1795,14 +1768,32 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2024-00553`]` **[Nondiscrimination on the Basis of Disability; Accessibility of Medical Diagnostic Equipment of State and Local Government Entities](https://www.indexdata.org/nondiscrimination-on-the-basis-of-disability-accessibility-of-medical-diagnostic-equipment-of-state-and-local-government-entities-2/)** — `2024-01-12` | `13 Pages`
 - `[`2024-00282`]` **[Privacy Act Regulations](https://www.indexdata.org/privacy-act-regulations-5/)** — `2024-01-10` | `11 Pages`
 
-### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
+### [Land Management Bureau](https://www.indexdata.org/united-states/land-management-bureau/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/land-management-bureau/](https://www.indexdata.org/united-states/land-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/land-management-bureau/feed/)
 
-- `[`2024-05010`]` **[Improvements for Heavy-Duty Engine and Vehicle Fuel Efficiency Test Procedures, and Other Technical Amendments](https://www.indexdata.org/improvements-for-heavy-duty-engine-and-vehicle-fuel-efficiency-test-procedures-and-other-technical-amendments/)** — `2024-03-15` | `24 Pages`
-- `[`2024-03119`]` **[Exemptions From Average Fuel Economy Standards; Passenger Automobile Average Fuel Economy Standards](https://www.indexdata.org/exemptions-from-average-fuel-economy-standards-passenger-automobile-average-fuel-economy-standards/)** — `2024-02-20` | `8 Pages`
-- `[`2023-27665`]` **[Advanced Impaired Driving Prevention Technology](https://www.indexdata.org/advanced-impaired-driving-prevention-technology/)** — `2024-01-05` | `28 Pages`
-- `[`2023-26082`]` **[Federal Motor Vehicle Safety Standards: Child Restraint Systems](https://www.indexdata.org/federal-motor-vehicle-safety-standards-child-restraint-systems/)** — `2023-12-05` | `110 Pages`
-- `[`2023-25519`]` **[Federal Motor Vehicle Safety Standards; V2V Communications](https://www.indexdata.org/federal-motor-vehicle-safety-standards-v2v-communications/)** — `2023-11-20` | `2 Pages`
+- `[`2024-03732`]` **[Public Lands Administered by the Tres Rios Field Office in Archuleta, La Plata, Montezuma, Dolores, San Miguel, and Montrose Counties; and by the Gunnison Field Office in Gunnison, Ouray, San Juan, and Hinsdale Counties, CO](https://www.indexdata.org/public-lands-administered-by-the-tres-rios-field-office-in-archuleta-la-plata-montezuma-dolores-san-miguel-and-montrose-counties-and-by-the-gunnison-field-office-in-gunnison-ouray-san-juan-an/)** — `2024-02-28` | `7 Pages`
+- `[`2024-03842`]` **[Onshore Oil and Gas Operations and Coal Trespass-Annual Civil Penalties Inflation Adjustments](https://www.indexdata.org/onshore-oil-and-gas-operations-and-coal-trespass-annual-civil-penalties-inflation-adjustments-2/)** — `2024-02-26` | `3 Pages`
+- `[`2024-01399`]` **[Public Lands in the Colorado River Valley, Grand Junction and Kremmling Field Offices, and the Dominguez-Escalante National Conservation Area, CO](https://www.indexdata.org/public-lands-in-the-colorado-river-valley-grand-junction-and-kremmling-field-offices-and-the-dominguez-escalante-national-conservation-area-co/)** — `2024-01-25` | `9 Pages`
+- `[`2023-27746`]` **[Final Supplementary Rule for Roped and Aerial Activities in the Moab Canyons Special Wildlife Area (In and Near Mineral and Hell Roaring Canyons) in Grand County, Utah](https://www.indexdata.org/final-supplementary-rule-for-roped-and-aerial-activities-in-the-moab-canyons-special-wildlife-area-in-and-near-mineral-and-hell-roaring-canyons-in-grand-county-utah/)** — `2023-12-18` | `3 Pages`
+- `[`2023-25698`]` **[Temporary Closure and Restriction Orders](https://www.indexdata.org/temporary-closure-and-restriction-orders-2/)** — `2023-11-21` | `7 Pages`
+
+### [Postal Regulatory Commission](https://www.indexdata.org/united-states/postal-regulatory-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-regulatory-commission/](https://www.indexdata.org/united-states/postal-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/postal-regulatory-commission/feed/)
+
+- `[`2024-03270`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-17/)** — `2024-02-16` | `3 Pages`
+- `[`2024-03060`]` **[Update to Product Lists](https://www.indexdata.org/update-to-product-lists/)** — `2024-02-15` | `11 Pages`
+- `[`2024-02281`]` **[Competitive Postal Products](https://www.indexdata.org/competitive-postal-products-2/)** — `2024-02-07` | `9 Pages`
+- `[`2023-26393`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-18/)** — `2023-12-01` | `3 Pages`
+- `[`2023-25933`]` **[Market Dominant Postal Products](https://www.indexdata.org/market-dominant-postal-products-3/)** — `2023-11-24` | `2 Pages`
+
+### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
+
+- `[`2024-06245`]` **[30-Day Notification of Nonpayment of Rent in Multi-Family Housing Direct Loan Programs](https://www.indexdata.org/30-day-notification-of-nonpayment-of-rent-in-multi-family-housing-direct-loan-programs/)** — `2024-03-25` | `5 Pages`
+- `[`2024-05756`]` **[Section 538 Guaranteed Rural Rental Housing Program Change in Priority Projects Criteria](https://www.indexdata.org/section-538-guaranteed-rural-rental-housing-program-change-in-priority-projects-criteria/)** — `2024-03-19` | `3 Pages`
+- `[`2024-05571`]` **[Changes Related to Reserve Account Administration in Multi-Family Housing (MFH) Direct Loan Programs](https://www.indexdata.org/changes-related-to-reserve-account-administration-in-multi-family-housing-mfh-direct-loan-programs/)** — `2024-03-18` | `4 Pages`
+- `[`2024-00073`]` **[Revisions to the Smoke Alarm Requirements in the Section 515 Rural Rental Housing and Section 514/516 Farm Labor Housing Direct Loan Programs](https://www.indexdata.org/revisions-to-the-smoke-alarm-requirements-in-the-section-515-rural-rental-housing-and-section-514-516-farm-labor-housing-direct-loan-programs-2/)** — `2024-01-08` | `3 Pages`
+- `[`2023-26654`]` **[Single Family Housing Section 502 Direct Loan Program-Community Land Trust Pilot](https://www.indexdata.org/single-family-housing-section-502-direct-loan-program-community-land-trust-pilot/)** — `2023-12-08` | `3 Pages`
 
 ### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
@@ -1829,6 +1820,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agency-for
 - `[`2024-03848`]` **[USAID Acquisition Regulation: Safeguarding Against Exploitation, Sexual Abuse, Child Abuse, and Child Neglect](https://www.indexdata.org/usaid-acquisition-regulation-safeguarding-against-exploitation-sexual-abuse-child-abuse-and-child-neglect/)** — `2024-02-28` | `6 Pages`
 - `[`2023-27953`]` **[U.S. Agency for International Development Acquisition Regulation; Administrative Updates](https://www.indexdata.org/u-s-agency-for-international-development-acquisition-regulation-administrative-updates-2/)** — `2024-01-23` | `9 Pages`
 - `[`2023-27952`]` **[U.S. Agency for International Development Acquisition Regulation; Administrative Updates](https://www.indexdata.org/u-s-agency-for-international-development-acquisition-regulation-administrative-updates/)** — `2024-01-23` | `2 Pages`
+
+### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
+
+- `[`2024-04244`]` **[Modifications to Performance Standards During Natural Disasters and Other Calamities](https://www.indexdata.org/modifications-to-performance-standards-during-natural-disasters-and-other-calamities/)** — `2024-03-04` | `6 Pages`
+- `[`2024-03373`]` **[Adoption and Foster Care Analysis and Reporting System](https://www.indexdata.org/adoption-and-foster-care-analysis-and-reporting-system-3/)** — `2024-02-23` | `16 Pages`
+- `[`2024-03160`]` **[Notice for Public Comment on Administration for Native Americans' Program Policies and Procedures](https://www.indexdata.org/notice-for-public-comment-on-administration-for-native-americans-program-policies-and-procedures/)** — `2024-02-15` | `3 Pages`
+- `[`2024-02110`]` **[Elimination of the Tribal Non-Federal Share Requirement](https://www.indexdata.org/elimination-of-the-tribal-non-federal-share-requirement/)** — `2024-02-12` | `10 Pages`
 
 ### [Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-benefits-security-administration/](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
@@ -1886,6 +1885,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-ser
 - `[`2024-03604`]` **[Subsistence Management Regulations for Public Lands in Alaska-Subpart B; Federal Subsistence Board Membership](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-subpart-b-federal-subsistence-board-membership-2/)** — `2024-02-26` | `8 Pages`
 - `[`2023-26666`]` **[Travel Management; Administration of the Forest Transportation System; Postdecisional Administrative Review Process for Occupancy or Use of National Forest System Lands and Resources; Land Uses; Special Uses](https://www.indexdata.org/travel-management-administration-of-the-forest-transportation-system-postdecisional-administrative-review-process-for-occupancy-or-use-of-national-forest-system-lands-and-resources-land-uses-speci/)** — `2023-12-06` | `7 Pages`
 
+### [National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
+
+- `[`2024-05010`]` **[Improvements for Heavy-Duty Engine and Vehicle Fuel Efficiency Test Procedures, and Other Technical Amendments](https://www.indexdata.org/improvements-for-heavy-duty-engine-and-vehicle-fuel-efficiency-test-procedures-and-other-technical-amendments/)** — `2024-03-15` | `24 Pages`
+- `[`2024-03119`]` **[Exemptions From Average Fuel Economy Standards; Passenger Automobile Average Fuel Economy Standards](https://www.indexdata.org/exemptions-from-average-fuel-economy-standards-passenger-automobile-average-fuel-economy-standards/)** — `2024-02-20` | `8 Pages`
+- `[`2023-27665`]` **[Advanced Impaired Driving Prevention Technology](https://www.indexdata.org/advanced-impaired-driving-prevention-technology/)** — `2024-01-05` | `28 Pages`
+- `[`2023-26082`]` **[Federal Motor Vehicle Safety Standards: Child Restraint Systems](https://www.indexdata.org/federal-motor-vehicle-safety-standards-child-restraint-systems/)** — `2023-12-05` | `110 Pages`
+
 ### [Pension Benefit Guaranty Corporation](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/pension-benefit-guaranty-corporation/feed/)
 
@@ -1893,14 +1900,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/pension-be
 - `[`2024-00488`]` **[Adjustment of Civil Penalties for Inflation](https://www.indexdata.org/adjustment-of-civil-penalties-for-inflation-2/)** — `2024-01-12` | `2 Pages`
 - `[`2023-27690`]` **[Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits-14/)** — `2023-12-18` | `2 Pages`
 - `[`2023-26238`]` **[Allocation of Assets in Single-Employer Plans; Valuation of Benefits and Assets; Expected Retirement Age](https://www.indexdata.org/allocation-of-assets-in-single-employer-plans-valuation-of-benefits-and-assets-expected-retirement-age/)** — `2023-11-29` | `2 Pages`
-
-### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
-
-- `[`2024-05756`]` **[Section 538 Guaranteed Rural Rental Housing Program Change in Priority Projects Criteria](https://www.indexdata.org/section-538-guaranteed-rural-rental-housing-program-change-in-priority-projects-criteria/)** — `2024-03-19` | `3 Pages`
-- `[`2024-05571`]` **[Changes Related to Reserve Account Administration in Multi-Family Housing (MFH) Direct Loan Programs](https://www.indexdata.org/changes-related-to-reserve-account-administration-in-multi-family-housing-mfh-direct-loan-programs/)** — `2024-03-18` | `4 Pages`
-- `[`2024-00073`]` **[Revisions to the Smoke Alarm Requirements in the Section 515 Rural Rental Housing and Section 514/516 Farm Labor Housing Direct Loan Programs](https://www.indexdata.org/revisions-to-the-smoke-alarm-requirements-in-the-section-515-rural-rental-housing-and-section-514-516-farm-labor-housing-direct-loan-programs-2/)** — `2024-01-08` | `3 Pages`
-- `[`2023-26654`]` **[Single Family Housing Section 502 Direct Loan Program-Community Land Trust Pilot](https://www.indexdata.org/single-family-housing-section-502-direct-loan-program-community-land-trust-pilot/)** — `2023-12-08` | `3 Pages`
 
 ### [Safety and Environmental Enforcement Bureau](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/safety-and-environmental-enforcement-bureau/feed/)
@@ -1997,6 +1996,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ra
 
 - `[`2024-01074`]` **[Emergency Escape Breathing Apparatus Standards](https://www.indexdata.org/emergency-escape-breathing-apparatus-standards-2/)** — `2024-01-26` | `23 Pages`
 - `[`2023-26133`]` **[Freight Car Safety Standards Implementing the Infrastructure Investment and Jobs Act](https://www.indexdata.org/freight-car-safety-standards-implementing-the-infrastructure-investment-and-jobs-act-2/)** — `2023-12-08` | `17 Pages`
+
+### [Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-transit-administration/](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
+
+- `[`2024-06251`]` **[Rail Transit Roadway Worker Protection](https://www.indexdata.org/rail-transit-roadway-worker-protection-4/)** — `2024-03-25` | `24 Pages`
+- `[`2023-28154`]` **[Transit Worker Hours of Service and Fatigue Risk Management](https://www.indexdata.org/transit-worker-hours-of-service-and-fatigue-risk-management/)** — `2023-12-21` | `2 Pages`
 
 ### [Fiscal Service](https://www.indexdata.org/united-states/fiscal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fiscal-service/](https://www.indexdata.org/united-states/fiscal-service/) | [RSS Feed](https://www.indexdata.org/united-states/fiscal-service/feed/)
@@ -2125,11 +2130,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-pr
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/) | [RSS Feed](https://www.indexdata.org/united-states/federal-retirement-thrift-investment-board/feed/)
 
 - `[`2024-05346`]` **[Removal of 30-Calendar-Day Waiting Period Between Withdrawals](https://www.indexdata.org/removal-of-30-calendar-day-waiting-period-between-withdrawals/)** — `2024-03-14` | `2 Pages`
-
-### [Federal Transit Administration](https://www.indexdata.org/united-states/federal-transit-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-transit-administration/](https://www.indexdata.org/united-states/federal-transit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-transit-administration/feed/)
-
-- `[`2023-28154`]` **[Transit Worker Hours of Service and Fatigue Risk Management](https://www.indexdata.org/transit-worker-hours-of-service-and-fatigue-risk-management/)** — `2023-12-21` | `2 Pages`
 
 ### [Foreign-Trade Zones Board](https://www.indexdata.org/united-states/foreign-trade-zones-board/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-trade-zones-board/](https://www.indexdata.org/united-states/foreign-trade-zones-board/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-trade-zones-board/feed/)

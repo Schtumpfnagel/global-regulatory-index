@@ -4,15 +4,15 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,297` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-26 02:06 UTC`
+**Total Indexed Dossiers in International:** `1,303` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-26 03:07 UTC`
 
 ---
 
 ## Issuing Authorities in International (29 Authorities)
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`247` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
-- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`214` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
+- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`218` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`208` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
@@ -22,7 +22,7 @@
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
 - **[European Central Bank (ECB)](https://www.indexdata.org/international/european-central-bank-ecb/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/international/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[World Intellectual Property Organization (WIPO)](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/) | [RSS Feed](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/feed/) | [Wikidata `Q177773`](https://www.wikidata.org/wiki/Q177773)
-- **[Food and Agriculture Organization (FAO) — FAO Council](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/)** (`13` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/feed/)
+- **[Food and Agriculture Organization (FAO) — FAO Council](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/feed/)
 - **[World Bank — Energy Sector Management Assistance Program (ESMAP)](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/) | [RSS Feed](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/feed/)
 - **[International Labour Organization (ILO)](https://www.indexdata.org/international/international-labour-organization-ilo/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/international/international-labour-organization-ilo/) | [RSS Feed](https://www.indexdata.org/international/international-labour-organization-ilo/feed/) | [Wikidata `Q54129`](https://www.wikidata.org/wiki/Q54129)
 - **[Food and Agriculture Organization (FAO) — Fishery Committee for the Eastern Central Atlantic (CECAF)](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fishery-committee-for-the-eastern-central-atlantic-cecaf/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fishery-committee-for-the-eastern-central-atlantic-cecaf/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fishery-committee-for-the-eastern-central-atlantic-cecaf/feed/)
@@ -43,7 +43,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,297 of 1,297)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,303 of 1,303)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -299,6 +299,10 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-s
 ### [Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)
 Canonical Authority Archive: [https://www.indexdata.org/international/food-and-agriculture-organization-fao/](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/)
 
+- `[`FAO-CE2663EN`]` **[Learning brief: Who carries resilience ?](https://www.indexdata.org/learning-brief-who-carries-resilience/)** — `2026-11-26` | `17 Pages`
+- `[`FAO-CE2714M`]` **[List of participantsListe des participantsLista de participantes](https://www.indexdata.org/list-of-participantsliste-des-participantslista-de-participantes/)** — `2026-11-25` | `7 Pages`
+- `[`FAO-CE2694EN`]` **[Does public expenditure on food and agriculture support access to healthy diets in Ghana?](https://www.indexdata.org/does-public-expenditure-on-food-and-agriculture-support-access-to-healthy-diets-in-ghana/)** — `2026-11-25` | `50 Pages`
+- `[`FAO-CD8677EN`]` **[Framework for sustainable land management documentation and implementation in the Kingdom of Saudi Arabia](https://www.indexdata.org/framework-for-sustainable-land-management-documentation-and-implementation-in-the-kingdom-of-saudi-arabia/)** — `2026-11-25` | `66 Pages`
 - `[`FAO-CE2709EN`]` **[CFS Overview MYPoW 2028–2031 Revised](https://www.indexdata.org/cfs-overview-mypow-2028-2031-revised/)** — `2026-11-24` | `12 Pages`
 - `[`FAO-CD6536EN`]` **[Human–wildlife conflict: A summary of rules and guidelines](https://www.indexdata.org/human-wildlife-conflict-a-summary-of-rules-and-guidelines/)** — `2026-11-24` | `8 Pages`
 - `[`FAO-CE2611EN`]` **[2026 plant pest management campaign in Afghanistan](https://www.indexdata.org/2026-plant-pest-management-campaign-in-afghanistan/)** — `2026-11-23` | `5 Pages`
@@ -1330,6 +1334,8 @@ Canonical Authority Archive: [https://www.indexdata.org/international/world-inte
 ### [Food and Agriculture Organization (FAO) — FAO Council](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/)
 Canonical Authority Archive: [https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/feed/)
 
+- `[`FAO-NV599EN`]` **[CL 182/SideEvent/CN - Launch of The State of Food and Agriculture 2026: The role of market structure in agrifood systems](https://www.indexdata.org/cl-182-sideevent-cn-launch-of-the-state-of-food-and-agriculture-2026-the-role-of-market-structure-in-agrifood-systems/)** — `2026-11-25` | `2 Pages`
+- `[`FAO-CE2065EN`]` **[CL 182/WCP - Item 14.2 - Members inputs - original language](https://www.indexdata.org/cl-182-wcp-item-14-2-members-inputs-original-language/)** — `2026-11-25` | `2 Pages`
 - `[`FAO-NV531EN`]` **[CL 182/SideEvent/CN - Advancing Inclusive Agrifood Systems: Launch of the FAO Disability Inclusion Policy](https://www.indexdata.org/cl-182-sideevent-cn-advancing-inclusive-agrifood-systems-launch-of-the-fao-disability-inclusion-policy/)** — `2026-11-24` | `3 Pages`
 - `[`FAO-NV526EN`]` **[CL 182/SideEvent/CN - Global launch of FAO’s High-level Report on Healthy Diets](https://www.indexdata.org/cl-182-sideevent-cn-global-launch-of-faos-high-level-report-on-healthy-diets/)** — `2026-11-24` | `5 Pages`
 - `[`FAO-NV586EN`]` **[CL 182/LIM/6 - Revised proposal for the Bioeconomy for Sustainable Transformation (BEST) Partnership](https://www.indexdata.org/cl-182-lim-6-revised-proposal-for-the-bioeconomy-for-sustainable-transformation-best-partnership/)** — `2026-11-23` | `6 Pages`
