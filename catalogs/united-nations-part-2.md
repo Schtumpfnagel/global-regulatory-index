@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,027` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,028` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-26 08:10 UTC`
+**Last Automated Sync:** `2026-11-26 09:14 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`539` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`497` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`498` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,027)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,028)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-62-L.48`]` **[Human rights situation in and around El Obeid, in the context of the ongoing conflict in the Sudan — draft resolution](https://www.indexdata.org/a-hrc-62-l-48-human-rights-situation-in-and-around-el-obeid-in-the-context-of-the-ongoing-conflict-in-the-sudan-draft-resolution/)** — `2026-07-06` | `5 Pages`
 - `[`UN-A-HRC-61-SR.52`]` **[Summary record of the 52nd meeting, held at the Palais des Nations, Geneva, on Monday, 30 March 2026 — Human Rights Council, 61st session](https://www.indexdata.org/a-hrc-61-sr-52-summary-record-of-the-52nd-meeting-held-at-the-palais-des-nations-geneva-on-monday-30-march-2026-human-rights-council-61st-session/)** — `2026-07-06` | `25 Pages`
 - `[`UN-A-81-130`]` **[Promotion of truth, justice, reparation and guarantees of non-recurrence — note](https://www.indexdata.org/a-81-130-promotion-of-truth-justice-reparation-and-guarantees-of-non-recurrence-note/)** — `2026-07-06` | `22 Pages`
 - `[`UN-A-HRC-63-30`]` **[Historical and contemporary forms of violations against the sexual and reproductive health and rights of Indigenous women and girls — report of the Special Rapporteur on the Rights of Indigenous Peoples, Albert K. Barume](https://www.indexdata.org/a-hrc-63-30-historical-and-contemporary-forms-of-violations-against-the-sexual-and-reproductive-health-and-rights-of-indigenous-women-and-girls-report-of-the-special-rapporteur-on-the-righ/)** — `2026-07-03` | `21 Pages`
@@ -829,7 +830,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-62-40`]` **[Truth, justice and reparation for persons affected by leprosy — a human rights framework to address historical and systematic forced segregation and discrimination : report of the Special Rapporteur on the Elimination of Discrimination against Persons Affected by Leprosy (Hansen's disease) and Their Family Members, Beatriz Miranda-Galarza](https://www.indexdata.org/a-hrc-62-40-truth-justice-and-reparation-for-persons-affected-by-leprosy-a-human-rights-framework-to-address-historical-and-systematic-forced-segregation-and-discrimination-report-of-th/)** — `2026-04-21` | `17 Pages`
 - `[`UN-A-HRC-62-24`]` **[Conscientious objection to military service — analytical report of the Office of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-62-24-conscientious-objection-to-military-service-analytical-report-of-the-office-of-the-united-nations-high-commissioner-for-human-rights/)** — `2026-04-21` | `15 Pages`
 - `[`UN-A-HRC-62-12`]` **[Report of the Working Group on the Universal Periodic Review — Austria](https://www.indexdata.org/a-hrc-62-12-report-of-the-working-group-on-the-universal-periodic-review-austria/)** — `2026-04-21` | `24 Pages`
-- `[`UN-A-HRC-61-G-5`]` **[Note verbale dated 20 April 2026 from the Permanent Mission of Cyprus to the United Nations Office at Geneva addressed to the Office of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-61-g-5-note-verbale-dated-20-april-2026-from-the-permanent-mission-of-cyprus-to-the-united-nations-office-at-geneva-addressed-to-the-office-of-the-united-nations-high-commissioner-for-human-ri/)** — `2026-04-21` | `3 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
