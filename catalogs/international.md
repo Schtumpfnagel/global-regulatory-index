@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,311` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-26 15:54 UTC`
+**Total Indexed Dossiers in International:** `1,313` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-26 16:57 UTC`
 
 ---
 
@@ -13,7 +13,7 @@
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`247` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`218` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
-- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`210` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
+- **[World Bank](https://www.indexdata.org/international/world-bank/)** (`211` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`105` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`103` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
@@ -21,7 +21,7 @@
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
 - **[European Central Bank (ECB)](https://www.indexdata.org/international/european-central-bank-ecb/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/international/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
-- **[World Intellectual Property Organization (WIPO)](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/) | [RSS Feed](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/feed/) | [Wikidata `Q177773`](https://www.wikidata.org/wiki/Q177773)
+- **[World Intellectual Property Organization (WIPO)](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/) | [RSS Feed](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/feed/) | [Wikidata `Q177773`](https://www.wikidata.org/wiki/Q177773)
 - **[Food and Agriculture Organization (FAO) — FAO Council](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/feed/)
 - **[World Bank — Energy Sector Management Assistance Program (ESMAP)](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/) | [RSS Feed](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/feed/)
 - **[International Labour Organization (ILO)](https://www.indexdata.org/international/international-labour-organization-ilo/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/international/international-labour-organization-ilo/) | [RSS Feed](https://www.indexdata.org/international/international-labour-organization-ilo/feed/) | [Wikidata `Q54129`](https://www.wikidata.org/wiki/Q54129)
@@ -43,7 +43,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,311 of 1,311)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,313 of 1,313)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -521,6 +521,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 ### [World Bank](https://www.indexdata.org/international/world-bank/)
 Canonical Authority Archive: [https://www.indexdata.org/international/world-bank/](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/)
 
+- `[`WB-WDS-217614`]` **[Gold at What Price? Lessons from Adapting an Economic Valuation Tool for Illegal Gold Mining Across the Amazon Basin](https://www.indexdata.org/gold-at-what-price-lessons-from-adapting-an-economic-valuation-tool-for-illegal-gold-mining-across-the-amazon-basin/)** — `2026-11-26` | `28 Pages`
 - `[`WB-WDS-216565`]` **[Skills-Based International Labor Mobility Systems : An Application of the Institutional Assessment Framework](https://www.indexdata.org/skills-based-international-labor-mobility-systems-an-application-of-the-institutional-assessment-framework/)** — `2026-11-26` | `104 Pages`
 - `[`WB-WDS-216564`]` **[Labor Market Assessments for Global Skill Partnerships : A Methodological Guide](https://www.indexdata.org/labor-market-assessments-for-global-skill-partnerships-a-methodological-guide/)** — `2026-11-26` | `90 Pages`
 - `[`WB-WDS-40140976`]` **[Labor Management Procedures GPSA Ukraine: Empowering Civil Society and Journalists in Oversight and Promotion of Effective Anti-corruption Environment Project (P172392)](https://www.indexdata.org/labor-management-procedures-gpsa-ukraine-empowering-civil-society-and-journalists-in-oversight-and-promotion-of-effective-anti-corruption-environment-project-p172392/)** — `2026-11-25` | `13 Pages`
@@ -1324,6 +1325,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/world-inte
 - `[`WIPO-60676`]` **[World Intellectual Property Indicators 2026](https://www.indexdata.org/world-intellectual-property-indicators-2026/)** — `2026-10-02` | `192 Pages`
 - `[`WIPO-60592`]` **[Women, Innovation and Impact — Illustrating the Global Progress of WIPO’s First IP and Gender Action Plan](https://www.indexdata.org/women-innovation-and-impact-illustrating-the-global-progress-of-wipos-first-ip-and-gender-action-plan/)** — `2026-09-16` | `36 Pages`
 - `[`WIPO-60467`]` **[WIPO IPC-Green Technology Concordance — A Harmonized Classification Methodology](https://www.indexdata.org/wipo-ipc-green-technology-concordance-a-harmonized-classification-methodology/)** — `2026-08-27` | `61 Pages`
+- `[`WIPO-60465`]` **[Country Perspectives — Mexico’s Journey](https://www.indexdata.org/country-perspectives-mexicos-journey/)** — `2026-08-26` | `26 Pages`
 - `[`WIPO-60364`]` **[The Creative Ecosystem of the Philippines — National Diagnostic Report](https://www.indexdata.org/the-creative-ecosystem-of-the-philippines-national-diagnostic-report/)** — `2026-07-08` | `99 Pages`
 - `[`WIPO-60265`]` **[TISCs Report 2025 — Building Strong Frameworks for Innovation Support](https://www.indexdata.org/tiscs-report-2025-building-strong-frameworks-for-innovation-support/)** — `2026-05-22` | `48 Pages`
 - `[`WIPO-60252`]` **[Patent Trends Update in GenAI](https://www.indexdata.org/patent-trends-update-in-genai/)** — `2026-05-22` | `24 Pages`
