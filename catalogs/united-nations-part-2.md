@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,030` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,031` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | **[Part 2 (Current)]** | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-26 13:06 UTC`
+**Last Automated Sync:** `2026-11-26 13:25 UTC`
 
 ---
 
@@ -24,7 +24,7 @@
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
 - **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`170` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
-- **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
+- **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`96` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
 - **[Secretariat](https://www.indexdata.org/united-nations/secretariat/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
 - **[United Nations General Assembly](https://www.indexdata.org/united-nations/united-nations-general-assembly/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-general-assembly/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,030)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 7,031)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-63-30-Add.1`]` **[Visit to Botswana — report of the Special Rapporteur on the Rights of Indigenous Peoples on his visit to Botswana](https://www.indexdata.org/a-hrc-63-30-add-1-visit-to-botswana-report-of-the-special-rapporteur-on-the-rights-of-indigenous-peoples-on-his-visit-to-botswana/)** — `2026-07-06` | `22 Pages`
 - `[`UN-A-HRC-63-27`]` **[Forever chemicals and human rights — report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Marcos Orellana](https://www.indexdata.org/a-hrc-63-27-forever-chemicals-and-human-rights-report-of-the-special-rapporteur-on-the-implications-for-human-rights-of-the-environmentally-sound-management-and-disposal-of-hazardous-subst/)** — `2026-07-06` | `20 Pages`
 - `[`UN-A-HRC-63-25`]` **[Denialism, negationism and revisionism of serious violations of human rights and humanitarian law in transitional justice contexts — report of the Special Rapporteur on the Promotion of Truth, Justice, Reparation and Guarantees of Non-Recurrence, Bernard Duhaime](https://www.indexdata.org/a-hrc-63-25-denialism-negationism-and-revisionism-of-serious-violations-of-human-rights-and-humanitarian-law-in-transitional-justice-contexts-report-of-the-special-rapporteur-on-the-promo/)** — `2026-07-06` | `19 Pages`
 - `[`UN-A-HRC-62-L.48`]` **[Human rights situation in and around El Obeid, in the context of the ongoing conflict in the Sudan — draft resolution](https://www.indexdata.org/a-hrc-62-l-48-human-rights-situation-in-and-around-el-obeid-in-the-context-of-the-ongoing-conflict-in-the-sudan-draft-resolution/)** — `2026-07-06` | `5 Pages`
@@ -829,7 +830,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-62-45-Add.1`]` **[Visit to Chile — report of the Special Rapporteur on the Rights to Freedom of Peaceful Assembly and of Association, Gina Romero](https://www.indexdata.org/a-hrc-62-45-add-1-visit-to-chile-report-of-the-special-rapporteur-on-the-rights-to-freedom-of-peaceful-assembly-and-of-association-gina-romero/)** — `2026-04-21` | `16 Pages`
 - `[`UN-A-HRC-62-45`]` **[Unmasking the chilling effects of the digital surveillance ecosystem — the erosion of assembly and association rights : report of the Special Rapporteur on the Rights to Freedom of Peaceful Assembly and of Association, Gina Romero](https://www.indexdata.org/a-hrc-62-45-unmasking-the-chilling-effects-of-the-digital-surveillance-ecosystem-the-erosion-of-assembly-and-association-rights-report-of-the-special-rapporteur-on-the-rights-to-freedom/)** — `2026-04-21` | `25 Pages`
 - `[`UN-A-HRC-62-42-Add.1`]` **[Visit to Rwanda — report of the Special Rapporteur on Extreme Poverty and Human Rights, Olivier De Schutter](https://www.indexdata.org/a-hrc-62-42-add-1-visit-to-rwanda-report-of-the-special-rapporteur-on-extreme-poverty-and-human-rights-olivier-de-schutter/)** — `2026-04-21` | `20 Pages`
-- `[`UN-A-HRC-62-40`]` **[Truth, justice and reparation for persons affected by leprosy — a human rights framework to address historical and systematic forced segregation and discrimination : report of the Special Rapporteur on the Elimination of Discrimination against Persons Affected by Leprosy (Hansen's disease) and Their Family Members, Beatriz Miranda-Galarza](https://www.indexdata.org/a-hrc-62-40-truth-justice-and-reparation-for-persons-affected-by-leprosy-a-human-rights-framework-to-address-historical-and-systematic-forced-segregation-and-discrimination-report-of-th/)** — `2026-04-21` | `17 Pages`
 
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,030` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,031` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-26 13:06 UTC`
+**Last Automated Sync:** `2026-11-26 13:25 UTC`
 
 ---
 
@@ -24,7 +24,7 @@
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
 - **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`170` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
-- **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
+- **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`96` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
 - **[Secretariat](https://www.indexdata.org/united-nations/secretariat/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
 - **[United Nations General Assembly](https://www.indexdata.org/united-nations/united-nations-general-assembly/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-general-assembly/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 7,030)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 7,031)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -617,7 +617,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-RES-79-160`]` **[Combating glorification of Nazism, neo-Nazism and other practices that contribute to fuelling contemporary forms of racism, racial discrimination, xenophobia and related intolerance — resolution](https://www.indexdata.org/a-res-79-160-combating-glorification-of-nazism-neo-nazism-and-other-practices-that-contribute-to-fuelling-contemporary-forms-of-racism-racial-discrimination-xenophobia-and-related-intolerance/)** — `2024-12-19` | `11 Pages`
 - `[`UN-A-RES-79-158`]` **[Child, early and forced marriage — resolution](https://www.indexdata.org/a-res-79-158-child-early-and-forced-marriage-resolution/)** — `2024-12-19` | `15 Pages`
 - `[`UN-A-RES-79-156`]` **[Office of the United Nations High Commissioner for Refugees — resolution](https://www.indexdata.org/a-res-79-156-office-of-the-united-nations-high-commissioner-for-refugees-resolution/)** — `2024-12-19` | `14 Pages`
-- `[`UN-A-RES-79-155`]` **[Intensification of efforts to end obstetric fistula — resolution](https://www.indexdata.org/a-res-79-155-intensification-of-efforts-to-end-obstetric-fistula-resolution/)** — `2024-12-19` | `9 Pages`
 
 ### [UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-general-assembly-unga/](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
@@ -1265,6 +1264,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-human-
 ### [Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-and-social-council/](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 
+- `[`UN-E-CN.6-2026-NGO-210`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-210-statement/)** — `2026-01-19` | `5 Pages`
 - `[`UN-E-CN.6-2026-NGO-209`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-209-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-208`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-208-statement/)** — `2026-01-19` | `2 Pages`
 - `[`UN-E-CN.6-2026-NGO-207`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-207-statement/)** — `2026-01-19` | `2 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,030` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,031` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | **[Part 5 (Current)]**  
-**Last Automated Sync:** `2026-11-26 13:06 UTC`
+**Last Automated Sync:** `2026-11-26 13:25 UTC`
 
 ---
 
@@ -24,7 +24,7 @@
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
 - **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`170` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
-- **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
+- **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`96` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
 - **[Secretariat](https://www.indexdata.org/united-nations/secretariat/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
 - **[United Nations General Assembly](https://www.indexdata.org/united-nations/united-nations-general-assembly/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-general-assembly/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,030 of 7,030)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,031 of 7,031)
 
 ### [UN Development Programme (UNDP)](https://www.indexdata.org/united-nations/un-development-programme-undp/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-development-programme-undp/](https://www.indexdata.org/united-nations/un-development-programme-undp/) | [RSS Feed](https://www.indexdata.org/united-nations/un-development-programme-undp/feed/)
@@ -418,6 +418,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-develo
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-RES-79-155`]` **[Intensification of efforts to end obstetric fistula — resolution](https://www.indexdata.org/a-res-79-155-intensification-of-efforts-to-end-obstetric-fistula-resolution/)** — `2024-12-19` | `9 Pages`
 - `[`UN-A-RES-79-154`]` **[Trafficking in women and girls — resolution](https://www.indexdata.org/a-res-79-154-trafficking-in-women-and-girls-resolution/)** — `2024-12-19` | `14 Pages`
 - `[`UN-A-RES-79-153`]` **[Intensifying global efforts for the elimination of female genital mutilation — resolution](https://www.indexdata.org/a-res-79-153-intensifying-global-efforts-for-the-elimination-of-female-genital-mutilation-resolution/)** — `2024-12-19` | `9 Pages`
 - `[`UN-A-RES-79-152`]` **[Intensification of efforts to prevent and eliminate all forms of violence against women and girls : the digital environment — resolution](https://www.indexdata.org/a-res-79-152-intensification-of-efforts-to-prevent-and-eliminate-all-forms-of-violence-against-women-and-girls-the-digital-environment-resolution/)** — `2024-12-19` | `16 Pages`

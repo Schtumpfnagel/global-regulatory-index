@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,030` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,031` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-26 13:06 UTC`
+**Last Automated Sync:** `2026-11-26 13:25 UTC`
 
 ---
 
@@ -24,7 +24,7 @@
 - **[United Nations Secretariat](https://www.indexdata.org/united-nations/united-nations-secretariat/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-secretariat/feed/)
 - **[UN High Commissioner for Refugees (UNHCR)](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/)** (`170` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/) | [RSS Feed](https://www.indexdata.org/united-nations/un-high-commissioner-for-refugees-unhcr/feed/) | [Wikidata `Q132551`](https://www.wikidata.org/wiki/Q132551)
 - **[UN Economic and Social Council (ECOSOC)](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/)** (`100` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-economic-and-social-council-ecosoc/feed/)
-- **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
+- **[UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)** (`96` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/) | [Wikidata `Q182000`](https://www.wikidata.org/wiki/Q182000)
 - **[Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
 - **[Secretariat](https://www.indexdata.org/united-nations/secretariat/)** (`68` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/secretariat/) | [RSS Feed](https://www.indexdata.org/united-nations/secretariat/feed/)
 - **[United Nations General Assembly](https://www.indexdata.org/united-nations/united-nations-general-assembly/)** (`44` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/united-nations-general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations-general-assembly/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,030)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,031)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1160,7 +1160,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-80-L.88`]` **[Year of International Law, 2028 — draft resolution](https://www.indexdata.org/a-80-l-88-year-of-international-law-2028-draft-resolution/)** — `2026-07-08` | `2 Pages`
 - `[`UN-A-HRC-63-41`]` **[Progress report on the 7th session of the Open-Ended Intergovernmental Working Group to Elaborate the Content of an International Regulatory Framework on the Regulation, Monitoring and Oversight of the Activities of Private Military and Security Companies](https://www.indexdata.org/a-hrc-63-41-progress-report-on-the-7th-session-of-the-open-ended-intergovernmental-working-group-to-elaborate-the-content-of-an-international-regulatory-framework-on-the-regulation-monitoring-and-o/)** — `2026-07-06` | `12 Pages`
 - `[`UN-A-HRC-63-37`]` **[Report of the Working Group on the Right to Development on its 27th session, Geneva, 18-21 May 2026](https://www.indexdata.org/a-hrc-63-37-report-of-the-working-group-on-the-right-to-development-on-its-27th-session-geneva-18-21-may-2026/)** — `2026-07-06` | `20 Pages`
-- `[`UN-A-HRC-63-30-Add.1`]` **[Visit to Botswana — report of the Special Rapporteur on the Rights of Indigenous Peoples on his visit to Botswana](https://www.indexdata.org/a-hrc-63-30-add-1-visit-to-botswana-report-of-the-special-rapporteur-on-the-rights-of-indigenous-peoples-on-his-visit-to-botswana/)** — `2026-07-06` | `22 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
@@ -1732,6 +1731,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/programme
 - `[`UN-DP-2027-2`]` **[Decisions adopted by the Executive Board in 2026 — Executive Board of the United Nations Development Programme, the United Nations Population Fund and the United Nations Office for Project Services](https://www.indexdata.org/dp-2027-2-decisions-adopted-by-the-executive-board-in-2026-executive-board-of-the-united-nations-development-programme-the-united-nations-population-fund-and-the-united-nations-office-for/)** — `2026-09-14` | `32 Pages`
 - `[`UN-DP-2026-24`]` **[Report of the annual session 2026 (8 to 12 June 2026, New York) — Executive Board of the United Nations Development Programme, the United Nations Population Fund and the United Nations Office for Project Services](https://www.indexdata.org/dp-2026-24-report-of-the-annual-session-2026-8-to-12-june-2026-new-york-executive-board-of-the-united-nations-development-programme-the-united-nations-population-fund-and-the-united-na/)** — `2026-07-09` | `16 Pages`
 
+### [UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)
+Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-trade-and-development-unctad/](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/)
+
+- `[`UNCTAD-TFT-MEDIA-4459`]` **[Digital Identity for Trade and Development_ TrainForTrade case studies in South-East Asia – dtlkdb2020d1_en](https://www.indexdata.org/digital-identity-for-trade-and-development_-trainfortrade-case-studies-in-south-east-asia-dtlkdb2020d1_en/)** — `2026-11-01` | `51 Pages`
+- `[`UNCTAD-TFT-MEDIA-3846`]` **[1.1 Course Description SITS 2026](https://www.indexdata.org/1-1-course-description-sits-2026/)** — `2026-10-01` | `2 Pages`
+- `[`UNCTAD-TFT-MEDIA-3842`]` **[3.1 SITS E-learning_Registration Instruction](https://www.indexdata.org/3-1-sits-e-learning_registration-instruction/)** — `2026-10-01` | `5 Pages`
+
 ### [Commission on the Limits of the Continental Shelf](https://www.indexdata.org/united-nations/commission-on-the-limits-of-the-continental-shelf/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/commission-on-the-limits-of-the-continental-shelf/](https://www.indexdata.org/united-nations/commission-on-the-limits-of-the-continental-shelf/) | [RSS Feed](https://www.indexdata.org/united-nations/commission-on-the-limits-of-the-continental-shelf/feed/)
 
@@ -1743,12 +1749,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/secretari
 
 - `[`UN-ST-IC-2026-4`]` **[Membership of the Senior Review Group](https://www.indexdata.org/st-ic-2026-4-membership-of-the-senior-review-group/)** — `2026-08-17` | `2 Pages`
 - `[`UN-4126070`]` **[Senior Officials of the United Nations and Officers of equivalent rank whose duty station is New York &#91;as of 31 July 2026&#93; = — Hauts fonctionnaires des Nations Unies et des fonctionnaires de rang équivalent dont le lieu d'affectation est à New York = Altos funcionarios de las Naciones Unidas y oficiales del mismo rango cuyo lugar de destino es Nueva York](https://www.indexdata.org/4126070-senior-officials-of-the-united-nations-and-officers-of-equivalent-rank-whose-duty-station-is-new-york-as-of-31-july-2026-hauts-fonctionnaires-des-nations-unies-et-des-fonctionn/)** — `2026-07-31` | `35 Pages`
-
-### [UN Trade and Development (UNCTAD)](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/)
-Canonical Authority Archive: [https://www.indexdata.org/united-nations/un-trade-and-development-unctad/](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/) | [RSS Feed](https://www.indexdata.org/united-nations/un-trade-and-development-unctad/feed/)
-
-- `[`UNCTAD-TFT-MEDIA-3846`]` **[1.1 Course Description SITS 2026](https://www.indexdata.org/1-1-course-description-sits-2026/)** — `2026-10-01` | `2 Pages`
-- `[`UNCTAD-TFT-MEDIA-3842`]` **[3.1 SITS E-learning_Registration Instruction](https://www.indexdata.org/3-1-sits-e-learning_registration-instruction/)** — `2026-10-01` | `5 Pages`
 
 ### [United Nations](https://www.indexdata.org/united-nations/united-nations/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/united-nations/](https://www.indexdata.org/united-nations/united-nations/) | [RSS Feed](https://www.indexdata.org/united-nations/united-nations/feed/)
