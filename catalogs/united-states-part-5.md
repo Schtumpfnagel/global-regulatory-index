@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,709` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,714` across `248` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 04:33 UTC`
+**Last Automated Sync:** `2026-11-26 05:51 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`380` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`384` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -76,8 +76,8 @@
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
@@ -264,7 +264,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,709)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,714)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -596,14 +596,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-07164`]` **[Amendment of Class E Airspace; Iron Mountain/Kingsford, MI](https://www.indexdata.org/amendment-of-class-e-airspace-iron-mountain-kingsford-mi-2/)** — `2025-04-25` | `3 Pages`
 - `[`2025-07118`]` **[Modification of Class E Airspace; Yellowstone Regional Airport, Cody, WY](https://www.indexdata.org/modification-of-class-e-airspace-yellowstone-regional-airport-cody-wy-2/)** — `2025-04-25` | `2 Pages`
 - `[`2025-07112`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-helicopters-14/)** — `2025-04-25` | `3 Pages`
-- `[`2025-07111`]` **[Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters-17/)** — `2025-04-25` | `4 Pages`
-- `[`2025-07110`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-121/)** — `2025-04-25` | `3 Pages`
-- `[`2025-06963`]` **[Airworthiness Directives; General Electric Company Engines](https://www.indexdata.org/airworthiness-directives-general-electric-company-engines-14/)** — `2025-04-25` | `4 Pages`
-- `[`2025-06850`]` **[Withdrawal of NPRM; Hickory, NC and Morganton, NC](https://www.indexdata.org/withdrawal-of-nprm-hickory-nc-and-morganton-nc/)** — `2025-04-25` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-16484`]` **[Air Plan Approval; Ohio; 2015 Ozone Moderate Reasonably Available Control Technology SIP](https://www.indexdata.org/air-plan-approval-ohio-2015-ozone-moderate-reasonably-available-control-technology-sip/)** — `2025-08-28` | `6 Pages`
+- `[`2025-16483`]` **[Air Plan Approval; Arkansas; Codification of the State Implementation Plan](https://www.indexdata.org/air-plan-approval-arkansas-codification-of-the-state-implementation-plan-2/)** — `2025-08-28` | `2 Pages`
+- `[`2025-16482`]` **[Air Plan Approval; Pennsylvania; Motor Vehicle Inspection and Maintenance Program Certification for Moderate Nonattainment Under the 2015 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/air-plan-approval-pennsylvania-motor-vehicle-inspection-and-maintenance-program-certification-for-moderate-nonattainment-under-the-2015-ozone-national-ambient-air-quality-standards-2/)** — `2025-08-28` | `8 Pages`
+- `[`2025-16468`]` **[Air Plan Approval; South Dakota; Regional Haze Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-approval-south-dakota-regional-haze-plan-for-the-second-implementation-period/)** — `2025-08-28` | `3 Pages`
+- `[`2025-16467`]` **[Air Plan Approval; Texas; Interstate Transport Requirements for the 2010 SO2 NAAQS](https://www.indexdata.org/air-plan-approval-texas-interstate-transport-requirements-for-the-2010-so2-naaqs/)** — `2025-08-28` | `3 Pages`
 - `[`2025-16466`]` **[Air Plan Approval; California; Mojave Desert Air Quality Management District; Internal Combustion Engines](https://www.indexdata.org/air-plan-approval-california-mojave-desert-air-quality-management-district-internal-combustion-engines/)** — `2025-08-28` | `3 Pages`
 - `[`2025-16360`]` **[Commercial and Industrial Solid Waste Incineration Units: Temporary-Use Incinerators and Air Curtain Incinerators Used in Disaster Recovery](https://www.indexdata.org/commercial-and-industrial-solid-waste-incineration-units-temporary-use-incinerators-and-air-curtain-incinerators-used-in-disaster-recovery/)** — `2025-08-26` | `9 Pages`
 - `[`2025-16357`]` **[Phasedown of Hydrofluorocarbons: Review and Renewal of Eligibility for Application-Specific Allowances](https://www.indexdata.org/phasedown-of-hydrofluorocarbons-review-and-renewal-of-eligibility-for-application-specific-allowances/)** — `2025-08-26` | `49 Pages`
@@ -912,7 +913,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2025-07530`]` **[Safety Zones; Erie, PA; Detroit, MI; Duluth, MN](https://www.indexdata.org/safety-zones-erie-pa-detroit-mi-duluth-mn-2/)** — `2025-05-01` | `3 Pages`
 - `[`2025-07100`]` **[Safety Zone; Recurring Events in Captain of the Port Duluth Zone-Pointe to La Pointe Swim](https://www.indexdata.org/safety-zone-recurring-events-in-captain-of-the-port-duluth-zone-pointe-to-la-pointe-swim/)** — `2025-04-30` | `2 Pages`
 - `[`2025-07333`]` **[Safety Zone; Underwater Lake Bed HAUX/ROV Survey; Straits of Mackinac, MI](https://www.indexdata.org/safety-zone-underwater-lake-bed-haux-rov-survey-straits-of-mackinac-mi/)** — `2025-04-29` | `2 Pages`
-- `[`2025-07067`]` **[Security Zone; Electric Boat Shipyard, Narragansett Bay, Quonset Point, North Kingstown, RI](https://www.indexdata.org/security-zone-electric-boat-shipyard-narragansett-bay-quonset-point-north-kingstown-ri-2/)** — `2025-04-25` | `4 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)

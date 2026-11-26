@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,709` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,714` across `248` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 04:33 UTC`
+**Last Automated Sync:** `2026-11-26 05:51 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,189` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`380` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`384` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -76,8 +76,8 @@
 - **[Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 - **[Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 - **[Forest Service](https://www.indexdata.org/united-states/forest-service/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
+- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)
-- **[State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)** (`39` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 - **[National Park Service](https://www.indexdata.org/united-states/national-park-service/)** (`38` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-park-service/) | [RSS Feed](https://www.indexdata.org/united-states/national-park-service/feed/)
 - **[Mine Safety and Health Administration](https://www.indexdata.org/united-states/mine-safety-and-health-administration/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/mine-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/mine-safety-and-health-administration/feed/)
 - **[Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
@@ -264,7 +264,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,709)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,714)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -396,9 +396,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr11158ih`]` **[H.R. 11158 (IH) - Unaccompanied Children Protection and Accountability Act](https://www.indexdata.org/h-r-11158-ih-unaccompanied-children-protection-and-accountability-act/)** — `2026-11-01` | `9 Pages`
 - `[`US-BILLS-119hr11157ih`]` **[H.R. 11157 (IH) - RSI Safety Act of 2026](https://www.indexdata.org/h-r-11157-ih-rsi-safety-act-of-2026/)** — `2026-11-01` | `33 Pages`
 - `[`US-BILLS-119hr11154ih`]` **[H.R. 11154 (IH) - Fight Fires and Fight Cancer Act](https://www.indexdata.org/h-r-11154-ih-fight-fires-and-fight-cancer-act/)** — `2026-11-01` | `2 Pages`
+- `[`US-BILLS-119hr11109ih`]` **[H.R. 11109 (IH) - Capturing Outcomes and Understanding Nontraditional Trajectories Act of 2026](https://www.indexdata.org/h-r-11109-ih-capturing-outcomes-and-understanding-nontraditional-trajectories-act-of-2026/)** — `2026-11-01` | `6 Pages`
+- `[`US-BILLS-119hr11108ih`]` **[H.R. 11108 (IH) - Gun Theft Prevention Act](https://www.indexdata.org/h-r-11108-ih-gun-theft-prevention-act/)** — `2026-11-01` | `23 Pages`
+- `[`US-BILLS-119hr11102ih`]` **[H.R. 11102 (IH) - Increasing Transparency and Accountability in Federal Spending Act](https://www.indexdata.org/h-r-11102-ih-increasing-transparency-and-accountability-in-federal-spending-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr11098ih`]` **[H.R. 11098 (IH) - Connecting Youth to Jobs Act](https://www.indexdata.org/h-r-11098-ih-connecting-youth-to-jobs-act/)** — `2026-11-01` | `19 Pages`
 - `[`US-BILLS-119hr11062ih`]` **[H.R. 11062 (IH) - Fighting Post-Traumatic Stress Disorder Act of 2026](https://www.indexdata.org/h-r-11062-ih-fighting-post-traumatic-stress-disorder-act-of-2026/)** — `2026-11-01` | `6 Pages`
 - `[`US-BILLS-119hr11061ih`]` **[H.R. 11061 (IH) - Commercial Advertisement Loudness Mitigation Modernization Act of 2026](https://www.indexdata.org/h-r-11061-ih-commercial-advertisement-loudness-mitigation-modernization-act-of-2026/)** — `2026-11-01` | `8 Pages`
+- `[`US-BILLS-119hr11057ih`]` **[H.R. 11057 (IH) - Student Food Security Act of 2026](https://www.indexdata.org/h-r-11057-ih-student-food-security-act-of-2026/)** — `2026-11-01` | `43 Pages`
 - `[`US-BILLS-119hr11053ih`]` **[H.R. 11053 (IH) - To amend the Federal Water Pollution Control Act to provide grants to upgrade or convert small-capacity cesspools for households in the State of Hawaii.](https://www.indexdata.org/h-r-11053-ih-to-amend-the-federal-water-pollution-control-act-to-provide-grants-to-upgrade-or-convert-small-capacity-cesspools-for-households-in-the-state-of-hawaii/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr11052ih`]` **[H.R. 11052 (IH) - To amend the Federal Water Pollution Control Act to establish a Hawaiian Islands Program, and for other purposes.](https://www.indexdata.org/h-r-11052-ih-to-amend-the-federal-water-pollution-control-act-to-establish-a-hawaiian-islands-program-and-for-other-purposes/)** — `2026-11-01` | `8 Pages`
 - `[`US-BILLS-119hr11050ih`]` **[H.R. 11050 (IH) - Support Through Loss Act](https://www.indexdata.org/h-r-11050-ih-support-through-loss-act/)** — `2026-11-01` | `32 Pages`
@@ -710,11 +714,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-20543`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-8/)** — `2026-10-07` | `5 Pages`
 - `[`2026-20479`]` **[Establishment of Class E Airspace; Peoria, IL](https://www.indexdata.org/establishment-of-class-e-airspace-peoria-il/)** — `2026-10-06` | `2 Pages`
 - `[`2026-20473`]` **[Modification of Class E Airspace; Gunnison-Crested Butte Regional Airport, Gunnison, CO](https://www.indexdata.org/modification-of-class-e-airspace-gunnison-crested-butte-regional-airport-gunnison-co/)** — `2026-10-06` | `3 Pages`
-- `[`2026-20411`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-9/)** — `2026-10-05` | `4 Pages`
-- `[`2026-20393`]` **[Airworthiness Directives; DG Aviation GmbH (Type Certificate Previously Held by DG Flugzeugbau GmbH) Gliders](https://www.indexdata.org/airworthiness-directives-dg-aviation-gmbh-type-certificate-previously-held-by-dg-flugzeugbau-gmbh-gliders/)** — `2026-10-05` | `3 Pages`
-- `[`2026-20392`]` **[Overpressure Blast Effects Analysis Burden Reducing Clarification](https://www.indexdata.org/overpressure-blast-effects-analysis-burden-reducing-clarification/)** — `2026-10-05` | `4 Pages`
-- `[`2026-20391`]` **[Lightning Hazard Mitigation Burden-Reducing Exception](https://www.indexdata.org/lightning-hazard-mitigation-burden-reducing-exception/)** — `2026-10-05` | `6 Pages`
-- `[`2026-20388`]` **[Streamlining Flight Safety Analysis Methodology Means of Compliance](https://www.indexdata.org/streamlining-flight-safety-analysis-methodology-means-of-compliance/)** — `2026-10-05` | `10 Pages`
 
 ### [United States Senate](https://www.indexdata.org/united-states/united-states-senate/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-senate/](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
@@ -1119,6 +1118,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 
+- `[`US-HI-DLNR-40749`]` **[C-8Ta-05-10-24](https://www.indexdata.org/c-8ta-05-10-24/)** — `2026-11-01` | `118 Pages`
 - `[`US-HI-DLNR-40682`]` **[Minutes-261023](https://www.indexdata.org/minutes-261023/)** — `2026-11-01` | `8 Pages`
 - `[`US-HI-DLNR-40680`]` **[J-2T-11-13-26](https://www.indexdata.org/j-2t-11-13-26/)** — `2026-11-01` | `14 Pages`
 - `[`US-HI-DLNR-40664`]` **[D-6T-11-13-26-6](https://www.indexdata.org/d-6t-11-13-26-6/)** — `2026-11-01` | `28 Pages`

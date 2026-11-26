@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,293` across `98` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,296` across `98` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | [Part 2](united-kingdom-part-2.md) | **[Part 3 (Current)]**  
-**Last Automated Sync:** `2026-11-26 04:33 UTC`
+**Last Automated Sync:** `2026-11-26 05:51 UTC`
 
 ---
 
@@ -23,7 +23,7 @@
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`143` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`128` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`109` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`112` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
@@ -114,11 +114,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,293 of 3,293)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,296 of 3,296)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2024-716`]` **[The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2024](https://www.indexdata.org/the-procurement-act-2023-commencement-no-3-and-transitional-and-saving-provisions-regulations-2024/)** — `2024-05-22` | `16 Pages`
+- `[`UKSI-2024-752`]` **[The M3 Junction 9 Development Consent Order 2024](https://www.indexdata.org/the-m3-junction-9-development-consent-order-2024/)** — `2024-05-16` | `100 Pages`
 - `[`UKSI-2024-631`]` **[The Church of England (Miscellaneous Provisions) Measure 2024 (Commencement, Transitional and Saving Provisions) Order 2024](https://www.indexdata.org/the-church-of-england-miscellaneous-provisions-measure-2024-commencement-transitional-and-saving-provisions-order-2024/)** — `2024-05-13` | `2 Pages`
 - `[`UKSI-2024-629`]` **[The National Crime Agency (Directed Tasking) Order 2024](https://www.indexdata.org/the-national-crime-agency-directed-tasking-order-2024/)** — `2024-05-09` | `4 Pages`
 - `[`UKSI-2024-625`]` **[The Health and Care Act 2022 (Storage of Gametes and Embryos) (Transitional Provision) Regulations 2024](https://www.indexdata.org/the-health-and-care-act-2022-storage-of-gametes-and-embryos-transitional-provision-regulations-2024/)** — `2024-05-08` | `8 Pages`
@@ -184,6 +186,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2024-705`]` **[The Securitisation (Amendment) Regulations 2024](https://www.indexdata.org/the-securitisation-amendment-regulations-2024/)** — `2024-05-22` | `20 Pages`
 - `[`UKSI-2024-644`]` **[The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024](https://www.indexdata.org/the-sanctions-eu-exit-miscellaneous-amendments-regulations-2024/)** — `2024-05-14` | `28 Pages`
 - `[`UKSI-2024-643`]` **[The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024](https://www.indexdata.org/the-sanctions-eu-exit-miscellaneous-amendments-and-revocations-regulations-2024/)** — `2024-05-14` | `36 Pages`
 - `[`UKSI-2024-638`]` **[The Markets in Financial Instruments (Equivalence) (United States of America) (Commodity Futures Trading Commission) Regulations 2024](https://www.indexdata.org/the-markets-in-financial-instruments-equivalence-united-states-of-america-commodity-futures-trading-commission-regulations-2024/)** — `2024-05-13` | `8 Pages`
