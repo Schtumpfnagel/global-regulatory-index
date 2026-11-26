@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,402` across `102` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,403` across `102` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]** | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-26 20:56 UTC`
+**Last Automated Sync:** `2026-11-26 21:57 UTC`
 
 ---
 
@@ -51,7 +51,7 @@
 - **[Veterinary Medicines Directorate](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/feed/)
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[NHS England](https://www.indexdata.org/united-kingdom/nhs-england/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/nhs-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/nhs-england/feed/)
-- **[Natural England](https://www.indexdata.org/united-kingdom/natural-england/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-england/feed/)
+- **[Natural England](https://www.indexdata.org/united-kingdom/natural-england/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-england/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[Planning Inspectorate](https://www.indexdata.org/united-kingdom/planning-inspectorate/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/planning-inspectorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/planning-inspectorate/feed/)
 - **[UK Parliament — Committee on Fuel Poverty](https://www.indexdata.org/united-kingdom/uk-parliament-committee-on-fuel-poverty/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-parliament-committee-on-fuel-poverty/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-parliament-committee-on-fuel-poverty/feed/)
@@ -118,11 +118,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,402)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,403)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2026-1061`]` **[The Air Navigation (Restriction of Flying) (RAF Fairford, Gloucestershire) (Emergency) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-raf-fairford-gloucestershire-emergency-regulations-2026/)** — `2026-09-30` | `2 Pages`
 - `[`UKSI-2026-1054`]` **[The Air Navigation (Restriction of Flying) (Whelford, Gloucestershire) (Emergency) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-whelford-gloucestershire-emergency-regulations-2026/)** — `2026-09-28` | `2 Pages`
 - `[`UKSI-2026-1049`]` **[The Air Navigation (Restriction of Flying) (Cardiff) (No. 2) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-cardiff-no-2-regulations-2026/)** — `2026-09-28` | `2 Pages`
 - `[`UKSI-2026-1043`]` **[The Air Navigation (Restriction of Flying) (Remembrance Sunday) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-remembrance-sunday-regulations-2026/)** — `2026-09-25` | `3 Pages`
@@ -739,7 +740,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2024-948`]` **[The Trade, Aircraft and Shipping Sanctions (Civil Enforcement) Regulations 2024](https://www.indexdata.org/the-trade-aircraft-and-shipping-sanctions-civil-enforcement-regulations-2024/)** — `2024-09-11` | `20 Pages`
 - `[`UKSI-2024-946`]` **[The Mali (Sanctions) (EU Exit) (Amendment) and Sanctions (Miscellaneous Amendments) Regulations 2024](https://www.indexdata.org/the-mali-sanctions-eu-exit-amendment-and-sanctions-miscellaneous-amendments-regulations-2024/)** — `2024-09-11` | `8 Pages`
 - `[`UKSI-2024-944`]` **[The Iran (Sanctions) (Amendment) Regulations 2024](https://www.indexdata.org/the-iran-sanctions-amendment-regulations-2024/)** — `2024-09-11` | `12 Pages`
-- `[`UKSI-2024-923`]` **[The Central Counterparties (Transitional Provision) (Extension and Amendment) Regulations 2024](https://www.indexdata.org/the-central-counterparties-transitional-provision-extension-and-amendment-regulations-2024/)** — `2024-09-09` | `4 Pages`
 
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)

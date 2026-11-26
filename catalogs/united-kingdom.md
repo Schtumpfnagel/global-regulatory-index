@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,402` across `102` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,403` across `102` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-26 20:56 UTC`
+**Last Automated Sync:** `2026-11-26 21:57 UTC`
 
 ---
 
@@ -51,7 +51,7 @@
 - **[Veterinary Medicines Directorate](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/)** (`12` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/veterinary-medicines-directorate/feed/)
 - **[HM Passport Office](https://www.indexdata.org/united-kingdom/hm-passport-office/)** (`11` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-passport-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-passport-office/feed/)
 - **[NHS England](https://www.indexdata.org/united-kingdom/nhs-england/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/nhs-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/nhs-england/feed/)
-- **[Natural England](https://www.indexdata.org/united-kingdom/natural-england/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-england/feed/)
+- **[Natural England](https://www.indexdata.org/united-kingdom/natural-england/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-england/feed/)
 - **[Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/rochdale-borough-council/) | [RSS Feed](https://www.indexdata.org/united-kingdom/rochdale-borough-council/feed/)
 - **[Planning Inspectorate](https://www.indexdata.org/united-kingdom/planning-inspectorate/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/planning-inspectorate/) | [RSS Feed](https://www.indexdata.org/united-kingdom/planning-inspectorate/feed/)
 - **[UK Parliament — Committee on Fuel Poverty](https://www.indexdata.org/united-kingdom/uk-parliament-committee-on-fuel-poverty/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-parliament-committee-on-fuel-poverty/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-parliament-committee-on-fuel-poverty/feed/)
@@ -118,7 +118,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,402)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,403)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -1272,28 +1272,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/offshore-
 - `[`UK-GOV-911d8ca9-e434-4931-b7f3-28bd7c1bf992-79`]` **[Deep Drilling Screening Directions – 2026 — Hamilton A Platform - INJECTOR WELL 110/13-H2 - Liverpool Bay CCS Limited - DR/2605/0 - Decision Date 17/03/2026](https://www.indexdata.org/deep-drilling-screening-directions-2026-hamilton-a-platform-injector-well-110-13-h2-liverpool-bay-ccs-limited-dr-2605-0-decision-date-17-03-2026/)** — `2026-11-16` | `16 Pages`
 - `[`UK-GOV-911d8ca9-e434-4931-b7f3-28bd7c1bf992-78`]` **[Deep Drilling Screening Directions – 2026 — PENGUIN WEST, DRILLING PRODUCER WELL 211/13a- PAC (A06) - Adura Operations Limited - DR/2636/0 - Decision date 18/03/2026](https://www.indexdata.org/deep-drilling-screening-directions-2026-penguin-west-drilling-producer-well-211-13a-pac-a06-adura-operations-limited-dr-2636-0-decision-date-18-03-2026/)** — `2026-11-16` | `11 Pages`
 
-### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
-
-- `[`UKSI-2026-1117`]` **[The Over the Counter Derivatives (Intragroup Transactions) Regulations 2026](https://www.indexdata.org/the-over-the-counter-derivatives-intragroup-transactions-regulations-2026/)** — `2026-10-22` | `7 Pages`
-- `[`UKSI-2026-1116`]` **[The Overseas Prudential Requirements Regime (Credit Institutions and Investment Firms) Regulations 2026](https://www.indexdata.org/the-overseas-prudential-requirements-regime-credit-institutions-and-investment-firms-regulations-2026/)** — `2026-10-22` | `13 Pages`
-- `[`UKSI-2026-1111`]` **[The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-amendment-regulations-2026/)** — `2026-10-21` | `2 Pages`
-- `[`UKSI-2026-1103`]` **[The Code of Practice (Right of Trade Unions to Access Workplaces) Order 2026](https://www.indexdata.org/the-code-of-practice-right-of-trade-unions-to-access-workplaces-order-2026/)** — `2026-10-19` | `4 Pages`
-- `[`UKSI-2026-1101`]` **[The Trade Unions (Right to Access Workplaces) Regulations 2026](https://www.indexdata.org/the-trade-unions-right-to-access-workplaces-regulations-2026/)** — `2026-10-15` | `12 Pages`
-- `[`UKSI-2026-1099`]` **[The Protection Against Detriment (Industrial Action) Regulations 2026](https://www.indexdata.org/the-protection-against-detriment-industrial-action-regulations-2026/)** — `2026-10-15` | `2 Pages`
-- `[`UKSI-2026-1098`]` **[The Authorised Investigators (Complaints and Misconduct) Regulations 2026](https://www.indexdata.org/the-authorised-investigators-complaints-and-misconduct-regulations-2026/)** — `2026-10-14` | `68 Pages`
-- `[`UKSI-2026-1097`]` **[The Scottish Administration (Offices) Order 2026](https://www.indexdata.org/the-scottish-administration-offices-order-2026/)** — `2026-10-14` | `2 Pages`
-- `[`UKSI-2026-1095`]` **[The Scotland Act 1998 (Specification of Functions and Transfer of Property etc.) (Amendment) Order 2026](https://www.indexdata.org/the-scotland-act-1998-specification-of-functions-and-transfer-of-property-etc-amendment-order-2026/)** — `2026-10-14` | `4 Pages`
-- `[`UKSI-2026-1080`]` **[The Northern Ireland Assembly (Minimum Period) (Amendment) Order 2026](https://www.indexdata.org/the-northern-ireland-assembly-minimum-period-amendment-order-2026/)** — `2026-10-13` | `2 Pages`
-- `[`UKSI-2026-1081`]` **[The Anti-social Behaviour (Provision of Information) Regulations 2026](https://www.indexdata.org/the-anti-social-behaviour-provision-of-information-regulations-2026/)** — `2026-10-12` | `8 Pages`
-- `[`UKSI-2026-1078`]` **[The Licensing Act 2003 (Applications of Potential Strategic Importance to Greater London etc and Consequential Amendment) Regulations 2026](https://www.indexdata.org/the-licensing-act-2003-applications-of-potential-strategic-importance-to-greater-london-etc-and-consequential-amendment-regulations-2026/)** — `2026-10-12` | `8 Pages`
-- `[`UKSI-2026-1086`]` **[The Steeple Renewables Project Order 2026](https://www.indexdata.org/the-steeple-renewables-project-order-2026/)** — `2026-10-09` | `156 Pages`
-- `[`UKSI-2026-1074`]` **[The Green Hill Solar Farm Order 2026](https://www.indexdata.org/the-green-hill-solar-farm-order-2026/)** — `2026-10-08` | `208 Pages`
-- `[`UKSI-2026-1064`]` **[The Air Navigation (Restriction of Flying) (Tottenham, London) (No. 2) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-tottenham-london-no-2-regulations-2026/)** — `2026-10-02` | `2 Pages`
-- `[`UKSI-2026-1059`]` **[The Air Navigation (Restriction of Flying) (Windsor) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-windsor-regulations-2026/)** — `2026-10-02` | `3 Pages`
-- `[`UKSI-2026-1062`]` **[The Access to the Countryside (Coastal Margin) (Kimmeridge Bay to Highcliffe) (No. 2) Order 2026](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-kimmeridge-bay-to-highcliffe-no-2-order-2026/)** — `2026-10-01` | `4 Pages`
-- `[`UKSI-2026-1061`]` **[The Air Navigation (Restriction of Flying) (RAF Fairford, Gloucestershire) (Emergency) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-raf-fairford-gloucestershire-emergency-regulations-2026/)** — `2026-09-30` | `2 Pages`
-
 ### [Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/competition-and-markets-authority/](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
 
@@ -1335,6 +1313,27 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/governmen
 - `[`UK-GOV-811b1c6c-07a7-423a-8cf1-8f0a73506927-8`]` **[GLD Staff FOI releases — 24 509 Breakdown of legal staff who resign Final response](https://www.indexdata.org/gld-staff-foi-releases-24-509-breakdown-of-legal-staff-who-resign-final-response/)** — `2026-11-26` | `2 Pages`
 - `[`UK-GOV-811b1c6c-07a7-423a-8cf1-8f0a73506927-7`]` **[GLD Staff FOI releases — 24 501 GLD members of staff providing general advisory and legislation services to DWP](https://www.indexdata.org/gld-staff-foi-releases-24-501-gld-members-of-staff-providing-general-advisory-and-legislation-services-to-dwp/)** — `2026-11-26` | `2 Pages`
 - `[`UK-GOV-811b1c6c-07a7-423a-8cf1-8f0a73506927-63`]` **[GLD Staff FOI releases — 25 138 Tied to 25 115 Internal Guidance on report corruption complaints legal risk](https://www.indexdata.org/gld-staff-foi-releases-25-138-tied-to-25-115-internal-guidance-on-report-corruption-complaints-legal-risk/)** — `2026-11-26` | `3 Pages`
+
+### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
+
+- `[`UKSI-2026-1117`]` **[The Over the Counter Derivatives (Intragroup Transactions) Regulations 2026](https://www.indexdata.org/the-over-the-counter-derivatives-intragroup-transactions-regulations-2026/)** — `2026-10-22` | `7 Pages`
+- `[`UKSI-2026-1116`]` **[The Overseas Prudential Requirements Regime (Credit Institutions and Investment Firms) Regulations 2026](https://www.indexdata.org/the-overseas-prudential-requirements-regime-credit-institutions-and-investment-firms-regulations-2026/)** — `2026-10-22` | `13 Pages`
+- `[`UKSI-2026-1111`]` **[The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-amendment-regulations-2026/)** — `2026-10-21` | `2 Pages`
+- `[`UKSI-2026-1103`]` **[The Code of Practice (Right of Trade Unions to Access Workplaces) Order 2026](https://www.indexdata.org/the-code-of-practice-right-of-trade-unions-to-access-workplaces-order-2026/)** — `2026-10-19` | `4 Pages`
+- `[`UKSI-2026-1101`]` **[The Trade Unions (Right to Access Workplaces) Regulations 2026](https://www.indexdata.org/the-trade-unions-right-to-access-workplaces-regulations-2026/)** — `2026-10-15` | `12 Pages`
+- `[`UKSI-2026-1099`]` **[The Protection Against Detriment (Industrial Action) Regulations 2026](https://www.indexdata.org/the-protection-against-detriment-industrial-action-regulations-2026/)** — `2026-10-15` | `2 Pages`
+- `[`UKSI-2026-1098`]` **[The Authorised Investigators (Complaints and Misconduct) Regulations 2026](https://www.indexdata.org/the-authorised-investigators-complaints-and-misconduct-regulations-2026/)** — `2026-10-14` | `68 Pages`
+- `[`UKSI-2026-1097`]` **[The Scottish Administration (Offices) Order 2026](https://www.indexdata.org/the-scottish-administration-offices-order-2026/)** — `2026-10-14` | `2 Pages`
+- `[`UKSI-2026-1095`]` **[The Scotland Act 1998 (Specification of Functions and Transfer of Property etc.) (Amendment) Order 2026](https://www.indexdata.org/the-scotland-act-1998-specification-of-functions-and-transfer-of-property-etc-amendment-order-2026/)** — `2026-10-14` | `4 Pages`
+- `[`UKSI-2026-1080`]` **[The Northern Ireland Assembly (Minimum Period) (Amendment) Order 2026](https://www.indexdata.org/the-northern-ireland-assembly-minimum-period-amendment-order-2026/)** — `2026-10-13` | `2 Pages`
+- `[`UKSI-2026-1081`]` **[The Anti-social Behaviour (Provision of Information) Regulations 2026](https://www.indexdata.org/the-anti-social-behaviour-provision-of-information-regulations-2026/)** — `2026-10-12` | `8 Pages`
+- `[`UKSI-2026-1078`]` **[The Licensing Act 2003 (Applications of Potential Strategic Importance to Greater London etc and Consequential Amendment) Regulations 2026](https://www.indexdata.org/the-licensing-act-2003-applications-of-potential-strategic-importance-to-greater-london-etc-and-consequential-amendment-regulations-2026/)** — `2026-10-12` | `8 Pages`
+- `[`UKSI-2026-1086`]` **[The Steeple Renewables Project Order 2026](https://www.indexdata.org/the-steeple-renewables-project-order-2026/)** — `2026-10-09` | `156 Pages`
+- `[`UKSI-2026-1074`]` **[The Green Hill Solar Farm Order 2026](https://www.indexdata.org/the-green-hill-solar-farm-order-2026/)** — `2026-10-08` | `208 Pages`
+- `[`UKSI-2026-1064`]` **[The Air Navigation (Restriction of Flying) (Tottenham, London) (No. 2) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-tottenham-london-no-2-regulations-2026/)** — `2026-10-02` | `2 Pages`
+- `[`UKSI-2026-1059`]` **[The Air Navigation (Restriction of Flying) (Windsor) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-windsor-regulations-2026/)** — `2026-10-02` | `3 Pages`
+- `[`UKSI-2026-1062`]` **[The Access to the Countryside (Coastal Margin) (Kimmeridge Bay to Highcliffe) (No. 2) Order 2026](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-kimmeridge-bay-to-highcliffe-no-2-order-2026/)** — `2026-10-01` | `4 Pages`
 
 ### [UK Visas and Immigration](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/feed/)
@@ -1584,6 +1583,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/natural-e
 - `[`UK-DGOV-5ae2af0c-136-d5b9710a-77c`]` **[SSSI Impact Risk Zones (England) — SSSI IRZ User Guidance v5.4](https://www.indexdata.org/sssi-impact-risk-zones-england-sssi-irz-user-guidance-v5-4/)** — `2026-11-26` | `10 Pages`
 - `[`UK-DGOV-5ae2af0c-136-71f6062d-70c`]` **[SSSI Impact Risk Zones (England) — SSSI_IRZs_Summary_External_Download_Spatial_Metadata.pdf](https://www.indexdata.org/sssi-impact-risk-zones-england-sssi_irzs_summary_external_download_spatial_metadata-pdf/)** — `2026-11-26` | `4 Pages`
 - `[`UK-DGOV-5ae2af0c-136-63511b79-d96`]` **[SSSI Impact Risk Zones (England) — SSSI IRZ User Guidance v5.4 02Apr25.pdf](https://www.indexdata.org/sssi-impact-risk-zones-england-sssi-irz-user-guidance-v5-4-02apr25-pdf/)** — `2026-11-26` | `10 Pages`
+- `[`UK-DGOV-4b6ddab7-6c0-7e516053-4dc`]` **[Priority Habitats Inventory (England) — Priority_Habitats_Inventory_Spatial_Metadata.pdf](https://www.indexdata.org/priority-habitats-inventory-england-priority_habitats_inventory_spatial_metadata-pdf/)** — `2026-11-26` | `3 Pages`
 - `[`UK-GOV-db6d6399-49b9-403d-8032-a278629285fd-1`]` **[King Charles III England Coast Path at Ferry Road, Isle of Sheppey: comment on proposals to change the approved route — Ferry Road, Isle of Sheppey variation report (VR39)](https://www.indexdata.org/king-charles-iii-england-coast-path-at-ferry-road-isle-of-sheppey-comment-on-proposals-to-change-the-approved-route-ferry-road-isle-of-sheppey-variation-report-vr39/)** — `2026-11-10` | `10 Pages`
 
 ### [Rochdale Borough Council](https://www.indexdata.org/united-kingdom/rochdale-borough-council/)
