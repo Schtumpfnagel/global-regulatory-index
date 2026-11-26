@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,296` across `98` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,298` across `98` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-26 05:51 UTC`
+**Last Automated Sync:** `2026-11-26 07:03 UTC`
 
 ---
 
@@ -32,7 +32,7 @@
 - **[Ministry of Defence](https://www.indexdata.org/united-kingdom/ministry-of-defence/)** (`75` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-defence/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-defence/feed/)
 - **[HM Government](https://www.indexdata.org/united-kingdom/hm-government/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`47` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
-- **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
+- **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
 - **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
 - **[HM Land Registry](https://www.indexdata.org/united-kingdom/hm-land-registry/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-land-registry/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-land-registry/feed/)
@@ -67,13 +67,13 @@
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
 - **[Teaching Regulation Agency](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/feed/)
 - **[Border Force](https://www.indexdata.org/united-kingdom/border-force/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/border-force/) | [RSS Feed](https://www.indexdata.org/united-kingdom/border-force/feed/)
+- **[Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
 - **[Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
 - **[Homes England](https://www.indexdata.org/united-kingdom/homes-england/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/homes-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/homes-england/feed/)
 - **[UK Health Security Agency](https://www.indexdata.org/united-kingdom/uk-health-security-agency/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-health-security-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-health-security-agency/feed/)
 - **[UK Parliament — Regulatory Policy Committee](https://www.indexdata.org/united-kingdom/uk-parliament-regulatory-policy-committee/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-parliament-regulatory-policy-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-parliament-regulatory-policy-committee/feed/)
 - **[Companies House](https://www.indexdata.org/united-kingdom/companies-house/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/companies-house/) | [RSS Feed](https://www.indexdata.org/united-kingdom/companies-house/feed/)
 - **[Education and Skills Funding Agency](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/education-and-skills-funding-agency/feed/)
-- **[Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
 - **[Independent Chief Inspector of Borders and Immigration](https://www.indexdata.org/united-kingdom/independent-chief-inspector-of-borders-and-immigration/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/independent-chief-inspector-of-borders-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/independent-chief-inspector-of-borders-and-immigration/feed/)
 - **[Marine Accident Investigation Branch](https://www.indexdata.org/united-kingdom/marine-accident-investigation-branch/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-accident-investigation-branch/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-accident-investigation-branch/feed/)
 - **[Office of Communications (OFCOM)](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-communications-ofcom/feed/)
@@ -114,7 +114,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,296)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,298)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -953,7 +953,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-1020`]` **[The Nature Restoration Levy Regulations 2026](https://www.indexdata.org/the-nature-restoration-levy-regulations-2026/)** — `2026-09-10` | `40 Pages`
 - `[`UKSI-2026-998`]` **[The Response to the Committee on Climate Change Report (Extension of Period) Order 2026](https://www.indexdata.org/the-response-to-the-committee-on-climate-change-report-extension-of-period-order-2026/)** — `2026-09-07` | `2 Pages`
 - `[`UKSI-2026-849`]` **[The REACH (Amendment) (No. 2) Regulations 2026](https://www.indexdata.org/the-reach-amendment-no-2-regulations-2026/)** — `2026-07-16` | `4 Pages`
-- `[`UKSI-2026-843`]` **[The March and Euximoor Water Management Board Order 2026](https://www.indexdata.org/the-march-and-euximoor-water-management-board-order-2026/)** — `2026-07-16` | `8 Pages`
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -1003,7 +1002,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2026-872`]` **[The Infected Blood Compensation Scheme (Amendment) Regulations 2026](https://www.indexdata.org/the-infected-blood-compensation-scheme-amendment-regulations-2026/)** — `2026-07-23` | `16 Pages`
 - `[`UKSI-2026-847`]` **[The National Security Act 2023 (Designated Bodies) Regulations 2026](https://www.indexdata.org/the-national-security-act-2023-designated-bodies-regulations-2026/)** — `2026-07-16` | `4 Pages`
 - `[`UKSI-2026-845`]` **[The Warboys, Somersham and Pidley Internal Drainage Board (Reconstitution) Order 2026](https://www.indexdata.org/the-warboys-somersham-and-pidley-internal-drainage-board-reconstitution-order-2026/)** — `2026-07-16` | `4 Pages`
-- `[`UKSI-2026-842`]` **[The M25 Junction 10/A3 Wisley Interchange Development Consent (Amendment) Order 2026](https://www.indexdata.org/the-m25-junction-10-a3-wisley-interchange-development-consent-amendment-order-2026-2/)** — `2026-07-16` | `3 Pages`
 
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
@@ -1095,6 +1093,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/marine-management-organisation/](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
 
+- `[`UK-GOV-e6d93f7e-7586-4b32-835a-ff3959c82bc2-1`]` **[Marine non licensable activities: guidance, sites and evidence — Management of Marine Non-Licensable Activities](https://www.indexdata.org/marine-non-licensable-activities-guidance-sites-and-evidence-management-of-marine-non-licensable-activities/)** — `2026-11-25` | `7 Pages`
 - `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-8`]` **[United Kingdom Single Issuing Authority (UKSIA) — NEAFC Vessel Licence Conditions (UK Vessels) 2022](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-neafc-vessel-licence-conditions-uk-vessels-2022/)** — `2026-11-19` | `14 Pages`
 - `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-79`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Vessel Licence - External Waters (NAFO -COD 3M) Conditions 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-vessel-licence-external-waters-nafo-cod-3m-conditions-2024/)** — `2026-11-19` | `11 Pages`
 - `[`UK-GOV-ff657fab-7ecc-42e2-b646-c7802f50dc80-78`]` **[United Kingdom Single Issuing Authority (UKSIA) — UK Foreign Vessel Licence (NOR Vessels) Variation 1 Conditions 26 March 2024](https://www.indexdata.org/united-kingdom-single-issuing-authority-uksia-uk-foreign-vessel-licence-nor-vessels-variation-1-conditions-26-march-2024/)** — `2026-11-19` | `21 Pages`
@@ -1769,6 +1768,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/border-fo
 - `[`UK-GOV-5dc53c03-7631-11e4-a3cb-005056011aef-2`]` **[Providing information about international general aviation flights — Authority to carry scheme](https://www.indexdata.org/providing-information-about-international-general-aviation-flights-authority-to-carry-scheme/)** — `2026-11-19` | `26 Pages`
 - `[`UK-GOV-5dc53c03-7631-11e4-a3cb-005056011aef-1`]` **[Providing information about international general aviation flights — General aviation guidance](https://www.indexdata.org/providing-information-about-international-general-aviation-flights-general-aviation-guidance/)** — `2026-11-19` | `26 Pages`
 
+### [Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/forestry-commission/](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
+
+- `[`UK-DGOV-fe2894f3-322-ca0433ae-158`]` **[National Trees Outside Woodland Map - Version 2 — Trees_Outside_Woodland_v2_Report.pdf](https://www.indexdata.org/national-trees-outside-woodland-map-version-2-trees_outside_woodland_v2_report-pdf/)** — `2026-11-25` | `30 Pages`
+- `[`UK-GOV-cb3a533d-3c44-4af3-b90b-f0ed9a33130a-5`]` **[Sweet chestnut blight: identification, reporting and control — Sweet chestnut blight notice and map of the demarcated area (November 2026)](https://www.indexdata.org/sweet-chestnut-blight-identification-reporting-and-control-sweet-chestnut-blight-notice-and-map-of-the-demarcated-area-november-2026/)** — `2026-11-10` | `5 Pages`
+- `[`UK-GOV-cb3a533d-3c44-4af3-b90b-f0ed9a33130a-4`]` **[Sweet chestnut blight: identification, reporting and control — Sweet chestnut blight notice (August 2026)](https://www.indexdata.org/sweet-chestnut-blight-identification-reporting-and-control-sweet-chestnut-blight-notice-august-2026/)** — `2026-11-10` | `5 Pages`
+
 ### [Government Commercial Function](https://www.indexdata.org/united-kingdom/government-commercial-function/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/government-commercial-function/](https://www.indexdata.org/united-kingdom/government-commercial-function/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-commercial-function/feed/)
 
@@ -1808,12 +1814,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/education
 
 - `[`UK-DGOV-6f979630-d80-df99a605-c41`]` **[Learning Aim Reference Service — LARS table and field definitions: version 010 (applicable from August 2024)](https://www.indexdata.org/learning-aim-reference-service-lars-table-and-field-definitions-version-010-applicable-from-august-2024/)** — `2026-11-12` | `33 Pages`
 - `[`UK-DGOV-6f979630-d80-189407ef-5e2`]` **[Learning Aim Reference Service — LARS table and field definitions version 011 applicable from August 2025](https://www.indexdata.org/learning-aim-reference-service-lars-table-and-field-definitions-version-011-applicable-from-august-2025/)** — `2026-11-12` | `48 Pages`
-
-### [Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/forestry-commission/](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
-
-- `[`UK-GOV-cb3a533d-3c44-4af3-b90b-f0ed9a33130a-5`]` **[Sweet chestnut blight: identification, reporting and control — Sweet chestnut blight notice and map of the demarcated area (November 2026)](https://www.indexdata.org/sweet-chestnut-blight-identification-reporting-and-control-sweet-chestnut-blight-notice-and-map-of-the-demarcated-area-november-2026/)** — `2026-11-10` | `5 Pages`
-- `[`UK-GOV-cb3a533d-3c44-4af3-b90b-f0ed9a33130a-4`]` **[Sweet chestnut blight: identification, reporting and control — Sweet chestnut blight notice (August 2026)](https://www.indexdata.org/sweet-chestnut-blight-identification-reporting-and-control-sweet-chestnut-blight-notice-august-2026/)** — `2026-11-10` | `5 Pages`
 
 ### [Independent Chief Inspector of Borders and Immigration](https://www.indexdata.org/united-kingdom/independent-chief-inspector-of-borders-and-immigration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/independent-chief-inspector-of-borders-and-immigration/](https://www.indexdata.org/united-kingdom/independent-chief-inspector-of-borders-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/independent-chief-inspector-of-borders-and-immigration/feed/)
