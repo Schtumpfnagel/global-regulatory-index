@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,028` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,029` across `171` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-nations-part-2.md) | [Part 3](united-nations-part-3.md) | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-26 09:14 UTC`
+**Last Automated Sync:** `2026-11-26 10:12 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`539` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`498` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`499` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,7 +187,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,028)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 7,029)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
@@ -1161,7 +1161,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-a
 - `[`UN-A-HRC-63-37`]` **[Report of the Working Group on the Right to Development on its 27th session, Geneva, 18-21 May 2026](https://www.indexdata.org/a-hrc-63-37-report-of-the-working-group-on-the-right-to-development-on-its-27th-session-geneva-18-21-may-2026/)** — `2026-07-06` | `20 Pages`
 - `[`UN-A-HRC-63-30-Add.1`]` **[Visit to Botswana — report of the Special Rapporteur on the Rights of Indigenous Peoples on his visit to Botswana](https://www.indexdata.org/a-hrc-63-30-add-1-visit-to-botswana-report-of-the-special-rapporteur-on-the-rights-of-indigenous-peoples-on-his-visit-to-botswana/)** — `2026-07-06` | `22 Pages`
 - `[`UN-A-HRC-63-27`]` **[Forever chemicals and human rights — report of the Special Rapporteur on the Implications for Human Rights of the Environmentally Sound Management and Disposal of Hazardous Substances and Wastes, Marcos Orellana](https://www.indexdata.org/a-hrc-63-27-forever-chemicals-and-human-rights-report-of-the-special-rapporteur-on-the-implications-for-human-rights-of-the-environmentally-sound-management-and-disposal-of-hazardous-subst/)** — `2026-07-06` | `20 Pages`
-- `[`UN-A-HRC-63-25`]` **[Denialism, negationism and revisionism of serious violations of human rights and humanitarian law in transitional justice contexts — report of the Special Rapporteur on the Promotion of Truth, Justice, Reparation and Guarantees of Non-Recurrence, Bernard Duhaime](https://www.indexdata.org/a-hrc-63-25-denialism-negationism-and-revisionism-of-serious-violations-of-human-rights-and-humanitarian-law-in-transitional-justice-contexts-report-of-the-special-rapporteur-on-the-promo/)** — `2026-07-06` | `19 Pages`
 
 ### [Security Council](https://www.indexdata.org/united-nations/security-council/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-council/](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
@@ -1343,6 +1342,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/security-
 ### [Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/human-rights-bodies/](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 
+- `[`UN-CRC-C-NPL-RQ-6-7`]` **[Replies of Nepal to the list of issues in relation to its combined 6th and 7th periodic reports — Convention on the Rights of the Child](https://www.indexdata.org/crc-c-npl-rq-6-7-replies-of-nepal-to-the-list-of-issues-in-relation-to-its-combined-6th-and-7th-periodic-reports-convention-on-the-rights-of-the-child/)** — `2026-11-26` | `21 Pages`
 - `[`UN-CCPR-C-146-D-4095-2022`]` **[Decision adopted by the Committee under the Optional Protocol, concerning communication No. 4095/2022 — Human Rights Committee](https://www.indexdata.org/ccpr-c-146-d-4095-2022-decision-adopted-by-the-committee-under-the-optional-protocol-concerning-communication-no-4095-2022-human-rights-committee/)** — `2026-11-26` | `2 Pages`
 - `[`UN-CCPR-C-JAM-CO-5`]` **[Concluding observations on the 5th periodic report of Jamaica — Human Rights Committee](https://www.indexdata.org/ccpr-c-jam-co-5-concluding-observations-on-the-5th-periodic-report-of-jamaica-human-rights-committee/)** — `2026-11-25` | `16 Pages`
 - `[`UN-CERD-C-CAN-24-25`]` **[Combined 24th and 25th periodic reports submitted by Canada under article 9 of the Convention, due in 2021 — International Convention on the Elimination of All Forms of Racial Discrimination](https://www.indexdata.org/cerd-c-can-24-25-combined-24th-and-25th-periodic-reports-submitted-by-canada-under-article-9-of-the-convention-due-in-2021-international-convention-on-the-elimination-of-all-forms-of-raci/)** — `2026-11-19` | `31 Pages`
