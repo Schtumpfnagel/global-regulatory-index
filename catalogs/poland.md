@@ -5,21 +5,21 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/poland/feed/](https://www.indexdata.org/poland/feed/)  
 **Wikidata Sovereign Entity:** [`Q36`](https://www.wikidata.org/wiki/Q36)  
 **Governing Open-Government Framework:** *Polish Copyright Act (Dz.U. 1994 nr 24 poz. 83, Art. 4) & Open Data Act (Dz.U. 2021 poz. 1641)*  
-**Total Indexed Dossiers in Poland:** `44` across `4` issuing authorities  
-**Last Automated Sync:** `2026-11-26 03:07 UTC`
+**Total Indexed Dossiers in Poland:** `46` across `4` issuing authorities  
+**Last Automated Sync:** `2026-11-26 03:30 UTC`
 
 ---
 
 ## Issuing Authorities in Poland (4 Authorities)
 
 - **[Polish Investment and Trade Agency (PAIH)](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/) | [RSS Feed](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/feed/)
-- **[Chancellery of the Prime Minister of Poland](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/) | [RSS Feed](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/feed/)
+- **[Chancellery of the Prime Minister of Poland](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/) | [RSS Feed](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/feed/)
 - **[Ministry of Science and Higher Education (POL-on)](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/) | [RSS Feed](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/feed/)
 - **[Polish National Energy Conservation Agency](https://www.indexdata.org/poland/polish-national-energy-conservation-agency/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/poland/polish-national-energy-conservation-agency/) | [RSS Feed](https://www.indexdata.org/poland/polish-national-energy-conservation-agency/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–44 of 44)
+## Indexed Statutory & Regulatory Dossiers (Records 1–46 of 46)
 
 ### [Polish Investment and Trade Agency (PAIH)](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/)
 Canonical Authority Archive: [https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/) | [RSS Feed](https://www.indexdata.org/poland/polish-investment-and-trade-agency-paih/feed/)
@@ -68,8 +68,10 @@ Canonical Authority Archive: [https://www.indexdata.org/poland/polish-investment
 ### [Chancellery of the Prime Minister of Poland](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/)
 Canonical Authority Archive: [https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/) | [RSS Feed](https://www.indexdata.org/poland/chancellery-of-the-prime-minister-of-poland/feed/)
 
+- `[`PL-DANE-DS-5526`]` **[Opracowanie innowacyjnego testu do diagnostyki ran pooperacyjnych z wykorzystaniem technologii sekwencjonowania nowej generacji NGS](https://www.indexdata.org/opracowanie-innowacyjnego-testu-do-diagnostyki-ran-pooperacyjnych-z-wykorzystaniem-technologii-sekwencjonowania-nowej-generacji-ngs/)** — `2025-08-22` | `230 Pages`
 - `[`PL-DANE-DS-5179`]` **[Walidacja programu XFLR5](https://www.indexdata.org/walidacja-programu-xflr5/)** — `2025-07-30` | `5 Pages`
 - `[`PL-DANE-DS-4346`]` **[Study of machinability and processing of synthetic materials](https://www.indexdata.org/study-of-machinability-and-processing-of-synthetic-materials/)** — `2024-06-25` | `28 Pages`
+- `[`PL-DANE-DS-3283`]` **[RESULTS OF INDUSTRIAL RESEARCH AND EXPERIMENTAL DESIGN, ANALYSIS AND EXPERIMENTAL TESTS OF A MULTIFUNCTIONAL MECHATRONIC DEVICE FOR THE SAFE AND FAST HORIZONTAL TRANSPORTATION OF MOVING STRIPS](https://www.indexdata.org/results-of-industrial-research-and-experimental-design-analysis-and-experimental-tests-of-a-multifunctional-mechatronic-device-for-the-safe-and-fast-horizontal-transportation-of-moving-strips/)** — `2023-07-30` | `58 Pages`
 
 ### [Ministry of Science and Higher Education (POL-on)](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/)
 Canonical Authority Archive: [https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/) | [RSS Feed](https://www.indexdata.org/poland/ministry-of-science-and-higher-education-pol-on/feed/)

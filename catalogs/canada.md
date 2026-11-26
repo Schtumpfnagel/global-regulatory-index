@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,396` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,397` across `34` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-26 03:07 UTC`
+**Last Automated Sync:** `2026-11-26 03:30 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
 - **[Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)** (`360` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 - **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** (`156` dossiers) — [Authority Archive](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/)
-- **[Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
+- **[Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)** (`140` dossiers) — [Authority Archive](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
 - **[Health Canada](https://www.indexdata.org/canada/health-canada/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)
 - **[Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)** (`81` dossiers) — [Authority Archive](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
 - **[Environment and Climate Change Canada](https://www.indexdata.org/canada/environment-and-climate-change-canada/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/canada/environment-and-climate-change-canada/) | [RSS Feed](https://www.indexdata.org/canada/environment-and-climate-change-canada/feed/)
@@ -50,7 +50,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,396)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 5,397)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -955,7 +955,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`SOR-78-213`]` **[National Parks General Regulations](https://www.indexdata.org/national-parks-general-regulations/)** — `2026-09-30` | `20 Pages`
 - `[`SOR-78-21`]` **[Indian Economic Development Guarantee Order](https://www.indexdata.org/indian-economic-development-guarantee-order/)** — `2026-09-30` | `13 Pages`
 - `[`SOR-78-204`]` **[Beef Calf Stabilization Regulations](https://www.indexdata.org/beef-calf-stabilization-regulations/)** — `2026-09-30` | `3 Pages`
-- `[`SOR-78-168`]` **[Apricot Stabilization Regulations, 1977](https://www.indexdata.org/apricot-stabilization-regulations-1977/)** — `2026-09-30` | `3 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1326,6 +1325,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-fin
 ### [Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/natural-resources-canada/](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
 
+- `[`CA-FOSRC-1845-352106`]` **[Investigation into the source of sulphate for H2S in shallow groundwater in the western part of the Niagara Peninsula, southern Ontario](https://www.indexdata.org/investigation-into-the-source-of-sulphate-for-h2s-in-shallow-groundwater-in-the-western-part-of-the-niagara-peninsula-southern-ontario/)** — `2026-11-25` | `53 Pages`
 - `[`CA-OPEN-fe83a604-aa5a-4e46-903c`]` **[Historical Flood Events (HFE) — Historical Flood Events - Product specifications](https://www.indexdata.org/historical-flood-events-hfe-historical-flood-events-product-specifications/)** — `2026-11-20` | `21 Pages`
 - `[`CA-OPEN-7069387e-9986-4297-9f55`]` **[LiDAR Point Clouds - CanElevation Series — LiDAR Point Clouds - CanElevation Series - Provincial and territorial lidar download portals](https://www.indexdata.org/lidar-point-clouds-canelevation-series-lidar-point-clouds-canelevation-series-provincial-and-territorial-lidar-download-portals/)** — `2026-11-17` | `2 Pages`
 - `[`CA-FOSRC-1845-351646`]` **[Wildland fires in the circumboreal forest under climate overshoot](https://www.indexdata.org/wildland-fires-in-the-circumboreal-forest-under-climate-overshoot/)** — `2026-11-16` | `64 Pages`

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,396` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,397` across `34` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | **[Part 3 (Current)]** | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-26 03:07 UTC`
+**Last Automated Sync:** `2026-11-26 03:30 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
 - **[Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)** (`360` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 - **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** (`156` dossiers) — [Authority Archive](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/)
-- **[Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)** (`139` dossiers) — [Authority Archive](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
+- **[Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)** (`140` dossiers) — [Authority Archive](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
 - **[Health Canada](https://www.indexdata.org/canada/health-canada/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)
 - **[Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)** (`81` dossiers) — [Authority Archive](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
 - **[Environment and Climate Change Canada](https://www.indexdata.org/canada/environment-and-climate-change-canada/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/canada/environment-and-climate-change-canada/) | [RSS Feed](https://www.indexdata.org/canada/environment-and-climate-change-canada/feed/)
@@ -50,7 +50,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,396)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,397)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -1051,7 +1051,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-jus
 - `[`R-5.5`]` **[Representation Act, 1974](https://www.indexdata.org/representation-act-1974/)** — `2026-09-30` | `6 Pages`
 - `[`R-5.44`]` **[Rental Housing Benefit Act](https://www.indexdata.org/rental-housing-benefit-act/)** — `2026-09-30` | `16 Pages`
 - `[`R-5.4`]` **[Remote Sensing Space Systems Act](https://www.indexdata.org/remote-sensing-space-systems-act/)** — `2026-09-30` | `30 Pages`
-- `[`R-4.9`]` **[Regional Development Incentives Act](https://www.indexdata.org/regional-development-incentives-act/)** — `2026-09-30` | `19 Pages`
 
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
@@ -1230,6 +1229,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 
+- `[`SOR-2002-101`]` **[Financial Consumer Agency of Canada Designated Violations Regulations](https://www.indexdata.org/financial-consumer-agency-of-canada-designated-violations-regulations/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-2001-66`]` **[Property Supplied by Auction (GST/HST) Regulations](https://www.indexdata.org/property-supplied-by-auction-gst-hst-regulations/)** — `2026-09-30` | `6 Pages`
 - `[`SOR-2001-65`]` **[Deduction for Provincial Rebate (GST/HST) Regulations](https://www.indexdata.org/deduction-for-provincial-rebate-gst-hst-regulations/)** — `2026-09-30` | `18 Pages`
 - `[`SOR-2001-56`]` **[Supervisory Information (Insurance Companies) Regulations](https://www.indexdata.org/supervisory-information-insurance-companies-regulations/)** — `2026-09-30` | `7 Pages`

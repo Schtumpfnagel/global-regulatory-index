@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/israel/feed/](https://www.indexdata.org/israel/feed/)  
 **Wikidata Sovereign Entity:** [`Q801`](https://www.wikidata.org/wiki/Q801)  
 **Governing Open-Government Framework:** *Israel Copyright Act, 2007*  
-**Total Indexed Dossiers in Israel:** `139` across `16` issuing authorities  
-**Last Automated Sync:** `2026-11-26 03:07 UTC`
+**Total Indexed Dossiers in Israel:** `141` across `16` issuing authorities  
+**Last Automated Sync:** `2026-11-26 03:30 UTC`
 
 ---
 
 ## Issuing Authorities in Israel (16 Authorities)
 
+- **[Israel Nature and Parks Authority (INPA)](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/) | [RSS Feed](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/feed/)
 - **[Israel Innovation Authority (IIA)](https://www.indexdata.org/israel/israel-innovation-authority-iia/)** (`27` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-innovation-authority-iia/) | [RSS Feed](https://www.indexdata.org/israel/israel-innovation-authority-iia/feed/)
-- **[Israel Nature and Parks Authority (INPA)](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/)** (`26` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/) | [RSS Feed](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/feed/)
 - **[Central Bureau of Statistics (CBS)](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/) | [RSS Feed](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/feed/)
 - **[Israel National Institute for Health Policy Research (NIHP)](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/) | [RSS Feed](https://www.indexdata.org/israel/israel-national-institute-for-health-policy-research-nihp/feed/)
 - **[Israel Oceanographic and Limnological Research (IOLR)](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/) | [RSS Feed](https://www.indexdata.org/israel/israel-oceanographic-and-limnological-research-iolr/feed/)
@@ -31,7 +31,39 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–139 of 139)
+## Indexed Statutory & Regulatory Dossiers (Records 1–141 of 141)
+
+### [Israel Nature and Parks Authority (INPA)](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/)
+Canonical Authority Archive: [https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/) | [RSS Feed](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/feed/)
+
+- `[`IL-INPA-444462`]` **[Kursi HE](https://www.indexdata.org/kursi-he/)** — `2026-11-23` | `2 Pages`
+- `[`IL-INPA-444420`]` **[15-2022-52R Korazim](https://www.indexdata.org/15-2022-52r-korazim/)** — `2026-11-23` | `3 Pages`
+- `[`IL-INPA-EN-253401`]` **[Caesarea Site brochure – English](https://www.indexdata.org/caesarea-site-brochure-english/)** — `2026-05-19` | `2 Pages`
+- `[`IL-INPA-EN-253339`]` **[ENG_Caesarea Park](https://www.indexdata.org/eng_caesarea-park/)** — `2026-02-15` | `2 Pages`
+- `[`IL-INPA-EN-253336`]` **[2026 Tel Beer Sheva eng](https://www.indexdata.org/2026-tel-beer-sheva-eng/)** — `2026-02-12` | `2 Pages`
+- `[`IL-INPA-EN-253333`]` **[2026_Tel BeerSheva_eng](https://www.indexdata.org/2026_tel-beersheva_eng/)** — `2026-02-10` | `2 Pages`
+- `[`IL-INPA-EN-253099`]` **[en avdat-eng](https://www.indexdata.org/en-avdat-eng/)** — `2025-12-18` | `2 Pages`
+- `[`IL-INPA-EN-253098`]` **[Beit shean-eng](https://www.indexdata.org/beit-shean-eng/)** — `2025-12-18` | `2 Pages`
+- `[`IL-INPA-EN-253097`]` **[Arbel-eng](https://www.indexdata.org/arbel-eng/)** — `2025-12-18` | `2 Pages`
+- `[`IL-INPA-EN-253096`]` **[Zippori-eng](https://www.indexdata.org/zippori-eng/)** — `2025-12-18` | `2 Pages`
+- `[`IL-INPA-EN-253095`]` **[herodium-eng](https://www.indexdata.org/herodium-eng/)** — `2025-12-18` | `2 Pages`
+- `[`IL-INPA-EN-252923`]` **[Korazim_brochure](https://www.indexdata.org/korazim_brochure/)** — `2025-04-06` | `2 Pages`
+- `[`IL-INPA-EN-252922`]` **[DiggingKorazim2025 english](https://www.indexdata.org/diggingkorazim2025-english/)** — `2025-04-06` | `2 Pages`
+- `[`IL-INPA-EN-252918`]` **[DiggingKorazim](https://www.indexdata.org/diggingkorazim/)** — `2025-04-06` | `2 Pages`
+- `[`IL-INPA-EN-252874`]` **[Bet Shean](https://www.indexdata.org/bet-shean/)** — `2025-02-24` | `2 Pages`
+- `[`IL-INPA-EN-252871`]` **[White list- Reptiles permitted for import, commerce and possession in Israel](https://www.indexdata.org/white-list-reptiles-permitted-for-import-commerce-and-possession-in-israel/)** — `2025-02-05` | `3 Pages`
+- `[`IL-INPA-EN-252870`]` **[White list of birds permitted for import, commerce and possession in Israel](https://www.indexdata.org/white-list-of-birds-permitted-for-import-commerce-and-possession-in-israel/)** — `2025-02-05` | `7 Pages`
+- `[`IL-INPA-EN-252867`]` **[Black list of Reptiles banned for import, commerce and possession in Israel,](https://www.indexdata.org/black-list-of-reptiles-banned-for-import-commerce-and-possession-in-israel/)** — `2025-02-05` | `2 Pages`
+- `[`IL-INPA-EN-252865`]` **[Black list of birds banned for import, commerce and possession in Israel](https://www.indexdata.org/black-list-of-birds-banned-for-import-commerce-and-possession-in-israel/)** — `2025-02-05` | `7 Pages`
+- `[`IL-INPA-EN-252847`]` **[Korazim NP family ceremony form](https://www.indexdata.org/korazim-np-family-ceremony-form/)** — `2024-12-23` | `3 Pages`
+- `[`IL-INPA-EN-252836`]` **[CITES Annual Report for 2021](https://www.indexdata.org/cites-annual-report-for-2021/)** — `2024-11-18` | `16 Pages`
+- `[`IL-INPA-EN-252835`]` **[Mosaic-Application for ceremony on masada](https://www.indexdata.org/mosaic-application-for-ceremony-on-masada/)** — `2024-11-18` | `3 Pages`
+- `[`IL-INPA-EN-252833`]` **[Bet Guvrin NP Family Ceremony form](https://www.indexdata.org/bet-guvrin-np-family-ceremony-form/)** — `2024-11-10` | `3 Pages`
+- `[`IL-INPA-EN-252832`]` **[Zippori NP Family Ceremony form 2024](https://www.indexdata.org/zippori-np-family-ceremony-form-2024/)** — `2024-11-10` | `3 Pages`
+- `[`IL-INPA-EN-252831`]` **[Tel Beer Sheva NP Family Ceremony form](https://www.indexdata.org/tel-beer-sheva-np-family-ceremony-form/)** — `2024-11-10` | `3 Pages`
+- `[`IL-INPA-EN-252830`]` **[Tel Arad NP Family Ceremony form](https://www.indexdata.org/tel-arad-np-family-ceremony-form/)** — `2024-11-10` | `4 Pages`
+- `[`IL-INPA-EN-252829`]` **[Korazim NP family ceremony form](https://www.indexdata.org/korazim-np-family-ceremony-form-2/)** — `2024-11-10` | `3 Pages`
+- `[`IL-INPA-EN-252828`]` **[Herodium Park Family Ceremony form](https://www.indexdata.org/herodium-park-family-ceremony-form/)** — `2024-11-10` | `3 Pages`
 
 ### [Israel Innovation Authority (IIA)](https://www.indexdata.org/israel/israel-innovation-authority-iia/)
 Canonical Authority Archive: [https://www.indexdata.org/israel/israel-innovation-authority-iia/](https://www.indexdata.org/israel/israel-innovation-authority-iia/) | [RSS Feed](https://www.indexdata.org/israel/israel-innovation-authority-iia/feed/)
@@ -63,36 +95,6 @@ Canonical Authority Archive: [https://www.indexdata.org/israel/israel-innovation
 - `[`IL-IIA-EN-21076`]` **[AI Tools Usage Brookdale Research](https://www.indexdata.org/ai-tools-usage-brookdale-research/)** — `2025-11-25` | `49 Pages`
 - `[`IL-IIA-EN-20100`]` **[Israeli Deep Tech report 2025_Dealroom](https://www.indexdata.org/israeli-deep-tech-report-2025_dealroom/)** — `2025-09-17` | `44 Pages`
 - `[`IL-IIA-EN-19955`]` **[Hong Kong-Guidelines](https://www.indexdata.org/hong-kong-guidelines/)** — `2025-09-09` | `4 Pages`
-
-### [Israel Nature and Parks Authority (INPA)](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/)
-Canonical Authority Archive: [https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/) | [RSS Feed](https://www.indexdata.org/israel/israel-nature-and-parks-authority-inpa/feed/)
-
-- `[`IL-INPA-EN-253401`]` **[Caesarea Site brochure – English](https://www.indexdata.org/caesarea-site-brochure-english/)** — `2026-05-19` | `2 Pages`
-- `[`IL-INPA-EN-253339`]` **[ENG_Caesarea Park](https://www.indexdata.org/eng_caesarea-park/)** — `2026-02-15` | `2 Pages`
-- `[`IL-INPA-EN-253336`]` **[2026 Tel Beer Sheva eng](https://www.indexdata.org/2026-tel-beer-sheva-eng/)** — `2026-02-12` | `2 Pages`
-- `[`IL-INPA-EN-253333`]` **[2026_Tel BeerSheva_eng](https://www.indexdata.org/2026_tel-beersheva_eng/)** — `2026-02-10` | `2 Pages`
-- `[`IL-INPA-EN-253099`]` **[en avdat-eng](https://www.indexdata.org/en-avdat-eng/)** — `2025-12-18` | `2 Pages`
-- `[`IL-INPA-EN-253098`]` **[Beit shean-eng](https://www.indexdata.org/beit-shean-eng/)** — `2025-12-18` | `2 Pages`
-- `[`IL-INPA-EN-253097`]` **[Arbel-eng](https://www.indexdata.org/arbel-eng/)** — `2025-12-18` | `2 Pages`
-- `[`IL-INPA-EN-253096`]` **[Zippori-eng](https://www.indexdata.org/zippori-eng/)** — `2025-12-18` | `2 Pages`
-- `[`IL-INPA-EN-253095`]` **[herodium-eng](https://www.indexdata.org/herodium-eng/)** — `2025-12-18` | `2 Pages`
-- `[`IL-INPA-EN-252923`]` **[Korazim_brochure](https://www.indexdata.org/korazim_brochure/)** — `2025-04-06` | `2 Pages`
-- `[`IL-INPA-EN-252922`]` **[DiggingKorazim2025 english](https://www.indexdata.org/diggingkorazim2025-english/)** — `2025-04-06` | `2 Pages`
-- `[`IL-INPA-EN-252918`]` **[DiggingKorazim](https://www.indexdata.org/diggingkorazim/)** — `2025-04-06` | `2 Pages`
-- `[`IL-INPA-EN-252874`]` **[Bet Shean](https://www.indexdata.org/bet-shean/)** — `2025-02-24` | `2 Pages`
-- `[`IL-INPA-EN-252871`]` **[White list- Reptiles permitted for import, commerce and possession in Israel](https://www.indexdata.org/white-list-reptiles-permitted-for-import-commerce-and-possession-in-israel/)** — `2025-02-05` | `3 Pages`
-- `[`IL-INPA-EN-252870`]` **[White list of birds permitted for import, commerce and possession in Israel](https://www.indexdata.org/white-list-of-birds-permitted-for-import-commerce-and-possession-in-israel/)** — `2025-02-05` | `7 Pages`
-- `[`IL-INPA-EN-252867`]` **[Black list of Reptiles banned for import, commerce and possession in Israel,](https://www.indexdata.org/black-list-of-reptiles-banned-for-import-commerce-and-possession-in-israel/)** — `2025-02-05` | `2 Pages`
-- `[`IL-INPA-EN-252865`]` **[Black list of birds banned for import, commerce and possession in Israel](https://www.indexdata.org/black-list-of-birds-banned-for-import-commerce-and-possession-in-israel/)** — `2025-02-05` | `7 Pages`
-- `[`IL-INPA-EN-252847`]` **[Korazim NP family ceremony form](https://www.indexdata.org/korazim-np-family-ceremony-form/)** — `2024-12-23` | `3 Pages`
-- `[`IL-INPA-EN-252836`]` **[CITES Annual Report for 2021](https://www.indexdata.org/cites-annual-report-for-2021/)** — `2024-11-18` | `16 Pages`
-- `[`IL-INPA-EN-252835`]` **[Mosaic-Application for ceremony on masada](https://www.indexdata.org/mosaic-application-for-ceremony-on-masada/)** — `2024-11-18` | `3 Pages`
-- `[`IL-INPA-EN-252833`]` **[Bet Guvrin NP Family Ceremony form](https://www.indexdata.org/bet-guvrin-np-family-ceremony-form/)** — `2024-11-10` | `3 Pages`
-- `[`IL-INPA-EN-252832`]` **[Zippori NP Family Ceremony form 2024](https://www.indexdata.org/zippori-np-family-ceremony-form-2024/)** — `2024-11-10` | `3 Pages`
-- `[`IL-INPA-EN-252831`]` **[Tel Beer Sheva NP Family Ceremony form](https://www.indexdata.org/tel-beer-sheva-np-family-ceremony-form/)** — `2024-11-10` | `3 Pages`
-- `[`IL-INPA-EN-252830`]` **[Tel Arad NP Family Ceremony form](https://www.indexdata.org/tel-arad-np-family-ceremony-form/)** — `2024-11-10` | `4 Pages`
-- `[`IL-INPA-EN-252829`]` **[Korazim NP family ceremony form](https://www.indexdata.org/korazim-np-family-ceremony-form-2/)** — `2024-11-10` | `3 Pages`
-- `[`IL-INPA-EN-252828`]` **[Herodium Park Family Ceremony form](https://www.indexdata.org/herodium-park-family-ceremony-form/)** — `2024-11-10` | `3 Pages`
 
 ### [Central Bureau of Statistics (CBS)](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/)
 Canonical Authority Archive: [https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/) | [RSS Feed](https://www.indexdata.org/israel/central-bureau-of-statistics-cbs/feed/)
