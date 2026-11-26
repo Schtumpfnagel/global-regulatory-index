@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q45`](https://www.wikidata.org/wiki/Q45)  
 **Governing Open-Government Framework:** *Lei n.º 68/2021*  
 **Total Indexed Dossiers in Portugal:** `53` across `6` issuing authorities  
-**Last Automated Sync:** `2026-11-26 12:03 UTC`
+**Last Automated Sync:** `2026-11-26 13:06 UTC`
 
 ---
 

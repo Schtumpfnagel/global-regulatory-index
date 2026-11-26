@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,310` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-26 12:03 UTC`
+**Total Indexed Dossiers in International:** `1,311` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-26 13:06 UTC`
 
 ---
 
@@ -21,7 +21,7 @@
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
 - **[European Central Bank (ECB)](https://www.indexdata.org/international/european-central-bank-ecb/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/international/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
-- **[World Intellectual Property Organization (WIPO)](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/) | [RSS Feed](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/feed/) | [Wikidata `Q177773`](https://www.wikidata.org/wiki/Q177773)
+- **[World Intellectual Property Organization (WIPO)](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/) | [RSS Feed](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/feed/) | [Wikidata `Q177773`](https://www.wikidata.org/wiki/Q177773)
 - **[Food and Agriculture Organization (FAO) — FAO Council](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/feed/)
 - **[World Bank — Energy Sector Management Assistance Program (ESMAP)](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/) | [RSS Feed](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/feed/)
 - **[International Labour Organization (ILO)](https://www.indexdata.org/international/international-labour-organization-ilo/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/international/international-labour-organization-ilo/) | [RSS Feed](https://www.indexdata.org/international/international-labour-organization-ilo/feed/) | [Wikidata `Q54129`](https://www.wikidata.org/wiki/Q54129)
@@ -43,7 +43,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,310 of 1,310)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,311 of 1,311)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -1318,6 +1318,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-c
 ### [World Intellectual Property Organization (WIPO)](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/)
 Canonical Authority Archive: [https://www.indexdata.org/international/world-intellectual-property-organization-wipo/](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/) | [RSS Feed](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/feed/)
 
+- `[`WIPO-60797`]` **[Insuring Innovation — A Pocket Guide to IP and Insurance for SMEs](https://www.indexdata.org/insuring-innovation-a-pocket-guide-to-ip-and-insurance-for-smes/)** — `2026-11-03` | `42 Pages`
 - `[`WIPO-60684`]` **[Green Technology Book — Solutions for Restoring Climate-impacted Ecosystems](https://www.indexdata.org/green-technology-book-solutions-for-restoring-climate-impacted-ecosystems/)** — `2026-10-07` | `270 Pages`
 - `[`WIPO-60683`]` **[Embedded Collective Governance and Firm Strategy — The Case of New Zealand’s Māori Advisory Committee](https://www.indexdata.org/embedded-collective-governance-and-firm-strategy-the-case-of-new-zealands-maori-advisory-committee/)** — `2026-10-05` | `31 Pages`
 - `[`WIPO-60676`]` **[World Intellectual Property Indicators 2026](https://www.indexdata.org/world-intellectual-property-indicators-2026/)** — `2026-10-02` | `192 Pages`

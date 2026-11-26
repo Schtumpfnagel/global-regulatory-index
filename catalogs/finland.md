@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/finland/feed/](https://www.indexdata.org/finland/feed/)  
 **Wikidata Sovereign Entity:** [`Q33`](https://www.wikidata.org/wiki/Q33)  
 **Governing Open-Government Framework:** *Copyright Act (404/1961) § 9 & Act on the Openness of Government Activities (621/1999) / CC BY 4.0*  
-**Total Indexed Dossiers in Finland:** `71` across `13` issuing authorities  
-**Last Automated Sync:** `2026-11-26 12:03 UTC`
+**Total Indexed Dossiers in Finland:** `72` across `13` issuing authorities  
+**Last Automated Sync:** `2026-11-26 13:06 UTC`
 
 ---
 
 ## Issuing Authorities in Finland (13 Authorities)
 
 - **[National Audit Office of Finland (VTV)](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/)** (`33` dossiers) — [Authority Archive](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/) | [RSS Feed](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/feed/)
-- **[Natural Resources Institute Finland (Luke)](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/) | [RSS Feed](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/feed/)
+- **[Natural Resources Institute Finland (Luke)](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/) | [RSS Feed](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/feed/)
 - **[Sitra (The Finnish Innovation Fund)](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/) | [RSS Feed](https://www.indexdata.org/finland/sitra-the-finnish-innovation-fund/feed/)
 - **[Finnish Environment Institute (SYKE)](https://www.indexdata.org/finland/finnish-environment-institute-syke/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/finland/finnish-environment-institute-syke/) | [RSS Feed](https://www.indexdata.org/finland/finnish-environment-institute-syke/feed/)
 - **[Ministry of Education and Culture of Finland (Opetus- ja kulttuuriministeriö)](https://www.indexdata.org/finland/ministry-of-education-and-culture-of-finland-opetus-ja-kulttuuriministeri/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/finland/ministry-of-education-and-culture-of-finland-opetus-ja-kulttuuriministeri/) | [RSS Feed](https://www.indexdata.org/finland/ministry-of-education-and-culture-of-finland-opetus-ja-kulttuuriministeri/feed/)
@@ -28,7 +28,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–71 of 71)
+## Indexed Statutory & Regulatory Dossiers (Records 1–72 of 72)
 
 ### [National Audit Office of Finland (VTV)](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/)
 Canonical Authority Archive: [https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/) | [RSS Feed](https://www.indexdata.org/finland/national-audit-office-of-finland-vtv/feed/)
@@ -70,6 +70,7 @@ Canonical Authority Archive: [https://www.indexdata.org/finland/national-audit-o
 ### [Natural Resources Institute Finland (Luke)](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/)
 Canonical Authority Archive: [https://www.indexdata.org/finland/natural-resources-institute-finland-luke/](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/) | [RSS Feed](https://www.indexdata.org/finland/natural-resources-institute-finland-luke/feed/)
 
+- `[`FI-LUKE-104545`]` **[Pricing nature loss: An application to land-use change in Finland](https://www.indexdata.org/pricing-nature-loss-an-application-to-land-use-change-in-finland/)** — `2026-11-26` | `14 Pages`
 - `[`FI-LUKE-104529`]` **[Genetic parameters of raw flesh colour traits in Amur mirror carp and their relation to performance traits](https://www.indexdata.org/genetic-parameters-of-raw-flesh-colour-traits-in-amur-mirror-carp-and-their-relation-to-performance-traits/)** — `2026-11-26` | `8 Pages`
 - `[`FI-LUKE-104471`]` **[Closing the research-practice gap in waterlogging modelling through holistic systems thinking and spatially explicit simulation](https://www.indexdata.org/closing-the-research-practice-gap-in-waterlogging-modelling-through-holistic-systems-thinking-and-spatially-explicit-simulation/)** — `2026-11-13` | `9 Pages`
 - `[`FI-LUKE-104385`]` **[Microplastics alter soil phosphatase activity and phosphorus mobilization : a global meta-analysis integrated with machine learning](https://www.indexdata.org/microplastics-alter-soil-phosphatase-activity-and-phosphorus-mobilization-a-global-meta-analysis-integrated-with-machine-learning/)** — `2026-11-06` | `16 Pages`

@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `204` across `40` issuing authorities  
-**Last Automated Sync:** `2026-11-26 12:03 UTC`
+**Total Indexed Dossiers in Ireland:** `205` across `40` issuing authorities  
+**Last Automated Sync:** `2026-11-26 13:06 UTC`
 
 ---
 
 ## Issuing Authorities in Ireland (40 Authorities)
 
-- **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`30` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
+- **[Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)** (`31` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
 - **[Economic and Social Research Institute (ESRI)](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/) | [RSS Feed](https://www.indexdata.org/ireland/economic-and-social-research-institute-esri/feed/)
 - **[Health Research Board (HRB)](https://www.indexdata.org/ireland/health-research-board-hrb/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/health-research-board-hrb/) | [RSS Feed](https://www.indexdata.org/ireland/health-research-board-hrb/feed/)
 - **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
@@ -55,11 +55,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–204 of 204)
+## Indexed Statutory & Regulatory Dossiers (Records 1–205 of 205)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
 
+- `[`IE-BILL-2026-117`]` **[Agentic Artificial Intelligence in Public Services Bill 2026](https://www.indexdata.org/agentic-artificial-intelligence-in-public-services-bill-2026/)** — `2026-11-24` | `18 Pages`
 - `[`IE-BILL-2026-115`]` **[Property Services (Regulation) (Amendment) Bill 2026](https://www.indexdata.org/property-services-regulation-amendment-bill-2026/)** — `2026-11-18` | `8 Pages`
 - `[`IE-BILL-2026-114`]` **[Electricity Regulation (Amendment) (Hardship Meters) Bill 2026](https://www.indexdata.org/electricity-regulation-amendment-hardship-meters-bill-2026/)** — `2026-11-18` | `10 Pages`
 - `[`IE-BILL-2026-113`]` **[Data Centre Transparency Bill 2026](https://www.indexdata.org/data-centre-transparency-bill-2026/)** — `2026-11-18` | `10 Pages`
