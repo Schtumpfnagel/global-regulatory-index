@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,728` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,730` across `248` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 07:03 UTC`
+**Last Automated Sync:** `2026-11-26 08:10 UTC`
 
 ---
 
@@ -41,10 +41,10 @@
 - **[Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 - **[Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
 - **[Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`88` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
 - **[Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
 - **[National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`86` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)** (`85` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
 - **[Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
 - **[Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
@@ -264,11 +264,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,728)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,730)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-16473`]` **[Airworthiness Directives; CFM International, S.A. Engines](https://www.indexdata.org/airworthiness-directives-cfm-international-s-a-engines-19/)** — `2024-07-29` | `4 Pages`
 - `[`2024-16406`]` **[Amendment of Class E Airspace; South Haven, MI](https://www.indexdata.org/amendment-of-class-e-airspace-south-haven-mi-2/)** — `2024-07-26` | `2 Pages`
 - `[`2024-16383`]` **[Amendment of Class E Airspace; Thomaston, GA](https://www.indexdata.org/amendment-of-class-e-airspace-thomaston-ga/)** — `2024-07-26` | `2 Pages`
 - `[`2024-16352`]` **[Amendment of Class E Airspace; Llano and Mason, TX](https://www.indexdata.org/amendment-of-class-e-airspace-llano-and-mason-tx/)** — `2024-07-26` | `3 Pages`
@@ -598,12 +599,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-06520`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-255/)** — `2024-03-28` | `5 Pages`
 - `[`2024-06478`]` **[Airworthiness Directives; Gulfstream Aerospace Corporation Airplanes](https://www.indexdata.org/airworthiness-directives-gulfstream-aerospace-corporation-airplanes-9/)** — `2024-03-28` | `5 Pages`
 - `[`2024-06477`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-63/)** — `2024-03-27` | `3 Pages`
-- `[`2024-06433`]` **[Airworthiness Directives; Pratt & Whitney Turbofan Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-turbofan-engines/)** — `2024-03-27` | `7 Pages`
-- `[`2024-06430`]` **[Airworthiness Directives; GE Aviation Czech s.r.o. (Type Certificate Previously Held by WALTER Engines a.s., Walter a.s., and MOTORLET a.s.) Engines](https://www.indexdata.org/airworthiness-directives-ge-aviation-czech-s-r-o-type-certificate-previously-held-by-walter-engines-a-s-walter-a-s-and-motorlet-a-s-engines-3/)** — `2024-03-27` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-16415`]` **[Designations of Areas for Air Quality Planning Purposes; Connecticut; Greater Connecticut 2015 8-Hour Ozone Nonattainment Area; Reclassification to Serious](https://www.indexdata.org/designations-of-areas-for-air-quality-planning-purposes-connecticut-greater-connecticut-2015-8-hour-ozone-nonattainment-area-reclassification-to-serious/)** — `2024-07-29` | `4 Pages`
 - `[`2024-14694`]` **[Integrating e-Manifest With Hazardous Waste Exports and Other Manifest-Related Reports, PCB Manifest Amendments, and Technical Corrections](https://www.indexdata.org/integrating-e-manifest-with-hazardous-waste-exports-and-other-manifest-related-reports-pcb-manifest-amendments-and-technical-corrections/)** — `2024-07-26` | `49 Pages`
 - `[`2024-16256`]` **[Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Other Solid Waste Incineration Units Revisions to Definitions](https://www.indexdata.org/standards-of-performance-for-new-stationary-sources-and-emission-guidelines-for-existing-sources-other-solid-waste-incineration-units-revisions-to-definitions/)** — `2024-07-25` | `7 Pages`
 - `[`2024-16251`]` **[Air Plan Approval; North Carolina; Mecklenburg Emission Control Standards and Nitrogen Oxides](https://www.indexdata.org/air-plan-approval-north-carolina-mecklenburg-emission-control-standards-and-nitrogen-oxides/)** — `2024-07-25` | `3 Pages`

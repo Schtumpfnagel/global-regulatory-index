@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,308` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-26 07:03 UTC`
+**Total Indexed Dossiers in International:** `1,309` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-26 08:10 UTC`
 
 ---
 
@@ -20,7 +20,7 @@
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`81` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`71` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
-- **[European Central Bank (ECB)](https://www.indexdata.org/international/european-central-bank-ecb/)** (`36` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/international/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
+- **[European Central Bank (ECB)](https://www.indexdata.org/international/european-central-bank-ecb/)** (`37` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/international/european-central-bank-ecb/feed/) | [Wikidata `Q8901`](https://www.wikidata.org/wiki/Q8901)
 - **[World Intellectual Property Organization (WIPO)](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/) | [RSS Feed](https://www.indexdata.org/international/world-intellectual-property-organization-wipo/feed/) | [Wikidata `Q177773`](https://www.wikidata.org/wiki/Q177773)
 - **[Food and Agriculture Organization (FAO) — FAO Council](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao-fao-council/feed/)
 - **[World Bank — Energy Sector Management Assistance Program (ESMAP)](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/) | [RSS Feed](https://www.indexdata.org/international/world-bank-energy-sector-management-assistance-program-esmap/feed/)
@@ -43,7 +43,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,308 of 1,308)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,309 of 1,309)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -1276,6 +1276,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-b
 ### [European Central Bank (ECB)](https://www.indexdata.org/international/european-central-bank-ecb/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-central-bank-ecb/](https://www.indexdata.org/international/european-central-bank-ecb/) | [RSS Feed](https://www.indexdata.org/international/european-central-bank-ecb/feed/)
 
+- `[`ECB-32026D2638`]` **[Decision (EU) 2026/2638 of the European Central Bank of 19 November 2026 on authorising the signature of legal instruments in cases of unavailability of the President (ECB/2026/30)](https://www.indexdata.org/decision-eu-2026-2638-of-the-european-central-bank-of-19-november-2026-on-authorising-the-signature-of-legal-instruments-in-cases-of-unavailability-of-the-president-ecb-2026-30-2/)** — `2026-11-26` | `2 Pages`
 - `[`ECB-083ee37b-e93a-11f1-b745-01aa75ed71a1`]` **[Decision (EU) 2026/2638 of the European Central Bank of 19 November 2026 on authorising the signature of legal instruments in cases of unavailability of the President (ECB/2026/30)](https://www.indexdata.org/decision-eu-2026-2638-of-the-european-central-bank-of-19-november-2026-on-authorising-the-signature-of-legal-instruments-in-cases-of-unavailability-of-the-president-ecb-2026-30/)** — `2026-11-26` | `2 Pages`
 - `[`ECB-52026AB0036`]` **[Opinion of the European Central Bank of 25 November 2026 on a tax on excess profits of credit institutions and other specified companies (CON/2026/36)](https://www.indexdata.org/opinion-of-the-european-central-bank-of-25-november-2026-on-a-tax-on-excess-profits-of-credit-institutions-and-other-specified-companies-con-2026-36/)** — `2026-11-25` | `6 Pages`
 - `[`ECB-b5b71a2a-e492-11f1-b745-01aa75ed71a1`]` **[Financial stability review. November 2026](https://www.indexdata.org/financial-stability-review-november-2026/)** — `2026-11-19` | `141 Pages`

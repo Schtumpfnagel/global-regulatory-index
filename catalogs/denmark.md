@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/denmark/feed/](https://www.indexdata.org/denmark/feed/)  
 **Wikidata Sovereign Entity:** [`Q35`](https://www.wikidata.org/wiki/Q35)  
 **Governing Open-Government Framework:** *Ophavsretsloven § 9 (LBK nr 1144 af 23/10/2014) / PSI-loven (CC BY 4.0)*  
-**Total Indexed Dossiers in Denmark:** `45` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-26 07:03 UTC`
+**Total Indexed Dossiers in Denmark:** `46` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-26 08:10 UTC`
 
 ---
 
 ## Issuing Authorities in Denmark (9 Authorities)
 
 - **[Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
-- **[Rigsrevisionen (National Audit Office of Denmark)](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/) | [RSS Feed](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/feed/)
+- **[Rigsrevisionen (National Audit Office of Denmark)](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/) | [RSS Feed](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/feed/)
 - **[Ministry of Climate, Energy and Utilities (Klima-, Energi- og Forsyningsministeriet)](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/feed/)
 - **[Ministry of Justice (Justitsministeriet)](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/feed/)
 - **[Open Data DK](https://www.indexdata.org/denmark/open-data-dk/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/open-data-dk/) | [RSS Feed](https://www.indexdata.org/denmark/open-data-dk/feed/)
@@ -24,7 +24,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–45 of 45)
+## Indexed Statutory & Regulatory Dossiers (Records 1–46 of 46)
 
 ### [Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
@@ -53,6 +53,7 @@ Canonical Authority Archive: [https://www.indexdata.org/denmark/geological-surve
 ### [Rigsrevisionen (National Audit Office of Denmark)](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/) | [RSS Feed](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/feed/)
 
+- `[`DK-RR-notat-til-statsrevisorerne-6`]` **[Notat om regionernes beskyttelse af sundhedsdata mod cyberangreb &#124; Rigsrevisionen](https://www.indexdata.org/notat-om-regionernes-beskyttelse-af-sundhedsdata-mod-cyberangreb-rigsrevisionen/)** — `2026-11-01` | `9 Pages`
 - `[`DK-RR-notat-til-statsrevisorerne-4`]` **[Notat om revisionen af virksomheder uden for statsregnskabet for 2025 &#124; Rigsrevisionen](https://www.indexdata.org/notat-om-revisionen-af-virksomheder-uden-for-statsregnskabet-for-2025-rigsrevisionen/)** — `2026-11-01` | `7 Pages`
 - `[`DK-RR-notat-til-statsrevisorerne-1`]` **[Notat om digital tilgængelighed i staten og regionerne &#124; Rigsrevisionen](https://www.indexdata.org/notat-om-digital-tilgaengelighed-i-staten-og-regionerne-rigsrevisionen/)** — `2026-11-01` | `5 Pages`
 - `[`DK-RR-beretning_forvaltningen-af-f`]` **[Beretning om forvaltningen af filmstøtten &#124; Rigsrevisionen](https://www.indexdata.org/beretning-om-forvaltningen-af-filmstotten-rigsrevisionen/)** — `2026-11-01` | `3 Pages`

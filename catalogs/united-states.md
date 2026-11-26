@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,728` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,730` across `248` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 07:03 UTC`
+**Last Automated Sync:** `2026-11-26 08:10 UTC`
 
 ---
 
@@ -41,10 +41,10 @@
 - **[Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 - **[Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
 - **[Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`88` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
 - **[Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
 - **[National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`86` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)** (`85` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
 - **[Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
 - **[Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
@@ -264,7 +264,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,728)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,730)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -714,7 +714,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-20666`]` **[Airworthiness Directives; Engine Alliance Engines](https://www.indexdata.org/airworthiness-directives-engine-alliance-engines/)** — `2026-10-08` | `4 Pages`
 - `[`2026-20543`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-8/)** — `2026-10-07` | `5 Pages`
 - `[`2026-20479`]` **[Establishment of Class E Airspace; Peoria, IL](https://www.indexdata.org/establishment-of-class-e-airspace-peoria-il/)** — `2026-10-06` | `2 Pages`
-- `[`2026-20473`]` **[Modification of Class E Airspace; Gunnison-Crested Butte Regional Airport, Gunnison, CO](https://www.indexdata.org/modification-of-class-e-airspace-gunnison-crested-butte-regional-airport-gunnison-co/)** — `2026-10-06` | `3 Pages`
 
 ### [United States Senate](https://www.indexdata.org/united-states/united-states-senate/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-senate/](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
@@ -750,10 +749,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 - `[`US-BILLS-119sres908ats`]` **[S. Res. 908 (ATS) - Supporting the designation of the week of September 21 through September 25, 2026, as "National Hazing Awareness Week".](https://www.indexdata.org/s-res-908-ats-supporting-the-designation-of-the-week-of-september-21-through-september-25-2026-as-national-hazing-awareness-week/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119sres722is`]` **[S. Res. 722 (IS) - Addressing the politicization of war crimes allegations against allied special operations forces.](https://www.indexdata.org/s-res-722-is-addressing-the-politicization-of-war-crimes-allegations-against-allied-special-operations-forces/)** — `2026-11-01` | `5 Pages`
 - `[`US-BILLS-119sres718ats`]` **[S. Res. 718 (ATS) - A resolution commending and congratulating the University of California, Los Angeles Bruins women’s basketball team for winning the 2026 National Collegiate Athletic Association Division I Women’s Basketball National Championship.](https://www.indexdata.org/s-res-718-ats-a-resolution-commending-and-congratulating-the-university-of-california-los-angeles-bruins-womens-basketball-team-for-winning-the-2026-national-collegiate-athletic-associ/)** — `2026-11-01` | `3 Pages`
+- `[`US-BILLS-119s5814is`]` **[S. 5814 (IS) - Housing for Homeless Students Act of 2026](https://www.indexdata.org/s-5814-is-housing-for-homeless-students-act-of-2026/)** — `2026-11-01` | `3 Pages`
 - `[`US-BILLS-119s5777is`]` **[S. 5777 (IS) - Developing Innovative Partnerships and Learning Opportunities that Motivate Achievement Act](https://www.indexdata.org/s-5777-is-developing-innovative-partnerships-and-learning-opportunities-that-motivate-achievement-act/)** — `2026-11-01` | `61 Pages`
 - `[`US-BILLS-119s5774is`]` **[S. 5774 (IS) - Providing Real Opportunities for Growth to Rising Entrepreneurs for Sustained Success (PROGRESS) Act](https://www.indexdata.org/s-5774-is-providing-real-opportunities-for-growth-to-rising-entrepreneurs-for-sustained-success-progress-act/)** — `2026-11-01` | `31 Pages`
 - `[`US-BILLS-119s5770is`]` **[S. 5770 (IS) - To designate the facility of the United States Postal Service located at 324 Washington Avenue, Suite 1 in Grand Haven, Michigan, as the "Ell Thomas Simantz Post Office Building".](https://www.indexdata.org/s-5770-is-to-designate-the-facility-of-the-united-states-postal-service-located-at-324-washington-avenue-suite-1-in-grand-haven-michigan-as-the-ell-thomas-simantz-post-office-building/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119s5769is`]` **[S. 5769 (IS) - To designate the facility of the United States Postal Service located at 117 West Lovett Street in Charlotte, Michigan, as the "Francis C. Flaherty Post Office Building".](https://www.indexdata.org/s-5769-is-to-designate-the-facility-of-the-united-states-postal-service-located-at-117-west-lovett-street-in-charlotte-michigan-as-the-francis-c-flaherty-post-office-building/)** — `2026-11-01` | `2 Pages`
+- `[`US-BILLS-119s5765is`]` **[S. 5765 (IS) - Stop Scaring Seniors Act](https://www.indexdata.org/s-5765-is-stop-scaring-seniors-act/)** — `2026-11-01` | `7 Pages`
 - `[`US-BILLS-119s5750is`]` **[S. 5750 (IS) - Less Bureaucracy, Better Tribal Education Act](https://www.indexdata.org/s-5750-is-less-bureaucracy-better-tribal-education-act/)** — `2026-11-01` | `14 Pages`
 - `[`US-BILLS-119s5744is`]` **[S. 5744 (IS) - Less Bureaucracy, Better Student Aid Act](https://www.indexdata.org/s-5744-is-less-bureaucracy-better-student-aid-act/)** — `2026-11-01` | `13 Pages`
 - `[`US-BILLS-119s5739is`]` **[S. 5739 (IS) - One Sky Act](https://www.indexdata.org/s-5739-is-one-sky-act/)** — `2026-11-01` | `4 Pages`
@@ -1800,15 +1801,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2026-21060`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-2/)** — `2026-10-15` | `3 Pages`
 - `[`2026-20532`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-4/)** — `2026-10-07` | `4 Pages`
 
-### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-
-- `[`2026-23951`]` **[Restructuring the Governance and Funding Model of the Consolidated Audit Trail](https://www.indexdata.org/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail/)** — `2026-11-24` | `91 Pages`
-- `[`2026-22741`]` **[Amendments to the “Small Business” and “Small Organization” Definitions for Investment Companies and Investment Advisers for Purposes of the Regulatory Flexibility Act](https://www.indexdata.org/amendments-to-the-small-business-and-small-organization-definitions-for-investment-companies-and-investment-advisers-for-purposes-of-the-regulatory-flexibility-act/)** — `2026-11-06` | `23 Pages`
-- `[`2026-21657`]` **[List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act](https://www.indexdata.org/list-of-rules-to-be-reviewed-pursuant-to-the-regulatory-flexibility-act-3/)** — `2026-10-23` | `2 Pages`
-- `[`2026-21037`]` **[Investment Company Cross Trading](https://www.indexdata.org/investment-company-cross-trading/)** — `2026-10-15` | `56 Pages`
-- `[`2026-20474`]` **[Investment Adviser Performance-Based Compensation Modernization](https://www.indexdata.org/investment-adviser-performance-based-compensation-modernization/)** — `2026-10-06` | `70 Pages`
-
 ### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 
@@ -1872,6 +1864,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-p
 - `[`2026-21300`]` **[Gates of the Arctic National Park and Preserve; Use of Off-Road Vehicles for Subsistence Purposes by Residents of Anaktuvuk Pass](https://www.indexdata.org/gates-of-the-arctic-national-park-and-preserve-use-of-off-road-vehicles-for-subsistence-purposes-by-residents-of-anaktuvuk-pass/)** — `2026-10-19` | `7 Pages`
 - `[`2026-21299`]` **[Alaska; Wildlife, Harvest, and Access](https://www.indexdata.org/alaska-wildlife-harvest-and-access/)** — `2026-10-19` | `16 Pages`
 - `[`2026-21222`]` **[Denali National Park and Preserve; Vehicle Use](https://www.indexdata.org/denali-national-park-and-preserve-vehicle-use/)** — `2026-10-16` | `5 Pages`
+
+### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
+
+- `[`2026-23951`]` **[Restructuring the Governance and Funding Model of the Consolidated Audit Trail](https://www.indexdata.org/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail/)** — `2026-11-24` | `91 Pages`
+- `[`2026-22741`]` **[Amendments to the “Small Business” and “Small Organization” Definitions for Investment Companies and Investment Advisers for Purposes of the Regulatory Flexibility Act](https://www.indexdata.org/amendments-to-the-small-business-and-small-organization-definitions-for-investment-companies-and-investment-advisers-for-purposes-of-the-regulatory-flexibility-act/)** — `2026-11-06` | `23 Pages`
+- `[`2026-21657`]` **[List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act](https://www.indexdata.org/list-of-rules-to-be-reviewed-pursuant-to-the-regulatory-flexibility-act-3/)** — `2026-10-23` | `2 Pages`
+- `[`2026-21037`]` **[Investment Company Cross Trading](https://www.indexdata.org/investment-company-cross-trading/)** — `2026-10-15` | `56 Pages`
 
 ### [State Department](https://www.indexdata.org/united-states/state-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)

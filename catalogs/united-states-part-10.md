@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,728` across `248` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,730` across `248` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-26 07:03 UTC`
+**Last Automated Sync:** `2026-11-26 08:10 UTC`
 
 ---
 
@@ -41,10 +41,10 @@
 - **[Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 - **[Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)** (`95` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
 - **[Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`88` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
 - **[Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
 - **[National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`86` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)** (`85` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
 - **[Defense Acquisition Regulations System](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/) | [RSS Feed](https://www.indexdata.org/united-states/defense-acquisition-regulations-system/feed/)
 - **[Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
@@ -264,7 +264,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,728)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,730)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -617,8 +617,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-15588`]` **[Amendment of United States Area Navigation (RNAV) Route T-270; in the Vicinity of Shishmaref, AK](https://www.indexdata.org/amendment-of-united-states-area-navigation-rnav-route-t-270-in-the-vicinity-of-shishmaref-ak/)** — `2023-07-24` | `3 Pages`
 - `[`2023-15587`]` **[Amendment of United States Area Navigation (RNAV) Route T-260 in the Vicinity of Nome, AK](https://www.indexdata.org/amendment-of-united-states-area-navigation-rnav-route-t-260-in-the-vicinity-of-nome-ak/)** — `2023-07-24` | `2 Pages`
 - `[`2023-15586`]` **[Establishment of United States Area Navigation (RNAV) Route T-376 in the Vicinity of Iliamna, AK](https://www.indexdata.org/establishment-of-united-states-area-navigation-rnav-route-t-376-in-the-vicinity-of-iliamna-ak/)** — `2023-07-24` | `2 Pages`
-- `[`2023-15585`]` **[Establishment of United States Area Navigation Route (RNAV) T-379 in the Vicinity of Discovery, AK](https://www.indexdata.org/establishment-of-united-states-area-navigation-route-rnav-t-379-in-the-vicinity-of-discovery-ak/)** — `2023-07-24` | `3 Pages`
-- `[`2023-15584`]` **[Amendment of United States Area Navigation (RNAV) Route T-228 in the Vicinity of Cape Newenham, AK](https://www.indexdata.org/amendment-of-united-states-area-navigation-rnav-route-t-228-in-the-vicinity-of-cape-newenham-ak/)** — `2023-07-24` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1117,6 +1115,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 
+- `[`2023-25622`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Kern Canyon Slender Salamander and Endangered Species Status for the Relictual Slender Salamander; Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-the-kern-canyon-slender-salamander-and-endangered-species-status-for-the-relictual-slender-salamande-2/)** — `2023-11-21` | `11 Pages`
 - `[`2023-24514`]` **[Endangered and Threatened Wildlife and Plants; Establishment of a Nonessential Experimental Population of the Gray Wolf in Colorado](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-establishment-of-a-nonessential-experimental-population-of-the-gray-wolf-in-colorado/)** — `2023-11-08` | `26 Pages`
 - `[`2023-23937`]` **[Endangered and Threatened Wildlife and Plants; Removing Island Bedstraw and Santa Cruz Island Dudleya From the List of Endangered and Threatened Plants](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-removing-island-bedstraw-and-santa-cruz-island-dudleya-from-the-list-of-endangered-and-threatened-plants/)** — `2023-11-07` | `18 Pages`
 - `[`2023-24299`]` **[Endangered and Threatened Wildlife and Plants; Reinstatement of Endangered Species Act Protections for the Gray Wolf (Canis Lupus) in Compliance With Court Order](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-reinstatement-of-endangered-species-act-protections-for-the-gray-wolf-canis-lupus-in-compliance-with-court-order/)** — `2023-11-03` | `7 Pages`
@@ -1526,6 +1525,20 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/education-
 - `[`2023-17227`]` **[Final Priorities, Requirements, Definitions, and Selection Criteria-Perkins Innovation and Modernization Grant Program](https://www.indexdata.org/final-priorities-requirements-definitions-and-selection-criteria-perkins-innovation-and-modernization-grant-program/)** — `2023-08-14` | `18 Pages`
 - `[`2023-15852`]` **[Final Priority and Requirements-Technical Assistance on State Data Collection-National Technical Assistance Center To Improve State Capacity To Collect, Report, Analyze, and Use Accurate IDEA Data To Address Significant Disproportionality](https://www.indexdata.org/final-priority-and-requirements-technical-assistance-on-state-data-collection-national-technical-assistance-center-to-improve-state-capacity-to-collect-report-analyze-and-use-accurate-idea-data-to/)** — `2023-07-26` | `7 Pages`
 
+### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
+
+- `[`2023-25642`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 13G, 74, 75, and 76.](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-13g-74-75-and-76/)** — `2023-11-21` | `3 Pages`
+- `[`2023-24831`]` **[Publication of Venezuela Sanctions Regulations Web General Licenses 3I, 5M, 9H, 43, 44, and 45](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-licenses-3i-5m-9h-43-44-and-45/)** — `2023-11-08` | `4 Pages`
+- `[`2023-23918`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General License 73](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-license-73/)** — `2023-11-07` | `2 Pages`
+- `[`2023-24332`]` **[Publication of Nicaragua Sanctions Regulations Web General Licenses 1, 2, and 2A](https://www.indexdata.org/publication-of-nicaragua-sanctions-regulations-web-general-licenses-1-2-and-2a/)** — `2023-11-03` | `2 Pages`
+- `[`2023-20161`]` **[Publication of Global Magnitsky Sanctions Regulations Web General Licenses 1, 2, and Subsequent Iterations](https://www.indexdata.org/publication-of-global-magnitsky-sanctions-regulations-web-general-licenses-1-2-and-subsequent-iterations/)** — `2023-09-19` | `2 Pages`
+- `[`2023-20160`]` **[Publication of Ethiopia Sanctions Regulations Web General License 4](https://www.indexdata.org/publication-of-ethiopia-sanctions-regulations-web-general-license-4/)** — `2023-09-19` | `2 Pages`
+- `[`2023-19887`]` **[Publication of Belarus Sanctions Regulations Web General Licenses 8 and 9](https://www.indexdata.org/publication-of-belarus-sanctions-regulations-web-general-licenses-8-and-9/)** — `2023-09-14` | `2 Pages`
+- `[`2023-19133`]` **[Publication of Chinese Military-Industrial Complex Sanctions Regulations Web General Licenses 1, 1A, 1B, and 2](https://www.indexdata.org/publication-of-chinese-military-industrial-complex-sanctions-regulations-web-general-licenses-1-1a-1b-and-2/)** — `2023-09-06` | `2 Pages`
+- `[`2023-16860`]` **[Mali Sanctions Regulations](https://www.indexdata.org/mali-sanctions-regulations/)** — `2023-08-07` | `12 Pages`
+- `[`2023-16732`]` **[Publication of Venezuela Sanctions Regulations Web General License 40B.](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-license-40b/)** — `2023-08-07` | `2 Pages`
+
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 
@@ -1565,19 +1578,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-
 - `[`2023-17162`]` **[Ex Parte Communications](https://www.indexdata.org/ex-parte-communications/)** — `2023-08-11` | `5 Pages`
 - `[`2023-15941`]` **[Copyright Claims Board: District Court Referrals; Proof of Service Forms; Default Proceedings; Law Student Representation](https://www.indexdata.org/copyright-claims-board-district-court-referrals-proof-of-service-forms-default-proceedings-law-student-representation/)** — `2023-07-31` | `2 Pages`
 - `[`2023-15940`]` **[Copyright Claims Board: Agreement-Based Counterclaims](https://www.indexdata.org/copyright-claims-board-agreement-based-counterclaims/)** — `2023-07-27` | `2 Pages`
-
-### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
-
-- `[`2023-24831`]` **[Publication of Venezuela Sanctions Regulations Web General Licenses 3I, 5M, 9H, 43, 44, and 45](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-licenses-3i-5m-9h-43-44-and-45/)** — `2023-11-08` | `4 Pages`
-- `[`2023-23918`]` **[Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General License 73](https://www.indexdata.org/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-license-73/)** — `2023-11-07` | `2 Pages`
-- `[`2023-24332`]` **[Publication of Nicaragua Sanctions Regulations Web General Licenses 1, 2, and 2A](https://www.indexdata.org/publication-of-nicaragua-sanctions-regulations-web-general-licenses-1-2-and-2a/)** — `2023-11-03` | `2 Pages`
-- `[`2023-20161`]` **[Publication of Global Magnitsky Sanctions Regulations Web General Licenses 1, 2, and Subsequent Iterations](https://www.indexdata.org/publication-of-global-magnitsky-sanctions-regulations-web-general-licenses-1-2-and-subsequent-iterations/)** — `2023-09-19` | `2 Pages`
-- `[`2023-20160`]` **[Publication of Ethiopia Sanctions Regulations Web General License 4](https://www.indexdata.org/publication-of-ethiopia-sanctions-regulations-web-general-license-4/)** — `2023-09-19` | `2 Pages`
-- `[`2023-19887`]` **[Publication of Belarus Sanctions Regulations Web General Licenses 8 and 9](https://www.indexdata.org/publication-of-belarus-sanctions-regulations-web-general-licenses-8-and-9/)** — `2023-09-14` | `2 Pages`
-- `[`2023-19133`]` **[Publication of Chinese Military-Industrial Complex Sanctions Regulations Web General Licenses 1, 1A, 1B, and 2](https://www.indexdata.org/publication-of-chinese-military-industrial-complex-sanctions-regulations-web-general-licenses-1-1a-1b-and-2/)** — `2023-09-06` | `2 Pages`
-- `[`2023-16860`]` **[Mali Sanctions Regulations](https://www.indexdata.org/mali-sanctions-regulations/)** — `2023-08-07` | `12 Pages`
-- `[`2023-16732`]` **[Publication of Venezuela Sanctions Regulations Web General License 40B.](https://www.indexdata.org/publication-of-venezuela-sanctions-regulations-web-general-license-40b/)** — `2023-08-07` | `2 Pages`
 
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)

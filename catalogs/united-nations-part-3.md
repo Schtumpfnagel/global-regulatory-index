@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,026` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,027` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-26 07:03 UTC`
+**Last Automated Sync:** `2026-11-26 08:10 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,026` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`539` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`496` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`497` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,11 +187,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,026)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,027)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-C.5-80-L.31`]` **[Status of preparedness of documentation for the 5th Committee during the 2nd part of the resumed 80th session of the General Assembly — note](https://www.indexdata.org/a-c-5-80-l-31-status-of-preparedness-of-documentation-for-the-5th-committee-during-the-2nd-part-of-the-resumed-80th-session-of-the-general-assembly-note/)** — `2026-04-21` | `7 Pages`
 - `[`UN-A-81-6-Sect.-9`]` **[Proposed programme budget for 2027 — Part 4, — International cooperation for development — Section 9, — Economic and social affairs — Programme 7, — Economic and social affairs](https://www.indexdata.org/a-81-6-sect-9-proposed-programme-budget-for-2027-part-4-international-cooperation-for-development-section-9-economic-and-social-affairs-program/)** — `2026-04-21` | `88 Pages`
 - `[`UN-A-81-6-Sect.-28`]` **[Proposed programme budget for 2027 — Part 7, — Global communications — Section 28, — Global communications — Programme 24, — Global communications](https://www.indexdata.org/a-81-6-sect-28-proposed-programme-budget-for-2027-part-7-global-communications-section-28-global-communications-programme-24-global/)** — `2026-04-21` | `32 Pages`
 - `[`UN-A-80-712`]` **[Identical letters dated 21 April 2026 from the Permanent Representative of Lebanon to the United Nations addressed to the Secretary-General and the President of the Security Council](https://www.indexdata.org/a-80-712-identical-letters-dated-21-april-2026-from-the-permanent-representative-of-lebanon-to-the-united-nations-addressed-to-the-secretary-general-and-the-president-of-the-security-council/)** — `2026-04-21` | `4 Pages`
@@ -1544,7 +1545,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-CN.6-2026-NGO-209`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-209-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-208`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-208-statement/)** — `2026-01-19` | `2 Pages`
 - `[`UN-E-CN.6-2026-NGO-207`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-207-statement/)** — `2026-01-19` | `2 Pages`
-- `[`UN-E-CN.6-2026-NGO-206`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-206-statement/)** — `2026-01-19` | `3 Pages`
 
 ### [Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/programmes-and-funds/](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
