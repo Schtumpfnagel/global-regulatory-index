@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `616` across `12` issuing authorities  
-**Last Automated Sync:** `2026-11-27 04:01 UTC`
+**Total Indexed Dossiers in Philippines:** `617` across `12` issuing authorities  
+**Last Automated Sync:** `2026-11-27 04:42 UTC`
 
 ---
 
@@ -14,7 +14,7 @@
 
 - **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`201` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`106` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
-- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`78` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
+- **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`79` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
@@ -27,7 +27,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–616 of 616)
+## Indexed Statutory & Regulatory Dossiers (Records 1–617 of 617)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -347,6 +347,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-dru
 ### [National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/national-privacy-commission/](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 
+- `[`PH-NPC-54407`]` **[Furniture and Fixtures](https://www.indexdata.org/furniture-and-fixtures/)** — `2026-11-27` | `3 Pages`
 - `[`PH-NPC-54400`]` **[NPC Advisory Opinion No. 2026-013 DISCLOSURE OF CCTV FOOTAGE TO LAW ENFORCEMENT dedacted](https://www.indexdata.org/npc-advisory-opinion-no-2026-013-disclosure-of-cctv-footage-to-law-enforcement-dedacted/)** — `2026-11-24` | `7 Pages`
 - `[`PH-NPC-54399`]` **[NPC Advisory Opinion No 2026-012 BIR Access to Records dedacted](https://www.indexdata.org/npc-advisory-opinion-no-2026-012-bir-access-to-records-dedacted/)** — `2026-11-24` | `6 Pages`
 - `[`PH-NPC-54393`]` **[CBD Advance Management Process Analytics Digital Platform (DAMPA) Phase 2A](https://www.indexdata.org/cbd-advance-management-process-analytics-digital-platform-dampa-phase-2a/)** — `2026-11-23` | `152 Pages`
