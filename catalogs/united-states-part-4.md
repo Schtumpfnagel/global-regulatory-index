@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,746` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,747` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | **[Part 4 (Current)]** | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-27 20:58 UTC`
+**Last Automated Sync:** `2026-11-27 21:59 UTC`
 
 ---
 
@@ -32,7 +32,7 @@
 - **[Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)** (`131` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 - **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 - **[Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-- **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
+- **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`117` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 - **[Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 - **[National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
 - **[Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,746)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–6,000 of 15,747)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -630,7 +630,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-16890`]` **[Amendment of Jet Route J-96 in the Vicinity of Cimarron, NM](https://www.indexdata.org/amendment-of-jet-route-j-96-in-the-vicinity-of-cimarron-nm/)** — `2025-09-03` | `2 Pages`
 - `[`2025-16888`]` **[Amendment of VOR Federal Airways V-55, V-100, and V-277 in the Vicinity of Keeler, MI](https://www.indexdata.org/amendment-of-vor-federal-airways-v-55-v-100-and-v-277-in-the-vicinity-of-keeler-mi/)** — `2025-09-03` | `3 Pages`
 - `[`2025-16861`]` **[Amendment of Jet Routes and Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways and Revocation of VOR Federal Airway; Eastern United States](https://www.indexdata.org/amendment-of-jet-routes-and-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-and-revocation-of-vor-federal-airway-eastern-united-states/)** — `2025-09-03` | `4 Pages`
-- `[`2025-16761`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-95/)** — `2025-09-02` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1319,6 +1318,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-fo
 ### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
 
+- `[`2026-03265`]` **[Parts and Accessories Necessary for Safe Operation; Fuel Tank Overfill Restriction](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-fuel-tank-overfill-restriction/)** — `2026-02-19` | `5 Pages`
 - `[`2026-03264`]` **[Electronic Driver Vehicle Inspection Reports](https://www.indexdata.org/electronic-driver-vehicle-inspection-reports/)** — `2026-02-19` | `4 Pages`
 - `[`2026-03263`]` **[Commercial Driver's License Standards; Requirements and Penalties: Applicability to the Exception for Certain Military Personnel](https://www.indexdata.org/commercial-drivers-license-standards-requirements-and-penalties-applicability-to-the-exception-for-certain-military-personnel/)** — `2026-02-19` | `5 Pages`
 - `[`2026-03262`]` **[Parts and Accessories Necessary for Safe Operation; Spare Fuses](https://www.indexdata.org/parts-and-accessories-necessary-for-safe-operation-spare-fuses/)** — `2026-02-19` | `4 Pages`

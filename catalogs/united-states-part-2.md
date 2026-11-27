@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,746` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,747` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-27 20:58 UTC`
+**Last Automated Sync:** `2026-11-27 21:59 UTC`
 
 ---
 
@@ -32,7 +32,7 @@
 - **[Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)** (`131` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)
 - **[Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 - **[Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
-- **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
+- **[Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)** (`117` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)
 - **[Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
 - **[National Highway Traffic Safety Administration](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-highway-traffic-safety-administration/feed/)
 - **[Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)** (`114` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,746)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,747)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1123,7 +1123,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CDOC-119hdoc176`]` **[H. Doc. 119-176 - ADJUSTING IMPORTS OF COMMERCIAL AIRCRAFT, JET ENGINES, AND AIRCRAFT AND ENGINE PARTS INTO THE UNITED STATES](https://www.indexdata.org/h-doc-119-176-adjusting-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states/)** — `2026-08-20` | `8 Pages`
 - `[`US-CDOC-119hdoc168`]` **[H. Doc. 119-168 - CERTIFICATION OF RESCISSION OF SYRIA'S DESIGNATION AS A STATE SPONSOR OF TERRORISM](https://www.indexdata.org/h-doc-119-168-certification-of-rescission-of-syrias-designation-as-a-state-sponsor-of-terrorism/)** — `2026-08-20` | `10 Pages`
 - `[`US-CPRT-119HPRT64275`]` **[CP-15 - FULL COMMITTEE BUSINESS MEETING MARK-UP OF SEVERAL BILLS](https://www.indexdata.org/cp-15-full-committee-business-meeting-mark-up-of-several-bills/)** — `2026-08-19` | `40 Pages`
-- `[`US-CPRT-119HPRT63946`]` **[House Committee Print 119-31 - RULES COMMITTEE PRINT 119-31 TEXT OF H.R. 7892, THE NO AID FOR GHOST STUDENTS ACT OF 2026](https://www.indexdata.org/house-committee-print-119-31-rules-committee-print-119-31-text-of-h-r-7892-the-no-aid-for-ghost-students-act-of-2026/)** — `2026-06-16` | `7 Pages`
 
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
@@ -1864,6 +1863,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-custom
 - `[`2026-12670`]` **[Indefinite Suspension of the De Minimis Exemption for Merchandise Arriving Through All Modes Other Than the International Postal Network](https://www.indexdata.org/indefinite-suspension-of-the-de-minimis-exemption-for-merchandise-arriving-through-all-modes-other-than-the-international-postal-network/)** — `2026-06-24` | `13 Pages`
 - `[`2026-12669`]` **[Indefinite Suspension of the De Minimis Exemption for Mail Shipments and New Postal Informal Entry Process](https://www.indexdata.org/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry-process/)** — `2026-06-24` | `21 Pages`
 
+### [U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
+
+- `[`US-GAO-gao-27-108740`]` **[Quantum Computing: Federal Actions Needed to Prepare for Emerging Cyber Threat](https://www.indexdata.org/quantum-computing-federal-actions-needed-to-prepare-for-emerging-cyber-threat/)** — `2026-10-06` | `60 Pages`
+- `[`US-GAO-gao-26-107937`]` **[Disability Employment: DOL Should Enhance Monitoring and Guidance for Federal Contractors](https://www.indexdata.org/disability-employment-dol-should-enhance-monitoring-and-guidance-for-federal-contractors/)** — `2026-10-06` | `41 Pages`
+- `[`US-GAO-gao-26-107393`]` **[Medicare Part D: Payments and Contracts Between Pharmacies and Plan Sponsors That Are Vertically Integrated &#91;Reissued with revisions on Oct. 6, 2026&#93;](https://www.indexdata.org/medicare-part-d-payments-and-contracts-between-pharmacies-and-plan-sponsors-that-are-vertically-integrated-reissued-with-revisions-on-oct-6-2026/)** — `2026-10-06` | `46 Pages`
+- `[`US-GAO-gao-27-108692`]` **[Concrete Masonry Promotion Program: Commerce Could Enhance Its Oversight Controls](https://www.indexdata.org/concrete-masonry-promotion-program-commerce-could-enhance-its-oversight-controls/)** — `2026-10-05` | `31 Pages`
+- `[`US-GAO-gao-27-109056`]` **[Innovation in Action: Getting You Up to Speed on Manufacturing](https://www.indexdata.org/innovation-in-action-getting-you-up-to-speed-on-manufacturing/)** — `2026-10-02` | `2 Pages`
+
 ### [Federal Contract Compliance Programs Office](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-contract-compliance-programs-office/feed/)
 
@@ -1903,14 +1911,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/supreme-co
 - `[`US-SCOTUS-USREPORTS-585`]` **[United States Reports, Volume 585 (USREPORTS-585)](https://www.indexdata.org/united-states-reports-volume-585-usreports-585/)** — `2026-09-28` | `1077 Pages`
 - `[`US-SCOTUS-USREPORTS-584`]` **[United States Reports, Volume 584 (USREPORTS-584)](https://www.indexdata.org/united-states-reports-volume-584-usreports-584/)** — `2026-09-28` | `1110 Pages`
 - `[`US-SCOTUS-USREPORTS-583`]` **[United States Reports, Volume 583 (USREPORTS-583)](https://www.indexdata.org/united-states-reports-volume-583-usreports-583/)** — `2026-07-14` | `1044 Pages`
-
-### [U.S. Government Accountability Office (GAO)](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-government-accountability-office-gao/feed/)
-
-- `[`US-GAO-gao-26-107937`]` **[Disability Employment: DOL Should Enhance Monitoring and Guidance for Federal Contractors](https://www.indexdata.org/disability-employment-dol-should-enhance-monitoring-and-guidance-for-federal-contractors/)** — `2026-10-06` | `41 Pages`
-- `[`US-GAO-gao-26-107393`]` **[Medicare Part D: Payments and Contracts Between Pharmacies and Plan Sponsors That Are Vertically Integrated &#91;Reissued with revisions on Oct. 6, 2026&#93;](https://www.indexdata.org/medicare-part-d-payments-and-contracts-between-pharmacies-and-plan-sponsors-that-are-vertically-integrated-reissued-with-revisions-on-oct-6-2026/)** — `2026-10-06` | `46 Pages`
-- `[`US-GAO-gao-27-108692`]` **[Concrete Masonry Promotion Program: Commerce Could Enhance Its Oversight Controls](https://www.indexdata.org/concrete-masonry-promotion-program-commerce-could-enhance-its-oversight-controls/)** — `2026-10-05` | `31 Pages`
-- `[`US-GAO-gao-27-109056`]` **[Innovation in Action: Getting You Up to Speed on Manufacturing](https://www.indexdata.org/innovation-in-action-getting-you-up-to-speed-on-manufacturing/)** — `2026-10-02` | `2 Pages`
 
 ### [Agriculture Department](https://www.indexdata.org/united-states/agriculture-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agriculture-department/](https://www.indexdata.org/united-states/agriculture-department/) | [RSS Feed](https://www.indexdata.org/united-states/agriculture-department/feed/)

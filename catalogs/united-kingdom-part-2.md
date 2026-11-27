@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,483` across `102` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,486` across `102` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]** | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-27 20:58 UTC`
+**Last Automated Sync:** `2026-11-27 21:59 UTC`
 
 ---
 
@@ -34,10 +34,10 @@
 - **[Animal and Plant Health Agency](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/animal-and-plant-health-agency/feed/)
 - **[Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
 - **[Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
+- **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
 - **[Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)** (`24` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
 - **[HM Land Registry](https://www.indexdata.org/united-kingdom/hm-land-registry/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-land-registry/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-land-registry/feed/)
 - **[Offshore Petroleum Regulator for Environment and Decommissioning](https://www.indexdata.org/united-kingdom/offshore-petroleum-regulator-for-environment-and-decommissioning/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/offshore-petroleum-regulator-for-environment-and-decommissioning/) | [RSS Feed](https://www.indexdata.org/united-kingdom/offshore-petroleum-regulator-for-environment-and-decommissioning/feed/)
-- **[British Geological Survey](https://www.indexdata.org/united-kingdom/british-geological-survey/)** (`21` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/british-geological-survey/) | [RSS Feed](https://www.indexdata.org/united-kingdom/british-geological-survey/feed/)
 - **[Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
 - **[Government Legal Department](https://www.indexdata.org/united-kingdom/government-legal-department/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/government-legal-department/) | [RSS Feed](https://www.indexdata.org/united-kingdom/government-legal-department/feed/)
 - **[UK Visas and Immigration](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/feed/)
@@ -118,7 +118,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,483)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,486)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -511,7 +511,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2024-1060`]` **[The Court Martial Appeal Court (Amendment) Rules 2024](https://www.indexdata.org/the-court-martial-appeal-court-amendment-rules-2024/)** — `2024-10-23` | `8 Pages`
 - `[`UKSI-2024-1062`]` **[The Costs in the Court Martial Appeal Court (Amendment) Regulations 2024](https://www.indexdata.org/the-costs-in-the-court-martial-appeal-court-amendment-regulations-2024/)** — `2024-10-22` | `2 Pages`
 - `[`UKSI-2024-1056`]` **[The Internet Television Equipment Regulations 2024](https://www.indexdata.org/the-internet-television-equipment-regulations-2024/)** — `2024-10-22` | `2 Pages`
-- `[`UKSI-2024-1055`]` **[The Price Marking (Amendment) Order 2024](https://www.indexdata.org/the-price-marking-amendment-order-2024/)** — `2024-10-21` | `4 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -724,7 +723,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 - `[`UKSI-2024-1083`]` **[The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024](https://www.indexdata.org/the-insurance-and-reinsurance-undertakings-prudential-requirements-amendment-and-miscellaneous-provisions-regulations-2024/)** — `2024-10-31` | `12 Pages`
 - `[`UKSI-2024-1090`]` **[The Insolvency Practitioners (Amendment and Transitional Provisions) Regulations 2024](https://www.indexdata.org/the-insolvency-practitioners-amendment-and-transitional-provisions-regulations-2024/)** — `2024-10-30` | `8 Pages`
 - `[`UKSI-2024-1071`]` **[The Financial Services and Markets Act 2023 (Commencement No. 8) Regulations 2024](https://www.indexdata.org/the-financial-services-and-markets-act-2023-commencement-no-8-regulations-2024/)** — `2024-10-28` | `12 Pages`
-- `[`UKSI-2024-1051`]` **[The Critical Benchmarks Regulations 2024](https://www.indexdata.org/the-critical-benchmarks-regulations-2024/)** — `2024-10-21` | `2 Pages`
 
 ### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
@@ -1090,7 +1088,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 - `[`UKSI-2024-1108`]` **[The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 3) Regulations 2024](https://www.indexdata.org/the-economic-crime-and-corporate-transparency-act-2023-commencement-no-3-regulations-2024/)** — `2024-11-05` | `4 Pages`
 - `[`UKSI-2024-1085`]` **[The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2024](https://www.indexdata.org/the-nationality-immigration-and-asylum-act-2002-juxtaposed-controls-amendment-order-2024/)** — `2024-10-31` | `2 Pages`
 - `[`UKSI-2024-1067`]` **[Criminal Law, England And Wales](https://www.indexdata.org/criminal-law-england-and-wales-2/)** — `2024-10-24` | `2 Pages`
-- `[`UKSI-2024-1050`]` **[The Public Order Act 2023 (Commencement No. 5) (England and Wales) Regulations 2024](https://www.indexdata.org/the-public-order-act-2023-commencement-no-5-england-and-wales-regulations-2024/)** — `2024-10-21` | `2 Pages`
 
 ### [Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-education/](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
@@ -1658,6 +1655,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKPGA-2025-23`]` **[Armed Forces Commissioner Act 2025](https://www.indexdata.org/armed-forces-commissioner-act-2025/)** — `2025-09-03` | `20 Pages`
 - `[`UKSI-2024-1120`]` **[The Armed Forces Act 2006 (Continuation) Order 2024](https://www.indexdata.org/the-armed-forces-act-2006-continuation-order-2024/)** — `2024-11-06` | `2 Pages`
 
+### [Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/environment-agency/](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
+
+- `[`UK-DGOV-4564c349-ce0-2c3f208a-80b`]` **[Seagrass Analysis Ready Data (NCEA) — Intertidal Seagrass Drone Survey Methodology.pdf](https://www.indexdata.org/seagrass-analysis-ready-data-ncea-intertidal-seagrass-drone-survey-methodology-pdf/)** — `2026-10-30` | `6 Pages`
+- `[`UK-DGOV-4564c349-ce0-10d0cf60-aa2`]` **[Seagrass Analysis Ready Data (NCEA) — EA Subtidal Seagrass Image Analysis Guidance v4.2 - EXTERNAL.pdf](https://www.indexdata.org/seagrass-analysis-ready-data-ncea-ea-subtidal-seagrass-image-analysis-guidance-v4-2-external-pdf/)** — `2026-10-30` | `6 Pages`
+- `[`UK-DGOV-2b1dc7a4-ff9-a45be695-8cf`]` **[Rivers and Sea 3.3% defended flood risk depths – present day — Rivers_and_Sea_Defended_and_Undefended_Depths_Product_Description.pdf](https://www.indexdata.org/rivers-and-sea-3-3-defended-flood-risk-depths-present-day-rivers_and_sea_defended_and_undefended_depths_product_description-pdf/)** — `2026-10-30` | `10 Pages`
+- `[`UK-DGOV-1589b7ec-230-d4c568fb-f56`]` **[Rivers and Sea defended and undefended flood risk extents - present day — Rivers and Sea Defended and Undefended Product Description.pdf](https://www.indexdata.org/rivers-and-sea-defended-and-undefended-flood-risk-extents-present-day-rivers-and-sea-defended-and-undefended-product-description-pdf/)** — `2026-10-30` | `9 Pages`
+
 ### [Department for Digital, Culture, Media and Sport](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-digital-culture-media-and-sport/feed/)
 
@@ -1680,11 +1685,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/british-g
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-innovation-science-and-trade/feed/)
 
 - `[`UKSI-2026-1129`]` **[The Code of Practice (Access and Unfair Practices During the Recognition and Derecognition Process) Order 2026](https://www.indexdata.org/the-code-of-practice-access-and-unfair-practices-during-the-recognition-and-derecognition-process-order-2026/)** — `2026-10-26` | `4 Pages`
-
-### [Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/environment-agency/](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
-
-- `[`UK-DGOV-1589b7ec-230-d4c568fb-f56`]` **[Rivers and Sea defended and undefended flood risk extents - present day — Rivers and Sea Defended and Undefended Product Description.pdf](https://www.indexdata.org/rivers-and-sea-defended-and-undefended-flood-risk-extents-present-day-rivers-and-sea-defended-and-undefended-product-description-pdf/)** — `2026-10-30` | `9 Pages`
 
 ### [Family Procedure Rule Committee](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/family-procedure-rule-committee/feed/)
