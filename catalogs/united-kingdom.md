@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,452` across `102` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,454` across `102` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-27 14:31 UTC`
+**Last Automated Sync:** `2026-11-27 15:45 UTC`
 
 ---
 
@@ -22,7 +22,7 @@
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`149` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`143` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`128` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`120` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`122` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`119` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
@@ -118,7 +118,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,452)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,454)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -411,6 +411,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts
 ### [Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 
+- `[`UK-JUD-133821`]` **[Courts and Tribunals Judiciary: AJAI^J Joshua- Sentencing Remarks- 27 November 2026](https://www.indexdata.org/courts-and-tribunals-judiciary-ajaij-joshua-sentencing-remarks-27-november-2026/)** — `2026-11-27` | `9 Pages`
+- `[`UK-JUD-133818`]` **[Courts and Tribunals Judiciary: AJAI^J Joshua- Sentencing Remarks- 27 November 2026](https://www.indexdata.org/courts-and-tribunals-judiciary-ajaij-joshua-sentencing-remarks-27-november-2026-2/)** — `2026-11-27` | `9 Pages`
 - `[`UK-JUD-133813`]` **[Courts and Tribunals Judiciary: Final Judgment – Nour Ismail v SSHD – Guy Vassall-Adams KC 27.11.26](https://www.indexdata.org/courts-and-tribunals-judiciary-final-judgment-nour-ismail-v-sshd-guy-vassall-adams-kc-27-11-26/)** — `2026-11-27` | `19 Pages`
 - `[`UK-JUD-133810`]` **[Courts and Tribunals Judiciary: 2026-0466- Response from Department for Transport](https://www.indexdata.org/courts-and-tribunals-judiciary-2026-0466-response-from-department-for-transport/)** — `2026-11-27` | `2 Pages`
 - `[`UK-JUD-133809`]` **[Courts and Tribunals Judiciary: Kieran Walsh- Prevention of Future Deaths Report-2026-0466](https://www.indexdata.org/courts-and-tribunals-judiciary-kieran-walsh-prevention-of-future-deaths-report-2026-0466/)** — `2026-11-27` | `4 Pages`
@@ -945,7 +947,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 - `[`UKSI-2026-1141`]` **[The English Devolution and Community Empowerment Act 2026 (Commencement No. 4) Regulations 2026](https://www.indexdata.org/the-english-devolution-and-community-empowerment-act-2026-commencement-no-4-regulations-2026/)** — `2026-10-28` | `2 Pages`
 - `[`UKSI-2026-1138`]` **[The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) Regulations 2026](https://www.indexdata.org/the-english-devolution-and-community-empowerment-act-2026-consequential-amendments-regulations-2026/)** — `2026-10-28` | `2 Pages`
 - `[`UKSI-2026-1128`]` **[The Leasehold and Freehold Reform Act 2024 (Commencement No. 4 and Saving Provision) (England) Regulations 2026](https://www.indexdata.org/the-leasehold-and-freehold-reform-act-2024-commencement-no-4-and-saving-provision-england-regulations-2026/)** — `2026-10-25` | `8 Pages`
-- `[`UKSI-2026-1118`]` **[The English Devolution and Community Empowerment Act 2026 (Consequential Amendments) (Precepts) (England) Regulations 2026](https://www.indexdata.org/the-english-devolution-and-community-empowerment-act-2026-consequential-amendments-precepts-england-regulations-2026/)** — `2026-10-22` | `4 Pages`
 
 ### [Department for Environment, Food & Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-rural-affairs/feed/)
@@ -1927,11 +1928,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/governmen
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/groceries-code-adjudicator/](https://www.indexdata.org/united-kingdom/groceries-code-adjudicator/) | [RSS Feed](https://www.indexdata.org/united-kingdom/groceries-code-adjudicator/feed/)
 
 - `[`UK-GOV-d3682aae-41ac-4ec8-8881-5953b17bbb45-1`]` **[Code Confident pack](https://www.indexdata.org/code-confident-pack/)** — `2026-11-26` | `22 Pages`
-
-### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
-
-- `[`UKSI-2026-1117`]` **[The Over the Counter Derivatives (Intragroup Transactions) Regulations 2026](https://www.indexdata.org/the-over-the-counter-derivatives-intragroup-transactions-regulations-2026/)** — `2026-10-22` | `7 Pages`
 
 ### [HM Treasury and His Majesty’s Revenue and Customs](https://www.indexdata.org/united-kingdom/hm-treasury-and-his-majesty-s-revenue-and-customs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury-and-his-majesty-s-revenue-and-customs/](https://www.indexdata.org/united-kingdom/hm-treasury-and-his-majesty-s-revenue-and-customs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury-and-his-majesty-s-revenue-and-customs/feed/)
