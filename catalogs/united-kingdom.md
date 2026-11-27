@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,445` across `102` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,452` across `102` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-27 13:57 UTC`
+**Last Automated Sync:** `2026-11-27 14:31 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`304` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`277` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`284` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`156` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
@@ -118,18 +118,25 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,445)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,452)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 
+- `[`UK-GOV-fb6dd4e1-35e4-4dc0-b646-6f845915d93e-1`]` **[Mr E Polson v The City of Edinburgh Council: 4114973/2014 — Mr E Polson v The City of Edinburgh Council: 4114973/2014 - Strike Out](https://www.indexdata.org/mr-e-polson-v-the-city-of-edinburgh-council-4114973-2014-mr-e-polson-v-the-city-of-edinburgh-council-4114973-2014-strike-out/)** — `2026-11-27` | `2 Pages`
 - `[`UK-GOV-fb5552d9-20b0-493f-98b1-503df3f1b3fe-1`]` **[Mr R Saini v Amazon UK Services Ltd: 1402483/2025 — Mr R Saini v Amazon UK Services Ltd: 1402483/2025 - Preliminary](https://www.indexdata.org/mr-r-saini-v-amazon-uk-services-ltd-1402483-2025-mr-r-saini-v-amazon-uk-services-ltd-1402483-2025-preliminary/)** — `2026-11-27` | `2 Pages`
 - `[`UK-GOV-f604c42d-2b19-4151-838f-088bb784e194-1`]` **[C Langford v AECOM Ltd: 6009096/2025 — C Langford v AECOM Ltd: 6009096/2025 - Costs](https://www.indexdata.org/c-langford-v-aecom-ltd-6009096-2025-c-langford-v-aecom-ltd-6009096-2025-costs/)** — `2026-11-27` | `12 Pages`
 - `[`UK-GOV-d8c5c4d9-604d-4f21-8090-3d53b3a24e3b-1`]` **[Flat 607 Celestial 153 Cordelia Street London E14 6GH:LON/00BG/MRA/2026/0369 — E14 6GH_LON/00BG/MRA/2026/0369_Decision](https://www.indexdata.org/flat-607-celestial-153-cordelia-street-london-e14-6ghlon-00bg-mra-2026-0369-e14-6gh_lon-00bg-mra-2026-0369_decision/)** — `2026-11-27` | `5 Pages`
 - `[`UK-GOV-af52dff3-0f55-42f4-9845-302567b285cd-1`]` **[29 Scotts Road, London, W12 8HP:LON/00AN/MRA/2026/0201 — W12 8HP_LON/00AN/MRA/2026/0201_Decision](https://www.indexdata.org/29-scotts-road-london-w12-8hplon-00an-mra-2026-0201-w12-8hp_lon-00an-mra-2026-0201_decision/)** — `2026-11-27` | `5 Pages`
 - `[`UK-GOV-a27e0f2d-0526-471d-be2b-a8351fdb5608-1`]` **[Mr J Lyon v Emergency Response Systems Global Ltd (In Creditors Voluntary Liquidation): 6024014/2025 — Mr J Lyon v Emergency Response Systems Global Ltd (In Creditors Voluntary Liquidation): 6024014/2025 - Judgment](https://www.indexdata.org/mr-j-lyon-v-emergency-response-systems-global-ltd-in-creditors-voluntary-liquidation-6024014-2025-mr-j-lyon-v-emergency-response-systems-global-ltd-in-creditors-voluntary-liquidation-6/)** — `2026-11-27` | `2 Pages`
+- `[`UK-GOV-a1981185-3e0d-4dca-b000-289b34c4c0b4-1`]` **[Ms F Burnett v Aberdeenshire Council: 114231/2006 — Ms F Burnett v Aberdeenshire Council: 114231/2006 - Strike Out](https://www.indexdata.org/ms-f-burnett-v-aberdeenshire-council-114231-2006-ms-f-burnett-v-aberdeenshire-council-114231-2006-strike-out/)** — `2026-11-27` | `2 Pages`
+- `[`UK-GOV-92ead818-32a1-4cb4-8cab-20e47d2c74bf-1`]` **[HUZ v Disclosure and Barring Service: &#91;2026&#93; UKUT 427 (AAC) — UA-2024-001693-V](https://www.indexdata.org/huz-v-disclosure-and-barring-service-2026-ukut-427-aac-ua-2024-001693-v/)** — `2026-11-27` | `7 Pages`
+- `[`UK-GOV-81ebeb15-5841-4af3-b4ab-039cbb7ef2f0-1`]` **[The Cabinet Office v (1) Information Commissioner (2) Martin Rosenbaum: &#91;2026&#93; UKUT 419 (AAC) — UA-2025-002068-GIA](https://www.indexdata.org/the-cabinet-office-v-1-information-commissioner-2-martin-rosenbaum-2026-ukut-419-aac-ua-2025-002068-gia/)** — `2026-11-27` | `8 Pages`
+- `[`UK-GOV-801d89f9-53e5-465c-8ccd-43e465269fd5-1`]` **[Ms T Shepherd v Aberdeenshire Council: 102848/2010 — Ms T Shepherd v Aberdeenshire Council: 102848/2010 - Strike Out](https://www.indexdata.org/ms-t-shepherd-v-aberdeenshire-council-102848-2010-ms-t-shepherd-v-aberdeenshire-council-102848-2010-strike-out/)** — `2026-11-27` | `2 Pages`
 - `[`UK-GOV-7f50eb82-c5df-488c-a079-f3eab8fbc36c-1`]` **[J Ellis v HW Martin Waste Ltd: 3304495/2025 — J Ellis v HW Martin Waste Ltd: 3304495/2025 - Reserved Judgment](https://www.indexdata.org/j-ellis-v-hw-martin-waste-ltd-3304495-2025-j-ellis-v-hw-martin-waste-ltd-3304495-2025-reserved-judgment/)** — `2026-11-27` | `25 Pages`
+- `[`UK-GOV-6c17aa5b-c724-4532-a1c3-b388a310b6cf-1`]` **[Ms E Nicoll v Aberdeenshire Council: 102805/2006 — Ms E Nicoll v Aberdeenshire Council: 102805/2006 - Strike Out](https://www.indexdata.org/ms-e-nicoll-v-aberdeenshire-council-102805-2006-ms-e-nicoll-v-aberdeenshire-council-102805-2006-strike-out/)** — `2026-11-27` | `2 Pages`
 - `[`UK-GOV-68b17ddc-b91c-4478-95da-f67756bd2b38-1`]` **[Flat 4 Riverhill Court 181 High Street Hampton TW12 1NL:LON/00BD/MRA/2026/0367 — TW12 1NL_LON/00BD/MRA/2026/0367_Decision](https://www.indexdata.org/flat-4-riverhill-court-181-high-street-hampton-tw12-1nllon-00bd-mra-2026-0367-tw12-1nl_lon-00bd-mra-2026-0367_decision/)** — `2026-11-27` | `5 Pages`
+- `[`UK-GOV-2178c7e0-fead-4124-9376-f35a254a8883-1`]` **[Mr M Pryde v The City of Edinburgh Council: 4114977/2014 — Mr M Pryde v The City of Edinburgh Council: 4114977/2014 - Strike Out](https://www.indexdata.org/mr-m-pryde-v-the-city-of-edinburgh-council-4114977-2014-mr-m-pryde-v-the-city-of-edinburgh-council-4114977-2014-strike-out/)** — `2026-11-27` | `2 Pages`
 - `[`UK-GOV-0c2ec7d4-0594-45f6-9d8b-fed6866cbbe0-1`]` **[193 The Heights, Harrow, Northolt UB5 4BU:LON/00AQ/MRA/2026/0188 — UB5 4BU_LON/00AQ/MRA/2026/0188_Decision](https://www.indexdata.org/193-the-heights-harrow-northolt-ub5-4bulon-00aq-mra-2026-0188-ub5-4bu_lon-00aq-mra-2026-0188_decision/)** — `2026-11-27` | `5 Pages`
 - `[`UK-GOV-056b77c9-7fbd-4671-92df-74728d2b9b9d-1`]` **[Second Floor Front Right Room (4), 6d Marylands Road, Maida Vale, London, W9 2DZ:LON/00BK/MRA/2026/0193 — W9 2DZ_LON/00BK/MRA/2026/0193_Decision](https://www.indexdata.org/second-floor-front-right-room-4-6d-marylands-road-maida-vale-london-w9-2dzlon-00bk-mra-2026-0193-w9-2dz_lon-00bk-mra-2026-0193_decision/)** — `2026-11-27` | `5 Pages`
 - `[`UK-GOV-00f0ef41-f99f-4a10-80fb-dcc0ee781fb7-1`]` **[Flat 26 Weatherbury, 90 Talbot Road, London, England, W2 5LF:LON/00BK/MRA/2026/0183 — W2 5LF_LON/00BK/MRA/2026/0183_Decision](https://www.indexdata.org/flat-26-weatherbury-90-talbot-road-london-england-w2-5lflon-00bk-mra-2026-0183-w2-5lf_lon-00bk-mra-2026-0183_decision/)** — `2026-11-27` | `6 Pages`
@@ -1026,7 +1033,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-1136`]` **[The Bus Services Act 2025 (Commencement No. 3 and Transitional Provision) (England) Regulations 2026](https://www.indexdata.org/the-bus-services-act-2025-commencement-no-3-and-transitional-provision-england-regulations-2026/)** — `2026-10-26` | `4 Pages`
 - `[`UKSI-2026-1127`]` **[The English Devolution and Community Empowerment Act 2026 (Commencement No. 3) Regulations 2026](https://www.indexdata.org/the-english-devolution-and-community-empowerment-act-2026-commencement-no-3-regulations-2026/)** — `2026-10-26` | `2 Pages`
 - `[`UKSI-2026-1108`]` **[The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 9) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-helicopter-flight-no-9-regulations-2026/)** — `2026-10-26` | `4 Pages`
-- `[`UKSI-2026-1107`]` **[The Intimate Image Reports (Trusted Flagger) Regulations 2026](https://www.indexdata.org/the-intimate-image-reports-trusted-flagger-regulations-2026/)** — `2026-10-20` | `2 Pages`
 
 ### [Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
@@ -1068,7 +1074,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UK-DGOV-b92627b0-dd7-1cdb3e33-070`]` **[Non-EU countries approved to export animals and animal products to Great Britain — Frogs’ legs and snails &#91;2019/626&#93;](https://www.indexdata.org/non-eu-countries-approved-to-export-animals-and-animal-products-to-great-britain-frogs-legs-and-snails-2019-626/)** — `2026-10-30` | `7 Pages`
 - `[`UK-DGOV-b92627b0-dd7-174a4330-0f5`]` **[Non-EU countries approved to export animals and animal products to Great Britain — Fresh meat of ungulates &#91;EUR 2010/ 206&#93;](https://www.indexdata.org/non-eu-countries-approved-to-export-animals-and-animal-products-to-great-britain-fresh-meat-of-ungulates-eur-2010-206/)** — `2026-10-30` | `11 Pages`
 - `[`UKSI-2026-1142`]` **[The Sea Fisheries (Amendment and Transitional Provision) Regulations 2026](https://www.indexdata.org/the-sea-fisheries-amendment-and-transitional-provision-regulations-2026/)** — `2026-10-28` | `44 Pages`
-- `[`UKSI-2026-1110`]` **[The Marine Licensing (Exempted Activities and Fees) (Amendment) Regulations 2026](https://www.indexdata.org/the-marine-licensing-exempted-activities-and-fees-amendment-regulations-2026/)** — `2026-10-19` | `24 Pages`
 
 ### [Marine Management Organisation](https://www.indexdata.org/united-kingdom/marine-management-organisation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/marine-management-organisation/](https://www.indexdata.org/united-kingdom/marine-management-organisation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/marine-management-organisation/feed/)
@@ -1136,7 +1141,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UK-GOV-5f209bf9-7631-11e4-a3cb-005056011aef-1`]` **[Children in need census: guide to submitting data — additional guide on the factors identified at the end of assessment](https://www.indexdata.org/children-in-need-census-guide-to-submitting-data-additional-guide-on-the-factors-identified-at-the-end-of-assessment/)** — `2026-11-03` | `16 Pages`
 - `[`UK-GOV-57bfc601-9cab-465c-9e38-703e8ec10de8-1`]` **[Children in need census 2027 to 2028: guide — Children in need census 2027 to 2028 guide](https://www.indexdata.org/children-in-need-census-2027-to-2028-guide-children-in-need-census-2027-to-2028-guide/)** — `2026-11-03` | `105 Pages`
 - `[`UK-GOV-4a94ecba-f34b-4bab-ba2c-69712c0628be-1`]` **[Children in need census 2026 to 2027: specification — Children in need census 2026 to 2027: business and technical specification](https://www.indexdata.org/children-in-need-census-2026-to-2027-specification-children-in-need-census-2026-to-2027-business-and-technical-specification/)** — `2026-11-03` | `42 Pages`
-- `[`UKSI-2026-1109`]` **[The Power to Award Degrees etc. (MLA College Ltd) Order 2026](https://www.indexdata.org/the-power-to-award-degrees-etc-mla-college-ltd-order-2026/)** — `2026-10-20` | `4 Pages`
 
 ### [Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/natural-history-museum/](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
@@ -1267,28 +1271,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/british-g
 - `[`UK-DGOV-5b97702b-c55-aabf183b-2c3`]` **[EU Project Report: SiteChar - Characterisation of European CO2 storage, Final Report — Resource locator](https://www.indexdata.org/eu-project-report-sitechar-characterisation-of-european-co2-storage-final-report-resource-locator/)** — `2026-10-30` | `31 Pages`
 - `[`UK-DGOV-091eaae6-318-d8707634-386`]` **[EU Project Report: The RISCS Guide - A guide to potential impacts of leakage from CO2 storage — Resource locator](https://www.indexdata.org/eu-project-report-the-riscs-guide-a-guide-to-potential-impacts-of-leakage-from-co2-storage-resource-locator/)** — `2026-10-30` | `70 Pages`
 
-### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
-
-- `[`UK-GOV-d20bdb61-884f-4b30-9fb9-0fabb63a6496-2`]` **[Treasury Minutes – November 2026 — Treasury Minutes - November 2026 (Accessible)](https://www.indexdata.org/treasury-minutes-november-2026-treasury-minutes-november-2026-accessible/)** — `2026-11-26` | `35 Pages`
-- `[`UK-GOV-d20bdb61-884f-4b30-9fb9-0fabb63a6496-1`]` **[Treasury Minutes – November 2026 — Treasury Minutes - November 2026](https://www.indexdata.org/treasury-minutes-november-2026-treasury-minutes-november-2026/)** — `2026-11-26` | `40 Pages`
-- `[`UKSI-2026-1218`]` **[The Individual Savings Account (Amendment and Revocation) Regulations 2026](https://www.indexdata.org/the-individual-savings-account-amendment-and-revocation-regulations-2026/)** — `2026-11-19` | `7 Pages`
-- `[`UKSI-2026-1217`]` **[The Value Added Tax (Drugs and Medicines) (Health and Welfare) Order 2026](https://www.indexdata.org/the-value-added-tax-drugs-and-medicines-health-and-welfare-order-2026/)** — `2026-11-19` | `2 Pages`
-- `[`UKSI-2026-1219`]` **[The Financial Services and Markets Act 2000 (Cryptoassets) (Miscellaneous Amendments) Regulations 2026](https://www.indexdata.org/the-financial-services-and-markets-act-2000-cryptoassets-miscellaneous-amendments-regulations-2026/)** — `2026-11-18` | `12 Pages`
-- `[`UKSI-2026-1215`]` **[The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2026](https://www.indexdata.org/the-financial-services-and-markets-act-2023-addition-of-relevant-enactments-regulations-2026/)** — `2026-11-18` | `4 Pages`
-- `[`UKSI-2026-1206`]` **[The Bank Levy (Definitions and Amendments) Regulations 2026](https://www.indexdata.org/the-bank-levy-definitions-and-amendments-regulations-2026/)** — `2026-11-16` | `4 Pages`
-- `[`UKSI-2026-1203`]` **[The Critical Third Parties (Designation) (Amendment) Regulations 2026](https://www.indexdata.org/the-critical-third-parties-designation-amendment-regulations-2026/)** — `2026-11-16` | `2 Pages`
-- `[`UKSI-2026-1183`]` **[The Collective Investment Schemes (Amendment etc.) (EU Exit) (Amendment) Regulations 2026](https://www.indexdata.org/the-collective-investment-schemes-amendment-etc-eu-exit-amendment-regulations-2026/)** — `2026-11-10` | `2 Pages`
-- `[`UK-GOV-908aba65-a6f6-4251-b428-c9ca8f2824ab-2`]` **[OSCAR guidance for Budgeting (Plans and Outturn) — Outturn recording guidance for OSCAR](https://www.indexdata.org/oscar-guidance-for-budgeting-plans-and-outturn-outturn-recording-guidance-for-oscar/)** — `2026-11-10` | `102 Pages`
-- `[`UK-GOV-908aba65-a6f6-4251-b428-c9ca8f2824ab-1`]` **[OSCAR guidance for Budgeting (Plans and Outturn) — Plans recording guidance for OSCAR](https://www.indexdata.org/oscar-guidance-for-budgeting-plans-and-outturn-plans-recording-guidance-for-oscar/)** — `2026-11-10` | `97 Pages`
-- `[`UK-GOV-04a67d60-7303-40e6-bf00-c32acf202469-1`]` **[Analysis of the impact of government energy support on household incomes in England](https://www.indexdata.org/analysis-of-the-impact-of-government-energy-support-on-household-incomes-in-england/)** — `2026-11-03` | `5 Pages`
-- `[`UKSI-2026-1155`]` **[The Customs (Tariff and Miscellaneous Amendments) (No. 7) Regulations 2026](https://www.indexdata.org/the-customs-tariff-and-miscellaneous-amendments-no-7-regulations-2026/)** — `2026-11-02` | `4 Pages`
-- `[`UKSI-2026-1154`]` **[The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2026](https://www.indexdata.org/the-financial-services-gibraltar-amendment-eu-exit-regulations-2026/)** — `2026-11-02` | `2 Pages`
-- `[`UKPGA-2026-28`]` **[Sovereign Grant Act 2026](https://www.indexdata.org/sovereign-grant-act-2026/)** — `2026-11-02` | `9 Pages`
-- `[`UKSI-2026-1134`]` **[The Central Counterparties (Equivalence) (Indonesia and the People’s Republic of China) Regulations 2026](https://www.indexdata.org/the-central-counterparties-equivalence-indonesia-and-the-peoples-republic-of-china-regulations-2026/)** — `2026-10-27` | `4 Pages`
-- `[`UKSI-2026-1130`]` **[The Individual Savings Account (Amendment) (No. 3) Regulations 2026](https://www.indexdata.org/the-individual-savings-account-amendment-no-3-regulations-2026/)** — `2026-10-27` | `4 Pages`
-- `[`UKSI-2026-1115`]` **[The Building Societies Act 1986 (Assimilation to Company Law and Changes to Funding Limit) Order 2026](https://www.indexdata.org/the-building-societies-act-1986-assimilation-to-company-law-and-changes-to-funding-limit-order-2026/)** — `2026-10-22` | `6 Pages`
-
 ### [Competition and Markets Authority](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/competition-and-markets-authority/](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/competition-and-markets-authority/feed/)
 
@@ -1330,6 +1312,27 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/governmen
 - `[`UK-GOV-811b1c6c-07a7-423a-8cf1-8f0a73506927-8`]` **[GLD Staff FOI releases — 24 509 Breakdown of legal staff who resign Final response](https://www.indexdata.org/gld-staff-foi-releases-24-509-breakdown-of-legal-staff-who-resign-final-response/)** — `2026-11-26` | `2 Pages`
 - `[`UK-GOV-811b1c6c-07a7-423a-8cf1-8f0a73506927-7`]` **[GLD Staff FOI releases — 24 501 GLD members of staff providing general advisory and legislation services to DWP](https://www.indexdata.org/gld-staff-foi-releases-24-501-gld-members-of-staff-providing-general-advisory-and-legislation-services-to-dwp/)** — `2026-11-26` | `2 Pages`
 - `[`UK-GOV-811b1c6c-07a7-423a-8cf1-8f0a73506927-63`]` **[GLD Staff FOI releases — 25 138 Tied to 25 115 Internal Guidance on report corruption complaints legal risk](https://www.indexdata.org/gld-staff-foi-releases-25-138-tied-to-25-115-internal-guidance-on-report-corruption-complaints-legal-risk/)** — `2026-11-26` | `3 Pages`
+
+### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
+
+- `[`UK-GOV-d20bdb61-884f-4b30-9fb9-0fabb63a6496-2`]` **[Treasury Minutes – November 2026 — Treasury Minutes - November 2026 (Accessible)](https://www.indexdata.org/treasury-minutes-november-2026-treasury-minutes-november-2026-accessible/)** — `2026-11-26` | `35 Pages`
+- `[`UK-GOV-d20bdb61-884f-4b30-9fb9-0fabb63a6496-1`]` **[Treasury Minutes – November 2026 — Treasury Minutes - November 2026](https://www.indexdata.org/treasury-minutes-november-2026-treasury-minutes-november-2026/)** — `2026-11-26` | `40 Pages`
+- `[`UKSI-2026-1218`]` **[The Individual Savings Account (Amendment and Revocation) Regulations 2026](https://www.indexdata.org/the-individual-savings-account-amendment-and-revocation-regulations-2026/)** — `2026-11-19` | `7 Pages`
+- `[`UKSI-2026-1217`]` **[The Value Added Tax (Drugs and Medicines) (Health and Welfare) Order 2026](https://www.indexdata.org/the-value-added-tax-drugs-and-medicines-health-and-welfare-order-2026/)** — `2026-11-19` | `2 Pages`
+- `[`UKSI-2026-1219`]` **[The Financial Services and Markets Act 2000 (Cryptoassets) (Miscellaneous Amendments) Regulations 2026](https://www.indexdata.org/the-financial-services-and-markets-act-2000-cryptoassets-miscellaneous-amendments-regulations-2026/)** — `2026-11-18` | `12 Pages`
+- `[`UKSI-2026-1215`]` **[The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2026](https://www.indexdata.org/the-financial-services-and-markets-act-2023-addition-of-relevant-enactments-regulations-2026/)** — `2026-11-18` | `4 Pages`
+- `[`UKSI-2026-1206`]` **[The Bank Levy (Definitions and Amendments) Regulations 2026](https://www.indexdata.org/the-bank-levy-definitions-and-amendments-regulations-2026/)** — `2026-11-16` | `4 Pages`
+- `[`UKSI-2026-1203`]` **[The Critical Third Parties (Designation) (Amendment) Regulations 2026](https://www.indexdata.org/the-critical-third-parties-designation-amendment-regulations-2026/)** — `2026-11-16` | `2 Pages`
+- `[`UKSI-2026-1183`]` **[The Collective Investment Schemes (Amendment etc.) (EU Exit) (Amendment) Regulations 2026](https://www.indexdata.org/the-collective-investment-schemes-amendment-etc-eu-exit-amendment-regulations-2026/)** — `2026-11-10` | `2 Pages`
+- `[`UK-GOV-908aba65-a6f6-4251-b428-c9ca8f2824ab-2`]` **[OSCAR guidance for Budgeting (Plans and Outturn) — Outturn recording guidance for OSCAR](https://www.indexdata.org/oscar-guidance-for-budgeting-plans-and-outturn-outturn-recording-guidance-for-oscar/)** — `2026-11-10` | `102 Pages`
+- `[`UK-GOV-908aba65-a6f6-4251-b428-c9ca8f2824ab-1`]` **[OSCAR guidance for Budgeting (Plans and Outturn) — Plans recording guidance for OSCAR](https://www.indexdata.org/oscar-guidance-for-budgeting-plans-and-outturn-plans-recording-guidance-for-oscar/)** — `2026-11-10` | `97 Pages`
+- `[`UK-GOV-04a67d60-7303-40e6-bf00-c32acf202469-1`]` **[Analysis of the impact of government energy support on household incomes in England](https://www.indexdata.org/analysis-of-the-impact-of-government-energy-support-on-household-incomes-in-england/)** — `2026-11-03` | `5 Pages`
+- `[`UKSI-2026-1155`]` **[The Customs (Tariff and Miscellaneous Amendments) (No. 7) Regulations 2026](https://www.indexdata.org/the-customs-tariff-and-miscellaneous-amendments-no-7-regulations-2026/)** — `2026-11-02` | `4 Pages`
+- `[`UKSI-2026-1154`]` **[The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2026](https://www.indexdata.org/the-financial-services-gibraltar-amendment-eu-exit-regulations-2026/)** — `2026-11-02` | `2 Pages`
+- `[`UKPGA-2026-28`]` **[Sovereign Grant Act 2026](https://www.indexdata.org/sovereign-grant-act-2026/)** — `2026-11-02` | `9 Pages`
+- `[`UKSI-2026-1134`]` **[The Central Counterparties (Equivalence) (Indonesia and the People’s Republic of China) Regulations 2026](https://www.indexdata.org/the-central-counterparties-equivalence-indonesia-and-the-peoples-republic-of-china-regulations-2026/)** — `2026-10-27` | `4 Pages`
+- `[`UKSI-2026-1130`]` **[The Individual Savings Account (Amendment) (No. 3) Regulations 2026](https://www.indexdata.org/the-individual-savings-account-amendment-no-3-regulations-2026/)** — `2026-10-27` | `4 Pages`
 
 ### [UK Visas and Immigration](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-visas-and-immigration/feed/)
@@ -1642,17 +1645,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-1135`]` **[The Football Governance Act 2025 (Commencement No. 5) Regulations 2026](https://www.indexdata.org/the-football-governance-act-2025-commencement-no-5-regulations-2026/)** — `2026-10-27` | `8 Pages`
 - `[`UKSI-2026-1119`]` **[The Electronic Communications and Wireless Telegraphy (Amendment and Saving Provision) Regulations 2026](https://www.indexdata.org/the-electronic-communications-and-wireless-telegraphy-amendment-and-saving-provision-regulations-2026/)** — `2026-10-22` | `4 Pages`
 
-### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
-
-- `[`UKSI-2026-1222`]` **[The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Dogger Bank A) (Amendment) Order 2026](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-transmission-licence-dogger-bank-a-amendment-order-2026/)** — `2026-11-18` | `2 Pages`
-- `[`UK-GOV-5e2e81e5-7631-11e4-a3cb-005056011aef-19`]` **[Oil and gas: inspection strategy and enforcement activity — The Offshore Environmental Civil Sanctions Regulations 2018 – Guidance Document (updated December 2020).](https://www.indexdata.org/oil-and-gas-inspection-strategy-and-enforcement-activity-the-offshore-environmental-civil-sanctions-regulations-2018-guidance-document-updated-december-2020/)** — `2026-11-13` | `25 Pages`
-- `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-3`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - summary of responses](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-summary-of-responses/)** — `2026-11-12` | `64 Pages`
-- `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-2`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - government response](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-government-response/)** — `2026-11-12` | `35 Pages`
-- `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-1`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - consultation document](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-consultation-document/)** — `2026-11-12` | `73 Pages`
-- `[`UKSI-2026-1151`]` **[The Contracts for Difference (Electricity Supplier Obligations) (Amendment) Regulations 2026](https://www.indexdata.org/the-contracts-for-difference-electricity-supplier-obligations-amendment-regulations-2026/)** — `2026-11-02` | `2 Pages`
-- `[`UKSI-2026-1121`]` **[The Boiler Upgrade Scheme (Amendment to the Energy Act 2008 etc.) Regulations 2026](https://www.indexdata.org/the-boiler-upgrade-scheme-amendment-to-the-energy-act-2008-etc-regulations-2026/)** — `2026-10-21` | `4 Pages`
-
 ### [Intellectual Property Office](https://www.indexdata.org/united-kingdom/intellectual-property-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/intellectual-property-office/](https://www.indexdata.org/united-kingdom/intellectual-property-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/intellectual-property-office/feed/)
 
@@ -1673,6 +1665,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/building-
 - `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-4`]` **[Resources for communications network providers — 30 June 2020: Market Engagement Event Slide Deck](https://www.indexdata.org/resources-for-communications-network-providers-30-june-2020-market-engagement-event-slide-deck/)** — `2026-11-18` | `49 Pages`
 - `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-2`]` **[Resources for communications network providers — 23 June 2020: Market Engagement Event Slide Deck](https://www.indexdata.org/resources-for-communications-network-providers-23-june-2020-market-engagement-event-slide-deck/)** — `2026-11-18` | `41 Pages`
 - `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-1`]` **[Resources for communications network providers — February 2020: Market engagement presentation](https://www.indexdata.org/resources-for-communications-network-providers-february-2020-market-engagement-presentation/)** — `2026-11-18` | `37 Pages`
+
+### [Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
+
+- `[`UKSI-2026-1222`]` **[The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Dogger Bank A) (Amendment) Order 2026](https://www.indexdata.org/the-electricity-individual-exemption-from-the-requirement-for-a-transmission-licence-dogger-bank-a-amendment-order-2026/)** — `2026-11-18` | `2 Pages`
+- `[`UK-GOV-5e2e81e5-7631-11e4-a3cb-005056011aef-19`]` **[Oil and gas: inspection strategy and enforcement activity — The Offshore Environmental Civil Sanctions Regulations 2018 – Guidance Document (updated December 2020).](https://www.indexdata.org/oil-and-gas-inspection-strategy-and-enforcement-activity-the-offshore-environmental-civil-sanctions-regulations-2018-guidance-document-updated-december-2020/)** — `2026-11-13` | `25 Pages`
+- `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-3`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - summary of responses](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-summary-of-responses/)** — `2026-11-12` | `64 Pages`
+- `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-2`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - government response](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-government-response/)** — `2026-11-12` | `35 Pages`
+- `[`UK-GOV-05d317a6-56f3-47cf-9a1f-7f2660ecd9fe-1`]` **[Voluntary carbon and nature markets: raising integrity — Voluntary carbon and nature markets: raising integrity - consultation document](https://www.indexdata.org/voluntary-carbon-and-nature-markets-raising-integrity-voluntary-carbon-and-nature-markets-raising-integrity-consultation-document/)** — `2026-11-12` | `73 Pages`
+- `[`UKSI-2026-1151`]` **[The Contracts for Difference (Electricity Supplier Obligations) (Amendment) Regulations 2026](https://www.indexdata.org/the-contracts-for-difference-electricity-supplier-obligations-amendment-regulations-2026/)** — `2026-11-02` | `2 Pages`
 
 ### [Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/cabinet-office/](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
@@ -1789,13 +1791,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/governmen
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-3`]` **[The Consultancy Playbook — Annex 1 - Definitions of Extended Workforce Services (PDF)](https://www.indexdata.org/the-consultancy-playbook-annex-1-definitions-of-extended-workforce-services-pdf/)** — `2026-11-06` | `11 Pages`
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-2`]` **[The Consultancy Playbook — Knowledge and Skills: Generation, Transfer and Sharing - Guidance Note (PDF)](https://www.indexdata.org/the-consultancy-playbook-knowledge-and-skills-generation-transfer-and-sharing-guidance-note-pdf/)** — `2026-11-06` | `22 Pages`
 - `[`UK-GOV-db90d9d3-a1ae-45c4-a4f0-129df2e1b916-1`]` **[The Consultancy Playbook — The Consultancy Playbook (PDF)](https://www.indexdata.org/the-consultancy-playbook-the-consultancy-playbook-pdf/)** — `2026-11-06` | `56 Pages`
-
-### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
-
-- `[`UKSI-2026-1117`]` **[The Over the Counter Derivatives (Intragroup Transactions) Regulations 2026](https://www.indexdata.org/the-over-the-counter-derivatives-intragroup-transactions-regulations-2026/)** — `2026-10-22` | `7 Pages`
-- `[`UKSI-2026-1116`]` **[The Overseas Prudential Requirements Regime (Credit Institutions and Investment Firms) Regulations 2026](https://www.indexdata.org/the-overseas-prudential-requirements-regime-credit-institutions-and-investment-firms-regulations-2026/)** — `2026-10-22` | `13 Pages`
-- `[`UKSI-2026-1111`]` **[The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-amendment-regulations-2026/)** — `2026-10-21` | `2 Pages`
 
 ### [Homes England](https://www.indexdata.org/united-kingdom/homes-england/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/homes-england/](https://www.indexdata.org/united-kingdom/homes-england/) | [RSS Feed](https://www.indexdata.org/united-kingdom/homes-england/feed/)
@@ -1932,6 +1927,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/governmen
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/groceries-code-adjudicator/](https://www.indexdata.org/united-kingdom/groceries-code-adjudicator/) | [RSS Feed](https://www.indexdata.org/united-kingdom/groceries-code-adjudicator/feed/)
 
 - `[`UK-GOV-d3682aae-41ac-4ec8-8881-5953b17bbb45-1`]` **[Code Confident pack](https://www.indexdata.org/code-confident-pack/)** — `2026-11-26` | `22 Pages`
+
+### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
+
+- `[`UKSI-2026-1117`]` **[The Over the Counter Derivatives (Intragroup Transactions) Regulations 2026](https://www.indexdata.org/the-over-the-counter-derivatives-intragroup-transactions-regulations-2026/)** — `2026-10-22` | `7 Pages`
 
 ### [HM Treasury and His Majesty’s Revenue and Customs](https://www.indexdata.org/united-kingdom/hm-treasury-and-his-majesty-s-revenue-and-customs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury-and-his-majesty-s-revenue-and-customs/](https://www.indexdata.org/united-kingdom/hm-treasury-and-his-majesty-s-revenue-and-customs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury-and-his-majesty-s-revenue-and-customs/feed/)

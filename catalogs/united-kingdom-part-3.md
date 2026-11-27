@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,445` across `102` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,452` across `102` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | [Part 2](united-kingdom-part-2.md) | **[Part 3 (Current)]**  
-**Last Automated Sync:** `2026-11-27 13:57 UTC`
+**Last Automated Sync:** `2026-11-27 14:31 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 
 - **[HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`304` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
-- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`277` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
+- **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`284` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
 - **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`156` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
@@ -118,11 +118,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,445 of 3,445)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–3,452 of 3,452)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2024-1017`]` **[The Architects (Fees, Electronic Communications and Miscellaneous Amendments) (Amendment) Regulations 2024](https://www.indexdata.org/the-architects-fees-electronic-communications-and-miscellaneous-amendments-amendment-regulations-2024/)** — `2024-10-07` | `2 Pages`
+- `[`UKSI-2024-1007`]` **[The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024](https://www.indexdata.org/the-council-tax-prescribed-classes-of-dwellings-and-consequential-amendments-england-regulations-2024/)** — `2024-10-07` | `8 Pages`
 - `[`UKSI-2024-997`]` **[The Judicial Committee (Appellate Jurisdiction) Rules Order 2024](https://www.indexdata.org/the-judicial-committee-appellate-jurisdiction-rules-order-2024/)** — `2024-10-02` | `28 Pages`
 - `[`UKSI-2024-995`]` **[The Exempt Charities Order 2024](https://www.indexdata.org/the-exempt-charities-order-2024/)** — `2024-10-02` | `2 Pages`
 - `[`UKSI-2024-994`]` **[The South Georgia and South Sandwich Islands (Territorial Sea) (Amendment) Order 2024](https://www.indexdata.org/the-south-georgia-and-south-sandwich-islands-territorial-sea-amendment-order-2024/)** — `2024-10-02` | `4 Pages`
@@ -229,6 +231,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 
+- `[`UKSI-2024-1012`]` **[The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024](https://www.indexdata.org/the-pensions-abolition-of-lifetime-allowance-charge-etc-no-2-regulations-2024/)** — `2024-10-07` | `52 Pages`
 - `[`UKSI-2024-1006`]` **[The Financial Services Act 2012 (Relevant Functions in relation to Complaints Scheme) (Amendment) Order 2024](https://www.indexdata.org/the-financial-services-act-2012-relevant-functions-in-relation-to-complaints-scheme-amendment-order-2024/)** — `2024-10-07` | `2 Pages`
 - `[`UKSI-2024-987`]` **[The Russia (Sanctions) (Overseas Territories) (Amendment) (No. 2) Order 2024](https://www.indexdata.org/the-russia-sanctions-overseas-territories-amendment-no-2-order-2024/)** — `2024-10-02` | `4 Pages`
 - `[`UKSI-2024-986`]` **[The Syria (Sanctions) (Overseas Territories) (Amendment) Order 2024](https://www.indexdata.org/the-syria-sanctions-overseas-territories-amendment-order-2024/)** — `2024-10-02` | `4 Pages`
@@ -306,6 +309,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasu
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 
+- `[`UKSI-2024-1018`]` **[The Leasehold and Freehold Reform Act 2024 (Commencement No. 1) Regulations 2024](https://www.indexdata.org/the-leasehold-and-freehold-reform-act-2024-commencement-no-1-regulations-2024/)** — `2024-10-07` | `2 Pages`
 - `[`UKSI-2024-991`]` **[The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024](https://www.indexdata.org/the-transfer-of-functions-secretary-of-state-for-housing-communities-and-local-government-order-2024/)** — `2024-10-02` | `12 Pages`
 - `[`UKSI-2024-947`]` **[The Student Accommodation (Codes of Management Practice and Specified Educational Establishments) (England) Regulations 2024](https://www.indexdata.org/the-student-accommodation-codes-of-management-practice-and-specified-educational-establishments-england-regulations-2024/)** — `2024-09-09` | `4 Pages`
 - `[`UKSI-2024-907`]` **[The Accounts and Audit (Amendment) Regulations 2024](https://www.indexdata.org/the-accounts-and-audit-amendment-regulations-2024/)** — `2024-09-05` | `8 Pages`
@@ -392,6 +396,39 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2024-108`]` **[The Electricity and Gas (Standards of Performance) (Suppliers) (Amendment) Regulations 2024](https://www.indexdata.org/the-electricity-and-gas-standards-of-performance-suppliers-amendment-regulations-2024/)** — `2024-01-29` | `4 Pages`
 - `[`UKSI-2024-32`]` **[The Energy Act 2023 (Commencement No. 1) Regulations 2024](https://www.indexdata.org/the-energy-act-2023-commencement-no-1-regulations-2024/)** — `2024-01-10` | `4 Pages`
 
+### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
+
+- `[`UKSI-2024-1015`]` **[The Seafarers’ Wages Regulations 2024](https://www.indexdata.org/the-seafarers-wages-regulations-2024/)** — `2024-10-07` | `32 Pages`
+- `[`UKSI-2024-1008`]` **[The Seafarers' Wages Act 2023 (Commencement) Regulations 2024](https://www.indexdata.org/the-seafarers-wages-act-2023-commencement-regulations-2024/)** — `2024-10-07` | `2 Pages`
+- `[`UKSI-2024-1014`]` **[The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent Order 2024](https://www.indexdata.org/the-associated-british-ports-immingham-eastern-ro-ro-terminal-development-consent-order-2024/)** — `2024-10-04` | `104 Pages`
+- `[`UKSI-2024-990`]` **[The Air Navigation (Amendment) Order 2024](https://www.indexdata.org/the-air-navigation-amendment-order-2024/)** — `2024-10-02` | `4 Pages`
+- `[`UKSI-2024-934`]` **[The Teesport (Extension of Limits) Harbour Revision Order 2024](https://www.indexdata.org/the-teesport-extension-of-limits-harbour-revision-order-2024/)** — `2024-09-09` | `4 Pages`
+- `[`UKSI-2024-841`]` **[The M6 Motorway (Junctions 21a to 26) (Variable Speed Limits) Regulations 2024](https://www.indexdata.org/the-m6-motorway-junctions-21a-to-26-variable-speed-limits-regulations-2024/)** — `2024-07-30` | `4 Pages`
+- `[`UKSI-2024-830`]` **[The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024](https://www.indexdata.org/the-goods-vehicles-licensing-of-operators-and-international-road-transport-permits-amendment-regulations-2024/)** — `2024-07-26` | `8 Pages`
+- `[`UKSI-2024-724`]` **[The Network Rail (Cambridge Re-Signalling) Order 2024](https://www.indexdata.org/the-network-rail-cambridge-re-signalling-order-2024/)** — `2024-05-23` | `20 Pages`
+- `[`UKSI-2024-653`]` **[The Parking (Code of Practice) Act 2019 (Commencement) Regulations 2024](https://www.indexdata.org/the-parking-code-of-practice-act-2019-commencement-regulations-2024/)** — `2024-05-16` | `2 Pages`
+- `[`UKSI-2024-636`]` **[The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024](https://www.indexdata.org/the-merchant-shipping-carriage-of-dangerous-goods-and-harmful-substances-amendment-regulations-2024/)** — `2024-05-15` | `24 Pages`
+- `[`UKSI-2024-634`]` **[The Renewable Transport Fuel Obligations (Amendment) Order 2024](https://www.indexdata.org/the-renewable-transport-fuel-obligations-amendment-order-2024/)** — `2024-05-13` | `8 Pages`
+- `[`UKSI-2024-630`]` **[The Rixton and Warburton Bridge Order 2024](https://www.indexdata.org/the-rixton-and-warburton-bridge-order-2024/)** — `2024-05-09` | `36 Pages`
+- `[`UKSI-2024-590`]` **[The Aviation Security (Amendment) Regulations 2024](https://www.indexdata.org/the-aviation-security-amendment-regulations-2024/)** — `2024-05-01` | `2 Pages`
+- `[`UKSI-2024-570`]` **[The Merchant Shipping (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2024](https://www.indexdata.org/the-merchant-shipping-prevention-of-pollution-by-garbage-from-ships-amendment-regulations-2024/)** — `2024-04-30` | `2 Pages`
+- `[`UKSI-2024-504`]` **[The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024](https://www.indexdata.org/the-treatment-of-conformity-assessment-bodies-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-regulations-2024/)** — `2024-04-07` | `12 Pages`
+- `[`UKSI-2024-526`]` **[The Network Rail (Church Fenton Level Crossing Reduction) Order 2024](https://www.indexdata.org/the-network-rail-church-fenton-level-crossing-reduction-order-2024/)** — `2024-04-04` | `44 Pages`
+- `[`UKSI-2024-479`]` **[The River Tyne (Tunnels) (Revision of Toll) Order 2024 (revoked)](https://www.indexdata.org/the-river-tyne-tunnels-revision-of-toll-order-2024-revoked/)** — `2024-04-03` | `2 Pages`
+- `[`UKSI-2024-413`]` **[The Civil Aviation (Environmental Protection) (Amendment) Regulations 2024](https://www.indexdata.org/the-civil-aviation-environmental-protection-amendment-regulations-2024/)** — `2024-03-21` | `2 Pages`
+- `[`UKSI-2024-402`]` **[The North East Mayoral Combined Authority (Establishment and Functions) Order 2024](https://www.indexdata.org/the-north-east-mayoral-combined-authority-establishment-and-functions-order-2024/)** — `2024-03-20` | `48 Pages`
+- `[`UKSI-2024-398`]` **[The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024](https://www.indexdata.org/the-immigration-nationality-and-passport-fees-amendment-regulations-2024/)** — `2024-03-19` | `16 Pages`
+- `[`UKSI-2024-389`]` **[The Levelling-up and Regeneration Act 2023 (Commencement No. 3 and Transitional and Savings Provision) Regulations 2024](https://www.indexdata.org/the-levelling-up-and-regeneration-act-2023-commencement-no-3-and-transitional-and-savings-provision-regulations-2024/)** — `2024-03-18` | `8 Pages`
+- `[`UKSI-2024-384`]` **[The Air Navigation (Overseas Territories) (Amendment) Order 2024](https://www.indexdata.org/the-air-navigation-overseas-territories-amendment-order-2024/)** — `2024-03-13` | `8 Pages`
+- `[`UKSI-2024-381`]` **[The Motor Vehicles (Driving Licences) (Amendment) Regulations 2024](https://www.indexdata.org/the-motor-vehicles-driving-licences-amendment-regulations-2024/)** — `2024-03-13` | `4 Pages`
+- `[`UKSI-2024-378`]` **[The Air Navigation (Overseas Territories) (Environmental Standards) Order 2024](https://www.indexdata.org/the-air-navigation-overseas-territories-environmental-standards-order-2024/)** — `2024-03-13` | `16 Pages`
+- `[`UKSI-2024-146`]` **[The Road Vehicles (Type-Approval) (Amendment) Regulations 2024](https://www.indexdata.org/the-road-vehicles-type-approval-amendment-regulations-2024/)** — `2024-02-13` | `8 Pages`
+- `[`UKSI-2024-127`]` **[The Railways (Revocation and Consequential Provision) Regulations 2024](https://www.indexdata.org/the-railways-revocation-and-consequential-provision-regulations-2024/)** — `2024-02-02` | `4 Pages`
+- `[`UKSI-2024-57`]` **[The Northampton and Lamport Light Railway (Amendment) Order 2024](https://www.indexdata.org/the-northampton-and-lamport-light-railway-amendment-order-2024/)** — `2024-01-17` | `2 Pages`
+- `[`UKSI-2024-8`]` **[The Railways and Freight Transport etc. (Revocation) Regulations 2024](https://www.indexdata.org/the-railways-and-freight-transport-etc-revocation-regulations-2024/)** — `2024-01-08` | `8 Pages`
+- `[`UKSI-2024-39`]` **[The A452 Chester Road and A446 Stonebridge Road (High Speed Two (Phase One)) (Trunking) Order 2024](https://www.indexdata.org/the-a452-chester-road-and-a446-stonebridge-road-high-speed-two-phase-one-trunking-order-2024/)** — `2024-01-08` | `4 Pages`
+
 ### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 
@@ -454,37 +491,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2024-433`]` **[The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2024](https://www.indexdata.org/the-tertiary-education-and-research-wales-act-2022-consequential-amendments-order-2024/)** — `2024-03-25` | `4 Pages`
 - `[`UKSI-2024-427`]` **[The Designation of Schools Having a Religious Character (England) (Amendment and Revocations) Order 2024](https://www.indexdata.org/the-designation-of-schools-having-a-religious-character-england-amendment-and-revocations-order-2024/)** — `2024-03-25` | `2 Pages`
 - `[`UKSI-2024-109`]` **[The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2024](https://www.indexdata.org/the-school-admissions-admission-arrangements-and-co-ordination-of-admission-arrangements-england-amendment-regulations-2024/)** — `2024-01-30` | `2 Pages`
-
-### [Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-transport/](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
-
-- `[`UKSI-2024-1014`]` **[The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent Order 2024](https://www.indexdata.org/the-associated-british-ports-immingham-eastern-ro-ro-terminal-development-consent-order-2024/)** — `2024-10-04` | `104 Pages`
-- `[`UKSI-2024-990`]` **[The Air Navigation (Amendment) Order 2024](https://www.indexdata.org/the-air-navigation-amendment-order-2024/)** — `2024-10-02` | `4 Pages`
-- `[`UKSI-2024-934`]` **[The Teesport (Extension of Limits) Harbour Revision Order 2024](https://www.indexdata.org/the-teesport-extension-of-limits-harbour-revision-order-2024/)** — `2024-09-09` | `4 Pages`
-- `[`UKSI-2024-841`]` **[The M6 Motorway (Junctions 21a to 26) (Variable Speed Limits) Regulations 2024](https://www.indexdata.org/the-m6-motorway-junctions-21a-to-26-variable-speed-limits-regulations-2024/)** — `2024-07-30` | `4 Pages`
-- `[`UKSI-2024-830`]` **[The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024](https://www.indexdata.org/the-goods-vehicles-licensing-of-operators-and-international-road-transport-permits-amendment-regulations-2024/)** — `2024-07-26` | `8 Pages`
-- `[`UKSI-2024-724`]` **[The Network Rail (Cambridge Re-Signalling) Order 2024](https://www.indexdata.org/the-network-rail-cambridge-re-signalling-order-2024/)** — `2024-05-23` | `20 Pages`
-- `[`UKSI-2024-653`]` **[The Parking (Code of Practice) Act 2019 (Commencement) Regulations 2024](https://www.indexdata.org/the-parking-code-of-practice-act-2019-commencement-regulations-2024/)** — `2024-05-16` | `2 Pages`
-- `[`UKSI-2024-636`]` **[The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024](https://www.indexdata.org/the-merchant-shipping-carriage-of-dangerous-goods-and-harmful-substances-amendment-regulations-2024/)** — `2024-05-15` | `24 Pages`
-- `[`UKSI-2024-634`]` **[The Renewable Transport Fuel Obligations (Amendment) Order 2024](https://www.indexdata.org/the-renewable-transport-fuel-obligations-amendment-order-2024/)** — `2024-05-13` | `8 Pages`
-- `[`UKSI-2024-630`]` **[The Rixton and Warburton Bridge Order 2024](https://www.indexdata.org/the-rixton-and-warburton-bridge-order-2024/)** — `2024-05-09` | `36 Pages`
-- `[`UKSI-2024-590`]` **[The Aviation Security (Amendment) Regulations 2024](https://www.indexdata.org/the-aviation-security-amendment-regulations-2024/)** — `2024-05-01` | `2 Pages`
-- `[`UKSI-2024-570`]` **[The Merchant Shipping (Prevention of Pollution by Garbage from Ships) (Amendment) Regulations 2024](https://www.indexdata.org/the-merchant-shipping-prevention-of-pollution-by-garbage-from-ships-amendment-regulations-2024/)** — `2024-04-30` | `2 Pages`
-- `[`UKSI-2024-504`]` **[The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024](https://www.indexdata.org/the-treatment-of-conformity-assessment-bodies-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-regulations-2024/)** — `2024-04-07` | `12 Pages`
-- `[`UKSI-2024-526`]` **[The Network Rail (Church Fenton Level Crossing Reduction) Order 2024](https://www.indexdata.org/the-network-rail-church-fenton-level-crossing-reduction-order-2024/)** — `2024-04-04` | `44 Pages`
-- `[`UKSI-2024-479`]` **[The River Tyne (Tunnels) (Revision of Toll) Order 2024 (revoked)](https://www.indexdata.org/the-river-tyne-tunnels-revision-of-toll-order-2024-revoked/)** — `2024-04-03` | `2 Pages`
-- `[`UKSI-2024-413`]` **[The Civil Aviation (Environmental Protection) (Amendment) Regulations 2024](https://www.indexdata.org/the-civil-aviation-environmental-protection-amendment-regulations-2024/)** — `2024-03-21` | `2 Pages`
-- `[`UKSI-2024-402`]` **[The North East Mayoral Combined Authority (Establishment and Functions) Order 2024](https://www.indexdata.org/the-north-east-mayoral-combined-authority-establishment-and-functions-order-2024/)** — `2024-03-20` | `48 Pages`
-- `[`UKSI-2024-398`]` **[The Immigration, Nationality and Passport (Fees) (Amendment) Regulations 2024](https://www.indexdata.org/the-immigration-nationality-and-passport-fees-amendment-regulations-2024/)** — `2024-03-19` | `16 Pages`
-- `[`UKSI-2024-389`]` **[The Levelling-up and Regeneration Act 2023 (Commencement No. 3 and Transitional and Savings Provision) Regulations 2024](https://www.indexdata.org/the-levelling-up-and-regeneration-act-2023-commencement-no-3-and-transitional-and-savings-provision-regulations-2024/)** — `2024-03-18` | `8 Pages`
-- `[`UKSI-2024-384`]` **[The Air Navigation (Overseas Territories) (Amendment) Order 2024](https://www.indexdata.org/the-air-navigation-overseas-territories-amendment-order-2024/)** — `2024-03-13` | `8 Pages`
-- `[`UKSI-2024-381`]` **[The Motor Vehicles (Driving Licences) (Amendment) Regulations 2024](https://www.indexdata.org/the-motor-vehicles-driving-licences-amendment-regulations-2024/)** — `2024-03-13` | `4 Pages`
-- `[`UKSI-2024-378`]` **[The Air Navigation (Overseas Territories) (Environmental Standards) Order 2024](https://www.indexdata.org/the-air-navigation-overseas-territories-environmental-standards-order-2024/)** — `2024-03-13` | `16 Pages`
-- `[`UKSI-2024-146`]` **[The Road Vehicles (Type-Approval) (Amendment) Regulations 2024](https://www.indexdata.org/the-road-vehicles-type-approval-amendment-regulations-2024/)** — `2024-02-13` | `8 Pages`
-- `[`UKSI-2024-127`]` **[The Railways (Revocation and Consequential Provision) Regulations 2024](https://www.indexdata.org/the-railways-revocation-and-consequential-provision-regulations-2024/)** — `2024-02-02` | `4 Pages`
-- `[`UKSI-2024-57`]` **[The Northampton and Lamport Light Railway (Amendment) Order 2024](https://www.indexdata.org/the-northampton-and-lamport-light-railway-amendment-order-2024/)** — `2024-01-17` | `2 Pages`
-- `[`UKSI-2024-8`]` **[The Railways and Freight Transport etc. (Revocation) Regulations 2024](https://www.indexdata.org/the-railways-and-freight-transport-etc-revocation-regulations-2024/)** — `2024-01-08` | `8 Pages`
-- `[`UKSI-2024-39`]` **[The A452 Chester Road and A446 Stonebridge Road (High Speed Two (Phase One)) (Trunking) Order 2024](https://www.indexdata.org/the-a452-chester-road-and-a446-stonebridge-road-high-speed-two-phase-one-trunking-order-2024/)** — `2024-01-08` | `4 Pages`
 
 ### [Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
@@ -595,6 +601,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-justice/](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
 
+- `[`UKSI-2024-1011`]` **[The Parole Board (Amendment) Rules 2024](https://www.indexdata.org/the-parole-board-amendment-rules-2024/)** — `2024-10-07` | `4 Pages`
 - `[`UKSI-2024-889`]` **[The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024](https://www.indexdata.org/the-civil-legal-aid-standard-civil-contract-miscellaneous-amendments-regulations-2024/)** — `2024-09-02` | `4 Pages`
 - `[`UKSI-2024-846`]` **[The Victims and Prisoners Act 2024 (Commencement No. 2) Regulations 2024](https://www.indexdata.org/the-victims-and-prisoners-act-2024-commencement-no-2-regulations-2024/)** — `2024-07-30` | `2 Pages`
 - `[`UKSI-2024-842`]` **[The Criminal Procedure (Amendment No. 2) Rules 2024](https://www.indexdata.org/the-criminal-procedure-amendment-no-2-rules-2024/)** — `2024-07-30` | `60 Pages`
