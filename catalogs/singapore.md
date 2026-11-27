@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/singapore/feed/](https://www.indexdata.org/singapore/feed/)  
 **Wikidata Sovereign Entity:** [`Q334`](https://www.wikidata.org/wiki/Q334)  
 **Governing Open-Government Framework:** *SG Open Data Licence v1.0 / Copyright Act 2021*  
-**Total Indexed Dossiers in Singapore:** `82` across `10` issuing authorities  
-**Last Automated Sync:** `2026-11-27 00:54 UTC`
+**Total Indexed Dossiers in Singapore:** `85` across `10` issuing authorities  
+**Last Automated Sync:** `2026-11-27 01:56 UTC`
 
 ---
 
@@ -15,8 +15,8 @@
 - **[Supreme Court of Singapore](https://www.indexdata.org/singapore/supreme-court-of-singapore/)** (`19` dossiers) — [Authority Archive](https://www.indexdata.org/singapore/supreme-court-of-singapore/) | [RSS Feed](https://www.indexdata.org/singapore/supreme-court-of-singapore/feed/)
 - **[Health Sciences Authority (HSA)](https://www.indexdata.org/singapore/health-sciences-authority-hsa/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/singapore/health-sciences-authority-hsa/) | [RSS Feed](https://www.indexdata.org/singapore/health-sciences-authority-hsa/feed/)
 - **[Agency for Science, Technology and Research (A*STAR)](https://www.indexdata.org/singapore/agency-for-science-technology-and-research-a-star/)** (`15` dossiers) — [Authority Archive](https://www.indexdata.org/singapore/agency-for-science-technology-and-research-a-star/) | [RSS Feed](https://www.indexdata.org/singapore/agency-for-science-technology-and-research-a-star/feed/)
+- **[Singapore Economic Development Board (EDB)](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/) | [RSS Feed](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/feed/)
 - **[Family Justice Courts of Singapore](https://www.indexdata.org/singapore/family-justice-courts-of-singapore/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/singapore/family-justice-courts-of-singapore/) | [RSS Feed](https://www.indexdata.org/singapore/family-justice-courts-of-singapore/feed/)
-- **[Singapore Economic Development Board (EDB)](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/) | [RSS Feed](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/feed/)
 - **[Ministry of Law (MinLaw)](https://www.indexdata.org/singapore/ministry-of-law-minlaw/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/singapore/ministry-of-law-minlaw/) | [RSS Feed](https://www.indexdata.org/singapore/ministry-of-law-minlaw/feed/)
 - **[Parliament of Singapore](https://www.indexdata.org/singapore/parliament-of-singapore/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/singapore/parliament-of-singapore/) | [RSS Feed](https://www.indexdata.org/singapore/parliament-of-singapore/feed/)
 - **[State Courts of Singapore](https://www.indexdata.org/singapore/state-courts-of-singapore/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/singapore/state-courts-of-singapore/) | [RSS Feed](https://www.indexdata.org/singapore/state-courts-of-singapore/feed/)
@@ -25,7 +25,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–82 of 82)
+## Indexed Statutory & Regulatory Dossiers (Records 1–85 of 85)
 
 ### [Supreme Court of Singapore](https://www.indexdata.org/singapore/supreme-court-of-singapore/)
 Canonical Authority Archive: [https://www.indexdata.org/singapore/supreme-court-of-singapore/](https://www.indexdata.org/singapore/supreme-court-of-singapore/) | [RSS Feed](https://www.indexdata.org/singapore/supreme-court-of-singapore/feed/)
@@ -89,6 +89,19 @@ Canonical Authority Archive: [https://www.indexdata.org/singapore/agency-for-sci
 - `[`SG-ASTAR-W7223218618`]` **[CulturalRiddles: A Multicultural Benchmark of Riddles](https://www.indexdata.org/culturalriddles-a-multicultural-benchmark-of-riddles/)** — `2026-10-21` | `37 Pages`
 - `[`SG-ASTAR-W7223139094`]` **[Magnet-free reconfigurable alterspin photonics at optical frequencies](https://www.indexdata.org/magnet-free-reconfigurable-alterspin-photonics-at-optical-frequencies/)** — `2026-10-21` | `26 Pages`
 
+### [Singapore Economic Development Board (EDB)](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/)
+Canonical Authority Archive: [https://www.indexdata.org/singapore/singapore-economic-development-board-edb/](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/) | [RSS Feed](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/feed/)
+
+- `[`SG-EDB-B2E46D2C-0DC7-4C5F-9786-F07D-962D78C5DC`]` **[Why Singapore is one of Asia’s best places to live](https://www.indexdata.org/why-singapore-is-one-of-asias-best-places-to-live/)** — `2026-11-27` | `19 Pages`
+- `[`SG-EDB-923EF139-874C-4D92-A7D3-011F-22ED7A6AF6`]` **[Why Singapore is one of Asia’s best places to live](https://www.indexdata.org/why-singapore-is-one-of-asias-best-places-to-live-3/)** — `2026-11-27` | `24 Pages`
+- `[`SG-EDB-4C4AE3DC-C7B8-4F6F-BE38-00C4-C9E0E35157`]` **[Why Singapore is one of Asia’s best places to live](https://www.indexdata.org/why-singapore-is-one-of-asias-best-places-to-live-2/)** — `2026-11-27` | `20 Pages`
+- `[`SG-EDB-F23D478B-0663-408D-A286-F69A-08ADB48418`]` **[Singapore Economic Development Board (EDB) Business & Relocation Guide](https://www.indexdata.org/singapore-economic-development-board-edb-business-relocation-guide/)** — `2026-11-06` | `7 Pages`
+- `[`SG-EDB-6400044E-3DC2-46CF-8A7A-4949-1A4234D5A3`]` **[Corporate reports](https://www.indexdata.org/corporate-reports/)** — `2026-11-06` | `15 Pages`
+- `[`SG-EDB-5DE94046-15C8-404E-BCE5-D5F1-B210800F7F`]` **[Corporate reports](https://www.indexdata.org/corporate-reports-2/)** — `2026-11-06` | `16 Pages`
+- `[`SG-EDB-4D975011-BFA1-4D02-8C20-304E-3FB714C7E5`]` **[What makes Singapore a great place to live](https://www.indexdata.org/what-makes-singapore-a-great-place-to-live/)** — `2026-11-06` | `7 Pages`
+- `[`SG-EDB-35B60CE2-8736-45FC-B3BE-D80F-2860038E5D`]` **[Corporate reports](https://www.indexdata.org/corporate-reports-3/)** — `2026-11-06` | `16 Pages`
+- `[`SG-EDB-23496E62-8ACA-4F52-86D8-4250-4137D0FA3D`]` **[Singapore Economic Development Board (EDB) Guide: Living and Working in Singapore](https://www.indexdata.org/singapore-economic-development-board-edb-guide-living-and-working-in-singapore/)** — `2026-11-06` | `7 Pages`
+
 ### [Family Justice Courts of Singapore](https://www.indexdata.org/singapore/family-justice-courts-of-singapore/)
 Canonical Authority Archive: [https://www.indexdata.org/singapore/family-justice-courts-of-singapore/](https://www.indexdata.org/singapore/family-justice-courts-of-singapore/) | [RSS Feed](https://www.indexdata.org/singapore/family-justice-courts-of-singapore/feed/)
 
@@ -100,16 +113,6 @@ Canonical Authority Archive: [https://www.indexdata.org/singapore/family-justice
 - `[`SG-SUPCT-2026-SGFC-138`]` **[YKM v YKN &#91;2026&#93; SGFC 138](https://www.indexdata.org/ykm-v-ykn-2026-sgfc-138/)** — `2026-10-23` | `44 Pages`
 - `[`SG-SUPCT-2026-SGFC-140`]` **[YKV v YKW &#91;2026&#93; SGFC 140](https://www.indexdata.org/ykv-v-ykw-2026-sgfc-140/)** — `2026-10-22` | `10 Pages`
 - `[`SG-SUPCT-2026-SGFC-139`]` **[YKQ v YKR &#91;2026&#93; SGFC 139](https://www.indexdata.org/ykq-v-ykr-2026-sgfc-139/)** — `2026-10-22` | `6 Pages`
-
-### [Singapore Economic Development Board (EDB)](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/)
-Canonical Authority Archive: [https://www.indexdata.org/singapore/singapore-economic-development-board-edb/](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/) | [RSS Feed](https://www.indexdata.org/singapore/singapore-economic-development-board-edb/feed/)
-
-- `[`SG-EDB-F23D478B-0663-408D-A286-F69A-08ADB48418`]` **[Singapore Economic Development Board (EDB) Business & Relocation Guide](https://www.indexdata.org/singapore-economic-development-board-edb-business-relocation-guide/)** — `2026-11-06` | `7 Pages`
-- `[`SG-EDB-6400044E-3DC2-46CF-8A7A-4949-1A4234D5A3`]` **[Corporate reports](https://www.indexdata.org/corporate-reports/)** — `2026-11-06` | `15 Pages`
-- `[`SG-EDB-5DE94046-15C8-404E-BCE5-D5F1-B210800F7F`]` **[Corporate reports](https://www.indexdata.org/corporate-reports-2/)** — `2026-11-06` | `16 Pages`
-- `[`SG-EDB-4D975011-BFA1-4D02-8C20-304E-3FB714C7E5`]` **[What makes Singapore a great place to live](https://www.indexdata.org/what-makes-singapore-a-great-place-to-live/)** — `2026-11-06` | `7 Pages`
-- `[`SG-EDB-35B60CE2-8736-45FC-B3BE-D80F-2860038E5D`]` **[Corporate reports](https://www.indexdata.org/corporate-reports-3/)** — `2026-11-06` | `16 Pages`
-- `[`SG-EDB-23496E62-8ACA-4F52-86D8-4250-4137D0FA3D`]` **[Singapore Economic Development Board (EDB) Guide: Living and Working in Singapore](https://www.indexdata.org/singapore-economic-development-board-edb-guide-living-and-working-in-singapore/)** — `2026-11-06` | `7 Pages`
 
 ### [Ministry of Law (MinLaw)](https://www.indexdata.org/singapore/ministry-of-law-minlaw/)
 Canonical Authority Archive: [https://www.indexdata.org/singapore/ministry-of-law-minlaw/](https://www.indexdata.org/singapore/ministry-of-law-minlaw/) | [RSS Feed](https://www.indexdata.org/singapore/ministry-of-law-minlaw/feed/)
