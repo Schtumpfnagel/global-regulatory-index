@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-nations/feed/](https://www.indexdata.org/united-nations/feed/)  
 **Wikidata Sovereign Entity:** [`Q1065`](https://www.wikidata.org/wiki/Q1065)  
 **Governing Open-Government Framework:** *UN Administrative Instruction ST/AI/189/Add.9/Rev.2*  
-**Total Indexed Dossiers in United Nations:** `7,033` across `171` issuing authorities  
+**Total Indexed Dossiers in United Nations:** `7,035` across `171` issuing authorities  
 **Catalog Volumes:** [Part 1](united-nations.md) | [Part 2](united-nations-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-nations-part-4.md) | [Part 5](united-nations-part-5.md)  
-**Last Automated Sync:** `2026-11-27 07:58 UTC`
+**Last Automated Sync:** `2026-11-27 08:58 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[General Assembly](https://www.indexdata.org/united-nations/general-assembly/)** (`3,027` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 - **[Economic and Social Council](https://www.indexdata.org/united-nations/economic-and-social-council/)** (`539` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/economic-and-social-council/) | [RSS Feed](https://www.indexdata.org/united-nations/economic-and-social-council/feed/)
 - **[Security Council](https://www.indexdata.org/united-nations/security-council/)** (`510` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/security-council/) | [RSS Feed](https://www.indexdata.org/united-nations/security-council/feed/)
-- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`499` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
+- **[Human Rights Bodies](https://www.indexdata.org/united-nations/human-rights-bodies/)** (`501` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/human-rights-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/human-rights-bodies/feed/)
 - **[UN General Assembly (UNGA)](https://www.indexdata.org/united-nations/un-general-assembly-unga/)** (`462` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-general-assembly-unga/) | [RSS Feed](https://www.indexdata.org/united-nations/un-general-assembly-unga/feed/)
 - **[UN Security Council (UNSC)](https://www.indexdata.org/united-nations/un-security-council-unsc/)** (`348` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-security-council-unsc/) | [RSS Feed](https://www.indexdata.org/united-nations/un-security-council-unsc/feed/)
 - **[UN Human Rights Council & Treaty Bodies](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/)** (`270` dossiers) — [Authority Archive](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/) | [RSS Feed](https://www.indexdata.org/united-nations/un-human-rights-council-treaty-bodies/feed/)
@@ -187,11 +187,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,033)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 7,035)
 
 ### [General Assembly](https://www.indexdata.org/united-nations/general-assembly/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/general-assembly/](https://www.indexdata.org/united-nations/general-assembly/) | [RSS Feed](https://www.indexdata.org/united-nations/general-assembly/feed/)
 
+- `[`UN-A-HRC-62-45`]` **[Unmasking the chilling effects of the digital surveillance ecosystem — the erosion of assembly and association rights : report of the Special Rapporteur on the Rights to Freedom of Peaceful Assembly and of Association, Gina Romero](https://www.indexdata.org/a-hrc-62-45-unmasking-the-chilling-effects-of-the-digital-surveillance-ecosystem-the-erosion-of-assembly-and-association-rights-report-of-the-special-rapporteur-on-the-rights-to-freedom/)** — `2026-04-21` | `25 Pages`
+- `[`UN-A-HRC-62-42-Add.1`]` **[Visit to Rwanda — report of the Special Rapporteur on Extreme Poverty and Human Rights, Olivier De Schutter](https://www.indexdata.org/a-hrc-62-42-add-1-visit-to-rwanda-report-of-the-special-rapporteur-on-extreme-poverty-and-human-rights-olivier-de-schutter/)** — `2026-04-21` | `20 Pages`
 - `[`UN-A-HRC-62-40`]` **[Truth, justice and reparation for persons affected by leprosy — a human rights framework to address historical and systematic forced segregation and discrimination : report of the Special Rapporteur on the Elimination of Discrimination against Persons Affected by Leprosy (Hansen's disease) and Their Family Members, Beatriz Miranda-Galarza](https://www.indexdata.org/a-hrc-62-40-truth-justice-and-reparation-for-persons-affected-by-leprosy-a-human-rights-framework-to-address-historical-and-systematic-forced-segregation-and-discrimination-report-of-th/)** — `2026-04-21` | `17 Pages`
 - `[`UN-A-HRC-62-24`]` **[Conscientious objection to military service — analytical report of the Office of the United Nations High Commissioner for Human Rights](https://www.indexdata.org/a-hrc-62-24-conscientious-objection-to-military-service-analytical-report-of-the-office-of-the-united-nations-high-commissioner-for-human-rights/)** — `2026-04-21` | `15 Pages`
 - `[`UN-A-HRC-62-12`]` **[Report of the Working Group on the Universal Periodic Review — Austria](https://www.indexdata.org/a-hrc-62-12-report-of-the-working-group-on-the-universal-periodic-review-austria/)** — `2026-04-21` | `24 Pages`
@@ -1543,8 +1545,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-nations/economic-
 - `[`UN-E-CN.6-2026-NGO-216`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-216-statement/)** — `2026-01-19` | `5 Pages`
 - `[`UN-E-CN.6-2026-NGO-215`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-215-statement/)** — `2026-01-19` | `4 Pages`
 - `[`UN-E-CN.6-2026-NGO-214`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-214-statement/)** — `2026-01-19` | `3 Pages`
-- `[`UN-E-CN.6-2026-NGO-213`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-213-statement/)** — `2026-01-19` | `4 Pages`
-- `[`UN-E-CN.6-2026-NGO-211`]` **[Statement](https://www.indexdata.org/e-cn-6-2026-ngo-211-statement/)** — `2026-01-19` | `2 Pages`
 
 ### [Programmes and Funds](https://www.indexdata.org/united-nations/programmes-and-funds/)
 Canonical Authority Archive: [https://www.indexdata.org/united-nations/programmes-and-funds/](https://www.indexdata.org/united-nations/programmes-and-funds/) | [RSS Feed](https://www.indexdata.org/united-nations/programmes-and-funds/feed/)
