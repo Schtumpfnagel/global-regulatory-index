@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/denmark/feed/](https://www.indexdata.org/denmark/feed/)  
 **Wikidata Sovereign Entity:** [`Q35`](https://www.wikidata.org/wiki/Q35)  
 **Governing Open-Government Framework:** *Ophavsretsloven § 9 (LBK nr 1144 af 23/10/2014) / PSI-loven (CC BY 4.0)*  
-**Total Indexed Dossiers in Denmark:** `47` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-27 09:58 UTC`
+**Total Indexed Dossiers in Denmark:** `48` across `9` issuing authorities  
+**Last Automated Sync:** `2026-11-27 10:58 UTC`
 
 ---
 
@@ -14,7 +14,7 @@
 
 - **[Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)** (`20` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
 - **[Rigsrevisionen (National Audit Office of Denmark)](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/) | [RSS Feed](https://www.indexdata.org/denmark/rigsrevisionen-national-audit-office-of-denmark/feed/)
-- **[Ministry of Climate, Energy and Utilities (Klima-, Energi- og Forsyningsministeriet)](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/feed/)
+- **[Ministry of Climate, Energy and Utilities (Klima-, Energi- og Forsyningsministeriet)](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-climate-energy-and-utilities-klima-energi-og-forsyningsministeriet/feed/)
 - **[Ministry of Justice (Justitsministeriet)](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/) | [RSS Feed](https://www.indexdata.org/denmark/ministry-of-justice-justitsministeriet/feed/)
 - **[Open Data DK](https://www.indexdata.org/denmark/open-data-dk/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/open-data-dk/) | [RSS Feed](https://www.indexdata.org/denmark/open-data-dk/feed/)
 - **[Danish Institute for International Studies (DIIS)](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/) | [RSS Feed](https://www.indexdata.org/denmark/danish-institute-for-international-studies-diis/feed/)
@@ -24,7 +24,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–47 of 47)
+## Indexed Statutory & Regulatory Dossiers (Records 1–48 of 48)
 
 ### [Geological Survey of Denmark and Greenland (GEUS)](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/)
 Canonical Authority Archive: [https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/) | [RSS Feed](https://www.indexdata.org/denmark/geological-survey-of-denmark-and-greenland-geus/feed/)
@@ -69,6 +69,7 @@ Canonical Authority Archive: [https://www.indexdata.org/denmark/ministry-of-clim
 
 - `[`DK-KEFM-ny-analyse-skal-belyse-om-en`]` **[Ny analyse skal belyse, om Energinet har de rette rammer til fremtidens opgaver &#124; Klima-, Energi- og Forsyningsministeriet](https://www.indexdata.org/ny-analyse-skal-belyse-om-energinet-har-de-rette-rammer-til-fremtidens-opgaver-klima-energi-og-forsyningsministeriet/)** — `2026-11-01` | `4 Pages`
 - `[`DK-KEFM-ny-aftale-skal-goere-danmark`]` **[Ny aftale skal gøre Danmark grønnere i stuerne og på vejene &#124; Klima-, Energi- og Forsyningsministeriet](https://www.indexdata.org/ny-aftale-skal-gore-danmark-gronnere-i-stuerne-og-pa-vejene-klima-energi-og-forsyningsministeriet/)** — `2026-11-01` | `7 Pages`
+- `[`DK-KEFM-det-faste-screeningsforloeb`]` **[Det faste screeningsforløb &#124; Klima-, Energi- og Forsyningsministeriet](https://www.indexdata.org/det-faste-screeningsforlob-klima-energi-og-forsyningsministeriet/)** — `2026-11-01` | `4 Pages`
 - `[`DK-KEFM-klimastatus-og-fremskrivning`]` **[Klimastatus og –fremskrivning 2024 &#124; Klima-, Energi- og Forsyningsministeriet](https://www.indexdata.org/klimastatus-og-fremskrivning-2024-klima-energi-og-forsyningsministeriet/)** — `2026-10-01` | `104 Pages`
 - `[`DK-KEFM-6971`]` **[Assessment of the Economic Value of Positioning Services in Denmark (London Economics Report for SDFE / KEFM)](https://www.indexdata.org/assessment-of-the-economic-value-of-positioning-services-in-denmark-london-economics-report-for-sdfe-kefm/)** — `2019-03-01` | `33 Pages`
 
