@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,339` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-27 08:58 UTC`
+**Total Indexed Dossiers in International:** `1,340` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-27 09:58 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`214` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`107` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
-- **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`105` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
+- **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`106` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`82` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
 - **[European Insurance and Occupational Pensions Authority (EIOPA)](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/)** (`80` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/) | [RSS Feed](https://www.indexdata.org/international/european-insurance-and-occupational-pensions-authority-eiopa/feed/) | [Wikidata `Q1377613`](https://www.wikidata.org/wiki/Q1377613)
 - **[European Banking Authority (EBA)](https://www.indexdata.org/international/european-banking-authority-eba/)** (`50` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-banking-authority-eba/) | [RSS Feed](https://www.indexdata.org/international/european-banking-authority-eba/feed/) | [Wikidata `Q1377610`](https://www.wikidata.org/wiki/Q1377610)
@@ -43,7 +43,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,339 of 1,339)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,340 of 1,340)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -1024,6 +1024,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-f
 - `[`EFSA-OA-W4405429149`]` **[Associations between dietary mycotoxins exposures and risk of hepatocellular carcinoma in a European cohort](https://www.indexdata.org/associations-between-dietary-mycotoxins-exposures-and-risk-of-hepatocellular-carcinoma-in-a-european-cohort/)** — `2024-12-16` | `18 Pages`
 - `[`EFSA-OA-W4405096878`]` **[Neuroprotective effect of mealworm protein hydrolysate-derived bioactive peptides in human microglial cells](https://www.indexdata.org/neuroprotective-effect-of-mealworm-protein-hydrolysate-derived-bioactive-peptides-in-human-microglial-cells/)** — `2024-12-06` | `17 Pages`
 - `[`EFSA-OA-W4404928589`]` **[Systematic mapping of antibiotic cross-resistance and collateral sensitivity with chemical genetics](https://www.indexdata.org/systematic-mapping-of-antibiotic-cross-resistance-and-collateral-sensitivity-with-chemical-genetics/)** — `2024-12-02` | `34 Pages`
+- `[`EFSA-KJ-13939336`]` **[Report of the First International Workshop on Horizon Scanning for Plant Health](https://www.indexdata.org/report-of-the-first-international-workshop-on-horizon-scanning-for-plant-health/)** — `2024-10-16` | `26 Pages`
 - `[`EFSA-OA-W4403104824`]` **[Relevance of gut microbiome research in food safety assessment](https://www.indexdata.org/relevance-of-gut-microbiome-research-in-food-safety-assessment/)** — `2024-10-03` | `27 Pages`
 - `[`EFSA-OA-W4402469717`]` **[Adherence to a healthful plant-based diet and risk of mortality among individuals with chronic kidney disease: A prospective cohort study](https://www.indexdata.org/adherence-to-a-healthful-plant-based-diet-and-risk-of-mortality-among-individuals-with-chronic-kidney-disease-a-prospective-cohort-study/)** — `2024-09-12` | `36 Pages`
 - `[`EFSA-CELLAR-C44C5F3E-68C5-11EF-A8BA-01AA75ED71A1`]` **[Publication of a vacancy for the function of Executive Director of the European Food Safety Authority (EFSA)](https://www.indexdata.org/publication-of-a-vacancy-for-the-function-of-executive-director-of-the-european-food-safety-authority-efsa/)** — `2024-09-02` | `6 Pages`

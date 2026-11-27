@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/switzerland/feed/](https://www.indexdata.org/switzerland/feed/)  
 **Wikidata Sovereign Entity:** [`Q39`](https://www.wikidata.org/wiki/Q39)  
 **Governing Open-Government Framework:** *Swiss Federal Copyright Act (CopA, SR 231.1), Art. 5 & Federal Act on OGD (EMBAG, Art. 10)*  
-**Total Indexed Dossiers in Switzerland:** `194` across `6` issuing authorities  
-**Last Automated Sync:** `2026-11-27 08:58 UTC`
+**Total Indexed Dossiers in Switzerland:** `195` across `6` issuing authorities  
+**Last Automated Sync:** `2026-11-27 09:58 UTC`
 
 ---
 
 ## Issuing Authorities in Switzerland (6 Authorities)
 
-- **[Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)** (`121` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
+- **[Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)** (`122` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
 - **[Federal Department of Justice and Police (FDJP)](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/)** (`42` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-justice-and-police-fdjp/feed/)
 - **[EnviDat: the Environmental Data Portal](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/) | [RSS Feed](https://www.indexdata.org/switzerland/envidat-the-environmental-data-portal/feed/)
 - **[Federal Department of Economic Affairs, Education and Research (EAER)](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-department-of-economic-affairs-education-and-research-eaer/feed/)
@@ -21,11 +21,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–194 of 194)
+## Indexed Statutory & Regulatory Dossiers (Records 1–195 of 195)
 
 ### [Federal Statistical Office (FSO)](https://www.indexdata.org/switzerland/federal-statistical-office-fso/)
 Canonical Authority Archive: [https://www.indexdata.org/switzerland/federal-statistical-office-fso/](https://www.indexdata.org/switzerland/federal-statistical-office-fso/) | [RSS Feed](https://www.indexdata.org/switzerland/federal-statistical-office-fso/feed/)
 
+- `[`CH-OGD-3e764ef4-8d4a-4f`]` **[Switzerland's population in 2025](https://www.indexdata.org/switzerlands-population-in-2025/)** — `2026-11-27` | `12 Pages`
 - `[`CH-OGD-5ab762cc-e831-40`]` **[Forestry in Switzerland. Pocket Statistics 2026](https://www.indexdata.org/forestry-in-switzerland-pocket-statistics-2026-2/)** — `2026-11-23` | `6 Pages`
 - `[`CH-OGD-3bde2e8f-6c5d-4b`]` **[Environment. Pocket Statistics 2026](https://www.indexdata.org/environment-pocket-statistics-2026/)** — `2026-09-07` | `10 Pages`
 - `[`CH-OGD-824ebbd1-b0f7-4f`]` **[Mobility and Transport](https://www.indexdata.org/mobility-and-transport-3/)** — `2026-07-17` | `10 Pages`
