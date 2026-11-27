@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/spain/feed/](https://www.indexdata.org/spain/feed/)  
 **Wikidata Sovereign Entity:** [`Q29`](https://www.wikidata.org/wiki/Q29)  
 **Governing Open-Government Framework:** *Art. 13 TRLPI (RDL 1/1996) & Law 37/2007 on Re-use of Public Sector Information (RD 1495/2011)*  
-**Total Indexed Dossiers in Spain:** `43` across `10` issuing authorities  
-**Last Automated Sync:** `2026-11-27 15:45 UTC`
+**Total Indexed Dossiers in Spain:** `44` across `10` issuing authorities  
+**Last Automated Sync:** `2026-11-27 16:49 UTC`
 
 ---
 
@@ -16,7 +16,7 @@
 - **[National Institute of Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-of-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
 - **[Center for Energy, Environmental and Technological Research (CIEMAT)](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/) | [RSS Feed](https://www.indexdata.org/spain/center-for-energy-environmental-and-technological-research-ciemat/feed/)
 - **[Ombudsman of Spain (Defensor del Pueblo)](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/) | [RSS Feed](https://www.indexdata.org/spain/ombudsman-of-spain-defensor-del-pueblo/feed/)
-- **[Spanish National Research Council (CSIC)](https://www.indexdata.org/spain/spanish-national-research-council-csic/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/spain/spanish-national-research-council-csic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-research-council-csic/feed/)
+- **[Spanish National Research Council (CSIC)](https://www.indexdata.org/spain/spanish-national-research-council-csic/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/spain/spanish-national-research-council-csic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-research-council-csic/feed/)
 - **[National Institute for Aerospace Technology (Instituto Nacional de Técnica Aeroespacial - INTA)](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/) | [RSS Feed](https://www.indexdata.org/spain/national-institute-for-aerospace-technology-instituto-nacional-de-t-cnica-aeroespacial-inta/feed/)
 - **[Spanish National Center for Cardiovascular Research (CNIC)](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-center-for-cardiovascular-research-cnic/feed/)
 - **[Ministry of Culture (Ministerio de Cultura)](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/) | [RSS Feed](https://www.indexdata.org/spain/ministry-of-culture-ministerio-de-cultura/feed/)
@@ -25,7 +25,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–43 of 43)
+## Indexed Statutory & Regulatory Dossiers (Records 1–44 of 44)
 
 ### [Government of Spain (Datos.gob.es)](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/)
 Canonical Authority Archive: [https://www.indexdata.org/spain/government-of-spain-datos-gob-es/](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/) | [RSS Feed](https://www.indexdata.org/spain/government-of-spain-datos-gob-es/feed/)
@@ -76,6 +76,7 @@ Canonical Authority Archive: [https://www.indexdata.org/spain/ombudsman-of-spain
 ### [Spanish National Research Council (CSIC)](https://www.indexdata.org/spain/spanish-national-research-council-csic/)
 Canonical Authority Archive: [https://www.indexdata.org/spain/spanish-national-research-council-csic/](https://www.indexdata.org/spain/spanish-national-research-council-csic/) | [RSS Feed](https://www.indexdata.org/spain/spanish-national-research-council-csic/feed/)
 
+- `[`ES-OA-W7225661306`]` **[Integrating Risk-Managed Design of Biotechnologies Beyond Conventional Containment Across the Biotechnology Lifecycle](https://www.indexdata.org/integrating-risk-managed-design-of-biotechnologies-beyond-conventional-containment-across-the-biotechnology-lifecycle/)** — `2026-11-05` | `29 Pages`
 - `[`ES-OA-W7167485561`]` **[Antarctica InSync Scientific Theme 4 - Improving knowledge and protection of the unique Antarctic life: From land to ocean and into the deep sea](https://www.indexdata.org/antarctica-insync-scientific-theme-4-improving-knowledge-and-protection-of-the-unique-antarctic-life-from-land-to-ocean-and-into-the-deep-sea/)** — `2026-01-01` | `14 Pages`
 - `[`ES-OA-W7167460717`]` **[Antarctica InSync Science Plan](https://www.indexdata.org/antarctica-insync-science-plan/)** — `2026-01-01` | `159 Pages`
 - `[`ES-OA-W7167460191`]` **[Antarctica InSync Scientific Theme 7 - Variability, extremes, and tipping in a changing Antarctic climate](https://www.indexdata.org/antarctica-insync-scientific-theme-7-variability-extremes-and-tipping-in-a-changing-antarctic-climate/)** — `2026-01-01` | `15 Pages`

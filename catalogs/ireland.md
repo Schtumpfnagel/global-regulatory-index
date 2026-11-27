@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `209` across `40` issuing authorities  
-**Last Automated Sync:** `2026-11-27 15:45 UTC`
+**Total Indexed Dossiers in Ireland:** `210` across `40` issuing authorities  
+**Last Automated Sync:** `2026-11-27 16:49 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Marine Institute](https://www.indexdata.org/ireland/marine-institute/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/marine-institute/) | [RSS Feed](https://www.indexdata.org/ireland/marine-institute/feed/)
 - **[Minister for Justice, Home Affairs and Migration](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-justice-home-affairs-and-migration/feed/)
 - **[Seanad Éireann](https://www.indexdata.org/ireland/seanad-ireann/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/seanad-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/seanad-ireann/feed/)
-- **[The Arts Council](https://www.indexdata.org/ireland/the-arts-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-arts-council/) | [RSS Feed](https://www.indexdata.org/ireland/the-arts-council/feed/)
+- **[The Arts Council](https://www.indexdata.org/ireland/the-arts-council/)** (`10` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-arts-council/) | [RSS Feed](https://www.indexdata.org/ireland/the-arts-council/feed/)
 - **[Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
 - **[Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
 - **[Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
@@ -55,7 +55,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–209 of 209)
+## Indexed Statutory & Regulatory Dossiers (Records 1–210 of 210)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -171,6 +171,7 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/seanad-ireann/](
 ### [The Arts Council](https://www.indexdata.org/ireland/the-arts-council/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/the-arts-council/](https://www.indexdata.org/ireland/the-arts-council/) | [RSS Feed](https://www.indexdata.org/ireland/the-arts-council/feed/)
 
+- `[`IE-AC-37290`]` **[RP Communications Officer – Content](https://www.indexdata.org/rp-communications-officer-content/)** — `2026-11-27` | `3 Pages`
 - `[`IE-AC-37271`]` **[An 2028 Scéim Camchuairte Saothair – Réamhphleanáil](https://www.indexdata.org/an-2028-sceim-camchuairte-saothair-reamhphleanail/)** — `2026-11-26` | `46 Pages`
 - `[`IE-AC-37264`]` **[2028 Advance Planning Touring Guidelines](https://www.indexdata.org/2028-advance-planning-touring-guidelines/)** — `2026-11-26` | `43 Pages`
 - `[`IE-AC-36895`]` **[COCandidateInformationBooklet](https://www.indexdata.org/cocandidateinformationbooklet/)** — `2026-11-10` | `8 Pages`
