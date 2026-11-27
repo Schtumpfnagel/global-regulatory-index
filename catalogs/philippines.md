@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `615` across `12` issuing authorities  
-**Last Automated Sync:** `2026-11-27 02:56 UTC`
+**Total Indexed Dossiers in Philippines:** `616` across `12` issuing authorities  
+**Last Automated Sync:** `2026-11-27 04:01 UTC`
 
 ---
 
@@ -18,8 +18,8 @@
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
+- **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
 - **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
-- **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`28` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 - **[Food and Nutrition Research Institute](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/feed/)
 - **[Philippine Rice Research Institute](https://www.indexdata.org/philippines/philippine-rice-research-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-rice-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-rice-research-institute/feed/)
@@ -27,7 +27,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–615 of 615)
+## Indexed Statutory & Regulatory Dossiers (Records 1–616 of 616)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -604,6 +604,39 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-
 - `[`PH-CDA-69906`]` **[Table](https://www.indexdata.org/table/)** — `2026-08-03` | `2 Pages`
 - `[`PH-CDA-69871`]` **[MIMAROPA NGPA APP 2026 Revised No. 1](https://www.indexdata.org/mimaropa-ngpa-app-2026-revised-no-1/)** — `2026-07-31` | `2 Pages`
 
+### [Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)
+Canonical Authority Archive: [https://www.indexdata.org/philippines/commission-on-human-rights/](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
+
+- `[`PH-CHR-88235`]` **[Bid Docs – Webmail Hosting](https://www.indexdata.org/bid-docs-webmail-hosting/)** — `2026-11-26` | `88 Pages`
+- `[`PH-CHR-88224`]` **[Indicative APP FY 2027 – RO 5 v2](https://www.indexdata.org/indicative-app-fy-2027-ro-5-v2/)** — `2026-11-23` | `2 Pages`
+- `[`PH-CHR-88215`]` **[3rd Qtr -CHR-FARS AS oF THE QUARTER ENDING SEPTEMBER 30, 2026](https://www.indexdata.org/3rd-qtr-chr-fars-as-of-the-quarter-ending-september-30-2026/)** — `2026-11-23` | `18 Pages`
+- `[`PH-CHR-88207`]` **[2026-155 Bid Docs. HCI – 11-16-2026](https://www.indexdata.org/2026-155-bid-docs-hci-11-16-2026/)** — `2026-11-17` | `95 Pages`
+- `[`PH-CHR-88204`]` **[RFQ 2026-11-160 – Supply and Delivery of Three (3) Digital Cameras for Forensic Investigative Missions](https://www.indexdata.org/rfq-2026-11-160-supply-and-delivery-of-three-3-digital-cameras-for-forensic-investigative-missions/)** — `2026-11-17` | `8 Pages`
+- `[`PH-CHR-88201`]` **[RFQ 2026-11-159 – Supply and Delivery of Conference and Livestreaming Camera](https://www.indexdata.org/rfq-2026-11-159-supply-and-delivery-of-conference-and-livestreaming-camera/)** — `2026-11-17` | `8 Pages`
+- `[`PH-CHR-88198`]` **[2026-157 – Bid Docs. Facial Recognition – 11-16-2026](https://www.indexdata.org/2026-157-bid-docs-facial-recognition-11-16-2026-2/)** — `2026-11-17` | `94 Pages`
+- `[`PH-CHR-88196`]` **[2026-157 Bid Docs. Facial Recognition – 11-16-2026](https://www.indexdata.org/2026-157-bid-docs-facial-recognition-11-16-2026/)** — `2026-11-16` | `94 Pages`
+- `[`PH-CHR-88194`]` **[Bid Docs – Facial Recognition (Re bidding)](https://www.indexdata.org/bid-docs-facial-recognition-re-bidding/)** — `2026-11-16` | `94 Pages`
+- `[`PH-CHR-88188`]` **[RFQ 2026-11-154 – Desk Calendar](https://www.indexdata.org/rfq-2026-11-154-desk-calendar/)** — `2026-11-16` | `6 Pages`
+- `[`PH-CHR-88161`]` **[2026-10-144 – RFQ Supply and Delivery of gender mainstreaming guidebook HRPCO-CGEWHR](https://www.indexdata.org/2026-10-144-rfq-supply-and-delivery-of-gender-mainstreaming-guidebook-hrpco-cgewhr/)** — `2026-11-03` | `7 Pages`
+- `[`PH-CHR-88112`]` **[Media Statement No. 71-2026 SEANF Disqualifies MNHRC From Continued Membership in SEANF](https://www.indexdata.org/media-statement-no-71-2026-seanf-disqualifies-mnhrc-from-continued-membership-in-seanf/)** — `2026-10-21` | `2 Pages`
+- `[`PH-CHR-88109`]` **[Updated Checklist of Eligibility Requirements for CHROMES](https://www.indexdata.org/updated-checklist-of-eligibility-requirements-for-chromes/)** — `2026-10-21` | `2 Pages`
+- `[`PH-CHR-88103`]` **[CHROMES – RFEI](https://www.indexdata.org/chromes-rfei/)** — `2026-10-21` | `29 Pages`
+- `[`PH-CHR-88099`]` **[DTMS – RFEI](https://www.indexdata.org/dtms-rfei/)** — `2026-10-21` | `30 Pages`
+- `[`PH-CHR-88072`]` **[Bid Docs – Facial Recognition and Biometric with API](https://www.indexdata.org/bid-docs-facial-recognition-and-biometric-with-api/)** — `2026-10-12` | `105 Pages`
+- `[`PH-CHR-88069`]` **[Bid Docs – Microsoft Office LTSC](https://www.indexdata.org/bid-docs-microsoft-office-ltsc/)** — `2026-10-12` | `85 Pages`
+- `[`PH-CHR-88054`]` **[CS Form No. 9 Revised 2025 – Request for Publication of Vacant Positions as of 10-12-2026 Central Office (Final)](https://www.indexdata.org/cs-form-no-9-revised-2025-request-for-publication-of-vacant-positions-as-of-10-12-2026-central-office-final/)** — `2026-10-12` | `2 Pages`
+- `[`PH-CHR-88031`]` **[RFQ 2026-10-132 Supply and Delivery of Wellness Gift Set](https://www.indexdata.org/rfq-2026-10-132-supply-and-delivery-of-wellness-gift-set/)** — `2026-10-08` | `13 Pages`
+- `[`PH-CHR-88017`]` **[APPROVED FAR AS OF JUNE 30 2026](https://www.indexdata.org/approved-far-as-of-june-30-2026/)** — `2026-10-08` | `17 Pages`
+- `[`PH-CHR-88016`]` **[APPROVED BAR-1 AS OF JUNE 30 2026](https://www.indexdata.org/approved-bar-1-as-of-june-30-2026/)** — `2026-10-08` | `8 Pages`
+- `[`PH-CHR-88003`]` **[POSITION PAPER ON THE UNNUMBERED SUBSTITUTE BILL TO “THE ARTIFICIAL INTELLIGENCE DEVELOPMENT AND REGULATION BILL”](https://www.indexdata.org/position-paper-on-the-unnumbered-substitute-bill-to-the-artificial-intelligence-development-and-regulation-bill/)** — `2026-10-07` | `10 Pages`
+- `[`PH-CHR-87988`]` **[APP-CSE 2027 – RO 5](https://www.indexdata.org/app-cse-2027-ro-5/)** — `2026-10-06` | `9 Pages`
+- `[`PH-CHR-87974`]` **[CHR (VI) No.POL2026-014](https://www.indexdata.org/chr-vi-no-pol2026-014/)** — `2026-10-02` | `30 Pages`
+- `[`PH-CHR-87971`]` **[RFQ 2026-10-126 – Supply and Delivery of IEC Materials (book)](https://www.indexdata.org/rfq-2026-10-126-supply-and-delivery-of-iec-materials-book/)** — `2026-10-02` | `5 Pages`
+- `[`PH-CHR-87968`]` **[RFQ 2026-10-123 – Supply and Delivery of Traditional Media Placement](https://www.indexdata.org/rfq-2026-10-123-supply-and-delivery-of-traditional-media-placement/)** — `2026-10-02` | `6 Pages`
+- `[`PH-CHR-87965`]` **[RFQ 2026-10-120 – Supply and Delivery of Various Inks (HP)](https://www.indexdata.org/rfq-2026-10-120-supply-and-delivery-of-various-inks-hp/)** — `2026-10-02` | `5 Pages`
+- `[`PH-CHR-87929`]` **[Indicative APP FY 2027 – RO 10 1](https://www.indexdata.org/indicative-app-fy-2027-ro-10-1/)** — `2026-09-30` | `3 Pages`
+- `[`PH-CHR-87924`]` **[APP-CSE 2027 – RO 12](https://www.indexdata.org/app-cse-2027-ro-12/)** — `2026-09-30` | `9 Pages`
+
 ### [Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/government-procurement-policy-board/](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 
@@ -636,38 +669,6 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/government-p
 - `[`PH-GPPB-16071`]` **[APP FY 2026 – 18th Update](https://www.indexdata.org/app-fy-2026-18th-update/)** — `2026-11-09` | `6 Pages`
 - `[`PH-GPPB-16054`]` **[NPM 033-2026](https://www.indexdata.org/npm-033-2026/)** — `2026-11-06` | `6 Pages`
 - `[`PH-GPPB-16044`]` **[Bid-Bulletin-2026-01 – One Unit Motor Vehicle 2](https://www.indexdata.org/bid-bulletin-2026-01-one-unit-motor-vehicle-2/)** — `2026-11-04` | `3 Pages`
-
-### [Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)
-Canonical Authority Archive: [https://www.indexdata.org/philippines/commission-on-human-rights/](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
-
-- `[`PH-CHR-88224`]` **[Indicative APP FY 2027 – RO 5 v2](https://www.indexdata.org/indicative-app-fy-2027-ro-5-v2/)** — `2026-11-23` | `2 Pages`
-- `[`PH-CHR-88215`]` **[3rd Qtr -CHR-FARS AS oF THE QUARTER ENDING SEPTEMBER 30, 2026](https://www.indexdata.org/3rd-qtr-chr-fars-as-of-the-quarter-ending-september-30-2026/)** — `2026-11-23` | `18 Pages`
-- `[`PH-CHR-88207`]` **[2026-155 Bid Docs. HCI – 11-16-2026](https://www.indexdata.org/2026-155-bid-docs-hci-11-16-2026/)** — `2026-11-17` | `95 Pages`
-- `[`PH-CHR-88204`]` **[RFQ 2026-11-160 – Supply and Delivery of Three (3) Digital Cameras for Forensic Investigative Missions](https://www.indexdata.org/rfq-2026-11-160-supply-and-delivery-of-three-3-digital-cameras-for-forensic-investigative-missions/)** — `2026-11-17` | `8 Pages`
-- `[`PH-CHR-88201`]` **[RFQ 2026-11-159 – Supply and Delivery of Conference and Livestreaming Camera](https://www.indexdata.org/rfq-2026-11-159-supply-and-delivery-of-conference-and-livestreaming-camera/)** — `2026-11-17` | `8 Pages`
-- `[`PH-CHR-88198`]` **[2026-157 – Bid Docs. Facial Recognition – 11-16-2026](https://www.indexdata.org/2026-157-bid-docs-facial-recognition-11-16-2026-2/)** — `2026-11-17` | `94 Pages`
-- `[`PH-CHR-88196`]` **[2026-157 Bid Docs. Facial Recognition – 11-16-2026](https://www.indexdata.org/2026-157-bid-docs-facial-recognition-11-16-2026/)** — `2026-11-16` | `94 Pages`
-- `[`PH-CHR-88194`]` **[Bid Docs – Facial Recognition (Re bidding)](https://www.indexdata.org/bid-docs-facial-recognition-re-bidding/)** — `2026-11-16` | `94 Pages`
-- `[`PH-CHR-88188`]` **[RFQ 2026-11-154 – Desk Calendar](https://www.indexdata.org/rfq-2026-11-154-desk-calendar/)** — `2026-11-16` | `6 Pages`
-- `[`PH-CHR-88161`]` **[2026-10-144 – RFQ Supply and Delivery of gender mainstreaming guidebook HRPCO-CGEWHR](https://www.indexdata.org/2026-10-144-rfq-supply-and-delivery-of-gender-mainstreaming-guidebook-hrpco-cgewhr/)** — `2026-11-03` | `7 Pages`
-- `[`PH-CHR-88112`]` **[Media Statement No. 71-2026 SEANF Disqualifies MNHRC From Continued Membership in SEANF](https://www.indexdata.org/media-statement-no-71-2026-seanf-disqualifies-mnhrc-from-continued-membership-in-seanf/)** — `2026-10-21` | `2 Pages`
-- `[`PH-CHR-88109`]` **[Updated Checklist of Eligibility Requirements for CHROMES](https://www.indexdata.org/updated-checklist-of-eligibility-requirements-for-chromes/)** — `2026-10-21` | `2 Pages`
-- `[`PH-CHR-88103`]` **[CHROMES – RFEI](https://www.indexdata.org/chromes-rfei/)** — `2026-10-21` | `29 Pages`
-- `[`PH-CHR-88099`]` **[DTMS – RFEI](https://www.indexdata.org/dtms-rfei/)** — `2026-10-21` | `30 Pages`
-- `[`PH-CHR-88072`]` **[Bid Docs – Facial Recognition and Biometric with API](https://www.indexdata.org/bid-docs-facial-recognition-and-biometric-with-api/)** — `2026-10-12` | `105 Pages`
-- `[`PH-CHR-88069`]` **[Bid Docs – Microsoft Office LTSC](https://www.indexdata.org/bid-docs-microsoft-office-ltsc/)** — `2026-10-12` | `85 Pages`
-- `[`PH-CHR-88054`]` **[CS Form No. 9 Revised 2025 – Request for Publication of Vacant Positions as of 10-12-2026 Central Office (Final)](https://www.indexdata.org/cs-form-no-9-revised-2025-request-for-publication-of-vacant-positions-as-of-10-12-2026-central-office-final/)** — `2026-10-12` | `2 Pages`
-- `[`PH-CHR-88031`]` **[RFQ 2026-10-132 Supply and Delivery of Wellness Gift Set](https://www.indexdata.org/rfq-2026-10-132-supply-and-delivery-of-wellness-gift-set/)** — `2026-10-08` | `13 Pages`
-- `[`PH-CHR-88017`]` **[APPROVED FAR AS OF JUNE 30 2026](https://www.indexdata.org/approved-far-as-of-june-30-2026/)** — `2026-10-08` | `17 Pages`
-- `[`PH-CHR-88016`]` **[APPROVED BAR-1 AS OF JUNE 30 2026](https://www.indexdata.org/approved-bar-1-as-of-june-30-2026/)** — `2026-10-08` | `8 Pages`
-- `[`PH-CHR-88003`]` **[POSITION PAPER ON THE UNNUMBERED SUBSTITUTE BILL TO “THE ARTIFICIAL INTELLIGENCE DEVELOPMENT AND REGULATION BILL”](https://www.indexdata.org/position-paper-on-the-unnumbered-substitute-bill-to-the-artificial-intelligence-development-and-regulation-bill/)** — `2026-10-07` | `10 Pages`
-- `[`PH-CHR-87988`]` **[APP-CSE 2027 – RO 5](https://www.indexdata.org/app-cse-2027-ro-5/)** — `2026-10-06` | `9 Pages`
-- `[`PH-CHR-87974`]` **[CHR (VI) No.POL2026-014](https://www.indexdata.org/chr-vi-no-pol2026-014/)** — `2026-10-02` | `30 Pages`
-- `[`PH-CHR-87971`]` **[RFQ 2026-10-126 – Supply and Delivery of IEC Materials (book)](https://www.indexdata.org/rfq-2026-10-126-supply-and-delivery-of-iec-materials-book/)** — `2026-10-02` | `5 Pages`
-- `[`PH-CHR-87968`]` **[RFQ 2026-10-123 – Supply and Delivery of Traditional Media Placement](https://www.indexdata.org/rfq-2026-10-123-supply-and-delivery-of-traditional-media-placement/)** — `2026-10-02` | `6 Pages`
-- `[`PH-CHR-87965`]` **[RFQ 2026-10-120 – Supply and Delivery of Various Inks (HP)](https://www.indexdata.org/rfq-2026-10-120-supply-and-delivery-of-various-inks-hp/)** — `2026-10-02` | `5 Pages`
-- `[`PH-CHR-87929`]` **[Indicative APP FY 2027 – RO 10 1](https://www.indexdata.org/indicative-app-fy-2027-ro-10-1/)** — `2026-09-30` | `3 Pages`
-- `[`PH-CHR-87924`]` **[APP-CSE 2027 – RO 12](https://www.indexdata.org/app-cse-2027-ro-12/)** — `2026-09-30` | `9 Pages`
 
 ### [Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/philippine-carabao-center/](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)

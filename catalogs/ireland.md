@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `208` across `40` issuing authorities  
-**Last Automated Sync:** `2026-11-27 02:56 UTC`
+**Total Indexed Dossiers in Ireland:** `209` across `40` issuing authorities  
+**Last Automated Sync:** `2026-11-27 04:01 UTC`
 
 ---
 
@@ -21,12 +21,12 @@
 - **[The Arts Council](https://www.indexdata.org/ireland/the-arts-council/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-arts-council/) | [RSS Feed](https://www.indexdata.org/ireland/the-arts-council/feed/)
 - **[Irish Human Rights and Equality Commission (IHREC)](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/)** (`8` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/) | [RSS Feed](https://www.indexdata.org/ireland/irish-human-rights-and-equality-commission-ihrec/feed/)
 - **[Department of Housing, Local Government and Heritage](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-housing-local-government-and-heritage/feed/)
+- **[Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
 - **[Minister for Finance](https://www.indexdata.org/ireland/minister-for-finance/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-finance/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-finance/feed/)
 - **[Minister for Health](https://www.indexdata.org/ireland/minister-for-health/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-health/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-health/feed/)
 - **[Minister for Housing, Local Government and Heritage](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-housing-local-government-and-heritage/feed/)
 - **[National Treasury Management Agency (NTMA)](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/) | [RSS Feed](https://www.indexdata.org/ireland/national-treasury-management-agency-ntma/feed/)
 - **[Department of Agriculture and Fisheries](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-agriculture-and-fisheries/feed/)
-- **[Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
 - **[The Pensions Authority](https://www.indexdata.org/ireland/the-pensions-authority/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/the-pensions-authority/) | [RSS Feed](https://www.indexdata.org/ireland/the-pensions-authority/feed/)
 - **[Minister for Climate, Energy and the Environment](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/feed/)
 - **[Minister for Children, Disability and Equality](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/feed/)
@@ -55,7 +55,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–208 of 208)
+## Indexed Statutory & Regulatory Dossiers (Records 1–209 of 209)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -204,6 +204,17 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-ho
 - `[`IE-DATAGOV-b6764a8a-2b78-4f`]` **[2004 Local election results](https://www.indexdata.org/2004-local-election-results/)** — `2026-10-29` | `241 Pages`
 - `[`IE-DATAGOV-9c3feb52-06fb-4f`]` **[Harbour Seal Moult Thermal-imaging Aerial Survey 2024](https://www.indexdata.org/harbour-seal-moult-thermal-imaging-aerial-survey-2024/)** — `2026-03-24` | `39 Pages`
 
+### [Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/irish-fiscal-advisory-council/](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
+
+- `[`IE-IFAC-11818`]` **[2025 FOI Disclosure Log](https://www.indexdata.org/2025-foi-disclosure-log/)** — `2026-11-26` | `3 Pages`
+- `[`IE-IFAC-11682`]` **[Flash Release Budget 2027](https://www.indexdata.org/flash-release-budget-2027/)** — `2026-10-07` | `9 Pages`
+- `[`IE-IFAC-11671`]` **[Flash Release Budget 2027](https://www.indexdata.org/flash-release-budget-2027-2/)** — `2026-10-06` | `9 Pages`
+- `[`IE-IFAC-11670`]` **[Flash Release Budget 2027](https://www.indexdata.org/flash-release-budget-2027-3/)** — `2026-10-06` | `9 Pages`
+- `[`IE-IFAC-11638`]` **[Fiscal Council Press Release Peer Review 2026](https://www.indexdata.org/fiscal-council-press-release-peer-review-2026/)** — `2026-09-11` | `3 Pages`
+- `[`IE-IFAC-11636`]` **[OECD-review-of-the-Irish-Fiscal-Advisory-Council-2026](https://www.indexdata.org/oecd-review-of-the-irish-fiscal-advisory-council-2026/)** — `2026-09-10` | `37 Pages`
+- `[`IE-IFAC-11627`]` **[Supporting items for Pre-Budget Statement, Budget 2027](https://www.indexdata.org/supporting-items-for-pre-budget-statement-budget-2027/)** — `2026-08-24` | `2 Pages`
+
 ### [Minister for Finance](https://www.indexdata.org/ireland/minister-for-finance/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-finance/](https://www.indexdata.org/ireland/minister-for-finance/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-finance/feed/)
 
@@ -257,16 +268,6 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-ag
 - `[`IE-MARINE-10793-405`]` **[Papers Presented to the 7th Session of the EIFAC Working Party on Eel](https://www.indexdata.org/papers-presented-to-the-7th-session-of-the-eifac-working-party-on-eel/)** — `2011-07-06` | `83 Pages`
 - `[`IE-MARINE-10793-397`]` **[The Effects of Drainage on the Trimblestown River](https://www.indexdata.org/the-effects-of-drainage-on-the-trimblestown-river/)** — `2011-07-06` | `21 Pages`
 - `[`IE-MARINE-10793-396`]` **[Pelagic Eggs and Young Stages of Fishes Taken on the South Coast of Ireland in 1967](https://www.indexdata.org/pelagic-eggs-and-young-stages-of-fishes-taken-on-the-south-coast-of-ireland-in-1967/)** — `2011-07-01` | `35 Pages`
-
-### [Irish Fiscal Advisory Council](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/)
-Canonical Authority Archive: [https://www.indexdata.org/ireland/irish-fiscal-advisory-council/](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/) | [RSS Feed](https://www.indexdata.org/ireland/irish-fiscal-advisory-council/feed/)
-
-- `[`IE-IFAC-11682`]` **[Flash Release Budget 2027](https://www.indexdata.org/flash-release-budget-2027/)** — `2026-10-07` | `9 Pages`
-- `[`IE-IFAC-11671`]` **[Flash Release Budget 2027](https://www.indexdata.org/flash-release-budget-2027-2/)** — `2026-10-06` | `9 Pages`
-- `[`IE-IFAC-11670`]` **[Flash Release Budget 2027](https://www.indexdata.org/flash-release-budget-2027-3/)** — `2026-10-06` | `9 Pages`
-- `[`IE-IFAC-11638`]` **[Fiscal Council Press Release Peer Review 2026](https://www.indexdata.org/fiscal-council-press-release-peer-review-2026/)** — `2026-09-11` | `3 Pages`
-- `[`IE-IFAC-11636`]` **[OECD-review-of-the-Irish-Fiscal-Advisory-Council-2026](https://www.indexdata.org/oecd-review-of-the-irish-fiscal-advisory-council-2026/)** — `2026-09-10` | `37 Pages`
-- `[`IE-IFAC-11627`]` **[Supporting items for Pre-Budget Statement, Budget 2027](https://www.indexdata.org/supporting-items-for-pre-budget-statement-budget-2027/)** — `2026-08-24` | `2 Pages`
 
 ### [The Pensions Authority](https://www.indexdata.org/ireland/the-pensions-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/the-pensions-authority/](https://www.indexdata.org/ireland/the-pensions-authority/) | [RSS Feed](https://www.indexdata.org/ireland/the-pensions-authority/feed/)

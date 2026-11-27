@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,403` across `102` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,405` across `102` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]** | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-27 02:56 UTC`
+**Last Automated Sync:** `2026-11-27 04:01 UTC`
 
 ---
 
@@ -17,9 +17,9 @@
 - **[HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)** (`304` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
 - **[HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)** (`267` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
 - **[Department for Transport](https://www.indexdata.org/united-kingdom/department-for-transport/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-transport/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-transport/feed/)
-- **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`196` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
+- **[Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)** (`197` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
 - **[Department for Education](https://www.indexdata.org/united-kingdom/department-for-education/)** (`156` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-education/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-education/feed/)
-- **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`148` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
+- **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`149` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`143` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`128` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`118` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
@@ -118,11 +118,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,403)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,405)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
 
+- `[`UKSI-2026-1062`]` **[The Access to the Countryside (Coastal Margin) (Kimmeridge Bay to Highcliffe) (No. 2) Order 2026](https://www.indexdata.org/the-access-to-the-countryside-coastal-margin-kimmeridge-bay-to-highcliffe-no-2-order-2026/)** — `2026-10-01` | `4 Pages`
 - `[`UKSI-2026-1061`]` **[The Air Navigation (Restriction of Flying) (RAF Fairford, Gloucestershire) (Emergency) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-raf-fairford-gloucestershire-emergency-regulations-2026/)** — `2026-09-30` | `2 Pages`
 - `[`UKSI-2026-1054`]` **[The Air Navigation (Restriction of Flying) (Whelford, Gloucestershire) (Emergency) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-whelford-gloucestershire-emergency-regulations-2026/)** — `2026-09-28` | `2 Pages`
 - `[`UKSI-2026-1049`]` **[The Air Navigation (Restriction of Flying) (Cardiff) (No. 2) Regulations 2026](https://www.indexdata.org/the-air-navigation-restriction-of-flying-cardiff-no-2-regulations-2026/)** — `2026-09-28` | `2 Pages`
@@ -516,7 +517,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2024-955`]` **[The Thurrock Flexible Generation Plant Consent (Amendment No. 2) Order 2024](https://www.indexdata.org/the-thurrock-flexible-generation-plant-consent-amendment-no-2-order-2024/)** — `2024-09-12` | `2 Pages`
 - `[`UKSI-2024-949`]` **[The Supreme Court Rules 2024](https://www.indexdata.org/the-supreme-court-rules-2024/)** — `2024-09-09` | `28 Pages`
 - `[`UKSI-2024-931`]` **[The Land Registration Fee Order 2024](https://www.indexdata.org/the-land-registration-fee-order-2024/)** — `2024-09-09` | `16 Pages`
-- `[`UKSI-2024-925`]` **[The Land Charges Fees Rules 2024](https://www.indexdata.org/the-land-charges-fees-rules-2024/)** — `2024-09-09` | `4 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -988,7 +988,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-offi
 - `[`UKSI-2024-1050`]` **[The Public Order Act 2023 (Commencement No. 5) (England and Wales) Regulations 2024](https://www.indexdata.org/the-public-order-act-2023-commencement-no-5-england-and-wales-regulations-2024/)** — `2024-10-21` | `2 Pages`
 - `[`UKSI-2024-1029`]` **[The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment No. 2) Order 2024](https://www.indexdata.org/the-proceeds-of-crime-act-2002-application-of-police-and-criminal-evidence-act-1984-amendment-no-2-order-2024/)** — `2024-10-15` | `2 Pages`
 - `[`UKSI-2024-966`]` **[The Victims and Prisoners Act 2024 (Commencement No. 3) Regulations 2024](https://www.indexdata.org/the-victims-and-prisoners-act-2024-commencement-no-3-regulations-2024/)** — `2024-09-17` | `4 Pages`
-- `[`UKSI-2024-928`]` **[The Immigration and Nationality (Fees) (Amendment) Regulations 2024](https://www.indexdata.org/the-immigration-and-nationality-fees-amendment-regulations-2024/)** — `2024-09-09` | `4 Pages`
 
 ### [Ministry of Housing, Communities and Local Government](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-housing-communities-and-local-government/feed/)
@@ -1211,6 +1210,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 ### [Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/department-for-business-and-trade/](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
 
+- `[`UKSI-2026-1065`]` **[The Employment Rights Act 2025 (Commencement No. 6 and Transitional and Saving Provisions) Regulations 2026](https://www.indexdata.org/the-employment-rights-act-2025-commencement-no-6-and-transitional-and-saving-provisions-regulations-2026/)** — `2026-10-01` | `8 Pages`
 - `[`UKSI-2026-1040`]` **[The Digital Markets, Competition and Consumers Act 2024 (Commencement No. 3 and Transitional Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-digital-markets-competition-and-consumers-act-2024-commencement-no-3-and-transitional-provisions-amendment-regulations-2026/)** — `2026-09-16` | `2 Pages`
 - `[`UKSI-2026-986`]` **[The Toys (Safety) (Permitted Uses for Cobalt) (England and Wales and Scotland) Regulations 2026](https://www.indexdata.org/the-toys-safety-permitted-uses-for-cobalt-england-and-wales-and-scotland-regulations-2026/)** — `2026-09-07` | `4 Pages`
 - `[`UKSI-2026-954`]` **[The Employment Rights Act 2025 (Commencement No. 5 and Transitional Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-employment-rights-act-2025-commencement-no-5-and-transitional-provisions-amendment-regulations-2026/)** — `2026-09-01` | `12 Pages`

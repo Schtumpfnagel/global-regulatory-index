@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,397` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,398` across `34` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | **[Part 3 (Current)]** | [Part 4](canada-part-4.md)  
-**Last Automated Sync:** `2026-11-27 02:56 UTC`
+**Last Automated Sync:** `2026-11-27 04:01 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
 - **[Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)** (`360` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 - **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** (`156` dossiers) — [Authority Archive](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/)
-- **[Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)** (`140` dossiers) — [Authority Archive](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
+- **[Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)** (`141` dossiers) — [Authority Archive](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
 - **[Health Canada](https://www.indexdata.org/canada/health-canada/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)
 - **[Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)** (`81` dossiers) — [Authority Archive](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
 - **[Environment and Climate Change Canada](https://www.indexdata.org/canada/environment-and-climate-change-canada/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/canada/environment-and-climate-change-canada/) | [RSS Feed](https://www.indexdata.org/canada/environment-and-climate-change-canada/feed/)
@@ -50,11 +50,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,397)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 5,398)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
 
+- `[`SOR-2002-102`]` **[Index-linked Deposits Interest Disclosure Regulations](https://www.indexdata.org/index-linked-deposits-interest-disclosure-regulations/)** — `2026-09-30` | `3 Pages`
 - `[`SOR-2001-8`]` **[Order Binding Certain Agents of Her Majesty for the Purposes of Part 1 of the Personal Information Protection and Electronic Documents Act](https://www.indexdata.org/order-binding-certain-agents-of-her-majesty-for-the-purposes-of-part-1-of-the-personal-information-protection-and-electronic-documents-act/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-2001-7`]` **[Regulations Specifying Publicly Available Information](https://www.indexdata.org/regulations-specifying-publicly-available-information/)** — `2026-09-30` | `5 Pages`
 - `[`SOR-2001-6`]` **[Regulations Specifying Investigative Bodies](https://www.indexdata.org/regulations-specifying-investigative-bodies/)** — `2026-09-30` | `3 Pages`
@@ -1224,7 +1225,6 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/
 - `[`S-15`]` **[Special Import Measures Act](https://www.indexdata.org/special-import-measures-act/)** — `2026-09-30` | `168 Pages`
 - `[`S-12.55`]` **[Softwood Lumber Products Export Charge Act, 2006](https://www.indexdata.org/softwood-lumber-products-export-charge-act-2006/)** — `2026-09-30` | `98 Pages`
 - `[`S-1.3`]` **[Saguenay-St. Lawrence Marine Park Act](https://www.indexdata.org/saguenay-st-lawrence-marine-park-act/)** — `2026-09-30` | `38 Pages`
-- `[`R-5.3`]` **[An Act respecting regulations made pursuant to section 4 of the Aeronautics Act](https://www.indexdata.org/an-act-respecting-regulations-made-pursuant-to-section-4-of-the-aeronautics-act/)** — `2026-09-30` | `6 Pages`
 
 ### [Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-finance-canada/](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)

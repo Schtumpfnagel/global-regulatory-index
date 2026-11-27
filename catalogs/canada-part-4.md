@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/canada/feed/](https://www.indexdata.org/canada/feed/)  
 **Wikidata Sovereign Entity:** [`Q16`](https://www.wikidata.org/wiki/Q16)  
 **Governing Open-Government Framework:** *Reproduction of Federal Law Order (SI/97-5)*  
-**Total Indexed Dossiers in Canada:** `5,397` across `34` issuing authorities  
+**Total Indexed Dossiers in Canada:** `5,398` across `34` issuing authorities  
 **Catalog Volumes:** [Part 1](canada.md) | [Part 2](canada-part-2.md) | [Part 3](canada-part-3.md) | **[Part 4 (Current)]**  
-**Last Automated Sync:** `2026-11-27 02:56 UTC`
+**Last Automated Sync:** `2026-11-27 04:01 UTC`
 
 ---
 
@@ -17,7 +17,7 @@
 - **[Transport Canada](https://www.indexdata.org/canada/transport-canada/)** (`639` dossiers) — [Authority Archive](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
 - **[Department of Finance Canada](https://www.indexdata.org/canada/department-of-finance-canada/)** (`360` dossiers) — [Authority Archive](https://www.indexdata.org/canada/department-of-finance-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-finance-canada/feed/)
 - **[Crown-Indigenous Relations and Northern Affairs Canada](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/)** (`156` dossiers) — [Authority Archive](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/) | [RSS Feed](https://www.indexdata.org/canada/crown-indigenous-relations-and-northern-affairs-canada/feed/)
-- **[Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)** (`140` dossiers) — [Authority Archive](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
+- **[Natural Resources Canada](https://www.indexdata.org/canada/natural-resources-canada/)** (`141` dossiers) — [Authority Archive](https://www.indexdata.org/canada/natural-resources-canada/) | [RSS Feed](https://www.indexdata.org/canada/natural-resources-canada/feed/)
 - **[Health Canada](https://www.indexdata.org/canada/health-canada/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/canada/health-canada/) | [RSS Feed](https://www.indexdata.org/canada/health-canada/feed/)
 - **[Innovation, Science and Economic Development Canada](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/)** (`81` dossiers) — [Authority Archive](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/) | [RSS Feed](https://www.indexdata.org/canada/innovation-science-and-economic-development-canada/feed/)
 - **[Environment and Climate Change Canada](https://www.indexdata.org/canada/environment-and-climate-change-canada/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/canada/environment-and-climate-change-canada/) | [RSS Feed](https://www.indexdata.org/canada/environment-and-climate-change-canada/feed/)
@@ -50,7 +50,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,397 of 5,397)
+## Indexed Statutory & Regulatory Dossiers (Records 4,501–5,398 of 5,398)
 
 ### [Department of Justice Canada](https://www.indexdata.org/canada/department-of-justice-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/department-of-justice-canada/](https://www.indexdata.org/canada/department-of-justice-canada/) | [RSS Feed](https://www.indexdata.org/canada/department-of-justice-canada/feed/)
@@ -742,6 +742,7 @@ Canonical Authority Archive: [https://www.indexdata.org/canada/government-and-mu
 ### [Transport Canada](https://www.indexdata.org/canada/transport-canada/)
 Canonical Authority Archive: [https://www.indexdata.org/canada/transport-canada/](https://www.indexdata.org/canada/transport-canada/) | [RSS Feed](https://www.indexdata.org/canada/transport-canada/feed/)
 
+- `[`R-5.3`]` **[An Act respecting regulations made pursuant to section 4 of the Aeronautics Act](https://www.indexdata.org/an-act-respecting-regulations-made-pursuant-to-section-4-of-the-aeronautics-act/)** — `2026-09-30` | `6 Pages`
 - `[`R-4.2`]` **[Railway Safety Act](https://www.indexdata.org/railway-safety-act/)** — `2026-09-30` | `95 Pages`
 - `[`Q-1.7`]` **[Quebec Harbor, Port Warden Act](https://www.indexdata.org/quebec-harbor-port-warden-act/)** — `2026-09-30` | `12 Pages`
 - `[`P-15.44`]` **[Port of Montreal Operations Act, 2021](https://www.indexdata.org/port-of-montreal-operations-act-2021/)** — `2026-09-30` | `11 Pages`
