@@ -1,5 +1,5 @@
 # Wikidata QuickStatements Batch for Q142071440 (Index Data — Global Regulatory & Statutory Open Metadata Index)
-# Generated UTC: 2026-11-27 22:55 UTC | Total Dossiers: 43416 | Active Jurisdictions: 48
+# Generated UTC: 2026-11-27 23:04 UTC | Total Dossiers: 43416 | Active Jurisdictions: 48
 Q142071440	P856	"https://www.indexdata.org/"
 Q142071440	P973	"https://www.indexdata.org/methodology/"
 Q142071440	P973	"https://www.indexdata.org/llms.txt"

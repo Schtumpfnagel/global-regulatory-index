@@ -135,7 +135,7 @@ dataset_info:
 **Complete Authority Directory & Methodology:** [https://www.indexdata.org/methodology/](https://www.indexdata.org/methodology/)  
 **AI / LLM Manifest (`llms.txt` & `llms-full.txt`):** [https://www.indexdata.org/llms.txt](https://www.indexdata.org/llms.txt) | [https://www.indexdata.org/llms-full.txt](https://www.indexdata.org/llms-full.txt)  
 **Statutory Licensing Schedule:** [https://www.indexdata.org/terms-of-service/](https://www.indexdata.org/terms-of-service/)  
-**Last Automated Sync:** `2026-11-27 22:55 UTC`  
+**Last Automated Sync:** `2026-11-27 23:04 UTC`  
 **Total Indexed Public Records in Catalog:** `43,416` across `48` jurisdictions and `995` issuing authorities
 
 ---

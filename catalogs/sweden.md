@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q34`](https://www.wikidata.org/wiki/Q34)  
 **Governing Open-Government Framework:** *URL 9 § (1960:729) / SFS 2022:818 / CC BY 4.0*  
 **Total Indexed Dossiers in Sweden:** `52` across `9` issuing authorities  
-**Last Automated Sync:** `2026-11-27 22:55 UTC`
+**Last Automated Sync:** `2026-11-27 23:04 UTC`
 
 ---
 
