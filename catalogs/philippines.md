@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `614` across `12` issuing authorities  
-**Last Automated Sync:** `2026-11-27 01:56 UTC`
+**Total Indexed Dossiers in Philippines:** `615` across `12` issuing authorities  
+**Last Automated Sync:** `2026-11-27 02:56 UTC`
 
 ---
 
 ## Issuing Authorities in Philippines (12 Authorities)
 
 - **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`201` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
-- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`105` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
+- **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`106` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`78` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`72` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
@@ -27,7 +27,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–614 of 614)
+## Indexed Statutory & Regulatory Dossiers (Records 1–615 of 615)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -237,6 +237,7 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/department-o
 ### [Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/food-and-drug-administration/](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 
+- `[`PH-FDA-124224`]` **[FOR NOTICE OF VACANCY – FDRO II (PRSDD) – NEW](https://www.indexdata.org/for-notice-of-vacancy-fdro-ii-prsdd-new/)** — `2026-11-27` | `3 Pages`
 - `[`PH-FDA-124210`]` **[MEC-IO1-RFOXI](https://www.indexdata.org/mec-io1-rfoxi/)** — `2026-11-26` | `3 Pages`
 - `[`PH-FDA-124153`]` **[FOR NOTICE OF VACANCY – FDRO III (PRSDD)](https://www.indexdata.org/for-notice-of-vacancy-fdro-iii-prsdd/)** — `2026-11-25` | `3 Pages`
 - `[`PH-FDA-124152`]` **[FOR NOTICE OF VACANCY – FDRO III (LRD)](https://www.indexdata.org/for-notice-of-vacancy-fdro-iii-lrd/)** — `2026-11-25` | `3 Pages`
