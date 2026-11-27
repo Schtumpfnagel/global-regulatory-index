@@ -5,22 +5,22 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/italy/feed/](https://www.indexdata.org/italy/feed/)  
 **Wikidata Sovereign Entity:** [`Q38`](https://www.wikidata.org/wiki/Q38)  
 **Governing Open-Government Framework:** *Decreto Legislativo n. 36/2006 & Legge n. 633/1941 art. 5*  
-**Total Indexed Dossiers in Italy:** `83` across `5` issuing authorities  
-**Last Automated Sync:** `2026-11-27 12:56 UTC`
+**Total Indexed Dossiers in Italy:** `84` across `5` issuing authorities  
+**Last Automated Sync:** `2026-11-27 13:57 UTC`
 
 ---
 
 ## Issuing Authorities in Italy (5 Authorities)
 
 - **[National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)** (`40` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
+- **[Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
 - **[National Research Council of Italy (CNR)](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/) | [RSS Feed](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/feed/)
-- **[Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
 - **[Italian National Institute of Statistics (ISTAT)](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/)** (`7` dossiers) — [Authority Archive](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/) | [RSS Feed](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/feed/)
 - **[National Institute for Astrophysics (INAF)](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-astrophysics-inaf/feed/)
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–83 of 83)
+## Indexed Statutory & Regulatory Dossiers (Records 1–84 of 84)
 
 ### [National Institute for Public Policy Analysis (INAPP)](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/) | [RSS Feed](https://www.indexdata.org/italy/national-institute-for-public-policy-analysis-inapp/feed/)
@@ -66,6 +66,27 @@ Canonical Authority Archive: [https://www.indexdata.org/italy/national-institute
 - `[`IT-INAPP-6955`]` **[The complexity of the scholastic inclusion of students with a migratory background a comparison between Italy and Spain](https://www.indexdata.org/the-complexity-of-the-scholastic-inclusion-of-students-with-a-migratory-background-a-comparison-between-italy-and-spain/)** — `2026-09-02` | `19 Pages`
 - `[`IT-INAPP-6946`]` **[Can active citizenship increase employability?](https://www.indexdata.org/can-active-citizenship-increase-employability/)** — `2026-09-02` | `54 Pages`
 
+### [Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)
+Canonical Authority Archive: [https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
+
+- `[`IT-ENAC-84156`]` **[slideshow autismo pdf 3 web 1](https://www.indexdata.org/slideshow-autismo-pdf-3-web-1/)** — `2026-11-27` | `26 Pages`
+- `[`IT-ENAC-84143`]` **[BROCHURE PROGETTO AUTISMO](https://www.indexdata.org/brochure-progetto-autismo/)** — `2026-11-27` | `4 Pages`
+- `[`IT-ENAC-75562`]` **[RFEUA Annual Pax in Italy 2026 11 1](https://www.indexdata.org/rfeua-annual-pax-in-italy-2026-11-1/)** — `2026-11-25` | `3 Pages`
+- `[`IT-ENAC-83983`]` **[richiesta Adr](https://www.indexdata.org/richiesta-adr-2/)** — `2026-11-24` | `2 Pages`
+- `[`IT-ENAC-83904`]` **[richiesta AdR](https://www.indexdata.org/richiesta-adr/)** — `2026-11-20` | `2 Pages`
+- `[`IT-ENAC-83667`]` **[2026 11 11 All D Viaggio con cani assistenza REV GNR ADP](https://www.indexdata.org/2026-11-11-all-d-viaggio-con-cani-assistenza-rev-gnr-adp/)** — `2026-11-11` | `8 Pages`
+- `[`IT-ENAC-83665`]` **[2026 11 11 All C Informazioni siti web REV GNR ADP](https://www.indexdata.org/2026-11-11-all-c-informazioni-siti-web-rev-gnr-adp/)** — `2026-11-11` | `9 Pages`
+- `[`IT-ENAC-83663`]` **[2026 11 11 All B Formazione REV GNR ADP](https://www.indexdata.org/2026-11-11-all-b-formazione-rev-gnr-adp/)** — `2026-11-11` | `16 Pages`
+- `[`IT-ENAC-83661`]` **[2026 11 11 All A Codice di condotta REV GNR ADP](https://www.indexdata.org/2026-11-11-all-a-codice-di-condotta-rev-gnr-adp/)** — `2026-11-11` | `9 Pages`
+- `[`IT-ENAC-83622`]` **[Accident victims and their Families Assistance Plan](https://www.indexdata.org/accident-victims-and-their-families-assistance-plan/)** — `2026-11-10` | `44 Pages`
+- `[`IT-ENAC-83620`]` **[Manuale “Allerta aeromobile all’interno del sedime aeroportuale”Aeroporto Leonardo Da Vinci](https://www.indexdata.org/manuale-allerta-aeromobile-allinterno-del-sedime-aeroportualeaeroporto-leonardo-da-vinci-2/)** — `2026-11-10` | `53 Pages`
+- `[`IT-ENAC-83619`]` **[Manuale “Allerta aeromobile all’interno del sedime aeroportuale”Aeroporto Leonardo Da Vinci](https://www.indexdata.org/manuale-allerta-aeromobile-allinterno-del-sedime-aeroportualeaeroporto-leonardo-da-vinci/)** — `2026-11-10` | `53 Pages`
+- `[`IT-ENAC-76925`]` **[UAS Recognized Entities Novembre 2026](https://www.indexdata.org/uas-recognized-entities-novembre-2026/)** — `2026-11-05` | `14 Pages`
+- `[`IT-ENAC-83211`]` **[CARTA DEI SERVIZI Forlì 2026](https://www.indexdata.org/carta-dei-servizi-forli-2026/)** — `2026-10-22` | `38 Pages`
+- `[`IT-ENAC-83209`]` **[carta dei servizi Parma 2026](https://www.indexdata.org/carta-dei-servizi-parma-2026/)** — `2026-10-22` | `24 Pages`
+- `[`IT-ENAC-83207`]` **[Carta dei Servizi Bologna 2026](https://www.indexdata.org/carta-dei-servizi-bologna-2026/)** — `2026-10-22` | `49 Pages`
+- `[`IT-ENAC-83205`]` **[Carta dei Servizi Rimini 2026](https://www.indexdata.org/carta-dei-servizi-rimini-2026/)** — `2026-10-22` | `50 Pages`
+
 ### [National Research Council of Italy (CNR)](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/national-research-council-of-italy-cnr/](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/) | [RSS Feed](https://www.indexdata.org/italy/national-research-council-of-italy-cnr/feed/)
 
@@ -86,26 +107,6 @@ Canonical Authority Archive: [https://www.indexdata.org/italy/national-research-
 - `[`IT-CNR-334211`]` **[Genome assembly and transcriptome resource for river buffalo, Bubalus bubalis (2n = 50).](https://www.indexdata.org/genome-assembly-and-transcriptome-resource-for-river-buffalo-bubalus-bubalis-2n-50/)** — `2024-02-20` | `6 Pages`
 - `[`IT-CNR-145487`]` **[Effect of laser pulse energies in laser induced breakdown spectroscopy in double-pulse configuration](https://www.indexdata.org/effect-of-laser-pulse-energies-in-laser-induced-breakdown-spectroscopy-in-double-pulse-configuration/)** — `2024-02-18` | `10 Pages`
 - `[`IT-CNR-372063`]` **[Molecular dynamics calculation of the spectral densities of plasma fluctuations](https://www.indexdata.org/molecular-dynamics-calculation-of-the-spectral-densities-of-plasma-fluctuations/)** — `2024-02-17` | `12 Pages`
-
-### [Italian Civil Aviation Authority (ENAC)](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/)
-Canonical Authority Archive: [https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/) | [RSS Feed](https://www.indexdata.org/italy/italian-civil-aviation-authority-enac/feed/)
-
-- `[`IT-ENAC-84143`]` **[BROCHURE PROGETTO AUTISMO](https://www.indexdata.org/brochure-progetto-autismo/)** — `2026-11-27` | `4 Pages`
-- `[`IT-ENAC-75562`]` **[RFEUA Annual Pax in Italy 2026 11 1](https://www.indexdata.org/rfeua-annual-pax-in-italy-2026-11-1/)** — `2026-11-25` | `3 Pages`
-- `[`IT-ENAC-83983`]` **[richiesta Adr](https://www.indexdata.org/richiesta-adr-2/)** — `2026-11-24` | `2 Pages`
-- `[`IT-ENAC-83904`]` **[richiesta AdR](https://www.indexdata.org/richiesta-adr/)** — `2026-11-20` | `2 Pages`
-- `[`IT-ENAC-83667`]` **[2026 11 11 All D Viaggio con cani assistenza REV GNR ADP](https://www.indexdata.org/2026-11-11-all-d-viaggio-con-cani-assistenza-rev-gnr-adp/)** — `2026-11-11` | `8 Pages`
-- `[`IT-ENAC-83665`]` **[2026 11 11 All C Informazioni siti web REV GNR ADP](https://www.indexdata.org/2026-11-11-all-c-informazioni-siti-web-rev-gnr-adp/)** — `2026-11-11` | `9 Pages`
-- `[`IT-ENAC-83663`]` **[2026 11 11 All B Formazione REV GNR ADP](https://www.indexdata.org/2026-11-11-all-b-formazione-rev-gnr-adp/)** — `2026-11-11` | `16 Pages`
-- `[`IT-ENAC-83661`]` **[2026 11 11 All A Codice di condotta REV GNR ADP](https://www.indexdata.org/2026-11-11-all-a-codice-di-condotta-rev-gnr-adp/)** — `2026-11-11` | `9 Pages`
-- `[`IT-ENAC-83622`]` **[Accident victims and their Families Assistance Plan](https://www.indexdata.org/accident-victims-and-their-families-assistance-plan/)** — `2026-11-10` | `44 Pages`
-- `[`IT-ENAC-83620`]` **[Manuale “Allerta aeromobile all’interno del sedime aeroportuale”Aeroporto Leonardo Da Vinci](https://www.indexdata.org/manuale-allerta-aeromobile-allinterno-del-sedime-aeroportualeaeroporto-leonardo-da-vinci-2/)** — `2026-11-10` | `53 Pages`
-- `[`IT-ENAC-83619`]` **[Manuale “Allerta aeromobile all’interno del sedime aeroportuale”Aeroporto Leonardo Da Vinci](https://www.indexdata.org/manuale-allerta-aeromobile-allinterno-del-sedime-aeroportualeaeroporto-leonardo-da-vinci/)** — `2026-11-10` | `53 Pages`
-- `[`IT-ENAC-76925`]` **[UAS Recognized Entities Novembre 2026](https://www.indexdata.org/uas-recognized-entities-novembre-2026/)** — `2026-11-05` | `14 Pages`
-- `[`IT-ENAC-83211`]` **[CARTA DEI SERVIZI Forlì 2026](https://www.indexdata.org/carta-dei-servizi-forli-2026/)** — `2026-10-22` | `38 Pages`
-- `[`IT-ENAC-83209`]` **[carta dei servizi Parma 2026](https://www.indexdata.org/carta-dei-servizi-parma-2026/)** — `2026-10-22` | `24 Pages`
-- `[`IT-ENAC-83207`]` **[Carta dei Servizi Bologna 2026](https://www.indexdata.org/carta-dei-servizi-bologna-2026/)** — `2026-10-22` | `49 Pages`
-- `[`IT-ENAC-83205`]` **[Carta dei Servizi Rimini 2026](https://www.indexdata.org/carta-dei-servizi-rimini-2026/)** — `2026-10-22` | `50 Pages`
 
 ### [Italian National Institute of Statistics (ISTAT)](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/)
 Canonical Authority Archive: [https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/) | [RSS Feed](https://www.indexdata.org/italy/italian-national-institute-of-statistics-istat/feed/)
