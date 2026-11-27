@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,435` across `102` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,439` across `102` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-27 11:54 UTC`
+**Last Automated Sync:** `2026-11-27 12:56 UTC`
 
 ---
 
@@ -22,8 +22,8 @@
 - **[Home Office](https://www.indexdata.org/united-kingdom/home-office/)** (`149` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
 - **[Department for Environment, Food and Rural Affairs](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/)** (`143` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-environment-food-and-rural-affairs/feed/)
 - **[Department for Energy Security and Net Zero](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/)** (`128` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-energy-security-and-net-zero/feed/)
+- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`120` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[Department for Business and Trade](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/)** (`119` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-for-business-and-trade/feed/)
-- **[Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)** (`116` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 - **[Department of Health and Social Care](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/)** (`102` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/) | [RSS Feed](https://www.indexdata.org/united-kingdom/department-of-health-and-social-care/feed/)
 - **[Traffic Commissioners for Great Britain](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/) | [RSS Feed](https://www.indexdata.org/united-kingdom/traffic-commissioners-for-great-britain/feed/)
 - **[Ministry of Justice](https://www.indexdata.org/united-kingdom/ministry-of-justice/)** (`84` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ministry-of-justice/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ministry-of-justice/feed/)
@@ -118,7 +118,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,435)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,439)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -404,6 +404,10 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts
 ### [Courts and Tribunals Judiciary](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/) | [RSS Feed](https://www.indexdata.org/united-kingdom/courts-and-tribunals-judiciary/feed/)
 
+- `[`UK-JUD-133813`]` **[Courts and Tribunals Judiciary: Final Judgment – Nour Ismail v SSHD – Guy Vassall-Adams KC 27.11.26](https://www.indexdata.org/courts-and-tribunals-judiciary-final-judgment-nour-ismail-v-sshd-guy-vassall-adams-kc-27-11-26/)** — `2026-11-27` | `19 Pages`
+- `[`UK-JUD-133810`]` **[Courts and Tribunals Judiciary: 2026-0466- Response from Department for Transport](https://www.indexdata.org/courts-and-tribunals-judiciary-2026-0466-response-from-department-for-transport/)** — `2026-11-27` | `2 Pages`
+- `[`UK-JUD-133809`]` **[Courts and Tribunals Judiciary: Kieran Walsh- Prevention of Future Deaths Report-2026-0466](https://www.indexdata.org/courts-and-tribunals-judiciary-kieran-walsh-prevention-of-future-deaths-report-2026-0466/)** — `2026-11-27` | `4 Pages`
+- `[`UK-JUD-133808`]` **[Courts and Tribunals Judiciary: 2026-0466- Response from National Highways](https://www.indexdata.org/courts-and-tribunals-judiciary-2026-0466-response-from-national-highways/)** — `2026-11-27` | `6 Pages`
 - `[`UK-JUD-133805`]` **[Courts and Tribunals Judiciary: 26-11-19 Vaughan lecture](https://www.indexdata.org/courts-and-tribunals-judiciary-26-11-19-vaughan-lecture/)** — `2026-11-27` | `22 Pages`
 - `[`UK-JUD-133801`]` **[Courts and Tribunals Judiciary: Judgment – Ngole v Touchstone Leeds (CA-2026-000598)](https://www.indexdata.org/courts-and-tribunals-judiciary-judgment-ngole-v-touchstone-leeds-ca-2026-000598/)** — `2026-11-27` | `52 Pages`
 - `[`UK-JUD-133789`]` **[Courts and Tribunals Judiciary: 20261120 James Wood Lecture – final](https://www.indexdata.org/courts-and-tribunals-judiciary-20261120-james-wood-lecture-final/)** — `2026-11-26` | `16 Pages`
@@ -1135,7 +1139,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UK-GOV-4a94ecba-f34b-4bab-ba2c-69712c0628be-1`]` **[Children in need census 2026 to 2027: specification — Children in need census 2026 to 2027: business and technical specification](https://www.indexdata.org/children-in-need-census-2026-to-2027-specification-children-in-need-census-2026-to-2027-business-and-technical-specification/)** — `2026-11-03` | `42 Pages`
 - `[`UKSI-2026-1109`]` **[The Power to Award Degrees etc. (MLA College Ltd) Order 2026](https://www.indexdata.org/the-power-to-award-degrees-etc-mla-college-ltd-order-2026/)** — `2026-10-20` | `4 Pages`
 - `[`UKSI-2026-1091`]` **[The Diocese of Leicester (Educational Endowments) (Hathern Church of England Primary School Teacher’s House) Order 2026](https://www.indexdata.org/the-diocese-of-leicester-educational-endowments-hathern-church-of-england-primary-school-teachers-house-order-2026/)** — `2026-10-15` | `5 Pages`
-- `[`UKSI-2026-1096`]` **[The School Teachers’ Pay and Conditions (England) Order 2026](https://www.indexdata.org/the-school-teachers-pay-and-conditions-england-order-2026/)** — `2026-10-14` | `4 Pages`
 
 ### [Natural History Museum](https://www.indexdata.org/united-kingdom/natural-history-museum/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/natural-history-museum/](https://www.indexdata.org/united-kingdom/natural-history-museum/) | [RSS Feed](https://www.indexdata.org/united-kingdom/natural-history-museum/feed/)
@@ -1344,25 +1347,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/uk-visas-
 - `[`UK-GOV-cb554ffd-0b1c-4dad-938f-3fd533c16a91-1`]` **[Ethiopia: country policy and information notes — Country policy and information note: sufficiency of protection, Ethiopia, October 2026](https://www.indexdata.org/ethiopia-country-policy-and-information-notes-country-policy-and-information-note-sufficiency-of-protection-ethiopia-october-2026/)** — `2026-11-13` | `74 Pages`
 - `[`UK-GOV-7c9f4e17-3192-4980-b950-5e3f6e4505e0-1`]` **[Family life and exceptional circumstances: caseworker guidance — Family life (as a partner or parent) and exceptional circumstances](https://www.indexdata.org/family-life-and-exceptional-circumstances-caseworker-guidance-family-life-as-a-partner-or-parent-and-exceptional-circumstances/)** — `2026-11-05` | `91 Pages`
 
-### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
-
-- `[`UK-GOV-9f0c557d-302a-41f0-b6c7-b7a4c481e3df-2`]` **[Independent review of stalking legislation: report and response — Government response to the independent review of stalking legislation](https://www.indexdata.org/independent-review-of-stalking-legislation-report-and-response-government-response-to-the-independent-review-of-stalking-legislation/)** — `2026-11-26` | `18 Pages`
-- `[`UK-GOV-9f0c557d-302a-41f0-b6c7-b7a4c481e3df-1`]` **[Independent review of stalking legislation: report and response — Independent review of stalking legislation - Richard Wright KC](https://www.indexdata.org/independent-review-of-stalking-legislation-report-and-response-independent-review-of-stalking-legislation-richard-wright-kc/)** — `2026-11-26` | `79 Pages`
-- `[`UK-GOV-1b9f35e5-843a-4345-88ed-56c44dc50320-3`]` **[Legal framework for using facial recognition in law enforcement — New legal framework for law enforcement use of biometrics, facial recognition and similar technologies: government response to the consultation (Welsh)](https://www.indexdata.org/legal-framework-for-using-facial-recognition-in-law-enforcement-new-legal-framework-for-law-enforcement-use-of-biometrics-facial-recognition-and-similar-technologies-government-response-to/)** — `2026-11-26` | `25 Pages`
-- `[`UK-GOV-1b9f35e5-843a-4345-88ed-56c44dc50320-2`]` **[Legal framework for using facial recognition in law enforcement — New legal framework for law enforcement use of biometrics, facial recognition and similar technologies: government response to the consultation](https://www.indexdata.org/legal-framework-for-using-facial-recognition-in-law-enforcement-new-legal-framework-for-law-enforcement-use-of-biometrics-facial-recognition-and-similar-technologies-government-response-to-2/)** — `2026-11-26` | `23 Pages`
-- `[`UK-GOV-1b9f35e5-843a-4345-88ed-56c44dc50320-1`]` **[Legal framework for using facial recognition in law enforcement — Consultation on a new legal framework for law enforcement use of biometrics, facial recognition and similar technologies](https://www.indexdata.org/legal-framework-for-using-facial-recognition-in-law-enforcement-consultation-on-a-new-legal-framework-for-law-enforcement-use-of-biometrics-facial-recognition-and-similar-technologies/)** — `2026-11-26` | `33 Pages`
-- `[`UKSI-2026-1245`]` **[The Terrorism Prevention and Investigation Measures Act 2011 (Continuation) Order 2026](https://www.indexdata.org/the-terrorism-prevention-and-investigation-measures-act-2011-continuation-order-2026/)** — `2026-11-24` | `2 Pages`
-- `[`UKSI-2026-1230`]` **[The Crime and Policing Act 2026 (Commencement No. 5) (Amendment) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-5-amendment-regulations-2026/)** — `2026-11-23` | `2 Pages`
-- `[`UKSI-2026-1228`]` **[The Air Traffic Management and Unmanned Aircraft (Specified Information etc.) Regulations 2026](https://www.indexdata.org/the-air-traffic-management-and-unmanned-aircraft-specified-information-etc-regulations-2026/)** — `2026-11-19` | `2 Pages`
-- `[`UK-GOV-a680e1b5-e6ee-4843-8d03-06577844b719-1`]` **[Immigration Enforcement: live facial recognition legal mandate](https://www.indexdata.org/immigration-enforcement-live-facial-recognition-legal-mandate/)** — `2026-11-17` | `17 Pages`
-- `[`UK-GOV-67afd60f-6e39-4a75-bce7-35de8e7cb041-1`]` **[Live facial recognition: equality impact assessment (EIA)](https://www.indexdata.org/live-facial-recognition-equality-impact-assessment-eia/)** — `2026-11-17` | `17 Pages`
-- `[`UKSI-2026-1194`]` **[The Border Security, Asylum and Immigration Act 2025 (Specified Purposes Related to Policing) Regulations 2026](https://www.indexdata.org/the-border-security-asylum-and-immigration-act-2025-specified-purposes-related-to-policing-regulations-2026/)** — `2026-11-10` | `2 Pages`
-- `[`UKSI-2026-1168`]` **[The Registration of Births and Deaths (England and Wales) (Specified Requirements) Regulations 2026](https://www.indexdata.org/the-registration-of-births-and-deaths-england-and-wales-specified-requirements-regulations-2026/)** — `2026-11-04` | `4 Pages`
-- `[`UKSI-2026-1167`]` **[The Data (Use and Access) Act 2025 (Commencement No. 10) Regulations 2026](https://www.indexdata.org/the-data-use-and-access-act-2025-commencement-no-10-regulations-2026/)** — `2026-11-04` | `8 Pages`
-- `[`UKSI-2026-1158`]` **[The Crime and Policing Act 2026 (Commencement No. 5) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-5-regulations-2026/)** — `2026-11-03` | `8 Pages`
-- `[`UKSI-2026-1090`]` **[The Crime and Policing Act 2026 (Commencement No. 4) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-4-regulations-2026/)** — `2026-10-15` | `4 Pages`
-
 ### [Medicines and Healthcare products Regulatory Agency](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/medicines-and-healthcare-products-regulatory-agency/feed/)
 
@@ -1417,6 +1401,24 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/foreign-c
 - `[`UK-GOV-afa320c6-4d57-4b3e-add0-47ef39af8011-40`]` **[Russia: list of designations and sanctions notices — Sanctions Notice, Russia, 17 November 2026](https://www.indexdata.org/russia-list-of-designations-and-sanctions-notices-sanctions-notice-russia-17-november-2026/)** — `2026-11-20` | `4 Pages`
 - `[`UK-GOV-bcaf7da2-49f0-4d7c-a169-b1f26011a589-1`]` **[UK/Korea: Agreement on the Protection of Classified Military Information &#91;TS No.44/2026&#93;](https://www.indexdata.org/uk-korea-agreement-on-the-protection-of-classified-military-information-ts-no-44-2026/)** — `2026-11-09` | `15 Pages`
 - `[`UK-GOV-11a74320-cdb0-45e4-931f-53d099e38416-1`]` **[Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, 2009 &#91;MS No.12/2026&#93;](https://www.indexdata.org/hong-kong-international-convention-for-the-safe-and-environmentally-sound-recycling-of-ships-2009-ms-no-12-2026/)** — `2026-11-09` | `64 Pages`
+
+### [Home Office](https://www.indexdata.org/united-kingdom/home-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/home-office/](https://www.indexdata.org/united-kingdom/home-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/home-office/feed/)
+
+- `[`UK-GOV-9f0c557d-302a-41f0-b6c7-b7a4c481e3df-2`]` **[Independent review of stalking legislation: report and response — Government response to the independent review of stalking legislation](https://www.indexdata.org/independent-review-of-stalking-legislation-report-and-response-government-response-to-the-independent-review-of-stalking-legislation/)** — `2026-11-26` | `18 Pages`
+- `[`UK-GOV-9f0c557d-302a-41f0-b6c7-b7a4c481e3df-1`]` **[Independent review of stalking legislation: report and response — Independent review of stalking legislation - Richard Wright KC](https://www.indexdata.org/independent-review-of-stalking-legislation-report-and-response-independent-review-of-stalking-legislation-richard-wright-kc/)** — `2026-11-26` | `79 Pages`
+- `[`UK-GOV-1b9f35e5-843a-4345-88ed-56c44dc50320-3`]` **[Legal framework for using facial recognition in law enforcement — New legal framework for law enforcement use of biometrics, facial recognition and similar technologies: government response to the consultation (Welsh)](https://www.indexdata.org/legal-framework-for-using-facial-recognition-in-law-enforcement-new-legal-framework-for-law-enforcement-use-of-biometrics-facial-recognition-and-similar-technologies-government-response-to/)** — `2026-11-26` | `25 Pages`
+- `[`UK-GOV-1b9f35e5-843a-4345-88ed-56c44dc50320-2`]` **[Legal framework for using facial recognition in law enforcement — New legal framework for law enforcement use of biometrics, facial recognition and similar technologies: government response to the consultation](https://www.indexdata.org/legal-framework-for-using-facial-recognition-in-law-enforcement-new-legal-framework-for-law-enforcement-use-of-biometrics-facial-recognition-and-similar-technologies-government-response-to-2/)** — `2026-11-26` | `23 Pages`
+- `[`UK-GOV-1b9f35e5-843a-4345-88ed-56c44dc50320-1`]` **[Legal framework for using facial recognition in law enforcement — Consultation on a new legal framework for law enforcement use of biometrics, facial recognition and similar technologies](https://www.indexdata.org/legal-framework-for-using-facial-recognition-in-law-enforcement-consultation-on-a-new-legal-framework-for-law-enforcement-use-of-biometrics-facial-recognition-and-similar-technologies/)** — `2026-11-26` | `33 Pages`
+- `[`UKSI-2026-1245`]` **[The Terrorism Prevention and Investigation Measures Act 2011 (Continuation) Order 2026](https://www.indexdata.org/the-terrorism-prevention-and-investigation-measures-act-2011-continuation-order-2026/)** — `2026-11-24` | `2 Pages`
+- `[`UKSI-2026-1230`]` **[The Crime and Policing Act 2026 (Commencement No. 5) (Amendment) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-5-amendment-regulations-2026/)** — `2026-11-23` | `2 Pages`
+- `[`UKSI-2026-1228`]` **[The Air Traffic Management and Unmanned Aircraft (Specified Information etc.) Regulations 2026](https://www.indexdata.org/the-air-traffic-management-and-unmanned-aircraft-specified-information-etc-regulations-2026/)** — `2026-11-19` | `2 Pages`
+- `[`UK-GOV-a680e1b5-e6ee-4843-8d03-06577844b719-1`]` **[Immigration Enforcement: live facial recognition legal mandate](https://www.indexdata.org/immigration-enforcement-live-facial-recognition-legal-mandate/)** — `2026-11-17` | `17 Pages`
+- `[`UK-GOV-67afd60f-6e39-4a75-bce7-35de8e7cb041-1`]` **[Live facial recognition: equality impact assessment (EIA)](https://www.indexdata.org/live-facial-recognition-equality-impact-assessment-eia/)** — `2026-11-17` | `17 Pages`
+- `[`UKSI-2026-1194`]` **[The Border Security, Asylum and Immigration Act 2025 (Specified Purposes Related to Policing) Regulations 2026](https://www.indexdata.org/the-border-security-asylum-and-immigration-act-2025-specified-purposes-related-to-policing-regulations-2026/)** — `2026-11-10` | `2 Pages`
+- `[`UKSI-2026-1168`]` **[The Registration of Births and Deaths (England and Wales) (Specified Requirements) Regulations 2026](https://www.indexdata.org/the-registration-of-births-and-deaths-england-and-wales-specified-requirements-regulations-2026/)** — `2026-11-04` | `4 Pages`
+- `[`UKSI-2026-1167`]` **[The Data (Use and Access) Act 2025 (Commencement No. 10) Regulations 2026](https://www.indexdata.org/the-data-use-and-access-act-2025-commencement-no-10-regulations-2026/)** — `2026-11-04` | `8 Pages`
+- `[`UKSI-2026-1158`]` **[The Crime and Policing Act 2026 (Commencement No. 5) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-5-regulations-2026/)** — `2026-11-03` | `8 Pages`
 
 ### [Maritime and Coastguard Agency](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/maritime-and-coastguard-agency/feed/)
@@ -1589,18 +1591,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/rochdale-
 - `[`UK-DGOV-1ed5d69d-324-78d5f123-700`]` **[Invitation to tender — Jan-Mar 2019 Invitation to Tender (pdf)](https://www.indexdata.org/invitation-to-tender-jan-mar-2019-invitation-to-tender-pdf/)** — `2026-11-05` | `2 Pages`
 - `[`UK-DGOV-1ed5d69d-324-645c7115-d65`]` **[Invitation to tender — Apr-Jun 2019 Invitation to Tender (pdf)](https://www.indexdata.org/invitation-to-tender-apr-jun-2019-invitation-to-tender-pdf/)** — `2026-11-05` | `2 Pages`
 
-### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
-
-- `[`UKSI-2026-1117`]` **[The Over the Counter Derivatives (Intragroup Transactions) Regulations 2026](https://www.indexdata.org/the-over-the-counter-derivatives-intragroup-transactions-regulations-2026/)** — `2026-10-22` | `7 Pages`
-- `[`UKSI-2026-1116`]` **[The Overseas Prudential Requirements Regime (Credit Institutions and Investment Firms) Regulations 2026](https://www.indexdata.org/the-overseas-prudential-requirements-regime-credit-institutions-and-investment-firms-regulations-2026/)** — `2026-10-22` | `13 Pages`
-- `[`UKSI-2026-1111`]` **[The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-amendment-regulations-2026/)** — `2026-10-21` | `2 Pages`
-- `[`UKSI-2026-1103`]` **[The Code of Practice (Right of Trade Unions to Access Workplaces) Order 2026](https://www.indexdata.org/the-code-of-practice-right-of-trade-unions-to-access-workplaces-order-2026/)** — `2026-10-19` | `4 Pages`
-- `[`UKSI-2026-1101`]` **[The Trade Unions (Right to Access Workplaces) Regulations 2026](https://www.indexdata.org/the-trade-unions-right-to-access-workplaces-regulations-2026/)** — `2026-10-15` | `12 Pages`
-- `[`UKSI-2026-1099`]` **[The Protection Against Detriment (Industrial Action) Regulations 2026](https://www.indexdata.org/the-protection-against-detriment-industrial-action-regulations-2026/)** — `2026-10-15` | `2 Pages`
-- `[`UKSI-2026-1098`]` **[The Authorised Investigators (Complaints and Misconduct) Regulations 2026](https://www.indexdata.org/the-authorised-investigators-complaints-and-misconduct-regulations-2026/)** — `2026-10-14` | `68 Pages`
-- `[`UKSI-2026-1097`]` **[The Scottish Administration (Offices) Order 2026](https://www.indexdata.org/the-scottish-administration-offices-order-2026/)** — `2026-10-14` | `2 Pages`
-
 ### [HM Revenue & Customs](https://www.indexdata.org/united-kingdom/hm-revenue-customs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-revenue-customs/](https://www.indexdata.org/united-kingdom/hm-revenue-customs/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-revenue-customs/feed/)
 
@@ -1679,6 +1669,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/building-
 - `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-4`]` **[Resources for communications network providers — 30 June 2020: Market Engagement Event Slide Deck](https://www.indexdata.org/resources-for-communications-network-providers-30-june-2020-market-engagement-event-slide-deck/)** — `2026-11-18` | `49 Pages`
 - `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-2`]` **[Resources for communications network providers — 23 June 2020: Market Engagement Event Slide Deck](https://www.indexdata.org/resources-for-communications-network-providers-23-june-2020-market-engagement-event-slide-deck/)** — `2026-11-18` | `41 Pages`
 - `[`UK-GOV-a2cf3e7a-e9e6-45a0-8ba5-32c057afd949-1`]` **[Resources for communications network providers — February 2020: Market engagement presentation](https://www.indexdata.org/resources-for-communications-network-providers-february-2020-market-engagement-presentation/)** — `2026-11-18` | `37 Pages`
+
+### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
+
+- `[`UKSI-2026-1117`]` **[The Over the Counter Derivatives (Intragroup Transactions) Regulations 2026](https://www.indexdata.org/the-over-the-counter-derivatives-intragroup-transactions-regulations-2026/)** — `2026-10-22` | `7 Pages`
+- `[`UKSI-2026-1116`]` **[The Overseas Prudential Requirements Regime (Credit Institutions and Investment Firms) Regulations 2026](https://www.indexdata.org/the-overseas-prudential-requirements-regime-credit-institutions-and-investment-firms-regulations-2026/)** — `2026-10-22` | `13 Pages`
+- `[`UKSI-2026-1111`]` **[The Crime and Policing Act 2026 (Commencement No. 3 and Saving Provisions) (Amendment) Regulations 2026](https://www.indexdata.org/the-crime-and-policing-act-2026-commencement-no-3-and-saving-provisions-amendment-regulations-2026/)** — `2026-10-21` | `2 Pages`
+- `[`UKSI-2026-1103`]` **[The Code of Practice (Right of Trade Unions to Access Workplaces) Order 2026](https://www.indexdata.org/the-code-of-practice-right-of-trade-unions-to-access-workplaces-order-2026/)** — `2026-10-19` | `4 Pages`
+- `[`UKSI-2026-1101`]` **[The Trade Unions (Right to Access Workplaces) Regulations 2026](https://www.indexdata.org/the-trade-unions-right-to-access-workplaces-regulations-2026/)** — `2026-10-15` | `12 Pages`
+- `[`UKSI-2026-1099`]` **[The Protection Against Detriment (Industrial Action) Regulations 2026](https://www.indexdata.org/the-protection-against-detriment-industrial-action-regulations-2026/)** — `2026-10-15` | `2 Pages`
 
 ### [Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/cabinet-office/](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
