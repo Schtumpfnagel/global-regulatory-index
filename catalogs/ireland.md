@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/ireland/feed/](https://www.indexdata.org/ireland/feed/)  
 **Wikidata Sovereign Entity:** [`Q27`](https://www.wikidata.org/wiki/Q27)  
 **Governing Open-Government Framework:** *PSI License / CC BY 4.0 / Oireachtas Open Data PSI Licence (S.I. No. 279/2005, S.I. No. 525/2015 & S.I. No. 376/2021)*  
-**Total Indexed Dossiers in Ireland:** `210` across `40` issuing authorities  
-**Last Automated Sync:** `2026-11-27 16:49 UTC`
+**Total Indexed Dossiers in Ireland:** `211` across `40` issuing authorities  
+**Last Automated Sync:** `2026-11-27 17:57 UTC`
 
 ---
 
@@ -31,12 +31,12 @@
 - **[Minister for Climate, Energy and the Environment](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-climate-energy-and-the-environment/feed/)
 - **[Minister for Children, Disability and Equality](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-children-disability-and-equality/feed/)
 - **[Minister for Social Protection](https://www.indexdata.org/ireland/minister-for-social-protection/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-social-protection/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-social-protection/feed/)
+- **[Commission for Communications Regulation (ComReg)](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/) | [RSS Feed](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/feed/)
 - **[Geological Survey Ireland](https://www.indexdata.org/ireland/geological-survey-ireland/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/geological-survey-ireland/) | [RSS Feed](https://www.indexdata.org/ireland/geological-survey-ireland/feed/)
 - **[Minister for Culture, Communications and Sport](https://www.indexdata.org/ireland/minister-for-culture-communications-and-sport/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-culture-communications-and-sport/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-culture-communications-and-sport/feed/)
 - **[Minister for Enterprise, Tourism and Employment](https://www.indexdata.org/ireland/minister-for-enterprise-tourism-and-employment/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-enterprise-tourism-and-employment/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-enterprise-tourism-and-employment/feed/)
 - **[Minister for Public Expenditure, National Development Plan Delivery and Reform](https://www.indexdata.org/ireland/minister-for-public-expenditure-national-development-plan-delivery-and-reform/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-public-expenditure-national-development-plan-delivery-and-reform/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-public-expenditure-national-development-plan-delivery-and-reform/feed/)
 - **[Minister for Transport](https://www.indexdata.org/ireland/minister-for-transport/)** (`3` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-transport/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-transport/feed/)
-- **[Commission for Communications Regulation (ComReg)](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/) | [RSS Feed](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/feed/)
 - **[Department of the Marine](https://www.indexdata.org/ireland/department-of-the-marine/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/department-of-the-marine/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-the-marine/feed/)
 - **[Higher Education Authority (HEA)](https://www.indexdata.org/ireland/higher-education-authority-hea/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/higher-education-authority-hea/) | [RSS Feed](https://www.indexdata.org/ireland/higher-education-authority-hea/feed/)
 - **[Minister for Enterprise, Trade and Employment](https://www.indexdata.org/ireland/minister-for-enterprise-trade-and-employment/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/ireland/minister-for-enterprise-trade-and-employment/) | [RSS Feed](https://www.indexdata.org/ireland/minister-for-enterprise-trade-and-employment/feed/)
@@ -55,7 +55,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–210 of 210)
+## Indexed Statutory & Regulatory Dossiers (Records 1–211 of 211)
 
 ### [Dáil Éireann](https://www.indexdata.org/ireland/d-il-ireann/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/d-il-ireann/](https://www.indexdata.org/ireland/d-il-ireann/) | [RSS Feed](https://www.indexdata.org/ireland/d-il-ireann/feed/)
@@ -305,6 +305,13 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-soc
 - `[`IE-ACT-2025-19`]` **[Social Welfare and Automatic Enrolment Retirement Savings System (Amendment) Act 2025](https://www.indexdata.org/social-welfare-and-automatic-enrolment-retirement-savings-system-amendment-act-2025/)** — `2025-12-23` | `28 Pages`
 - `[`IE-ACT-2025-8`]` **[Social Welfare (Bereaved Partner’s Pension and Miscellaneous Provisions) Act 2025](https://www.indexdata.org/social-welfare-bereaved-partners-pension-and-miscellaneous-provisions-act-2025/)** — `2025-07-21` | `29 Pages`
 
+### [Commission for Communications Regulation (ComReg)](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/)
+Canonical Authority Archive: [https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/) | [RSS Feed](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/feed/)
+
+- `[`IE-OA-W7124159104`]` **[Student Success in Their Own Words: Insights from Higher Education in Ireland](https://www.indexdata.org/student-success-in-their-own-words-insights-from-higher-education-in-ireland/)** — `2026-01-14` | `44 Pages`
+- `[`IE-OA-W7124131038`]` **[Between Metrics: Rethinking 21st Century Student Success in Ireland](https://www.indexdata.org/between-metrics-rethinking-21st-century-student-success-in-ireland/)** — `2026-01-14` | `39 Pages`
+- `[`IE-OA-W7225466280`]` **[HEA Teaching and Learning Strategy Consultation 2025](https://www.indexdata.org/hea-teaching-and-learning-strategy-consultation-2025/)** — `2025-01-01` | `32 Pages`
+
 ### [Geological Survey Ireland](https://www.indexdata.org/ireland/geological-survey-ireland/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/geological-survey-ireland/](https://www.indexdata.org/ireland/geological-survey-ireland/) | [RSS Feed](https://www.indexdata.org/ireland/geological-survey-ireland/feed/)
 
@@ -339,12 +346,6 @@ Canonical Authority Archive: [https://www.indexdata.org/ireland/minister-for-tra
 - `[`IE-BILL-2026-83`]` **[National Vehicle and Driver File, Road Traffic and Roads Bill 2026](https://www.indexdata.org/national-vehicle-and-driver-file-road-traffic-and-roads-bill-2026/)** — `2026-09-04` | `26 Pages`
 - `[`IE-BILL-2026-82`]` **[Railway Safety Bill 2026](https://www.indexdata.org/railway-safety-bill-2026/)** — `2026-07-24` | `48 Pages`
 - `[`IE-ACT-2026-25`]` **[Dublin Airport (Passenger Capacity) Act 2026](https://www.indexdata.org/dublin-airport-passenger-capacity-act-2026/)** — `2026-07-16` | `38 Pages`
-
-### [Commission for Communications Regulation (ComReg)](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/)
-Canonical Authority Archive: [https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/) | [RSS Feed](https://www.indexdata.org/ireland/commission-for-communications-regulation-comreg/feed/)
-
-- `[`IE-OA-W7124159104`]` **[Student Success in Their Own Words: Insights from Higher Education in Ireland](https://www.indexdata.org/student-success-in-their-own-words-insights-from-higher-education-in-ireland/)** — `2026-01-14` | `44 Pages`
-- `[`IE-OA-W7124131038`]` **[Between Metrics: Rethinking 21st Century Student Success in Ireland](https://www.indexdata.org/between-metrics-rethinking-21st-century-student-success-in-ireland/)** — `2026-01-14` | `39 Pages`
 
 ### [Department of the Marine](https://www.indexdata.org/ireland/department-of-the-marine/)
 Canonical Authority Archive: [https://www.indexdata.org/ireland/department-of-the-marine/](https://www.indexdata.org/ireland/department-of-the-marine/) | [RSS Feed](https://www.indexdata.org/ireland/department-of-the-marine/feed/)
