@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,775` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 11:57 UTC`
+**Last Automated Sync:** `2026-11-28 12:58 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`390` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -41,7 +41,7 @@
 - **[Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 - **[Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
 - **[Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`88` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`89` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
 - **[Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
 - **[National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
@@ -265,11 +265,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,775)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,779)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2026-12362`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-26/)** — `2026-06-18` | `4 Pages`
 - `[`2026-12277`]` **[Special Conditions: Honeywell Aerospace US LLC, Dassault Aviation Model Falcon 900EX Airplane; Electronic System Security Protection From Unauthorized External Access](https://www.indexdata.org/special-conditions-honeywell-aerospace-us-llc-dassault-aviation-model-falcon-900ex-airplane-electronic-system-security-protection-from-unauthorized-external-access/)** — `2026-06-18` | `2 Pages`
 - `[`2026-12273`]` **[Special Conditions: Honeywell Aerospace US LLC, Dassault Aviation Model Falcon 900EX Airplane; Electronic System Security Protection From Unauthorized Internal Access](https://www.indexdata.org/special-conditions-honeywell-aerospace-us-llc-dassault-aviation-model-falcon-900ex-airplane-electronic-system-security-protection-from-unauthorized-internal-access/)** — `2026-06-18` | `2 Pages`
 - `[`2026-12171`]` **[Amendment of Class E Airspace Over Staunton, VA](https://www.indexdata.org/amendment-of-class-e-airspace-over-staunton-va-2/)** — `2026-06-17` | `2 Pages`
@@ -616,7 +617,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2026-03520`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-57/)** — `2026-02-23` | `4 Pages`
 - `[`2026-03518`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-58/)** — `2026-02-23` | `3 Pages`
 - `[`2026-03503`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-70/)** — `2026-02-23` | `4 Pages`
-- `[`2026-03455`]` **[Establishment of Class E Airspace; Providence Seaside Hospital Heliport, Seaside, Oregon](https://www.indexdata.org/establishment-of-class-e-airspace-providence-seaside-hospital-heliport-seaside-oregon/)** — `2026-02-23` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -810,7 +810,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-03646`]` **[Prior Notice of Citizen Suits](https://www.indexdata.org/prior-notice-of-citizen-suits/)** — `2026-02-24` | `9 Pages`
 - `[`2026-03638`]` **[National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units: Final Repeal](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-coal-and-oil-fired-electric-utility-steam-generating-units-final-repeal/)** — `2026-02-24` | `47 Pages`
 - `[`2026-03633`]` **[Accidental Release Prevention Requirements: Risk Management Programs Under the Clean Air Act; Common Sense Approach to Chemical Accident Prevention](https://www.indexdata.org/accidental-release-prevention-requirements-risk-management-programs-under-the-clean-air-act-common-sense-approach-to-chemical-accident-prevention/)** — `2026-02-24` | `42 Pages`
-- `[`2026-03423`]` **[Inpyrfluxam; Pesticide Tolerances](https://www.indexdata.org/inpyrfluxam-pesticide-tolerances/)** — `2026-02-20` | `5 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1384,7 +1383,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CPRT-119HPRT62826`]` **[House Committee Print 119-17 - TEXT OF H.R. 6945, THE SUPPORTING PREGNANT AND PARENTING WOMEN AND FAMILIES ACT](https://www.indexdata.org/house-committee-print-119-17-text-of-h-r-6945-the-supporting-pregnant-and-parenting-women-and-families-act/)** — `2026-03-09` | `2 Pages`
 - `[`US-CPRT-119HPRT62381`]` **[HOUSE COMMITTEE PRINT 119TH CONGRESSJOURNAL AND HISTORY OF LEGISLATION](https://www.indexdata.org/house-committee-print-119th-congressjournal-and-history-of-legislation/)** — `2026-03-04` | `83 Pages`
 - `[`US-CPRT-119HPRT58377`]` **[House Committee Print 119-1 - RULES OF THE COMMITTEE ON ARMED SERVICES HOUSE OF REPRESENTATIVES OF THE UNITED STATES 119th CONGRESS 2025-2026](https://www.indexdata.org/house-committee-print-119-1-rules-of-the-committee-on-armed-services-house-of-representatives-of-the-united-states-119th-congress-2025-2026/)** — `2026-02-27` | `20 Pages`
-- `[`US-CPRT-119HPRT62828`]` **[House Committee Print 119-19 - TEXT OF HOUSE AMENDMENT TO S. 1383](https://www.indexdata.org/house-committee-print-119-19-text-of-house-amendment-to-s-1383/)** — `2026-02-20` | `32 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1426,6 +1424,25 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-c
 - `[`2026-03754`]` **[Compensation in Connection With Loans to Members and Lines of Credit to Members](https://www.indexdata.org/compensation-in-connection-with-loans-to-members-and-lines-of-credit-to-members/)** — `2026-02-25` | `4 Pages`
 - `[`2026-03753`]` **[Post-Election Training for New Board Members](https://www.indexdata.org/post-election-training-for-new-board-members/)** — `2026-02-25` | `3 Pages`
 
+### [Education Department](https://www.indexdata.org/united-states/education-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
+
+- `[`2026-12376`]` **[Final Waivers and Extensions of the Project Periods With Funding for the American Indian Vocational Rehabilitation Services Program and the American Indian Vocational Rehabilitation Training and Technical Assistance Center](https://www.indexdata.org/final-waivers-and-extensions-of-the-project-periods-with-funding-for-the-american-indian-vocational-rehabilitation-services-program-and-the-american-indian-vocational-rehabilitation-training-and-techn/)** — `2026-06-18` | `3 Pages`
+- `[`2026-11366`]` **[Proposed Waiver and Extension of the Project Period With Funding-Elementary and Secondary Education Act of 1965, as Amended, Title VI, Part B, Native Hawaiian Education](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-elementary-and-secondary-education-act-of-1965-as-amended-title-vi-part-b-native-hawaiian-education/)** — `2026-06-05` | `3 Pages`
+- `[`2026-10620`]` **[Proposed Waiver and Extension of the Project Period With Funding for Arts in Education National Program](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program/)** — `2026-05-28` | `2 Pages`
+- `[`2026-10013`]` **[Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Pell Grant Exclusion Relating to Other Grant Aid; and Workforce Pell Grants](https://www.indexdata.org/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant-exclusion-relating-to-other-grant-aid-and-workforce-pell-grants/)** — `2026-05-19` | `85 Pages`
+- `[`2026-09111`]` **[Proposed Waiver and Extension of the Project Period With Funding for Native American Career and Technical Education Program (NACTEP)](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-for-native-american-career-and-technical-education-program-nactep/)** — `2026-05-07` | `3 Pages`
+- `[`2026-08556`]` **[Reimagining and Improving Student Education-Federal Student Loan Program Final Regulations](https://www.indexdata.org/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations/)** — `2026-05-01` | `134 Pages`
+- `[`2026-07666`]` **[Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Student Tuition and Transparency System (STATS) and Earnings Accountability](https://www.indexdata.org/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-student-tuition-and-transparency-system-stats-and-earnings-accountability-2/)** — `2026-04-20` | `118 Pages`
+- `[`2026-07504`]` **[Proposed Waiver and Extension of the Project Period With Funding-Title I, Part C Consortium Incentive Grant Program](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-title-i-part-c-consortium-incentive-grant-program/)** — `2026-04-17` | `4 Pages`
+- `[`2026-07087`]` **[Final Priority and Definitions-Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education](https://www.indexdata.org/final-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing-artificial-intelligence-in-education/)** — `2026-04-13` | `7 Pages`
+- `[`2026-07084`]` **[Final Priority and Definitions-Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness](https://www.indexdata.org/final-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-career-pathways-and-workforce-readiness/)** — `2026-04-13` | `7 Pages`
+- `[`2026-06438`]` **[Proposed Waivers and Extensions of the Project Period With Funding for the American Indian Vocational Rehabilitation Services Program and the American Indian Vocational Rehabilitation Training and Technical Assistance Center](https://www.indexdata.org/proposed-waivers-and-extensions-of-the-project-period-with-funding-for-the-american-indian-vocational-rehabilitation-services-program-and-the-american-indian-vocational-rehabilitation-training-and-tec/)** — `2026-04-02` | `3 Pages`
+- `[`2026-04978`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program; Correction](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program-correction/)** — `2026-03-13` | `3 Pages`
+- `[`2026-04520`]` **[ACCOUNTABILITY IN HIGHER EDUCATION AND ACCESS THROUGH DEMAND-DRIVEN WORKFORCE PELL: PELL GRANT EXCLUSION RELATING TO OTHER GRANT AID; AND WORKFORCE PELL GRANTS](https://www.indexdata.org/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant-exclusion-relating-to-other-grant-aid-and-workforce-pell-grants-2/)** — `2026-03-09` | `59 Pages`
+- `[`2026-04142`]` **[Proposed Priorities, Requirements, and Definitions-Comprehensive Centers Program](https://www.indexdata.org/proposed-priorities-requirements-and-definitions-comprehensive-centers-program/)** — `2026-03-03` | `8 Pages`
+- `[`2026-03953`]` **[Regulatory Guidance Relating to the Criteria and Process for Initial Recognition of an Accrediting Agency](https://www.indexdata.org/regulatory-guidance-relating-to-the-criteria-and-process-for-initial-recognition-of-an-accrediting-agency/)** — `2026-02-27` | `4 Pages`
+
 ### [Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/children-and-families-administration/](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
 
@@ -1443,24 +1460,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2026-06027`]` **[Reducing Bureaucracy and Burden for Refugee Resettlement Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-refugee-resettlement-programs/)** — `2026-03-27` | `3 Pages`
 - `[`2026-05997`]` **[Reducing Bureaucracy and Burden for Human Services and Emergency Response Programs-Repatriation Program](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation-program-2/)** — `2026-03-27` | `4 Pages`
 - `[`2026-05994`]` **[Reducing Bureaucracy and Burden for Native American Programs](https://www.indexdata.org/reducing-bureaucracy-and-burden-for-native-american-programs-2/)** — `2026-03-27` | `4 Pages`
-
-### [Education Department](https://www.indexdata.org/united-states/education-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
-
-- `[`2026-11366`]` **[Proposed Waiver and Extension of the Project Period With Funding-Elementary and Secondary Education Act of 1965, as Amended, Title VI, Part B, Native Hawaiian Education](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-elementary-and-secondary-education-act-of-1965-as-amended-title-vi-part-b-native-hawaiian-education/)** — `2026-06-05` | `3 Pages`
-- `[`2026-10620`]` **[Proposed Waiver and Extension of the Project Period With Funding for Arts in Education National Program](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program/)** — `2026-05-28` | `2 Pages`
-- `[`2026-10013`]` **[Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Pell Grant Exclusion Relating to Other Grant Aid; and Workforce Pell Grants](https://www.indexdata.org/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant-exclusion-relating-to-other-grant-aid-and-workforce-pell-grants/)** — `2026-05-19` | `85 Pages`
-- `[`2026-09111`]` **[Proposed Waiver and Extension of the Project Period With Funding for Native American Career and Technical Education Program (NACTEP)](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-for-native-american-career-and-technical-education-program-nactep/)** — `2026-05-07` | `3 Pages`
-- `[`2026-08556`]` **[Reimagining and Improving Student Education-Federal Student Loan Program Final Regulations](https://www.indexdata.org/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations/)** — `2026-05-01` | `134 Pages`
-- `[`2026-07666`]` **[Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Student Tuition and Transparency System (STATS) and Earnings Accountability](https://www.indexdata.org/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-student-tuition-and-transparency-system-stats-and-earnings-accountability-2/)** — `2026-04-20` | `118 Pages`
-- `[`2026-07504`]` **[Proposed Waiver and Extension of the Project Period With Funding-Title I, Part C Consortium Incentive Grant Program](https://www.indexdata.org/proposed-waiver-and-extension-of-the-project-period-with-funding-title-i-part-c-consortium-incentive-grant-program/)** — `2026-04-17` | `4 Pages`
-- `[`2026-07087`]` **[Final Priority and Definitions-Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education](https://www.indexdata.org/final-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing-artificial-intelligence-in-education/)** — `2026-04-13` | `7 Pages`
-- `[`2026-07084`]` **[Final Priority and Definitions-Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness](https://www.indexdata.org/final-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-career-pathways-and-workforce-readiness/)** — `2026-04-13` | `7 Pages`
-- `[`2026-06438`]` **[Proposed Waivers and Extensions of the Project Period With Funding for the American Indian Vocational Rehabilitation Services Program and the American Indian Vocational Rehabilitation Training and Technical Assistance Center](https://www.indexdata.org/proposed-waivers-and-extensions-of-the-project-period-with-funding-for-the-american-indian-vocational-rehabilitation-services-program-and-the-american-indian-vocational-rehabilitation-training-and-tec/)** — `2026-04-02` | `3 Pages`
-- `[`2026-04978`]` **[William D. Ford Federal Direct Loan (Direct Loan) Program; Correction](https://www.indexdata.org/william-d-ford-federal-direct-loan-direct-loan-program-correction/)** — `2026-03-13` | `3 Pages`
-- `[`2026-04520`]` **[ACCOUNTABILITY IN HIGHER EDUCATION AND ACCESS THROUGH DEMAND-DRIVEN WORKFORCE PELL: PELL GRANT EXCLUSION RELATING TO OTHER GRANT AID; AND WORKFORCE PELL GRANTS](https://www.indexdata.org/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant-exclusion-relating-to-other-grant-aid-and-workforce-pell-grants-2/)** — `2026-03-09` | `59 Pages`
-- `[`2026-04142`]` **[Proposed Priorities, Requirements, and Definitions-Comprehensive Centers Program](https://www.indexdata.org/proposed-priorities-requirements-and-definitions-comprehensive-centers-program/)** — `2026-03-03` | `8 Pages`
-- `[`2026-03953`]` **[Regulatory Guidance Relating to the Criteria and Process for Initial Recognition of an Accrediting Agency](https://www.indexdata.org/regulatory-guidance-relating-to-the-criteria-and-process-for-initial-recognition-of-an-accrediting-agency/)** — `2026-02-27` | `4 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -1677,17 +1676,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/state-depa
 - `[`2026-04931`]` **[Schedule of Fees for Consular Services-Fee for Administrative Processing of Request for Certificate of Loss of Nationality of the United States](https://www.indexdata.org/schedule-of-fees-for-consular-services-fee-for-administrative-processing-of-request-for-certificate-of-loss-of-nationality-of-the-united-states/)** — `2026-03-13` | `6 Pages`
 - `[`2026-04737`]` **[Visas: Enhancing Vetting and Combatting Fraud in the Diversity Immigrant Visa Program](https://www.indexdata.org/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program/)** — `2026-03-11` | `12 Pages`
 
-### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
-
-- `[`2026-11973`]` **[Implementing Regulation for National Environmental Policy Act (NEPA): Environmental Effects of the Department of Veterans Affairs Actions](https://www.indexdata.org/implementing-regulation-for-national-environmental-policy-act-nepa-environmental-effects-of-the-department-of-veterans-affairs-actions/)** — `2026-06-15` | `26 Pages`
-- `[`2026-11752`]` **[Grants for the Rural Veterans Coordination Pilot; Rescission](https://www.indexdata.org/grants-for-the-rural-veterans-coordination-pilot-rescission/)** — `2026-06-11` | `2 Pages`
-- `[`2026-11195`]` **[Processing Certain Veteran-Requested Veteran Readiness and Employment Benefit Changes Without Administrative Delays](https://www.indexdata.org/processing-certain-veteran-requested-veteran-readiness-and-employment-benefit-changes-without-administrative-delays/)** — `2026-06-04` | `2 Pages`
-- `[`2026-10084`]` **[Expanding Access to State Prescription Drug Monitoring Programs](https://www.indexdata.org/expanding-access-to-state-prescription-drug-monitoring-programs/)** — `2026-05-20` | `7 Pages`
-- `[`2026-09144`]` **[Updates to Waiver of Charges for Copayments](https://www.indexdata.org/updates-to-waiver-of-charges-for-copayments/)** — `2026-05-08` | `2 Pages`
-- `[`2026-08809`]` **[Veteran Readiness and Employment Program: Improving Development and Delivery of Individualized Rehabilitation Plans](https://www.indexdata.org/veteran-readiness-and-employment-program-improving-development-and-delivery-of-individualized-rehabilitation-plans/)** — `2026-05-06` | `3 Pages`
-- `[`2026-03427`]` **[State Home Care Agreements for State Home Medical Model Adult Day Health Care](https://www.indexdata.org/state-home-care-agreements-for-state-home-medical-model-adult-day-health-care/)** — `2026-02-20` | `4 Pages`
-
 ### [Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-product-safety-commission/](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
 
@@ -1737,6 +1725,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mi
 - `[`2026-06892`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program/)** — `2026-04-09` | `2 Pages`
 - `[`2026-06197`]` **[Backfilling and Grading](https://www.indexdata.org/backfilling-and-grading/)** — `2026-03-31` | `2 Pages`
 - `[`2026-06196`]` **[General Reclamation Requirements](https://www.indexdata.org/general-reclamation-requirements/)** — `2026-03-31` | `2 Pages`
+
+### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
+
+- `[`2026-11973`]` **[Implementing Regulation for National Environmental Policy Act (NEPA): Environmental Effects of the Department of Veterans Affairs Actions](https://www.indexdata.org/implementing-regulation-for-national-environmental-policy-act-nepa-environmental-effects-of-the-department-of-veterans-affairs-actions/)** — `2026-06-15` | `26 Pages`
+- `[`2026-11752`]` **[Grants for the Rural Veterans Coordination Pilot; Rescission](https://www.indexdata.org/grants-for-the-rural-veterans-coordination-pilot-rescission/)** — `2026-06-11` | `2 Pages`
+- `[`2026-11195`]` **[Processing Certain Veteran-Requested Veteran Readiness and Employment Benefit Changes Without Administrative Delays](https://www.indexdata.org/processing-certain-veteran-requested-veteran-readiness-and-employment-benefit-changes-without-administrative-delays/)** — `2026-06-04` | `2 Pages`
+- `[`2026-10084`]` **[Expanding Access to State Prescription Drug Monitoring Programs](https://www.indexdata.org/expanding-access-to-state-prescription-drug-monitoring-programs/)** — `2026-05-20` | `7 Pages`
+- `[`2026-09144`]` **[Updates to Waiver of Charges for Copayments](https://www.indexdata.org/updates-to-waiver-of-charges-for-copayments/)** — `2026-05-08` | `2 Pages`
+- `[`2026-08809`]` **[Veteran Readiness and Employment Program: Improving Development and Delivery of Individualized Rehabilitation Plans](https://www.indexdata.org/veteran-readiness-and-employment-program-improving-development-and-delivery-of-individualized-rehabilitation-plans/)** — `2026-05-06` | `3 Pages`
 
 ### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
@@ -1827,6 +1825,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/census-bur
 - `[`2026-06133`]` **[Streamlining the Census Bureau's Foreign Trade Regulations](https://www.indexdata.org/streamlining-the-census-bureaus-foreign-trade-regulations/)** — `2026-03-30` | `2 Pages`
 - `[`2026-03494`]` **[Age Search Service Fee Structure](https://www.indexdata.org/age-search-service-fee-structure/)** — `2026-02-23` | `3 Pages`
 
+### [Centers For Medicare Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
+
+- `[`2026-12344`]` **[Request for Information (RFI): Pharmacy Benefit Manager Compensation and Data Collection](https://www.indexdata.org/request-for-information-rfi-pharmacy-benefit-manager-compensation-and-data-collection/)** — `2026-06-18` | `4 Pages`
+- `[`2026-12069`]` **[Medicare Program; Strengthening Oversight of Accrediting Organizations (AOs) and Preventing AO Conflicts of Interest, and Related Provisions](https://www.indexdata.org/medicare-program-strengthening-oversight-of-accrediting-organizations-aos-and-preventing-ao-conflicts-of-interest-and-related-provisions/)** — `2026-06-16` | `99 Pages`
+- `[`2026-12059`]` **[Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program](https://www.indexdata.org/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program/)** — `2026-06-16` | `133 Pages`
+- `[`2026-11015`]` **[Notice of Vacatur Regarding Certain Provisions of the 2024 Nondiscrimination in Health Programs and Activities Final Rule](https://www.indexdata.org/notice-of-vacatur-regarding-certain-provisions-of-the-2024-nondiscrimination-in-health-programs-and-activities-final-rule/)** — `2026-06-02` | `2 Pages`
+
 ### [Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-financial-protection-bureau/](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
 
@@ -1897,13 +1903,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-an
 - `[`2026-05741`]` **[Proposed Establishment of the Champlain Valley of Vermont Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-champlain-valley-of-vermont-viticultural-area/)** — `2026-03-24` | `6 Pages`
 - `[`2026-05731`]` **[Establishment of the Nine Lakes of East Tennessee Viticultural Area](https://www.indexdata.org/establishment-of-the-nine-lakes-of-east-tennessee-viticultural-area/)** — `2026-03-24` | `5 Pages`
 - `[`2026-05730`]` **[Establishment of the Nashoba Valley Viticultural Area](https://www.indexdata.org/establishment-of-the-nashoba-valley-viticultural-area/)** — `2026-03-24` | `4 Pages`
-
-### [Centers For Medicare Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
-
-- `[`2026-12069`]` **[Medicare Program; Strengthening Oversight of Accrediting Organizations (AOs) and Preventing AO Conflicts of Interest, and Related Provisions](https://www.indexdata.org/medicare-program-strengthening-oversight-of-accrediting-organizations-aos-and-preventing-ao-conflicts-of-interest-and-related-provisions/)** — `2026-06-16` | `99 Pages`
-- `[`2026-12059`]` **[Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program](https://www.indexdata.org/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program/)** — `2026-06-16` | `133 Pages`
-- `[`2026-11015`]` **[Notice of Vacatur Regarding Certain Provisions of the 2024 Nondiscrimination in Health Programs and Activities Final Rule](https://www.indexdata.org/notice-of-vacatur-regarding-certain-provisions-of-the-2024-nondiscrimination-in-health-programs-and-activities-final-rule/)** — `2026-06-02` | `2 Pages`
 
 ### [Commodity Credit Corporation](https://www.indexdata.org/united-states/commodity-credit-corporation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-credit-corporation/](https://www.indexdata.org/united-states/commodity-credit-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-credit-corporation/feed/)
@@ -2152,6 +2151,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-servi
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-crop-insurance-corporation/](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/federal-crop-insurance-corporation/feed/)
 
 - `[`2026-06277`]` **[Removal of Regulatory Overreach and Federal Crop Insurance Policy Provisions](https://www.indexdata.org/removal-of-regulatory-overreach-and-federal-crop-insurance-policy-provisions/)** — `2026-04-01` | `6 Pages`
+
+### [Federal Emergency Management Agency](https://www.indexdata.org/united-states/federal-emergency-management-agency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-emergency-management-agency/](https://www.indexdata.org/united-states/federal-emergency-management-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-emergency-management-agency/feed/)
+
+- `[`2026-12399`]` **[Rescinding Portions of DHS Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281](https://www.indexdata.org/rescinding-portions-of-dhs-title-vi-regulations-to-conform-more-closely-with-the-statutory-text-and-to-implement-executive-order-14281/)** — `2026-06-22` | `8 Pages`
 
 ### [Federal Housing Finance Agency](https://www.indexdata.org/united-states/federal-housing-finance-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-housing-finance-agency/](https://www.indexdata.org/united-states/federal-housing-finance-agency/) | [RSS Feed](https://www.indexdata.org/united-states/federal-housing-finance-agency/feed/)

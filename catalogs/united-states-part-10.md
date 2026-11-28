@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,775` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 11:57 UTC`
+**Last Automated Sync:** `2026-11-28 12:58 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`390` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -41,7 +41,7 @@
 - **[Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 - **[Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
 - **[Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`88` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`89` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
 - **[Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
 - **[National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
@@ -265,11 +265,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,775)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,779)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2023-25955`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-143/)** — `2023-11-27` | `2 Pages`
+- `[`2023-25953`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-144/)** — `2023-11-27` | `2 Pages`
 - `[`2023-25866`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-260/)** — `2023-11-24` | `3 Pages`
 - `[`2023-25853`]` **[Amendment of Canadian Area Navigation Routes Q-907 and Q-951, and Establishment of United States Area Navigation (RNAV) Route T-739; Eastern United States](https://www.indexdata.org/amendment-of-canadian-area-navigation-routes-q-907-and-q-951-and-establishment-of-united-states-area-navigation-rnav-route-t-739-eastern-united-states/)** — `2023-11-24` | `3 Pages`
 - `[`2023-25852`]` **[Establishment of United States Area Navigation (RNAV) Routes T-440, T-455, T-457, T-459, and T-476, and Amendment of RNAV Routes T-358, T-416, and T-445; Eastern United States](https://www.indexdata.org/establishment-of-united-states-area-navigation-rnav-routes-t-440-t-455-t-457-t-459-and-t-476-and-amendment-of-rnav-routes-t-358-t-416-and-t-445-eastern-united-states-2/)** — `2023-11-24` | `4 Pages`
@@ -616,6 +618,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2023-25871`]` **[Tolpyralate; Pesticide Tolerances](https://www.indexdata.org/tolpyralate-pesticide-tolerances/)** — `2023-11-27` | `5 Pages`
 - `[`2023-25739`]` **[Pesticides; Petition Seeking Rulemaking for Registration of Neonicotinoid Insecticides and Other Systemic Insecticides; Notice of Availability and Request for Comment](https://www.indexdata.org/pesticides-petition-seeking-rulemaking-for-registration-of-neonicotinoid-insecticides-and-other-systemic-insecticides-notice-of-availability-and-request-for-comment/)** — `2023-11-24` | `2 Pages`
 - `[`2023-25714`]` **[Decabromodiphenyl Ether and Phenol, Isopropylated Phosphate (3:1); Revision to the Regulation of Persistent, Bioaccumulative, and Toxic Chemicals Under the Toxic Substances Control Act (TSCA)](https://www.indexdata.org/decabromodiphenyl-ether-and-phenol-isopropylated-phosphate-31-revision-to-the-regulation-of-persistent-bioaccumulative-and-toxic-chemicals-under-the-toxic-substances-control-act-tsca-2/)** — `2023-11-24` | `26 Pages`
 - `[`2023-25759`]` **[New Source Performance Standards Review for Volatile Organic Liquid Storage Vessels (Including Petroleum Liquid Storage Vessels); Extension of Comment Period](https://www.indexdata.org/new-source-performance-standards-review-for-volatile-organic-liquid-storage-vessels-including-petroleum-liquid-storage-vessels-extension-of-comment-period/)** — `2023-11-21` | `2 Pages`
@@ -785,7 +788,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2023-15810`]` **[Air Plan Approval; West Virginia; 2022 Amendments to West Virginia's Ambient Air Quality Standards](https://www.indexdata.org/air-plan-approval-west-virginia-2022-amendments-to-west-virginias-ambient-air-quality-standards/)** — `2023-07-27` | `3 Pages`
 - `[`2023-15498`]` **[Approval and Promulgation of Implementation Plans; Revisions to the California State Implementation Plan; San Francisco Bay Area](https://www.indexdata.org/approval-and-promulgation-of-implementation-plans-revisions-to-the-california-state-implementation-plan-san-francisco-bay-area-2/)** — `2023-07-27` | `4 Pages`
 - `[`2023-14551`]` **[Spring 2023 Unified Agenda of Regulatory and Deregulatory Actions](https://www.indexdata.org/spring-2023-unified-agenda-of-regulatory-and-deregulatory-actions/)** — `2023-07-27` | `9 Pages`
-- `[`2023-15801`]` **[Receipt of a Pesticide Petition Filed for Residues of Pesticide Chemicals in or on Various Commodities (June 2023)](https://www.indexdata.org/receipt-of-a-pesticide-petition-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-june-2023/)** — `2023-07-26` | `2 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -916,7 +918,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2023-16042`]` **[Security Zones; Seattle's Seafair Fleet Week Moving Vessels, Puget Sound, WA](https://www.indexdata.org/security-zones-seattles-seafair-fleet-week-moving-vessels-puget-sound-wa-3/)** — `2023-07-28` | `2 Pages`
 - `[`2023-16019`]` **[Safety Zone; Kaiser Fireworks, Lake St. Clair; Grosse Pointe Park, MI](https://www.indexdata.org/safety-zone-kaiser-fireworks-lake-st-clair-grosse-pointe-park-mi/)** — `2023-07-28` | `3 Pages`
 - `[`2023-16018`]` **[Safety Zone; Henderson Bay, Henderson Harbor, NY](https://www.indexdata.org/safety-zone-henderson-bay-henderson-harbor-ny/)** — `2023-07-28` | `3 Pages`
-- `[`2023-15797`]` **[Special Local Regulation; Henderson Bay, Henderson Harbor, NY](https://www.indexdata.org/special-local-regulation-henderson-bay-henderson-harbor-ny/)** — `2023-07-26` | `5 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1037,7 +1038,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2023-15924`]` **[Fisheries of the Northeastern United States; the 2023-2025 Specifications for the Atlantic Mackerel, Squid, and Butterfish Fishery Management Plan](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-the-2023-2025-specifications-for-the-atlantic-mackerel-squid-and-butterfish-fishery-management-plan/)** — `2023-07-27` | `4 Pages`
 - `[`2023-15915`]` **[Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2023 Area 2A Pacific Halibut Directed Commercial Fishery](https://www.indexdata.org/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2023-area-2a-pacific-halibut-directed-commercial-fishery/)** — `2023-07-27` | `2 Pages`
 - `[`2023-15818`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Harpoon Category Quota Transfer](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-harpoon-category-quota-transfer-3/)** — `2023-07-26` | `2 Pages`
-- `[`2023-15816`]` **[Pacific Halibut Fisheries; Catch Sharing Plan; Rulemaking To Modify the 2023-2027 Halibut Individual Fishing Quota (IFQ) Vessel Harvest Limitations in IFQ Regulatory Areas 4A, 4B, 4C, and 4D](https://www.indexdata.org/pacific-halibut-fisheries-catch-sharing-plan-rulemaking-to-modify-the-2023-2027-halibut-individual-fishing-quota-ifq-vessel-harvest-limitations-in-ifq-regulatory-areas-4a-4b-4c-and-4d/)** — `2023-07-26` | `4 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1230,6 +1230,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 ### [Internal Revenue Service](https://www.indexdata.org/united-states/internal-revenue-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-revenue-service/](https://www.indexdata.org/united-states/internal-revenue-service/) | [RSS Feed](https://www.indexdata.org/united-states/internal-revenue-service/feed/)
 
+- `[`2023-25715`]` **[Transactions Between Related Persons and Partnerships](https://www.indexdata.org/transactions-between-related-persons-and-partnerships/)** — `2023-11-27` | `5 Pages`
 - `[`2023-25539`]` **[Definition of Energy Property and Rules Applicable to the Energy Credit](https://www.indexdata.org/definition-of-energy-property-and-rules-applicable-to-the-energy-credit-2/)** — `2023-11-22` | `36 Pages`
 - `[`2023-24982`]` **[Taxes on Taxable Distributions From Donor Advised Funds Under Section 4966](https://www.indexdata.org/taxes-on-taxable-distributions-from-donor-advised-funds-under-section-4966-2/)** — `2023-11-14` | `20 Pages`
 - `[`2023-24650`]` **[Recognition and Deferral of Section 987 Gain or Loss; Comment Period Reopening](https://www.indexdata.org/recognition-and-deferral-of-section-987-gain-or-loss-comment-period-reopening/)** — `2023-11-14` | `2 Pages`
@@ -1860,14 +1861,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-l
 - `[`2023-18130`]` **[Representation Case Procedures](https://www.indexdata.org/representation-case-procedures-3/)** — `2023-08-25` | `2 Pages`
 - `[`2023-18129`]` **[Representation-Case Procedures](https://www.indexdata.org/representation-case-procedures-2/)** — `2023-08-25` | `27 Pages`
 
-### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
-
-- `[`2023-23344`]` **[Changes Related to Insurance Requirements in Multi-Family Housing (MFH) Direct Loan and Grant Programs](https://www.indexdata.org/changes-related-to-insurance-requirements-in-multi-family-housing-mfh-direct-loan-and-grant-programs-2/)** — `2023-10-25` | `5 Pages`
-- `[`2023-19662`]` **[Updates to the Off-Farm Labor Housing (Off-FLH), Loan and Grant Rates and Terms; Clarification of Grant Agreement Terms](https://www.indexdata.org/updates-to-the-off-farm-labor-housing-off-flh-loan-and-grant-rates-and-terms-clarification-of-grant-agreement-terms-2/)** — `2023-09-12` | `3 Pages`
-- `[`2023-17519`]` **[Updating Manufactured Housing Provisions](https://www.indexdata.org/updating-manufactured-housing-provisions-2/)** — `2023-08-16` | `6 Pages`
-- `[`2023-15759`]` **[Single Family Housing Section 502 Guaranteed Loan Program](https://www.indexdata.org/single-family-housing-section-502-guaranteed-loan-program/)** — `2023-07-26` | `5 Pages`
-
 ### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
 
@@ -1931,6 +1924,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/natural-re
 - `[`2023-18096`]` **[Amendments to OMB Control Numbers and Certain Forms; Correction](https://www.indexdata.org/amendments-to-omb-control-numbers-and-certain-forms-correction/)** — `2023-08-24` | `2 Pages`
 - `[`2023-17568`]` **[Electronic Provision of Records During an Audit; Correction](https://www.indexdata.org/electronic-provision-of-records-during-an-audit-correction/)** — `2023-08-16` | `2 Pages`
 - `[`2023-17059`]` **[Electronic Provision of Records During an Audit](https://www.indexdata.org/electronic-provision-of-records-during-an-audit/)** — `2023-08-09` | `4 Pages`
+
+### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
+
+- `[`2023-23344`]` **[Changes Related to Insurance Requirements in Multi-Family Housing (MFH) Direct Loan and Grant Programs](https://www.indexdata.org/changes-related-to-insurance-requirements-in-multi-family-housing-mfh-direct-loan-and-grant-programs-2/)** — `2023-10-25` | `5 Pages`
+- `[`2023-19662`]` **[Updates to the Off-Farm Labor Housing (Off-FLH), Loan and Grant Rates and Terms; Clarification of Grant Agreement Terms](https://www.indexdata.org/updates-to-the-off-farm-labor-housing-off-flh-loan-and-grant-rates-and-terms-clarification-of-grant-agreement-terms-2/)** — `2023-09-12` | `3 Pages`
+- `[`2023-17519`]` **[Updating Manufactured Housing Provisions](https://www.indexdata.org/updating-manufactured-housing-provisions-2/)** — `2023-08-16` | `6 Pages`
 
 ### [Alcohol, Tobacco, Firearms, and Explosives Bureau](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-tobacco-firearms-and-explosives-bureau/feed/)

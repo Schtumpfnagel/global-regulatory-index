@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,775` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 11:57 UTC`
+**Last Automated Sync:** `2026-11-28 12:58 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`390` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -41,7 +41,7 @@
 - **[Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)** (`101` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 - **[Consumer Financial Protection Bureau](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/)** (`97` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-financial-protection-bureau/feed/)
 - **[Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)** (`90` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
-- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`88` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
+- **[United States Senate](https://www.indexdata.org/united-states/united-states-senate/)** (`89` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/united-states-senate/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-senate/feed/)
 - **[Consumer Product Safety Commission](https://www.indexdata.org/united-states/consumer-product-safety-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/consumer-product-safety-commission/) | [RSS Feed](https://www.indexdata.org/united-states/consumer-product-safety-commission/feed/)
 - **[Federal Energy Regulatory Commission](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-energy-regulatory-commission/feed/)
 - **[National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)** (`87` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
@@ -265,11 +265,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,775)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,779)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-17033`]` **[Airworthiness Directives; Piaggio Aviation S.p.A. Airplanes](https://www.indexdata.org/airworthiness-directives-piaggio-aviation-s-p-a-airplanes-2/)** — `2025-09-05` | `3 Pages`
 - `[`2025-17026`]` **[Airworthiness Directives; MD Helicopters, LLC](https://www.indexdata.org/airworthiness-directives-md-helicopters-llc/)** — `2025-09-05` | `6 Pages`
 - `[`2025-16902`]` **[Falsification, Reproduction, Alteration, Omission, or Incorrect Statements](https://www.indexdata.org/falsification-reproduction-alteration-omission-or-incorrect-statements-2/)** — `2025-09-03` | `11 Pages`
 - `[`2025-16890`]` **[Amendment of Jet Route J-96 in the Vicinity of Cimarron, NM](https://www.indexdata.org/amendment-of-jet-route-j-96-in-the-vicinity-of-cimarron-nm/)** — `2025-09-03` | `2 Pages`
@@ -579,13 +580,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-07923`]` **[Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments](https://www.indexdata.org/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures-miscellaneous-amendments-69/)** — `2025-05-07` | `2 Pages`
 - `[`2025-07921`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-119/)** — `2025-05-07` | `3 Pages`
 - `[`2025-07858`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-148/)** — `2025-05-06` | `4 Pages`
-- `[`2025-07856`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-149/)** — `2025-05-06` | `6 Pages`
-- `[`2025-07756`]` **[Airworthiness Directives; Thommen Aircraft Equipment AG Digital Air Data Computers](https://www.indexdata.org/airworthiness-directives-thommen-aircraft-equipment-ag-digital-air-data-computers/)** — `2025-05-06` | `2 Pages`
-- `[`2025-07753`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-37/)** — `2025-05-06` | `24 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2025-17039`]` **[Revisions to the Clean Air Act Operating Permit Program; California; San Diego County Air Pollution Control District](https://www.indexdata.org/revisions-to-the-clean-air-act-operating-permit-program-california-san-diego-county-air-pollution-control-district-2/)** — `2025-09-05` | `2 Pages`
+- `[`2025-17038`]` **[Revisions to the Clean Air Act Operating Permit Program; California; San Diego County Air Pollution Control District](https://www.indexdata.org/revisions-to-the-clean-air-act-operating-permit-program-california-san-diego-county-air-pollution-control-district/)** — `2025-09-05` | `2 Pages`
+- `[`2025-17029`]` **[Withdrawals of Findings of Failure To Submit State Implementation Plan and Finding of Failure To Attain for the Rusk and Panola Counties, Texas 2010 Sulfur Dioxide Primary National Ambient Air Quality Standard Area](https://www.indexdata.org/withdrawals-of-findings-of-failure-to-submit-state-implementation-plan-and-finding-of-failure-to-attain-for-the-rusk-and-panola-counties-texas-2010-sulfur-dioxide-primary-national-ambient-air-quality/)** — `2025-09-05` | `3 Pages`
 - `[`2025-17028`]` **[Air Plan Approval; Missouri; Control of Sulfur Dioxide Emissions and Approval and Promulgation of State Plan (Negative Declaration) for Designated Facilities and Pollutants](https://www.indexdata.org/air-plan-approval-missouri-control-of-sulfur-dioxide-emissions-and-approval-and-promulgation-of-state-plan-negative-declaration-for-designated-facilities-and-pollutants/)** — `2025-09-05` | `3 Pages`
 - `[`2025-17008`]` **[Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities-June 2025](https://www.indexdata.org/receipt-of-pesticide-petitions-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-june-2025/)** — `2025-09-05` | `3 Pages`
 - `[`2025-16868`]` **[Clean Water Act Effluent Limitations Guidelines and Standards for the Meat and Poultry Products Point Source Category](https://www.indexdata.org/clean-water-act-effluent-limitations-guidelines-and-standards-for-the-meat-and-poultry-products-point-source-category/)** — `2025-09-03` | `6 Pages`
@@ -972,7 +973,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2025-08228`]` **[2025 Gulf Red Snapper Recreational For-Hire Fishing Season](https://www.indexdata.org/2025-gulf-red-snapper-recreational-for-hire-fishing-season/)** — `2025-05-12` | `2 Pages`
 - `[`2025-07780`]` **[Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Atlantic Fleet Training and Testing Study Area](https://www.indexdata.org/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-military-readiness-activities-in-the-atlantic-fleet-training-and-testing-study-area-2/)** — `2025-05-09` | `220 Pages`
 - `[`2025-07884`]` **[2025 Red Snapper Private Angling Component Accountability Measure in Federal Waters Off Louisiana](https://www.indexdata.org/2025-red-snapper-private-angling-component-accountability-measure-in-federal-waters-off-louisiana/)** — `2025-05-06` | `2 Pages`
-- `[`2025-07797`]` **[International Fisheries; Pacific Tuna Fisheries; 2025-2026 Commercial Fishing Restrictions for Pacific Bluefin Tuna in the Eastern Pacific Ocean](https://www.indexdata.org/international-fisheries-pacific-tuna-fisheries-2025-2026-commercial-fishing-restrictions-for-pacific-bluefin-tuna-in-the-eastern-pacific-ocean/)** — `2025-05-06` | `4 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
