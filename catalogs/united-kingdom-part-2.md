@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,486` across `102` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,487` across `102` issuing authorities  
 **Catalog Volumes:** [Part 1](united-kingdom.md) | **[Part 2 (Current)]** | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-28 08:58 UTC`
+**Last Automated Sync:** `2026-11-28 09:57 UTC`
 
 ---
 
@@ -62,12 +62,12 @@
 - **[Building Digital UK](https://www.indexdata.org/united-kingdom/building-digital-uk/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/building-digital-uk/) | [RSS Feed](https://www.indexdata.org/united-kingdom/building-digital-uk/feed/)
 - **[Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
 - **[Civil Nuclear Police Authority](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/feed/)
+- **[Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
 - **[Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
 - **[Office of the Schools Adjudicator](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/feed/)
 - **[Ofsted](https://www.indexdata.org/united-kingdom/ofsted/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ofsted/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ofsted/feed/)
 - **[Regulator of Social Housing](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/) | [RSS Feed](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/feed/)
 - **[UK Parliament — Central Arbitration Committee](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/feed/)
-- **[Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
 - **[Gov Facility Services Limited](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/) | [RSS Feed](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
 - **[Teaching Regulation Agency](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/feed/)
@@ -118,7 +118,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,486)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 3,487)
 
 ### [HM Government Legislation](https://www.indexdata.org/united-kingdom/hm-government-legislation/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government-legislation/](https://www.indexdata.org/united-kingdom/hm-government-legislation/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government-legislation/feed/)
@@ -510,7 +510,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-govern
 - `[`UKSI-2024-1064`]` **[The Medical Certificate of Cause of Death (Amendment) Regulations 2024](https://www.indexdata.org/the-medical-certificate-of-cause-of-death-amendment-regulations-2024/)** — `2024-10-24` | `8 Pages`
 - `[`UKSI-2024-1060`]` **[The Court Martial Appeal Court (Amendment) Rules 2024](https://www.indexdata.org/the-court-martial-appeal-court-amendment-rules-2024/)** — `2024-10-23` | `8 Pages`
 - `[`UKSI-2024-1062`]` **[The Costs in the Court Martial Appeal Court (Amendment) Regulations 2024](https://www.indexdata.org/the-costs-in-the-court-martial-appeal-court-amendment-regulations-2024/)** — `2024-10-22` | `2 Pages`
-- `[`UKSI-2024-1056`]` **[The Internet Television Equipment Regulations 2024](https://www.indexdata.org/the-internet-television-equipment-regulations-2024/)** — `2024-10-22` | `2 Pages`
 
 ### [HM Treasury](https://www.indexdata.org/united-kingdom/hm-treasury/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-treasury/](https://www.indexdata.org/united-kingdom/hm-treasury/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-treasury/feed/)
@@ -1658,6 +1657,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/ministry-
 ### [Environment Agency](https://www.indexdata.org/united-kingdom/environment-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/environment-agency/](https://www.indexdata.org/united-kingdom/environment-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/environment-agency/feed/)
 
+- `[`UK-DGOV-4564c349-ce0-2dce491f-b15`]` **[Seagrass Analysis Ready Data (NCEA) — NCEA Seagrass Monitoring Framework Report Version 1.1 October 2026.pdf](https://www.indexdata.org/seagrass-analysis-ready-data-ncea-ncea-seagrass-monitoring-framework-report-version-1-1-october-2026-pdf/)** — `2026-10-30` | `32 Pages`
 - `[`UK-DGOV-4564c349-ce0-2c3f208a-80b`]` **[Seagrass Analysis Ready Data (NCEA) — Intertidal Seagrass Drone Survey Methodology.pdf](https://www.indexdata.org/seagrass-analysis-ready-data-ncea-intertidal-seagrass-drone-survey-methodology-pdf/)** — `2026-10-30` | `6 Pages`
 - `[`UK-DGOV-4564c349-ce0-10d0cf60-aa2`]` **[Seagrass Analysis Ready Data (NCEA) — EA Subtidal Seagrass Image Analysis Guidance v4.2 - EXTERNAL.pdf](https://www.indexdata.org/seagrass-analysis-ready-data-ncea-ea-subtidal-seagrass-image-analysis-guidance-v4-2-external-pdf/)** — `2026-10-30` | `6 Pages`
 - `[`UK-DGOV-2b1dc7a4-ff9-a45be695-8cf`]` **[Rivers and Sea 3.3% defended flood risk depths – present day — Rivers_and_Sea_Defended_and_Undefended_Depths_Product_Description.pdf](https://www.indexdata.org/rivers-and-sea-3-3-defended-flood-risk-depths-present-day-rivers_and_sea_defended_and_undefended_depths_product_description-pdf/)** — `2026-10-30` | `10 Pages`

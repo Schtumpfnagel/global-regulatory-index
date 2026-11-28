@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-kingdom/feed/](https://www.indexdata.org/united-kingdom/feed/)  
 **Wikidata Sovereign Entity:** [`Q145`](https://www.wikidata.org/wiki/Q145)  
 **Governing Open-Government Framework:** *Open Government Licence v3.0 (OGL v3.0)*  
-**Total Indexed Dossiers in United Kingdom:** `3,486` across `102` issuing authorities  
+**Total Indexed Dossiers in United Kingdom:** `3,487` across `102` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-kingdom-part-2.md) | [Part 3](united-kingdom-part-3.md)  
-**Last Automated Sync:** `2026-11-28 08:58 UTC`
+**Last Automated Sync:** `2026-11-28 09:57 UTC`
 
 ---
 
@@ -62,12 +62,12 @@
 - **[Building Digital UK](https://www.indexdata.org/united-kingdom/building-digital-uk/)** (`6` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/building-digital-uk/) | [RSS Feed](https://www.indexdata.org/united-kingdom/building-digital-uk/feed/)
 - **[Cabinet Office](https://www.indexdata.org/united-kingdom/cabinet-office/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/cabinet-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/cabinet-office/feed/)
 - **[Civil Nuclear Police Authority](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/) | [RSS Feed](https://www.indexdata.org/united-kingdom/civil-nuclear-police-authority/feed/)
+- **[Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
 - **[Northern Ireland Office](https://www.indexdata.org/united-kingdom/northern-ireland-office/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/northern-ireland-office/) | [RSS Feed](https://www.indexdata.org/united-kingdom/northern-ireland-office/feed/)
 - **[Office of the Schools Adjudicator](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/feed/)
 - **[Ofsted](https://www.indexdata.org/united-kingdom/ofsted/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/ofsted/) | [RSS Feed](https://www.indexdata.org/united-kingdom/ofsted/feed/)
 - **[Regulator of Social Housing](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/) | [RSS Feed](https://www.indexdata.org/united-kingdom/regulator-of-social-housing/feed/)
 - **[UK Parliament — Central Arbitration Committee](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/)** (`5` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/) | [RSS Feed](https://www.indexdata.org/united-kingdom/uk-parliament-central-arbitration-committee/feed/)
-- **[Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
 - **[Gov Facility Services Limited](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/) | [RSS Feed](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/feed/)
 - **[Legal Aid Agency](https://www.indexdata.org/united-kingdom/legal-aid-agency/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/legal-aid-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/legal-aid-agency/feed/)
 - **[Teaching Regulation Agency](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/) | [RSS Feed](https://www.indexdata.org/united-kingdom/teaching-regulation-agency/feed/)
@@ -118,7 +118,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,486)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 3,487)
 
 ### [HM Courts & Tribunals Service](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-courts-tribunals-service/feed/)
@@ -716,7 +716,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/environme
 - `[`UK-DGOV-4564c349-ce0-fce3a4bd-fa6`]` **[Seagrass Analysis Ready Data (NCEA) — LIT 11560 - Intertidal seagrass monitoring for Water Framework Directive (WFD) purposes_redacted.pdf](https://www.indexdata.org/seagrass-analysis-ready-data-ncea-lit-11560-intertidal-seagrass-monitoring-for-water-framework-directive-wfd-purposes_redacted-pdf/)** — `2026-10-30` | `10 Pages`
 - `[`UK-DGOV-4564c349-ce0-9fa778e5-23c`]` **[Seagrass Analysis Ready Data (NCEA) — NCEA Seagrass Network Methods Summary Version 1.1 October 2026.pdf](https://www.indexdata.org/seagrass-analysis-ready-data-ncea-ncea-seagrass-network-methods-summary-version-1-1-october-2026-pdf/)** — `2026-10-30` | `5 Pages`
 - `[`UK-DGOV-4564c349-ce0-5f47113f-de8`]` **[Seagrass Analysis Ready Data (NCEA) — EA Subtidal Seagrass Drop Camera Survey Method - EXTERNAL.pdf](https://www.indexdata.org/seagrass-analysis-ready-data-ncea-ea-subtidal-seagrass-drop-camera-survey-method-external-pdf/)** — `2026-10-30` | `5 Pages`
-- `[`UK-DGOV-4564c349-ce0-2dce491f-b15`]` **[Seagrass Analysis Ready Data (NCEA) — NCEA Seagrass Monitoring Framework Report Version 1.1 October 2026.pdf](https://www.indexdata.org/seagrass-analysis-ready-data-ncea-ncea-seagrass-monitoring-framework-report-version-1-1-october-2026-pdf/)** — `2026-10-30` | `32 Pages`
 
 ### [HM Government](https://www.indexdata.org/united-kingdom/hm-government/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/hm-government/](https://www.indexdata.org/united-kingdom/hm-government/) | [RSS Feed](https://www.indexdata.org/united-kingdom/hm-government/feed/)
@@ -1700,6 +1699,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/civil-nuc
 - `[`UK-GOV-5f65a883-7631-11e4-a3cb-005056011aef-2`]` **[Our governance - Civil Nuclear Police Authority — Terms of reference for the Audit, Risk and Finance Committee](https://www.indexdata.org/our-governance-civil-nuclear-police-authority-terms-of-reference-for-the-audit-risk-and-finance-committee/)** — `2026-11-17` | `5 Pages`
 - `[`UK-GOV-5f65a883-7631-11e4-a3cb-005056011aef-1`]` **[Our governance - Civil Nuclear Police Authority — Terms of Reference for the Senior Appointments Committee](https://www.indexdata.org/our-governance-civil-nuclear-police-authority-terms-of-reference-for-the-senior-appointments-committee/)** — `2026-11-17` | `4 Pages`
 
+### [Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)
+Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/forestry-commission/](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
+
+- `[`UK-DGOV-b12e468a-c33-a0f93880-464`]` **[NFI+ People Pressure NCEA — NFI People Pressure Research Report 2024-26.pdf](https://www.indexdata.org/nfi-people-pressure-ncea-nfi-people-pressure-research-report-2024-26-pdf/)** — `2026-11-27` | `34 Pages`
+- `[`UK-DGOV-5aab3da3-607-279b73e8-672`]` **[National Woodland Bat Survey - Verified Bat Activity — National Woodland Bat Survey Evidence Pack 2021-24.pdf](https://www.indexdata.org/national-woodland-bat-survey-verified-bat-activity-national-woodland-bat-survey-evidence-pack-2021-24-pdf/)** — `2026-11-27` | `31 Pages`
+- `[`UK-DGOV-fe2894f3-322-ca0433ae-158`]` **[National Trees Outside Woodland Map - Version 2 — Trees_Outside_Woodland_v2_Report.pdf](https://www.indexdata.org/national-trees-outside-woodland-map-version-2-trees_outside_woodland_v2_report-pdf/)** — `2026-11-25` | `30 Pages`
+- `[`UK-GOV-cb3a533d-3c44-4af3-b90b-f0ed9a33130a-5`]` **[Sweet chestnut blight: identification, reporting and control — Sweet chestnut blight notice and map of the demarcated area (November 2026)](https://www.indexdata.org/sweet-chestnut-blight-identification-reporting-and-control-sweet-chestnut-blight-notice-and-map-of-the-demarcated-area-november-2026/)** — `2026-11-10` | `5 Pages`
+- `[`UK-GOV-cb3a533d-3c44-4af3-b90b-f0ed9a33130a-4`]` **[Sweet chestnut blight: identification, reporting and control — Sweet chestnut blight notice (August 2026)](https://www.indexdata.org/sweet-chestnut-blight-identification-reporting-and-control-sweet-chestnut-blight-notice-august-2026/)** — `2026-11-10` | `5 Pages`
+
 ### [Office of the Schools Adjudicator](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/) | [RSS Feed](https://www.indexdata.org/united-kingdom/office-of-the-schools-adjudicator/feed/)
 
@@ -1743,14 +1751,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/departmen
 - `[`UKSI-2026-1179`]` **[The Radio Selection Services (Designation) Regulations 2026](https://www.indexdata.org/the-radio-selection-services-designation-regulations-2026/)** — `2026-11-10` | `4 Pages`
 - `[`UK-GOV-03a4663f-565d-45c7-983f-ca6b2dbeb4df-1`]` **[2026 Remembrance Sunday commemorations: order of service](https://www.indexdata.org/2026-remembrance-sunday-commemorations-order-of-service/)** — `2026-11-08` | `4 Pages`
 - `[`UKSI-2026-1149`]` **[The Charities (Russell-Cotes Art Gallery and Museum) Order 2026](https://www.indexdata.org/the-charities-russell-cotes-art-gallery-and-museum-order-2026/)** — `2026-11-02` | `12 Pages`
-
-### [Forestry Commission](https://www.indexdata.org/united-kingdom/forestry-commission/)
-Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/forestry-commission/](https://www.indexdata.org/united-kingdom/forestry-commission/) | [RSS Feed](https://www.indexdata.org/united-kingdom/forestry-commission/feed/)
-
-- `[`UK-DGOV-b12e468a-c33-a0f93880-464`]` **[NFI+ People Pressure NCEA — NFI People Pressure Research Report 2024-26.pdf](https://www.indexdata.org/nfi-people-pressure-ncea-nfi-people-pressure-research-report-2024-26-pdf/)** — `2026-11-27` | `34 Pages`
-- `[`UK-DGOV-fe2894f3-322-ca0433ae-158`]` **[National Trees Outside Woodland Map - Version 2 — Trees_Outside_Woodland_v2_Report.pdf](https://www.indexdata.org/national-trees-outside-woodland-map-version-2-trees_outside_woodland_v2_report-pdf/)** — `2026-11-25` | `30 Pages`
-- `[`UK-GOV-cb3a533d-3c44-4af3-b90b-f0ed9a33130a-5`]` **[Sweet chestnut blight: identification, reporting and control — Sweet chestnut blight notice and map of the demarcated area (November 2026)](https://www.indexdata.org/sweet-chestnut-blight-identification-reporting-and-control-sweet-chestnut-blight-notice-and-map-of-the-demarcated-area-november-2026/)** — `2026-11-10` | `5 Pages`
-- `[`UK-GOV-cb3a533d-3c44-4af3-b90b-f0ed9a33130a-4`]` **[Sweet chestnut blight: identification, reporting and control — Sweet chestnut blight notice (August 2026)](https://www.indexdata.org/sweet-chestnut-blight-identification-reporting-and-control-sweet-chestnut-blight-notice-august-2026/)** — `2026-11-10` | `5 Pages`
 
 ### [Gov Facility Services Limited](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/)
 Canonical Authority Archive: [https://www.indexdata.org/united-kingdom/gov-facility-services-limited/](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/) | [RSS Feed](https://www.indexdata.org/united-kingdom/gov-facility-services-limited/feed/)
