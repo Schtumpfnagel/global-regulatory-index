@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,747` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 04:00 UTC`
+**Last Automated Sync:** `2026-11-28 05:01 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`384` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,11 +265,13 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,747)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,751)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-07489`]` **[Airworthiness Directives; Bombardier Inc. Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-38/)** — `2025-05-02` | `5 Pages`
+- `[`2025-07539`]` **[Request for Comment To Withhold Certain Aircraft Registration Information From Public Dissemination; Extension of Comment Period](https://www.indexdata.org/request-for-comment-to-withhold-certain-aircraft-registration-information-from-public-dissemination-extension-of-comment-period/)** — `2025-05-01` | `2 Pages`
 - `[`2025-07488`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-150/)** — `2025-05-01` | `3 Pages`
 - `[`2025-07487`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-151/)** — `2025-05-01` | `3 Pages`
 - `[`2025-07453`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-152/)** — `2025-04-30` | `4 Pages`
@@ -705,7 +707,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-28120`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-176/)** — `2024-12-02` | `4 Pages`
 - `[`2024-28094`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-32/)** — `2024-12-02` | `3 Pages`
 - `[`2024-28088`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-2/)** — `2024-12-02` | `3 Pages`
-- `[`2024-28073`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-34/)** — `2024-12-02` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -913,7 +914,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-27635`]` **[Air Plan Approval; Michigan and Minnesota; Revision to Taconite Federal Implementation Plan](https://www.indexdata.org/air-plan-approval-michigan-and-minnesota-revision-to-taconite-federal-implementation-plan-2/)** — `2024-12-04` | `15 Pages`
 - `[`2024-27627`]` **[Air Plan Approval; California; Mojave Desert Air Quality Management District](https://www.indexdata.org/air-plan-approval-california-mojave-desert-air-quality-management-district/)** — `2024-12-04` | `4 Pages`
 - `[`2024-28080`]` **[Fatty acids, C16-18 and C18-unsatd., esters With polyethylene glycol mono-Me ether in Pesticide Formulations; Tolerance Exemption](https://www.indexdata.org/fatty-acids-c16-18-and-c18-unsatd-esters-with-polyethylene-glycol-mono-me-ether-in-pesticide-formulations-tolerance-exemption/)** — `2024-12-02` | `6 Pages`
-- `[`2024-27942`]` **[Air Plan Partial Approval and Partial Disapproval; Wyoming; Regional Haze Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-wyoming-regional-haze-plan-for-the-second-implementation-period/)** — `2024-12-02` | `6 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1003,6 +1003,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2025-07531`]` **[Safety Zone; Straits of Mackinac, Mackinaw City, MI](https://www.indexdata.org/safety-zone-straits-of-mackinac-mackinaw-city-mi-3/)** — `2025-05-01` | `3 Pages`
+- `[`2025-07530`]` **[Safety Zones; Erie, PA; Detroit, MI; Duluth, MN](https://www.indexdata.org/safety-zones-erie-pa-detroit-mi-duluth-mn-2/)** — `2025-05-01` | `3 Pages`
 - `[`2025-07100`]` **[Safety Zone; Recurring Events in Captain of the Port Duluth Zone-Pointe to La Pointe Swim](https://www.indexdata.org/safety-zone-recurring-events-in-captain-of-the-port-duluth-zone-pointe-to-la-pointe-swim/)** — `2025-04-30` | `2 Pages`
 - `[`2025-07333`]` **[Safety Zone; Underwater Lake Bed HAUX/ROV Survey; Straits of Mackinac, MI](https://www.indexdata.org/safety-zone-underwater-lake-bed-haux-rov-survey-straits-of-mackinac-mi/)** — `2025-04-29` | `2 Pages`
 - `[`2025-07067`]` **[Security Zone; Electric Boat Shipyard, Narragansett Bay, Quonset Point, North Kingstown, RI](https://www.indexdata.org/security-zone-electric-boat-shipyard-narragansett-bay-quonset-point-north-kingstown-ri-2/)** — `2025-04-25` | `4 Pages`
@@ -1382,26 +1384,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2024-28388`]` **[Natural Grass Sod Promotion, Research, and Information Order; Referendum Procedures](https://www.indexdata.org/natural-grass-sod-promotion-research-and-information-order-referendum-procedures/)** — `2024-12-10` | `6 Pages`
 - `[`2024-28214`]` **[Marketing Order Regulating the Handling of Spearmint Oil Produced in the Far West; Revision of the Salable Quantity and Allotment Percentage for Class 3 (Native) Spearmint Oil for the 2024-2025 Marketing Year](https://www.indexdata.org/marketing-order-regulating-the-handling-of-spearmint-oil-produced-in-the-far-west-revision-of-the-salable-quantity-and-allotment-percentage-for-class-3-native-spearmint-oil-for-the-2024-2025-market-2/)** — `2024-12-04` | `5 Pages`
 
-### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
-
-- `[`2025-04978`]` **[Nonprescription Drug Product With an Additional Condition for Nonprescription Use](https://www.indexdata.org/nonprescription-drug-product-with-an-additional-condition-for-nonprescription-use/)** — `2025-03-25` | `2 Pages`
-- `[`2025-03118`]` **[Food Labeling: Nutrient Content Claims; Definition of Term “Healthy”](https://www.indexdata.org/food-labeling-nutrient-content-claims-definition-of-term-healthy/)** — `2025-02-25` | `2 Pages`
-- `[`2025-01840`]` **[Nonprescription Drug Product With an Additional Condition for Nonprescription Use](https://www.indexdata.org/nonprescription-drug-product-with-an-additional-condition-for-nonprescription-use-2/)** — `2025-01-27` | `2 Pages`
-- `[`2025-01226`]` **[New Animal Drugs; Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Applications; Change of Sponsor; Change of Sponsor Address](https://www.indexdata.org/new-animal-drugs-approval-of-new-animal-drug-applications-withdrawal-of-approval-of-new-animal-drug-applications-change-of-sponsor-change-of-sponsor-address-2/)** — `2025-01-21` | `8 Pages`
-- `[`2025-01239`]` **[Listing of Color Additives Exempt From Certification; Myoglobin](https://www.indexdata.org/listing-of-color-additives-exempt-from-certification-myoglobin/)** — `2025-01-17` | `5 Pages`
-- `[`2025-00830`]` **[Color Additive Petition From Center for Science in the Public Interest, et al.; Request To Revoke Color Additive Listing for Use of FD&C Red No. 3 in Food and Ingested Drugs](https://www.indexdata.org/color-additive-petition-from-center-for-science-in-the-public-interest-et-al-request-to-revoke-color-additive-listing-for-use-of-fdc-red-no-3-in-food-and-ingested-drugs/)** — `2025-01-16` | `7 Pages`
-- `[`2025-00778`]` **[Food Labeling: Front-of-Package Nutrition Information](https://www.indexdata.org/food-labeling-front-of-package-nutrition-information/)** — `2025-01-16` | `38 Pages`
-- `[`2025-00397`]` **[Tobacco Product Standard for Nicotine Yield of Cigarettes and Certain Other Combusted Tobacco Products](https://www.indexdata.org/tobacco-product-standard-for-nicotine-yield-of-cigarettes-and-certain-other-combusted-tobacco-products/)** — `2025-01-16` | `113 Pages`
-- `[`2024-31528`]` **[Establishing Sanitation Programs for Low-Moisture Ready-To-Eat Human Foods and Taking Corrective Actions Following a Pathogen Contamination Event; Draft Guidance for Industry; Availability](https://www.indexdata.org/establishing-sanitation-programs-for-low-moisture-ready-to-eat-human-foods-and-taking-corrective-actions-following-a-pathogen-contamination-event-draft-guidance-for-industry-availability/)** — `2025-01-07` | `3 Pages`
-- `[`2024-31356`]` **[Considerations for Complying With 21 CFR 211.110; Draft Guidance for Industry; Availability](https://www.indexdata.org/considerations-for-complying-with-21-cfr-211-110-draft-guidance-for-industry-availability/)** — `2025-01-06` | `3 Pages`
-- `[`2024-31419`]` **[Uniform Compliance Date for Food Labeling Regulations](https://www.indexdata.org/uniform-compliance-date-for-food-labeling-regulations/)** — `2024-12-31` | `3 Pages`
-- `[`2024-30544`]` **[Testing Methods for Detecting and Identifying Asbestos in Talc-Containing Cosmetic Products](https://www.indexdata.org/testing-methods-for-detecting-and-identifying-asbestos-in-talc-containing-cosmetic-products/)** — `2024-12-27` | `15 Pages`
-- `[`2024-29957`]` **[Food Labeling: Nutrient Content Claims; Definition of Term “Healthy”](https://www.indexdata.org/food-labeling-nutrient-content-claims-definition-of-term-healthy-2/)** — `2024-12-27` | `102 Pages`
-- `[`2024-30362`]` **[Monterey Mushrooms, LLC; Filing of Food Additive Petition](https://www.indexdata.org/monterey-mushrooms-llc-filing-of-food-additive-petition/)** — `2024-12-26` | `2 Pages`
-- `[`2024-30261`]` **[Nonprescription Drug Product With an Additional Condition for Nonprescription Use](https://www.indexdata.org/nonprescription-drug-product-with-an-additional-condition-for-nonprescription-use-3/)** — `2024-12-26` | `44 Pages`
-- `[`2024-28061`]` **[New Animal Drugs; Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Applications; Change of Sponsor](https://www.indexdata.org/new-animal-drugs-approval-of-new-animal-drug-applications-withdrawal-of-approval-of-new-animal-drug-applications-change-of-sponsor/)** — `2024-12-02` | `8 Pages`
-
 ### [Securities and Exchange Commission](https://www.indexdata.org/united-states/securities-and-exchange-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/securities-and-exchange-commission/](https://www.indexdata.org/united-states/securities-and-exchange-commission/) | [RSS Feed](https://www.indexdata.org/united-states/securities-and-exchange-commission/feed/)
 
@@ -1421,6 +1403,25 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/securities
 - `[`2024-30494`]` **[EDGAR Filer Access and Account Management](https://www.indexdata.org/edgar-filer-access-and-account-management/)** — `2024-12-27` | `62 Pages`
 - `[`2024-29420`]` **[Commission's Organization and Program Management Regulations](https://www.indexdata.org/commissions-organization-and-program-management-regulations-2/)** — `2024-12-16` | `2 Pages`
 - `[`2024-28353`]` **[List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act](https://www.indexdata.org/list-of-rules-to-be-reviewed-pursuant-to-the-regulatory-flexibility-act-2/)** — `2024-12-10` | `2 Pages`
+
+### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
+
+- `[`2025-04978`]` **[Nonprescription Drug Product With an Additional Condition for Nonprescription Use](https://www.indexdata.org/nonprescription-drug-product-with-an-additional-condition-for-nonprescription-use/)** — `2025-03-25` | `2 Pages`
+- `[`2025-03118`]` **[Food Labeling: Nutrient Content Claims; Definition of Term “Healthy”](https://www.indexdata.org/food-labeling-nutrient-content-claims-definition-of-term-healthy/)** — `2025-02-25` | `2 Pages`
+- `[`2025-01840`]` **[Nonprescription Drug Product With an Additional Condition for Nonprescription Use](https://www.indexdata.org/nonprescription-drug-product-with-an-additional-condition-for-nonprescription-use-2/)** — `2025-01-27` | `2 Pages`
+- `[`2025-01226`]` **[New Animal Drugs; Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Applications; Change of Sponsor; Change of Sponsor Address](https://www.indexdata.org/new-animal-drugs-approval-of-new-animal-drug-applications-withdrawal-of-approval-of-new-animal-drug-applications-change-of-sponsor-change-of-sponsor-address-2/)** — `2025-01-21` | `8 Pages`
+- `[`2025-01239`]` **[Listing of Color Additives Exempt From Certification; Myoglobin](https://www.indexdata.org/listing-of-color-additives-exempt-from-certification-myoglobin/)** — `2025-01-17` | `5 Pages`
+- `[`2025-00830`]` **[Color Additive Petition From Center for Science in the Public Interest, et al.; Request To Revoke Color Additive Listing for Use of FD&C Red No. 3 in Food and Ingested Drugs](https://www.indexdata.org/color-additive-petition-from-center-for-science-in-the-public-interest-et-al-request-to-revoke-color-additive-listing-for-use-of-fdc-red-no-3-in-food-and-ingested-drugs/)** — `2025-01-16` | `7 Pages`
+- `[`2025-00778`]` **[Food Labeling: Front-of-Package Nutrition Information](https://www.indexdata.org/food-labeling-front-of-package-nutrition-information/)** — `2025-01-16` | `38 Pages`
+- `[`2025-00397`]` **[Tobacco Product Standard for Nicotine Yield of Cigarettes and Certain Other Combusted Tobacco Products](https://www.indexdata.org/tobacco-product-standard-for-nicotine-yield-of-cigarettes-and-certain-other-combusted-tobacco-products/)** — `2025-01-16` | `113 Pages`
+- `[`2024-31528`]` **[Establishing Sanitation Programs for Low-Moisture Ready-To-Eat Human Foods and Taking Corrective Actions Following a Pathogen Contamination Event; Draft Guidance for Industry; Availability](https://www.indexdata.org/establishing-sanitation-programs-for-low-moisture-ready-to-eat-human-foods-and-taking-corrective-actions-following-a-pathogen-contamination-event-draft-guidance-for-industry-availability/)** — `2025-01-07` | `3 Pages`
+- `[`2024-31356`]` **[Considerations for Complying With 21 CFR 211.110; Draft Guidance for Industry; Availability](https://www.indexdata.org/considerations-for-complying-with-21-cfr-211-110-draft-guidance-for-industry-availability/)** — `2025-01-06` | `3 Pages`
+- `[`2024-31419`]` **[Uniform Compliance Date for Food Labeling Regulations](https://www.indexdata.org/uniform-compliance-date-for-food-labeling-regulations/)** — `2024-12-31` | `3 Pages`
+- `[`2024-30544`]` **[Testing Methods for Detecting and Identifying Asbestos in Talc-Containing Cosmetic Products](https://www.indexdata.org/testing-methods-for-detecting-and-identifying-asbestos-in-talc-containing-cosmetic-products/)** — `2024-12-27` | `15 Pages`
+- `[`2024-29957`]` **[Food Labeling: Nutrient Content Claims; Definition of Term “Healthy”](https://www.indexdata.org/food-labeling-nutrient-content-claims-definition-of-term-healthy-2/)** — `2024-12-27` | `102 Pages`
+- `[`2024-30362`]` **[Monterey Mushrooms, LLC; Filing of Food Additive Petition](https://www.indexdata.org/monterey-mushrooms-llc-filing-of-food-additive-petition/)** — `2024-12-26` | `2 Pages`
+- `[`2024-30261`]` **[Nonprescription Drug Product With an Additional Condition for Nonprescription Use](https://www.indexdata.org/nonprescription-drug-product-with-an-additional-condition-for-nonprescription-use-3/)** — `2024-12-26` | `44 Pages`
 
 ### [Housing and Urban Development Department](https://www.indexdata.org/united-states/housing-and-urban-development-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/housing-and-urban-development-department/](https://www.indexdata.org/united-states/housing-and-urban-development-department/) | [RSS Feed](https://www.indexdata.org/united-states/housing-and-urban-development-department/feed/)
@@ -1724,17 +1725,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/children-a
 - `[`2024-29081`]` **[Employment and Training Services for Noncustodial Parents in the Child Support Program](https://www.indexdata.org/employment-and-training-services-for-noncustodial-parents-in-the-child-support-program/)** — `2024-12-13` | `22 Pages`
 - `[`2024-28072`]` **[Adoption and Foster Care Analysis and Reporting System](https://www.indexdata.org/adoption-and-foster-care-analysis-and-reporting-system-2/)** — `2024-12-05` | `22 Pages`
 
-### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-
-- `[`2025-00829`]` **[Adjudication of Temporary and Seasonal Need for Herding and Production of Livestock on the Range Applications Under the H-2A Program; Ratification of Department's Actions](https://www.indexdata.org/adjudication-of-temporary-and-seasonal-need-for-herding-and-production-of-livestock-on-the-range-applications-under-the-h-2a-program-ratification-of-departments-actions/)** — `2025-01-15` | `2 Pages`
-- `[`2025-00828`]` **[Temporary Agricultural Employment of H-2A Foreign Workers in the Herding or Production of Livestock on the Range in the United States; Ratification of Department's Actions](https://www.indexdata.org/temporary-agricultural-employment-of-h-2a-foreign-workers-in-the-herding-or-production-of-livestock-on-the-range-in-the-united-states-ratification-of-departments-actions/)** — `2025-01-15` | `2 Pages`
-- `[`2025-00526`]` **[Temporary Agricultural Employment of H-2A Nonimmigrants in the United States; Ratification of Department's Actions](https://www.indexdata.org/temporary-agricultural-employment-of-h-2a-nonimmigrants-in-the-united-states-ratification-of-departments-actions/)** — `2025-01-13` | `2 Pages`
-- `[`2025-00525`]` **[Temporary Agricultural Employment of H-2A Aliens in the United States; Ratification of Department's Actions](https://www.indexdata.org/temporary-agricultural-employment-of-h-2a-aliens-in-the-united-states-ratification-of-departments-actions/)** — `2025-01-13` | `2 Pages`
-- `[`2024-31602`]` **[Federal Civil Penalties Inflation Adjustment Act Annual Adjustments for 2025](https://www.indexdata.org/federal-civil-penalties-inflation-adjustment-act-annual-adjustments-for-2025/)** — `2025-01-10` | `13 Pages`
-- `[`2024-31078`]` **[National Apprenticeship System Enhancements; Withdrawal](https://www.indexdata.org/national-apprenticeship-system-enhancements-withdrawal/)** — `2024-12-27` | `2 Pages`
-- `[`2024-28017`]` **[Exercise of Time-Limited Authority To Increase the Numerical Limitation for FY 2025 for the H-2B Temporary Nonagricultural Worker Program and Portability Flexibility for H-2B Workers Seeking To Change Employers](https://www.indexdata.org/exercise-of-time-limited-authority-to-increase-the-numerical-limitation-for-fy-2025-for-the-h-2b-temporary-nonagricultural-worker-program-and-portability-flexibility-for-h-2b-workers-seeking-to-change/)** — `2024-12-02` | `60 Pages`
-
 ### [Animal and Plant Health Inspection Service](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/animal-and-plant-health-inspection-service/feed/)
 
@@ -1764,6 +1754,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-ac
 - `[`2024-31569`]` **[Defense Federal Acquisition Regulation Supplement; Technical Amendments](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-technical-amendments-2/)** — `2025-01-17` | `2 Pages`
 - `[`2024-29227`]` **[Defense Federal Acquisition Regulation Supplement: Task Order and Delivery Order Contracting for Architectural and Engineering Services (DFARS Case 2023-D007)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-task-order-and-delivery-order-contracting-for-architectural-and-engineering-services-dfars-case-2023-d007/)** — `2024-12-18` | `3 Pages`
 - `[`2024-29226`]` **[Defense Federal Acquisition Regulation Supplement: Small Business Innovation Research Program Data Rights (DFARS Case 2019-D043)](https://www.indexdata.org/defense-federal-acquisition-regulation-supplement-small-business-innovation-research-program-data-rights-dfars-case-2019-d043/)** — `2024-12-18` | `29 Pages`
+
+### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
+
+- `[`2025-00829`]` **[Adjudication of Temporary and Seasonal Need for Herding and Production of Livestock on the Range Applications Under the H-2A Program; Ratification of Department's Actions](https://www.indexdata.org/adjudication-of-temporary-and-seasonal-need-for-herding-and-production-of-livestock-on-the-range-applications-under-the-h-2a-program-ratification-of-departments-actions/)** — `2025-01-15` | `2 Pages`
+- `[`2025-00828`]` **[Temporary Agricultural Employment of H-2A Foreign Workers in the Herding or Production of Livestock on the Range in the United States; Ratification of Department's Actions](https://www.indexdata.org/temporary-agricultural-employment-of-h-2a-foreign-workers-in-the-herding-or-production-of-livestock-on-the-range-in-the-united-states-ratification-of-departments-actions/)** — `2025-01-15` | `2 Pages`
+- `[`2025-00526`]` **[Temporary Agricultural Employment of H-2A Nonimmigrants in the United States; Ratification of Department's Actions](https://www.indexdata.org/temporary-agricultural-employment-of-h-2a-nonimmigrants-in-the-united-states-ratification-of-departments-actions/)** — `2025-01-13` | `2 Pages`
+- `[`2025-00525`]` **[Temporary Agricultural Employment of H-2A Aliens in the United States; Ratification of Department's Actions](https://www.indexdata.org/temporary-agricultural-employment-of-h-2a-aliens-in-the-united-states-ratification-of-departments-actions/)** — `2025-01-13` | `2 Pages`
+- `[`2024-31602`]` **[Federal Civil Penalties Inflation Adjustment Act Annual Adjustments for 2025](https://www.indexdata.org/federal-civil-penalties-inflation-adjustment-act-annual-adjustments-for-2025/)** — `2025-01-10` | `13 Pages`
+- `[`2024-31078`]` **[National Apprenticeship System Enhancements; Withdrawal](https://www.indexdata.org/national-apprenticeship-system-enhancements-withdrawal/)** — `2024-12-27` | `2 Pages`
 
 ### [Foreign Assets Control Office](https://www.indexdata.org/united-states/foreign-assets-control-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-assets-control-office/](https://www.indexdata.org/united-states/foreign-assets-control-office/) | [RSS Feed](https://www.indexdata.org/united-states/foreign-assets-control-office/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,747` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 04:00 UTC`
+**Last Automated Sync:** `2026-11-28 05:01 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`384` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,747)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,751)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -597,13 +597,11 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-06678`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-254/)** — `2024-04-01` | `5 Pages`
 - `[`2024-06644`]` **[Airman Certification Standards and Practical Test Standards for Airmen; Incorporation by Reference](https://www.indexdata.org/airman-certification-standards-and-practical-test-standards-for-airmen-incorporation-by-reference/)** — `2024-04-01` | `39 Pages`
 - `[`2024-06626`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-72/)** — `2024-03-29` | `15 Pages`
-- `[`2024-06522`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-234/)** — `2024-03-28` | `5 Pages`
-- `[`2024-06521`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-73/)** — `2024-03-28` | `4 Pages`
-- `[`2024-06520`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-255/)** — `2024-03-28` | `5 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-16542`]` **[Air Plan Approval; FL; Surface Coating of Miscellaneous Metal Parts and Products Amendments](https://www.indexdata.org/air-plan-approval-fl-surface-coating-of-miscellaneous-metal-parts-and-products-amendments-2/)** — `2024-07-30` | `3 Pages`
 - `[`2024-16415`]` **[Designations of Areas for Air Quality Planning Purposes; Connecticut; Greater Connecticut 2015 8-Hour Ozone Nonattainment Area; Reclassification to Serious](https://www.indexdata.org/designations-of-areas-for-air-quality-planning-purposes-connecticut-greater-connecticut-2015-8-hour-ozone-nonattainment-area-reclassification-to-serious/)** — `2024-07-29` | `4 Pages`
 - `[`2024-14694`]` **[Integrating e-Manifest With Hazardous Waste Exports and Other Manifest-Related Reports, PCB Manifest Amendments, and Technical Corrections](https://www.indexdata.org/integrating-e-manifest-with-hazardous-waste-exports-and-other-manifest-related-reports-pcb-manifest-amendments-and-technical-corrections/)** — `2024-07-26` | `49 Pages`
 - `[`2024-16256`]` **[Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Other Solid Waste Incineration Units Revisions to Definitions](https://www.indexdata.org/standards-of-performance-for-new-stationary-sources-and-emission-guidelines-for-existing-sources-other-solid-waste-incineration-units-revisions-to-definitions/)** — `2024-07-25` | `7 Pages`
@@ -1219,7 +1217,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2024-07592`]` **[National Bioengineered Food Disclosure Standard; Request for Information on Electronic and Digital Link Disclosures](https://www.indexdata.org/national-bioengineered-food-disclosure-standard-request-for-information-on-electronic-and-digital-link-disclosures/)** — `2024-04-10` | `3 Pages`
 - `[`2024-07330`]` **[Raisins Produced From Grapes Grown in California; Increased Assessment Rate](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-increased-assessment-rate/)** — `2024-04-08` | `3 Pages`
 - `[`2024-07329`]` **[Onions Grown in South Texas; Redistricting and Reapportionment of Committee Membership](https://www.indexdata.org/onions-grown-in-south-texas-redistricting-and-reapportionment-of-committee-membership-2/)** — `2024-04-08` | `4 Pages`
-- `[`2024-06482`]` **[Olives Grown in California; Decreased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-decreased-assessment-rate-4/)** — `2024-03-28` | `3 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1815,6 +1812,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-hous
 - `[`2024-09446`]` **[Update to Methodology and Formulas for Allocation of Loan and Grant Program Funds](https://www.indexdata.org/update-to-methodology-and-formulas-for-allocation-of-loan-and-grant-program-funds/)** — `2024-05-01` | `3 Pages`
 - `[`2024-06596`]` **[Multifamily Housing Program Update to the Credit Report Process](https://www.indexdata.org/multifamily-housing-program-update-to-the-credit-report-process-3/)** — `2024-03-29` | `4 Pages`
 
+### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
+
+- `[`2024-16540`]` **[Montana Regulatory Program; Reopening Comment Period](https://www.indexdata.org/montana-regulatory-program-reopening-comment-period/)** — `2024-07-30` | `2 Pages`
+- `[`2024-16539`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-6/)** — `2024-07-30` | `3 Pages`
+- `[`2024-16536`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-7/)** — `2024-07-30` | `3 Pages`
+- `[`2024-07248`]` **[Ten-Day Notices and Corrective Action for State Regulatory Program Issues](https://www.indexdata.org/ten-day-notices-and-corrective-action-for-state-regulatory-program-issues/)** — `2024-04-09` | `23 Pages`
+- `[`2024-07205`]` **[Civil Monetary Penalty Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustments-3/)** — `2024-04-05` | `4 Pages`
+
 ### [Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-election-commission/](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
 
@@ -2065,12 +2071,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/peace-corp
 
 - `[`2024-13030`]` **[Procedures for Disclosure of Information Under the Freedom of Information Act](https://www.indexdata.org/procedures-for-disclosure-of-information-under-the-freedom-of-information-act/)** — `2024-06-14` | `2 Pages`
 - `[`2024-06800`]` **[Procedures for Disclosure of Information Under the Freedom of Information Act](https://www.indexdata.org/procedures-for-disclosure-of-information-under-the-freedom-of-information-act-2/)** — `2024-04-11` | `13 Pages`
-
-### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
-
-- `[`2024-07248`]` **[Ten-Day Notices and Corrective Action for State Regulatory Program Issues](https://www.indexdata.org/ten-day-notices-and-corrective-action-for-state-regulatory-program-issues/)** — `2024-04-09` | `23 Pages`
-- `[`2024-07205`]` **[Civil Monetary Penalty Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalty-inflation-adjustments-3/)** — `2024-04-05` | `4 Pages`
 
 ### [Agriculture Department](https://www.indexdata.org/united-states/agriculture-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agriculture-department/](https://www.indexdata.org/united-states/agriculture-department/) | [RSS Feed](https://www.indexdata.org/united-states/agriculture-department/feed/)

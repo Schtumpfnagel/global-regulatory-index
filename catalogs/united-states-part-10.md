@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,747` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 04:00 UTC`
+**Last Automated Sync:** `2026-11-28 05:01 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`384` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,747)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,751)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -610,8 +610,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2023-15673`]` **[Establishment of United States Area Navigation (RNAV) Route T-481; Sitka, AK](https://www.indexdata.org/establishment-of-united-states-area-navigation-rnav-route-t-481-sitka-ak/)** — `2023-07-25` | `2 Pages`
 - `[`2023-15666`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-104/)** — `2023-07-25` | `3 Pages`
 - `[`2023-15635`]` **[Prohibition Against Certain Flights in the Kabul Flight Information Region (FIR) (OAKX)](https://www.indexdata.org/prohibition-against-certain-flights-in-the-kabul-flight-information-region-fir-oakx-2/)** — `2023-07-25` | `7 Pages`
-- `[`2023-15634`]` **[Airworthiness Directives; Pratt & Whitney Canada Corp. Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-canada-corp-engines-8/)** — `2023-07-25` | `2 Pages`
-- `[`2023-15633`]` **[Amendment of United States Area Navigation (RNAV) Routes; Eastern United States](https://www.indexdata.org/amendment-of-united-states-area-navigation-rnav-routes-eastern-united-states-6/)** — `2023-07-25` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -793,6 +791,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 
+- `[`2023-25956`]` **[Security Zone; Nantucket Memorial Airport and Abrams Point, Nantucket, MA](https://www.indexdata.org/security-zone-nantucket-memorial-airport-and-abrams-point-nantucket-ma/)** — `2023-11-22` | `3 Pages`
 - `[`2023-25425`]` **[Great Lakes Pilotage Modernization](https://www.indexdata.org/great-lakes-pilotage-modernization-2/)** — `2023-11-21` | `43 Pages`
 - `[`2023-25026`]` **[2022 Liquid Chemical Categorization Updates](https://www.indexdata.org/2022-liquid-chemical-categorization-updates-2/)** — `2023-11-21` | `51 Pages`
 - `[`2023-25635`]` **[Security Zone; Helicopter Crash, Read Island, AK](https://www.indexdata.org/security-zone-helicopter-crash-read-island-ak/)** — `2023-11-20` | `3 Pages`
@@ -924,6 +923,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2023-25513`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Bering Sea and Aleutian Islands Halibut Abundance-Based Management of Amendment 80 Prohibited Species Catch Limit](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-bering-sea-and-aleutian-islands-halibut-abundance-based-management-of-amendment-80-prohibited-species-catch-limit/)** — `2023-11-24` | `32 Pages`
 - `[`2023-25822`]` **[Endangered and Threatened Wildlife and Plants; Technical Correction for the Giant Manta Ray](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-technical-correction-for-the-giant-manta-ray/)** — `2023-11-22` | `3 Pages`
 - `[`2023-25703`]` **[Fisheries Off West Coast States; West Coast Groundfish Electronic Monitoring Program; Service Provider Revisions](https://www.indexdata.org/fisheries-off-west-coast-states-west-coast-groundfish-electronic-monitoring-program-service-provider-revisions/)** — `2023-11-22` | `7 Pages`
 - `[`2023-25579`]` **[Fisheries of the Northeastern United States; Atlantic Bluefish Fishery; Quota Transfers From NY and MD to NC](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfers-from-ny-and-md-to-nc/)** — `2023-11-20` | `2 Pages`
@@ -1157,7 +1157,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2023-15551`]` **[General Provisions; Revised List of Migratory Birds](https://www.indexdata.org/general-provisions-revised-list-of-migratory-birds/)** — `2023-07-31` | `46 Pages`
 - `[`2023-15739`]` **[Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Fluminense Swallowtail, Harris' Mimic Swallowtail, and Hahnel's Amazonian Swallowtail](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-fluminense-swallowtail-harris-mimic-swallowtail-and-hahnels-amazonian-swallowtail/)** — `2023-07-27` | `11 Pages`
 - `[`2023-15143`]` **[Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Green Floater and Designation of Critical Habitat](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-green-floater-and-designation-of-critical-habitat/)** — `2023-07-26` | `56 Pages`
-- `[`2023-15621`]` **[Endangered and Threatened Wildlife and Plants; Two Species Not Warranted for Listing as Endangered or Threatened Species](https://www.indexdata.org/endangered-and-threatened-wildlife-and-plants-two-species-not-warranted-for-listing-as-endangered-or-threatened-species-4/)** — `2023-07-25` | `5 Pages`
 
 ### [Nuclear Regulatory Commission](https://www.indexdata.org/united-states/nuclear-regulatory-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-regulatory-commission/](https://www.indexdata.org/united-states/nuclear-regulatory-commission/) | [RSS Feed](https://www.indexdata.org/united-states/nuclear-regulatory-commission/feed/)
@@ -1265,6 +1264,36 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2023-16225`]` **[Guidance Under Section 1502; Amendment of Matching Rule for Certain Gains on Member Stock; Correction](https://www.indexdata.org/guidance-under-section-1502-amendment-of-matching-rule-for-certain-gains-on-member-stock-correction/)** — `2023-08-01` | `2 Pages`
 - `[`2023-15690`]` **[Recapture of Certain Excess Employment Tax Credits Under COVID-19 Legislation](https://www.indexdata.org/recapture-of-certain-excess-employment-tax-credits-under-covid-19-legislation/)** — `2023-07-26` | `8 Pages`
 
+### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
+
+- `[`2023-25238`]` **[Nomenclature Changes; Technical Amendments](https://www.indexdata.org/nomenclature-changes-technical-amendments/)** — `2023-11-24` | `8 Pages`
+- `[`2023-24793`]` **[Hazelnuts Grown in Oregon and Washington; Decreased Assessment Rate](https://www.indexdata.org/hazelnuts-grown-in-oregon-and-washington-decreased-assessment-rate-2/)** — `2023-11-09` | `4 Pages`
+- `[`2023-24395`]` **[Beef Promotion and Research Order; Reapportionment and Technical Amendment](https://www.indexdata.org/beef-promotion-and-research-order-reapportionment-and-technical-amendment/)** — `2023-11-06` | `6 Pages`
+- `[`2023-23726`]` **[National Organic Program (NOP); Organic Livestock and Poultry Standards](https://www.indexdata.org/national-organic-program-nop-organic-livestock-and-poultry-standards/)** — `2023-11-02` | `56 Pages`
+- `[`2023-23727`]` **[Economic Adjustment Assistance for Textile Mills](https://www.indexdata.org/economic-adjustment-assistance-for-textile-mills/)** — `2023-10-31` | `7 Pages`
+- `[`2023-23729`]` **[Walnuts Grown in California; Decreased Assessment Rate](https://www.indexdata.org/walnuts-grown-in-california-decreased-assessment-rate/)** — `2023-10-27` | `4 Pages`
+- `[`2023-22695`]` **[United States Standards for Grades of Processed Raisins](https://www.indexdata.org/united-states-standards-for-grades-of-processed-raisins/)** — `2023-10-17` | `3 Pages`
+- `[`2023-22508`]` **[Natural Grass Sod Promotion, Research, and Information Order; Referendum Procedures](https://www.indexdata.org/natural-grass-sod-promotion-research-and-information-order-referendum-procedures-2/)** — `2023-10-16` | `5 Pages`
+- `[`2023-22502`]` **[Natural Grass Sod Promotion, Research, and Information Order](https://www.indexdata.org/natural-grass-sod-promotion-research-and-information-order-2/)** — `2023-10-16` | `18 Pages`
+- `[`2023-22334`]` **[Raisins Produced From Grapes Grown in California; Temporary Suspension of Continuance Referendum](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-temporary-suspension-of-continuance-referendum-2/)** — `2023-10-16` | `3 Pages`
+- `[`2023-22333`]` **[Dried Prunes Produced in California; Suspension of the Marketing Order](https://www.indexdata.org/dried-prunes-produced-in-california-suspension-of-the-marketing-order-2/)** — `2023-10-12` | `3 Pages`
+- `[`2023-22341`]` **[U.S. Grade Standards for Pecans in the Shell and Shelled Pecans](https://www.indexdata.org/u-s-grade-standards-for-pecans-in-the-shell-and-shelled-pecans-2/)** — `2023-10-11` | `13 Pages`
+- `[`2023-22335`]` **[Pears Grown in Oregon and Washington; Amendment to the Marketing Order](https://www.indexdata.org/pears-grown-in-oregon-and-washington-amendment-to-the-marketing-order-2/)** — `2023-10-10` | `4 Pages`
+- `[`2023-22332`]` **[Olives Grown in California; Increased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-increased-assessment-rate/)** — `2023-10-10` | `4 Pages`
+- `[`2023-22331`]` **[Sweet Onions Grown in the Walla Walla Valley of Southeast Washington and Northeast Oregon; Increased Assessment Rate](https://www.indexdata.org/sweet-onions-grown-in-the-walla-walla-valley-of-southeast-washington-and-northeast-oregon-increased-assessment-rate/)** — `2023-10-10` | `4 Pages`
+- `[`2023-21701`]` **[Almonds Grown in California; Amendments to the Marketing Order](https://www.indexdata.org/almonds-grown-in-california-amendments-to-the-marketing-order-2/)** — `2023-10-04` | `7 Pages`
+- `[`2023-21702`]` **[Marketing Order Regulations for Almonds Grown in California](https://www.indexdata.org/marketing-order-regulations-for-almonds-grown-in-california/)** — `2023-10-02` | `7 Pages`
+- `[`2023-18350`]` **[Nomenclature Change; Technical Amendment](https://www.indexdata.org/nomenclature-change-technical-amendment/)** — `2023-09-13` | `2 Pages`
+- `[`2023-19003`]` **[Potato Research and Promotion Plan; Changes to Board Membership and Administrative Committee](https://www.indexdata.org/potato-research-and-promotion-plan-changes-to-board-membership-and-administrative-committee-2/)** — `2023-09-05` | `5 Pages`
+- `[`2023-18148`]` **[Dairy Donation Program](https://www.indexdata.org/dairy-donation-program/)** — `2023-08-24` | `13 Pages`
+- `[`2023-17753`]` **[Walnuts Grown in California; Order Amending Marketing Order No. 984](https://www.indexdata.org/walnuts-grown-in-california-order-amending-marketing-order-no-984/)** — `2023-08-21` | `6 Pages`
+- `[`2023-17220`]` **[Cotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2023 Amendments)](https://www.indexdata.org/cotton-board-rules-and-regulations-adjusting-supplemental-assessment-on-imports-2023-amendments/)** — `2023-08-15` | `15 Pages`
+- `[`2023-17052`]` **[Plant Records To Include Grade Label Butterfat Testing](https://www.indexdata.org/plant-records-to-include-grade-label-butterfat-testing-2/)** — `2023-08-15` | `3 Pages`
+- `[`2023-16295`]` **[Redefining Bona Fide Cotton Spot Markets](https://www.indexdata.org/redefining-bona-fide-cotton-spot-markets/)** — `2023-08-01` | `2 Pages`
+- `[`2023-16196`]` **[Adjustments to Mango Board Representation; Withdrawal of Proposed Rule](https://www.indexdata.org/adjustments-to-mango-board-representation-withdrawal-of-proposed-rule/)** — `2023-07-31` | `2 Pages`
+- `[`2023-15826`]` **[Paper and Paper-Based Packaging Promotion, Research, and Information Order; Continuance Referendum](https://www.indexdata.org/paper-and-paper-based-packaging-promotion-research-and-information-order-continuance-referendum/)** — `2023-07-26` | `2 Pages`
+
 ### [National Aeronautics and Space Administration](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-aeronautics-and-space-administration/feed/)
 
@@ -1294,35 +1323,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`2023-16385`]` **[Federal Acquisition Regulation: Training To Prevent Human Trafficking for Certain Air Carriers](https://www.indexdata.org/federal-acquisition-regulation-training-to-prevent-human-trafficking-for-certain-air-carriers-3/)** — `2023-08-07` | `6 Pages`
 - `[`2023-16012`]` **[Federal Acquisition Regulation: Sustainable Procurement](https://www.indexdata.org/federal-acquisition-regulation-sustainable-procurement-2/)** — `2023-08-03` | `23 Pages`
 - `[`2023-14553`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-14/)** — `2023-07-27` | `12 Pages`
-
-### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
-
-- `[`2023-24793`]` **[Hazelnuts Grown in Oregon and Washington; Decreased Assessment Rate](https://www.indexdata.org/hazelnuts-grown-in-oregon-and-washington-decreased-assessment-rate-2/)** — `2023-11-09` | `4 Pages`
-- `[`2023-24395`]` **[Beef Promotion and Research Order; Reapportionment and Technical Amendment](https://www.indexdata.org/beef-promotion-and-research-order-reapportionment-and-technical-amendment/)** — `2023-11-06` | `6 Pages`
-- `[`2023-23726`]` **[National Organic Program (NOP); Organic Livestock and Poultry Standards](https://www.indexdata.org/national-organic-program-nop-organic-livestock-and-poultry-standards/)** — `2023-11-02` | `56 Pages`
-- `[`2023-23727`]` **[Economic Adjustment Assistance for Textile Mills](https://www.indexdata.org/economic-adjustment-assistance-for-textile-mills/)** — `2023-10-31` | `7 Pages`
-- `[`2023-23729`]` **[Walnuts Grown in California; Decreased Assessment Rate](https://www.indexdata.org/walnuts-grown-in-california-decreased-assessment-rate/)** — `2023-10-27` | `4 Pages`
-- `[`2023-22695`]` **[United States Standards for Grades of Processed Raisins](https://www.indexdata.org/united-states-standards-for-grades-of-processed-raisins/)** — `2023-10-17` | `3 Pages`
-- `[`2023-22508`]` **[Natural Grass Sod Promotion, Research, and Information Order; Referendum Procedures](https://www.indexdata.org/natural-grass-sod-promotion-research-and-information-order-referendum-procedures-2/)** — `2023-10-16` | `5 Pages`
-- `[`2023-22502`]` **[Natural Grass Sod Promotion, Research, and Information Order](https://www.indexdata.org/natural-grass-sod-promotion-research-and-information-order-2/)** — `2023-10-16` | `18 Pages`
-- `[`2023-22334`]` **[Raisins Produced From Grapes Grown in California; Temporary Suspension of Continuance Referendum](https://www.indexdata.org/raisins-produced-from-grapes-grown-in-california-temporary-suspension-of-continuance-referendum-2/)** — `2023-10-16` | `3 Pages`
-- `[`2023-22333`]` **[Dried Prunes Produced in California; Suspension of the Marketing Order](https://www.indexdata.org/dried-prunes-produced-in-california-suspension-of-the-marketing-order-2/)** — `2023-10-12` | `3 Pages`
-- `[`2023-22341`]` **[U.S. Grade Standards for Pecans in the Shell and Shelled Pecans](https://www.indexdata.org/u-s-grade-standards-for-pecans-in-the-shell-and-shelled-pecans-2/)** — `2023-10-11` | `13 Pages`
-- `[`2023-22335`]` **[Pears Grown in Oregon and Washington; Amendment to the Marketing Order](https://www.indexdata.org/pears-grown-in-oregon-and-washington-amendment-to-the-marketing-order-2/)** — `2023-10-10` | `4 Pages`
-- `[`2023-22332`]` **[Olives Grown in California; Increased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-increased-assessment-rate/)** — `2023-10-10` | `4 Pages`
-- `[`2023-22331`]` **[Sweet Onions Grown in the Walla Walla Valley of Southeast Washington and Northeast Oregon; Increased Assessment Rate](https://www.indexdata.org/sweet-onions-grown-in-the-walla-walla-valley-of-southeast-washington-and-northeast-oregon-increased-assessment-rate/)** — `2023-10-10` | `4 Pages`
-- `[`2023-21701`]` **[Almonds Grown in California; Amendments to the Marketing Order](https://www.indexdata.org/almonds-grown-in-california-amendments-to-the-marketing-order-2/)** — `2023-10-04` | `7 Pages`
-- `[`2023-21702`]` **[Marketing Order Regulations for Almonds Grown in California](https://www.indexdata.org/marketing-order-regulations-for-almonds-grown-in-california/)** — `2023-10-02` | `7 Pages`
-- `[`2023-18350`]` **[Nomenclature Change; Technical Amendment](https://www.indexdata.org/nomenclature-change-technical-amendment/)** — `2023-09-13` | `2 Pages`
-- `[`2023-19003`]` **[Potato Research and Promotion Plan; Changes to Board Membership and Administrative Committee](https://www.indexdata.org/potato-research-and-promotion-plan-changes-to-board-membership-and-administrative-committee-2/)** — `2023-09-05` | `5 Pages`
-- `[`2023-18148`]` **[Dairy Donation Program](https://www.indexdata.org/dairy-donation-program/)** — `2023-08-24` | `13 Pages`
-- `[`2023-17753`]` **[Walnuts Grown in California; Order Amending Marketing Order No. 984](https://www.indexdata.org/walnuts-grown-in-california-order-amending-marketing-order-no-984/)** — `2023-08-21` | `6 Pages`
-- `[`2023-17220`]` **[Cotton Board Rules and Regulations: Adjusting Supplemental Assessment on Imports (2023 Amendments)](https://www.indexdata.org/cotton-board-rules-and-regulations-adjusting-supplemental-assessment-on-imports-2023-amendments/)** — `2023-08-15` | `15 Pages`
-- `[`2023-17052`]` **[Plant Records To Include Grade Label Butterfat Testing](https://www.indexdata.org/plant-records-to-include-grade-label-butterfat-testing-2/)** — `2023-08-15` | `3 Pages`
-- `[`2023-16295`]` **[Redefining Bona Fide Cotton Spot Markets](https://www.indexdata.org/redefining-bona-fide-cotton-spot-markets/)** — `2023-08-01` | `2 Pages`
-- `[`2023-16196`]` **[Adjustments to Mango Board Representation; Withdrawal of Proposed Rule](https://www.indexdata.org/adjustments-to-mango-board-representation-withdrawal-of-proposed-rule/)** — `2023-07-31` | `2 Pages`
-- `[`2023-15826`]` **[Paper and Paper-Based Packaging Promotion, Research, and Information Order; Continuance Referendum](https://www.indexdata.org/paper-and-paper-based-packaging-promotion-research-and-information-order-continuance-referendum/)** — `2023-07-26` | `2 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)
@@ -1961,8 +1961,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-nu
 ### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
 
+- `[`2023-25372`]` **[Wagner-Peyser Act Staffing](https://www.indexdata.org/wagner-peyser-act-staffing/)** — `2023-11-24` | `80 Pages`
 - `[`2023-19852`]` **[Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.indexdata.org/improving-protections-for-workers-in-temporary-agricultural-employment-in-the-united-states-2/)** — `2023-09-15` | `83 Pages`
-- `[`2023-15631`]` **[Federal-State Unemployment Compensation (UC) Program; Confidentiality and Disclosure of State UC Information](https://www.indexdata.org/federal-state-unemployment-compensation-uc-program-confidentiality-and-disclosure-of-state-uc-information/)** — `2023-07-25` | `9 Pages`
 
 ### [Engineers Corps](https://www.indexdata.org/united-states/engineers-corps/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/engineers-corps/](https://www.indexdata.org/united-states/engineers-corps/) | [RSS Feed](https://www.indexdata.org/united-states/engineers-corps/feed/)

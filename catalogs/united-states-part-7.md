@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,747` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 04:00 UTC`
+**Last Automated Sync:** `2026-11-28 05:01 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`384` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,11 +265,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,747)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,751)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-28073`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-34/)** — `2024-12-02` | `3 Pages`
 - `[`2024-27837`]` **[Modification of Class E Airspace; Colusa County Airport, Colusa, CA](https://www.indexdata.org/modification-of-class-e-airspace-colusa-county-airport-colusa-ca-2/)** — `2024-11-29` | `3 Pages`
 - `[`2024-27814`]` **[Airworthiness Directives; Airbus Helicopters (Type Certificate Previously Held by Eurocopter France)](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-type-certificate-previously-held-by-eurocopter-france-2/)** — `2024-11-29` | `4 Pages`
 - `[`2024-27813`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-149/)** — `2024-11-29` | `4 Pages`
@@ -602,6 +603,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-27942`]` **[Air Plan Partial Approval and Partial Disapproval; Wyoming; Regional Haze Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-wyoming-regional-haze-plan-for-the-second-implementation-period/)** — `2024-12-02` | `6 Pages`
 - `[`2024-27941`]` **[Air Plan Partial Approval and Partial Disapproval; Utah; Regional Haze State Implementation Plan for the Second Implementation Period; Air Plan Disapproval; Utah; Prong 4 (Visibility) for the 2015 8-Hour Ozone National Ambient Air Quality Standard](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-utah-regional-haze-state-implementation-plan-for-the-second-implementation-period-air-plan-disapproval-utah-prong-4-visibility-for-the-2015-8-h/)** — `2024-12-02` | `5 Pages`
 - `[`2024-27940`]` **[Air Plan Partial Approval and Partial Disapproval; North Dakota; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-north-dakota-regional-haze-state-implementation-plan-for-the-second-implementation-period/)** — `2024-12-02` | `6 Pages`
 - `[`2024-27912`]` **[Significant New Use Rules on Certain Chemical Substances (24-2.5e)](https://www.indexdata.org/significant-new-use-rules-on-certain-chemical-substances-24-2-5e-2/)** — `2024-12-02` | `29 Pages`
@@ -827,7 +829,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-16544`]` **[Pendimethalin; Pesticide Tolerance](https://www.indexdata.org/pendimethalin-pesticide-tolerance/)** — `2024-07-31` | `4 Pages`
 - `[`2024-16570`]` **[Designations of Areas for Air Quality Planning Purposes; Pennsylvania, New Jersey, Maryland, Delaware; Philadelphia-Wilmington-Atlantic City, PA-NJ-MD-DE 2015 8-Hour Ozone Nonattainment Area; Reclassification to Serious](https://www.indexdata.org/designations-of-areas-for-air-quality-planning-purposes-pennsylvania-new-jersey-maryland-delaware-philadelphia-wilmington-atlantic-city-pa-nj-md-de-2015-8-hour-ozone-nonattainment-area-reclassi/)** — `2024-07-30` | `5 Pages`
 - `[`2024-16568`]` **[Clean Air Act Title V Operating Permit Program Revision; West Virginia](https://www.indexdata.org/clean-air-act-title-v-operating-permit-program-revision-west-virginia/)** — `2024-07-30` | `4 Pages`
-- `[`2024-16542`]` **[Air Plan Approval; FL; Surface Coating of Miscellaneous Metal Parts and Products Amendments](https://www.indexdata.org/air-plan-approval-fl-surface-coating-of-miscellaneous-metal-parts-and-products-amendments-2/)** — `2024-07-30` | `3 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1115,6 +1116,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
+- `[`2024-28061`]` **[New Animal Drugs; Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Applications; Change of Sponsor](https://www.indexdata.org/new-animal-drugs-approval-of-new-animal-drug-applications-withdrawal-of-approval-of-new-animal-drug-applications-change-of-sponsor/)** — `2024-12-02` | `8 Pages`
 - `[`2024-25974`]` **[Color Additive Certification; Increase in Fees for Certification Services](https://www.indexdata.org/color-additive-certification-increase-in-fees-for-certification-services/)** — `2024-11-08` | `8 Pages`
 - `[`2024-25122`]` **[Indirect Food Additives: Adhesives and Components of Coatings; Paper and Paperboard Components; Polymers; Adjuvants, Production Aids, and Sanitizers](https://www.indexdata.org/indirect-food-additives-adhesives-and-components-of-coatings-paper-and-paperboard-components-polymers-adjuvants-production-aids-and-sanitizers/)** — `2024-10-30` | `3 Pages`
 - `[`2024-25120`]` **[Environmental Defense Fund, et al.; Response to Objections and Requests for a Public Hearing](https://www.indexdata.org/environmental-defense-fund-et-al-response-to-objections-and-requests-for-a-public-hearing/)** — `2024-10-30` | `16 Pages`
@@ -1514,24 +1516,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and
 - `[`2024-17096`]` **[HHS Acquisition Regulation: Acquisition of Information Technology; Standards for Health Information Technology (HHSAR Case 2023-001)](https://www.indexdata.org/hhs-acquisition-regulation-acquisition-of-information-technology-standards-for-health-information-technology-hhsar-case-2023-001/)** — `2024-08-09` | `9 Pages`
 - `[`2024-17466`]` **[Annual Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/annual-civil-monetary-penalties-inflation-adjustment-3/)** — `2024-08-08` | `18 Pages`
 
-### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
-
-- `[`2024-26781`]` **[Montana Regulatory Program/Reclamation Plan](https://www.indexdata.org/montana-regulatory-program-reclamation-plan/)** — `2024-11-19` | `5 Pages`
-- `[`2024-22327`]` **[Ohio Abandoned Mine Land Reclamation Plan](https://www.indexdata.org/ohio-abandoned-mine-land-reclamation-plan/)** — `2024-09-30` | `6 Pages`
-- `[`2024-19049`]` **[West Virginia Regulatory Program; Correction](https://www.indexdata.org/west-virginia-regulatory-program-correction-2/)** — `2024-08-28` | `2 Pages`
-- `[`2024-18512`]` **[Pennsylvania Regulatory Program](https://www.indexdata.org/pennsylvania-regulatory-program-4/)** — `2024-08-19` | `3 Pages`
-- `[`2024-18260`]` **[Pennsylvania Abandoned Mine Land Reclamation Program](https://www.indexdata.org/pennsylvania-abandoned-mine-land-reclamation-program/)** — `2024-08-16` | `5 Pages`
-- `[`2024-18040`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program-3/)** — `2024-08-15` | `5 Pages`
-- `[`2024-18039`]` **[Utah Regulatory Program](https://www.indexdata.org/utah-regulatory-program-2/)** — `2024-08-15` | `6 Pages`
-- `[`2024-17336`]` **[Pennsylvania Regulatory Program](https://www.indexdata.org/pennsylvania-regulatory-program-5/)** — `2024-08-08` | `8 Pages`
-- `[`2024-17334`]` **[West Virginia Regulatory Program](https://www.indexdata.org/west-virginia-regulatory-program-7/)** — `2024-08-08` | `5 Pages`
-- `[`2024-17333`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program-4/)** — `2024-08-08` | `4 Pages`
-- `[`2024-17330`]` **[Pennsylvania Regulatory Program](https://www.indexdata.org/pennsylvania-regulatory-program-6/)** — `2024-08-08` | `5 Pages`
-- `[`2024-16540`]` **[Montana Regulatory Program; Reopening Comment Period](https://www.indexdata.org/montana-regulatory-program-reopening-comment-period/)** — `2024-07-30` | `2 Pages`
-- `[`2024-16539`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-6/)** — `2024-07-30` | `3 Pages`
-- `[`2024-16536`]` **[Wyoming Regulatory Program](https://www.indexdata.org/wyoming-regulatory-program-7/)** — `2024-07-30` | `3 Pages`
-
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 
@@ -1577,6 +1561,21 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-a
 - `[`2024-19024`]` **[Federal Acquisition Regulation: Prohibition on the Use of Reverse Auctions for Complex, Specialized, or Substantial Design and Construction Services](https://www.indexdata.org/federal-acquisition-regulation-prohibition-on-the-use-of-reverse-auctions-for-complex-specialized-or-substantial-design-and-construction-services/)** — `2024-08-29` | `4 Pages`
 - `[`2024-16464`]` **[Semiannual Regulatory Agenda](https://www.indexdata.org/semiannual-regulatory-agenda-4/)** — `2024-08-16` | `4 Pages`
 - `[`2024-16462`]` **[Regulatory Agenda](https://www.indexdata.org/regulatory-agenda/)** — `2024-08-16` | `2 Pages`
+
+### [Surface Mining Reclamation and Enforcement Office](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/) | [RSS Feed](https://www.indexdata.org/united-states/surface-mining-reclamation-and-enforcement-office/feed/)
+
+- `[`2024-26781`]` **[Montana Regulatory Program/Reclamation Plan](https://www.indexdata.org/montana-regulatory-program-reclamation-plan/)** — `2024-11-19` | `5 Pages`
+- `[`2024-22327`]` **[Ohio Abandoned Mine Land Reclamation Plan](https://www.indexdata.org/ohio-abandoned-mine-land-reclamation-plan/)** — `2024-09-30` | `6 Pages`
+- `[`2024-19049`]` **[West Virginia Regulatory Program; Correction](https://www.indexdata.org/west-virginia-regulatory-program-correction-2/)** — `2024-08-28` | `2 Pages`
+- `[`2024-18512`]` **[Pennsylvania Regulatory Program](https://www.indexdata.org/pennsylvania-regulatory-program-4/)** — `2024-08-19` | `3 Pages`
+- `[`2024-18260`]` **[Pennsylvania Abandoned Mine Land Reclamation Program](https://www.indexdata.org/pennsylvania-abandoned-mine-land-reclamation-program/)** — `2024-08-16` | `5 Pages`
+- `[`2024-18040`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program-3/)** — `2024-08-15` | `5 Pages`
+- `[`2024-18039`]` **[Utah Regulatory Program](https://www.indexdata.org/utah-regulatory-program-2/)** — `2024-08-15` | `6 Pages`
+- `[`2024-17336`]` **[Pennsylvania Regulatory Program](https://www.indexdata.org/pennsylvania-regulatory-program-5/)** — `2024-08-08` | `8 Pages`
+- `[`2024-17334`]` **[West Virginia Regulatory Program](https://www.indexdata.org/west-virginia-regulatory-program-7/)** — `2024-08-08` | `5 Pages`
+- `[`2024-17333`]` **[Kentucky Regulatory Program](https://www.indexdata.org/kentucky-regulatory-program-4/)** — `2024-08-08` | `4 Pages`
+- `[`2024-17330`]` **[Pennsylvania Regulatory Program](https://www.indexdata.org/pennsylvania-regulatory-program-6/)** — `2024-08-08` | `5 Pages`
 
 ### [Education Department](https://www.indexdata.org/united-states/education-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/education-department/](https://www.indexdata.org/united-states/education-department/) | [RSS Feed](https://www.indexdata.org/united-states/education-department/feed/)
@@ -1991,6 +1990,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-
 - `[`2024-27722`]` **[Cost of Living Adjustment to Public Broadcasters Compulsory License Royalty Rate](https://www.indexdata.org/cost-of-living-adjustment-to-public-broadcasters-compulsory-license-royalty-rate-2/)** — `2024-11-29` | `2 Pages`
 - `[`2024-23426`]` **[Determination of Rates and Terms for Digital Performance of Sound Recordings and Making of Ephemeral Copies To Facilitate Those Performances (Web VI)](https://www.indexdata.org/determination-of-rates-and-terms-for-digital-performance-of-sound-recordings-and-making-of-ephemeral-copies-to-facilitate-those-performances-web-vi-9/)** — `2024-10-11` | `4 Pages`
 
+### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
+
+- `[`2024-28017`]` **[Exercise of Time-Limited Authority To Increase the Numerical Limitation for FY 2025 for the H-2B Temporary Nonagricultural Worker Program and Portability Flexibility for H-2B Workers Seeking To Change Employers](https://www.indexdata.org/exercise-of-time-limited-authority-to-increase-the-numerical-limitation-for-fy-2025-for-the-h-2b-temporary-nonagricultural-worker-program-and-portability-flexibility-for-h-2b-workers-seeking-to-change/)** — `2024-12-02` | `60 Pages`
+- `[`2024-26481`]` **[Employer-Provided Survey Wage Methodology for the Temporary Non-Agricultural Employment H-2B Program](https://www.indexdata.org/employer-provided-survey-wage-methodology-for-the-temporary-non-agricultural-employment-h-2b-program/)** — `2024-11-18` | `17 Pages`
+
 ### [Farm Credit Administration](https://www.indexdata.org/united-states/farm-credit-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-credit-administration/](https://www.indexdata.org/united-states/farm-credit-administration/) | [RSS Feed](https://www.indexdata.org/united-states/farm-credit-administration/feed/)
 
@@ -2106,11 +2111,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/defense-nu
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-benefits-security-administration/](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 
 - `[`2024-17586`]` **[Prohibited Transaction Class Exemption 84-14 for Transactions Determined by Independent Qualified Professional Asset Managers (the QPAM Exemption); Correction](https://www.indexdata.org/prohibited-transaction-class-exemption-84-14-for-transactions-determined-by-independent-qualified-professional-asset-managers-the-qpam-exemption-correction/)** — `2024-08-13` | `8 Pages`
-
-### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-
-- `[`2024-26481`]` **[Employer-Provided Survey Wage Methodology for the Temporary Non-Agricultural Employment H-2B Program](https://www.indexdata.org/employer-provided-survey-wage-methodology-for-the-temporary-non-agricultural-employment-h-2b-program/)** — `2024-11-18` | `17 Pages`
 
 ### [Executive Office for Immigration Review](https://www.indexdata.org/united-states/executive-office-for-immigration-review/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/executive-office-for-immigration-review/](https://www.indexdata.org/united-states/executive-office-for-immigration-review/) | [RSS Feed](https://www.indexdata.org/united-states/executive-office-for-immigration-review/feed/)

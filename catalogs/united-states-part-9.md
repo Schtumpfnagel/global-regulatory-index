@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,747` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 04:00 UTC`
+**Last Automated Sync:** `2026-11-28 05:01 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`384` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,11 +265,14 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,747)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,751)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-06522`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-234/)** — `2024-03-28` | `5 Pages`
+- `[`2024-06521`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-73/)** — `2024-03-28` | `4 Pages`
+- `[`2024-06520`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-255/)** — `2024-03-28` | `5 Pages`
 - `[`2024-06478`]` **[Airworthiness Directives; Gulfstream Aerospace Corporation Airplanes](https://www.indexdata.org/airworthiness-directives-gulfstream-aerospace-corporation-airplanes-9/)** — `2024-03-28` | `5 Pages`
 - `[`2024-06477`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-bombardier-inc-airplanes-63/)** — `2024-03-27` | `3 Pages`
 - `[`2024-06433`]` **[Airworthiness Directives; Pratt & Whitney Turbofan Engines](https://www.indexdata.org/airworthiness-directives-pratt-whitney-turbofan-engines/)** — `2024-03-27` | `7 Pages`
@@ -920,7 +923,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2023-26211`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Resources of the Gulf of Mexico; Partial Holdback of Commercial Quota for Gag in the Gulf of Mexico](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-reef-fish-resources-of-the-gulf-of-mexico-partial-holdback-of-commercial-quota-for-gag-in-the-gulf-of-mexico/)** — `2023-11-28` | `2 Pages`
 - `[`2023-26187`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Fishery of the Gulf of Mexico; 2024 Red Snapper Private Angling Component Closure in Federal Waters Off Texas](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-reef-fish-fishery-of-the-gulf-of-mexico-2024-red-snapper-private-angling-component-closure-in-federal-waters-off-texas-2/)** — `2023-11-28` | `2 Pages`
 - `[`2023-25997`]` **[Fisheries Off West Coast States; West Coast Salmon Fisheries; Amendment 24 to the Pacific Coast Salmon Fishery Management Plan](https://www.indexdata.org/fisheries-off-west-coast-states-west-coast-salmon-fisheries-amendment-24-to-the-pacific-coast-salmon-fishery-management-plan/)** — `2023-11-27` | `2 Pages`
-- `[`2023-25513`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Bering Sea and Aleutian Islands Halibut Abundance-Based Management of Amendment 80 Prohibited Species Catch Limit](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-bering-sea-and-aleutian-islands-halibut-abundance-based-management-of-amendment-80-prohibited-species-catch-limit/)** — `2023-11-24` | `32 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
@@ -1026,7 +1028,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2023-26149`]` **[Safety Zone; Ashtabula Power Plant Breakwater Armor Stone Removal, Lake Erie, Ashtabula, OH](https://www.indexdata.org/safety-zone-ashtabula-power-plant-breakwater-armor-stone-removal-lake-erie-ashtabula-oh/)** — `2023-11-28` | `3 Pages`
 - `[`2023-26017`]` **[Drawbridge Operation Regulation; Old River, Between Victoria Island and Byron Tract, CA](https://www.indexdata.org/drawbridge-operation-regulation-old-river-between-victoria-island-and-byron-tract-ca-2/)** — `2023-11-28` | `3 Pages`
 - `[`2023-25981`]` **[Safety Zone; Lake Charles, Lake Charles, LA](https://www.indexdata.org/safety-zone-lake-charles-lake-charles-la/)** — `2023-11-24` | `2 Pages`
-- `[`2023-25956`]` **[Security Zone; Nantucket Memorial Airport and Abrams Point, Nantucket, MA](https://www.indexdata.org/security-zone-nantucket-memorial-airport-and-abrams-point-nantucket-ma/)** — `2023-11-22` | `3 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1182,6 +1183,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)
 
+- `[`2024-06482`]` **[Olives Grown in California; Decreased Assessment Rate](https://www.indexdata.org/olives-grown-in-california-decreased-assessment-rate-4/)** — `2024-03-28` | `3 Pages`
 - `[`2024-04973`]` **[National Organic Program; Market Development for Mushrooms and Pet Food](https://www.indexdata.org/national-organic-program-market-development-for-mushrooms-and-pet-food-3/)** — `2024-03-11` | `17 Pages`
 - `[`2024-04788`]` **[Tomatoes Grown in Florida; Increased Assessment Rate](https://www.indexdata.org/tomatoes-grown-in-florida-increased-assessment-rate-2/)** — `2024-03-07` | `3 Pages`
 - `[`2024-04730`]` **[Hazelnuts Grown in Oregon and Washington; Decreased Assessment Rate](https://www.indexdata.org/hazelnuts-grown-in-oregon-and-washington-decreased-assessment-rate/)** — `2024-03-06` | `3 Pages`
@@ -1207,7 +1209,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultur
 - `[`2023-25879`]` **[Milk in the Appalachian, Florida, and Southeast Marketing Areas; Final Decision on Proposed Amendments to Marketing Agreements and to Orders](https://www.indexdata.org/milk-in-the-appalachian-florida-and-southeast-marketing-areas-final-decision-on-proposed-amendments-to-marketing-agreements-and-to-orders/)** — `2023-12-01` | `28 Pages`
 - `[`2023-26059`]` **[National Bioengineered Food Disclosure Standard; List of Bioengineered Foods](https://www.indexdata.org/national-bioengineered-food-disclosure-standard-list-of-bioengineered-foods/)** — `2023-11-29` | `7 Pages`
 - `[`2023-24922`]` **[Transparency in Poultry Grower Contracting and Tournaments](https://www.indexdata.org/transparency-in-poultry-grower-contracting-and-tournaments/)** — `2023-11-28` | `92 Pages`
-- `[`2023-25238`]` **[Nomenclature Changes; Technical Amendments](https://www.indexdata.org/nomenclature-changes-technical-amendments/)** — `2023-11-24` | `8 Pages`
 
 ### [Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-wildlife-service/](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
@@ -1597,18 +1598,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/comptrolle
 - `[`2023-26202`]` **[Long-Term Debt Requirements for Large Bank Holding Companies, Certain Intermediate Holding Companies of Foreign Banking Organizations, and Large Insured Depository Institutions; Extension of Comment Period](https://www.indexdata.org/long-term-debt-requirements-for-large-bank-holding-companies-certain-intermediate-holding-companies-of-foreign-banking-organizations-and-large-insured-depository-institutions-extension-of-comment-p/)** — `2023-11-29` | `2 Pages`
 - `[`2023-25047`]` **[Appraisals for Higher-Priced Mortgage Loans Exemption Threshold](https://www.indexdata.org/appraisals-for-higher-priced-mortgage-loans-exemption-threshold-3/)** — `2023-11-29` | `6 Pages`
 
-### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
-
-- `[`2024-03871`]` **[Wagner-Peyser Act Staffing; Corrections](https://www.indexdata.org/wagner-peyser-act-staffing-corrections/)** — `2024-02-28` | `2 Pages`
-- `[`2024-03279`]` **[Workforce Innovation and Opportunity Act Title I Non-Core Programs Effectiveness in Serving Employers Performance Indicator](https://www.indexdata.org/workforce-innovation-and-opportunity-act-title-i-non-core-programs-effectiveness-in-serving-employers-performance-indicator/)** — `2024-02-23` | `20 Pages`
-- `[`2024-03278`]` **[Workforce Innovation and Opportunity Act Effectiveness in Serving Employers Performance Indicator](https://www.indexdata.org/workforce-innovation-and-opportunity-act-effectiveness-in-serving-employers-performance-indicator/)** — `2024-02-23` | `36 Pages`
-- `[`2024-03187`]` **[Labor Certification for Permanent Employment of Foreign Workers in the United States; Modernizing Schedule A To Include Consideration of Additional Occupations in Science, Technology, Engineering, and Mathematics (STEM) and Non-STEM Occupations](https://www.indexdata.org/labor-certification-for-permanent-employment-of-foreign-workers-in-the-united-states-modernizing-schedule-a-to-include-consideration-of-additional-occupations-in-science-technology-engineering-and/)** — `2024-02-15` | `2 Pages`
-- `[`2023-27851`]` **[National Apprenticeship System Enhancements](https://www.indexdata.org/national-apprenticeship-system-enhancements/)** — `2024-01-17` | `181 Pages`
-- `[`2024-00253`]` **[Federal Civil Penalties Inflation Adjustment Act Annual Adjustments for 2024](https://www.indexdata.org/federal-civil-penalties-inflation-adjustment-act-annual-adjustments-for-2024/)** — `2024-01-11` | `13 Pages`
-- `[`2023-27938`]` **[Labor Certification for Permanent Employment of Foreign Workers in the United States; Modernizing Schedule A To Include Consideration of Additional Occupations in Science, Technology, Engineering, and Mathematics (STEM) and Non-STEM Occupations](https://www.indexdata.org/labor-certification-for-permanent-employment-of-foreign-workers-in-the-united-states-modernizing-schedule-a-to-include-consideration-of-additional-occupations-in-science-technology-engineering-and-2/)** — `2023-12-21` | `5 Pages`
-- `[`2023-25372`]` **[Wagner-Peyser Act Staffing](https://www.indexdata.org/wagner-peyser-act-staffing/)** — `2023-11-24` | `80 Pages`
-
 ### [Federal Motor Carrier Safety Administration](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-motor-carrier-safety-administration/feed/)
 
@@ -1643,6 +1632,17 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-an
 - `[`2024-00059`]` **[Proposed Establishment of the Conneaut Creek Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-conneaut-creek-viticultural-area/)** — `2024-01-05` | `5 Pages`
 - `[`2024-00058`]` **[Proposed Establishment of the Tryon Foothills Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-tryon-foothills-viticultural-area/)** — `2024-01-05` | `6 Pages`
 - `[`2024-00057`]` **[Proposed Renaming of the Mendocino Ridge Viticultural Area](https://www.indexdata.org/proposed-renaming-of-the-mendocino-ridge-viticultural-area/)** — `2024-01-05` | `4 Pages`
+
+### [Employment and Training Administration](https://www.indexdata.org/united-states/employment-and-training-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/employment-and-training-administration/](https://www.indexdata.org/united-states/employment-and-training-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employment-and-training-administration/feed/)
+
+- `[`2024-03871`]` **[Wagner-Peyser Act Staffing; Corrections](https://www.indexdata.org/wagner-peyser-act-staffing-corrections/)** — `2024-02-28` | `2 Pages`
+- `[`2024-03279`]` **[Workforce Innovation and Opportunity Act Title I Non-Core Programs Effectiveness in Serving Employers Performance Indicator](https://www.indexdata.org/workforce-innovation-and-opportunity-act-title-i-non-core-programs-effectiveness-in-serving-employers-performance-indicator/)** — `2024-02-23` | `20 Pages`
+- `[`2024-03278`]` **[Workforce Innovation and Opportunity Act Effectiveness in Serving Employers Performance Indicator](https://www.indexdata.org/workforce-innovation-and-opportunity-act-effectiveness-in-serving-employers-performance-indicator/)** — `2024-02-23` | `36 Pages`
+- `[`2024-03187`]` **[Labor Certification for Permanent Employment of Foreign Workers in the United States; Modernizing Schedule A To Include Consideration of Additional Occupations in Science, Technology, Engineering, and Mathematics (STEM) and Non-STEM Occupations](https://www.indexdata.org/labor-certification-for-permanent-employment-of-foreign-workers-in-the-united-states-modernizing-schedule-a-to-include-consideration-of-additional-occupations-in-science-technology-engineering-and/)** — `2024-02-15` | `2 Pages`
+- `[`2023-27851`]` **[National Apprenticeship System Enhancements](https://www.indexdata.org/national-apprenticeship-system-enhancements/)** — `2024-01-17` | `181 Pages`
+- `[`2024-00253`]` **[Federal Civil Penalties Inflation Adjustment Act Annual Adjustments for 2024](https://www.indexdata.org/federal-civil-penalties-inflation-adjustment-act-annual-adjustments-for-2024/)** — `2024-01-11` | `13 Pages`
+- `[`2023-27938`]` **[Labor Certification for Permanent Employment of Foreign Workers in the United States; Modernizing Schedule A To Include Consideration of Additional Occupations in Science, Technology, Engineering, and Mathematics (STEM) and Non-STEM Occupations](https://www.indexdata.org/labor-certification-for-permanent-employment-of-foreign-workers-in-the-united-states-modernizing-schedule-a-to-include-consideration-of-additional-occupations-in-science-technology-engineering-and-2/)** — `2023-12-21` | `5 Pages`
 
 ### [Federal Highway Administration](https://www.indexdata.org/united-states/federal-highway-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-highway-administration/](https://www.indexdata.org/united-states/federal-highway-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-highway-administration/feed/)
