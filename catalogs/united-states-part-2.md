@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 05:01 UTC`
+**Last Automated Sync:** `2026-11-28 05:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`390` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,751)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,753)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1039,8 +1039,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2026-12445`]` **[Medical Devices; Gastroenterology-Urology Devices; Classification of the Endoscopic Traction Device](https://www.indexdata.org/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-traction-device/)** — `2026-06-22` | `3 Pages`
 - `[`2026-12444`]` **[Medical Devices; Gastroenterology-Urology Devices; Classification of the Endoscopic Light-Projecting Measuring Device](https://www.indexdata.org/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-light-projecting-measuring-device/)** — `2026-06-22` | `3 Pages`
 - `[`2026-12443`]` **[Medical Devices; Immunology and Microbiology Devices; Classification of the Simple In Vitro Diagnostic Device for the Detection of Secreted Proteins From Bacillus Species (spp.) in Human Clinical Samples](https://www.indexdata.org/medical-devices-immunology-and-microbiology-devices-classification-of-the-simple-in-vitro-diagnostic-device-for-the-detection-of-secreted-proteins-from-bacillus-species-spp-in-human-clinical-samp/)** — `2026-06-22` | `5 Pages`
-- `[`2026-12166`]` **[Medical Devices; Radiology Devices; Classification of the Radiological Machine Learning-Based Quantitative Imaging Software With Predetermined Change Control Plan](https://www.indexdata.org/medical-devices-radiology-devices-classification-of-the-radiological-machine-learning-based-quantitative-imaging-software-with-predetermined-change-control-plan/)** — `2026-06-17` | `3 Pages`
-- `[`2026-12165`]` **[Medical Devices; Gastroenterology-Urology Devices; Classification of the Ingestible Gastrointestinal Blood Detection Capsule](https://www.indexdata.org/medical-devices-gastroenterology-urology-devices-classification-of-the-ingestible-gastrointestinal-blood-detection-capsule/)** — `2026-06-17` | `3 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1273,6 +1271,32 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/fish-and-w
 - `[`2026-12578`]` **[Definition of Shellfish; Inclusion of Cephalopods](https://www.indexdata.org/definition-of-shellfish-inclusion-of-cephalopods/)** — `2026-06-23` | `5 Pages`
 - `[`2026-12576`]` **[Migratory Bird Subsistence Harvest in Alaska](https://www.indexdata.org/migratory-bird-subsistence-harvest-in-alaska/)** — `2026-06-23` | `6 Pages`
 
+### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
+
+- `[`US-PLAW-119publ93`]` **[Public Law 119 - 93 - Cape Fox Land Entitlement Finalization Act of 2025](https://www.indexdata.org/public-law-119-93-cape-fox-land-entitlement-finalization-act-of-2025/)** — `2026-10-06` | `2 Pages`
+- `[`US-PLAW-119publ114`]` **[Public Law 119 - 114 - An act to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.](https://www.indexdata.org/public-law-119-114-an-act-to-provide-for-the-equitable-settlement-of-certain-indian-land-disputes-regarding-land-in-illinois-and-for-other-purposes/)** — `2026-10-06` | `2 Pages`
+- `[`US-PLAW-119publ112`]` **[Public Law 119 - 112 - Hydropower Licensing Transparency Act](https://www.indexdata.org/public-law-119-112-hydropower-licensing-transparency-act/)** — `2026-10-06` | `2 Pages`
+- `[`US-PLAW-119publ111`]` **[Public Law 119 - 111 - Lindsey O. Graham Sanctioning Russia and Iran Act of 2026](https://www.indexdata.org/public-law-119-111-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/)** — `2026-10-06` | `25 Pages`
+- `[`US-CHRG-119jhrg64365`]` **[Joint Hearing, 119th Congress - Russia's Exploitation and Engagement in Africa](https://www.indexdata.org/joint-hearing-119th-congress-russias-exploitation-and-engagement-in-africa/)** — `2026-10-06` | `20 Pages`
+- `[`US-PLAW-116`]` **[Modernizing Access to Our Public Oceans Act](https://www.indexdata.org/modernizing-access-to-our-public-oceans-act/)** — `2026-09-25` | `4 Pages`
+- `[`US-PLAW-115`]` **[An act to designate the General George C. Marshall House, in the Commonwealth of Virginia, as an affiliated area of the National Park System, and for other purposes.](https://www.indexdata.org/an-act-to-designate-the-general-george-c-marshall-house-in-the-commonwealth-of-virginia-as-an-affiliated-area-of-the-national-park-system-and-for-other-purposes/)** — `2026-09-25` | `2 Pages`
+- `[`US-PLAW-114`]` **[An act to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.](https://www.indexdata.org/an-act-to-provide-for-the-equitable-settlement-of-certain-indian-land-disputes-regarding-land-in-illinois-and-for-other-purposes/)** — `2026-09-25` | `2 Pages`
+- `[`US-PLAW-112`]` **[Hydropower Licensing Transparency Act](https://www.indexdata.org/hydropower-licensing-transparency-act/)** — `2026-09-25` | `2 Pages`
+- `[`US-PLAW-119publ110`]` **[Public Law 119 - 110 - Prison Staff Safety Enhancement Act](https://www.indexdata.org/public-law-119-110-prison-staff-safety-enhancement-act/)** — `2026-09-23` | `3 Pages`
+- `[`US-PLAW-119publ108`]` **[Public Law 119 - 108 - Doug LaMalfa Federal Disaster Tax Relief Certainty Act](https://www.indexdata.org/public-law-119-108-doug-lamalfa-federal-disaster-tax-relief-certainty-act/)** — `2026-09-23` | `3 Pages`
+- `[`US-PLAW-119publ106`]` **[Public Law 119 - 106 - Stop Secret Spending Act of 2025](https://www.indexdata.org/public-law-119-106-stop-secret-spending-act-of-2025/)** — `2026-09-21` | `5 Pages`
+- `[`US-PLAW-119publ103`]` **[Public Law 119 - 103 - Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/public-law-119-103-continuing-appropriations-and-extensions-act-2027/)** — `2026-09-21` | `24 Pages`
+- `[`US-PLAW-111`]` **[Lindsey O. Graham Sanctioning Russia and Iran Act of 2026](https://www.indexdata.org/lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/)** — `2026-09-18` | `25 Pages`
+- `[`US-PLAW-110`]` **[Prison Staff Safety Enhancement Act](https://www.indexdata.org/prison-staff-safety-enhancement-act/)** — `2026-09-16` | `3 Pages`
+- `[`US-CDOC-119tdoc2`]` **[Treaty Doc. 119-2 - TAX CONVENTION WITH CROATIA AND PROTOCOL AMENDING THE TAX CONVENTION WITH CROATIA](https://www.indexdata.org/treaty-doc-119-2-tax-convention-with-croatia-and-protocol-amending-the-tax-convention-with-croatia/)** — `2026-09-15` | `63 Pages`
+- `[`US-PLAW-108`]` **[Doug LaMalfa Federal Disaster Tax Relief Certainty Act](https://www.indexdata.org/doug-lamalfa-federal-disaster-tax-relief-certainty-act/)** — `2026-09-11` | `3 Pages`
+- `[`US-PLAW-106`]` **[Stop Secret Spending Act of 2025](https://www.indexdata.org/stop-secret-spending-act-of-2025/)** — `2026-09-11` | `5 Pages`
+- `[`US-PLAW-105`]` **[An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-09-11` | `2 Pages`
+- `[`US-PLAW-103`]` **[Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/continuing-appropriations-and-extensions-act-2027/)** — `2026-09-02` | `24 Pages`
+- `[`US-PLAW-102`]` **[Emergency Conservation Program Improvement Act of 2025](https://www.indexdata.org/emergency-conservation-program-improvement-act-of-2025/)** — `2026-07-12` | `2 Pages`
+- `[`US-PLAW-101`]` **[21st Century ROAD to Housing Act](https://www.indexdata.org/21st-century-road-to-housing-act/)** — `2026-07-11` | `140 Pages`
+
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 
@@ -1321,30 +1345,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/foreign-as
 - `[`2026-17487`]` **[Publication of a Determination Issued Pursuant to Executive Order 13902.](https://www.indexdata.org/publication-of-a-determination-issued-pursuant-to-executive-order-13902/)** — `2026-08-27` | `2 Pages`
 - `[`2026-17426`]` **[Iranian Transactions and Sanctions Regulations](https://www.indexdata.org/iranian-transactions-and-sanctions-regulations-3/)** — `2026-08-26` | `2 Pages`
 - `[`2026-15112`]` **[Updating Website and Contact Information, and Authorizations for Payments for Legal Services](https://www.indexdata.org/updating-website-and-contact-information-and-authorizations-for-payments-for-legal-services/)** — `2026-07-27` | `9 Pages`
-
-### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
-
-- `[`US-PLAW-119publ112`]` **[Public Law 119 - 112 - Hydropower Licensing Transparency Act](https://www.indexdata.org/public-law-119-112-hydropower-licensing-transparency-act/)** — `2026-10-06` | `2 Pages`
-- `[`US-PLAW-119publ111`]` **[Public Law 119 - 111 - Lindsey O. Graham Sanctioning Russia and Iran Act of 2026](https://www.indexdata.org/public-law-119-111-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/)** — `2026-10-06` | `25 Pages`
-- `[`US-CHRG-119jhrg64365`]` **[Joint Hearing, 119th Congress - Russia's Exploitation and Engagement in Africa](https://www.indexdata.org/joint-hearing-119th-congress-russias-exploitation-and-engagement-in-africa/)** — `2026-10-06` | `20 Pages`
-- `[`US-PLAW-116`]` **[Modernizing Access to Our Public Oceans Act](https://www.indexdata.org/modernizing-access-to-our-public-oceans-act/)** — `2026-09-25` | `4 Pages`
-- `[`US-PLAW-115`]` **[An act to designate the General George C. Marshall House, in the Commonwealth of Virginia, as an affiliated area of the National Park System, and for other purposes.](https://www.indexdata.org/an-act-to-designate-the-general-george-c-marshall-house-in-the-commonwealth-of-virginia-as-an-affiliated-area-of-the-national-park-system-and-for-other-purposes/)** — `2026-09-25` | `2 Pages`
-- `[`US-PLAW-114`]` **[An act to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.](https://www.indexdata.org/an-act-to-provide-for-the-equitable-settlement-of-certain-indian-land-disputes-regarding-land-in-illinois-and-for-other-purposes/)** — `2026-09-25` | `2 Pages`
-- `[`US-PLAW-112`]` **[Hydropower Licensing Transparency Act](https://www.indexdata.org/hydropower-licensing-transparency-act/)** — `2026-09-25` | `2 Pages`
-- `[`US-PLAW-119publ110`]` **[Public Law 119 - 110 - Prison Staff Safety Enhancement Act](https://www.indexdata.org/public-law-119-110-prison-staff-safety-enhancement-act/)** — `2026-09-23` | `3 Pages`
-- `[`US-PLAW-119publ108`]` **[Public Law 119 - 108 - Doug LaMalfa Federal Disaster Tax Relief Certainty Act](https://www.indexdata.org/public-law-119-108-doug-lamalfa-federal-disaster-tax-relief-certainty-act/)** — `2026-09-23` | `3 Pages`
-- `[`US-PLAW-119publ106`]` **[Public Law 119 - 106 - Stop Secret Spending Act of 2025](https://www.indexdata.org/public-law-119-106-stop-secret-spending-act-of-2025/)** — `2026-09-21` | `5 Pages`
-- `[`US-PLAW-119publ103`]` **[Public Law 119 - 103 - Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/public-law-119-103-continuing-appropriations-and-extensions-act-2027/)** — `2026-09-21` | `24 Pages`
-- `[`US-PLAW-111`]` **[Lindsey O. Graham Sanctioning Russia and Iran Act of 2026](https://www.indexdata.org/lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/)** — `2026-09-18` | `25 Pages`
-- `[`US-PLAW-110`]` **[Prison Staff Safety Enhancement Act](https://www.indexdata.org/prison-staff-safety-enhancement-act/)** — `2026-09-16` | `3 Pages`
-- `[`US-CDOC-119tdoc2`]` **[Treaty Doc. 119-2 - TAX CONVENTION WITH CROATIA AND PROTOCOL AMENDING THE TAX CONVENTION WITH CROATIA](https://www.indexdata.org/treaty-doc-119-2-tax-convention-with-croatia-and-protocol-amending-the-tax-convention-with-croatia/)** — `2026-09-15` | `63 Pages`
-- `[`US-PLAW-108`]` **[Doug LaMalfa Federal Disaster Tax Relief Certainty Act](https://www.indexdata.org/doug-lamalfa-federal-disaster-tax-relief-certainty-act/)** — `2026-09-11` | `3 Pages`
-- `[`US-PLAW-106`]` **[Stop Secret Spending Act of 2025](https://www.indexdata.org/stop-secret-spending-act-of-2025/)** — `2026-09-11` | `5 Pages`
-- `[`US-PLAW-105`]` **[An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-09-11` | `2 Pages`
-- `[`US-PLAW-103`]` **[Continuing Appropriations and Extensions Act, 2027](https://www.indexdata.org/continuing-appropriations-and-extensions-act-2027/)** — `2026-09-02` | `24 Pages`
-- `[`US-PLAW-102`]` **[Emergency Conservation Program Improvement Act of 2025](https://www.indexdata.org/emergency-conservation-program-improvement-act-of-2025/)** — `2026-07-12` | `2 Pages`
-- `[`US-PLAW-101`]` **[21st Century ROAD to Housing Act](https://www.indexdata.org/21st-century-road-to-housing-act/)** — `2026-07-11` | `140 Pages`
 
 ### [Centers for Medicare & Medicaid Services](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-medicare-medicaid-services/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 05:01 UTC`
+**Last Automated Sync:** `2026-11-28 05:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`390` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,751)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,753)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -585,7 +585,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2025-07644`]` **[Amendment of Class E Airspace; Lebanon, NH](https://www.indexdata.org/amendment-of-class-e-airspace-lebanon-nh/)** — `2025-05-02` | `2 Pages`
 - `[`2025-07637`]` **[Amendment of Class D and Class E2, Amendment of Class E4, and Amendment of Class E5 Airspace Over New Bern, NC](https://www.indexdata.org/amendment-of-class-d-and-class-e2-amendment-of-class-e4-and-amendment-of-class-e5-airspace-over-new-bern-nc-2/)** — `2025-05-02` | `3 Pages`
 - `[`2025-07628`]` **[Amendment of Class E Airspace; Tarboro, NC](https://www.indexdata.org/amendment-of-class-e-airspace-tarboro-nc-2/)** — `2025-05-02` | `2 Pages`
-- `[`2025-07573`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-120/)** — `2025-05-02` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1104,6 +1103,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-ra
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
+- `[`2025-16859`]` **[Biomin GmbH; Filing of Food Additive Petition (Animal Use)](https://www.indexdata.org/biomin-gmbh-filing-of-food-additive-petition-animal-use/)** — `2025-09-03` | `2 Pages`
 - `[`2025-16629`]` **[Advisory Committee; Arthritis Advisory Committee; Termination; Removal From List of Standing Committees](https://www.indexdata.org/advisory-committee-arthritis-advisory-committee-termination-removal-from-list-of-standing-committees/)** — `2025-08-29` | `2 Pages`
 - `[`2025-16079`]` **[New Animal Drugs; Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Applications; Change of Sponsor; Change of Sponsor Address](https://www.indexdata.org/new-animal-drugs-approval-of-new-animal-drug-applications-withdrawal-of-approval-of-new-animal-drug-applications-change-of-sponsor-change-of-sponsor-address/)** — `2025-08-22` | `8 Pages`
 - `[`2025-16047`]` **[Listing of Color Additives Exempt From Certification; Calcium Phosphate; Confirmation of Effective Date](https://www.indexdata.org/listing-of-color-additives-exempt-from-certification-calcium-phosphate-confirmation-of-effective-date/)** — `2025-08-21` | `2 Pages`
@@ -1749,6 +1749,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/small-busi
 - `[`2025-09833`]` **[Civil Monetary Penalties Inflation Adjustments](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustments/)** — `2025-06-03` | `3 Pages`
 - `[`2025-08294`]` **[Tribal Consultation for 8(a) Business Development Program and Mentor-Protégé Program Issues and Best Practices](https://www.indexdata.org/tribal-consultation-for-8a-business-development-program-and-mentor-protege-program-issues-and-best-practices/)** — `2025-05-12` | `2 Pages`
 
+### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
+
+- `[`2025-16836`]` **[State Approving Agency Jurisdiction Rule](https://www.indexdata.org/state-approving-agency-jurisdiction-rule/)** — `2025-09-03` | `5 Pages`
+- `[`2025-14687`]` **[Reproductive Health Services](https://www.indexdata.org/reproductive-health-services-2/)** — `2025-08-04` | `3 Pages`
+- `[`2025-14487`]` **[Waiver or Recovery of Overpayments](https://www.indexdata.org/waiver-or-recovery-of-overpayments/)** — `2025-07-31` | `4 Pages`
+- `[`2025-14486`]` **[The 81-Month Rule for Dependents' Education Assistance](https://www.indexdata.org/the-81-month-rule-for-dependents-education-assistance/)** — `2025-07-31` | `2 Pages`
+- `[`2025-13751`]` **[Expansion of VA Process for 72-Hour Notification of Emergency Treatment](https://www.indexdata.org/expansion-of-va-process-for-72-hour-notification-of-emergency-treatment-2/)** — `2025-07-22` | `3 Pages`
+- `[`2025-10435`]` **[Reporting to the National Practitioner Data Bank](https://www.indexdata.org/reporting-to-the-national-practitioner-data-bank/)** — `2025-06-11` | `4 Pages`
+
 ### [Farm Service Agency](https://www.indexdata.org/united-states/farm-service-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/farm-service-agency/](https://www.indexdata.org/united-states/farm-service-agency/) | [RSS Feed](https://www.indexdata.org/united-states/farm-service-agency/feed/)
 
@@ -1794,15 +1804,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-n
 - `[`2025-08797`]` **[Supplemental Nutrition Assistance Program: Rescission of Changes to Civil Rights Data Collection Methods](https://www.indexdata.org/supplemental-nutrition-assistance-program-rescission-of-changes-to-civil-rights-data-collection-methods/)** — `2025-05-16` | `2 Pages`
 - `[`2025-08160`]` **[Child and Adult Care Food Program: Rescission of Obsolete Data Collection Requirements](https://www.indexdata.org/child-and-adult-care-food-program-rescission-of-obsolete-data-collection-requirements/)** — `2025-05-12` | `2 Pages`
 
-### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)
-
-- `[`2025-14687`]` **[Reproductive Health Services](https://www.indexdata.org/reproductive-health-services-2/)** — `2025-08-04` | `3 Pages`
-- `[`2025-14487`]` **[Waiver or Recovery of Overpayments](https://www.indexdata.org/waiver-or-recovery-of-overpayments/)** — `2025-07-31` | `4 Pages`
-- `[`2025-14486`]` **[The 81-Month Rule for Dependents' Education Assistance](https://www.indexdata.org/the-81-month-rule-for-dependents-education-assistance/)** — `2025-07-31` | `2 Pages`
-- `[`2025-13751`]` **[Expansion of VA Process for 72-Hour Notification of Emergency Treatment](https://www.indexdata.org/expansion-of-va-process-for-72-hour-notification-of-emergency-treatment-2/)** — `2025-07-22` | `3 Pages`
-- `[`2025-10435`]` **[Reporting to the National Practitioner Data Bank](https://www.indexdata.org/reporting-to-the-national-practitioner-data-bank/)** — `2025-06-11` | `4 Pages`
-
 ### [Employee Benefits Security Administration](https://www.indexdata.org/united-states/employee-benefits-security-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/employee-benefits-security-administration/](https://www.indexdata.org/united-states/employee-benefits-security-administration/) | [RSS Feed](https://www.indexdata.org/united-states/employee-benefits-security-administration/feed/)
 
@@ -1834,14 +1835,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-safet
 - `[`2025-12212`]` **[Removal of Pumped Bacon Sampling Regulations](https://www.indexdata.org/removal-of-pumped-bacon-sampling-regulations/)** — `2025-07-01` | `3 Pages`
 - `[`2025-12032`]` **[Removal of Standard of Identity for Canned “Tripe With Milk”](https://www.indexdata.org/removal-of-standard-of-identity-for-canned-tripe-with-milk-2/)** — `2025-06-30` | `3 Pages`
 - `[`2025-11816`]` **[Publication Method of Lists of States With and Without State Meat or Poultry Inspection Programs](https://www.indexdata.org/publication-method-of-lists-of-states-with-and-without-state-meat-or-poultry-inspection-programs/)** — `2025-06-26` | `3 Pages`
-
-### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
-
-- `[`2025-16648`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-8/)** — `2025-08-29` | `4 Pages`
-- `[`2025-13765`]` **[Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms](https://www.indexdata.org/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition-receipt-transfer-shipment-transportation-or-possession-of-firearms-2/)** — `2025-07-22` | `12 Pages`
-- `[`2025-12494`]` **[Civil Monetary Penalties Inflation Adjustments for 2025](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustments-for-2025/)** — `2025-07-03` | `6 Pages`
-- `[`2025-07566`]` **[Policy Regarding Obtaining Information From, or Records of, Members of the News Media; and Regarding Questioning, Arresting, or Charging Members of the News Media](https://www.indexdata.org/policy-regarding-obtaining-information-from-or-records-of-members-of-the-news-media-and-regarding-questioning-arresting-or-charging-members-of-the-news-media/)** — `2025-05-02` | `5 Pages`
 
 ### [Ocean Energy Management Bureau](https://www.indexdata.org/united-states/ocean-energy-management-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/ocean-energy-management-bureau/](https://www.indexdata.org/united-states/ocean-energy-management-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/ocean-energy-management-bureau/feed/)
@@ -1930,6 +1923,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-a
 - `[`2025-16735`]` **[Revocation of Validated End-User Authorizations in the People's Republic of China](https://www.indexdata.org/revocation-of-validated-end-user-authorizations-in-the-peoples-republic-of-china/)** — `2025-09-02` | `2 Pages`
 - `[`2025-16724`]` **[Relaxing Export Controls for Syria](https://www.indexdata.org/relaxing-export-controls-for-syria/)** — `2025-09-02` | `7 Pages`
 - `[`2025-07676`]` **[Adoption and Procedures of the Section 232 Steel and Aluminum Tariff Inclusions Process](https://www.indexdata.org/adoption-and-procedures-of-the-section-232-steel-and-aluminum-tariff-inclusions-process/)** — `2025-05-02` | `6 Pages`
+
+### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
+
+- `[`2025-16648`]` **[Privacy Act of 1974; Implementation](https://www.indexdata.org/privacy-act-of-1974-implementation-8/)** — `2025-08-29` | `4 Pages`
+- `[`2025-13765`]` **[Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms](https://www.indexdata.org/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition-receipt-transfer-shipment-transportation-or-possession-of-firearms-2/)** — `2025-07-22` | `12 Pages`
+- `[`2025-12494`]` **[Civil Monetary Penalties Inflation Adjustments for 2025](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustments-for-2025/)** — `2025-07-03` | `6 Pages`
 
 ### [Labor Department](https://www.indexdata.org/united-states/labor-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/labor-department/](https://www.indexdata.org/united-states/labor-department/) | [RSS Feed](https://www.indexdata.org/united-states/labor-department/feed/)

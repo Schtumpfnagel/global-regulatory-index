@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 05:01 UTC`
+**Last Automated Sync:** `2026-11-28 05:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`390` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,11 +265,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,751)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,753)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-07573`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-120/)** — `2025-05-02` | `3 Pages`
 - `[`2025-07489`]` **[Airworthiness Directives; Bombardier Inc. Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-38/)** — `2025-05-02` | `5 Pages`
 - `[`2025-07539`]` **[Request for Comment To Withhold Certain Aircraft Registration Information From Public Dissemination; Extension of Comment Period](https://www.indexdata.org/request-for-comment-to-withhold-certain-aircraft-registration-information-from-public-dissemination-extension-of-comment-period/)** — `2025-05-01` | `2 Pages`
 - `[`2025-07488`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-150/)** — `2025-05-01` | `3 Pages`
@@ -706,7 +707,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-28125`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-50/)** — `2024-12-02` | `4 Pages`
 - `[`2024-28120`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-176/)** — `2024-12-02` | `4 Pages`
 - `[`2024-28094`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-32/)** — `2024-12-02` | `3 Pages`
-- `[`2024-28088`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-2/)** — `2024-12-02` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -913,7 +913,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-27874`]` **[National Emission Standards for Hazardous Air Pollutants: Lime Manufacturing Plants Technology Review; Correction](https://www.indexdata.org/national-emission-standards-for-hazardous-air-pollutants-lime-manufacturing-plants-technology-review-correction/)** — `2024-12-04` | `14 Pages`
 - `[`2024-27635`]` **[Air Plan Approval; Michigan and Minnesota; Revision to Taconite Federal Implementation Plan](https://www.indexdata.org/air-plan-approval-michigan-and-minnesota-revision-to-taconite-federal-implementation-plan-2/)** — `2024-12-04` | `15 Pages`
 - `[`2024-27627`]` **[Air Plan Approval; California; Mojave Desert Air Quality Management District](https://www.indexdata.org/air-plan-approval-california-mojave-desert-air-quality-management-district/)** — `2024-12-04` | `4 Pages`
-- `[`2024-28080`]` **[Fatty acids, C16-18 and C18-unsatd., esters With polyethylene glycol mono-Me ether in Pesticide Formulations; Tolerance Exemption](https://www.indexdata.org/fatty-acids-c16-18-and-c18-unsatd-esters-with-polyethylene-glycol-mono-me-ether-in-pesticide-formulations-tolerance-exemption/)** — `2024-12-02` | `6 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1605,6 +1604,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/health-and
 - `[`2024-28475`]` **[Clinical Trials Registration and Results Information Submission](https://www.indexdata.org/clinical-trials-registration-and-results-information-submission/)** — `2024-12-09` | `2 Pages`
 - `[`2024-28082`]` **[National Institute on Minority Health and Health Disparities Research Endowment Programs](https://www.indexdata.org/national-institute-on-minority-health-and-health-disparities-research-endowment-programs/)** — `2024-12-04` | `5 Pages`
 
+### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
+
+- `[`2025-07566`]` **[Policy Regarding Obtaining Information From, or Records of, Members of the News Media; and Regarding Questioning, Arresting, or Charging Members of the News Media](https://www.indexdata.org/policy-regarding-obtaining-information-from-or-records-of-members-of-the-news-media-and-regarding-questioning-arresting-or-charging-members-of-the-news-media/)** — `2025-05-02` | `5 Pages`
+- `[`2025-06477`]` **[Pertaining To Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.indexdata.org/pertaining-to-preventing-access-to-u-s-sensitive-personal-data-and-government-related-data-by-countries-of-concern-or-covered-persons/)** — `2025-04-18` | `2 Pages`
+- `[`2025-04872`]` **[Withdrawing the Attorney General's Delegation of Authority](https://www.indexdata.org/withdrawing-the-attorney-generals-delegation-of-authority/)** — `2025-03-20` | `5 Pages`
+- `[`2025-01409`]` **[Processes and Procedures for Issuance and Use of Guidance Documents](https://www.indexdata.org/processes-and-procedures-for-issuance-and-use-of-guidance-documents/)** — `2025-01-21` | `3 Pages`
+- `[`2025-01159`]` **[Homicide Victims' Families' Rights Act](https://www.indexdata.org/homicide-victims-families-rights-act/)** — `2025-01-21` | `16 Pages`
+- `[`2024-31486`]` **[Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.indexdata.org/preventing-access-to-u-s-sensitive-personal-data-and-government-related-data-by-countries-of-concern-or-covered-persons/)** — `2025-01-08` | `117 Pages`
+- `[`2024-30871`]` **[Amending and Clarifying Foreign Agents Registration Act Regulations](https://www.indexdata.org/amending-and-clarifying-foreign-agents-registration-act-regulations/)** — `2025-01-02` | `20 Pages`
+- `[`2024-28712`]` **[Bipartisan Safer Communities Act of 2022 and Consolidated Appropriations Act of 2022-Implementation Revisions for National Instant Criminal Background Check System (NICS)](https://www.indexdata.org/bipartisan-safer-communities-act-of-2022-and-consolidated-appropriations-act-of-2022-implementation-revisions-for-national-instant-criminal-background-check-system-nics/)** — `2024-12-12` | `21 Pages`
+- `[`2024-28711`]` **[Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers](https://www.indexdata.org/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check-system-nics-background-checks-of-firearm-handlers/)** — `2024-12-12` | `16 Pages`
+
 ### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 
@@ -1666,18 +1678,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/general-se
 - `[`2024-30670`]` **[General Services Administration Acquisition Regulation (GSAR); Update to OMB Approval Table](https://www.indexdata.org/general-services-administration-acquisition-regulation-gsar-update-to-omb-approval-table-2/)** — `2024-12-27` | `4 Pages`
 - `[`2024-29377`]` **[Federal Management Regulation; Real Property Disposition Policies and Procedures](https://www.indexdata.org/federal-management-regulation-real-property-disposition-policies-and-procedures/)** — `2024-12-23` | `7 Pages`
 - `[`2024-30242`]` **[Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustment/)** — `2024-12-19` | `2 Pages`
-
-### [Justice Department](https://www.indexdata.org/united-states/justice-department/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-department/](https://www.indexdata.org/united-states/justice-department/) | [RSS Feed](https://www.indexdata.org/united-states/justice-department/feed/)
-
-- `[`2025-06477`]` **[Pertaining To Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.indexdata.org/pertaining-to-preventing-access-to-u-s-sensitive-personal-data-and-government-related-data-by-countries-of-concern-or-covered-persons/)** — `2025-04-18` | `2 Pages`
-- `[`2025-04872`]` **[Withdrawing the Attorney General's Delegation of Authority](https://www.indexdata.org/withdrawing-the-attorney-generals-delegation-of-authority/)** — `2025-03-20` | `5 Pages`
-- `[`2025-01409`]` **[Processes and Procedures for Issuance and Use of Guidance Documents](https://www.indexdata.org/processes-and-procedures-for-issuance-and-use-of-guidance-documents/)** — `2025-01-21` | `3 Pages`
-- `[`2025-01159`]` **[Homicide Victims' Families' Rights Act](https://www.indexdata.org/homicide-victims-families-rights-act/)** — `2025-01-21` | `16 Pages`
-- `[`2024-31486`]` **[Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.indexdata.org/preventing-access-to-u-s-sensitive-personal-data-and-government-related-data-by-countries-of-concern-or-covered-persons/)** — `2025-01-08` | `117 Pages`
-- `[`2024-30871`]` **[Amending and Clarifying Foreign Agents Registration Act Regulations](https://www.indexdata.org/amending-and-clarifying-foreign-agents-registration-act-regulations/)** — `2025-01-02` | `20 Pages`
-- `[`2024-28712`]` **[Bipartisan Safer Communities Act of 2022 and Consolidated Appropriations Act of 2022-Implementation Revisions for National Instant Criminal Background Check System (NICS)](https://www.indexdata.org/bipartisan-safer-communities-act-of-2022-and-consolidated-appropriations-act-of-2022-implementation-revisions-for-national-instant-criminal-background-check-system-nics/)** — `2024-12-12` | `21 Pages`
-- `[`2024-28711`]` **[Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers](https://www.indexdata.org/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check-system-nics-background-checks-of-firearm-handlers/)** — `2024-12-12` | `16 Pages`
 
 ### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)

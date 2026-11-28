@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 05:01 UTC`
+**Last Automated Sync:** `2026-11-28 05:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`390` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,751)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,753)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -601,6 +601,8 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-16570`]` **[Designations of Areas for Air Quality Planning Purposes; Pennsylvania, New Jersey, Maryland, Delaware; Philadelphia-Wilmington-Atlantic City, PA-NJ-MD-DE 2015 8-Hour Ozone Nonattainment Area; Reclassification to Serious](https://www.indexdata.org/designations-of-areas-for-air-quality-planning-purposes-pennsylvania-new-jersey-maryland-delaware-philadelphia-wilmington-atlantic-city-pa-nj-md-de-2015-8-hour-ozone-nonattainment-area-reclassi/)** — `2024-07-30` | `5 Pages`
+- `[`2024-16568`]` **[Clean Air Act Title V Operating Permit Program Revision; West Virginia](https://www.indexdata.org/clean-air-act-title-v-operating-permit-program-revision-west-virginia/)** — `2024-07-30` | `4 Pages`
 - `[`2024-16542`]` **[Air Plan Approval; FL; Surface Coating of Miscellaneous Metal Parts and Products Amendments](https://www.indexdata.org/air-plan-approval-fl-surface-coating-of-miscellaneous-metal-parts-and-products-amendments-2/)** — `2024-07-30` | `3 Pages`
 - `[`2024-16415`]` **[Designations of Areas for Air Quality Planning Purposes; Connecticut; Greater Connecticut 2015 8-Hour Ozone Nonattainment Area; Reclassification to Serious](https://www.indexdata.org/designations-of-areas-for-air-quality-planning-purposes-connecticut-greater-connecticut-2015-8-hour-ozone-nonattainment-area-reclassification-to-serious/)** — `2024-07-29` | `4 Pages`
 - `[`2024-14694`]` **[Integrating e-Manifest With Hazardous Waste Exports and Other Manifest-Related Reports, PCB Manifest Amendments, and Technical Corrections](https://www.indexdata.org/integrating-e-manifest-with-hazardous-waste-exports-and-other-manifest-related-reports-pcb-manifest-amendments-and-technical-corrections/)** — `2024-07-26` | `49 Pages`
@@ -1609,7 +1611,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-en
 - `[`2024-06563`]` **[Improvements to Generator Interconnection Procedures and Agreements](https://www.indexdata.org/improvements-to-generator-interconnection-procedures-and-agreements/)** — `2024-04-16` | `238 Pages`
 - `[`2024-06561`]` **[Standards for Business Practices of Interstate Natural Gas Pipelines](https://www.indexdata.org/standards-for-business-practices-of-interstate-natural-gas-pipelines-4/)** — `2024-04-05` | `7 Pages`
 - `[`2024-06562`]` **[Petition for Rulemaking To Update Commission Regulations Regarding Allocation of Interstate Pipeline Capacity](https://www.indexdata.org/petition-for-rulemaking-to-update-commission-regulations-regarding-allocation-of-interstate-pipeline-capacity/)** — `2024-03-29` | `5 Pages`
-- `[`2024-06556`]` **[Compensation for Reactive Power Within the Standard Power Factor Range](https://www.indexdata.org/compensation-for-reactive-power-within-the-standard-power-factor-range-2/)** — `2024-03-28` | `15 Pages`
 
 ### [Federal Trade Commission](https://www.indexdata.org/united-states/federal-trade-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-trade-commission/](https://www.indexdata.org/united-states/federal-trade-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-trade-commission/feed/)
@@ -1794,15 +1795,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-p
 - `[`2024-08998`]` **[Chattahoochee River National Recreation Area; Bicycling](https://www.indexdata.org/chattahoochee-river-national-recreation-area-bicycling-2/)** — `2024-05-22` | `5 Pages`
 - `[`2024-10836`]` **[National Capital Region; Event at President's Park](https://www.indexdata.org/national-capital-region-event-at-presidents-park/)** — `2024-05-17` | `4 Pages`
 
-### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
-
-- `[`2024-16126`]` **[Emergency Response Standard](https://www.indexdata.org/emergency-response-standard/)** — `2024-07-23` | `3 Pages`
-- `[`2024-12731`]` **[Emergency Response Standard](https://www.indexdata.org/emergency-response-standard-2/)** — `2024-06-11` | `2 Pages`
-- `[`2024-08568`]` **[Hazard Communication Standard](https://www.indexdata.org/hazard-communication-standard-3/)** — `2024-05-20` | `318 Pages`
-- `[`2024-06572`]` **[Worker Walkaround Representative Designation Process](https://www.indexdata.org/worker-walkaround-representative-designation-process/)** — `2024-04-01` | `44 Pages`
-- `[`2024-06610`]` **[Emergency Response Standard](https://www.indexdata.org/emergency-response-standard-3/)** — `2024-03-28` | `2 Pages`
-
 ### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 
@@ -1836,6 +1828,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2024-14253`]` **[Bipartisan Safer Communities Act-Access to Records of Stolen Firearms in the National Crime Information Center](https://www.indexdata.org/bipartisan-safer-communities-act-access-to-records-of-stolen-firearms-in-the-national-crime-information-center/)** — `2024-07-01` | `3 Pages`
 - `[`2024-07758`]` **[Nondiscrimination on the Basis of Disability; Accessibility of Web Information and Services of State and Local Government Entities](https://www.indexdata.org/nondiscrimination-on-the-basis-of-disability-accessibility-of-web-information-and-services-of-state-and-local-government-entities/)** — `2024-04-24` | `77 Pages`
 - `[`2024-08336`]` **[Implementation of HAVANA Act of 2021](https://www.indexdata.org/implementation-of-havana-act-of-2021-4/)** — `2024-04-19` | `6 Pages`
+
+### [Occupational Safety and Health Administration](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/occupational-safety-and-health-administration/](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/) | [RSS Feed](https://www.indexdata.org/united-states/occupational-safety-and-health-administration/feed/)
+
+- `[`2024-16126`]` **[Emergency Response Standard](https://www.indexdata.org/emergency-response-standard/)** — `2024-07-23` | `3 Pages`
+- `[`2024-12731`]` **[Emergency Response Standard](https://www.indexdata.org/emergency-response-standard-2/)** — `2024-06-11` | `2 Pages`
+- `[`2024-08568`]` **[Hazard Communication Standard](https://www.indexdata.org/hazard-communication-standard-3/)** — `2024-05-20` | `318 Pages`
+- `[`2024-06572`]` **[Worker Walkaround Representative Designation Process](https://www.indexdata.org/worker-walkaround-representative-designation-process/)** — `2024-04-01` | `44 Pages`
 
 ### [Alcohol and Tobacco Tax and Trade Bureau](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/alcohol-and-tobacco-tax-and-trade-bureau/feed/)

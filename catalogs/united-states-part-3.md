@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 05:01 UTC`
+**Last Automated Sync:** `2026-11-28 05:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`390` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,751)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,753)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1023,11 +1023,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2026-03306`]` **[Atlantic Highly Migratory Species; Revision of the Termination Date for Swordfish and Shark Limited Access Permits](https://www.indexdata.org/atlantic-highly-migratory-species-revision-of-the-termination-date-for-swordfish-and-shark-limited-access-permits/)** — `2026-02-19` | `5 Pages`
 - `[`2026-03297`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pollock in the Bering Sea and Aleutian Islands](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pollock-in-the-bering-sea-and-aleutian-islands-3/)** — `2026-02-19` | `2 Pages`
 - `[`2026-03296`]` **[Fisheries Off West Coast States; West Coast Salmon Fisheries; Rebuilding Plan for the Overfished Queets River Spring/Summer Chinook Salmon Stock](https://www.indexdata.org/fisheries-off-west-coast-states-west-coast-salmon-fisheries-rebuilding-plan-for-the-overfished-queets-river-spring-summer-chinook-salmon-stock-2/)** — `2026-02-19` | `5 Pages`
-- `[`2026-03295`]` **[Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; 2026 and Projected 2027 Specifications for the Summer Flounder, Scup, Black Sea Bass, and Bluefish Fisheries](https://www.indexdata.org/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern-united-states-2026-and-projected-2027-specifications-for-the-summer-flounder-scup-black-sea-bass/)** — `2026-02-19` | `8 Pages`
 
 ### [Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-drug-administration/](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 
+- `[`2026-12166`]` **[Medical Devices; Radiology Devices; Classification of the Radiological Machine Learning-Based Quantitative Imaging Software With Predetermined Change Control Plan](https://www.indexdata.org/medical-devices-radiology-devices-classification-of-the-radiological-machine-learning-based-quantitative-imaging-software-with-predetermined-change-control-plan/)** — `2026-06-17` | `3 Pages`
+- `[`2026-12165`]` **[Medical Devices; Gastroenterology-Urology Devices; Classification of the Ingestible Gastrointestinal Blood Detection Capsule](https://www.indexdata.org/medical-devices-gastroenterology-urology-devices-classification-of-the-ingestible-gastrointestinal-blood-detection-capsule/)** — `2026-06-17` | `3 Pages`
 - `[`2026-11998`]` **[Amendment and Revocation of Organizational Information Regulations](https://www.indexdata.org/amendment-and-revocation-of-organizational-information-regulations/)** — `2026-06-15` | `3 Pages`
 - `[`2026-11740`]` **[Medical Devices; Immunology and Microbiology Devices; Classification of the Spinal Muscular Atrophy Newborn Screening Test System](https://www.indexdata.org/medical-devices-immunology-and-microbiology-devices-classification-of-the-spinal-muscular-atrophy-newborn-screening-test-system/)** — `2026-06-11` | `4 Pages`
 - `[`2026-11739`]` **[Medical Devices; Immunology and Microbiology Devices; Classification of the Simple Point-of-Care Device to Directly Detect SARS-CoV-2 Viral Targets From Clinical Specimens in Near-Patient Settings](https://www.indexdata.org/medical-devices-immunology-and-microbiology-devices-classification-of-the-simple-point-of-care-device-to-directly-detect-sars-cov-2-viral-targets-from-clinical-specimens-in-near-patient-settings/)** — `2026-06-11` | `5 Pages`
@@ -1076,7 +1077,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2026-04368`]` **[Revising the National Drug Code Format and Drug Label Barcode Requirements](https://www.indexdata.org/revising-the-national-drug-code-format-and-drug-label-barcode-requirements/)** — `2026-03-05` | `23 Pages`
 - `[`2026-04288`]` **[Ecoflora Cares; Filing of Color Additive Petition](https://www.indexdata.org/ecoflora-cares-filing-of-color-additive-petition/)** — `2026-03-04` | `2 Pages`
 - `[`2026-04284`]` **[Kemin Industries, Inc.; Filing of Food Additive Petition (Animal Use)](https://www.indexdata.org/kemin-industries-inc-filing-of-food-additive-petition-animal-use/)** — `2026-03-04` | `2 Pages`
-- `[`2026-03286`]` **[Revocation of Regulations Regarding the Mutual Recognition of Pharmaceutical Good Manufacturing Practice Reports, Medical Device Quality System Audit Reports, and Certain Medical Device Product Evaluation Reports: United States and the European Community](https://www.indexdata.org/revocation-of-regulations-regarding-the-mutual-recognition-of-pharmaceutical-good-manufacturing-practice-reports-medical-device-quality-system-audit-reports-and-certain-medical-device-product-evalua/)** — `2026-02-19` | `5 Pages`
 
 ### [Pipeline and Hazardous Materials Safety Administration](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/) | [RSS Feed](https://www.indexdata.org/united-states/pipeline-and-hazardous-materials-safety-administration/feed/)

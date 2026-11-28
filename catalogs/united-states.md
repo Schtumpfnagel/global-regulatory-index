@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 05:01 UTC`
+**Last Automated Sync:** `2026-11-28 05:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`390` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,751)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,753)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -391,6 +391,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr5525rh`]` **[H.R. 5525 (RH) - Stop DC Capital Authoritarian Motorvehicle Enforcement and Restoration of Autonomy Act](https://www.indexdata.org/h-r-5525-rh-stop-dc-capital-authoritarian-motorvehicle-enforcement-and-restoration-of-autonomy-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr3978eh`]` **[H.R. 3978 (EH) - Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act](https://www.indexdata.org/h-r-3978-eh-nuclear-refuel-recycling-efficient-fuels-utilizing-expedited-licensing-act/)** — `2026-11-01` | `4 Pages`
 - `[`US-BILLS-119hr2347eas`]` **[H.R. 2347 (EAS) - Bipartisan American Affordability and Jobs Act of 2026](https://www.indexdata.org/h-r-2347-eas-bipartisan-american-affordability-and-jobs-act-of-2026/)** — `2026-11-01` | `488 Pages`
+- `[`US-BILLS-119hr11165ih`]` **[U.S. Congressional Bill H.R. 11165 (IH) — 119th Congress](https://www.indexdata.org/u-s-congressional-bill-h-r-11165-ih-119th-congress/)** — `2026-11-01` | `3 Pages`
 - `[`US-BILLS-119hr11162ih`]` **[H.R. 11162 (IH) - Collaborative Combat Aircraft Sustainment and Readiness Assessment Act of 2026](https://www.indexdata.org/h-r-11162-ih-collaborative-combat-aircraft-sustainment-and-readiness-assessment-act-of-2026/)** — `2026-11-01` | `6 Pages`
 - `[`US-BILLS-119hr11160ih`]` **[H.R. 11160 (IH) - Discouraging Exploitative Assassination, Tragedy, and Harm Betting in Event Trading Systems Act](https://www.indexdata.org/h-r-11160-ih-discouraging-exploitative-assassination-tragedy-and-harm-betting-in-event-trading-systems-act/)** — `2026-11-01` | `3 Pages`
 - `[`US-BILLS-119hr11159ih`]` **[H.R. 11159 (IH) - Reviewing Every Check and Each Invoice Purchasing Troops’ Supplies Act](https://www.indexdata.org/h-r-11159-ih-reviewing-every-check-and-each-invoice-purchasing-troops-supplies-act/)** — `2026-11-01` | `13 Pages`
@@ -399,6 +400,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-BILLS-119hr11154ih`]` **[H.R. 11154 (IH) - Fight Fires and Fight Cancer Act](https://www.indexdata.org/h-r-11154-ih-fight-fires-and-fight-cancer-act/)** — `2026-11-01` | `2 Pages`
 - `[`US-BILLS-119hr11127ih`]` **[H.R. 11127 (IH) - Cyber Resilience for Critical Infrastructure Act](https://www.indexdata.org/h-r-11127-ih-cyber-resilience-for-critical-infrastructure-act/)** — `2026-11-01` | `24 Pages`
 - `[`US-BILLS-119hr11125ih`]` **[H.R. 11125 (IH) - Transboundary Groundwater Research and Mapping Act](https://www.indexdata.org/h-r-11125-ih-transboundary-groundwater-research-and-mapping-act/)** — `2026-11-01` | `11 Pages`
+- `[`US-BILLS-119hr11124ih`]` **[U.S. Congressional Bill H.R. 11124 (IH) — 119th Congress](https://www.indexdata.org/u-s-congressional-bill-h-r-11124-ih-119th-congress/)** — `2026-11-01` | `13 Pages`
 - `[`US-BILLS-119hr11123ih`]` **[H.R. 11123 (IH) - Enhancing Oversight to End Discrimination in Policing Act](https://www.indexdata.org/h-r-11123-ih-enhancing-oversight-to-end-discrimination-in-policing-act/)** — `2026-11-01` | `14 Pages`
 - `[`US-BILLS-119hr11122ih`]` **[H.R. 11122 (IH) - To direct the Secretary of Energy to develop and maintain a website containing information regarding data centers and LEED certifications, and for other purposes.](https://www.indexdata.org/h-r-11122-ih-to-direct-the-secretary-of-energy-to-develop-and-maintain-a-website-containing-information-regarding-data-centers-and-leed-certifications-and-for-other-purposes/)** — `2026-11-01` | `3 Pages`
 - `[`US-BILLS-119hr11109ih`]` **[H.R. 11109 (IH) - Capturing Outcomes and Understanding Nontraditional Trajectories Act of 2026](https://www.indexdata.org/h-r-11109-ih-capturing-outcomes-and-understanding-nontraditional-trajectories-act-of-2026/)** — `2026-11-01` | `6 Pages`
@@ -1029,51 +1031,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`US-DOT-ROSAP-94166`]` **[Analysis of Kiosk-Based Remote Exams for Aeromedical Certification: Proof of Concept and Preliminary Diagnostic Performance Studies](https://www.indexdata.org/analysis-of-kiosk-based-remote-exams-for-aeromedical-certification-proof-of-concept-and-preliminary-diagnostic-performance-studies/)** — `2026-10-26` | `49 Pages`
 - `[`US-DOT-ROSAP-94160`]` **[ATC Data Link Testbed External Interface Definitions](https://www.indexdata.org/atc-data-link-testbed-external-interface-definitions/)** — `2026-10-26` | `67 Pages`
 
-### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
-
-- `[`US-CHRG-119jhrg63983`]` **[S. Hrg. 119-438 - KEEPING OUR PROMISES: LABOR INFLOWS,MAINTAINING COMPETITIVENESS, AND SUPPORTING AN AGING POPULATION](https://www.indexdata.org/s-hrg-119-438-keeping-our-promises-labor-inflowsmaintaining-competitiveness-and-supporting-an-aging-population/)** — `2026-11-01` | `68 Pages`
-- `[`US-PLAW-119publ105`]` **[Public Law 119 - 105 - An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/public-law-119-105-an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-10-30` | `2 Pages`
-- `[`US-CHRG-119jhrg64578`]` **[Joint Hearing, 119th Congress - A SON AND DAUGHTER'S APPEAL TO XI JINPING TO RELEASE THEIR FATHER, JIMMY LAI](https://www.indexdata.org/joint-hearing-119th-congress-a-son-and-daughters-appeal-to-xi-jinping-to-release-their-father-jimmy-lai/)** — `2026-10-30` | `59 Pages`
-- `[`US-PLAW-119publ136`]` **[Public Law 119 - 136 - Mystic Alerts Act](https://www.indexdata.org/public-law-119-136-mystic-alerts-act/)** — `2026-10-29` | `4 Pages`
-- `[`US-PLAW-119publ135`]` **[Public Law 119 - 135 - Reversionary Interest Conveyance Act](https://www.indexdata.org/public-law-119-135-reversionary-interest-conveyance-act/)** — `2026-10-29` | `2 Pages`
-- `[`US-PLAW-119publ133`]` **[Public Law 119 - 133 - Chiricahua National Park Act](https://www.indexdata.org/public-law-119-133-chiricahua-national-park-act/)** — `2026-10-28` | `2 Pages`
-- `[`US-PLAW-119publ130`]` **[Public Law 119 - 130 - Southcentral Foundation Land Transfer Act of 2025](https://www.indexdata.org/public-law-119-130-southcentral-foundation-land-transfer-act-of-2025/)** — `2026-10-28` | `2 Pages`
-- `[`US-PLAW-119publ128`]` **[Public Law 119 - 128 - Lower Elwha Klallam Tribe Project Lands Restoration Act](https://www.indexdata.org/public-law-119-128-lower-elwha-klallam-tribe-project-lands-restoration-act/)** — `2026-10-28` | `2 Pages`
-- `[`US-PLAW-119publ132`]` **[Public Law 119 - 132 - Vicksburg National Military Park Boundary Modification Act](https://www.indexdata.org/public-law-119-132-vicksburg-national-military-park-boundary-modification-act/)** — `2026-10-27` | `2 Pages`
-- `[`US-PLAW-119publ131`]` **[Public Law 119 - 131 - Enhancing Detection of Human Trafficking Act](https://www.indexdata.org/public-law-119-131-enhancing-detection-of-human-trafficking-act/)** — `2026-10-27` | `2 Pages`
-- `[`US-PLAW-119publ129`]` **[Public Law 119 - 129 - Romance Scam Prevention Act](https://www.indexdata.org/public-law-119-129-romance-scam-prevention-act/)** — `2026-10-27` | `6 Pages`
-- `[`US-PLAW-119publ127`]` **[Public Law 119 - 127 - Critical Infrastructure Manufacturing Feasibility Act](https://www.indexdata.org/public-law-119-127-critical-infrastructure-manufacturing-feasibility-act/)** — `2026-10-27` | `2 Pages`
-- `[`US-PLAW-119publ126`]` **[Public Law 119 - 126 - An act to require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.](https://www.indexdata.org/public-law-119-126-an-act-to-require-the-secretary-of-agriculture-to-convey-the-pleasant-valley-ranger-district-administrative-site-to-gila-county-arizona/)** — `2026-10-27` | `2 Pages`
-- `[`US-PLAW-119publ125`]` **[Public Law 119 - 125 - Clergy Act](https://www.indexdata.org/public-law-119-125-clergy-act/)** — `2026-10-27` | `2 Pages`
-- `[`US-PLAW-136`]` **[Mystic Alerts Act](https://www.indexdata.org/mystic-alerts-act/)** — `2026-10-22` | `4 Pages`
-- `[`US-PLAW-135`]` **[Reversionary Interest Conveyance Act](https://www.indexdata.org/reversionary-interest-conveyance-act/)** — `2026-10-22` | `2 Pages`
-- `[`US-PLAW-119publ122`]` **[Public Law 119 - 122 - Crow Tribe Water Rights Settlement Amendments Act of 2025](https://www.indexdata.org/public-law-119-122-crow-tribe-water-rights-settlement-amendments-act-of-2025/)** — `2026-10-22` | `3 Pages`
-- `[`US-PLAW-133`]` **[Chiricahua National Park Act](https://www.indexdata.org/chiricahua-national-park-act/)** — `2026-10-20` | `2 Pages`
-- `[`US-PLAW-132`]` **[Vicksburg National Military Park Boundary Modification Act](https://www.indexdata.org/vicksburg-national-military-park-boundary-modification-act/)** — `2026-10-20` | `2 Pages`
-- `[`US-PLAW-131`]` **[Enhancing Detection of Human Trafficking Act](https://www.indexdata.org/enhancing-detection-of-human-trafficking-act/)** — `2026-10-20` | `2 Pages`
-- `[`US-PLAW-130`]` **[Southcentral Foundation Land Transfer Act of 2025](https://www.indexdata.org/southcentral-foundation-land-transfer-act-of-2025/)** — `2026-10-20` | `2 Pages`
-- `[`US-PLAW-129`]` **[Romance Scam Prevention Act](https://www.indexdata.org/romance-scam-prevention-act/)** — `2026-10-20` | `6 Pages`
-- `[`US-PLAW-128`]` **[Lower Elwha Klallam Tribe Project Lands Restoration Act](https://www.indexdata.org/lower-elwha-klallam-tribe-project-lands-restoration-act/)** — `2026-10-20` | `2 Pages`
-- `[`US-PLAW-127`]` **[Critical Infrastructure Manufacturing Feasibility Act](https://www.indexdata.org/critical-infrastructure-manufacturing-feasibility-act/)** — `2026-10-20` | `2 Pages`
-- `[`US-PLAW-126`]` **[An act to require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.](https://www.indexdata.org/an-act-to-require-the-secretary-of-agriculture-to-convey-the-pleasant-valley-ranger-district-administrative-site-to-gila-county-arizona/)** — `2026-10-20` | `2 Pages`
-- `[`US-PLAW-125`]` **[Clergy Act](https://www.indexdata.org/clergy-act/)** — `2026-10-20` | `2 Pages`
-- `[`US-PLAW-119publ124`]` **[Public Law 119 - 124 - Retire through Ownership Act](https://www.indexdata.org/public-law-119-124-retire-through-ownership-act/)** — `2026-10-20` | `2 Pages`
-- `[`US-PLAW-119publ123`]` **[Public Law 119 - 123 - Illegal Red Snapper and Tuna Enforcement Act](https://www.indexdata.org/public-law-119-123-illegal-red-snapper-and-tuna-enforcement-act/)** — `2026-10-20` | `2 Pages`
-- `[`US-PLAW-119publ119`]` **[Public Law 119 - 119 - Improving Social Security's Service to Victims of Identity Theft Act](https://www.indexdata.org/public-law-119-119-improving-social-securitys-service-to-victims-of-identity-theft-act/)** — `2026-10-19` | `2 Pages`
-- `[`US-PLAW-119publ121`]` **[Public Law 119 - 121 - American Music Tourism Act of 2025](https://www.indexdata.org/public-law-119-121-american-music-tourism-act-of-2025/)** — `2026-10-16` | `2 Pages`
-- `[`US-PLAW-124`]` **[Retire through Ownership Act](https://www.indexdata.org/retire-through-ownership-act/)** — `2026-10-15` | `2 Pages`
-- `[`US-PLAW-123`]` **[Illegal Red Snapper and Tuna Enforcement Act](https://www.indexdata.org/illegal-red-snapper-and-tuna-enforcement-act/)** — `2026-10-15` | `2 Pages`
-- `[`US-PLAW-122`]` **[Crow Tribe Water Rights Settlement Amendments Act of 2025](https://www.indexdata.org/crow-tribe-water-rights-settlement-amendments-act-of-2025/)** — `2026-10-15` | `3 Pages`
-- `[`US-PLAW-119publ120`]` **[Public Law 119 - 120 - Billion Dollar Boondoggle Act of 2025](https://www.indexdata.org/public-law-119-120-billion-dollar-boondoggle-act-of-2025/)** — `2026-10-15` | `2 Pages`
-- `[`US-PLAW-119publ116`]` **[Public Law 119 - 116 - Modernizing Access to Our Public Oceans Act](https://www.indexdata.org/public-law-119-116-modernizing-access-to-our-public-oceans-act/)** — `2026-10-10` | `4 Pages`
-- `[`US-PLAW-121`]` **[American Music Tourism Act of 2025](https://www.indexdata.org/american-music-tourism-act-of-2025/)** — `2026-10-09` | `2 Pages`
-- `[`US-PLAW-120`]` **[Billion Dollar Boondoggle Act of 2025](https://www.indexdata.org/billion-dollar-boondoggle-act-of-2025/)** — `2026-10-07` | `2 Pages`
-- `[`US-PLAW-119publ115`]` **[Public Law 119 - 115 - An act to designate the General George C. Marshall House, in the Commonwealth of Virginia, as an affiliated area of the National Park System, and for other purposes.](https://www.indexdata.org/public-law-119-115-an-act-to-designate-the-general-george-c-marshall-house-in-the-commonwealth-of-virginia-as-an-affiliated-area-of-the-national-park-system-and-for-other-purposes/)** — `2026-10-07` | `2 Pages`
-- `[`US-PLAW-119`]` **[Improving Social Security's Service to Victims of Identity Theft Act](https://www.indexdata.org/improving-social-securitys-service-to-victims-of-identity-theft-act/)** — `2026-10-07` | `2 Pages`
-- `[`US-PLAW-119publ93`]` **[Public Law 119 - 93 - Cape Fox Land Entitlement Finalization Act of 2025](https://www.indexdata.org/public-law-119-93-cape-fox-land-entitlement-finalization-act-of-2025/)** — `2026-10-06` | `2 Pages`
-- `[`US-PLAW-119publ114`]` **[Public Law 119 - 114 - An act to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.](https://www.indexdata.org/public-law-119-114-an-act-to-provide-for-the-equitable-settlement-of-certain-indian-land-disputes-regarding-land-in-illinois-and-for-other-purposes/)** — `2026-10-06` | `2 Pages`
-
 ### [State of Hawaii — Department of Land and Natural Resources](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/) | [RSS Feed](https://www.indexdata.org/united-states/state-of-hawaii-department-of-land-and-natural-resources/feed/)
 
@@ -1160,6 +1117,49 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-20634`]` **[Air Plan Approval; Missouri; Construction Permit Exemptions](https://www.indexdata.org/air-plan-approval-missouri-construction-permit-exemptions/)** — `2026-10-08` | `3 Pages`
 - `[`2026-20612`]` **[Air Quality Plan; Arizona; Maricopa County Air Quality Department; New Source Review; Emission Reduction Credits-Rule 204](https://www.indexdata.org/air-quality-plan-arizona-maricopa-county-air-quality-department-new-source-review-emission-reduction-credits-rule-204/)** — `2026-10-08` | `4 Pages`
 - `[`2026-20611`]` **[Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; West Virginia; Negative Declarations for Existing Large Municipal Waste Combustors and Other Solid Waste Incinerators](https://www.indexdata.org/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-west-virginia-negative-declarations-for-existing-large-municipal-waste-combustors-and-other-solid-waste/)** — `2026-10-07` | `3 Pages`
+
+### [United States Congress](https://www.indexdata.org/united-states/united-states-congress/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/united-states-congress/](https://www.indexdata.org/united-states/united-states-congress/) | [RSS Feed](https://www.indexdata.org/united-states/united-states-congress/feed/)
+
+- `[`US-CHRG-119jhrg63983`]` **[S. Hrg. 119-438 - KEEPING OUR PROMISES: LABOR INFLOWS,MAINTAINING COMPETITIVENESS, AND SUPPORTING AN AGING POPULATION](https://www.indexdata.org/s-hrg-119-438-keeping-our-promises-labor-inflowsmaintaining-competitiveness-and-supporting-an-aging-population/)** — `2026-11-01` | `68 Pages`
+- `[`US-PLAW-119publ105`]` **[Public Law 119 - 105 - An act to remove restrictions from a parcel of land in Paducah, Kentucky.](https://www.indexdata.org/public-law-119-105-an-act-to-remove-restrictions-from-a-parcel-of-land-in-paducah-kentucky/)** — `2026-10-30` | `2 Pages`
+- `[`US-CHRG-119jhrg64578`]` **[Joint Hearing, 119th Congress - A SON AND DAUGHTER'S APPEAL TO XI JINPING TO RELEASE THEIR FATHER, JIMMY LAI](https://www.indexdata.org/joint-hearing-119th-congress-a-son-and-daughters-appeal-to-xi-jinping-to-release-their-father-jimmy-lai/)** — `2026-10-30` | `59 Pages`
+- `[`US-PLAW-119publ136`]` **[Public Law 119 - 136 - Mystic Alerts Act](https://www.indexdata.org/public-law-119-136-mystic-alerts-act/)** — `2026-10-29` | `4 Pages`
+- `[`US-PLAW-119publ135`]` **[Public Law 119 - 135 - Reversionary Interest Conveyance Act](https://www.indexdata.org/public-law-119-135-reversionary-interest-conveyance-act/)** — `2026-10-29` | `2 Pages`
+- `[`US-PLAW-119publ133`]` **[Public Law 119 - 133 - Chiricahua National Park Act](https://www.indexdata.org/public-law-119-133-chiricahua-national-park-act/)** — `2026-10-28` | `2 Pages`
+- `[`US-PLAW-119publ130`]` **[Public Law 119 - 130 - Southcentral Foundation Land Transfer Act of 2025](https://www.indexdata.org/public-law-119-130-southcentral-foundation-land-transfer-act-of-2025/)** — `2026-10-28` | `2 Pages`
+- `[`US-PLAW-119publ128`]` **[Public Law 119 - 128 - Lower Elwha Klallam Tribe Project Lands Restoration Act](https://www.indexdata.org/public-law-119-128-lower-elwha-klallam-tribe-project-lands-restoration-act/)** — `2026-10-28` | `2 Pages`
+- `[`US-PLAW-119publ132`]` **[Public Law 119 - 132 - Vicksburg National Military Park Boundary Modification Act](https://www.indexdata.org/public-law-119-132-vicksburg-national-military-park-boundary-modification-act/)** — `2026-10-27` | `2 Pages`
+- `[`US-PLAW-119publ131`]` **[Public Law 119 - 131 - Enhancing Detection of Human Trafficking Act](https://www.indexdata.org/public-law-119-131-enhancing-detection-of-human-trafficking-act/)** — `2026-10-27` | `2 Pages`
+- `[`US-PLAW-119publ129`]` **[Public Law 119 - 129 - Romance Scam Prevention Act](https://www.indexdata.org/public-law-119-129-romance-scam-prevention-act/)** — `2026-10-27` | `6 Pages`
+- `[`US-PLAW-119publ127`]` **[Public Law 119 - 127 - Critical Infrastructure Manufacturing Feasibility Act](https://www.indexdata.org/public-law-119-127-critical-infrastructure-manufacturing-feasibility-act/)** — `2026-10-27` | `2 Pages`
+- `[`US-PLAW-119publ126`]` **[Public Law 119 - 126 - An act to require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.](https://www.indexdata.org/public-law-119-126-an-act-to-require-the-secretary-of-agriculture-to-convey-the-pleasant-valley-ranger-district-administrative-site-to-gila-county-arizona/)** — `2026-10-27` | `2 Pages`
+- `[`US-PLAW-119publ125`]` **[Public Law 119 - 125 - Clergy Act](https://www.indexdata.org/public-law-119-125-clergy-act/)** — `2026-10-27` | `2 Pages`
+- `[`US-PLAW-136`]` **[Mystic Alerts Act](https://www.indexdata.org/mystic-alerts-act/)** — `2026-10-22` | `4 Pages`
+- `[`US-PLAW-135`]` **[Reversionary Interest Conveyance Act](https://www.indexdata.org/reversionary-interest-conveyance-act/)** — `2026-10-22` | `2 Pages`
+- `[`US-PLAW-119publ122`]` **[Public Law 119 - 122 - Crow Tribe Water Rights Settlement Amendments Act of 2025](https://www.indexdata.org/public-law-119-122-crow-tribe-water-rights-settlement-amendments-act-of-2025/)** — `2026-10-22` | `3 Pages`
+- `[`US-PLAW-133`]` **[Chiricahua National Park Act](https://www.indexdata.org/chiricahua-national-park-act/)** — `2026-10-20` | `2 Pages`
+- `[`US-PLAW-132`]` **[Vicksburg National Military Park Boundary Modification Act](https://www.indexdata.org/vicksburg-national-military-park-boundary-modification-act/)** — `2026-10-20` | `2 Pages`
+- `[`US-PLAW-131`]` **[Enhancing Detection of Human Trafficking Act](https://www.indexdata.org/enhancing-detection-of-human-trafficking-act/)** — `2026-10-20` | `2 Pages`
+- `[`US-PLAW-130`]` **[Southcentral Foundation Land Transfer Act of 2025](https://www.indexdata.org/southcentral-foundation-land-transfer-act-of-2025/)** — `2026-10-20` | `2 Pages`
+- `[`US-PLAW-129`]` **[Romance Scam Prevention Act](https://www.indexdata.org/romance-scam-prevention-act/)** — `2026-10-20` | `6 Pages`
+- `[`US-PLAW-128`]` **[Lower Elwha Klallam Tribe Project Lands Restoration Act](https://www.indexdata.org/lower-elwha-klallam-tribe-project-lands-restoration-act/)** — `2026-10-20` | `2 Pages`
+- `[`US-PLAW-127`]` **[Critical Infrastructure Manufacturing Feasibility Act](https://www.indexdata.org/critical-infrastructure-manufacturing-feasibility-act/)** — `2026-10-20` | `2 Pages`
+- `[`US-PLAW-126`]` **[An act to require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.](https://www.indexdata.org/an-act-to-require-the-secretary-of-agriculture-to-convey-the-pleasant-valley-ranger-district-administrative-site-to-gila-county-arizona/)** — `2026-10-20` | `2 Pages`
+- `[`US-PLAW-125`]` **[Clergy Act](https://www.indexdata.org/clergy-act/)** — `2026-10-20` | `2 Pages`
+- `[`US-PLAW-119publ124`]` **[Public Law 119 - 124 - Retire through Ownership Act](https://www.indexdata.org/public-law-119-124-retire-through-ownership-act/)** — `2026-10-20` | `2 Pages`
+- `[`US-PLAW-119publ123`]` **[Public Law 119 - 123 - Illegal Red Snapper and Tuna Enforcement Act](https://www.indexdata.org/public-law-119-123-illegal-red-snapper-and-tuna-enforcement-act/)** — `2026-10-20` | `2 Pages`
+- `[`US-PLAW-119publ119`]` **[Public Law 119 - 119 - Improving Social Security's Service to Victims of Identity Theft Act](https://www.indexdata.org/public-law-119-119-improving-social-securitys-service-to-victims-of-identity-theft-act/)** — `2026-10-19` | `2 Pages`
+- `[`US-PLAW-119publ121`]` **[Public Law 119 - 121 - American Music Tourism Act of 2025](https://www.indexdata.org/public-law-119-121-american-music-tourism-act-of-2025/)** — `2026-10-16` | `2 Pages`
+- `[`US-PLAW-124`]` **[Retire through Ownership Act](https://www.indexdata.org/retire-through-ownership-act/)** — `2026-10-15` | `2 Pages`
+- `[`US-PLAW-123`]` **[Illegal Red Snapper and Tuna Enforcement Act](https://www.indexdata.org/illegal-red-snapper-and-tuna-enforcement-act/)** — `2026-10-15` | `2 Pages`
+- `[`US-PLAW-122`]` **[Crow Tribe Water Rights Settlement Amendments Act of 2025](https://www.indexdata.org/crow-tribe-water-rights-settlement-amendments-act-of-2025/)** — `2026-10-15` | `3 Pages`
+- `[`US-PLAW-119publ120`]` **[Public Law 119 - 120 - Billion Dollar Boondoggle Act of 2025](https://www.indexdata.org/public-law-119-120-billion-dollar-boondoggle-act-of-2025/)** — `2026-10-15` | `2 Pages`
+- `[`US-PLAW-119publ116`]` **[Public Law 119 - 116 - Modernizing Access to Our Public Oceans Act](https://www.indexdata.org/public-law-119-116-modernizing-access-to-our-public-oceans-act/)** — `2026-10-10` | `4 Pages`
+- `[`US-PLAW-121`]` **[American Music Tourism Act of 2025](https://www.indexdata.org/american-music-tourism-act-of-2025/)** — `2026-10-09` | `2 Pages`
+- `[`US-PLAW-120`]` **[Billion Dollar Boondoggle Act of 2025](https://www.indexdata.org/billion-dollar-boondoggle-act-of-2025/)** — `2026-10-07` | `2 Pages`
+- `[`US-PLAW-119publ115`]` **[Public Law 119 - 115 - An act to designate the General George C. Marshall House, in the Commonwealth of Virginia, as an affiliated area of the National Park System, and for other purposes.](https://www.indexdata.org/public-law-119-115-an-act-to-designate-the-general-george-c-marshall-house-in-the-commonwealth-of-virginia-as-an-affiliated-area-of-the-national-park-system-and-for-other-purposes/)** — `2026-10-07` | `2 Pages`
+- `[`US-PLAW-119`]` **[Improving Social Security's Service to Victims of Identity Theft Act](https://www.indexdata.org/improving-social-securitys-service-to-victims-of-identity-theft-act/)** — `2026-10-07` | `2 Pages`
 
 ### [National Oceanic and Atmospheric Administration (NOAA)](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration-noaa/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,751` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 05:01 UTC`
+**Last Automated Sync:** `2026-11-28 05:08 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`910` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`388` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`390` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`280` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,11 +265,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,751)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,753)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-28088`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-2/)** — `2024-12-02` | `3 Pages`
 - `[`2024-28073`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-34/)** — `2024-12-02` | `3 Pages`
 - `[`2024-27837`]` **[Modification of Class E Airspace; Colusa County Airport, Colusa, CA](https://www.indexdata.org/modification-of-class-e-airspace-colusa-county-airport-colusa-ca-2/)** — `2024-11-29` | `3 Pages`
 - `[`2024-27814`]` **[Airworthiness Directives; Airbus Helicopters (Type Certificate Previously Held by Eurocopter France)](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-type-certificate-previously-held-by-eurocopter-france-2/)** — `2024-11-29` | `4 Pages`
@@ -603,6 +604,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2024-28080`]` **[Fatty acids, C16-18 and C18-unsatd., esters With polyethylene glycol mono-Me ether in Pesticide Formulations; Tolerance Exemption](https://www.indexdata.org/fatty-acids-c16-18-and-c18-unsatd-esters-with-polyethylene-glycol-mono-me-ether-in-pesticide-formulations-tolerance-exemption/)** — `2024-12-02` | `6 Pages`
 - `[`2024-27942`]` **[Air Plan Partial Approval and Partial Disapproval; Wyoming; Regional Haze Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-wyoming-regional-haze-plan-for-the-second-implementation-period/)** — `2024-12-02` | `6 Pages`
 - `[`2024-27941`]` **[Air Plan Partial Approval and Partial Disapproval; Utah; Regional Haze State Implementation Plan for the Second Implementation Period; Air Plan Disapproval; Utah; Prong 4 (Visibility) for the 2015 8-Hour Ozone National Ambient Air Quality Standard](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-utah-regional-haze-state-implementation-plan-for-the-second-implementation-period-air-plan-disapproval-utah-prong-4-visibility-for-the-2015-8-h/)** — `2024-12-02` | `5 Pages`
 - `[`2024-27940`]` **[Air Plan Partial Approval and Partial Disapproval; North Dakota; Regional Haze State Implementation Plan for the Second Implementation Period](https://www.indexdata.org/air-plan-partial-approval-and-partial-disapproval-north-dakota-regional-haze-state-implementation-plan-for-the-second-implementation-period/)** — `2024-12-02` | `6 Pages`
@@ -827,8 +829,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2024-16697`]` **[Disapproval and Promulgation of Air Quality Implementation Plan; Nebraska; Regional Haze State Implementation Plan; Federal Implementation Plan for Regional Haze; Completion of Remand](https://www.indexdata.org/disapproval-and-promulgation-of-air-quality-implementation-plan-nebraska-regional-haze-state-implementation-plan-federal-implementation-plan-for-regional-haze-completion-of-remand/)** — `2024-08-01` | `17 Pages`
 - `[`2024-13206`]` **[Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review: Correction](https://www.indexdata.org/standards-of-performance-for-new-reconstructed-and-modified-sources-and-emissions-guidelines-for-existing-sources-oil-and-natural-gas-sector-climate-review-correction/)** — `2024-08-01` | `78 Pages`
 - `[`2024-16544`]` **[Pendimethalin; Pesticide Tolerance](https://www.indexdata.org/pendimethalin-pesticide-tolerance/)** — `2024-07-31` | `4 Pages`
-- `[`2024-16570`]` **[Designations of Areas for Air Quality Planning Purposes; Pennsylvania, New Jersey, Maryland, Delaware; Philadelphia-Wilmington-Atlantic City, PA-NJ-MD-DE 2015 8-Hour Ozone Nonattainment Area; Reclassification to Serious](https://www.indexdata.org/designations-of-areas-for-air-quality-planning-purposes-pennsylvania-new-jersey-maryland-delaware-philadelphia-wilmington-atlantic-city-pa-nj-md-de-2015-8-hour-ozone-nonattainment-area-reclassi/)** — `2024-07-30` | `5 Pages`
-- `[`2024-16568`]` **[Clean Air Act Title V Operating Permit Program Revision; West Virginia](https://www.indexdata.org/clean-air-act-title-v-operating-permit-program-revision-west-virginia/)** — `2024-07-30` | `4 Pages`
 
 ### [Coast Guard](https://www.indexdata.org/united-states/coast-guard/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guard/](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
