@@ -5,15 +5,15 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/portugal/feed/](https://www.indexdata.org/portugal/feed/)  
 **Wikidata Sovereign Entity:** [`Q45`](https://www.wikidata.org/wiki/Q45)  
 **Governing Open-Government Framework:** *Lei n.º 68/2021*  
-**Total Indexed Dossiers in Portugal:** `54` across `6` issuing authorities  
-**Last Automated Sync:** `2026-11-28 10:56 UTC`
+**Total Indexed Dossiers in Portugal:** `55` across `6` issuing authorities  
+**Last Automated Sync:** `2026-11-28 11:57 UTC`
 
 ---
 
 ## Issuing Authorities in Portugal (6 Authorities)
 
 - **[Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)** (`22` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
-- **[High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)** (`16` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
+- **[High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)** (`17` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
 - **[National Institute of Health Doutor Ricardo Jorge (INSA)](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/)** (`9` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/) | [RSS Feed](https://www.indexdata.org/portugal/national-institute-of-health-doutor-ricardo-jorge-insa/feed/)
 - **[Regional Directorate for the Sea — Madeira (DRM)](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/) | [RSS Feed](https://www.indexdata.org/portugal/regional-directorate-for-the-sea-madeira-drm/feed/)
 - **[National Laboratory of Energy and Geology (LNEG)](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/)** (`2` dossiers) — [Authority Archive](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/) | [RSS Feed](https://www.indexdata.org/portugal/national-laboratory-of-energy-and-geology-lneg/feed/)
@@ -21,7 +21,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–54 of 54)
+## Indexed Statutory & Regulatory Dossiers (Records 1–55 of 55)
 
 ### [Institute for Mobility and Transport (IMT)](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/) | [RSS Feed](https://www.indexdata.org/portugal/institute-for-mobility-and-transport-imt/feed/)
@@ -52,6 +52,7 @@ Canonical Authority Archive: [https://www.indexdata.org/portugal/institute-for-m
 ### [High Council for the Judiciary (CSM)](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/)
 Canonical Authority Archive: [https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/) | [RSS Feed](https://www.indexdata.org/portugal/high-council-for-the-judiciary-csm/feed/)
 
+- `[`PT-CSM-WP-54992`]` **[div190_2026](https://www.indexdata.org/div190_2026/)** — `2026-11-01` | `4 Pages`
 - `[`PT-CSM-WP-54977`]` **[2026_relatório_centros_educativos](https://www.indexdata.org/2026_relatorio_centros_educativos/)** — `2026-11-01` | `73 Pages`
 - `[`PT-CSM-WP-54950`]` **[2026_IC_Inovação_e_Colaboração](https://www.indexdata.org/2026_ic_inovacao_e_colaboracao/)** — `2026-11-01` | `5 Pages`
 - `[`PT-CSM-WP-54915`]` **[Aviso14_2026](https://www.indexdata.org/aviso14_2026/)** — `2026-11-01` | `2 Pages`

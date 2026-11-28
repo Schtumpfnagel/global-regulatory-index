@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,367` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-28 10:56 UTC`
+**Total Indexed Dossiers in International:** `1,368` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-28 11:57 UTC`
 
 ---
 
@@ -14,7 +14,7 @@
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`264` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`227` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`215` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
-- **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`111` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
+- **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`112` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`83` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
@@ -43,7 +43,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,367 of 1,367)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,368 of 1,368)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -818,6 +818,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-f
 - `[`EFSA-OA-W4406478669`]` **[The long way from raw data to NAM-based information: Overview on data layers and processing steps](https://www.indexdata.org/the-long-way-from-raw-data-to-nam-based-information-overview-on-data-layers-and-processing-steps/)** — `2025-01-01` | `15 Pages`
 - `[`EFSA-KJ-14505405`]` **[Summary Report of Zoonoses, Alimentary and Water-borne Infections in the Slovak Republic in 2023](https://www.indexdata.org/summary-report-of-zoonoses-alimentary-and-water-borne-infections-in-the-slovak-republic-in-2023/)** — `2024-12-17` | `32 Pages`
 - `[`EFSA-OA-W4405429149`]` **[Associations between dietary mycotoxins exposures and risk of hepatocellular carcinoma in a European cohort](https://www.indexdata.org/associations-between-dietary-mycotoxins-exposures-and-risk-of-hepatocellular-carcinoma-in-a-european-cohort/)** — `2024-12-16` | `18 Pages`
+- `[`EFSA-KJ-14326159`]` **[Webinar on NoBa Land Cover Retriever 2024](https://www.indexdata.org/webinar-on-noba-land-cover-retriever-2024/)** — `2024-12-09` | `18 Pages`
 - `[`EFSA-OA-W4405096878`]` **[Neuroprotective effect of mealworm protein hydrolysate-derived bioactive peptides in human microglial cells](https://www.indexdata.org/neuroprotective-effect-of-mealworm-protein-hydrolysate-derived-bioactive-peptides-in-human-microglial-cells/)** — `2024-12-06` | `17 Pages`
 - `[`EFSA-OA-W4404928589`]` **[Systematic mapping of antibiotic cross-resistance and collateral sensitivity with chemical genetics](https://www.indexdata.org/systematic-mapping-of-antibiotic-cross-resistance-and-collateral-sensitivity-with-chemical-genetics/)** — `2024-12-02` | `34 Pages`
 - `[`EFSA-KJ-13939336`]` **[Report of the First International Workshop on Horizon Scanning for Plant Health](https://www.indexdata.org/report-of-the-first-international-workshop-on-horizon-scanning-for-plant-health/)** — `2024-10-16` | `26 Pages`

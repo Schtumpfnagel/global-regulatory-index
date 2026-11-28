@@ -7,7 +7,7 @@
 **Governing Open-Government Framework:** *Commission Decision 2011/833/EU*  
 **Total Indexed Dossiers in European Union:** `5,553` across `29` issuing authorities  
 **Catalog Volumes:** [Part 1](european-union.md) | **[Part 2 (Current)]** | [Part 3](european-union-part-3.md) | [Part 4](european-union-part-4.md)  
-**Last Automated Sync:** `2026-11-28 10:56 UTC`
+**Last Automated Sync:** `2026-11-28 11:57 UTC`
 
 ---
 

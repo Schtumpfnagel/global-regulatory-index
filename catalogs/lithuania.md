@@ -6,7 +6,7 @@
 **Wikidata Sovereign Entity:** [`Q37`](https://www.wikidata.org/wiki/Q37)  
 **Governing Open-Government Framework:** *Law on Copyright and Related Rights (No. VIII-1185), Art 5(2)*  
 **Total Indexed Dossiers in Lithuania:** `1` across `1` issuing authorities  
-**Last Automated Sync:** `2026-11-28 10:56 UTC`
+**Last Automated Sync:** `2026-11-28 11:57 UTC`
 
 ---
 

@@ -5,14 +5,14 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/austria/feed/](https://www.indexdata.org/austria/feed/)  
 **Wikidata Sovereign Entity:** [`Q40`](https://www.wikidata.org/wiki/Q40)  
 **Governing Open-Government Framework:** *UrhG § 7 / IWG 2022 / CC BY 4.0*  
-**Total Indexed Dossiers in Austria:** `199` across `27` issuing authorities  
-**Last Automated Sync:** `2026-11-28 10:56 UTC`
+**Total Indexed Dossiers in Austria:** `204` across `27` issuing authorities  
+**Last Automated Sync:** `2026-11-28 11:57 UTC`
 
 ---
 
 ## Issuing Authorities in Austria (27 Authorities)
 
-- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`52` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
+- **[Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
 - **[Federal Chancellery of Austria (Bundeskanzleramt)](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/)** (`48` dossiers) — [Authority Archive](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/) | [RSS Feed](https://www.indexdata.org/austria/federal-chancellery-of-austria-bundeskanzleramt/feed/)
 - **[Austrian National Public Health Institute (Gesundheit Österreich GmbH - GÖG)](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/)** (`32` dossiers) — [Authority Archive](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/) | [RSS Feed](https://www.indexdata.org/austria/austrian-national-public-health-institute-gesundheit-sterreich-gmbh-g-g/feed/)
 - **[Oesterreichische Nationalbank (OeNB)](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/)** (`23` dossiers) — [Authority Archive](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/) | [RSS Feed](https://www.indexdata.org/austria/oesterreichische-nationalbank-oenb/feed/)
@@ -42,7 +42,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–199 of 199)
+## Indexed Statutory & Regulatory Dossiers (Records 1–204 of 204)
 
 ### [Austrian Academy of Sciences (Österreichische Akademie der Wissenschaften - ÖAW)](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/)
 Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/) | [RSS Feed](https://www.indexdata.org/austria/austrian-academy-of-sciences-sterreichische-akademie-der-wissenschaften-aw/feed/)
@@ -56,6 +56,10 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-academy
 - `[`AT-STAT-OEAW-W7237000003`]` **[Full Rank and Stable Sampling of $\tanh$ Networks](https://www.indexdata.org/full-rank-and-stable-sampling-of-tanh-networks/)** — `2026-11-19` | `32 Pages`
 - `[`AT-STAT-OEAW-W7236685336`]` **[Mitigating brittleness in ceramics via transformation- and twinning-induced plasticity](https://www.indexdata.org/mitigating-brittleness-in-ceramics-via-transformation-and-twinning-induced-plasticity/)** — `2026-11-19` | `14 Pages`
 - `[`AT-STAT-OEAW-W7236778432`]` **[Qubit-qumode simulation of molecular torsion in photoisomerization](https://www.indexdata.org/qubit-qumode-simulation-of-molecular-torsion-in-photoisomerization/)** — `2026-11-17` | `24 Pages`
+- `[`AT-STAT-OEAW-W7235678847`]` **[Sumsets modulo ideals: Baire category and descriptive complexity](https://www.indexdata.org/sumsets-modulo-ideals-baire-category-and-descriptive-complexity/)** — `2026-11-16` | `15 Pages`
+- `[`AT-STAT-OEAW-W7234048296`]` **[Wastewater sequence data reveal national and cross-border virus transmission dynamics](https://www.indexdata.org/wastewater-sequence-data-reveal-national-and-cross-border-virus-transmission-dynamics/)** — `2026-11-16` | `19 Pages`
+- `[`AT-STAT-OEAW-W7233822514`]` **[Trapping more seeing more, benchmarking a new trap column for low-input proteomics](https://www.indexdata.org/trapping-more-seeing-more-benchmarking-a-new-trap-column-for-low-input-proteomics/)** — `2026-11-16` | `26 Pages`
+- `[`AT-STAT-OEAW-W7235273812`]` **[Controllability of Acoustic Waves by Point Sources: Reachable States and Stable Reconstruction](https://www.indexdata.org/controllability-of-acoustic-waves-by-point-sources-reachable-states-and-stable-reconstruction/)** — `2026-11-15` | `25 Pages`
 - `[`AT-STAT-OEAW-W7233594777`]` **[Biomolecular design through latent reasoning with RFD4-Proteina](https://www.indexdata.org/biomolecular-design-through-latent-reasoning-with-rfd4-proteina/)** — `2026-11-15` | `26 Pages`
 - `[`AT-STAT-OEAW-W7226032563`]` **[Statistical correlations between turbulent structures and dissipation proxies in near-Earth space: the MMS 2023-2024 unbiased magnetosheath campaign](https://www.indexdata.org/statistical-correlations-between-turbulent-structures-and-dissipation-proxies-in-near-earth-space-the-mms-2023-2024-unbiased-magnetosheath-campaign/)** — `2026-11-12` | `14 Pages`
 - `[`AT-STAT-OEAW-W7225918236`]` **[Reversible expression of a cartilage ′master regulator′ during axolotl limb development and regeneration](https://www.indexdata.org/reversible-expression-of-a-cartilage-%e2%80%b2master-regulator%e2%80%b2-during-axolotl-limb-development-and-regeneration/)** — `2026-11-12` | `21 Pages`
@@ -63,6 +67,7 @@ Canonical Authority Archive: [https://www.indexdata.org/austria/austrian-academy
 - `[`AT-STAT-OEAW-W7154582063`]` **[Beads, Springs, and Fields: Particle-Based Versus Continuum Models in Cell Biophysics](https://www.indexdata.org/beads-springs-and-fields-particle-based-versus-continuum-models-in-cell-biophysics/)** — `2026-11-12` | `36 Pages`
 - `[`AT-STAT-OEAW-W7226013950`]` **[The Calderón Problem with Randomly Distributed Resonant Droplets](https://www.indexdata.org/the-calderon-problem-with-randomly-distributed-resonant-droplets/)** — `2026-11-11` | `41 Pages`
 - `[`AT-STAT-OEAW-W7225714875`]` **[Na exospheric emission in relation to Sun events during the BepiColombo Second Mercury’s Fly-by](https://www.indexdata.org/na-exospheric-emission-in-relation-to-sun-events-during-the-bepicolombo-second-mercurys-fly-by/)** — `2026-11-10` | `33 Pages`
+- `[`AT-STAT-OEAW-W4412989864`]` **[Life-history trade-offs explain local adaptation in Arabidopsis thaliana](https://www.indexdata.org/life-history-trade-offs-explain-local-adaptation-in-arabidopsis-thaliana-2/)** — `2026-11-10` | `28 Pages`
 - `[`AT-STAT-OEAW-W4410630371`]` **[Life-history trade-offs explain local adaptation in Arabidopsis thaliana](https://www.indexdata.org/life-history-trade-offs-explain-local-adaptation-in-arabidopsis-thaliana/)** — `2026-11-10` | `28 Pages`
 - `[`AT-STAT-OEAW-W7154620836`]` **[Proton structure from neural simulation-based inference at the LHC](https://www.indexdata.org/proton-structure-from-neural-simulation-based-inference-at-the-lhc/)** — `2026-11-06` | `60 Pages`
 - `[`AT-STAT-OEAW-W7225299017`]` **[Non-compact Kogut-Susskind gauge theories: 1D lattice models with exact ${\rm SL}(2,\mathbb{R})$ gauge invariance](https://www.indexdata.org/non-compact-kogut-susskind-gauge-theories-1d-lattice-models-with-exact-rm-sl2mathbbr-gauge-invariance/)** — `2026-11-04` | `22 Pages`
