@@ -4,15 +4,15 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,341` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-27 23:57 UTC`
+**Total Indexed Dossiers in International:** `1,342` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-28 00:57 UTC`
 
 ---
 
 ## Issuing Authorities in International (29 Authorities)
 
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`250` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
-- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`223` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
+- **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`224` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`215` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`107` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
@@ -43,7 +43,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,341 of 1,341)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,342 of 1,342)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -306,6 +306,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/food-and-a
 - `[`FAO-CE2745EN`]` **[Emergency Drought Rapid Response to Save Lives and Protect Livelihoods of Vulnerable Populations in Bay Region, Somalia](https://www.indexdata.org/emergency-drought-rapid-response-to-save-lives-and-protect-livelihoods-of-vulnerable-populations-in-bay-region-somalia-2/)** — `2026-11-26` | `58 Pages`
 - `[`FAO-CE2738EN`]` **[Progress report and proposed outline of the Light Review of the Funding Strategy](https://www.indexdata.org/progress-report-and-proposed-outline-of-the-light-review-of-the-funding-strategy/)** — `2026-11-26` | `7 Pages`
 - `[`FAO-CE2663EN`]` **[Learning brief: Who carries resilience ?](https://www.indexdata.org/learning-brief-who-carries-resilience/)** — `2026-11-26` | `17 Pages`
+- `[`FAO-CE1727EN`]` **[GLOBEFISH Quarterly Salmon Analysis - September 2026](https://www.indexdata.org/globefish-quarterly-salmon-analysis-september-2026/)** — `2026-11-26` | `8 Pages`
 - `[`FAO-CE1722EN`]` **[GLOBEFISH Quarterly Crab Analysis - September 2026](https://www.indexdata.org/globefish-quarterly-crab-analysis-september-2026/)** — `2026-11-26` | `4 Pages`
 - `[`FAO-CE2714M`]` **[List of participantsListe des participantsLista de participantes](https://www.indexdata.org/list-of-participantsliste-des-participantslista-de-participantes/)** — `2026-11-25` | `7 Pages`
 - `[`FAO-CE2694EN`]` **[Does public expenditure on food and agriculture support access to healthy diets in Ghana?](https://www.indexdata.org/does-public-expenditure-on-food-and-agriculture-support-access-to-healthy-diets-in-ghana/)** — `2026-11-25` | `50 Pages`
