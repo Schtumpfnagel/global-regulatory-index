@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,780` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | **[Part 3 (Current)]** | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 12:58 UTC`
+**Last Automated Sync:** `2026-11-28 13:59 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`394` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,779)
+## Indexed Statutory & Regulatory Dossiers (Records 3,001–4,500 of 15,780)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -621,6 +621,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-12415`]` **[Air Plan Approval; OR; Update to Materials Incorporated by Reference](https://www.indexdata.org/air-plan-approval-or-update-to-materials-incorporated-by-reference/)** — `2026-06-22` | `28 Pages`
 - `[`2026-12272`]` **[Resin Acids, Esters With Glycerol in Pesticide Formulations; Exemption From the Requirement for a Tolerance](https://www.indexdata.org/resin-acids-esters-with-glycerol-in-pesticide-formulations-exemption-from-the-requirement-for-a-tolerance/)** — `2026-06-18` | `5 Pages`
 - `[`2026-11942`]` **[Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities-February 2026](https://www.indexdata.org/receipt-of-pesticide-petitions-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-february-2026/)** — `2026-06-15` | `3 Pages`
 - `[`2026-11941`]` **[Sodium Nitrate in Pesticide Formulations; Exemption From the Requirement of a Tolerance](https://www.indexdata.org/sodium-nitrate-in-pesticide-formulations-exemption-from-the-requirement-of-a-tolerance/)** — `2026-06-15` | `6 Pages`
@@ -1904,13 +1905,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-an
 - `[`2026-05731`]` **[Establishment of the Nine Lakes of East Tennessee Viticultural Area](https://www.indexdata.org/establishment-of-the-nine-lakes-of-east-tennessee-viticultural-area/)** — `2026-03-24` | `5 Pages`
 - `[`2026-05730`]` **[Establishment of the Nashoba Valley Viticultural Area](https://www.indexdata.org/establishment-of-the-nashoba-valley-viticultural-area/)** — `2026-03-24` | `4 Pages`
 
-### [Commodity Credit Corporation](https://www.indexdata.org/united-states/commodity-credit-corporation/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-credit-corporation/](https://www.indexdata.org/united-states/commodity-credit-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-credit-corporation/feed/)
-
-- `[`2026-11002`]` **[Payment Limitation and Payment Eligibility](https://www.indexdata.org/payment-limitation-and-payment-eligibility/)** — `2026-06-02` | `8 Pages`
-- `[`2026-10930`]` **[Assistance for Specialty Crop Farmers (ASCF) Program](https://www.indexdata.org/assistance-for-specialty-crop-farmers-ascf-program/)** — `2026-06-01` | `8 Pages`
-- `[`2026-03456`]` **[Farmer Bridge Assistance (FBA) Program](https://www.indexdata.org/farmer-bridge-assistance-fba-program/)** — `2026-02-23` | `9 Pages`
-
 ### [Food Safety and Inspection Service](https://www.indexdata.org/united-states/food-safety-and-inspection-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/food-safety-and-inspection-service/](https://www.indexdata.org/united-states/food-safety-and-inspection-service/) | [RSS Feed](https://www.indexdata.org/united-states/food-safety-and-inspection-service/feed/)
 
@@ -1999,6 +1993,12 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/animal-and
 
 - `[`2026-06955`]` **[Import Regulations for Horses; Pre-Export Examination](https://www.indexdata.org/import-regulations-for-horses-pre-export-examination/)** — `2026-04-10` | `3 Pages`
 - `[`2026-05684`]` **[Standards for the Care of Breeding Female Dogs and Exercise and Socialization of Dogs](https://www.indexdata.org/standards-for-the-care-of-breeding-female-dogs-and-exercise-and-socialization-of-dogs/)** — `2026-03-24` | `2 Pages`
+
+### [Commodity Credit Corporation](https://www.indexdata.org/united-states/commodity-credit-corporation/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-credit-corporation/](https://www.indexdata.org/united-states/commodity-credit-corporation/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-credit-corporation/feed/)
+
+- `[`2026-11002`]` **[Payment Limitation and Payment Eligibility](https://www.indexdata.org/payment-limitation-and-payment-eligibility/)** — `2026-06-02` | `8 Pages`
+- `[`2026-10930`]` **[Assistance for Specialty Crop Farmers (ASCF) Program](https://www.indexdata.org/assistance-for-specialty-crop-farmers-ascf-program/)** — `2026-06-01` | `8 Pages`
 
 ### [Comptroller Of The Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)

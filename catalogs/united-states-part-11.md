@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,780` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | **[Part 11 (Current)]**  
-**Last Automated Sync:** `2026-11-28 12:58 UTC`
+**Last Automated Sync:** `2026-11-28 13:59 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`394` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,779 of 15,779)
+## Indexed Statutory & Regulatory Dossiers (Records 15,001–15,780 of 15,780)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -697,6 +697,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2023-15818`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Harpoon Category Quota Transfer](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-harpoon-category-quota-transfer-3/)** — `2023-07-26` | `2 Pages`
 - `[`2023-15816`]` **[Pacific Halibut Fisheries; Catch Sharing Plan; Rulemaking To Modify the 2023-2027 Halibut Individual Fishing Quota (IFQ) Vessel Harvest Limitations in IFQ Regulatory Areas 4A, 4B, 4C, and 4D](https://www.indexdata.org/pacific-halibut-fisheries-catch-sharing-plan-rulemaking-to-modify-the-2023-2027-halibut-individual-fishing-quota-ifq-vessel-harvest-limitations-in-ifq-regulatory-areas-4a-4b-4c-and-4d/)** — `2023-07-26` | `4 Pages`
 - `[`2023-15574`]` **[Fisheries Off West Coast States; West Coast Groundfish Electronic Monitoring Program; Service Provider Revisions](https://www.indexdata.org/fisheries-off-west-coast-states-west-coast-groundfish-electronic-monitoring-program-service-provider-revisions-2/)** — `2023-07-26` | `7 Pages`
 - `[`2023-15187`]` **[Endangered and Threatened Species; Designation of Critical Habitat for the Rice's Whale](https://www.indexdata.org/endangered-and-threatened-species-designation-of-critical-habitat-for-the-rices-whale/)** — `2023-07-24` | `20 Pages`

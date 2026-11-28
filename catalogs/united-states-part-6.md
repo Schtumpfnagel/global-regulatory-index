@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,780` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 12:58 UTC`
+**Last Automated Sync:** `2026-11-28 13:59 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`394` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,11 +265,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,779)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,780)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-07858`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-148/)** — `2025-05-06` | `4 Pages`
 - `[`2025-07856`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-149/)** — `2025-05-06` | `6 Pages`
 - `[`2025-07756`]` **[Airworthiness Directives; Thommen Aircraft Equipment AG Digital Air Data Computers](https://www.indexdata.org/airworthiness-directives-thommen-aircraft-equipment-ag-digital-air-data-computers/)** — `2025-05-06` | `2 Pages`
 - `[`2025-07753`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-37/)** — `2025-05-06` | `24 Pages`
@@ -1794,15 +1795,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internatio
 - `[`2024-29245`]` **[Regulations Enhancing the Administration of the Antidumping and Countervailing Duty Trade Remedy Laws](https://www.indexdata.org/regulations-enhancing-the-administration-of-the-antidumping-and-countervailing-duty-trade-remedy-laws/)** — `2024-12-16` | `76 Pages`
 - `[`2024-29091`]` **[Procedures and Rules for Article 10.12 of the United States-Mexico-Canada Agreement; Correction](https://www.indexdata.org/procedures-and-rules-for-article-10-12-of-the-united-states-mexico-canada-agreement-correction/)** — `2024-12-12` | `2 Pages`
 
-### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
-
-- `[`2025-02741`]` **[HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs; Correction](https://www.indexdata.org/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs-correction-2/)** — `2025-02-18` | `3 Pages`
-- `[`2024-29267`]` **[Government Contracting: Subcontracting Program](https://www.indexdata.org/government-contracting-subcontracting-program/)** — `2024-12-19` | `9 Pages`
-- `[`2024-29706`]` **[ALP Express Pilot to Permanent Status](https://www.indexdata.org/alp-express-pilot-to-permanent-status/)** — `2024-12-18` | `5 Pages`
-- `[`2024-29393`]` **[HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs](https://www.indexdata.org/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs/)** — `2024-12-17` | `63 Pages`
-- `[`2024-28200`]` **[Women-Owned Small Business Federal Contract Program Updates and Clarifications](https://www.indexdata.org/women-owned-small-business-federal-contract-program-updates-and-clarifications/)** — `2024-12-04` | `7 Pages`
-
 ### [Commodity Futures Trading Commission](https://www.indexdata.org/united-states/commodity-futures-trading-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-futures-trading-commission/](https://www.indexdata.org/united-states/commodity-futures-trading-commission/) | [RSS Feed](https://www.indexdata.org/united-states/commodity-futures-trading-commission/feed/)
 
@@ -1858,6 +1850,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-reg
 - `[`2025-03042`]` **[Market Dominant Postal Products](https://www.indexdata.org/market-dominant-postal-products/)** — `2025-02-26` | `3 Pages`
 - `[`2025-00153`]` **[Periodic Reporting](https://www.indexdata.org/periodic-reporting-9/)** — `2025-01-21` | `2 Pages`
 - `[`2024-29090`]` **[Streamlined Negotiated Service Agreement Review and New Postal Product](https://www.indexdata.org/streamlined-negotiated-service-agreement-review-and-new-postal-product/)** — `2024-12-12` | `3 Pages`
+
+### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
+
+- `[`2025-02741`]` **[HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs; Correction](https://www.indexdata.org/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs-correction-2/)** — `2025-02-18` | `3 Pages`
+- `[`2024-29267`]` **[Government Contracting: Subcontracting Program](https://www.indexdata.org/government-contracting-subcontracting-program/)** — `2024-12-19` | `9 Pages`
+- `[`2024-29706`]` **[ALP Express Pilot to Permanent Status](https://www.indexdata.org/alp-express-pilot-to-permanent-status/)** — `2024-12-18` | `5 Pages`
+- `[`2024-29393`]` **[HUBZone Program Updates and Clarifications, and Clarifications to Other Small Business Programs](https://www.indexdata.org/hubzone-program-updates-and-clarifications-and-clarifications-to-other-small-business-programs/)** — `2024-12-17` | `63 Pages`
 
 ### [State Department](https://www.indexdata.org/united-states/state-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)

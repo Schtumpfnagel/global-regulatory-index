@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,780` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 12:58 UTC`
+**Last Automated Sync:** `2026-11-28 13:59 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`394` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,779)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,780)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1072,7 +1072,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2024-07252`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Pollock in Statistical Area 610 in the Gulf of Alaska](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-pollock-in-statistical-area-610-in-the-gulf-of-alaska/)** — `2024-04-05` | `2 Pages`
 - `[`2024-07115`]` **[Fisheries of the Exclusive Economic Zone off Alaska; Amendment 113 to the Fishery Management Plan for the Groundfish of the Gulf of Alaska; Central Gulf of Alaska Rockfish Program Adjustments](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-amendment-113-to-the-fishery-management-plan-for-the-groundfish-of-the-gulf-of-alaska-central-gulf-of-alaska-rockfish-program-adjustments-3/)** — `2024-04-04` | `2 Pages`
 - `[`2024-07015`]` **[Pacific Halibut Fisheries of the West Coast; 2023 Catch Sharing Plan and Recreational Management Measures](https://www.indexdata.org/pacific-halibut-fisheries-of-the-west-coast-2023-catch-sharing-plan-and-recreational-management-measures/)** — `2024-04-03` | `5 Pages`
-- `[`2024-06775`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2023-2024 Biennial Specifications and Management Measures; Inseason Adjustments](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2023-2024-biennial-specifications-and-management-measures-inseason-adjustments-3/)** — `2024-04-01` | `11 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1852,6 +1851,13 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-to
 - `[`2024-08339`]` **[Bipartisan Safer Communities Act Conforming Regulations](https://www.indexdata.org/bipartisan-safer-communities-act-conforming-regulations/)** — `2024-04-19` | `12 Pages`
 - `[`2024-07838`]` **[Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.indexdata.org/definition-of-engaged-in-the-business-as-a-dealer-in-firearms/)** — `2024-04-19` | `126 Pages`
 
+### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+
+- `[`2024-16729`]` **[Regulatory Publication and Review Under the Economic Growth and Regulatory Paperwork Reduction Act of 1996](https://www.indexdata.org/regulatory-publication-and-review-under-the-economic-growth-and-regulatory-paperwork-reduction-act-of-1996/)** — `2024-08-01` | `7 Pages`
+- `[`2024-16200`]` **[Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations](https://www.indexdata.org/interagency-guidance-on-reconsiderations-of-value-of-residential-real-estate-valuations/)** — `2024-07-26` | `10 Pages`
+- `[`2024-13960`]` **[OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches-2/)** — `2024-07-03` | `7 Pages`
+
 ### [Equal Employment Opportunity Commission](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/equal-employment-opportunity-commission/](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/) | [RSS Feed](https://www.indexdata.org/united-states/equal-employment-opportunity-commission/feed/)
 
@@ -1975,12 +1981,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/commodity-
 
 - `[`2024-14412`]` **[Emergency Assistance for Livestock, Honeybees, and Farm-Raised Fish Program (ELAP)](https://www.indexdata.org/emergency-assistance-for-livestock-honeybees-and-farm-raised-fish-program-elap/)** — `2024-07-01` | `6 Pages`
 - `[`2024-10162`]` **[Dairy Margin Coverage Production History Adjustment and Program Extension; Correction](https://www.indexdata.org/dairy-margin-coverage-production-history-adjustment-and-program-extension-correction/)** — `2024-05-09` | `2 Pages`
-
-### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
-
-- `[`2024-16200`]` **[Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations](https://www.indexdata.org/interagency-guidance-on-reconsiderations-of-value-of-residential-real-estate-valuations/)** — `2024-07-26` | `10 Pages`
-- `[`2024-13960`]` **[OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches-2/)** — `2024-07-03` | `7 Pages`
 
 ### [Copyright Office, Library of Congress](https://www.indexdata.org/united-states/copyright-office-library-of-congress/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/copyright-office-library-of-congress/](https://www.indexdata.org/united-states/copyright-office-library-of-congress/) | [RSS Feed](https://www.indexdata.org/united-states/copyright-office-library-of-congress/feed/)

@@ -4,8 +4,8 @@
 **Canonical Jurisdiction Archive Hub:** [https://www.indexdata.org/international/](https://www.indexdata.org/international/)  
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/international/feed/](https://www.indexdata.org/international/feed/)  
 **Governing Open-Government Framework:** *WB OA Policy / CC BY 3.0 IGO & CC BY 4.0*  
-**Total Indexed Dossiers in International:** `1,368` across `29` issuing authorities  
-**Last Automated Sync:** `2026-11-28 12:58 UTC`
+**Total Indexed Dossiers in International:** `1,369` across `29` issuing authorities  
+**Last Automated Sync:** `2026-11-28 13:59 UTC`
 
 ---
 
@@ -14,7 +14,7 @@
 - **[European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)** (`264` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/) | [Wikidata `Q1377617`](https://www.wikidata.org/wiki/Q1377617)
 - **[Food and Agriculture Organization (FAO)](https://www.indexdata.org/international/food-and-agriculture-organization-fao/)** (`227` dossiers) — [Authority Archive](https://www.indexdata.org/international/food-and-agriculture-organization-fao/) | [RSS Feed](https://www.indexdata.org/international/food-and-agriculture-organization-fao/feed/) | [Wikidata `Q82151`](https://www.wikidata.org/wiki/Q82151)
 - **[World Bank](https://www.indexdata.org/international/world-bank/)** (`215` dossiers) — [Authority Archive](https://www.indexdata.org/international/world-bank/) | [RSS Feed](https://www.indexdata.org/international/world-bank/feed/) | [Wikidata `Q7164`](https://www.wikidata.org/wiki/Q7164)
-- **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`112` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
+- **[European Food Safety Authority (EFSA)](https://www.indexdata.org/international/european-food-safety-authority-efsa/)** (`113` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-food-safety-authority-efsa/) | [RSS Feed](https://www.indexdata.org/international/european-food-safety-authority-efsa/feed/) | [Wikidata `Q899683`](https://www.wikidata.org/wiki/Q899683)
 - **[European Centre for Disease Prevention and Control (ECDC)](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/) | [RSS Feed](https://www.indexdata.org/international/european-centre-for-disease-prevention-and-control-ecdc/feed/) | [Wikidata `Q806640`](https://www.wikidata.org/wiki/Q806640)
 - **[Organisation for Economic Co-operation and Development (OECD)](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/)** (`108` dossiers) — [Authority Archive](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/) | [RSS Feed](https://www.indexdata.org/international/organisation-for-economic-co-operation-and-development-oecd/feed/) | [Wikidata `Q41550`](https://www.wikidata.org/wiki/Q41550)
 - **[European Court of Auditors (ECA)](https://www.indexdata.org/international/european-court-of-auditors-eca/)** (`83` dossiers) — [Authority Archive](https://www.indexdata.org/international/european-court-of-auditors-eca/) | [RSS Feed](https://www.indexdata.org/international/european-court-of-auditors-eca/feed/) | [Wikidata `Q8919`](https://www.wikidata.org/wiki/Q8919)
@@ -43,7 +43,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,368 of 1,368)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,369 of 1,369)
 
 ### [European Securities and Markets Authority (ESMA)](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/)
 Canonical Authority Archive: [https://www.indexdata.org/international/european-securities-and-markets-authority-esma/](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/) | [RSS Feed](https://www.indexdata.org/international/european-securities-and-markets-authority-esma/feed/)
@@ -835,6 +835,7 @@ Canonical Authority Archive: [https://www.indexdata.org/international/european-f
 - `[`EFSA-OA-W4398223276`]` **[Azithromycin resistance in Escherichia coli and Salmonella from food-producing animals and meat in Europe](https://www.indexdata.org/azithromycin-resistance-in-escherichia-coli-and-salmonella-from-food-producing-animals-and-meat-in-europe/)** — `2024-05-09` | `11 Pages`
 - `[`EFSA-OA-W4396609676`]` **[Novel foods, food enzymes, and food additives derived from food by-products of plant or animal origin: principles and overview of the EFSA safety assessment](https://www.indexdata.org/novel-foods-food-enzymes-and-food-additives-derived-from-food-by-products-of-plant-or-animal-origin-principles-and-overview-of-the-efsa-safety-assessment/)** — `2024-05-03` | `16 Pages`
 - `[`EFSA-CELLAR-9A9C93E8-068E-11EF-A251-01AA75ED71A1`]` **[Statement of revenue and expenditure for the 2024 financial year – European Food Safety Authority (EFSA) – amending budget No 1](https://www.indexdata.org/statement-of-revenue-and-expenditure-for-the-2024-financial-year-european-food-safety-authority-efsa-amending-budget-no-1/)** — `2024-04-30` | `7 Pages`
+- `[`EFSA-KJ-8389037`]` **[EFSA Climate Suitability Analysis of Retithrips syriacus](https://www.indexdata.org/efsa-climate-suitability-analysis-of-retithrips-syriacus/)** — `2024-04-29` | `16 Pages`
 - `[`EFSA-OA-W4392806884`]` **[Determination of in vitro immunotoxic potencies of a series of perfluoralkylsubstances (PFASs) in human Namalwa B lymphocyte and human Jurkat T lymphocyte cells](https://www.indexdata.org/determination-of-in-vitro-immunotoxic-potencies-of-a-series-of-perfluoralkylsubstances-pfass-in-human-namalwa-b-lymphocyte-and-human-jurkat-t-lymphocyte-cells/)** — `2024-03-14` | `15 Pages`
 - `[`EFSA-CELLAR-A7F30937-D6A3-11EE-B9D9-01AA75ED71A1`]` **[Statement of revenue and expenditure for the 2024 financial year – European Food Safety Authority (EFSA)](https://www.indexdata.org/statement-of-revenue-and-expenditure-for-the-2024-financial-year-european-food-safety-authority-efsa/)** — `2024-02-29` | `7 Pages`
 - `[`EFSA-OA-W4391945199`]` **[Research gaps and future needs for allergen prediction in food safety](https://www.indexdata.org/research-gaps-and-future-needs-for-allergen-prediction-in-food-safety/)** — `2024-02-19` | `7 Pages`

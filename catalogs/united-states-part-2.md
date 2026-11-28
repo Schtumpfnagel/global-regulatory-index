@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,780` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 12:58 UTC`
+**Last Automated Sync:** `2026-11-28 13:59 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`394` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,779)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,780)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -750,6 +750,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
 
+- `[`2026-20638`]` **[Approval and Promulgation of State Implementation Plans; New Jersey; RACT Certifications for the 2008 and 2015 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/approval-and-promulgation-of-state-implementation-plans-new-jersey-ract-certifications-for-the-2008-and-2015-ozone-national-ambient-air-quality-standards-2/)** — `2026-10-08` | `7 Pages`
 - `[`2026-20636`]` **[Air Plan Approval; GA; Removal of Nonattainment Area New Source Review](https://www.indexdata.org/air-plan-approval-ga-removal-of-nonattainment-area-new-source-review/)** — `2026-10-08` | `8 Pages`
 - `[`2026-20635`]` **[Air Plan Approval; Maryland; Reasonably Available Control Technology for Municipal Waste Combustors](https://www.indexdata.org/air-plan-approval-maryland-reasonably-available-control-technology-for-municipal-waste-combustors/)** — `2026-10-08` | `5 Pages`
 - `[`2026-20634`]` **[Air Plan Approval; Missouri; Construction Permit Exemptions](https://www.indexdata.org/air-plan-approval-missouri-construction-permit-exemptions/)** — `2026-10-08` | `3 Pages`
@@ -896,7 +897,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-12426`]` **[EPCRA Hazardous Chemical Inventory Reporting Requirements: Conformity With the 2024 OSHA Hazard Communication Standard](https://www.indexdata.org/epcra-hazardous-chemical-inventory-reporting-requirements-conformity-with-the-2024-osha-hazard-communication-standard/)** — `2026-06-22` | `22 Pages`
 - `[`2026-12424`]` **[Congressional Review Act Revocation of 2024 Amendments to the National Emission Standards for Hazardous Air Pollutants: Rubber Tire Manufacturing](https://www.indexdata.org/congressional-review-act-revocation-of-2024-amendments-to-the-national-emission-standards-for-hazardous-air-pollutants-rubber-tire-manufacturing/)** — `2026-06-22` | `33 Pages`
 - `[`2026-12417`]` **[Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities-March 2026](https://www.indexdata.org/receipt-of-pesticide-petitions-filed-for-residues-of-pesticide-chemicals-in-or-on-various-commodities-march-2026/)** — `2026-06-22` | `2 Pages`
-- `[`2026-12415`]` **[Air Plan Approval; OR; Update to Materials Incorporated by Reference](https://www.indexdata.org/air-plan-approval-or-update-to-materials-incorporated-by-reference/)** — `2026-06-22` | `28 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)

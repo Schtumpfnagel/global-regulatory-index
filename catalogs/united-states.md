@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,780` across `249` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 12:58 UTC`
+**Last Automated Sync:** `2026-11-28 13:59 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`394` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,779)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,780)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -334,6 +334,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-
 - `[`US-CRPT-119hrpt853`]` **[H. Rept. 119-853](https://www.indexdata.org/h-rept-119-853/)** — `2026-11-02` | `11 Pages`
 - `[`US-CHRG-119hhrg65540`]` **[Serial No. 119-44 - BUILDING AN AI-READY AMERICA: ADOPTING AI AT WORK](https://www.indexdata.org/serial-no-119-44-building-an-ai-ready-america-adopting-ai-at-work/)** — `2026-11-02` | `98 Pages`
 - `[`US-CRPT-119hrpt886`]` **[H. Rept. 119-886](https://www.indexdata.org/h-rept-119-886/)** — `2026-11-01` | `216 Pages`
+- `[`US-CRPT-119hrpt884`]` **[H. Rept. 119-884](https://www.indexdata.org/h-rept-119-884/)** — `2026-11-01` | `12 Pages`
 - `[`US-CRPT-119hrpt883`]` **[H. Rept. 119-883](https://www.indexdata.org/h-rept-119-883/)** — `2026-11-01` | `13 Pages`
 - `[`US-CRPT-119hrpt882`]` **[H. Rept. 119-882](https://www.indexdata.org/h-rept-119-882/)** — `2026-11-01` | `13 Pages`
 - `[`US-CRPT-119hrpt881`]` **[H. Rept. 119-881](https://www.indexdata.org/h-rept-119-881/)** — `2026-11-01` | `3 Pages`
@@ -1197,7 +1198,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 - `[`2026-20736`]` **[Air Plan Approval; Michigan; Clean Data Determination for the Berrien, MI and Muskegon, MI Areas for the 2015 Ozone Standards](https://www.indexdata.org/air-plan-approval-michigan-clean-data-determination-for-the-berrien-mi-and-muskegon-mi-areas-for-the-2015-ozone-standards/)** — `2026-10-09` | `6 Pages`
 - `[`2026-20641`]` **[Air Plan Approval; Kentucky; Louisville Area Limited Maintenance Plan for the 1997 8-Hour Ozone NAAQS](https://www.indexdata.org/air-plan-approval-kentucky-louisville-area-limited-maintenance-plan-for-the-1997-8-hour-ozone-naaqs-2/)** — `2026-10-08` | `5 Pages`
 - `[`2026-20640`]` **[Air Plan Approval; Oklahoma; Interstate Transport Requirements for the 2010 SO2 NAAQS](https://www.indexdata.org/air-plan-approval-oklahoma-interstate-transport-requirements-for-the-2010-so2-naaqs/)** — `2026-10-08` | `4 Pages`
-- `[`2026-20638`]` **[Approval and Promulgation of State Implementation Plans; New Jersey; RACT Certifications for the 2008 and 2015 Ozone National Ambient Air Quality Standards](https://www.indexdata.org/approval-and-promulgation-of-state-implementation-plans-new-jersey-ract-certifications-for-the-2008-and-2015-ozone-national-ambient-air-quality-standards-2/)** — `2026-10-08` | `7 Pages`
 
 ### [U.S. Geological Survey (USGS)](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-geological-survey-usgs/](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-geological-survey-usgs/feed/)

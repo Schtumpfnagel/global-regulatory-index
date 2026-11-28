@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,780` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 12:58 UTC`
+**Last Automated Sync:** `2026-11-28 13:59 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`394` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,779)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,780)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1037,7 +1037,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-o
 - `[`2023-15680`]` **[Shore Leave for Professional Mariners of the National Oceanic and Atmospheric Administration](https://www.indexdata.org/shore-leave-for-professional-mariners-of-the-national-oceanic-and-atmospheric-administration/)** — `2023-07-28` | `3 Pages`
 - `[`2023-15924`]` **[Fisheries of the Northeastern United States; the 2023-2025 Specifications for the Atlantic Mackerel, Squid, and Butterfish Fishery Management Plan](https://www.indexdata.org/fisheries-of-the-northeastern-united-states-the-2023-2025-specifications-for-the-atlantic-mackerel-squid-and-butterfish-fishery-management-plan/)** — `2023-07-27` | `4 Pages`
 - `[`2023-15915`]` **[Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2023 Area 2A Pacific Halibut Directed Commercial Fishery](https://www.indexdata.org/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2023-area-2a-pacific-halibut-directed-commercial-fishery/)** — `2023-07-27` | `2 Pages`
-- `[`2023-15818`]` **[Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Harpoon Category Quota Transfer](https://www.indexdata.org/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-harpoon-category-quota-transfer-3/)** — `2023-07-26` | `2 Pages`
 
 ### [Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-communications-commission/](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
@@ -1196,6 +1195,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/nuclear-re
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
 
+- `[`2023-25982`]` **[Privacy Act of 1974: Implementation of Exemptions](https://www.indexdata.org/privacy-act-of-1974-implementation-of-exemptions-6/)** — `2023-11-27` | `5 Pages`
 - `[`2023-25923`]` **[Organizational Changes in Certain Department of Energy Health, Safety, and Security Regulations; Correction](https://www.indexdata.org/organizational-changes-in-certain-department-of-energy-health-safety-and-security-regulations-correction/)** — `2023-11-24` | `2 Pages`
 - `[`2023-24106`]` **[Energy Conservation Program: Energy Conservation Standards for Dehumidifiers](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-dehumidifiers/)** — `2023-11-06` | `64 Pages`
 - `[`2023-16875`]` **[Department of Energy Acquisition Regulation (DEAR)](https://www.indexdata.org/department-of-energy-acquisition-regulation-dear-2/)** — `2023-10-26` | `106 Pages`

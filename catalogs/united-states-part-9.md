@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,780` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | **[Part 9 (Current)]** | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 12:58 UTC`
+**Last Automated Sync:** `2026-11-28 13:59 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`394` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,779)
+## Indexed Statutory & Regulatory Dossiers (Records 12,001–13,500 of 15,780)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -815,6 +815,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/environmen
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 
+- `[`2024-06775`]` **[Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2023-2024 Biennial Specifications and Management Measures; Inseason Adjustments](https://www.indexdata.org/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery-2023-2024-biennial-specifications-and-management-measures-inseason-adjustments-3/)** — `2024-04-01` | `11 Pages`
 - `[`2024-04965`]` **[Fisheries Off West Coast States; Emergency Action To Temporarily Modify Continuous Transit Limitations for California Recreational Vessels](https://www.indexdata.org/fisheries-off-west-coast-states-emergency-action-to-temporarily-modify-continuous-transit-limitations-for-california-recreational-vessels/)** — `2024-04-01` | `4 Pages`
 - `[`2024-06738`]` **[Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Catcher Vessels Less Than 50 Feet Length Overall Using Hook-and-Line Gear in the Central Regulatory Area of the Gulf of Alaska](https://www.indexdata.org/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcher-vessels-less-than-50-feet-length-overall-using-hook-and-line-gear-in-the-central-regulatory-area-of-the-gulf-of-alaska-2/)** — `2024-03-29` | `2 Pages`
 - `[`2024-06534`]` **[Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; 2024 Commercial Accountability Measure and Catch Limit Reduction for Gag in the South Atlantic](https://www.indexdata.org/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-2024-commercial-accountability-measure-and-catch-limit-reduction-for-gag-in-the-south-atlantic/)** — `2024-03-27` | `2 Pages`
@@ -1176,7 +1177,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-dep
 - `[`2023-26479`]` **[Interpretation of Foreign Entity of Concern](https://www.indexdata.org/interpretation-of-foreign-entity-of-concern-2/)** — `2023-12-04` | `8 Pages`
 - `[`2023-25921`]` **[Energy Conservation Program: Test Procedure for Water-Source Heat Pumps](https://www.indexdata.org/energy-conservation-program-test-procedure-for-water-source-heat-pumps/)** — `2023-12-04` | `45 Pages`
 - `[`2023-25869`]` **[Energy Conservation Program: Energy Conservation Standards for Oil, Electric, and Weatherized Gas Consumer Furnaces](https://www.indexdata.org/energy-conservation-program-energy-conservation-standards-for-oil-electric-and-weatherized-gas-consumer-furnaces-2/)** — `2023-11-29` | `38 Pages`
-- `[`2023-25982`]` **[Privacy Act of 1974: Implementation of Exemptions](https://www.indexdata.org/privacy-act-of-1974-implementation-of-exemptions-6/)** — `2023-11-27` | `5 Pages`
 
 ### [Agricultural Marketing Service](https://www.indexdata.org/united-states/agricultural-marketing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/agricultural-marketing-service/](https://www.indexdata.org/united-states/agricultural-marketing-service/) | [RSS Feed](https://www.indexdata.org/united-states/agricultural-marketing-service/feed/)

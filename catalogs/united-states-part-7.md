@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,779` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,780` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | **[Part 7 (Current)]** | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 12:58 UTC`
+**Last Automated Sync:** `2026-11-28 13:59 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Coast Guard](https://www.indexdata.org/united-states/coast-guard/)** (`1,190` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/coast-guard/) | [RSS Feed](https://www.indexdata.org/united-states/coast-guard/feed/)
 - **[National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)** (`912` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
 - **[Federal Communications Commission](https://www.indexdata.org/united-states/federal-communications-commission/)** (`534` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/federal-communications-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-communications-commission/feed/)
-- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`393` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
+- **[U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)** (`394` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/united-states/food-and-drug-administration/)** (`311` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/united-states/food-and-drug-administration/feed/)
 - **[Fish and Wildlife Service](https://www.indexdata.org/united-states/fish-and-wildlife-service/)** (`282` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/fish-and-wildlife-service/) | [RSS Feed](https://www.indexdata.org/united-states/fish-and-wildlife-service/feed/)
 - **[Energy Department](https://www.indexdata.org/united-states/energy-department/)** (`261` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,779)
+## Indexed Statutory & Regulatory Dossiers (Records 9,001–10,500 of 15,780)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -1513,6 +1513,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/consumer-f
 ### [Small Business Administration](https://www.indexdata.org/united-states/small-business-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/small-business-administration/](https://www.indexdata.org/united-states/small-business-administration/) | [RSS Feed](https://www.indexdata.org/united-states/small-business-administration/feed/)
 
+- `[`2024-28200`]` **[Women-Owned Small Business Federal Contract Program Updates and Clarifications](https://www.indexdata.org/women-owned-small-business-federal-contract-program-updates-and-clarifications/)** — `2024-12-04` | `7 Pages`
 - `[`2024-27028`]` **[Disaster Assistance Loan Program Updates](https://www.indexdata.org/disaster-assistance-loan-program-updates/)** — `2024-11-20` | `4 Pages`
 - `[`2024-26831`]` **[Surety Bond Guarantee Program: Streamlining and Modernizing](https://www.indexdata.org/surety-bond-guarantee-program-streamlining-and-modernizing/)** — `2024-11-19` | `8 Pages`
 - `[`2024-24716`]` **[Small Business Contracting: Increasing Small Business Participation on Multiple Award Contracts](https://www.indexdata.org/small-business-contracting-increasing-small-business-participation-on-multiple-award-contracts/)** — `2024-10-25` | `6 Pages`
@@ -1673,17 +1674,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/alcohol-an
 - `[`2024-19578`]` **[Establishment of the San Luis Rey Viticultural Area](https://www.indexdata.org/establishment-of-the-san-luis-rey-viticultural-area/)** — `2024-08-30` | `4 Pages`
 - `[`2024-19415`]` **[Proposed Establishment of the Rancho Guejito Viticultural Area](https://www.indexdata.org/proposed-establishment-of-the-rancho-guejito-viticultural-area/)** — `2024-08-29` | `8 Pages`
 
-### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
-
-- `[`2024-24402`]` **[OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches/)** — `2024-10-22` | `7 Pages`
-- `[`2024-23277`]` **[Appraisals for Higher-Priced Mortgage Loans Exemption Threshold](https://www.indexdata.org/appraisals-for-higher-priced-mortgage-loans-exemption-threshold-2/)** — `2024-10-15` | `4 Pages`
-- `[`2024-21560`]` **[Business Combinations Under the Bank Merger Act](https://www.indexdata.org/business-combinations-under-the-bank-merger-act/)** — `2024-09-25` | `15 Pages`
-- `[`2024-18415`]` **[Financial Data Transparency Act Joint Data Standards](https://www.indexdata.org/financial-data-transparency-act-joint-data-standards-2/)** — `2024-08-22` | `19 Pages`
-- `[`2024-16546`]` **[Anti-Money Laundering and Countering the Financing of Terrorism Program Requirements](https://www.indexdata.org/anti-money-laundering-and-countering-the-financing-of-terrorism-program-requirements/)** — `2024-08-09` | `23 Pages`
-- `[`2024-16197`]` **[Quality Control Standards for Automated Valuation Models](https://www.indexdata.org/quality-control-standards-for-automated-valuation-models/)** — `2024-08-07` | `43 Pages`
-- `[`2024-16729`]` **[Regulatory Publication and Review Under the Economic Growth and Regulatory Paperwork Reduction Act of 1996](https://www.indexdata.org/regulatory-publication-and-review-under-the-economic-growth-and-regulatory-paperwork-reduction-act-of-1996/)** — `2024-08-01` | `7 Pages`
-
 ### [Drug Enforcement Administration](https://www.indexdata.org/united-states/drug-enforcement-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enforcement-administration/](https://www.indexdata.org/united-states/drug-enforcement-administration/) | [RSS Feed](https://www.indexdata.org/united-states/drug-enforcement-administration/feed/)
 
@@ -1738,6 +1728,16 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-hous
 - `[`2024-23506`]` **[Single Family Housing Section 502 Direct and Guaranteed Manufactured Housing Pilots](https://www.indexdata.org/single-family-housing-section-502-direct-and-guaranteed-manufactured-housing-pilots/)** — `2024-10-11` | `3 Pages`
 - `[`2024-21404`]` **[Single Family Housing Guaranteed Loan Program](https://www.indexdata.org/single-family-housing-guaranteed-loan-program-2/)** — `2024-09-19` | `5 Pages`
 - `[`2024-18291`]` **[Single Family Housing Guaranteed Loan Program Changes Related to Special Servicing Options](https://www.indexdata.org/single-family-housing-guaranteed-loan-program-changes-related-to-special-servicing-options/)** — `2024-08-15` | `6 Pages`
+
+### [Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/comptroller-of-the-currency/](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
+
+- `[`2024-24402`]` **[OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches](https://www.indexdata.org/occ-guidelines-establishing-standards-for-recovery-planning-by-certain-large-insured-national-banks-insured-federal-savings-associations-and-insured-federal-branches/)** — `2024-10-22` | `7 Pages`
+- `[`2024-23277`]` **[Appraisals for Higher-Priced Mortgage Loans Exemption Threshold](https://www.indexdata.org/appraisals-for-higher-priced-mortgage-loans-exemption-threshold-2/)** — `2024-10-15` | `4 Pages`
+- `[`2024-21560`]` **[Business Combinations Under the Bank Merger Act](https://www.indexdata.org/business-combinations-under-the-bank-merger-act/)** — `2024-09-25` | `15 Pages`
+- `[`2024-18415`]` **[Financial Data Transparency Act Joint Data Standards](https://www.indexdata.org/financial-data-transparency-act-joint-data-standards-2/)** — `2024-08-22` | `19 Pages`
+- `[`2024-16546`]` **[Anti-Money Laundering and Countering the Financing of Terrorism Program Requirements](https://www.indexdata.org/anti-money-laundering-and-countering-the-financing-of-terrorism-program-requirements/)** — `2024-08-09` | `23 Pages`
+- `[`2024-16197`]` **[Quality Control Standards for Automated Valuation Models](https://www.indexdata.org/quality-control-standards-for-automated-valuation-models/)** — `2024-08-07` | `43 Pages`
 
 ### [Federal Election Commission](https://www.indexdata.org/united-states/federal-election-commission/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-election-commission/](https://www.indexdata.org/united-states/federal-election-commission/) | [RSS Feed](https://www.indexdata.org/united-states/federal-election-commission/feed/)
