@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `634` across `12` issuing authorities  
-**Last Automated Sync:** `2026-11-28 13:59 UTC`
+**Total Indexed Dossiers in Philippines:** `636` across `12` issuing authorities  
+**Last Automated Sync:** `2026-11-28 14:41 UTC`
 
 ---
 
@@ -15,7 +15,7 @@
 - **[Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)** (`207` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
 - **[Food and Drug Administration](https://www.indexdata.org/philippines/food-and-drug-administration/)** (`106` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-drug-administration/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-drug-administration/feed/)
 - **[National Privacy Commission](https://www.indexdata.org/philippines/national-privacy-commission/)** (`80` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/national-privacy-commission/) | [RSS Feed](https://www.indexdata.org/philippines/national-privacy-commission/feed/)
-- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`76` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
+- **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`78` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
 - **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
@@ -27,7 +27,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–634 of 634)
+## Indexed Statutory & Regulatory Dossiers (Records 1–636 of 636)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -437,6 +437,8 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/national-pri
 ### [Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/maritime-industry-authority/](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 
+- `[`PH-MARINA-26379`]` **[mPhilgeps Posting CPMRS Glass Doors and Windows](https://www.indexdata.org/mphilgeps-posting-cpmrs-glass-doors-and-windows/)** — `2026-11-28` | `3 Pages`
+- `[`PH-MARINA-26378`]` **[Request for Quotation – CPMRS of Aluminim and Glass Doors and Windows (2nd Posting)](https://www.indexdata.org/request-for-quotation-cpmrs-of-aluminim-and-glass-doors-and-windows-2nd-posting/)** — `2026-11-28` | `11 Pages`
 - `[`PH-MARINA-26365`]` **[SBB No. 01 Annexes A-C MRO8 F&F](https://www.indexdata.org/sbb-no-01-annexes-a-c-mro8-ff/)** — `2026-11-27` | `26 Pages`
 - `[`PH-MARINA-26364`]` **[PHILGEPS POSTING MRO8 F&F](https://www.indexdata.org/philgeps-posting-mro8-ff-2/)** — `2026-11-27` | `3 Pages`
 - `[`PH-MARINA-26361`]` **[BIDDING DOCUMENTS MRO8 F&F](https://www.indexdata.org/bidding-documents-mro8-ff-2/)** — `2026-11-27` | `106 Pages`
