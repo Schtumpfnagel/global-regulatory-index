@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,754` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | **[Part 8 (Current)]** | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 06:01 UTC`
+**Last Automated Sync:** `2026-11-28 06:55 UTC`
 
 ---
 
@@ -59,7 +59,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`54` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -265,11 +265,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,753)
+## Indexed Statutory & Regulatory Dossiers (Records 10,501–12,000 of 15,754)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2024-16644`]` **[Amendment of Class D Airspace; Dallas, TX](https://www.indexdata.org/amendment-of-class-d-airspace-dallas-tx/)** — `2024-07-30` | `2 Pages`
 - `[`2024-16517`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-4/)** — `2024-07-29` | `4 Pages`
 - `[`2024-16474`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-206/)** — `2024-07-29` | `3 Pages`
 - `[`2024-16473`]` **[Airworthiness Directives; CFM International, S.A. Engines](https://www.indexdata.org/airworthiness-directives-cfm-international-s-a-engines-19/)** — `2024-07-29` | `4 Pages`
@@ -1116,7 +1117,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2024-06292`]` **[Connect America Fund, Alaska Connect Fund, ETC Annual Reports and Certifications, Telecommunications Carriers Eligible To Receive Universal Service Support, Universal Service Reform-Mobility Fund](https://www.indexdata.org/connect-america-fund-alaska-connect-fund-etc-annual-reports-and-certifications-telecommunications-carriers-eligible-to-receive-universal-service-support-universal-service-reform-mobility-fund-3/)** — `2024-04-10` | `17 Pages`
 - `[`2024-07170`]` **[Facilitating Shared Use in the 3100-3550 MHz Band; Correction](https://www.indexdata.org/facilitating-shared-use-in-the-3100-3550-mhz-band-correction-2/)** — `2024-04-04` | `2 Pages`
 - `[`2024-06664`]` **[Amendments to Resilient Networks Disruptions to Communications; New Considerations Concerning Disruptions to Communications](https://www.indexdata.org/amendments-to-resilient-networks-disruptions-to-communications-new-considerations-concerning-disruptions-to-communications/)** — `2024-03-29` | `10 Pages`
-- `[`2024-06616`]` **[Radio Broadcasting Services; Mattoon, Illinois](https://www.indexdata.org/radio-broadcasting-services-mattoon-illinois/)** — `2024-03-28` | `2 Pages`
 
 ### [Energy Department](https://www.indexdata.org/united-states/energy-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/energy-department/](https://www.indexdata.org/united-states/energy-department/) | [RSS Feed](https://www.indexdata.org/united-states/energy-department/feed/)

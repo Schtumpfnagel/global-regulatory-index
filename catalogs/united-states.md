@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,754` across `249` issuing authorities  
 **Catalog Volumes:** **[Part 1 (Current)]** | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 06:01 UTC`
+**Last Automated Sync:** `2026-11-28 06:55 UTC`
 
 ---
 
@@ -59,7 +59,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`54` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,753)
+## Indexed Statutory & Regulatory Dossiers (Records 1–1,500 of 15,754)
 
 ### [U.S. House of Representatives](https://www.indexdata.org/united-states/u-s-house-of-representatives/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-house-of-representatives/](https://www.indexdata.org/united-states/u-s-house-of-representatives/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-house-of-representatives/feed/)
@@ -807,6 +807,7 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/united-sta
 ### [U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-department-of-energy-doe/](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 
+- `[`US-DOE-OSTI-17430518`]` **[Heteroepitaxial growth of PbSe on InP via III–V buffer layers](https://www.indexdata.org/heteroepitaxial-growth-of-pbse-on-inp-via-iii-v-buffer-layers/)** — `2026-11-28` | `9 Pages`
 - `[`US-DOE-OSTI-3877591`]` **[Strategy and performance of the CMS long-lived particle trigger program in proton–proton collisions at $\sqrt{s}$ = 13.6 TeV](https://www.indexdata.org/strategy-and-performance-of-the-cms-long-lived-particle-trigger-program-in-proton-proton-collisions-at-sqrts-13-6-tev/)** — `2026-11-25` | `83 Pages`
 - `[`US-DOE-OSTI-17429932`]` **[Life cycle carbon, energy, and water impacts of isobutanol and sustainable aviation fuel from pea starch](https://www.indexdata.org/life-cycle-carbon-energy-and-water-impacts-of-isobutanol-and-sustainable-aviation-fuel-from-pea-starch-2/)** — `2026-11-25` | `10 Pages`
 - `[`US-DOE-OSTI-17429768`]` **[Simplicity and completeness in CuOx/CeO2 catalyst synthesis via one-pot chemical vapor deposition for efficient CO2 conversion via RWGS reaction](https://www.indexdata.org/simplicity-and-completeness-in-cuox-ceo2-catalyst-synthesis-via-one-pot-chemical-vapor-deposition-for-efficient-co2-conversion-via-rwgs-reaction/)** — `2026-11-23` | `43 Pages`
@@ -1763,15 +1764,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/financial-
 - `[`2026-22962`]` **[Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global](https://www.indexdata.org/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global/)** — `2026-11-10` | `8 Pages`
 - `[`2026-22809`]` **[Threshold for the Requirement To Collect, Retain, and Transmit Information on Funds Transfers and Transmittals of Funds That Begin or End Outside the United States, and Clarification of the Requirement To Collect, Retain, and Transmit Information on Transactions Involving Convertible Virtual Currencies and Digital Assets With Legal Tender Status; Withdrawal](https://www.indexdata.org/threshold-for-the-requirement-to-collect-retain-and-transmit-information-on-funds-transfers-and-transmittals-of-funds-that-begin-or-end-outside-the-united-states-and-clarification-of-the-requiremen/)** — `2026-11-08` | `2 Pages`
 
-### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
-
-- `[`2026-24129`]` **[Locatable Minerals](https://www.indexdata.org/locatable-minerals-2/)** — `2026-11-26` | `2 Pages`
-- `[`2026-22296`]` **[Administrative Site Leases](https://www.indexdata.org/administrative-site-leases-2/)** — `2026-10-31` | `4 Pages`
-- `[`2026-21849`]` **[Subsistence Management Regulations for Public Lands in Alaska-2026-27 and 2027-28 Subsistence Taking of Wildlife Regulations](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-2026-27-and-2027-28-subsistence-taking-of-wildlife-regulations-2/)** — `2026-10-27` | `47 Pages`
-- `[`2026-20890`]` **[Project-Level Predecisional Administrative Review Process](https://www.indexdata.org/project-level-predecisional-administrative-review-process/)** — `2026-10-13` | `15 Pages`
-- `[`2026-20512`]` **[Purchaser Credit on Timber Sale Contracts](https://www.indexdata.org/purchaser-credit-on-timber-sale-contracts/)** — `2026-10-07` | `3 Pages`
-
 ### [Homeland Security Department](https://www.indexdata.org/united-states/homeland-security-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/homeland-security-department/](https://www.indexdata.org/united-states/homeland-security-department/) | [RSS Feed](https://www.indexdata.org/united-states/homeland-security-department/feed/)
 
@@ -1830,6 +1822,14 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/food-and-d
 - `[`2026-20726`]` **[Medical Devices; Cardiovascular Devices; Classification of the Infant Pulse Rate and Oxygen Saturation Monitor for Over-the-Counter Use](https://www.indexdata.org/medical-devices-cardiovascular-devices-classification-of-the-infant-pulse-rate-and-oxygen-saturation-monitor-for-over-the-counter-use/)** — `2026-10-09` | `3 Pages`
 - `[`2026-20725`]` **[Medical Devices; Immunology and Microbiology Devices; Classification of the Hematopoietic Cell Enrichment Kit](https://www.indexdata.org/medical-devices-immunology-and-microbiology-devices-classification-of-the-hematopoietic-cell-enrichment-kit/)** — `2026-10-09` | `3 Pages`
 - `[`2026-20721`]` **[Requirements for Additional Traceability Records for Certain Foods: Enforcement Policy for Certain Retail Food Establishments and Restaurants; Draft Guidance for Industry; Availability](https://www.indexdata.org/requirements-for-additional-traceability-records-for-certain-foods-enforcement-policy-for-certain-retail-food-establishments-and-restaurants-draft-guidance-for-industry-availability/)** — `2026-10-09` | `3 Pages`
+
+### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
+
+- `[`2026-24129`]` **[Locatable Minerals](https://www.indexdata.org/locatable-minerals-2/)** — `2026-11-26` | `2 Pages`
+- `[`2026-22296`]` **[Administrative Site Leases](https://www.indexdata.org/administrative-site-leases-2/)** — `2026-10-31` | `4 Pages`
+- `[`2026-21849`]` **[Subsistence Management Regulations for Public Lands in Alaska-2026-27 and 2027-28 Subsistence Taking of Wildlife Regulations](https://www.indexdata.org/subsistence-management-regulations-for-public-lands-in-alaska-2026-27-and-2027-28-subsistence-taking-of-wildlife-regulations-2/)** — `2026-10-27` | `47 Pages`
+- `[`2026-20890`]` **[Project-Level Predecisional Administrative Review Process](https://www.indexdata.org/project-level-predecisional-administrative-review-process/)** — `2026-10-13` | `15 Pages`
 
 ### [Industry and Security Bureau](https://www.indexdata.org/united-states/industry-and-security-bureau/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/industry-and-security-bureau/](https://www.indexdata.org/united-states/industry-and-security-bureau/) | [RSS Feed](https://www.indexdata.org/united-states/industry-and-security-bureau/feed/)

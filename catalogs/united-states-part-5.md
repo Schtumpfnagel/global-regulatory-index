@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,754` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | **[Part 5 (Current)]** | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 06:01 UTC`
+**Last Automated Sync:** `2026-11-28 06:55 UTC`
 
 ---
 
@@ -59,7 +59,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`54` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -265,11 +265,12 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,753)
+## Indexed Statutory & Regulatory Dossiers (Records 6,001–7,500 of 15,754)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
 
+- `[`2025-16861`]` **[Amendment of Jet Routes and Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways and Revocation of VOR Federal Airway; Eastern United States](https://www.indexdata.org/amendment-of-jet-routes-and-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-and-revocation-of-vor-federal-airway-eastern-united-states/)** — `2025-09-03` | `4 Pages`
 - `[`2025-16761`]` **[Airworthiness Directives; Airbus Helicopters](https://www.indexdata.org/airworthiness-directives-airbus-helicopters-95/)** — `2025-09-02` | `3 Pages`
 - `[`2025-16728`]` **[Airworthiness Directives; Airbus SAS Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-sas-airplanes-110/)** — `2025-09-02` | `4 Pages`
 - `[`2025-16654`]` **[Amendment of Class E4 Airspace Over Elmira, NY](https://www.indexdata.org/amendment-of-class-e4-airspace-over-elmira-ny/)** — `2025-08-29` | `2 Pages`
@@ -1637,19 +1638,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/drug-enfor
 - `[`2025-09988`]` **[Schedules of Controlled Substances: Placement of 4-Fluoroamphetamine in Schedule I](https://www.indexdata.org/schedules-of-controlled-substances-placement-of-4-fluoroamphetamine-in-schedule-i-2/)** — `2025-06-03` | `7 Pages`
 - `[`2025-09983`]` **[Designation of Propionyl Chloride as a List I Chemical](https://www.indexdata.org/designation-of-propionyl-chloride-as-a-list-i-chemical-2/)** — `2025-06-03` | `7 Pages`
 
-### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
-
-- `[`2025-15238`]` **[Sunset of the Pathways Presidential Management Fellows Program](https://www.indexdata.org/sunset-of-the-pathways-presidential-management-fellows-program/)** — `2025-08-11` | `4 Pages`
-- `[`2025-15236`]` **[Pathways Presidential Management Fellows Program: Variation](https://www.indexdata.org/pathways-presidential-management-fellows-program-variation/)** — `2025-08-11` | `2 Pages`
-- `[`2025-14006`]` **[Appeal Procedures for Recoupment of Awards, Bonuses, or Relocation Expenses Awarded or Approved for All Employees of the Department of Veterans Affairs](https://www.indexdata.org/appeal-procedures-for-recoupment-of-awards-bonuses-or-relocation-expenses-awarded-or-approved-for-all-employees-of-the-department-of-veterans-affairs/)** — `2025-07-25` | `12 Pages`
-- `[`2025-13205`]` **[Attorney Fees and Personnel Action Coverage Under the Back Pay Act](https://www.indexdata.org/attorney-fees-and-personnel-action-coverage-under-the-back-pay-act/)** — `2025-07-15` | `2 Pages`
-- `[`2025-11576`]` **[Strengthening Probationary Periods in the Federal Service](https://www.indexdata.org/strengthening-probationary-periods-in-the-federal-service/)** — `2025-06-24` | `4 Pages`
-- `[`2025-10067`]` **[Suitability and Fitness](https://www.indexdata.org/suitability-and-fitness-2/)** — `2025-06-03` | `11 Pages`
-- `[`2025-09931`]` **[Prevailing Rate Systems; Abolishment of Hennepin, Minnesota, as a Nonappropriated Fund Federal Wage System Wage Area](https://www.indexdata.org/prevailing-rate-systems-abolishment-of-hennepin-minnesota-as-a-nonappropriated-fund-federal-wage-system-wage-area-2/)** — `2025-06-02` | `3 Pages`
-- `[`2025-09081`]` **[Program Fraud Civil Remedies: Civil Monetary Penalty Inflation Adjustment](https://www.indexdata.org/program-fraud-civil-remedies-civil-monetary-penalty-inflation-adjustment/)** — `2025-05-21` | `2 Pages`
-- `[`2025-07575`]` **[Assuring Responsive and Accountable Federal Executive Management](https://www.indexdata.org/assuring-responsive-and-accountable-federal-executive-management-2/)** — `2025-05-02` | `7 Pages`
-
 ### [Federal Procurement Policy Office](https://www.indexdata.org/united-states/federal-procurement-policy-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-procurement-policy-office/](https://www.indexdata.org/united-states/federal-procurement-policy-office/) | [RSS Feed](https://www.indexdata.org/united-states/federal-procurement-policy-office/feed/)
 
@@ -1685,6 +1673,18 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/internal-r
 - `[`2025-09858`]` **[Request for Information Regarding the Prescription Drug Machine-Readable File Requirement in the Transparency in Coverage Final Rule](https://www.indexdata.org/request-for-information-regarding-the-prescription-drug-machine-readable-file-requirement-in-the-transparency-in-coverage-final-rule/)** — `2025-06-02` | `6 Pages`
 - `[`2025-08929`]` **[Estate Tax Closing Letter User Fee Update](https://www.indexdata.org/estate-tax-closing-letter-user-fee-update-4/)** — `2025-05-20` | `3 Pages`
 - `[`2025-08928`]` **[Estate Tax Closing Letter User Fee Update](https://www.indexdata.org/estate-tax-closing-letter-user-fee-update-5/)** — `2025-05-20` | `4 Pages`
+
+### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
+
+- `[`2025-15238`]` **[Sunset of the Pathways Presidential Management Fellows Program](https://www.indexdata.org/sunset-of-the-pathways-presidential-management-fellows-program/)** — `2025-08-11` | `4 Pages`
+- `[`2025-15236`]` **[Pathways Presidential Management Fellows Program: Variation](https://www.indexdata.org/pathways-presidential-management-fellows-program-variation/)** — `2025-08-11` | `2 Pages`
+- `[`2025-14006`]` **[Appeal Procedures for Recoupment of Awards, Bonuses, or Relocation Expenses Awarded or Approved for All Employees of the Department of Veterans Affairs](https://www.indexdata.org/appeal-procedures-for-recoupment-of-awards-bonuses-or-relocation-expenses-awarded-or-approved-for-all-employees-of-the-department-of-veterans-affairs/)** — `2025-07-25` | `12 Pages`
+- `[`2025-13205`]` **[Attorney Fees and Personnel Action Coverage Under the Back Pay Act](https://www.indexdata.org/attorney-fees-and-personnel-action-coverage-under-the-back-pay-act/)** — `2025-07-15` | `2 Pages`
+- `[`2025-11576`]` **[Strengthening Probationary Periods in the Federal Service](https://www.indexdata.org/strengthening-probationary-periods-in-the-federal-service/)** — `2025-06-24` | `4 Pages`
+- `[`2025-10067`]` **[Suitability and Fitness](https://www.indexdata.org/suitability-and-fitness-2/)** — `2025-06-03` | `11 Pages`
+- `[`2025-09931`]` **[Prevailing Rate Systems; Abolishment of Hennepin, Minnesota, as a Nonappropriated Fund Federal Wage System Wage Area](https://www.indexdata.org/prevailing-rate-systems-abolishment-of-hennepin-minnesota-as-a-nonappropriated-fund-federal-wage-system-wage-area-2/)** — `2025-06-02` | `3 Pages`
+- `[`2025-09081`]` **[Program Fraud Civil Remedies: Civil Monetary Penalty Inflation Adjustment](https://www.indexdata.org/program-fraud-civil-remedies-civil-monetary-penalty-inflation-adjustment/)** — `2025-05-21` | `2 Pages`
 
 ### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)

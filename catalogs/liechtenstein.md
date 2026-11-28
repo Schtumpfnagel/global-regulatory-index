@@ -5,7 +5,7 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/liechtenstein/feed/](https://www.indexdata.org/liechtenstein/feed/)  
 **Governing Open-Government Framework:** *Art. 5 URG*  
 **Total Indexed Dossiers in Liechtenstein:** `54` across `1` issuing authorities  
-**Last Automated Sync:** `2026-11-28 06:01 UTC`
+**Last Automated Sync:** `2026-11-28 06:55 UTC`
 
 ---
 

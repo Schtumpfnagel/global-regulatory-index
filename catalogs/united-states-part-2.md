@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,754` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | **[Part 2 (Current)]** | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 06:01 UTC`
+**Last Automated Sync:** `2026-11-28 06:55 UTC`
 
 ---
 
@@ -59,7 +59,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`54` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,753)
+## Indexed Statutory & Regulatory Dossiers (Records 1,501–3,000 of 15,754)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -751,7 +751,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2026-12172`]` **[Anchorage Grounds; Columbia River, Longview, Oregon and Washington](https://www.indexdata.org/anchorage-grounds-columbia-river-longview-oregon-and-washington/)** — `2026-06-17` | `3 Pages`
 - `[`2026-12170`]` **[Special Local Regulation; Marine Events Within the Captain of the Port Zone Columbia River](https://www.indexdata.org/special-local-regulation-marine-events-within-the-captain-of-the-port-zone-columbia-river/)** — `2026-06-17` | `3 Pages`
 - `[`2026-12169`]` **[Special Local Regulation; 4th of July Fireworks, East River and Upper New York Bay, Manhattan, Queens, and Brooklyn, NY](https://www.indexdata.org/special-local-regulation-4th-of-july-fireworks-east-river-and-upper-new-york-bay-manhattan-queens-and-brooklyn-ny/)** — `2026-06-17` | `6 Pages`
-- `[`2026-12168`]` **[Security Zone; FIFA World Cup and Fan Fest 2026, Bayfront Park, Miami, FL](https://www.indexdata.org/security-zone-fifa-world-cup-and-fan-fest-2026-bayfront-park-miami-fl/)** — `2026-06-17` | `2 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1821,6 +1820,15 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/equal-empl
 - `[`2026-14303`]` **[FEP Agency Designation Procedures: Revising Location of FEP Agency Lists](https://www.indexdata.org/fep-agency-designation-procedures-revising-location-of-fep-agency-lists/)** — `2026-07-16` | `3 Pages`
 - `[`2026-13637`]` **[Rescission of Guidelines on Affirmative Action Appropriate Under Title VII of the Civil Rights Act of 1964, as Amended](https://www.indexdata.org/rescission-of-guidelines-on-affirmative-action-appropriate-under-title-vii-of-the-civil-rights-act-of-1964-as-amended/)** — `2026-07-06` | `7 Pages`
 
+### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
+
+- `[`2026-20512`]` **[Purchaser Credit on Timber Sale Contracts](https://www.indexdata.org/purchaser-credit-on-timber-sale-contracts/)** — `2026-10-07` | `3 Pages`
+- `[`2026-18648`]` **[Special Areas; Roadless Area Conservation](https://www.indexdata.org/special-areas-roadless-area-conservation/)** — `2026-09-11` | `2 Pages`
+- `[`2026-17211`]` **[Travel Management; National Forest System Lands](https://www.indexdata.org/travel-management-national-forest-system-lands/)** — `2026-08-24` | `6 Pages`
+- `[`2026-16965`]` **[Special Areas; Roadless Area Conservation](https://www.indexdata.org/special-areas-roadless-area-conservation-2/)** — `2026-08-20` | `6 Pages`
+- `[`2026-13281`]` **[Organization, Functions, and Procedures; Public Notice and Comment for Standards, Criteria, and Guidance Applicable to Forest Service Programs](https://www.indexdata.org/organization-functions-and-procedures-public-notice-and-comment-for-standards-criteria-and-guidance-applicable-to-forest-service-programs/)** — `2026-07-01` | `4 Pages`
+
 ### [General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/general-services-administration/](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 
@@ -1873,14 +1881,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-co
 - `[`2026-17116`]` **[Modifications to the Regulations Implementing the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as Amended](https://www.indexdata.org/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act-of-1974-as-amended/)** — `2026-08-21` | `11 Pages`
 - `[`2026-17115`]` **[Modifications to the Regulations Implementing Section 503 of the Rehabilitation Act of 1973, as Amended](https://www.indexdata.org/modifications-to-the-regulations-implementing-section-503-of-the-rehabilitation-act-of-1973-as-amended/)** — `2026-08-21` | `26 Pages`
 - `[`2026-17114`]` **[Rescission of Executive Order 11246 Implementing Regulations](https://www.indexdata.org/rescission-of-executive-order-11246-implementing-regulations/)** — `2026-08-21` | `37 Pages`
-
-### [Forest Service](https://www.indexdata.org/united-states/forest-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/forest-service/](https://www.indexdata.org/united-states/forest-service/) | [RSS Feed](https://www.indexdata.org/united-states/forest-service/feed/)
-
-- `[`2026-18648`]` **[Special Areas; Roadless Area Conservation](https://www.indexdata.org/special-areas-roadless-area-conservation/)** — `2026-09-11` | `2 Pages`
-- `[`2026-17211`]` **[Travel Management; National Forest System Lands](https://www.indexdata.org/travel-management-national-forest-system-lands/)** — `2026-08-24` | `6 Pages`
-- `[`2026-16965`]` **[Special Areas; Roadless Area Conservation](https://www.indexdata.org/special-areas-roadless-area-conservation-2/)** — `2026-08-20` | `6 Pages`
-- `[`2026-13281`]` **[Organization, Functions, and Procedures; Public Notice and Comment for Standards, Criteria, and Guidance Applicable to Forest Service Programs](https://www.indexdata.org/organization-functions-and-procedures-public-notice-and-comment-for-standards-criteria-and-guidance-applicable-to-forest-service-programs/)** — `2026-07-01` | `4 Pages`
 
 ### [Patent and Trademark Office](https://www.indexdata.org/united-states/patent-and-trademark-office/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/patent-and-trademark-office/](https://www.indexdata.org/united-states/patent-and-trademark-office/) | [RSS Feed](https://www.indexdata.org/united-states/patent-and-trademark-office/feed/)

@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,754` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | [Part 6](united-states-part-6.md) | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | **[Part 10 (Current)]** | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 06:01 UTC`
+**Last Automated Sync:** `2026-11-28 06:55 UTC`
 
 ---
 
@@ -59,7 +59,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`54` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,753)
+## Indexed Statutory & Regulatory Dossiers (Records 13,501–15,000 of 15,754)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -916,7 +916,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/coast-guar
 - `[`2023-16018`]` **[Safety Zone; Henderson Bay, Henderson Harbor, NY](https://www.indexdata.org/safety-zone-henderson-bay-henderson-harbor-ny/)** — `2023-07-28` | `3 Pages`
 - `[`2023-15797`]` **[Special Local Regulation; Henderson Bay, Henderson Harbor, NY](https://www.indexdata.org/special-local-regulation-henderson-bay-henderson-harbor-ny/)** — `2023-07-26` | `5 Pages`
 - `[`2023-15697`]` **[Annual Events in the Captain of the Port Buffalo Zone-July and August 2023](https://www.indexdata.org/annual-events-in-the-captain-of-the-port-buffalo-zone-july-and-august-2023/)** — `2023-07-25` | `2 Pages`
-- `[`2023-15652`]` **[Anchorage Grounds, Hudson River; Yonkers, NY to Kingston, NY](https://www.indexdata.org/anchorage-grounds-hudson-river-yonkers-ny-to-kingston-ny/)** — `2023-07-25` | `3 Pages`
 
 ### [National Oceanic and Atmospheric Administration](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/) | [RSS Feed](https://www.indexdata.org/united-states/national-oceanic-and-atmospheric-administration/feed/)
@@ -1589,6 +1588,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/national-h
 - `[`2023-18309`]` **[Public Hearing for Corporate Average Fuel Economy Standards for Passenger Cars and Light Trucks for Model Years 2027-2032 and Fuel Efficiency Standards for Heavy-Duty Pickup Trucks and Vans for Model Years 2030-2035](https://www.indexdata.org/public-hearing-for-corporate-average-fuel-economy-standards-for-passenger-cars-and-light-trucks-for-model-years-2027-2032-and-fuel-efficiency-standards-for-heavy-duty-pickup-trucks-and-vans-for-model/)** — `2023-08-25` | `2 Pages`
 - `[`2023-16515`]` **[Corporate Average Fuel Economy Standards for Passenger Cars and Light Trucks for Model Years 2027-2032 and Fuel Efficiency Standards for Heavy-Duty Pickup Trucks and Vans for Model Years 2030-2035](https://www.indexdata.org/corporate-average-fuel-economy-standards-for-passenger-cars-and-light-trucks-for-model-years-2027-2032-and-fuel-efficiency-standards-for-heavy-duty-pickup-trucks-and-vans-for-model-years-2030-2035/)** — `2023-08-17` | `263 Pages`
 
+### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
+
+- `[`2023-25648`]` **[Domestic Competitive Products Pricing and Mailing Standards Changes](https://www.indexdata.org/domestic-competitive-products-pricing-and-mailing-standards-changes-6/)** — `2023-11-24` | `9 Pages`
+- `[`2023-25654`]` **[International Competitive Services Price Changes](https://www.indexdata.org/international-competitive-services-price-changes/)** — `2023-11-21` | `2 Pages`
+- `[`2023-25569`]` **[Ballot Mail Ancillary Service Endorsements](https://www.indexdata.org/ballot-mail-ancillary-service-endorsements/)** — `2023-11-20` | `2 Pages`
+- `[`2023-24447`]` **[Use of Foreign Return Addresses on Domestic Mailpieces](https://www.indexdata.org/use-of-foreign-return-addresses-on-domestic-mailpieces/)** — `2023-11-06` | `2 Pages`
+- `[`2023-22762`]` **[International Mailing Services: Proposed Price Changes](https://www.indexdata.org/international-mailing-services-proposed-price-changes-4/)** — `2023-10-24` | `2 Pages`
+- `[`2023-22606`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products-8/)** — `2023-10-16` | `4 Pages`
+- `[`2023-21318`]` **[Ballot Mail Ancillary Service Endorsements](https://www.indexdata.org/ballot-mail-ancillary-service-endorsements-2/)** — `2023-09-29` | `2 Pages`
+- `[`2023-16981`]` **[Intelligent Mail Package Barcode Compliance Quality](https://www.indexdata.org/intelligent-mail-package-barcode-compliance-quality/)** — `2023-08-10` | `2 Pages`
+- `[`2023-16811`]` **[Supplemental Standards of Ethical Conduct for Employees of the United States Postal Service](https://www.indexdata.org/supplemental-standards-of-ethical-conduct-for-employees-of-the-united-states-postal-service/)** — `2023-08-08` | `7 Pages`
+
 ### [State Department](https://www.indexdata.org/united-states/state-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/state-department/](https://www.indexdata.org/united-states/state-department/) | [RSS Feed](https://www.indexdata.org/united-states/state-department/feed/)
 
@@ -1625,18 +1637,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-tr
 - `[`2023-17143`]` **[Premerger Notification; Reporting and Waiting Period Requirements](https://www.indexdata.org/premerger-notification-reporting-and-waiting-period-requirements-3/)** — `2023-08-10` | `2 Pages`
 - `[`2023-15581`]` **[Trade Regulation Rule on the Use of Consumer Reviews and Testimonials](https://www.indexdata.org/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials-2/)** — `2023-07-31` | `29 Pages`
 - `[`2023-14795`]` **[Guides Concerning the Use of Endorsements and Testimonials in Advertising](https://www.indexdata.org/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising/)** — `2023-07-26` | `21 Pages`
-
-### [Postal Service](https://www.indexdata.org/united-states/postal-service/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/postal-service/](https://www.indexdata.org/united-states/postal-service/) | [RSS Feed](https://www.indexdata.org/united-states/postal-service/feed/)
-
-- `[`2023-25654`]` **[International Competitive Services Price Changes](https://www.indexdata.org/international-competitive-services-price-changes/)** — `2023-11-21` | `2 Pages`
-- `[`2023-25569`]` **[Ballot Mail Ancillary Service Endorsements](https://www.indexdata.org/ballot-mail-ancillary-service-endorsements/)** — `2023-11-20` | `2 Pages`
-- `[`2023-24447`]` **[Use of Foreign Return Addresses on Domestic Mailpieces](https://www.indexdata.org/use-of-foreign-return-addresses-on-domestic-mailpieces/)** — `2023-11-06` | `2 Pages`
-- `[`2023-22762`]` **[International Mailing Services: Proposed Price Changes](https://www.indexdata.org/international-mailing-services-proposed-price-changes-4/)** — `2023-10-24` | `2 Pages`
-- `[`2023-22606`]` **[New Mailing Standards for Domestic Mailing Services Products](https://www.indexdata.org/new-mailing-standards-for-domestic-mailing-services-products-8/)** — `2023-10-16` | `4 Pages`
-- `[`2023-21318`]` **[Ballot Mail Ancillary Service Endorsements](https://www.indexdata.org/ballot-mail-ancillary-service-endorsements-2/)** — `2023-09-29` | `2 Pages`
-- `[`2023-16981`]` **[Intelligent Mail Package Barcode Compliance Quality](https://www.indexdata.org/intelligent-mail-package-barcode-compliance-quality/)** — `2023-08-10` | `2 Pages`
-- `[`2023-16811`]` **[Supplemental Standards of Ethical Conduct for Employees of the United States Postal Service](https://www.indexdata.org/supplemental-standards-of-ethical-conduct-for-employees-of-the-united-states-postal-service/)** — `2023-08-08` | `7 Pages`
 
 ### [Veterans Affairs Department](https://www.indexdata.org/united-states/veterans-affairs-department/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/veterans-affairs-department/](https://www.indexdata.org/united-states/veterans-affairs-department/) | [RSS Feed](https://www.indexdata.org/united-states/veterans-affairs-department/feed/)

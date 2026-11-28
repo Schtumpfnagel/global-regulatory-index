@@ -5,9 +5,9 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/united-states/feed/](https://www.indexdata.org/united-states/feed/)  
 **Wikidata Sovereign Entity:** [`Q30`](https://www.wikidata.org/wiki/Q30)  
 **Governing Open-Government Framework:** *17 U.S.C. § 105*  
-**Total Indexed Dossiers in United States:** `15,753` across `249` issuing authorities  
+**Total Indexed Dossiers in United States:** `15,754` across `249` issuing authorities  
 **Catalog Volumes:** [Part 1](united-states.md) | [Part 2](united-states-part-2.md) | [Part 3](united-states-part-3.md) | [Part 4](united-states-part-4.md) | [Part 5](united-states-part-5.md) | **[Part 6 (Current)]** | [Part 7](united-states-part-7.md) | [Part 8](united-states-part-8.md) | [Part 9](united-states-part-9.md) | [Part 10](united-states-part-10.md) | [Part 11](united-states-part-11.md)  
-**Last Automated Sync:** `2026-11-28 06:01 UTC`
+**Last Automated Sync:** `2026-11-28 06:55 UTC`
 
 ---
 
@@ -59,7 +59,7 @@
 - **[General Services Administration](https://www.indexdata.org/united-states/general-services-administration/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/general-services-administration/) | [RSS Feed](https://www.indexdata.org/united-states/general-services-administration/feed/)
 - **[Health and Human Services Department](https://www.indexdata.org/united-states/health-and-human-services-department/)** (`62` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/health-and-human-services-department/) | [RSS Feed](https://www.indexdata.org/united-states/health-and-human-services-department/feed/)
 - **[Children and Families Administration](https://www.indexdata.org/united-states/children-and-families-administration/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/children-and-families-administration/) | [RSS Feed](https://www.indexdata.org/united-states/children-and-families-administration/feed/)
-- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`57` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
+- **[U.S. Department of Energy (DOE)](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/)** (`58` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-department-of-energy-doe/feed/)
 - **[Congressional Research Service (CRS)](https://www.indexdata.org/united-states/congressional-research-service-crs/)** (`56` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/congressional-research-service-crs/) | [RSS Feed](https://www.indexdata.org/united-states/congressional-research-service-crs/feed/)
 - **[Centers for Disease Control and Prevention (CDC)](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/)** (`55` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/) | [RSS Feed](https://www.indexdata.org/united-states/centers-for-disease-control-and-prevention-cdc/feed/)
 - **[Comptroller of the Currency](https://www.indexdata.org/united-states/comptroller-of-the-currency/)** (`54` dossiers) — [Authority Archive](https://www.indexdata.org/united-states/comptroller-of-the-currency/) | [RSS Feed](https://www.indexdata.org/united-states/comptroller-of-the-currency/feed/)
@@ -265,7 +265,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,753)
+## Indexed Statutory & Regulatory Dossiers (Records 7,501–9,000 of 15,754)
 
 ### [Federal Aviation Administration](https://www.indexdata.org/united-states/federal-aviation-administration/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-aviation-administration/](https://www.indexdata.org/united-states/federal-aviation-administration/) | [RSS Feed](https://www.indexdata.org/united-states/federal-aviation-administration/feed/)
@@ -706,7 +706,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/federal-av
 - `[`2024-28130`]` **[Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP)) Airplanes](https://www.indexdata.org/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c-series-aircraft-limited-partnership-csalp-airplanes-2/)** — `2024-12-02` | `3 Pages`
 - `[`2024-28125`]` **[Airworthiness Directives; Bombardier, Inc., Airplanes](https://www.indexdata.org/airworthiness-directives-bombardier-inc-airplanes-50/)** — `2024-12-02` | `4 Pages`
 - `[`2024-28120`]` **[Airworthiness Directives; The Boeing Company Airplanes](https://www.indexdata.org/airworthiness-directives-the-boeing-company-airplanes-176/)** — `2024-12-02` | `4 Pages`
-- `[`2024-28094`]` **[Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines](https://www.indexdata.org/airworthiness-directives-rolls-royce-deutschland-ltd-co-kg-engines-32/)** — `2024-12-02` | `3 Pages`
 
 ### [Environmental Protection Agency](https://www.indexdata.org/united-states/environmental-protection-agency/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/environmental-protection-agency/](https://www.indexdata.org/united-states/environmental-protection-agency/) | [RSS Feed](https://www.indexdata.org/united-states/environmental-protection-agency/feed/)
@@ -1617,6 +1616,19 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/justice-de
 - `[`2024-28712`]` **[Bipartisan Safer Communities Act of 2022 and Consolidated Appropriations Act of 2022-Implementation Revisions for National Instant Criminal Background Check System (NICS)](https://www.indexdata.org/bipartisan-safer-communities-act-of-2022-and-consolidated-appropriations-act-of-2022-implementation-revisions-for-national-instant-criminal-background-check-system-nics/)** — `2024-12-12` | `21 Pages`
 - `[`2024-28711`]` **[Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers](https://www.indexdata.org/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check-system-nics-background-checks-of-firearm-handlers/)** — `2024-12-12` | `16 Pages`
 
+### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
+Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
+
+- `[`2025-07575`]` **[Assuring Responsive and Accountable Federal Executive Management](https://www.indexdata.org/assuring-responsive-and-accountable-federal-executive-management-2/)** — `2025-05-02` | `7 Pages`
+- `[`2025-06904`]` **[Improving Performance, Accountability and Responsiveness in the Civil Service](https://www.indexdata.org/improving-performance-accountability-and-responsiveness-in-the-civil-service-2/)** — `2025-04-23` | `43 Pages`
+- `[`2025-04814`]` **[Elimination of Federal Executive Boards](https://www.indexdata.org/elimination-of-federal-executive-boards/)** — `2025-03-21` | `2 Pages`
+- `[`2025-00555`]` **[Prevailing Rate Systems; Change in Criteria for Defining Appropriated Fund Federal Wage System Wage Areas](https://www.indexdata.org/prevailing-rate-systems-change-in-criteria-for-defining-appropriated-fund-federal-wage-system-wage-areas/)** — `2025-01-21` | `35 Pages`
+- `[`2025-00583`]` **[Appeal Procedures for Recoupment of Awards, Bonuses, or Relocation Expenses Awarded or Approved for All Employees of the Department of Veterans Affairs](https://www.indexdata.org/appeal-procedures-for-recoupment-of-awards-bonuses-or-relocation-expenses-awarded-or-approved-for-all-employees-of-the-department-of-veterans-affairs-2/)** — `2025-01-15` | `10 Pages`
+- `[`2024-29992`]` **[Combined Federal Campaign: Authorization of Short-Term Regulatory Variation](https://www.indexdata.org/combined-federal-campaign-authorization-of-short-term-regulatory-variation/)** — `2024-12-18` | `2 Pages`
+- `[`2024-29799`]` **[Suitability and Fitness](https://www.indexdata.org/suitability-and-fitness-3/)** — `2024-12-18` | `22 Pages`
+- `[`2024-29139`]` **[Administrative Leave, Investigative Leave, and Notice Leave](https://www.indexdata.org/administrative-leave-investigative-leave-and-notice-leave/)** — `2024-12-17` | `40 Pages`
+- `[`2024-29355`]` **[Prevailing Rate Systems; Definition of Saratoga County, New York, to a Nonappropriated Fund Federal Wage System Wage Area](https://www.indexdata.org/prevailing-rate-systems-definition-of-saratoga-county-new-york-to-a-nonappropriated-fund-federal-wage-system-wage-area/)** — `2024-12-13` | `2 Pages`
+
 ### [Rural Housing Service](https://www.indexdata.org/united-states/rural-housing-service/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/rural-housing-service/](https://www.indexdata.org/united-states/rural-housing-service/) | [RSS Feed](https://www.indexdata.org/united-states/rural-housing-service/feed/)
 
@@ -1678,18 +1690,6 @@ Canonical Authority Archive: [https://www.indexdata.org/united-states/general-se
 - `[`2024-30670`]` **[General Services Administration Acquisition Regulation (GSAR); Update to OMB Approval Table](https://www.indexdata.org/general-services-administration-acquisition-regulation-gsar-update-to-omb-approval-table-2/)** — `2024-12-27` | `4 Pages`
 - `[`2024-29377`]` **[Federal Management Regulation; Real Property Disposition Policies and Procedures](https://www.indexdata.org/federal-management-regulation-real-property-disposition-policies-and-procedures/)** — `2024-12-23` | `7 Pages`
 - `[`2024-30242`]` **[Civil Monetary Penalties Inflation Adjustment](https://www.indexdata.org/civil-monetary-penalties-inflation-adjustment/)** — `2024-12-19` | `2 Pages`
-
-### [Personnel Management Office](https://www.indexdata.org/united-states/personnel-management-office/)
-Canonical Authority Archive: [https://www.indexdata.org/united-states/personnel-management-office/](https://www.indexdata.org/united-states/personnel-management-office/) | [RSS Feed](https://www.indexdata.org/united-states/personnel-management-office/feed/)
-
-- `[`2025-06904`]` **[Improving Performance, Accountability and Responsiveness in the Civil Service](https://www.indexdata.org/improving-performance-accountability-and-responsiveness-in-the-civil-service-2/)** — `2025-04-23` | `43 Pages`
-- `[`2025-04814`]` **[Elimination of Federal Executive Boards](https://www.indexdata.org/elimination-of-federal-executive-boards/)** — `2025-03-21` | `2 Pages`
-- `[`2025-00555`]` **[Prevailing Rate Systems; Change in Criteria for Defining Appropriated Fund Federal Wage System Wage Areas](https://www.indexdata.org/prevailing-rate-systems-change-in-criteria-for-defining-appropriated-fund-federal-wage-system-wage-areas/)** — `2025-01-21` | `35 Pages`
-- `[`2025-00583`]` **[Appeal Procedures for Recoupment of Awards, Bonuses, or Relocation Expenses Awarded or Approved for All Employees of the Department of Veterans Affairs](https://www.indexdata.org/appeal-procedures-for-recoupment-of-awards-bonuses-or-relocation-expenses-awarded-or-approved-for-all-employees-of-the-department-of-veterans-affairs-2/)** — `2025-01-15` | `10 Pages`
-- `[`2024-29992`]` **[Combined Federal Campaign: Authorization of Short-Term Regulatory Variation](https://www.indexdata.org/combined-federal-campaign-authorization-of-short-term-regulatory-variation/)** — `2024-12-18` | `2 Pages`
-- `[`2024-29799`]` **[Suitability and Fitness](https://www.indexdata.org/suitability-and-fitness-3/)** — `2024-12-18` | `22 Pages`
-- `[`2024-29139`]` **[Administrative Leave, Investigative Leave, and Notice Leave](https://www.indexdata.org/administrative-leave-investigative-leave-and-notice-leave/)** — `2024-12-17` | `40 Pages`
-- `[`2024-29355`]` **[Prevailing Rate Systems; Definition of Saratoga County, New York, to a Nonappropriated Fund Federal Wage System Wage Area](https://www.indexdata.org/prevailing-rate-systems-definition-of-saratoga-county-new-york-to-a-nonappropriated-fund-federal-wage-system-wage-area/)** — `2024-12-13` | `2 Pages`
 
 ### [U.S. Customs and Border Protection](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/)
 Canonical Authority Archive: [https://www.indexdata.org/united-states/u-s-customs-and-border-protection/](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/) | [RSS Feed](https://www.indexdata.org/united-states/u-s-customs-and-border-protection/feed/)
