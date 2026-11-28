@@ -5,8 +5,8 @@
 **Jurisdiction RSS Syndication Feed:** [https://www.indexdata.org/philippines/feed/](https://www.indexdata.org/philippines/feed/)  
 **Wikidata Sovereign Entity:** [`Q928`](https://www.wikidata.org/wiki/Q928)  
 **Governing Open-Government Framework:** *R.A. 8293 § 176.1 & Open Data Philippines Policy*  
-**Total Indexed Dossiers in Philippines:** `624` across `12` issuing authorities  
-**Last Automated Sync:** `2026-11-28 02:57 UTC`
+**Total Indexed Dossiers in Philippines:** `630` across `12` issuing authorities  
+**Last Automated Sync:** `2026-11-28 04:00 UTC`
 
 ---
 
@@ -18,7 +18,7 @@
 - **[Maritime Industry Authority](https://www.indexdata.org/philippines/maritime-industry-authority/)** (`76` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/maritime-industry-authority/) | [RSS Feed](https://www.indexdata.org/philippines/maritime-industry-authority/feed/)
 - **[Board of Investments](https://www.indexdata.org/philippines/board-of-investments/)** (`53` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/board-of-investments/) | [RSS Feed](https://www.indexdata.org/philippines/board-of-investments/feed/)
 - **[Cooperative Development Authority](https://www.indexdata.org/philippines/cooperative-development-authority/)** (`41` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/cooperative-development-authority/) | [RSS Feed](https://www.indexdata.org/philippines/cooperative-development-authority/feed/)
-- **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
+- **[Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)** (`35` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
 - **[Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)** (`29` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
 - **[Philippine Carabao Center](https://www.indexdata.org/philippines/philippine-carabao-center/)** (`4` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/philippine-carabao-center/) | [RSS Feed](https://www.indexdata.org/philippines/philippine-carabao-center/feed/)
 - **[Food and Nutrition Research Institute](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/)** (`1` dossiers) — [Authority Archive](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/) | [RSS Feed](https://www.indexdata.org/philippines/food-and-nutrition-research-institute/feed/)
@@ -27,7 +27,7 @@
 
 ---
 
-## Indexed Statutory & Regulatory Dossiers (Records 1–624 of 624)
+## Indexed Statutory & Regulatory Dossiers (Records 1–630 of 630)
 
 ### [Department of Agriculture](https://www.indexdata.org/philippines/department-of-agriculture/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/department-of-agriculture/](https://www.indexdata.org/philippines/department-of-agriculture/) | [RSS Feed](https://www.indexdata.org/philippines/department-of-agriculture/feed/)
@@ -615,6 +615,9 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/cooperative-
 ### [Commission on Human Rights](https://www.indexdata.org/philippines/commission-on-human-rights/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/commission-on-human-rights/](https://www.indexdata.org/philippines/commission-on-human-rights/) | [RSS Feed](https://www.indexdata.org/philippines/commission-on-human-rights/feed/)
 
+- `[`PH-CHR-88259`]` **[2026-164 Bid Docs. CCTV](https://www.indexdata.org/2026-164-bid-docs-cctv/)** — `2026-11-27` | `96 Pages`
+- `[`PH-CHR-88253`]` **[EPA-2027-009 – Security – bid docs.](https://www.indexdata.org/epa-2027-009-security-bid-docs/)** — `2026-11-27` | `98 Pages`
+- `[`PH-CHR-88250`]` **[EPA-2027-007- Janitorial – bid docs.](https://www.indexdata.org/epa-2027-007-janitorial-bid-docs/)** — `2026-11-27` | `100 Pages`
 - `[`PH-CHR-88235`]` **[Bid Docs – Webmail Hosting](https://www.indexdata.org/bid-docs-webmail-hosting/)** — `2026-11-26` | `88 Pages`
 - `[`PH-CHR-88224`]` **[Indicative APP FY 2027 – RO 5 v2](https://www.indexdata.org/indicative-app-fy-2027-ro-5-v2/)** — `2026-11-23` | `2 Pages`
 - `[`PH-CHR-88215`]` **[3rd Qtr -CHR-FARS AS oF THE QUARTER ENDING SEPTEMBER 30, 2026](https://www.indexdata.org/3rd-qtr-chr-fars-as-of-the-quarter-ending-september-30-2026/)** — `2026-11-23` | `18 Pages`
@@ -644,6 +647,9 @@ Canonical Authority Archive: [https://www.indexdata.org/philippines/commission-o
 - `[`PH-CHR-87965`]` **[RFQ 2026-10-120 – Supply and Delivery of Various Inks (HP)](https://www.indexdata.org/rfq-2026-10-120-supply-and-delivery-of-various-inks-hp/)** — `2026-10-02` | `5 Pages`
 - `[`PH-CHR-87929`]` **[Indicative APP FY 2027 – RO 10 1](https://www.indexdata.org/indicative-app-fy-2027-ro-10-1/)** — `2026-09-30` | `3 Pages`
 - `[`PH-CHR-87924`]` **[APP-CSE 2027 – RO 12](https://www.indexdata.org/app-cse-2027-ro-12/)** — `2026-09-30` | `9 Pages`
+- `[`PH-CHR-87912`]` **[CHR (VI) No.POL2026-012](https://www.indexdata.org/chr-vi-no-pol2026-012/)** — `2026-09-30` | `43 Pages`
+- `[`PH-CHR-87910`]` **[Indicative APP FY 2027 – RO NCR 1](https://www.indexdata.org/indicative-app-fy-2027-ro-ncr-1/)** — `2026-09-30` | `2 Pages`
+- `[`PH-CHR-87905`]` **[Indicative APP FY 2027 – RO 12(1)](https://www.indexdata.org/indicative-app-fy-2027-ro-121/)** — `2026-09-30` | `3 Pages`
 
 ### [Government Procurement Policy Board](https://www.indexdata.org/philippines/government-procurement-policy-board/)
 Canonical Authority Archive: [https://www.indexdata.org/philippines/government-procurement-policy-board/](https://www.indexdata.org/philippines/government-procurement-policy-board/) | [RSS Feed](https://www.indexdata.org/philippines/government-procurement-policy-board/feed/)
